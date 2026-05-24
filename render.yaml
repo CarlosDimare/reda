@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: reda
-    env: node
-    buildCommand: corepack enable && pnpm install && pnpm run build
-    startCommand: node --enable-source-maps ./artifacts/api-server/dist/index.mjs
-    healthCheckPath: /api/healthz
