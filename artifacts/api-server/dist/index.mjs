@@ -45677,19 +45677,9 @@ app.use((0, import_cors.default)());
 app.use(import_express9.default.json());
 app.use(import_express9.default.urlencoded({ extended: true }));
 app.use("/api", routes_default);
-app.get("/", (_req, res) => {
-  res.json({
-    name: "REDA API",
-    version: "0.0.0",
-    endpoints: {
-      health: "/api/healthz",
-      chat: "/api/chat",
-      conversations: "/api/conversations",
-      acciones: "/api/acciones",
-      coberturas: "/api/coberturas",
-      redaccion: "/api/redaccion"
-    }
-  });
+app.use(import_express9.default.static("../web-terminal/dist/public"));
+app.get("*", (_req, res) => {
+  res.sendFile("index.html", { root: "../web-terminal/dist/public" });
 });
 var app_default = app;
 

@@ -31,19 +31,10 @@ app.use(express.urlencoded({ extended: true }));
 
 app.use("/api", router);
 
-app.get("/", (_req, res) => {
-  res.json({
-    name: "REDA API",
-    version: "0.0.0",
-    endpoints: {
-      health: "/api/healthz",
-      chat: "/api/chat",
-      conversations: "/api/conversations",
-      acciones: "/api/acciones",
-      coberturas: "/api/coberturas",
-      redaccion: "/api/redaccion",
-    },
-  });
+app.use(express.static("../web-terminal/dist/public"));
+
+app.get("*", (_req, res) => {
+  res.sendFile("index.html", { root: "../web-terminal/dist/public" });
 });
 
 export default app;

@@ -1,8 +1,11 @@
 # See https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files for more about ignoring files.
 
 # compiled output
-dist
+dist/
 !artifacts/api-server/dist/
+!artifacts/api-server/dist/**
+!artifacts/web-terminal/dist/
+!artifacts/web-terminal/dist/**
 tmp
 out-tsc
 *.tsbuildinfo
