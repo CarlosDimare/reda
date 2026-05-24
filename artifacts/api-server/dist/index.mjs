@@ -21749,16 +21749,16 @@ var require_parse = __commonJS({
       }
       return obj;
     };
-    var parseObject = function(chain, val, options, valuesParsed) {
+    var parseObject = function(chain2, val, options, valuesParsed) {
       var currentArrayLength = 0;
-      if (chain.length > 0 && chain[chain.length - 1] === "[]") {
-        var parentKey = chain.slice(0, -1).join("");
+      if (chain2.length > 0 && chain2[chain2.length - 1] === "[]") {
+        var parentKey = chain2.slice(0, -1).join("");
         currentArrayLength = Array.isArray(val) && val[parentKey] ? val[parentKey].length : 0;
       }
       var leaf = valuesParsed ? val : parseArrayValue(val, options, currentArrayLength);
-      for (var i = chain.length - 1; i >= 0; --i) {
+      for (var i = chain2.length - 1; i >= 0; --i) {
         var obj;
-        var root = chain[i];
+        var root = chain2[i];
         if (root === "[]" && options.parseArrays) {
           if (utils.isOverflow(leaf)) {
             obj = leaf;
@@ -48177,34 +48177,32 @@ var accionesTable = pgTable("acciones_colectivas", {
 var { Pool: Pool3 } = esm_default;
 var pool = null;
 var db;
+function chain(result = []) {
+  return {
+    then: (resolve4) => resolve4(result),
+    catch: () => {
+    },
+    finally: () => {
+    },
+    select: () => chain(result),
+    insert: () => chain(result),
+    update: () => chain(result),
+    delete: () => chain(result),
+    from: () => chain(result),
+    where: () => chain(result),
+    orderBy: () => chain(result),
+    limit: () => chain(result),
+    offset: () => chain(result),
+    values: () => chain(result),
+    set: () => chain(result),
+    returning: () => Promise.resolve(result)
+  };
+}
 if (process.env.DATABASE_URL) {
   pool = new Pool3({ connectionString: process.env.DATABASE_URL });
   db = drizzle(pool, { schema: schema_exports });
 } else {
-  const chain = (result = []) => new Proxy(
-    {},
-    {
-      get(_, prop) {
-        if (prop === "then" || prop === "catch") return;
-        if (prop === "returning")
-          return (fields) => Promise.resolve(result);
-        if (prop === "where") return () => Promise.resolve(result);
-        if (prop === "set") return () => chain(result);
-        if (prop === "values") return (data) => chain(result);
-        if (prop === "limit") return () => Promise.resolve(result);
-        if (prop === "orderBy") return () => chain(result);
-        if (prop === "from") return () => chain(result);
-        if (prop === "insert") return (table) => chain(result);
-        if (prop === "select") return (fields) => chain(result);
-        if (prop === "update") return (table) => chain(result);
-        if (prop === "delete") return (table) => chain(result);
-        if (prop === "eq") return () => true;
-        return (...args) => chain(result);
-      }
-    }
-  );
   db = chain([]);
-  console.log("[DB Mock] Using in-memory mock database (no DATABASE_URL set)");
 }
 
 // src/routes/chat.ts
