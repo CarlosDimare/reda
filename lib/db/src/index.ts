@@ -23,7 +23,7 @@ function chain(result: any = []) {
     offset: () => chain(result),
     values: () => chain(result),
     set: () => chain(result),
-    returning: () => Promise.resolve(result),
+    returning: () => Promise.resolve(result.length ? result : [{ id: 1 }]),
   };
 }
 

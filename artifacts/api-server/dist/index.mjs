@@ -48195,7 +48195,7 @@ function chain(result = []) {
     offset: () => chain(result),
     values: () => chain(result),
     set: () => chain(result),
-    returning: () => Promise.resolve(result)
+    returning: () => Promise.resolve(result.length ? result : [{ id: 1 }])
   };
 }
 if (process.env.DATABASE_URL) {
