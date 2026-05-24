@@ -45677,9 +45677,10 @@ app.use((0, import_cors.default)());
 app.use(import_express9.default.json());
 app.use(import_express9.default.urlencoded({ extended: true }));
 app.use("/api", routes_default);
-app.use(import_express9.default.static("../web-terminal/dist/public"));
+var publicDir = new URL("../../web-terminal/dist/public", import.meta.url).pathname;
+app.use(import_express9.default.static(publicDir));
 app.get("/{*path}", (_req, res) => {
-  res.sendFile("index.html", { root: "../web-terminal/dist/public" });
+  res.sendFile("index.html", { root: publicDir });
 });
 var app_default = app;
 

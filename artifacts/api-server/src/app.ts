@@ -31,10 +31,13 @@ app.use(express.urlencoded({ extended: true }));
 
 app.use("/api", router);
 
-app.use(express.static("../web-terminal/dist/public"));
+const publicDir = new URL("../../web-terminal/dist/public", import.meta.url)
+  .pathname;
+
+app.use(express.static(publicDir));
 
 app.get("/{*path}", (_req, res) => {
-  res.sendFile("index.html", { root: "../web-terminal/dist/public" });
+  res.sendFile("index.html", { root: publicDir });
 });
 
 export default app;
