@@ -33,7 +33,7 @@ app.use("/api", router);
 
 app.use(express.static("../web-terminal/dist/public"));
 
-app.get("*", (_req, res) => {
+app.get("/{*path}", (_req, res) => {
   res.sendFile("index.html", { root: "../web-terminal/dist/public" });
 });
 

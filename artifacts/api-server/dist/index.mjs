@@ -45678,7 +45678,7 @@ app.use(import_express9.default.json());
 app.use(import_express9.default.urlencoded({ extended: true }));
 app.use("/api", routes_default);
 app.use(import_express9.default.static("../web-terminal/dist/public"));
-app.get("*", (_req, res) => {
+app.get("/{*path}", (_req, res) => {
   res.sendFile("index.html", { root: "../web-terminal/dist/public" });
 });
 var app_default = app;
