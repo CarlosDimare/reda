@@ -49354,55 +49354,8 @@ Busc\xE1 acciones colectivas RECIENTES para esta secci\xF3n: ${agent.label}`;
       clearTimeout(killTimer);
       logger.warn(
         { agent: agent.id, error: err.message },
-        "Agent spawn failed \u2014 using fallback"
+        "Agent spawn failed \u2014 close handler will use fallback"
       );
-      const normalized = fallbackData(agent.id).map(normalize);
-      (async () => {
-        try {
-          await db.delete(accionesTable).where(eq(accionesTable.seccion, agent.id));
-          for (const a of normalized) {
-            const values = {
-              seccion: agent.id,
-              pais: a.pais || "",
-              bandera: a.bandera || "",
-              hora: a.hora || "",
-              fecha: a.fecha || "",
-              lugar: a.lugar || "",
-              tipoAccion: a.tipo_accion || "",
-              organizaciones: a.organizaciones || [],
-              motivo: a.motivo || "",
-              status: a.status || "programado",
-              lat: a.lat != null ? String(a.lat) : null,
-              lng: a.lng != null ? String(a.lng) : null,
-              fuentes: (a.fuentes || []).map((f) => ({
-                nombre: f.nombre || "",
-                url: f.url || ""
-              }))
-            };
-            await db.insert(accionesTable).values(values);
-          }
-          const allRows = await globalThis.__mock_store?.acciones_colectivas;
-          if (allRows) saveAcciones(allRows);
-          const t = (/* @__PURE__ */ new Date()).toLocaleTimeString("es-AR");
-          pushActivity({
-            agentId: agent.id,
-            agentLabel: agent.label,
-            time: t,
-            msg: `${normalized.length} acciones publicadas (respaldo)`,
-            type: "done"
-          });
-          resolve7({ ok: true, count: normalized.length });
-        } catch (e2) {
-          pushActivity({
-            agentId: agent.id,
-            agentLabel: agent.label,
-            time: (/* @__PURE__ */ new Date()).toLocaleTimeString("es-AR"),
-            msg: `Error: ${e2.message.slice(0, 60)}`,
-            type: "error"
-          });
-          resolve7({ ok: false, count: 0, error: e2.message });
-        }
-      })();
     });
   });
 }
