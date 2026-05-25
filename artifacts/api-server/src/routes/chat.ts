@@ -9,8 +9,22 @@ import { eq } from "drizzle-orm";
 
 // Prefer the local node_modules binary so it works in production deployments too
 const __dir = dirname(fileURLToPath(import.meta.url));
-const LOCAL_BIN = resolve(__dir, "../../node_modules/.bin/opencode");
-const OPENCODE = existsSync(LOCAL_BIN) ? LOCAL_BIN : "opencode";
+function findOpenCode(): string {
+  const candidates = [
+    resolve(__dir, "../../../node_modules/.bin/opencode"),
+    resolve(__dir, "../../../node_modules/.bin/opencode.cmd"),
+    resolve(__dir, "../../../node_modules/opencode-ai/bin/opencode.exe"),
+    resolve(process.cwd(), "node_modules/.bin/opencode"),
+    resolve(process.cwd(), "node_modules/.bin/opencode.cmd"),
+    resolve(process.cwd(), "node_modules/opencode-ai/bin/opencode.exe"),
+    "opencode",
+  ];
+  for (const c of candidates) {
+    if (existsSync(c)) return c;
+  }
+  return "opencode";
+}
+const OPENCODE = findOpenCode();
 
 const router = Router();
 
@@ -45,7 +59,11 @@ function sse(obj: Record<string, unknown>): string {
   return `data: ${JSON.stringify(obj)}\n\n`;
 }
 
-function buildMessage(message: string, isNewSession: boolean, charlaMode: boolean): string {
+function buildMessage(
+  message: string,
+  isNewSession: boolean,
+  charlaMode: boolean,
+): string {
   const now = new Date().toLocaleString("es-AR", {
     timeZone: "America/Argentina/Buenos_Aires",
     dateStyle: "full",
@@ -72,7 +90,11 @@ router.post("/chat", async (req: Request, res: Response) => {
   }
 
   const isNewSession = !session_id;
-  const fullMessage = buildMessage(message.trim(), isNewSession, charla_mode === true);
+  const fullMessage = buildMessage(
+    message.trim(),
+    isNewSession,
+    charla_mode === true,
+  );
 
   /* ── DB: save / resolve conversation ── */
   let convId = conversation_id ? Number(conversation_id) : null;
@@ -80,7 +102,10 @@ router.post("/chat", async (req: Request, res: Response) => {
     if (!convId) {
       const [conv] = await db
         .insert(conversationsTable)
-        .values({ title: message.trim().slice(0, 60), sessionId: session_id || null })
+        .values({
+          title: message.trim().slice(0, 60),
+          sessionId: session_id || null,
+        })
         .returning({ id: conversationsTable.id });
       convId = conv.id;
     } else {
@@ -91,7 +116,11 @@ router.post("/chat", async (req: Request, res: Response) => {
     }
     await db
       .insert(messagesTable)
-      .values({ conversationId: convId, role: "user", content: message.trim() });
+      .values({
+        conversationId: convId,
+        role: "user",
+        content: message.trim(),
+      });
   } catch (err) {
     res.status(500).json({ error: "DB error: " + String(err) });
     return;
@@ -115,7 +144,9 @@ router.post("/chat", async (req: Request, res: Response) => {
   try {
     proc = spawn(OPENCODE, args, { stdio: ["ignore", "pipe", "pipe"] });
   } catch (err: unknown) {
-    res.write(sse({ type: "error", message: "opencode not found: " + String(err) }));
+    res.write(
+      sse({ type: "error", message: "opencode not found: " + String(err) }),
+    );
     res.end();
     return;
   }
@@ -129,8 +160,11 @@ router.post("/chat", async (req: Request, res: Response) => {
       const line = raw.trim();
       if (!line) continue;
       let event: Record<string, unknown>;
-      try { event = JSON.parse(line) as Record<string, unknown>; }
-      catch { continue; }
+      try {
+        event = JSON.parse(line) as Record<string, unknown>;
+      } catch {
+        continue;
+      }
 
       const evType = event["type"] as string;
 
@@ -164,7 +198,9 @@ router.post("/chat", async (req: Request, res: Response) => {
           edit: "Redactando...",
           bash: "Ejecutando...",
         };
-        res.write(sse({ type: "status", status: label[tool] || "Procesando..." }));
+        res.write(
+          sse({ type: "status", status: label[tool] || "Procesando..." }),
+        );
         continue;
       }
 
@@ -181,18 +217,26 @@ router.post("/chat", async (req: Request, res: Response) => {
 
   let stderrBuf = "";
   proc.stderr!.setEncoding("utf8");
-  proc.stderr!.on("data", (d: string) => { stderrBuf += d; });
+  proc.stderr!.on("data", (d: string) => {
+    stderrBuf += d;
+  });
 
   proc.on("close", async (code: number | null) => {
     if (code !== 0 && stderrBuf.trim()) {
-      res.write(sse({ type: "error", message: stderrBuf.trim().slice(0, 400) }));
+      res.write(
+        sse({ type: "error", message: stderrBuf.trim().slice(0, 400) }),
+      );
     }
     // Save bot response to DB
     if (botContent.trim()) {
       try {
         await db
           .insert(messagesTable)
-          .values({ conversationId: convId!, role: "bot", content: botContent.trim() });
+          .values({
+            conversationId: convId!,
+            role: "bot",
+            content: botContent.trim(),
+          });
       } catch {}
     }
     res.write(sse({ type: "done" }));
@@ -204,7 +248,11 @@ router.post("/chat", async (req: Request, res: Response) => {
     res.end();
   });
 
-  res.on("close", () => { try { proc.kill(); } catch {} });
+  res.on("close", () => {
+    try {
+      proc.kill();
+    } catch {}
+  });
 });
 
 export default router;

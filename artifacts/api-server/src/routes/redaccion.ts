@@ -9,8 +9,22 @@ import { eq } from "drizzle-orm";
 import { getActivity, clearActivity } from "../agents/activity";
 
 const __dir = dirname(fileURLToPath(import.meta.url));
-const LOCAL_BIN = resolve(__dir, "../../node_modules/.bin/opencode");
-const OPENCODE = existsSync(LOCAL_BIN) ? LOCAL_BIN : "opencode";
+function findOpenCode(): string {
+  const candidates = [
+    resolve(__dir, "../../../node_modules/.bin/opencode"),
+    resolve(__dir, "../../../node_modules/.bin/opencode.cmd"),
+    resolve(__dir, "../../../node_modules/opencode-ai/bin/opencode.exe"),
+    resolve(process.cwd(), "node_modules/.bin/opencode"),
+    resolve(process.cwd(), "node_modules/.bin/opencode.cmd"),
+    resolve(process.cwd(), "node_modules/opencode-ai/bin/opencode.exe"),
+    "opencode",
+  ];
+  for (const c of candidates) {
+    if (existsSync(c)) return c;
+  }
+  return "opencode";
+}
+const OPENCODE = findOpenCode();
 
 const router = Router();
 
@@ -113,25 +127,41 @@ router.post("/redaccion/sembrar", async (_req: Request, res: Response) => {
     const defaults = [
       {
         nombre: "Corresponsal Internacional",
-        tareas: ["Seguir conflictos activos", "Reportar cumbres diplomáticas", "Analizar geopolítica"],
+        tareas: [
+          "Seguir conflictos activos",
+          "Reportar cumbres diplomáticas",
+          "Analizar geopolítica",
+        ],
         agenteId: "internacionales",
         activo: 1,
       },
       {
         nombre: "Cronista Argentina",
-        tareas: ["Cubrir protestas sociales", "Investigar medidas de gobierno", "Documentar movimientos sindicales"],
+        tareas: [
+          "Cubrir protestas sociales",
+          "Investigar medidas de gobierno",
+          "Documentar movimientos sindicales",
+        ],
         agenteId: "protestas_ar",
         activo: 1,
       },
       {
         nombre: "Editor de Datos",
-        tareas: ["Verificar cifras", "Cruzar fuentes estadísticas", "Preparar infografías"],
+        tareas: [
+          "Verificar cifras",
+          "Cruzar fuentes estadísticas",
+          "Preparar infografías",
+        ],
         agenteId: null,
         activo: 1,
       },
       {
         nombre: "Reportero de Campo",
-        tareas: ["Entrevistas en terreno", "Cobertura de eventos", "Material audiovisual"],
+        tareas: [
+          "Entrevistas en terreno",
+          "Cobertura de eventos",
+          "Material audiovisual",
+        ],
         agenteId: null,
         activo: 1,
       },
@@ -181,9 +211,10 @@ router.post("/redaccion/ejecutar/:id", async (req: Request, res: Response) => {
     }
 
     const { tareaIndice } = req.body as { tareaIndice?: number };
-    const tasks = tareaIndice !== undefined && agent.tareas[tareaIndice]
-      ? [agent.tareas[tareaIndice]]
-      : agent.tareas;
+    const tasks =
+      tareaIndice !== undefined && agent.tareas[tareaIndice]
+        ? [agent.tareas[tareaIndice]]
+        : agent.tareas;
 
     const promptText = tasks.join(". ");
 
@@ -247,13 +278,18 @@ Instrucciones:
     });
 
     proc.stderr!.setEncoding("utf8");
-    proc.stderr!.on("data", (d: string) => { stderrBuf += d; });
+    proc.stderr!.on("data", (d: string) => {
+      stderrBuf += d;
+    });
 
     proc.on("close", async (code) => {
       clearTimeout(killTimer);
 
       if (code !== 0 && stderrBuf.trim()) {
-        console.error("Ejecutar agente stderr:", stderrBuf.trim().slice(0, 200));
+        console.error(
+          "Ejecutar agente stderr:",
+          stderrBuf.trim().slice(0, 200),
+        );
       }
 
       if (botText.trim()) {
@@ -269,7 +305,9 @@ Instrucciones:
             })
             .returning();
           sendEvent("cobertura", { id: row.id, titulo: row.titulo });
-          sendEvent("text", { text: `\n\n---\n✅ Nota publicada en Coberturas: "${titulo}"` });
+          sendEvent("text", {
+            text: `\n\n---\n✅ Nota publicada en Coberturas: "${titulo}"`,
+          });
         } catch (err) {
           sendEvent("error", { message: "Error al guardar la cobertura" });
         }
@@ -316,7 +354,10 @@ function jefeSystemMsg(): { role: "system"; content: string } {
     dateStyle: "full",
     timeStyle: "short",
   });
-  return { role: "system", content: `${JEFE_SYSTEM}\n\nMomento actual: ${now}\nUbicación: Redacción CD, Buenos Aires, Argentina${JEFE_EDITOR_NOTE}` };
+  return {
+    role: "system",
+    content: `${JEFE_SYSTEM}\n\nMomento actual: ${now}\nUbicación: Redacción CD, Buenos Aires, Argentina${JEFE_EDITOR_NOTE}`,
+  };
 }
 
 // POST /api/redaccion/jefe
@@ -387,7 +428,9 @@ router.post("/redaccion/jefe", (req: Request, res: Response) => {
   });
 
   proc.stderr!.setEncoding("utf8");
-  proc.stderr!.on("data", (d: string) => { stderrBuf += d; });
+  proc.stderr!.on("data", (d: string) => {
+    stderrBuf += d;
+  });
 
   proc.on("close", (code) => {
     clearTimeout(killTimer);

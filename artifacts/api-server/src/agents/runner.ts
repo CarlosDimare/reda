@@ -9,8 +9,22 @@ import { pushActivity } from "./activity";
 import type { AgentConfig } from "./prompts";
 
 const __dir = dirname(fileURLToPath(import.meta.url));
-const LOCAL_BIN = resolve(__dir, "../../node_modules/.bin/opencode");
-const OPENCODE = existsSync(LOCAL_BIN) ? LOCAL_BIN : "opencode";
+function findOpenCode(): string {
+  const candidates = [
+    resolve(__dir, "../../../node_modules/.bin/opencode"),
+    resolve(__dir, "../../../node_modules/.bin/opencode.cmd"),
+    resolve(__dir, "../../../node_modules/opencode-ai/bin/opencode.exe"),
+    resolve(process.cwd(), "node_modules/.bin/opencode"),
+    resolve(process.cwd(), "node_modules/.bin/opencode.cmd"),
+    resolve(process.cwd(), "node_modules/opencode-ai/bin/opencode.exe"),
+    "opencode",
+  ];
+  for (const c of candidates) {
+    if (existsSync(c)) return c;
+  }
+  return "opencode";
+}
+const OPENCODE = findOpenCode();
 
 interface AccionRaw {
   pais?: string;
@@ -66,30 +80,46 @@ function normalize(accion: AccionRaw): AccionRaw {
     tipo_accion: accion.tipo_accion || "otra",
     organizaciones: accion.organizaciones?.filter(Boolean) || [],
     motivo: accion.motivo || "—",
-    status: (accion.status === "programado" || accion.status === "en_curso" || accion.status === "finalizado")
-      ? accion.status : "programado",
+    status:
+      accion.status === "programado" ||
+      accion.status === "en_curso" ||
+      accion.status === "finalizado"
+        ? accion.status
+        : "programado",
     lat: accion.lat ?? null,
     lng: accion.lng ?? null,
-    fuentes: accion.fuentes?.filter(f => f?.nombre || f?.url) || [],
+    fuentes: accion.fuentes?.filter((f) => f?.nombre || f?.url) || [],
   };
 }
 
-export async function runAgent(agent: AgentConfig): Promise<{ ok: boolean; count: number; error?: string }> {
+export async function runAgent(
+  agent: AgentConfig,
+): Promise<{ ok: boolean; count: number; error?: string }> {
   const now = new Date();
   const today = now.toLocaleDateString("es-AR", {
     timeZone: "America/Argentina/Buenos_Aires",
-    weekday: "long", year: "numeric", month: "long", day: "numeric",
+    weekday: "long",
+    year: "numeric",
+    month: "long",
+    day: "numeric",
   });
   const todayISO = now.toISOString().slice(0, 10);
   const hora = now.toLocaleTimeString("es-AR", {
     timeZone: "America/Argentina/Buenos_Aires",
-    hour: "2-digit", minute: "2-digit",
+    hour: "2-digit",
+    minute: "2-digit",
   });
   const fullPrompt = `HOY es ${today} (${todayISO}). ${hora} hs Argentina.\n\nBuscá SOLO acciones colectivas que estén ocurriendo HOY ${todayISO}.\n\n${agent.systemPrompt}\n\nBuscá acciones colectivas RECIENTES para esta sección: ${agent.label}`;
   const args = ["run", "--format", "json", fullPrompt];
 
   logger.info({ agent: agent.id }, "Agent starting");
-  pushActivity({ agentId: agent.id, agentLabel: agent.label, time: new Date().toLocaleTimeString("es-AR"), msg: "Iniciando búsqueda...", type: "step" });
+  pushActivity({
+    agentId: agent.id,
+    agentLabel: agent.label,
+    time: new Date().toLocaleTimeString("es-AR"),
+    msg: "Iniciando búsqueda...",
+    type: "step",
+  });
 
   return new Promise((resolve) => {
     const proc = spawn(OPENCODE, args, {
@@ -98,7 +128,13 @@ export async function runAgent(agent: AgentConfig): Promise<{ ok: boolean; count
 
     const killTimer = setTimeout(() => {
       proc.kill("SIGKILL");
-      pushActivity({ agentId: agent.id, agentLabel: agent.label, time: new Date().toLocaleTimeString("es-AR"), msg: "TimeOut — no respondió en 90s", type: "error" });
+      pushActivity({
+        agentId: agent.id,
+        agentLabel: agent.label,
+        time: new Date().toLocaleTimeString("es-AR"),
+        msg: "TimeOut — no respondió en 90s",
+        type: "error",
+      });
       logger.warn({ agent: agent.id }, "Agent timed out after 90s");
     }, 90_000);
 
@@ -116,7 +152,13 @@ export async function runAgent(agent: AgentConfig): Promise<{ ok: boolean; count
           const part = (event["part"] ?? {}) as Record<string, unknown>;
 
           if (evType === "step_start") {
-            pushActivity({ agentId: agent.id, agentLabel: agent.label, time: new Date().toLocaleTimeString("es-AR"), msg: "Pensando...", type: "step" });
+            pushActivity({
+              agentId: agent.id,
+              agentLabel: agent.label,
+              time: new Date().toLocaleTimeString("es-AR"),
+              msg: "Pensando...",
+              type: "step",
+            });
             continue;
           }
 
@@ -128,7 +170,13 @@ export async function runAgent(agent: AgentConfig): Promise<{ ok: boolean; count
               read: "Leyendo documento...",
               read_file: "Leyendo documento...",
             };
-            pushActivity({ agentId: agent.id, agentLabel: agent.label, time: new Date().toLocaleTimeString("es-AR"), msg: label[tool] || `Ejecutando: ${tool}...`, type: "tool" });
+            pushActivity({
+              agentId: agent.id,
+              agentLabel: agent.label,
+              time: new Date().toLocaleTimeString("es-AR"),
+              msg: label[tool] || `Ejecutando: ${tool}...`,
+              type: "tool",
+            });
             continue;
           }
 
@@ -140,7 +188,9 @@ export async function runAgent(agent: AgentConfig): Promise<{ ok: boolean; count
     });
 
     proc.stderr!.setEncoding("utf8");
-    proc.stderr!.on("data", (d: string) => { stderrBuf += d; });
+    proc.stderr!.on("data", (d: string) => {
+      stderrBuf += d;
+    });
 
     proc.on("close", async (code) => {
       clearTimeout(killTimer);
@@ -148,17 +198,43 @@ export async function runAgent(agent: AgentConfig): Promise<{ ok: boolean; count
       const t = new Date().toLocaleTimeString("es-AR");
 
       if (code !== 0 && stderrBuf.trim()) {
-        pushActivity({ agentId: agent.id, agentLabel: agent.label, time: t, msg: "Error en ejecución", type: "error" });
-        logger.error({ agent: agent.id, stderr: stderrBuf.trim().slice(0, 300) }, "Agent error");
+        pushActivity({
+          agentId: agent.id,
+          agentLabel: agent.label,
+          time: t,
+          msg: "Error en ejecución",
+          type: "error",
+        });
+        logger.error(
+          { agent: agent.id, stderr: stderrBuf.trim().slice(0, 300) },
+          "Agent error",
+        );
       }
 
       const raw = extractJSON(botText);
       if (raw.length === 0) {
         console.error("=== RAW BOT TEXT ===", botText.slice(0, 2000));
         console.error("=== STDERR ===", stderrBuf.trim().slice(0, 1000));
-        pushActivity({ agentId: agent.id, agentLabel: agent.label, time: t, msg: "No se encontraron acciones", type: "done" });
-        logger.warn({ agent: agent.id, text: botText.slice(0, 200), stderr: stderrBuf.trim().slice(0, 300) }, "Agent returned no parseable data");
-        resolve({ ok: false, count: 0, error: "No se pudo extraer JSON de la respuesta" });
+        pushActivity({
+          agentId: agent.id,
+          agentLabel: agent.label,
+          time: t,
+          msg: "No se encontraron acciones",
+          type: "done",
+        });
+        logger.warn(
+          {
+            agent: agent.id,
+            text: botText.slice(0, 200),
+            stderr: stderrBuf.trim().slice(0, 300),
+          },
+          "Agent returned no parseable data",
+        );
+        resolve({
+          ok: false,
+          count: 0,
+          error: "No se pudo extraer JSON de la respuesta",
+        });
         return;
       }
 
@@ -166,7 +242,9 @@ export async function runAgent(agent: AgentConfig): Promise<{ ok: boolean; count
 
       try {
         // Replace old data for this section
-        await db.delete(accionesTable).where(eq(accionesTable.seccion, agent.id));
+        await db
+          .delete(accionesTable)
+          .where(eq(accionesTable.seccion, agent.id));
 
         for (const a of normalized) {
           const values: typeof accionesTable.$inferInsert = {
@@ -182,17 +260,35 @@ export async function runAgent(agent: AgentConfig): Promise<{ ok: boolean; count
             status: a.status || "programado",
             lat: a.lat != null ? String(a.lat) : null,
             lng: a.lng != null ? String(a.lng) : null,
-            fuentes: (a.fuentes || []).map((f) => ({ nombre: f.nombre || "", url: f.url || "" })),
+            fuentes: (a.fuentes || []).map((f) => ({
+              nombre: f.nombre || "",
+              url: f.url || "",
+            })),
           };
           await db.insert(accionesTable).values(values);
         }
 
-        pushActivity({ agentId: agent.id, agentLabel: agent.label, time: t, msg: `${normalized.length} acciones publicadas`, type: "done" });
-        logger.info({ agent: agent.id, count: normalized.length }, "Agent completed");
+        pushActivity({
+          agentId: agent.id,
+          agentLabel: agent.label,
+          time: t,
+          msg: `${normalized.length} acciones publicadas`,
+          type: "done",
+        });
+        logger.info(
+          { agent: agent.id, count: normalized.length },
+          "Agent completed",
+        );
         resolve({ ok: true, count: normalized.length });
       } catch (err) {
         const msg = err instanceof Error ? err.message : String(err);
-        pushActivity({ agentId: agent.id, agentLabel: agent.label, time: t, msg: `Error DB: ${msg.slice(0, 60)}`, type: "error" });
+        pushActivity({
+          agentId: agent.id,
+          agentLabel: agent.label,
+          time: t,
+          msg: `Error DB: ${msg.slice(0, 60)}`,
+          type: "error",
+        });
         logger.error({ agent: agent.id, error: msg }, "Agent DB error");
         resolve({ ok: false, count: 0, error: msg });
       }
@@ -200,8 +296,17 @@ export async function runAgent(agent: AgentConfig): Promise<{ ok: boolean; count
 
     proc.on("error", (err) => {
       clearTimeout(killTimer);
-      pushActivity({ agentId: agent.id, agentLabel: agent.label, time: new Date().toLocaleTimeString("es-AR"), msg: `Error: ${err.message.slice(0, 60)}`, type: "error" });
-      logger.error({ agent: agent.id, error: err.message }, "Agent spawn error");
+      pushActivity({
+        agentId: agent.id,
+        agentLabel: agent.label,
+        time: new Date().toLocaleTimeString("es-AR"),
+        msg: `Error: ${err.message.slice(0, 60)}`,
+        type: "error",
+      });
+      logger.error(
+        { agent: agent.id, error: err.message },
+        "Agent spawn error",
+      );
       resolve({ ok: false, count: 0, error: err.message });
     });
   });

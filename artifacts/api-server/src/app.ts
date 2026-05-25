@@ -1,6 +1,8 @@
 import express, { type Express } from "express";
 import cors from "cors";
 import pinoHttp from "pino-http";
+import { fileURLToPath } from "url";
+import { resolve, dirname } from "path";
 import router from "./routes";
 import { logger } from "./lib/logger";
 
@@ -31,8 +33,8 @@ app.use(express.urlencoded({ extended: true }));
 
 app.use("/api", router);
 
-const publicDir = new URL("../../web-terminal/dist/public", import.meta.url)
-  .pathname;
+const __dirname = dirname(fileURLToPath(import.meta.url));
+const publicDir = resolve(__dirname, "../../web-terminal/dist/public");
 
 app.use(express.static(publicDir));
 
