@@ -1,5 +1,7 @@
 import { drizzle } from "drizzle-orm/node-postgres";
 import pg from "pg";
+import { existsSync, readFileSync } from "fs";
+import { resolve } from "path";
 import * as schema from "./schema";
 
 const { Pool } = pg;
@@ -269,7 +271,27 @@ class MockChain {
   }
 }
 
+function loadPersistedData(): {
+  acciones: any[];
+  coberturas: any[];
+} {
+  const accionesFile = resolve(process.cwd(), "data", "acciones.json");
+  const coberturasFile = resolve(process.cwd(), "data", "coberturas.json");
+  let acciones: any[] = [];
+  let coberturas: any[] = [];
+  try {
+    if (existsSync(accionesFile))
+      acciones = JSON.parse(readFileSync(accionesFile, "utf8"));
+  } catch {}
+  try {
+    if (existsSync(coberturasFile))
+      coberturas = JSON.parse(readFileSync(coberturasFile, "utf8"));
+  } catch {}
+  return { acciones, coberturas };
+}
+
 function initMockStore() {
+  const persisted = loadPersistedData();
   const store: Record<string, any[]> = {};
   const now = new Date();
   store["redaccion_agentes"] = [
@@ -326,17 +348,27 @@ function initMockStore() {
       updatedAt: now,
     },
   ];
-  store["coberturas"] = [];
+  store["coberturas"] = persisted.coberturas.map((r: any, i: number) => ({
+    ...r,
+    createdAt: new Date(r.createdAt || now),
+    updatedAt: new Date(r.updatedAt || now),
+  }));
   store["conversations"] = [];
   store["messages"] = [];
-  store["acciones_colectivas"] = [];
+  store["acciones_colectivas"] = persisted.acciones.map(
+    (r: any, i: number) => ({
+      ...r,
+      createdAt: new Date(r.createdAt || now),
+      updatedAt: new Date(r.updatedAt || now),
+    }),
+  );
   (globalThis as any).__mock_store = store;
   (globalThis as any).__mock_seq = {
     redaccion_agentes: 4,
-    coberturas: 0,
+    coberturas: persisted.coberturas.length,
     conversations: 0,
     messages: 0,
-    acciones_colectivas: 0,
+    acciones_colectivas: persisted.acciones.length,
   };
 }
 

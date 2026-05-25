@@ -5,6 +5,7 @@ import { resolve, dirname } from "path";
 import { existsSync } from "fs";
 import { fileURLToPath } from "url";
 import { db, redaccionAgentesTable, coberturasTable } from "@workspace/db";
+import { saveCoberturas } from "../agents/persist";
 import { eq } from "drizzle-orm";
 import { getActivity, clearActivity } from "../agents/activity";
 
@@ -308,6 +309,8 @@ Instrucciones:
           sendEvent("text", {
             text: `\n\n---\n✅ Nota publicada en Coberturas: "${titulo}"`,
           });
+          const allCoberturas = (globalThis as any).__mock_store?.coberturas;
+          if (allCoberturas) saveCoberturas(allCoberturas);
         } catch (err) {
           sendEvent("error", { message: "Error al guardar la cobertura" });
         }
@@ -327,135 +330,6 @@ Instrucciones:
   } catch (err) {
     return res.status(500).json({ error: String(err) });
   }
-});
-
-/* ── Jefe Editor chat ─────────────────────────────────────────── */
-
-const JEFE_SYSTEM = `Eres el Jefe Editor de la redacción de "CD" (Corresponsal Digital), un medio independiente con base en Buenos Aires, Argentina.
-
-Tu rol: Coordinás un equipo de reporteros que cubren protestas, conflictos y acciones colectivas en Argentina y el mundo. Asignás tareas, revisás cobertura, definís ángulos editoriales y resolvés dudas del equipo.
-
-Contexto actual:
-- Fecha: la que se indica abajo.
-- La redacción opera en Argentina (huso horario -03:00).
-- Tu equipo incluye corresponsales en terreno y agentes automatizados de monitoreo.
-- Las fuentes deben ser chequeadas y verificables.
-- El tono es serio, directo, sin adjetivos innecesarios. Priorizamos datos sobre opinión.
-
-Respondé con claridad y firmeza, como un jefe de redacción experimentado. Usá el mismo formato que el asistente principal (::: cifra, [fuentes](url), etc.) cuando incluyas datos concretos.`;
-
-const JEFE_EDITOR_NOTE = `\n\nIMPORTANTE: Hoy sos Jefe Editor. Respondé como tal. Si te consultan sobre cobertura, definí prioridades. Si te piden revisar una nota, señalá problemas de enfoque o fuentes. Si preguntan por la línea editorial, defendela con argumentos. No te salgas del personaje.`;
-
-let jefeHistory: { role: "user" | "assistant"; content: string }[] = [];
-
-function jefeSystemMsg(): { role: "system"; content: string } {
-  const now = new Date().toLocaleString("es-AR", {
-    timeZone: "America/Argentina/Buenos_Aires",
-    dateStyle: "full",
-    timeStyle: "short",
-  });
-  return {
-    role: "system",
-    content: `${JEFE_SYSTEM}\n\nMomento actual: ${now}\nUbicación: Redacción CD, Buenos Aires, Argentina${JEFE_EDITOR_NOTE}`,
-  };
-}
-
-// POST /api/redaccion/jefe
-router.post("/redaccion/jefe", (req: Request, res: Response) => {
-  const { message } = req.body as { message?: string };
-  if (!message || !message.trim()) {
-    return res.status(400).json({ error: "message is required" });
-  }
-
-  res.writeHead(200, {
-    "Content-Type": "text/event-stream",
-    "Cache-Control": "no-cache",
-    Connection: "keep-alive",
-    "X-Accel-Buffering": "no",
-  });
-  res.flushHeaders();
-
-  const sendEvent = (type: string, data: Record<string, unknown>) => {
-    res.write(`data: ${JSON.stringify({ type, ...data })}\n\n`);
-  };
-
-  sendEvent("session", { session_id: "jefe-editor" });
-
-  jefeHistory.push({ role: "user", content: message });
-  if (jefeHistory.length > 20) {
-    jefeHistory = jefeHistory.slice(-20);
-  }
-
-  const msgHistory = jefeHistory.map((m) => ({
-    role: m.role,
-    content: m.content,
-  }));
-
-  const messages = [jefeSystemMsg(), ...msgHistory];
-  const prompt = JSON.stringify(messages);
-
-  const args = ["run", "--format", "json", prompt];
-  const proc = spawn(OPENCODE, args, {
-    stdio: ["ignore", "pipe", "pipe"],
-  });
-
-  let botText = "";
-  let stderrBuf = "";
-
-  const killTimer = setTimeout(() => {
-    proc.kill("SIGKILL");
-    sendEvent("error", { message: "El editor no respondió a tiempo (30s)" });
-    sendEvent("done", {});
-    res.end();
-  }, 30_000);
-
-  proc.stdout!.setEncoding("utf8");
-  proc.stdout!.on("data", (chunk: string) => {
-    for (const raw of chunk.split("\n")) {
-      const line = raw.trim();
-      if (!line) continue;
-      try {
-        const event = JSON.parse(line) as Record<string, unknown>;
-        const evType = event["type"] as string;
-        const part = (event["part"] ?? {}) as Record<string, unknown>;
-        if (evType === "text" && part["type"] === "text" && part["text"]) {
-          const text = part["text"] as string;
-          botText += text;
-          sendEvent("text", { text });
-        }
-      } catch {}
-    }
-  });
-
-  proc.stderr!.setEncoding("utf8");
-  proc.stderr!.on("data", (d: string) => {
-    stderrBuf += d;
-  });
-
-  proc.on("close", (code) => {
-    clearTimeout(killTimer);
-    if (code !== 0 && stderrBuf.trim()) {
-      console.error("Jefe editor stderr:", stderrBuf.trim().slice(0, 200));
-    }
-    if (botText.trim()) {
-      jefeHistory.push({ role: "assistant", content: botText });
-    }
-    sendEvent("done", {});
-    res.end();
-  });
-
-  proc.on("error", (err) => {
-    clearTimeout(killTimer);
-    sendEvent("error", { message: err.message });
-    sendEvent("done", {});
-    res.end();
-  });
-});
-
-// POST /api/redaccion/jefe/reset — clear jefe conversation
-router.post("/redaccion/jefe/reset", (_req: Request, res: Response) => {
-  jefeHistory = [];
-  return res.json({ ok: true });
 });
 
 export default router;
