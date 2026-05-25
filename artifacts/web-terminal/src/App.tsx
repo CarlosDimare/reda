@@ -24,11 +24,16 @@ function esc(s: string): string {
 /* ── Inline markdown (runs on already-escaped text EXCEPT for protected HTML) */
 function inlineEscaped(t: string): string {
   // images: ![alt](url) → thumbnail
-  t = t.replace(/!\[([^\]]*)\]\(([^)]+)\)/g,
-    (_, alt, url) => `<span class="md-img-wrap"><img src="${url}" alt="${alt}" class="md-thumb" loading="lazy" onerror="this.style.display='none'" /></span>`);
+  t = t.replace(
+    /!\[([^\]]*)\]\(([^)]+)\)/g,
+    (_, alt, url) =>
+      `<span class="md-img-wrap"><img src="${url}" alt="${alt}" class="md-thumb" loading="lazy" onerror="this.style.display='none'" /></span>`,
+  );
   // links: [text](url) → modal
-  t = t.replace(/\[([^\]]+)\]\(([^)]+)\)/g,
-    `<a href="#!" class="md-a md-link-modal" data-url="${'$2'}">${'$1'}</a>`);
+  t = t.replace(
+    /\[([^\]]+)\]\(([^)]+)\)/g,
+    `<a href="#!" class="md-a md-link-modal" data-url="${"$2"}">${"$1"}</a>`,
+  );
   // bold+italic ***
   t = t.replace(/\*\*\*([^*]+)\*\*\*/g, "<strong><em>$1</em></strong>");
   // bold **
@@ -42,22 +47,37 @@ function inlineEscaped(t: string): string {
   // highlight percentages
   t = t.replace(/(\d+(?:[.,]\d+)?\s*%)/g, '<span class="md-num">$1</span>');
   // highlight currency & large figures
-  t = t.replace(/([$]\d+(?:[.,]\d+)?(?:\s*(?:millones|billones|mil|M|B))?)/g, '<span class="md-num">$1</span>');
+  t = t.replace(
+    /([$]\d+(?:[.,]\d+)?(?:\s*(?:millones|billones|mil|M|B))?)/g,
+    '<span class="md-num">$1</span>',
+  );
   return t;
 }
 
 /* ── Table parser ──────────────────────────────────────────────── */
 function parseTableRow(row: string): string[] {
-  return row.split("|").map((c) => c.trim()).filter((_, i, a) => !(i === 0 && a[0] === "") && !(i === a.length - 1 && a[a.length - 1] === ""));
+  return row
+    .split("|")
+    .map((c) => c.trim())
+    .filter(
+      (_, i, a) =>
+        !(i === 0 && a[0] === "") &&
+        !(i === a.length - 1 && a[a.length - 1] === ""),
+    );
 }
 
 function renderTable(lines: string[]): string {
   const headers = parseTableRow(lines[0]);
   const rows = lines.slice(2).map(parseTableRow);
-  const ths = headers.map((h) => `<th class="md-th">${inlineEscaped(esc(h))}</th>`).join("");
-  const trs = rows.map((r) =>
-    `<tr>${r.map((c) => `<td class="md-td">${inlineEscaped(esc(c))}</td>`).join("")}</tr>`
-  ).join("");
+  const ths = headers
+    .map((h) => `<th class="md-th">${inlineEscaped(esc(h))}</th>`)
+    .join("");
+  const trs = rows
+    .map(
+      (r) =>
+        `<tr>${r.map((c) => `<td class="md-td">${inlineEscaped(esc(c))}</td>`).join("")}</tr>`,
+    )
+    .join("");
   return `<table class="md-table"><thead><tr>${ths}</tr></thead><tbody>${trs}</tbody></table>`;
 }
 
@@ -78,13 +98,19 @@ function md(raw: string): string {
         codeLines.push(lines[i]);
         i++;
       }
-      out.push(`<pre class="md-pre"><code class="md-code">${esc(codeLines.join("\n"))}</code></pre>`);
+      out.push(
+        `<pre class="md-pre"><code class="md-code">${esc(codeLines.join("\n"))}</code></pre>`,
+      );
       i++;
       continue;
     }
 
     // ── Table (line with | and next line is separator ---|--)
-    if (line.includes("|") && i + 1 < lines.length && /^[\s|:\-]+$/.test(lines[i + 1])) {
+    if (
+      line.includes("|") &&
+      i + 1 < lines.length &&
+      /^[\s|:\-]+$/.test(lines[i + 1])
+    ) {
       const tableLines = [line, lines[i + 1]];
       i += 2;
       while (i < lines.length && lines[i].includes("|")) {
@@ -128,7 +154,9 @@ function md(raw: string): string {
     // ── Image block
     const imgMatch = line.match(/^!\[([^\]]*)\]\(([^)]+)\)$/);
     if (imgMatch) {
-      out.push(`<span class="md-img-wrap"><img src="${esc(imgMatch[2])}" alt="${esc(imgMatch[1])}" class="md-thumb" loading="lazy" onerror="this.style.display='none'" /></span>`);
+      out.push(
+        `<span class="md-img-wrap"><img src="${esc(imgMatch[2])}" alt="${esc(imgMatch[1])}" class="md-thumb" loading="lazy" onerror="this.style.display='none'" /></span>`,
+      );
       i++;
       continue;
     }
@@ -138,11 +166,15 @@ function md(raw: string): string {
     if (vidMatch) {
       let url = vidMatch[2];
       if (vidMatch[1] === "YouTube") {
-        url = url.replace(/watch\?v=/, "embed/").replace(/youtu\.be\//, "youtube.com/embed/");
+        url = url
+          .replace(/watch\?v=/, "embed/")
+          .replace(/youtu\.be\//, "youtube.com/embed/");
       }
       // Only render if URL looks valid (starts with https://)
       if (/^https:\/\//.test(url)) {
-        out.push(`<div class="md-media md-video"><iframe src="${esc(url)}" frameborder="0" allowfullscreen loading="lazy" sandbox="allow-scripts allow-same-origin allow-presentation"></iframe></div>`);
+        out.push(
+          `<div class="md-media md-video"><iframe src="${esc(url)}" frameborder="0" allowfullscreen loading="lazy" sandbox="allow-scripts allow-same-origin allow-presentation"></iframe></div>`,
+        );
       }
       i++;
       continue;
@@ -150,7 +182,9 @@ function md(raw: string): string {
 
     // ── Blockquote
     if (line.startsWith("> ")) {
-      out.push(`<blockquote class="md-bq">${inlineEscaped(esc(line.slice(2)))}</blockquote>`);
+      out.push(
+        `<blockquote class="md-bq">${inlineEscaped(esc(line.slice(2)))}</blockquote>`,
+      );
       i++;
       continue;
     }
@@ -159,7 +193,9 @@ function md(raw: string): string {
     if (/^[-*] /.test(line)) {
       const items: string[] = [];
       while (i < lines.length && /^[-*] /.test(lines[i])) {
-        items.push(`<li class="md-li">${inlineEscaped(esc(lines[i].replace(/^[-*] /, "")))}</li>`);
+        items.push(
+          `<li class="md-li">${inlineEscaped(esc(lines[i].replace(/^[-*] /, "")))}</li>`,
+        );
         i++;
       }
       out.push(`<ul class="md-ul">${items.join("")}</ul>`);
@@ -170,7 +206,9 @@ function md(raw: string): string {
     if (/^\d+\. /.test(line)) {
       const items: string[] = [];
       while (i < lines.length && /^\d+\. /.test(lines[i])) {
-        items.push(`<li class="md-li">${inlineEscaped(esc(lines[i].replace(/^\d+\. /, "")))}</li>`);
+        items.push(
+          `<li class="md-li">${inlineEscaped(esc(lines[i].replace(/^\d+\. /, "")))}</li>`,
+        );
         i++;
       }
       out.push(`<ol class="md-ol">${items.join("")}</ol>`);
@@ -185,9 +223,13 @@ function md(raw: string): string {
       while (i < lines.length && /^<small>/.test(lines[i].trim())) {
         const raw2 = lines[i].trim();
         // <small>[text](url)</small>
-        const linkMatch = raw2.match(/^<small>\[([^\]]+)\]\(([^)]+)\)<\/small>$/);
+        const linkMatch = raw2.match(
+          /^<small>\[([^\]]+)\]\(([^)]+)\)<\/small>$/,
+        );
         if (linkMatch) {
-          citeItems.push(`<a href="#!" class="md-cite md-link-modal" data-url="${esc(linkMatch[2])}">${esc(linkMatch[1])}</a>`);
+          citeItems.push(
+            `<a href="#!" class="md-cite md-link-modal" data-url="${esc(linkMatch[2])}">${esc(linkMatch[1])}</a>`,
+          );
         } else {
           // <small>plain text</small>
           const textMatch = raw2.match(/^<small>(.*?)<\/small>$/s);
@@ -222,7 +264,11 @@ function md(raw: string): string {
       !/^!\[/.test(lines[i]) &&
       !/^@\[/.test(lines[i]) &&
       !/^<small>/.test(lines[i].trim()) &&
-      !(lines[i].includes("|") && i + 1 < lines.length && /^[\s|:\-]+$/.test(lines[i + 1]))
+      !(
+        lines[i].includes("|") &&
+        i + 1 < lines.length &&
+        /^[\s|:\-]+$/.test(lines[i + 1])
+      )
     ) {
       paraLines.push(lines[i]);
       i++;
@@ -241,27 +287,44 @@ function useClock(): string {
   const [time, setTime] = useState(() =>
     new Date().toLocaleString("es-AR", {
       timeZone: "America/Argentina/Buenos_Aires",
-      day: "2-digit", month: "2-digit", year: "numeric",
-      hour: "2-digit", minute: "2-digit", second: "2-digit",
+      day: "2-digit",
+      month: "2-digit",
+      year: "numeric",
+      hour: "2-digit",
+      minute: "2-digit",
+      second: "2-digit",
       hour12: false,
-    })
+    }),
   );
   useEffect(() => {
     const id = setInterval(() => {
-      setTime(new Date().toLocaleString("es-AR", {
-        timeZone: "America/Argentina/Buenos_Aires",
-        day: "2-digit", month: "2-digit", year: "numeric",
-        hour: "2-digit", minute: "2-digit", second: "2-digit",
-        hour12: false,
-      }));
+      setTime(
+        new Date().toLocaleString("es-AR", {
+          timeZone: "America/Argentina/Buenos_Aires",
+          day: "2-digit",
+          month: "2-digit",
+          year: "numeric",
+          hour: "2-digit",
+          minute: "2-digit",
+          second: "2-digit",
+          hour12: false,
+        }),
+      );
     }, 1000);
     return () => clearInterval(id);
   }, []);
   return time;
 }
 
-interface ChatMessage { role: "user" | "bot"; text: string; html?: string; }
-interface VoiceMessage { role: "user" | "bot"; text: string; }
+interface ChatMessage {
+  role: "user" | "bot";
+  text: string;
+  html?: string;
+}
+interface VoiceMessage {
+  role: "user" | "bot";
+  text: string;
+}
 type View = "terminal" | "chat" | "voz" | "portal" | "redaccion";
 
 interface ActivityEntry {
@@ -347,68 +410,81 @@ const STYLES = `
 
 /* ══════════════════════════════════════════════════════════════════ */
 export default function App() {
-  const [view, setView]       = useState<View>("chat");
+  const [view, setView] = useState<View>("chat");
   const [menuOpen, setMenuOpen] = useState(false);
-  const clock                 = useClock();
+  const clock = useClock();
 
   /* terminal */
-  const terminalRef          = useRef<HTMLDivElement>(null);
-  const termRef              = useRef<Terminal | null>(null);
-  const fitAddonRef          = useRef<FitAddon | null>(null);
-  const wsRef                = useRef<WebSocket | null>(null);
-  const reconnTimerRef       = useRef<ReturnType<typeof setTimeout> | null>(null);
-  const reconnAttempts       = useRef(0);
+  const terminalRef = useRef<HTMLDivElement>(null);
+  const termRef = useRef<Terminal | null>(null);
+  const fitAddonRef = useRef<FitAddon | null>(null);
+  const wsRef = useRef<WebSocket | null>(null);
+  const reconnTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const reconnAttempts = useRef(0);
 
   /* chat */
-  const [messages, setMessages]   = useState<ChatMessage[]>([]);
-  const [input, setInput]         = useState("");
-  const [busy, setBusy]           = useState(false);
+  const [messages, setMessages] = useState<ChatMessage[]>([]);
+  const [input, setInput] = useState("");
+  const [busy, setBusy] = useState(false);
   const [sessionId, setSessionId] = useState<string | null>(null);
   const [conversationId, setConversationId] = useState<number | null>(null);
   const [thinkingStatus, setThinkingStatus] = useState<string | null>(null);
   const [charlaMode, setCharlaMode] = useState(false);
-  const msgsEndRef               = useRef<HTMLDivElement>(null);
-  const inputRef                 = useRef<HTMLTextAreaElement>(null);
-  const chatMsgsRef              = useRef<HTMLDivElement>(null);
+  const msgsEndRef = useRef<HTMLDivElement>(null);
+  const inputRef = useRef<HTMLTextAreaElement>(null);
+  const chatMsgsRef = useRef<HTMLDivElement>(null);
 
   /* history */
-  const [historyOpen, setHistoryOpen]     = useState(false);
+  const [historyOpen, setHistoryOpen] = useState(false);
   const [conversations, setConversations] = useState<any[]>([]);
   const [historyLoading, setHistoryLoading] = useState(false);
 
   /* modal */
-  const [modalOpen, setModalOpen]       = useState(false);
-  const [modalUrl, setModalUrl]         = useState("");
-  const [modalTitle, setModalTitle]     = useState("");
+  const [modalOpen, setModalOpen] = useState(false);
+  const [modalUrl, setModalUrl] = useState("");
+  const [modalTitle, setModalTitle] = useState("");
   const [modalLoading, setModalLoading] = useState(false);
-  const [modalError, setModalError]     = useState("");
-  const [modalHtml, setModalHtml]       = useState("");
+  const [modalError, setModalError] = useState("");
+  const [modalHtml, setModalHtml] = useState("");
 
   /* portal */
-  const [portalTab, setPortalTab]           = useState<"internacionales" | "protestas_ar">("internacionales");
-  const [acciones, setAcciones]             = useState<Accion[]>([]);
-  const [portalLoading, setPortalLoading]   = useState(false);
+  const [portalTab, setPortalTab] = useState<
+    "internacionales" | "protestas_ar"
+  >("internacionales");
+  const [acciones, setAcciones] = useState<Accion[]>([]);
+  const [portalLoading, setPortalLoading] = useState(false);
   const [selectedAccion, setSelectedAccion] = useState<Accion | null>(null);
   const [portalDetailOpen, setPortalDetailOpen] = useState(false);
-  const [portalNoticias, setPortalNoticias] = useState<{ titular: string; url: string; fuente: string }[]>([]);
+  const [portalNoticias, setPortalNoticias] = useState<
+    { titular: string; url: string; fuente: string }[]
+  >([]);
   const [portalNoticiasLoading, setPortalNoticiasLoading] = useState(false);
   const [portalRefreshLoading, setPortalRefreshLoading] = useState(false);
 
   /* agent status */
-  const [agentStatus, setAgentStatus] = useState<{ enabled: boolean; running: string[]; scheduled: boolean } | null>(null);
+  const [agentStatus, setAgentStatus] = useState<{
+    enabled: boolean;
+    running: string[];
+    scheduled: boolean;
+  } | null>(null);
   const [activityLog, setActivityLog] = useState<ActivityEntry[]>([]);
   const [activityOpen, setActivityOpen] = useState(false);
 
   /* redaccion */
   const [redaccionAgentes, setRedaccionAgentes] = useState<any[]>([]);
-  const [selectedRedaccionAgent, setSelectedRedaccionAgent] = useState<any | null>(null);
+  const [selectedRedaccionAgent, setSelectedRedaccionAgent] = useState<
+    any | null
+  >(null);
   const [editingName, setEditingName] = useState<number | null>(null);
   const [editNameValue, setEditNameValue] = useState("");
   const [editingTask, setEditingTask] = useState<string | null>(null);
   const [editTaskValue, setEditTaskValue] = useState("");
 
   /* jefe editor */
-  interface JefeMsg { role: "user" | "assistant"; text: string; }
+  interface JefeMsg {
+    role: "user" | "assistant";
+    text: string;
+  }
   const [jefeMessages, setJefeMessages] = useState<JefeMsg[]>([]);
   const [jefeInput, setJefeInput] = useState("");
   const [jefeBusy, setJefeBusy] = useState(false);
@@ -418,7 +494,12 @@ export default function App() {
   /* coberturas */
   const [coberturas, setCoberturas] = useState<any[]>([]);
   const [coberturaEditing, setCoberturaEditing] = useState<any | null>(null);
-  const [coberturaForm, setCoberturaForm] = useState({ titulo: "", contenido: "", autor: "", tags: "" });
+  const [coberturaForm, setCoberturaForm] = useState({
+    titulo: "",
+    contenido: "",
+    autor: "",
+    tags: "",
+  });
   const [showCoberturasEditor, setShowCoberturasEditor] = useState(false);
   const [triggeringAgent, setTriggeringAgent] = useState<string | null>(null);
   const [ejecutandoTask, setEjecutandoTask] = useState<number | null>(null);
@@ -427,14 +508,14 @@ export default function App() {
   const [editAgenteIdValue, setEditAgenteIdValue] = useState("");
 
   /* voz */
-  const voiceStoppedRef          = useRef(false);
-  const voiceBusyRef             = useRef(false);
-  const recogRef                 = useRef<any>(null);
-  const voiceSessionRef          = useRef<string | null>(null);
-  const [voiceActive, setVoiceActive]     = useState(false);
-  const [voiceStatus, setVoiceStatus]     = useState("");
+  const voiceStoppedRef = useRef(false);
+  const voiceBusyRef = useRef(false);
+  const recogRef = useRef<any>(null);
+  const voiceSessionRef = useRef<string | null>(null);
+  const [voiceActive, setVoiceActive] = useState(false);
+  const [voiceStatus, setVoiceStatus] = useState("");
   const [voiceMessages, setVoiceMessages] = useState<VoiceMessage[]>([]);
-  const voiceMessagesEndRef               = useRef<HTMLDivElement>(null);
+  const voiceMessagesEndRef = useRef<HTMLDivElement>(null);
 
   /* ── Terminal setup ─────────────────────────────────────────────── */
   const connect = useCallback(() => {
@@ -452,7 +533,10 @@ export default function App() {
       try {
         const m = JSON.parse(e.data as string);
         if (m.type === "output") termRef.current?.write(m.data as string);
-        else if (m.type === "exit") termRef.current?.write(`\r\n\x1b[33mExited (${m.exitCode}).\x1b[0m\r\n`);
+        else if (m.type === "exit")
+          termRef.current?.write(
+            `\r\n\x1b[33mExited (${m.exitCode}).\x1b[0m\r\n`,
+          );
       } catch {}
     };
     ws.onclose = () => {
@@ -460,50 +544,92 @@ export default function App() {
       if (reconnAttempts.current < 10) {
         const d = Math.min(1000 * 2 ** reconnAttempts.current, 15000);
         reconnAttempts.current++;
-        termRef.current?.write(`\x1b[33mReconnecting in ${Math.round(d / 1000)}s…\x1b[0m\r\n`);
+        termRef.current?.write(
+          `\x1b[33mReconnecting in ${Math.round(d / 1000)}s…\x1b[0m\r\n`,
+        );
         reconnTimerRef.current = setTimeout(connect, d);
       }
     };
-    ws.onerror = () => termRef.current?.write("\r\n\x1b[31mWS error.\x1b[0m\r\n");
+    ws.onerror = () =>
+      termRef.current?.write("\r\n\x1b[31mWS error.\x1b[0m\r\n");
   }, []);
 
   useEffect(() => {
     if (!terminalRef.current) return;
     const term = new Terminal({
-      cursorBlink: true, fontFamily: MONO, fontSize: 14, lineHeight: 1.25,
+      cursorBlink: true,
+      fontFamily: MONO,
+      fontSize: 14,
+      lineHeight: 1.25,
       theme: {
-        background: "#0a0a0a", foreground: "#e8e8e8", cursor: "#cc0000",
-        cursorAccent: "#0a0a0a", black: "#1a1a1a", red: "#cc0000", green: "#5a9a3a",
-        yellow: "#c8a030", blue: "#4a7ab0", magenta: "#9a4a8a", cyan: "#3a8a9a",
-        white: "#c8c8c8", brightBlack: "#444", brightRed: "#e83030", brightGreen: "#70ba50",
-        brightYellow: "#e0c050", brightBlue: "#5a90c8", brightMagenta: "#ba5aba",
-        brightCyan: "#50aaba", brightWhite: "#f0f0f0", selectionBackground: "#cc000040",
+        background: "#0a0a0a",
+        foreground: "#e8e8e8",
+        cursor: "#cc0000",
+        cursorAccent: "#0a0a0a",
+        black: "#1a1a1a",
+        red: "#cc0000",
+        green: "#5a9a3a",
+        yellow: "#c8a030",
+        blue: "#4a7ab0",
+        magenta: "#9a4a8a",
+        cyan: "#3a8a9a",
+        white: "#c8c8c8",
+        brightBlack: "#444",
+        brightRed: "#e83030",
+        brightGreen: "#70ba50",
+        brightYellow: "#e0c050",
+        brightBlue: "#5a90c8",
+        brightMagenta: "#ba5aba",
+        brightCyan: "#50aaba",
+        brightWhite: "#f0f0f0",
+        selectionBackground: "#cc000040",
       },
-      allowProposedApi: true, scrollback: 10000,
+      allowProposedApi: true,
+      scrollback: 10000,
     });
     const fit = new FitAddon();
-    term.loadAddon(fit); term.loadAddon(new WebLinksAddon());
-    term.open(terminalRef.current); fit.fit();
-    termRef.current = term; fitAddonRef.current = fit;
+    term.loadAddon(fit);
+    term.loadAddon(new WebLinksAddon());
+    term.open(terminalRef.current);
+    fit.fit();
+    termRef.current = term;
+    fitAddonRef.current = fit;
     term.write("\x1b[90mConnecting…\x1b[0m\r\n");
     connect();
-    term.onData((d) => { if (wsRef.current?.readyState === WebSocket.OPEN) wsRef.current.send(JSON.stringify({ type: "input", data: d })); });
-    term.onResize(({ cols, rows }) => { if (wsRef.current?.readyState === WebSocket.OPEN) wsRef.current.send(JSON.stringify({ type: "resize", cols, rows })); });
+    term.onData((d) => {
+      if (wsRef.current?.readyState === WebSocket.OPEN)
+        wsRef.current.send(JSON.stringify({ type: "input", data: d }));
+    });
+    term.onResize(({ cols, rows }) => {
+      if (wsRef.current?.readyState === WebSocket.OPEN)
+        wsRef.current.send(JSON.stringify({ type: "resize", cols, rows }));
+    });
     const ro = new ResizeObserver(() => fit.fit());
     if (terminalRef.current) ro.observe(terminalRef.current);
     window.addEventListener("resize", () => fit.fit());
-    return () => { ro.disconnect(); if (reconnTimerRef.current) clearTimeout(reconnTimerRef.current); wsRef.current?.close(); term.dispose(); };
+    return () => {
+      ro.disconnect();
+      if (reconnTimerRef.current) clearTimeout(reconnTimerRef.current);
+      wsRef.current?.close();
+      term.dispose();
+    };
   }, [connect]);
 
-  useEffect(() => { setTimeout(() => fitAddonRef.current?.fit(), 50); }, [view]);
-  useEffect(() => { msgsEndRef.current?.scrollIntoView({ behavior: "smooth" }); }, [messages]);
+  useEffect(() => {
+    setTimeout(() => fitAddonRef.current?.fit(), 50);
+  }, [view]);
+  useEffect(() => {
+    msgsEndRef.current?.scrollIntoView({ behavior: "smooth" });
+  }, [messages]);
 
   /* ── Modal link delegation ────────────────────────────────────────── */
   useEffect(() => {
     const el = chatMsgsRef.current;
     if (!el) return;
     const handler = (e: MouseEvent) => {
-      const t = (e.target as HTMLElement).closest(".md-link-modal") as HTMLElement | null;
+      const t = (e.target as HTMLElement).closest(
+        ".md-link-modal",
+      ) as HTMLElement | null;
       if (!t) return;
       e.preventDefault();
       const url = t.getAttribute("data-url") || "";
@@ -519,110 +645,209 @@ export default function App() {
   /* ── Fetch modal content ───────────────────────────────────────────── */
   useEffect(() => {
     if (!modalOpen || !modalUrl) return;
-    setModalLoading(true); setModalError(""); setModalHtml("");
+    setModalLoading(true);
+    setModalError("");
+    setModalHtml("");
     fetch(`/api/fetch-proxy?url=${encodeURIComponent(modalUrl)}`)
       .then(async (r) => {
         const ct = r.headers.get("content-type") || "";
         if (!r.ok) {
-          const body = ct.includes("json") ? (await r.json()).error : `HTTP ${r.status}`;
+          const body = ct.includes("json")
+            ? (await r.json()).error
+            : `HTTP ${r.status}`;
           throw new Error(body);
         }
         return r.text();
       })
-      .then((html) => { setModalHtml(html); setModalLoading(false); })
-      .catch((err) => { setModalError(err.message); setModalLoading(false); });
+      .then((html) => {
+        setModalHtml(html);
+        setModalLoading(false);
+      })
+      .catch((err) => {
+        setModalError(err.message);
+        setModalLoading(false);
+      });
   }, [modalOpen, modalUrl]);
 
   /* ── Send chat ──────────────────────────────────────────────────── */
   const sendMessage = useCallback(async () => {
     const text = input.trim();
     if (!text || busy) return;
-    setBusy(true); setInput(""); setThinkingStatus("...");
-    setMessages((p) => [...p, { role: "user", text }, { role: "bot", text: "", html: "" }]);
-    let full = ""; let cur = sessionId; let cid = conversationId;
+    setBusy(true);
+    setInput("");
+    setThinkingStatus("...");
+    setMessages((p) => [
+      ...p,
+      { role: "user", text },
+      { role: "bot", text: "", html: "" },
+    ]);
+    let full = "";
+    let cur = sessionId;
+    let cid = conversationId;
     try {
       const res = await fetch("/api/chat", {
-        method: "POST", headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ message: text, session_id: cur, conversation_id: cid, charla_mode: charlaMode }),
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          message: text,
+          session_id: cur,
+          conversation_id: cid,
+          charla_mode: charlaMode,
+        }),
       });
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      const reader = res.body!.getReader(); const dec = new TextDecoder(); let buf = "";
+      const reader = res.body!.getReader();
+      const dec = new TextDecoder();
+      let buf = "";
       while (true) {
-        const { value, done } = await reader.read(); if (done) break;
+        const { value, done } = await reader.read();
+        if (done) break;
         buf += dec.decode(value, { stream: true });
-        const lines = buf.split("\n"); buf = lines.pop()!;
+        const lines = buf.split("\n");
+        buf = lines.pop()!;
         for (const ln of lines) {
           if (!ln.startsWith("data: ")) continue;
           let ev: Record<string, unknown>;
-          try { ev = JSON.parse(ln.slice(6)) as Record<string, unknown>; } catch { continue; }
-          if (ev["type"] === "session") { cur = ev["session_id"] as string; setSessionId(cur); }
-          else if (ev["type"] === "conversation") { cid = ev["conversation_id"] as number; setConversationId(cid); }
-          else if (ev["type"] === "status") { setThinkingStatus(ev["status"] as string); }
-          else if (ev["type"] === "text") {
+          try {
+            ev = JSON.parse(ln.slice(6)) as Record<string, unknown>;
+          } catch {
+            continue;
+          }
+          if (ev["type"] === "session") {
+            cur = ev["session_id"] as string;
+            setSessionId(cur);
+          } else if (ev["type"] === "conversation") {
+            cid = ev["conversation_id"] as number;
+            setConversationId(cid);
+          } else if (ev["type"] === "status") {
+            setThinkingStatus(ev["status"] as string);
+          } else if (ev["type"] === "text") {
             setThinkingStatus(null);
             full += ev["text"] as string;
-            setMessages((p) => { const n = [...p]; n[n.length - 1] = { role: "bot", text: full, html: md(full) }; return n; });
+            setMessages((p) => {
+              const n = [...p];
+              n[n.length - 1] = { role: "bot", text: full, html: md(full) };
+              return n;
+            });
           } else if (ev["type"] === "error") {
             setThinkingStatus(null);
-            setMessages((p) => { const n = [...p]; n[n.length - 1] = { role: "bot", text: "", html: `<span style="color:#e83030">⚠ ${esc(ev["message"] as string)}</span>` }; return n; });
+            setMessages((p) => {
+              const n = [...p];
+              n[n.length - 1] = {
+                role: "bot",
+                text: "",
+                html: `<span style="color:#e83030">⚠ ${esc(ev["message"] as string)}</span>`,
+              };
+              return n;
+            });
           }
         }
       }
-      if (!full) setMessages((p) => { const n = [...p]; n[n.length - 1] = { role: "bot", text: "—", html: "—" }; return n; });
+      if (!full)
+        setMessages((p) => {
+          const n = [...p];
+          n[n.length - 1] = { role: "bot", text: "—", html: "—" };
+          return n;
+        });
     } catch (err) {
       const msg = err instanceof Error ? err.message : String(err);
       setThinkingStatus(null);
-      setMessages((p) => { const n = [...p]; n[n.length - 1] = { role: "bot", text: "", html: `<span style="color:#e83030">⚠ ${esc(msg)}</span>` }; return n; });
-    } finally { setBusy(false); setTimeout(() => inputRef.current?.focus(), 50); }
+      setMessages((p) => {
+        const n = [...p];
+        n[n.length - 1] = {
+          role: "bot",
+          text: "",
+          html: `<span style="color:#e83030">⚠ ${esc(msg)}</span>`,
+        };
+        return n;
+      });
+    } finally {
+      setBusy(false);
+      setTimeout(() => inputRef.current?.focus(), 50);
+    }
   }, [input, busy, sessionId, conversationId]);
 
   /* ── Voice chat ──────────────────────────────────────────────────── */
-  useEffect(() => { voiceMessagesEndRef.current?.scrollIntoView({ behavior: "smooth" }); }, [voiceMessages]);
+  useEffect(() => {
+    voiceMessagesEndRef.current?.scrollIntoView({ behavior: "smooth" });
+  }, [voiceMessages]);
   useEffect(() => {
     if (view !== "voz") {
-      voiceStoppedRef.current = true; voiceBusyRef.current = false;
-      try { recogRef.current?.stop(); } catch {}
-      recogRef.current = null; window.speechSynthesis?.cancel();
+      voiceStoppedRef.current = true;
+      voiceBusyRef.current = false;
+      try {
+        recogRef.current?.stop();
+      } catch {}
+      recogRef.current = null;
+      window.speechSynthesis?.cancel();
       setVoiceActive(false);
     }
   }, [view]);
 
   const startVoice = useCallback(() => {
-    const SR = (window as any).SpeechRecognition || (window as any).webkitSpeechRecognition;
-    if (!SR) { setVoiceStatus("Reconocimiento de voz no soportado"); return; }
-    if (!("speechSynthesis" in window)) { setVoiceStatus("Síntesis de voz no soportada"); return; }
+    const SR =
+      (window as any).SpeechRecognition ||
+      (window as any).webkitSpeechRecognition;
+    if (!SR) {
+      setVoiceStatus("Reconocimiento de voz no soportado");
+      return;
+    }
+    if (!("speechSynthesis" in window)) {
+      setVoiceStatus("Síntesis de voz no soportada");
+      return;
+    }
 
-    setVoiceActive(true); setVoiceMessages([]);
-    voiceSessionRef.current = null; voiceBusyRef.current = false; voiceStoppedRef.current = false;
+    setVoiceActive(true);
+    setVoiceMessages([]);
+    voiceSessionRef.current = null;
+    voiceBusyRef.current = false;
+    voiceStoppedRef.current = false;
     setVoiceStatus("Iniciando...");
 
     const recognition = new SR();
-    recognition.lang = "es-ES"; recognition.continuous = false;
-    recognition.interimResults = false; recognition.maxAlternatives = 1;
+    recognition.lang = "es-ES";
+    recognition.continuous = false;
+    recognition.interimResults = false;
+    recognition.maxAlternatives = 1;
 
     recognition.onresult = (event: any) => {
       const text = event.results[0][0].transcript;
       if (!text.trim() || voiceStoppedRef.current) return;
       setVoiceMessages((p) => [...p, { role: "user", text: text.trim() }]);
-      setVoiceStatus("Procesando..."); voiceBusyRef.current = true;
+      setVoiceStatus("Procesando...");
+      voiceBusyRef.current = true;
 
       (async () => {
         try {
           const res = await fetch("/api/chat", {
-            method: "POST", headers: { "Content-Type": "application/json" },
-            body: JSON.stringify({ message: text.trim(), session_id: voiceSessionRef.current }),
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({
+              message: text.trim(),
+              session_id: voiceSessionRef.current,
+            }),
           });
           if (!res.ok) throw new Error(`HTTP ${res.status}`);
-          const reader = res.body!.getReader(); const dec = new TextDecoder(); let buf = "";
+          const reader = res.body!.getReader();
+          const dec = new TextDecoder();
+          let buf = "";
           let full = "";
           while (true) {
-            const { value, done } = await reader.read(); if (done) break;
+            const { value, done } = await reader.read();
+            if (done) break;
             buf += dec.decode(value, { stream: true });
-            const lines = buf.split("\n"); buf = lines.pop()!;
+            const lines = buf.split("\n");
+            buf = lines.pop()!;
             for (const ln of lines) {
               if (!ln.startsWith("data: ")) continue;
-              let ev: any; try { ev = JSON.parse(ln.slice(6)); } catch { continue; }
-              if (ev.type === "session") voiceSessionRef.current = ev.session_id;
+              let ev: any;
+              try {
+                ev = JSON.parse(ln.slice(6));
+              } catch {
+                continue;
+              }
+              if (ev.type === "session")
+                voiceSessionRef.current = ev.session_id;
               else if (ev.type === "text") full += ev.text;
             }
           }
@@ -630,47 +855,86 @@ export default function App() {
             setVoiceMessages((p) => [...p, { role: "bot", text: full }]);
             setVoiceStatus("Hablando...");
             const u = new SpeechSynthesisUtterance(full);
-            u.lang = "es-ES"; u.rate = 1.1;
+            u.lang = "es-ES";
+            u.rate = 1.1;
             u.onend = () => {
               voiceBusyRef.current = false;
-              if (!voiceStoppedRef.current) { setVoiceStatus("Escuchando..."); try { recognition.start(); } catch {} }
+              if (!voiceStoppedRef.current) {
+                setVoiceStatus("Escuchando...");
+                try {
+                  recognition.start();
+                } catch {}
+              }
             };
             window.speechSynthesis.speak(u);
           } else {
             voiceBusyRef.current = false;
-            if (!voiceStoppedRef.current) { setVoiceStatus("Escuchando..."); try { recognition.start(); } catch {} }
+            if (!voiceStoppedRef.current) {
+              setVoiceStatus("Escuchando...");
+              try {
+                recognition.start();
+              } catch {}
+            }
           }
         } catch (err) {
           const msg = err instanceof Error ? err.message : String(err);
-          setVoiceMessages((p) => [...p, { role: "bot", text: "Error: " + msg }]);
+          setVoiceMessages((p) => [
+            ...p,
+            { role: "bot", text: "Error: " + msg },
+          ]);
           voiceBusyRef.current = false;
-          if (!voiceStoppedRef.current) { setVoiceStatus("Escuchando..."); try { recognition.start(); } catch {} }
+          if (!voiceStoppedRef.current) {
+            setVoiceStatus("Escuchando...");
+            try {
+              recognition.start();
+            } catch {}
+          }
         }
       })();
     };
 
     recognition.onerror = (event: any) => {
       if (event.error === "no-speech" || event.error === "aborted") {
-        if (!voiceStoppedRef.current && !voiceBusyRef.current) { try { recognition.start(); } catch {} }
+        if (!voiceStoppedRef.current && !voiceBusyRef.current) {
+          try {
+            recognition.start();
+          } catch {}
+        }
         return;
       }
-      if (!voiceStoppedRef.current) { setVoiceStatus("Error: " + event.error); voiceStoppedRef.current = true; }
+      if (!voiceStoppedRef.current) {
+        setVoiceStatus("Error: " + event.error);
+        voiceStoppedRef.current = true;
+      }
     };
 
     recognition.onend = () => {
-      if (!voiceStoppedRef.current && !voiceBusyRef.current) { try { recognition.start(); } catch {} }
+      if (!voiceStoppedRef.current && !voiceBusyRef.current) {
+        try {
+          recognition.start();
+        } catch {}
+      }
     };
 
     recogRef.current = recognition;
     setVoiceStatus("Escuchando...");
-    try { recognition.start(); } catch { setVoiceStatus("Error al iniciar micrófono"); }
+    try {
+      recognition.start();
+    } catch {
+      setVoiceStatus("Error al iniciar micrófono");
+    }
   }, []);
 
   const stopVoice = useCallback(() => {
-    voiceStoppedRef.current = true; voiceBusyRef.current = false;
-    try { recogRef.current?.stop(); } catch {}
-    recogRef.current = null; window.speechSynthesis?.cancel();
-    setVoiceActive(false); setVoiceStatus("Conversación detenida");
+    voiceStoppedRef.current = true;
+    voiceBusyRef.current = false;
+    try {
+      recogRef.current?.stop();
+    } catch {}
+    recogRef.current = null;
+    window.speechSynthesis?.cancel();
+    setVoiceActive(false);
+    setVoiceStatus("Conversación detenida");
   }, []);
 
   /* ── History ──────────────────────────────────────────────────────── */
@@ -679,37 +943,48 @@ export default function App() {
     try {
       const r = await fetch("/api/conversations");
       if (r.ok) setConversations(await r.json());
-    } catch {} finally { setHistoryLoading(false); }
+    } catch {
+    } finally {
+      setHistoryLoading(false);
+    }
   }, []);
 
-  const loadConversation = useCallback(async (id: number) => {
-    try {
-      const r = await fetch(`/api/conversations/${id}`);
-      if (!r.ok) return;
-      const data = await r.json();
-      setMessages(data.messages.map((m: any) => ({
-        role: m.role as "user" | "bot",
-        text: m.content,
-        html: m.role === "bot" ? md(m.content) : undefined,
-      })));
-      setConversationId(id);
-      setSessionId(data.sessionId);
-      setHistoryOpen(false);
-      if (view !== "chat") setView("chat");
-    } catch {}
-  }, [view]);
+  const loadConversation = useCallback(
+    async (id: number) => {
+      try {
+        const r = await fetch(`/api/conversations/${id}`);
+        if (!r.ok) return;
+        const data = await r.json();
+        setMessages(
+          data.messages.map((m: any) => ({
+            role: m.role as "user" | "bot",
+            text: m.content,
+            html: m.role === "bot" ? md(m.content) : undefined,
+          })),
+        );
+        setConversationId(id);
+        setSessionId(data.sessionId);
+        setHistoryOpen(false);
+        if (view !== "chat") setView("chat");
+      } catch {}
+    },
+    [view],
+  );
 
-  const deleteConversation = useCallback(async (id: number) => {
-    try {
-      await fetch(`/api/conversations/${id}`, { method: "DELETE" });
-      setConversations((p) => p.filter((c: any) => c.id !== id));
-      if (conversationId === id) {
-        setConversationId(null);
-        setMessages([]);
-        setSessionId(null);
-      }
-    } catch {}
-  }, [conversationId]);
+  const deleteConversation = useCallback(
+    async (id: number) => {
+      try {
+        await fetch(`/api/conversations/${id}`, { method: "DELETE" });
+        setConversations((p) => p.filter((c: any) => c.id !== id));
+        if (conversationId === id) {
+          setConversationId(null);
+          setMessages([]);
+          setSessionId(null);
+        }
+      } catch {}
+    },
+    [conversationId],
+  );
 
   const newConversation = useCallback(() => {
     setConversationId(null);
@@ -723,7 +998,10 @@ export default function App() {
     try {
       const r = await fetch(`/api/acciones?seccion=${seccion}`);
       if (r.ok) setAcciones(await r.json());
-    } catch {} finally { setPortalLoading(false); }
+    } catch {
+    } finally {
+      setPortalLoading(false);
+    }
   }, []);
 
   const openPortalDetail = useCallback(async (a: Accion) => {
@@ -737,7 +1015,10 @@ export default function App() {
         const data = await r.json();
         setPortalNoticias(data.ultimasNoticias || []);
       }
-    } catch {} finally { setPortalNoticiasLoading(false); }
+    } catch {
+    } finally {
+      setPortalNoticiasLoading(false);
+    }
   }, []);
 
   // Auto-refresh portal every 60s when portal view is active
@@ -751,9 +1032,16 @@ export default function App() {
   const triggerAgent = useCallback(async () => {
     setPortalRefreshLoading(true);
     try {
-      await fetch("/api/agentes/disparar", { method: "POST", headers: { "Content-Type": "application/json" }, body: "{}" });
+      await fetch("/api/agentes/disparar", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: "{}",
+      });
       setTimeout(() => fetchAcciones(portalTab), 5000);
-    } catch {} finally { setPortalRefreshLoading(false); }
+    } catch {
+    } finally {
+      setPortalRefreshLoading(false);
+    }
   }, [portalTab, fetchAcciones]);
 
   /* ── Agent status polling ── */
@@ -789,7 +1077,8 @@ export default function App() {
     const next = !agentStatus?.enabled;
     try {
       const r = await fetch("/api/agentes/toggle", {
-        method: "POST", headers: { "Content-Type": "application/json" },
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ enabled: next }),
       });
       if (r.ok) setAgentStatus(await r.json());
@@ -826,71 +1115,93 @@ export default function App() {
     fetchRedaccion();
   }, [fetchRedaccion]);
 
-  const saveAgentName = useCallback(async (id: number) => {
-    if (editNameValue.trim()) {
+  const saveAgentName = useCallback(
+    async (id: number) => {
+      if (editNameValue.trim()) {
+        await fetch(`/api/redaccion/${id}`, {
+          method: "PUT",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ nombre: editNameValue.trim() }),
+        });
+        fetchRedaccion();
+      }
+      setEditingName(null);
+    },
+    [editNameValue, fetchRedaccion],
+  );
+
+  const deleteAgente = useCallback(
+    async (id: number) => {
+      await fetch(`/api/redaccion/${id}`, { method: "DELETE" });
+      fetchRedaccion();
+    },
+    [fetchRedaccion],
+  );
+
+  const addTask = useCallback(
+    async (id: number) => {
+      const ag = redaccionAgentes.find((a) => a.id === id);
+      if (!ag) return;
+      const tareas = [...ag.tareas, "nueva tarea"];
       await fetch(`/api/redaccion/${id}`, {
         method: "PUT",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ nombre: editNameValue.trim() }),
+        body: JSON.stringify({ tareas }),
       });
       fetchRedaccion();
-    }
-    setEditingName(null);
-  }, [editNameValue, fetchRedaccion]);
+    },
+    [redaccionAgentes, fetchRedaccion],
+  );
 
-  const deleteAgente = useCallback(async (id: number) => {
-    await fetch(`/api/redaccion/${id}`, { method: "DELETE" });
-    fetchRedaccion();
-  }, [fetchRedaccion]);
+  const deleteTask = useCallback(
+    async (id: number, idx: number) => {
+      const ag = redaccionAgentes.find((a) => a.id === id);
+      if (!ag) return;
+      const tareas = ag.tareas.filter((_: string, i: number) => i !== idx);
+      await fetch(`/api/redaccion/${id}`, {
+        method: "PUT",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ tareas }),
+      });
+      fetchRedaccion();
+    },
+    [redaccionAgentes, fetchRedaccion],
+  );
 
-  const addTask = useCallback(async (id: number) => {
-    const ag = redaccionAgentes.find((a) => a.id === id);
-    if (!ag) return;
-    const tareas = [...ag.tareas, "nueva tarea"];
-    await fetch(`/api/redaccion/${id}`, {
-      method: "PUT",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ tareas }),
-    });
-    fetchRedaccion();
-  }, [redaccionAgentes, fetchRedaccion]);
-
-  const deleteTask = useCallback(async (id: number, idx: number) => {
-    const ag = redaccionAgentes.find((a) => a.id === id);
-    if (!ag) return;
-    const tareas = ag.tareas.filter((_: string, i: number) => i !== idx);
-    await fetch(`/api/redaccion/${id}`, {
-      method: "PUT",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ tareas }),
-    });
-    fetchRedaccion();
-  }, [redaccionAgentes, fetchRedaccion]);
-
-  const saveTask = useCallback(async (id: number, idx: number) => {
-    setEditingTask(null);
-    if (!editTaskValue.trim()) return;
-    const ag = redaccionAgentes.find((a) => a.id === id);
-    if (!ag) return;
-    const tareas = [...ag.tareas];
-    tareas[idx] = editTaskValue.trim();
-    await fetch(`/api/redaccion/${id}`, {
-      method: "PUT",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ tareas }),
-    });
-    fetchRedaccion();
-  }, [editTaskValue, redaccionAgentes, fetchRedaccion]);
+  const saveTask = useCallback(
+    async (id: number, idx: number) => {
+      setEditingTask(null);
+      if (!editTaskValue.trim()) return;
+      const ag = redaccionAgentes.find((a) => a.id === id);
+      if (!ag) return;
+      const tareas = [...ag.tareas];
+      tareas[idx] = editTaskValue.trim();
+      await fetch(`/api/redaccion/${id}`, {
+        method: "PUT",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ tareas }),
+      });
+      fetchRedaccion();
+    },
+    [editTaskValue, redaccionAgentes, fetchRedaccion],
+  );
 
   /* Actividad por agente */
-  const [actividadPorAgente, setActividadPorAgente] = useState<Record<string, string>>({});
-  const [actividad, setActividad] = useState<Record<string, ActivityEntry[]>>({});
+  const [actividadPorAgente, setActividadPorAgente] = useState<
+    Record<string, string>
+  >({});
+  const [actividad, setActividad] = useState<Record<string, ActivityEntry[]>>(
+    {},
+  );
 
   const fetchActividad = useCallback(async () => {
     try {
       const r = await fetch("/api/redaccion/actividad");
       if (!r.ok) return;
-      const data = await r.json() as { actividad: ActivityEntry[]; agentes: any[] };
+      const data = (await r.json()) as {
+        actividad: ActivityEntry[];
+        agentes: any[];
+      };
       const grouped: Record<string, ActivityEntry[]> = {};
       for (const act of data.actividad) {
         if (!grouped[act.agentId]) grouped[act.agentId] = [];
@@ -942,12 +1253,19 @@ export default function App() {
         for (const line of chunk.split("\n")) {
           if (!line.startsWith("data: ")) continue;
           try {
-            const ev = JSON.parse(line.slice(6)) as { type: string; text?: string; error?: string };
+            const ev = JSON.parse(line.slice(6)) as {
+              type: string;
+              text?: string;
+              error?: string;
+            };
             if (ev.type === "text" && ev.text) {
               partial += ev.text;
               setJefeMessages((prev) => {
                 const next = [...prev];
-                if (next.length > 0 && next[next.length - 1].role === "assistant") {
+                if (
+                  next.length > 0 &&
+                  next[next.length - 1].role === "assistant"
+                ) {
                   next[next.length - 1] = { role: "assistant", text: partial };
                 } else {
                   next.push({ role: "assistant", text: partial });
@@ -959,7 +1277,10 @@ export default function App() {
         }
       }
     } catch (e) {
-      setJefeMessages((prev) => [...prev, { role: "assistant", text: `Error: ${(e as Error).message}` }]);
+      setJefeMessages((prev) => [
+        ...prev,
+        { role: "assistant", text: `Error: ${(e as Error).message}` },
+      ]);
     } finally {
       setJefeBusy(false);
     }
@@ -991,7 +1312,10 @@ export default function App() {
       titulo: coberturaForm.titulo.trim(),
       contenido: coberturaForm.contenido.trim(),
       autor: coberturaForm.autor.trim() || null,
-      tags: coberturaForm.tags.split(",").map((t: string) => t.trim()).filter(Boolean),
+      tags: coberturaForm.tags
+        .split(",")
+        .map((t: string) => t.trim())
+        .filter(Boolean),
     };
     if (coberturaEditing) {
       await fetch(`/api/coberturas/${coberturaEditing.id}`, {
@@ -1011,23 +1335,29 @@ export default function App() {
     fetchCoberturas();
   }, [coberturaForm, coberturaEditing, fetchCoberturas]);
 
-  const deleteCobertura = useCallback(async (id: number) => {
-    await fetch(`/api/coberturas/${id}`, { method: "DELETE" });
-    fetchCoberturas();
-  }, [fetchCoberturas]);
+  const deleteCobertura = useCallback(
+    async (id: number) => {
+      await fetch(`/api/coberturas/${id}`, { method: "DELETE" });
+      fetchCoberturas();
+    },
+    [fetchCoberturas],
+  );
 
-  const saveAgenteId = useCallback(async (id: number) => {
-    if (!editAgenteIdValue.trim()) return;
-    try {
-      await fetch(`/api/redaccion/${id}`, {
-        method: "PUT",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ agenteId: editAgenteIdValue.trim() }),
-      });
-      fetchRedaccion();
-    } catch {}
-    setEditingAgenteId(null);
-  }, [editAgenteIdValue, fetchRedaccion]);
+  const saveAgenteId = useCallback(
+    async (id: number) => {
+      if (!editAgenteIdValue.trim()) return;
+      try {
+        await fetch(`/api/redaccion/${id}`, {
+          method: "PUT",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ agenteId: editAgenteIdValue.trim() }),
+        });
+        fetchRedaccion();
+      } catch {}
+      setEditingAgenteId(null);
+    },
+    [editAgenteIdValue, fetchRedaccion],
+  );
 
   const triggerAgentById = useCallback(async (agenteId: string | null) => {
     const id = agenteId || "all";
@@ -1043,97 +1373,150 @@ export default function App() {
     setTimeout(() => setTriggeringAgent(null), 2000);
   }, []);
 
-  const ejecutarTarea = useCallback(async (agent: any, tareaIndice?: number) => {
-    const key = tareaIndice !== undefined ? `task-${tareaIndice}` : "all";
-    if (tareaIndice !== undefined) {
-      setEjecutandoTask(tareaIndice);
-    } else {
-      setTriggeringAgent(`custom-${agent.id}`);
-    }
-    setEjecucionLog("");
-
-    try {
-      const r = await fetch(`/api/redaccion/ejecutar/${agent.id}`, {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ tareaIndice }),
-      });
-
-      if (!r.ok) {
-        setEjecucionLog("Error al conectar con el agente");
-        return;
+  const ejecutarTarea = useCallback(
+    async (agent: any, tareaIndice?: number) => {
+      const key = tareaIndice !== undefined ? `task-${tareaIndice}` : "all";
+      if (tareaIndice !== undefined) {
+        setEjecutandoTask(tareaIndice);
+      } else {
+        setTriggeringAgent(`custom-${agent.id}`);
       }
+      setEjecucionLog("");
 
-      const reader = r.body?.getReader();
-      if (!reader) return;
+      try {
+        const r = await fetch(`/api/redaccion/ejecutar/${agent.id}`, {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ tareaIndice }),
+        });
 
-      const decoder = new TextDecoder();
-      let buffer = "";
-
-      while (true) {
-        const { done, value } = await reader.read();
-        if (done) break;
-        buffer += decoder.decode(value, { stream: true });
-        const lines = buffer.split("\n");
-        buffer = lines.pop() || "";
-
-        for (const line of lines) {
-          if (!line.startsWith("data: ")) continue;
-          try {
-            const event = JSON.parse(line.slice(6));
-            if (event.type === "text") {
-              setEjecucionLog((prev) => prev + (event.text as string));
-            } else if (event.type === "error") {
-              setEjecucionLog((prev) => prev + `\n[ERROR] ${event.message}`);
-            } else if (event.type === "cobertura") {
-              setEjecucionLog((prev) => prev + `\n\n✅ Nota publicada: "${event.titulo}"`);
-              fetchCoberturas();
-            }
-          } catch {}
+        if (!r.ok) {
+          setEjecucionLog("Error al conectar con el agente");
+          return;
         }
+
+        const reader = r.body?.getReader();
+        if (!reader) return;
+
+        const decoder = new TextDecoder();
+        let buffer = "";
+
+        while (true) {
+          const { done, value } = await reader.read();
+          if (done) break;
+          buffer += decoder.decode(value, { stream: true });
+          const lines = buffer.split("\n");
+          buffer = lines.pop() || "";
+
+          for (const line of lines) {
+            if (!line.startsWith("data: ")) continue;
+            try {
+              const event = JSON.parse(line.slice(6));
+              if (event.type === "text") {
+                setEjecucionLog((prev) => prev + (event.text as string));
+              } else if (event.type === "error") {
+                setEjecucionLog((prev) => prev + `\n[ERROR] ${event.message}`);
+              } else if (event.type === "cobertura") {
+                setEjecucionLog(
+                  (prev) => prev + `\n\n✅ Nota publicada: "${event.titulo}"`,
+                );
+                fetchCoberturas();
+              }
+            } catch {}
+          }
+        }
+      } catch {
+        setEjecucionLog("Error al ejecutar la tarea");
+      } finally {
+        setEjecutandoTask(null);
+        setTriggeringAgent(null);
       }
-    } catch {
-      setEjecucionLog("Error al ejecutar la tarea");
-    } finally {
-      setEjecutandoTask(null);
-      setTriggeringAgent(null);
-    }
-  }, [fetchCoberturas]);
+    },
+    [fetchCoberturas],
+  );
 
   /* ── Render ─────────────────────────────────────────────────────── */
   return (
-    <div style={{ width: "100vw", height: "100dvh", background: "#0a0a0a",
-      display: "flex", flexDirection: "column", overflow: "hidden", fontFamily: MONO }}>
-
+    <div
+      style={{
+        width: "100vw",
+        height: "100dvh",
+        background: "#0a0a0a",
+        display: "flex",
+        flexDirection: "column",
+        overflow: "hidden",
+        fontFamily: MONO,
+      }}
+    >
       {/* ════ NAV BAR ════ */}
-      <nav style={{ flexShrink: 0, background: "#0a0a0a", borderBottom: "3px solid #cc0000",
-        display: "flex", alignItems: "stretch", height: 48, position: "relative" }}>
-
+      <nav
+        style={{
+          flexShrink: 0,
+          background: "#0a0a0a",
+          borderBottom: "3px solid #cc0000",
+          display: "flex",
+          alignItems: "stretch",
+          height: 48,
+          position: "relative",
+        }}
+      >
         {/* Red stripe */}
         <div style={{ width: 6, background: "#cc0000", flexShrink: 0 }} />
 
         {/* Star — toggle menu */}
-        <div style={{ paddingLeft: 14, paddingRight: 18, display: "flex",
-          alignItems: "center", borderRight: "2px solid #1a1a1a", cursor: "pointer",
-          position: "relative" }}
+        <div
+          style={{
+            paddingLeft: 14,
+            paddingRight: 18,
+            display: "flex",
+            alignItems: "center",
+            borderRight: "2px solid #1a1a1a",
+            cursor: "pointer",
+            position: "relative",
+          }}
           onClick={() => setMenuOpen((p) => !p)}
-          onMouseLeave={() => setMenuOpen(false)}>
-          <div style={{ width: 24, height: 24, background: "#cc0000",
-            display: "grid", placeItems: "center", transform: "rotate(45deg)", flexShrink: 0 }}>
-            <img src="/ESTRELLA.svg" alt="✦"
-              style={{ width: 16, height: 16, transform: "rotate(-45deg)", display: "block" }} />
+          onMouseLeave={() => setMenuOpen(false)}
+        >
+          <div
+            style={{
+              width: 24,
+              height: 24,
+              background: "#cc0000",
+              display: "grid",
+              placeItems: "center",
+              transform: "rotate(45deg)",
+              flexShrink: 0,
+            }}
+          >
+            <img
+              src="/ESTRELLA.svg"
+              alt="✦"
+              style={{
+                width: 16,
+                height: 16,
+                transform: "rotate(-45deg)",
+                display: "block",
+              }}
+            />
           </div>
 
           {/* Dropdown menu */}
           {menuOpen && (
-            <div style={{
-              position: "absolute", top: 44, left: 0, zIndex: 999,
-              background: "#111", border: "2px solid #cc0000",
-              minWidth: 180, fontFamily: MONO,
-            }}>
+            <div
+              style={{
+                position: "absolute",
+                top: 44,
+                left: 0,
+                zIndex: 999,
+                background: "#111",
+                border: "2px solid #cc0000",
+                minWidth: 180,
+                fontFamily: MONO,
+              }}
+            >
               {[
                 { id: "chat" as const, label: "◈ PERIODISTA" },
-                { id: "voz" as const,  label: "♪ VOZ" },
+                { id: "voz" as const, label: "♪ VOZ" },
                 { id: "terminal" as const, label: "▸ TERMINAL" },
                 { id: "portal" as const, label: "◉ PORTAL" },
                 { id: "redaccion" as const, label: "◼ REDACCIÓN" },
@@ -1142,28 +1525,59 @@ export default function App() {
                 { id: "history" as any, label: "☰ HISTORIAL" },
               ].map((item: any, idx) => {
                 if (item.label === "─") {
-                  return <div key={idx} style={{ height: 1, background: "#222", margin: "4px 0" }} />;
+                  return (
+                    <div
+                      key={idx}
+                      style={{ height: 1, background: "#222", margin: "4px 0" }}
+                    />
+                  );
                 }
-                const isView = item.id === "chat" || item.id === "voz" || item.id === "terminal" || item.id === "portal" || item.id === "redaccion";
+                const isView =
+                  item.id === "chat" ||
+                  item.id === "voz" ||
+                  item.id === "terminal" ||
+                  item.id === "portal" ||
+                  item.id === "redaccion";
                 const active = isView && view === item.id;
                 return (
-                  <button key={item.id} onClick={() => {
-                    setMenuOpen(false);
-                    if (item.id === "new") { newConversation(); setView("chat"); }
-                    else if (item.id === "history") { setHistoryOpen(true); fetchConversations(); }
-                    else { setView(item.id); }
-                  }}
+                  <button
+                    key={item.id}
+                    onClick={() => {
+                      setMenuOpen(false);
+                      if (item.id === "new") {
+                        newConversation();
+                        setView("chat");
+                      } else if (item.id === "history") {
+                        setHistoryOpen(true);
+                        fetchConversations();
+                      } else {
+                        setView(item.id);
+                      }
+                    }}
                     style={{
-                      display: "block", width: "100%", border: "none",
+                      display: "block",
+                      width: "100%",
+                      border: "none",
                       background: active ? "#cc0000" : "transparent",
                       color: active ? "#fff" : "#555",
-                      cursor: "pointer", padding: "10px 18px", fontSize: 11,
-                      fontWeight: 700, letterSpacing: ".12em",
-                      textTransform: "uppercase", textAlign: "left",
-                      fontFamily: MONO, transition: "all .1s",
+                      cursor: "pointer",
+                      padding: "10px 18px",
+                      fontSize: 11,
+                      fontWeight: 700,
+                      letterSpacing: ".12em",
+                      textTransform: "uppercase",
+                      textAlign: "left",
+                      fontFamily: MONO,
+                      transition: "all .1s",
                     }}
-                    onMouseEnter={(e) => { if (!active) e.currentTarget.style.background = "#1a1a1a"; }}
-                    onMouseLeave={(e) => { if (!active) e.currentTarget.style.background = "transparent"; }}>
+                    onMouseEnter={(e) => {
+                      if (!active) e.currentTarget.style.background = "#1a1a1a";
+                    }}
+                    onMouseLeave={(e) => {
+                      if (!active)
+                        e.currentTarget.style.background = "transparent";
+                    }}
+                  >
                     {item.label}
                   </button>
                 );
@@ -1174,9 +1588,25 @@ export default function App() {
 
         {/* Active view label */}
         <div style={{ display: "flex", alignItems: "center", paddingLeft: 16 }}>
-          <span style={{ color: "#cc0000", fontSize: 11, fontWeight: 700,
-            letterSpacing: ".12em", textTransform: "uppercase", fontFamily: MONO }}>
-            {view === "chat" ? "◈ PERIODISTA" : view === "voz" ? "♪ VOZ" : view === "portal" ? "◉ PORTAL" : view === "redaccion" ? "◼ REDACCIÓN" : "▸ TERMINAL"}
+          <span
+            style={{
+              color: "#cc0000",
+              fontSize: 11,
+              fontWeight: 700,
+              letterSpacing: ".12em",
+              textTransform: "uppercase",
+              fontFamily: MONO,
+            }}
+          >
+            {view === "chat"
+              ? "◈ PERIODISTA"
+              : view === "voz"
+                ? "♪ VOZ"
+                : view === "portal"
+                  ? "◉ PORTAL"
+                  : view === "redaccion"
+                    ? "◼ REDACCIÓN"
+                    : "▸ TERMINAL"}
           </span>
         </div>
 
@@ -1189,130 +1619,265 @@ export default function App() {
               setSessionId(null);
               setConversationId(null);
             }}
-            title={charlaMode ? "Cambiar a modo periodista" : "Cambiar a modo charla"}
+            title={
+              charlaMode ? "Cambiar a modo periodista" : "Cambiar a modo charla"
+            }
             style={{
               marginLeft: 16,
               background: charlaMode ? "#fff" : "transparent",
               color: charlaMode ? "#cc0000" : "#444",
               border: charlaMode ? "none" : "1px solid #333",
               padding: "3px 10px",
-              fontSize: 10, fontWeight: 700, letterSpacing: ".1em",
-              textTransform: "uppercase", cursor: "pointer",
-              fontFamily: MONO, transition: "all .15s",
+              fontSize: 10,
+              fontWeight: 700,
+              letterSpacing: ".1em",
+              textTransform: "uppercase",
+              cursor: "pointer",
+              fontFamily: MONO,
+              transition: "all .15s",
               whiteSpace: "nowrap",
             }}
-            onMouseEnter={(e) => { if (!charlaMode) e.currentTarget.style.borderColor = "#cc0000"; e.currentTarget.style.color = charlaMode ? "#cc0000" : "#cc0000"; }}
-            onMouseLeave={(e) => { if (!charlaMode) e.currentTarget.style.borderColor = "#333"; e.currentTarget.style.color = charlaMode ? "#cc0000" : "#444"; }}
+            onMouseEnter={(e) => {
+              if (!charlaMode) e.currentTarget.style.borderColor = "#cc0000";
+              e.currentTarget.style.color = charlaMode ? "#cc0000" : "#cc0000";
+            }}
+            onMouseLeave={(e) => {
+              if (!charlaMode) e.currentTarget.style.borderColor = "#333";
+              e.currentTarget.style.color = charlaMode ? "#cc0000" : "#444";
+            }}
           >
             {charlaMode ? "✦ CHARLA" : "○ CHARLA"}
           </button>
         )}
 
         {/* Redacción button */}
-        <button onClick={() => setView("redaccion")}
+        <button
+          onClick={() => setView("redaccion")}
           style={{
             marginLeft: view === "chat" ? 16 : "auto",
             background: view === "redaccion" ? "#cc0000" : "transparent",
             color: view === "redaccion" ? "#fff" : "#444",
             border: view === "redaccion" ? "none" : "1px solid #333",
-            padding: "3px 10px", fontSize: 10, fontWeight: 700,
-            letterSpacing: ".1em", textTransform: "uppercase", cursor: "pointer",
-            fontFamily: MONO, whiteSpace: "nowrap",
+            padding: "3px 10px",
+            fontSize: 10,
+            fontWeight: 700,
+            letterSpacing: ".1em",
+            textTransform: "uppercase",
+            cursor: "pointer",
+            fontFamily: MONO,
+            whiteSpace: "nowrap",
           }}
-          onMouseEnter={(e) => { if (view !== "redaccion") { e.currentTarget.style.borderColor = "#cc0000"; e.currentTarget.style.color = "#cc0000"; } }}
-          onMouseLeave={(e) => { if (view !== "redaccion") { e.currentTarget.style.borderColor = "#333"; e.currentTarget.style.color = "#444"; } }}>
+          onMouseEnter={(e) => {
+            if (view !== "redaccion") {
+              e.currentTarget.style.borderColor = "#cc0000";
+              e.currentTarget.style.color = "#cc0000";
+            }
+          }}
+          onMouseLeave={(e) => {
+            if (view !== "redaccion") {
+              e.currentTarget.style.borderColor = "#333";
+              e.currentTarget.style.color = "#444";
+            }
+          }}
+        >
           ◼ REDACCIÓN
         </button>
 
         {/* Agent indicator */}
         {view === "chat" && (
-          <div style={{ display: "flex", alignItems: "center", gap: 8, marginLeft: 16 }}>
-            <span style={{
-              width: 8, height: 8, borderRadius: "50%", display: "inline-block", flexShrink: 0,
-              background: agentStatus?.enabled ? "#3a9a3a" : "#555",
-              transition: "background .3s",
-            }} />
-            <span style={{ color: "#555", fontSize: 9, fontWeight: 700, letterSpacing: ".08em",
-              textTransform: "uppercase", fontFamily: MONO }}>
+          <div
+            style={{
+              display: "flex",
+              alignItems: "center",
+              gap: 8,
+              marginLeft: 16,
+            }}
+          >
+            <span
+              style={{
+                width: 8,
+                height: 8,
+                borderRadius: "50%",
+                display: "inline-block",
+                flexShrink: 0,
+                background: agentStatus?.enabled ? "#3a9a3a" : "#555",
+                transition: "background .3s",
+              }}
+            />
+            <span
+              style={{
+                color: "#555",
+                fontSize: 9,
+                fontWeight: 700,
+                letterSpacing: ".08em",
+                textTransform: "uppercase",
+                fontFamily: MONO,
+              }}
+            >
               agentes {agentStatus?.enabled ? "activos" : "detenidos"}
             </span>
             {agentStatus && agentStatus.running.length > 0 && (
-              <span style={{ color: "#e8c030", fontSize: 9, fontWeight: 700, letterSpacing: ".08em",
-                fontFamily: MONO }}>
+              <span
+                style={{
+                  color: "#e8c030",
+                  fontSize: 9,
+                  fontWeight: 700,
+                  letterSpacing: ".08em",
+                  fontFamily: MONO,
+                }}
+              >
                 ({agentStatus.running.length} trabajando)
               </span>
             )}
-            <button onClick={toggleAgents}
+            <button
+              onClick={toggleAgents}
               style={{
-                background: "transparent", color: agentStatus?.enabled ? "#e83030" : "#3a9a3a",
+                background: "transparent",
+                color: agentStatus?.enabled ? "#e83030" : "#3a9a3a",
                 border: `1px solid ${agentStatus?.enabled ? "#e83030" : "#3a9a3a"}`,
-                padding: "2px 8px", fontSize: 8, fontWeight: 700, letterSpacing: ".08em",
-                textTransform: "uppercase", cursor: "pointer", fontFamily: MONO,
-              }}>
+                padding: "2px 8px",
+                fontSize: 8,
+                fontWeight: 700,
+                letterSpacing: ".08em",
+                textTransform: "uppercase",
+                cursor: "pointer",
+                fontFamily: MONO,
+              }}
+            >
               {agentStatus?.enabled ? "DETENER" : "ACTIVAR"}
             </button>
           </div>
         )}
 
         {/* Clock */}
-        <div style={{ marginLeft: "auto", display: "flex", alignItems: "center", paddingRight: 16 }}>
-          <span style={{ color: "#cc0000", fontSize: 11, fontWeight: 700,
-            letterSpacing: ".06em", fontFamily: MONO }}>
+        <div
+          style={{
+            marginLeft: "auto",
+            display: "flex",
+            alignItems: "center",
+            paddingRight: 16,
+          }}
+        >
+          <span
+            style={{
+              color: "#cc0000",
+              fontSize: 11,
+              fontWeight: 700,
+              letterSpacing: ".06em",
+              fontFamily: MONO,
+            }}
+          >
             {clock}
           </span>
         </div>
       </nav>
 
       {/* ════ TERMINAL ════ */}
-      <div style={{ flex: view === "terminal" ? 1 : 0,
-        display: view === "terminal" ? "flex" : "none",
-        flexDirection: "column", overflow: "hidden", minHeight: 0 }}>
-        <div ref={terminalRef} data-testid="terminal-container"
-          style={{ flex: 1, padding: "6px 4px", overflow: "hidden" }} />
+      <div
+        style={{
+          flex: view === "terminal" ? 1 : 0,
+          display: view === "terminal" ? "flex" : "none",
+          flexDirection: "column",
+          overflow: "hidden",
+          minHeight: 0,
+        }}
+      >
+        <div
+          ref={terminalRef}
+          data-testid="terminal-container"
+          style={{ flex: 1, padding: "6px 4px", overflow: "hidden" }}
+        />
       </div>
 
       {/* ════ PORTAL ════ */}
-      <div style={{ flex: view === "portal" ? 1 : 0,
-        display: view === "portal" ? "flex" : "none",
-        flexDirection: "column", overflow: "hidden", minHeight: 0, fontFamily: MONO }}>
-
+      <div
+        style={{
+          flex: view === "portal" ? 1 : 0,
+          display: view === "portal" ? "flex" : "none",
+          flexDirection: "column",
+          overflow: "hidden",
+          minHeight: 0,
+          fontFamily: MONO,
+        }}
+      >
         {/* Tab bar */}
-        <div style={{ display: "flex", borderBottom: "2px solid #1a1a1a", flexShrink: 0 }}>
+        <div
+          style={{
+            display: "flex",
+            borderBottom: "2px solid #1a1a1a",
+            flexShrink: 0,
+          }}
+        >
           {[
             { id: "internacionales" as const, label: "🌍 INTERNACIONAL" },
             { id: "protestas_ar" as const, label: "🇦🇷 NACIONAL" },
             { id: "coberturas" as const, label: "📋 COBERTURAS" },
           ].map((tab) => (
-            <button key={tab.id} onClick={() => setPortalTab(tab.id)}
+            <button
+              key={tab.id}
+              onClick={() => setPortalTab(tab.id)}
               style={{
-                flex: 1, padding: "10px 0", border: "none", cursor: "pointer",
+                flex: 1,
+                padding: "10px 0",
+                border: "none",
+                cursor: "pointer",
                 background: portalTab === tab.id ? "#cc0000" : "transparent",
                 color: portalTab === tab.id ? "#fff" : "#555",
-                fontSize: 11, fontWeight: 700, letterSpacing: ".15em",
-                textTransform: "uppercase", fontFamily: MONO,
-              }}>
+                fontSize: 11,
+                fontWeight: 700,
+                letterSpacing: ".15em",
+                textTransform: "uppercase",
+                fontFamily: MONO,
+              }}
+            >
               {tab.label}
             </button>
           ))}
         </div>
 
         {/* Legend + Table + Rows (hidden when coberturas tab) */}
-        <div style={{ flex: portalTab === "coberturas" ? 0 : 1,
-          display: portalTab === "coberturas" ? "none" : "flex",
-          flexDirection: "column", overflow: "hidden", minHeight: 0 }}>
-
+        <div
+          style={{
+            flex: portalTab === "coberturas" ? 0 : 1,
+            display: portalTab === "coberturas" ? "none" : "flex",
+            flexDirection: "column",
+            overflow: "hidden",
+            minHeight: 0,
+          }}
+        >
           {/* Legend */}
-          <div style={{ display: "flex", gap: 14, padding: "6px 12px", borderBottom: "1px solid #1a1a1a",
-            flexShrink: 0, fontSize: 9, color: "#555", letterSpacing: ".08em", textTransform: "uppercase" }}>
+          <div
+            style={{
+              display: "flex",
+              gap: 14,
+              padding: "6px 12px",
+              borderBottom: "1px solid #1a1a1a",
+              flexShrink: 0,
+              fontSize: 9,
+              color: "#555",
+              letterSpacing: ".08em",
+              textTransform: "uppercase",
+            }}
+          >
             <span>🟢 programado</span>
             <span>🟡 en curso</span>
             <span>🔴 finalizado</span>
           </div>
 
           {/* Table header */}
-          <div style={{ display: "flex", padding: "6px 12px", borderBottom: "2px solid #cc0000",
-            flexShrink: 0, fontSize: 9, fontWeight: 700, color: "#cc0000",
-            letterSpacing: ".1em", textTransform: "uppercase" }}>
+          <div
+            style={{
+              display: "flex",
+              padding: "6px 12px",
+              borderBottom: "2px solid #cc0000",
+              flexShrink: 0,
+              fontSize: 9,
+              fontWeight: 700,
+              color: "#cc0000",
+              letterSpacing: ".1em",
+              textTransform: "uppercase",
+            }}
+          >
             <span style={{ width: 50, flexShrink: 0 }}>HORA</span>
             <span style={{ minWidth: 160, flex: 2 }}>LUGAR</span>
             <span style={{ width: 90, flexShrink: 0 }}>TIPO</span>
@@ -1322,513 +1887,1382 @@ export default function App() {
 
           {/* Table rows */}
           <div style={{ flex: 1, overflowY: "auto" }}>
-            {portalLoading && <div style={{ textAlign: "center", padding: 20, color: "#555", fontSize: 10 }}>CARGANDO...</div>}
+            {portalLoading && (
+              <div
+                style={{
+                  textAlign: "center",
+                  padding: 20,
+                  color: "#555",
+                  fontSize: 10,
+                }}
+              >
+                CARGANDO...
+              </div>
+            )}
             {!portalLoading && acciones.length === 0 && (
-              <div style={{ textAlign: "center", padding: 40, color: "#333", fontSize: 10, letterSpacing: ".12em", textTransform: "uppercase" }}>
+              <div
+                style={{
+                  textAlign: "center",
+                  padding: 40,
+                  color: "#333",
+                  fontSize: 10,
+                  letterSpacing: ".12em",
+                  textTransform: "uppercase",
+                }}
+              >
                 Sin acciones registradas
               </div>
             )}
-            {!portalLoading && acciones
-              .filter((a) => a.seccion === portalTab)
-              .map((a) => {
-                const statusColor = a.status === "en_curso" ? "#e8c030" : a.status === "finalizado" ? "#cc0000" : "#3a9a3a";
-                return (
-                  <div key={a.id} onClick={() => openPortalDetail(a)}
-                    style={{
-                      display: "flex", padding: "8px 12px", borderBottom: "1px solid #141414",
-                      cursor: "pointer", fontSize: 11, color: "#ccc", alignItems: "flex-start",
-                      transition: "background .1s", gap: 4,
-                    }}
-                    onMouseEnter={(e) => e.currentTarget.style.background = "#111"}
-                    onMouseLeave={(e) => e.currentTarget.style.background = "transparent"}>
-                    <span style={{ width: 50, flexShrink: 0, color: statusColor, fontWeight: 700 }}>{a.hora}</span>
-                    <span style={{ minWidth: 160, flex: 2, color: "#999", lineHeight: 1.4, fontFamily: SANS }}>
-                      {a.bandera} {a.lugar}
-                    </span>
-                    <span style={{ width: 90, flexShrink: 0, textTransform: "uppercase", fontSize: 9, letterSpacing: ".08em", lineHeight: 1.4 }}>
-                      {a.tipoAccion}
-                    </span>
-                    <span style={{ minWidth: 140, flex: 1, lineHeight: 1.4 }}>
-                      {a.organizaciones.join(", ")}
-                    </span>
-                    <span style={{ minWidth: 140, flex: 1, color: "#888", lineHeight: 1.4 }}>
-                      {a.motivo}
-                    </span>
-                  </div>
-                );
-              })}
-          </div>
-        </div>
-
-    {/* ════ COBERTURAS TAB ════ */}
-    <div style={{ flex: portalTab === "coberturas" ? 1 : 0,
-      display: portalTab === "coberturas" ? "flex" : "none",
-      flexDirection: "column", overflow: "hidden", minHeight: 0 }}>
-
-      {/* List */}
-      <div style={{ flex: 1, overflowY: "auto", fontFamily: MONO }}>
-        {coberturas.length === 0 && (
-          <div style={{ textAlign: "center", padding: 40, color: "#444", fontSize: 10 }}>
-            Sin coberturas aún.
-          </div>
-        )}
-        {coberturas.map((c) => (
-          <div key={c.id} style={{
-            padding: "10px 12px", borderBottom: "1px solid #141414",
-            borderLeft: "3px solid #cc0000", background: "#0d0d0d",
-          }}>
-            <div style={{ fontSize: 12, fontWeight: 700, color: "#eee", marginBottom: 4 }}>{c.titulo}</div>
-            <div style={{ fontSize: 10, color: "#888", lineHeight: 1.6, whiteSpace: "pre-wrap" }}>{c.contenido}</div>
-            <div style={{ display: "flex", gap: 6, marginTop: 6, fontSize: 8, color: "#555" }}>
-              {c.autor && <span>✎ {c.autor}</span>}
-              {(c.tags || []).map((t: string, i: number) => (
-                <span key={i} style={{ background: "#111", padding: "1px 5px", textTransform: "uppercase" }}>{t}</span>
-              ))}
-            </div>
-          </div>
-        ))}
-      </div>
-    </div>
-  </div>
-
-  {/* ════ REDACCIÓN ════ */}
-  <div style={{ flex: view === "redaccion" ? 1 : 0,
-    display: view === "redaccion" ? "flex" : "none",
-    flexDirection: "column", overflow: "hidden", minHeight: 0, fontFamily: MONO }}>
-
-    {/* Agent table */}
-    <div style={{ flex: selectedRedaccionAgent ? "0 0 auto" : 1, overflowY: "auto" }}>
-      {/* Header row */}
-      <div style={{ display: "flex", padding: "6px 12px", borderBottom: "2px solid #cc0000",
-        flexShrink: 0, fontSize: 9, fontWeight: 700, color: "#cc0000",
-        letterSpacing: ".1em", textTransform: "uppercase", background: "#0a0a0a" }}>
-        <span style={{ minWidth: 160, flex: 1 }}>AGENTE</span>
-        <span style={{ minWidth: 140, flex: 1 }}>ACTIVIDAD</span>
-        <span style={{ width: 80, flexShrink: 0, textAlign: "right" }}>TAREAS</span>
-      </div>
-
-      {redaccionAgentes.length === 0 && (
-        <div style={{ textAlign: "center", padding: 40, color: "#555", fontSize: 11 }}>
-          Sin agentes. Creá uno o activá los existentes.
-        </div>
-      )}
-      {redaccionAgentes.map((ag) => (
-        <div key={ag.id} onClick={() => setSelectedRedaccionAgent(selectedRedaccionAgent?.id === ag.id ? null : ag)}
-          style={{
-            display: "flex", padding: "8px 12px", borderBottom: "1px solid #141414",
-            cursor: "pointer", fontSize: 11, color: "#ccc", alignItems: "center",
-            transition: "background .1s",
-            background: selectedRedaccionAgent?.id === ag.id ? "#111" : "transparent",
-            borderLeft: selectedRedaccionAgent?.id === ag.id ? "3px solid #cc0000" : "3px solid transparent",
-          }}
-          onMouseEnter={(e) => { if (selectedRedaccionAgent?.id !== ag.id) e.currentTarget.style.background = "#0d0d0d"; }}
-          onMouseLeave={(e) => { if (selectedRedaccionAgent?.id !== ag.id) e.currentTarget.style.background = "transparent"; }}>
-          <span style={{ minWidth: 160, flex: 1, fontWeight: 700, color: "#eee" }}>{ag.nombre}</span>
-          <span style={{ minWidth: 140, flex: 1, fontSize: 10, color: actividadPorAgente[ag.agenteId || ""] ? "#e8c030" : "#555" }}>
-            {actividadPorAgente[ag.agenteId || ""] || (ag.agenteId ? "esperando..." : "—")}
-          </span>
-          <span style={{ width: 80, flexShrink: 0, textAlign: "right", fontSize: 10, color: "#666" }}>
-            {ag.tareas.length}
-          </span>
-        </div>
-      ))}
-    </div>
-
-    {/* Detail panel (expanded agent) */}
-    {selectedRedaccionAgent && (
-      <div style={{ borderTop: "2px solid #cc0000", background: "#0d0d0d",
-        overflowY: "auto", flex: 1, padding: 12 }}>
-        <div style={{ display: "flex", alignItems: "center", gap: 8, marginBottom: 10 }}>
-          {editingName === selectedRedaccionAgent.id ? (
-            <input autoFocus value={editNameValue}
-              onChange={(e) => setEditNameValue(e.target.value)}
-              onBlur={() => saveAgentName(selectedRedaccionAgent.id)}
-              onKeyDown={(e) => { if (e.key === "Enter") saveAgentName(selectedRedaccionAgent.id); }}
-              style={{ flex: 1, background: "#111", border: "1px solid #cc0000", color: "#eee",
-                fontSize: 14, fontWeight: 700, padding: "6px 8px", fontFamily: MONO, outline: "none" }} />
-          ) : (
-            <>
-              <span style={{ flex: 1, fontSize: 14, fontWeight: 700, color: "#eee",
-                letterSpacing: ".04em" }}>{selectedRedaccionAgent.nombre}</span>
-              <button onClick={() => { setEditingName(selectedRedaccionAgent.id); setEditNameValue(selectedRedaccionAgent.nombre); }}
-                style={{ background: "none", border: "1px solid #333", color: "#888", cursor: "pointer", fontSize: 10, padding: "4px 8px" }}>✎ EDITAR NOMBRE</button>
-            </>
-          )}
-          <button onClick={() => setSelectedRedaccionAgent(null)}
-            style={{ background: "none", border: "1px solid #e83030", color: "#e83030", cursor: "pointer", fontSize: 9, padding: "4px 8px" }}>
-            CERRAR ×
-          </button>
-        </div>
-
-        {/* Linked agent status */}
-        <div style={{ display: "flex", gap: 10, marginBottom: 10, fontSize: 10, color: "#666", alignItems: "center" }}>
-          {editingAgenteId === selectedRedaccionAgent.id ? (
-            <input autoFocus value={editAgenteIdValue}
-              onChange={(e) => setEditAgenteIdValue(e.target.value)}
-              onBlur={() => saveAgenteId(selectedRedaccionAgent.id)}
-              onKeyDown={(e) => { if (e.key === "Enter") saveAgenteId(selectedRedaccionAgent.id); }}
-              style={{ flex: 1, background: "#111", border: "1px solid #444", color: "#ccc",
-                fontSize: 10, padding: "4px 6px", fontFamily: MONO, outline: "none" }} />
-          ) : (
-            <span style={{ background: "#111", padding: "2px 6px", letterSpacing: ".08em", textTransform: "uppercase", cursor: "pointer" }}
-              onClick={() => { setEditingAgenteId(selectedRedaccionAgent.id); setEditAgenteIdValue(selectedRedaccionAgent.agenteId || ""); }}>
-              ⟳ {selectedRedaccionAgent.agenteId || "sin vínculo"}
-            </span>
-          )}
-          {selectedRedaccionAgent.agenteId && actividadPorAgente[selectedRedaccionAgent.agenteId] && (
-            <span style={{ color: "#e8c030" }}>{actividadPorAgente[selectedRedaccionAgent.agenteId]}</span>
-          )}
-          <span style={{ fontSize: 8, color: "#444" }}>click para cambiar</span>
-        </div>
-
-        {/* Tasks */}
-        <div style={{ marginBottom: 10 }}>
-          <div style={{ fontSize: 9, fontWeight: 700, color: "#cc0000", letterSpacing: ".1em", textTransform: "uppercase", marginBottom: 6 }}>
-            TAREAS
-          </div>
-          {selectedRedaccionAgent.tareas.map((t: string, ti: number) => (
-            <div key={ti} style={{ display: "flex", gap: 6, alignItems: "center", marginBottom: 4, fontSize: 11 }}>
-              <span style={{ color: "#cc0000" }}>▸</span>
-              {editingTask === `${selectedRedaccionAgent.id}-${ti}` ? (
-                <input autoFocus value={editTaskValue}
-                  onChange={(e) => setEditTaskValue(e.target.value)}
-                  onBlur={() => saveTask(selectedRedaccionAgent.id, ti)}
-                  onKeyDown={(e) => { if (e.key === "Enter") saveTask(selectedRedaccionAgent.id, ti); }}
-                  style={{ flex: 1, background: "#111", border: "1px solid #444", color: "#ccc",
-                    fontSize: 11, padding: "4px 6px", fontFamily: MONO, outline: "none" }} />
-              ) : (
-                <>
-                  <span style={{ flex: 1, color: "#ccc" }}>{t}</span>
-                  {!selectedRedaccionAgent.agenteId && (
-                    <button onClick={() => void ejecutarTarea(selectedRedaccionAgent, ti)}
-                      disabled={ejecutandoTask === ti}
+            {!portalLoading &&
+              acciones
+                .filter((a) => a.seccion === portalTab)
+                .map((a) => {
+                  const statusColor =
+                    a.status === "en_curso"
+                      ? "#e8c030"
+                      : a.status === "finalizado"
+                        ? "#cc0000"
+                        : "#3a9a3a";
+                  return (
+                    <div
+                      key={a.id}
+                      onClick={() => openPortalDetail(a)}
                       style={{
-                        background: ejecutandoTask === ti ? "#111" : "none",
-                        border: "none", color: ejecutandoTask === ti ? "#333" : "#cc0000",
-                        cursor: ejecutandoTask === ti ? "not-allowed" : "pointer", fontSize: 9,
-                      }}>
-                      {ejecutandoTask === ti ? "▶" : "▶ EJECUTAR"}
-                    </button>
-                  )}
-                  <button onClick={() => { setEditingTask(`${selectedRedaccionAgent.id}-${ti}`); setEditTaskValue(t); }}
-                    style={{ background: "none", border: "none", color: "#555", cursor: "pointer", fontSize: 9 }}>✎</button>
-                  <button onClick={() => deleteTask(selectedRedaccionAgent.id, ti)}
-                    style={{ background: "none", border: "none", color: "#e83030", cursor: "pointer", fontSize: 9 }}>×</button>
-                </>
-              )}
-            </div>
-          ))}
-          <button onClick={() => addTask(selectedRedaccionAgent.id)}
-            style={{ background: "none", border: "1px dashed #333", color: "#555", cursor: "pointer",
-              fontSize: 10, padding: "3px 10px", marginTop: 4, width: "100%" }}>
-            + AGREGAR TAREA
-          </button>
+                        display: "flex",
+                        padding: "8px 12px",
+                        borderBottom: "1px solid #141414",
+                        cursor: "pointer",
+                        fontSize: 11,
+                        color: "#ccc",
+                        alignItems: "flex-start",
+                        transition: "background .1s",
+                        gap: 4,
+                      }}
+                      onMouseEnter={(e) =>
+                        (e.currentTarget.style.background = "#111")
+                      }
+                      onMouseLeave={(e) =>
+                        (e.currentTarget.style.background = "transparent")
+                      }
+                    >
+                      <span
+                        style={{
+                          width: 50,
+                          flexShrink: 0,
+                          color: statusColor,
+                          fontWeight: 700,
+                        }}
+                      >
+                        {a.hora}
+                      </span>
+                      <span
+                        style={{
+                          minWidth: 160,
+                          flex: 2,
+                          color: "#999",
+                          lineHeight: 1.4,
+                          fontFamily: SANS,
+                        }}
+                      >
+                        {a.bandera} {a.lugar}
+                      </span>
+                      <span
+                        style={{
+                          width: 90,
+                          flexShrink: 0,
+                          textTransform: "uppercase",
+                          fontSize: 9,
+                          letterSpacing: ".08em",
+                          lineHeight: 1.4,
+                        }}
+                      >
+                        {a.tipoAccion}
+                      </span>
+                      <span style={{ minWidth: 140, flex: 1, lineHeight: 1.4 }}>
+                        {a.organizaciones.join(", ")}
+                      </span>
+                      <span
+                        style={{
+                          minWidth: 140,
+                          flex: 1,
+                          color: "#888",
+                          lineHeight: 1.4,
+                        }}
+                      >
+                        {a.motivo}
+                      </span>
+                    </div>
+                  );
+                })}
+          </div>
         </div>
 
-        {/* Ejecutar */}
-        <div style={{ marginBottom: 10 }}>
-          {selectedRedaccionAgent.agenteId ? (
-            <>
-              <button onClick={() => triggerAgentById(selectedRedaccionAgent.agenteId)}
-                disabled={triggeringAgent === selectedRedaccionAgent.agenteId}
+        {/* ════ COBERTURAS TAB ════ */}
+        <div
+          style={{
+            flex: portalTab === "coberturas" ? 1 : 0,
+            display: portalTab === "coberturas" ? "flex" : "none",
+            flexDirection: "column",
+            overflow: "hidden",
+            minHeight: 0,
+          }}
+        >
+          {/* List */}
+          <div style={{ flex: 1, overflowY: "auto", fontFamily: MONO }}>
+            {coberturas.length === 0 && (
+              <div
                 style={{
-                  width: "100%", padding: "8px 0", border: "none", cursor: "pointer",
-                  background: triggeringAgent === selectedRedaccionAgent.agenteId ? "#111" : "#cc0000",
-                  color: triggeringAgent === selectedRedaccionAgent.agenteId ? "#333" : "#fff",
-                  fontSize: 11, fontWeight: 700, letterSpacing: ".12em",
-                  textTransform: "uppercase", fontFamily: MONO,
-                }}>
-                {triggeringAgent === selectedRedaccionAgent.agenteId
-                  ? "▶ EJECUTANDO..."
-                  : "▶ EJECUTAR (PUBLICAR ACCIONES)"}
-              </button>
-              <div style={{ fontSize: 8, color: "#555", marginTop: 4, textAlign: "center" }}>
-                Busca acciones colectivas y las publica en el Portal
+                  textAlign: "center",
+                  padding: 40,
+                  color: "#444",
+                  fontSize: 10,
+                }}
+              >
+                Sin coberturas aún.
               </div>
-            </>
-          ) : (
-            <>
-              <button onClick={() => void ejecutarTarea(selectedRedaccionAgent)}
-                disabled={triggeringAgent === `custom-${selectedRedaccionAgent.id}`}
-                style={{
-                  width: "100%", padding: "8px 0", border: "none", cursor: "pointer",
-                  background: triggeringAgent === `custom-${selectedRedaccionAgent.id}` ? "#111" : "#cc0000",
-                  color: triggeringAgent === `custom-${selectedRedaccionAgent.id}` ? "#333" : "#fff",
-                  fontSize: 11, fontWeight: 700, letterSpacing: ".12em",
-                  textTransform: "uppercase", fontFamily: MONO,
-                }}>
-                {triggeringAgent === `custom-${selectedRedaccionAgent.id}`
-                  ? "▶ INVESTIGANDO..."
-                  : "▶ EJECUTAR TODAS LAS TAREAS"}
-              </button>
-              <div style={{ fontSize: 8, color: "#555", marginTop: 4, textAlign: "center" }}>
-                El agente investiga y publica una nota en Coberturas
-              </div>
-            </>
-          )}
-        </div>
-
-        {/* Ejecución log */}
-        {ejecucionLog && (
-          <div style={{ marginBottom: 10 }}>
-            <div style={{ fontSize: 9, fontWeight: 700, color: "#cc0000", letterSpacing: ".1em", textTransform: "uppercase", marginBottom: 4 }}>
-              RESULTADO
-            </div>
-            <div style={{
-              fontSize: 10, color: "#ccc", lineHeight: 1.6, whiteSpace: "pre-wrap",
-              background: "#080808", padding: 8, border: "1px solid #1a1a1a",
-              maxHeight: 200, overflowY: "auto",
-            }}>
-              {ejecucionLog}
-            </div>
-          </div>
-        )}
-
-        {/* Activity log */}
-        {selectedRedaccionAgent.agenteId && (
-          <div>
-            <div style={{ fontSize: 9, fontWeight: 700, color: "#cc0000", letterSpacing: ".1em", textTransform: "uppercase", marginBottom: 6 }}>
-              ACTIVIDAD RECIENTE
-            </div>
-            <div style={{ fontSize: 10, color: "#666", maxHeight: 100, overflowY: "auto", lineHeight: 1.8 }}>
-              {actividad[selectedRedaccionAgent.agenteId]?.slice(0, 10).map((act, ai) => (
-                <div key={ai} style={{
-                  color: act.type === "error" ? "#e83030" : act.type === "done" ? "#3a9a3a" : "#888",
-                }}>
-                  {act.time} {act.msg}
-                </div>
-              ))}
-              {(!actividad[selectedRedaccionAgent.agenteId] || actividad[selectedRedaccionAgent.agenteId].length === 0) && (
-                <span style={{ color: "#444" }}>Sin actividad registrada</span>
-              )}
-            </div>
-          </div>
-        )}
-
-        <div style={{ marginTop: 14, borderTop: "1px solid #1a1a1a", paddingTop: 10 }}>
-          <button onClick={() => { deleteAgente(selectedRedaccionAgent.id); setSelectedRedaccionAgent(null); }}
-            style={{ background: "none", border: "1px solid #e83030", color: "#e83030", cursor: "pointer",
-              fontSize: 9, padding: "4px 10px" }}>
-            ELIMINAR AGENTE
-          </button>
-        </div>
-      </div>
-    )}
-
-    {/* Coberturas editor */}
-    <div style={{ borderTop: "1px solid #1a1a1a", flexShrink: 0 }}>
-      <div
-        onClick={() => setShowCoberturasEditor((p) => !p)}
-        style={{ display: "flex", alignItems: "center", padding: "7px 12px", cursor: "pointer",
-          background: "#0a0a0a", gap: 8, userSelect: "none" }}>
-        <span style={{ fontSize: 10, fontWeight: 700, color: "#cc0000", letterSpacing: ".1em",
-          textTransform: "uppercase" }}>
-          {showCoberturasEditor ? "▼" : "▶"} COBERTURAS
-        </span>
-        <span style={{ fontSize: 8, color: "#555" }}>editar notas publicadas</span>
-      </div>
-      {showCoberturasEditor && (
-        <div style={{ padding: "8px 12px", borderBottom: "2px solid #cc0000", background: "#0d0d0d" }}>
-          <div style={{ fontSize: 9, fontWeight: 700, color: "#cc0000", letterSpacing: ".1em", textTransform: "uppercase", marginBottom: 6, fontFamily: MONO }}>
-            {coberturaEditing ? "EDITAR COBERTURA" : "NUEVA COBERTURA"}
-          </div>
-          <input placeholder="Título" value={coberturaForm.titulo}
-            onChange={(e) => setCoberturaForm({ ...coberturaForm, titulo: e.target.value })}
-            style={{ width: "100%", background: "#111", border: "1px solid #1e1e1e", color: "#eee",
-              fontSize: 12, padding: "6px 8px", marginBottom: 4, fontFamily: MONO, outline: "none", boxSizing: "border-box" }} />
-          <textarea placeholder="Contenido de la cobertura..." value={coberturaForm.contenido}
-            onChange={(e) => setCoberturaForm({ ...coberturaForm, contenido: e.target.value })}
-            rows={3}
-            style={{ width: "100%", background: "#111", border: "1px solid #1e1e1e", color: "#ccc",
-              fontSize: 11, padding: "6px 8px", marginBottom: 4, fontFamily: MONO, outline: "none", resize: "vertical", boxSizing: "border-box" }} />
-          <div style={{ display: "flex", gap: 6 }}>
-            <input placeholder="Autor" value={coberturaForm.autor}
-              onChange={(e) => setCoberturaForm({ ...coberturaForm, autor: e.target.value })}
-              style={{ flex: 1, background: "#111", border: "1px solid #1e1e1e", color: "#888",
-                fontSize: 10, padding: "4px 6px", fontFamily: MONO, outline: "none" }} />
-            <input placeholder="Tags (coma separados)" value={coberturaForm.tags}
-              onChange={(e) => setCoberturaForm({ ...coberturaForm, tags: e.target.value })}
-              style={{ flex: 2, background: "#111", border: "1px solid #1e1e1e", color: "#888",
-                fontSize: 10, padding: "4px 6px", fontFamily: MONO, outline: "none" }} />
-            <button onClick={() => void saveCobertura()}
-              disabled={!coberturaForm.titulo.trim()}
-              style={{
-                background: coberturaForm.titulo.trim() ? "#cc0000" : "#111",
-                color: coberturaForm.titulo.trim() ? "#fff" : "#333",
-                border: "none", cursor: coberturaForm.titulo.trim() ? "pointer" : "not-allowed",
-                padding: "4px 12px", fontSize: 10, fontWeight: 700, fontFamily: MONO,
-              }}>{coberturaEditing ? "GUARDAR" : "PUBLICAR"}</button>
-            {coberturaEditing && (
-              <button onClick={() => { setCoberturaEditing(null); setCoberturaForm({ titulo: "", contenido: "", autor: "", tags: "" }); }}
-                style={{ background: "none", border: "1px solid #333", color: "#888", cursor: "pointer", padding: "4px 8px", fontSize: 9, fontFamily: MONO }}>
-                CANCELAR
-              </button>
             )}
-          </div>
-          {/* mini-list para editar/borrar */}
-          <div style={{ marginTop: 10 }}>
             {coberturas.map((c) => (
-              <div key={c.id} style={{
-                display: "flex", alignItems: "center", gap: 6, padding: "5px 0",
-                borderBottom: "1px solid #141414", fontSize: 11, color: "#aaa",
-              }}>
-                <span style={{ flex: 1, color: "#eee" }}>{c.titulo}</span>
-                <button onClick={() => { setCoberturaEditing(c); setCoberturaForm({ titulo: c.titulo, contenido: c.contenido, autor: c.autor || "", tags: (c.tags || []).join(", ") }); }}
-                  style={{ background: "none", border: "none", color: "#555", cursor: "pointer", fontSize: 10 }}>✎</button>
-                <button onClick={() => deleteCobertura(c.id)}
-                  style={{ background: "none", border: "none", color: "#e83030", cursor: "pointer", fontSize: 10 }}>×</button>
+              <div
+                key={c.id}
+                style={{
+                  padding: "10px 12px",
+                  borderBottom: "1px solid #141414",
+                  borderLeft: "3px solid #cc0000",
+                  background: "#0d0d0d",
+                }}
+              >
+                <div
+                  style={{
+                    fontSize: 12,
+                    fontWeight: 700,
+                    color: "#eee",
+                    marginBottom: 4,
+                  }}
+                >
+                  {c.titulo}
+                </div>
+                <div
+                  style={{
+                    fontSize: 10,
+                    color: "#888",
+                    lineHeight: 1.6,
+                    whiteSpace: "pre-wrap",
+                  }}
+                >
+                  {c.contenido}
+                </div>
+                <div
+                  style={{
+                    display: "flex",
+                    gap: 6,
+                    marginTop: 6,
+                    fontSize: 8,
+                    color: "#555",
+                  }}
+                >
+                  {c.autor && <span>✎ {c.autor}</span>}
+                  {(c.tags || []).map((t: string, i: number) => (
+                    <span
+                      key={i}
+                      style={{
+                        background: "#111",
+                        padding: "1px 5px",
+                        textTransform: "uppercase",
+                      }}
+                    >
+                      {t}
+                    </span>
+                  ))}
+                </div>
               </div>
             ))}
           </div>
         </div>
-      )}
-    </div>
-
-    {/* Jefe Editor chat */}
-    <div style={{ borderTop: "2px solid #cc0000", display: "flex", flexDirection: "column",
-      maxHeight: 250, minHeight: 180, flexShrink: 0 }}>
-      <div style={{ display: "flex", alignItems: "center", padding: "6px 12px",
-        background: "#0a0a0a", borderBottom: "1px solid #1a1a1a", gap: 8 }}>
-        <span style={{ fontSize: 10, fontWeight: 700, color: "#cc0000", letterSpacing: ".1em",
-          textTransform: "uppercase" }}>JEFE EDITOR</span>
-        <span style={{ fontSize: 8, color: "#555" }}>consultá sobre cobertura y estrategia</span>
-        <button onClick={() => { setView("portal"); setPortalTab("coberturas"); }}
-          style={{ marginLeft: "auto", background: "none", border: "1px solid #333", color: "#666",
-            cursor: "pointer", fontSize: 8, padding: "2px 6px" }}>
-          📋 VER PUBLICADAS
-        </button>
-        <button onClick={() => resetJefe()}
-          style={{ background: "none", border: "1px solid #333", color: "#555",
-            cursor: "pointer", fontSize: 8, padding: "2px 6px" }}>
-          LIMPIAR
-        </button>
       </div>
-      <div ref={jefeMsgsRef} style={{ flex: 1, overflowY: "auto", padding: 8, fontSize: 11, lineHeight: 1.6 }}>
-        {jefeMessages.length === 0 && (
-          <div style={{ textAlign: "center", color: "#444", padding: 20, fontSize: 10 }}>
-            Consultá al jefe editor sobre la redacción
-          </div>
-        )}
-        {jefeMessages.map((m, i) => (
-          <div key={i} style={{
-            display: "flex", gap: 6, marginBottom: 8,
-            flexDirection: m.role === "user" ? "row-reverse" : "row",
-          }}>
-            <div style={{
-              background: m.role === "user" ? "#cc0000" : "#111",
-              border: m.role === "user" ? "none" : "1px solid #222",
-              padding: "6px 10px", borderRadius: 4,
-              maxWidth: "80%", wordBreak: "break-word",
-              color: m.role === "user" ? "#fff" : "#ccc",
-              fontFamily: m.role === "user" ? MONO : SANS,
-              fontSize: m.role === "user" ? 11 : 12,
-            }}>{m.text}</div>
-          </div>
-        ))}
-        {jefeBusy && (
-          <div style={{ color: "#666", fontSize: 10, padding: "4px 0" }}>
-            <span style={{ display: "inline-flex", gap: 3, alignItems: "center" }}>
-              {[0, .25, .5].map((d, j) => (
-                <span key={j} style={{ width: 4, height: 4, background: "#cc0000",
-                  display: "inline-block", animation: `pulse 1.2s ${d}s infinite` }} />
-              ))}
+
+      {/* ════ REDACCIÓN ════ */}
+      <div
+        style={{
+          flex: view === "redaccion" ? 1 : 0,
+          display: view === "redaccion" ? "flex" : "none",
+          flexDirection: "column",
+          overflow: "hidden",
+          minHeight: 0,
+          fontFamily: MONO,
+        }}
+      >
+        {/* Agent table */}
+        <div
+          style={{
+            flex: selectedRedaccionAgent ? "0 0 auto" : 1,
+            overflowY: "auto",
+          }}
+        >
+          {/* Header row */}
+          <div
+            style={{
+              display: "flex",
+              padding: "6px 12px",
+              borderBottom: "2px solid #cc0000",
+              flexShrink: 0,
+              fontSize: 9,
+              fontWeight: 700,
+              color: "#cc0000",
+              letterSpacing: ".1em",
+              textTransform: "uppercase",
+              background: "#0a0a0a",
+            }}
+          >
+            <span style={{ minWidth: 160, flex: 1 }}>AGENTE</span>
+            <span style={{ minWidth: 140, flex: 1 }}>ACTIVIDAD</span>
+            <span style={{ width: 80, flexShrink: 0, textAlign: "right" }}>
+              TAREAS
             </span>
           </div>
-        )}
-        <div ref={jefeEndRef} />
-      </div>
-      <div style={{ display: "flex", borderTop: "1px solid #1a1a1a", padding: "6px 8px", gap: 6, background: "#0a0a0a" }}>
-        <textarea
-          value={jefeInput}
-          onChange={(e) => setJefeInput(e.target.value)}
-          onKeyDown={(e) => { if (e.key === "Enter" && !e.shiftKey) { e.preventDefault(); void jefeSend(); } }}
-          placeholder="consultar al editor..."
-          rows={1} disabled={jefeBusy}
-          style={{ flex: 1, background: "#0d0d0d", border: "1px solid #1e1e1e",
-            color: "#e8e8e8", fontSize: 11, padding: "6px 8px", resize: "none",
-            fontFamily: MONO, lineHeight: 1.4, outline: "none", height: 30 }} />
-        <button onClick={() => void jefeSend()} disabled={jefeBusy || !jefeInput.trim()}
-          style={{
-            background: jefeBusy || !jefeInput.trim() ? "#111" : "#cc0000",
-            color: jefeBusy || !jefeInput.trim() ? "#333" : "#fff",
-            border: "none", cursor: jefeBusy || !jefeInput.trim() ? "not-allowed" : "pointer",
-            padding: "0 12px", fontSize: 10, fontWeight: 700, fontFamily: MONO,
-          }}>→</button>
-      </div>
-    </div>
-  </div>
 
+          {redaccionAgentes.length === 0 && (
+            <div
+              style={{
+                textAlign: "center",
+                padding: 40,
+                color: "#555",
+                fontSize: 11,
+              }}
+            >
+              Sin agentes. Creá uno o activá los existentes.
+            </div>
+          )}
+          {redaccionAgentes.map((ag) => (
+            <div
+              key={ag.id}
+              onClick={() =>
+                setSelectedRedaccionAgent(
+                  selectedRedaccionAgent?.id === ag.id ? null : ag,
+                )
+              }
+              style={{
+                display: "flex",
+                padding: "8px 12px",
+                borderBottom: "1px solid #141414",
+                cursor: "pointer",
+                fontSize: 11,
+                color: "#ccc",
+                alignItems: "center",
+                transition: "background .1s",
+                background:
+                  selectedRedaccionAgent?.id === ag.id ? "#111" : "transparent",
+                borderLeft:
+                  selectedRedaccionAgent?.id === ag.id
+                    ? "3px solid #cc0000"
+                    : "3px solid transparent",
+              }}
+              onMouseEnter={(e) => {
+                if (selectedRedaccionAgent?.id !== ag.id)
+                  e.currentTarget.style.background = "#0d0d0d";
+              }}
+              onMouseLeave={(e) => {
+                if (selectedRedaccionAgent?.id !== ag.id)
+                  e.currentTarget.style.background = "transparent";
+              }}
+            >
+              <span
+                style={{
+                  minWidth: 160,
+                  flex: 1,
+                  fontWeight: 700,
+                  color: "#eee",
+                }}
+              >
+                {ag.nombre}
+              </span>
+              <span
+                style={{
+                  minWidth: 140,
+                  flex: 1,
+                  fontSize: 10,
+                  color: actividadPorAgente[ag.agenteId || ""]
+                    ? "#e8c030"
+                    : "#555",
+                }}
+              >
+                {actividadPorAgente[ag.agenteId || ""] ||
+                  (ag.agenteId ? "esperando..." : "—")}
+              </span>
+              <span
+                style={{
+                  width: 80,
+                  flexShrink: 0,
+                  textAlign: "right",
+                  fontSize: 10,
+                  color: "#666",
+                }}
+              >
+                {(ag.tareas || []).length}
+              </span>
+            </div>
+          ))}
+        </div>
 
-  {/* ════ CHAT ════ */}
-      <div style={{ flex: view === "chat" ? 1 : 0,
-        display: view === "chat" ? "flex" : "none",
-        flexDirection: "column", overflow: "hidden", minHeight: 0 }}>
+        {/* Detail panel (expanded agent) */}
+        {selectedRedaccionAgent && (
+          <div
+            style={{
+              borderTop: "2px solid #cc0000",
+              background: "#0d0d0d",
+              overflowY: "auto",
+              flex: 1,
+              padding: 12,
+            }}
+          >
+            <div
+              style={{
+                display: "flex",
+                alignItems: "center",
+                gap: 8,
+                marginBottom: 10,
+              }}
+            >
+              {editingName === selectedRedaccionAgent.id ? (
+                <input
+                  autoFocus
+                  value={editNameValue}
+                  onChange={(e) => setEditNameValue(e.target.value)}
+                  onBlur={() => saveAgentName(selectedRedaccionAgent.id)}
+                  onKeyDown={(e) => {
+                    if (e.key === "Enter")
+                      saveAgentName(selectedRedaccionAgent.id);
+                  }}
+                  style={{
+                    flex: 1,
+                    background: "#111",
+                    border: "1px solid #cc0000",
+                    color: "#eee",
+                    fontSize: 14,
+                    fontWeight: 700,
+                    padding: "6px 8px",
+                    fontFamily: MONO,
+                    outline: "none",
+                  }}
+                />
+              ) : (
+                <>
+                  <span
+                    style={{
+                      flex: 1,
+                      fontSize: 14,
+                      fontWeight: 700,
+                      color: "#eee",
+                      letterSpacing: ".04em",
+                    }}
+                  >
+                    {selectedRedaccionAgent.nombre}
+                  </span>
+                  <button
+                    onClick={() => {
+                      setEditingName(selectedRedaccionAgent.id);
+                      setEditNameValue(selectedRedaccionAgent.nombre);
+                    }}
+                    style={{
+                      background: "none",
+                      border: "1px solid #333",
+                      color: "#888",
+                      cursor: "pointer",
+                      fontSize: 10,
+                      padding: "4px 8px",
+                    }}
+                  >
+                    ✎ EDITAR NOMBRE
+                  </button>
+                </>
+              )}
+              <button
+                onClick={() => setSelectedRedaccionAgent(null)}
+                style={{
+                  background: "none",
+                  border: "1px solid #e83030",
+                  color: "#e83030",
+                  cursor: "pointer",
+                  fontSize: 9,
+                  padding: "4px 8px",
+                }}
+              >
+                CERRAR ×
+              </button>
+            </div>
 
-        {/* Messages */}
-        <div ref={chatMsgsRef} style={{ flex: 1, overflowY: "auto", padding: "20px 0 8px",
-          display: "flex", flexDirection: "column", fontFamily: SANS }}>
-          {messages.length === 0 && (
-            <div style={{ margin: "auto", textAlign: "center" }}>
-              <div style={{ position: "relative", width: 64, height: 64, margin: "0 auto 14px" }}>
-                <div style={{ position: "absolute", inset: 0, border: "3px solid #cc0000" }} />
-                <div style={{ position: "absolute", top: 7, left: 7, right: 7, bottom: 7,
-                  background: "#cc0000", display: "grid", placeItems: "center" }}>
-                  <span style={{ color: "#fff", fontSize: 22, fontWeight: 900 }}>✦</span>
+            {/* Linked agent status */}
+            <div
+              style={{
+                display: "flex",
+                gap: 10,
+                marginBottom: 10,
+                fontSize: 10,
+                color: "#666",
+                alignItems: "center",
+              }}
+            >
+              {editingAgenteId === selectedRedaccionAgent.id ? (
+                <input
+                  autoFocus
+                  value={editAgenteIdValue}
+                  onChange={(e) => setEditAgenteIdValue(e.target.value)}
+                  onBlur={() => saveAgenteId(selectedRedaccionAgent.id)}
+                  onKeyDown={(e) => {
+                    if (e.key === "Enter")
+                      saveAgenteId(selectedRedaccionAgent.id);
+                  }}
+                  style={{
+                    flex: 1,
+                    background: "#111",
+                    border: "1px solid #444",
+                    color: "#ccc",
+                    fontSize: 10,
+                    padding: "4px 6px",
+                    fontFamily: MONO,
+                    outline: "none",
+                  }}
+                />
+              ) : (
+                <span
+                  style={{
+                    background: "#111",
+                    padding: "2px 6px",
+                    letterSpacing: ".08em",
+                    textTransform: "uppercase",
+                    cursor: "pointer",
+                  }}
+                  onClick={() => {
+                    setEditingAgenteId(selectedRedaccionAgent.id);
+                    setEditAgenteIdValue(selectedRedaccionAgent.agenteId || "");
+                  }}
+                >
+                  ⟳ {selectedRedaccionAgent.agenteId || "sin vínculo"}
+                </span>
+              )}
+              {selectedRedaccionAgent.agenteId &&
+                actividadPorAgente[selectedRedaccionAgent.agenteId] && (
+                  <span style={{ color: "#e8c030" }}>
+                    {actividadPorAgente[selectedRedaccionAgent.agenteId]}
+                  </span>
+                )}
+              <span style={{ fontSize: 8, color: "#444" }}>
+                click para cambiar
+              </span>
+            </div>
+
+            {/* Tasks */}
+            <div style={{ marginBottom: 10 }}>
+              <div
+                style={{
+                  fontSize: 9,
+                  fontWeight: 700,
+                  color: "#cc0000",
+                  letterSpacing: ".1em",
+                  textTransform: "uppercase",
+                  marginBottom: 6,
+                }}
+              >
+                TAREAS
+              </div>
+              {selectedRedaccionAgent.tareas.map((t: string, ti: number) => (
+                <div
+                  key={ti}
+                  style={{
+                    display: "flex",
+                    gap: 6,
+                    alignItems: "center",
+                    marginBottom: 4,
+                    fontSize: 11,
+                  }}
+                >
+                  <span style={{ color: "#cc0000" }}>▸</span>
+                  {editingTask === `${selectedRedaccionAgent.id}-${ti}` ? (
+                    <input
+                      autoFocus
+                      value={editTaskValue}
+                      onChange={(e) => setEditTaskValue(e.target.value)}
+                      onBlur={() => saveTask(selectedRedaccionAgent.id, ti)}
+                      onKeyDown={(e) => {
+                        if (e.key === "Enter")
+                          saveTask(selectedRedaccionAgent.id, ti);
+                      }}
+                      style={{
+                        flex: 1,
+                        background: "#111",
+                        border: "1px solid #444",
+                        color: "#ccc",
+                        fontSize: 11,
+                        padding: "4px 6px",
+                        fontFamily: MONO,
+                        outline: "none",
+                      }}
+                    />
+                  ) : (
+                    <>
+                      <span style={{ flex: 1, color: "#ccc" }}>{t}</span>
+                      {!selectedRedaccionAgent.agenteId && (
+                        <button
+                          onClick={() =>
+                            void ejecutarTarea(selectedRedaccionAgent, ti)
+                          }
+                          disabled={ejecutandoTask === ti}
+                          style={{
+                            background: ejecutandoTask === ti ? "#111" : "none",
+                            border: "none",
+                            color: ejecutandoTask === ti ? "#333" : "#cc0000",
+                            cursor:
+                              ejecutandoTask === ti ? "not-allowed" : "pointer",
+                            fontSize: 9,
+                          }}
+                        >
+                          {ejecutandoTask === ti ? "▶" : "▶ EJECUTAR"}
+                        </button>
+                      )}
+                      <button
+                        onClick={() => {
+                          setEditingTask(`${selectedRedaccionAgent.id}-${ti}`);
+                          setEditTaskValue(t);
+                        }}
+                        style={{
+                          background: "none",
+                          border: "none",
+                          color: "#555",
+                          cursor: "pointer",
+                          fontSize: 9,
+                        }}
+                      >
+                        ✎
+                      </button>
+                      <button
+                        onClick={() =>
+                          deleteTask(selectedRedaccionAgent.id, ti)
+                        }
+                        style={{
+                          background: "none",
+                          border: "none",
+                          color: "#e83030",
+                          cursor: "pointer",
+                          fontSize: 9,
+                        }}
+                      >
+                        ×
+                      </button>
+                    </>
+                  )}
+                </div>
+              ))}
+              <button
+                onClick={() => addTask(selectedRedaccionAgent.id)}
+                style={{
+                  background: "none",
+                  border: "1px dashed #333",
+                  color: "#555",
+                  cursor: "pointer",
+                  fontSize: 10,
+                  padding: "3px 10px",
+                  marginTop: 4,
+                  width: "100%",
+                }}
+              >
+                + AGREGAR TAREA
+              </button>
+            </div>
+
+            {/* Ejecutar */}
+            <div style={{ marginBottom: 10 }}>
+              {selectedRedaccionAgent.agenteId ? (
+                <>
+                  <button
+                    onClick={() =>
+                      triggerAgentById(selectedRedaccionAgent.agenteId)
+                    }
+                    disabled={
+                      triggeringAgent === selectedRedaccionAgent.agenteId
+                    }
+                    style={{
+                      width: "100%",
+                      padding: "8px 0",
+                      border: "none",
+                      cursor: "pointer",
+                      background:
+                        triggeringAgent === selectedRedaccionAgent.agenteId
+                          ? "#111"
+                          : "#cc0000",
+                      color:
+                        triggeringAgent === selectedRedaccionAgent.agenteId
+                          ? "#333"
+                          : "#fff",
+                      fontSize: 11,
+                      fontWeight: 700,
+                      letterSpacing: ".12em",
+                      textTransform: "uppercase",
+                      fontFamily: MONO,
+                    }}
+                  >
+                    {triggeringAgent === selectedRedaccionAgent.agenteId
+                      ? "▶ EJECUTANDO..."
+                      : "▶ EJECUTAR (PUBLICAR ACCIONES)"}
+                  </button>
+                  <div
+                    style={{
+                      fontSize: 8,
+                      color: "#555",
+                      marginTop: 4,
+                      textAlign: "center",
+                    }}
+                  >
+                    Busca acciones colectivas y las publica en el Portal
+                  </div>
+                </>
+              ) : (
+                <>
+                  <button
+                    onClick={() => void ejecutarTarea(selectedRedaccionAgent)}
+                    disabled={
+                      triggeringAgent === `custom-${selectedRedaccionAgent.id}`
+                    }
+                    style={{
+                      width: "100%",
+                      padding: "8px 0",
+                      border: "none",
+                      cursor: "pointer",
+                      background:
+                        triggeringAgent ===
+                        `custom-${selectedRedaccionAgent.id}`
+                          ? "#111"
+                          : "#cc0000",
+                      color:
+                        triggeringAgent ===
+                        `custom-${selectedRedaccionAgent.id}`
+                          ? "#333"
+                          : "#fff",
+                      fontSize: 11,
+                      fontWeight: 700,
+                      letterSpacing: ".12em",
+                      textTransform: "uppercase",
+                      fontFamily: MONO,
+                    }}
+                  >
+                    {triggeringAgent === `custom-${selectedRedaccionAgent.id}`
+                      ? "▶ INVESTIGANDO..."
+                      : "▶ EJECUTAR TODAS LAS TAREAS"}
+                  </button>
+                  <div
+                    style={{
+                      fontSize: 8,
+                      color: "#555",
+                      marginTop: 4,
+                      textAlign: "center",
+                    }}
+                  >
+                    El agente investiga y publica una nota en Coberturas
+                  </div>
+                </>
+              )}
+            </div>
+
+            {/* Ejecución log */}
+            {ejecucionLog && (
+              <div style={{ marginBottom: 10 }}>
+                <div
+                  style={{
+                    fontSize: 9,
+                    fontWeight: 700,
+                    color: "#cc0000",
+                    letterSpacing: ".1em",
+                    textTransform: "uppercase",
+                    marginBottom: 4,
+                  }}
+                >
+                  RESULTADO
+                </div>
+                <div
+                  style={{
+                    fontSize: 10,
+                    color: "#ccc",
+                    lineHeight: 1.6,
+                    whiteSpace: "pre-wrap",
+                    background: "#080808",
+                    padding: 8,
+                    border: "1px solid #1a1a1a",
+                    maxHeight: 200,
+                    overflowY: "auto",
+                  }}
+                >
+                  {ejecucionLog}
                 </div>
               </div>
-              <p style={{ color: "#2a2a2a", fontSize: 10, fontWeight: 700,
-                letterSpacing: ".18em", textTransform: "uppercase", fontFamily: MONO }}>
+            )}
+
+            {/* Activity log */}
+            {selectedRedaccionAgent.agenteId && (
+              <div>
+                <div
+                  style={{
+                    fontSize: 9,
+                    fontWeight: 700,
+                    color: "#cc0000",
+                    letterSpacing: ".1em",
+                    textTransform: "uppercase",
+                    marginBottom: 6,
+                  }}
+                >
+                  ACTIVIDAD RECIENTE
+                </div>
+                <div
+                  style={{
+                    fontSize: 10,
+                    color: "#666",
+                    maxHeight: 100,
+                    overflowY: "auto",
+                    lineHeight: 1.8,
+                  }}
+                >
+                  {actividad[selectedRedaccionAgent.agenteId]
+                    ?.slice(0, 10)
+                    .map((act, ai) => (
+                      <div
+                        key={ai}
+                        style={{
+                          color:
+                            act.type === "error"
+                              ? "#e83030"
+                              : act.type === "done"
+                                ? "#3a9a3a"
+                                : "#888",
+                        }}
+                      >
+                        {act.time} {act.msg}
+                      </div>
+                    ))}
+                  {(!actividad[selectedRedaccionAgent.agenteId] ||
+                    actividad[selectedRedaccionAgent.agenteId].length ===
+                      0) && (
+                    <span style={{ color: "#444" }}>
+                      Sin actividad registrada
+                    </span>
+                  )}
+                </div>
+              </div>
+            )}
+
+            <div
+              style={{
+                marginTop: 14,
+                borderTop: "1px solid #1a1a1a",
+                paddingTop: 10,
+              }}
+            >
+              <button
+                onClick={() => {
+                  deleteAgente(selectedRedaccionAgent.id);
+                  setSelectedRedaccionAgent(null);
+                }}
+                style={{
+                  background: "none",
+                  border: "1px solid #e83030",
+                  color: "#e83030",
+                  cursor: "pointer",
+                  fontSize: 9,
+                  padding: "4px 10px",
+                }}
+              >
+                ELIMINAR AGENTE
+              </button>
+            </div>
+          </div>
+        )}
+
+        {/* Coberturas editor */}
+        <div style={{ borderTop: "1px solid #1a1a1a", flexShrink: 0 }}>
+          <div
+            onClick={() => setShowCoberturasEditor((p) => !p)}
+            style={{
+              display: "flex",
+              alignItems: "center",
+              padding: "7px 12px",
+              cursor: "pointer",
+              background: "#0a0a0a",
+              gap: 8,
+              userSelect: "none",
+            }}
+          >
+            <span
+              style={{
+                fontSize: 10,
+                fontWeight: 700,
+                color: "#cc0000",
+                letterSpacing: ".1em",
+                textTransform: "uppercase",
+              }}
+            >
+              {showCoberturasEditor ? "▼" : "▶"} COBERTURAS
+            </span>
+            <span style={{ fontSize: 8, color: "#555" }}>
+              editar notas publicadas
+            </span>
+          </div>
+          {showCoberturasEditor && (
+            <div
+              style={{
+                padding: "8px 12px",
+                borderBottom: "2px solid #cc0000",
+                background: "#0d0d0d",
+              }}
+            >
+              <div
+                style={{
+                  fontSize: 9,
+                  fontWeight: 700,
+                  color: "#cc0000",
+                  letterSpacing: ".1em",
+                  textTransform: "uppercase",
+                  marginBottom: 6,
+                  fontFamily: MONO,
+                }}
+              >
+                {coberturaEditing ? "EDITAR COBERTURA" : "NUEVA COBERTURA"}
+              </div>
+              <input
+                placeholder="Título"
+                value={coberturaForm.titulo}
+                onChange={(e) =>
+                  setCoberturaForm({ ...coberturaForm, titulo: e.target.value })
+                }
+                style={{
+                  width: "100%",
+                  background: "#111",
+                  border: "1px solid #1e1e1e",
+                  color: "#eee",
+                  fontSize: 12,
+                  padding: "6px 8px",
+                  marginBottom: 4,
+                  fontFamily: MONO,
+                  outline: "none",
+                  boxSizing: "border-box",
+                }}
+              />
+              <textarea
+                placeholder="Contenido de la cobertura..."
+                value={coberturaForm.contenido}
+                onChange={(e) =>
+                  setCoberturaForm({
+                    ...coberturaForm,
+                    contenido: e.target.value,
+                  })
+                }
+                rows={3}
+                style={{
+                  width: "100%",
+                  background: "#111",
+                  border: "1px solid #1e1e1e",
+                  color: "#ccc",
+                  fontSize: 11,
+                  padding: "6px 8px",
+                  marginBottom: 4,
+                  fontFamily: MONO,
+                  outline: "none",
+                  resize: "vertical",
+                  boxSizing: "border-box",
+                }}
+              />
+              <div style={{ display: "flex", gap: 6 }}>
+                <input
+                  placeholder="Autor"
+                  value={coberturaForm.autor}
+                  onChange={(e) =>
+                    setCoberturaForm({
+                      ...coberturaForm,
+                      autor: e.target.value,
+                    })
+                  }
+                  style={{
+                    flex: 1,
+                    background: "#111",
+                    border: "1px solid #1e1e1e",
+                    color: "#888",
+                    fontSize: 10,
+                    padding: "4px 6px",
+                    fontFamily: MONO,
+                    outline: "none",
+                  }}
+                />
+                <input
+                  placeholder="Tags (coma separados)"
+                  value={coberturaForm.tags}
+                  onChange={(e) =>
+                    setCoberturaForm({ ...coberturaForm, tags: e.target.value })
+                  }
+                  style={{
+                    flex: 2,
+                    background: "#111",
+                    border: "1px solid #1e1e1e",
+                    color: "#888",
+                    fontSize: 10,
+                    padding: "4px 6px",
+                    fontFamily: MONO,
+                    outline: "none",
+                  }}
+                />
+                <button
+                  onClick={() => void saveCobertura()}
+                  disabled={!coberturaForm.titulo.trim()}
+                  style={{
+                    background: coberturaForm.titulo.trim()
+                      ? "#cc0000"
+                      : "#111",
+                    color: coberturaForm.titulo.trim() ? "#fff" : "#333",
+                    border: "none",
+                    cursor: coberturaForm.titulo.trim()
+                      ? "pointer"
+                      : "not-allowed",
+                    padding: "4px 12px",
+                    fontSize: 10,
+                    fontWeight: 700,
+                    fontFamily: MONO,
+                  }}
+                >
+                  {coberturaEditing ? "GUARDAR" : "PUBLICAR"}
+                </button>
+                {coberturaEditing && (
+                  <button
+                    onClick={() => {
+                      setCoberturaEditing(null);
+                      setCoberturaForm({
+                        titulo: "",
+                        contenido: "",
+                        autor: "",
+                        tags: "",
+                      });
+                    }}
+                    style={{
+                      background: "none",
+                      border: "1px solid #333",
+                      color: "#888",
+                      cursor: "pointer",
+                      padding: "4px 8px",
+                      fontSize: 9,
+                      fontFamily: MONO,
+                    }}
+                  >
+                    CANCELAR
+                  </button>
+                )}
+              </div>
+              {/* mini-list para editar/borrar */}
+              <div style={{ marginTop: 10 }}>
+                {coberturas.map((c) => (
+                  <div
+                    key={c.id}
+                    style={{
+                      display: "flex",
+                      alignItems: "center",
+                      gap: 6,
+                      padding: "5px 0",
+                      borderBottom: "1px solid #141414",
+                      fontSize: 11,
+                      color: "#aaa",
+                    }}
+                  >
+                    <span style={{ flex: 1, color: "#eee" }}>{c.titulo}</span>
+                    <button
+                      onClick={() => {
+                        setCoberturaEditing(c);
+                        setCoberturaForm({
+                          titulo: c.titulo,
+                          contenido: c.contenido,
+                          autor: c.autor || "",
+                          tags: (c.tags || []).join(", "),
+                        });
+                      }}
+                      style={{
+                        background: "none",
+                        border: "none",
+                        color: "#555",
+                        cursor: "pointer",
+                        fontSize: 10,
+                      }}
+                    >
+                      ✎
+                    </button>
+                    <button
+                      onClick={() => deleteCobertura(c.id)}
+                      style={{
+                        background: "none",
+                        border: "none",
+                        color: "#e83030",
+                        cursor: "pointer",
+                        fontSize: 10,
+                      }}
+                    >
+                      ×
+                    </button>
+                  </div>
+                ))}
+              </div>
+            </div>
+          )}
+        </div>
+
+        {/* Jefe Editor chat */}
+        <div
+          style={{
+            borderTop: "2px solid #cc0000",
+            display: "flex",
+            flexDirection: "column",
+            maxHeight: 250,
+            minHeight: 180,
+            flexShrink: 0,
+          }}
+        >
+          <div
+            style={{
+              display: "flex",
+              alignItems: "center",
+              padding: "6px 12px",
+              background: "#0a0a0a",
+              borderBottom: "1px solid #1a1a1a",
+              gap: 8,
+            }}
+          >
+            <span
+              style={{
+                fontSize: 10,
+                fontWeight: 700,
+                color: "#cc0000",
+                letterSpacing: ".1em",
+                textTransform: "uppercase",
+              }}
+            >
+              JEFE EDITOR
+            </span>
+            <span style={{ fontSize: 8, color: "#555" }}>
+              consultá sobre cobertura y estrategia
+            </span>
+            <button
+              onClick={() => {
+                setView("portal");
+                setPortalTab("coberturas");
+              }}
+              style={{
+                marginLeft: "auto",
+                background: "none",
+                border: "1px solid #333",
+                color: "#666",
+                cursor: "pointer",
+                fontSize: 8,
+                padding: "2px 6px",
+              }}
+            >
+              📋 VER PUBLICADAS
+            </button>
+            <button
+              onClick={() => resetJefe()}
+              style={{
+                background: "none",
+                border: "1px solid #333",
+                color: "#555",
+                cursor: "pointer",
+                fontSize: 8,
+                padding: "2px 6px",
+              }}
+            >
+              LIMPIAR
+            </button>
+          </div>
+          <div
+            ref={jefeMsgsRef}
+            style={{
+              flex: 1,
+              overflowY: "auto",
+              padding: 8,
+              fontSize: 11,
+              lineHeight: 1.6,
+            }}
+          >
+            {jefeMessages.length === 0 && (
+              <div
+                style={{
+                  textAlign: "center",
+                  color: "#444",
+                  padding: 20,
+                  fontSize: 10,
+                }}
+              >
+                Consultá al jefe editor sobre la redacción
+              </div>
+            )}
+            {jefeMessages.map((m, i) => (
+              <div
+                key={i}
+                style={{
+                  display: "flex",
+                  gap: 6,
+                  marginBottom: 8,
+                  flexDirection: m.role === "user" ? "row-reverse" : "row",
+                }}
+              >
+                <div
+                  style={{
+                    background: m.role === "user" ? "#cc0000" : "#111",
+                    border: m.role === "user" ? "none" : "1px solid #222",
+                    padding: "6px 10px",
+                    borderRadius: 4,
+                    maxWidth: "80%",
+                    wordBreak: "break-word",
+                    color: m.role === "user" ? "#fff" : "#ccc",
+                    fontFamily: m.role === "user" ? MONO : SANS,
+                    fontSize: m.role === "user" ? 11 : 12,
+                  }}
+                >
+                  {m.text}
+                </div>
+              </div>
+            ))}
+            {jefeBusy && (
+              <div style={{ color: "#666", fontSize: 10, padding: "4px 0" }}>
+                <span
+                  style={{
+                    display: "inline-flex",
+                    gap: 3,
+                    alignItems: "center",
+                  }}
+                >
+                  {[0, 0.25, 0.5].map((d, j) => (
+                    <span
+                      key={j}
+                      style={{
+                        width: 4,
+                        height: 4,
+                        background: "#cc0000",
+                        display: "inline-block",
+                        animation: `pulse 1.2s ${d}s infinite`,
+                      }}
+                    />
+                  ))}
+                </span>
+              </div>
+            )}
+            <div ref={jefeEndRef} />
+          </div>
+          <div
+            style={{
+              display: "flex",
+              borderTop: "1px solid #1a1a1a",
+              padding: "6px 8px",
+              gap: 6,
+              background: "#0a0a0a",
+            }}
+          >
+            <textarea
+              value={jefeInput}
+              onChange={(e) => setJefeInput(e.target.value)}
+              onKeyDown={(e) => {
+                if (e.key === "Enter" && !e.shiftKey) {
+                  e.preventDefault();
+                  void jefeSend();
+                }
+              }}
+              placeholder="consultar al editor..."
+              rows={1}
+              disabled={jefeBusy}
+              style={{
+                flex: 1,
+                background: "#0d0d0d",
+                border: "1px solid #1e1e1e",
+                color: "#e8e8e8",
+                fontSize: 11,
+                padding: "6px 8px",
+                resize: "none",
+                fontFamily: MONO,
+                lineHeight: 1.4,
+                outline: "none",
+                height: 30,
+              }}
+            />
+            <button
+              onClick={() => void jefeSend()}
+              disabled={jefeBusy || !jefeInput.trim()}
+              style={{
+                background: jefeBusy || !jefeInput.trim() ? "#111" : "#cc0000",
+                color: jefeBusy || !jefeInput.trim() ? "#333" : "#fff",
+                border: "none",
+                cursor:
+                  jefeBusy || !jefeInput.trim() ? "not-allowed" : "pointer",
+                padding: "0 12px",
+                fontSize: 10,
+                fontWeight: 700,
+                fontFamily: MONO,
+              }}
+            >
+              →
+            </button>
+          </div>
+        </div>
+      </div>
+
+      {/* ════ CHAT ════ */}
+      <div
+        style={{
+          flex: view === "chat" ? 1 : 0,
+          display: view === "chat" ? "flex" : "none",
+          flexDirection: "column",
+          overflow: "hidden",
+          minHeight: 0,
+        }}
+      >
+        {/* Messages */}
+        <div
+          ref={chatMsgsRef}
+          style={{
+            flex: 1,
+            overflowY: "auto",
+            padding: "20px 0 8px",
+            display: "flex",
+            flexDirection: "column",
+            fontFamily: SANS,
+          }}
+        >
+          {messages.length === 0 && (
+            <div style={{ margin: "auto", textAlign: "center" }}>
+              <div
+                style={{
+                  position: "relative",
+                  width: 64,
+                  height: 64,
+                  margin: "0 auto 14px",
+                }}
+              >
+                <div
+                  style={{
+                    position: "absolute",
+                    inset: 0,
+                    border: "3px solid #cc0000",
+                  }}
+                />
+                <div
+                  style={{
+                    position: "absolute",
+                    top: 7,
+                    left: 7,
+                    right: 7,
+                    bottom: 7,
+                    background: "#cc0000",
+                    display: "grid",
+                    placeItems: "center",
+                  }}
+                >
+                  <span
+                    style={{ color: "#fff", fontSize: 22, fontWeight: 900 }}
+                  >
+                    ✦
+                  </span>
+                </div>
+              </div>
+              <p
+                style={{
+                  color: "#2a2a2a",
+                  fontSize: 10,
+                  fontWeight: 700,
+                  letterSpacing: ".18em",
+                  textTransform: "uppercase",
+                  fontFamily: MONO,
+                }}
+              >
                 LISTO PARA ANALIZAR
               </p>
             </div>
           )}
 
           {messages.map((m, i) => (
-            <div key={i} style={{
-              display: "flex",
-              flexDirection: m.role === "user" ? "row-reverse" : "row",
-              alignItems: "flex-start", gap: 10, marginBottom: 16,
-              padding: "0 16px",
-              maxWidth: 900, width: "100%", boxSizing: "border-box",
-              alignSelf: m.role === "user" ? "flex-end" : "flex-start",
-            }}>
+            <div
+              key={i}
+              style={{
+                display: "flex",
+                flexDirection: m.role === "user" ? "row-reverse" : "row",
+                alignItems: "flex-start",
+                gap: 10,
+                marginBottom: 16,
+                padding: "0 16px",
+                maxWidth: 900,
+                width: "100%",
+                boxSizing: "border-box",
+                alignSelf: m.role === "user" ? "flex-end" : "flex-start",
+              }}
+            >
               {/* Avatar */}
-              <div style={{
-                width: 26, height: 26, flexShrink: 0,
-                background: m.role === "user" ? "#cc0000" : "#111",
-                border: m.role === "bot" ? "2px solid #cc0000" : "none",
-                display: "grid", placeItems: "center",
-                color: m.role === "user" ? "#fff" : "#cc0000",
-                fontWeight: 700, fontSize: 10, letterSpacing: ".05em", fontFamily: MONO,
-              }}>
+              <div
+                style={{
+                  width: 26,
+                  height: 26,
+                  flexShrink: 0,
+                  background: m.role === "user" ? "#cc0000" : "#111",
+                  border: m.role === "bot" ? "2px solid #cc0000" : "none",
+                  display: "grid",
+                  placeItems: "center",
+                  color: m.role === "user" ? "#fff" : "#cc0000",
+                  fontWeight: 700,
+                  fontSize: 10,
+                  letterSpacing: ".05em",
+                  fontFamily: MONO,
+                }}
+              >
                 {m.role === "user" ? "U" : "A"}
               </div>
 
               {/* Bubble */}
-              <div style={{
-                background: m.role === "user" ? "#cc0000" : "#111",
-                borderLeft: m.role === "bot" ? "3px solid #cc0000" : undefined,
-                border: m.role === "bot" ? "1px solid #1a1a1a" : "none",
-                padding: "10px 14px",
-                maxWidth: "calc(100% - 48px)",
-                color: m.role === "user" ? "#fff" : "#d0d0d0",
-                fontSize: 13.5, lineHeight: 1.75,
-                wordBreak: "break-word", fontFamily: SANS,
-              }}>
+              <div
+                style={{
+                  background: m.role === "user" ? "#cc0000" : "#111",
+                  borderLeft:
+                    m.role === "bot" ? "3px solid #cc0000" : undefined,
+                  border: m.role === "bot" ? "1px solid #1a1a1a" : "none",
+                  padding: "10px 14px",
+                  maxWidth: "calc(100% - 48px)",
+                  color: m.role === "user" ? "#fff" : "#d0d0d0",
+                  fontSize: 13.5,
+                  lineHeight: 1.75,
+                  wordBreak: "break-word",
+                  fontFamily: SANS,
+                }}
+              >
                 {m.role === "user" ? (
-                  <span style={{ whiteSpace: "pre-wrap", fontFamily: MONO }}>{m.text}</span>
+                  <span style={{ whiteSpace: "pre-wrap", fontFamily: MONO }}>
+                    {m.text}
+                  </span>
                 ) : m.html ? (
                   <span dangerouslySetInnerHTML={{ __html: m.html }} />
                 ) : thinkingStatus ? (
-                  <span style={{ color: "#666", fontSize: 11, fontWeight: 700,
-                    letterSpacing: ".08em", fontFamily: MONO }}>
+                  <span
+                    style={{
+                      color: "#666",
+                      fontSize: 11,
+                      fontWeight: 700,
+                      letterSpacing: ".08em",
+                      fontFamily: MONO,
+                    }}
+                  >
                     {thinkingStatus}
                   </span>
                 ) : (
-                  <span style={{ display: "inline-flex", gap: 5, alignItems: "center" }}>
-                    {[0, .25, .5].map((d, j) => (
-                      <span key={j} style={{ width: 5, height: 5, background: "#cc0000",
-                        display: "inline-block", animation: `pulse 1.2s ${d}s infinite` }} />
+                  <span
+                    style={{
+                      display: "inline-flex",
+                      gap: 5,
+                      alignItems: "center",
+                    }}
+                  >
+                    {[0, 0.25, 0.5].map((d, j) => (
+                      <span
+                        key={j}
+                        style={{
+                          width: 5,
+                          height: 5,
+                          background: "#cc0000",
+                          display: "inline-block",
+                          animation: `pulse 1.2s ${d}s infinite`,
+                        }}
+                      />
                     ))}
                   </span>
                 )}
@@ -1841,29 +3275,98 @@ export default function App() {
         {/* Activity feed */}
         {activityLog.length > 0 && (
           <div style={{ borderTop: "1px solid #1a1a1a", flexShrink: 0 }}>
-            <button onClick={() => setActivityOpen(!activityOpen)}
+            <button
+              onClick={() => setActivityOpen(!activityOpen)}
               style={{
-                width: "100%", background: "#0a0a0a", border: "none", cursor: "pointer",
-                padding: "6px 16px", display: "flex", alignItems: "center", gap: 8,
-                color: "#555", fontFamily: MONO, fontSize: 9, fontWeight: 700,
-                letterSpacing: ".1em", textTransform: "uppercase",
-              }}>
-              <span style={{ width: 6, height: 6, borderRadius: "50%",
-                background: activityLog.some(a => a.type === "tool") ? "#e8c030" : "#555" }} />
-              actividad — {activityLog.filter(a => a.type === "tool" || a.type === "step").length} eventos
-              <span style={{ marginLeft: "auto" }}>{activityOpen ? "▾" : "▸"}</span>
+                width: "100%",
+                background: "#0a0a0a",
+                border: "none",
+                cursor: "pointer",
+                padding: "6px 16px",
+                display: "flex",
+                alignItems: "center",
+                gap: 8,
+                color: "#555",
+                fontFamily: MONO,
+                fontSize: 9,
+                fontWeight: 700,
+                letterSpacing: ".1em",
+                textTransform: "uppercase",
+              }}
+            >
+              <span
+                style={{
+                  width: 6,
+                  height: 6,
+                  borderRadius: "50%",
+                  background: activityLog.some((a) => a.type === "tool")
+                    ? "#e8c030"
+                    : "#555",
+                }}
+              />
+              actividad —{" "}
+              {
+                activityLog.filter(
+                  (a) => a.type === "tool" || a.type === "step",
+                ).length
+              }{" "}
+              eventos
+              <span style={{ marginLeft: "auto" }}>
+                {activityOpen ? "▾" : "▸"}
+              </span>
             </button>
             {activityOpen && (
-              <div style={{ maxHeight: 140, overflowY: "auto", background: "#080808",
-                padding: "4px 0", fontFamily: MONO, fontSize: 10, lineHeight: 1.6 }}>
+              <div
+                style={{
+                  maxHeight: 140,
+                  overflowY: "auto",
+                  background: "#080808",
+                  padding: "4px 0",
+                  fontFamily: MONO,
+                  fontSize: 10,
+                  lineHeight: 1.6,
+                }}
+              >
                 {activityLog.map((a, i) => (
-                  <div key={i} style={{
-                    display: "flex", gap: 8, padding: "2px 16px",
-                    color: a.type === "error" ? "#e83030" : a.type === "done" ? "#3a9a3a" : "#888",
-                  }}>
-                    <span style={{ color: "#444", width: 50, flexShrink: 0 }}>{a.time}</span>
-                    <span style={{ color: "#666", width: 80, flexShrink: 0, overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }}>{a.agentLabel}</span>
-                    <span style={{ flex: 1, overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }}>{a.msg}</span>
+                  <div
+                    key={i}
+                    style={{
+                      display: "flex",
+                      gap: 8,
+                      padding: "2px 16px",
+                      color:
+                        a.type === "error"
+                          ? "#e83030"
+                          : a.type === "done"
+                            ? "#3a9a3a"
+                            : "#888",
+                    }}
+                  >
+                    <span style={{ color: "#444", width: 50, flexShrink: 0 }}>
+                      {a.time}
+                    </span>
+                    <span
+                      style={{
+                        color: "#666",
+                        width: 80,
+                        flexShrink: 0,
+                        overflow: "hidden",
+                        textOverflow: "ellipsis",
+                        whiteSpace: "nowrap",
+                      }}
+                    >
+                      {a.agentLabel}
+                    </span>
+                    <span
+                      style={{
+                        flex: 1,
+                        overflow: "hidden",
+                        textOverflow: "ellipsis",
+                        whiteSpace: "nowrap",
+                      }}
+                    >
+                      {a.msg}
+                    </span>
                   </div>
                 ))}
               </div>
@@ -1872,79 +3375,157 @@ export default function App() {
         )}
 
         {/* Input */}
-        <div style={{ borderTop: "2px solid #cc0000", padding: "10px 16px 14px",
-          background: "#0a0a0a", display: "flex", gap: 8, flexShrink: 0, alignItems: "flex-end" }}>
+        <div
+          style={{
+            borderTop: "2px solid #cc0000",
+            padding: "10px 16px 14px",
+            background: "#0a0a0a",
+            display: "flex",
+            gap: 8,
+            flexShrink: 0,
+            alignItems: "flex-end",
+          }}
+        >
           <textarea
-            ref={inputRef} data-testid="input-chat"
+            ref={inputRef}
+            data-testid="input-chat"
             value={input}
             onChange={(e) => {
               setInput(e.target.value);
               e.target.style.height = "40px";
-              e.target.style.height = Math.min(e.target.scrollHeight, 140) + "px";
+              e.target.style.height =
+                Math.min(e.target.scrollHeight, 140) + "px";
             }}
-            onKeyDown={(e) => { if (e.key === "Enter" && !e.shiftKey) { e.preventDefault(); void sendMessage(); } }}
+            onKeyDown={(e) => {
+              if (e.key === "Enter" && !e.shiftKey) {
+                e.preventDefault();
+                void sendMessage();
+              }
+            }}
             placeholder="escribe un mensaje... (enter para enviar)"
-            rows={1} disabled={busy}
+            rows={1}
+            disabled={busy}
             style={{
-              flex: 1, background: "#0d0d0d", border: "1px solid #1e1e1e",
-              color: "#e8e8e8", fontSize: 13, padding: "9px 12px",
-              resize: "none", height: 40, maxHeight: 140, fontFamily: MONO,
-              lineHeight: 1.5, outline: "none", overflow: "auto",
+              flex: 1,
+              background: "#0d0d0d",
+              border: "1px solid #1e1e1e",
+              color: "#e8e8e8",
+              fontSize: 13,
+              padding: "9px 12px",
+              resize: "none",
+              height: 40,
+              maxHeight: 140,
+              fontFamily: MONO,
+              lineHeight: 1.5,
+              outline: "none",
+              overflow: "auto",
               transition: "border-color .15s",
             }}
             onFocus={(e) => (e.target.style.borderColor = "#cc0000")}
-            onBlur={(e)  => (e.target.style.borderColor = "#1e1e1e")}
+            onBlur={(e) => (e.target.style.borderColor = "#1e1e1e")}
           />
-          <button data-testid="button-chat-send" onClick={() => void sendMessage()}
+          <button
+            data-testid="button-chat-send"
+            onClick={() => void sendMessage()}
             disabled={busy || !input.trim()}
             style={{
               background: busy || !input.trim() ? "#111" : "#cc0000",
               color: busy || !input.trim() ? "#333" : "#fff",
-              border: "none", cursor: busy || !input.trim() ? "not-allowed" : "pointer",
-              width: 40, height: 40, display: "grid", placeItems: "center",
-              flexShrink: 0, transition: "background .15s",
+              border: "none",
+              cursor: busy || !input.trim() ? "not-allowed" : "pointer",
+              width: 40,
+              height: 40,
+              display: "grid",
+              placeItems: "center",
+              flexShrink: 0,
+              transition: "background .15s",
             }}
           >
-            <svg width="14" height="14" viewBox="0 0 24 24" fill="none"
-              stroke="currentColor" strokeWidth="2.5" strokeLinecap="square">
-              <line x1="22" y1="2" x2="11" y2="13"/>
-              <polygon points="22 2 15 22 11 13 2 9 22 2"/>
+            <svg
+              width="14"
+              height="14"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              strokeWidth="2.5"
+              strokeLinecap="square"
+            >
+              <line x1="22" y1="2" x2="11" y2="13" />
+              <polygon points="22 2 15 22 11 13 2 9 22 2" />
             </svg>
           </button>
         </div>
       </div>
 
       {/* ════ VOZ ════ */}
-      <div style={{ flex: view === "voz" ? 1 : 0,
-        display: view === "voz" ? "flex" : "none",
-        flexDirection: "column", overflow: "hidden", minHeight: 0 }}>
-
+      <div
+        style={{
+          flex: view === "voz" ? 1 : 0,
+          display: view === "voz" ? "flex" : "none",
+          flexDirection: "column",
+          overflow: "hidden",
+          minHeight: 0,
+        }}
+      >
         {/* Content */}
-        <div style={{ flex: 1, display: "flex", flexDirection: "column",
-          alignItems: "center", justifyContent: voiceMessages.length === 0 ? "center" : undefined,
-          overflow: "hidden", padding: "20px 16px" }}>
-
+        <div
+          style={{
+            flex: 1,
+            display: "flex",
+            flexDirection: "column",
+            alignItems: "center",
+            justifyContent: voiceMessages.length === 0 ? "center" : undefined,
+            overflow: "hidden",
+            padding: "20px 16px",
+          }}
+        >
           {voiceMessages.length > 0 && (
-            <div style={{ flex: 1, overflowY: "auto", width: "100%", maxWidth: 700 }}>
+            <div
+              style={{
+                flex: 1,
+                overflowY: "auto",
+                width: "100%",
+                maxWidth: 700,
+              }}
+            >
               {voiceMessages.map((m, i) => (
-                <div key={i} style={{
-                  display: "flex", gap: 8, marginBottom: 12,
-                  flexDirection: m.role === "user" ? "row-reverse" : "row",
-                }}>
-                  <div style={{ color: m.role === "user" ? "#cc0000" : "#666",
-                    fontSize: 11, fontWeight: 700, flexShrink: 0,
-                    minWidth: 20, textAlign: "center" }}>
+                <div
+                  key={i}
+                  style={{
+                    display: "flex",
+                    gap: 8,
+                    marginBottom: 12,
+                    flexDirection: m.role === "user" ? "row-reverse" : "row",
+                  }}
+                >
+                  <div
+                    style={{
+                      color: m.role === "user" ? "#cc0000" : "#666",
+                      fontSize: 11,
+                      fontWeight: 700,
+                      flexShrink: 0,
+                      minWidth: 20,
+                      textAlign: "center",
+                    }}
+                  >
                     {m.role === "user" ? "U" : "A"}
                   </div>
-                  <div style={{
-                    background: m.role === "user" ? "#1a0000" : "#111",
-                    border: m.role === "bot" ? "1px solid #1a1a1a" : "none",
-                    borderLeft: m.role === "bot" ? "3px solid #cc0000" : undefined,
-                    padding: "8px 12px", borderRadius: 4,
-                    color: m.role === "user" ? "#cc0000" : "#d0d0d0",
-                    fontSize: 13, lineHeight: 1.6, fontFamily: MONO,
-                    maxWidth: "80%", wordBreak: "break-word",
-                  }}>
+                  <div
+                    style={{
+                      background: m.role === "user" ? "#1a0000" : "#111",
+                      border: m.role === "bot" ? "1px solid #1a1a1a" : "none",
+                      borderLeft:
+                        m.role === "bot" ? "3px solid #cc0000" : undefined,
+                      padding: "8px 12px",
+                      borderRadius: 4,
+                      color: m.role === "user" ? "#cc0000" : "#d0d0d0",
+                      fontSize: 13,
+                      lineHeight: 1.6,
+                      fontFamily: MONO,
+                      maxWidth: "80%",
+                      wordBreak: "break-word",
+                    }}
+                  >
                     {m.text}
                   </div>
                 </div>
@@ -1955,15 +3536,50 @@ export default function App() {
 
           {voiceMessages.length === 0 && !voiceActive && (
             <div style={{ textAlign: "center" }}>
-              <div style={{ position: "relative", width: 72, height: 72, margin: "0 auto 16px" }}>
-                <div style={{ position: "absolute", inset: 0, border: "3px solid #cc0000" }} />
-                <div style={{ position: "absolute", top: 8, left: 8, right: 8, bottom: 8,
-                  background: "#cc0000", display: "grid", placeItems: "center" }}>
-                  <span style={{ color: "#fff", fontSize: 26, fontWeight: 900 }}>♪</span>
+              <div
+                style={{
+                  position: "relative",
+                  width: 72,
+                  height: 72,
+                  margin: "0 auto 16px",
+                }}
+              >
+                <div
+                  style={{
+                    position: "absolute",
+                    inset: 0,
+                    border: "3px solid #cc0000",
+                  }}
+                />
+                <div
+                  style={{
+                    position: "absolute",
+                    top: 8,
+                    left: 8,
+                    right: 8,
+                    bottom: 8,
+                    background: "#cc0000",
+                    display: "grid",
+                    placeItems: "center",
+                  }}
+                >
+                  <span
+                    style={{ color: "#fff", fontSize: 26, fontWeight: 900 }}
+                  >
+                    ♪
+                  </span>
                 </div>
               </div>
-              <p style={{ color: "#2a2a2a", fontSize: 10, fontWeight: 700,
-                letterSpacing: ".18em", textTransform: "uppercase", fontFamily: MONO }}>
+              <p
+                style={{
+                  color: "#2a2a2a",
+                  fontSize: 10,
+                  fontWeight: 700,
+                  letterSpacing: ".18em",
+                  textTransform: "uppercase",
+                  fontFamily: MONO,
+                }}
+              >
                 Presiona INICIAR para conversar por voz
               </p>
             </div>
@@ -1971,8 +3587,16 @@ export default function App() {
 
           {voiceMessages.length === 0 && voiceActive && (
             <div style={{ textAlign: "center" }}>
-              <p style={{ color: "#555", fontSize: 11, fontWeight: 700,
-                letterSpacing: ".12em", textTransform: "uppercase", fontFamily: MONO }}>
+              <p
+                style={{
+                  color: "#555",
+                  fontSize: 11,
+                  fontWeight: 700,
+                  letterSpacing: ".12em",
+                  textTransform: "uppercase",
+                  fontFamily: MONO,
+                }}
+              >
                 {voiceStatus}
               </p>
             </div>
@@ -1980,25 +3604,47 @@ export default function App() {
         </div>
 
         {/* Bottom bar */}
-        <div style={{ borderTop: "2px solid #cc0000", padding: "16px",
-          background: "#0a0a0a", display: "flex", flexDirection: "column",
-          alignItems: "center", gap: 10, flexShrink: 0 }}>
+        <div
+          style={{
+            borderTop: "2px solid #cc0000",
+            padding: "16px",
+            background: "#0a0a0a",
+            display: "flex",
+            flexDirection: "column",
+            alignItems: "center",
+            gap: 10,
+            flexShrink: 0,
+          }}
+        >
           {voiceActive && (
-            <span style={{ color: "#555", fontSize: 10, fontWeight: 700,
-              letterSpacing: ".12em", fontFamily: MONO }}>
+            <span
+              style={{
+                color: "#555",
+                fontSize: 10,
+                fontWeight: 700,
+                letterSpacing: ".12em",
+                fontFamily: MONO,
+              }}
+            >
               {voiceStatus}
             </span>
           )}
-          <button onClick={voiceActive ? stopVoice : startVoice}
+          <button
+            onClick={voiceActive ? stopVoice : startVoice}
             style={{
               background: voiceActive ? "transparent" : "#cc0000",
               color: voiceActive ? "#cc0000" : "#fff",
               border: voiceActive ? "2px solid #cc0000" : "none",
-              cursor: "pointer", padding: "12px 40px",
-              fontSize: 13, fontWeight: 700, letterSpacing: ".15em",
-              fontFamily: MONO, textTransform: "uppercase",
+              cursor: "pointer",
+              padding: "12px 40px",
+              fontSize: 13,
+              fontWeight: 700,
+              letterSpacing: ".15em",
+              fontFamily: MONO,
+              textTransform: "uppercase",
               transition: "all .15s",
-            }}>
+            }}
+          >
             {voiceActive ? "■ DETENER" : "● INICIAR"}
           </button>
         </div>
@@ -2006,40 +3652,85 @@ export default function App() {
 
       {/* ════ MODAL ════ */}
       {modalOpen && (
-        <div style={{
-          position: "fixed", inset: 0, zIndex: 1000,
-          background: "rgba(0,0,0,.85)", display: "flex",
-          flexDirection: "column", alignItems: "center",
-          justifyContent: "center", padding: 20, fontFamily: MONO,
-        }} onClick={() => setModalOpen(false)}>
-          <div style={{
-            background: "#111", border: "2px solid #cc0000",
-            maxWidth: 900, width: "100%", maxHeight: "90vh",
-            display: "flex", flexDirection: "column",
-          }} onClick={(e) => e.stopPropagation()}>
+        <div
+          style={{
+            position: "fixed",
+            inset: 0,
+            zIndex: 1000,
+            background: "rgba(0,0,0,.85)",
+            display: "flex",
+            flexDirection: "column",
+            alignItems: "center",
+            justifyContent: "center",
+            padding: 20,
+            fontFamily: MONO,
+          }}
+          onClick={() => setModalOpen(false)}
+        >
+          <div
+            style={{
+              background: "#111",
+              border: "2px solid #cc0000",
+              maxWidth: 900,
+              width: "100%",
+              maxHeight: "90vh",
+              display: "flex",
+              flexDirection: "column",
+            }}
+            onClick={(e) => e.stopPropagation()}
+          >
             {/* Header */}
-            <div style={{
-              display: "flex", justifyContent: "space-between",
-              alignItems: "center", padding: "12px 16px",
-              borderBottom: "1px solid #1a1a1a", flexShrink: 0,
-            }}>
-              <span style={{ color: "#cc0000", fontWeight: 700, fontSize: 11,
-                letterSpacing: ".12em", textTransform: "uppercase" }}>
+            <div
+              style={{
+                display: "flex",
+                justifyContent: "space-between",
+                alignItems: "center",
+                padding: "12px 16px",
+                borderBottom: "1px solid #1a1a1a",
+                flexShrink: 0,
+              }}
+            >
+              <span
+                style={{
+                  color: "#cc0000",
+                  fontWeight: 700,
+                  fontSize: 11,
+                  letterSpacing: ".12em",
+                  textTransform: "uppercase",
+                }}
+              >
                 {modalTitle || "FUENTE"}
               </span>
               <div style={{ display: "flex", gap: 8, alignItems: "center" }}>
-                <a href={modalUrl} target="_blank" rel="noopener"
+                <a
+                  href={modalUrl}
+                  target="_blank"
+                  rel="noopener"
                   style={{
-                    background: "#cc0000", color: "#fff", border: "none",
-                    padding: "6px 12px", cursor: "pointer", fontSize: 10,
-                    fontWeight: 700, letterSpacing: ".1em",
-                    textTransform: "uppercase", textDecoration: "none",
-                  }}>
+                    background: "#cc0000",
+                    color: "#fff",
+                    border: "none",
+                    padding: "6px 12px",
+                    cursor: "pointer",
+                    fontSize: 10,
+                    fontWeight: 700,
+                    letterSpacing: ".1em",
+                    textTransform: "uppercase",
+                    textDecoration: "none",
+                  }}
+                >
                   ABRIR ORIGINAL
                 </a>
-                <button onClick={() => setModalOpen(false)}
-                  style={{ background: "none", border: "none", color: "#555",
-                    cursor: "pointer", fontSize: 18 }}>
+                <button
+                  onClick={() => setModalOpen(false)}
+                  style={{
+                    background: "none",
+                    border: "none",
+                    color: "#555",
+                    cursor: "pointer",
+                    fontSize: 18,
+                  }}
+                >
                   ✕
                 </button>
               </div>
@@ -2047,27 +3738,51 @@ export default function App() {
             {/* Content */}
             <div style={{ flex: 1, overflow: "auto", minHeight: 0 }}>
               {modalLoading && (
-                <div style={{ display: "grid", placeItems: "center",
-                  height: 300, color: "#666", fontSize: 12,
-                  letterSpacing: ".1em", textTransform: "uppercase" }}>
+                <div
+                  style={{
+                    display: "grid",
+                    placeItems: "center",
+                    height: 300,
+                    color: "#666",
+                    fontSize: 12,
+                    letterSpacing: ".1em",
+                    textTransform: "uppercase",
+                  }}
+                >
                   Cargando contenido...
                 </div>
               )}
               {!modalLoading && modalError && (
                 <div style={{ padding: 32, textAlign: "center" }}>
-                  <p style={{ color: "#e83030", fontSize: 12, marginBottom: 12 }}>
+                  <p
+                    style={{ color: "#e83030", fontSize: 12, marginBottom: 12 }}
+                  >
                     {modalError}
                   </p>
-                  <a href={modalUrl} target="_blank" rel="noopener"
-                    style={{ color: "#4a9eff", fontSize: 11, textDecoration: "underline" }}>
+                  <a
+                    href={modalUrl}
+                    target="_blank"
+                    rel="noopener"
+                    style={{
+                      color: "#4a9eff",
+                      fontSize: 11,
+                      textDecoration: "underline",
+                    }}
+                  >
                     Abrir directamente en nueva pestaña →
                   </a>
                 </div>
               )}
               {!modalLoading && !modalError && modalHtml && (
-                <div style={{ background: "#fff", color: "#111",
-                  fontSize: 14, lineHeight: 1.7 }}
-                  dangerouslySetInnerHTML={{ __html: modalHtml }} />
+                <div
+                  style={{
+                    background: "#fff",
+                    color: "#111",
+                    fontSize: 14,
+                    lineHeight: 1.7,
+                  }}
+                  dangerouslySetInnerHTML={{ __html: modalHtml }}
+                />
               )}
             </div>
           </div>
@@ -2076,82 +3791,169 @@ export default function App() {
 
       {/* ════ HISTORY MODAL ════ */}
       {historyOpen && (
-        <div style={{
-          position: "fixed", inset: 0, zIndex: 999,
-          background: "rgba(0,0,0,.85)", display: "flex",
-          flexDirection: "column", alignItems: "center",
-          justifyContent: "center", padding: 20, fontFamily: MONO,
-        }} onClick={() => setHistoryOpen(false)}>
-          <div style={{
-            background: "#111", border: "2px solid #cc0000",
-            maxWidth: 600, width: "100%", maxHeight: "80vh",
-            display: "flex", flexDirection: "column",
-          }} onClick={(e) => e.stopPropagation()}>
-            <div style={{
-              display: "flex", justifyContent: "space-between",
-              alignItems: "center", padding: "12px 16px",
-              borderBottom: "1px solid #1a1a1a", flexShrink: 0,
-            }}>
-              <span style={{ color: "#cc0000", fontWeight: 700, fontSize: 11,
-                letterSpacing: ".12em", textTransform: "uppercase" }}>
+        <div
+          style={{
+            position: "fixed",
+            inset: 0,
+            zIndex: 999,
+            background: "rgba(0,0,0,.85)",
+            display: "flex",
+            flexDirection: "column",
+            alignItems: "center",
+            justifyContent: "center",
+            padding: 20,
+            fontFamily: MONO,
+          }}
+          onClick={() => setHistoryOpen(false)}
+        >
+          <div
+            style={{
+              background: "#111",
+              border: "2px solid #cc0000",
+              maxWidth: 600,
+              width: "100%",
+              maxHeight: "80vh",
+              display: "flex",
+              flexDirection: "column",
+            }}
+            onClick={(e) => e.stopPropagation()}
+          >
+            <div
+              style={{
+                display: "flex",
+                justifyContent: "space-between",
+                alignItems: "center",
+                padding: "12px 16px",
+                borderBottom: "1px solid #1a1a1a",
+                flexShrink: 0,
+              }}
+            >
+              <span
+                style={{
+                  color: "#cc0000",
+                  fontWeight: 700,
+                  fontSize: 11,
+                  letterSpacing: ".12em",
+                  textTransform: "uppercase",
+                }}
+              >
                 ☰ HISTORIAL
               </span>
-              <button onClick={() => setHistoryOpen(false)}
-                style={{ background: "none", border: "none", color: "#555",
-                  cursor: "pointer", fontSize: 18 }}>
+              <button
+                onClick={() => setHistoryOpen(false)}
+                style={{
+                  background: "none",
+                  border: "none",
+                  color: "#555",
+                  cursor: "pointer",
+                  fontSize: 18,
+                }}
+              >
                 ✕
               </button>
             </div>
             <div style={{ flex: 1, overflowY: "auto", padding: "8px 0" }}>
               {historyLoading && (
-                <div style={{ textAlign: "center", color: "#555", padding: 20, fontSize: 11,
-                  letterSpacing: ".1em", textTransform: "uppercase" }}>
+                <div
+                  style={{
+                    textAlign: "center",
+                    color: "#555",
+                    padding: 20,
+                    fontSize: 11,
+                    letterSpacing: ".1em",
+                    textTransform: "uppercase",
+                  }}
+                >
                   Cargando...
                 </div>
               )}
               {!historyLoading && conversations.length === 0 && (
-                <div style={{ textAlign: "center", color: "#333", padding: 20, fontSize: 11,
-                  letterSpacing: ".1em", textTransform: "uppercase" }}>
+                <div
+                  style={{
+                    textAlign: "center",
+                    color: "#333",
+                    padding: 20,
+                    fontSize: 11,
+                    letterSpacing: ".1em",
+                    textTransform: "uppercase",
+                  }}
+                >
                   Sin conversaciones guardadas
                 </div>
               )}
-              {!historyLoading && conversations.map((c: any) => (
-                <div key={c.id} style={{
-                  display: "flex", alignItems: "center", gap: 8,
-                  padding: "8px 16px", borderBottom: "1px solid #1a1a1a",
-                }}>
-                  <div style={{ flex: 1, overflow: "hidden" }}>
-                    <div style={{ color: "#d0d0d0", fontSize: 12, fontWeight: 700,
-                      whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis" }}>
-                      {c.title}
+              {!historyLoading &&
+                conversations.map((c: any) => (
+                  <div
+                    key={c.id}
+                    style={{
+                      display: "flex",
+                      alignItems: "center",
+                      gap: 8,
+                      padding: "8px 16px",
+                      borderBottom: "1px solid #1a1a1a",
+                    }}
+                  >
+                    <div style={{ flex: 1, overflow: "hidden" }}>
+                      <div
+                        style={{
+                          color: "#d0d0d0",
+                          fontSize: 12,
+                          fontWeight: 700,
+                          whiteSpace: "nowrap",
+                          overflow: "hidden",
+                          textOverflow: "ellipsis",
+                        }}
+                      >
+                        {c.title}
+                      </div>
+                      <div
+                        style={{ color: "#555", fontSize: 10, marginTop: 2 }}
+                      >
+                        {new Date(c.createdAt).toLocaleString("es-AR", {
+                          day: "2-digit",
+                          month: "2-digit",
+                          year: "numeric",
+                          hour: "2-digit",
+                          minute: "2-digit",
+                        })}
+                      </div>
                     </div>
-                    <div style={{ color: "#555", fontSize: 10, marginTop: 2 }}>
-                      {new Date(c.createdAt).toLocaleString("es-AR", {
-                        day: "2-digit", month: "2-digit", year: "numeric",
-                        hour: "2-digit", minute: "2-digit",
-                      })}
-                    </div>
+                    <button
+                      onClick={() => loadConversation(c.id)}
+                      style={{
+                        background: "#cc0000",
+                        color: "#fff",
+                        border: "none",
+                        padding: "5px 10px",
+                        cursor: "pointer",
+                        fontSize: 9,
+                        fontWeight: 700,
+                        letterSpacing: ".1em",
+                        textTransform: "uppercase",
+                        flexShrink: 0,
+                      }}
+                    >
+                      CARGAR
+                    </button>
+                    <button
+                      onClick={() => deleteConversation(c.id)}
+                      style={{
+                        background: "transparent",
+                        color: "#555",
+                        border: "1px solid #333",
+                        padding: "5px 10px",
+                        cursor: "pointer",
+                        fontSize: 9,
+                        fontWeight: 700,
+                        letterSpacing: ".1em",
+                        textTransform: "uppercase",
+                        flexShrink: 0,
+                      }}
+                    >
+                      BORRAR
+                    </button>
                   </div>
-                  <button onClick={() => loadConversation(c.id)}
-                    style={{
-                      background: "#cc0000", color: "#fff", border: "none",
-                      padding: "5px 10px", cursor: "pointer", fontSize: 9,
-                      fontWeight: 700, letterSpacing: ".1em",
-                      textTransform: "uppercase", flexShrink: 0,
-                    }}>
-                    CARGAR
-                  </button>
-                  <button onClick={() => deleteConversation(c.id)}
-                    style={{
-                      background: "transparent", color: "#555", border: "1px solid #333",
-                      padding: "5px 10px", cursor: "pointer", fontSize: 9,
-                      fontWeight: 700, letterSpacing: ".1em",
-                      textTransform: "uppercase", flexShrink: 0,
-                    }}>
-                    BORRAR
-                  </button>
-                </div>
-              ))}
+                ))}
             </div>
           </div>
         </div>
@@ -2159,30 +3961,65 @@ export default function App() {
 
       {/* ════ PORTAL DETAIL MODAL ════ */}
       {portalDetailOpen && selectedAccion && (
-        <div style={{
-          position: "fixed", inset: 0, zIndex: 1000,
-          background: "rgba(0,0,0,.85)", display: "flex",
-          flexDirection: "column", alignItems: "center",
-          justifyContent: "center", padding: 20, fontFamily: MONO,
-        }} onClick={() => setPortalDetailOpen(false)}>
-          <div style={{
-            background: "#111", border: "2px solid #cc0000",
-            maxWidth: 700, width: "100%", maxHeight: "90vh",
-            display: "flex", flexDirection: "column",
-          }} onClick={(e) => e.stopPropagation()}>
+        <div
+          style={{
+            position: "fixed",
+            inset: 0,
+            zIndex: 1000,
+            background: "rgba(0,0,0,.85)",
+            display: "flex",
+            flexDirection: "column",
+            alignItems: "center",
+            justifyContent: "center",
+            padding: 20,
+            fontFamily: MONO,
+          }}
+          onClick={() => setPortalDetailOpen(false)}
+        >
+          <div
+            style={{
+              background: "#111",
+              border: "2px solid #cc0000",
+              maxWidth: 700,
+              width: "100%",
+              maxHeight: "90vh",
+              display: "flex",
+              flexDirection: "column",
+            }}
+            onClick={(e) => e.stopPropagation()}
+          >
             {/* Header */}
-            <div style={{
-              display: "flex", justifyContent: "space-between",
-              alignItems: "center", padding: "12px 16px",
-              borderBottom: "1px solid #1a1a1a", flexShrink: 0,
-            }}>
-              <span style={{ color: "#cc0000", fontWeight: 700, fontSize: 11,
-                letterSpacing: ".12em", textTransform: "uppercase" }}>
+            <div
+              style={{
+                display: "flex",
+                justifyContent: "space-between",
+                alignItems: "center",
+                padding: "12px 16px",
+                borderBottom: "1px solid #1a1a1a",
+                flexShrink: 0,
+              }}
+            >
+              <span
+                style={{
+                  color: "#cc0000",
+                  fontWeight: 700,
+                  fontSize: 11,
+                  letterSpacing: ".12em",
+                  textTransform: "uppercase",
+                }}
+              >
                 {selectedAccion.bandera} {selectedAccion.lugar}
               </span>
-              <button onClick={() => setPortalDetailOpen(false)}
-                style={{ background: "none", border: "none", color: "#555",
-                  cursor: "pointer", fontSize: 18 }}>
+              <button
+                onClick={() => setPortalDetailOpen(false)}
+                style={{
+                  background: "none",
+                  border: "none",
+                  color: "#555",
+                  cursor: "pointer",
+                  fontSize: 18,
+                }}
+              >
                 ✕
               </button>
             </div>
@@ -2190,37 +4027,158 @@ export default function App() {
             {/* Body */}
             <div style={{ flex: 1, overflowY: "auto", padding: 16 }}>
               {/* Detail grid */}
-              <div style={{ display: "grid", gridTemplateColumns: "120px 1fr", gap: "6px 12px", fontSize: 12 }}>
-                <span style={{ color: "#555", textTransform: "uppercase", letterSpacing: ".08em" }}>Hora</span>
-                <span style={{ color: "#d0d0d0" }}>{selectedAccion.hora} hs</span>
-                <span style={{ color: "#555", textTransform: "uppercase", letterSpacing: ".08em" }}>Fecha</span>
-                <span style={{ color: "#d0d0d0" }}>{selectedAccion.fecha}</span>
-                <span style={{ color: "#555", textTransform: "uppercase", letterSpacing: ".08em" }}>Lugar</span>
-                <span style={{ color: "#d0d0d0" }}>{selectedAccion.pais} — {selectedAccion.lugar}</span>
-                <span style={{ color: "#555", textTransform: "uppercase", letterSpacing: ".08em" }}>Tipo</span>
-                <span style={{ color: "#d0d0d0", textTransform: "uppercase", fontSize: 10 }}>{selectedAccion.tipoAccion}</span>
-                <span style={{ color: "#555", textTransform: "uppercase", letterSpacing: ".08em" }}>Status</span>
-                <span style={{
-                  color: selectedAccion.status === "en_curso" ? "#e8c030" : selectedAccion.status === "finalizado" ? "#cc0000" : "#3a9a3a",
-                  textTransform: "uppercase", fontSize: 10, fontWeight: 700,
-                }}>
-                  {selectedAccion.status === "en_curso" ? "🟡 EN CURSO" : selectedAccion.status === "finalizado" ? "🔴 FINALIZADO" : "🟢 PROGRAMADO"}
+              <div
+                style={{
+                  display: "grid",
+                  gridTemplateColumns: "120px 1fr",
+                  gap: "6px 12px",
+                  fontSize: 12,
+                }}
+              >
+                <span
+                  style={{
+                    color: "#555",
+                    textTransform: "uppercase",
+                    letterSpacing: ".08em",
+                  }}
+                >
+                  Hora
                 </span>
-                <span style={{ color: "#555", textTransform: "uppercase", letterSpacing: ".08em" }}>Organizaciones</span>
-                <span style={{ color: "#d0d0d0" }}>{selectedAccion.organizaciones.join(", ") || "—"}</span>
-                <span style={{ color: "#555", textTransform: "uppercase", letterSpacing: ".08em" }}>Motivo</span>
-                <span style={{ color: "#d0d0d0" }}>{selectedAccion.motivo}</span>
+                <span style={{ color: "#d0d0d0" }}>
+                  {selectedAccion.hora} hs
+                </span>
+                <span
+                  style={{
+                    color: "#555",
+                    textTransform: "uppercase",
+                    letterSpacing: ".08em",
+                  }}
+                >
+                  Fecha
+                </span>
+                <span style={{ color: "#d0d0d0" }}>{selectedAccion.fecha}</span>
+                <span
+                  style={{
+                    color: "#555",
+                    textTransform: "uppercase",
+                    letterSpacing: ".08em",
+                  }}
+                >
+                  Lugar
+                </span>
+                <span style={{ color: "#d0d0d0" }}>
+                  {selectedAccion.pais} — {selectedAccion.lugar}
+                </span>
+                <span
+                  style={{
+                    color: "#555",
+                    textTransform: "uppercase",
+                    letterSpacing: ".08em",
+                  }}
+                >
+                  Tipo
+                </span>
+                <span
+                  style={{
+                    color: "#d0d0d0",
+                    textTransform: "uppercase",
+                    fontSize: 10,
+                  }}
+                >
+                  {selectedAccion.tipoAccion}
+                </span>
+                <span
+                  style={{
+                    color: "#555",
+                    textTransform: "uppercase",
+                    letterSpacing: ".08em",
+                  }}
+                >
+                  Status
+                </span>
+                <span
+                  style={{
+                    color:
+                      selectedAccion.status === "en_curso"
+                        ? "#e8c030"
+                        : selectedAccion.status === "finalizado"
+                          ? "#cc0000"
+                          : "#3a9a3a",
+                    textTransform: "uppercase",
+                    fontSize: 10,
+                    fontWeight: 700,
+                  }}
+                >
+                  {selectedAccion.status === "en_curso"
+                    ? "🟡 EN CURSO"
+                    : selectedAccion.status === "finalizado"
+                      ? "🔴 FINALIZADO"
+                      : "🟢 PROGRAMADO"}
+                </span>
+                <span
+                  style={{
+                    color: "#555",
+                    textTransform: "uppercase",
+                    letterSpacing: ".08em",
+                  }}
+                >
+                  Organizaciones
+                </span>
+                <span style={{ color: "#d0d0d0" }}>
+                  {selectedAccion.organizaciones.join(", ") || "—"}
+                </span>
+                <span
+                  style={{
+                    color: "#555",
+                    textTransform: "uppercase",
+                    letterSpacing: ".08em",
+                  }}
+                >
+                  Motivo
+                </span>
+                <span style={{ color: "#d0d0d0" }}>
+                  {selectedAccion.motivo}
+                </span>
               </div>
 
               {/* Fuentes */}
               {selectedAccion.fuentes.length > 0 && (
-                <div style={{ marginTop: 16, borderTop: "1px solid #1a1a1a", paddingTop: 12 }}>
-                  <div style={{ color: "#555", fontSize: 9, fontWeight: 700, letterSpacing: ".12em",
-                    textTransform: "uppercase", marginBottom: 8 }}>Fuentes</div>
+                <div
+                  style={{
+                    marginTop: 16,
+                    borderTop: "1px solid #1a1a1a",
+                    paddingTop: 12,
+                  }}
+                >
+                  <div
+                    style={{
+                      color: "#555",
+                      fontSize: 9,
+                      fontWeight: 700,
+                      letterSpacing: ".12em",
+                      textTransform: "uppercase",
+                      marginBottom: 8,
+                    }}
+                  >
+                    Fuentes
+                  </div>
                   {selectedAccion.fuentes.map((f, i) => (
                     <div key={i} style={{ marginBottom: 4 }}>
-                      <a href="#!" onClick={(e) => { e.preventDefault(); setModalUrl(f.url); setModalTitle(f.nombre); setModalOpen(true); }}
-                        style={{ color: "#4a9eff", fontSize: 11, textDecoration: "underline", cursor: "pointer" }}>
+                      <a
+                        href="#!"
+                        onClick={(e) => {
+                          e.preventDefault();
+                          setModalUrl(f.url);
+                          setModalTitle(f.nombre);
+                          setModalOpen(true);
+                        }}
+                        style={{
+                          color: "#4a9eff",
+                          fontSize: 11,
+                          textDecoration: "underline",
+                          cursor: "pointer",
+                        }}
+                      >
                         {f.nombre || f.url}
                       </a>
                     </div>
@@ -2230,39 +4188,123 @@ export default function App() {
 
               {/* Map */}
               {selectedAccion.lat && selectedAccion.lng && (
-                <div style={{ marginTop: 16, borderTop: "1px solid #1a1a1a", paddingTop: 12 }}>
-                  <div style={{ color: "#555", fontSize: 9, fontWeight: 700, letterSpacing: ".12em",
-                    textTransform: "uppercase", marginBottom: 8 }}>Mapa</div>
-                  <div style={{ position: "relative", paddingBottom: "56.25%", height: 0, overflow: "hidden" }}>
+                <div
+                  style={{
+                    marginTop: 16,
+                    borderTop: "1px solid #1a1a1a",
+                    paddingTop: 12,
+                  }}
+                >
+                  <div
+                    style={{
+                      color: "#555",
+                      fontSize: 9,
+                      fontWeight: 700,
+                      letterSpacing: ".12em",
+                      textTransform: "uppercase",
+                      marginBottom: 8,
+                    }}
+                  >
+                    Mapa
+                  </div>
+                  <div
+                    style={{
+                      position: "relative",
+                      paddingBottom: "56.25%",
+                      height: 0,
+                      overflow: "hidden",
+                    }}
+                  >
                     <iframe
                       src={`https://www.openstreetmap.org/export/embed.html?bbox=${Number(selectedAccion.lng) - 0.1},${Number(selectedAccion.lat) - 0.1},${Number(selectedAccion.lng) + 0.1},${Number(selectedAccion.lat) + 0.1}&layer=mapnik&marker=${selectedAccion.lat},${selectedAccion.lng}`}
-                      style={{ position: "absolute", top: 0, left: 0, width: "100%", height: "100%", border: "1px solid #1a1a1a" }}
-                      loading="lazy" />
+                      style={{
+                        position: "absolute",
+                        top: 0,
+                        left: 0,
+                        width: "100%",
+                        height: "100%",
+                        border: "1px solid #1a1a1a",
+                      }}
+                      loading="lazy"
+                    />
                   </div>
                 </div>
               )}
 
               {/* Related news */}
-              <div style={{ marginTop: 16, borderTop: "1px solid #1a1a1a", paddingTop: 12 }}>
-                <div style={{ color: "#555", fontSize: 9, fontWeight: 700, letterSpacing: ".12em",
-                  textTransform: "uppercase", marginBottom: 8 }}>
+              <div
+                style={{
+                  marginTop: 16,
+                  borderTop: "1px solid #1a1a1a",
+                  paddingTop: 12,
+                }}
+              >
+                <div
+                  style={{
+                    color: "#555",
+                    fontSize: 9,
+                    fontWeight: 700,
+                    letterSpacing: ".12em",
+                    textTransform: "uppercase",
+                    marginBottom: 8,
+                  }}
+                >
                   Últimas noticias
                 </div>
                 {portalNoticiasLoading && (
-                  <div style={{ color: "#555", fontSize: 10, textTransform: "uppercase" }}>Cargando...</div>
+                  <div
+                    style={{
+                      color: "#555",
+                      fontSize: 10,
+                      textTransform: "uppercase",
+                    }}
+                  >
+                    Cargando...
+                  </div>
                 )}
                 {!portalNoticiasLoading && portalNoticias.length === 0 && (
-                  <div style={{ color: "#333", fontSize: 10, textTransform: "uppercase" }}>Sin noticias relacionadas</div>
-                )}
-                {!portalNoticiasLoading && portalNoticias.map((n, i) => (
-                  <div key={i} style={{ marginBottom: 6 }}>
-                    <a href="#!" onClick={(e) => { e.preventDefault(); setModalUrl(n.url); setModalTitle(n.fuente); setModalOpen(true); }}
-                      style={{ color: "#4a9eff", fontSize: 11, textDecoration: "underline", cursor: "pointer", display: "block" }}>
-                      {n.titular}
-                    </a>
-                    <span style={{ color: "#555", fontSize: 9, letterSpacing: ".08em" }}>{n.fuente}</span>
+                  <div
+                    style={{
+                      color: "#333",
+                      fontSize: 10,
+                      textTransform: "uppercase",
+                    }}
+                  >
+                    Sin noticias relacionadas
                   </div>
-                ))}
+                )}
+                {!portalNoticiasLoading &&
+                  portalNoticias.map((n, i) => (
+                    <div key={i} style={{ marginBottom: 6 }}>
+                      <a
+                        href="#!"
+                        onClick={(e) => {
+                          e.preventDefault();
+                          setModalUrl(n.url);
+                          setModalTitle(n.fuente);
+                          setModalOpen(true);
+                        }}
+                        style={{
+                          color: "#4a9eff",
+                          fontSize: 11,
+                          textDecoration: "underline",
+                          cursor: "pointer",
+                          display: "block",
+                        }}
+                      >
+                        {n.titular}
+                      </a>
+                      <span
+                        style={{
+                          color: "#555",
+                          fontSize: 9,
+                          letterSpacing: ".08em",
+                        }}
+                      >
+                        {n.fuente}
+                      </span>
+                    </div>
+                  ))}
               </div>
             </div>
           </div>
