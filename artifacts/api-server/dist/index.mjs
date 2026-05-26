@@ -49684,11 +49684,13 @@ router6.post("/redaccion/ejecutar/:id", async (req, res) => {
   try {
     const id = Number(req.params.id);
     if (Number.isNaN(id)) {
-      return res.status(400).json({ error: "invalid id" });
+      res.status(400).json({ error: "invalid id" });
+      return;
     }
     const [agent] = await db.select().from(redaccionAgentesTable).where(eq(redaccionAgentesTable.id, id)).limit(1);
     if (!agent) {
-      return res.status(404).json({ error: "agent not found" });
+      res.status(404).json({ error: "agent not found" });
+      return;
     }
     const { tareaIndice } = req.body;
     const tasks = tareaIndice !== void 0 && agent.tareas[tareaIndice] ? [agent.tareas[tareaIndice]] : agent.tareas;
@@ -49792,7 +49794,7 @@ Instrucciones:
       res.end();
     });
   } catch (err) {
-    return res.status(500).json({ error: String(err) });
+    res.status(500).json({ error: String(err) });
   }
 });
 var redaccion_default = router6;

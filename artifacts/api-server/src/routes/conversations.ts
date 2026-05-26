@@ -32,8 +32,11 @@ router.get("/conversations/:id", async (req, res) => {
       .select()
       .from(conversationsTable)
       .where(eq(conversationsTable.id, Number(req.params.id)))
-      .then((r) => r[0]);
-    if (!conv) { res.status(404).json({ error: "not found" }); return; }
+      .then((r: any[]) => r[0]);
+    if (!conv) {
+      res.status(404).json({ error: "not found" });
+      return;
+    }
     const msgs = await db
       .select()
       .from(messagesTable)

@@ -371,7 +371,8 @@ export async function runAgent(
         }
 
         // Persist all acciones from store
-        const allRows = await globalThis.__mock_store?.acciones_colectivas;
+        const allRows = await (globalThis as any).__mock_store
+          ?.acciones_colectivas;
         if (allRows) saveAcciones(allRows);
 
         pushActivity({

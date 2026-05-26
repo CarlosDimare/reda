@@ -198,7 +198,8 @@ router.post("/redaccion/ejecutar/:id", async (req: Request, res: Response) => {
   try {
     const id = Number(req.params.id);
     if (Number.isNaN(id)) {
-      return res.status(400).json({ error: "invalid id" });
+      res.status(400).json({ error: "invalid id" });
+      return;
     }
 
     const [agent] = await db
@@ -208,7 +209,8 @@ router.post("/redaccion/ejecutar/:id", async (req: Request, res: Response) => {
       .limit(1);
 
     if (!agent) {
-      return res.status(404).json({ error: "agent not found" });
+      res.status(404).json({ error: "agent not found" });
+      return;
     }
 
     const { tareaIndice } = req.body as { tareaIndice?: number };
@@ -328,7 +330,7 @@ Instrucciones:
       res.end();
     });
   } catch (err) {
-    return res.status(500).json({ error: String(err) });
+    res.status(500).json({ error: String(err) });
   }
 });
 
