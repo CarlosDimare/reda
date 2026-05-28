@@ -1049,6 +1049,78 @@
     "updatedAt": "2026-05-28T23:59:00.000Z"
   },
   {
+    "id": 44,
+    "seccion": "internacionales",
+    "pais": "Chile",
+    "bandera": "🇨🇱",
+    "hora": "00:00",
+    "fecha": "2026-05-28",
+    "lugar": "Santiago (Instituto Nacional, Liceo de Aplicación, Liceo 1 Javiera Carrera, Liceo Tajamar, Providencia) y nacional",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "CONFECH (Confederación de Estudiantes de Chile)",
+      "Estudiantes secundarios",
+      "Liceos emblemáticos"
+    ],
+    "motivo": "Movimiento estudiantil chileno se rearticula contra el gobierno de José Antonio Kast. CONFECH convocó paro nacional para el 3 de junio. Rechazan proyecto 'Escuelas Protegidas' (registro de mochilas, expulsiones por protestas, traslado de estudiantes conflictivos). Secundarios realizaron tomas simultáneas el 23/4 y jornada nacional de protesta el 14/5. Barricadas en liceos emblemáticos, cortes de tránsito, enfrentamientos con Carabineros. Consigna: 'La educación se defiende en las calles'. Denuncian criminalización del movimiento estudiantil y ajuste económico de Kast",
+    "status": "en_curso",
+    "lat": "-33.4489",
+    "lng": "-70.6693",
+    "fuentes": [
+      {
+        "nombre": "El Clarín de Chile",
+        "url": "https://www.elclarin.cl/2026/05/28/el-movimiento-estudiantil-vuelve-a-las-calles-confech-convoca-paro-nacional-y-secundarios-intensifican-protestas/"
+      },
+      {
+        "nombre": "Global Voices",
+        "url": "https://globalvoices.org/2026/05/16/across-latin-america-may-day-protests-highlight-workers-struggles-and-solidarity/"
+      }
+    ],
+    "createdAt": "2026-05-28T23:59:00.000Z",
+    "updatedAt": "2026-05-28T23:59:00.000Z"
+  },
+  {
+    "id": 45,
+    "seccion": "internacionales",
+    "pais": "Sudáfrica",
+    "bandera": "🇿🇦",
+    "hora": "00:00",
+    "fecha": "2026-05-28",
+    "lugar": "Johannesburgo, Pretoria, Durban, Cabo Oriental y nacional",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "March and March Movement",
+      "Operation Dudula",
+      "ActionSA",
+      "uMkhonto we Sizwe (MKP)",
+      "IFP"
+    ],
+    "motivo": "Oleada de protestas antiinmigrantes semanales desde marzo contra inmigrantes indocumentados. Manifestantes acusan a extranjeros de quitar empleos, aumentar crimen y saturar servicios públicos. Exigen deportaciones masivas y control fronterizo más estricto. Violencia xenófoba: al menos 7 muertos, saqueos a comercios de extranjeros, refugiados en iglesias. Gobiernos de Nigeria, Ghana, Kenia y Mozambique protestaron formalmente. ONU y HRW condenaron ataques. Ultimátum: 'extranjeros deben irse antes del 30 de junio'",
+    "status": "en_curso",
+    "lat": "-26.2041",
+    "lng": "28.0473",
+    "fuentes": [
+      {
+        "nombre": "DW News",
+        "url": "https://www.facebook.com/deutschewellenews/posts/south-africa-has-seen-anti-immigrant-protests-every-week-for-a-month-demonstrato/1432512955570681"
+      },
+      {
+        "nombre": "Human Rights Watch",
+        "url": "https://www.hrw.org/news/2026/05/20/south-africa-new-waves-of-xenophobic-attacks"
+      },
+      {
+        "nombre": "Peoples Dispatch",
+        "url": "https://peoplesdispatch.org/2026/05/14/anti-immigrant-protests-and-violence-escalate-in-south-africa/"
+      },
+      {
+        "nombre": "AFP / NAMPA",
+        "url": "https://www.nampa.org/text/22931936"
+      }
+    ],
+    "createdAt": "2026-05-28T23:59:00.000Z",
+    "updatedAt": "2026-05-28T23:59:00.000Z"
+  },
+  {
     "id": 20,
     "seccion": "protestas_ar",
     "pais": "Argentina",
