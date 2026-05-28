@@ -8,15 +8,28 @@
     "fecha": "2026-05-28",
     "lugar": "Jerusalén, Bnei Brak, Tel Aviv, Rutas 4 y 1",
     "tipoAccion": "movilizacion",
-    "organizaciones": ["Peleg Yerushalmi (Facción Jerusalem)", "Rabino Zvi Friedman", "Comunidad haredí"],
+    "organizaciones": [
+      "Peleg Yerushalmi (Facción Jerusalem)",
+      "Rabino Zvi Friedman",
+      "Comunidad haredí"
+    ],
     "motivo": "Protestas masivas ultraortodoxas contra el reclutamiento militar y detenciones de evasores del servicio. Bloqueo de rutas principales, disturbios en Bar Ilan, enfrentamientos con policía declarados como disturbio. Consigna: 'Prisioneros del mundo de la Torá'",
     "status": "en_curso",
     "lat": "31.7683",
     "lng": "35.2137",
     "fuentes": [
-      {"nombre": "The Jerusalem Post", "url": "https://www.jpost.com/israel-news/article-897683"},
-      {"nombre": "JFeed", "url": "https://www.jfeed.com/news-israel/haredi-peleg-protests-israel"},
-      {"nombre": "The Times of Israel", "url": "https://www.timesofisrael.com/following-draft-evader-arrests-gafni-calls-on-haredim-to-halt-cooperation-with-police/"}
+      {
+        "nombre": "The Jerusalem Post",
+        "url": "https://www.jpost.com/israel-news/article-897683"
+      },
+      {
+        "nombre": "JFeed",
+        "url": "https://www.jfeed.com/news-israel/haredi-peleg-protests-israel"
+      },
+      {
+        "nombre": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/following-draft-evader-arrests-gafni-calls-on-haredim-to-halt-cooperation-with-police/"
+      }
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
     "updatedAt": "2026-05-28T23:59:00.000Z"
@@ -30,16 +43,35 @@
     "fecha": "2026-05-28",
     "lugar": "Roma, Milán, Florencia y nacional",
     "tipoAccion": "huelga",
-    "organizaciones": ["CUB", "SGB", "SI Cobas", "ADL Varese", "USI-CIT", "USB"],
+    "organizaciones": [
+      "CUB",
+      "SGB",
+      "SI Cobas",
+      "ADL Varese",
+      "USI-CIT",
+      "USB"
+    ],
     "motivo": "Huelga general de 24h desde las 21:00 del 28/5 en transporte ferroviario, aéreo y público. Contra guerra, gasto militar, precariedad laboral, genocidio en Gaza y falta de políticas sociales. 1.150 vuelos cancelados",
     "status": "en_curso",
     "lat": "41.9028",
     "lng": "12.4964",
     "fuentes": [
-      {"nombre": "WSWS", "url": "https://www.wsws.org/en/articles/2026/05/28/yscv-m28.html"},
-      {"nombre": "LoyaltyLobby", "url": "https://loyaltylobby.com/2026/05/27/italy-general-strike-on-friday-may-29-2026-air-travel-significantly-affected/"},
-      {"nombre": "Peoples Dispatch", "url": "https://peoplesdispatch.org/2026/05/26/thousands-protest-against-war-and-cost-of-living-crisis-in-italy/"},
-      {"nombre": "La Milano", "url": "https://lamilano.it/en/by-the-media/Strike-on-May-29th--Black-Friday--with-trains--buses--and-the-metro-at-risk./"}
+      {
+        "nombre": "WSWS",
+        "url": "https://www.wsws.org/en/articles/2026/05/28/yscv-m28.html"
+      },
+      {
+        "nombre": "LoyaltyLobby",
+        "url": "https://loyaltylobby.com/2026/05/27/italy-general-strike-on-friday-may-29-2026-air-travel-significantly-affected/"
+      },
+      {
+        "nombre": "Peoples Dispatch",
+        "url": "https://peoplesdispatch.org/2026/05/26/thousands-protest-against-war-and-cost-of-living-crisis-in-italy/"
+      },
+      {
+        "nombre": "La Milano",
+        "url": "https://lamilano.it/en/by-the-media/Strike-on-May-29th--Black-Friday--with-trains--buses--and-the-metro-at-risk./"
+      }
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
     "updatedAt": "2026-05-28T23:59:00.000Z"
@@ -53,15 +85,30 @@
     "fecha": "2026-05-28",
     "lugar": "La Paz, El Alto y nacional (44+ bloqueos)",
     "tipoAccion": "movilizacion",
-    "organizaciones": ["COB (Central Obrera Boliviana)", "Evo Morales/MAS", "Sindicatos mineros", "Campesinos", "Transportistas"],
+    "organizaciones": [
+      "COB (Central Obrera Boliviana)",
+      "Evo Morales/MAS",
+      "Sindicatos mineros",
+      "Campesinos",
+      "Transportistas"
+    ],
     "motivo": "Protestas masivas desde mayo contra el presidente Rodrigo Paz. Crisis económica (inflación 14%), escasez de combustible y dólares. Bloqueos mantienen La Paz bajo sitio. Exigen renuncia de Paz, mejoras salariales. 4 muertos, 100+ detenidos. Paz anunció cambios de gabinete sin éxito",
     "status": "en_curso",
     "lat": "-16.5000",
     "lng": "-68.1500",
     "fuentes": [
-      {"nombre": "Democracy Now!", "url": "https://www.democracynow.org/2026/5/27/headlines/mass_anti_government_protests_continue_in_bolivia"},
-      {"nombre": "Wikipedia", "url": "https://en.wikipedia.org/wiki/2026_Bolivian_protests"},
-      {"nombre": "AP / ABC News", "url": "https://abcnews.com/International/wireStory/bolivias-capital-siege-protests-blockades-deepen-crisis-president-133115270"}
+      {
+        "nombre": "Democracy Now!",
+        "url": "https://www.democracynow.org/2026/5/27/headlines/mass_anti_government_protests_continue_in_bolivia"
+      },
+      {
+        "nombre": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2026_Bolivian_protests"
+      },
+      {
+        "nombre": "AP / ABC News",
+        "url": "https://abcnews.com/International/wireStory/bolivias-capital-siege-protests-blockades-deepen-crisis-president-133115270"
+      }
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
     "updatedAt": "2026-05-28T23:59:00.000Z"
@@ -75,16 +122,34 @@
     "fecha": "2026-05-28",
     "lugar": "14 aeropuertos y Cataluña (Tarragona, Terres de l'Ebre, Barcelona)",
     "tipoAccion": "huelga",
-    "organizaciones": ["SAERCO (controladores aéreos)", "USTEC", "Aspepc", "CGT", "Intersindical"],
+    "organizaciones": [
+      "SAERCO (controladores aéreos)",
+      "USTEC",
+      "Aspepc",
+      "CGT",
+      "Intersindical"
+    ],
     "motivo": "Huelga indefinida de controladores aéreos SAERCO por condiciones laborales (extendida hasta 31/5). Simultáneamente huelga educativa en Cataluña — 17 jornadas de paro entre mayo y junio — por mejoras salariales y reducción de burocracia. Corte de AP-7 y A-2. Miles de docentes cortan carreteras",
     "status": "en_curso",
     "lat": "40.4168",
     "lng": "-3.7038",
     "fuentes": [
-      {"nombre": "Wego Travel Blog", "url": "https://blog.wego.com/europe-airport-strikes-summer-2026/"},
-      {"nombre": "El Periódico", "url": "https://www.elperiodico.com/es/sociedad/20260528/huelga-profesores-barcelona-catalunya-hoy-jueves-28-mayo-manana-viernes-calendario-dv-130131145"},
-      {"nombre": "DonPorque", "url": "https://donporque.com/huelgas-y-manifestaciones-en-espana-mayo/"},
-      {"nombre": "Infobae España", "url": "https://www.infobae.com/espana/agencias/2026/05/27/miles-de-docentes-protestan-en-barcelona-para-desencallar-el-conflicto-educativo/"}
+      {
+        "nombre": "Wego Travel Blog",
+        "url": "https://blog.wego.com/europe-airport-strikes-summer-2026/"
+      },
+      {
+        "nombre": "El Periódico",
+        "url": "https://www.elperiodico.com/es/sociedad/20260528/huelga-profesores-barcelona-catalunya-hoy-jueves-28-mayo-manana-viernes-calendario-dv-130131145"
+      },
+      {
+        "nombre": "DonPorque",
+        "url": "https://donporque.com/huelgas-y-manifestaciones-en-espana-mayo/"
+      },
+      {
+        "nombre": "Infobae España",
+        "url": "https://www.infobae.com/espana/agencias/2026/05/27/miles-de-docentes-protestan-en-barcelona-para-desencallar-el-conflicto-educativo/"
+      }
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
     "updatedAt": "2026-05-28T23:59:00.000Z"
@@ -98,15 +163,28 @@
     "fecha": "2026-05-28",
     "lugar": "Belgrado (Slavija Square, centro)",
     "tipoAccion": "movilizacion",
-    "organizaciones": ["Estudiantes universitarios", "Oposición", "Movimiento anticorrupción"],
+    "organizaciones": [
+      "Estudiantes universitarios",
+      "Oposición",
+      "Movimiento anticorrupción"
+    ],
     "motivo": "Protestas estudiantiles masivas anticorrupción tras colapso estación de tren Novi Sad (nov 2024, 16 muertos). 180.000-190.000 personas el 23/5 — segunda protesta más grande desde caída de Milošević. Exigen elecciones anticipadas. Enfrentamientos con policía, gas lacrimógeno, 23 detenidos",
     "status": "en_curso",
     "lat": "44.8176",
     "lng": "20.4561",
     "fuentes": [
-      {"nombre": "European Western Balkans", "url": "http://europeanwesternbalkans.com/2026/05/25/second-largest-protest-in-serbian-history-held-on-saturday-citizens-call-for-elections/"},
-      {"nombre": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/5/23/tens-of-thousands-rally-in-serbia-for-antigovernment-demonstrations"},
-      {"nombre": "Vreme", "url": "https://www.vreme.com/en/vesti/arhiv-javnih-skupova-slavija-protest-broj-ljudi/"}
+      {
+        "nombre": "European Western Balkans",
+        "url": "http://europeanwesternbalkans.com/2026/05/25/second-largest-protest-in-serbian-history-held-on-saturday-citizens-call-for-elections/"
+      },
+      {
+        "nombre": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/23/tens-of-thousands-rally-in-serbia-for-antigovernment-demonstrations"
+      },
+      {
+        "nombre": "Vreme",
+        "url": "https://www.vreme.com/en/vesti/arhiv-javnih-skupova-slavija-protest-broj-ljudi/"
+      }
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
     "updatedAt": "2026-05-28T23:59:00.000Z"
@@ -120,16 +198,32 @@
     "fecha": "2026-05-28",
     "lugar": "Tbilisi (Rustaveli Avenue, frente al Parlamento)",
     "tipoAccion": "movilizacion",
-    "organizaciones": ["Alianza Opositora (9 partidos)", "Sociedad civil", "Activistas europeístas"],
+    "organizaciones": [
+      "Alianza Opositora (9 partidos)",
+      "Sociedad civil",
+      "Activistas europeístas"
+    ],
     "motivo": "Marcha del Día de la Independencia (26/5) con miles de personas. Campaña 'Georgia Merece Mejor' contra el gobierno de Georgian Dream por frenar ingreso a UE, represión y deriva autoritaria. Segunda fase de movilización nacional. Consignas: 'Somos Europa', 'Libertad para presos del régimen'",
     "status": "en_curso",
     "lat": "41.6938",
     "lng": "44.8015",
     "fuentes": [
-      {"nombre": "Civil Georgia", "url": "https://civil.ge/archives/735927"},
-      {"nombre": "Euronews", "url": "https://www.euronews.com/video/2026/05/27/thousands-rally-in-tbilisi-as-georgia-marks-independence-day-with-pro-eu-protests"},
-      {"nombre": "Kyiv Post", "url": "https://www.kyivpost.com/post/76921"},
-      {"nombre": "Anadolu Ajansı (AA)", "url": "https://www.aa.com.tr/en/asia-pacific/thousands-join-anti-government-protest-in-georgia-s-capital/3949425"}
+      {
+        "nombre": "Civil Georgia",
+        "url": "https://civil.ge/archives/735927"
+      },
+      {
+        "nombre": "Euronews",
+        "url": "https://www.euronews.com/video/2026/05/27/thousands-rally-in-tbilisi-as-georgia-marks-independence-day-with-pro-eu-protests"
+      },
+      {
+        "nombre": "Kyiv Post",
+        "url": "https://www.kyivpost.com/post/76921"
+      },
+      {
+        "nombre": "Anadolu Ajansı (AA)",
+        "url": "https://www.aa.com.tr/en/asia-pacific/thousands-join-anti-government-protest-in-georgia-s-capital/3949425"
+      }
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
     "updatedAt": "2026-05-28T23:59:00.000Z"
@@ -143,16 +237,33 @@
     "fecha": "2026-05-28",
     "lugar": "San Francisco (Civic Center, Ferry Building, Market Street); Newark (Delaney Hall ICE)",
     "tipoAccion": "concentracion",
-    "organizaciones": ["Partido por el Socialismo y la Liberación", "Coaliciones por la paz", "Comunidad iraní-estadounidense", "Indivisible"],
+    "organizaciones": [
+      "Partido por el Socialismo y la Liberación",
+      "Coaliciones por la paz",
+      "Comunidad iraní-estadounidense",
+      "Indivisible"
+    ],
     "motivo": "Protestas múltiples: contra ataques militares de EE.UU. e Israel a Irán (San Francisco). Manifestaciones semanales exigiendo fin de la guerra. También protestas en Newark contra instalación ICE Delaney Hall — huelga de hambre de detenidos, dos arrestados. Campaña 'Not Another Cent for ICE'",
     "status": "en_curso",
     "lat": "37.7749",
     "lng": "-122.4194",
     "fuentes": [
-      {"nombre": "MSN", "url": "https://www.msn.com/en-us/video/peopleandplaces/protests-erupt-outside-new-jersey-ice-facility-as-trump-says-they-are-fake-and-paid/vi-AA24glnx"},
-      {"nombre": "CBS San Francisco", "url": "https://www.cbsnews.com/sanfrancisco/news/iranian-americans-san-francisco-rally-oppose-immediate-end-war-iran/"},
-      {"nombre": "NBC Bay Area", "url": "https://www.nbcbayarea.com/news/local/hundreds-march-in-san-francisco-to-protest-against-war-with-iran/4066024/"},
-      {"nombre": "The Harvard Crimson", "url": "https://www.thecrimson.com/article/2026/5/27/hgsu-strike-baccalaureate/"}
+      {
+        "nombre": "MSN",
+        "url": "https://www.msn.com/en-us/video/peopleandplaces/protests-erupt-outside-new-jersey-ice-facility-as-trump-says-they-are-fake-and-paid/vi-AA24glnx"
+      },
+      {
+        "nombre": "CBS San Francisco",
+        "url": "https://www.cbsnews.com/sanfrancisco/news/iranian-americans-san-francisco-rally-oppose-immediate-end-war-iran/"
+      },
+      {
+        "nombre": "NBC Bay Area",
+        "url": "https://www.nbcbayarea.com/news/local/hundreds-march-in-san-francisco-to-protest-against-war-with-iran/4066024/"
+      },
+      {
+        "nombre": "The Harvard Crimson",
+        "url": "https://www.thecrimson.com/article/2026/5/27/hgsu-strike-baccalaureate/"
+      }
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
     "updatedAt": "2026-05-28T23:59:00.000Z"
@@ -166,17 +277,37 @@
     "fecha": "2026-05-28",
     "lugar": "CDMX (Paseo de la Reforma, Zócalo, Centro Histórico)",
     "tipoAccion": "planton",
-    "organizaciones": ["CNTE Sección XXII", "Gremio de Boleteros de Lotería Nacional", "Colectivos feministas", "UACM"],
+    "organizaciones": [
+      "CNTE Sección XXII",
+      "Gremio de Boleteros de Lotería Nacional",
+      "Colectivos feministas",
+      "UACM"
+    ],
     "motivo": "Plantón indefinido de la CNTE exigiendo abrogación de Ley del ISSSTE 2007. Gobierno les negó acceso al Zócalo por obras del Mundial 2026. Amenazan con huelga nacional el 1 de junio. Múltiples concentraciones y marchas. Transportistas y campesinos también en conflicto pre-Mundial",
     "status": "en_curso",
     "lat": "19.4326",
     "lng": "-99.1332",
     "fuentes": [
-      {"nombre": "Capital México", "url": "https://www.capitalmexico.com.mx/cdmx/marchas-y-movilizaciones-hoy-28-de-mayo-de-2026-en-cdmx-cnte-feministas-y-colectivos-preven-afectaciones-viales/"},
-      {"nombre": "El País México", "url": "https://elpais.com/mexico/economia/2026-05-21/transportistas-campesinos-y-maestros-elevan-el-pulso-con-el-gobierno-en-la-antesala-del-mundial.html"},
-      {"nombre": "Milenio", "url": "https://www.milenio.com/politica/segob-y-cnte-siguen-sin-acuerdos-maestros-amenazan-con-huelga"},
-      {"nombre": "Quadratín México", "url": "https://mexico.quadratin.com.mx/intensifica-cnte-protesta-y-cierra-circuito-interior/"},
-      {"nombre": "Grupo Milenio", "url": "https://www.milenio.com/comunidad/bloqueo-circuito-interior-cdmx-hoy-28-de-mayo-alternativas-viales"}
+      {
+        "nombre": "Capital México",
+        "url": "https://www.capitalmexico.com.mx/cdmx/marchas-y-movilizaciones-hoy-28-de-mayo-de-2026-en-cdmx-cnte-feministas-y-colectivos-preven-afectaciones-viales/"
+      },
+      {
+        "nombre": "El País México",
+        "url": "https://elpais.com/mexico/economia/2026-05-21/transportistas-campesinos-y-maestros-elevan-el-pulso-con-el-gobierno-en-la-antesala-del-mundial.html"
+      },
+      {
+        "nombre": "Milenio",
+        "url": "https://www.milenio.com/politica/segob-y-cnte-siguen-sin-acuerdos-maestros-amenazan-con-huelga"
+      },
+      {
+        "nombre": "Quadratín México",
+        "url": "https://mexico.quadratin.com.mx/intensifica-cnte-protesta-y-cierra-circuito-interior/"
+      },
+      {
+        "nombre": "Grupo Milenio",
+        "url": "https://www.milenio.com/comunidad/bloqueo-circuito-interior-cdmx-hoy-28-de-mayo-alternativas-viales"
+      }
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
     "updatedAt": "2026-05-28T23:59:00.000Z"
@@ -190,15 +321,30 @@
     "fecha": "2026-05-28",
     "lugar": "São Paulo (capital e interior), Campinas",
     "tipoAccion": "huelga",
-    "organizaciones": ["DCE USP", "DCE Unicamp", "DCE Unesp", "Adusp", "UNE"],
+    "organizaciones": [
+      "DCE USP",
+      "DCE Unicamp",
+      "DCE Unesp",
+      "Adusp",
+      "UNE"
+    ],
     "motivo": "Huelga estudiantil y docente en universidades estatales paulistas (USP, Unicamp, Unesp). 264 cursos en huelga. Exigen aumento de presupuesto, auxilios estudiantiles, mejoras en restaurantes y moradia. 10.000 marcharon al palacio del gobernador Tarcísio de Freitas el 20/5",
     "status": "en_curso",
     "lat": "-23.5505",
     "lng": "-46.6333",
     "fuentes": [
-      {"nombre": "WSWS", "url": "https://www.wsws.org/en/articles/2026/05/28/gzar-m28.html"},
-      {"nombre": "Agência Pública", "url": "https://apublica.org/2026/05/greve-de-estudantes-atinge-264-cursos-da-usp-unicamp-e-unesp/"},
-      {"nombre": "Brasil de Fato", "url": "https://www.brasildefato.com.br/2026/05/26/professores-da-usp-declaram-apoio-a-alunos-e-iniciam-greve-por-melhorias-e-reajuste-salarial/"}
+      {
+        "nombre": "WSWS",
+        "url": "https://www.wsws.org/en/articles/2026/05/28/gzar-m28.html"
+      },
+      {
+        "nombre": "Agência Pública",
+        "url": "https://apublica.org/2026/05/greve-de-estudantes-atinge-264-cursos-da-usp-unicamp-e-unesp/"
+      },
+      {
+        "nombre": "Brasil de Fato",
+        "url": "https://www.brasildefato.com.br/2026/05/26/professores-da-usp-declaram-apoio-a-alunos-e-iniciam-greve-por-melhorias-e-reajuste-salarial/"
+      }
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
     "updatedAt": "2026-05-28T23:59:00.000Z"
@@ -212,16 +358,35 @@
     "fecha": "2026-05-28",
     "lugar": "Bogotá y principales ciudades",
     "tipoAccion": "paro",
-    "organizaciones": ["CUT", "CTC", "CGT", "Fecode", "Centrales obreras", "Movimientos sociales"],
+    "organizaciones": [
+      "CUT",
+      "CTC",
+      "CGT",
+      "Fecode",
+      "Centrales obreras",
+      "Movimientos sociales"
+    ],
     "motivo": "Paro nacional de 48h en apoyo a consulta popular por reforma laboral de Petro. El Senado rechazó el referendo el 14/5. Movilizaciones ciudadanas, plantones y actos culturales con demandas sociales, juveniles y ambientales",
     "status": "en_curso",
     "lat": "4.7110",
     "lng": "-74.0721",
     "fuentes": [
-      {"nombre": "teleSUR", "url": "https://www.telesurenglish.net/colombians-launch-48-hour-national-strike-in-support-of-labor-reform-referendum/"},
-      {"nombre": "Bogota.gov.co", "url": "https://bogota.gov.co/mi-ciudad/gobierno/conoce-las-marchas-y-manifestaciones-en-bogota-25-al-28-de-mayo-2026"},
-      {"nombre": "El Universal", "url": "https://www.eluniversal.com.co/colombia/2025/05/28/paro-nacional-asi-se-desarrolla-la-jornada-en-ciudades-de-colombia/"},
-      {"nombre": "El Portal Semanario", "url": "https://elportalsemanario.com/?p=14892"}
+      {
+        "nombre": "teleSUR",
+        "url": "https://www.telesurenglish.net/colombians-launch-48-hour-national-strike-in-support-of-labor-reform-referendum/"
+      },
+      {
+        "nombre": "Bogota.gov.co",
+        "url": "https://bogota.gov.co/mi-ciudad/gobierno/conoce-las-marchas-y-manifestaciones-en-bogota-25-al-28-de-mayo-2026"
+      },
+      {
+        "nombre": "El Universal",
+        "url": "https://www.eluniversal.com.co/colombia/2025/05/28/paro-nacional-asi-se-desarrolla-la-jornada-en-ciudades-de-colombia/"
+      },
+      {
+        "nombre": "El Portal Semanario",
+        "url": "https://elportalsemanario.com/?p=14892"
+      }
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
     "updatedAt": "2026-05-28T23:59:00.000Z"
@@ -235,15 +400,30 @@
     "fecha": "2026-05-28",
     "lugar": "París (nacional)",
     "tipoAccion": "huelga",
-    "organizaciones": ["Fep-CFDT", "Spelc", "Snec-CFTC", "CGT-EP", "CGT Santé et Action Sociale"],
+    "organizaciones": [
+      "Fep-CFDT",
+      "Spelc",
+      "Snec-CFTC",
+      "CGT-EP",
+      "CGT Santé et Action Sociale"
+    ],
     "motivo": "Huelga nacional de profesores de enseñanza privada católica contra eliminación del 'bouclier' de previsión vigente por 50 años. También preaviso de huelga CGT en salud y acción social (22-28 mayo) por salarios y condiciones",
     "status": "en_curso",
     "lat": "48.8566",
     "lng": "2.3522",
     "fuentes": [
-      {"nombre": "La Voix du Nord", "url": "https://www.lavoixdunord.fr/1706979/article/2026-05-28/son-bouclier-prevoyance-menace-l-enseignement-prive-catholique-est-en-greve-et"},
-      {"nombre": "Fep-CFDT", "url": "https://fep.cfdt.fr/sinformer/vous-defendre/jeudi-28-mai-2026-les-enseignants-et-enseignantes-du-prive-sous-contrat-dans-la-rue-pour-dire-non-a-l-enterrement-de-leur-prevoyance"},
-      {"nombre": "CGT Santé", "url": "https://cgt-sante-action-sociale.fr/preavis-de-greve-du-22-au-28-mai-2026/"}
+      {
+        "nombre": "La Voix du Nord",
+        "url": "https://www.lavoixdunord.fr/1706979/article/2026-05-28/son-bouclier-prevoyance-menace-l-enseignement-prive-catholique-est-en-greve-et"
+      },
+      {
+        "nombre": "Fep-CFDT",
+        "url": "https://fep.cfdt.fr/sinformer/vous-defendre/jeudi-28-mai-2026-les-enseignants-et-enseignantes-du-prive-sous-contrat-dans-la-rue-pour-dire-non-a-l-enterrement-de-leur-prevoyance"
+      },
+      {
+        "nombre": "CGT Santé",
+        "url": "https://cgt-sante-action-sociale.fr/preavis-de-greve-du-22-au-28-mai-2026/"
+      }
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
     "updatedAt": "2026-05-28T23:59:00.000Z"
@@ -257,16 +437,33 @@
     "fecha": "2026-05-28",
     "lugar": "Teherán y más de 200 ciudades",
     "tipoAccion": "movilizacion",
-    "organizaciones": ["Coordinadora de asociaciones de profesores", "Sindicatos obreros", "Mujeres kurdas", "Estudiantes"],
+    "organizaciones": [
+      "Coordinadora de asociaciones de profesores",
+      "Sindicatos obreros",
+      "Mujeres kurdas",
+      "Estudiantes"
+    ],
     "motivo": "Mayor levantamiento desde 1979: protestas contra inflación, crisis económica, guerra con EE.UU./Israel y régimen islámico. 7.015-36.500+ muertos desde dic 2025. Ministerio de Inteligencia advierte nuevo malestar. Cese al fuego frágil no detiene movilizaciones",
     "status": "en_curso",
     "lat": "35.6892",
     "lng": "51.3890",
     "fuentes": [
-      {"nombre": "Wikipedia", "url": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Iranian_protests"},
-      {"nombre": "RFE/RL", "url": "https://www.rferl.org/a/iran-war-us-hormuz-oil-blockade-gulf-israel/33640284.html"},
-      {"nombre": "Britannica", "url": "https://www.britannica.com/event/2026-Iranian-Protests"},
-      {"nombre": "Caliber / NetBlocks", "url": "https://caliber.az/en/post/netblocks-iran-still-faces-internet-filtering-three-months-after-shutdown"}
+      {
+        "nombre": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Iranian_protests"
+      },
+      {
+        "nombre": "RFE/RL",
+        "url": "https://www.rferl.org/a/iran-war-us-hormuz-oil-blockade-gulf-israel/33640284.html"
+      },
+      {
+        "nombre": "Britannica",
+        "url": "https://www.britannica.com/event/2026-Iranian-Protests"
+      },
+      {
+        "nombre": "Caliber / NetBlocks",
+        "url": "https://caliber.az/en/post/netblocks-iran-still-faces-internet-filtering-three-months-after-shutdown"
+      }
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
     "updatedAt": "2026-05-28T23:59:00.000Z"
@@ -280,15 +477,28 @@
     "fecha": "2026-05-28",
     "lugar": "Kerala (Kannur, Thiruvananthapuram, Thrissur) y Nueva Delhi",
     "tipoAccion": "movilizacion",
-    "organizaciones": ["CPI(M)", "Oposición Kerala", "India for Myanmar"],
+    "organizaciones": [
+      "CPI(M)",
+      "Oposición Kerala",
+      "India for Myanmar"
+    ],
     "motivo": "Protestas masivas del CPI(M) tras allanamiento de la Enforcement Directorate (ED) a casas del ex CM Pinarayi Vijayan. Manifestantes atacaron vehículos de la ED, 300 detenidos. Además, refugiados birmanos en Delhi protestan contra la visita del presidente de la junta Min Aung Hlaing",
     "status": "en_curso",
     "lat": "11.8745",
     "lng": "75.3704",
     "fuentes": [
-      {"nombre": "The Hindu", "url": "https://www.thehindu.com/news/national/kerala/enforcement-directorate-ends-search-at-pinarayi-vijayans-kannur-house-cpim-workers-protest/article71028920.ece"},
-      {"nombre": "The Logical Indian", "url": "https://thelogicalindian.com/cpm-workers-smash-ed-vehicles-after-pinarayi-vijayan-raid-police-book-nearly-300-in-kerala-violence/"},
-      {"nombre": "Facebook / The Irrawaddy", "url": "https://www.facebook.com/theirrawaddy/posts/protest-planned-in-new-delhi-for-min-aung-hlaing-visitmay-28-2026the-india-for-m/1446135124208307/"}
+      {
+        "nombre": "The Hindu",
+        "url": "https://www.thehindu.com/news/national/kerala/enforcement-directorate-ends-search-at-pinarayi-vijayans-kannur-house-cpim-workers-protest/article71028920.ece"
+      },
+      {
+        "nombre": "The Logical Indian",
+        "url": "https://thelogicalindian.com/cpm-workers-smash-ed-vehicles-after-pinarayi-vijayan-raid-police-book-nearly-300-in-kerala-violence/"
+      },
+      {
+        "nombre": "Facebook / The Irrawaddy",
+        "url": "https://www.facebook.com/theirrawaddy/posts/protest-planned-in-new-delhi-for-min-aung-hlaing-visitmay-28-2026the-india-for-m/1446135124208307/"
+      }
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
     "updatedAt": "2026-05-28T23:59:00.000Z"
@@ -302,15 +512,27 @@
     "fecha": "2026-05-28",
     "lugar": "Izmir, Ankara, Estambul",
     "tipoAccion": "movilizacion",
-    "organizaciones": ["CHP (Partido Republicano del Pueblo)", "Oposición secular"],
+    "organizaciones": [
+      "CHP (Partido Republicano del Pueblo)",
+      "Oposición secular"
+    ],
     "motivo": "Protestas masivas contra destitución judicial del líder opositor Özgür Özel. Policía reprime con gas lacrimógeno y cañones de agua en Izmir. Previamente policía allanó sede nacional del CHP en Ankara. Crisis política por decisión judicial que repuso a Kılıçdaroğlu",
     "status": "en_curso",
     "lat": "38.4192",
     "lng": "27.1287",
     "fuentes": [
-      {"nombre": "Bianet", "url": "https://bianet.org/haber/ousted-opposition-leader-holds-mass-rally-in-izmir-despite-police-crackdown-319962"},
-      {"nombre": "Turkish Minute", "url": "https://www.turkishminute.com/2026/05/22/thousands-rally-after-court-ousts-turkeys-main-opposition-leader/"},
-      {"nombre": "The Wire", "url": "https://m.thewire.in/article/government/turkish-police-storm-main-opposition-chp-party-offices-protests-erupt-after-action/amp"}
+      {
+        "nombre": "Bianet",
+        "url": "https://bianet.org/haber/ousted-opposition-leader-holds-mass-rally-in-izmir-despite-police-crackdown-319962"
+      },
+      {
+        "nombre": "Turkish Minute",
+        "url": "https://www.turkishminute.com/2026/05/22/thousands-rally-after-court-ousts-turkeys-main-opposition-leader/"
+      },
+      {
+        "nombre": "The Wire",
+        "url": "https://m.thewire.in/article/government/turkish-police-storm-main-opposition-chp-party-offices-protests-erupt-after-action/amp"
+      }
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
     "updatedAt": "2026-05-28T23:59:00.000Z"
@@ -324,15 +546,28 @@
     "fecha": "2026-05-28",
     "lugar": "Fráncfort, Múnich, Berlín y nacional",
     "tipoAccion": "huelga",
-    "organizaciones": ["Vereinigung Cockpit (VC)", "UFO", "Verdi"],
+    "organizaciones": [
+      "Vereinigung Cockpit (VC)",
+      "UFO",
+      "Verdi"
+    ],
     "motivo": "Conflictos laborales activos en Lufthansa Group. VC mantiene mandato de huelga del 96% y puede activar paro de pilotos en cualquier momento. UFO y Verdi en disputa activa. Lufthansa exige reforma de ley de huelgas. CiudadLine cerrada, 20.000 vuelos cortos eliminados",
     "status": "en_curso",
     "lat": "50.1109",
     "lng": "8.6821",
     "fuentes": [
-      {"nombre": "AirInsight", "url": "https://airinsight.com/lufthansa-politikbrief-may-2026/"},
-      {"nombre": "Wego Travel Blog", "url": "https://blog.wego.com/europe-airport-strikes-summer-2026/"},
-      {"nombre": "Euronews", "url": "https://www.euronews.com/travel/2026/04/15/german-pilots-union-calls-for-two-day-lufthansa-strike-action-on-monday-and-tuesday"}
+      {
+        "nombre": "AirInsight",
+        "url": "https://airinsight.com/lufthansa-politikbrief-may-2026/"
+      },
+      {
+        "nombre": "Wego Travel Blog",
+        "url": "https://blog.wego.com/europe-airport-strikes-summer-2026/"
+      },
+      {
+        "nombre": "Euronews",
+        "url": "https://www.euronews.com/travel/2026/04/15/german-pilots-union-calls-for-two-day-lufthansa-strike-action-on-monday-and-tuesday"
+      }
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
     "updatedAt": "2026-05-28T23:59:00.000Z"
@@ -346,14 +581,24 @@
     "fecha": "2026-05-28",
     "lugar": "Nairobi y nacional",
     "tipoAccion": "huelga",
-    "organizaciones": ["Transportistas", "Asociación de escuelas privadas", "Sindicatos"],
+    "organizaciones": [
+      "Transportistas",
+      "Asociación de escuelas privadas",
+      "Sindicatos"
+    ],
     "motivo": "Huelga nacional de transporte público y protestas desde el 18 de mayo por aumento récord de combustible (diésel +23.5%), costo de vida y muerte de 4 manifestantes por disparos policiales",
     "status": "en_curso",
     "lat": "-1.2921",
     "lng": "36.8219",
     "fuentes": [
-      {"nombre": "AP / ABC News", "url": "https://abcnews.com/International/wireStory/protesters-light-bonfires-public-transport-strike-kenya-fuel-133061301"},
-      {"nombre": "Responsible Statecraft", "url": "https://responsiblestatecraft.org/diesel-fuel-protests-africa/"}
+      {
+        "nombre": "AP / ABC News",
+        "url": "https://abcnews.com/International/wireStory/protesters-light-bonfires-public-transport-strike-kenya-fuel-133061301"
+      },
+      {
+        "nombre": "Responsible Statecraft",
+        "url": "https://responsiblestatecraft.org/diesel-fuel-protests-africa/"
+      }
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
     "updatedAt": "2026-05-28T23:59:00.000Z"
@@ -367,36 +612,24 @@
     "fecha": "2026-05-28",
     "lugar": "Londres (Glencore HQ, Regent Street, HSBC, Barclays)",
     "tipoAccion": "marcha",
-    "organizaciones": ["Resist Glencore", "Activistas ambientales", "ONG de derechos humanos"],
+    "organizaciones": [
+      "Resist Glencore",
+      "Activistas ambientales",
+      "ONG de derechos humanos"
+    ],
     "motivo": "Marcha 'Resist Glencore' en Londres contra empresas que financian proyectos mineros y de combustibles fósiles vinculados a destrucción ambiental y abusos de derechos humanos en RD Congo y otros países. Concentración frente a Glencore, Apple Store, HSBC y Barclays",
     "status": "en_curso",
     "lat": "51.5074",
     "lng": "-0.1278",
     "fuentes": [
-      {"nombre": "Alamy", "url": "https://www.alamy.com/london-uk-28-may-2026-activists-take-part-in-a-resist-glencore-protest-march-in-central-london-demonstrators-gather-outside-glencore-headquarters-before-marching-to-the-apple-store-on-regent-street-hsbc-and-barclays-accusing-the-companies-of-benefiting-from-or-financing-mining-and-fossil-fuel-projects-linked-to-environmental-destruction-and-human-rights-abuses-including-in-the-democratic-republic-of-the-congo-credit-waldemar-sikora-alamy-live-news-image734125374.html"},
-      {"nombre": "Find a Protest", "url": "https://www.findaprotest.info/uk/london"}
-    ],
-    "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-28T23:59:00.000Z"
-  },
-  {
-    "id": 18,
-    "seccion": "internacionales",
-    "pais": "Corea del Sur",
-    "bandera": "🇰🇷",
-    "hora": "00:00",
-    "fecha": "2026-05-28",
-    "lugar": "Pyeongtaek y nacional (complejo chips Samsung)",
-    "tipoAccion": "huelga",
-    "organizaciones": ["Sindicato Nacional Samsung (NSEU)"],
-    "motivo": "Más de 47.000 trabajadores de Samsung Electronics en huelga desde el 21 de mayo por salarios y bonificaciones. Negociaciones salariales colapsadas. Protestas en el complejo de chips de Pyeongtaek. Amenaza de afectar producción ante auge de demanda de IA",
-    "status": "en_curso",
-    "lat": "36.9959",
-    "lng": "127.0885",
-    "fuentes": [
-      {"nombre": "CNBC", "url": "https://www.cnbc.com/2026/05/20/samsung-electronics-strike-workers-union-wage-talks-shares.html"},
-      {"nombre": "AP News", "url": "https://apnews.com/article/korea-samsung-union-strike-ai-38e7a5030d3688850d3e8d8baf240f58"},
-      {"nombre": "The Independent", "url": "https://www.independent.co.uk/asia/east-asia/samsung-strike-workers-protest-ai-profits-b2963351.html"}
+      {
+        "nombre": "Alamy",
+        "url": "https://www.alamy.com/london-uk-28-may-2026-activists-take-part-in-a-resist-glencore-protest-march-in-central-london-demonstrators-gather-outside-glencore-headquarters-before-marching-to-the-apple-store-on-regent-street-hsbc-and-barclays-accusing-the-companies-of-benefiting-from-or-financing-mining-and-fossil-fuel-projects-linked-to-environmental-destruction-and-human-rights-abuses-including-in-the-democratic-republic-of-the-congo-credit-waldemar-sikora-alamy-live-news-image734125374.html"
+      },
+      {
+        "nombre": "Find a Protest",
+        "url": "https://www.findaprotest.info/uk/london"
+      }
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
     "updatedAt": "2026-05-28T23:59:00.000Z"
@@ -410,208 +643,23 @@
     "fecha": "2026-05-28",
     "lugar": "Lagos (Estado de Lagos, Alausa, Ikeja)",
     "tipoAccion": "movilizacion",
-    "organizaciones": ["Iyaloja-General Folashade Tinubu-Ojo", "Comerciantes y líderes de mercado"],
+    "organizaciones": [
+      "Iyaloja-General Folashade Tinubu-Ojo",
+      "Comerciantes y líderes de mercado"
+    ],
     "motivo": "La hija del presidente Tinubu, Folashade Tinubu-Ojo (Iyaloja-General), amenaza con protestas masivas por manipulación en primarias del APC en Lagos. Denuncia que los resultados de Mushin, Agege y Ojokoro fueron amañados a favor de la facción Justice Forum. Crisis interna en el partido gobernante pre-2027",
     "status": "convocado",
     "lat": "6.5244",
     "lng": "3.3792",
     "fuentes": [
-      {"nombre": "Daily Post Nigeria", "url": "https://dailypost.ng/2026/05/28/tinubus-daughter-rejects-lagos-apc-primary-results-threatens-protest/"},
-      {"nombre": "Dockaysworld", "url": "https://www.dockaysworld.com.ng/tinubus-daughter-to-protest-against-apc/"}
-    ],
-    "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-28T23:59:00.000Z"
-  },
-  {
-    "id": 20,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "00:00",
-    "fecha": "2026-05-28",
-    "lugar": "Nacional (14 provincias, incluida Buenos Aires)",
-    "tipoAccion": "paro",
-    "organizaciones": ["FreNDEP", "Asociación de Maestros PBA", "Sindicatos docentes de base"],
-    "motivo": "Paro docente nacional de 48h (día 2, 27-28 mayo) por salario mínimo vital y móvil docente de $2.800.000 y mejoras laborales. Gremios de base nucleados en FreNDEP desafían a CTERA bajo consigna 'Ni un docente pobre en la Argentina'. Adhesión confirmada en al menos 14 provincias con movilizaciones",
-    "status": "en_curso",
-    "lat": "-34.6037",
-    "lng": "-58.3816",
-    "fuentes": [
-      {"nombre": "Cadena Nueve", "url": "https://www.cadenanueve.com/2026/05/27/frendep-convoca-a-un-paro-nacional-docente-de-48-horas-con-movilizaciones-en-todo-el-pais/"},
-      {"nombre": "Crónica", "url": "https://www.cronica.com.ar/sociedad/suspenden-las-clases-por-48-horas-todo-lo-que-se-sabe-sobre-el-paro-docente/"},
-      {"nombre": "Luján Hoy", "url": "https://www.lujanhoy.com.ar/2026/05/28/milei-cumpli-con-la-ley-nodocentes-van-al-paro-y-crece-la-tension-en-las-universidades/"}
-    ],
-    "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-28T23:59:00.000Z"
-  },
-  {
-    "id": 21,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "00:00",
-    "fecha": "2026-05-28",
-    "lugar": "CABA (Colegio Nacional Buenos Aires y Carlos Pellegrini, Caballito)",
-    "tipoAccion": "toma",
-    "organizaciones": ["Centro de Estudiantes Carlos Pellegrini", "Centro de Estudiantes Nacional Buenos Aires", "Estudiantes autoconvocados"],
-    "motivo": "Toma estudiantil del Carlos Pellegrini y el Nacional Buenos Aires exigiendo cumplimiento de la Ley de Financiamiento Universitario. El Nacional Buenos Aires levantó la toma el 28/5 y retomó clases, pero esa misma noche su centro de estudiantes (Francisco Pitrola) confirmó que retomarían la ocupación. El Carlos Pellegrini mantiene la ocupación sin interrupción con actividades suspendidas. Autoridades advierten que no pueden garantizar integridad física de alumnos dentro del edificio. Jubilados marcharon al Pellegrini en solidaridad. Conflicto universitario escala con paro docente de toda la semana (26-30 mayo)",
-    "status": "en_curso",
-    "lat": "-34.6083",
-    "lng": "-58.3954",
-    "fuentes": [
-      {"nombre": "Infobae", "url": "https://www.infobae.com/politica/2026/05/28/toma-en-los-colegios-el-nacional-buenos-aires-volvera-a-clases-mientras-que-el-carlos-pellegrini-sostiene-la-medida-de-fuerza/"},
-      {"nombre": "El País", "url": "https://elpais.com/argentina/2026-05-28/el-reclamo-universitario-contra-el-gobierno-de-milei-escala-con-protestas-estudiantiles-y-huelgas-de-profesores.html"},
-      {"nombre": "El Destape", "url": "https://www.eldestapeweb.com/politica/escala-conflicto-nacional-buenos-aires-reanudara-toma-financiamiento-universitario-2026528142759"},
-      {"nombre": "Resumen Latinoamericano", "url": "https://www.resumenlatinoamericano.org/2026/05/28/argentina-ley-de-financiamiento-universitario-levantaron-la-toma-en-el-nacional-buenos-aires-y-se-mantiene-la-del-pellegrini/"},
-      {"nombre": "Indymedia Argentina", "url": "https://argentina.indymedia.org/2026/05/28/estan-muriendo-jubilados-porque-no-pueden-comprar-los-remedios/"}
-    ],
-    "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-28T23:59:00.000Z"
-  },
-  {
-    "id": 22,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "00:00",
-    "fecha": "2026-05-28",
-    "lugar": "Nacional (universidades públicas, CABA Tribunales)",
-    "tipoAccion": "paro",
-    "organizaciones": ["Conadu Histórica", "Fedun", "CONADU", "Fagdut", "CIN", "FUA"],
-    "motivo": "Paro universitario nacional (26-30 mayo) por recomposición salarial, presupuesto y cumplimiento de la Ley de Financiamiento Universitario. Clases públicas en Tribunales. Docentes perdieron 34-52% de poder adquisitivo en dos años. Oferta gubernamental de 1,5% + bono $40.000 rechazada. Tres de cada cuatro docentes necesitan segundo empleo. Conflicto escaló con debate en medios y cruces entre oficialismo y oposición",
-    "status": "en_curso",
-    "lat": "-34.6037",
-    "lng": "-58.3816",
-    "fuentes": [
-      {"nombre": "El País", "url": "https://elpais.com/argentina/2026-05-28/el-reclamo-universitario-contra-el-gobierno-de-milei-escala-con-protestas-estudiantiles-y-huelgas-de-profesores.html"},
-      {"nombre": "CONADU", "url": "https://conadu.org.ar/el-gobierno-nacional-continua-atacando-el-salario-de-la-docencia-de-las-universidades-nacionales/"},
-      {"nombre": "TN", "url": "https://tn.com.ar/politica/2026/05/28/de-financian-estructuras-politicas-a-quieren-arancelarla-los-cruces-por-la-situacion-de-las-universidades/"},
-      {"nombre": "El Territorio", "url": "https://www.elterritorio.com.ar/noticias/2026/05/28/888520-docentes-universitarios-convocan-a-nuevas-medidas-de-fuerza-por-salarios-y-financiamiento"}
-    ],
-    "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-28T23:59:00.000Z"
-  },
-  {
-    "id": 23,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "16:00",
-    "fecha": "2026-05-28",
-    "lugar": "CABA (Microestadio Club Ferro Carril Oeste, Caballito)",
-    "tipoAccion": "concentracion",
-    "organizaciones": ["Multisectorial en Defensa de la Seguridad Social", "CTA Autónoma", "CTA de los Trabajadores", "Asociación Bancaria", "Suteba"],
-    "motivo": "2º Jubilazo Federal: festival lanzamiento con reclamos por aumento de emergencia a jubilados ($380.000 vs canasta $1.824.000), medicamentos gratuitos, prórroga de moratoria previsional, rechazo a reformas jubilatorias y al FAL. Consigna: 'AFJP nunca más'. Actividades culturales y bandas en vivo. En paralelo, marcha semanal de jubilados frente al Congreso con fuerte operativo policial",
-    "status": "en_curso",
-    "lat": "-34.6186",
-    "lng": "-58.4469",
-    "fuentes": [
-      {"nombre": "La Bocina", "url": "https://labocina.info/2026/05/27/reclamos-y-musica-en-ferro-se-viene-el-segundo-jubilazo-federal/"},
-      {"nombre": "La Bancaria", "url": "https://labancaria.org/jubilazo-federal-en-defensa-de-nuestros-jubilados-as/"},
-      {"nombre": "Indymedia Argentina", "url": "https://argentina.indymedia.org/2026/05/28/estan-muriendo-jubilados-porque-no-pueden-comprar-los-remedios/"}
-    ],
-    "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-28T23:59:00.000Z"
-  },
-  {
-    "id": 24,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "10:00",
-    "fecha": "2026-05-28",
-    "lugar": "La Plata (Plaza Moreno, Municipalidad, Jefatura Regional de Educación)",
-    "tipoAccion": "movilizacion",
-    "organizaciones": ["Padres autoconvocados", "Docentes", "Gremios docentes"],
-    "motivo": "Protesta por invasión de ratas en escuelas de La Plata. Denuncian roedores en aulas y cocinas de múltiples establecimientos (Escuela Nº21, Nº59, Normal Nº3, Primaria Nº1, Secundaria Nº16), riesgo de hantavirus y falta de respuesta de autoridades municipales y provinciales",
-    "status": "en_curso",
-    "lat": "-34.9215",
-    "lng": "-57.9543",
-    "fuentes": [
-      {"nombre": "El Día", "url": "https://www.eldia.com/la-ciudad/fuerte-protesta-en-la-plata-por-la-invasion-de-ratas-en-las-escuelas-la-ciudad_1779976380"}
-    ],
-    "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-28T23:59:00.000Z"
-  },
-  {
-    "id": 25,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "09:00",
-    "fecha": "2026-05-28",
-    "lugar": "La Plata (subida autopista Buenos Aires - La Plata)",
-    "tipoAccion": "volanteada",
-    "organizaciones": ["ADULP", "ATULP", "FULP", "Gremios universitarios UNLP"],
-    "motivo": "Volanteada de visibilización en acceso a autopista en el marco del paro universitario nacional. Reclamo por Ley de Financiamiento Universitario, recomposición salarial y presupuesto educativo. Integrantes de la comunidad universitaria de la UNLP informan a automovilistas sobre la crisis universitaria",
-    "status": "en_curso",
-    "lat": "-34.9067",
-    "lng": "-57.9427",
-    "fuentes": [
-      {"nombre": "El Día", "url": "https://www.eldia.com/la-ciudad/semana-de-paro-en-la-unlp-la-agenda-de-actividades-para-visibilizar-la-protesta-docente-la-ciudad_1779800460"}
-    ],
-    "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-28T23:59:00.000Z"
-  },
-  {
-    "id": 26,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "00:00",
-    "fecha": "2026-05-28",
-    "lugar": "Nacional (universidades nacionales)",
-    "tipoAccion": "paro",
-    "organizaciones": ["FATUN", "APUNaM", "Fagdut", "CONADU", "Fedun", "Sindicatos nodocentes"],
-    "motivo": "Paro nodocente nacional sin asistencia a lugares de trabajo confirmado para 29/5 y 3-4/6. El rector de UNCA advirtió que hasta docentes con dedicación exclusiva necesitan segundo empleo. Crisis salarial universitaria sin precedentes. Reclamo por Ley de Financiamiento Universitario, paritarias y recomposición salarial. Consigna: 'Nos quieren pobres y sin educación'",
-    "status": "convocado",
-    "lat": "-34.6037",
-    "lng": "-58.3816",
-    "fuentes": [
-      {"nombre": "El Esquiú", "url": "https://www.elesquiu.com/politica/2026/05/28/arellano-confirmo-paro-nodocente-alerto-que-hasta-los-docentes-full-necesitan-un-segundo-trabajo-599489.html"},
-      {"nombre": "El Territorio", "url": "https://www.elterritorio.com.ar/noticias/2026/05/28/888520-docentes-universitarios-convocan-a-nuevas-medidas-de-fuerza-por-salarios-y-financiamiento"},
-      {"nombre": "Luján Hoy", "url": "https://www.lujanhoy.com.ar/2026/05/28/milei-cumpli-con-la-ley-nodocentes-van-al-paro-y-crece-la-tension-en-las-universidades/"}
-    ],
-    "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-28T23:59:00.000Z"
-  },
-  {
-    "id": 27,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "15:00",
-    "fecha": "2026-05-28",
-    "lugar": "CABA (Congreso de la Nación, Av. Rivadavia y Callao)",
-    "tipoAccion": "marcha",
-    "organizaciones": ["Jubilados autoconvocados", "La Bancaria", "Prensa alternativa", "Activistas solidarios"],
-    "motivo": "Marcha semanal de jubilados frente al Congreso. Reclamo por aumento de haberes ($460.000 vs canasta $1.824.000), medicamentos gratuitos y contra el vaciamiento de la seguridad social. Fuerte operativo policial con vallados. Manifestantes denuncian que 'están muriendo jubilados porque no pueden comprar los remedios'. Columna marchó al Colegio Carlos Pellegrini en solidaridad con la toma estudiantil. La Bancaria brindó apoyo con bebidas calientes",
-    "status": "en_curso",
-    "lat": "-34.6097",
-    "lng": "-58.3924",
-    "fuentes": [
-      {"nombre": "Indymedia Argentina", "url": "https://argentina.indymedia.org/2026/05/28/estan-muriendo-jubilados-porque-no-pueden-comprar-los-remedios/"},
-      {"nombre": "El Destape", "url": "https://www.eldestapeweb.com/politica/marcha-jubilados/las-fuerzas-de-seguridad-despliegan-un-desmedido-operativo-para-la-marcha-de-jubilados-2025528142942"}
-    ],
-    "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-28T23:59:00.000Z"
-  },
-  {
-    "id": 28,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "10:00",
-    "fecha": "2026-05-28",
-    "lugar": "Paraná (Cinco Esquinas), Entre Ríos",
-    "tipoAccion": "concentracion",
-    "organizaciones": ["Trabajadores de salud autoconvocados", "Docentes autoconvocados", "Jubilados docentes", "ATE", "AGMER"],
-    "motivo": "Protesta de docentes, enfermeros y jubilados en Paraná contra la reforma previsional provincial y por mejoras salariales. Enfermeros denuncian que aumento del 3.5% ($35.000) 'no alcanza para nada'. Salario básico de enfermera con 25 años de antigüedad: $300.000. Jubilados docentes cuestionan reforma previsional y pérdida de poder adquisitivo",
-    "status": "en_curso",
-    "lat": "-31.7333",
-    "lng": "-60.5333",
-    "fuentes": [
-      {"nombre": "Análisis Digital", "url": "https://www.analisisdigital.com.ar/provinciales/2026/05/28/docentes-enfermeros-y-jubilados-reclamaron-mejoras-salariales-y-rechazaron-la-reforma-previsional-en-parana"}
+      {
+        "nombre": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/05/28/tinubus-daughter-rejects-lagos-apc-primary-results-threatens-protest/"
+      },
+      {
+        "nombre": "Dockaysworld",
+        "url": "https://www.dockaysworld.com.ng/tinubus-daughter-to-protest-against-apc/"
+      }
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
     "updatedAt": "2026-05-28T23:59:00.000Z"
@@ -625,15 +673,28 @@
     "fecha": "2026-05-28",
     "lugar": "Londres (10 Downing Street), La Haya (ICJ), Hamburgo, Helsinki, Busan",
     "tipoAccion": "concentracion",
-    "organizaciones": ["Free Balochistan Movement (FBM)", "Baloch National Movement (BNM)", "Baloch American Congress"],
+    "organizaciones": [
+      "Free Balochistan Movement (FBM)",
+      "Baloch National Movement (BNM)",
+      "Baloch American Congress"
+    ],
     "motivo": "Jornada global de protestas por 28° aniversario de pruebas nucleares de Pakistán en Chagai, Balochistán (28/5/1998). Denuncian devastación ambiental, contaminación radiactiva, cáncer en población balochi. Exigen reconocimiento internacional, retiro de arsenales nucleares de Balochistán y autodeterminación. Consigna: 'Aasrokh – Día de Luto'",
     "status": "en_curso",
     "lat": "51.5074",
     "lng": "-0.1278",
     "fuentes": [
-      {"nombre": "IANS / ThePrint", "url": "https://ianslive.in/baloch-group-holds-global-protests-marking-28th-anniversary-of-pakistans-chagai-nuclear-tests--20260528123123"},
-      {"nombre": "IBG News", "url": "https://ibgnews.com/2026/05/28/a-protest-outside-downing-street-marks-pakistan-nuclear-test-anniversary-as-black-day-for-the-people-of-balochistan/"},
-      {"nombre": "Balochwarna News", "url": "https://balochwarna.com/2026/05/fbm-to-hold-international-protests-against-pakistans-nuclear-tests/"}
+      {
+        "nombre": "IANS / ThePrint",
+        "url": "https://ianslive.in/baloch-group-holds-global-protests-marking-28th-anniversary-of-pakistans-chagai-nuclear-tests--20260528123123"
+      },
+      {
+        "nombre": "IBG News",
+        "url": "https://ibgnews.com/2026/05/28/a-protest-outside-downing-street-marks-pakistan-nuclear-test-anniversary-as-black-day-for-the-people-of-balochistan/"
+      },
+      {
+        "nombre": "Balochwarna News",
+        "url": "https://balochwarna.com/2026/05/fbm-to-hold-international-protests-against-pakistans-nuclear-tests/"
+      }
     ],
     "createdAt": "2026-05-28T23:59:00.000Z",
     "updatedAt": "2026-05-28T23:59:00.000Z"
@@ -647,13 +708,21 @@
     "fecha": "2026-05-28",
     "lugar": "Atenas (Plaza Central Universidad Politécnica - NTUA)",
     "tipoAccion": "concentracion",
-    "organizaciones": ["Colectivos anarquistas y antifascistas", "Estudiantes Politécnico", "Research Critique", "Iniciativa Estudiantes Anarquistas Volos"],
+    "organizaciones": [
+      "Colectivos anarquistas y antifascistas",
+      "Estudiantes Politécnico",
+      "Research Critique",
+      "Iniciativa Estudiantes Anarquistas Volos"
+    ],
     "motivo": "Concentración antiguerra en Universidad Politécnica de Atenas como parte de 'antiguerra de dos días' contra militarización de universidades, represión e investigación bélica. Incluye proyección documental '48/ Resistencia al gran asentamiento' y eventos políticos. Consignas: 'Lucha antiestatal-antimilitarista dentro y fuera de las escuelas'",
     "status": "en_curso",
     "lat": "37.9838",
     "lng": "23.7275",
     "fuentes": [
-      {"nombre": "Land and Freedom", "url": "https://mail.landandfreedom.gr/en/imerologio/eventdetail/3060/-/athina-antipolemiki-sygkentrosi"}
+      {
+        "nombre": "Land and Freedom",
+        "url": "https://mail.landandfreedom.gr/en/imerologio/eventdetail/3060/-/athina-antipolemiki-sygkentrosi"
+      }
     ],
     "createdAt": "2026-05-28T23:59:00.000Z",
     "updatedAt": "2026-05-28T23:59:00.000Z"
@@ -667,13 +736,20 @@
     "fecha": "2026-05-28",
     "lugar": "Nashik, Maharashtra (carretera Mumbai-Agra, APMC Chandwad)",
     "tipoAccion": "movilizacion",
-    "organizaciones": ["Kanda Utpadak Shetkari Kranti Mahamorcha", "Agricultores de cebolla", "MVA (Maharashtra Vikas Aghadi)"],
+    "organizaciones": [
+      "Kanda Utpadak Shetkari Kranti Mahamorcha",
+      "Agricultores de cebolla",
+      "MVA (Maharashtra Vikas Aghadi)"
+    ],
     "motivo": "Masiva protesta de agricultores de cebolla en Nashik desde 26/5. Bloqueo Carretera Nacional Mumbai-Agra. Reclaman precios justos (₹4/kg vs costo ₹20/kg), compensación por pérdidas y alivio de restricciones de exportación. 10.000 manifestantes, miles detenidos. Líderes oposición MVA también detenidos",
     "status": "en_curso",
     "lat": "19.9975",
     "lng": "73.7898",
     "fuentes": [
-      {"nombre": "SabrangIndia", "url": "https://sabrangindia.in/rs4-a-kilo-for-a-crop-that-costs-rs20-to-grow-nashiks-onion-farmers-erupt-in-protest-over-deepening-price-crisis/"}
+      {
+        "nombre": "SabrangIndia",
+        "url": "https://sabrangindia.in/rs4-a-kilo-for-a-crop-that-costs-rs20-to-grow-nashiks-onion-farmers-erupt-in-protest-over-deepening-price-crisis/"
+      }
     ],
     "createdAt": "2026-05-28T23:59:00.000Z",
     "updatedAt": "2026-05-28T23:59:00.000Z"
@@ -687,13 +763,19 @@
     "fecha": "2026-05-28",
     "lugar": "Nacional (Montevideo, Salto, Rivera, Tacuarembó, Rocha, Fray Bentos)",
     "tipoAccion": "paro",
-    "organizaciones": ["Transportistas autoconvocados", "Federico Holzmann (vocero)"],
+    "organizaciones": [
+      "Transportistas autoconvocados",
+      "Federico Holzmann (vocero)"
+    ],
     "motivo": "Paro nacional indefinido de transportistas contra Guía de Carga obligatoria del MTOP. 2.500 movilizados el sábado 23. Reunión con ministra Etcheverry a las 16:00 no desactiva la medida. Rechazan nueva burocracia y control estatal sobre transporte de carga",
     "status": "en_curso",
     "lat": "-34.9011",
     "lng": "-56.1645",
     "fuentes": [
-      {"nombre": "Revista Verde", "url": "https://revistaverde.com.uy/actualidad/transportistas-autoconvocados-van-al-paro-el-jueves-28-y-se-confirmo-reunion-con-el-mtop-a-las-1600-hs/"}
+      {
+        "nombre": "Revista Verde",
+        "url": "https://revistaverde.com.uy/actualidad/transportistas-autoconvocados-van-al-paro-el-jueves-28-y-se-confirmo-reunion-con-el-mtop-a-las-1600-hs/"
+      }
     ],
     "createdAt": "2026-05-28T23:59:00.000Z",
     "updatedAt": "2026-05-28T23:59:00.000Z"
@@ -707,37 +789,24 @@
     "fecha": "2026-05-28",
     "lugar": "Maputo (Alto Maé, ciudad y provincia)",
     "tipoAccion": "huelga",
-    "organizaciones": ["Minibus drivers", "Sindicatos de transporte", "Sociedad civil"],
+    "organizaciones": [
+      "Minibus drivers",
+      "Sindicatos de transporte",
+      "Sociedad civil"
+    ],
     "motivo": "Huelga transporte público y protestas desde mayo contra aumento 46% diésel por guerra Irán y cierre Estrecho Ormuz. Transporte paralizado en Maputo. Exigen reducción precios combustible. Crisis energética africana por guerra Irán-EE.UU.-Israel",
     "status": "en_curso",
     "lat": "-25.9690",
     "lng": "32.5732",
     "fuentes": [
-      {"nombre": "Responsible Statecraft", "url": "https://responsiblestatecraft.org/diesel-fuel-protests-africa/"},
-      {"nombre": "Semafor", "url": "https://www.semafor.com/article/05/20/2026/war-squeezes-african-asian-economies-further"}
-    ],
-    "createdAt": "2026-05-28T23:59:00.000Z",
-    "updatedAt": "2026-05-28T23:59:00.000Z"
-  },
-  {
-    "id": 34,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "09:00",
-    "fecha": "2026-05-28",
-    "lugar": "La Plata (120 y 34, Municipalidad, Gobernación, Concejo Deliberante)",
-    "tipoAccion": "movilizacion",
-    "organizaciones": ["ACCAURA (Asociación Civil Conductores de Aplicaciones Unidos de la República Argentina)", "Choferes de Uber y DiDi autoconvocados"],
-    "motivo": "Protesta de conductores de Uber y DiDi en La Plata exigiendo regulación de apps de transporte. Denuncian 'caza de brujas' con multas y secuestros de vehículos, vacío legal que perjudica a trabajadores. Caravana desde 120 y 34 hasta el Palacio Municipal y Gobernación. Lograron mesa de diálogo con autoridades municipales para el martes siguiente",
-    "status": "en_curso",
-    "lat": "-34.9215",
-    "lng": "-57.9543",
-    "fuentes": [
-      {"nombre": "Diario Hoy", "url": "https://diariohoy.net/politica/choferes-de-apps-volvieron-a-marchar-283913"},
-      {"nombre": "Punto Capital", "url": "https://www.puntocapitalnoticias.com/choferes-de-aplicaciones-denuncian-una-caza-de-brujas-en-la-plata/"},
-      {"nombre": "El Día", "url": "https://www.eldia.com/la-ciudad/conductores-de-aplicaciones-marcharan-a-la-municipalidad-para-exigir-la-legalizacion-del-servicio-la-ciudad_1779477480"},
-      {"nombre": "TN", "url": "https://tn.com.ar/politica/2026/05/27/la-plata-choferes-de-aplicaciones-haran-una-caravana-para-exigir-una-ordenanza-que-regule-la-actividad/"}
+      {
+        "nombre": "Responsible Statecraft",
+        "url": "https://responsiblestatecraft.org/diesel-fuel-protests-africa/"
+      },
+      {
+        "nombre": "Semafor",
+        "url": "https://www.semafor.com/article/05/20/2026/war-squeezes-african-asian-economies-further"
+      }
     ],
     "createdAt": "2026-05-28T23:59:00.000Z",
     "updatedAt": "2026-05-28T23:59:00.000Z"
@@ -751,14 +820,582 @@
     "fecha": "2026-05-28",
     "lugar": "Arequipa, Piura, Lambayeque, Ucayali, San Martín, Huánuco, Puno y nacional",
     "tipoAccion": "paro",
-    "organizaciones": ["Agricultores arroceros", "Productores agrarios", "Gremios agrícolas", "AGAP"],
+    "organizaciones": [
+      "Agricultores arroceros",
+      "Productores agrarios",
+      "Gremios agrícolas",
+      "AGAP"
+    ],
     "motivo": "Paro agrario nacional desde el 25 de mayo. Agricultores bloquean 18+ carreteras en 7 regiones. Exigen medidas urgentes ante caída del precio del arroz, aumento de costos de insumos y crisis del sector. Bloqueos en Panamericana Sur (Arequipa), Piura, Lambayeque y Ucayali. Transportistas anuncian paro en Lima para el 2 de junio por alza de combustibles",
     "status": "en_curso",
     "lat": "-12.0464",
     "lng": "-77.0428",
     "fuentes": [
-      {"nombre": "Infobae", "url": "https://www.infobae.com/peru/2026/05/27/paro-agrario-en-peru-agricultores-intensifican-protestas-y-bloqueos-en-demanda-de-medidas-urgentes/"},
-      {"nombre": "Caretas", "url": "https://caretas.pe/nacional/paro-agrario-en-vivo-hoy-todo-lo-que-se-sabe-sobre-las-protestas-de-productores-arroceros-en-regiones-del-peru/"}
+      {
+        "nombre": "Infobae",
+        "url": "https://www.infobae.com/peru/2026/05/27/paro-agrario-en-peru-agricultores-intensifican-protestas-y-bloqueos-en-demanda-de-medidas-urgentes/"
+      },
+      {
+        "nombre": "Caretas",
+        "url": "https://caretas.pe/nacional/paro-agrario-en-vivo-hoy-todo-lo-que-se-sabe-sobre-las-protestas-de-productores-arroceros-en-regiones-del-peru/"
+      }
+    ],
+    "createdAt": "2026-05-28T23:59:00.000Z",
+    "updatedAt": "2026-05-28T23:59:00.000Z"
+  },
+  {
+    "id": 36,
+    "seccion": "internacionales",
+    "pais": "India",
+    "bandera": "🇮🇳",
+    "hora": "00:00",
+    "fecha": "2026-05-28",
+    "lugar": "Karnataka (Bengaluru, Shivamogga, Yadgir, Kalaburagi, Hubballi)",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "AHINDA",
+      "Comunidad Kuruba",
+      "Simpatizantes del Congreso"
+    ],
+    "motivo": "Protestas masivas en Karnataka tras renuncia forzada del CM Siddaramaiah por orden de la dirigencia nacional del Partido Congreso. Manifestantes queman neumáticos, bloquean carreteras y forman cadenas humanas en múltiples ciudades. Exigen que Siddaramaiah continúe en el cargo y rechazan imposición de DK Shivakumar como sucesor. Consignas contra Rahul Gandhi y la alta dirigencia",
+    "status": "en_curso",
+    "lat": "12.9716",
+    "lng": "77.5946",
+    "fuentes": [
+      {
+        "nombre": "Mathrubhumi English",
+        "url": "https://english.mathrubhumi.com/news/india/karnataka-protests-after-siddaramaiah-resignation-congress-high-command-dk-shivakumar-cm-change-xn9w4x9b"
+      },
+      {
+        "nombre": "The Indian Express",
+        "url": "https://indianexpress.com/article/cities/bangalore/siddaramaiah-resigns-karnataka-chief-minister-congress-power-sharing-10712501/"
+      },
+      {
+        "nombre": "News18",
+        "url": "https://www.news18.com/india/siddaramaiah-confirms-his-resignation-as-chief-minister-to-karnataka-cabinet-karnataka-power-buzz-10116744.html"
+      },
+      {
+        "nombre": "Devdiscourse",
+        "url": "https://www.devdiscourse.com/article/politics/3924810-widespread-protests-in-karnataka-as-siddaramaiah-steps-down"
+      }
+    ],
+    "createdAt": "2026-05-28T23:59:00.000Z",
+    "updatedAt": "2026-05-28T23:59:00.000Z"
+  },
+  {
+    "id": 37,
+    "seccion": "internacionales",
+    "pais": "India",
+    "bandera": "🇮🇳",
+    "hora": "00:00",
+    "fecha": "2026-05-28",
+    "lugar": "Nacional (pueblos y ciudades de India)",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "Samyukt Kisan Morcha (SKM)",
+      "Uniones campesinas",
+      "Trabajadores agrícolas"
+    ],
+    "motivo": "Protesta nacional de agricultores (27-31 mayo) contra el régimen de Precio Mínimo de Soporte (MSP) del gobierno Modi. Queman copias de órdenes de MSP y reportes CACP en pueblos de todo el país. Denuncian aumento insuficiente de precios, alza récord de combustibles y fertilizantes, y crisis agraria. Exigen garantía legal de MSP en C2+50%",
+    "status": "en_curso",
+    "lat": "20.5937",
+    "lng": "78.9629",
+    "fuentes": [
+      {
+        "nombre": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/city/chandigarh/skm-calls-for-burning-msp-order-copies-from-may-27-31/articleshow/131124372.cms"
+      },
+      {
+        "nombre": "Clarion India",
+        "url": "https://clarionindia.net/farmers-body-announces-nationwide-protest-from-may-27-over-msp-fuel-price-hike-and-fertiliser-crisis/"
+      },
+      {
+        "nombre": "ETV Bharat",
+        "url": "https://www.etvbharat.com/en/bharat/sanyukt-kisan-morcha-announces-agitation-from-may-27-appeals-to-farmers-to-burn-copies-of-msp-order-and-cacp-report-enn26052302865"
+      },
+      {
+        "nombre": "The Hindu",
+        "url": "https://www.thehindu.com/news/national/samyukt-kisan-morcha-warns-against-natural-farming-asks-centre-to-ensure-adequate-fertilisers/article71011604.ece"
+      }
+    ],
+    "createdAt": "2026-05-28T23:59:00.000Z",
+    "updatedAt": "2026-05-28T23:59:00.000Z"
+  },
+  {
+    "id": 38,
+    "seccion": "internacionales",
+    "pais": "Corea del Sur",
+    "bandera": "🇰🇷",
+    "hora": "10:00",
+    "fecha": "2026-05-28",
+    "lugar": "Nacional (obras construcción, plantas Samsung, obras públicas)",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "KCTU Construction Union Tower Crane Section",
+      "FKTU Korea Tower Crane Operators Union"
+    ],
+    "motivo": "Huelga general de operadores de grúas torre (85% del total nacional, ~3.100 trabajadores). Ocupación de grúas en obras de todo el país. Exigen aumento salarial 15%, cumplimiento de jornada legal de 40h semanales y fin de prácticas de licitación abusivas ('renta cero'). Afecta construcción de plantas de semiconductores Samsung y obras mayores. 10 rondas de negociación fallidas",
+    "status": "en_curso",
+    "lat": "37.5665",
+    "lng": "126.9780",
+    "fuentes": [
+      {
+        "nombre": "ChosunBiz",
+        "url": "https://biz.chosun.com/en/en-policy/2026/05/28/DNIYCIX6XVE4XFPUSFYVMFC6G4/"
+      },
+      {
+        "nombre": "MK (Maeil Business)",
+        "url": "https://www.mk.co.kr/en/business/12059588"
+      },
+      {
+        "nombre": "The Korea Times",
+        "url": "https://www.koreatimes.co.kr/southkorea/society/20190605/endangered-job-security-led-to-tower-crane-strike"
+      }
+    ],
+    "createdAt": "2026-05-28T23:59:00.000Z",
+    "updatedAt": "2026-05-28T23:59:00.000Z"
+  },
+  {
+    "id": 39,
+    "seccion": "internacionales",
+    "pais": "Canadá",
+    "bandera": "🇨🇦",
+    "hora": "13:00",
+    "fecha": "2026-05-28",
+    "lugar": "Toronto (Queen's Park, Ontario)",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "Ontario Health Coalition",
+      "Unifor",
+      "Trabajadores de salud",
+      "Pacientes"
+    ],
+    "motivo": "Manifestación masiva (5.000-10.000 personas) contra la privatización hospitalaria del gobierno de Doug Ford. Marcha desde Union Station hasta la Asamblea Legislativa de Ontario. Exigen detener desvío de fondos públicos a clínicas privadas, aumento de financiamiento hospitalario público, solución a crisis de personal sanitario y mejora de tiempos de espera",
+    "status": "en_curso",
+    "lat": "43.6629",
+    "lng": "-79.3957",
+    "fuentes": [
+      {
+        "nombre": "Unifor Local 88",
+        "url": "https://unifor88.ca/call-to-action-rally-for-public-health-care/"
+      },
+      {
+        "nombre": "CHCH News",
+        "url": "https://www.chch.com/chch-news/ontario-health-coalition-to-protest-provincial-hospital-privatization/"
+      }
+    ],
+    "createdAt": "2026-05-28T23:59:00.000Z",
+    "updatedAt": "2026-05-28T23:59:00.000Z"
+  },
+  {
+    "id": 20,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "00:00",
+    "fecha": "2026-05-28",
+    "lugar": "Nacional (14 provincias, incluida Buenos Aires)",
+    "tipoAccion": "paro",
+    "organizaciones": [
+      "FreNDEP",
+      "Asociación de Maestros PBA",
+      "Sindicatos docentes de base"
+    ],
+    "motivo": "Paro docente nacional de 48h (día 2, 27-28 mayo) por salario mínimo vital y móvil docente de $2.800.000 y mejoras laborales. Gremios de base nucleados en FreNDEP desafían a CTERA bajo consigna 'Ni un docente pobre en la Argentina'. Adhesión confirmada en al menos 14 provincias con movilizaciones",
+    "status": "en_curso",
+    "lat": "-34.6037",
+    "lng": "-58.3816",
+    "fuentes": [
+      {
+        "nombre": "Cadena Nueve",
+        "url": "https://www.cadenanueve.com/2026/05/27/frendep-convoca-a-un-paro-nacional-docente-de-48-horas-con-movilizaciones-en-todo-el-pais/"
+      },
+      {
+        "nombre": "Crónica",
+        "url": "https://www.cronica.com.ar/sociedad/suspenden-las-clases-por-48-horas-todo-lo-que-se-sabe-sobre-el-paro-docente/"
+      },
+      {
+        "nombre": "Luján Hoy",
+        "url": "https://www.lujanhoy.com.ar/2026/05/28/milei-cumpli-con-la-ley-nodocentes-van-al-paro-y-crece-la-tension-en-las-universidades/"
+      }
+    ],
+    "createdAt": "2026-05-28T00:00:00.000Z",
+    "updatedAt": "2026-05-28T23:59:00.000Z"
+  },
+  {
+    "id": 21,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "00:00",
+    "fecha": "2026-05-28",
+    "lugar": "CABA (Colegio Nacional Buenos Aires y Carlos Pellegrini, Caballito)",
+    "tipoAccion": "toma",
+    "organizaciones": [
+      "Centro de Estudiantes Carlos Pellegrini",
+      "Centro de Estudiantes Nacional Buenos Aires",
+      "Estudiantes autoconvocados"
+    ],
+    "motivo": "Toma estudiantil del Nacional Buenos Aires (NBA) y Carlos Pellegrini exigiendo cumplimiento de la Ley de Financiamiento Universitario. El NBA levantó la toma el 28/5 pero esa misma noche los estudiantes la retomaron (Pitrola confirmó reocupación). El Pellegrini mantiene ocupación sin interrupción con actividades suspendidas. Autoridades advierten que no pueden garantizar integridad física. Jubilados marcharon al Pellegrini en solidaridad. Conflicto universitario escala con paro docente toda la semana (26-30 mayo)",
+    "status": "en_curso",
+    "lat": "-34.6083",
+    "lng": "-58.3954",
+    "fuentes": [
+      {
+        "nombre": "Infobae",
+        "url": "https://www.infobae.com/politica/2026/05/28/toma-en-los-colegios-el-nacional-buenos-aires-volvera-a-clases-mientras-que-el-carlos-pellegrini-sostiene-la-medida-de-fuerza/"
+      },
+      {
+        "nombre": "El País",
+        "url": "https://elpais.com/argentina/2026-05-28/el-reclamo-universitario-contra-el-gobierno-de-milei-escala-con-protestas-estudiantiles-y-huelgas-de-profesores.html"
+      },
+      {
+        "nombre": "El Destape",
+        "url": "https://www.eldestapeweb.com/politica/escala-conflicto-nacional-buenos-aires-reanudara-toma-financiamiento-universitario-2026528142759"
+      },
+      {
+        "nombre": "Resumen Latinoamericano",
+        "url": "https://www.resumenlatinoamericano.org/2026/05/28/argentina-ley-de-financiamiento-universitario-levantaron-la-toma-en-el-nacional-buenos-aires-y-se-mantiene-la-del-pellegrini/"
+      },
+      {
+        "nombre": "Indymedia Argentina",
+        "url": "https://argentina.indymedia.org/2026/05/28/estan-muriendo-jubilados-porque-no-pueden-comprar-los-remedios/"
+      }
+    ],
+    "createdAt": "2026-05-28T00:00:00.000Z",
+    "updatedAt": "2026-05-28T23:59:00.000Z"
+  },
+  {
+    "id": 22,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "00:00",
+    "fecha": "2026-05-28",
+    "lugar": "Nacional (universidades públicas, CABA Tribunales)",
+    "tipoAccion": "paro",
+    "organizaciones": [
+      "Conadu Histórica",
+      "Fedun",
+      "CONADU",
+      "Fagdut",
+      "CIN",
+      "FUA"
+    ],
+    "motivo": "Paro universitario nacional (26-30 mayo) por recomposición salarial, presupuesto y cumplimiento de la Ley de Financiamiento Universitario. Clases públicas en Tribunales. Docentes perdieron 34-52% de poder adquisitivo en dos años. Oferta gubernamental de 1,5% + bono $40.000 rechazada. Tres de cada cuatro docentes necesitan segundo empleo. Conflicto escaló con debate en medios y cruces entre oficialismo y oposición",
+    "status": "en_curso",
+    "lat": "-34.6037",
+    "lng": "-58.3816",
+    "fuentes": [
+      {
+        "nombre": "El País",
+        "url": "https://elpais.com/argentina/2026-05-28/el-reclamo-universitario-contra-el-gobierno-de-milei-escala-con-protestas-estudiantiles-y-huelgas-de-profesores.html"
+      },
+      {
+        "nombre": "CONADU",
+        "url": "https://conadu.org.ar/el-gobierno-nacional-continua-atacando-el-salario-de-la-docencia-de-las-universidades-nacionales/"
+      },
+      {
+        "nombre": "TN",
+        "url": "https://tn.com.ar/politica/2026/05/28/de-financian-estructuras-politicas-a-quieren-arancelarla-los-cruces-por-la-situacion-de-las-universidades/"
+      },
+      {
+        "nombre": "El Territorio",
+        "url": "https://www.elterritorio.com.ar/noticias/2026/05/28/888520-docentes-universitarios-convocan-a-nuevas-medidas-de-fuerza-por-salarios-y-financiamiento"
+      }
+    ],
+    "createdAt": "2026-05-28T00:00:00.000Z",
+    "updatedAt": "2026-05-28T23:59:00.000Z"
+  },
+  {
+    "id": 23,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "16:00",
+    "fecha": "2026-05-28",
+    "lugar": "CABA (Microestadio Club Ferro Carril Oeste, Caballito)",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "Multisectorial en Defensa de la Seguridad Social",
+      "CTA Autónoma",
+      "CTA de los Trabajadores",
+      "Asociación Bancaria",
+      "Suteba"
+    ],
+    "motivo": "2º Jubilazo Federal: festival lanzamiento con reclamos por aumento de emergencia a jubilados ($380.000 vs canasta $1.824.000), medicamentos gratuitos, prórroga de moratoria previsional, rechazo a reformas jubilatorias y al FAL. Consigna: 'AFJP nunca más'. Actividades culturales y bandas en vivo. En paralelo, marcha semanal de jubilados frente al Congreso con fuerte operativo policial",
+    "status": "en_curso",
+    "lat": "-34.6186",
+    "lng": "-58.4469",
+    "fuentes": [
+      {
+        "nombre": "La Bocina",
+        "url": "https://labocina.info/2026/05/27/reclamos-y-musica-en-ferro-se-viene-el-segundo-jubilazo-federal/"
+      },
+      {
+        "nombre": "La Bancaria",
+        "url": "https://labancaria.org/jubilazo-federal-en-defensa-de-nuestros-jubilados-as/"
+      },
+      {
+        "nombre": "Indymedia Argentina",
+        "url": "https://argentina.indymedia.org/2026/05/28/estan-muriendo-jubilados-porque-no-pueden-comprar-los-remedios/"
+      }
+    ],
+    "createdAt": "2026-05-28T00:00:00.000Z",
+    "updatedAt": "2026-05-28T23:59:00.000Z"
+  },
+  {
+    "id": 24,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "10:00",
+    "fecha": "2026-05-28",
+    "lugar": "La Plata (Plaza Moreno, Municipalidad, Jefatura Regional de Educación)",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "Padres autoconvocados",
+      "Docentes",
+      "Gremios docentes"
+    ],
+    "motivo": "Protesta por invasión de ratas en escuelas de La Plata. Denuncian roedores en aulas y cocinas de múltiples establecimientos (Escuela Nº21, Nº59, Normal Nº3, Primaria Nº1, Secundaria Nº16), riesgo de hantavirus y falta de respuesta de autoridades municipales y provinciales",
+    "status": "en_curso",
+    "lat": "-34.9215",
+    "lng": "-57.9543",
+    "fuentes": [
+      {
+        "nombre": "El Día",
+        "url": "https://www.eldia.com/la-ciudad/fuerte-protesta-en-la-plata-por-la-invasion-de-ratas-en-las-escuelas-la-ciudad_1779976380"
+      }
+    ],
+    "createdAt": "2026-05-28T00:00:00.000Z",
+    "updatedAt": "2026-05-28T23:59:00.000Z"
+  },
+  {
+    "id": 25,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "09:00",
+    "fecha": "2026-05-28",
+    "lugar": "La Plata (subida autopista Buenos Aires - La Plata)",
+    "tipoAccion": "volanteada",
+    "organizaciones": [
+      "ADULP",
+      "ATULP",
+      "FULP",
+      "Gremios universitarios UNLP"
+    ],
+    "motivo": "Volanteada de visibilización en acceso a autopista en el marco del paro universitario nacional. Reclamo por Ley de Financiamiento Universitario, recomposición salarial y presupuesto educativo. Integrantes de la comunidad universitaria de la UNLP informan a automovilistas sobre la crisis universitaria",
+    "status": "en_curso",
+    "lat": "-34.9067",
+    "lng": "-57.9427",
+    "fuentes": [
+      {
+        "nombre": "El Día",
+        "url": "https://www.eldia.com/la-ciudad/semana-de-paro-en-la-unlp-la-agenda-de-actividades-para-visibilizar-la-protesta-docente-la-ciudad_1779800460"
+      }
+    ],
+    "createdAt": "2026-05-28T00:00:00.000Z",
+    "updatedAt": "2026-05-28T23:59:00.000Z"
+  },
+  {
+    "id": 26,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "00:00",
+    "fecha": "2026-05-28",
+    "lugar": "Nacional (universidades nacionales)",
+    "tipoAccion": "paro",
+    "organizaciones": [
+      "FATUN",
+      "APUNaM",
+      "Fagdut",
+      "CONADU",
+      "Fedun",
+      "Sindicatos nodocentes"
+    ],
+    "motivo": "Paro nodocente nacional sin asistencia a lugares de trabajo confirmado para 29/5 y 3-4/6. El rector de UNCA advirtió que hasta docentes con dedicación exclusiva necesitan segundo empleo. Crisis salarial universitaria sin precedentes. Reclamo por Ley de Financiamiento Universitario, paritarias y recomposición salarial. Consigna: 'Nos quieren pobres y sin educación'",
+    "status": "convocado",
+    "lat": "-34.6037",
+    "lng": "-58.3816",
+    "fuentes": [
+      {
+        "nombre": "El Esquiú",
+        "url": "https://www.elesquiu.com/politica/2026/05/28/arellano-confirmo-paro-nodocente-alerto-que-hasta-los-docentes-full-necesitan-un-segundo-trabajo-599489.html"
+      },
+      {
+        "nombre": "El Territorio",
+        "url": "https://www.elterritorio.com.ar/noticias/2026/05/28/888520-docentes-universitarios-convocan-a-nuevas-medidas-de-fuerza-por-salarios-y-financiamiento"
+      },
+      {
+        "nombre": "Luján Hoy",
+        "url": "https://www.lujanhoy.com.ar/2026/05/28/milei-cumpli-con-la-ley-nodocentes-van-al-paro-y-crece-la-tension-en-las-universidades/"
+      }
+    ],
+    "createdAt": "2026-05-28T00:00:00.000Z",
+    "updatedAt": "2026-05-28T23:59:00.000Z"
+  },
+  {
+    "id": 27,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "15:00",
+    "fecha": "2026-05-28",
+    "lugar": "CABA (Congreso de la Nación, Av. Rivadavia y Callao)",
+    "tipoAccion": "marcha",
+    "organizaciones": [
+      "Jubilados autoconvocados",
+      "La Bancaria",
+      "Prensa alternativa",
+      "Activistas solidarios"
+    ],
+    "motivo": "Marcha semanal de jubilados frente al Congreso. Reclamo por aumento de haberes ($460.000 vs canasta $1.824.000), medicamentos gratuitos y contra el vaciamiento de la seguridad social. Fuerte operativo policial con vallados. Manifestantes denuncian que 'están muriendo jubilados porque no pueden comprar los remedios'. Columna marchó al Colegio Carlos Pellegrini en solidaridad con la toma estudiantil. La Bancaria brindó apoyo con bebidas calientes",
+    "status": "en_curso",
+    "lat": "-34.6097",
+    "lng": "-58.3924",
+    "fuentes": [
+      {
+        "nombre": "Indymedia Argentina",
+        "url": "https://argentina.indymedia.org/2026/05/28/estan-muriendo-jubilados-porque-no-pueden-comprar-los-remedios/"
+      },
+      {
+        "nombre": "El Destape",
+        "url": "https://www.eldestapeweb.com/politica/marcha-jubilados/las-fuerzas-de-seguridad-despliegan-un-desmedido-operativo-para-la-marcha-de-jubilados-2025528142942"
+      }
+    ],
+    "createdAt": "2026-05-28T00:00:00.000Z",
+    "updatedAt": "2026-05-28T23:59:00.000Z"
+  },
+  {
+    "id": 28,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "10:00",
+    "fecha": "2026-05-28",
+    "lugar": "Paraná (Cinco Esquinas), Entre Ríos",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "Trabajadores de salud autoconvocados",
+      "Docentes autoconvocados",
+      "Jubilados docentes",
+      "ATE",
+      "AGMER"
+    ],
+    "motivo": "Protesta de docentes, enfermeros y jubilados en Paraná contra la reforma previsional provincial y por mejoras salariales. Enfermeros denuncian que aumento del 3.5% ($35.000) 'no alcanza para nada'. Salario básico de enfermera con 25 años de antigüedad: $300.000. Jubilados docentes cuestionan reforma previsional y pérdida de poder adquisitivo",
+    "status": "en_curso",
+    "lat": "-31.7333",
+    "lng": "-60.5333",
+    "fuentes": [
+      {
+        "nombre": "Análisis Digital",
+        "url": "https://www.analisisdigital.com.ar/provinciales/2026/05/28/docentes-enfermeros-y-jubilados-reclamaron-mejoras-salariales-y-rechazaron-la-reforma-previsional-en-parana"
+      }
+    ],
+    "createdAt": "2026-05-28T00:00:00.000Z",
+    "updatedAt": "2026-05-28T23:59:00.000Z"
+  },
+  {
+    "id": 34,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "09:00",
+    "fecha": "2026-05-28",
+    "lugar": "La Plata (120 y 34, Municipalidad, Gobernación, Concejo Deliberante)",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "ACCAURA (Asociación Civil Conductores de Aplicaciones Unidos de la República Argentina)",
+      "Choferes de Uber y DiDi autoconvocados"
+    ],
+    "motivo": "Protesta de conductores de Uber y DiDi en La Plata exigiendo regulación de apps de transporte. Denuncian 'caza de brujas' con multas y secuestros de vehículos, vacío legal que perjudica a trabajadores. Caravana desde 120 y 34 hasta el Palacio Municipal y Gobernación. Lograron mesa de diálogo con autoridades municipales para el martes siguiente",
+    "status": "en_curso",
+    "lat": "-34.9215",
+    "lng": "-57.9543",
+    "fuentes": [
+      {
+        "nombre": "Diario Hoy",
+        "url": "https://diariohoy.net/politica/choferes-de-apps-volvieron-a-marchar-283913"
+      },
+      {
+        "nombre": "Punto Capital",
+        "url": "https://www.puntocapitalnoticias.com/choferes-de-aplicaciones-denuncian-una-caza-de-brujas-en-la-plata/"
+      },
+      {
+        "nombre": "El Día",
+        "url": "https://www.eldia.com/la-ciudad/conductores-de-aplicaciones-marcharan-a-la-municipalidad-para-exigir-la-legalizacion-del-servicio-la-ciudad_1779477480"
+      },
+      {
+        "nombre": "TN",
+        "url": "https://tn.com.ar/politica/2026/05/27/la-plata-choferes-de-aplicaciones-haran-una-caravana-para-exigir-una-ordenanza-que-regule-la-actividad/"
+      }
+    ],
+    "createdAt": "2026-05-28T23:59:00.000Z",
+    "updatedAt": "2026-05-28T23:59:00.000Z"
+  },
+  {
+    "id": 40,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "00:00",
+    "fecha": "2026-05-28",
+    "lugar": "Río Gallegos, Santa Cruz (Av. Kirchner y 25 de Mayo, frente Ministerio de Economía)",
+    "tipoAccion": "acampe",
+    "organizaciones": [
+      "ATE Santa Cruz",
+      "ADOSAC",
+      "Judiciales Santa Cruz",
+      "ATSA",
+      "Frente Sindical Santa Cruz"
+    ],
+    "motivo": "Acampe por tiempo indeterminado frente al Ministerio de Economía de Santa Cruz exigiendo apertura inmediata de paritarias y recomposición salarial. La protesta superó una semana de permanencia con guardia 24h. Rechazan congelamiento salarial, descuentos por huelgas y exigen mejoras urgentes en hospitales y escuelas. Respaldan 5+ gremios del Frente Sindical provincial. Gobernador Claudio Vidal sin respuesta",
+    "status": "en_curso",
+    "lat": "-51.6230",
+    "lng": "-69.2168",
+    "fuentes": [
+      {
+        "nombre": "El Destape",
+        "url": "https://www.eldestapeweb.com/politica/ate-santa-cruz-no-cede-centimetro-mantiene-acampe-frente-economia-exigen-vidal-apertura-paritaria-2026528125448"
+      },
+      {
+        "nombre": "La Vanguardia Noticias",
+        "url": "https://www.lavanguardianoticias.com.ar/nota-ate-profundiza-el-reclamo-salarial-y-continua-el-acampe-frente-al-ministerio-de-economia-120493"
+      }
+    ],
+    "createdAt": "2026-05-28T23:59:00.000Z",
+    "updatedAt": "2026-05-28T23:59:00.000Z"
+  },
+  {
+    "id": 41,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "10:00",
+    "fecha": "2026-05-28",
+    "lugar": "CABA (Av. Belgrano 2527, sede ATE Nacional, Anfiteatro Eva Perón)",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "ATE Nacional",
+      "FreSU (Frente de Sindicatos Unidos)",
+      "UOM",
+      "Aceiteros",
+      "Aeronáuticos",
+      "Conadu",
+      "Conadu Histórica"
+    ],
+    "motivo": "69° Congreso Nacional Ordinario de ATE con 200+ congresales de todas las provincias. Debaten nueva medida de fuerza contra el recorte salarial y el ajuste estatal. Rodolfo Aguiar (Sec. Gral.) no descarta paro nacional abarcativo de estados provinciales y municipales. Reclaman reapertura de paritarias, recomposición salarial, rechazo a despidos en INTI y freno al desmantelamiento de organismos públicos. Consigna: 'Llegó la hora de ir por nuestros salarios'",
+    "status": "en_curso",
+    "lat": "-34.6145",
+    "lng": "-58.3971",
+    "fuentes": [
+      {
+        "nombre": "El Destape",
+        "url": "https://www.eldestapeweb.com/politica/ate-define-medidas-fuerza-congreso-nacional-llego-hora-ir-salarios-202652891841"
+      }
     ],
     "createdAt": "2026-05-28T23:59:00.000Z",
     "updatedAt": "2026-05-28T23:59:00.000Z"
