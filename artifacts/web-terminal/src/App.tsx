@@ -298,7 +298,7 @@ export default function App() {
                   onClick={() => openPortalDetail(a)}
                   style={{
                     display: "flex",
-                      padding: "10px 14px",
+                    padding: "10px 14px",
                     borderBottom: "1px solid #141414",
                     cursor: "pointer",
                     fontSize: 11,
@@ -354,41 +354,6 @@ export default function App() {
                       letterSpacing: ".04em",
                       textTransform: "uppercase",
                       whiteSpace: "nowrap",
-                    }}>
-                      {TIPO_ICONOS[a.tipoAccion] || "📢"} {a.tipoAccion}
-                    </span>
-                  </span>
-                  <span style={{ minWidth: 180, flex: 2, lineHeight: 1.5, fontSize: 13 }}>
-                    {a.organizaciones.join(", ")}
-                  </span>
-                  <span
-                    style={{
-                      minWidth: 200,
-                      flex: 3,
-                      color: "#999",
-                      lineHeight: 1.5,
-                      fontFamily: SANS,
-                      fontSize: 14,
-                    }}
-                  >
-                    <span className="flag">{a.bandera}</span> {a.lugar}
-
-                  </span>
-                  <span
-                    style={{
-                      width: 110,
-                      flexShrink: 0,
-                      lineHeight: 1.5,
-                    }}
-                  >
-                    <span className="tipo-badge" style={{
-                      background: "#fff",
-                      color: "#cc0000",
-                      fontWeight: 700,
-                      padding: "3px 8px",
-                      fontSize: 11,
-                      letterSpacing: ".04em",
-                      textTransform: "uppercase",
                     }}>
                       {TIPO_ICONOS[a.tipoAccion] || "📢"} {a.tipoAccion}
                     </span>
