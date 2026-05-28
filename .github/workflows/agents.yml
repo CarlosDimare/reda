@@ -57,6 +57,7 @@ jobs:
             echo "No hay cambios nuevos"
           else
             git commit -m "Actualizacion automatica del portal (agentes)"
+            git pull --rebase
             git push
           fi
 
@@ -90,6 +91,7 @@ jobs:
             echo "Lockfile sin cambios"
           else
             git commit -m "Actualizar lockfile a formato pnpm v11"
+            git pull --rebase
             git push
           fi
 
