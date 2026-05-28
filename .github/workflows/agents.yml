@@ -24,12 +24,9 @@ jobs:
         with:
           node-version: 22
 
-      - name: Install opencode globally
-        run: npm install -g opencode-ai
-
       - name: Run agent — Internacionales
         run: |
-          opencode run --dangerously-skip-permissions \
+          npx --yes -p opencode-ai opencode run --dangerously-skip-permissions \
             "Sos un agente de monitoreo de conflictos GLOBALES.
 
           1. LEE el archivo data/acciones.json
@@ -41,7 +38,7 @@ jobs:
 
       - name: Run agent — Protestas AR
         run: |
-          opencode run --dangerously-skip-permissions \
+          npx --yes -p opencode-ai opencode run --dangerously-skip-permissions \
             "Sos un agente de monitoreo de protestas en ARGENTINA.
 
           1. LEE el archivo data/acciones.json
