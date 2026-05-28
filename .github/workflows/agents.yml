@@ -19,8 +19,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - uses: actions/setup-node@v4
         with:
@@ -35,35 +33,30 @@ jobs:
         run: pnpm install
 
       - name: Run agent — Internacionales
-        shell: bash
         run: |
-          PROMPT='Sos un agente de monitoreo de conflictos GLOBALES.
+          node_modules/.bin/opencode run --dangerously-skip-permissions \
+            "Sos un agente de monitoreo de conflictos GLOBALES.
 
-          1. LEE el archivo data/acciones.json.
-          2. BUSCA en la web acciones colectivas, protestas, huelgas, movilizaciones de HOY en todo el mundo (EXCLUYENDO Argentina).
-          3. ACTUALIZA data/acciones.json: manten las entradas protestas_ar, reemplaza las internacionales.
-          4. INFORMA cuantas acciones encontraste.
+          1. LEE el archivo data/acciones.json
+          2. BUSCA en la web acciones colectivas, protestas, huelgas, movilizaciones de HOY en todo el mundo (EXCLUYENDO Argentina)
+          3. ACTUALIZA data/acciones.json: manten las entradas protestas_ar, reemplaza las internacionales
+          4. INFORMA cuantas acciones encontraste
 
-          Busca en BBC, Reuters, Al Jazeera, AFP, Guardian, CNN.
-          Cada entrada: id, seccion, pais, bandera, hora, fecha, lugar, tipoAccion, organizaciones, motivo, status, lat, lng, fuentes, createdAt, updatedAt.'
-          pnpm exec opencode run --yes "$PROMPT"
+          Cada entrada del JSON debe tener: id, seccion, pais, bandera, hora, fecha, lugar, tipoAccion, organizaciones, motivo, status, lat, lng, fuentes, createdAt, updatedAt"
 
       - name: Run agent — Protestas AR
-        shell: bash
         run: |
-          PROMPT='Sos un agente de monitoreo de protestas en ARGENTINA.
+          node_modules/.bin/opencode run --dangerously-skip-permissions \
+            "Sos un agente de monitoreo de protestas en ARGENTINA.
 
-          1. LEE el archivo data/acciones.json.
-          2. BUSCA en la web protestas, cortes de ruta, piquetes, movilizaciones, paros, huelgas de HOY en ARGENTINA.
-          3. ACTUALIZA data/acciones.json: manten las entradas internacionales, reemplaza las protestas_ar.
-          4. INFORMA cuantas acciones encontraste.
+          1. LEE el archivo data/acciones.json
+          2. BUSCA en la web protestas, cortes de ruta, piquetes, movilizaciones, paros, huelgas de HOY en ARGENTINA
+          3. ACTUALIZA data/acciones.json: manten las entradas internacionales, reemplaza las protestas_ar
+          4. INFORMA cuantas acciones encontraste
 
-          Busca en Clarin, Infobae, Pagina 12, La Nacion, Ambito.
-          Cada entrada: id, seccion, pais, bandera, hora, fecha, lugar, tipoAccion, organizaciones, motivo, status, lat, lng, fuentes, createdAt, updatedAt.'
-          pnpm exec opencode run --yes "$PROMPT"
+          Cada entrada del JSON debe tener: id, seccion, pais, bandera, hora, fecha, lugar, tipoAccion, organizaciones, motivo, status, lat, lng, fuentes, createdAt, updatedAt"
 
       - name: Commit and push changes
-        shell: bash
         run: |
           git config user.name "Reda Bot"
           git config user.email "bot@corresponsaldigital.ar"
