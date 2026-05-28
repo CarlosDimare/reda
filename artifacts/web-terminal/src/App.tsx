@@ -285,6 +285,7 @@ export default function App() {
           )}
           {acciones
             .filter((a) => a.seccion === portalTab)
+            .sort((a, b) => a.hora.localeCompare(b.hora))
             .map((a) => {
               const statusColor =
                 a.status === "en_curso"
