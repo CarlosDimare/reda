@@ -60,16 +60,7 @@ interface Accion {
   updatedAt: string;
 }
 
-interface Cobertura {
-  id: number;
-  titulo: string;
-  contenido: string;
-  autor: string | null;
-  tags: string[];
-  createdAt: string;
-}
-
-type PortalTab = "internacionales" | "protestas_ar" | "coberturas";
+type PortalTab = "internacionales" | "protestas_ar";
 
 const STYLES = `
   *::-webkit-scrollbar { width: 4px; }
@@ -83,12 +74,8 @@ export default function App() {
   const clock = useClock();
   const [portalTab, setPortalTab] = useState<PortalTab>("internacionales");
   const [acciones, setAcciones] = useState<Accion[]>([]);
-  const [coberturas, setCoberturas] = useState<Cobertura[]>([]);
   const [selectedAccion, setSelectedAccion] = useState<Accion | null>(null);
   const [portalDetailOpen, setPortalDetailOpen] = useState(false);
-  const [modalOpen, setModalOpen] = useState(false);
-  const [modalUrl, setModalUrl] = useState("");
-  const [modalTitle, setModalTitle] = useState("");
 
   const fetchAcciones = useCallback(async () => {
     try {
@@ -97,22 +84,11 @@ export default function App() {
     } catch {}
   }, []);
 
-  const fetchCoberturas = useCallback(async () => {
-    try {
-      const r = await fetch(`data/coberturas.json?t=${Date.now()}`);
-      if (r.ok) setCoberturas(await r.json());
-    } catch {}
-  }, []);
-
   useEffect(() => {
     fetchAcciones();
-    fetchCoberturas();
-    const id = setInterval(() => {
-      fetchAcciones();
-      fetchCoberturas();
-    }, 60000);
+    const id = setInterval(fetchAcciones, 60000);
     return () => clearInterval(id);
-  }, [fetchAcciones, fetchCoberturas]);
+  }, [fetchAcciones]);
 
   const openPortalDetail = useCallback((a: Accion) => {
     setSelectedAccion(a);
@@ -160,18 +136,12 @@ export default function App() {
               placeItems: "center",
               transform: "rotate(45deg)",
               flexShrink: 0,
+              color: "#fff",
+              fontSize: 14,
+              fontWeight: 900,
             }}
           >
-            <img
-              src="/ESTRELLA.svg"
-              alt="✦"
-              style={{
-                width: 16,
-                height: 16,
-                transform: "rotate(-45deg)",
-                display: "block",
-              }}
-            />
+            ✦
           </div>
         </div>
         <span
@@ -223,7 +193,6 @@ export default function App() {
           {[
             { id: "internacionales" as const, label: "🌍 INTERNACIONAL" },
             { id: "protestas_ar" as const, label: "🇦🇷 NACIONAL" },
-            { id: "coberturas" as const, label: "📋 COBERTURAS" },
           ].map((tab) => (
             <button
               key={tab.id}
@@ -247,234 +216,142 @@ export default function App() {
           ))}
         </div>
 
-        {/* Legend + Table */}
+        {/* Legend */}
         <div
           style={{
-            flex: portalTab === "coberturas" ? 0 : 1,
-            display: portalTab === "coberturas" ? "none" : "flex",
-            flexDirection: "column",
-            overflow: "hidden",
-            minHeight: 0,
+            display: "flex",
+            gap: 14,
+            padding: "6px 12px",
+            borderBottom: "1px solid #1a1a1a",
+            flexShrink: 0,
+            fontSize: 9,
+            color: "#555",
+            letterSpacing: ".08em",
+            textTransform: "uppercase",
           }}
         >
-          {/* Legend */}
-          <div
-            style={{
-              display: "flex",
-              gap: 14,
-              padding: "6px 12px",
-              borderBottom: "1px solid #1a1a1a",
-              flexShrink: 0,
-              fontSize: 9,
-              color: "#555",
-              letterSpacing: ".08em",
-              textTransform: "uppercase",
-            }}
-          >
-            <span>🟢 programado</span>
-            <span>🟡 en curso</span>
-            <span>🔴 finalizado</span>
-          </div>
-
-          {/* Table header */}
-          <div
-            style={{
-              display: "flex",
-              padding: "6px 12px",
-              borderBottom: "2px solid #cc0000",
-              flexShrink: 0,
-              fontSize: 9,
-              fontWeight: 700,
-              color: "#cc0000",
-              letterSpacing: ".1em",
-              textTransform: "uppercase",
-            }}
-          >
-            <span style={{ width: 50, flexShrink: 0 }}>HORA</span>
-            <span style={{ minWidth: 160, flex: 2 }}>LUGAR</span>
-            <span style={{ width: 90, flexShrink: 0 }}>TIPO</span>
-            <span style={{ minWidth: 140, flex: 1 }}>ORGANIZACIONES</span>
-            <span style={{ minWidth: 140, flex: 1 }}>MOTIVO</span>
-          </div>
-
-          {/* Table rows */}
-          <div style={{ flex: 1, overflowY: "auto" }}>
-            {acciones.length === 0 && (
-              <div
-                style={{
-                  textAlign: "center",
-                  padding: 40,
-                  color: "#333",
-                  fontSize: 10,
-                  letterSpacing: ".12em",
-                  textTransform: "uppercase",
-                }}
-              >
-                Sin acciones registradas
-              </div>
-            )}
-            {acciones
-              .filter((a) => a.seccion === portalTab)
-              .map((a) => {
-                const statusColor =
-                  a.status === "en_curso"
-                    ? "#e8c030"
-                    : a.status === "finalizado"
-                      ? "#cc0000"
-                      : "#3a9a3a";
-                return (
-                  <div
-                    key={a.id}
-                    onClick={() => openPortalDetail(a)}
-                    style={{
-                      display: "flex",
-                      padding: "8px 12px",
-                      borderBottom: "1px solid #141414",
-                      cursor: "pointer",
-                      fontSize: 11,
-                      color: "#ccc",
-                      alignItems: "flex-start",
-                      transition: "background .1s",
-                      gap: 4,
-                    }}
-                    onMouseEnter={(e) =>
-                      (e.currentTarget.style.background = "#111")
-                    }
-                    onMouseLeave={(e) =>
-                      (e.currentTarget.style.background = "transparent")
-                    }
-                  >
-                    <span
-                      style={{
-                        width: 50,
-                        flexShrink: 0,
-                        color: statusColor,
-                        fontWeight: 700,
-                      }}
-                    >
-                      {a.hora}
-                    </span>
-                    <span
-                      style={{
-                        minWidth: 160,
-                        flex: 2,
-                        color: "#999",
-                        lineHeight: 1.4,
-                        fontFamily: SANS,
-                      }}
-                    >
-                      {a.bandera} {a.lugar}
-                    </span>
-                    <span
-                      style={{
-                        width: 90,
-                        flexShrink: 0,
-                        textTransform: "uppercase",
-                        fontSize: 9,
-                        letterSpacing: ".08em",
-                        lineHeight: 1.4,
-                      }}
-                    >
-                      {a.tipoAccion}
-                    </span>
-                    <span style={{ minWidth: 140, flex: 1, lineHeight: 1.4 }}>
-                      {a.organizaciones.join(", ")}
-                    </span>
-                    <span
-                      style={{
-                        minWidth: 140,
-                        flex: 1,
-                        color: "#888",
-                        lineHeight: 1.4,
-                      }}
-                    >
-                      {a.motivo}
-                    </span>
-                  </div>
-                );
-              })}
-          </div>
+          <span>🟢 programado</span>
+          <span>🟡 en curso</span>
+          <span>🔴 finalizado</span>
         </div>
 
-        {/* ════ COBERTURAS TAB ════ */}
+        {/* Table header */}
         <div
           style={{
-            flex: portalTab === "coberturas" ? 1 : 0,
-            display: portalTab === "coberturas" ? "flex" : "none",
-            flexDirection: "column",
-            overflow: "hidden",
-            minHeight: 0,
+            display: "flex",
+            padding: "6px 12px",
+            borderBottom: "2px solid #cc0000",
+            flexShrink: 0,
+            fontSize: 9,
+            fontWeight: 700,
+            color: "#cc0000",
+            letterSpacing: ".1em",
+            textTransform: "uppercase",
           }}
         >
-          <div style={{ flex: 1, overflowY: "auto", fontFamily: MONO }}>
-            {coberturas.length === 0 && (
-              <div
-                style={{
-                  textAlign: "center",
-                  padding: 40,
-                  color: "#444",
-                  fontSize: 10,
-                }}
-              >
-                Sin coberturas aún.
-              </div>
-            )}
-            {coberturas.map((c) => (
-              <div
-                key={c.id}
-                style={{
-                  padding: "10px 12px",
-                  borderBottom: "1px solid #141414",
-                  borderLeft: "3px solid #cc0000",
-                  background: "#0d0d0d",
-                }}
-              >
+          <span style={{ width: 50, flexShrink: 0 }}>HORA</span>
+          <span style={{ minWidth: 160, flex: 2 }}>LUGAR</span>
+          <span style={{ width: 90, flexShrink: 0 }}>TIPO</span>
+          <span style={{ minWidth: 140, flex: 1 }}>ORGANIZACIONES</span>
+          <span style={{ minWidth: 140, flex: 1 }}>MOTIVO</span>
+        </div>
+
+        {/* Table rows */}
+        <div style={{ flex: 1, overflowY: "auto" }}>
+          {acciones.length === 0 && (
+            <div
+              style={{
+                textAlign: "center",
+                padding: 40,
+                color: "#333",
+                fontSize: 10,
+                letterSpacing: ".12em",
+                textTransform: "uppercase",
+              }}
+            >
+              Sin acciones registradas
+            </div>
+          )}
+          {acciones
+            .filter((a) => a.seccion === portalTab)
+            .map((a) => {
+              const statusColor =
+                a.status === "en_curso"
+                  ? "#e8c030"
+                  : a.status === "finalizado"
+                    ? "#cc0000"
+                    : "#3a9a3a";
+              return (
                 <div
-                  style={{
-                    fontSize: 12,
-                    fontWeight: 700,
-                    color: "#eee",
-                    marginBottom: 4,
-                  }}
-                >
-                  {c.titulo}
-                </div>
-                <div
-                  style={{
-                    fontSize: 10,
-                    color: "#888",
-                    lineHeight: 1.6,
-                    whiteSpace: "pre-wrap",
-                  }}
-                >
-                  {c.contenido}
-                </div>
-                <div
+                  key={a.id}
+                  onClick={() => openPortalDetail(a)}
                   style={{
                     display: "flex",
-                    gap: 6,
-                    marginTop: 6,
-                    fontSize: 8,
-                    color: "#555",
+                    padding: "8px 12px",
+                    borderBottom: "1px solid #141414",
+                    cursor: "pointer",
+                    fontSize: 11,
+                    color: "#ccc",
+                    alignItems: "flex-start",
+                    transition: "background .1s",
+                    gap: 4,
                   }}
+                  onMouseEnter={(e) =>
+                    (e.currentTarget.style.background = "#111")
+                  }
+                  onMouseLeave={(e) =>
+                    (e.currentTarget.style.background = "transparent")
+                  }
                 >
-                  {c.autor && <span>✎ {c.autor}</span>}
-                  {(c.tags || []).map((t, i) => (
-                    <span
-                      key={i}
-                      style={{
-                        background: "#111",
-                        padding: "1px 5px",
-                        textTransform: "uppercase",
-                      }}
-                    >
-                      {t}
-                    </span>
-                  ))}
+                  <span
+                    style={{
+                      width: 50,
+                      flexShrink: 0,
+                      color: statusColor,
+                      fontWeight: 700,
+                    }}
+                  >
+                    {a.hora}
+                  </span>
+                  <span
+                    style={{
+                      minWidth: 160,
+                      flex: 2,
+                      color: "#999",
+                      lineHeight: 1.4,
+                      fontFamily: SANS,
+                    }}
+                  >
+                    {a.bandera} {a.lugar}
+                  </span>
+                  <span
+                    style={{
+                      width: 90,
+                      flexShrink: 0,
+                      textTransform: "uppercase",
+                      fontSize: 9,
+                      letterSpacing: ".08em",
+                      lineHeight: 1.4,
+                    }}
+                  >
+                    {a.tipoAccion}
+                  </span>
+                  <span style={{ minWidth: 140, flex: 1, lineHeight: 1.4 }}>
+                    {a.organizaciones.join(", ")}
+                  </span>
+                  <span
+                    style={{
+                      minWidth: 140,
+                      flex: 1,
+                      color: "#888",
+                      lineHeight: 1.4,
+                    }}
+                  >
+                    {a.motivo}
+                  </span>
                 </div>
-              </div>
-            ))}
-          </div>
+              );
+            })}
         </div>
       </div>
 
@@ -507,7 +384,6 @@ export default function App() {
             }}
             onClick={(e) => e.stopPropagation()}
           >
-            {/* Header */}
             <div
               style={{
                 display: "flex",
@@ -543,7 +419,6 @@ export default function App() {
               </button>
             </div>
 
-            {/* Body */}
             <div style={{ flex: 1, overflowY: "auto", padding: 16 }}>
               <div
                 style={{
@@ -611,7 +486,6 @@ export default function App() {
                 </span>
               </div>
 
-              {/* Fuentes */}
               {selectedAccion.fuentes.length > 0 && (
                 <div
                   style={{
@@ -652,7 +526,6 @@ export default function App() {
                 </div>
               )}
 
-              {/* Map */}
               {selectedAccion.lat && selectedAccion.lng && (
                 <div
                   style={{

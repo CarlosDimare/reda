@@ -30,8 +30,14 @@ jobs:
           npx --yes -p opencode-ai opencode run --dangerously-skip-permissions \
             "Sos un agente de monitoreo de conflictos GLOBALES. Hoy es $HOY.
 
+          IMPORTANTE — NO CONFUNDAS FECHAS:
+          - La FECHA DE PUBLICACION de una noticia NO es la fecha de la accion.
+          - La fecha que debe ir en el campo 'fecha' de cada entrada es la fecha en que OCURRE/OCURRIO la protesta.
+          - Lee la noticia con cuidado para extraer la fecha real del evento, NO la fecha del articulo.
+          - Si la protesta ocurre HOY ($HOY), incluirla. Si es de ayer o antes, NO incluirla.
+
           1. PRIMERO lee data/acciones.json y analiza las entradas existentes de seccion 'internacionales'.
-          2. BUSCA en la web acciones colectivas de HOY (solo fecha $HOY) en todo el mundo, EXCLUYENDO Argentina.
+          2. BUSCA en la web acciones colectivas que OCURRAN HOY ($HOY) en todo el mundo, EXCLUYENDO Argentina.
              - Si una protesta existente sigue vigente hoy, ACTUALIZA sus datos (status, fuentes, updatedAt).
              - Si encontran una protesta NUEVA de hoy que no está en el archivo, AGREGALA.
              - Si una protesta existente ya NO está activa hoy, ELIMINALA del archivo.
@@ -46,8 +52,14 @@ jobs:
           npx --yes -p opencode-ai opencode run --dangerously-skip-permissions \
             "Sos un agente de monitoreo de protestas en ARGENTINA. Hoy es $HOY.
 
+          IMPORTANTE — NO CONFUNDAS FECHAS:
+          - La FECHA DE PUBLICACION de una noticia NO es la fecha de la accion.
+          - La fecha que debe ir en el campo 'fecha' de cada entrada es la fecha en que OCURRE/OCURRIO la protesta.
+          - Lee la noticia con cuidado para extraer la fecha real del evento, NO la fecha del articulo.
+          - Si la protesta ocurre HOY ($HOY), incluirla. Si es de ayer o antes, NO incluirla.
+
           1. PRIMERO lee data/acciones.json y analiza las entradas existentes de seccion 'protestas_ar'.
-          2. BUSCA en la web protestas de HOY (solo fecha $HOY) en ARGENTINA.
+          2. BUSCA en la web protestas que OCURRAN HOY ($HOY) en ARGENTINA.
              - Si una protesta existente sigue vigente hoy, ACTUALIZA sus datos (status, fuentes, updatedAt).
              - Si encontran una protesta NUEVA de hoy que no está en el archivo, AGREGALA.
              - Si una protesta existente ya NO está activa hoy, ELIMINALA del archivo.
