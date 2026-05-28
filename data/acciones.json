@@ -2,20 +2,21 @@
   {
     "id": 1,
     "seccion": "internacionales",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "14:00",
+    "pais": "Israel",
+    "bandera": "🇮🇱",
+    "hora": "17:00",
     "fecha": "2026-05-28",
-    "lugar": "París (nacional)",
-    "tipoAccion": "huelga",
-    "organizaciones": ["Fep-CFDT", "Spelc", "Snec-CFTC", "CGT-EP"],
-    "motivo": "Huelga nacional de profesores de enseñanza privada católica contra la eliminación del sistema de previsión ('bouclier') vigente por 50 años",
+    "lugar": "Jerusalén, Bnei Brak, Tel Aviv, Rutas 4 y 1",
+    "tipoAccion": "movilizacion",
+    "organizaciones": ["Peleg Yerushalmi (Facción Jerusalem)", "Rabino Zvi Friedman", "Comunidad haredí"],
+    "motivo": "Protestas masivas ultraortodoxas contra el reclutamiento militar y detenciones de evasores del servicio. Bloqueo de rutas principales, disturbios en Bar Ilan, enfrentamientos con policía declarados como disturbio. Consigna: 'Prisioneros del mundo de la Torá'",
     "status": "en_curso",
-    "lat": "48.8566",
-    "lng": "2.3522",
+    "lat": "31.7683",
+    "lng": "35.2137",
     "fuentes": [
-      {"nombre": "La Voix du Nord", "url": "https://www.lavoixdunord.fr/1706979/article/2026-05-28/son-bouclier-prevoyance-menace-l-enseignement-prive-catholique-est-en-greve-et"},
-      {"nombre": "Fep-CFDT", "url": "https://fep.cfdt.fr/sinformer/vous-defendre/jeudi-28-mai-2026-les-enseignants-et-enseignantes-du-prive-sous-contrat-dans-la-rue-pour-dire-non-a-l-enterrement-de-leur-prevoyance"}
+      {"nombre": "The Jerusalem Post", "url": "https://www.jpost.com/israel-news/article-897683"},
+      {"nombre": "JFeed", "url": "https://www.jfeed.com/news-israel/haredi-peleg-protests-israel"},
+      {"nombre": "The Times of Israel", "url": "https://www.timesofisrael.com/following-draft-evader-arrests-gafni-calls-on-haredim-to-halt-cooperation-with-police/"}
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
     "updatedAt": "2026-05-28T00:00:00.000Z"
@@ -23,26 +24,181 @@
   {
     "id": 2,
     "seccion": "internacionales",
-    "pais": "Venezuela",
-    "bandera": "🇻🇪",
-    "hora": "12:30",
+    "pais": "Italia",
+    "bandera": "🇮🇹",
+    "hora": "21:00",
     "fecha": "2026-05-28",
-    "lugar": "Caracas (Ministerio Público, El Helicoide)",
-    "tipoAccion": "concentracion",
-    "organizaciones": ["Familiares de presos políticos", "Foro Penal", "ONG de DDHH"],
-    "motivo": "Protesta frente al Ministerio Público por promesas incumplidas de excarcelación de presos políticos y simulación institucional",
+    "lugar": "Roma, Milán, Florencia y nacional",
+    "tipoAccion": "huelga",
+    "organizaciones": ["CUB", "SGB", "SI Cobas", "ADL Varese", "USI-CIT", "USB"],
+    "motivo": "Huelga general de 24h desde las 21:00 del 28/5 en transporte ferroviario, aéreo y público. Contra guerra, gasto militar, precariedad laboral, genocidio en Gaza y falta de políticas sociales. 1.150 vuelos cancelados",
     "status": "en_curso",
-    "lat": "10.4806",
-    "lng": "-66.9036",
+    "lat": "41.9028",
+    "lng": "12.4964",
     "fuentes": [
-      {"nombre": "Diario Las Américas / EFE", "url": "https://www.diariolasamericas.com/america-latina/ong-venezolana-exige-que-ministerio-publico-cese-simulacion-institucional-casos-presos-politicos-n5396177"},
-      {"nombre": "Infobae", "url": "https://www.infobae.com/america/agencias/2026/05/28/jueves-28-de-mayo-de-2026-0200-gmt/"}
+      {"nombre": "WSWS", "url": "https://www.wsws.org/en/articles/2026/05/28/yscv-m28.html"},
+      {"nombre": "LoyaltyLobby", "url": "https://loyaltylobby.com/2026/05/27/italy-general-strike-on-friday-may-29-2026-air-travel-significantly-affected/"},
+      {"nombre": "Peoples Dispatch", "url": "https://peoplesdispatch.org/2026/05/26/thousands-protest-against-war-and-cost-of-living-crisis-in-italy/"}
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
     "updatedAt": "2026-05-28T00:00:00.000Z"
   },
   {
     "id": 3,
+    "seccion": "internacionales",
+    "pais": "Bolivia",
+    "bandera": "🇧🇴",
+    "hora": "00:00",
+    "fecha": "2026-05-28",
+    "lugar": "La Paz, El Alto y nacional (44+ bloqueos)",
+    "tipoAccion": "movilizacion",
+    "organizaciones": ["COB (Central Obrera Boliviana)", "Evo Morales/MAS", "Sindicatos mineros", "Campesinos", "Transportistas"],
+    "motivo": "Protestas masivas desde mayo contra el presidente Rodrigo Paz. Crisis económica (inflación 14%), escasez de combustible y dólares. Bloqueos mantienen La Paz bajo sitio. Exigen renuncia de Paz, mejoras salariales. 4 muertos, 100+ detenidos. Paz anunció cambios de gabinete sin éxito",
+    "status": "en_curso",
+    "lat": "-16.5000",
+    "lng": "-68.1500",
+    "fuentes": [
+      {"nombre": "Democracy Now!", "url": "https://www.democracynow.org/2026/5/27/headlines/mass_anti_government_protests_continue_in_bolivia"},
+      {"nombre": "Wikipedia", "url": "https://en.wikipedia.org/wiki/2026_Bolivian_protests"},
+      {"nombre": "AP / ABC News", "url": "https://abcnews.com/International/wireStory/bolivias-capital-siege-protests-blockades-deepen-crisis-president-133115270"}
+    ],
+    "createdAt": "2026-05-28T00:00:00.000Z",
+    "updatedAt": "2026-05-28T00:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "seccion": "internacionales",
+    "pais": "España",
+    "bandera": "🇪🇸",
+    "hora": "00:00",
+    "fecha": "2026-05-28",
+    "lugar": "14 aeropuertos y Cataluña (Tarragona, Terres de l'Ebre, Barcelona)",
+    "tipoAccion": "huelga",
+    "organizaciones": ["SAERCO (controladores aéreos)", "USTEC", "Aspepc", "CGT", "Intersindical"],
+    "motivo": "Huelga indefinida de controladores aéreos por condiciones laborales (hasta 31/5). Simultáneamente huelga educativa en Cataluña dentro de calendario de 17 jornadas de paro entre mayo y junio por mejoras salariales. Corte de AP-7 y A-2",
+    "status": "en_curso",
+    "lat": "40.4168",
+    "lng": "-3.7038",
+    "fuentes": [
+      {"nombre": "Wego Travel Blog", "url": "https://blog.wego.com/europe-airport-strikes-summer-2026/"},
+      {"nombre": "El Periódico", "url": "https://www.elperiodico.com/es/sociedad/20260528/huelga-profesores-barcelona-catalunya-hoy-jueves-28-mayo-manana-viernes-calendario-dv-130131145"},
+      {"nombre": "DonPorque", "url": "https://donporque.com/huelgas-y-manifestaciones-en-espana-mayo/"}
+    ],
+    "createdAt": "2026-05-28T00:00:00.000Z",
+    "updatedAt": "2026-05-28T00:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "seccion": "internacionales",
+    "pais": "Serbia",
+    "bandera": "🇷🇸",
+    "hora": "18:00",
+    "fecha": "2026-05-28",
+    "lugar": "Belgrado (Slavija Square, centro)",
+    "tipoAccion": "movilizacion",
+    "organizaciones": ["Estudiantes universitarios", "Oposición", "Movimiento anticorrupción"],
+    "motivo": "Protestas estudiantiles masivas anticorrupción tras colapso estación de tren Novi Sad (nov 2024, 16 muertos). 180.000-190.000 personas el 23/5 — segunda protesta más grande desde caída de Milošević. Exigen elecciones anticipadas. Enfrentamientos con policía, gas lacrimógeno, 23 detenidos",
+    "status": "en_curso",
+    "lat": "44.8176",
+    "lng": "20.4561",
+    "fuentes": [
+      {"nombre": "European Western Balkans", "url": "http://europeanwesternbalkans.com/2026/05/25/second-largest-protest-in-serbian-history-held-on-saturday-citizens-call-for-elections/"},
+      {"nombre": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/5/23/tens-of-thousands-rally-in-serbia-for-antigovernment-demonstrations"},
+      {"nombre": "Vreme", "url": "https://www.vreme.com/en/vesti/arhiv-javnih-skupova-slavija-protest-broj-ljudi/"}
+    ],
+    "createdAt": "2026-05-28T00:00:00.000Z",
+    "updatedAt": "2026-05-28T00:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "seccion": "internacionales",
+    "pais": "Georgia",
+    "bandera": "🇬🇪",
+    "hora": "20:00",
+    "fecha": "2026-05-28",
+    "lugar": "Tbilisi (Rustaveli Avenue, frente al Parlamento)",
+    "tipoAccion": "movilizacion",
+    "organizaciones": ["Alianza Opositora (9 partidos)", "Sociedad civil", "Activistas europeístas"],
+    "motivo": "Marcha del Día de la Independencia (26/5) con miles de personas. Campaña 'Georgia Merece Mejor' contra el gobierno de Georgian Dream por frenar ingreso a UE, represión y deriva autoritaria. Segunda fase de movilización nacional. Consignas: 'Somos Europa', 'Libertad para presos del régimen'",
+    "status": "en_curso",
+    "lat": "41.6938",
+    "lng": "44.8015",
+    "fuentes": [
+      {"nombre": "Civil Georgia", "url": "https://civil.ge/archives/735927"},
+      {"nombre": "Euronews", "url": "https://www.euronews.com/video/2026/05/27/thousands-rally-in-tbilisi-as-georgia-marks-independence-day-with-pro-eu-protests"},
+      {"nombre": "Kyiv Post", "url": "https://www.kyivpost.com/post/76921"}
+    ],
+    "createdAt": "2026-05-28T00:00:00.000Z",
+    "updatedAt": "2026-05-28T00:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "00:00",
+    "fecha": "2026-05-28",
+    "lugar": "San Francisco (Civic Center, Ferry Building, Market Street)",
+    "tipoAccion": "concentracion",
+    "organizaciones": ["Partido por el Socialismo y la Liberación", "Coaliciones por la paz", "Iranian American community"],
+    "motivo": "Protestas múltiples contra ataques militares de EE.UU. e Israel a Irán. Manifestaciones semanales exigiendo fin de la guerra, solución diplomática. Coexisten dos posiciones: pacifistas que piden cese al fuego e iraníes-estadounidenses que apoyan la guerra condicionado a cambio de régimen",
+    "status": "en_curso",
+    "lat": "37.7749",
+    "lng": "-122.4194",
+    "fuentes": [
+      {"nombre": "San Francisco News", "url": "https://san-francisco-news.com/2026/05/27/thousands-rally-in-san-francisco-to-protest-us-and-israeli-strikes-on-iran/"},
+      {"nombre": "CBS San Francisco", "url": "https://www.cbsnews.com/sanfrancisco/news/iranian-americans-san-francisco-rally-oppose-immediate-end-war-iran/"},
+      {"nombre": "NBC Bay Area", "url": "https://www.nbcbayarea.com/news/local/hundreds-march-in-san-francisco-to-protest-against-war-with-iran/4066024/"}
+    ],
+    "createdAt": "2026-05-28T00:00:00.000Z",
+    "updatedAt": "2026-05-28T00:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "seccion": "internacionales",
+    "pais": "México",
+    "bandera": "🇲🇽",
+    "hora": "10:00",
+    "fecha": "2026-05-28",
+    "lugar": "CDMX (Paseo de la Reforma, Zócalo, Centro Histórico)",
+    "tipoAccion": "planton",
+    "organizaciones": ["CNTE Sección XXII", "Gremio de Boleteros de Lotería Nacional", "Colectivos feministas", "UACM"],
+    "motivo": "Plantón indefinido de la CNTE exigiendo abrogación de Ley del ISSSTE 2007. Gobierno les negó acceso al Zócalo por obras del Mundial 2026. Amenazan con huelga nacional el 1 de junio. Múltiples concentraciones y marchas. Transportistas y campesinos también en conflicto pre-Mundial",
+    "status": "en_curso",
+    "lat": "19.4326",
+    "lng": "-99.1332",
+    "fuentes": [
+      {"nombre": "Capital México", "url": "https://www.capitalmexico.com.mx/cdmx/marchas-y-movilizaciones-hoy-28-de-mayo-de-2026-en-cdmx-cnte-feministas-y-colectivos-preven-afectaciones-viales/"},
+      {"nombre": "El País México", "url": "https://elpais.com/mexico/economia/2026-05-21/transportistas-campesinos-y-maestros-elevan-el-pulso-con-el-gobierno-en-la-antesala-del-mundial.html"},
+      {"nombre": "Milenio", "url": "https://www.milenio.com/politica/segob-y-cnte-siguen-sin-acuerdos-maestros-amenazan-con-huelga"}
+    ],
+    "createdAt": "2026-05-28T00:00:00.000Z",
+    "updatedAt": "2026-05-28T00:00:00.000Z"
+  },
+  {
+    "id": 9,
+    "seccion": "internacionales",
+    "pais": "Brasil",
+    "bandera": "🇧🇷",
+    "hora": "00:00",
+    "fecha": "2026-05-28",
+    "lugar": "São Paulo (capital e interior), Campinas",
+    "tipoAccion": "huelga",
+    "organizaciones": ["DCE USP", "DCE Unicamp", "DCE Unesp", "Adusp", "UNE"],
+    "motivo": "Huelga estudiantil y docente en universidades estatales paulistas (USP, Unicamp, Unesp). 264 cursos en huelga. Exigen aumento de presupuesto, auxilios estudiantiles, mejoras en restaurantes y moradia. 10.000 marcharon al palacio del gobernador Tarcísio de Freitas el 20/5",
+    "status": "en_curso",
+    "lat": "-23.5505",
+    "lng": "-46.6333",
+    "fuentes": [
+      {"nombre": "WSWS", "url": "https://www.wsws.org/en/articles/2026/05/28/gzar-m28.html"},
+      {"nombre": "Agência Pública", "url": "https://apublica.org/2026/05/greve-de-estudantes-atinge-264-cursos-da-usp-unicamp-e-unesp/"},
+      {"nombre": "Brasil de Fato", "url": "https://www.brasildefato.com.br/2026/05/26/professores-da-usp-declaram-apoio-a-alunos-e-iniciam-greve-por-melhorias-e-reajuste-salarial/"}
+    ],
+    "createdAt": "2026-05-28T00:00:00.000Z",
+    "updatedAt": "2026-05-28T00:00:00.000Z"
+  },
+  {
+    "id": 10,
     "seccion": "internacionales",
     "pais": "Colombia",
     "bandera": "🇨🇴",
@@ -51,7 +207,7 @@
     "lugar": "Bogotá y principales ciudades",
     "tipoAccion": "paro",
     "organizaciones": ["CUT", "CTC", "CGT", "Fecode", "Centrales obreras", "Movimientos sociales"],
-    "motivo": "Paro nacional de 48h en apoyo a consulta popular por reforma laboral de Petro. El Senado rechazó el referendo el 14/5. También hay movilizaciones ciudadanas, plantones y actos culturales con demandas sociales, juveniles y ambientales",
+    "motivo": "Paro nacional de 48h en apoyo a consulta popular por reforma laboral de Petro. El Senado rechazó el referendo el 14/5. Movilizaciones ciudadanas, plantones y actos culturales con demandas sociales, juveniles y ambientales",
     "status": "en_curso",
     "lat": "4.7110",
     "lng": "-74.0721",
@@ -64,69 +220,116 @@
     "updatedAt": "2026-05-28T00:00:00.000Z"
   },
   {
-    "id": 4,
+    "id": 11,
     "seccion": "internacionales",
-    "pais": "Italia",
-    "bandera": "🇮🇹",
-    "hora": "21:00",
+    "pais": "Francia",
+    "bandera": "🇫🇷",
+    "hora": "14:00",
     "fecha": "2026-05-28",
-    "lugar": "Roma, Milán, Florencia y nacional",
+    "lugar": "París (nacional)",
     "tipoAccion": "huelga",
-    "organizaciones": ["CUB", "SGB", "SI Cobas", "ADL Varese", "USI-CIT", "USB"],
-    "motivo": "Huelga general de 24h desde las 21:00 del 28/5 en transporte ferroviario, aéreo y público. Contra guerra, gasto militar, precariedad laboral, genocidio en Gaza y falta de políticas sociales. Se estiman 1.150 vuelos cancelados el 29/5",
+    "organizaciones": ["Fep-CFDT", "Spelc", "Snec-CFTC", "CGT-EP", "CGT Santé et Action Sociale"],
+    "motivo": "Huelga nacional de profesores de enseñanza privada católica contra eliminación del 'bouclier' de previsión vigente por 50 años. También preaviso de huelga CGT en salud y acción social (22-28 mayo) por salarios y condiciones",
     "status": "en_curso",
-    "lat": "41.9028",
-    "lng": "12.4964",
+    "lat": "48.8566",
+    "lng": "2.3522",
     "fuentes": [
-      {"nombre": "WSWS", "url": "https://www.wsws.org/en/articles/2026/05/28/yscv-m28.html"},
-      {"nombre": "LoyaltyLobby", "url": "https://loyaltylobby.com/2026/05/27/italy-general-strike-on-friday-may-29-2026-air-travel-significantly-affected/"},
-      {"nombre": "AirAdvisor", "url": "https://airadvisor.com/en/blog/italy-airport-strike-29-may-2026"}
+      {"nombre": "La Voix du Nord", "url": "https://www.lavoixdunord.fr/1706979/article/2026-05-28/son-bouclier-prevoyance-menace-l-enseignement-prive-catholique-est-en-greve-et"},
+      {"nombre": "Fep-CFDT", "url": "https://fep.cfdt.fr/sinformer/vous-defendre/jeudi-28-mai-2026-les-enseignants-et-enseignantes-du-prive-sous-contrat-dans-la-rue-pour-dire-non-a-l-enterrement-de-leur-prevoyance"},
+      {"nombre": "CGT Santé", "url": "https://cgt-sante-action-sociale.fr/preavis-de-greve-du-22-au-28-mai-2026/"}
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
     "updatedAt": "2026-05-28T00:00:00.000Z"
   },
   {
-    "id": 5,
+    "id": 12,
     "seccion": "internacionales",
-    "pais": "España",
-    "bandera": "🇪🇸",
+    "pais": "Irán",
+    "bandera": "🇮🇷",
     "hora": "00:00",
     "fecha": "2026-05-28",
-    "lugar": "14 aeropuertos: Lanzarote, Fuerteventura, Madrid, Barcelona y otros",
-    "tipoAccion": "huelga",
-    "organizaciones": ["SAERCO (controladores aéreos)", "Sindicatos ATC"],
-    "motivo": "Huelga indefinida de controladores aéreos por condiciones laborales y salariales; extendida hasta al menos 31 de mayo",
+    "lugar": "Teherán y más de 200 ciudades",
+    "tipoAccion": "movilizacion",
+    "organizaciones": ["Coordinadora de asociaciones de profesores", "Sindicatos obreros", "Mujeres kurdas", "Estudiantes"],
+    "motivo": "Mayor levantamiento desde 1979: protestas contra inflación, crisis económica, guerra con EE.UU./Israel y régimen islámico. 7.015-36.500+ muertos desde dic 2025. Ministerio de Inteligencia advierte nuevo malestar. Cese al fuego frágil no detiene movilizaciones",
     "status": "en_curso",
-    "lat": "40.4168",
-    "lng": "-3.7038",
+    "lat": "35.6892",
+    "lng": "51.3890",
     "fuentes": [
-      {"nombre": "Wego Travel Blog", "url": "https://blog.wego.com/europe-airport-strikes-summer-2026/"}
+      {"nombre": "Wikipedia", "url": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Iranian_protests"},
+      {"nombre": "RFE/RL", "url": "https://www.rferl.org/a/iran-war-us-hormuz-oil-blockade-gulf-israel/33640284.html"},
+      {"nombre": "Britannica", "url": "https://www.britannica.com/event/2026-Iranian-Protests"}
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
     "updatedAt": "2026-05-28T00:00:00.000Z"
   },
   {
-    "id": 6,
+    "id": 13,
+    "seccion": "internacionales",
+    "pais": "India",
+    "bandera": "🇮🇳",
+    "hora": "00:00",
+    "fecha": "2026-05-28",
+    "lugar": "Kerala (Kannur, Thiruvananthapuram, Thrissur) y Nueva Delhi",
+    "tipoAccion": "movilizacion",
+    "organizaciones": ["CPI(M)", "Oposición Kerala"],
+    "motivo": "Protestas masivas del CPI(M) tras allanamiento de la Enforcement Directorate (ED) a casas del ex CM Pinarayi Vijayan. Manifestantes atacaron vehículos de la ED, rompieron carteles de UDF. Detenidos 300 activistas. Denuncian uso político de agencias centrales por gobierno de Modi",
+    "status": "en_curso",
+    "lat": "11.8745",
+    "lng": "75.3704",
+    "fuentes": [
+      {"nombre": "The Hindu", "url": "https://www.thehindu.com/news/national/kerala/enforcement-directorate-ends-search-at-pinarayi-vijayans-kannur-house-cpim-workers-protest/article71028920.ece"},
+      {"nombre": "The Logical Indian", "url": "https://thelogicalindian.com/cpm-workers-smash-ed-vehicles-after-pinarayi-vijayan-raid-police-book-nearly-300-in-kerala-violence/"},
+      {"nombre": "Clarion India", "url": "https://clarionindia.net/cpi-m-leaders-held-during-anti-ed-protest-over-raid-on-vijayans-homes/"}
+    ],
+    "createdAt": "2026-05-28T00:00:00.000Z",
+    "updatedAt": "2026-05-28T00:00:00.000Z"
+  },
+  {
+    "id": 14,
+    "seccion": "internacionales",
+    "pais": "Turquía",
+    "bandera": "🇹🇷",
+    "hora": "12:00",
+    "fecha": "2026-05-28",
+    "lugar": "Izmir, Ankara, Estambul",
+    "tipoAccion": "movilizacion",
+    "organizaciones": ["CHP (Partido Republicano del Pueblo)", "Oposición secular"],
+    "motivo": "Protestas masivas contra destitución judicial del líder opositor Özgür Özel. Policía reprime con gas lacrimógeno y cañones de agua en Izmir. Previamente policía allanó sede nacional del CHP en Ankara. Crisis política por decisión judicial que repuso a Kılıçdaroğlu",
+    "status": "en_curso",
+    "lat": "38.4192",
+    "lng": "27.1287",
+    "fuentes": [
+      {"nombre": "Bianet", "url": "https://bianet.org/haber/ousted-opposition-leader-holds-mass-rally-in-izmir-despite-police-crackdown-319962"},
+      {"nombre": "Turkish Minute", "url": "https://www.turkishminute.com/2026/05/22/thousands-rally-after-court-ousts-turkeys-main-opposition-leader/"},
+      {"nombre": "The Wire", "url": "https://m.thewire.in/article/government/turkish-police-storm-main-opposition-chp-party-offices-protests-erupt-after-action/amp"}
+    ],
+    "createdAt": "2026-05-28T00:00:00.000Z",
+    "updatedAt": "2026-05-28T00:00:00.000Z"
+  },
+  {
+    "id": 15,
     "seccion": "internacionales",
     "pais": "Alemania",
     "bandera": "🇩🇪",
     "hora": "00:00",
     "fecha": "2026-05-28",
-    "lugar": "Fráncfort, Múnich y nacional",
+    "lugar": "Fráncfort, Múnich, Berlín y nacional",
     "tipoAccion": "huelga",
     "organizaciones": ["Vereinigung Cockpit (VC)", "UFO", "Verdi"],
-    "motivo": "Huelgas en Lufthansa: pilotos (VC con mandato del 96%), tripulación de cabina y personal de tierra por salarios y condiciones",
+    "motivo": "Huelgas en Lufthansa: pilotos (VC con mandato del 96%), tripulación de cabina y personal de tierra por salarios y condiciones. Continúan afectaciones en aeropuertos",
     "status": "en_curso",
     "lat": "50.1109",
     "lng": "8.6821",
     "fuentes": [
-      {"nombre": "Wego Travel Blog", "url": "https://blog.wego.com/europe-airport-strikes-summer-2026/"}
+      {"nombre": "Wego Travel Blog", "url": "https://blog.wego.com/europe-airport-strikes-summer-2026/"},
+      {"nombre": "PeaceLink", "url": "https://www.peacelink.it/es/a/51248.html"}
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
     "updatedAt": "2026-05-28T00:00:00.000Z"
   },
   {
-    "id": 7,
+    "id": 16,
     "seccion": "internacionales",
     "pais": "Kenia",
     "bandera": "🇰🇪",
@@ -142,199 +345,6 @@
     "fuentes": [
       {"nombre": "AP / ABC News", "url": "https://abcnews.com/International/wireStory/protesters-light-bonfires-public-transport-strike-kenya-fuel-133061301"},
       {"nombre": "Responsible Statecraft", "url": "https://responsiblestatecraft.org/diesel-fuel-protests-africa/"}
-    ],
-    "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-28T00:00:00.000Z"
-  },
-  {
-    "id": 8,
-    "seccion": "internacionales",
-    "pais": "Irán",
-    "bandera": "🇮🇷",
-    "hora": "00:00",
-    "fecha": "2026-05-28",
-    "lugar": "Teherán y más de 200 ciudades",
-    "tipoAccion": "movilizacion",
-    "organizaciones": ["Coordinadora de asociaciones de profesores", "Sindicatos obreros", "Mujeres kurdas", "Estudiantes"],
-    "motivo": "Mayor levantamiento desde 1979: protestas contra inflación, crisis económica, guerra con EE.UU./Israel y régimen islámico. Ministerio de Inteligencia advierte nuevo malestar. 7.015-36.500+ muertos desde dic 2025",
-    "status": "en_curso",
-    "lat": "35.6892",
-    "lng": "51.3890",
-    "fuentes": [
-      {"nombre": "Wikipedia", "url": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Iranian_protests"},
-      {"nombre": "RFE/RL", "url": "https://www.rferl.org/a/iran-war-us-hormuz-oil-blockade-gulf-israel/33640284.html"},
-      {"nombre": "Britannica", "url": "https://www.britannica.com/event/2026-Iranian-Protests"}
-    ],
-    "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-28T00:00:00.000Z"
-  },
-  {
-    "id": 9,
-    "seccion": "internacionales",
-    "pais": "Reino Unido",
-    "bandera": "🇬🇧",
-    "hora": "00:00",
-    "fecha": "2026-05-28",
-    "lugar": "Londres, Birmingham, Mánchester y nacional",
-    "tipoAccion": "huelga",
-    "organizaciones": ["UCU", "TSSA", "GMB", "RMT", "NUJ"],
-    "motivo": "Múltiples huelgas: personal universitario (Queen Margaret, London South Bank), ferroviarios (West Midlands Trains), almacenes (Net-a-Porter) y BBC (NUJ)",
-    "status": "en_curso",
-    "lat": "51.5074",
-    "lng": "-0.1278",
-    "fuentes": [
-      {"nombre": "UK Strike Calendar", "url": "https://www.strikecalendar.co.uk/"}
-    ],
-    "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-28T00:00:00.000Z"
-  },
-  {
-    "id": 10,
-    "seccion": "internacionales",
-    "pais": "Brasil",
-    "bandera": "🇧🇷",
-    "hora": "00:00",
-    "fecha": "2026-05-28",
-    "lugar": "São Paulo (capital e interior), Campinas",
-    "tipoAccion": "huelga",
-    "organizaciones": ["DCE USP", "DCE Unicamp", "DCE Unesp", "Adusp", "UNE"],
-    "motivo": "Huelga estudiantil y docente en universidades estatales paulistas (USP, Unicamp, Unesp). 264 cursos en huelga. Exigen aumento de presupuesto, auxilios estudiantiles, mejoras en restaurantes y moradia. Repudio a violencia policial en desocupación de rectoría USP",
-    "status": "en_curso",
-    "lat": "-23.5505",
-    "lng": "-46.6333",
-    "fuentes": [
-      {"nombre": "WSWS", "url": "https://www.wsws.org/en/articles/2026/05/28/gzar-m28.html"},
-      {"nombre": "Agência Pública", "url": "https://apublica.org/2026/05/greve-de-estudantes-atinge-264-cursos-da-usp-unicamp-e-unesp/"},
-      {"nombre": "Brasil de Fato", "url": "https://www.brasildefato.com.br/2026/05/26/professores-da-usp-declaram-apoio-a-alunos-e-iniciam-greve-por-melhorias-e-reajuste-salarial/"}
-    ],
-    "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-28T00:00:00.000Z"
-  },
-  {
-    "id": 11,
-    "seccion": "internacionales",
-    "pais": "México",
-    "bandera": "🇲🇽",
-    "hora": "10:00",
-    "fecha": "2026-05-28",
-    "lugar": "CDMX (Paseo de la Reforma, 5 de Mayo, Zócalo)",
-    "tipoAccion": "planton",
-    "organizaciones": ["CNTE Sección XXII", "Gremio de Boleteros de Lotería Nacional", "Colectivos feministas", "UACM"],
-    "motivo": "Plantón indefinido de la CNTE en Centro Histórico exigiendo abrogación de Ley del ISSSTE 2007 y mejora de condiciones laborales. Gobierno les negó acceso al Zócalo por obras del Mundial 2026. Amenazan con huelga nacional el 1 de junio. Múltiples concentraciones y marchas en toda la CDMX",
-    "status": "en_curso",
-    "lat": "19.4326",
-    "lng": "-99.1332",
-    "fuentes": [
-      {"nombre": "Capital México", "url": "https://www.capitalmexico.com.mx/cdmx/marchas-y-movilizaciones-hoy-28-de-mayo-de-2026-en-cdmx-cnte-feministas-y-colectivos-preven-afectaciones-viales/"},
-      {"nombre": "Milenio", "url": "https://www.milenio.com/politica/segob-y-cnte-siguen-sin-acuerdos-maestros-amenazan-con-huelga"},
-      {"nombre": "El Financiero", "url": "https://www.elfinanciero.com.mx/nacional/2026/05/26/somos-maestros-no-delincuentes-donde-se-instalo-el-planton-de-la-cnte-tras-no-llegar-al-zocalo/"}
-    ],
-    "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-28T00:00:00.000Z"
-  },
-  {
-    "id": 12,
-    "seccion": "internacionales",
-    "pais": "Turquía",
-    "bandera": "🇹🇷",
-    "hora": "12:00",
-    "fecha": "2026-05-28",
-    "lugar": "Izmir, Ankara, Estambul",
-    "tipoAccion": "movilizacion",
-    "organizaciones": ["CHP (Partido Republicano del Pueblo)", "Oposición secular"],
-    "motivo": "Protestas masivas contra destitución judicial del líder opositor Özgür Özel. Policía reprime con gas lacrimógeno y cañones de agua en Izmir. Previamente la policía allanó la sede nacional del CHP en Ankara. Crisis política por decisión judicial que repuso a Kılıçdaroğlu",
-    "status": "en_curso",
-    "lat": "38.4192",
-    "lng": "27.1287",
-    "fuentes": [
-      {"nombre": "Bianet", "url": "https://bianet.org/haber/ousted-opposition-leader-holds-mass-rally-in-izmir-despite-police-crackdown-319962"},
-      {"nombre": "Turkish Minute", "url": "https://www.turkishminute.com/2026/05/22/thousands-rally-after-court-ousts-turkeys-main-opposition-leader/"},
-      {"nombre": "The Wire", "url": "https://m.thewire.in/article/government/turkish-police-storm-main-opposition-chp-party-offices-protests-erupt-against-action/amp"}
-    ],
-    "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-28T00:00:00.000Z"
-  },
-  {
-    "id": 13,
-    "seccion": "internacionales",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "00:00",
-    "fecha": "2026-05-28",
-    "lugar": "Kerala (Kannur, Thiruvananthapuram, Thrissur) y Nueva Delhi",
-    "tipoAccion": "movilizacion",
-    "organizaciones": ["CPI(M)", "Oposición Kerala"],
-    "motivo": "Protestas masivas del CPI(M) tras allanamiento de la Enforcement Directorate (ED) a casas del ex CM Pinarayi Vijayan. Manifestantes atacaron vehículos de la ED. Detenidos 300 activistas. Denuncian uso político de agencias centrales por parte del gobierno de Modi",
-    "status": "en_curso",
-    "lat": "11.8745",
-    "lng": "75.3704",
-    "fuentes": [
-      {"nombre": "The Hindu", "url": "https://www.thehindu.com/news/national/kerala/enforcement-directorate-ends-search-at-pinarayi-vijayans-kannur-house-cpim-workers-protest/article71028920.ece"},
-      {"nombre": "The Logical Indian", "url": "https://thelogicalindian.com/cpm-workers-smash-ed-vehicles-after-pinarayi-vijayan-raid-police-book-nearly-300-in-kerala-violence/"},
-      {"nombre": "Clarion India", "url": "https://clarionindia.net/cpi-m-leaders-held-during-anti-ed-protest-over-raid-on-vijayans-homes/"}
-    ],
-    "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-28T00:00:00.000Z"
-  },
-  {
-    "id": 14,
-    "seccion": "internacionales",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "00:00",
-    "fecha": "2026-05-28",
-    "lugar": "Cataluña (Tarragona, Terres de l'Ebre, Barcelona)",
-    "tipoAccion": "huelga",
-    "organizaciones": ["USTEC", "Aspepc", "CGT", "Intersindical"],
-    "motivo": "Huelga educativa en Cataluña dentro de calendario de 17 jornadas de paro entre mayo y junio. Exigen mejoras salariales y estructurales para el sistema educativo. Corte de AP-7 y A-2 por manifestaciones docentes. Jornada 28/5 activa",
-    "status": "en_curso",
-    "lat": "41.1189",
-    "lng": "1.2445",
-    "fuentes": [
-      {"nombre": "El Periódico", "url": "https://www.elperiodico.com/es/sociedad/20260528/huelga-profesores-barcelona-catalunya-hoy-jueves-28-mayo-manana-viernes-calendario-dv-130131145"},
-      {"nombre": "CatalunyaPress", "url": "https://www.catalunyapress.es/articulo/sociedad/2026-04-28/5860827/mes-huelgas-educacion-catalana-sera-calendario-protestas-hasta-final-curso"}
-    ],
-    "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-28T00:00:00.000Z"
-  },
-  {
-    "id": 15,
-    "seccion": "internacionales",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "00:00",
-    "fecha": "2026-05-28",
-    "lugar": "Nacional",
-    "tipoAccion": "huelga",
-    "organizaciones": ["CGT Santé et Action Sociale"],
-    "motivo": "Preaviso de huelga del 22 al 28 de mayo en el sector salud y acción social por salarios y condiciones laborales",
-    "status": "finalizado",
-    "lat": "48.8566",
-    "lng": "2.3522",
-    "fuentes": [
-      {"nombre": "CGT Santé", "url": "https://cgt-sante-action-sociale.fr/preavis-de-greve-du-22-au-28-mai-2026/"}
-    ],
-    "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-28T00:00:00.000Z"
-  },
-  {
-    "id": 16,
-    "seccion": "internacionales",
-    "pais": "Bolivia",
-    "bandera": "🇧🇴",
-    "hora": "00:00",
-    "fecha": "2026-05-28",
-    "lugar": "La Paz, El Alto y nacional (23+ bloqueos)",
-    "tipoAccion": "movilizacion",
-    "organizaciones": ["COB (Central Obrera Boliviana)", "Evo Morales/MAS", "Sindicatos mineros", "Campesinos", "Maestros"],
-    "motivo": "Protestas masivas desde mayo contra el presidente Rodrigo Paz. Crisis económica, inflación 14%, escasez de combustible y dólares. Bloqueos mantienen La Paz bajo sitio. Exigen renuncia de Paz, mejoras salariales y fin de austeridad. 4 muertos, 100+ detenidos",
-    "status": "en_curso",
-    "lat": "-16.5000",
-    "lng": "-68.1500",
-    "fuentes": [
-      {"nombre": "Democracy Now!", "url": "https://www.democracynow.org/2026/5/27/headlines/mass_anti_government_protests_continue_in_bolivia"},
-      {"nombre": "Wikipedia", "url": "https://en.wikipedia.org/wiki/2026_Bolivian_protests"},
-      {"nombre": "AP / ABC News", "url": "https://abcnews.com/International/wireStory/bolivias-capital-siege-protests-blockades-deepen-crisis-president-133115270"}
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
     "updatedAt": "2026-05-28T00:00:00.000Z"
@@ -358,7 +368,7 @@
       {"nombre": "Crónica", "url": "https://www.cronica.com.ar/sociedad/suspenden-las-clases-por-48-horas-todo-lo-que-se-sabe-sobre-el-paro-docente/"}
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-28T00:00:00.000Z"
+    "updatedAt": "2026-05-28T15:00:00.000Z"
   },
   {
     "id": 18,
@@ -370,16 +380,16 @@
     "lugar": "CABA (Colegio Carlos Pellegrini)",
     "tipoAccion": "toma",
     "organizaciones": ["Centro de Estudiantes Carlos Pellegrini"],
-    "motivo": "Toma indefinida del colegio preuniversitario exigiendo cumplimiento de la Ley de Financiamiento Universitario. El Nacional Buenos Aires levantó la toma el 28/5; el Pellegrini continúa con ocupación estudiantil y actividades suspendidas",
+    "motivo": "Toma estudiantil del colegio preuniversitario exigiendo cumplimiento de la Ley de Financiamiento Universitario. El Nacional Buenos Aires levantó la toma el 28/5; el Carlos Pellegrini mantiene la ocupación con actividades académicas suspendidas. Autoridades advierten que no pueden garantizar integridad física de alumnos",
     "status": "en_curso",
     "lat": "-34.6083",
     "lng": "-58.3954",
     "fuentes": [
       {"nombre": "Infobae", "url": "https://www.infobae.com/politica/2026/05/28/toma-en-los-colegios-el-nacional-buenos-aires-volvera-a-clases-mientras-que-el-carlos-pellegrini-sostiene-la-medida-de-fuerza/"},
-      {"nombre": "Resumen Latinoamericano", "url": "https://www.resumenlatinoamericano.org/2026/05/28/argentina-ley-de-financiamiento-universitario-levantaron-la-toma-en-el-nacional-buenos-aires-y-se-mantiene-la-del-pellegrini/"}
+      {"nombre": "El País", "url": "https://elpais.com/argentina/2026-05-28/el-reclamo-universitario-contra-el-gobierno-de-milei-escala-con-protestas-estudiantiles-y-huelgas-de-profesores.html"}
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-28T00:00:00.000Z"
+    "updatedAt": "2026-05-28T15:00:00.000Z"
   },
   {
     "id": 19,
@@ -388,20 +398,20 @@
     "bandera": "🇦🇷",
     "hora": "00:00",
     "fecha": "2026-05-28",
-    "lugar": "Nacional (universidades públicas)",
+    "lugar": "Nacional (universidades públicas, CABA Tribunales)",
     "tipoAccion": "paro",
     "organizaciones": ["Conadu Histórica", "Fedun", "CIN", "FUA", "Fagdut", "CONADU"],
-    "motivo": "Paro universitario nacional (26-30 mayo) por recomposición salarial, presupuesto y cumplimiento de la Ley de Financiamiento Universitario. Tres de cada cuatro docentes necesitan segundo empleo. El rector de UNCA confirmó que la crisis salarial se ha profundizado",
+    "motivo": "Paro universitario nacional (26-30 mayo) por recomposición salarial, presupuesto y cumplimiento de la Ley de Financiamiento Universitario. Clases públicas en Tribunales. Tres de cada cuatro docentes necesitan segundo empleo. Pérdida de poder adquisitivo del 37%. El rector de UNCA confirmó que la crisis se ha profundizado",
     "status": "en_curso",
     "lat": "-34.6037",
     "lng": "-58.3816",
     "fuentes": [
-      {"nombre": "Página|12", "url": "https://www.pagina12.com.ar/2026/05/20/docentes-universitarios-convocan-un-paro-de-una-semana-escala-el-conflicto-por-el-financiamiento/"},
-      {"nombre": "Catamarca Actual", "url": "https://www.catamarcactual.com.ar/educacionales/2026/5/19/docentes-universitarios-conadu-anuncio-una-semana-de-paro-nacional-309962.html"},
-      {"nombre": "NODAL", "url": "https://www.nodal.am/2026/05/la-comunidad-universitaria-comienza-una-huelga-general-de-una-semana-para-exigir-a-javier-milei-el-cumplimiento-de-la-ley-de-financiamiento-universitario/"}
+      {"nombre": "El País", "url": "https://elpais.com/argentina/2026-05-28/el-reclamo-universitario-contra-el-gobierno-de-milei-escala-con-protestas-estudiantiles-y-huelgas-de-profesores.html"},
+      {"nombre": "La Gaceta", "url": "https://www.lagaceta.com.ar/nota/1137297/sociedad/docentes-universitarios-conadu-anuncio-semana-paro-nacional-profundiza-conflicto-gobierno.html"},
+      {"nombre": "Página|12", "url": "https://www.pagina12.com.ar/2026/05/20/docentes-universitarios-convocan-un-paro-de-una-semana-escala-el-conflicto-por-el-financiamiento/"}
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-28T00:00:00.000Z"
+    "updatedAt": "2026-05-28T15:00:00.000Z"
   },
   {
     "id": 20,
@@ -410,20 +420,20 @@
     "bandera": "🇦🇷",
     "hora": "16:00",
     "fecha": "2026-05-28",
-    "lugar": "CABA (Estadio Multideportivo Ferro Carril Oeste)",
+    "lugar": "CABA (Microestadio Club Ferro Carril Oeste, Caballito)",
     "tipoAccion": "concentracion",
-    "organizaciones": ["Asociación Bancaria", "Multisectorial en Defensa de la Seguridad Social", "CTA Autónoma", "CTA de los Trabajadores", "Suteba"],
-    "motivo": "2º Jubilazo Federal: festival de lanzamiento con reclamos por aumento de emergencia a jubilados, medicamentos gratuitos, prórroga de moratoria previsional y rechazo a reformas del sistema jubilatorio. Haberes de $380.000 frente a canasta de $1.824.000",
+    "organizaciones": ["Multisectorial en Defensa de la Seguridad Social", "CTA Autónoma", "CTA de los Trabajadores", "Asociación Bancaria", "Suteba"],
+    "motivo": "2º Jubilazo Federal: festival lanzamiento con reclamos por aumento de emergencia a jubilados ($380.000 vs canasta $1.824.000), medicamentos gratuitos, prórroga de moratoria previsional, rechazo a reformas jubilatorias y al FAL. Consigna: 'AFJP nunca más'. Actividades culturales y bandas en vivo",
     "status": "en_curso",
     "lat": "-34.6186",
     "lng": "-58.4469",
     "fuentes": [
+      {"nombre": "La Bocina", "url": "https://labocina.info/2026/05/27/reclamos-y-musica-en-ferro-se-viene-el-segundo-jubilazo-federal/"},
       {"nombre": "La Bancaria", "url": "https://labancaria.org/jubilazo-federal-en-defensa-de-nuestros-jubilados-as/"},
-      {"nombre": "La Razón de Chivilcoy", "url": "https://www.larazondechivilcoy.com.ar/locales/2026/5/27/convocan-en-chivilcoy-al-2-jubilazo-federal-en-defensa-de-los-jubilados-195743.html"},
-      {"nombre": "La Bocina", "url": "https://labocina.info/2026/05/27/reclamos-y-musica-en-ferro-se-viene-el-segundo-jubilazo-federal/"}
+      {"nombre": "La Razón de Chivilcoy", "url": "https://www.larazondechivilcoy.com.ar/locales/2026/5/27/convocan-en-chivilcoy-al-2-jubilazo-federal-en-defensa-de-los-jubilados-195743.html"}
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-28T00:00:00.000Z"
+    "updatedAt": "2026-05-28T15:00:00.000Z"
   },
   {
     "id": 21,
@@ -443,7 +453,7 @@
       {"nombre": "El Día", "url": "https://www.eldia.com/la-ciudad/fuerte-protesta-en-la-plata-por-la-invasion-de-ratas-en-las-escuelas-la-ciudad_1779976380"}
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-28T00:00:00.000Z"
+    "updatedAt": "2026-05-28T15:00:00.000Z"
   },
   {
     "id": 22,
@@ -463,7 +473,7 @@
       {"nombre": "El Día", "url": "https://www.eldia.com/la-ciudad/semana-de-paro-en-la-unlp-la-agenda-de-actividades-para-visibilizar-la-protesta-docente-la-ciudad_1779800460"}
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-28T00:00:00.000Z"
+    "updatedAt": "2026-05-28T15:00:00.000Z"
   },
   {
     "id": 23,
@@ -471,18 +481,19 @@
     "pais": "Argentina",
     "bandera": "🇦🇷",
     "hora": "00:00",
-    "fecha": "2026-05-29",
+    "fecha": "2026-05-28",
     "lugar": "Nacional (universidades)",
     "tipoAccion": "paro",
-    "organizaciones": ["Fagdut", "CONADU", "Fedun", "Sindicatos nodocentes"],
-    "motivo": "Paro nodocente nacional confirmado para el 29/5 y 3-4/6. El rector de UNCA advirtió que hasta docentes con dedicación exclusiva necesitan segundo empleo. Crisis salarial universitaria sin precedentes. 'Nos quieren pobres y sin educación'",
+    "organizaciones": ["FATUN", "APUNaM", "Fagdut", "CONADU", "Fedun", "Sindicatos nodocentes"],
+    "motivo": "Paro nodocente nacional sin asistencia confirmado para 29/5 y 3-4/6. El rector de UNCA advirtió que hasta docentes con dedicación exclusiva necesitan segundo empleo. Crisis salarial universitaria sin precedentes. 'Nos quieren pobres y sin educación'",
     "status": "convocado",
     "lat": "-34.6037",
     "lng": "-58.3816",
     "fuentes": [
-      {"nombre": "El Esquiú", "url": "https://www.elesquiu.com/politica/2026/5/28/arellano-confirmo-paro-nodocente-alerto-que-hasta-los-docentes-full-necesitan-un-segundo-trabajo-599489.html"}
+      {"nombre": "El Esquiú", "url": "https://www.elesquiu.com/politica/2026/05/28/arellano-confirmo-paro-nodocente-alerto-que-hasta-los-docentes-full-necesitan-un-segundo-trabajo-599489.html"},
+      {"nombre": "El Territorio", "url": "https://www.elterritorio.com.ar/noticias/2026/05/28/888520-docentes-universitarios-convocan-a-nuevas-medidas-de-fuerza-por-salarios-y-financiamiento"}
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-28T00:00:00.000Z"
+    "updatedAt": "2026-05-28T15:00:00.000Z"
   }
 ]
