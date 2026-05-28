@@ -982,56 +982,37 @@ export default function App() {
   }, []);
 
   /* ── Portal ──────────────────────────────────────────────────────── */
-  const fetchAcciones = useCallback(async (seccion: string) => {
+  const fetchAcciones = useCallback(async () => {
     setPortalLoading(true);
     try {
-      const r = await fetch(`/api/acciones?seccion=${seccion}`);
-      if (r.ok) setAcciones(await r.json());
+      const r = await fetch(`data/acciones.json?t=${Date.now()}`);
+      if (r.ok) {
+        const all = await r.json();
+        setAcciones(all);
+      }
     } catch {
     } finally {
       setPortalLoading(false);
     }
   }, []);
 
-  const openPortalDetail = useCallback(async (a: Accion) => {
+  const openPortalDetail = useCallback((a: Accion) => {
     setSelectedAccion(a);
     setPortalDetailOpen(true);
-    setPortalNoticiasLoading(true);
     setPortalNoticias([]);
-    try {
-      const r = await fetch(`/api/acciones/${a.id}`);
-      if (r.ok) {
-        const data = await r.json();
-        setPortalNoticias(data.ultimasNoticias || []);
-      }
-    } catch {
-    } finally {
-      setPortalNoticiasLoading(false);
-    }
   }, []);
 
   // Auto-refresh portal every 60s when portal view is active
   useEffect(() => {
     if (view !== "portal") return;
-    fetchAcciones(portalTab);
-    const id = setInterval(() => fetchAcciones(portalTab), 60_000);
+    fetchAcciones();
+    const id = setInterval(() => fetchAcciones(), 60_000);
     return () => clearInterval(id);
-  }, [view, portalTab, fetchAcciones]);
+  }, [view, fetchAcciones]);
 
   const triggerAgent = useCallback(async () => {
-    setPortalRefreshLoading(true);
-    try {
-      await fetch("/api/agentes/disparar", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: "{}",
-      });
-      setTimeout(() => fetchAcciones(portalTab), 5000);
-    } catch {
-    } finally {
-      setPortalRefreshLoading(false);
-    }
-  }, [portalTab, fetchAcciones]);
+    // Agents run via GitHub Actions — manual trigger not available in static mode
+  }, []);
 
   /* ── Agent status polling ── */
   const fetchAgentStatus = useCallback(async () => {
@@ -1217,7 +1198,7 @@ export default function App() {
   /* ── Coberturas ── */
   const fetchCoberturas = useCallback(async () => {
     try {
-      const r = await fetch("/api/coberturas");
+      const r = await fetch(`data/coberturas.json?t=${Date.now()}`);
       if (r.ok) setCoberturas(await r.json());
     } catch {}
   }, []);
