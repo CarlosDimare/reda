@@ -62,12 +62,24 @@ interface Accion {
 
 type PortalTab = "internacionales" | "protestas_ar";
 
+const TIPO_ICONOS: Record<string, string> = {
+  movilizacion: "✊",
+  huelga: "⚒️",
+  paro: "🚫",
+  concentracion: "📍",
+  planton: "⛺",
+  toma: "🏴",
+  volanteada: "📄",
+};
+
 const STYLES = `
   *::-webkit-scrollbar { width: 4px; }
   *::-webkit-scrollbar-track { background: #0a0a0a; }
   *::-webkit-scrollbar-thumb { background: #cc0000; }
   body { margin: 0; padding: 0; background: #0a0a0a; color: #ccc; }
   strong { color: #fff; font-weight: 700; }
+  .flag { font-family: 'Apple Color Emoji','Segoe UI Emoji','Noto Color Emoji',sans-serif; }
+  .tipo-badge { background: #fff; color: #cc0000; font-weight: 700; padding: 2px 8px; display: inline-block; }
 `;
 
 export default function App() {
@@ -323,19 +335,27 @@ export default function App() {
                       fontSize: 14,
                     }}
                   >
-                    {a.bandera} {a.lugar}
+                    <span className="flag">{a.bandera}</span> {a.lugar}
+
                   </span>
                   <span
                     style={{
                       width: 110,
                       flexShrink: 0,
-                      textTransform: "uppercase",
-                      fontSize: 12,
-                      letterSpacing: ".06em",
                       lineHeight: 1.5,
                     }}
                   >
-                    {a.tipoAccion}
+                    <span className="tipo-badge" style={{
+                      background: "#fff",
+                      color: "#cc0000",
+                      fontWeight: 700,
+                      padding: "3px 8px",
+                      fontSize: 11,
+                      letterSpacing: ".04em",
+                      textTransform: "uppercase",
+                    }}>
+                      {TIPO_ICONOS[a.tipoAccion] || "📢"} {a.tipoAccion}
+                    </span>
                   </span>
                   <span style={{ minWidth: 180, flex: 2, lineHeight: 1.5, fontSize: 13 }}>
                     {a.organizaciones.join(", ")}
