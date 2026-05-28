@@ -71,13 +71,10 @@ jobs:
         with:
           node-version: 22
 
-      - name: Install pnpm via corepack
+      - name: Approve build scripts & install
         run: |
-          corepack enable
-          corepack prepare pnpm@10 --activate
-
-      - name: Install dependencies
-        run: pnpm install --no-frozen-lockfile
+          pnpm approve-builds esbuild opencode-ai
+          pnpm install --no-frozen-lockfile
 
       - name: Build frontend
         run: pnpm --filter @workspace/web-terminal run build
