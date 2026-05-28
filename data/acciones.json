@@ -130,7 +130,7 @@
       "Intersindical",
       "STEPV"
     ],
-    "motivo": "Huelga indefinida de controladores aéreos SAERCO por condiciones laborales (extendida hasta 31/5). Huelga educativa en Cataluña — 17 jornadas de paro entre mayo y junio — por mejoras salariales y reducción de burocracia. Corte de AP-7 y A-2. Miles de docentes en Valencia (Sagunt, 3.000+ manifestantes) también en huelga indefinida. Consigna: 'Educació, pública de qualitat i en valencià'",
+    "motivo": "Huelga indefinida de controladores aéreos SAERCO por condiciones laborales (extendida hasta 31/5). Huelga educativa en Cataluña — 17 jornadas de paro entre mayo y junio — por mejoras salariales y reducción de burocracia. Corte de AP-7 y A-2. Miles de docentes en Valencia (Sagunt, 3.000+ manifestantes) también en huelga indefinida. En Xàbia (Alicante), docentes realizan 'Aules al carrer' (Aulas en la calle) el 28/5 en el paseo de la playa del Arenal, dando clases abiertas a la comunidad para visibilizar el conflicto educativo. Consigna: 'Educació, pública de qualitat i en valencià'",
     "status": "en_curso",
     "lat": "40.4168",
     "lng": "-3.7038",
@@ -150,6 +150,10 @@
       {
         "nombre": "Infobae España",
         "url": "https://www.infobae.com/espana/agencias/2026/05/27/miles-de-docentes-protestan-en-barcelona-para-desencallar-el-conflicto-educativo/"
+      },
+      {
+        "nombre": "Jávea.com",
+        "url": "https://en.javea.com/docentes-de-xabia-sacan-las-aulas-a-la-calle-para-exigir-condiciones-optimas-en-la-educacion/"
       }
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
@@ -284,7 +288,7 @@
       "Colectivos feministas",
       "UACM"
     ],
-    "motivo": "Plantón indefinido de la CNTE exigiendo abrogación de Ley del ISSSTE 2007. Gobierno les negó acceso al Zócalo por obras del Mundial 2026. Amenazan con huelga nacional el 1 de junio. Múltiples concentraciones y marchas. Transportistas y campesinos también en conflicto pre-Mundial",
+    "motivo": "Plantón indefinido de la CNTE exigiendo abrogación de Ley del ISSSTE 2007. Gobierno les negó acceso al Zócalo por obras del Mundial 2026. Amenazan con huelga nacional el 1 de junio. Múltiples concentraciones y marchas. En Oaxaca, CNTE bloquea accesos al Aeropuerto Internacional y planta Pemex, instalando campamento. Transportistas y campesinos también en conflicto pre-Mundial",
     "status": "en_curso",
     "lat": "19.4326",
     "lng": "-99.1332",
@@ -368,7 +372,7 @@
       "Movimientos sociales",
       "Colectivos ambientalistas"
     ],
-    "motivo": "Paro nacional de 48h en apoyo a consulta popular por reforma laboral de Petro. El Senado rechazó el referendo el 14/5. Movilizaciones ciudadanas, plantones y actos culturales con demandas sociales, juveniles y ambientales. En Bogotá también: plantón contra el asesinato de hipopótamos (Ministerio de Ambiente, 11:50) y protesta 'Las madres tienen razón' (Engativá, 9:00)",
+    "motivo": "Paro nacional de 48h en apoyo a consulta popular por reforma laboral de Petro. El Senado rechazó el referendo el 14/5. Movilizaciones ciudadanas, plantones y actos culturales con demandas sociales, juveniles y ambientales. El 28/5 en Bogotá: 'Las madres tienen razón' (Engativá, 9:00), plantón contra asesinato de hipopótamos (Ministerio Ambiente, 11:50) y jornada pacífica cultural en Suba (CAI La Gaitana, 16:00). Semana pre-electoral (1ra vuelta presidencial 31/5)",
     "status": "en_curso",
     "lat": "4.7110",
     "lng": "-74.0721",
@@ -1178,6 +1182,72 @@
       {
         "nombre": "Daily Tribune Philippines",
         "url": "https://tribune.net.ph/2026/05/28/commercial-fishing-protest"
+      }
+    ],
+    "createdAt": "2026-05-28T23:59:00.000Z",
+    "updatedAt": "2026-05-28T23:59:00.000Z"
+  },
+  {
+    "id": 48,
+    "seccion": "internacionales",
+    "pais": "Reino Unido",
+    "bandera": "🇬🇧",
+    "hora": "00:00",
+    "fecha": "2026-05-28",
+    "lugar": "Sheffield (Sheffield Hallam University), Cambridge (University of Cambridge), Luton (Arriva)",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "UCU (University and College Union)",
+      "UNITE",
+      "BMA (British Medical Association)"
+    ],
+    "motivo": "Múltiples huelgas en Reino Unido: Sheffield Hallam University (18 días de paro desde 27/5 contra 200 despidos y recorte £27M, 88% apoyo UCU, retraso graduaciones). University of Cambridge (personal UNITE). Arriva Luton (ingenieros UNITE). Resident doctors NHS (BMA) inician paro de 4 días por salarios y condiciones",
+    "status": "en_curso",
+    "lat": "53.3811",
+    "lng": "-1.4701",
+    "fuentes": [
+      {
+        "nombre": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/clypwz2ewrgo"
+      },
+      {
+        "nombre": "UK Strike Calendar",
+        "url": "https://www.strikecalendar.co.uk/"
+      },
+      {
+        "nombre": "The Star Sheffield",
+        "url": "https://www.thestar.co.uk/education/ucu-strike-action-may-26-2026-8641308"
+      }
+    ],
+    "createdAt": "2026-05-28T23:59:00.000Z",
+    "updatedAt": "2026-05-28T23:59:00.000Z"
+  },
+  {
+    "id": 49,
+    "seccion": "internacionales",
+    "pais": "Comoras",
+    "bandera": "🇰🇲",
+    "hora": "00:00",
+    "fecha": "2026-05-28",
+    "lugar": "Moroni y nacional",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "Sindicato de pescadores",
+      "Sindicato de comerciantes",
+      "Sociedad civil"
+    ],
+    "motivo": "Protestas violentas contra aumento 46% diésel y 35% gasolina por crisis estrecho Ormuz (guerra Irán-EE.UU.-Israel). Un muerto, 5 heridos. Gobierno suspendió aumento programado para junio. Se suma a ola de protestas por combustible en África (Kenia, Mozambique)",
+    "status": "en_curso",
+    "lat": "-11.7172",
+    "lng": "43.2551",
+    "fuentes": [
+      {
+        "nombre": "Responsible Statecraft",
+        "url": "https://responsiblestatecraft.org/diesel-fuel-protests-africa/"
+      },
+      {
+        "nombre": "Mero News",
+        "url": "https://mero.iq/diesel-protests-africa-slammed-by-iran-war-energy-crisis/"
       }
     ],
     "createdAt": "2026-05-28T23:59:00.000Z",
