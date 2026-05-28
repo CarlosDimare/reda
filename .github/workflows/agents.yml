@@ -26,25 +26,33 @@ jobs:
 
       - name: Run agent — Internacionales
         run: |
+          HOY=$(date +%Y-%m-%d)
           npx --yes -p opencode-ai opencode run --dangerously-skip-permissions \
-            "Sos un agente de monitoreo de conflictos GLOBALES.
+            "Sos un agente de monitoreo de conflictos GLOBALES. Hoy es $HOY.
 
-          1. LEE el archivo data/acciones.json
-          2. BUSCA en la web acciones colectivas de HOY en todo el mundo (EXCLUYENDO Argentina)
-          3. ACTUALIZA data/acciones.json: manten protestas_ar, reemplaza internacionales
-          4. INFORMA resultado
+          1. PRIMERO lee data/acciones.json y analiza las entradas existentes de seccion 'internacionales'.
+          2. BUSCA en la web acciones colectivas de HOY (solo fecha $HOY) en todo el mundo, EXCLUYENDO Argentina.
+             - Si una protesta existente sigue vigente hoy, ACTUALIZA sus datos (status, fuentes, updatedAt).
+             - Si encontran una protesta NUEVA de hoy que no está en el archivo, AGREGALA.
+             - Si una protesta existente ya NO está activa hoy, ELIMINALA del archivo.
+          3. NUNCA modifiques las entradas de seccion 'protestas_ar'.
+          4. Escribi el resultado a data/acciones.json y reporta: cuantas entradas nuevas agregaste, cuantas actualizaste, cuantas eliminaste.
 
           Cada entrada del JSON: id, seccion, pais, bandera, hora, fecha, lugar, tipoAccion, organizaciones, motivo, status, lat, lng, fuentes, createdAt, updatedAt"
 
       - name: Run agent — Protestas AR
         run: |
+          HOY=$(date +%Y-%m-%d)
           npx --yes -p opencode-ai opencode run --dangerously-skip-permissions \
-            "Sos un agente de monitoreo de protestas en ARGENTINA.
+            "Sos un agente de monitoreo de protestas en ARGENTINA. Hoy es $HOY.
 
-          1. LEE el archivo data/acciones.json
-          2. BUSCA en la web protestas de HOY en ARGENTINA
-          3. ACTUALIZA data/acciones.json: manten internacionales, reemplaza protestas_ar
-          4. INFORMA resultado
+          1. PRIMERO lee data/acciones.json y analiza las entradas existentes de seccion 'protestas_ar'.
+          2. BUSCA en la web protestas de HOY (solo fecha $HOY) en ARGENTINA.
+             - Si una protesta existente sigue vigente hoy, ACTUALIZA sus datos (status, fuentes, updatedAt).
+             - Si encontran una protesta NUEVA de hoy que no está en el archivo, AGREGALA.
+             - Si una protesta existente ya NO está activa hoy, ELIMINALA del archivo.
+          3. NUNCA modifiques las entradas de seccion 'internacionales'.
+          4. Escribi el resultado a data/acciones.json y reporta: cuantas entradas nuevas agregaste, cuantas actualizaste, cuantas eliminaste.
 
           Cada entrada del JSON: id, seccion, pais, bandera, hora, fecha, lugar, tipoAccion, organizaciones, motivo, status, lat, lng, fuentes, createdAt, updatedAt"
 
