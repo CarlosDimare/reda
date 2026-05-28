@@ -76,10 +76,22 @@ jobs:
         with:
           version: 11
 
-      - name: Approve builds & install
+      - name: Regenerate lockfile & install
         run: |
-          pnpm approve-builds esbuild opencode-ai
+          rm -f pnpm-lock.yaml
           pnpm install --no-frozen-lockfile
+
+      - name: Commit updated lockfile
+        run: |
+          git config user.name "Reda Bot"
+          git config user.email "bot@corresponsaldigital.ar"
+          git add pnpm-lock.yaml
+          if git diff --cached --quiet; then
+            echo "Lockfile sin cambios"
+          else
+            git commit -m "Actualizar lockfile a formato pnpm v11"
+            git push
+          fi
 
       - name: Build frontend
         run: pnpm --filter @workspace/web-terminal run build
