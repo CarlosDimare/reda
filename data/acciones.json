@@ -451,18 +451,19 @@
     "bandera": "🇦🇷",
     "hora": "00:00",
     "fecha": "2026-05-28",
-    "lugar": "CABA (Colegio Carlos Pellegrini, Caballito)",
+    "lugar": "CABA (Colegio Nacional Buenos Aires y Carlos Pellegrini, Caballito)",
     "tipoAccion": "toma",
-    "organizaciones": ["Centro de Estudiantes Carlos Pellegrini", "Estudiantes autoconvocados"],
-    "motivo": "Toma estudiantil del Colegio Carlos Pellegrini exigiendo cumplimiento de la Ley de Financiamiento Universitario. El Nacional Buenos Aires levantó la toma el 28/5 y retomó clases; el Carlos Pellegrini mantiene la ocupación con actividades suspendidas. Autoridades advierten que no pueden garantizar integridad física de alumnos dentro del edificio. Jubilados marcharon al Pellegrini en solidaridad",
+    "organizaciones": ["Centro de Estudiantes Carlos Pellegrini", "Centro de Estudiantes Nacional Buenos Aires", "Estudiantes autoconvocados"],
+    "motivo": "Toma estudiantil del Carlos Pellegrini y el Nacional Buenos Aires exigiendo cumplimiento de la Ley de Financiamiento Universitario. El Nacional Buenos Aires levantó la toma el 28/5 y retomó clases, pero esa misma noche su centro de estudiantes (Francisco Pitrola) confirmó que retomarían la ocupación. El Carlos Pellegrini mantiene la ocupación sin interrupción con actividades suspendidas. Autoridades advierten que no pueden garantizar integridad física de alumnos dentro del edificio. Jubilados marcharon al Pellegrini en solidaridad. Conflicto universitario escala con paro docente de toda la semana (26-30 mayo)",
     "status": "en_curso",
     "lat": "-34.6083",
     "lng": "-58.3954",
     "fuentes": [
       {"nombre": "Infobae", "url": "https://www.infobae.com/politica/2026/05/28/toma-en-los-colegios-el-nacional-buenos-aires-volvera-a-clases-mientras-que-el-carlos-pellegrini-sostiene-la-medida-de-fuerza/"},
       {"nombre": "El País", "url": "https://elpais.com/argentina/2026-05-28/el-reclamo-universitario-contra-el-gobierno-de-milei-escala-con-protestas-estudiantiles-y-huelgas-de-profesores.html"},
-      {"nombre": "Indymedia Argentina", "url": "https://argentina.indymedia.org/2026/05/28/estan-muriendo-jubilados-porque-no-pueden-comprar-los-remedios/"},
-      {"nombre": "Diario Hoy", "url": "https://diariohoy.net/politica/choferes-de-apps-volvieron-a-marchar-283913"}
+      {"nombre": "El Destape", "url": "https://www.eldestapeweb.com/politica/escala-conflicto-nacional-buenos-aires-reanudara-toma-financiamiento-universitario-2026528142759"},
+      {"nombre": "Resumen Latinoamericano", "url": "https://www.resumenlatinoamericano.org/2026/05/28/argentina-ley-de-financiamiento-universitario-levantaron-la-toma-en-el-nacional-buenos-aires-y-se-mantiene-la-del-pellegrini/"},
+      {"nombre": "Indymedia Argentina", "url": "https://argentina.indymedia.org/2026/05/28/estan-muriendo-jubilados-porque-no-pueden-comprar-los-remedios/"}
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
     "updatedAt": "2026-05-28T23:59:00.000Z"
@@ -737,6 +738,27 @@
       {"nombre": "Punto Capital", "url": "https://www.puntocapitalnoticias.com/choferes-de-aplicaciones-denuncian-una-caza-de-brujas-en-la-plata/"},
       {"nombre": "El Día", "url": "https://www.eldia.com/la-ciudad/conductores-de-aplicaciones-marcharan-a-la-municipalidad-para-exigir-la-legalizacion-del-servicio-la-ciudad_1779477480"},
       {"nombre": "TN", "url": "https://tn.com.ar/politica/2026/05/27/la-plata-choferes-de-aplicaciones-haran-una-caravana-para-exigir-una-ordenanza-que-regule-la-actividad/"}
+    ],
+    "createdAt": "2026-05-28T23:59:00.000Z",
+    "updatedAt": "2026-05-28T23:59:00.000Z"
+  },
+  {
+    "id": 35,
+    "seccion": "internacionales",
+    "pais": "Perú",
+    "bandera": "🇵🇪",
+    "hora": "00:00",
+    "fecha": "2026-05-28",
+    "lugar": "Arequipa, Piura, Lambayeque, Ucayali, San Martín, Huánuco, Puno y nacional",
+    "tipoAccion": "paro",
+    "organizaciones": ["Agricultores arroceros", "Productores agrarios", "Gremios agrícolas", "AGAP"],
+    "motivo": "Paro agrario nacional desde el 25 de mayo. Agricultores bloquean 18+ carreteras en 7 regiones. Exigen medidas urgentes ante caída del precio del arroz, aumento de costos de insumos y crisis del sector. Bloqueos en Panamericana Sur (Arequipa), Piura, Lambayeque y Ucayali. Transportistas anuncian paro en Lima para el 2 de junio por alza de combustibles",
+    "status": "en_curso",
+    "lat": "-12.0464",
+    "lng": "-77.0428",
+    "fuentes": [
+      {"nombre": "Infobae", "url": "https://www.infobae.com/peru/2026/05/27/paro-agrario-en-peru-agricultores-intensifican-protestas-y-bloqueos-en-demanda-de-medidas-urgentes/"},
+      {"nombre": "Caretas", "url": "https://caretas.pe/nacional/paro-agrario-en-vivo-hoy-todo-lo-que-se-sabe-sobre-las-protestas-de-productores-arroceros-en-regiones-del-peru/"}
     ],
     "createdAt": "2026-05-28T23:59:00.000Z",
     "updatedAt": "2026-05-28T23:59:00.000Z"
