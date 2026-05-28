@@ -1153,7 +1153,7 @@
       }
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-28T23:59:00.000Z"
+    "updatedAt": "2026-05-28T23:59:59.000Z"
   },
   {
     "id": 21,
@@ -1200,7 +1200,7 @@
       }
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-28T23:59:00.000Z"
+    "updatedAt": "2026-05-28T23:59:59.000Z"
   },
   {
     "id": 22,
@@ -1246,7 +1246,7 @@
       }
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-28T23:59:00.000Z"
+    "updatedAt": "2026-05-28T23:59:59.000Z"
   },
   {
     "id": 23,
@@ -1283,7 +1283,7 @@
       }
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-28T23:59:00.000Z"
+    "updatedAt": "2026-05-28T23:59:59.000Z"
   },
   {
     "id": 24,
@@ -1310,7 +1310,7 @@
       }
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-28T23:59:00.000Z"
+    "updatedAt": "2026-05-28T23:59:59.000Z"
   },
   {
     "id": 25,
@@ -1338,7 +1338,7 @@
       }
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-28T23:59:00.000Z"
+    "updatedAt": "2026-05-28T23:59:59.000Z"
   },
   {
     "id": 26,
@@ -1376,7 +1376,7 @@
       }
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-28T23:59:00.000Z"
+    "updatedAt": "2026-05-28T23:59:59.000Z"
   },
   {
     "id": 27,
@@ -1408,7 +1408,7 @@
       }
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-28T23:59:00.000Z"
+    "updatedAt": "2026-05-28T23:59:59.000Z"
   },
   {
     "id": 28,
@@ -1437,7 +1437,7 @@
       }
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-28T23:59:00.000Z"
+    "updatedAt": "2026-05-28T23:59:59.000Z"
   },
   {
     "id": 34,
@@ -1475,7 +1475,7 @@
       }
     ],
     "createdAt": "2026-05-28T23:59:00.000Z",
-    "updatedAt": "2026-05-28T23:59:00.000Z"
+    "updatedAt": "2026-05-28T23:59:59.000Z"
   },
   {
     "id": 40,
@@ -1508,7 +1508,7 @@
       }
     ],
     "createdAt": "2026-05-28T23:59:00.000Z",
-    "updatedAt": "2026-05-28T23:59:00.000Z"
+    "updatedAt": "2026-05-28T23:59:59.000Z"
   },
   {
     "id": 41,
@@ -1539,7 +1539,7 @@
       }
     ],
     "createdAt": "2026-05-28T23:59:00.000Z",
-    "updatedAt": "2026-05-28T23:59:00.000Z"
+    "updatedAt": "2026-05-28T23:59:59.000Z"
   },
   {
     "id": 46,
@@ -1572,6 +1572,37 @@
       }
     ],
     "createdAt": "2026-05-28T23:59:00.000Z",
-    "updatedAt": "2026-05-28T23:59:00.000Z"
+    "updatedAt": "2026-05-28T23:59:59.000Z"
+  },
+  {
+    "id": 47,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "10:00",
+    "fecha": "2026-05-28",
+    "lugar": "Nacional (puertos y plantas aceiteras: San Lorenzo, Rosario, Bahía Blanca, y principales centros oleaginosos)",
+    "tipoAccion": "paro",
+    "organizaciones": [
+      "Federación Aceitera y Desmotadora",
+      "Sindicato de Obreros y Empleados Aceiteros de San Lorenzo",
+      "Daniel Yofra (Secretario General SOEA)"
+    ],
+    "motivo": "Paro nacional aceitero por oferta salarial 0% de las patronales (Ciara). Exigen salario inicial de $2.802.754 según canasta Indec. Salario promedio del sector: $4,9M, muy por encima del promedio privado ($1,4M). El Gobierno dictó conciliación obligatoria desde las 15:00 por 15 días, suspendiendo la medida. Viernes 30/5 habrá audiencia en Secretaría de Trabajo. Gremios denuncian que las patronales obtuvieron $3.740M extra por reducción de retenciones",
+    "status": "suspendido",
+    "lat": "-32.7495",
+    "lng": "-60.7317",
+    "fuentes": [
+      {
+        "nombre": "Cable Imagen Armstrong",
+        "url": "https://cablearmstrong.com.ar/2026/05/28/trabajadores-aceiteros-lanzaron-un-paro-nacional-pero-nacion-dicto-la-conciliacion-obligatoria/"
+      },
+      {
+        "nombre": "Página|12",
+        "url": "https://www.pagina12.com.ar/2026/05/28/aceiteros-en-tregua-forzosa-y-pelea-abierta/"
+      }
+    ],
+    "createdAt": "2026-05-28T23:59:59.000Z",
+    "updatedAt": "2026-05-28T23:59:59.000Z"
   }
 ]
