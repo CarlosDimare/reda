@@ -120,16 +120,17 @@
     "bandera": "🇪🇸",
     "hora": "00:00",
     "fecha": "2026-05-28",
-    "lugar": "14 aeropuertos y Cataluña (Tarragona, Terres de l'Ebre, Barcelona)",
+    "lugar": "14 aeropuertos, Cataluña (Vallès Occidental, Oriental, Maresme) y Valencia (Sagunt, Camp de Morvedre)",
     "tipoAccion": "huelga",
     "organizaciones": [
       "SAERCO (controladores aéreos)",
       "USTEC",
       "Aspepc",
       "CGT",
-      "Intersindical"
+      "Intersindical",
+      "STEPV"
     ],
-    "motivo": "Huelga indefinida de controladores aéreos SAERCO por condiciones laborales (extendida hasta 31/5). Simultáneamente huelga educativa en Cataluña — 17 jornadas de paro entre mayo y junio — por mejoras salariales y reducción de burocracia. Corte de AP-7 y A-2. Miles de docentes cortan carreteras",
+    "motivo": "Huelga indefinida de controladores aéreos SAERCO por condiciones laborales (extendida hasta 31/5). Huelga educativa en Cataluña — 17 jornadas de paro entre mayo y junio — por mejoras salariales y reducción de burocracia. Corte de AP-7 y A-2. Miles de docentes en Valencia (Sagunt, 3.000+ manifestantes) también en huelga indefinida. Consigna: 'Educació, pública de qualitat i en valencià'",
     "status": "en_curso",
     "lat": "40.4168",
     "lng": "-3.7038",
@@ -143,8 +144,8 @@
         "url": "https://www.elperiodico.com/es/sociedad/20260528/huelga-profesores-barcelona-catalunya-hoy-jueves-28-mayo-manana-viernes-calendario-dv-130131145"
       },
       {
-        "nombre": "DonPorque",
-        "url": "https://donporque.com/huelgas-y-manifestaciones-en-espana-mayo/"
+        "nombre": "Levante-EMV",
+        "url": "https://www.levante-emv.com/morvedre/2026/05/28/huelga-morvedre-3-000-docentes-130764152.html"
       },
       {
         "nombre": "Infobae España",
@@ -356,7 +357,7 @@
     "bandera": "🇨🇴",
     "hora": "09:00",
     "fecha": "2026-05-28",
-    "lugar": "Bogotá y principales ciudades",
+    "lugar": "Bogotá (Engativá, Chapinero) y principales ciudades",
     "tipoAccion": "paro",
     "organizaciones": [
       "CUT",
@@ -364,9 +365,10 @@
       "CGT",
       "Fecode",
       "Centrales obreras",
-      "Movimientos sociales"
+      "Movimientos sociales",
+      "Colectivos ambientalistas"
     ],
-    "motivo": "Paro nacional de 48h en apoyo a consulta popular por reforma laboral de Petro. El Senado rechazó el referendo el 14/5. Movilizaciones ciudadanas, plantones y actos culturales con demandas sociales, juveniles y ambientales",
+    "motivo": "Paro nacional de 48h en apoyo a consulta popular por reforma laboral de Petro. El Senado rechazó el referendo el 14/5. Movilizaciones ciudadanas, plantones y actos culturales con demandas sociales, juveniles y ambientales. En Bogotá también: plantón contra el asesinato de hipopótamos (Ministerio de Ambiente, 11:50) y protesta 'Las madres tienen razón' (Engativá, 9:00)",
     "status": "en_curso",
     "lat": "4.7110",
     "lng": "-74.0721",
@@ -1121,6 +1123,67 @@
     "updatedAt": "2026-05-28T23:59:00.000Z"
   },
   {
+    "id": 46,
+    "seccion": "internacionales",
+    "pais": "Indonesia",
+    "bandera": "🇮🇩",
+    "hora": "16:00",
+    "fecha": "2026-05-28",
+    "lugar": "Jakarta (Istana Merdeka / Palacio Merdeka)",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "Aksi Kamisan (Jueves de Protesta)",
+      "Activistas de derechos humanos",
+      "Familiares de víctimas de desaparición forzada"
+    ],
+    "motivo": "Aksi Kamisan (Jueves de Protesta) #909 en el marco de la Semana Mundial contra la Desaparición Forzada. Exigen al gobierno investigar el secuestro de activistas ocurridos en 1997-1998 y resolver casos de violaciones de DDHH no resueltos. Consigna: 'No al silencio, exigimos justicia'",
+    "status": "en_curso",
+    "lat": "-6.1700",
+    "lng": "106.8270",
+    "fuentes": [
+      {
+        "nombre": "Tempo.co",
+        "url": "https://en.tempo.co/read/2104870/school-students-join-aksi-kamisan-commemorating-1998-reform-dont-be-silent"
+      },
+      {
+        "nombre": "SindoNews",
+        "url": "https://media.sindonews.com/foto/view/72733/1/aksi-kamisan-ke-909-soroti-kasus-penghilangan-paksa-aktivis"
+      },
+      {
+        "nombre": "Indoleft",
+        "url": "https://www.indoleft.org/news/2026-05-21/marking-28-years-of-reformasi-kamisan-takes-up-violations-in-papua-gaza-crisis.html"
+      }
+    ],
+    "createdAt": "2026-05-28T23:59:00.000Z",
+    "updatedAt": "2026-05-28T23:59:00.000Z"
+  },
+  {
+    "id": 47,
+    "seccion": "internacionales",
+    "pais": "Filipinas",
+    "bandera": "🇵🇭",
+    "hora": "09:00",
+    "fecha": "2026-05-28",
+    "lugar": "Quezon City (oficina BFAR - Bureau of Fisheries and Aquatic Resources)",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "PAMALAKAYA (Pambansang Lakas ng Kilusang Mamamalakaya ng Pilipinas)",
+      "Grupos de pescadores artesanales"
+    ],
+    "motivo": "Protesta de pescadores artesanales contra la creciente presencia de barcos pesqueros comerciales dentro de la zona de 15 km en aguas municipales. Exigen acciones concretas de la agencia BFAR para defender el derecho exclusivo de los pequeños pescadores en aguas municipales",
+    "status": "en_curso",
+    "lat": "14.6507",
+    "lng": "121.0355",
+    "fuentes": [
+      {
+        "nombre": "Daily Tribune Philippines",
+        "url": "https://tribune.net.ph/2026/05/28/commercial-fishing-protest"
+      }
+    ],
+    "createdAt": "2026-05-28T23:59:00.000Z",
+    "updatedAt": "2026-05-28T23:59:00.000Z"
+  },
+  {
     "id": 20,
     "seccion": "protestas_ar",
     "pais": "Argentina",
@@ -1340,44 +1403,7 @@
     "createdAt": "2026-05-28T00:00:00.000Z",
     "updatedAt": "2026-05-28T23:59:59.000Z"
   },
-  {
-    "id": 26,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "00:00",
-    "fecha": "2026-05-28",
-    "lugar": "Nacional (universidades nacionales)",
-    "tipoAccion": "paro",
-    "organizaciones": [
-      "FATUN",
-      "APUNaM",
-      "Fagdut",
-      "CONADU",
-      "Fedun",
-      "Sindicatos nodocentes"
-    ],
-    "motivo": "Paro nodocente nacional sin asistencia a lugares de trabajo confirmado para 29/5 y 3-4/6. El rector de UNCA advirtió que hasta docentes con dedicación exclusiva necesitan segundo empleo. Crisis salarial universitaria sin precedentes. Reclamo por Ley de Financiamiento Universitario, paritarias y recomposición salarial. Consigna: 'Nos quieren pobres y sin educación'",
-    "status": "convocado",
-    "lat": "-34.6037",
-    "lng": "-58.3816",
-    "fuentes": [
-      {
-        "nombre": "El Esquiú",
-        "url": "https://www.elesquiu.com/politica/2026/05/28/arellano-confirmo-paro-nodocente-alerto-que-hasta-los-docentes-full-necesitan-un-segundo-trabajo-599489.html"
-      },
-      {
-        "nombre": "El Territorio",
-        "url": "https://www.elterritorio.com.ar/noticias/2026/05/28/888520-docentes-universitarios-convocan-a-nuevas-medidas-de-fuerza-por-salarios-y-financiamiento"
-      },
-      {
-        "nombre": "Luján Hoy",
-        "url": "https://www.lujanhoy.com.ar/2026/05/28/milei-cumpli-con-la-ley-nodocentes-van-al-paro-y-crece-la-tension-en-las-universidades/"
-      }
-    ],
-    "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-28T23:59:59.000Z"
-  },
+
   {
     "id": 27,
     "seccion": "protestas_ar",
