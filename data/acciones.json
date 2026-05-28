@@ -988,6 +988,67 @@
     "updatedAt": "2026-05-28T23:59:00.000Z"
   },
   {
+    "id": 42,
+    "seccion": "internacionales",
+    "pais": "Venezuela",
+    "bandera": "🇻🇪",
+    "hora": "10:30",
+    "fecha": "2026-05-28",
+    "lugar": "Caracas (Plaza Parque Carabobo, frente al Ministerio Público)",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "Clippve (Comité por la Libertad de los Presos Políticos en Venezuela)",
+      "Familiares de presos políticos",
+      "Defensores de derechos humanos"
+    ],
+    "motivo": "Concentración de familiares de presos políticos frente al Ministerio Público exigiendo liberaciones prometidas, fin de desapariciones forzadas y tortura. Denuncian 'simulación institucional' tras anuncio de 500 liberaciones que no se cumplen. Consigna: 'No acudimos a pedir favores: acudimos a exigir derechos'",
+    "status": "en_curso",
+    "lat": "10.5050",
+    "lng": "-66.9147",
+    "fuentes": [
+      {
+        "nombre": "Monitoreamos",
+        "url": "https://monitoreamos.com/venezuela/familiares-de-presos-politicos-convocaron-protesta-ante-el-ministerio-publico-para-exigir-liberaciones-y-justicia"
+      },
+      {
+        "nombre": "Infobae",
+        "url": "https://www.infobae.com/america/agencias/2026/05/28/jueves-28-de-mayo-de-2026-0200-gmt"
+      },
+      {
+        "nombre": "Foro Penal",
+        "url": "https://foropenal.com/seguimiento-foro-penal-contabiliza-409-presos-politicos-en-venezuela-en-su-mas-reciente-balance-y-tras-excarcelaciones/"
+      }
+    ],
+    "createdAt": "2026-05-28T23:59:00.000Z",
+    "updatedAt": "2026-05-28T23:59:00.000Z"
+  },
+  {
+    "id": 43,
+    "seccion": "internacionales",
+    "pais": "Francia",
+    "bandera": "🇫🇷",
+    "hora": "18:30",
+    "fecha": "2026-05-28",
+    "lugar": "París (Jules-Joffrin, Paris 18e)",
+    "tipoAccion": "marcha",
+    "organizaciones": [
+      "ISM France (International Solidarity Movement)",
+      "Coaliciones propalestinas"
+    ],
+    "motivo": "Manifestación 'Stop Genocide' en París contra el genocidio en Gaza y la ofensiva militar de Israel. Protesta semanal de solidaridad con Palestina exigiendo el fin de los ataques y el cumplimiento del alto el fuego",
+    "status": "en_curso",
+    "lat": "48.8922",
+    "lng": "2.3441",
+    "fuentes": [
+      {
+        "nombre": "ISM France",
+        "url": "https://ismfrance.org/index.php/2026/05/27/manifestation-stop-genocide-paris-jeudi-28-mai-18h30-jules-joffrin-paris-18e/"
+      }
+    ],
+    "createdAt": "2026-05-28T23:59:00.000Z",
+    "updatedAt": "2026-05-28T23:59:00.000Z"
+  },
+  {
     "id": 20,
     "seccion": "protestas_ar",
     "pais": "Argentina",
