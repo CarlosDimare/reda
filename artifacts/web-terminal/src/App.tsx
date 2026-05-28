@@ -154,7 +154,7 @@ export default function App() {
             fontFamily: MONO,
           }}
         >
-          ◉ PORTAL
+          ◉ PROTESTAS
         </span>
         <div style={{ marginLeft: "auto", paddingRight: 16 }}>
           <span
@@ -249,11 +249,10 @@ export default function App() {
             textTransform: "uppercase",
           }}
         >
-          <span style={{ width: 50, flexShrink: 0 }}>HORA</span>
-          <span style={{ minWidth: 160, flex: 2 }}>LUGAR</span>
-          <span style={{ width: 90, flexShrink: 0 }}>TIPO</span>
-          <span style={{ minWidth: 140, flex: 1 }}>ORGANIZACIONES</span>
-          <span style={{ minWidth: 140, flex: 1 }}>MOTIVO</span>
+          <span style={{ width: 60, flexShrink: 0, fontSize: 10 }}>HORA</span>
+          <span style={{ minWidth: 200, flex: 3, fontSize: 10 }}>LUGAR</span>
+          <span style={{ width: 110, flexShrink: 0, fontSize: 10 }}>TIPO</span>
+          <span style={{ minWidth: 180, flex: 2, fontSize: 10 }}>ORGANIZACIONES</span>
         </div>
 
         {/* Table rows */}
@@ -287,7 +286,7 @@ export default function App() {
                   onClick={() => openPortalDetail(a)}
                   style={{
                     display: "flex",
-                    padding: "8px 12px",
+                      padding: "10px 14px",
                     borderBottom: "1px solid #141414",
                     cursor: "pointer",
                     fontSize: 11,
@@ -305,49 +304,41 @@ export default function App() {
                 >
                   <span
                     style={{
-                      width: 50,
+                      width: 60,
                       flexShrink: 0,
                       color: statusColor,
                       fontWeight: 700,
+                      fontSize: 14,
                     }}
                   >
                     {a.hora}
                   </span>
                   <span
                     style={{
-                      minWidth: 160,
-                      flex: 2,
+                      minWidth: 200,
+                      flex: 3,
                       color: "#999",
-                      lineHeight: 1.4,
+                      lineHeight: 1.5,
                       fontFamily: SANS,
+                      fontSize: 14,
                     }}
                   >
                     {a.bandera} {a.lugar}
                   </span>
                   <span
                     style={{
-                      width: 90,
+                      width: 110,
                       flexShrink: 0,
                       textTransform: "uppercase",
-                      fontSize: 9,
-                      letterSpacing: ".08em",
-                      lineHeight: 1.4,
+                      fontSize: 12,
+                      letterSpacing: ".06em",
+                      lineHeight: 1.5,
                     }}
                   >
                     {a.tipoAccion}
                   </span>
-                  <span style={{ minWidth: 140, flex: 1, lineHeight: 1.4 }}>
+                  <span style={{ minWidth: 180, flex: 2, lineHeight: 1.5, fontSize: 13 }}>
                     {a.organizaciones.join(", ")}
-                  </span>
-                  <span
-                    style={{
-                      minWidth: 140,
-                      flex: 1,
-                      color: "#888",
-                      lineHeight: 1.4,
-                    }}
-                  >
-                    {a.motivo}
                   </span>
                 </div>
               );
