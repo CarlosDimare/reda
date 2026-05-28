@@ -143,6 +143,10 @@ overrides:
 importers:
 
   .:
+    dependencies:
+      opencode-ai:
+        specifier: ^1.15.4
+        version: 1.15.4
     devDependencies:
       prettier:
         specifier: ^3.8.3

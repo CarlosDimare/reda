@@ -22,19 +22,43 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Ensure data directory
-        run: mkdir -p data
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
 
-      - name: Install opencode
-        run: |
-          curl -fsSL https://opencode.ai/install.sh | bash
-          echo "$HOME/.opencode/bin" >> "$GITHUB_PATH"
+      - name: Install pnpm
+        uses: pnpm/action-setup@v2
+        with:
+          version: 10
+
+      - name: Install dependencies
+        run: pnpm install
 
       - name: Run agent — Internacionales
-        run: bash scripts/agent-internacionales.sh
+        run: pnpm exec opencode run --yes "
+          Hoy es $(date +%Y-%m-%d). Sos un agente de monitoreo de conflictos GLOBALES.
+
+          1. LEÉ el archivo data/acciones.json.
+          2. BUSCÁ en la web acciones colectivas, protestas, huelgas, movilizaciones de HOY en todo el mundo (EXCLUYENDO Argentina).
+          3. ACTUALIZÁ data/acciones.json: mantené las entradas protestas_ar, reemplazá las internacionales.
+          4. CONFIRMAME cuántas acciones encontraste.
+
+          Buscá en BBC, Reuters, Al Jazeera, AFP, Guardian, CNN.
+          Cada entrada: id, seccion, pais, bandera, hora, fecha, lugar, tipoAccion, organizaciones, motivo, status, lat, lng, fuentes, createdAt, updatedAt.
+        "
 
       - name: Run agent — Protestas AR
-        run: bash scripts/agent-protestas_ar.sh
+        run: pnpm exec opencode run --yes "
+          Hoy es $(date +%Y-%m-%d). Sos un agente de monitoreo de protestas en ARGENTINA.
+
+          1. LEÉ el archivo data/acciones.json.
+          2. BUSCÁ en la web protestas, cortes de ruta, piquetes, movilizaciones, paros, huelgas de HOY en ARGENTINA.
+          3. ACTUALIZÁ data/acciones.json: mantené las entradas internacionales, reemplazá las protestas_ar.
+          4. CONFIRMAME cuántas acciones encontraste.
+
+          Buscá en Clarín, Infobae, Página 12, La Nación, Ámbito.
+          Cada entrada: id, seccion, pais, bandera, hora, fecha, lugar, tipoAccion, organizaciones, motivo, status, lat, lng, fuentes, createdAt, updatedAt.
+        "
 
       - name: Commit and push changes
         run: |
@@ -65,7 +89,7 @@ jobs:
           version: 10
 
       - name: Install dependencies
-        run: pnpm install --frozen-lockfile
+        run: pnpm install --no-frozen-lockfile
 
       - name: Build frontend
         run: pnpm --filter @workspace/web-terminal run build
