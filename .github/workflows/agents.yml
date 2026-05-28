@@ -24,37 +24,32 @@ jobs:
         with:
           node-version: 22
 
-      - name: Install pnpm
-        uses: pnpm/action-setup@v2
-        with:
-          version: 10
-
-      - name: Install dependencies
-        run: pnpm install
+      - name: Install opencode globally
+        run: npm install -g opencode-ai
 
       - name: Run agent — Internacionales
         run: |
-          node_modules/.bin/opencode run --dangerously-skip-permissions \
+          opencode run --dangerously-skip-permissions \
             "Sos un agente de monitoreo de conflictos GLOBALES.
 
           1. LEE el archivo data/acciones.json
-          2. BUSCA en la web acciones colectivas, protestas, huelgas, movilizaciones de HOY en todo el mundo (EXCLUYENDO Argentina)
-          3. ACTUALIZA data/acciones.json: manten las entradas protestas_ar, reemplaza las internacionales
-          4. INFORMA cuantas acciones encontraste
+          2. BUSCA en la web acciones colectivas de HOY en todo el mundo (EXCLUYENDO Argentina)
+          3. ACTUALIZA data/acciones.json: manten protestas_ar, reemplaza internacionales
+          4. INFORMA resultado
 
-          Cada entrada del JSON debe tener: id, seccion, pais, bandera, hora, fecha, lugar, tipoAccion, organizaciones, motivo, status, lat, lng, fuentes, createdAt, updatedAt"
+          Cada entrada del JSON: id, seccion, pais, bandera, hora, fecha, lugar, tipoAccion, organizaciones, motivo, status, lat, lng, fuentes, createdAt, updatedAt"
 
       - name: Run agent — Protestas AR
         run: |
-          node_modules/.bin/opencode run --dangerously-skip-permissions \
+          opencode run --dangerously-skip-permissions \
             "Sos un agente de monitoreo de protestas en ARGENTINA.
 
           1. LEE el archivo data/acciones.json
-          2. BUSCA en la web protestas, cortes de ruta, piquetes, movilizaciones, paros, huelgas de HOY en ARGENTINA
-          3. ACTUALIZA data/acciones.json: manten las entradas internacionales, reemplaza las protestas_ar
-          4. INFORMA cuantas acciones encontraste
+          2. BUSCA en la web protestas de HOY en ARGENTINA
+          3. ACTUALIZA data/acciones.json: manten internacionales, reemplaza protestas_ar
+          4. INFORMA resultado
 
-          Cada entrada del JSON debe tener: id, seccion, pais, bandera, hora, fecha, lugar, tipoAccion, organizaciones, motivo, status, lat, lng, fuentes, createdAt, updatedAt"
+          Cada entrada del JSON: id, seccion, pais, bandera, hora, fecha, lugar, tipoAccion, organizaciones, motivo, status, lat, lng, fuentes, createdAt, updatedAt"
 
       - name: Commit and push changes
         run: |
@@ -101,5 +96,4 @@ jobs:
           path: artifacts/web-terminal/dist
 
       - name: Deploy to GitHub Pages
-        id: deployment
         uses: actions/deploy-pages@v4
