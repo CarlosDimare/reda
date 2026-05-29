@@ -1184,6 +1184,63 @@
     "updatedAt": "2026-05-29T23:59:59.000Z"
   },
   {
+    "id": 62,
+    "seccion": "internacionales",
+    "pais": "Sudáfrica",
+    "bandera": "🇿🇦",
+    "hora": "10:00",
+    "fecha": "2026-05-29",
+    "lugar": "Johannesburgo (Rosebank, TotalEnergies Head Office: Total House, 3 Biermann Avenue)",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "350.org",
+      "Mining Affected Communities United in Action",
+      "Abahlali baseMjondolo",
+      "Comunidades locales",
+      "Grupos laborales y climáticos"
+    ],
+    "motivo": "Asamblea comunitaria 'Kick Polluters Out' frente a la sede de TotalEnergies. Exigen fin de subsidios a combustibles fósiles y proyectos de expansión (EACOP, Mozambique LNG). Demandan aumento de asignación de electricidad básica gratuita de 50kWh a 350kWh mediante energía renovable pública. Protesta en el marco de la Semana de Acción Global contra contaminadores, vinculada a crisis del costo de vida y expansión de combustibles fósiles en África",
+    "status": "en_curso",
+    "lat": "-26.1445",
+    "lng": "28.0476",
+    "fuentes": [
+      {
+        "nombre": "Green Building Africa",
+        "url": "https://www.greenbuildingafrica.co.za/communities-target-totalenergies-in-johannesburg-over-rising-energy-costs-and-fossil-fuel-expansion/"
+      }
+    ],
+    "createdAt": "2026-05-29T23:59:59.000Z",
+    "updatedAt": "2026-05-29T23:59:59.000Z"
+  },
+  {
+    "id": 63,
+    "seccion": "internacionales",
+    "pais": "Grecia",
+    "bandera": "🇬🇷",
+    "hora": "09:00",
+    "fecha": "2026-05-29",
+    "lugar": "Chania, Creta (lugar del congreso 'Investing in Change: How Crete is Transforming')",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "Iniciativas ciudadanas cretenses",
+      "Colectivos ecologistas",
+      "Plataformas contra megaproyectos",
+      "Sociedad civil de Creta"
+    ],
+    "motivo": "Concentración pancretense contra el congreso 'Invirtiendo en el Cambio: Cómo se Transforma Creta' organizado por Powergame.gr y The Economist. Denuncian planes de saqueo del territorio: megaproyectos de energías renovables, minería, privatización de costas y mercantilización del espacio público. Consigna: 'Creta no es una cartera de inversiones, es un territorio de vida, historia y cultura'",
+    "status": "en_curso",
+    "lat": "35.5138",
+    "lng": "24.0180",
+    "fuentes": [
+      {
+        "nombre": "Cosmodromio",
+        "url": "https://kosmodromio.gr/2026/05/27/29maiou-pagkrhtia-sugkentrwsh-diamart/"
+      }
+    ],
+    "createdAt": "2026-05-29T23:59:59.000Z",
+    "updatedAt": "2026-05-29T23:59:59.000Z"
+  },
+  {
     "id": 21,
     "seccion": "protestas_ar",
     "pais": "Argentina",
@@ -1229,6 +1286,10 @@
       {
         "nombre": "TN",
         "url": "https://tn.com.ar/politica/2026/05/29/se-reanudo-la-toma-en-el-colegio-nacional-buenos-aires-y-continua-en-el-carlos-pellegrini/"
+      },
+      {
+        "nombre": "Infobae",
+        "url": "https://www.infobae.com/politica/2026/05/29/el-colegio-nacional-buenos-aires-retomo-la-toma-luego-de-que-la-uba-dictara-normas-para-garantizar-la-seguridad/"
       }
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
@@ -1286,6 +1347,10 @@
       {
         "nombre": "El Cronista",
         "url": "https://www.cronista.com/informacion-gral/suspenden-las-clases-para-este-viernes-29-de-mayo-los-alumnos-tendran-un-nuevo-fin-de-semana-largo-en-estas-provincias/"
+      },
+      {
+        "nombre": "Data Gremial",
+        "url": "https://www.datagremial.com/informacion-general/fedun-confirmo-un-nuevo-paro-para-esta-semana-continuaremos-defendiendo-las-banderas-de-la-universidad--202652710510"
       }
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
@@ -1322,6 +1387,36 @@
       }
     ],
     "createdAt": "2026-05-28T23:59:00.000Z",
+    "updatedAt": "2026-05-29T23:59:59.000Z"
+  },
+  {
+    "id": 70,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "18:30",
+    "fecha": "2026-05-29",
+    "lugar": "Río Negro (Bariloche, Viedma, Cipolletti, Roca y varias localidades)",
+    "tipoAccion": "marcha",
+    "organizaciones": [
+      "UNTER",
+      "Docentes autoconvocados"
+    ],
+    "motivo": "Marcha de antorchas en toda la provincia de Río Negro convocada por UNTER contra la imposición salarial del gobierno provincial. Rechazan oferta del Ministerio de Educación (14/5) considerada insuficiente. Exigen apertura de paritarias, recomposición salarial frente a la pérdida del poder adquisitivo, mejoras edilicias y mayor financiamiento educativo. Concentración en Bariloche (Onelli y Moreno) con desplazamiento al Centro Cívico y micrófono abierto. Consigna: 'La docencia sigue de pie y en las calles'",
+    "status": "en_curso",
+    "lat": "-41.1335",
+    "lng": "-71.3103",
+    "fuentes": [
+      {
+        "nombre": "BarilocheOpina",
+        "url": "https://www.barilocheopina.com/noticias/2026/05/27/88077-unter-convoco-a-una-marcha-de-antorchas-en-toda-la-provincia-para-este-viernes"
+      },
+      {
+        "nombre": "Diario La Palabra",
+        "url": "https://www.diariolapalabra.com.ar/index.php/noticia/152281/docentes-convocan-a-una-marcha-de-antorchas-en-toda-la-provincia"
+      }
+    ],
+    "createdAt": "2026-05-29T23:59:59.000Z",
     "updatedAt": "2026-05-29T23:59:59.000Z"
   }
 ]
