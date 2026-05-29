@@ -95,6 +95,18 @@ jobs:
 
           No agregues ni modifiques ninguna entrada. Solo ELIMINA las que no correspondan a la fecha $HOY."
 
+      - name: Forzar updatedAt real
+        run: |
+          AHORA=$(date -u +%Y-%m-%dT%H:%M:%SZ)
+          python3 -c "
+import json
+d = json.load(open('data/acciones.json'))
+for a in d:
+    a['updatedAt'] = '$AHORA'
+json.dump(d, open('data/acciones.json', 'w'), indent=2, ensure_ascii=False)
+print('updatedAt forzado a', '$AHORA')
+"
+
       - name: Commit and push changes
         run: |
           git config user.name "Reda Bot"
