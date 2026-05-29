@@ -16,7 +16,7 @@
       "USI-CIT",
       "USB"
     ],
-    "motivo": "Huelga general de 24h desde las 21:00 del 28/5 en transporte ferroviario, aéreo y público. Contra guerra, gasto militar, precariedad laboral, genocidio en Gaza y falta de políticas sociales. 1.150 vuelos cancelados",
+    "motivo": "Huelga general de 24h desde las 21:00 del 28/5 en transporte ferroviario, aéreo y público. Contra guerra, gasto militar, precariedad laboral, genocidio en Gaza y falta de políticas sociales. 1.150 vuelos cancelados. Tercera huelga general del mes",
     "status": "en_curso",
     "lat": "41.9028",
     "lng": "12.4964",
@@ -39,7 +39,7 @@
       }
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-29T21:13:26Z"
+    "updatedAt": "2026-05-29T22:54:58Z"
   },
   {
     "id": 3,
@@ -57,7 +57,7 @@
       "Campesinos",
       "Transportistas"
     ],
-    "motivo": "Protestas masivas desde mayo contra el presidente Rodrigo Paz. Crisis económica (inflación 14%), escasez de combustible y dólares. Bloqueos mantienen La Paz bajo sitio. Exigen renuncia de Paz, mejoras salariales. 4 muertos, 100+ detenidos. Paz anunció cambios de gabinete sin éxito",
+    "motivo": "Protestas masivas desde mayo contra el presidente Rodrigo Paz. Crisis económica (inflación 14%), escasez de combustible y dólares. Bloqueos mantienen La Paz bajo sitio. Exigen renuncia de Paz, mejoras salariales. 4 muertos, 100+ detenidos. Paz anunció cambios de gabinete y advierte que 'el tiempo se acaba'. Congreso eliminó límites para estado de excepción. Seguidores de Evo Morales intensifican bloqueos en Cochabamba para evitar su detención",
     "status": "en_curso",
     "lat": "-16.5000",
     "lng": "-68.1500",
@@ -73,10 +73,18 @@
       {
         "nombre": "AP / ABC News",
         "url": "https://abcnews.com/International/wireStory/bolivias-capital-siege-protests-blockades-deepen-crisis-president-133115270"
+      },
+      {
+        "nombre": "Semana",
+        "url": "https://www.semana.com/mundo/articulo/presidente-de-bolivia-envia-alerta-y-asegura-que-su-pais-esta-al-limite-por-masivas-manifestaciones-en-su-contra/202614/"
+      },
+      {
+        "nombre": "Diario Las Américas",
+        "url": "https://www.diariolasamericas.com/america-latina/seguidores-evo-morales-amenazan-mantener-protestas-modo-indefinido-y-evitar-su-detencion-n5396269"
       }
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-29T21:13:26Z"
+    "updatedAt": "2026-05-29T22:54:58Z"
   },
   {
     "id": 4,
@@ -85,7 +93,7 @@
     "bandera": "🇪🇸",
     "hora": "00:00",
     "fecha": "2026-05-29",
-    "lugar": "14 aeropuertos, Cataluña (Vallès Occidental, Oriental, Maresme) y Valencia (Sagunt, Camp de Morvedre)",
+    "lugar": "14 aeropuertos, Cataluña (Vallès Occidental, Oriental, Maresme, Montserrat) y Valencia (Sagunt, Camp de Morvedre)",
     "tipoAccion": "huelga",
     "organizaciones": [
       "SAERCO (controladores aéreos)",
@@ -95,7 +103,7 @@
       "Intersindical",
       "STEPV"
     ],
-    "motivo": "Huelga indefinida de controladores aéreos SAERCO por condiciones laborales (extendida hasta 31/5). Huelga educativa en Cataluña — 17 jornadas de paro entre mayo y junio — por mejoras salariales y reducción de burocracia. Corte de AP-7 y A-2. Miles de docentes en Valencia (Sagunt, 3.000+ manifestantes) también en huelga indefinida. En Xàbia (Alicante), docentes realizan 'Aules al carrer' (Aulas en la calle) el 28/5 en el paseo de la playa del Arenal, dando clases abiertas a la comunidad para visibilizar el conflicto educativo. Consigna: 'Educació, pública de qualitat i en valencià'",
+    "motivo": "Huelga indefinida de controladores aéreos SAERCO. Huelga educativa en Cataluña — 17 jornadas de paro entre mayo y junio — por mejoras salariales y reducción de burocracia. El 29/5, docentes bloquearon acceso al cremallera de Montserrat (visita del papa León XIV el 10/6) y mantienen encierro nocturno en la Conselleria de Educación tras no alcanzar acuerdo con el Govern. Docentes en Valencia continúan huelga indefinida (3.000+ manifestantes en Sagunt). Consigna: 'Educació, pública de qualitat i en valencià'",
     "status": "en_curso",
     "lat": "40.4168",
     "lng": "-3.7038",
@@ -117,12 +125,16 @@
         "url": "https://www.infobae.com/espana/agencias/2026/05/27/miles-de-docentes-protestan-en-barcelona-para-desencallar-el-conflicto-educativo/"
       },
       {
-        "nombre": "Jávea.com",
-        "url": "https://en.javea.com/docentes-de-xabia-sacan-las-aulas-a-la-calle-para-exigir-condiciones-optimas-en-la-educacion/"
+        "nombre": "Antena3",
+        "url": "https://www.antena3.com/noticias/sociedad/barcelona-mantiene-pulso-educativo-mientras-continua-huelga-profesores_202605296a1939af91bae05c35e3c795.html"
+      },
+      {
+        "nombre": "Infobae",
+        "url": "https://www.infobae.com/espana/agencias/2026/05/29/los-docentes-bloquean-el-acceso-al-cremallera-de-montserrat-en-un-nuevo-dia-de-huelga/"
       }
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-29T21:13:26Z"
+    "updatedAt": "2026-05-29T22:54:58Z"
   },
   {
     "id": 9,
@@ -159,7 +171,7 @@
       }
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-29T21:13:26Z"
+    "updatedAt": "2026-05-29T22:54:58Z"
   },
   {
     "id": 16,
@@ -168,14 +180,16 @@
     "bandera": "🇰🇪",
     "hora": "00:00",
     "fecha": "2026-05-29",
-    "lugar": "Nairobi y nacional",
+    "lugar": "Nairobi, Kakamega, Lamu-Witu-Garsen Road y nacional",
     "tipoAccion": "huelga",
     "organizaciones": [
       "Transportistas",
       "Asociación de escuelas privadas",
-      "Sindicatos"
+      "Sindicatos",
+      "Tawakal Bus Company",
+      "Buscar Bus Company"
     ],
-    "motivo": "Huelga nacional de transporte público y protestas desde el 18 de mayo por aumento récord de combustible (diésel +23.5%), costo de vida y muerte de 4+ manifestantes por disparos policiales. El 29/5, jóvenes en Kakamega tomaron el cuerpo de Derrick Machanje (22, estudiante asesinado el 18/5) del mortuorio y realizaron procesión. Negocios cerrados, caos. 17 muertos reportados en protestas. Gobierno ofrece reducción de precios de combustible",
+    "motivo": "Huelga nacional de transporte público y protestas desde el 18 de mayo por aumento récord de combustible (diésel +23.5%), costo de vida y muerte de 4+ manifestantes por disparos policiales. El 29/5: jóvenes en Kakamega tomaron el cuerpo de Derrick Machanje (22, estudiante asesinado el 18/5) del mortuorio en procesión, y conductores de buses Tawakal y Buscar bloquearon la carretera Lamu-Witu-Garsen contra la prohibición de viajes nocturnos. Negocios cerrados. 17 muertos reportados en protestas",
     "status": "en_curso",
     "lat": "-1.2921",
     "lng": "36.8219",
@@ -195,10 +209,14 @@
       {
         "nombre": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/5/18/four-reported-killed-30-injured-in-kenyan-fuel-price-protests"
+      },
+      {
+        "nombre": "Nairobi Leo",
+        "url": "https://nairobileo.co.ke/news/article/27865/traffic-paralysed-after-drivers-park-2-long-distance-buses-in-the-middle-of-major-highway"
       }
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-29T21:13:26Z"
+    "updatedAt": "2026-05-29T22:54:58Z"
   },
   {
     "id": 21,
@@ -253,7 +271,7 @@
       }
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-29T21:13:26Z"
+    "updatedAt": "2026-05-29T22:54:58Z"
   },
   {
     "id": 22,
@@ -318,7 +336,7 @@
       }
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-29T21:13:26Z"
+    "updatedAt": "2026-05-29T22:54:58Z"
   },
   {
     "id": 40,
@@ -351,7 +369,7 @@
       }
     ],
     "createdAt": "2026-05-28T23:59:00.000Z",
-    "updatedAt": "2026-05-29T21:13:26Z"
+    "updatedAt": "2026-05-29T22:54:58Z"
   },
   {
     "id": 48,
@@ -386,7 +404,7 @@
       }
     ],
     "createdAt": "2026-05-28T23:59:00.000Z",
-    "updatedAt": "2026-05-29T21:13:26Z"
+    "updatedAt": "2026-05-29T22:54:58Z"
   },
   {
     "id": 57,
@@ -422,7 +440,7 @@
       }
     ],
     "createdAt": "2026-05-29T23:59:59.000Z",
-    "updatedAt": "2026-05-29T21:13:26Z"
+    "updatedAt": "2026-05-29T22:54:58Z"
   },
   {
     "id": 58,
@@ -454,7 +472,7 @@
       }
     ],
     "createdAt": "2026-05-29T23:59:59.000Z",
-    "updatedAt": "2026-05-29T21:13:26Z"
+    "updatedAt": "2026-05-29T22:54:58Z"
   },
   {
     "id": 59,
@@ -470,7 +488,7 @@
       "Jubilados y pensionados autoconvocados",
       "Pedro García (dirigente)"
     ],
-    "motivo": "Marcha del Día del Adulto Mayor (29 de mayo). Jubilados y pensionados recorren 6 instituciones del Estado exigiendo: aumento de pensión de vejez del IVSS, respeto a tabuladores salariales, igualación del bono de guerra a $200 para todos, restitución de seguridad social (salud, alimentación, medicinas, recreación). Denuncian despojo de derechos y precariedad extrema. Apoyo del magisterio activo",
+    "motivo": "Marcha del Día del Adulto Mayor (29 de mayo). Jubilados y pensionados recorren 6 instituciones del Estado exigiendo: aumento de pensión de vejez del IVSS, respeto a tabuladores salariales, igualación del bono de guerra a $200 para todos, restitución de seguridad social. Marcha fue reprimida por PNB con cercos policiales. Consigna: 'Quiero morir de vejez, no de hambre'. Apoyo del magisterio activo. Anuncian adhesión al paro del magisterio del 10 de junio",
     "status": "en_curso",
     "lat": "10.5050",
     "lng": "-66.9147",
@@ -482,10 +500,14 @@
       {
         "nombre": "Contrapunto.com (ruta)",
         "url": "https://contrapunto.com/nacional/laboral-nacional/adultos-mayores-tocaran-las-puertas-de-al-menos-cinco-instituciones-en-la-protesta-del-proximo-29may/"
+      },
+      {
+        "nombre": "El Pitazo",
+        "url": "https://elpitazo.net/caracas/queremos-morir-de-vejez-no-de-hambre-el-clamor-de-adultos-mayores-en-caracas/"
       }
     ],
     "createdAt": "2026-05-29T23:59:59.000Z",
-    "updatedAt": "2026-05-29T21:13:26Z"
+    "updatedAt": "2026-05-29T22:54:58Z"
   },
   {
     "id": 60,
@@ -511,7 +533,7 @@
       }
     ],
     "createdAt": "2026-05-29T23:59:59.000Z",
-    "updatedAt": "2026-05-29T21:13:26Z"
+    "updatedAt": "2026-05-29T22:54:58Z"
   },
   {
     "id": 61,
@@ -538,7 +560,7 @@
       }
     ],
     "createdAt": "2026-05-29T23:59:59.000Z",
-    "updatedAt": "2026-05-29T21:13:26Z"
+    "updatedAt": "2026-05-29T22:54:58Z"
   },
   {
     "id": 62,
@@ -567,7 +589,7 @@
       }
     ],
     "createdAt": "2026-05-29T23:59:59.000Z",
-    "updatedAt": "2026-05-29T21:13:26Z"
+    "updatedAt": "2026-05-29T22:54:58Z"
   },
   {
     "id": 63,
@@ -595,7 +617,7 @@
       }
     ],
     "createdAt": "2026-05-29T23:59:59.000Z",
-    "updatedAt": "2026-05-29T21:13:26Z"
+    "updatedAt": "2026-05-29T22:54:58Z"
   },
   {
     "id": 64,
@@ -604,7 +626,7 @@
     "bandera": "🇩🇪",
     "hora": "05:00",
     "fecha": "2026-05-29",
-    "lugar": "Mülheim an der Ruhr (KNDS tank factory, Europipe), Hamm, Gelsenkirchen",
+    "lugar": "Mülheim an der Ruhr (KNDS tank factory, Europipe), Hamm, Gelsenkirchen, Troisdorf",
     "tipoAccion": "movilizacion",
     "organizaciones": [
       "Ende Gelände",
@@ -612,7 +634,7 @@
       "Greenpeace",
       "Climate camp Hamm"
     ],
-    "motivo": "Acción de desobediencia civil masiva: 200 activistas de Ende Gelände bloquearon la fábrica de tanques KNDS en Mülheim, impidiendo el cambio de turno. Luego bloquearon la planta de tuberías Europipe. Protestan contra el uso de acero CO2-intensivo para producción bélica. 300 activistas marcharon en Hamm. 150 irrumpieron en central eléctrica en Gelsenkirchen. Greta Thunberg presente en el campamento climático de Hamm contra nuevas centrales de gas. Consigna: 'Justicia climática en lugar de belicismo'",
+    "motivo": "Acción de desobediencia civil masiva: ~1.500 activistas de Ende Gelände bloquearon la fábrica de tanques KNDS en Mülheim y las plantas de tuberías Europipe en Mülheim y Troisdorf. 300 activistas marcharon en Hamm. 150 irrumpieron en central eléctrica en Gelsenkirchen. Greta Thunberg presente en el campamento climático de Hamm contra nuevas centrales de gas. Varios arrestos. Consigna: 'Justicia climática en lugar de belicismo'",
     "status": "en_curso",
     "lat": "51.4333",
     "lng": "6.8833",
@@ -620,6 +642,10 @@
       {
         "nombre": "DW News",
         "url": "https://www.dw.com/en/germany-news-climate-activists-target-tank-factory/live-77340490"
+      },
+      {
+        "nombre": "DW Español",
+        "url": "https://www.dw.com/es/activistas-contra-combustibles-f%C3%B3siles-protestan-en-alemania/a-77345735"
       },
       {
         "nombre": "Zeit Online",
@@ -631,7 +657,7 @@
       }
     ],
     "createdAt": "2026-05-29T23:59:59.000Z",
-    "updatedAt": "2026-05-29T21:13:26Z"
+    "updatedAt": "2026-05-29T22:54:58Z"
   },
   {
     "id": 65,
@@ -664,10 +690,14 @@
       {
         "nombre": "Oil Change International",
         "url": "https://oilchange.org/news/community-leaders-rally-globally-to-push-back-on-polluting-companies-as-totalenergies-expected-to-highlight-jump-in-profits-on-the-back-of-iran-war-at-annual-meeting/"
+      },
+      {
+        "nombre": "ABC Color",
+        "url": "https://www.abc.com.py/internacionales/2026/05/29/protesta-en-paris-contra-el-respaldo-publico-a-totalenergies-y-para-que-se-le-grave-mas/"
       }
     ],
     "createdAt": "2026-05-29T23:59:59.000Z",
-    "updatedAt": "2026-05-29T21:13:26Z"
+    "updatedAt": "2026-05-29T22:54:58Z"
   },
   {
     "id": 66,
@@ -701,7 +731,116 @@
       }
     ],
     "createdAt": "2026-05-29T21:06:45.000Z",
-    "updatedAt": "2026-05-29T21:13:26Z"
+    "updatedAt": "2026-05-29T22:54:58Z"
+  },
+  {
+    "id": 71,
+    "seccion": "internacionales",
+    "pais": "Nigeria",
+    "bandera": "🇳🇬",
+    "hora": "10:00",
+    "fecha": "2026-05-29",
+    "lugar": "Ibadan, Oyo State (Iwo Road, State Secretariat)",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "Nigeria Union of Teachers (NUT)",
+      "Nigeria Teachers Congress (NTC)",
+      "Oyo State Teachers Action Group"
+    ],
+    "motivo": "Protesta pacífica de docentes en Ibadan exigiendo el rescate inmediato de 39 estudiantes y 7 maestros secuestrados por Boko Haram el 15 de mayo en Oriire LGA. Marcha desde Iwo Road hasta la Secretaría del Estado. Portaron carteles: 'Bring back our children, no more bandits'. El gobierno estatal aseguró estar trabajando en el rescate. Seis sospechosos arrestados, una maestra asesinada en cautiverio",
+    "status": "finalizada",
+    "lat": "7.3775",
+    "lng": "3.9470",
+    "fuentes": [
+      {
+        "nombre": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/05/29/release-our-children-protest-breaks-out-in-ibadan-over-kidnap-of-students-teachers-video/"
+      },
+      {
+        "nombre": "Independent Nigeria",
+        "url": "https://independent.ng/teachers-protest-in-ibadan-over-oriire-school-attack-demand-swift-rescue-of-victims/"
+      },
+      {
+        "nombre": "The Guardian Nigeria",
+        "url": "https://guardian.ng/news/group-protests-demands-immediate-rescue-of-abducted-oyo-teachers-pupils/"
+      }
+    ],
+    "createdAt": "2026-05-29T22:50:14.000Z",
+    "updatedAt": "2026-05-29T22:54:58Z"
+  },
+  {
+    "id": 72,
+    "seccion": "internacionales",
+    "pais": "México",
+    "bandera": "🇲🇽",
+    "hora": "09:00",
+    "fecha": "2026-05-29",
+    "lugar": "Ciudad de México (Secretaría de Gobernación, Abraham González; Circuito Interior; Zócalo) y Oaxaca",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "CNTE (Coordinadora Nacional de Trabajadores de la Educación)",
+      "Sección 22 Oaxaca"
+    ],
+    "motivo": "Jornada nacional de protesta de la CNTE. Concentración frente a la Secretaría de Gobernación (Segob) en CDMX exigiendo abrogación de la Ley del ISSSTE 2007, aumento salarial, mejores condiciones laborales y modificación al sistema de pensiones. 13 manifestaciones programadas en CDMX. Prevén paro nacional indefinido desde el 1 de junio con llegada de 150.000 maestros a la capital. Amenazan con boicot al Mundial 2026 que inicia el 11 de junio en México",
+    "status": "en_curso",
+    "lat": "19.4326",
+    "lng": "-99.1332",
+    "fuentes": [
+      {
+        "nombre": "Milenio",
+        "url": "https://www.milenio.com/politica/cnte-retoma-movilizaciones-en-cdmx-con-protesta-frente-a-segob"
+      },
+      {
+        "nombre": "EFE",
+        "url": "https://efe.com/mundo/2026-05-29/maestros-mexicanos-bloquean-vias/"
+      },
+      {
+        "nombre": "N+",
+        "url": "https://www.nmas.com.mx/ciudad-de-mexico/movilidad/trafico/hay-bloqueo-marcha-cnte-hoy-viernes-29-de-mayo-2026-zona-afectada-cdmx/"
+      },
+      {
+        "nombre": "Excelsior",
+        "url": "https://www.excelsior.com.mx/ciudad-de-mexico/ultimo-viernes-mes-esperan-13-manifestaciones-cdmx"
+      }
+    ],
+    "createdAt": "2026-05-29T22:50:14.000Z",
+    "updatedAt": "2026-05-29T22:54:58Z"
+  },
+  {
+    "id": 73,
+    "seccion": "internacionales",
+    "pais": "Irlanda",
+    "bandera": "🇮🇪",
+    "hora": "12:00",
+    "fecha": "2026-05-29",
+    "lugar": "Dublín (Meta HQ, Ballsbridge; Covalen offices, Haddington Road)",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "CWU (Communications Workers' Union)",
+      "Covalen workers",
+      "Fionnuala Ní Bhrógáin",
+      "Seán McDonagh"
+    ],
+    "motivo": "Protesta de trabajadores de Covalen (contratista de Meta) contra 720 despidos propuestos y condiciones laborales. Piquetes en la sede europea de Meta en Ballsbridge y oficinas de Covalen en Haddington Road. Denuncian trato 'de dos niveles' a trabajadores subcontratados: mientras Meta anunció 350 despidos directos con respuesta gubernamental inmediata, los 720 despidos en Covalen fueron ignorados. Exigen revisión de marco legal de despidos colectivos en Irlanda. Consigna: 'We trained the bots. We did the grind. Now we're being left behind'",
+    "status": "finalizada",
+    "lat": "53.3396",
+    "lng": "-6.2475",
+    "fuentes": [
+      {
+        "nombre": "RTE",
+        "url": "https://www.rte.ie/news/dublin/2026/0529/1575956-covalen-protest-meta/"
+      },
+      {
+        "nombre": "WIRED",
+        "url": "https://www.wired.com/story/meta-covalen-protest-strike-dublin/"
+      },
+      {
+        "nombre": "TheJournal.ie",
+        "url": "https://www.thejournal.ie/workers-to-protest-outside-meta-and-covalen-offices-over-job-losses-7053895-May2026/"
+      }
+    ],
+    "createdAt": "2026-05-29T22:50:14.000Z",
+    "updatedAt": "2026-05-29T22:54:58Z"
   },
   {
     "id": 70,
@@ -728,9 +867,13 @@
       {
         "nombre": "Diario La Palabra",
         "url": "https://www.diariolapalabra.com.ar/index.php/noticia/152281/docentes-convocan-a-una-marcha-de-antorchas-en-toda-la-provincia"
+      },
+      {
+        "nombre": "LMCipolletti",
+        "url": "https://www.lmcipolletti.com/cipolletti/recrudece-el-conflicto-docente-unter-convoca-una-movilizacion-defensa-la-educacion-publica-n1240121"
       }
     ],
     "createdAt": "2026-05-29T23:59:59.000Z",
-    "updatedAt": "2026-05-29T21:13:26Z"
+    "updatedAt": "2026-05-29T22:54:58Z"
   }
 ]
