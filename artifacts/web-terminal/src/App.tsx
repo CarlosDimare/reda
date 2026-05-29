@@ -167,6 +167,30 @@ export default function App() {
         >
           ◉ PROTESTAS
         </span>
+        <div
+          style={{
+            marginLeft: 16,
+            fontSize: 11,
+            color: "#999",
+            fontFamily: "Arial,Helvetica,sans-serif",
+          }}
+        >
+          Última actualización:{" "}
+          {acciones.length > 0
+            ? new Date(
+                Math.max(
+                  ...acciones.map((a) => new Date(a.updatedAt).getTime()),
+                ),
+              ).toLocaleString("es-AR", {
+                day: "2-digit",
+                month: "2-digit",
+                year: "numeric",
+                hour: "2-digit",
+                minute: "2-digit",
+                hour12: false,
+              })
+            : "—"}
+        </div>
         <div style={{ marginLeft: "auto", paddingRight: 16 }}>
           <span
             style={{
