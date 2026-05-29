@@ -182,6 +182,7 @@ export default function App() {
                   ...acciones.map((a) => new Date(a.updatedAt).getTime()),
                 ),
               ).toLocaleString("es-AR", {
+                timeZone: "America/Argentina/Buenos_Aires",
                 day: "2-digit",
                 month: "2-digit",
                 year: "numeric",
