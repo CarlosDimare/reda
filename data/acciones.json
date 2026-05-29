@@ -160,80 +160,6 @@
     "updatedAt": "2026-05-29T23:59:59.000Z"
   },
   {
-    "id": 5,
-    "seccion": "internacionales",
-    "pais": "Serbia",
-    "bandera": "🇷🇸",
-    "hora": "18:00",
-    "fecha": "2026-05-29",
-    "lugar": "Belgrado (Slavija Square, centro)",
-    "tipoAccion": "movilizacion",
-    "organizaciones": [
-      "Estudiantes universitarios",
-      "Oposición",
-      "Movimiento anticorrupción"
-    ],
-    "motivo": "Protestas estudiantiles masivas anticorrupción tras colapso estación de tren Novi Sad (nov 2024, 16 muertos). 180.000-190.000 personas el 23/5 — segunda protesta más grande desde caída de Milošević. Exigen elecciones anticipadas. Enfrentamientos con policía, gas lacrimógeno, 23 detenidos",
-    "status": "en_curso",
-    "lat": "44.8176",
-    "lng": "20.4561",
-    "fuentes": [
-      {
-        "nombre": "European Western Balkans",
-        "url": "http://europeanwesternbalkans.com/2026/05/25/second-largest-protest-in-serbian-history-held-on-saturday-citizens-call-for-elections/"
-      },
-      {
-        "nombre": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/5/23/tens-of-thousands-rally-in-serbia-for-antigovernment-demonstrations"
-      },
-      {
-        "nombre": "Vreme",
-        "url": "https://www.vreme.com/en/vesti/arhiv-javnih-skupova-slavija-protest-broj-ljudi/"
-      }
-    ],
-    "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-29T23:59:59.000Z"
-  },
-  {
-    "id": 6,
-    "seccion": "internacionales",
-    "pais": "Georgia",
-    "bandera": "🇬🇪",
-    "hora": "20:00",
-    "fecha": "2026-05-29",
-    "lugar": "Tbilisi (Rustaveli Avenue, frente al Parlamento)",
-    "tipoAccion": "movilizacion",
-    "organizaciones": [
-      "Alianza Opositora (9 partidos)",
-      "Sociedad civil",
-      "Activistas europeístas"
-    ],
-    "motivo": "Marcha del Día de la Independencia (26/5) con miles de personas. Campaña 'Georgia Merece Mejor' contra el gobierno de Georgian Dream por frenar ingreso a UE, represión y deriva autoritaria. Segunda fase de movilización nacional. Consignas: 'Somos Europa', 'Libertad para presos del régimen'",
-    "status": "en_curso",
-    "lat": "41.6938",
-    "lng": "44.8015",
-    "fuentes": [
-      {
-        "nombre": "Civil Georgia",
-        "url": "https://civil.ge/archives/735927"
-      },
-      {
-        "nombre": "Euronews",
-        "url": "https://www.euronews.com/video/2026/05/27/thousands-rally-in-tbilisi-as-georgia-marks-independence-day-with-pro-eu-protests"
-      },
-      {
-        "nombre": "Kyiv Post",
-        "url": "https://www.kyivpost.com/post/76921"
-      },
-      {
-        "nombre": "Anadolu Ajansı (AA)",
-        "url": "https://www.aa.com.tr/en/asia-pacific/thousands-join-anti-government-protest-in-georgia-s-capital/3949425"
-      }
-    ],
-    "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-29T23:59:59.000Z"
-  },
-  {
     "id": 7,
     "seccion": "internacionales",
     "pais": "Estados Unidos",
@@ -355,49 +281,6 @@
     "updatedAt": "2026-05-29T23:59:59.000Z"
   },
   {
-    "id": 10,
-    "seccion": "internacionales",
-    "pais": "Colombia",
-    "bandera": "🇨🇴",
-    "hora": "09:00",
-    "fecha": "2026-05-29",
-    "lugar": "Bogotá (Engativá, Chapinero) y principales ciudades",
-    "tipoAccion": "paro",
-    "organizaciones": [
-      "CUT",
-      "CTC",
-      "CGT",
-      "Fecode",
-      "Centrales obreras",
-      "Movimientos sociales",
-      "Colectivos ambientalistas"
-    ],
-    "motivo": "Paro nacional de 48h en apoyo a consulta popular por reforma laboral de Petro. El Senado rechazó el referendo el 14/5. Movilizaciones ciudadanas, plantones y actos culturales con demandas sociales, juveniles y ambientales. El 28/5 en Bogotá: 'Las madres tienen razón' (Engativá, 9:00), plantón contra asesinato de hipopótamos (Ministerio Ambiente, 11:50) y jornada pacífica cultural en Suba (CAI La Gaitana, 16:00). Semana pre-electoral (1ra vuelta presidencial 31/5)",
-    "status": "en_curso",
-    "lat": "4.7110",
-    "lng": "-74.0721",
-    "fuentes": [
-      {
-        "nombre": "teleSUR",
-        "url": "https://www.telesurenglish.net/colombians-launch-48-hour-national-strike-in-support-of-labor-reform-referendum/"
-      },
-      {
-        "nombre": "Bogota.gov.co",
-        "url": "https://bogota.gov.co/mi-ciudad/gobierno/conoce-las-marchas-y-manifestaciones-en-bogota-25-al-28-de-mayo-2026"
-      },
-      {
-        "nombre": "El Universal",
-        "url": "https://www.eluniversal.com.co/colombia/2025/05/28/paro-nacional-asi-se-desarrolla-la-jornada-en-ciudades-de-colombia/"
-      },
-      {
-        "nombre": "El Portal Semanario",
-        "url": "https://elportalsemanario.com/?p=14892"
-      }
-    ],
-    "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-29T23:59:59.000Z"
-  },
-  {
     "id": 12,
     "seccion": "internacionales",
     "pais": "Irán",
@@ -507,41 +390,6 @@
     "updatedAt": "2026-05-29T23:59:59.000Z"
   },
   {
-    "id": 15,
-    "seccion": "internacionales",
-    "pais": "Alemania",
-    "bandera": "🇩🇪",
-    "hora": "00:00",
-    "fecha": "2026-05-29",
-    "lugar": "Fráncfort, Múnich, Berlín y nacional",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "Vereinigung Cockpit (VC)",
-      "UFO",
-      "Verdi"
-    ],
-    "motivo": "Conflictos laborales activos en Lufthansa Group. VC mantiene mandato de huelga del 96% y puede activar paro de pilotos en cualquier momento. UFO y Verdi en disputa activa. Lufthansa exige reforma de ley de huelgas. CiudadLine cerrada, 20.000 vuelos cortos eliminados",
-    "status": "en_curso",
-    "lat": "50.1109",
-    "lng": "8.6821",
-    "fuentes": [
-      {
-        "nombre": "AirInsight",
-        "url": "https://airinsight.com/lufthansa-politikbrief-may-2026/"
-      },
-      {
-        "nombre": "Wego Travel Blog",
-        "url": "https://blog.wego.com/europe-airport-strikes-summer-2026/"
-      },
-      {
-        "nombre": "Euronews",
-        "url": "https://www.euronews.com/travel/2026/04/15/german-pilots-union-calls-for-two-day-lufthansa-strike-action-on-monday-and-tuesday"
-      }
-    ],
-    "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-29T23:59:59.000Z"
-  },
-  {
     "id": 16,
     "seccion": "internacionales",
     "pais": "Kenia",
@@ -581,61 +429,123 @@
     "updatedAt": "2026-05-29T23:59:59.000Z"
   },
   {
-    "id": 19,
-    "seccion": "internacionales",
-    "pais": "Nigeria",
-    "bandera": "🇳🇬",
-    "hora": "10:00",
+    "id": 21,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "00:00",
     "fecha": "2026-05-29",
-    "lugar": "Lagos (Estado de Lagos, Alausa, Ikeja)",
-    "tipoAccion": "movilizacion",
+    "lugar": "CABA (Colegio Nacional Buenos Aires y Carlos Pellegrini, Caballito)",
+    "tipoAccion": "toma",
     "organizaciones": [
-      "Iyaloja-General Folashade Tinubu-Ojo",
-      "Comerciantes y líderes de mercado"
+      "Centro de Estudiantes Carlos Pellegrini",
+      "Centro de Estudiantes Nacional Buenos Aires",
+      "Estudiantes autoconvocados"
     ],
-    "motivo": "La hija del presidente Tinubu, Folashade Tinubu-Ojo (Iyaloja-General), amenaza con protestas masivas por manipulación en primarias del APC en Lagos. Denuncia que los resultados de Mushin, Agege y Ojokoro fueron amañados a favor de la facción Justice Forum. Crisis interna en el partido gobernante pre-2027",
-    "status": "convocado",
-    "lat": "6.5244",
-    "lng": "3.3792",
+    "motivo": "Toma estudiantil reanudada en el Nacional Buenos Aires (NBA) y continúa en el Carlos Pellegrini exigiendo cumplimiento de la Ley de Financiamiento Universitario. El NBA había levantado la toma el 28/5 pero esa misma noche los estudiantes la reanudaron (Pitrola confirmó reocupación). El Pellegrini mantiene ocupación sin interrupción con actividades suspendidas. Viernes 29/5 habrá asamblea estudiantil para decidir continuidad. Conflicto universitario escala con paro docente FEDUN 24h y CONADU Histórica 26-30 mayo",
+    "status": "en_curso",
+    "lat": "-34.6083",
+    "lng": "-58.3954",
     "fuentes": [
       {
-        "nombre": "Daily Post Nigeria",
-        "url": "https://dailypost.ng/2026/05/28/tinubus-daughter-rejects-lagos-apc-primary-results-threatens-protest/"
+        "nombre": "Infobae",
+        "url": "https://www.infobae.com/politica/2026/05/28/toma-en-los-colegios-el-nacional-buenos-aires-volvera-a-clases-mientras-que-el-carlos-pellegrini-sostiene-la-medida-de-fuerza/"
       },
       {
-        "nombre": "Dockaysworld",
-        "url": "https://www.dockaysworld.com.ng/tinubus-daughter-to-protest-against-apc/"
+        "nombre": "El País",
+        "url": "https://elpais.com/argentina/2026-05-28/el-reclamo-universitario-contra-el-gobierno-de-milei-escala-con-protestas-estudiantiles-y-huelgas-de-profesores.html"
+      },
+      {
+        "nombre": "El Destape",
+        "url": "https://www.eldestapeweb.com/politica/escala-conflicto-nacional-buenos-aires-reanudara-toma-financiamiento-universitario-2026528142759"
+      },
+      {
+        "nombre": "Resumen Latinoamericano",
+        "url": "https://www.resumenlatinoamericano.org/2026/05/28/argentina-ley-de-financiamiento-universitario-levantaron-la-toma-en-el-nacional-buenos-aires-y-se-mantiene-la-del-pellegrini/"
+      },
+      {
+        "nombre": "La Izquierda Diario",
+        "url": "https://www.laizquierdadiario.com/Estudiantes-toman-el-Nacional-Buenos-Aires-y-el-Pellegrini-exigen-que-se-cumpla-el-Financiamiento"
+      },
+      {
+        "nombre": "Indymedia Argentina",
+        "url": "https://argentina.indymedia.org/2026/05/28/estan-muriendo-jubilados-porque-no-pueden-comprar-los-remedios/"
+      },
+      {
+        "nombre": "TN",
+        "url": "https://tn.com.ar/politica/2026/05/29/se-reanudo-la-toma-en-el-colegio-nacional-buenos-aires-y-continua-en-el-carlos-pellegrini/"
+      },
+      {
+        "nombre": "Infobae",
+        "url": "https://www.infobae.com/politica/2026/05/29/el-colegio-nacional-buenos-aires-retomo-la-toma-luego-de-que-la-uba-dictara-normas-para-garantizar-la-seguridad/"
       }
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
     "updatedAt": "2026-05-29T23:59:59.000Z"
   },
   {
-    "id": 30,
-    "seccion": "internacionales",
-    "pais": "Grecia",
-    "bandera": "🇬🇷",
-    "hora": "12:00",
+    "id": 22,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "00:00",
     "fecha": "2026-05-29",
-    "lugar": "Atenas (Plaza Central Universidad Politécnica - NTUA)",
-    "tipoAccion": "concentracion",
+    "lugar": "Nacional (universidades públicas, CABA Tribunales)",
+    "tipoAccion": "paro",
     "organizaciones": [
-      "Colectivos anarquistas y antifascistas",
-      "Estudiantes Politécnico",
-      "Research Critique",
-      "Iniciativa Estudiantes Anarquistas Volos"
+      "FATUN",
+      "FEDUN",
+      "Fedun",
+      "Fagdut",
+      "CIN",
+      "CONADU",
+      "Conadu Histórica",
+      "FUA",
+      "APUNaM"
     ],
-    "motivo": "Concentración antiguerra en Universidad Politécnica de Atenas como parte de 'antiguerra de dos días' contra militarización de universidades, represión e investigación bélica. Incluye proyección documental '48/ Resistencia al gran asentamiento' y eventos políticos. Consignas: 'Lucha antiestatal-antimilitarista dentro y fuera de las escuelas'",
+    "motivo": "Paro universitario nacional: FEDUN paro 24h (29/5), CONADU Histórica mantiene paro 26-30 mayo, FATUN/APUNaM paro no docente 29/5, 3 y 4 junio. Reclamo por recomposición salarial (52.1% pérdida poder adquisitivo), presupuesto y cumplimiento Ley de Financiamiento Universitario. Gobierno sin convocar a paritarias. Oferta 1.5% + bono $40.000 rechazada. Docentes perdieron 34-52% de poder adquisitivo en dos años. Conflicto escaló con debate en medios. Clases públicas frente a Tribunales. 212 días sin cumplir la ley",
     "status": "en_curso",
-    "lat": "37.9838",
-    "lng": "23.7275",
+    "lat": "-34.6037",
+    "lng": "-58.3816",
     "fuentes": [
       {
-        "nombre": "Land and Freedom",
-        "url": "https://mail.landandfreedom.gr/en/imerologio/eventdetail/3060/-/athina-antipolemiki-sygkentrosi"
+        "nombre": "El País",
+        "url": "https://elpais.com/argentina/2026-05-28/el-reclamo-universitario-contra-el-gobierno-de-milei-escala-con-protestas-estudiantiles-y-huelgas-de-profesores.html"
+      },
+      {
+        "nombre": "CONADU",
+        "url": "https://conadu.org.ar/el-gobierno-nacional-continua-atacando-el-salario-de-la-docencia-de-las-universidades-nacionales/"
+      },
+      {
+        "nombre": "TN",
+        "url": "https://tn.com.ar/politica/2026/05/28/de-financian-estructuras-politicas-a-quieren-arancelarla-los-cruces-por-la-situacion-de-las-universidades/"
+      },
+      {
+        "nombre": "Versión Rosario",
+        "url": "https://www.versionrosario.com.ar/docentes-de-la-utn-rosario-paran-48-horas-y-alertan-por-una-ola-de-renuncias/"
+      },
+      {
+        "nombre": "El Territorio",
+        "url": "https://www.elterritorio.com.ar/noticias/2026/05/28/888520-docentes-universitarios-convocan-a-nuevas-medidas-de-fuerza-por-salarios-y-financiamiento"
+      },
+      {
+        "nombre": "TN",
+        "url": "https://tn.com.ar/politica/2026/05/29/se-reanudo-la-toma-en-el-colegio-nacional-buenos-aires-y-continua-en-el-carlos-pellegrini/"
+      },
+      {
+        "nombre": "El Cronista",
+        "url": "https://www.cronista.com/informacion-gral/suspenden-las-clases-para-este-viernes-29-de-mayo-los-alumnos-tendran-un-nuevo-fin-de-semana-largo-en-estas-provincias/"
+      },
+      {
+        "nombre": "Data Gremial",
+        "url": "https://www.datagremial.com/informacion-general/fedun-confirmo-un-nuevo-paro-para-esta-semana-continuaremos-defendiendo-las-banderas-de-la-universidad--202652710510"
+      },
+      {
+        "nombre": "Sonido Gremial",
+        "url": "https://sonidogremial.com.ar/fatun-endurece-el-conflicto-universitario-va-al-paro-nacional-el-29-de-mayo-3-y-4-de-junio-y-convoca-a-semanas-de-protesta/"
       }
     ],
-    "createdAt": "2026-05-28T23:59:00.000Z",
+    "createdAt": "2026-05-28T00:00:00.000Z",
     "updatedAt": "2026-05-29T23:59:59.000Z"
   },
   {
@@ -660,32 +570,6 @@
       {
         "nombre": "SabrangIndia",
         "url": "https://sabrangindia.in/rs4-a-kilo-for-a-crop-that-costs-rs20-to-grow-nashiks-onion-farmers-erupt-in-protest-over-deepening-price-crisis/"
-      }
-    ],
-    "createdAt": "2026-05-28T23:59:00.000Z",
-    "updatedAt": "2026-05-29T23:59:59.000Z"
-  },
-  {
-    "id": 32,
-    "seccion": "internacionales",
-    "pais": "Uruguay",
-    "bandera": "🇺🇾",
-    "hora": "00:00",
-    "fecha": "2026-05-29",
-    "lugar": "Nacional (Montevideo, Salto, Rivera, Tacuarembó, Rocha, Fray Bentos)",
-    "tipoAccion": "paro",
-    "organizaciones": [
-      "Transportistas autoconvocados",
-      "Federico Holzmann (vocero)"
-    ],
-    "motivo": "Paro nacional indefinido de transportistas contra Guía de Carga obligatoria del MTOP. 2.500 movilizados el sábado 23. Reunión con ministra Etcheverry a las 16:00 no desactiva la medida. Rechazan nueva burocracia y control estatal sobre transporte de carga",
-    "status": "en_curso",
-    "lat": "-34.9011",
-    "lng": "-56.1645",
-    "fuentes": [
-      {
-        "nombre": "Revista Verde",
-        "url": "https://revistaverde.com.uy/actualidad/transportistas-autoconvocados-van-al-paro-el-jueves-28-y-se-confirmo-reunion-con-el-mtop-a-las-1600-hs/"
       }
     ],
     "createdAt": "2026-05-28T23:59:00.000Z",
@@ -867,66 +751,33 @@
     "updatedAt": "2026-05-29T23:59:59.000Z"
   },
   {
-    "id": 42,
-    "seccion": "internacionales",
-    "pais": "Venezuela",
-    "bandera": "🇻🇪",
-    "hora": "10:30",
-    "fecha": "2026-05-29",
-    "lugar": "Caracas (Plaza Parque Carabobo, frente al Ministerio Público)",
-    "tipoAccion": "concentracion",
-    "organizaciones": [
-      "Clippve (Comité por la Libertad de los Presos Políticos en Venezuela)",
-      "Familiares de presos políticos",
-      "Defensores de derechos humanos"
-    ],
-    "motivo": "Concentración de familiares de presos políticos frente al Ministerio Público exigiendo liberaciones prometidas, fin de desapariciones forzadas y tortura. Denuncian 'simulación institucional' tras anuncio de 500 liberaciones que no se cumplen. Consigna: 'No acudimos a pedir favores: acudimos a exigir derechos'",
-    "status": "en_curso",
-    "lat": "10.5050",
-    "lng": "-66.9147",
-    "fuentes": [
-      {
-        "nombre": "Monitoreamos",
-        "url": "https://monitoreamos.com/venezuela/familiares-de-presos-politicos-convocaron-protesta-ante-el-ministerio-publico-para-exigir-liberaciones-y-justicia"
-      },
-      {
-        "nombre": "Infobae",
-        "url": "https://www.infobae.com/america/agencias/2026/05/28/jueves-28-de-mayo-de-2026-0200-gmt"
-      },
-      {
-        "nombre": "Foro Penal",
-        "url": "https://foropenal.com/seguimiento-foro-penal-contabiliza-409-presos-politicos-en-venezuela-en-su-mas-reciente-balance-y-tras-excarcelaciones/"
-      }
-    ],
-    "createdAt": "2026-05-28T23:59:00.000Z",
-    "updatedAt": "2026-05-29T23:59:59.000Z"
-  },
-  {
-    "id": 44,
-    "seccion": "internacionales",
-    "pais": "Chile",
-    "bandera": "🇨🇱",
+    "id": 40,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
     "hora": "00:00",
     "fecha": "2026-05-29",
-    "lugar": "Santiago (Instituto Nacional, Liceo de Aplicación, Liceo 1 Javiera Carrera, Liceo Tajamar, Providencia) y nacional",
-    "tipoAccion": "movilizacion",
+    "lugar": "Río Gallegos, Santa Cruz (Av. Kirchner y 25 de Mayo, frente Ministerio de Economía)",
+    "tipoAccion": "acampe",
     "organizaciones": [
-      "CONFECH (Confederación de Estudiantes de Chile)",
-      "Estudiantes secundarios",
-      "Liceos emblemáticos"
+      "ATE Santa Cruz",
+      "ADOSAC",
+      "Judiciales Santa Cruz",
+      "ATSA",
+      "Frente Sindical Santa Cruz"
     ],
-    "motivo": "Movimiento estudiantil chileno se rearticula contra el gobierno de José Antonio Kast. CONFECH convocó paro nacional para el 3 de junio. Rechazan proyecto 'Escuelas Protegidas' (registro de mochilas, expulsiones por protestas, traslado de estudiantes conflictivos). Secundarios realizaron tomas simultáneas el 23/4 y jornada nacional de protesta el 14/5. Barricadas en liceos emblemáticos, cortes de tránsito, enfrentamientos con Carabineros. Consigna: 'La educación se defiende en las calles'. Denuncian criminalización del movimiento estudiantil y ajuste económico de Kast",
+    "motivo": "Acampe por tiempo indeterminado frente al Ministerio de Economía de Santa Cruz exigiendo apertura inmediata de paritarias y recomposición salarial. La protesta ya superó una semana de permanencia con guardia 24h en Av. Kirchner y 25 de Mayo. Rechazan congelamiento salarial, descuentos por huelgas y exigen mejoras urgentes en hospitales y escuelas. Respaldo de 5+ gremios del Frente Sindical provincial. Gobernador Claudio Vidal sin respuesta. ADOSAC advierte que se discute 'parar la provincia'",
     "status": "en_curso",
-    "lat": "-33.4489",
-    "lng": "-70.6693",
+    "lat": "-51.6230",
+    "lng": "-69.2168",
     "fuentes": [
       {
-        "nombre": "El Clarín de Chile",
-        "url": "https://www.elclarin.cl/2026/05/28/el-movimiento-estudiantil-vuelve-a-las-calles-confech-convoca-paro-nacional-y-secundarios-intensifican-protestas/"
+        "nombre": "El Destape",
+        "url": "https://www.eldestapeweb.com/politica/ate-santa-cruz-no-cede-centimetro-mantiene-acampe-frente-economia-exigen-vidal-apertura-paritaria-2026528125448"
       },
       {
-        "nombre": "Global Voices",
-        "url": "https://globalvoices.org/2026/05/16/across-latin-america-may-day-protests-highlight-workers-struggles-and-solidarity/"
+        "nombre": "La Vanguardia Noticias",
+        "url": "https://www.lavanguardianoticias.com.ar/nota-ate-profundiza-el-reclamo-salarial-y-continua-el-acampe-frente-al-ministerio-de-economia-120493"
       }
     ],
     "createdAt": "2026-05-28T23:59:00.000Z",
@@ -1285,156 +1136,39 @@
     "updatedAt": "2026-05-29T23:59:59.000Z"
   },
   {
-    "id": 21,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "00:00",
+    "id": 65,
+    "seccion": "internacionales",
+    "pais": "Francia",
+    "bandera": "🇫🇷",
+    "hora": "09:00",
     "fecha": "2026-05-29",
-    "lugar": "CABA (Colegio Nacional Buenos Aires y Carlos Pellegrini, Caballito)",
-    "tipoAccion": "toma",
+    "lugar": "París (La Défense Plaza, sede de TotalEnergies)",
+    "tipoAccion": "concentracion",
     "organizaciones": [
-      "Centro de Estudiantes Carlos Pellegrini",
-      "Centro de Estudiantes Nacional Buenos Aires",
-      "Estudiantes autoconvocados"
+      "Attac France",
+      "Avaaz",
+      "350.org",
+      "Action Justice Climat Paris"
     ],
-    "motivo": "Toma estudiantil reanudada en el Nacional Buenos Aires (NBA) y continúa en el Carlos Pellegrini exigiendo cumplimiento de la Ley de Financiamiento Universitario. El NBA había levantado la toma el 28/5 pero esa misma noche los estudiantes la reanudaron (Pitrola confirmó reocupación). El Pellegrini mantiene ocupación sin interrupción con actividades suspendidas. Viernes 29/5 habrá asamblea estudiantil para decidir continuidad. Conflicto universitario escala con paro docente FEDUN 24h y CONADU Histórica 26-30 mayo",
+    "motivo": "Protesta climática durante la Asamblea General Anual de TotalEnergies. Activistas escenificaron a Macron alimentando un oleoducto con dinero de contribuyentes y a Pouyanné rodeado de ganancias. Exigen fin del apoyo público a expansión de combustibles fósiles (EACOP, Mozambique LNG), impuesto a superganancias de guerra (Irán) y fin de la evasión fiscal de TotalEnergies ($5.400M ganancias Q1 2026, +29%). Consigna: 'Ni un euro de ayuda pública para empresas que evaden impuestos'",
     "status": "en_curso",
-    "lat": "-34.6083",
-    "lng": "-58.3954",
+    "lat": "48.8910",
+    "lng": "2.2386",
     "fuentes": [
       {
-        "nombre": "Infobae",
-        "url": "https://www.infobae.com/politica/2026/05/28/toma-en-los-colegios-el-nacional-buenos-aires-volvera-a-clases-mientras-que-el-carlos-pellegrini-sostiene-la-medida-de-fuerza/"
+        "nombre": "EnviroNews Nigeria",
+        "url": "https://www.environewsnigeria.com/at-totalenergies-agm-french-govt-asked-to-end-public-support-for-fossil-fuel-expansion/"
       },
       {
-        "nombre": "El País",
-        "url": "https://elpais.com/argentina/2026-05-28/el-reclamo-universitario-contra-el-gobierno-de-milei-escala-con-protestas-estudiantiles-y-huelgas-de-profesores.html"
+        "nombre": "Peoples Gazette Nigeria",
+        "url": "https://gazettengr.com/pro-climate-activists-protest-french-governments-support-for-totalenergies-demand-end-to-funding-of-fossil-fuel-expansion/"
       },
       {
-        "nombre": "El Destape",
-        "url": "https://www.eldestapeweb.com/politica/escala-conflicto-nacional-buenos-aires-reanudara-toma-financiamiento-universitario-2026528142759"
-      },
-      {
-        "nombre": "Resumen Latinoamericano",
-        "url": "https://www.resumenlatinoamericano.org/2026/05/28/argentina-ley-de-financiamiento-universitario-levantaron-la-toma-en-el-nacional-buenos-aires-y-se-mantiene-la-del-pellegrini/"
-      },
-      {
-        "nombre": "La Izquierda Diario",
-        "url": "https://www.laizquierdadiario.com/Estudiantes-toman-el-Nacional-Buenos-Aires-y-el-Pellegrini-exigen-que-se-cumpla-el-Financiamiento"
-      },
-      {
-        "nombre": "Indymedia Argentina",
-        "url": "https://argentina.indymedia.org/2026/05/28/estan-muriendo-jubilados-porque-no-pueden-comprar-los-remedios/"
-      },
-      {
-        "nombre": "TN",
-        "url": "https://tn.com.ar/politica/2026/05/29/se-reanudo-la-toma-en-el-colegio-nacional-buenos-aires-y-continua-en-el-carlos-pellegrini/"
-      },
-      {
-        "nombre": "Infobae",
-        "url": "https://www.infobae.com/politica/2026/05/29/el-colegio-nacional-buenos-aires-retomo-la-toma-luego-de-que-la-uba-dictara-normas-para-garantizar-la-seguridad/"
+        "nombre": "Oil Change International",
+        "url": "https://oilchange.org/news/community-leaders-rally-globally-to-push-back-on-polluting-companies-as-totalenergies-expected-to-highlight-jump-in-profits-on-the-back-of-iran-war-at-annual-meeting/"
       }
     ],
-    "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-29T23:59:59.000Z"
-  },
-  {
-    "id": 22,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "00:00",
-    "fecha": "2026-05-29",
-    "lugar": "Nacional (universidades públicas, CABA Tribunales)",
-    "tipoAccion": "paro",
-    "organizaciones": [
-      "FATUN",
-      "FEDUN",
-      "Fedun",
-      "Fagdut",
-      "CIN",
-      "CONADU",
-      "Conadu Histórica",
-      "FUA",
-      "APUNaM"
-    ],
-    "motivo": "Paro universitario nacional: FEDUN paro 24h (29/5), CONADU Histórica mantiene paro 26-30 mayo, FATUN/APUNaM paro no docente 29/5, 3 y 4 junio. Reclamo por recomposición salarial (52.1% pérdida poder adquisitivo), presupuesto y cumplimiento Ley de Financiamiento Universitario. Gobierno sin convocar a paritarias. Oferta 1.5% + bono $40.000 rechazada. Docentes perdieron 34-52% de poder adquisitivo en dos años. Conflicto escaló con debate en medios. Clases públicas frente a Tribunales. 212 días sin cumplir la ley",
-    "status": "en_curso",
-    "lat": "-34.6037",
-    "lng": "-58.3816",
-    "fuentes": [
-      {
-        "nombre": "El País",
-        "url": "https://elpais.com/argentina/2026-05-28/el-reclamo-universitario-contra-el-gobierno-de-milei-escala-con-protestas-estudiantiles-y-huelgas-de-profesores.html"
-      },
-      {
-        "nombre": "CONADU",
-        "url": "https://conadu.org.ar/el-gobierno-nacional-continua-atacando-el-salario-de-la-docencia-de-las-universidades-nacionales/"
-      },
-      {
-        "nombre": "TN",
-        "url": "https://tn.com.ar/politica/2026/05/28/de-financian-estructuras-politicas-a-quieren-arancelarla-los-cruces-por-la-situacion-de-las-universidades/"
-      },
-      {
-        "nombre": "Versión Rosario",
-        "url": "https://www.versionrosario.com.ar/docentes-de-la-utn-rosario-paran-48-horas-y-alertan-por-una-ola-de-renuncias/"
-      },
-      {
-        "nombre": "El Territorio",
-        "url": "https://www.elterritorio.com.ar/noticias/2026/05/28/888520-docentes-universitarios-convocan-a-nuevas-medidas-de-fuerza-por-salarios-y-financiamiento"
-      },
-      {
-        "nombre": "TN",
-        "url": "https://tn.com.ar/politica/2026/05/29/se-reanudo-la-toma-en-el-colegio-nacional-buenos-aires-y-continua-en-el-carlos-pellegrini/"
-      },
-      {
-        "nombre": "El Cronista",
-        "url": "https://www.cronista.com/informacion-gral/suspenden-las-clases-para-este-viernes-29-de-mayo-los-alumnos-tendran-un-nuevo-fin-de-semana-largo-en-estas-provincias/"
-      },
-      {
-        "nombre": "Data Gremial",
-        "url": "https://www.datagremial.com/informacion-general/fedun-confirmo-un-nuevo-paro-para-esta-semana-continuaremos-defendiendo-las-banderas-de-la-universidad--202652710510"
-      },
-      {
-        "nombre": "Sonido Gremial",
-        "url": "https://sonidogremial.com.ar/fatun-endurece-el-conflicto-universitario-va-al-paro-nacional-el-29-de-mayo-3-y-4-de-junio-y-convoca-a-semanas-de-protesta/"
-      }
-    ],
-    "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-29T23:59:59.000Z"
-  },
-  {
-    "id": 40,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "00:00",
-    "fecha": "2026-05-29",
-    "lugar": "Río Gallegos, Santa Cruz (Av. Kirchner y 25 de Mayo, frente Ministerio de Economía)",
-    "tipoAccion": "acampe",
-    "organizaciones": [
-      "ATE Santa Cruz",
-      "ADOSAC",
-      "Judiciales Santa Cruz",
-      "ATSA",
-      "Frente Sindical Santa Cruz"
-    ],
-    "motivo": "Acampe por tiempo indeterminado frente al Ministerio de Economía de Santa Cruz exigiendo apertura inmediata de paritarias y recomposición salarial. La protesta ya superó una semana de permanencia con guardia 24h en Av. Kirchner y 25 de Mayo. Rechazan congelamiento salarial, descuentos por huelgas y exigen mejoras urgentes en hospitales y escuelas. Respaldo de 5+ gremios del Frente Sindical provincial. Gobernador Claudio Vidal sin respuesta. ADOSAC advierte que se discute 'parar la provincia'",
-    "status": "en_curso",
-    "lat": "-51.6230",
-    "lng": "-69.2168",
-    "fuentes": [
-      {
-        "nombre": "El Destape",
-        "url": "https://www.eldestapeweb.com/politica/ate-santa-cruz-no-cede-centimetro-mantiene-acampe-frente-economia-exigen-vidal-apertura-paritaria-2026528125448"
-      },
-      {
-        "nombre": "La Vanguardia Noticias",
-        "url": "https://www.lavanguardianoticias.com.ar/nota-ate-profundiza-el-reclamo-salarial-y-continua-el-acampe-frente-al-ministerio-de-economia-120493"
-      }
-    ],
-    "createdAt": "2026-05-28T23:59:00.000Z",
+    "createdAt": "2026-05-29T23:59:59.000Z",
     "updatedAt": "2026-05-29T23:59:59.000Z"
   },
   {
