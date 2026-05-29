@@ -555,7 +555,7 @@
       "Asociación de escuelas privadas",
       "Sindicatos"
     ],
-    "motivo": "Huelga nacional de transporte público y protestas desde el 18 de mayo por aumento récord de combustible (diésel +23.5%), costo de vida y muerte de 4 manifestantes por disparos policiales",
+    "motivo": "Huelga nacional de transporte público y protestas desde el 18 de mayo por aumento récord de combustible (diésel +23.5%), costo de vida y muerte de 4+ manifestantes por disparos policiales. El 29/5, jóvenes en Kakamega tomaron el cuerpo de Derrick Machanje (22, estudiante asesinado el 18/5) del mortuorio y realizaron procesión. Negocios cerrados, caos. 17 muertos reportados en protestas. Gobierno ofrece reducción de precios de combustible",
     "status": "en_curso",
     "lat": "-1.2921",
     "lng": "36.8219",
@@ -567,6 +567,14 @@
       {
         "nombre": "Responsible Statecraft",
         "url": "https://responsiblestatecraft.org/diesel-fuel-protests-africa/"
+      },
+      {
+        "nombre": "Kenyans.co.ke",
+        "url": "https://www.kenyans.co.ke/news/123851-kakamega-youths-storm-home-take-body-student-killed-during-anti-fuel-protests"
+      },
+      {
+        "nombre": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/18/four-reported-killed-30-injured-in-kenyan-fuel-price-protests"
       }
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
@@ -1241,6 +1249,42 @@
     "updatedAt": "2026-05-29T23:59:59.000Z"
   },
   {
+    "id": 64,
+    "seccion": "internacionales",
+    "pais": "Alemania",
+    "bandera": "🇩🇪",
+    "hora": "05:00",
+    "fecha": "2026-05-29",
+    "lugar": "Mülheim an der Ruhr (KNDS tank factory, Europipe), Hamm, Gelsenkirchen",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "Ende Gelände",
+      "Fridays for Future (FFF)",
+      "Greenpeace",
+      "Climate camp Hamm"
+    ],
+    "motivo": "Acción de desobediencia civil masiva: 200 activistas de Ende Gelände bloquearon la fábrica de tanques KNDS en Mülheim, impidiendo el cambio de turno. Luego bloquearon la planta de tuberías Europipe. Protestan contra el uso de acero CO2-intensivo para producción bélica. 300 activistas marcharon en Hamm. 150 irrumpieron en central eléctrica en Gelsenkirchen. Greta Thunberg presente en el campamento climático de Hamm contra nuevas centrales de gas. Consigna: 'Justicia climática en lugar de belicismo'",
+    "status": "en_curso",
+    "lat": "51.4333",
+    "lng": "6.8833",
+    "fuentes": [
+      {
+        "nombre": "DW News",
+        "url": "https://www.dw.com/en/germany-news-climate-activists-target-tank-factory/live-77340490"
+      },
+      {
+        "nombre": "Zeit Online",
+        "url": "https://www.zeit.de/news/2026-05/24/grossprotest-klimabewegung-macht-mobil-gegen-gaskraftwerke"
+      },
+      {
+        "nombre": "HeadTopics / ntv",
+        "url": "https://de.headtopics.com/news/klimaaktivisten-blockieren-panzerbauer-und-pipeline-hersteller-in-m-lheim-83898997"
+      }
+    ],
+    "createdAt": "2026-05-29T23:59:59.000Z",
+    "updatedAt": "2026-05-29T23:59:59.000Z"
+  },
+  {
     "id": 21,
     "seccion": "protestas_ar",
     "pais": "Argentina",
@@ -1351,6 +1395,10 @@
       {
         "nombre": "Data Gremial",
         "url": "https://www.datagremial.com/informacion-general/fedun-confirmo-un-nuevo-paro-para-esta-semana-continuaremos-defendiendo-las-banderas-de-la-universidad--202652710510"
+      },
+      {
+        "nombre": "Sonido Gremial",
+        "url": "https://sonidogremial.com.ar/fatun-endurece-el-conflicto-universitario-va-al-paro-nacional-el-29-de-mayo-3-y-4-de-junio-y-convoca-a-semanas-de-protesta/"
       }
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
