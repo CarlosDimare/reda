@@ -158,7 +158,7 @@ export default function App() {
         <span
           style={{
             color: "#cc0000",
-            fontSize: 11,
+            fontSize: 14,
             fontWeight: 700,
             letterSpacing: ".12em",
             textTransform: "uppercase",
@@ -171,7 +171,7 @@ export default function App() {
           <span
             style={{
               color: "#cc0000",
-              fontSize: 11,
+              fontSize: 12,
               fontWeight: 700,
               letterSpacing: ".06em",
               fontFamily: SERIF,
@@ -235,7 +235,7 @@ export default function App() {
             padding: "6px 12px",
             borderBottom: "1px solid #e5e5e5",
             flexShrink: 0,
-            fontSize: 10,
+            fontSize: 11,
             color: "#888",
             letterSpacing: ".05em",
           }}
@@ -252,17 +252,17 @@ export default function App() {
             padding: "8px 14px",
             borderBottom: "2px solid #cc0000",
             flexShrink: 0,
-            fontSize: 9,
+            fontSize: 11,
             fontWeight: 700,
             color: "#cc0000",
             letterSpacing: ".1em",
             textTransform: "uppercase",
           }}
         >
-          <span style={{ width: 60, flexShrink: 0, fontSize: 10 }}>HORA</span>
-          <span style={{ minWidth: 140, flex: 2, fontSize: 10 }}>LUGAR</span>
-          <span style={{ width: 150, flexShrink: 0, fontSize: 10 }}>TIPO</span>
-          <span style={{ minWidth: 180, flex: 2, fontSize: 10 }}>ORGANIZACIONES</span>
+          <span style={{ width: 65, flexShrink: 0 }}>HORA</span>
+          <span style={{ minWidth: 160, flex: 2 }}>LUGAR</span>
+          <span style={{ width: 160, flexShrink: 0 }}>TIPO</span>
+          <span style={{ minWidth: 200, flex: 2 }}>ORGANIZACIONES</span>
         </div>
 
         {/* Table rows */}
@@ -315,30 +315,30 @@ export default function App() {
                 >
                   <span
                     style={{
-                      width: 60,
-                      flexShrink: 0,
-                      color: statusColor,
-                      fontWeight: 700,
-                      fontSize: 14,
+                    width: 65,
+                    flexShrink: 0,
+                    color: statusColor,
+                    fontWeight: 700,
+                    fontSize: 16,
                     }}
                   >
                     {a.hora}
                   </span>
                   <span
                     style={{
-                      minWidth: 140,
-                      flex: 2,
-                      color: "#555",
-                      lineHeight: 1.5,
-                      fontFamily: SANS,
-                      fontSize: 14,
+                    minWidth: 160,
+                    flex: 2,
+                    color: "#555",
+                    lineHeight: 1.5,
+                    fontFamily: SANS,
+                    fontSize: 16,
                     }}
                   >
                     <span className="flag">{a.bandera}</span> {a.lugar}
                   </span>
                   <span
                     style={{
-                      width: 150,
+                      width: 160,
                       flexShrink: 0,
                       lineHeight: 1.5,
                       whiteSpace: "nowrap",
@@ -348,8 +348,8 @@ export default function App() {
                       background: "#cc0000",
                       color: "#fff",
                       fontWeight: 700,
-                      padding: "3px 8px",
-                      fontSize: 11,
+                      padding: "4px 10px",
+                      fontSize: 13,
                       letterSpacing: ".04em",
                       textTransform: "uppercase",
                       whiteSpace: "nowrap",
@@ -357,7 +357,7 @@ export default function App() {
                       {TIPO_ICONOS[a.tipoAccion] || "📢"} {a.tipoAccion}
                     </span>
                   </span>
-                  <span style={{ minWidth: 180, flex: 2, lineHeight: 1.5, fontSize: 13 }}>
+                  <span style={{ minWidth: 200, flex: 2, lineHeight: 1.5, fontSize: 15 }}>
                     {a.organizaciones.join(", ")}
                   </span>
                 </div>

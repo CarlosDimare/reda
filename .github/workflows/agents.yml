@@ -29,17 +29,18 @@ jobs:
           npx --yes -p opencode-ai opencode run --dangerously-skip-permissions \
             "Sos un agente de monitoreo de conflictos GLOBALES. Hoy es $HOY.
 
-          IMPORTANTE — NO CONFUNDAS FECHAS:
+          REGLA ABSOLUTA — SOLO PROTESTAS DE HOY:
+          - La fecha 'fecha' de cada entrada debe ser EXACTAMENTE $HOY.
           - La FECHA DE PUBLICACION de una noticia NO es la fecha de la accion.
-          - La fecha que debe ir en el campo 'fecha' de cada entrada es la fecha en que OCURRE/OCURRIO la protesta.
-          - Lee la noticia con cuidado para extraer la fecha real del evento, NO la fecha del articulo.
-          - Si la protesta ocurre HOY ($HOY), incluirla. Si es de ayer o antes, NO incluirla.
+          - Lee CADA noticia con cuidado y extrae la fecha REAL del evento.
+          - Si no podes confirmar que la protesta ocurre HOY, NO la incluyas.
+          - Si ves una protesta existente cuya fecha NO es $HOY, ELIMINALA.
 
-          1. PRIMERO lee data/acciones.json y analiza las entradas existentes de seccion 'internacionales'.
-          2. BUSCA en la web acciones colectivas que OCURRAN HOY ($HOY) en todo el mundo, EXCLUYENDO Argentina.
+          1. PRIMERO lee data/acciones.json. ELIMINA cualquier entrada internacional con fecha distinta a $HOY.
+          2. BUSCA en la web acciones colectivas de HOY ($HOY) en todo el mundo, EXCLUYENDO Argentina.
              - Si una protesta existente sigue vigente hoy, ACTUALIZA sus datos (status, fuentes, updatedAt).
-             - Si encontran una protesta NUEVA de hoy que no está en el archivo, AGREGALA.
-             - Si una protesta existente ya NO está activa hoy, ELIMINALA del archivo.
+             - Si encontran una protesta NUEVA de $HOY que no está en el archivo, AGREGALA.
+             - Si NO encontras protestas de $HOY, deja el array vacio.
           3. NUNCA modifiques las entradas de seccion 'protestas_ar'.
           4. Escribi el resultado a data/acciones.json y reporta: cuantas entradas nuevas agregaste, cuantas actualizaste, cuantas eliminaste.
 
@@ -51,21 +52,40 @@ jobs:
           npx --yes -p opencode-ai opencode run --dangerously-skip-permissions \
             "Sos un agente de monitoreo de protestas en ARGENTINA. Hoy es $HOY.
 
-          IMPORTANTE — NO CONFUNDAS FECHAS:
+          REGLA ABSOLUTA — SOLO PROTESTAS DE HOY:
+          - La fecha 'fecha' de cada entrada debe ser EXACTAMENTE $HOY.
           - La FECHA DE PUBLICACION de una noticia NO es la fecha de la accion.
-          - La fecha que debe ir en el campo 'fecha' de cada entrada es la fecha en que OCURRE/OCURRIO la protesta.
-          - Lee la noticia con cuidado para extraer la fecha real del evento, NO la fecha del articulo.
-          - Si la protesta ocurre HOY ($HOY), incluirla. Si es de ayer o antes, NO incluirla.
+          - Lee CADA noticia con cuidado y extrae la fecha REAL del evento.
+          - Si no podes confirmar que la protesta ocurre HOY, NO la incluyas.
+          - Si ves una protesta existente cuya fecha NO es $HOY, ELIMINALA.
 
-          1. PRIMERO lee data/acciones.json y analiza las entradas existentes de seccion 'protestas_ar'.
-          2. BUSCA en la web protestas que OCURRAN HOY ($HOY) en ARGENTINA.
+          1. PRIMERO lee data/acciones.json. ELIMINA cualquier entrada protestas_ar con fecha distinta a $HOY.
+          2. BUSCA en la web protestas de HOY ($HOY) en ARGENTINA.
              - Si una protesta existente sigue vigente hoy, ACTUALIZA sus datos (status, fuentes, updatedAt).
-             - Si encontran una protesta NUEVA de hoy que no está en el archivo, AGREGALA.
-             - Si una protesta existente ya NO está activa hoy, ELIMINALA del archivo.
+             - Si encontran una protesta NUEVA de $HOY que no está en el archivo, AGREGALA.
+             - Si NO encontras protestas de $HOY, deja el array vacio.
           3. NUNCA modifiques las entradas de seccion 'internacionales'.
           4. Escribi el resultado a data/acciones.json y reporta: cuantas entradas nuevas agregaste, cuantas actualizaste, cuantas eliminaste.
 
           Cada entrada del JSON: id, seccion, pais, bandera, hora, fecha, lugar, tipoAccion, organizaciones, motivo, status, lat, lng, fuentes, createdAt, updatedAt"
+
+      - name: Editor — Verificar y limpiar datos
+        run: |
+          HOY=$(date +%Y-%m-%d)
+          npx --yes -p opencode-ai opencode run --dangerously-skip-permissions \
+            "Sos un EDITOR de datos de protestas. Hoy es $HOY.
+
+          Tu unica funcion es CONTROL DE CALIDAD:
+
+          1. LEE data/acciones.json
+          2. Para CADA entrada, verifica leyendo las noticias fuente si la protesta realmente OCURRE/OCURRIO en la fecha $HOY.
+             - Si la protesta no es de $HOY (es de ayer, anteayer, o cualquier fecha anterior), ELIMINALA.
+             - Si la protesta SI es de $HOY, DEJALA.
+             - Si tenes dudas, prioriza ELIMINAR (mas vale faltan datos a que sobre informacion incorrecta).
+          3. Reescribe data/acciones.json solo con las entradas verificadas de $HOY.
+          4. Reporta cuantas entradas eliminaste y cuantas conservaste.
+
+          No agregues ni modifiques ninguna entrada. Solo ELIMINA las que no correspondan a la fecha $HOY."
 
       - name: Commit and push changes
         run: |
