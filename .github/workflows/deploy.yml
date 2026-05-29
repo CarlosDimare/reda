@@ -1,0 +1,62 @@
+name: Deploy Portal
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 22
+
+      - name: Install pnpm
+        uses: pnpm/action-setup@v6
+        with:
+          version: 11
+
+      - name: Regenerate lockfile & install
+        run: |
+          rm -f pnpm-lock.yaml
+          pnpm install --no-frozen-lockfile
+
+      - name: Commit updated lockfile
+        run: |
+          git config user.name "Reda Bot"
+          git config user.email "bot@corresponsaldigital.ar"
+          git add pnpm-lock.yaml
+          if git diff --cached --quiet; then
+            echo "Lockfile sin cambios"
+          else
+            git commit -m "Actualizar lockfile a formato pnpm v11"
+            git pull --rebase
+            git push
+          fi
+
+      - name: Build frontend
+        run: pnpm --filter @workspace/web-terminal run build
+        env:
+          BASE_PATH: /reda/
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: artifacts/web-terminal/dist
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4

@@ -1,7 +1,7 @@
 import { useEffect, useCallback, useState } from "react";
 
-const MONO = '"Cascadia Code","Fira Code",Menlo,Consolas,monospace';
-const SANS = '-apple-system,"Segoe UI","Helvetica Neue",Arial,sans-serif';
+const SERIF = 'Georgia,"Times New Roman",serif';
+const SANS = 'Arial,Helvetica,sans-serif';
 
 function useClock(): string {
   const [time, setTime] = useState(() =>
@@ -74,12 +74,11 @@ const TIPO_ICONOS: Record<string, string> = {
 
 const STYLES = `
   *::-webkit-scrollbar { width: 4px; }
-  *::-webkit-scrollbar-track { background: #0a0a0a; }
+  *::-webkit-scrollbar-track { background: #f5f5f5; }
   *::-webkit-scrollbar-thumb { background: #cc0000; }
-  body { margin: 0; padding: 0; background: #0a0a0a; color: #ccc; }
-  strong { color: #fff; font-weight: 700; }
+  body { margin: 0; padding: 0; background: #fff; color: #111; }
+  strong { color: #111; font-weight: 700; }
   .flag { font-family: 'Apple Color Emoji','Segoe UI Emoji','Noto Color Emoji',sans-serif; }
-  .tipo-badge { background: #fff; color: #cc0000; font-weight: 700; padding: 2px 8px; display: inline-block; }
 `;
 
 export default function App() {
@@ -112,18 +111,18 @@ export default function App() {
       style={{
         width: "100vw",
         height: "100dvh",
-        background: "#0a0a0a",
+        background: "#fff",
         display: "flex",
         flexDirection: "column",
         overflow: "hidden",
-        fontFamily: MONO,
+        fontFamily: SERIF,
       }}
     >
       {/* ════ NAV BAR ════ */}
       <nav
         style={{
           flexShrink: 0,
-          background: "#0a0a0a",
+          background: "#fff",
           borderBottom: "3px solid #cc0000",
           display: "flex",
           alignItems: "center",
@@ -163,7 +162,7 @@ export default function App() {
             fontWeight: 700,
             letterSpacing: ".12em",
             textTransform: "uppercase",
-            fontFamily: MONO,
+            fontFamily: SERIF,
           }}
         >
           ◉ PROTESTAS
@@ -175,7 +174,7 @@ export default function App() {
               fontSize: 11,
               fontWeight: 700,
               letterSpacing: ".06em",
-              fontFamily: MONO,
+              fontFamily: SERIF,
             }}
           >
             {clock}
@@ -191,14 +190,14 @@ export default function App() {
           flexDirection: "column",
           overflow: "hidden",
           minHeight: 0,
-          fontFamily: MONO,
+          fontFamily: SERIF,
         }}
       >
         {/* Tab bar */}
         <div
           style={{
             display: "flex",
-            borderBottom: "2px solid #1a1a1a",
+            borderBottom: "1px solid #e5e5e5",
             flexShrink: 0,
           }}
         >
@@ -215,12 +214,12 @@ export default function App() {
                 border: "none",
                 cursor: "pointer",
                 background: portalTab === tab.id ? "#cc0000" : "transparent",
-                color: portalTab === tab.id ? "#fff" : "#555",
+                color: portalTab === tab.id ? "#fff" : "#999",
                 fontSize: 11,
                 fontWeight: 700,
                 letterSpacing: ".15em",
                 textTransform: "uppercase",
-                fontFamily: MONO,
+                fontFamily: SERIF,
               }}
             >
               {tab.label}
@@ -234,12 +233,11 @@ export default function App() {
             display: "flex",
             gap: 14,
             padding: "6px 12px",
-            borderBottom: "1px solid #1a1a1a",
+            borderBottom: "1px solid #e5e5e5",
             flexShrink: 0,
-            fontSize: 9,
-            color: "#555",
-            letterSpacing: ".08em",
-            textTransform: "uppercase",
+            fontSize: 10,
+            color: "#888",
+            letterSpacing: ".05em",
           }}
         >
           <span>🟢 programado</span>
@@ -251,7 +249,7 @@ export default function App() {
         <div
           style={{
             display: "flex",
-            padding: "6px 12px",
+            padding: "8px 14px",
             borderBottom: "2px solid #cc0000",
             flexShrink: 0,
             fontSize: 9,
@@ -274,7 +272,7 @@ export default function App() {
               style={{
                 textAlign: "center",
                 padding: 40,
-                color: "#333",
+                color: "#999",
                 fontSize: 10,
                 letterSpacing: ".12em",
                 textTransform: "uppercase",
@@ -289,7 +287,7 @@ export default function App() {
             .map((a) => {
               const statusColor =
                 a.status === "en_curso"
-                  ? "#e8c030"
+                  ? "#d4a017"
                   : a.status === "finalizado"
                     ? "#cc0000"
                     : "#3a9a3a";
@@ -300,16 +298,16 @@ export default function App() {
                   style={{
                     display: "flex",
                     padding: "10px 14px",
-                    borderBottom: "1px solid #141414",
+                    borderBottom: "1px solid #eee",
                     cursor: "pointer",
                     fontSize: 11,
-                    color: "#ccc",
+                    color: "#333",
                     alignItems: "flex-start",
                     transition: "background .1s",
                     gap: 4,
                   }}
                   onMouseEnter={(e) =>
-                    (e.currentTarget.style.background = "#111")
+                    (e.currentTarget.style.background = "#f9f9f9")
                   }
                   onMouseLeave={(e) =>
                     (e.currentTarget.style.background = "transparent")
@@ -330,7 +328,7 @@ export default function App() {
                     style={{
                       minWidth: 140,
                       flex: 2,
-                      color: "#999",
+                      color: "#555",
                       lineHeight: 1.5,
                       fontFamily: SANS,
                       fontSize: 14,
@@ -347,8 +345,8 @@ export default function App() {
                     }}
                   >
                     <span className="tipo-badge" style={{
-                      background: "#fff",
-                      color: "#cc0000",
+                      background: "#cc0000",
+                      color: "#fff",
                       fontWeight: 700,
                       padding: "3px 8px",
                       fontSize: 11,
@@ -375,20 +373,20 @@ export default function App() {
             position: "fixed",
             inset: 0,
             zIndex: 1000,
-            background: "rgba(0,0,0,.85)",
+            background: "rgba(0,0,0,.5)",
             display: "flex",
             flexDirection: "column",
             alignItems: "center",
             justifyContent: "center",
             padding: 20,
-            fontFamily: MONO,
+            fontFamily: SERIF,
           }}
           onClick={() => setPortalDetailOpen(false)}
         >
           <div
             style={{
-              background: "#111",
-              border: "2px solid #cc0000",
+            background: "#fff",
+            border: "2px solid #cc0000",
               maxWidth: 700,
               width: "100%",
               maxHeight: "90vh",
@@ -403,7 +401,7 @@ export default function App() {
                 justifyContent: "space-between",
                 alignItems: "center",
                 padding: "12px 16px",
-                borderBottom: "1px solid #1a1a1a",
+                borderBottom: "1px solid #e5e5e5",
                 flexShrink: 0,
               }}
             >
@@ -418,18 +416,19 @@ export default function App() {
               >
                 {selectedAccion.bandera} {selectedAccion.lugar}
               </span>
-              <button
-                onClick={() => setPortalDetailOpen(false)}
-                style={{
-                  background: "none",
-                  border: "none",
-                  color: "#555",
-                  cursor: "pointer",
-                  fontSize: 18,
-                }}
-              >
-                ✕
-              </button>
+                <button
+                  onClick={() => setPortalDetailOpen(false)}
+                  style={{
+                    background: "none",
+                    border: "none",
+                    color: "#cc0000",
+                    cursor: "pointer",
+                    fontSize: 20,
+                    fontWeight: 700,
+                  }}
+                >
+                  ✕
+                </button>
             </div>
 
             <div style={{ flex: 1, overflowY: "auto", padding: 16 }}>
@@ -441,29 +440,29 @@ export default function App() {
                   fontSize: 12,
                 }}
               >
-                <span style={{ color: "#555", textTransform: "uppercase", letterSpacing: ".08em" }}>
+                <span style={{ color: "#888", textTransform: "uppercase", letterSpacing: ".06em", fontSize: 10 }}>
                   Hora
                 </span>
-                <span style={{ color: "#d0d0d0" }}>
+                <span style={{ color: "#333" }}>
                   {selectedAccion.hora} hs
                 </span>
-                <span style={{ color: "#555", textTransform: "uppercase", letterSpacing: ".08em" }}>
+                <span style={{ color: "#888", textTransform: "uppercase", letterSpacing: ".06em", fontSize: 10 }}>
                   Fecha
                 </span>
-                <span style={{ color: "#d0d0d0" }}>{selectedAccion.fecha}</span>
-                <span style={{ color: "#555", textTransform: "uppercase", letterSpacing: ".08em" }}>
+                <span style={{ color: "#333" }}>{selectedAccion.fecha}</span>
+                <span style={{ color: "#888", textTransform: "uppercase", letterSpacing: ".06em", fontSize: 10 }}>
                   Lugar
                 </span>
-                <span style={{ color: "#d0d0d0" }}>
+                <span style={{ color: "#333" }}>
                   {selectedAccion.pais} — {selectedAccion.lugar}
                 </span>
-                <span style={{ color: "#555", textTransform: "uppercase", letterSpacing: ".08em" }}>
+                <span style={{ color: "#888", textTransform: "uppercase", letterSpacing: ".06em", fontSize: 10 }}>
                   Tipo
                 </span>
-                <span style={{ color: "#d0d0d0", textTransform: "uppercase", fontSize: 10 }}>
+                <span style={{ color: "#333", textTransform: "uppercase", fontSize: 10 }}>
                   {selectedAccion.tipoAccion}
                 </span>
-                <span style={{ color: "#555", textTransform: "uppercase", letterSpacing: ".08em" }}>
+                <span style={{ color: "#888", textTransform: "uppercase", letterSpacing: ".06em", fontSize: 10 }}>
                   Status
                 </span>
                 <span
@@ -485,16 +484,16 @@ export default function App() {
                       ? "🔴 FINALIZADO"
                       : "🟢 PROGRAMADO"}
                 </span>
-                <span style={{ color: "#555", textTransform: "uppercase", letterSpacing: ".08em" }}>
+                <span style={{ color: "#888", textTransform: "uppercase", letterSpacing: ".06em", fontSize: 10 }}>
                   Organizaciones
                 </span>
-                <span style={{ color: "#d0d0d0" }}>
+                <span style={{ color: "#333" }}>
                   {selectedAccion.organizaciones.join(", ") || "—"}
                 </span>
-                <span style={{ color: "#555", textTransform: "uppercase", letterSpacing: ".08em" }}>
+                <span style={{ color: "#888", textTransform: "uppercase", letterSpacing: ".06em", fontSize: 10 }}>
                   Motivo
                 </span>
-                <span style={{ color: "#d0d0d0" }}>
+                <span style={{ color: "#333" }}>
                   {selectedAccion.motivo}
                 </span>
               </div>
@@ -509,10 +508,10 @@ export default function App() {
                 >
                   <div
                     style={{
-                      color: "#555",
+                      color: "#888",
                       fontSize: 9,
                       fontWeight: 700,
-                      letterSpacing: ".12em",
+                      letterSpacing: ".1em",
                       textTransform: "uppercase",
                       marginBottom: 8,
                     }}
@@ -526,7 +525,7 @@ export default function App() {
                         target="_blank"
                         rel="noopener"
                         style={{
-                          color: "#4a9eff",
+                          color: "#cc0000",
                           fontSize: 11,
                           textDecoration: "underline",
                           cursor: "pointer",
@@ -543,13 +542,13 @@ export default function App() {
                 <div
                   style={{
                     marginTop: 16,
-                    borderTop: "1px solid #1a1a1a",
+                    borderTop: "1px solid #e5e5e5",
                     paddingTop: 12,
                   }}
                 >
                   <div
                     style={{
-                      color: "#555",
+                      color: "#888",
                       fontSize: 9,
                       fontWeight: 700,
                       letterSpacing: ".12em",

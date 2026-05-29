@@ -3,7 +3,6 @@ name: Reda Agents — Actualizar Portal
 on:
   schedule:
     - cron: "0 * * * *"
-  workflow_dispatch:
 
 permissions:
   contents: write
@@ -82,8 +81,7 @@ jobs:
           fi
 
   deploy:
-    needs: agents
-    if: always()
+    if: false
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
