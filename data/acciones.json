@@ -1,40 +1,5 @@
 [
   {
-    "id": 1,
-    "seccion": "internacionales",
-    "pais": "Israel",
-    "bandera": "🇮🇱",
-    "hora": "17:00",
-    "fecha": "2026-05-29",
-    "lugar": "Jerusalén, Bnei Brak, Tel Aviv, Rutas 4 y 1",
-    "tipoAccion": "movilizacion",
-    "organizaciones": [
-      "Peleg Yerushalmi (Facción Jerusalem)",
-      "Rabino Zvi Friedman",
-      "Comunidad haredí"
-    ],
-    "motivo": "Protestas masivas ultraortodoxas contra el reclutamiento militar y detenciones de evasores del servicio. Bloqueo de rutas principales, disturbios en Bar Ilan, enfrentamientos con policía declarados como disturbio. Consigna: 'Prisioneros del mundo de la Torá'",
-    "status": "en_curso",
-    "lat": "31.7683",
-    "lng": "35.2137",
-    "fuentes": [
-      {
-        "nombre": "The Jerusalem Post",
-        "url": "https://www.jpost.com/israel-news/article-897683"
-      },
-      {
-        "nombre": "JFeed",
-        "url": "https://www.jfeed.com/news-israel/haredi-peleg-protests-israel"
-      },
-      {
-        "nombre": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/following-draft-evader-arrests-gafni-calls-on-haredim-to-halt-cooperation-with-police/"
-      }
-    ],
-    "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-29T23:59:59.000Z"
-  },
-  {
     "id": 2,
     "seccion": "internacionales",
     "pais": "Italia",
@@ -74,7 +39,7 @@
       }
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-29T23:59:59.000Z"
+    "updatedAt": "2026-05-29T17:22:21.000Z"
   },
   {
     "id": 3,
@@ -111,7 +76,7 @@
       }
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-29T23:59:59.000Z"
+    "updatedAt": "2026-05-29T17:22:21.000Z"
   },
   {
     "id": 4,
@@ -157,47 +122,7 @@
       }
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-29T23:59:59.000Z"
-  },
-  {
-    "id": 7,
-    "seccion": "internacionales",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
-    "hora": "00:00",
-    "fecha": "2026-05-29",
-    "lugar": "San Francisco (Civic Center, Ferry Building, Market Street); Newark (Delaney Hall ICE)",
-    "tipoAccion": "concentracion",
-    "organizaciones": [
-      "Partido por el Socialismo y la Liberación",
-      "Coaliciones por la paz",
-      "Comunidad iraní-estadounidense",
-      "Indivisible"
-    ],
-    "motivo": "Protestas múltiples: contra ataques militares de EE.UU. e Israel a Irán (San Francisco). Manifestaciones semanales exigiendo fin de la guerra. También protestas en Newark contra instalación ICE Delaney Hall — huelga de hambre de detenidos, dos arrestados. Campaña 'Not Another Cent for ICE'",
-    "status": "en_curso",
-    "lat": "37.7749",
-    "lng": "-122.4194",
-    "fuentes": [
-      {
-        "nombre": "MSN",
-        "url": "https://www.msn.com/en-us/video/peopleandplaces/protests-erupt-outside-new-jersey-ice-facility-as-trump-says-they-are-fake-and-paid/vi-AA24glnx"
-      },
-      {
-        "nombre": "CBS San Francisco",
-        "url": "https://www.cbsnews.com/sanfrancisco/news/iranian-americans-san-francisco-rally-oppose-immediate-end-war-iran/"
-      },
-      {
-        "nombre": "NBC Bay Area",
-        "url": "https://www.nbcbayarea.com/news/local/hundreds-march-in-san-francisco-to-protest-against-war-with-iran/4066024/"
-      },
-      {
-        "nombre": "The Harvard Crimson",
-        "url": "https://www.thecrimson.com/article/2026/5/27/hgsu-strike-baccalaureate/"
-      }
-    ],
-    "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-29T23:59:59.000Z"
+    "updatedAt": "2026-05-29T17:22:21.000Z"
   },
   {
     "id": 8,
@@ -241,7 +166,7 @@
       }
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-29T23:59:59.000Z"
+    "updatedAt": "2026-05-29T17:22:21.000Z"
   },
   {
     "id": 9,
@@ -278,7 +203,7 @@
       }
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-29T23:59:59.000Z"
+    "updatedAt": "2026-05-29T17:22:21.000Z"
   },
   {
     "id": 12,
@@ -318,76 +243,7 @@
       }
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-29T23:59:59.000Z"
-  },
-  {
-    "id": 13,
-    "seccion": "internacionales",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "00:00",
-    "fecha": "2026-05-29",
-    "lugar": "Kerala (Kannur, Thiruvananthapuram, Thrissur) y Nueva Delhi",
-    "tipoAccion": "movilizacion",
-    "organizaciones": [
-      "CPI(M)",
-      "Oposición Kerala",
-      "India for Myanmar"
-    ],
-    "motivo": "Protestas masivas del CPI(M) tras allanamiento de la Enforcement Directorate (ED) a casas del ex CM Pinarayi Vijayan. Manifestantes atacaron vehículos de la ED, 300 detenidos. Además, refugiados birmanos en Delhi protestan contra la visita del presidente de la junta Min Aung Hlaing",
-    "status": "en_curso",
-    "lat": "11.8745",
-    "lng": "75.3704",
-    "fuentes": [
-      {
-        "nombre": "The Hindu",
-        "url": "https://www.thehindu.com/news/national/kerala/enforcement-directorate-ends-search-at-pinarayi-vijayans-kannur-house-cpim-workers-protest/article71028920.ece"
-      },
-      {
-        "nombre": "The Logical Indian",
-        "url": "https://thelogicalindian.com/cpm-workers-smash-ed-vehicles-after-pinarayi-vijayan-raid-police-book-nearly-300-in-kerala-violence/"
-      },
-      {
-        "nombre": "Facebook / The Irrawaddy",
-        "url": "https://www.facebook.com/theirrawaddy/posts/protest-planned-in-new-delhi-for-min-aung-hlaing-visitmay-28-2026the-india-for-m/1446135124208307/"
-      }
-    ],
-    "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-29T23:59:59.000Z"
-  },
-  {
-    "id": 14,
-    "seccion": "internacionales",
-    "pais": "Turquía",
-    "bandera": "🇹🇷",
-    "hora": "12:00",
-    "fecha": "2026-05-29",
-    "lugar": "Izmir, Ankara, Estambul",
-    "tipoAccion": "movilizacion",
-    "organizaciones": [
-      "CHP (Partido Republicano del Pueblo)",
-      "Oposición secular"
-    ],
-    "motivo": "Protestas masivas contra destitución judicial del líder opositor Özgür Özel. Policía reprime con gas lacrimógeno y cañones de agua en Izmir. Previamente policía allanó sede nacional del CHP en Ankara. Crisis política por decisión judicial que repuso a Kılıçdaroğlu",
-    "status": "en_curso",
-    "lat": "38.4192",
-    "lng": "27.1287",
-    "fuentes": [
-      {
-        "nombre": "Bianet",
-        "url": "https://bianet.org/haber/ousted-opposition-leader-holds-mass-rally-in-izmir-despite-police-crackdown-319962"
-      },
-      {
-        "nombre": "Turkish Minute",
-        "url": "https://www.turkishminute.com/2026/05/22/thousands-rally-after-court-ousts-turkeys-main-opposition-leader/"
-      },
-      {
-        "nombre": "The Wire",
-        "url": "https://m.thewire.in/article/government/turkish-police-storm-main-opposition-chp-party-offices-protests-erupt-after-action/amp"
-      }
-    ],
-    "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-29T23:59:59.000Z"
+    "updatedAt": "2026-05-29T17:22:21.000Z"
   },
   {
     "id": 16,
@@ -426,7 +282,7 @@
       }
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-29T23:59:59.000Z"
+    "updatedAt": "2026-05-29T17:22:21.000Z"
   },
   {
     "id": 21,
@@ -481,7 +337,7 @@
       }
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-29T23:59:59.000Z"
+    "updatedAt": "2026-05-29T17:22:21.000Z"
   },
   {
     "id": 22,
@@ -546,7 +402,7 @@
       }
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-29T23:59:59.000Z"
+    "updatedAt": "2026-05-29T17:22:21.000Z"
   },
   {
     "id": 31,
@@ -573,7 +429,7 @@
       }
     ],
     "createdAt": "2026-05-28T23:59:00.000Z",
-    "updatedAt": "2026-05-29T23:59:59.000Z"
+    "updatedAt": "2026-05-29T17:22:21.000Z"
   },
   {
     "id": 33,
@@ -604,7 +460,7 @@
       }
     ],
     "createdAt": "2026-05-28T23:59:00.000Z",
-    "updatedAt": "2026-05-29T23:59:59.000Z"
+    "updatedAt": "2026-05-29T17:22:21.000Z"
   },
   {
     "id": 35,
@@ -636,7 +492,7 @@
       }
     ],
     "createdAt": "2026-05-28T23:59:00.000Z",
-    "updatedAt": "2026-05-29T23:59:59.000Z"
+    "updatedAt": "2026-05-29T17:22:21.000Z"
   },
   {
     "id": 36,
@@ -675,7 +531,7 @@
       }
     ],
     "createdAt": "2026-05-28T23:59:00.000Z",
-    "updatedAt": "2026-05-29T23:59:59.000Z"
+    "updatedAt": "2026-05-29T17:22:21.000Z"
   },
   {
     "id": 37,
@@ -714,7 +570,7 @@
       }
     ],
     "createdAt": "2026-05-28T23:59:00.000Z",
-    "updatedAt": "2026-05-29T23:59:59.000Z"
+    "updatedAt": "2026-05-29T17:22:21.000Z"
   },
   {
     "id": 38,
@@ -748,7 +604,7 @@
       }
     ],
     "createdAt": "2026-05-28T23:59:00.000Z",
-    "updatedAt": "2026-05-29T23:59:59.000Z"
+    "updatedAt": "2026-05-29T17:22:21.000Z"
   },
   {
     "id": 40,
@@ -781,7 +637,7 @@
       }
     ],
     "createdAt": "2026-05-28T23:59:00.000Z",
-    "updatedAt": "2026-05-29T23:59:59.000Z"
+    "updatedAt": "2026-05-29T17:22:21.000Z"
   },
   {
     "id": 45,
@@ -822,7 +678,7 @@
       }
     ],
     "createdAt": "2026-05-28T23:59:00.000Z",
-    "updatedAt": "2026-05-29T23:59:59.000Z"
+    "updatedAt": "2026-05-29T17:22:21.000Z"
   },
   {
     "id": 48,
@@ -857,7 +713,7 @@
       }
     ],
     "createdAt": "2026-05-28T23:59:00.000Z",
-    "updatedAt": "2026-05-29T23:59:59.000Z"
+    "updatedAt": "2026-05-29T17:22:21.000Z"
   },
   {
     "id": 49,
@@ -888,7 +744,7 @@
       }
     ],
     "createdAt": "2026-05-28T23:59:00.000Z",
-    "updatedAt": "2026-05-29T23:59:59.000Z"
+    "updatedAt": "2026-05-29T17:22:21.000Z"
   },
   {
     "id": 57,
@@ -924,7 +780,7 @@
       }
     ],
     "createdAt": "2026-05-29T23:59:59.000Z",
-    "updatedAt": "2026-05-29T23:59:59.000Z"
+    "updatedAt": "2026-05-29T17:22:21.000Z"
   },
   {
     "id": 58,
@@ -956,7 +812,7 @@
       }
     ],
     "createdAt": "2026-05-29T23:59:59.000Z",
-    "updatedAt": "2026-05-29T23:59:59.000Z"
+    "updatedAt": "2026-05-29T17:22:21.000Z"
   },
   {
     "id": 59,
@@ -987,7 +843,7 @@
       }
     ],
     "createdAt": "2026-05-29T23:59:59.000Z",
-    "updatedAt": "2026-05-29T23:59:59.000Z"
+    "updatedAt": "2026-05-29T17:22:21.000Z"
   },
   {
     "id": 60,
@@ -1013,7 +869,7 @@
       }
     ],
     "createdAt": "2026-05-29T23:59:59.000Z",
-    "updatedAt": "2026-05-29T23:59:59.000Z"
+    "updatedAt": "2026-05-29T17:22:21.000Z"
   },
   {
     "id": 61,
@@ -1040,7 +896,7 @@
       }
     ],
     "createdAt": "2026-05-29T23:59:59.000Z",
-    "updatedAt": "2026-05-29T23:59:59.000Z"
+    "updatedAt": "2026-05-29T17:22:21.000Z"
   },
   {
     "id": 62,
@@ -1069,7 +925,7 @@
       }
     ],
     "createdAt": "2026-05-29T23:59:59.000Z",
-    "updatedAt": "2026-05-29T23:59:59.000Z"
+    "updatedAt": "2026-05-29T17:22:21.000Z"
   },
   {
     "id": 63,
@@ -1097,7 +953,7 @@
       }
     ],
     "createdAt": "2026-05-29T23:59:59.000Z",
-    "updatedAt": "2026-05-29T23:59:59.000Z"
+    "updatedAt": "2026-05-29T17:22:21.000Z"
   },
   {
     "id": 64,
@@ -1133,7 +989,7 @@
       }
     ],
     "createdAt": "2026-05-29T23:59:59.000Z",
-    "updatedAt": "2026-05-29T23:59:59.000Z"
+    "updatedAt": "2026-05-29T17:22:21.000Z"
   },
   {
     "id": 65,
@@ -1169,7 +1025,7 @@
       }
     ],
     "createdAt": "2026-05-29T23:59:59.000Z",
-    "updatedAt": "2026-05-29T23:59:59.000Z"
+    "updatedAt": "2026-05-29T17:22:21.000Z"
   },
   {
     "id": 70,
@@ -1199,6 +1055,76 @@
       }
     ],
     "createdAt": "2026-05-29T23:59:59.000Z",
-    "updatedAt": "2026-05-29T23:59:59.000Z"
+    "updatedAt": "2026-05-29T17:22:21.000Z"
+  },
+  {
+    "id": 71,
+    "seccion": "internacionales",
+    "pais": "Japón",
+    "bandera": "🇯🇵",
+    "hora": "18:00",
+    "fecha": "2026-05-29",
+    "lugar": "Tokio (Dieta Nacional, 151+ localidades en 45 prefecturas)",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "WE WANT OUR FUTURE",
+      "Movimiento pacifista japonés",
+      "Colectivos ciudadanos",
+      "Oposición a reforma constitucional"
+    ],
+    "motivo": "Protestas masivas nacionales 'Emergency Action to Not Allow War' contra guerra, reforma constitucional y militarización del gobierno Takaichi. Manifestación frente a la Dieta Nacional en Tokio y 151+ localidades en 45 prefecturas. Exigen protección del Artículo 9 (constitución pacifista), fin de expansión militar y oposición a revisión constitucional. Consigna: 'Stop constitutional revision and military expansion'",
+    "status": "en_curso",
+    "lat": "35.6762",
+    "lng": "139.6503",
+    "fuentes": [
+      {
+        "nombre": "Asahi Shimbun",
+        "url": "https://www.asahi.com/articles/ASV5Y3R5QV5YUTIL01KM.html"
+      },
+      {
+        "nombre": "Labornet Japan",
+        "url": "https://www.labornetjp2.org/events/event/%e5%9b%bd%e4%bc%9a%e5%89%8d%e8%a1%8c%e5%8b%95%e9%80%a3%e5%b8%af%e5%85%a8%e5%9b%bd%e3%82%a2%e3%82%af%e3%82%b7%e3%83%a7%e3%83%b3%ef%bc%885-29-%e8%8c%a8%e5%9f%8e%e3%83%bb%e5%ae%88%e8%b0%b7%e5%b8%82/"
+      },
+      {
+        "nombre": "SafeAbroad",
+        "url": "https://safeabroad.com/the-week-ahead/the-week-ahead-may-18-2026/"
+      }
+    ],
+    "createdAt": "2026-05-29T17:19:07.000Z",
+    "updatedAt": "2026-05-29T17:22:21.000Z"
+  },
+  {
+    "id": 72,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "11:00",
+    "fecha": "2026-05-29",
+    "lugar": "Córdoba (Campus Universidad Nacional de Córdoba, Barrio Clínicas)",
+    "tipoAccion": "acto",
+    "organizaciones": [
+      "ATE Córdoba",
+      "CTA Autónoma Córdoba",
+      "Mesa de Coordinación Sindical y Social",
+      "SURRBAC",
+      "ADUNCOR",
+      "Federación Nacional Territorial (FeNaT-CTA-A)"
+    ],
+    "motivo": "Olla Popular gigante y acto multitudinario en el 57° aniversario del Cordobazo. Entrega de 2000 raciones de comida en el Campus de la UNC. Convocan a fortalecer la unidad obrero-estudiantil contra el ajuste de Milei y Llaryora, en defensa del derecho a la protesta, la huelga y la lucha colectiva. Consigna: defender al pueblo trabajador frente a la política oligárquica de entrega",
+    "status": "en_curso",
+    "lat": "-31.4201",
+    "lng": "-64.1888",
+    "fuentes": [
+      {
+        "nombre": "ATE Argentina",
+        "url": "https://ate.org.ar/260515-unidad-cordoba/"
+      },
+      {
+        "nombre": "CTA Autónoma Córdoba",
+        "url": "https://ctaacordoba.org/116742-2/"
+      }
+    ],
+    "createdAt": "2026-05-29T17:20:51.000Z",
+    "updatedAt": "2026-05-29T17:22:21.000Z"
   }
 ]
