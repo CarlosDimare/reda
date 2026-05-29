@@ -373,7 +373,7 @@ export default function App() {
             position: "fixed",
             inset: 0,
             zIndex: 1000,
-            background: "rgba(0,0,0,.5)",
+            background: "rgba(0,0,0,.4)",
             display: "flex",
             flexDirection: "column",
             alignItems: "center",
@@ -386,12 +386,14 @@ export default function App() {
           <div
             style={{
             background: "#fff",
-            border: "2px solid #cc0000",
-              maxWidth: 700,
+              border: "2px solid #cc0000",
+              borderRadius: 4,
+              maxWidth: 800,
               width: "100%",
               maxHeight: "90vh",
               display: "flex",
               flexDirection: "column",
+              boxShadow: "0 4px 20px rgba(0,0,0,.15)",
             }}
             onClick={(e) => e.stopPropagation()}
           >
@@ -409,9 +411,8 @@ export default function App() {
                 style={{
                   color: "#cc0000",
                   fontWeight: 700,
-                  fontSize: 11,
-                  letterSpacing: ".12em",
-                  textTransform: "uppercase",
+                  fontSize: 14,
+                  letterSpacing: ".08em",
                 }}
               >
                 {selectedAccion.bandera} {selectedAccion.lugar}
@@ -431,51 +432,52 @@ export default function App() {
                 </button>
             </div>
 
-            <div style={{ flex: 1, overflowY: "auto", padding: 16 }}>
+            <div style={{ flex: 1, overflowY: "auto", padding: 20 }}>
               <div
                 style={{
                   display: "grid",
-                  gridTemplateColumns: "120px 1fr",
-                  gap: "6px 12px",
-                  fontSize: 12,
+                  gridTemplateColumns: "130px 1fr",
+                  gap: "10px 16px",
+                  fontSize: 15,
+                  lineHeight: 1.6,
                 }}
               >
-                <span style={{ color: "#888", textTransform: "uppercase", letterSpacing: ".06em", fontSize: 10 }}>
+                <span style={{ color: "#888", textTransform: "uppercase", letterSpacing: ".06em", fontSize: 11, fontWeight: 700 }}>
                   Hora
                 </span>
-                <span style={{ color: "#333" }}>
+                <span style={{ color: "#333", fontSize: 15 }}>
                   {selectedAccion.hora} hs
                 </span>
-                <span style={{ color: "#888", textTransform: "uppercase", letterSpacing: ".06em", fontSize: 10 }}>
+                <span style={{ color: "#888", textTransform: "uppercase", letterSpacing: ".06em", fontSize: 11, fontWeight: 700 }}>
                   Fecha
                 </span>
-                <span style={{ color: "#333" }}>{selectedAccion.fecha}</span>
-                <span style={{ color: "#888", textTransform: "uppercase", letterSpacing: ".06em", fontSize: 10 }}>
+                <span style={{ color: "#333", fontSize: 15 }}>{selectedAccion.fecha}</span>
+                <span style={{ color: "#888", textTransform: "uppercase", letterSpacing: ".06em", fontSize: 11, fontWeight: 700 }}>
                   Lugar
                 </span>
-                <span style={{ color: "#333" }}>
+                <span style={{ color: "#333", fontSize: 15 }}>
                   {selectedAccion.pais} — {selectedAccion.lugar}
                 </span>
-                <span style={{ color: "#888", textTransform: "uppercase", letterSpacing: ".06em", fontSize: 10 }}>
+                <span style={{ color: "#888", textTransform: "uppercase", letterSpacing: ".06em", fontSize: 11, fontWeight: 700 }}>
                   Tipo
                 </span>
-                <span style={{ color: "#333", textTransform: "uppercase", fontSize: 10 }}>
+                <span style={{ color: "#333", textTransform: "uppercase", fontSize: 13, fontWeight: 700 }}>
                   {selectedAccion.tipoAccion}
                 </span>
-                <span style={{ color: "#888", textTransform: "uppercase", letterSpacing: ".06em", fontSize: 10 }}>
+                <span style={{ color: "#888", textTransform: "uppercase", letterSpacing: ".06em", fontSize: 11, fontWeight: 700 }}>
                   Status
                 </span>
                 <span
                   style={{
                     color:
                       selectedAccion.status === "en_curso"
-                        ? "#e8c030"
-                        : selectedAccion.status === "finalizado"
-                          ? "#cc0000"
-                          : "#3a9a3a",
-                    textTransform: "uppercase",
-                    fontSize: 10,
-                    fontWeight: 700,
+                      ? "#d4a017"
+                      : selectedAccion.status === "finalizado"
+                        ? "#cc0000"
+                        : "#3a9a3a",
+                  textTransform: "uppercase",
+                  fontSize: 13,
+                  fontWeight: 700,
                   }}
                 >
                   {selectedAccion.status === "en_curso"
@@ -484,16 +486,16 @@ export default function App() {
                       ? "🔴 FINALIZADO"
                       : "🟢 PROGRAMADO"}
                 </span>
-                <span style={{ color: "#888", textTransform: "uppercase", letterSpacing: ".06em", fontSize: 10 }}>
+                <span style={{ color: "#888", textTransform: "uppercase", letterSpacing: ".06em", fontSize: 11, fontWeight: 700 }}>
                   Organizaciones
                 </span>
-                <span style={{ color: "#333" }}>
+                <span style={{ color: "#333", fontSize: 15 }}>
                   {selectedAccion.organizaciones.join(", ") || "—"}
                 </span>
-                <span style={{ color: "#888", textTransform: "uppercase", letterSpacing: ".06em", fontSize: 10 }}>
+                <span style={{ color: "#888", textTransform: "uppercase", letterSpacing: ".06em", fontSize: 11, fontWeight: 700 }}>
                   Motivo
                 </span>
-                <span style={{ color: "#333" }}>
+                <span style={{ color: "#333", fontSize: 15, lineHeight: 1.6 }}>
                   {selectedAccion.motivo}
                 </span>
               </div>
@@ -508,25 +510,25 @@ export default function App() {
                 >
                   <div
                     style={{
-                      color: "#888",
-                      fontSize: 9,
-                      fontWeight: 700,
-                      letterSpacing: ".1em",
-                      textTransform: "uppercase",
-                      marginBottom: 8,
-                    }}
-                  >
-                    Fuentes
-                  </div>
-                  {selectedAccion.fuentes.map((f, i) => (
-                    <div key={i} style={{ marginBottom: 4 }}>
-                      <a
-                        href={f.url}
-                        target="_blank"
-                        rel="noopener"
-                        style={{
-                          color: "#cc0000",
-                          fontSize: 11,
+                    color: "#888",
+                    fontSize: 12,
+                    fontWeight: 700,
+                    letterSpacing: ".06em",
+                    textTransform: "uppercase",
+                    marginBottom: 8,
+                  }}
+                >
+                  Fuentes
+                </div>
+                {selectedAccion.fuentes.map((f, i) => (
+                  <div key={i} style={{ marginBottom: 6 }}>
+                    <a
+                      href={f.url}
+                      target="_blank"
+                      rel="noopener"
+                      style={{
+                        color: "#cc0000",
+                        fontSize: 14,
                           textDecoration: "underline",
                           cursor: "pointer",
                         }}
@@ -548,33 +550,34 @@ export default function App() {
                 >
                   <div
                     style={{
-                      color: "#888",
-                      fontSize: 9,
-                      fontWeight: 700,
-                      letterSpacing: ".12em",
-                      textTransform: "uppercase",
-                      marginBottom: 8,
-                    }}
-                  >
-                    Mapa
-                  </div>
-                  <div
+                    color: "#888",
+                    fontSize: 12,
+                    fontWeight: 700,
+                    letterSpacing: ".06em",
+                    textTransform: "uppercase",
+                    marginBottom: 8,
+                  }}
+                >
+                  Mapa
+                </div>
+                <div
+                  style={{
+                    position: "relative",
+                    paddingBottom: "56.25%",
+                    height: 0,
+                    overflow: "hidden",
+                    borderRadius: 4,
+                  }}
+                >
+                  <iframe
+                    src={`https://www.openstreetmap.org/export/embed.html?bbox=${Number(selectedAccion.lng) - 0.1},${Number(selectedAccion.lat) - 0.1},${Number(selectedAccion.lng) + 0.1},${Number(selectedAccion.lat) + 0.1}&layer=mapnik&marker=${selectedAccion.lat},${selectedAccion.lng}`}
                     style={{
-                      position: "relative",
-                      paddingBottom: "56.25%",
-                      height: 0,
-                      overflow: "hidden",
-                    }}
-                  >
-                    <iframe
-                      src={`https://www.openstreetmap.org/export/embed.html?bbox=${Number(selectedAccion.lng) - 0.1},${Number(selectedAccion.lat) - 0.1},${Number(selectedAccion.lng) + 0.1},${Number(selectedAccion.lat) + 0.1}&layer=mapnik&marker=${selectedAccion.lat},${selectedAccion.lng}`}
-                      style={{
-                        position: "absolute",
-                        top: 0,
-                        left: 0,
-                        width: "100%",
-                        height: "100%",
-                        border: "1px solid #1a1a1a",
+                      position: "absolute",
+                      top: 0,
+                      left: 0,
+                      width: "100%",
+                      height: "100%",
+                      border: "1px solid #ddd",
                       }}
                       loading="lazy"
                     />
