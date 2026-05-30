@@ -19,6 +19,10 @@
     "lng": "-77.0428",
     "fuentes": [
       {
+        "nombre": "La República",
+        "url": "https://larepublica.pe/politica/2026/05/29/colectivos-convocan-a-marcha-nacional-contra-keiko-fujimori-para-este-sabado-30-de-mayo-hnews-538327"
+      },
+      {
         "nombre": "Keiko No Va (X/Twitter)",
         "url": "https://x.com/keikonova2026"
       },
@@ -29,14 +33,10 @@
       {
         "nombre": "AS/COA",
         "url": "https://www.as-coa.org/articles/perus-2026-presidential-candidates-keiko-fujimori-and-roberto-sanchez"
-      },
-      {
-        "nombre": "Infobae",
-        "url": "https://www.infobae.com/america/agencias/2026/05/29/sabado-30-y-domingo-31-de-mayo-y-lunes-1-de-junio-de-2026-1930-gmt/"
       }
     ],
     "createdAt": "2026-05-30T00:00:00.000Z",
-    "updatedAt": "2026-05-30T04:38:04Z"
+    "updatedAt": "2026-05-30T07:44:27Z"
   },
   {
     "id": 101,
@@ -75,10 +75,14 @@
       {
         "nombre": "Demócrata",
         "url": "https://www.democrata.es/actualidad/convocan-en-vigo-una-protesta-el-dia-30-contra-el-desfile-del-dia-de-las-fuerzas-armadas/"
+      },
+      {
+        "nombre": "Faro de Vigo",
+        "url": "https://www.farodevigo.es/gran-vigo/2026/05/21/galiza-pola-paz-llama-movilizacion-130511027.html"
       }
     ],
     "createdAt": "2026-05-30T00:00:00.000Z",
-    "updatedAt": "2026-05-30T04:38:04Z"
+    "updatedAt": "2026-05-30T07:44:27Z"
   },
   {
     "id": 102,
@@ -115,7 +119,7 @@
       }
     ],
     "createdAt": "2026-05-30T00:00:00.000Z",
-    "updatedAt": "2026-05-30T04:38:04Z"
+    "updatedAt": "2026-05-30T07:44:27Z"
   },
   {
     "id": 3,
@@ -160,7 +164,7 @@
       }
     ],
     "createdAt": "2026-05-28T00:00:00.000Z",
-    "updatedAt": "2026-05-30T04:38:04Z"
+    "updatedAt": "2026-05-30T07:44:27Z"
   },
   {
     "id": 105,
@@ -177,7 +181,7 @@
       "Ohanaeze Youth Council"
     ],
     "motivo": "Biafra Heroes Remembrance Day. IPOB declara día de 'sit-at-home' total en la región South-East y partes del South-South de Nigeria para honrar a los millones de biafreños que murieron durante la Guerra Civil Nigeriana (1967-1970). Mercados, escuelas, bancos y comercios cerrados de 6:00 a 16:00. Jornada de reflexión, duelo y memoria. Llamado a izar la bandera nigeriana a media asta",
-    "status": "programada",
+    "status": "en_curso",
     "lat": "6.5000",
     "lng": "7.5000",
     "fuentes": [
@@ -203,7 +207,7 @@
       }
     ],
     "createdAt": "2026-05-30T04:33:17.000Z",
-    "updatedAt": "2026-05-30T04:38:04Z"
+    "updatedAt": "2026-05-30T07:44:27Z"
   },
   {
     "id": 106,
@@ -232,7 +236,7 @@
       }
     ],
     "createdAt": "2026-05-30T04:33:17.000Z",
-    "updatedAt": "2026-05-30T04:38:04Z"
+    "updatedAt": "2026-05-30T07:44:27Z"
   },
   {
     "id": 107,
@@ -267,7 +271,7 @@
       }
     ],
     "createdAt": "2026-05-30T04:33:17.000Z",
-    "updatedAt": "2026-05-30T04:38:04Z"
+    "updatedAt": "2026-05-30T07:44:27Z"
   },
   {
     "id": 108,
@@ -303,7 +307,7 @@
       }
     ],
     "createdAt": "2026-05-30T04:33:17.000Z",
-    "updatedAt": "2026-05-30T04:38:04Z"
+    "updatedAt": "2026-05-30T07:44:27Z"
   },
   {
     "id": 109,
@@ -340,7 +344,7 @@
       }
     ],
     "createdAt": "2026-05-30T04:33:17.000Z",
-    "updatedAt": "2026-05-30T04:38:04Z"
+    "updatedAt": "2026-05-30T07:44:27Z"
   },
   {
     "id": 110,
@@ -365,7 +369,7 @@
       }
     ],
     "createdAt": "2026-05-30T04:33:17.000Z",
-    "updatedAt": "2026-05-30T04:38:04Z"
+    "updatedAt": "2026-05-30T07:44:27Z"
   },
   {
     "id": 111,
@@ -404,7 +408,7 @@
       }
     ],
     "createdAt": "2026-05-30T04:33:17.000Z",
-    "updatedAt": "2026-05-30T04:38:04Z"
+    "updatedAt": "2026-05-30T07:44:27Z"
   },
   {
     "id": 112,
@@ -434,7 +438,32 @@
       }
     ],
     "createdAt": "2026-05-30T04:33:17.000Z",
-    "updatedAt": "2026-05-30T04:38:04Z"
+    "updatedAt": "2026-05-30T07:44:27Z"
+  },
+  {
+    "id": 113,
+    "seccion": "internacionales",
+    "pais": "Francia",
+    "bandera": "🇫🇷",
+    "hora": "14:30",
+    "fecha": "2026-05-30",
+    "lugar": "Campo Santo → Beaux Arts, Orléans, Loiret",
+    "tipoAccion": "manifestacion",
+    "organizaciones": [
+      "Association France Palestine Solidarité (AFPS 45)"
+    ],
+    "motivo": "Manifestación 'Stop aux massacres en Palestine et au Liban' en el marco de la Marcha del Orgullo de Orléans. Exigen el fin de los massacres en Palestina y Líbano, denuncian la limpieza étnica en Jerusalén, las violencias sexuales contra presos palestinos y los crímenes de guerra israelíes. Concentración desde Campo Santo a las 14:30, con banderola del colectivo frente a los Beaux Arts",
+    "status": "programada",
+    "lat": "47.9020",
+    "lng": "1.9090",
+    "fuentes": [
+      {
+        "nombre": "Association France Palestine Solidarité",
+        "url": "https://www.france-palestine.org/Manifestation-Stop-aux-massacres-en-Palestine-et-au-Liban"
+      }
+    ],
+    "createdAt": "2026-05-30T07:39:44.000Z",
+    "updatedAt": "2026-05-30T07:44:27Z"
   },
   {
     "id": 103,
@@ -472,7 +501,7 @@
       }
     ],
     "createdAt": "2026-05-30T00:11:01.000Z",
-    "updatedAt": "2026-05-30T04:38:04Z"
+    "updatedAt": "2026-05-30T07:44:27Z"
   },
   {
     "id": 104,
@@ -510,9 +539,17 @@
       {
         "nombre": "ADIUC",
         "url": "https://adiuc.org.ar/2026/05/18/paro-nacional-universitario-del-26-al-30-de-mayo/"
+      },
+      {
+        "nombre": "19640 Noticias",
+        "url": "https://19640noticias.com/contenido/98745/conadu-historica-paro-nacional-universitario-26-30-mayo"
+      },
+      {
+        "nombre": "Imago",
+        "url": "https://www.imago.com.ar/?id=28987"
       }
     ],
     "createdAt": "2026-05-30T00:11:01.000Z",
-    "updatedAt": "2026-05-30T04:38:04Z"
+    "updatedAt": "2026-05-30T07:44:27Z"
   }
 ]
