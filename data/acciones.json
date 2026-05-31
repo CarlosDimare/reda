@@ -35,7 +35,7 @@
       }
     ],
     "createdAt": "2026-05-31T00:01:10.000Z",
-    "updatedAt": "2026-05-31T00:06:10Z"
+    "updatedAt": "2026-05-31T05:03:25Z"
   },
   {
     "id": 126,
@@ -73,7 +73,7 @@
       }
     ],
     "createdAt": "2026-05-31T00:01:10.000Z",
-    "updatedAt": "2026-05-31T00:06:10Z"
+    "updatedAt": "2026-05-31T05:03:25Z"
   },
   {
     "id": 127,
@@ -98,7 +98,7 @@
       }
     ],
     "createdAt": "2026-05-31T00:01:10.000Z",
-    "updatedAt": "2026-05-31T00:06:10Z"
+    "updatedAt": "2026-05-31T05:03:25Z"
   },
   {
     "id": 128,
@@ -125,7 +125,7 @@
       }
     ],
     "createdAt": "2026-05-31T00:01:10.000Z",
-    "updatedAt": "2026-05-31T00:06:10Z"
+    "updatedAt": "2026-05-31T05:03:25Z"
   },
   {
     "id": 130,
@@ -150,7 +150,7 @@
       }
     ],
     "createdAt": "2026-05-31T00:01:10.000Z",
-    "updatedAt": "2026-05-31T00:06:10Z"
+    "updatedAt": "2026-05-31T05:03:25Z"
   },
   {
     "id": 131,
@@ -175,7 +175,7 @@
       }
     ],
     "createdAt": "2026-05-31T00:01:10.000Z",
-    "updatedAt": "2026-05-31T00:06:10Z"
+    "updatedAt": "2026-05-31T05:03:25Z"
   },
   {
     "id": 132,
@@ -184,7 +184,7 @@
     "bandera": "🇧🇴",
     "hora": "00:00",
     "fecha": "2026-05-31",
-    "lugar": "La Paz, El Alto, Cochabamba y nacional. 93 puntos de bloqueo en 6 departamentos",
+    "lugar": "La Paz, El Alto, Cochabamba y nacional. 94 puntos de bloqueo en 6 departamentos",
     "tipoAccion": "movilizacion",
     "organizaciones": [
       "COB (Central Obrera Boliviana)",
@@ -193,7 +193,7 @@
       "Sindicatos mineros",
       "Transportistas"
     ],
-    "motivo": "Las protestas contra el presidente Rodrigo Paz continúan por segundo mes consecutivo. 93 puntos de bloqueo activos en 6 departamentos. Crisis económica con inflación del 20%, escasez de combustible, alimentos y medicinas. La COB suspendió su asamblea de emergencia del 30 de mayo por razones de seguridad. La Vicepresidencia convocó a diálogo nacional para este domingo 31 de mayo mediado por la Iglesia Católica. El Congreso aprobó ley que facilita estado de excepción. 7+ muertos reportados. La Paz permanece sitiada",
+    "motivo": "Las protestas contra el presidente Rodrigo Paz continúan por segundo mes consecutivo. 94 puntos de bloqueo activos en 6 departamentos. Crisis económica con inflación del 20%, escasez de combustible, alimentos y medicinas. Hoy 31 de mayo: la COB reprogramó su ampliado de emergencia para las 09:00 en la Confederación de Fabriles de La Paz para definir si aceptan el diálogo. La Vicepresidencia y la Iglesia Católica convocaron a diálogo nacional a las 15:00 en el Seminario San Jerónimo. El Congreso aprobó ley que facilita estado de excepción. 7+ muertos reportados. La Paz permanece sitiada",
     "status": "en_curso",
     "lat": "-16.5000",
     "lng": "-68.1500",
@@ -217,10 +217,26 @@
       {
         "nombre": "Inter-American Dialogue",
         "url": "https://thedialogue.org/analysis/what-demands-are-fueling-ongoing-protests-in-bolivia"
+      },
+      {
+        "nombre": "Visión 360",
+        "url": "https://www.vision360.bo/noticias/2026/05/30/50653-a-horas-de-la-mesa-de-negociacion-la-cob-y-los-sectores-movilizados-decidiran-este-domingo-si-van-al-dialogo"
+      },
+      {
+        "nombre": "Los Tiempos",
+        "url": "https://www.lostiempos.com/actualidad/pais/20260530/vicepresidencia-iglesia-convocan-paz-dirigencia-movilizados-al-dialogo-este"
+      },
+      {
+        "nombre": "eju.tv",
+        "url": "https://eju.tv/2026/05/cob-convoca-a-nuevo-ampliado-de-emergencia-este-domingo-esta-vez-en-la-ciudad-de-la-paz/"
+      },
+      {
+        "nombre": "El País",
+        "url": "https://elpais.com/america/2026-05-30/rodrigo-paz-busca-una-salida-contrarreloj-a-la-crisis-que-paraliza-bolivia.html"
       }
     ],
     "createdAt": "2026-05-31T00:01:10.000Z",
-    "updatedAt": "2026-05-31T00:06:10Z"
+    "updatedAt": "2026-05-31T05:03:25Z"
   },
   {
     "id": 133,
@@ -245,7 +261,7 @@
       }
     ],
     "createdAt": "2026-05-31T00:01:10.000Z",
-    "updatedAt": "2026-05-31T00:06:10Z"
+    "updatedAt": "2026-05-31T05:03:25Z"
   },
   {
     "id": 134,
@@ -276,6 +292,106 @@
       }
     ],
     "createdAt": "2026-05-31T00:01:10.000Z",
-    "updatedAt": "2026-05-31T00:06:10Z"
+    "updatedAt": "2026-05-31T05:03:25Z"
+  },
+  {
+    "id": 135,
+    "seccion": "internacionales",
+    "pais": "India",
+    "bandera": "🇮🇳",
+    "hora": "10:00",
+    "fecha": "2026-05-31",
+    "lugar": "Gurdwara Amb Sahib, Mohali → Residencia del CM, Chandigarh, Punjab",
+    "tipoAccion": "marcha",
+    "organizaciones": [
+      "Old Scales, Old Pension and Allowances Restoration Front",
+      "Old Pension Restoration Front Punjab",
+      "Democratic Teachers Front"
+    ],
+    "motivo": "10 sindicatos de empleados públicos de Punjab marchan hacia la residencia del CM en Chandigarh. Exigen restauración de escalas salariales anteriores, pensión antigua (OPS), liberación del 18% de DA atrasado, restauración de 37 asignaciones retiradas, regularización de empleados contractuales y beneficios ACP. Advierten que intensificarán la agitación si el gobierno no responde",
+    "status": "convocado",
+    "lat": "30.7046",
+    "lng": "76.7179",
+    "fuentes": [
+      {
+        "nombre": "The Tribune",
+        "url": "https://www.tribuneindia.com/news/jalandhar/employee-unions-announce-protest-march-to-cms-residence-on-may-31/"
+      }
+    ],
+    "createdAt": "2026-05-31T04:59:19.000Z",
+    "updatedAt": "2026-05-31T05:03:25Z"
+  },
+  {
+    "id": 136,
+    "seccion": "internacionales",
+    "pais": "España",
+    "bandera": "🇪🇸",
+    "hora": "12:00",
+    "fecha": "2026-05-31",
+    "lugar": "4 columnas desde Colón, Atocha, Plaza Felipe II y metro Sevilla → Cibeles, Madrid",
+    "tipoAccion": "manifestacion",
+    "organizaciones": [
+      "Vecinas y Vecinos de los Barrios y Pueblos de Madrid",
+      "Federación Regional de Asociaciones Vecinales de Madrid (FRAVM)"
+    ],
+    "motivo": "Gran manifestación en defensa de la sanidad pública madrileña. Exigen mayor inversión sanitaria, refuerzo de atención primaria, reducción de listas de espera, dignificación de condiciones laborales, derogación de leyes que permiten privatización y reversión de bienes privatizados. Lema: 'Salvar nuestra Sanidad Pública es salvarnos a todos'",
+    "status": "en_curso",
+    "lat": "40.4168",
+    "lng": "-3.7038",
+    "fuentes": [
+      {
+        "nombre": "Gacetín Madrid",
+        "url": "https://gacetinmadrid.com/2026/05/30/convocada-manifestacion-sanidad-publica-domingo-madrid/"
+      },
+      {
+        "nombre": "Infobae",
+        "url": "https://www.infobae.com/america/agencias/2026/05/28/vecindad-por-la-sanidad-publica-llama-a-salir-a-las-calles-de-madrid-el-domingo-para-blindar-este-derecho/"
+      },
+      {
+        "nombre": "Tercera Información",
+        "url": "https://www.tercerainformacion.es/articulo/actualidad/25/05/2026/miles-de-madrilenos-volveran-a-manifestarse-el-31-de-mayo-en-defensa-de-la-sanidad-publica-bajo-el-lema-salvar-la-sanidad-publica-es-salvarnos-a-tods/"
+      }
+    ],
+    "createdAt": "2026-05-31T04:59:19.000Z",
+    "updatedAt": "2026-05-31T05:03:25Z"
+  },
+  {
+    "id": 137,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "11:00",
+    "fecha": "2026-05-31",
+    "lugar": "Sede Central de la CNEA, Av. del Libertador 8250, CABA, y centros atómicos en todo el país",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "ATE (Asociación Trabajadores del Estado)",
+      "APCNEA (Asociación de Profesionales de la CNEA)",
+      "ATCNEA"
+    ],
+    "motivo": "Contraacto en el 76° aniversario de la CNEA contra el vaciamiento del organismo nuclear. Rechazo al despido de 350 trabajadores (contratos vencen el 30 de junio), crisis salarial con 80% del personal bajo la línea de pobreza, paralización de proyectos estratégicos (CAREM-25, reactor RA-10, enriquecimiento de uranio) e intento de privatización de activos nucleares. Exigen recomposición salarial, pase a planta, presupuesto para proyectos y fin del desguace del sector nuclear argentino",
+    "status": "en_curso",
+    "lat": "-34.5394",
+    "lng": "-58.4653",
+    "fuentes": [
+      {
+        "nombre": "Página 12",
+        "url": "https://www.pagina12.com.ar/2026/05/29/la-cnea-se-moviliza-en-defensa-del-desarrollo-nuclear-nacional/"
+      },
+      {
+        "nombre": "ATE",
+        "url": "https://ate.org.ar/260529-congreso-extraordinario/"
+      },
+      {
+        "nombre": "Mundo Gremial",
+        "url": "https://mundogremial.com/ate-lanzo-un-paro-nacional-con-movilizacion-para-el-dia-que-se-convoque-a-la-paritaria/"
+      },
+      {
+        "nombre": "El Cordillerano",
+        "url": "https://www.elcordillerano.com.ar/noticias/2026/05/29/242281-trabajadores-del-centro-atomico-realizaran-una-vigilia-en-defensa-de-la-cnea-en-el-centro-civico"
+      }
+    ],
+    "createdAt": "2026-05-31T05:00:57.000Z",
+    "updatedAt": "2026-05-31T05:03:25Z"
   }
 ]
