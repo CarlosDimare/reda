@@ -35,7 +35,7 @@
       }
     ],
     "createdAt": "2026-05-31T00:01:10.000Z",
-    "updatedAt": "2026-05-31T12:04:50Z"
+    "updatedAt": "2026-05-31T14:22:30Z"
   },
   {
     "id": 126,
@@ -73,7 +73,7 @@
       }
     ],
     "createdAt": "2026-05-31T00:01:10.000Z",
-    "updatedAt": "2026-05-31T12:04:50Z"
+    "updatedAt": "2026-05-31T14:22:30Z"
   },
   {
     "id": 127,
@@ -98,7 +98,7 @@
       }
     ],
     "createdAt": "2026-05-31T00:01:10.000Z",
-    "updatedAt": "2026-05-31T12:04:50Z"
+    "updatedAt": "2026-05-31T14:22:30Z"
   },
   {
     "id": 128,
@@ -125,7 +125,7 @@
       }
     ],
     "createdAt": "2026-05-31T00:01:10.000Z",
-    "updatedAt": "2026-05-31T12:04:50Z"
+    "updatedAt": "2026-05-31T14:22:30Z"
   },
   {
     "id": 130,
@@ -150,7 +150,7 @@
       }
     ],
     "createdAt": "2026-05-31T00:01:10.000Z",
-    "updatedAt": "2026-05-31T12:04:50Z"
+    "updatedAt": "2026-05-31T14:22:30Z"
   },
   {
     "id": 131,
@@ -175,7 +175,7 @@
       }
     ],
     "createdAt": "2026-05-31T00:01:10.000Z",
-    "updatedAt": "2026-05-31T12:04:50Z"
+    "updatedAt": "2026-05-31T14:22:30Z"
   },
   {
     "id": 132,
@@ -236,7 +236,7 @@
       }
     ],
     "createdAt": "2026-05-31T00:01:10.000Z",
-    "updatedAt": "2026-05-31T12:04:50Z"
+    "updatedAt": "2026-05-31T14:22:30Z"
   },
   {
     "id": 133,
@@ -261,7 +261,7 @@
       }
     ],
     "createdAt": "2026-05-31T00:01:10.000Z",
-    "updatedAt": "2026-05-31T12:04:50Z"
+    "updatedAt": "2026-05-31T14:22:30Z"
   },
   {
     "id": 134,
@@ -292,7 +292,7 @@
       }
     ],
     "createdAt": "2026-05-31T00:01:10.000Z",
-    "updatedAt": "2026-05-31T12:04:50Z"
+    "updatedAt": "2026-05-31T14:22:30Z"
   },
   {
     "id": 135,
@@ -319,7 +319,7 @@
       }
     ],
     "createdAt": "2026-05-31T04:59:19.000Z",
-    "updatedAt": "2026-05-31T12:04:50Z"
+    "updatedAt": "2026-05-31T14:22:30Z"
   },
   {
     "id": 136,
@@ -353,7 +353,7 @@
       }
     ],
     "createdAt": "2026-05-31T04:59:19.000Z",
-    "updatedAt": "2026-05-31T12:04:50Z"
+    "updatedAt": "2026-05-31T14:22:30Z"
   },
   {
     "id": 138,
@@ -396,10 +396,79 @@
       {
         "nombre": "NJ 101.5",
         "url": "https://nj1015.com/newark-protests-delaney-hall/"
+      },
+      {
+        "nombre": "Reuters",
+        "url": "https://www.reuters.com/"
       }
     ],
     "createdAt": "2026-05-31T08:19:37.000Z",
-    "updatedAt": "2026-05-31T12:04:50Z"
+    "updatedAt": "2026-05-31T14:22:30Z"
+  },
+  {
+    "id": 139,
+    "seccion": "internacionales",
+    "pais": "Francia",
+    "bandera": "🇫🇷",
+    "hora": "10:30",
+    "fecha": "2026-05-31",
+    "lugar": "Escuela Dulcie September, Ivry-sur-Seine → Vitry-sur-Seine, Val-de-Marne, París",
+    "tipoAccion": "manifestacion",
+    "organizaciones": [
+      "Collectif 3R",
+      "ACID",
+      "ALIC",
+      "Soulèvement de la Terre"
+    ],
+    "motivo": "Manifestación contra el proyecto de incinerador Thermo-sur-Seine en Vitry-sur-Seine. Marcha festiva y determinada desde Ivry-sur-Seine hasta Vitry para exigir el abandono del proyecto de incineración de residuos. Rechazan el impacto ambiental y sanitario de la instalación y denuncian la falta de transparencia en la planificación",
+    "status": "convocado",
+    "lat": "48.8138",
+    "lng": "2.3875",
+    "fuentes": [
+      {
+        "nombre": "Paris-Luttes",
+        "url": "https://paris-luttes.info/manifestation-contre-le-projet-d-20827"
+      },
+      {
+        "nombre": "Actu.fr",
+        "url": "https://actu.fr/ile-de-france/vitry-sur-seine_94081/val-de-marne-vs-paris-nouveau-round-contre-le-projet-d-incinerateur-une-manifestation-prevue_64294152.html"
+      }
+    ],
+    "createdAt": "2026-05-31T14:17:10.000Z",
+    "updatedAt": "2026-05-31T14:22:30Z"
+  },
+  {
+    "id": 140,
+    "seccion": "internacionales",
+    "pais": "Moldavia",
+    "bandera": "🇲🇩",
+    "hora": "00:00",
+    "fecha": "2026-05-31",
+    "lugar": "Centro de Tiraspol, Transnistria",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Ciudadanos de Tiraspol (convocados por canal anónimo de Viber)"
+    ],
+    "motivo": "Protesta en el centro de Tiraspol contra la administración local de Transnistria. Convocada a través de un influyente canal anónimo de Viber en un contexto de crisis energética y económica. Analistas advierten sobre posible riesgo de instrumentalización por intereses externos en la región",
+    "status": "convocado",
+    "lat": "46.8403",
+    "lng": "29.6433",
+    "fuentes": [
+      {
+        "nombre": "Telex.md",
+        "url": "https://telex.md/2026/05/30/proteste-la-tiraspol-si-riscul-unor-scenarii-de-destabilizare-in-regiune/"
+      },
+      {
+        "nombre": "Timpul.md",
+        "url": "https://timpul.md/articol/protest-la-tiraspol-pe-31-mai-cine-mobilizeaza-participantii.html"
+      },
+      {
+        "nombre": "EA.md",
+        "url": "https://ea.md/protestul-din-31-mai-de-la-tiraspol-riscul-de-instrumentalizare-a-nemultumirilor-sociale-in-interesul-kremlinului/"
+      }
+    ],
+    "createdAt": "2026-05-31T14:17:10.000Z",
+    "updatedAt": "2026-05-31T14:22:30Z"
   },
   {
     "id": 137,
@@ -446,6 +515,6 @@
       }
     ],
     "createdAt": "2026-05-31T05:00:57.000Z",
-    "updatedAt": "2026-05-31T12:04:50Z"
+    "updatedAt": "2026-05-31T14:22:30Z"
   }
 ]
