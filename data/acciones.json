@@ -35,7 +35,7 @@
       }
     ],
     "createdAt": "2026-05-31T00:01:10.000Z",
-    "updatedAt": "2026-05-31T05:03:25Z"
+    "updatedAt": "2026-05-31T08:22:33Z"
   },
   {
     "id": 126,
@@ -73,7 +73,7 @@
       }
     ],
     "createdAt": "2026-05-31T00:01:10.000Z",
-    "updatedAt": "2026-05-31T05:03:25Z"
+    "updatedAt": "2026-05-31T08:22:33Z"
   },
   {
     "id": 127,
@@ -98,7 +98,7 @@
       }
     ],
     "createdAt": "2026-05-31T00:01:10.000Z",
-    "updatedAt": "2026-05-31T05:03:25Z"
+    "updatedAt": "2026-05-31T08:22:33Z"
   },
   {
     "id": 128,
@@ -125,7 +125,7 @@
       }
     ],
     "createdAt": "2026-05-31T00:01:10.000Z",
-    "updatedAt": "2026-05-31T05:03:25Z"
+    "updatedAt": "2026-05-31T08:22:33Z"
   },
   {
     "id": 130,
@@ -150,7 +150,7 @@
       }
     ],
     "createdAt": "2026-05-31T00:01:10.000Z",
-    "updatedAt": "2026-05-31T05:03:25Z"
+    "updatedAt": "2026-05-31T08:22:33Z"
   },
   {
     "id": 131,
@@ -175,7 +175,7 @@
       }
     ],
     "createdAt": "2026-05-31T00:01:10.000Z",
-    "updatedAt": "2026-05-31T05:03:25Z"
+    "updatedAt": "2026-05-31T08:22:33Z"
   },
   {
     "id": 132,
@@ -236,7 +236,7 @@
       }
     ],
     "createdAt": "2026-05-31T00:01:10.000Z",
-    "updatedAt": "2026-05-31T05:03:25Z"
+    "updatedAt": "2026-05-31T08:22:33Z"
   },
   {
     "id": 133,
@@ -261,7 +261,7 @@
       }
     ],
     "createdAt": "2026-05-31T00:01:10.000Z",
-    "updatedAt": "2026-05-31T05:03:25Z"
+    "updatedAt": "2026-05-31T08:22:33Z"
   },
   {
     "id": 134,
@@ -292,7 +292,7 @@
       }
     ],
     "createdAt": "2026-05-31T00:01:10.000Z",
-    "updatedAt": "2026-05-31T05:03:25Z"
+    "updatedAt": "2026-05-31T08:22:33Z"
   },
   {
     "id": 135,
@@ -319,7 +319,7 @@
       }
     ],
     "createdAt": "2026-05-31T04:59:19.000Z",
-    "updatedAt": "2026-05-31T05:03:25Z"
+    "updatedAt": "2026-05-31T08:22:33Z"
   },
   {
     "id": 136,
@@ -353,7 +353,53 @@
       }
     ],
     "createdAt": "2026-05-31T04:59:19.000Z",
-    "updatedAt": "2026-05-31T05:03:25Z"
+    "updatedAt": "2026-05-31T08:22:33Z"
+  },
+  {
+    "id": 138,
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "00:00",
+    "fecha": "2026-05-31",
+    "lugar": "Delaney Hall Immigration Detention Center, Newark, Nueva Jersey",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "New Jersey Alliance for Immigrant Justice",
+      "Eyes on ICE NJ",
+      "American Friends Service Committee (AFSC)",
+      "First Friends of NJ & NY",
+      "Project NINJA",
+      "ACLU of New Jersey"
+    ],
+    "motivo": "Protestas continuas desde el 22 de mayo frente al centro de detención migratoria Delaney Hall en Newark, Nueva Jersey. Desencadenadas por una huelga de hambre y laboral de aproximadamente 300 detenidos que denuncian condiciones inhumanas: comida en mal estado, atención médica inadecuada, hacinamiento y maltrato. Manifestaciones diarias con enfrentamientos entre activistas anti-ICE y fuerzas federales. El 30 de mayo se sumaron contraprotestas pro-ICE incluidos miembros de Proud Boys. La gobernadora Sherrill estableció una zona de protesta protegida y la Policía Estatal asumió la seguridad. 6+ arrestados. Exigen el cierre de Delaney Hall, liberación de detenidos vulnerables e investigación de condiciones",
+    "status": "en_curso",
+    "lat": "40.7282",
+    "lng": "-74.1740",
+    "fuentes": [
+      {
+        "nombre": "NBC News",
+        "url": "https://www.nbcnews.com/news/us-news/delaney-hall-protests-new-jersey-rcna347685"
+      },
+      {
+        "nombre": "CBS New York",
+        "url": "https://www.cbsnews.com/newyork/news/delaney-hall-ice-detention-facility-protests-clashes/"
+      },
+      {
+        "nombre": "Fox News",
+        "url": "https://www.foxnews.com/politics/delaney-hall-protests-intensify-far-left-activists-ice-supporters-converge-new-jersey"
+      },
+      {
+        "nombre": "Internewscast",
+        "url": "https://internewscast.com/news/new-jersey-ice-protest-government-cracks-down-on-extremist-groups-amid-heightened-tensions/"
+      },
+      {
+        "nombre": "NJ 101.5",
+        "url": "https://nj1015.com/newark-protests-delaney-hall/"
+      }
+    ],
+    "createdAt": "2026-05-31T08:19:37.000Z",
+    "updatedAt": "2026-05-31T08:22:33Z"
   },
   {
     "id": 137,
@@ -392,6 +438,6 @@
       }
     ],
     "createdAt": "2026-05-31T05:00:57.000Z",
-    "updatedAt": "2026-05-31T05:03:25Z"
+    "updatedAt": "2026-05-31T08:22:33Z"
   }
 ]
