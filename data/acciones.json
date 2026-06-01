@@ -50,6 +50,131 @@
       }
     ],
     "createdAt": "2026-06-01T00:11:25.000Z",
-    "updatedAt": "2026-06-01T05:26:41Z"
+    "updatedAt": "2026-06-01T10:40:53Z"
+  },
+  {
+    "id": 147,
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "00:01",
+    "fecha": "2026-06-01",
+    "lugar": "Delaney Hall, Newark, Nueva Jersey (media milla bajo toque de queda nocturno de 9pm a 6am)",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Eyes on ICE",
+      "Detenidos de Delaney Hall",
+      "Familiares de detenidos"
+    ],
+    "motivo": "Protestas contra el centro de detención de ICE Delaney Hall. Detenidos en huelga de hambre y laboral desde hace 10 días denunciando condiciones inhumanas, falta de debido proceso, mala alimentación y traslados forzosos sin notificación. Manifestantes exigen el cierre del centro. Enfrentamientos con policía estatal y agentes de ICE. La alcaldía de Newark impuso toque de queda nocturno por violencia creciente. Gobernadora Sherrill envió policía estatal. Se reportaron múltiples arrestos y uso de gas lacrimógeno",
+    "status": "en_curso",
+    "lat": "40.7357",
+    "lng": "-74.1724",
+    "fuentes": [
+      {
+        "nombre": "Pakistan Today",
+        "url": "https://www.pakistantoday.com.pk/2026/06/01/curfew-imposed-in-new-jersey-city-over-ice-protest-violence/"
+      },
+      {
+        "nombre": "NBC New York",
+        "url": "https://www.nbcnewyork.com/new-jersey/newark-curfew-delaney-hall-protests/6507290/"
+      },
+      {
+        "nombre": "ABC7 New York",
+        "url": "https://abc7ny.com/post/delaney-hall-protests-protesters-clash-ice-agents-outside-migrant-detention-facility-newark-nj/19199355"
+      },
+      {
+        "nombre": "NJ1015",
+        "url": "https://nj1015.com/newark-delaney-hall-protests"
+      },
+      {
+        "nombre": "Today Show",
+        "url": "https://www.today.com/video/protests-outside-newark-ice-detention-center-enters-10th-day-264240197807"
+      },
+      {
+        "nombre": "AOL/ABC News",
+        "url": "https://www.aol.com/articles/state-police-scuffle-delaney-hall-183115000.html"
+      }
+    ],
+    "createdAt": "2026-06-01T10:37:29.000Z",
+    "updatedAt": "2026-06-01T10:40:53Z"
+  },
+  {
+    "id": 148,
+    "seccion": "internacionales",
+    "pais": "Pakistán",
+    "bandera": "🇵🇰",
+    "hora": "08:00",
+    "fecha": "2026-06-01",
+    "lugar": "Administration Block, University of Karachi, Karachi, Sindh",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "KUTS (Karachi University Teachers' Society)"
+    ],
+    "motivo": "Boycot de exámenes por parte de profesores de la Universidad de Karachi en su cuarta semana consecutiva. Exigen pago de salarios atrasados, asignaciones de alquiler de vivienda (house rent ceiling), compensación por supervisión de tesis, corrección de exámenes, carga de horas extras del programa nocturno y otras deudas pendientes. Denuncian crisis financiera de la universidad con déficit de PKR 1.3 mil millones y mala gestión administrativa. Casi 50,000 estudiantes afectados con exámenes suspendidos indefinidamente. Protestas diarias frente al edificio administrativo",
+    "status": "en_curso",
+    "lat": "24.9263",
+    "lng": "67.0315",
+    "fuentes": [
+      {
+        "nombre": "Pakistan Today",
+        "url": "https://www.pakistantoday.com.pk/2026/06/01/karachi-university-exam-boycott-leaves-nearly-50000-students-facing-uncertainty"
+      },
+      {
+        "nombre": "ProPakistani",
+        "url": "https://propakistani.pk/2026/06/01/karachi-university-exam-crisis-deepens-amid-teachers-protest-over-unpaid-dues/"
+      },
+      {
+        "nombre": "Dawn",
+        "url": "https://www.dawn.com/newspaper/karachi"
+      },
+      {
+        "nombre": "ANI",
+        "url": "https://www.aninews.in/news/world/asia/faculty-boycott-karachi-university-exams-over-unpaid-dues-as-financial-crisis-halts-academic-activities20260506110531"
+      },
+      {
+        "nombre": "The Express Tribune",
+        "url": "https://tribune.com.pk/story/2610030/karachi-university-choked-by-student-protests-on-exams-fees-funds"
+      }
+    ],
+    "createdAt": "2026-06-01T10:37:29.000Z",
+    "updatedAt": "2026-06-01T10:40:53Z"
+  },
+  {
+    "id": 149,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "16:00",
+    "fecha": "2026-06-01",
+    "lugar": "Bartolomé Mitre 1767, microcentro porteño, Ciudad de Buenos Aires",
+    "tipoAccion": "conferencia_prensa",
+    "organizaciones": [
+      "Ni Una Menos"
+    ],
+    "motivo": "Conferencia de prensa y protesta en repudio al femicidio de Agostina Vega, adolescente de 14 años hallada asesinada en Córdoba. Exigen justicia, medidas contra la violencia de género y denuncian desidia institucional del Poder Judicial. En Argentina ocurre un femicidio cada 31 horas. La acción es antesala de la marcha nacional del 3 de junio frente al Congreso",
+    "status": "en_curso",
+    "lat": "-34.6083",
+    "lng": "-58.3754",
+    "fuentes": [
+      {
+        "nombre": "Los Primeros TV",
+        "url": "https://www.losprimeros.tv/actualidad/-ni-una-menos--convoco-a-una-marcha-por-el-femicidio-de-agostina-vega_a6a1d481b03d1047930b21c40"
+      },
+      {
+        "nombre": "Nueva Ciudad",
+        "url": "https://www.nueva-ciudad.com.ar/notas/202606/57827-ni-una-menos-convoca-a-conferencia-de-prensa-y-amplia-el-reclamo-por-el-femicidio-de-agostina-vega.html"
+      },
+      {
+        "nombre": "El Intransigente",
+        "url": "https://elintransigente.com/2026/06/caso-agostina-vega-ni-una-menos-convoca-a-una-conferencia-de-prensa/"
+      },
+      {
+        "nombre": "BAE Negocios",
+        "url": "https://www.baenegocios.com/sociedad/ni-una-menos-convoco-a-una-marcha-por-el-femicidio-de-agostina-vega/"
+      }
+    ],
+    "createdAt": "2026-06-01T10:38:53.000Z",
+    "updatedAt": "2026-06-01T10:40:53Z"
   }
 ]
