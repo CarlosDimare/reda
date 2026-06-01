@@ -34,23 +34,15 @@
       },
       {
         "nombre": "Infobae México",
-        "url": "https://www.infobae.com/mexico/2026/05/17/cuando-es-el-paro-nacional-de-maestros-2026-cnte-anuncia-huelga-mega-marcha-y-planton-indefinido-en-el-zocalo-de-la-cdmx/"
+        "url": "https://www.infobae.com/mexico/2026/06/01/en-vivo-bloqueos-en-carreteras-y-manifestaciones-hoy-lunes-1-de-junio/"
       },
       {
-        "nombre": "Heraldo de Quintana Roo",
-        "url": "https://quintanaroo.heraldodemexico.com.mx/local/2026/05/28/maestros-de-quintana-roo-marchan-el-lunes-1-de-junio-2026-a-que-hora-es-que-ruta-tendra-la-movilizacion-16367.html"
-      },
-      {
-        "nombre": "El Sol de México",
-        "url": "https://mexicosolidarity.com/cnte-announces-national-strike-on-june-1st-occupation-of-mexico-citys-zocalo"
-      },
-      {
-        "nombre": "Expansión Política",
-        "url": "https://politica.expansion.mx/mexico/2026/05/17/la-cnte-arrancara-con-protestas-a-nivel-nacional-el-1-de-junio-y-amaga-con-planton"
+        "nombre": "El Mundo MX",
+        "url": "https://elmundomx.com/cdmx/marcha-cnte-cdmx-1-junio-2026-ruta-horario-alternativas/"
       }
     ],
     "createdAt": "2026-06-01T00:11:25.000Z",
-    "updatedAt": "2026-06-01T10:40:53Z"
+    "updatedAt": "2026-06-01T16:40:39Z"
   },
   {
     "id": 147,
@@ -66,7 +58,7 @@
       "Detenidos de Delaney Hall",
       "Familiares de detenidos"
     ],
-    "motivo": "Protestas contra el centro de detención de ICE Delaney Hall. Detenidos en huelga de hambre y laboral desde hace 10 días denunciando condiciones inhumanas, falta de debido proceso, mala alimentación y traslados forzosos sin notificación. Manifestantes exigen el cierre del centro. Enfrentamientos con policía estatal y agentes de ICE. La alcaldía de Newark impuso toque de queda nocturno por violencia creciente. Gobernadora Sherrill envió policía estatal. Se reportaron múltiples arrestos y uso de gas lacrimógeno",
+    "motivo": "Protestas contra el centro de detención de ICE Delaney Hall. Detenidos en huelga de hambre y laboral desde hace 11 días denunciando condiciones inhumanas, falta de debido proceso, mala alimentación y traslados forzosos sin notificación. Manifestantes exigen el cierre del centro. Enfrentamientos con policía estatal y agentes de ICE. La alcaldía de Newark impuso toque de queda nocturno por violencia creciente. Gobernadora Sherrill envió policía estatal. Se reportaron múltiples arrestos y uso de gas lacrimógeno. Las visitas familiares fueron restablecidas parcialmente",
     "status": "en_curso",
     "lat": "40.7357",
     "lng": "-74.1724",
@@ -94,10 +86,22 @@
       {
         "nombre": "AOL/ABC News",
         "url": "https://www.aol.com/articles/state-police-scuffle-delaney-hall-183115000.html"
+      },
+      {
+        "nombre": "Democracy Now!",
+        "url": "https://www.democracynow.org/2026/6/1/headlines"
+      },
+      {
+        "nombre": "WUSF",
+        "url": "https://www.wusf.org/2026-06-01/protesters-and-law-enforcement-clash-outside-new-jersey-ice-detention-center"
+      },
+      {
+        "nombre": "Times Now",
+        "url": "https://www.timesnownews.com/world/us/us-news/ice-protests-first-win-for-demonstrators-as-family-visits-resume-at-newark-detention-centre-article-154439148"
       }
     ],
     "createdAt": "2026-06-01T10:37:29.000Z",
-    "updatedAt": "2026-06-01T10:40:53Z"
+    "updatedAt": "2026-06-01T16:40:39Z"
   },
   {
     "id": 148,
@@ -138,7 +142,7 @@
       }
     ],
     "createdAt": "2026-06-01T10:37:29.000Z",
-    "updatedAt": "2026-06-01T10:40:53Z"
+    "updatedAt": "2026-06-01T16:40:39Z"
   },
   {
     "id": 149,
@@ -172,9 +176,294 @@
       {
         "nombre": "BAE Negocios",
         "url": "https://www.baenegocios.com/sociedad/ni-una-menos-convoco-a-una-marcha-por-el-femicidio-de-agostina-vega/"
+      },
+      {
+        "nombre": "InfoRegión",
+        "url": "https://www.inforegion.com.ar/2026/06/01/ni-una-menos-la-bronca-la-llevamos-a-las-calles-este-3-de-junio/"
       }
     ],
     "createdAt": "2026-06-01T10:38:53.000Z",
-    "updatedAt": "2026-06-01T10:40:53Z"
+    "updatedAt": "2026-06-01T16:40:39Z"
+  },
+  {
+    "id": 150,
+    "seccion": "internacionales",
+    "pais": "Kenia",
+    "bandera": "🇰🇪",
+    "hora": "09:00",
+    "fecha": "2026-06-01",
+    "lugar": "Laikipia Air Base, Nanyuki, Condado de Laikipia",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Jóvenes de Nanyuki",
+      "Law Society of Kenya",
+      "Gobernador Joshua Irungu"
+    ],
+    "motivo": "Cientos de jóvenes protestan contra el establecimiento de un centro de cuarentena para ébola en la Base Aérea de Laikipia, destinado a ciudadanos estadounidenses expuestos al virus. Exigen que no se exponga a la población local al riesgo de contagio. La Corte Suprema de Kenia suspendió la instalación del centro pendiente de una audiencia. Manifestantes marcharon hacia las puertas de la base coreando consignas contra el ébola. El gobierno de EE.UU. planea contribuir $13.5 millones para preparación contra el ébola en Kenia",
+    "status": "en_curso",
+    "lat": "0.0167",
+    "lng": "37.0733",
+    "fuentes": [
+      {
+        "nombre": "ABC News",
+        "url": "https://abcnews.com/Health/wireStory/hundreds-youths-protest-kenyas-ebola-quarantine-center-us-133476701"
+      },
+      {
+        "nombre": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/world/rest-of-world/this-will-expose-our-people-to-ebola-big-protest-in-kenya-against-quarantine-centre-for-affected-us-citizens/articleshow/131440824.cms"
+      },
+      {
+        "nombre": "KSAT/AP",
+        "url": "https://www.ksat.com/health/2026/06/01/hundreds-of-youths-protest-outside-kenyas-ebola-quarantine-center-for-us-citizens/"
+      }
+    ],
+    "createdAt": "2026-06-01T16:39:40.000Z",
+    "updatedAt": "2026-06-01T16:40:39Z"
+  },
+  {
+    "id": 151,
+    "seccion": "internacionales",
+    "pais": "Kenia",
+    "bandera": "🇰🇪",
+    "hora": "10:00",
+    "fecha": "2026-06-01",
+    "lugar": "Calles de Nairobi, Kenia",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Colectivos de mujeres y derechos humanos"
+    ],
+    "motivo": "Cientos de mujeres marchan por las calles de Nairobi exigiendo que el gobierno declare crisis nacional por el aumento de la violencia de género y femicidios. Portaban carteles con consignas como 'Stop Killing Women' y creaban conciencia sobre la desaparición y asesinato de niños reportados en semanas recientes. Portaban un ataúd simbólico. Grupos de derechos de mujeres advierten sobre el aumento de casos y exigen acción gubernamental",
+    "status": "en_curso",
+    "lat": "-1.2921",
+    "lng": "36.8219",
+    "fuentes": [
+      {
+        "nombre": "ABC News",
+        "url": "https://abcnews.com/International/wireStory/protesters-kenya-call-national-crisis-declaration-gender-based-133479363"
+      }
+    ],
+    "createdAt": "2026-06-01T16:39:40.000Z",
+    "updatedAt": "2026-06-01T16:40:39Z"
+  },
+  {
+    "id": 152,
+    "seccion": "internacionales",
+    "pais": "Chile",
+    "bandera": "🇨🇱",
+    "hora": "10:00",
+    "fecha": "2026-06-01",
+    "lugar": "Plaza Baquedano, Santiago (18:00 hrs) y Plaza Victoria, Valparaíso (10:00 hrs)",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "ACES (Asamblea Coordinadora de Estudiantes Secundarios)",
+      "Organizaciones sindicales, estudiantiles y territoriales de Valparaíso"
+    ],
+    "motivo": "Movilización nacional de estudiantes secundarios y trabajadores contra el gobierno de José Antonio Kast en el marco de su primera Cuenta Pública. Rechazan la megareforma gubernamental, el proyecto de 'Escuelas Protegidas', los recortes presupuestarios en educación y las políticas de ajuste. Los manifestantes denuncian que el gobierno prioriza los intereses de los grandes empresarios sobre las necesidades del pueblo trabajador. En Valparaíso, la convocatoria reunió a trabajadores, estudiantes, mujeres, pobladores y juventudes",
+    "status": "en_curso",
+    "lat": "-33.4350",
+    "lng": "-70.6340",
+    "fuentes": [
+      {
+        "nombre": "24horas Chile",
+        "url": "https://www.24horas.cl/actualidad/nacional/aces-movilizacion-lunes-cuenta-publica-kast"
+      },
+      {
+        "nombre": "La Izquierda Diario",
+        "url": "https://www.laizquierdadiario.com/1-de-junio-a-las-calles-contra-el-ajuste-de-Kast-y-los-empresarios"
+      }
+    ],
+    "createdAt": "2026-06-01T16:39:40.000Z",
+    "updatedAt": "2026-06-01T16:40:39Z"
+  },
+  {
+    "id": 153,
+    "seccion": "internacionales",
+    "pais": "Nigeria",
+    "bandera": "🇳🇬",
+    "hora": "08:00",
+    "fecha": "2026-06-01",
+    "lugar": "Mokola Roundabout, Ibadan, Estado de Oyo. Réplicas en todo el suroeste de Nigeria",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Take-It-Back Movement",
+      "NANS (National Association of Nigerian Students)",
+      "CDHR (Committee for the Defence of Human Rights)",
+      "NUT (Nigeria Union of Teachers)"
+    ],
+    "motivo": "Protesta masiva en Ibadan contra el secuestro de decenas de alumnos y profesores en el gobierno local de Oriire, Estado de Oyo. Manifestantes exigen la liberación inmediata de 7 profesores y 39 estudiantes secuestrados el 15 de mayo por hombres armados. El NUT declaró huelga indefinida desde el 1 de junio. La CDHR movilizó a todas sus ramas del suroeste. La NANS convocó a sus estructuras nacionales. Exigen mayor seguridad, el fin de los secuestros y justicia. Un maestro fue asesinado durante el ataque",
+    "status": "en_curso",
+    "lat": "7.3776",
+    "lng": "3.9470",
+    "fuentes": [
+      {
+        "nombre": "The Nation Nigeria",
+        "url": "https://thenationonlineng.net/protest-rocks-ibadan-over-oyo-school-abduction/"
+      },
+      {
+        "nombre": "Sahara Reporters",
+        "url": "https://saharareporters.com/2026/05/29/bring-back-our-children-teachers-take-it-back-movement-oyo-residents-protest-rising"
+      },
+      {
+        "nombre": "Platform Times",
+        "url": "https://platformtimes.com.ng/cdhr-mobilises-southwest-for-june-1-protest-over-abduction-of-oyo-school-children/"
+      },
+      {
+        "nombre": "The Guardian Nigeria",
+        "url": "https://guardian.ng/news/nans-to-stage-monday-protest-in-oyo-over-abduction-of-students-teachers/"
+      },
+      {
+        "nombre": "Punch Nigeria",
+        "url": "https://punchng.com/nans-to-stage-protest-monday-over-oyo-students-teachers-abduction/"
+      }
+    ],
+    "createdAt": "2026-06-01T16:39:40.000Z",
+    "updatedAt": "2026-06-01T16:40:39Z"
+  },
+  {
+    "id": 154,
+    "seccion": "internacionales",
+    "pais": "Bangladesh",
+    "bandera": "🇧🇩",
+    "hora": "09:00",
+    "fecha": "2026-06-01",
+    "lugar": "Oficina central del Islami Bank, Motijheel, Dacca",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Islami Bank Sachetan Grahak Forum (Conscious Customer Forum)",
+      "Islami Bank Disgruntled Customers' Co-ordination Council"
+    ],
+    "motivo": "Cientos de clientes del Islami Bank formaron una cadena humana frente a la sede central exigiendo la renuncia del nuevo presidente Khurshid Alam y del gobernador del Bangladesh Bank. Denuncian que Alam es un asociado del controversial conglomerado S Alam Group, acusado de lavado de dinero. La policía dispersó a los manifestantes con cañones de agua, gases lacrimógenos y granadas de sonido. Varios heridos. La junta directiva programada no pudo realizarse por las protestas. Los manifestantes exigen la restitución del gerente general Omar Faruk",
+    "status": "en_curso",
+    "lat": "23.7330",
+    "lng": "90.4170",
+    "fuentes": [
+      {
+        "nombre": "The Business Standard",
+        "url": "https://www.tbsnews.net/economy/banking/protesters-interrupt-islami-bank-md-s-meeting-law-enforcers-1451841"
+      },
+      {
+        "nombre": "UNB",
+        "url": "https://unb.com.bd/category/Bangladesh/police-disperse-protesters-near-islami-bank-headquarters-with-water-cannons-teargas/187118"
+      },
+      {
+        "nombre": "TOB News",
+        "url": "https://tob.news/customers-demands-governors-resignation-over-islami-bank-issue/"
+      }
+    ],
+    "createdAt": "2026-06-01T16:39:40.000Z",
+    "updatedAt": "2026-06-01T16:40:39Z"
+  },
+  {
+    "id": 155,
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "00:01",
+    "fecha": "2026-06-01",
+    "lugar": "American Axle (Dauch Corp.), Three Rivers, Míchigan",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "UAW Local 2093 (United Auto Workers)"
+    ],
+    "motivo": "Huelga de casi 1,000 trabajadores de la planta de American Axle (Dauch Corp.), proveedor clave de General Motors. Los trabajadores exigen la restauración de los salarios recortados durante la Gran Recesión de 2008, cuando algunos vieron sus sueldos reducidos de $29/hora a $14.50/hora. El salario máximo actual es de $22/hora. La huelga comenzó a la medianoche del 1 de junio tras fracasar las negociaciones contractuales. El presidente de UAW, Shawn Fain, declaró: 'No contract, no axles'. La planta produce ejes para camionetas GM Chevrolet Silverado y GMC Sierra",
+    "status": "en_curso",
+    "lat": "41.9439",
+    "lng": "-85.6325",
+    "fuentes": [
+      {
+        "nombre": "CBS Detroit",
+        "url": "https://www.cbsnews.com/detroit/news/uaw-local-2093-begins-strike-at-american-axle-in-three-rivers/"
+      },
+      {
+        "nombre": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/01/uaw-strike-union-work-stoppage-threatens-gm-truck-production.html"
+      },
+      {
+        "nombre": "Detroit Free Press",
+        "url": "https://www.freep.com/story/money/cars/2026/05/31/uaw-members-to-strike-at-american-axle-no-contract-no-axles/90347993007/"
+      }
+    ],
+    "createdAt": "2026-06-01T16:39:40.000Z",
+    "updatedAt": "2026-06-01T16:40:39Z"
+  },
+  {
+    "id": 156,
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "12:30",
+    "fecha": "2026-06-01",
+    "lugar": "Tesla Showroom, 999 Van Ness Avenue, San Francisco, California",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Indivisible SF"
+    ],
+    "motivo": "Protesta semanal 'No Monarch Mondays' frente al concesionario Tesla en San Francisco contra el régimen de Trump. Exigen democracia, libertades civiles, protección del planeta, abolición del ICE y fin de la guerra contra Irán. La protesta forma parte de una serie de acciones semanales que vienen realizándose desde enero de 2026",
+    "status": "en_curso",
+    "lat": "37.7842",
+    "lng": "-122.4200",
+    "fuentes": [
+      {
+        "nombre": "Indivisible SF",
+        "url": "https://indivisiblesf.org/events"
+      },
+      {
+        "nombre": "Indybay",
+        "url": "https://www.indybay.org/newsitems/2026/05/25/18886396.php"
+      }
+    ],
+    "createdAt": "2026-06-01T16:39:40.000Z",
+    "updatedAt": "2026-06-01T16:40:39Z"
+  },
+  {
+    "id": 157,
+    "seccion": "internacionales",
+    "pais": "España",
+    "bandera": "🇪🇸",
+    "hora": "00:01",
+    "fecha": "2026-06-01",
+    "lugar": "Hospitales públicos de la Comunidad de Madrid: 12 de Octubre, Clínico San Carlos, La Paz, Puerta de Hierro, La Princesa, Móstoles, Gregorio Marañón, Alcorcón, Getafe, Infanta Leonor, Niño Jesús, Ramón y Cajal, Severo Ochoa, Leganés",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "AMYTS (Asociación de Médicos y Titulados Superiores de Madrid)"
+    ],
+    "motivo": "Médicos de 14 hospitales públicos de Madrid dejan de realizar horas extra voluntarias (peonadas) para operar, como protesta por la falta de avances en la mejora de sus condiciones laborales y retributivas. Exigen mesa de negociación propia, jornada de 35 horas, mejora de retribución de guardias, fin del abuso de temporalidad e incrementos salariales. La medida afecta la reducción de demoras quirúrgicas pero excluye trasplantes y guardias localizadas por ser esenciales",
+    "status": "en_curso",
+    "lat": "40.4168",
+    "lng": "-3.7038",
+    "fuentes": [
+      {
+        "nombre": "El Confidencial",
+        "url": "https://www.elconfidencial.com/salud/2026-05-26/medicos-madrilenos-dejaran-de-hacer-horas-extra_4361667/"
+      }
+    ],
+    "createdAt": "2026-06-01T16:39:40.000Z",
+    "updatedAt": "2026-06-01T16:40:39Z"
+  },
+  {
+    "id": 159,
+    "seccion": "internacionales",
+    "pais": "España",
+    "bandera": "🇪🇸",
+    "hora": "08:00",
+    "fecha": "2026-06-01",
+    "lugar": "Centros educativos de Girona y Catalunya Central, Cataluña",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "CGT Cataluña",
+      "Intersindical"
+    ],
+    "motivo": "Huelga de profesores en centros educativos de Girona y la Cataluña Central. Forma parte de un ciclo de 17 días de huelga por territorios convocado por los sindicatos docentes. Exigen mejoras salariales y laborales. Los sindicatos mayoritarios USTEC-STEs y ASPEPC alcanzaron un preacuerdo con la Generalitat y desconvocaron los paros, pero CGT e Intersindical mantienen la protesta. El seguimiento se espera menor debido al preacuerdo",
+    "status": "en_curso",
+    "lat": "41.9794",
+    "lng": "2.8214",
+    "fuentes": [
+      {
+        "nombre": "El Periódico",
+        "url": "https://www.elperiodico.com/es/sociedad/20260601/huelga-profesores-barcelona-catalunya-hoy-lunes-1-junio-manana-martes-calendario-dv-130131145"
+      }
+    ],
+    "createdAt": "2026-06-01T16:39:40.000Z",
+    "updatedAt": "2026-06-01T16:40:39Z"
   }
 ]
