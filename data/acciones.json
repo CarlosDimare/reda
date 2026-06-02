@@ -1,5 +1,104 @@
 [
   {
+    "id": 180,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "17:00",
+    "fecha": "2026-06-02",
+    "lugar": "Plaza de Mayo, Ciudad de Buenos Aires. Réplicas en plazas centrales de todo el país",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Adolfo Pérez Esquivel (Premio Nobel de la Paz)",
+      "Mesa Ecuménica por la democracia, la vida y el bien común",
+      "CTA de los Trabajadores (Hugo Yasky)",
+      "CTA Autónoma (Hugo 'Cachorro' Godoy)"
+    ],
+    "motivo": "Inicio del ayuno nacional de 8 días en Plaza de Mayo contra las políticas del gobierno de Javier Milei. Bajo el lema 'Jornada de ayuno y oración para despertar las conciencias', denuncian el crecimiento del hambre, la exclusión, la violencia y el deterioro social. Participan los músicos Peteco Carabajal y Bruno Arias. Se replica en plazas centrales del interior del país con organizaciones ecuménicas, sociales y de derechos humanos. Acto de cierre el 9 de junio con concentración masiva en Plaza de Mayo. Las CTA anunciaron que promoverán juicio político a Milei",
+    "status": "en_curso",
+    "lat": "-34.6083",
+    "lng": "-58.3719",
+    "fuentes": [
+      {
+        "nombre": "Infobae",
+        "url": "https://www.infobae.com/politica/2026/05/31/perez-esquivel-y-las-cta-convocaron-a-un-ayuno-nacional-de-ocho-dias-en-plaza-de-mayo-contra-el-gobierno/"
+      },
+      {
+        "nombre": "Clarín",
+        "url": "https://www.clarin.com/politica/rebelarse-adolfo-perez-esquivel-cta-peteco-carabajal-lanzan-ayuno-dias-milei-plaza-mayo_0_USEPoYdX3I.html"
+      },
+      {
+        "nombre": "Contrapunto Digital",
+        "url": "https://contrapunto.digital/nacion/convocan-a-protesta-en-plaza-de-mayo-contra-el-gobierno-de-javier-milei-jornada-de-ayuno-y-oracion-para-despertar-conciencias/"
+      },
+      {
+        "nombre": "Ámbito",
+        "url": "https://www.ambito.com/politica/convocaron-un-ayuno-ocho-dias-plaza-mayo-contra-el-gobierno-n6283328"
+      },
+      {
+        "nombre": "Contexto Tucumán",
+        "url": "https://www.contextotucuman.com/nota/387049/hay-que-rebelarse-adolfo-perez-esquivel-las-dos-cta-y-peteco-carabajal-lanzan-un-ayuno-de-ocho-dias-contra-milei-en-plaza-mayo.html"
+      },
+      {
+        "nombre": "LT9",
+        "url": "https://www.lt9.com.ar/convocan-a-un-ayuno-nacional-de-ocho-dias-en-protesta-contra-el-gobierno-de-milei/"
+      },
+      {
+        "nombre": "Contexto Tucumán",
+        "url": "https://www.contextotucuman.com/nota/387049/hay-que-rebelarse-adolfo-perez-esquivel-las-dos-cta-y-peteco-carabajal-lanzan-un-ayuno-de-ocho-dias-contra-milei-en-plaza-de-mayo.html"
+      },
+      {
+        "nombre": "El Patagónico",
+        "url": "https://www.elpatagonico.com/perez-esquivel-convoca-un-ayuno-plaza-mayo-contra-milei-n6283219"
+      },
+      {
+        "nombre": "El Litoral",
+        "url": "https://www.ellitoral.com.ar/nacional/2026-5-31-12-10-0-el-nobel-adolfo-perez-esquivel-convoco-a-un-ayuno-nacional-en-contra-del-gobierno-de-milei"
+      },
+      {
+        "nombre": "Resumen Latinoamericano",
+        "url": "https://www.resumenlatinoamericano.org/2026/05/30/argentina-perez-esquivel-impulsa-una-semana-de-ayuno-como-protesta-contra-el-gobierno-de-milei/"
+      }
+    ],
+    "createdAt": "2026-06-02T02:01:05.000Z",
+    "updatedAt": "2026-06-02T22:26:17Z"
+  },
+  {
+    "id": 189,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "09:30",
+    "fecha": "2026-06-02",
+    "lugar": "Estación Diagonal Norte, Línea C de Subte, Ciudad de Buenos Aires. Concentración frente al Juzgado Nacional del Trabajo N° 33 (Av. Roque Sáenz Peña 760)",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "AGTSyP (Asociación Gremial de Trabajadores del Subte y Premetro)",
+      "Metrodelegados",
+      "Comité por la Reincorporación de Araceli Pintos"
+    ],
+    "motivo": "Apertura de molinetes en la estación Diagonal Norte de la línea C (9:30-10:00 hs) como protesta por el despido de Araceli Pintos, trabajadora que denunció acoso por parte de un efectivo policial. La protesta se trasladó luego al Juzgado Nacional del Trabajo N° 33 para una audiencia clave. Exigen su reincorporación y garantías de protección para denunciantes. Además, denuncian la presencia de asbesto en formaciones Nagoya 5000 y el incumplimiento de la empresa Emova en los plazos acordados para retirarlas de servicio (vencían el 31 de mayo)",
+    "status": "finalizada",
+    "lat": "-34.6076",
+    "lng": "-58.3811",
+    "fuentes": [
+      {
+        "nombre": "TN",
+        "url": "https://tn.com.ar/sociedad/2026/06/02/despues-del-paro-la-linea-c-del-subte-abrira-los-molinetes-a-que-hora-en-que-estacion-y-cual-es-el-reclamo/"
+      },
+      {
+        "nombre": "La 100",
+        "url": "https://la100.cienradios.com/sociedad/las-noticias-en-imagenes-las-fotos-que-impactan-hoy-martes-2-de-junio/"
+      },
+      {
+        "nombre": "Gestión Sindical",
+        "url": "https://gestionsindical.com/protesta-subte-c-durante-rato-se-viaja-gratis-tres-lineas/"
+      }
+    ],
+    "createdAt": "2026-06-02T19:43:14.000Z",
+    "updatedAt": "2026-06-02T22:26:17Z"
+  },
+  {
     "id": 146,
     "seccion": "internacionales",
     "pais": "México",
@@ -62,7 +161,7 @@
       }
     ],
     "createdAt": "2026-06-01T00:11:25.000Z",
-    "updatedAt": "2026-06-02T19:44:42Z"
+    "updatedAt": "2026-06-02T22:26:17Z"
   },
   {
     "id": 148,
@@ -103,7 +202,7 @@
       }
     ],
     "createdAt": "2026-06-01T10:37:29.000Z",
-    "updatedAt": "2026-06-02T19:44:42Z"
+    "updatedAt": "2026-06-02T22:26:17Z"
   },
   {
     "id": 155,
@@ -140,7 +239,7 @@
       }
     ],
     "createdAt": "2026-06-01T16:39:40.000Z",
-    "updatedAt": "2026-06-02T19:44:42Z"
+    "updatedAt": "2026-06-02T22:26:17Z"
   },
   {
     "id": 157,
@@ -165,7 +264,7 @@
       }
     ],
     "createdAt": "2026-06-01T16:39:40.000Z",
-    "updatedAt": "2026-06-02T19:44:42Z"
+    "updatedAt": "2026-06-02T22:26:17Z"
   },
   {
     "id": 158,
@@ -213,7 +312,7 @@
       }
     ],
     "createdAt": "2026-06-01T23:04:26.000Z",
-    "updatedAt": "2026-06-02T19:44:42Z"
+    "updatedAt": "2026-06-02T22:26:17Z"
   },
   {
     "id": 163,
@@ -254,7 +353,7 @@
       }
     ],
     "createdAt": "2026-06-01T20:54:01.000Z",
-    "updatedAt": "2026-06-02T19:44:42Z"
+    "updatedAt": "2026-06-02T22:26:17Z"
   },
   {
     "id": 164,
@@ -285,7 +384,7 @@
       }
     ],
     "createdAt": "2026-06-01T20:54:01.000Z",
-    "updatedAt": "2026-06-02T19:44:42Z"
+    "updatedAt": "2026-06-02T22:26:17Z"
   },
   {
     "id": 165,
@@ -325,7 +424,7 @@
       }
     ],
     "createdAt": "2026-06-01T20:54:01.000Z",
-    "updatedAt": "2026-06-02T19:44:42Z"
+    "updatedAt": "2026-06-02T22:26:17Z"
   },
   {
     "id": 172,
@@ -360,7 +459,7 @@
       }
     ],
     "createdAt": "2026-06-02T01:58:04.000Z",
-    "updatedAt": "2026-06-02T19:44:42Z"
+    "updatedAt": "2026-06-02T22:26:17Z"
   },
   {
     "id": 173,
@@ -389,7 +488,7 @@
       }
     ],
     "createdAt": "2026-06-02T01:58:04.000Z",
-    "updatedAt": "2026-06-02T19:44:42Z"
+    "updatedAt": "2026-06-02T22:26:17Z"
   },
   {
     "id": 174,
@@ -414,7 +513,7 @@
       }
     ],
     "createdAt": "2026-06-02T01:58:04.000Z",
-    "updatedAt": "2026-06-02T19:44:42Z"
+    "updatedAt": "2026-06-02T22:26:17Z"
   },
   {
     "id": 175,
@@ -447,7 +546,7 @@
       }
     ],
     "createdAt": "2026-06-02T01:58:04.000Z",
-    "updatedAt": "2026-06-02T19:44:42Z"
+    "updatedAt": "2026-06-02T22:26:17Z"
   },
   {
     "id": 176,
@@ -477,7 +576,7 @@
       }
     ],
     "createdAt": "2026-06-02T01:58:04.000Z",
-    "updatedAt": "2026-06-02T19:44:42Z"
+    "updatedAt": "2026-06-02T22:26:17Z"
   },
   {
     "id": 178,
@@ -502,7 +601,7 @@
       }
     ],
     "createdAt": "2026-06-02T01:58:04.000Z",
-    "updatedAt": "2026-06-02T19:44:42Z"
+    "updatedAt": "2026-06-02T22:26:17Z"
   },
   {
     "id": 179,
@@ -538,7 +637,7 @@
       }
     ],
     "createdAt": "2026-06-02T01:58:04.000Z",
-    "updatedAt": "2026-06-02T19:44:42Z"
+    "updatedAt": "2026-06-02T22:26:17Z"
   },
   {
     "id": 181,
@@ -576,7 +675,7 @@
       }
     ],
     "createdAt": "2026-06-02T06:47:48.000Z",
-    "updatedAt": "2026-06-02T19:44:42Z"
+    "updatedAt": "2026-06-02T22:26:17Z"
   },
   {
     "id": 182,
@@ -606,7 +705,7 @@
       }
     ],
     "createdAt": "2026-06-02T06:47:48.000Z",
-    "updatedAt": "2026-06-02T19:44:42Z"
+    "updatedAt": "2026-06-02T22:26:17Z"
   },
   {
     "id": 183,
@@ -638,7 +737,7 @@
       }
     ],
     "createdAt": "2026-06-02T11:16:46.000Z",
-    "updatedAt": "2026-06-02T19:44:42Z"
+    "updatedAt": "2026-06-02T22:26:17Z"
   },
   {
     "id": 184,
@@ -673,7 +772,7 @@
       }
     ],
     "createdAt": "2026-06-02T11:16:46.000Z",
-    "updatedAt": "2026-06-02T19:44:42Z"
+    "updatedAt": "2026-06-02T22:26:17Z"
   },
   {
     "id": 185,
@@ -708,63 +807,7 @@
       }
     ],
     "createdAt": "2026-06-02T11:16:46.000Z",
-    "updatedAt": "2026-06-02T19:44:42Z"
-  },
-  {
-    "id": 180,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "17:00",
-    "fecha": "2026-06-02",
-    "lugar": "Plaza de Mayo, Ciudad de Buenos Aires. Réplicas en plazas centrales de todo el país",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Adolfo Pérez Esquivel (Premio Nobel de la Paz)",
-      "Mesa Ecuménica por la democracia, la vida y el bien común",
-      "CTA de los Trabajadores (Hugo Yasky)",
-      "CTA Autónoma (Hugo 'Cachorro' Godoy)"
-    ],
-    "motivo": "Inicio del ayuno nacional de 8 días en Plaza de Mayo contra las políticas del gobierno de Javier Milei. Bajo el lema 'Jornada de ayuno y oración para despertar las conciencias', denuncian el crecimiento del hambre, la exclusión, la violencia y el deterioro social. Participan los músicos Peteco Carabajal y Bruno Arias. Se replica en plazas centrales del interior del país con organizaciones ecuménicas, sociales y de derechos humanos. Acto de cierre el 9 de junio con concentración masiva en Plaza de Mayo. Las CTA anunciaron que promoverán juicio político a Milei",
-    "status": "en_curso",
-    "lat": "-34.6083",
-    "lng": "-58.3719",
-    "fuentes": [
-      {
-        "nombre": "Infobae",
-        "url": "https://www.infobae.com/politica/2026/05/31/perez-esquivel-y-las-cta-convocaron-a-un-ayuno-nacional-de-ocho-dias-en-plaza-de-mayo-contra-el-gobierno/"
-      },
-      {
-        "nombre": "Clarín",
-        "url": "https://www.clarin.com/politica/rebelarse-adolfo-perez-esquivel-cta-peteco-carabajal-lanzan-ayuno-dias-milei-plaza-mayo_0_USEPoYdX3I.html"
-      },
-      {
-        "nombre": "Contrapunto Digital",
-        "url": "https://contrapunto.digital/nacion/convocan-a-protesta-en-plaza-de-mayo-contra-el-gobierno-de-javier-milei-jornada-de-ayuno-y-oracion-para-despertar-conciencias/"
-      },
-      {
-        "nombre": "Ámbito",
-        "url": "https://www.ambito.com/politica/convocaron-un-ayuno-ocho-dias-plaza-mayo-contra-el-gobierno-n6283328"
-      },
-      {
-        "nombre": "Contexto Tucumán",
-        "url": "https://www.contextotucuman.com/nota/387049/hay-que-rebelarse-adolfo-perez-esquivel-las-dos-cta-y-peteco-carabajal-lanzan-un-ayuno-de-ocho-dias-contra-milei-en-plaza-de-mayo.html"
-      },
-      {
-        "nombre": "El Patagónico",
-        "url": "https://www.elpatagonico.com/perez-esquivel-convoca-un-ayuno-plaza-mayo-contra-milei-n6283219"
-      },
-      {
-        "nombre": "El Litoral",
-        "url": "https://www.ellitoral.com.ar/nacional/2026-5-31-12-10-0-el-nobel-adolfo-perez-esquivel-convoco-a-un-ayuno-nacional-en-contra-del-gobierno-de-milei"
-      },
-      {
-        "nombre": "Resumen Latinoamericano",
-        "url": "https://www.resumenlatinoamericano.org/2026/05/30/argentina-perez-esquivel-impulsa-una-semana-de-ayuno-como-protesta-contra-el-gobierno-de-milei/"
-      }
-    ],
-    "createdAt": "2026-06-02T02:01:05.000Z",
-    "updatedAt": "2026-06-02T19:44:42Z"
+    "updatedAt": "2026-06-02T22:26:17Z"
   },
   {
     "id": 186,
@@ -804,7 +847,7 @@
       }
     ],
     "createdAt": "2026-06-02T15:40:27.000Z",
-    "updatedAt": "2026-06-02T19:44:42Z"
+    "updatedAt": "2026-06-02T22:26:17Z"
   },
   {
     "id": 187,
@@ -842,7 +885,7 @@
       }
     ],
     "createdAt": "2026-06-02T19:43:14.000Z",
-    "updatedAt": "2026-06-02T19:44:42Z"
+    "updatedAt": "2026-06-02T22:26:17Z"
   },
   {
     "id": 188,
@@ -872,36 +915,213 @@
       }
     ],
     "createdAt": "2026-06-02T19:43:14.000Z",
-    "updatedAt": "2026-06-02T19:44:42Z"
+    "updatedAt": "2026-06-02T22:26:17Z"
   },
   {
-    "id": 189,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "09:30",
+    "id": 190,
+    "seccion": "internacionales",
+    "pais": "Albania",
+    "bandera": "🇦🇱",
+    "hora": "10:00",
     "fecha": "2026-06-02",
-    "lugar": "Estación Diagonal Norte, Línea C de Subte, Ciudad de Buenos Aires",
+    "lugar": "Plaza Skanderbeg, Tirana. Proyecto Zvernec, cerca de Vlora. Costa protegida Vjosa-Narta e isla Sazan",
     "tipoAccion": "protesta",
     "organizaciones": [
-      "AGTSyP (Asociación Gremial de Trabajadores del Subte y Premetro)",
-      "Metrodelegados"
+      "Activistas ambientales y sociedad civil albanesa",
+      "ONG ambientales"
     ],
-    "motivo": "Apertura de molinetes en la estación Diagonal Norte de la línea C como protesta por el despido de Araceli Pintos, trabajadora que denunció acoso por parte de un efectivo policial. Exigen su reincorporación y garantías de protección para denunciantes. Además, denuncian la presencia de asbesto en formaciones del subte y el incumplimiento de la empresa Emova en los plazos acordados para retirarlas de servicio",
+    "motivo": "Tercer día consecutivo de protestas masivas contra el megaproyecto turístico de lujo vinculado a Jared Kushner (yerno de Donald Trump) en la costa protegida de Vjosa-Narta y la isla Sazan. Miles de manifestantes en Tirana bajo el lema 'Albania no está en venta' exigen cancelación del proyecto y renuncia del primer ministro Edi Rama. Denuncian tala de pinares, destrucción de humedales, bloqueo de acceso a playas y agresiones de seguridad privada a activistas. El primer ministro Rama declaró que el proyecto sigue adelante 'sin ninguna posibilidad de ser detenido'. La Fiscalía Anticorrupción (SPAK) investiga. Manifestaciones anunciadas durante toda la semana",
     "status": "en_curso",
-    "lat": "-34.6076",
-    "lng": "-58.3811",
+    "lat": "41.3275",
+    "lng": "19.8187",
     "fuentes": [
       {
-        "nombre": "TN",
-        "url": "https://tn.com.ar/sociedad/2026/06/02/despues-del-paro-la-linea-c-del-subte-abrira-los-molinetes-a-que-hora-en-que-estacion-y-cual-es-el-reclamo/"
+        "nombre": "Euronews",
+        "url": "https://www.euronews.com/my-europe/2026/06/02/protests-against-luxury-resort-in-albania-linked-to-jared-jushner-now-in-second-day"
       },
       {
-        "nombre": "La 100",
-        "url": "https://la100.cienradios.com/sociedad/las-noticias-en-imagenes-las-fotos-que-impactan-hoy-martes-2-de-junio/"
+        "nombre": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-02/albania-pm-vows-to-press-ahead-with-kushner-resort-amid-protests"
+      },
+      {
+        "nombre": "Anadolu Ajansı",
+        "url": "https://www.aa.com.tr/en/europe/protests-grow-in-albania-over-kushner-linked-tourism-project/3953944"
+      },
+      {
+        "nombre": "Exit Explains Albania",
+        "url": "https://exit.al/en/exit-explains/thousands-protest-for-third-consecutive-day-against-zvernec-resort-project-i48035"
       }
     ],
-    "createdAt": "2026-06-02T19:43:14.000Z",
-    "updatedAt": "2026-06-02T19:44:42Z"
+    "createdAt": "2026-06-02T22:21:27.000Z",
+    "updatedAt": "2026-06-02T22:26:17Z"
+  },
+  {
+    "id": 191,
+    "seccion": "internacionales",
+    "pais": "Irán",
+    "bandera": "🇮🇷",
+    "hora": "10:00",
+    "fecha": "2026-06-02",
+    "lugar": "Ministerio de Educación y Consejo Supremo de la Revolución Cultural, Teherán. Réplicas en Mashhad y Hamadan",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Estudiantes universitarios de Irán"
+    ],
+    "motivo": "Protestas estudiantiles masivas en Teherán, Mashhad y Hamadan contra cambios repentinos en políticas de exámenes de ingreso universitario y sistemas de calificación (GPA). Estudiantes se congregaron frente al Ministerio de Educación y marcharon hacia el Consejo Supremo de la Revolución Cultural. Realizan sentadas coreando 'El estudiante está despierto, odia la discriminación'. El Ministro de Educación Kazemi desestimó las quejas. Se reportan al menos 30 estudiantes citados a comités disciplinarios en Sharif University, entre 5 y 7 expulsiones y más de 20 suspensiones. En Universidad de Teherán abrieron expedientes a 100-200 estudiantes. Inflación récord del 83.9% punto a punto agrava el descontento social",
+    "status": "en_curso",
+    "lat": "35.6892",
+    "lng": "51.3890",
+    "fuentes": [
+      {
+        "nombre": "NCRI Iran",
+        "url": "https://www.ncr-iran.org/en/news/economy/iranian-students-and-workers-stage-protests-amid-record-breaking-80-year-inflation-high/"
+      },
+      {
+        "nombre": "Iran News Update",
+        "url": "https://irannewsupdate.com/news/human-rights/new-wave-of-student-repression-sweeps-iranian-universities/"
+      }
+    ],
+    "createdAt": "2026-06-02T22:21:27.000Z",
+    "updatedAt": "2026-06-02T22:26:17Z"
+  },
+  {
+    "id": 192,
+    "seccion": "internacionales",
+    "pais": "Irán",
+    "bandera": "🇮🇷",
+    "hora": "00:01",
+    "fecha": "2026-06-02",
+    "lugar": "56 prisiones en todo Irán: Evin, Ghezel Hesar, Adelabad (Shiraz), Sheiban (Ahvaz), Dastgerd (Isfahan), Zahedan, Mashhad, Tabriz, Urmia, Sanandaj, entre otras",
+    "tipoAccion": "huelga_de_hambre",
+    "organizaciones": [
+      "Campaña 'No a las Ejecuciones los Martes'",
+      "Presos políticos en 56 centros de detención"
+    ],
+    "motivo": "Semana 123 consecutiva de huelga de hambre coordinada de presos políticos en 56 prisiones de Irán como parte de la campaña 'No a las Ejecuciones los Martes'. Exigen el fin inmediato de las ejecuciones y denuncian el aumento de sentencias de muerte contra presos políticos tras las revueltas de diciembre 2025-enero 2026. Denuncian la ejecución de Ashkan Maleki y Mehrdad Mohammadinia en Ghezel Hesar. Advierten que al menos 72 personas han sido ejecutadas desde el 21 de marzo de 2026, más de 25 por motivos políticos. Piden intervención internacional urgente. La campaña se mantiene pese a represalias de autoridades penitenciarias",
+    "status": "en_curso",
+    "lat": "35.6892",
+    "lng": "51.3890",
+    "fuentes": [
+      {
+        "nombre": "NCRI Iran",
+        "url": "https://www.ncr-iran.org/en/news/human-rights/mass-hunger-strike-campaign-reaches-123rd-week-across-56-iranian-prisons/"
+      },
+      {
+        "nombre": "Mojahedin Iran",
+        "url": "https://english.mojahedin.org/news/irans-no-to-executions-tuesdays-campaign-enters-123rd-week-across-56-prisons-amid-post-uprising-crackdown/"
+      }
+    ],
+    "createdAt": "2026-06-02T22:21:27.000Z",
+    "updatedAt": "2026-06-02T22:26:17Z"
+  },
+  {
+    "id": 193,
+    "seccion": "internacionales",
+    "pais": "España",
+    "bandera": "🇪🇸",
+    "hora": "08:00",
+    "fecha": "2026-06-02",
+    "lugar": "Casa Batlló, Passeig de Gràcia, Barcelona. Manifestación hasta Consorcio de Educación (Plaza Urquinaona)",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "CGT Ensenyament",
+      "Intersindical",
+      "COS (Coordinadora d'Assemblees de Docents)",
+      "CNT"
+    ],
+    "motivo": "Jornada de huelga de docentes en Barcelona contra el preacuerdo educativo alcanzado el viernes por el Departamento de Educación con sindicatos mayoritarios. Unos 300 docentes bloquearon el acceso a la Casa Batlló con pupitres y sillas durante más de 4 horas, impidiendo la apertura al público. Manifestación unitaria desde Palau Robert hasta el Consorcio de Educación. Consignas: 'Niubó, dimisión', 'este acuerdo no nos representa', 'Illa nos das calderilla'. Exigen mejoras salariales reales, reducción de ratios, blindaje del catalán y más presupuesto. Segunda consulta a 96,857 docentes. Advierten que seguirán afectando al turismo",
+    "status": "en_curso",
+    "lat": "41.3917",
+    "lng": "2.1649",
+    "fuentes": [
+      {
+        "nombre": "El País Cataluña",
+        "url": "https://elpais.com/espana/catalunya/2026-06-02/la-casa-batllo-de-barcelona-no-puede-abrir-al-publico-por-una-protesta-de-docentes.html"
+      },
+      {
+        "nombre": "La Vanguardia",
+        "url": "https://www.lavanguardia.com/vida/20260602/11553584/huelga-profesores-llega-barcelona-bloquea-acceso-casa-batllo.html"
+      },
+      {
+        "nombre": "Ara.cat",
+        "url": "https://en.ara.cat/society/teachers-opposed-to-the-agreement-stand-in-front-of-casa-batllo-in-barcelona_1_5755594.html"
+      },
+      {
+        "nombre": "VilaWeb",
+        "url": "https://www.vilaweb.cat/noticies/els-docents-en-vaga-fan-bicicletades-a-barcelona-i-una-protesta-davant-de-la-casa-batllo/"
+      }
+    ],
+    "createdAt": "2026-06-02T22:21:27.000Z",
+    "updatedAt": "2026-06-02T22:26:17Z"
+  },
+  {
+    "id": 194,
+    "seccion": "internacionales",
+    "pais": "Colombia",
+    "bandera": "🇨🇴",
+    "hora": "00:01",
+    "fecha": "2026-06-02",
+    "lugar": "Instalaciones de Ecopetrol en todo Colombia: Bogotá, Barrancabermeja (Santander), Puerto Gaitán (Meta), campos petroleros en 8 departamentos",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "USO (Unión Sindical Obrera)"
+    ],
+    "motivo": "Paro nacional de 24 horas de la USO (principal sindicato petrolero) en Ecopetrol por falta de avances en la negociación de la Convención Colectiva de Trabajo. Denuncian respuesta 'nula, negligente y dilatoria' de la vicepresidenta corporativa de Talento Organizacional, Victoria Irene Sepúlveda. Exigen mejoras salariales, fortalecimiento de derechos laborales y protección de la estabilidad laboral de más de 60,000 trabajadores del sector. Ecopetrol activó plan de contingencia nacional. El sindicato advierte: 'si no hay solución, no hay producción'. La negociación lleva 25 días sin avances",
+    "status": "en_curso",
+    "lat": "4.7110",
+    "lng": "-74.0721",
+    "fuentes": [
+      {
+        "nombre": "Infobae Colombia",
+        "url": "https://www.infobae.com/colombia/2026/06/02/union-sindical-obrera-anuncio-paro-de-trabajadores-de-24-horas-en-ecopetrol-bloquea-avances-para-los-trabajadores/"
+      },
+      {
+        "nombre": "Semana",
+        "url": "https://www.semana.com/economia/empresas/articulo/sindicato-de-trabajadores-de-ecopetrol-anuncia-paro-de-24-horas-habran-tambien-movilizaciones/202636/"
+      },
+      {
+        "nombre": "El Tiempo",
+        "url": "https://www.eltiempo.com/economia/sectores/ecopetrol-rechaza-senalamientos-de-la-uso-y-activa-plan-de-contingencia-nacional-ante-paro-de-24-horas-3561502"
+      },
+      {
+        "nombre": "Portafolio",
+        "url": "https://www.portafolio.co/negocios/empresas/paro-en-ecopetrol-la-uso-principal-sindicato-petrolero-de-colombia-anuncia-cese-de-actividades-por-24-horas-495287"
+      }
+    ],
+    "createdAt": "2026-06-02T22:21:27.000Z",
+    "updatedAt": "2026-06-02T22:26:17Z"
+  },
+  {
+    "id": 195,
+    "seccion": "internacionales",
+    "pais": "Suiza",
+    "bandera": "🇨🇭",
+    "hora": "18:00",
+    "fecha": "2026-06-02",
+    "lugar": "Plaine de Plainpalais, Ginebra. Huelga de 3 días (2-4 de junio) con concentraciones y manifestaciones",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "Cartel Intersindical del Personal del Estado y Sector Subvencionado de Ginebra"
+    ],
+    "motivo": "Huelga de 3 días (2-4 junio) de empleados públicos en Ginebra contra los recortes presupuestarios y medidas de austeridad del Cantón. Unos 900 manifestantes protestaron el martes contra el congelamiento salarial para 2026-2029 (pérdida de hasta 5.1% del salario), la falta de ajuste por inflación y el aumento de cotizaciones a la CPEG (caja de pensiones) que reduciría hasta 12% los salarios netos. Exigen incrementos salariales, más personal, retiro del plan de austeridad y rechazo a la reforma de pensiones. Más protestas previstas el miércoles y jueves",
+    "status": "en_curso",
+    "lat": "46.2000",
+    "lng": "6.1500",
+    "fuentes": [
+      {
+        "nombre": "Le Courrier",
+        "url": "https://lecourrier.ch/2026/05/26/la-fonction-publique-en-greve-du-2-au-4-juin/"
+      },
+      {
+        "nombre": "Europe Says Switzerland",
+        "url": "https://www.europesays.com/ch/76466/"
+      },
+      {
+        "nombre": "SafeAbroad",
+        "url": "https://safeabroad.com/the-week-ahead/the-week-ahead-june-1-2026/"
+      }
+    ],
+    "createdAt": "2026-06-02T22:21:27.000Z",
+    "updatedAt": "2026-06-02T22:26:17Z"
   }
 ]
