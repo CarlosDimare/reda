@@ -62,7 +62,7 @@
       }
     ],
     "createdAt": "2026-06-01T00:11:25.000Z",
-    "updatedAt": "2026-06-03T00:17:29Z"
+    "updatedAt": "2026-06-03T05:31:32Z"
   },
   {
     "id": 148,
@@ -103,7 +103,7 @@
       }
     ],
     "createdAt": "2026-06-01T10:37:29.000Z",
-    "updatedAt": "2026-06-03T00:17:29Z"
+    "updatedAt": "2026-06-03T05:31:32Z"
   },
   {
     "id": 165,
@@ -143,7 +143,7 @@
       }
     ],
     "createdAt": "2026-06-01T20:54:01.000Z",
-    "updatedAt": "2026-06-03T00:17:29Z"
+    "updatedAt": "2026-06-03T05:31:32Z"
   },
   {
     "id": 184,
@@ -178,7 +178,7 @@
       }
     ],
     "createdAt": "2026-06-02T11:16:46.000Z",
-    "updatedAt": "2026-06-03T00:17:29Z"
+    "updatedAt": "2026-06-03T05:31:32Z"
   },
   {
     "id": 190,
@@ -216,7 +216,7 @@
       }
     ],
     "createdAt": "2026-06-02T22:21:27.000Z",
-    "updatedAt": "2026-06-03T00:17:29Z"
+    "updatedAt": "2026-06-03T05:31:32Z"
   },
   {
     "id": 195,
@@ -246,10 +246,14 @@
       {
         "nombre": "SafeAbroad",
         "url": "https://safeabroad.com/the-week-ahead/the-week-ahead-june-1-2026/"
+      },
+      {
+        "nombre": "Cartel Intersyndical Genève",
+        "url": "https://cartel-ge.ch/planning-de-la-greve-des-2-3-et-4-juin-2026/"
       }
     ],
     "createdAt": "2026-06-02T22:21:27.000Z",
-    "updatedAt": "2026-06-03T00:17:29Z"
+    "updatedAt": "2026-06-03T05:31:32Z"
   },
   {
     "id": 196,
@@ -301,7 +305,7 @@
       }
     ],
     "createdAt": "2026-06-03T00:10:22.000Z",
-    "updatedAt": "2026-06-03T00:17:29Z"
+    "updatedAt": "2026-06-03T05:31:32Z"
   },
   {
     "id": 197,
@@ -343,7 +347,7 @@
       }
     ],
     "createdAt": "2026-06-03T00:10:22.000Z",
-    "updatedAt": "2026-06-03T00:17:29Z"
+    "updatedAt": "2026-06-03T05:31:32Z"
   },
   {
     "id": 198,
@@ -386,7 +390,119 @@
       }
     ],
     "createdAt": "2026-06-03T00:10:22.000Z",
-    "updatedAt": "2026-06-03T00:17:29Z"
+    "updatedAt": "2026-06-03T05:31:32Z"
+  },
+  {
+    "id": 203,
+    "seccion": "internacionales",
+    "pais": "Nigeria",
+    "bandera": "🇳🇬",
+    "hora": "08:00",
+    "fecha": "2026-06-03",
+    "lugar": "Abuja (FCT) y réplicas en los 36 estados del país. Protestas simultáneas de la NUT en todo el territorio nacional",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "NUT (Nigeria Union of Teachers)"
+    ],
+    "motivo": "Protesta nacional de solidaridad de la NUT en los 36 estados y el FCT por el asesinato de un maestro y el secuestro de decenas de alumnos y personal docente en escuelas de Oyo State el 15 de mayo de 2026. Exigen acciones urgentes del gobierno federal y agencias de seguridad para proteger a maestros, estudiantes e instalaciones escolares en todo el país. En Oyo, escuelas públicas primarias y secundarias cerradas en los 33 gobiernos locales. Protestas también en Ogun, Akwa Ibom y Borno State",
+    "status": "en_curso",
+    "lat": "9.0765",
+    "lng": "7.3986",
+    "fuentes": [
+      {
+        "nombre": "Authority News",
+        "url": "https://authorityngr.com/2026/06/03/nut-stages-nationwide-protests-over-school-abductions/"
+      },
+      {
+        "nombre": "Eko Hot Blog",
+        "url": "https://ekohotblog.com/oyo-school-abductions-protests-spread-across-nigeria-as-national-assembly-debates-state-police/"
+      },
+      {
+        "nombre": "Vanguard",
+        "url": "https://www.vanguardngr.com/2026/06/protests-rock-oyo-ogun-over-abduction-of-teachers-students/"
+      }
+    ],
+    "createdAt": "2026-06-03T05:25:17.000Z",
+    "updatedAt": "2026-06-03T05:31:32Z"
+  },
+  {
+    "id": 204,
+    "seccion": "internacionales",
+    "pais": "República Democrática del Congo",
+    "bandera": "🇨🇩",
+    "hora": "06:00",
+    "fecha": "2026-06-03",
+    "lugar": "Kinshasa y réplicas en varias ciudades del país",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Oposición política congoleña",
+      "Sociedad civil",
+      "Movimientos de apoyo al gobierno (contra-marcha)"
+    ],
+    "motivo": "Jornada de tensión máxima en Kinshasa por dos movilizaciones antagónicas simultáneas: la oposición convoca a una operación 'ville morte' (ciudad muerta) contra la gobernanza actual y el proyecto de revisión constitucional, mientras el oficialismo convoca una gran marcha de apoyo a la reforma. Se temen enfrentamientos. La oposición denuncia una maniobra para consolidar el poder y debilitar los equilibrios democráticos de la Constitución de 2006. El gobierno acusa a la oposición de buscar desestabilización",
+    "status": "en_curso",
+    "lat": "-4.4419",
+    "lng": "15.2663",
+    "fuentes": [
+      {
+        "nombre": "Le Mandat",
+        "url": "https://www.lemandat.cd/3-juin-2026-kinshasa-au-bord-dune-implosion-sociale/"
+      }
+    ],
+    "createdAt": "2026-06-03T05:25:17.000Z",
+    "updatedAt": "2026-06-03T05:31:32Z"
+  },
+  {
+    "id": 205,
+    "seccion": "internacionales",
+    "pais": "Francia",
+    "bandera": "🇫🇷",
+    "hora": "18:00",
+    "fecha": "2026-06-03",
+    "lugar": "Ángulo rue des Cévennes / Balard, París 15. Metro Balard o Javel",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Colectivos contra la propaganda de guerra del Kremlin",
+      "Aplutsoc (Arguments pour la lutte sociale)"
+    ],
+    "motivo": "Manifestación en París contra la propaganda de guerra del Kremlin en los medios de comunicación. Denuncian la difusión de propaganda rusa en medios franceses y europeos en el contexto de la guerra en Ucrania y el conflicto en Medio Oriente. Llaman a detener la desinformación y exigir una cobertura mediática independiente y veraz",
+    "status": "en_curso",
+    "lat": "48.8428",
+    "lng": "2.2795",
+    "fuentes": [
+      {
+        "nombre": "Arguments pour la lutte sociale",
+        "url": "https://aplutsoc.org/2026/06/01/halte-a-la-propagande-de-guerre-du-kremlin-dans-nos-medias-manifestation-mercredi-3-juin-2026-a-18h/"
+      }
+    ],
+    "createdAt": "2026-06-03T05:25:17.000Z",
+    "updatedAt": "2026-06-03T05:31:32Z"
+  },
+  {
+    "id": 206,
+    "seccion": "internacionales",
+    "pais": "Colombia",
+    "bandera": "🇨🇴",
+    "hora": "08:00",
+    "fecha": "2026-06-03",
+    "lugar": "Bogotá: Plaza de Bolívar (plantón docente) y Planta Coca-Cola Femsa, Fontibón (protesta sindical)",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "ADE (Asociación Distrital de Educadores)",
+      "Organizaciones sindicales del sector de bebidas y alimentos"
+    ],
+    "motivo": "Dos movilizaciones en Bogotá: 1) Plantón ciudadano de la ADE en la Plaza de Bolívar a las 8:00 AM por la defensa de las aulas de apoyo y contra los recortes educativos. 2) Plantón nacional de sindicatos en la planta de Coca-Cola Femsa Fontibón a las 10:00 AM por reivindicaciones laborales en el sector de bebidas y alimentos. Ambas protestas en el contexto de las elecciones presidenciales y la polarización política en Colombia",
+    "status": "en_curso",
+    "lat": "4.5981",
+    "lng": "-74.0758",
+    "fuentes": [
+      {
+        "nombre": "Alcaldía Mayor de Bogotá",
+        "url": "https://www.gobiernobogota.gov.co/noticias/manifestaciones-bogota-03-14-junio"
+      }
+    ],
+    "createdAt": "2026-06-03T05:25:17.000Z",
+    "updatedAt": "2026-06-03T05:31:32Z"
   },
   {
     "id": 199,
@@ -425,10 +541,22 @@
       {
         "nombre": "Página 12",
         "url": "https://www.pagina12.com.ar/2026/06/ni-una-menos-3j"
+      },
+      {
+        "nombre": "C5N",
+        "url": "https://www.c5n.com/sociedad/marcha-ni-una-menos-3J-horario-cortes-convocatoria-02-junio-2026"
+      },
+      {
+        "nombre": "Minuto Uno",
+        "url": "https://www.minutouno.com/sociedad/ni-una-menos-vuelve-marchar-este-miercoles-al-congreso-plena-conmocion-el-femicidio-agostina-vega-n6284464"
+      },
+      {
+        "nombre": "ATE",
+        "url": "https://ate.org.ar/260601-3j-niunamenos/"
       }
     ],
     "createdAt": "2026-06-03T00:12:20.000Z",
-    "updatedAt": "2026-06-03T00:17:29Z"
+    "updatedAt": "2026-06-03T05:31:32Z"
   },
   {
     "id": 200,
@@ -464,7 +592,7 @@
       }
     ],
     "createdAt": "2026-06-03T00:12:20.000Z",
-    "updatedAt": "2026-06-03T00:17:29Z"
+    "updatedAt": "2026-06-03T05:31:32Z"
   },
   {
     "id": 201,
@@ -498,7 +626,7 @@
       }
     ],
     "createdAt": "2026-06-03T00:12:20.000Z",
-    "updatedAt": "2026-06-03T00:17:29Z"
+    "updatedAt": "2026-06-03T05:31:32Z"
   },
   {
     "id": 202,
@@ -527,6 +655,37 @@
       }
     ],
     "createdAt": "2026-06-03T00:12:20.000Z",
-    "updatedAt": "2026-06-03T00:17:29Z"
+    "updatedAt": "2026-06-03T05:31:32Z"
+  },
+  {
+    "id": 207,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "16:00",
+    "fecha": "2026-06-03",
+    "lugar": "Congreso de la Nación, Av. Rivadavia y Callao, CABA. Réplicas en todo el país",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Unión de Trabajadores Jubilados en Lucha (UTJEL)",
+      "Mesa Coordinadora Nacional de Organizaciones de Jubilados y Pensionados",
+      "Jubilados y pensionados autoconvocados"
+    ],
+    "motivo": "Marcha semanal de jubilados de los miércoles contra las políticas de ajuste del gobierno de Javier Milei. Exigen aumento de haberes jubilatorios, restitución de medicamentos gratuitos del PAMI, movilidad previsional sin techo ni tope, prórroga de la moratoria previsional y rechazo a la reforma jubilatoria. Denuncian recortes en salud y pérdida del poder adquisitivo. Hoy confluyen con la movilización del Ni Una Menos (3J) que se realiza a continuación en el mismo lugar",
+    "status": "en_curso",
+    "lat": "-34.6097",
+    "lng": "-58.3924",
+    "fuentes": [
+      {
+        "nombre": "Infobae",
+        "url": "https://www.infobae.com/sociedad/2026/06/02/marcha-por-ni-una-menos-hora-convocatorias-y-cortes-este-3-de-junio-contra-la-violencia-de-genero/"
+      },
+      {
+        "nombre": "C5N",
+        "url": "https://www.c5n.com/sociedad/marcha-ni-una-menos-3J-horario-cortes-convocatoria-02-junio-2026"
+      }
+    ],
+    "createdAt": "2026-06-03T05:28:08.000Z",
+    "updatedAt": "2026-06-03T05:31:32Z"
   }
 ]
