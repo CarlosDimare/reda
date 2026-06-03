@@ -1,110 +1,11 @@
 [
   {
-    "id": 180,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "17:00",
-    "fecha": "2026-06-02",
-    "lugar": "Plaza de Mayo, Ciudad de Buenos Aires. Réplicas en plazas centrales de todo el país",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Adolfo Pérez Esquivel (Premio Nobel de la Paz)",
-      "Mesa Ecuménica por la democracia, la vida y el bien común",
-      "CTA de los Trabajadores (Hugo Yasky)",
-      "CTA Autónoma (Hugo 'Cachorro' Godoy)"
-    ],
-    "motivo": "Inicio del ayuno nacional de 8 días en Plaza de Mayo contra las políticas del gobierno de Javier Milei. Bajo el lema 'Jornada de ayuno y oración para despertar las conciencias', denuncian el crecimiento del hambre, la exclusión, la violencia y el deterioro social. Participan los músicos Peteco Carabajal y Bruno Arias. Se replica en plazas centrales del interior del país con organizaciones ecuménicas, sociales y de derechos humanos. Acto de cierre el 9 de junio con concentración masiva en Plaza de Mayo. Las CTA anunciaron que promoverán juicio político a Milei",
-    "status": "en_curso",
-    "lat": "-34.6083",
-    "lng": "-58.3719",
-    "fuentes": [
-      {
-        "nombre": "Infobae",
-        "url": "https://www.infobae.com/politica/2026/05/31/perez-esquivel-y-las-cta-convocaron-a-un-ayuno-nacional-de-ocho-dias-en-plaza-de-mayo-contra-el-gobierno/"
-      },
-      {
-        "nombre": "Clarín",
-        "url": "https://www.clarin.com/politica/rebelarse-adolfo-perez-esquivel-cta-peteco-carabajal-lanzan-ayuno-dias-milei-plaza-mayo_0_USEPoYdX3I.html"
-      },
-      {
-        "nombre": "Contrapunto Digital",
-        "url": "https://contrapunto.digital/nacion/convocan-a-protesta-en-plaza-de-mayo-contra-el-gobierno-de-javier-milei-jornada-de-ayuno-y-oracion-para-despertar-conciencias/"
-      },
-      {
-        "nombre": "Ámbito",
-        "url": "https://www.ambito.com/politica/convocaron-un-ayuno-ocho-dias-plaza-mayo-contra-el-gobierno-n6283328"
-      },
-      {
-        "nombre": "Contexto Tucumán",
-        "url": "https://www.contextotucuman.com/nota/387049/hay-que-rebelarse-adolfo-perez-esquivel-las-dos-cta-y-peteco-carabajal-lanzan-un-ayuno-de-ocho-dias-contra-milei-en-plaza-mayo.html"
-      },
-      {
-        "nombre": "LT9",
-        "url": "https://www.lt9.com.ar/convocan-a-un-ayuno-nacional-de-ocho-dias-en-protesta-contra-el-gobierno-de-milei/"
-      },
-      {
-        "nombre": "Contexto Tucumán",
-        "url": "https://www.contextotucuman.com/nota/387049/hay-que-rebelarse-adolfo-perez-esquivel-las-dos-cta-y-peteco-carabajal-lanzan-un-ayuno-de-ocho-dias-contra-milei-en-plaza-de-mayo.html"
-      },
-      {
-        "nombre": "El Patagónico",
-        "url": "https://www.elpatagonico.com/perez-esquivel-convoca-un-ayuno-plaza-mayo-contra-milei-n6283219"
-      },
-      {
-        "nombre": "El Litoral",
-        "url": "https://www.ellitoral.com.ar/nacional/2026-5-31-12-10-0-el-nobel-adolfo-perez-esquivel-convoco-a-un-ayuno-nacional-en-contra-del-gobierno-de-milei"
-      },
-      {
-        "nombre": "Resumen Latinoamericano",
-        "url": "https://www.resumenlatinoamericano.org/2026/05/30/argentina-perez-esquivel-impulsa-una-semana-de-ayuno-como-protesta-contra-el-gobierno-de-milei/"
-      }
-    ],
-    "createdAt": "2026-06-02T02:01:05.000Z",
-    "updatedAt": "2026-06-02T22:26:17Z"
-  },
-  {
-    "id": 189,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "09:30",
-    "fecha": "2026-06-02",
-    "lugar": "Estación Diagonal Norte, Línea C de Subte, Ciudad de Buenos Aires. Concentración frente al Juzgado Nacional del Trabajo N° 33 (Av. Roque Sáenz Peña 760)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "AGTSyP (Asociación Gremial de Trabajadores del Subte y Premetro)",
-      "Metrodelegados",
-      "Comité por la Reincorporación de Araceli Pintos"
-    ],
-    "motivo": "Apertura de molinetes en la estación Diagonal Norte de la línea C (9:30-10:00 hs) como protesta por el despido de Araceli Pintos, trabajadora que denunció acoso por parte de un efectivo policial. La protesta se trasladó luego al Juzgado Nacional del Trabajo N° 33 para una audiencia clave. Exigen su reincorporación y garantías de protección para denunciantes. Además, denuncian la presencia de asbesto en formaciones Nagoya 5000 y el incumplimiento de la empresa Emova en los plazos acordados para retirarlas de servicio (vencían el 31 de mayo)",
-    "status": "finalizada",
-    "lat": "-34.6076",
-    "lng": "-58.3811",
-    "fuentes": [
-      {
-        "nombre": "TN",
-        "url": "https://tn.com.ar/sociedad/2026/06/02/despues-del-paro-la-linea-c-del-subte-abrira-los-molinetes-a-que-hora-en-que-estacion-y-cual-es-el-reclamo/"
-      },
-      {
-        "nombre": "La 100",
-        "url": "https://la100.cienradios.com/sociedad/las-noticias-en-imagenes-las-fotos-que-impactan-hoy-martes-2-de-junio/"
-      },
-      {
-        "nombre": "Gestión Sindical",
-        "url": "https://gestionsindical.com/protesta-subte-c-durante-rato-se-viaja-gratis-tres-lineas/"
-      }
-    ],
-    "createdAt": "2026-06-02T19:43:14.000Z",
-    "updatedAt": "2026-06-02T22:26:17Z"
-  },
-  {
     "id": 146,
     "seccion": "internacionales",
     "pais": "México",
     "bandera": "🇲🇽",
     "hora": "09:00",
-    "fecha": "2026-06-02",
+    "fecha": "2026-06-03",
     "lugar": "Plantón en calles aledañas al Zócalo (20 de Noviembre), Ciudad de México. Réplicas en Chiapas, CDMX, Guerrero, Michoacán, Oaxaca, Veracruz, Zacatecas, Yucatán, Baja California e Hidalgo. Toma del Aeropuerto de Oaxaca",
     "tipoAccion": "huelga_nacional",
     "organizaciones": [
@@ -161,7 +62,7 @@
       }
     ],
     "createdAt": "2026-06-01T00:11:25.000Z",
-    "updatedAt": "2026-06-02T22:26:17Z"
+    "updatedAt": "2026-06-03T00:17:29Z"
   },
   {
     "id": 148,
@@ -169,7 +70,7 @@
     "pais": "Pakistán",
     "bandera": "🇵🇰",
     "hora": "08:00",
-    "fecha": "2026-06-02",
+    "fecha": "2026-06-03",
     "lugar": "Administration Block, University of Karachi, Karachi, Sindh",
     "tipoAccion": "huelga",
     "organizaciones": [
@@ -202,189 +103,7 @@
       }
     ],
     "createdAt": "2026-06-01T10:37:29.000Z",
-    "updatedAt": "2026-06-02T22:26:17Z"
-  },
-  {
-    "id": 155,
-    "seccion": "internacionales",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
-    "hora": "00:01",
-    "fecha": "2026-06-02",
-    "lugar": "American Axle (Dauch Corp.), Three Rivers, Míchigan",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "UAW Local 2093 (United Auto Workers)"
-    ],
-    "motivo": "Huelga indefinida de casi 1,000 trabajadores de la planta de American Axle (Dauch Corp.), proveedor clave de General Motors. Los trabajadores exigen la restauración de los salarios recortados durante la Gran Recesión de 2008, cuando algunos vieron sus sueldos reducidos de $29/hora a $14.50/hora. El salario máximo actual es de $22/hora. La huelga comenzó a la medianoche del 1 de junio tras fracasar las negociaciones contractuales. El presidente de UAW, Shawn Fain, declaró: 'No contract, no axles'. La planta produce ejes para camionetas GM Chevrolet Silverado y GMC Sierra. El sindicato también presentó cargos federales por prácticas laborales injustas contra la empresa",
-    "status": "en_curso",
-    "lat": "41.9439",
-    "lng": "-85.6325",
-    "fuentes": [
-      {
-        "nombre": "CBS Detroit",
-        "url": "https://www.cbsnews.com/detroit/news/uaw-local-2093-begins-strike-at-american-axle-in-three-rivers/"
-      },
-      {
-        "nombre": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/01/uaw-strike-union-work-stoppage-threatens-gm-truck-production.html"
-      },
-      {
-        "nombre": "Detroit Free Press",
-        "url": "https://www.freep.com/story/money/cars/2026/05/31/uaw-members-to-strike-at-american-axle-no-contract-no-axles/90347993007/"
-      },
-      {
-        "nombre": "Michigan Advance",
-        "url": "https://michiganadvance.com/briefs/workers-strike-at-three-rivers-axle-plan-as-contract-expires/"
-      }
-    ],
-    "createdAt": "2026-06-01T16:39:40.000Z",
-    "updatedAt": "2026-06-02T22:26:17Z"
-  },
-  {
-    "id": 157,
-    "seccion": "internacionales",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "00:01",
-    "fecha": "2026-06-02",
-    "lugar": "Hospitales públicos de la Comunidad de Madrid: 12 de Octubre, Clínico San Carlos, La Paz, Puerta de Hierro, La Princesa, Móstoles, Gregorio Marañón, Alcorcón, Getafe, Infanta Leonor, Niño Jesús, Ramón y Cajal, Severo Ochoa, Leganés",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "AMYTS (Asociación de Médicos y Titulados Superiores de Madrid)"
-    ],
-    "motivo": "Médicos de 14 hospitales públicos de Madrid continúan sin realizar horas extra voluntarias (peonadas) para operar, como protesta por la falta de avances en la mejora de sus condiciones laborales y retributivas. Exigen mesa de negociación propia, jornada de 35 horas, mejora de retribución de guardias, fin del abuso de temporalidad e incrementos salariales. La medida afecta la reducción de demoras quirúrgicas pero excluye trasplantes y guardias localizadas por ser esenciales",
-    "status": "en_curso",
-    "lat": "40.4168",
-    "lng": "-3.7038",
-    "fuentes": [
-      {
-        "nombre": "El Confidencial",
-        "url": "https://www.elconfidencial.com/salud/2026-05-26/medicos-madrilenos-dejaran-de-hacer-horas-extra_4361667/"
-      }
-    ],
-    "createdAt": "2026-06-01T16:39:40.000Z",
-    "updatedAt": "2026-06-02T22:26:17Z"
-  },
-  {
-    "id": 158,
-    "seccion": "internacionales",
-    "pais": "Bolivia",
-    "bandera": "🇧🇴",
-    "hora": "09:00",
-    "fecha": "2026-06-02",
-    "lugar": "La Paz y El Alto; más de 90 puntos de bloqueo en todo el país (La Paz, Cochabamba, Oruro, Potosí, Chuquisaca, Santa Cruz)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Central Obrera Boliviana (COB)",
-      "Federación Túpac Katari",
-      "Cocaleros del Chapare (Evo Morales)",
-      "Campesinos, mineros, transportistas y maestros"
-    ],
-    "motivo": "Día 33 de protestas masivas en Bolivia. La COB rechazó el diálogo con el gobierno de Rodrigo Paz y mantiene 94 puntos de bloqueo en 6 departamentos. Exigen la renuncia del presidente en el marco de la peor crisis económica del país en cuatro décadas. Los bloqueos han provocado desabastecimiento de alimentos, medicinas y combustibles. Precios de carnes, huevos y vegetales se duplicaron. El Congreso aprobó una ley que permite el despliegue militar. 3 muertos reportados. Se abrieron corredores humanitarios para emergencias médicas",
-    "status": "en_curso",
-    "lat": "-16.5000",
-    "lng": "-68.1500",
-    "fuentes": [
-      {
-        "nombre": "Diario Las Américas",
-        "url": "https://www.diariolasamericas.com/america-latina/protestas-se-extienden-bolivia-derrocar-al-gobierno-no-se-vislumbra-una-salida-la-crisis-n5396430"
-      },
-      {
-        "nombre": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/2026_Bolivian_protests"
-      },
-      {
-        "nombre": "Democracy Now!",
-        "url": "https://www.democracynow.org/2026/5/29/kathryn_ledebur_bolivia_andean_information_network"
-      },
-      {
-        "nombre": "El País Bolivia",
-        "url": "https://elpais.bo/nacional/20260601_la-cob-y-campesinos-rechazan-el-dialogo-y-mantienen-los-bloqueos.html"
-      },
-      {
-        "nombre": "ABC News Australia",
-        "url": "https://www.abc.net.au/news/2026-05-28/bolivia-protests-puts-country-at-breaking-point-president-says/106732146"
-      },
-      {
-        "nombre": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c8932y4d4w7o"
-      }
-    ],
-    "createdAt": "2026-06-01T23:04:26.000Z",
-    "updatedAt": "2026-06-02T22:26:17Z"
-  },
-  {
-    "id": 163,
-    "seccion": "internacionales",
-    "pais": "Nigeria",
-    "bandera": "🇳🇬",
-    "hora": "00:01",
-    "fecha": "2026-06-02",
-    "lugar": "Escuelas públicas primarias y secundarias de todo el Estado de Oyo. Protestas frente a Government Houses en todo el país",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "NUT (Nigeria Union of Teachers)"
-    ],
-    "motivo": "Huelga indefinida de todos los docentes de escuelas públicas en Oyo State desde el 1 de junio. Exigen la liberación inmediata de 7 profesores y 39 estudiantes secuestrados el 15 de mayo en Oriire LGA. La NUT también convocó a protestas pacíficas frente a Government Houses en todo Nigeria para el 2 de junio. El presidente Tinubu aprobó el reclutamiento de 1,000 guardias forestales para Oyo State y ordenó el despliegue de un equipo de rescate especializado. Un maestro fue asesinado durante el ataque",
-    "status": "en_curso",
-    "lat": "7.8400",
-    "lng": "3.9300",
-    "fuentes": [
-      {
-        "nombre": "Optimum Times",
-        "url": "https://optimumtimes.com/oyo-teachers-begin-indefinite-strike-over-abducted-colleagues-pupils/"
-      },
-      {
-        "nombre": "Premium Times",
-        "url": "https://www.premiumtimesng.com/news/top-news/884413-oyo-teachers-begin-indefinite-strike-over-continued-captivity-of-abducted-colleagues-pupils.html"
-      },
-      {
-        "nombre": "Pulse Nigeria",
-        "url": "https://www.pulse.ng/story/protest-erupts-in-ibadan-over-abducted-oyo-pupils-teachers-as-nut-begins-indefinite-strike-2026060111262751600"
-      },
-      {
-        "nombre": "Nigeria Brief",
-        "url": "https://nigeriabrief.com/nut-shuts-oyo-school-and-calls-for-nationwide-protests-following-abduction-of-teachers-and-students/"
-      },
-      {
-        "nombre": "Sahara Reporters",
-        "url": "https://saharareporters.com/2026/06/01/oyo-schools-abduction-nigerian-union-teachers-abuja-announces-venue-protests"
-      }
-    ],
-    "createdAt": "2026-06-01T20:54:01.000Z",
-    "updatedAt": "2026-06-02T22:26:17Z"
-  },
-  {
-    "id": 164,
-    "seccion": "internacionales",
-    "pais": "Georgia",
-    "bandera": "🇬🇪",
-    "hora": "18:00",
-    "fecha": "2026-06-02",
-    "lugar": "Avenida Rustaveli, Tbilisi",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Opposition Alliance (9 partidos de oposición)",
-      "Ahali",
-      "Strategy Aghmashebeli"
-    ],
-    "motivo": "Día 550 de protestas continuas de la oposición en Tbilisi. Los manifestantes recorren el centro de Tbilisi en apoyo al futuro europeo de Georgia, critican al gobierno de Georgian Dream y exigen la liberación de presos políticos. Las protestas comenzaron en noviembre de 2024 tras la decisión del gobierno de suspender las negociaciones de adhesión a la UE. La movilización ocurre en un contexto de crisis socioeconómica y estancamiento político",
-    "status": "en_curso",
-    "lat": "41.7151",
-    "lng": "44.7833",
-    "fuentes": [
-      {
-        "nombre": "Pravda EN",
-        "url": "https://news-pravda.com/world/2026/06/01/2342489.html"
-      },
-      {
-        "nombre": "Civil Georgia",
-        "url": "https://civil.ge/archives/735927"
-      }
-    ],
-    "createdAt": "2026-06-01T20:54:01.000Z",
-    "updatedAt": "2026-06-02T22:26:17Z"
+    "updatedAt": "2026-06-03T00:17:29Z"
   },
   {
     "id": 165,
@@ -392,7 +111,7 @@
     "pais": "España",
     "bandera": "🇪🇸",
     "hora": "10:00",
-    "fecha": "2026-06-02",
+    "fecha": "2026-06-03",
     "lugar": "Conselleria de Educación, Valencia. Réplicas en Alicante y calles del centro de Valencia (Colón, Conde Trénor)",
     "tipoAccion": "huelga",
     "organizaciones": [
@@ -424,320 +143,7 @@
       }
     ],
     "createdAt": "2026-06-01T20:54:01.000Z",
-    "updatedAt": "2026-06-02T22:26:17Z"
-  },
-  {
-    "id": 172,
-    "seccion": "internacionales",
-    "pais": "Perú",
-    "bandera": "🇵🇪",
-    "hora": "00:01",
-    "fecha": "2026-06-02",
-    "lugar": "Lima Metropolitana y Callao, Perú. Réplicas a nivel nacional en transporte interprovincial y de carga pesada",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "Coordinadora de Empresas de Transporte Urbano (CTU)",
-      "Unión Nacional de Transportistas",
-      "Cotrap (Gremio de Transportistas)"
-    ],
-    "motivo": "Paro nacional de transportistas de 24 horas en Lima y Callao contra el alza del combustible y el incumplimiento del Gobierno del subsidio de S/4 por galón de diésel. Más de 120 mil transportistas participan con 'apagado de motores'. Exigen la emisión de un decreto de urgencia que oficialice el subsidio acordado en abril. El paro afecta al 80% de los viajes en Lima Metropolitana. Los gremios descartan el diálogo por incumplimiento de acuerdos previos. Podría extenderse si el Ejecutivo no responde",
-    "status": "en_curso",
-    "lat": "-12.0464",
-    "lng": "-77.0428",
-    "fuentes": [
-      {
-        "nombre": "Líbero",
-        "url": "https://libero.pe/tiempoextra/2026/05/25/paro-de-transportistas-2-de-junio-2026-alza-del-combustible-todo-debes-saber-lima-callao-peru-1831325"
-      },
-      {
-        "nombre": "Willax",
-        "url": "https://willax.pe/actualidad/transportistas-paro-indefinido-2-junio-incumplimiento-gobierno-willax"
-      },
-      {
-        "nombre": "RPP",
-        "url": "https://rpp.pe/politica/gobierno/transportistas-dicen-que-paro-del-2-de-junio-sera-por-24-horas-y-descartan-posibilidad-de-dialogo-no-hay-nada-que-conversar-noticia-1690893"
-      }
-    ],
-    "createdAt": "2026-06-02T01:58:04.000Z",
-    "updatedAt": "2026-06-02T22:26:17Z"
-  },
-  {
-    "id": 173,
-    "seccion": "internacionales",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
-    "hora": "12:00",
-    "fecha": "2026-06-02",
-    "lugar": "Independence Avenue SE y New Jersey Avenue SE, frente al Capitolio, Washington D.C.",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "CODEPINK - Women for Peace"
-    ],
-    "motivo": "Rally 'All Out Against U.S. Wars' para protestar contra la guerra de Estados Unidos en Irán, el genocidio en Gaza y el estrangulamiento económico de Cuba. La protesta coincide con el testimony del Secretario de Estado Marco Rubio ante el Comité de Relaciones Exteriores del Senado. Activistas planean estar fuera y dentro del Congreso. Exigen el fin de las guerras de EE.UU. en Líbano, Irán, Palestina y Cuba",
-    "status": "en_curso",
-    "lat": "38.8870",
-    "lng": "-77.0090",
-    "fuentes": [
-      {
-        "nombre": "CODEPINK",
-        "url": "https://www.codepink.org/rubiorallyjune2"
-      },
-      {
-        "nombre": "CODEPINK",
-        "url": "https://www.codepink.org/nowar6226"
-      }
-    ],
-    "createdAt": "2026-06-02T01:58:04.000Z",
-    "updatedAt": "2026-06-02T22:26:17Z"
-  },
-  {
-    "id": 174,
-    "seccion": "internacionales",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
-    "hora": "07:30",
-    "fecha": "2026-06-02",
-    "lugar": "HCA Florida Fort Walton-Destin Hospital, 1000 Marwalt Dr., Fort Walton Beach, Florida",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "NNOC/NNU (National Nurses Organizing Committee/National Nurses United)"
-    ],
-    "motivo": "Piquete informativo de enfermeras del HCA Florida Fort Walton-Destin Hospital para visibilizar problemas de seguridad del paciente. Denuncian falta de personal adecuado (inadequate staffing) y respuesta insuficiente a la violencia en el lugar de trabajo. Exigen mejores condiciones de seguridad para pacientes y personal sanitario",
-    "status": "en_curso",
-    "lat": "30.4207",
-    "lng": "-86.6148",
-    "fuentes": [
-      {
-        "nombre": "USA Works",
-        "url": "https://usa-works.org/union-news/rns-protest-unsafe-staffing-and-violence-at-hca-florida-hospital/"
-      }
-    ],
-    "createdAt": "2026-06-02T01:58:04.000Z",
-    "updatedAt": "2026-06-02T22:26:17Z"
-  },
-  {
-    "id": 175,
-    "seccion": "internacionales",
-    "pais": "Reino Unido",
-    "bandera": "🇬🇧",
-    "hora": "00:01",
-    "fecha": "2026-06-02",
-    "lugar": "Red de Metro de Londres (London Underground), Londres, Reino Unido",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "RMT (Rail, Maritime and Transport Union)"
-    ],
-    "motivo": "Huelga de 24 horas de conductores del Metro de Londres (Tube) en disputa por la propuesta de semana laboral comprimida de 4 días. El sindicato RMT exige garantías de que la semana de 4 días sea voluntaria y no afecte las condiciones laborales ni la seguridad. Sin servicio en las líneas Circle, Piccadilly, Metropolitan (Baker Street-Aldgate) y Central (White City-Liverpool Street). Segunda huelga programada para el 4 de junio. Las negociaciones de última hora en Acas fracasaron",
-    "status": "en_curso",
-    "lat": "51.5074",
-    "lng": "-0.1278",
-    "fuentes": [
-      {
-        "nombre": "Transport for London",
-        "url": "https://tfl.gov.uk/campaign/strikes"
-      },
-      {
-        "nombre": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cze2kwxw1ejo"
-      },
-      {
-        "nombre": "Evening Standard",
-        "url": "https://www.standard.co.uk/news/london/tube-strike-rmt-underground-line-train-drivers-disruption-b1284341.html"
-      }
-    ],
-    "createdAt": "2026-06-02T01:58:04.000Z",
-    "updatedAt": "2026-06-02T22:26:17Z"
-  },
-  {
-    "id": 176,
-    "seccion": "internacionales",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "10:00",
-    "fecha": "2026-06-02",
-    "lugar": "Puertas de Fenavin, Ciudad Real. Concentraciones en varias localidades de Castilla-La Mancha",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "CCOO (Comisiones Obreras)",
-      "UGT (Unión General de Trabajadores)"
-    ],
-    "motivo": "Concentraciones sindicales en Castilla-La Mancha contra el bloqueo de la negociación colectiva sectorial. Exigen responsabilidad a la patronal de Ciudad Real y denuncian el estancamiento de las negociaciones que afectan a 32,400 trabajadores. Demandan subidas salariales suficientes para frenar la pérdida de poder adquisitivo. Sectores afectados: vinícolas, derivados de cemento, aceites, comercio general, textil, hostelería, oficinas y ayuda a domicilio",
-    "status": "en_curso",
-    "lat": "38.9862",
-    "lng": "-3.9270",
-    "fuentes": [
-      {
-        "nombre": "Diario de La Mancha",
-        "url": "https://diariodelamancha.com/ccoo-convoca-concentraciones-en-c-lm-el-2-de-junio-por-el-bloqueo-de-la-negociacion-colectiva/"
-      },
-      {
-        "nombre": "Cuadernos Manchegos",
-        "url": "https://www.cuadernosmanchegos.com/castilla-la-mancha/ciudad-real/ccoo-y-ugt-convocan-una-concentracion-coincidiendo-con-fenavin-para-denunciar-los-convenios-paralizados-en-ciudad-real/"
-      }
-    ],
-    "createdAt": "2026-06-02T01:58:04.000Z",
-    "updatedAt": "2026-06-02T22:26:17Z"
-  },
-  {
-    "id": 178,
-    "seccion": "internacionales",
-    "pais": "Nigeria",
-    "bandera": "🇳🇬",
-    "hora": "08:00",
-    "fecha": "2026-06-02",
-    "lugar": "Oficinas de NUPRC (Nigerian Upstream Petroleum Regulatory Commission) en Abuya y oficinas de campo en todo el país",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "PENGASSAN (Petroleum and Natural Gas Senior Staff Association of Nigeria)"
-    ],
-    "motivo": "Huelga nacional indefinida de trabajadores petroleros del sindicato PENGASSAN que paralizó las operaciones de la NUPRC en todo el país. La disputa surgió por la decisión de la gerencia de realizar capacitaciones localmente en lugar de en el extranjero. Los trabajadores bloquearon las entradas y detuvieron las funciones administrativas del regulador upstream. Las negociaciones continúan en la oficina del Asesor de Seguridad Nacional",
-    "status": "en_curso",
-    "lat": "9.0579",
-    "lng": "7.4951",
-    "fuentes": [
-      {
-        "nombre": "Leadership Nigeria",
-        "url": "https://leadership.ng/oil-workers-shut-down-nuprc-over-foreign-training-row/"
-      }
-    ],
-    "createdAt": "2026-06-02T01:58:04.000Z",
-    "updatedAt": "2026-06-02T22:26:17Z"
-  },
-  {
-    "id": 179,
-    "seccion": "internacionales",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "09:30",
-    "fecha": "2026-06-02",
-    "lugar": "Parlament balear (mañana, 9:30) y Plaza España → Ayuntamiento de Palma (tarde, 18:00), Palma de Mallorca, Islas Baleares",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "CCOO",
-      "UGT",
-      "STEI Intersindical",
-      "Xarxa 0-3"
-    ],
-    "motivo": "Movilización de educadoras de educación infantil 0-3 años en Baleares. La huelga general fue suspendida por un supuesto defecto de forma administrativo, pero las trabajadoras mantienen las protestas en la calle. Exigen la creación de un convenio autonómico de infantil, reducción de ratios, equiparación salarial y mejores condiciones laborales. Denuncian que la Conselleria de Treball usó la burocracia como 'mordaza' para bloquear la huelga. Concentración a las 9:30 frente al Parlament y manifestación a las 18:00 desde Plaza España al Ayuntamiento de Palma",
-    "status": "en_curso",
-    "lat": "39.5696",
-    "lng": "2.6502",
-    "fuentes": [
-      {
-        "nombre": "Diario de Mallorca",
-        "url": "https://www.diariodemallorca.es/mallorca/2026/06/01/giro-conflicto-0-3-sindicatos-130879523.html"
-      },
-      {
-        "nombre": "Última Hora",
-        "url": "https://www.ultimahora.es/noticias/local/2026/06/01/2641155/treball-tumba-huelga-escoletas-convocada-para-este-junio-alegando-defecto-forma.html"
-      },
-      {
-        "nombre": "Mallorca Magic",
-        "url": "https://www.mallorca-magic.com/news/strike-daycare-centers-june-2-40-percent"
-      }
-    ],
-    "createdAt": "2026-06-02T01:58:04.000Z",
-    "updatedAt": "2026-06-02T22:26:17Z"
-  },
-  {
-    "id": 181,
-    "seccion": "internacionales",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "10:00",
-    "fecha": "2026-06-02",
-    "lugar": "Rani Rashmoni Road, Kolkata, West Bengal. Réplicas en todo el estado de West Bengal",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "TMC (Trinamool Congress)",
-      "Mamata Banerjee"
-    ],
-    "motivo": "Protesta pacífica (sit-in) liderada por Mamata Banerjee, jefa del TMC y ex Ministra Principal de West Bengal, contra la violencia post-electoral y los ataques contra líderes del partido. Exigen justicia por la agresión al diputado nacional Abhishek Banerjee (atacado con piedras y huevos en Sonarpur, lesionado en un ojo) y al diputado Kalyan Banerjee (agredido cerca de la comisaría de Chanditala). La protesta denuncia la inacción policial y la violencia política atribuida al partido BJP tras las elecciones estatales",
-    "status": "en_curso",
-    "lat": "22.5726",
-    "lng": "88.3639",
-    "fuentes": [
-      {
-        "nombre": "India Today",
-        "url": "https://www.indiatoday.in/india/story/mamata-banerjee-june-2-kolkata-protest-against-attacks-on-abhishek-banerjee-tmc-leaders-workers-2919930-2026-05-31"
-      },
-      {
-        "nombre": "WION News",
-        "url": "https://www.wionews.com/india-news/mamata-to-lead-protest-in-kolkata-on-june-2-against-attacks-on-abhishek-kalyan-banerjee-1780237783417"
-      },
-      {
-        "nombre": "Lokmat Times",
-        "url": "https://www.lokmattimes.com/politics/mamata-banerjee-to-hold-protest-in-kolkata-today-over-post-poll-violence-targeting-abhishek-kalyan-banerjee/"
-      },
-      {
-        "nombre": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/india-news/mamata-banerjee-sit-in-protest-live-updates-tmc-bjp-abhishek-banerjee-attack-rani-rashmoni-kolkata-news-bengal-101780370284379.html"
-      }
-    ],
-    "createdAt": "2026-06-02T06:47:48.000Z",
-    "updatedAt": "2026-06-02T22:26:17Z"
-  },
-  {
-    "id": 182,
-    "seccion": "internacionales",
-    "pais": "Honduras",
-    "bandera": "🇭🇳",
-    "hora": "00:01",
-    "fecha": "2026-06-02",
-    "lugar": "Escuelas públicas y hospitales públicos en todo Honduras. Concentraciones en Tegucigalpa",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "Federación de Organizaciones Magisteriales (FOM)",
-      "Sindicatos de trabajadores de la salud"
-    ],
-    "motivo": "Huelga nacional de maestros y personal médico en todo Honduras. Exigen aumento salarial acordado previamente pero no implementado, pago de salarios atrasados y mejores condiciones laborales. Los docentes denuncian que el gobierno no reflejó en nómina los incrementos comprometidos. Los trabajadores de la salud protestan por semanas sin cobrar, inestabilidad laboral y falta de insumos en hospitales públicos. La huelga conjunta refleja el descontento por el subfinanciamiento crónico y promesas incumplidas del gobierno",
-    "status": "en_curso",
-    "lat": "14.0723",
-    "lng": "-87.1921",
-    "fuentes": [
-      {
-        "nombre": "Reuters vía U.S. News",
-        "url": "https://www.usnews.com/news/world/articles/2026-06-01/classes-cancelled-and-clinics-shuttered-in-honduras-on-nationwide-strike"
-      },
-      {
-        "nombre": "Infobae Honduras",
-        "url": "https://www.infobae.com/honduras/2026/05/28/magisterio-en-honduras-anuncia-protestas-por-incumplimiento-de-reajuste-salarial/"
-      }
-    ],
-    "createdAt": "2026-06-02T06:47:48.000Z",
-    "updatedAt": "2026-06-02T22:26:17Z"
-  },
-  {
-    "id": 183,
-    "seccion": "internacionales",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "00:01",
-    "fecha": "2026-06-02",
-    "lugar": "Instituciones educativas públicas en toda Francia. Concentraciones en París y otras ciudades",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "SNES-FSU",
-      "CGT Educ'action",
-      "SUD Éducation",
-      "CFDT Éducation Formation et Recherche Publiques"
-    ],
-    "motivo": "Huelga nacional de asistentes de educación (AED) en toda Francia por mejoras salariales y condiciones de trabajo. Exigen reconocimiento de su labor educativa, fin de la precariedad laboral y aumento de salarios. Manifestaciones y concentraciones en todo el país convocadas por las principales federaciones sindicales educativas",
-    "status": "en_curso",
-    "lat": "48.8566",
-    "lng": "2.3522",
-    "fuentes": [
-      {
-        "nombre": "Strike Tracker France",
-        "url": "https://striketracker.app/strikes-in-france"
-      },
-      {
-        "nombre": "SUNDEP-Solidaires Paris",
-        "url": "http://www.sundep-paris.org/2-juin-2026-Mobilisations-face-a-l-urgence-pour-les"
-      }
-    ],
-    "createdAt": "2026-06-02T11:16:46.000Z",
-    "updatedAt": "2026-06-02T22:26:17Z"
+    "updatedAt": "2026-06-03T00:17:29Z"
   },
   {
     "id": 184,
@@ -745,7 +151,7 @@
     "pais": "Estados Unidos",
     "bandera": "🇺🇸",
     "hora": "00:01",
-    "fecha": "2026-06-02",
+    "fecha": "2026-06-03",
     "lugar": "Delaney Hall Detention Facility, Newark, Nueva Jersey",
     "tipoAccion": "protesta",
     "organizaciones": [
@@ -772,150 +178,7 @@
       }
     ],
     "createdAt": "2026-06-02T11:16:46.000Z",
-    "updatedAt": "2026-06-02T22:26:17Z"
-  },
-  {
-    "id": 185,
-    "seccion": "internacionales",
-    "pais": "Alemania",
-    "bandera": "🇩🇪",
-    "hora": "17:30",
-    "fecha": "2026-06-02",
-    "lugar": "Friedensplatz, Bonn. Réplicas en otras ciudades alemanas en el marco de las 'Marchas de los Lunes'",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Die Linke (La Izquierda)",
-      "Verdi",
-      "DGB (Deutscher Gewerkschaftsbund)"
-    ],
-    "motivo": "Protesta contra los recortes sociales del gobierno de Friedrich Merz. Rechazan reformas al sistema de salud (16 mil millones en recortes), pensiones (jubilación a los 70), eliminación de la jornada de 8 horas y endurecimiento del subsidio social. Forma parte de una ola nacional de 'Marchas de los Lunes' iniciada el 1 de junio. Die Linke denuncia un 'desmantelamiento del estado social' sin precedentes desde la Agenda 2010",
-    "status": "en_curso",
-    "lat": "50.7359",
-    "lng": "7.0993",
-    "fuentes": [
-      {
-        "nombre": "Hamburger Anzeiger",
-        "url": "https://www.hamburgeranzeiger.de/Politik/682919-protest-gegen-kahlschlag-linke-rechnet-mit-weiterem-zulauf-fuer-montagsdemos.html"
-      },
-      {
-        "nombre": "Die Linke",
-        "url": "https://www.die-linke.de/partei/parteidemokratie/parteivorstand/parteivorstand-2024-2026/detail-beschluesse-pv/news/es-reicht-das-leben-bezahlbar-machen/"
-      },
-      {
-        "nombre": "Rausgegangen Bonn",
-        "url": "https://rausgegangen.com/at/en/events/schluss-mit-dem-sozialabbau-0/"
-      }
-    ],
-    "createdAt": "2026-06-02T11:16:46.000Z",
-    "updatedAt": "2026-06-02T22:26:17Z"
-  },
-  {
-    "id": 186,
-    "seccion": "internacionales",
-    "pais": "México",
-    "bandera": "🇲🇽",
-    "hora": "16:00",
-    "fecha": "2026-06-02",
-    "lugar": "Ángel de la Independencia → Catedral Metropolitana, Paseo de la Reforma, Ciudad de México",
-    "tipoAccion": "marcha",
-    "organizaciones": [
-      "Trabajadoras Sexuales Unidas e Independientes",
-      "Justicia Histórica Trans",
-      "Frente Nacional por las 40 Horas",
-      "Asamblea Antimundialista"
-    ],
-    "motivo": "Marcha en el marco del Día Internacional de la Trabajadora Sexual (2 de junio). Exigen respeto pleno al trabajo sexual, reconocimiento de derechos a vivienda, salud, seguridad y condiciones dignas. Denuncian desplazamiento provocado por megaproyectos como la construcción de la ciclovía en Tlalpan y la rehabilitación del tren ligero, así como violencia institucional y criminalización social de su trabajo. La protesta coincide con la cuenta regresiva para el Mundial 2026 en la CDMX",
-    "status": "en_curso",
-    "lat": "19.4333",
-    "lng": "-99.1500",
-    "fuentes": [
-      {
-        "nombre": "Ovaciones",
-        "url": "https://ovaciones.com/noticias/cdmx/marchas-en-la-cdmx-hoy-02-de-junio-de-2026/1001531"
-      },
-      {
-        "nombre": "N+",
-        "url": "https://www.nmas.com.mx/ciudad-de-mexico/movilidad/marchas/marcha-trabajadoras-sexuales-cdmx-hoy-2-de-junio-2026-ruta-y-zona-afectada-manifestacion/"
-      },
-      {
-        "nombre": "Publimetro México",
-        "url": "https://www.publimetro.com.mx/noticias/2026/06/02/cnte-colectivos-y-activistas-salen-a-las-calles-las-movilizaciones-que-habra-hoy-en-cdmx/"
-      },
-      {
-        "nombre": "El Heraldo de México",
-        "url": "https://heraldodemexico.com.mx/nacional/2026/6/2/marchas-bloqueos-concentraciones-hoy-martes-de-junio-824072.html"
-      }
-    ],
-    "createdAt": "2026-06-02T15:40:27.000Z",
-    "updatedAt": "2026-06-02T22:26:17Z"
-  },
-  {
-    "id": 187,
-    "seccion": "internacionales",
-    "pais": "Kenia",
-    "bandera": "🇰🇪",
-    "hora": "08:00",
-    "fecha": "2026-06-02",
-    "lugar": "Laikipia Air Base, Nanyuki, Condado de Laikipia, Kenia",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Residentes de Nanyuki",
-      "Sociedad Civil de Laikipia"
-    ],
-    "motivo": "Protesta contra el establecimiento de un centro de cuarentena de ébola de 50 camas financiado por EE.UU. en Laikipia Air Base. Dos manifestantes murieron por disparos policiales el 1 de junio. La Corte Superior de Kenia suspendió temporalmente el proyecto. El presidente Ruto defiende el acuerdo con Trump. Audiencia judicial el 2 de junio. Manifestantes queman neumáticos y bloquean rutas",
-    "status": "en_curso",
-    "lat": "0.0167",
-    "lng": "37.0667",
-    "fuentes": [
-      {
-        "nombre": "Asharq Al-Awsat",
-        "url": "https://english.aawsat.com/world/5279580-two-killed-kenya-protest-against-us-ebola-quarantine-facility-protest-organizer-says"
-      },
-      {
-        "nombre": "Capital FM Kenya",
-        "url": "https://www.capitalfm.co.ke/news/2026/06/nanyuki-protests-ebola-quarantine-facility-laikipia-airbase-kenya"
-      },
-      {
-        "nombre": "OkayAfrica",
-        "url": "https://www.okayafrica.com/today-in-africa-june-2-2026-two-killed-in-kenya-protests-ebola-case-count-revised-down/1431170"
-      },
-      {
-        "nombre": "The Star Kenya",
-        "url": "https://www.the-star.co.ke/news/2026-06-01-nanyuki-residents-protest-proposed-ebola-facility"
-      }
-    ],
-    "createdAt": "2026-06-02T19:43:14.000Z",
-    "updatedAt": "2026-06-02T22:26:17Z"
-  },
-  {
-    "id": 188,
-    "seccion": "internacionales",
-    "pais": "Pakistán",
-    "bandera": "🇵🇰",
-    "hora": "10:00",
-    "fecha": "2026-06-02",
-    "lugar": "Hyderabad Press Club, Hyderabad, Sindh, Pakistán",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Sociedad Civil de Hyderabad",
-      "Activistas de derechos humanos"
-    ],
-    "motivo": "Protesta de la sociedad civil en Hyderabad por la recuperación de Saeed Memon, escritor y figura social secuestrado en Sindh. Familiares y activistas exigen su liberación inmediata y denuncian inacción de las autoridades. Manifestación frente al Hyderabad Press Club",
-    "status": "en_curso",
-    "lat": "25.3960",
-    "lng": "68.3760",
-    "fuentes": [
-      {
-        "nombre": "Pakistan Press International vía Alamy",
-        "url": "https://www.alamy.com/members-of-civil-society-are-holding-protest-demonstration-for-recovery-of-saeed-memon-as-soon-as-possible-at-hyderabad-press-club-on-tuesday-june-2-2026-sajjad-zaidippi-images-image734886357.html"
-      },
-      {
-        "nombre": "Daily Independent Pakistan",
-        "url": "https://www.dailyindependent.com.pk/2026/05/31/seo-civil-society-protests-for-saeed-memon-recovery/"
-      }
-    ],
-    "createdAt": "2026-06-02T19:43:14.000Z",
-    "updatedAt": "2026-06-02T22:26:17Z"
+    "updatedAt": "2026-06-03T00:17:29Z"
   },
   {
     "id": 190,
@@ -923,7 +186,7 @@
     "pais": "Albania",
     "bandera": "🇦🇱",
     "hora": "10:00",
-    "fecha": "2026-06-02",
+    "fecha": "2026-06-03",
     "lugar": "Plaza Skanderbeg, Tirana. Proyecto Zvernec, cerca de Vlora. Costa protegida Vjosa-Narta e isla Sazan",
     "tipoAccion": "protesta",
     "organizaciones": [
@@ -953,143 +216,7 @@
       }
     ],
     "createdAt": "2026-06-02T22:21:27.000Z",
-    "updatedAt": "2026-06-02T22:26:17Z"
-  },
-  {
-    "id": 191,
-    "seccion": "internacionales",
-    "pais": "Irán",
-    "bandera": "🇮🇷",
-    "hora": "10:00",
-    "fecha": "2026-06-02",
-    "lugar": "Ministerio de Educación y Consejo Supremo de la Revolución Cultural, Teherán. Réplicas en Mashhad y Hamadan",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Estudiantes universitarios de Irán"
-    ],
-    "motivo": "Protestas estudiantiles masivas en Teherán, Mashhad y Hamadan contra cambios repentinos en políticas de exámenes de ingreso universitario y sistemas de calificación (GPA). Estudiantes se congregaron frente al Ministerio de Educación y marcharon hacia el Consejo Supremo de la Revolución Cultural. Realizan sentadas coreando 'El estudiante está despierto, odia la discriminación'. El Ministro de Educación Kazemi desestimó las quejas. Se reportan al menos 30 estudiantes citados a comités disciplinarios en Sharif University, entre 5 y 7 expulsiones y más de 20 suspensiones. En Universidad de Teherán abrieron expedientes a 100-200 estudiantes. Inflación récord del 83.9% punto a punto agrava el descontento social",
-    "status": "en_curso",
-    "lat": "35.6892",
-    "lng": "51.3890",
-    "fuentes": [
-      {
-        "nombre": "NCRI Iran",
-        "url": "https://www.ncr-iran.org/en/news/economy/iranian-students-and-workers-stage-protests-amid-record-breaking-80-year-inflation-high/"
-      },
-      {
-        "nombre": "Iran News Update",
-        "url": "https://irannewsupdate.com/news/human-rights/new-wave-of-student-repression-sweeps-iranian-universities/"
-      }
-    ],
-    "createdAt": "2026-06-02T22:21:27.000Z",
-    "updatedAt": "2026-06-02T22:26:17Z"
-  },
-  {
-    "id": 192,
-    "seccion": "internacionales",
-    "pais": "Irán",
-    "bandera": "🇮🇷",
-    "hora": "00:01",
-    "fecha": "2026-06-02",
-    "lugar": "56 prisiones en todo Irán: Evin, Ghezel Hesar, Adelabad (Shiraz), Sheiban (Ahvaz), Dastgerd (Isfahan), Zahedan, Mashhad, Tabriz, Urmia, Sanandaj, entre otras",
-    "tipoAccion": "huelga_de_hambre",
-    "organizaciones": [
-      "Campaña 'No a las Ejecuciones los Martes'",
-      "Presos políticos en 56 centros de detención"
-    ],
-    "motivo": "Semana 123 consecutiva de huelga de hambre coordinada de presos políticos en 56 prisiones de Irán como parte de la campaña 'No a las Ejecuciones los Martes'. Exigen el fin inmediato de las ejecuciones y denuncian el aumento de sentencias de muerte contra presos políticos tras las revueltas de diciembre 2025-enero 2026. Denuncian la ejecución de Ashkan Maleki y Mehrdad Mohammadinia en Ghezel Hesar. Advierten que al menos 72 personas han sido ejecutadas desde el 21 de marzo de 2026, más de 25 por motivos políticos. Piden intervención internacional urgente. La campaña se mantiene pese a represalias de autoridades penitenciarias",
-    "status": "en_curso",
-    "lat": "35.6892",
-    "lng": "51.3890",
-    "fuentes": [
-      {
-        "nombre": "NCRI Iran",
-        "url": "https://www.ncr-iran.org/en/news/human-rights/mass-hunger-strike-campaign-reaches-123rd-week-across-56-iranian-prisons/"
-      },
-      {
-        "nombre": "Mojahedin Iran",
-        "url": "https://english.mojahedin.org/news/irans-no-to-executions-tuesdays-campaign-enters-123rd-week-across-56-prisons-amid-post-uprising-crackdown/"
-      }
-    ],
-    "createdAt": "2026-06-02T22:21:27.000Z",
-    "updatedAt": "2026-06-02T22:26:17Z"
-  },
-  {
-    "id": 193,
-    "seccion": "internacionales",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "08:00",
-    "fecha": "2026-06-02",
-    "lugar": "Casa Batlló, Passeig de Gràcia, Barcelona. Manifestación hasta Consorcio de Educación (Plaza Urquinaona)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "CGT Ensenyament",
-      "Intersindical",
-      "COS (Coordinadora d'Assemblees de Docents)",
-      "CNT"
-    ],
-    "motivo": "Jornada de huelga de docentes en Barcelona contra el preacuerdo educativo alcanzado el viernes por el Departamento de Educación con sindicatos mayoritarios. Unos 300 docentes bloquearon el acceso a la Casa Batlló con pupitres y sillas durante más de 4 horas, impidiendo la apertura al público. Manifestación unitaria desde Palau Robert hasta el Consorcio de Educación. Consignas: 'Niubó, dimisión', 'este acuerdo no nos representa', 'Illa nos das calderilla'. Exigen mejoras salariales reales, reducción de ratios, blindaje del catalán y más presupuesto. Segunda consulta a 96,857 docentes. Advierten que seguirán afectando al turismo",
-    "status": "en_curso",
-    "lat": "41.3917",
-    "lng": "2.1649",
-    "fuentes": [
-      {
-        "nombre": "El País Cataluña",
-        "url": "https://elpais.com/espana/catalunya/2026-06-02/la-casa-batllo-de-barcelona-no-puede-abrir-al-publico-por-una-protesta-de-docentes.html"
-      },
-      {
-        "nombre": "La Vanguardia",
-        "url": "https://www.lavanguardia.com/vida/20260602/11553584/huelga-profesores-llega-barcelona-bloquea-acceso-casa-batllo.html"
-      },
-      {
-        "nombre": "Ara.cat",
-        "url": "https://en.ara.cat/society/teachers-opposed-to-the-agreement-stand-in-front-of-casa-batllo-in-barcelona_1_5755594.html"
-      },
-      {
-        "nombre": "VilaWeb",
-        "url": "https://www.vilaweb.cat/noticies/els-docents-en-vaga-fan-bicicletades-a-barcelona-i-una-protesta-davant-de-la-casa-batllo/"
-      }
-    ],
-    "createdAt": "2026-06-02T22:21:27.000Z",
-    "updatedAt": "2026-06-02T22:26:17Z"
-  },
-  {
-    "id": 194,
-    "seccion": "internacionales",
-    "pais": "Colombia",
-    "bandera": "🇨🇴",
-    "hora": "00:01",
-    "fecha": "2026-06-02",
-    "lugar": "Instalaciones de Ecopetrol en todo Colombia: Bogotá, Barrancabermeja (Santander), Puerto Gaitán (Meta), campos petroleros en 8 departamentos",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "USO (Unión Sindical Obrera)"
-    ],
-    "motivo": "Paro nacional de 24 horas de la USO (principal sindicato petrolero) en Ecopetrol por falta de avances en la negociación de la Convención Colectiva de Trabajo. Denuncian respuesta 'nula, negligente y dilatoria' de la vicepresidenta corporativa de Talento Organizacional, Victoria Irene Sepúlveda. Exigen mejoras salariales, fortalecimiento de derechos laborales y protección de la estabilidad laboral de más de 60,000 trabajadores del sector. Ecopetrol activó plan de contingencia nacional. El sindicato advierte: 'si no hay solución, no hay producción'. La negociación lleva 25 días sin avances",
-    "status": "en_curso",
-    "lat": "4.7110",
-    "lng": "-74.0721",
-    "fuentes": [
-      {
-        "nombre": "Infobae Colombia",
-        "url": "https://www.infobae.com/colombia/2026/06/02/union-sindical-obrera-anuncio-paro-de-trabajadores-de-24-horas-en-ecopetrol-bloquea-avances-para-los-trabajadores/"
-      },
-      {
-        "nombre": "Semana",
-        "url": "https://www.semana.com/economia/empresas/articulo/sindicato-de-trabajadores-de-ecopetrol-anuncia-paro-de-24-horas-habran-tambien-movilizaciones/202636/"
-      },
-      {
-        "nombre": "El Tiempo",
-        "url": "https://www.eltiempo.com/economia/sectores/ecopetrol-rechaza-senalamientos-de-la-uso-y-activa-plan-de-contingencia-nacional-ante-paro-de-24-horas-3561502"
-      },
-      {
-        "nombre": "Portafolio",
-        "url": "https://www.portafolio.co/negocios/empresas/paro-en-ecopetrol-la-uso-principal-sindicato-petrolero-de-colombia-anuncia-cese-de-actividades-por-24-horas-495287"
-      }
-    ],
-    "createdAt": "2026-06-02T22:21:27.000Z",
-    "updatedAt": "2026-06-02T22:26:17Z"
+    "updatedAt": "2026-06-03T00:17:29Z"
   },
   {
     "id": 195,
@@ -1097,7 +224,7 @@
     "pais": "Suiza",
     "bandera": "🇨🇭",
     "hora": "18:00",
-    "fecha": "2026-06-02",
+    "fecha": "2026-06-03",
     "lugar": "Plaine de Plainpalais, Ginebra. Huelga de 3 días (2-4 de junio) con concentraciones y manifestaciones",
     "tipoAccion": "huelga",
     "organizaciones": [
@@ -1122,6 +249,284 @@
       }
     ],
     "createdAt": "2026-06-02T22:21:27.000Z",
-    "updatedAt": "2026-06-02T22:26:17Z"
+    "updatedAt": "2026-06-03T00:17:29Z"
+  },
+  {
+    "id": 196,
+    "seccion": "internacionales",
+    "pais": "Portugal",
+    "bandera": "🇵🇹",
+    "hora": "00:01",
+    "fecha": "2026-06-03",
+    "lugar": "Lisboa (Rossio), Porto (Praça da Batalha/Av. dos Aliados), Coimbra, Faro, Braga, Aveiro, Azores, Madeira. Manifestaciones en docenas de ciudades en todo el país",
+    "tipoAccion": "huelga_general",
+    "organizaciones": [
+      "CGTP-IN (Confederação Geral dos Trabalhadores Portugueses - Intersindical Nacional)",
+      "SNPVAC (Sindicato Nacional do Pessoal de Voo da Aviação Civil)",
+      "FECTRANS (Federação dos Sindicatos de Transportes e Comunicações)",
+      "Sindicatos de profesores y periodistas"
+    ],
+    "motivo": "Huelga general nacional de 24 horas contra el paquete de reformas laborales 'Work XXI' del gobierno, que flexibiliza despidos, amplía la externalización, limita las horas extra y debilita la negociación colectiva. Más de 500 vuelos cancelados, metro de Lisboa cerrado 31.5 horas, sin trenes CP ni ferris Transtejo/Soflusa. El CGTP denuncia un 'ataque sin precedentes a los derechos constitucionales de los trabajadores'. Manifestaciones masivas programadas en todo el territorio nacional",
+    "status": "en_curso",
+    "lat": "38.7223",
+    "lng": "-9.1393",
+    "fuentes": [
+      {
+        "nombre": "CGTP-IN",
+        "url": "https://www.cgtp.pt/informacao/279-destaque/209-superior/22403-greve-geral-3-de-junho-2026"
+      },
+      {
+        "nombre": "Passport News",
+        "url": "https://passport.news/article/2674"
+      },
+      {
+        "nombre": "The Portugal Post",
+        "url": "https://theportugalpost.com/posts/portugals-labor-reform-sparks-nationwide-strike-what-workers-and-expats-need-to-know"
+      },
+      {
+        "nombre": "AirHelp",
+        "url": "https://www.airhelp.com/en/flight-disruptions/portugal-airport-strike-over-500-flight-cancellations-03062026"
+      },
+      {
+        "nombre": "U.S. Embassy Portugal",
+        "url": "https://pt.usembassy.gov/routine-message-anticipated-service-disruptions-due-to-nationwide-strike-on-june-3-2026"
+      },
+      {
+        "nombre": "Fight Back News",
+        "url": "https://fightbacknews.org/articles/momentum-grows-for-june-3-general-strike-to-stop-anti-worker-labor-law-package"
+      },
+      {
+        "nombre": "Anadolu Agency",
+        "url": "https://www.anews.com.tr/world/2026/05/01/portugals-main-union-calls-general-strike-to-protest-labor-reform"
+      }
+    ],
+    "createdAt": "2026-06-03T00:10:22.000Z",
+    "updatedAt": "2026-06-03T00:17:29Z"
+  },
+  {
+    "id": 197,
+    "seccion": "internacionales",
+    "pais": "Chile",
+    "bandera": "🇨🇱",
+    "hora": "10:00",
+    "fecha": "2026-06-03",
+    "lugar": "Santiago de Chile y réplicas en todo el país. Movilizaciones en universidades y liceos a nivel nacional",
+    "tipoAccion": "paro_nacional",
+    "organizaciones": [
+      "Confech (Confederación de Estudiantes de Chile)",
+      "Colegio de Profesores"
+    ],
+    "motivo": "Paro nacional y movilización estudiantil convocada por la Confech dos días después de la primera Cuenta Pública del presidente José Antonio Kast. Rechazan el programa 'Escuelas Protegidas', la megareforma educacional y los recortes presupuestarios que precarizan las comunidades educativas. El Colegio de Profesores confirmó su adhesión a la jornada. Marchas, paralizaciones y actividades en distintas ciudades del país bajo la consigna 'La educación se defiende en las calles'",
+    "status": "en_curso",
+    "lat": "-33.4489",
+    "lng": "-70.6693",
+    "fuentes": [
+      {
+        "nombre": "Emol",
+        "url": "https://www.emol.com/noticias/Nacional/2026/05/25/1200878/confech-convoca-paro-nacional-movilizaciones.html"
+      },
+      {
+        "nombre": "T13",
+        "url": "https://www.t13.cl/noticia/nacional/confech-convoca-movilizacion-nacional-para-3-junio-tras-cuenta-publica-kast-25-5-2026"
+      },
+      {
+        "nombre": "ADN Radio",
+        "url": "https://www.adnradio.cl/2026/05/29/confech-suma-apoyo-colegio-de-profesores-confirma-adhesion-al-paro-nacional-contra-medidas-del-gobierno/"
+      },
+      {
+        "nombre": "Central Noticia",
+        "url": "https://www.centralnoticia.cl/nacional/2026/06/02/paro-nacional-confech-colegio-profesores/411516/"
+      },
+      {
+        "nombre": "Nodal",
+        "url": "https://www.nodal.am/2026/05/chile-la-confederacion-de-estudiantes-convoco-una-movilizacion-en-todo-el-pais-en-rechazo-a-las-politicas-de-ajuste-social-y-economico-impulsadas-por-el-gobierno-de-jose-antonio-kast/"
+      }
+    ],
+    "createdAt": "2026-06-03T00:10:22.000Z",
+    "updatedAt": "2026-06-03T00:17:29Z"
+  },
+  {
+    "id": 198,
+    "seccion": "internacionales",
+    "pais": "Venezuela",
+    "bandera": "🇻🇪",
+    "hora": "10:00",
+    "fecha": "2026-06-03",
+    "lugar": "Caracas y réplicas en todo el país",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Coalición Sindical Nacional",
+      "Sindicatos de trabajadores venezolanos",
+      "Sociedad civil"
+    ],
+    "motivo": "Movilización nacional de sindicatos en Venezuela para exigir un cronograma electoral que garantice elecciones presidenciales libres y transparentes, mejoras salariales sustanciales y la liberación de presos políticos. Se cumplen cinco meses de la captura de Nicolás Maduro por fuerzas de EE.UU. Los trabajadores denuncian que el salario mínimo sigue siendo insuficiente frente a la inflación y exigen el restablecimiento de garantías democráticas. Concentraciones en Caracas y otras ciudades del país",
+    "status": "en_curso",
+    "lat": "10.4806",
+    "lng": "-66.9036",
+    "fuentes": [
+      {
+        "nombre": "El Nacional",
+        "url": "https://www.elnacional.com/2026/05/sindicatos-convocan-movilizacion-nacional-el-3-de-junio-contra-crisis-politica-y-salarial-en-venezuela/"
+      },
+      {
+        "nombre": "El Cooperante",
+        "url": "https://elcooperante.com/coalicion-sindical-nacional-convoca-a-movilizacion-el-3-de-junio-para-exigir-cronograma-electoral/"
+      },
+      {
+        "nombre": "El Informador VE",
+        "url": "https://elinformadorve.com/01/06/2026/destacada/coalicion-sindical-nacional-convoca-para-este-miercoles-3-de-junio-a-movilizacion-en-caracas-y-en-todo-el-pais-en-reclamo-de-elecciones-libres-y-transparentes/"
+      },
+      {
+        "nombre": "Analítica",
+        "url": "https://www.analitica.com/actualidad/actualidad-nacional/sindicatos-venezolanos-convocan-una-protesta-nacional-para-el-3-de-junio/"
+      },
+      {
+        "nombre": "SWI Swissinfo",
+        "url": "https://www.swissinfo.ch/spa/mi%C3%A9rcoles%2c-3-de-junio-de-2026/91516876"
+      }
+    ],
+    "createdAt": "2026-06-03T00:10:22.000Z",
+    "updatedAt": "2026-06-03T00:17:29Z"
+  },
+  {
+    "id": 199,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "17:00",
+    "fecha": "2026-06-03",
+    "lugar": "Congreso de la Nación, Av. Rivadavia y Callao, CABA. Réplicas en plazas y centros urbanos de todo el país (Neuquén, Córdoba, Paraná, Río Grande, etc.)",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Ni Una Menos",
+      "CGT (Confederación General del Trabajo)",
+      "CTA de los Trabajadores",
+      "CTA Autónoma",
+      "ATE (Asociación Trabajadores del Estado)",
+      "Colectivos feministas y transfeministas"
+    ],
+    "motivo": "11° movilización del Ni Una Menos (3J) contra la violencia de género y los femicidios. Exigen justicia por los femicidios de Agostina Vega (14 años, Córdoba), Dulce María Beatriz Candia (17 años, Misiones) y Noelia Carolina Romero (30 años, Temperley). Reclaman políticas públicas contra la violencia machista y rechazan el proyecto de falsas denuncias de la senadora Carolina Lozada. Denuncian recorte del 89% del presupuesto en políticas de género. Bajo la consigna 'Vivas, libres y desendeudadxs nos queremos'",
+    "status": "en_curso",
+    "lat": "-34.6097",
+    "lng": "-58.3924",
+    "fuentes": [
+      {
+        "nombre": "TN",
+        "url": "https://tn.com.ar/sociedad/2026/06/02/ni-una-menos-2026-horarios-cortes-de-transito-y-todo-lo-que-hay-que-saber-sobre-este-3j/"
+      },
+      {
+        "nombre": "Infobae",
+        "url": "https://www.infobae.com/sociedad/2026/06/02/marcha-por-ni-una-menos-hora-convocatorias-y-cortes-este-3-de-junio-contra-la-violencia-de-genero/"
+      },
+      {
+        "nombre": "Clarín",
+        "url": "https://www.clarin.com/informacion-general/hora-marcha-cortes-ultimas-noticias-3j_0_BDSo21GdsZ.html"
+      },
+      {
+        "nombre": "Página 12",
+        "url": "https://www.pagina12.com.ar/2026/06/ni-una-menos-3j"
+      }
+    ],
+    "createdAt": "2026-06-03T00:12:20.000Z",
+    "updatedAt": "2026-06-03T00:17:29Z"
+  },
+  {
+    "id": 200,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "17:00",
+    "fecha": "2026-06-03",
+    "lugar": "Plaza de Mayo, CABA. Réplicas en plazas centrales de todo el país",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Adolfo Pérez Esquivel (Premio Nobel de la Paz)",
+      "Mesa Ecuménica por la democracia, la vida y el bien común",
+      "CTA de los Trabajadores (Hugo Yasky)",
+      "CTA Autónoma (Hugo 'Cachorro' Godoy)"
+    ],
+    "motivo": "Segundo día del ayuno nacional de 8 días en Plaza de Mayo contra las políticas del gobierno de Javier Milei. Bajo el lema 'Jornada de ayuno y oración para despertar las conciencias', denuncian el crecimiento del hambre, la exclusión, la violencia y el deterioro social. Participan los músicos Peteco Carabajal y Bruno Arias. Réplicas en plazas centrales del interior con organizaciones ecuménicas, sociales y de derechos humanos. Acto de cierre el 9 de junio",
+    "status": "en_curso",
+    "lat": "-34.6083",
+    "lng": "-58.3719",
+    "fuentes": [
+      {
+        "nombre": "Infobae",
+        "url": "https://www.infobae.com/politica/2026/05/31/perez-esquivel-y-las-cta-convocaron-a-un-ayuno-nacional-de-ocho-dias-en-plaza-de-mayo-contra-el-gobierno/"
+      },
+      {
+        "nombre": "Clarín",
+        "url": "https://www.clarin.com/politica/rebelarse-adolfo-perez-esquivel-cta-peteco-carabajal-lanzan-ayuno-dias-milei-plaza-mayo_0_USEPoYdX3I.html"
+      },
+      {
+        "nombre": "Ámbito",
+        "url": "https://www.ambito.com/politica/convocaron-un-ayuno-ocho-dias-plaza-mayo-contra-el-gobierno-n6283328"
+      }
+    ],
+    "createdAt": "2026-06-03T00:12:20.000Z",
+    "updatedAt": "2026-06-03T00:17:29Z"
+  },
+  {
+    "id": 201,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "00:01",
+    "fecha": "2026-06-03",
+    "lugar": "Universidades nacionales de todo el país (UNLP, UBA, UNC, UNR, UNL, UNNE, UNT, etc.)",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "FATUN (Federación Argentina del Trabajador de las Universidades Nacionales)",
+      "ATULP (Asociación de Trabajadores de la UNLP)"
+    ],
+    "motivo": "Paro nacional de 48 horas de trabajadores nodocentes universitarios (3 y 4 de junio) como parte de 4 semanas de protesta y visibilización. Exigen apertura de paritarias, recuperación salarial, actualización de becas estudiantiles, aumento del presupuesto universitario y plena aplicación de la Ley de Financiamiento Universitario. Denuncian ajuste y desfinanciamiento del sistema universitario público",
+    "status": "en_curso",
+    "lat": "-34.9218",
+    "lng": "-57.9546",
+    "fuentes": [
+      {
+        "nombre": "0221",
+        "url": "https://www.0221.com.ar/universidad/los-nodocentes-vuelven-al-paro-y-la-unlp-arranca-otra-semana-menos-dias-clases-n128836"
+      },
+      {
+        "nombre": "El Cronista",
+        "url": "https://www.cronista.com/informacion-gral/quedan-suspendidas-las-clases-del-miercoles-y-jueves-todos-estos-alumnos-tendran-dias-libres/"
+      },
+      {
+        "nombre": "Línea Sindical",
+        "url": "https://www.lineasindical.com.ar/fatun-endurece-conflicto-universitario-paro-nacional-mayo-junio-convoca-semanas-protesta-n-1762355.html"
+      }
+    ],
+    "createdAt": "2026-06-03T00:12:20.000Z",
+    "updatedAt": "2026-06-03T00:17:29Z"
+  },
+  {
+    "id": 202,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "11:00",
+    "fecha": "2026-06-03",
+    "lugar": "Tierra del Fuego: Ushuaia (Escuela N°1), Río Grande (Ministerio de Educación, Elcano y Lasserre), Tolhuin (Plaza Cívica)",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "SUTEF (Sindicato Unificado de las Trabajadoras y Trabajadores de la Educación Fueguina)"
+    ],
+    "motivo": "Paro provincial docente de 48 horas (3 y 4 de junio) tras el masivo rechazo a la última propuesta salarial del Gobierno de Tierra del Fuego. Concentraciones a las 11:00 hs. Por la tarde se suman a la convocatoria del 3J Ni Una Menos. Exigen recomposición salarial y mejores condiciones laborales",
+    "status": "en_curso",
+    "lat": "-54.8019",
+    "lng": "-68.3030",
+    "fuentes": [
+      {
+        "nombre": "Correo Diario",
+        "url": "https://correodiario.com.ar/sutef-inicia-este-miercoles-un-paro-provincial-de-48-horas-y-convoca-a-movilizaciones-en-toda-tierra-del-fuego/"
+      },
+      {
+        "nombre": "SUTEF",
+        "url": "https://sutef.org/3-y-4-de-junio-paro-provincial-docente/"
+      }
+    ],
+    "createdAt": "2026-06-03T00:12:20.000Z",
+    "updatedAt": "2026-06-03T00:17:29Z"
   }
 ]
