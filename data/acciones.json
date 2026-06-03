@@ -62,7 +62,7 @@
       }
     ],
     "createdAt": "2026-06-01T00:11:25.000Z",
-    "updatedAt": "2026-06-03T05:31:32Z"
+    "updatedAt": "2026-06-03T10:25:01Z"
   },
   {
     "id": 148,
@@ -103,7 +103,7 @@
       }
     ],
     "createdAt": "2026-06-01T10:37:29.000Z",
-    "updatedAt": "2026-06-03T05:31:32Z"
+    "updatedAt": "2026-06-03T10:25:01Z"
   },
   {
     "id": 165,
@@ -143,7 +143,7 @@
       }
     ],
     "createdAt": "2026-06-01T20:54:01.000Z",
-    "updatedAt": "2026-06-03T05:31:32Z"
+    "updatedAt": "2026-06-03T10:25:01Z"
   },
   {
     "id": 184,
@@ -178,7 +178,7 @@
       }
     ],
     "createdAt": "2026-06-02T11:16:46.000Z",
-    "updatedAt": "2026-06-03T05:31:32Z"
+    "updatedAt": "2026-06-03T10:25:01Z"
   },
   {
     "id": 190,
@@ -216,7 +216,7 @@
       }
     ],
     "createdAt": "2026-06-02T22:21:27.000Z",
-    "updatedAt": "2026-06-03T05:31:32Z"
+    "updatedAt": "2026-06-03T10:25:01Z"
   },
   {
     "id": 195,
@@ -253,7 +253,7 @@
       }
     ],
     "createdAt": "2026-06-02T22:21:27.000Z",
-    "updatedAt": "2026-06-03T05:31:32Z"
+    "updatedAt": "2026-06-03T10:25:01Z"
   },
   {
     "id": 196,
@@ -305,7 +305,7 @@
       }
     ],
     "createdAt": "2026-06-03T00:10:22.000Z",
-    "updatedAt": "2026-06-03T05:31:32Z"
+    "updatedAt": "2026-06-03T10:25:01Z"
   },
   {
     "id": 197,
@@ -347,7 +347,7 @@
       }
     ],
     "createdAt": "2026-06-03T00:10:22.000Z",
-    "updatedAt": "2026-06-03T05:31:32Z"
+    "updatedAt": "2026-06-03T10:25:01Z"
   },
   {
     "id": 198,
@@ -390,7 +390,7 @@
       }
     ],
     "createdAt": "2026-06-03T00:10:22.000Z",
-    "updatedAt": "2026-06-03T05:31:32Z"
+    "updatedAt": "2026-06-03T10:25:01Z"
   },
   {
     "id": 203,
@@ -423,7 +423,7 @@
       }
     ],
     "createdAt": "2026-06-03T05:25:17.000Z",
-    "updatedAt": "2026-06-03T05:31:32Z"
+    "updatedAt": "2026-06-03T10:25:01Z"
   },
   {
     "id": 204,
@@ -450,7 +450,7 @@
       }
     ],
     "createdAt": "2026-06-03T05:25:17.000Z",
-    "updatedAt": "2026-06-03T05:31:32Z"
+    "updatedAt": "2026-06-03T10:25:01Z"
   },
   {
     "id": 205,
@@ -476,7 +476,7 @@
       }
     ],
     "createdAt": "2026-06-03T05:25:17.000Z",
-    "updatedAt": "2026-06-03T05:31:32Z"
+    "updatedAt": "2026-06-03T10:25:01Z"
   },
   {
     "id": 206,
@@ -502,7 +502,97 @@
       }
     ],
     "createdAt": "2026-06-03T05:25:17.000Z",
-    "updatedAt": "2026-06-03T05:31:32Z"
+    "updatedAt": "2026-06-03T10:25:01Z"
+  },
+  {
+    "id": 208,
+    "seccion": "internacionales",
+    "pais": "España",
+    "bandera": "🇪🇸",
+    "hora": "11:00",
+    "fecha": "2026-06-03",
+    "lugar": "Madrid (Paseo de Recoletos 10 y 19), Barcelona (Rambla de Catalunya 115), Sevilla, Valencia, Málaga, Zaragoza, Valladolid, A Coruña",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "CC.OO. (Comisiones Obreras) - Sector Financiero"
+    ],
+    "motivo": "Manifestaciones del sindicato CC.OO. en 8 ciudades españolas contra el clima laboral en el sector bancario. Concentraciones frente a sedes de BBVA, Banco Santander, Banco Sabadell, Cajamar, Unicaja, Ibercaja y Abanca. Denuncian deterioro de condiciones laborales, presión comercial y precarización del empleo",
+    "status": "convocada",
+    "lat": "40.4168",
+    "lng": "-3.7038",
+    "fuentes": [
+      {
+        "nombre": "GC Diario",
+        "url": "https://gcdiario.com/economia/585520-cc-oo-llama-al-sector-bancario-a-protestar-este-miercoles-por-el-clima-laboral-en-ocho-ciudades-entre-ellas-a-coruna/"
+      }
+    ],
+    "createdAt": "2026-06-03T10:19:11.000Z",
+    "updatedAt": "2026-06-03T10:25:01Z"
+  },
+  {
+    "id": 209,
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "15:15",
+    "fecha": "2026-06-03",
+    "lugar": "St. Louis, Missouri: Wesley Bell District Office (1191 Dr. M.L. King Dr.) y Marriott St. Louis Grand (800 Washington Ave.)",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "NNU (National Nurses United)",
+      "CNA/NNOC (California Nurses Association/National Nurses Organizing Committee)"
+    ],
+    "motivo": "Protesta de enfermeras de NNU en St. Louis: a las 3:15 PM frente a la oficina del congresista Wesley Bell exigiéndole rechazar contribuciones de campaña de Palantir y AIPAC; a las 5:15 PM frente a la Asamblea Católica de Salud 2026 exigiendo mejores condiciones a ejecutivos hospitalarios, tras informe de NNU sobre cierre de unidades pediátricas en cadenas católicas",
+    "status": "convocada",
+    "lat": "38.6270",
+    "lng": "-90.1994",
+    "fuentes": [
+      {
+        "nombre": "National Nurses United",
+        "url": "https://www.nationalnursesunited.org/press/union-nurses-to-protest-in-st-louis"
+      }
+    ],
+    "createdAt": "2026-06-03T10:19:11.000Z",
+    "updatedAt": "2026-06-03T10:25:01Z"
+  },
+  {
+    "id": 210,
+    "seccion": "internacionales",
+    "pais": "Bolivia",
+    "bandera": "🇧🇴",
+    "hora": "00:01",
+    "fecha": "2026-06-03",
+    "lugar": "Carreteras en 7 de los 9 departamentos de Bolivia. Más de 90 bloqueos activos. Concentraciones en El Alto (puente La Ceja) y La Paz",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "COB (Central Obrera Boliviana)",
+      "FEJUVE (Federación de Juntas Vecinales de El Alto y La Paz)",
+      "Sectores campesinos, obreros y afines a Evo Morales"
+    ],
+    "motivo": "Quinta semana consecutiva de protestas y bloqueos de carreteras exigiendo la renuncia del presidente Rodrigo Paz. Más de 90 bloqueos en 7 departamentos causan desabastecimiento de alimentos, combustible y medicinas. La Gobernación de La Paz declaró emergencia sanitaria y humanitaria. El ministro de Defensa Marcelo Salinas renunció el 2 de junio. El cabildo de El Alto del 2 de junio ratificó los bloqueos y rechazó el diálogo con el gobierno. Se reportan 9 fallecidos desde el inicio del conflicto, 6 por falta de atención médica por los bloqueos",
+    "status": "en_curso",
+    "lat": "-16.5000",
+    "lng": "-68.1500",
+    "fuentes": [
+      {
+        "nombre": "Infobae",
+        "url": "https://www.infobae.com/america/agencias/2026/06/03/el-departamento-de-la-paz-declara-la-emergencia-sanitaria-ante-el-desabastecimiento-por-los-bloqueos-en-bolivia/"
+      },
+      {
+        "nombre": "Reuters",
+        "url": "https://www.marketscreener.com/news/bolivia-s-defense-minister-resigns-as-anti-government-protests-intensify-ce7f5ddfd98df326"
+      },
+      {
+        "nombre": "teleSUR",
+        "url": "https://www.telesurenglish.net/bolivians-demand-immediate-resignation-of-president-paz-at-open-assembly/"
+      },
+      {
+        "nombre": "Últimas Noticias",
+        "url": "https://en.ultimasnoticias.com.ve/world/Neighborhood-associations-hold-massive-town-hall-meeting-in-Bolivia-to-demand-Rodrigo-Paz's-resignation/"
+      }
+    ],
+    "createdAt": "2026-06-03T10:19:11.000Z",
+    "updatedAt": "2026-06-03T10:25:01Z"
   },
   {
     "id": 199,
@@ -556,7 +646,7 @@
       }
     ],
     "createdAt": "2026-06-03T00:12:20.000Z",
-    "updatedAt": "2026-06-03T05:31:32Z"
+    "updatedAt": "2026-06-03T10:25:01Z"
   },
   {
     "id": 200,
@@ -592,7 +682,7 @@
       }
     ],
     "createdAt": "2026-06-03T00:12:20.000Z",
-    "updatedAt": "2026-06-03T05:31:32Z"
+    "updatedAt": "2026-06-03T10:25:01Z"
   },
   {
     "id": 201,
@@ -626,7 +716,7 @@
       }
     ],
     "createdAt": "2026-06-03T00:12:20.000Z",
-    "updatedAt": "2026-06-03T05:31:32Z"
+    "updatedAt": "2026-06-03T10:25:01Z"
   },
   {
     "id": 202,
@@ -655,7 +745,7 @@
       }
     ],
     "createdAt": "2026-06-03T00:12:20.000Z",
-    "updatedAt": "2026-06-03T05:31:32Z"
+    "updatedAt": "2026-06-03T10:25:01Z"
   },
   {
     "id": 207,
@@ -686,6 +776,35 @@
       }
     ],
     "createdAt": "2026-06-03T05:28:08.000Z",
-    "updatedAt": "2026-06-03T05:31:32Z"
+    "updatedAt": "2026-06-03T10:25:01Z"
+  },
+  {
+    "id": 211,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "00:01",
+    "fecha": "2026-06-03",
+    "lugar": "Universidades nacionales de todo el país",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "FEDUN (Federación de Docentes de las Universidades Nacionales)"
+    ],
+    "motivo": "Paro nacional de 48 horas (3 y 4 de junio) de docentes universitarios de todo el país. Exigen convocatoria a paritarias, recuperación salarial (pérdida del 52,1% del poder adquisitivo desde diciembre 2023), cumplimiento de la Ley de Financiamiento Universitario y aumento del presupuesto universitario. Rechazan el ofrecimiento del Gobierno de un 21% de aumento a cambio de retirar el reclamo. Denuncian 18 meses consecutivos de caída salarial real y desfinanciamiento del sistema universitario público",
+    "status": "en_curso",
+    "lat": "-34.9218",
+    "lng": "-57.9546",
+    "fuentes": [
+      {
+        "nombre": "El Argentino Diario",
+        "url": "https://elargentinodiario.com.ar/politica/educacion-2/02/06/2026/fedun-lanza-paro-de-48-horas-en-universidades-y-exige-paritarias-urgentes-ante-perdida-salarial-del-52/"
+      },
+      {
+        "nombre": "Página|12",
+        "url": "https://www.pagina12.com.ar/2026/06/03/los-docentes-universitarios-rechazan-el-chantaje-del-gobierno-y-van-al-paro/"
+      }
+    ],
+    "createdAt": "2026-06-03T10:22:19.000Z",
+    "updatedAt": "2026-06-03T10:25:01Z"
   }
 ]
