@@ -88,9 +88,11 @@ export default function App() {
   const [selectedAccion, setSelectedAccion] = useState<Accion | null>(null);
   const [portalDetailOpen, setPortalDetailOpen] = useState(false);
 
+  const DATA_URL = "https://cdn.jsdelivr.net/gh/CarlosDimare/reda@main/data/acciones.json";
+
   const fetchAcciones = useCallback(async () => {
     try {
-      const r = await fetch(`data/acciones.json?t=${Date.now()}`);
+      const r = await fetch(`${DATA_URL}?t=${Date.now()}`);
       if (r.ok) setAcciones(await r.json());
     } catch {}
   }, []);
@@ -307,7 +309,11 @@ export default function App() {
             </div>
           )}
           {acciones
-            .filter((a) => a.seccion === portalTab)
+            .filter((a) =>
+              portalTab === "internacionales"
+                ? a.seccion === "internacionales" || a.seccion === "internacional"
+                : a.seccion === portalTab,
+            )
             .sort((a, b) => a.hora.localeCompare(b.hora))
             .map((a) => {
               const statusColor =
