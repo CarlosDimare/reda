@@ -14,7 +14,7 @@
       "CTA de los Trabajadores (Hugo Yasky)",
       "CTA Autónoma (Hugo 'Cachorro' Godoy)"
     ],
-    "motivo": "Tercer día del ayuno nacional de 8 días en Plaza de Mayo contra las políticas del gobierno de Javier Milei. Bajo el lema 'Jornada de ayuno y oración para despertar las conciencias', denuncian el crecimiento del hambre, la exclusión, la violencia y el deterioro social. Participan los músicos Peteco Carabajal y Bruno Arias. Réplicas en plazas centrales del interior con organizaciones ecuménicas, sociales y de derechos humanos. Acto de cierre el 9 de junio",
+    "motivo": "Día 4 del ayuno nacional de 8 días en Plaza de Mayo contra las políticas del gobierno de Javier Milei. Bajo el lema 'Jornada de ayuno y oración para despertar las conciencias', denuncian el crecimiento del hambre, la exclusión, la violencia y el deterioro social. Participan los músicos Peteco Carabajal y Bruno Arias. Réplicas en plazas centrales del interior con organizaciones ecuménicas, sociales y de derechos humanos. Acto de cierre el 9 de junio",
     "status": "en_curso",
     "lat": "-34.6083",
     "lng": "-58.3719",
@@ -33,7 +33,7 @@
       }
     ],
     "createdAt": "2026-06-03T00:12:20.000Z",
-    "updatedAt": "2026-06-04T00:16:20Z"
+    "updatedAt": "2026-06-04T05:24:47Z"
   },
   {
     "id": 201,
@@ -67,7 +67,7 @@
       }
     ],
     "createdAt": "2026-06-03T00:12:20.000Z",
-    "updatedAt": "2026-06-04T00:16:20Z"
+    "updatedAt": "2026-06-04T05:24:47Z"
   },
   {
     "id": 202,
@@ -96,7 +96,7 @@
       }
     ],
     "createdAt": "2026-06-03T00:12:20.000Z",
-    "updatedAt": "2026-06-04T00:16:20Z"
+    "updatedAt": "2026-06-04T05:24:47Z"
   },
   {
     "id": 211,
@@ -125,6 +125,128 @@
       }
     ],
     "createdAt": "2026-06-03T10:22:19.000Z",
-    "updatedAt": "2026-06-04T00:16:20Z"
+    "updatedAt": "2026-06-04T05:24:47Z"
+  },
+  {
+    "id": 300,
+    "seccion": "internacional",
+    "pais": "Reino Unido",
+    "bandera": "🇬🇧",
+    "hora": "00:01",
+    "fecha": "2026-06-04",
+    "lugar": "Londres, Reino Unido (toda la red de metro de Londres)",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "RMT (Rail, Maritime and Transport Union)"
+    ],
+    "motivo": "Huelga de 24 horas de conductores del metro de Londres (Tube) en protesta por la introducción de una semana laboral comprimida de cuatro días. El sindicato RMT denuncia riesgos de seguridad por fatiga debido a turnos más largos. Sin servicio en las líneas Circle, Piccadilly, Metropolitan (Baker Street-Aldgate) y Central (White City-Liverpool Street). El resto de líneas operan con servicio reducido. Se espera que el servicio se reanude normalmente el 5 de junio",
+    "status": "en_curso",
+    "lat": "51.5074",
+    "lng": "-0.1278",
+    "fuentes": [
+      {
+        "nombre": "Transport for London",
+        "url": "https://tfl.gov.uk/campaign/strikes"
+      },
+      {
+        "nombre": "Tube Alerter",
+        "url": "https://tubenotifications.co.uk/tube-strikes"
+      },
+      {
+        "nombre": "Time Out London",
+        "url": "https://www.timeout.com/london/news/june-2026-tube-strikes-how-to-get-around-london-during-this-weeks-rmt-industrial-action-052826"
+      }
+    ],
+    "createdAt": "2026-06-04T05:20:38.000Z",
+    "updatedAt": "2026-06-04T05:24:47Z"
+  },
+  {
+    "id": 301,
+    "seccion": "internacional",
+    "pais": "España",
+    "bandera": "🇪🇸",
+    "hora": "19:00",
+    "fecha": "2026-06-04",
+    "lugar": "Plaza Juan Goytisolo (frente al Museo Reina Sofía), Madrid",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "Plataforma por un Estado Laico"
+    ],
+    "motivo": "Concentración bajo el lema 'Exigimos un Estado laico' en el marco de la visita del Papa León XIV a España (del 6 al 9 de junio). Exigen la separación efectiva entre Iglesia y Estado y protestan contra los privilegios de la Iglesia católica en España",
+    "status": "convocada",
+    "lat": "40.4086",
+    "lng": "-3.6945",
+    "fuentes": [
+      {
+        "nombre": "Tercera Información",
+        "url": "https://www.tercerainformacion.es/articulo/actualidad/02/06/2026/exigimos-un-estado-laico-concentracion-en-madrid-ante-la-visita-del-papa-jueves-4-de-junio-a-las-1900-horas-en-la-plaza-juan-goytisolo/"
+      }
+    ],
+    "createdAt": "2026-06-04T05:20:38.000Z",
+    "updatedAt": "2026-06-04T05:24:47Z"
+  },
+  {
+    "id": 302,
+    "seccion": "internacional",
+    "pais": "España",
+    "bandera": "🇪🇸",
+    "hora": "11:00",
+    "fecha": "2026-06-04",
+    "lugar": "Valencia (desde Plaza del Ayuntamiento hasta Plaza de la Virgen) y Alicante",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "Sindicatos docentes de la Comunidad Valenciana (STEPV, CCOO, UGT, CSIF)"
+    ],
+    "motivo": "Nueva jornada de manifestaciones dentro de la huelga indefinida de docentes de la enseñanza pública no universitaria en la Comunidad Valenciana. Exigen mejoras salariales, reducción de la burocracia, disminución de la ratio alumnos por aula y mayores presupuestos educativos. La huelga comenzó el 11 de mayo y continúa con movilizaciones periódicas",
+    "status": "en_curso",
+    "lat": "39.4699",
+    "lng": "-0.3763",
+    "fuentes": [
+      {
+        "nombre": "El Periódico de Aquí",
+        "url": "https://www.elperiodicodeaqui.com/educacion/huelga-indefinida-profesores-calendario-protestas-hasta-5-junio_100116386_102.html"
+      },
+      {
+        "nombre": "The Olive Press",
+        "url": "https://www.theolivepress.es/spain-news/2026/05/11/watch-thousands-of-teachers-flood-the-streets-of-valencia-on-first-day-of-indefinite-strike-that-has-emptied-classrooms-but-why-are-they-protesting/"
+      }
+    ],
+    "createdAt": "2026-06-04T05:20:38.000Z",
+    "updatedAt": "2026-06-04T05:24:47Z"
+  },
+  {
+    "id": 303,
+    "seccion": "internacional",
+    "pais": "Bolivia",
+    "bandera": "🇧🇴",
+    "hora": "00:01",
+    "fecha": "2026-06-04",
+    "lugar": "La Paz, El Alto, Cochabamba, y más de 90 puntos de bloqueo en todo el país",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Central Obrera Boliviana (COB)",
+      "Federación Tupac Katari",
+      "Sectores afines a Evo Morales"
+    ],
+    "motivo": "Más de un mes de protestas antigubernamentales exigiendo la renuncia del presidente Rodrigo Paz. Bloqueos de rutas que impiden el transporte de alimentos, combustible y medicinas. El presidente busca declarar el estado de emergencia y militarizar las calles. Los manifestantes rechazan las medidas de austeridad y el aumento del costo de vida. El ministro de Defensa y la ministra de Educación renunciaron el 2 de junio ante la intensidad de las protestas. Se reportan 94 bloqueos activos en todo el territorio nacional",
+    "status": "en_curso",
+    "lat": "-16.5000",
+    "lng": "-68.1500",
+    "fuentes": [
+      {
+        "nombre": "AFP vía NAMPA",
+        "url": "https://www.nampa.org/text/22940293"
+      },
+      {
+        "nombre": "The Straits Times",
+        "url": "https://www.straitstimes.com/world/bolivias-defence-minister-salinas-resigns-after-weeks-of-mass-protests"
+      },
+      {
+        "nombre": "Orinoco Tribune",
+        "url": "https://orinocotribune.com/growing-demonstrations-in-bolivia-demand-resignation-of-president-paz/"
+      }
+    ],
+    "createdAt": "2026-06-04T05:20:38.000Z",
+    "updatedAt": "2026-06-04T05:24:47Z"
   }
 ]
