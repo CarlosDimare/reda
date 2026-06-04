@@ -33,7 +33,7 @@
       }
     ],
     "createdAt": "2026-06-03T00:12:20.000Z",
-    "updatedAt": "2026-06-04T12:31:26Z"
+    "updatedAt": "2026-06-04T16:05:03Z"
   },
   {
     "id": 201,
@@ -67,7 +67,7 @@
       }
     ],
     "createdAt": "2026-06-03T00:12:20.000Z",
-    "updatedAt": "2026-06-04T12:31:26Z"
+    "updatedAt": "2026-06-04T16:05:03Z"
   },
   {
     "id": 202,
@@ -96,7 +96,7 @@
       }
     ],
     "createdAt": "2026-06-03T00:12:20.000Z",
-    "updatedAt": "2026-06-04T12:31:26Z"
+    "updatedAt": "2026-06-04T16:05:03Z"
   },
   {
     "id": 211,
@@ -125,7 +125,7 @@
       }
     ],
     "createdAt": "2026-06-03T10:22:19.000Z",
-    "updatedAt": "2026-06-04T12:31:26Z"
+    "updatedAt": "2026-06-04T16:05:03Z"
   },
   {
     "id": 300,
@@ -162,7 +162,7 @@
       }
     ],
     "createdAt": "2026-06-04T05:20:38.000Z",
-    "updatedAt": "2026-06-04T12:31:26Z"
+    "updatedAt": "2026-06-04T16:05:03Z"
   },
   {
     "id": 301,
@@ -187,7 +187,7 @@
       }
     ],
     "createdAt": "2026-06-04T05:20:38.000Z",
-    "updatedAt": "2026-06-04T12:31:26Z"
+    "updatedAt": "2026-06-04T16:05:03Z"
   },
   {
     "id": 302,
@@ -228,7 +228,7 @@
       }
     ],
     "createdAt": "2026-06-04T05:20:38.000Z",
-    "updatedAt": "2026-06-04T12:31:26Z"
+    "updatedAt": "2026-06-04T16:05:03Z"
   },
   {
     "id": 303,
@@ -267,7 +267,7 @@
       }
     ],
     "createdAt": "2026-06-04T05:20:38.000Z",
-    "updatedAt": "2026-06-04T12:31:26Z"
+    "updatedAt": "2026-06-04T16:05:03Z"
   },
   {
     "id": 304,
@@ -305,7 +305,7 @@
       }
     ],
     "createdAt": "2026-06-04T09:11:02.000Z",
-    "updatedAt": "2026-06-04T12:31:26Z"
+    "updatedAt": "2026-06-04T16:05:03Z"
   },
   {
     "id": 305,
@@ -338,7 +338,7 @@
       }
     ],
     "createdAt": "2026-06-04T09:11:02.000Z",
-    "updatedAt": "2026-06-04T12:31:26Z"
+    "updatedAt": "2026-06-04T16:05:03Z"
   },
   {
     "id": 306,
@@ -373,7 +373,7 @@
       }
     ],
     "createdAt": "2026-06-04T09:11:02.000Z",
-    "updatedAt": "2026-06-04T12:31:26Z"
+    "updatedAt": "2026-06-04T16:05:03Z"
   },
   {
     "id": 307,
@@ -410,6 +410,135 @@
       }
     ],
     "createdAt": "2026-06-04T12:30:02.000Z",
-    "updatedAt": "2026-06-04T12:31:26Z"
+    "updatedAt": "2026-06-04T16:05:03Z"
+  },
+  {
+    "id": 308,
+    "seccion": "internacional",
+    "pais": "Bélgica",
+    "bandera": "🇧🇪",
+    "hora": "10:00",
+    "fecha": "2026-06-04",
+    "lugar": "Bruselas (estación Central), Namur, Charleroi",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Estudiantes y docentes de la Federación Valonia-Bruselas (FWB)",
+      "Sindicatos educativos francófonos"
+    ],
+    "motivo": "Protestas contra las reformas educativas del gobierno de la Comunidad Francesa de Bélgica, que incluyen aumento de tasas universitarias de 835€ a 1.194€ (35%) y dos horas extra semanales sin pago para docentes de secundaria. Más de 1.000 manifestantes, principalmente jóvenes, se congregaron frente a la estación Central de Bruselas. La protesta derivó en enfrentamientos con la policía, que usó gases lacrimógenos. Manifestantes incendiaron barreras y bicicletas y lanzaron petardos. También se reportaron protestas en Namur y Charleroi. El parlamento de la FWB prevé votar las medidas hoy",
+    "status": "en_curso",
+    "lat": "50.8467",
+    "lng": "4.3517",
+    "fuentes": [
+      {
+        "nombre": "Reuters vía U.S. News",
+        "url": "https://www.usnews.com/news/world/articles/2026-06-04/clashes-break-out-at-belgian-protest-against-education-reforms"
+      },
+      {
+        "nombre": "The Brussels Times",
+        "url": "https://www.brusselstimes.com/belgium/2172138/protesters-light-fire-outside-brussels-central-station"
+      },
+      {
+        "nombre": "The Straits Times",
+        "url": "https://www.straitstimes.com/world/europe/clashes-break-out-at-belgian-protest-against-education-reforms"
+      }
+    ],
+    "createdAt": "2026-06-04T16:00:23.000Z",
+    "updatedAt": "2026-06-04T16:05:03Z"
+  },
+  {
+    "id": 309,
+    "seccion": "internacional",
+    "pais": "India",
+    "bandera": "🇮🇳",
+    "hora": "10:00",
+    "fecha": "2026-06-04",
+    "lugar": "DDU Marg, Nueva Delhi (centro de Delhi)",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Partido político no especificado"
+    ],
+    "motivo": "Marcha de protesta de un partido político en DDU Marg, Nueva Delhi, de 10:00 a 17:00 horas. La Policía de Tránsito de Delhi emitió un aviso con desvíos y restricciones vehiculares. DDU Marg permanece cerrado al tráfico. Se esperan afectaciones en IP Marg, Vikas Marg, Minto Road y Bahadur Shah Zafar Marg. Se recomienda a los pasajeros de ferrocarril usar el acceso de Paharganj",
+    "status": "en_curso",
+    "lat": "28.6292",
+    "lng": "77.2358",
+    "fuentes": [
+      {
+        "nombre": "India Today",
+        "url": "https://www.indiatoday.in/information/story/delhi-traffic-advisory-ddu-marg-protest-march-june-4-central-delhi-routes-2921665-2026-06-04"
+      },
+      {
+        "nombre": "Delhi Traffic Police (X/Twitter)",
+        "url": "https://x.com/dtptraffic/status/2062393435450216476"
+      }
+    ],
+    "createdAt": "2026-06-04T16:00:23.000Z",
+    "updatedAt": "2026-06-04T16:05:03Z"
+  },
+  {
+    "id": 310,
+    "seccion": "internacional",
+    "pais": "Somalia",
+    "bandera": "🇸🇴",
+    "hora": "00:01",
+    "fecha": "2026-06-04",
+    "lugar": "Mogadishu (distrito Howl Wadaag)",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Oposición somalí",
+      "Expresidente Sharif Sheikh Ahmed",
+      "Exprimera ministra Hassan Ali Khaire"
+    ],
+    "motivo": "Protestas contra la decisión del presidente Hassan Sheikh Mohamud de extender su mandato por un año tras su vencimiento el 15 de mayo de 2026. El gobierno bloqueó las protestas en múltiples ubicaciones y designó un solo lugar para manifestarse. Enfrentamientos armados entre fuerzas gubernamentales y milicias aliadas a la oposición estallaron la noche del 3 de junio y continuaron el 4 de junio. Se reportaron disparos de armas pesadas, incluyendo armas antitanque y drones. Civiles huyeron de la zona y se reportaron vehículos destruidos. La oposición acusa al gobierno de intento de asesinato",
+    "status": "en_curso",
+    "lat": "2.0469",
+    "lng": "45.3182",
+    "fuentes": [
+      {
+        "nombre": "Reuters vía U.S. News",
+        "url": "https://www.usnews.com/news/world/articles/2026-06-04/somali-military-and-opposition-allied-militias-trade-fire-ahead-of-anti-government-protests"
+      },
+      {
+        "nombre": "AFP vía The Standard",
+        "url": "https://www.standardmedia.co.ke/africa/article/2001549480/somalia-capital-rocked-by-gunfire-and-fighting-overnight"
+      },
+      {
+        "nombre": "The Eastleigh Voice",
+        "url": "https://eastleighvoice.co.ke/somalia/347829/mogadishu-protest-row-escalates-as-somali-government-blocks-multi-site-rallies"
+      }
+    ],
+    "createdAt": "2026-06-04T16:00:23.000Z",
+    "updatedAt": "2026-06-04T16:05:03Z"
+  },
+  {
+    "id": 311,
+    "seccion": "internacional",
+    "pais": "Francia",
+    "bandera": "🇫🇷",
+    "hora": "10:00",
+    "fecha": "2026-06-04",
+    "lugar": "Sede de CNews, París",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Manifestantes",
+      "Periodistas",
+      "Funcionarios electos franceses"
+    ],
+    "motivo": "Protesta frente a la sede de CNews en París contra la presencia de Ksenia Fedorova, exdirectora de RT France, como comentarista en medios del grupo Bolloré (CNews, Europe 1, Le Journal du Dimanche). La acusan de difundir narrativas del Kremlin y hacer propaganda de guerra a favor de Rusia. Los manifestantes portaban carteles contra lo que describen como propaganda bélica y exigen mayor escrutinio de las autoridades francesas y el regulador de medios. El debate se intensifica de cara a las elecciones presidenciales de 2027",
+    "status": "en_curso",
+    "lat": "48.8742",
+    "lng": "2.3115",
+    "fuentes": [
+      {
+        "nombre": "Euronews",
+        "url": "https://www.euronews.com/video/2026/06/04/france-protesters-rally-outside-cnews-tv-over-alleged-kremlin-influence"
+      },
+      {
+        "nombre": "Africanews",
+        "url": "https://www.africanews.com/2026/06/04/france-protesters-rally-outside-cnews-tv-over-alleged-kremlin-influence/"
+      }
+    ],
+    "createdAt": "2026-06-04T16:00:23.000Z",
+    "updatedAt": "2026-06-04T16:05:03Z"
   }
 ]
