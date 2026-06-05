@@ -34,10 +34,14 @@
       {
         "nombre": "Resumen Latinoamericano",
         "url": "https://www.resumenlatinoamericano.org/2026/05/30/argentina-perez-esquivel-impulsa-una-semana-de-ayuno-como-protesta-contra-el-gobierno-de-milei"
+      },
+      {
+        "nombre": "Infobae / EFE",
+        "url": "https://www.infobae.com/america/agencias/2026/06/05/religiosos-activistas-y-el-nobel-perez-esquivel-se-unen-en-ayuno-y-oracion-contra-milei/"
       }
     ],
     "createdAt": "2026-06-05T03:36:31.000Z",
-    "updatedAt": "2026-06-05T14:51:42Z"
+    "updatedAt": "2026-06-05T17:20:54Z"
   },
   {
     "id": 501,
@@ -66,7 +70,62 @@
       }
     ],
     "createdAt": "2026-06-05T08:07:18.000Z",
-    "updatedAt": "2026-06-05T14:51:42Z"
+    "updatedAt": "2026-06-05T17:20:54Z"
+  },
+  {
+    "id": 502,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "00:01",
+    "fecha": "2026-06-05",
+    "lugar": "57 universidades nacionales en todo el país",
+    "tipoAccion": "paro",
+    "organizaciones": [
+      "CONADU Histórica"
+    ],
+    "motivo": "Paro nacional docente activo en las 57 universidades nacionales (jueves 4 y viernes 5 de junio) exigiendo aumento salarial mensual para no seguir perdiendo poder adquisitivo frente a la inflación, recuperación de lo perdido desde diciembre de 2025, actualización de la garantía salarial, restitución del FONID, fondos de capacitación y fondo de emergencia para evitar la quiebra de las obras sociales. Exigen el cumplimiento de la Ley de Financiamiento Universitario sancionada por el Congreso. La CONADU Histórica denuncia una pérdida salarial del 52% desde la asunción de Javier Milei",
+    "status": "en_curso",
+    "lat": "-34.5997",
+    "lng": "-58.3815",
+    "fuentes": [
+      {
+        "nombre": "CONADU Histórica",
+        "url": "https://conaduhistorica.org.ar/prensa/4-y-5-de-junio-paro-nacional-docente-activo-en-las-universidades-nacionales/"
+      },
+      {
+        "nombre": "El Esquiú",
+        "url": "https://www.elesquiu.com/sociedad/2026/6/2/conadu-historica-cuestiona-la-oferta-del-gobierno-a-rectores-y-advierte-que-el-reclamo-seguira-584042.html"
+      }
+    ],
+    "createdAt": "2026-06-05T17:17:11.000Z",
+    "updatedAt": "2026-06-05T17:20:54Z"
+  },
+  {
+    "id": 503,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "10:00",
+    "fecha": "2026-06-05",
+    "lugar": "Esquina de calle Corrientes y Córdoba, Rosario, Santa Fe",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Plenario de Trabajadores Jubilados",
+      "Frejel (Frente de Jubilados en Lucha)"
+    ],
+    "motivo": "Protesta de jubilados y pensionados en la esquina de Corrientes y Córdoba. Reclaman mejores condiciones de vida, aumento de haberes previsionales, restitución de medicamentos gratuitos del PAMI y rechazo a la reforma previsional. La convocatoria se consolida como un clásico de los viernes en Rosario, sumando cada vez más participantes. A pesar de la lluvia y las bajas temperaturas, los adultos mayores mantienen la protesta para visibilizar la situación crítica del sector",
+    "status": "en_curso",
+    "lat": "-32.9468",
+    "lng": "-60.6393",
+    "fuentes": [
+      {
+        "nombre": "Conclusión",
+        "url": "https://www.conclusion.com.ar/la-ciudad/jubilados-redoblan-el-reclamo-en-calle-corrientes-ni-la-lluvia-ni-el-viento-nos-detienen/06/2026/"
+      }
+    ],
+    "createdAt": "2026-06-05T17:17:11.000Z",
+    "updatedAt": "2026-06-05T17:20:54Z"
   },
   {
     "id": 302,
@@ -103,10 +162,14 @@
       {
         "nombre": "El Debate",
         "url": "https://www.eldebate.com/espana/comunidad-valenciana/20260602/huelga-educacion-recrudece-deriva-acampada-indefinida-centro-valencia-estilo-15_424041.html"
+      },
+      {
+        "nombre": "El Periódico de Aquí",
+        "url": "https://www.elperiodicodeaqui.com/educacion/huelga-indefinida-profesores-calendario-protestas-hasta-5-junio_100116386_102.html"
       }
     ],
     "createdAt": "2026-06-04T05:20:38.000Z",
-    "updatedAt": "2026-06-05T14:51:42Z"
+    "updatedAt": "2026-06-05T17:20:54Z"
   },
   {
     "id": 303,
@@ -145,7 +208,7 @@
       }
     ],
     "createdAt": "2026-06-04T05:20:38.000Z",
-    "updatedAt": "2026-06-05T14:51:42Z"
+    "updatedAt": "2026-06-05T17:20:54Z"
   },
   {
     "id": 306,
@@ -185,7 +248,7 @@
       }
     ],
     "createdAt": "2026-06-04T09:11:02.000Z",
-    "updatedAt": "2026-06-05T14:51:42Z"
+    "updatedAt": "2026-06-05T17:20:54Z"
   },
   {
     "id": 307,
@@ -205,6 +268,10 @@
     "lng": "-99.1332",
     "fuentes": [
       {
+        "nombre": "Capital México",
+        "url": "https://www.capitalmexico.com.mx/cdmx/movilizaciones-protestas-y-eventos-masivos-marcaran-este-5-de-junio-en-la-cdmx/"
+      },
+      {
         "nombre": "Publimetro México",
         "url": "https://www.publimetro.com.mx/noticias/2026/06/05/marchas-cdmx-hoy-5-de-junio-de-2026-cnte-lidera-movilizaciones-y-preven-bloqueos-en-reforma/"
       },
@@ -222,7 +289,7 @@
       }
     ],
     "createdAt": "2026-06-04T12:30:02.000Z",
-    "updatedAt": "2026-06-05T14:51:42Z"
+    "updatedAt": "2026-06-05T17:20:54Z"
   },
   {
     "id": 315,
@@ -259,10 +326,14 @@
       {
         "nombre": "Monitoreamos",
         "url": "https://monitoreamos.com/venezuela/familiares-y-activistas-protestan-en-la-avenida-victoria-para-exigir-informacion-sobre-trasladados-arbitrarios"
+      },
+      {
+        "nombre": "americateve / AP",
+        "url": "https://www.americateve.com/protestas-elecciones-mundial-y-otras-fotos-la-semana-latinoamerica-y-el-caribe-n5452538"
       }
     ],
     "createdAt": "2026-06-04T20:55:39.000Z",
-    "updatedAt": "2026-06-05T14:51:42Z"
+    "updatedAt": "2026-06-05T17:20:54Z"
   },
   {
     "id": 319,
@@ -296,10 +367,14 @@
       {
         "nombre": "RTÉ",
         "url": "https://www.rte.ie/news/business/2026/0605/1576873-norwegian-oil-companies/"
+      },
+      {
+        "nombre": "UK Strike Calendar",
+        "url": "https://www.strikecalendar.co.uk/"
       }
     ],
     "createdAt": "2026-06-04T23:44:47.000Z",
-    "updatedAt": "2026-06-05T14:51:42Z"
+    "updatedAt": "2026-06-05T17:20:54Z"
   },
   {
     "id": 320,
@@ -337,6 +412,40 @@
       }
     ],
     "createdAt": "2026-06-05T08:04:44.000Z",
-    "updatedAt": "2026-06-05T14:51:42Z"
+    "updatedAt": "2026-06-05T17:20:54Z"
+  },
+  {
+    "id": 321,
+    "seccion": "internacional",
+    "pais": "España",
+    "bandera": "🇪🇸",
+    "hora": "00:01",
+    "fecha": "2026-06-05",
+    "lugar": "Aeropuertos de Lanzarote, Fuerteventura, La Palma, El Hierro, Sevilla, Jerez, Vigo, A Coruña y otros — 9 torres de control operadas por SAERCO",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "USCA (Unión Sindical de Controladores Aéreos)",
+      "CCOO"
+    ],
+    "motivo": "Huelga indefinida de controladores aéreos de SAERCO desde el 17 de abril, vigente a diario hasta al menos el 30 de junio. Afecta a 9 torres de control en España, con mayor impacto en Canarias (Lanzarote, Fuerteventura, La Palma, El Hierro) y ciudades continentales (Sevilla, Jerez, Vigo, A Coruña). El Ministerio de Transportes impuso servicios mínimos cercanos al 100%, por lo que los vuelos operan mayoritariamente pero con retrasos. Los controladores denuncian salarios insuficientes y deterioro de condiciones laborales. No hay acuerdo a la vista con SAERCO",
+    "status": "en_curso",
+    "lat": "28.5000",
+    "lng": "-13.5000",
+    "fuentes": [
+      {
+        "nombre": "Wego Travel Blog",
+        "url": "https://blog.wego.com/europe-airport-strikes-summer-2026/"
+      },
+      {
+        "nombre": "Airport Strikes EU",
+        "url": "https://airportstrikes.eu/strike/251f2a91-d28e-4aea-83ac-0f43798acb84"
+      },
+      {
+        "nombre": "Travel and Tour World",
+        "url": "https://www.travelandtourworld.com/news/article/spains-air-traffic-control-strike-what-travelers-need-to-know-about-delays-and-cancellations"
+      }
+    ],
+    "createdAt": "2026-06-05T17:13:45.000Z",
+    "updatedAt": "2026-06-05T17:20:54Z"
   }
 ]
