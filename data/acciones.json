@@ -37,7 +37,36 @@
       }
     ],
     "createdAt": "2026-06-05T03:36:31.000Z",
-    "updatedAt": "2026-06-05T03:39:52Z"
+    "updatedAt": "2026-06-05T08:10:39Z"
+  },
+  {
+    "id": 501,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "00:01",
+    "fecha": "2026-06-05",
+    "lugar": "Río Gallegos, Santa Cruz (Casa de Gobierno). Réplicas en escuelas públicas de gestión privada de toda la provincia",
+    "tipoAccion": "paro",
+    "organizaciones": [
+      "ADOSAC (Asociación Docentes de Santa Cruz)"
+    ],
+    "motivo": "Paro docente de 48 horas (jueves 4 y viernes 5 de junio) en rechazo a los descuentos salariales aplicados por el Gobierno provincial sobre los haberes por jornadas de huelga previas. Los docentes quemaron cubiertas frente a la Casa de Gobierno en Río Gallegos. Exigen la devolución de los montos descontados (hasta $2 millones por docente) y la apertura de paritarias. La paritaria del sector Educación está convocada para el 8 de junio. El gremio denuncia que hay compañeros 'sin salario' tras los descuentos",
+    "status": "en_curso",
+    "lat": "-51.6236",
+    "lng": "-69.2168",
+    "fuentes": [
+      {
+        "nombre": "La Opinión Austral",
+        "url": "https://laopinionaustral.com.ar/politica-y-economia/docentes-prendieron-fuego-cubiertas-frente-a-la-casa-de-gobierno-de-santa-cruz-y-decidieron-dos-dias-de-paro-por-descuentos-salariales-668250.html"
+      },
+      {
+        "nombre": "TiempoSur",
+        "url": "https://www.tiemposur.com.ar/info-general/adosac-ratifico-un-paro-de-48-horas-frente-a-los-descuentos-aplicados"
+      }
+    ],
+    "createdAt": "2026-06-05T08:07:18.000Z",
+    "updatedAt": "2026-06-05T08:10:39Z"
   },
   {
     "id": 302,
@@ -77,7 +106,7 @@
       }
     ],
     "createdAt": "2026-06-04T05:20:38.000Z",
-    "updatedAt": "2026-06-05T03:39:52Z"
+    "updatedAt": "2026-06-05T08:10:39Z"
   },
   {
     "id": 303,
@@ -90,7 +119,7 @@
     "tipoAccion": "protesta",
     "organizaciones": [
       "Central Obrera Boliviana (COB)",
-      "Federación Tupac Katari",
+      "Federación Tupat Katari",
       "Sectores afines a Evo Morales"
     ],
     "motivo": "Día 36 de protestas con bloqueos de carreteras en al menos 6 departamentos (94+ puntos de corte). Exigen la renuncia del presidente Rodrigo Paz. La COB rechazó el diálogo y mantiene las medidas. Cochabamba (27 puntos), La Paz (21), Oruro (18) y Potosí (15) son los más afectados. Desabastecimiento de alimentos, combustible y oxígeno medicinal. Al menos 9 fallecidos reportados (6 por falta de atención médica por bloqueos). El viernes 5 de junio es feriado nacional adicional, pero los bloqueos continúan. El Gobierno niega posible renuncia",
@@ -116,7 +145,7 @@
       }
     ],
     "createdAt": "2026-06-04T05:20:38.000Z",
-    "updatedAt": "2026-06-05T03:39:52Z"
+    "updatedAt": "2026-06-05T08:10:39Z"
   },
   {
     "id": 306,
@@ -125,34 +154,38 @@
     "bandera": "🇪🇸",
     "hora": "12:00",
     "fecha": "2026-06-05",
-    "lugar": "Catalunya: huelga general en todos los centros educativos. Manifestación unitaria en Barcelona desde Arc de Triomf hasta el Parlament",
+    "lugar": "Catalunya: huelga general en todos los centros educativos públicos y concertados. Manifestación unitaria en Barcelona desde Arc de Triomf hasta el Parlament",
     "tipoAccion": "huelga",
     "organizaciones": [
-      "USTEC·STEs",
       "CGT Ensenyament",
       "La Intersindical",
-      "COS"
+      "COS",
+      "USTEC·STEs"
     ],
-    "motivo": "Tercera y última jornada de huelga general de todo el ciclo en la educación pública catalana (17 días de protesta en un mes). Manifestación unitaria en Barcelona a las 12:00 desde Arc de Triomf hasta el Parlament. Los docentes rechazaron el preacuerdo firmado por los sindicatos mayoritarios con la Generalitat. Exigen mejoras salariales, reducción de ratios, disminución de burocracia y más inversión educativa. Solo Aspepc se desmarcó de la huelga tras aprobar el pacto en consulta interna. Selectividad comienza en 4 días",
+    "motivo": "Huelga general educativa en toda Cataluña —cierre de 4 semanas de paros— tras el rechazo del 65% de los docentes al preacuerdo firmado entre Govern y sindicatos mayoritarios. De 60.686 votantes, 39.502 (65%) votaron 'no'. Manifestación unitaria en Barcelona a las 12:00 desde Arc de Triomf hasta el Parlament, confluyendo marchas desde Sant Adrià, plaça d'Espanya y Zona Franca. La concertada se manifiesta por separado a las 10:30. Exigen mejoras salariales (400 € en 4 años considerados insuficientes), reducción de ratios, disminución de burocracia y más inversión educativa. Selectividad comienza en 4 días. Los sindicatos anuncian que las protestas continuarán las dos semanas restantes del curso, con acciones durante la visita del Papa",
     "status": "en_curso",
     "lat": "41.3874",
     "lng": "2.1686",
     "fuentes": [
       {
-        "nombre": "El Periódico",
-        "url": "https://www.elperiodico.com/es/sociedad/20260605/huelga-profesores-catalunya-hoy-viernes-5-junio-recorrido-manifestacion-barcelona-dv-130131145"
+        "nombre": "El País",
+        "url": "https://elpais.com/espana/catalunya/2026-06-05/los-profesores-catalanes-vuelven-a-la-huelga-tras-rechazar-el-preacuerdo-con-el-govern.html"
       },
       {
         "nombre": "El Periódico",
-        "url": "https://www.elperiodico.com/es/sociedad/20260604/huelga-profesores-cataluna-sindicatos-movilizaciones-ultima-hora-directo-130098594"
+        "url": "https://www.elperiodico.com/es/sociedad/20260605/huelga-profesores-catalunya-sindicatos-movilizaciones-ultima-hora-directo-130098594"
       },
       {
         "nombre": "CatalunyaPress",
-        "url": "https://www.catalunyapress.es/articulo/sociedad/2026-05-06/5870364-docentes-inician-nuevo-calendario-huelgas-catalunya-17-dias-movilizacion-mes"
+        "url": "https://www.catalunyapress.es/articulo/sociedad/2026-06-05/5908177-huelga-general-docente-catalunya-manifestaciones-horas-negociaciones"
+      },
+      {
+        "nombre": "El Triangle",
+        "url": "https://www.eltriangle.eu/es/2026/06/05/huelga-general-de-los-docentes-en-toda-cataluna/"
       }
     ],
     "createdAt": "2026-06-04T09:11:02.000Z",
-    "updatedAt": "2026-06-05T03:39:52Z"
+    "updatedAt": "2026-06-05T08:10:39Z"
   },
   {
     "id": 307,
@@ -189,7 +222,7 @@
       }
     ],
     "createdAt": "2026-06-04T12:30:02.000Z",
-    "updatedAt": "2026-06-05T03:39:52Z"
+    "updatedAt": "2026-06-05T08:10:39Z"
   },
   {
     "id": 313,
@@ -227,7 +260,7 @@
       }
     ],
     "createdAt": "2026-06-04T18:33:49.000Z",
-    "updatedAt": "2026-06-05T03:39:52Z"
+    "updatedAt": "2026-06-05T08:10:39Z"
   },
   {
     "id": 315,
@@ -267,7 +300,7 @@
       }
     ],
     "createdAt": "2026-06-04T20:55:39.000Z",
-    "updatedAt": "2026-06-05T03:39:52Z"
+    "updatedAt": "2026-06-05T08:10:39Z"
   },
   {
     "id": 319,
@@ -276,15 +309,12 @@
     "bandera": "🇬🇧",
     "hora": "00:01",
     "fecha": "2026-06-05",
-    "lugar": "Mar del Norte (Alba FSU, Statfjord A, Oseberg, Ula), plataformas offshore de Ithaca Energy",
+    "lugar": "Mar del Norte (Alba FSU), plataformas offshore de Ithaca Energy",
     "tipoAccion": "huelga",
     "organizaciones": [
-      "Unite the Union",
-      "Styrke",
-      "SAFE",
-      "Lederne"
+      "Unite the Union"
     ],
-    "motivo": "Segundo día de la huelga de trabajadores offshore de Bilfinger en las plataformas del Mar del Norte operadas por Ithaca Energy (Alba FSU, 4-7 de junio). Exigen que Ithaca Energy extienda el bono de retención de hasta £14.500 a los trabajadores contratistas de Bilfinger, del cual han sido excluidos. Le seguirá otra huelga en el FPF-1 del 9 al 12 de junio. En paralelo, en Noruega, 600+ trabajadores offshore amenazan con sumarse a la huelga desde el 5 de junio si fracasa la mediación salarial, lo que afectaría producción en Statfjord A, Ula, Draugen, Oseberg y Ekofisk",
+    "motivo": "Segundo día de la huelga de trabajadores offshore de Bilfinger en la plataforma Alba FSU del Mar del Norte operada por Ithaca Energy (huelga 4-7 de junio). Exigen que Ithaca Energy extienda el bono de retención de hasta £14.500 a los trabajadores contratistas de Bilfinger, del cual han sido excluidos. Le seguirá otra huelga en el FPF-1 del 9 al 12 de junio. En Noruega, una huelga similar de 617 trabajadores offshore amenazada para el 5 de junio fue evitada tras alcanzarse un acuerdo salarial de última hora el 5 de junio",
     "status": "en_curso",
     "lat": "58.0000",
     "lng": "0.5000",
@@ -298,15 +328,53 @@
         "url": "https://www.unitetheunion.org/news-events/news/2026/june/bilfinger-offshore-workers-to-strike-over-pay"
       },
       {
-        "nombre": "Reuters vía MarketScreener",
-        "url": "https://hk.marketscreener.com/news/norway-negotiators-work-overtime-to-avert-oil-strike-ce7f5ddddb8df520"
+        "nombre": "Splash247",
+        "url": "https://splash247.com/north-sea-workers-set-for-strike-action-on-ithaca-energy-assets"
       },
       {
-        "nombre": "BOE Report",
-        "url": "https://boereport.com/2026/06/01/nearly-8-of-norway-oil-workers-threaten-strike-from-june-5/"
+        "nombre": "RTÉ",
+        "url": "https://www.rte.ie/news/business/2026/0605/1576873-norwegian-oil-companies/"
       }
     ],
     "createdAt": "2026-06-04T23:44:47.000Z",
-    "updatedAt": "2026-06-05T03:39:52Z"
+    "updatedAt": "2026-06-05T08:10:39Z"
+  },
+  {
+    "id": 320,
+    "seccion": "internacional",
+    "pais": "Corea del Sur",
+    "bandera": "🇰🇷",
+    "hora": "08:00",
+    "fecha": "2026-06-05",
+    "lugar": "Seúl, distrito de Songpa (Jamsil 7-dong), estación de votación",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Manifestantes de derecha radical",
+      "Residentes del distrito Songpa"
+    ],
+    "motivo": "Más de 1.000 manifestantes bloquearon durante 35 horas una estación de votación en Seúl tras la escasez de papeletas en las elecciones locales del 3 de junio. La policía antidisturbios desalojó a los manifestantes este viernes 5 de junio. Portaban carteles con 'detengan el conteo de votos' e 'invaliden la elección'. Exigen un recuento completo o una repetición de la elección en el distrito. Dos urnas con unos 2.000 votos fueron finalmente aseguradas y trasladadas al centro de conteo",
+    "status": "finalizada",
+    "lat": "37.5100",
+    "lng": "127.1000",
+    "fuentes": [
+      {
+        "nombre": "The Straits Times",
+        "url": "https://www.straitstimes.com/asia/east-asia/south-korean-riot-police-clear-protesters-after-ballot-shortage-blockade"
+      },
+      {
+        "nombre": "AFP vía Malay Mail",
+        "url": "https://www.malaymail.com/news/world/2026/06/05/south-korean-police-clear-protesters-after-35-hour-standoff-at-polling-station/222614"
+      },
+      {
+        "nombre": "The Korea Times",
+        "url": "https://www.koreatimes.co.kr/southkorea/society/20260605/police-secure-ballot-boxes-from-seoul-polling-station-after-dispersing-protesters"
+      },
+      {
+        "nombre": "Reuters vía Citizen Digital",
+        "url": "https://citizen.digital/article/shortage-of-ballot-papers-sparks-protests-in-south-koreas-local-elections-n383967"
+      }
+    ],
+    "createdAt": "2026-06-05T08:04:44.000Z",
+    "updatedAt": "2026-06-05T08:10:39Z"
   }
 ]
