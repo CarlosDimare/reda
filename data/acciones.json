@@ -1,11 +1,11 @@
 [
   {
-    "id": 200,
+    "id": 500,
     "seccion": "protestas_ar",
     "pais": "Argentina",
     "bandera": "🇦🇷",
     "hora": "17:00",
-    "fecha": "2026-06-04",
+    "fecha": "2026-06-05",
     "lugar": "Plaza de Mayo, CABA. Réplicas en plazas centrales de todo el país",
     "tipoAccion": "protesta",
     "organizaciones": [
@@ -14,7 +14,7 @@
       "CTA de los Trabajadores (Hugo Yasky)",
       "CTA Autónoma (Hugo 'Cachorro' Godoy)"
     ],
-    "motivo": "Día 5 del ayuno nacional de 8 días en Plaza de Mayo contra las políticas del gobierno de Javier Milei. Bajo el lema 'Jornada de ayuno y oración para despertar las conciencias', denuncian el crecimiento del hambre, la exclusión, la violencia y el deterioro social. Participan los músicos Peteco Carabajal y Bruno Arias. Réplicas en plazas centrales del interior con organizaciones ecuménicas, sociales y de derechos humanos. Acto de cierre el 9 de junio",
+    "motivo": "4° día del ayuno nacional de 8 días en Plaza de Mayo contra las políticas del gobierno de Javier Milei. Bajo el lema 'Jornada de ayuno y oración para despertar las conciencias', denuncian el crecimiento del hambre, la exclusión, la violencia y el deterioro social. Réplicas en plazas centrales del interior con organizaciones ecuménicas, sociales y de derechos humanos. Acto de cierre el 9 de junio. Participan Peteco Carabajal y Bruno Arias",
     "status": "en_curso",
     "lat": "-34.6083",
     "lng": "-58.3719",
@@ -24,219 +24,60 @@
         "url": "https://www.infobae.com/politica/2026/05/31/perez-esquivel-y-las-cta-convocaron-a-un-ayuno-nacional-de-ocho-dias-en-plaza-de-mayo-contra-el-gobierno/"
       },
       {
-        "nombre": "Clarín",
-        "url": "https://www.clarin.com/politica/rebelarse-adolfo-perez-esquivel-cta-peteco-carabajal-lanzan-ayuno-dias-milei-plaza-mayo_0_USEPoYdX3I.html"
+        "nombre": "CTA Autónoma",
+        "url": "https://ctaa.org.ar/comenzo-el-ayuno-para-despertar-conciencias-en-plaza-de-mayo/"
       },
-      {
-        "nombre": "Ámbito",
-        "url": "https://www.ambito.com/politica/convocaron-un-ayuno-ocho-dias-plaza-mayo-contra-el-gobierno-n6283328"
-      }
-    ],
-    "createdAt": "2026-06-03T00:12:20.000Z",
-    "updatedAt": "2026-06-04T23:50:05Z"
-  },
-  {
-    "id": 201,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "00:01",
-    "fecha": "2026-06-04",
-    "lugar": "Universidades nacionales de todo el país (UNLP, UBA, UNC, UNR, UNL, UNNE, UNT, etc.)",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "FATUN (Federación Argentina del Trabajador de las Universidades Nacionales)",
-      "ATULP (Asociación de Trabajadores de la UNLP)"
-    ],
-    "motivo": "Segundo día del paro nacional de 48 horas de trabajadores nodocentes universitarios (3 y 4 de junio) como parte de 4 semanas de protesta y visibilización. Exigen apertura de paritarias, recuperación salarial, actualización de becas estudiantiles, aumento del presupuesto universitario y plena aplicación de la Ley de Financiamiento Universitario. Denuncian ajuste y desfinanciamiento del sistema universitario público",
-    "status": "en_curso",
-    "lat": "-34.9218",
-    "lng": "-57.9546",
-    "fuentes": [
-      {
-        "nombre": "0221",
-        "url": "https://www.0221.com.ar/universidad/los-nodocentes-vuelven-al-paro-y-la-unlp-arranca-otra-semana-menos-dias-clases-n128836"
-      },
-      {
-        "nombre": "El Cronista",
-        "url": "https://www.cronista.com/informacion-gral/quedan-suspendidas-las-clases-del-miercoles-y-jueves-todos-estos-alumnos-tendran-dias-libres/"
-      },
-      {
-        "nombre": "Línea Sindical",
-        "url": "https://www.lineasindical.com.ar/fatun-endurece-conflicto-universitario-paro-nacional-mayo-junio-convoca-semanas-protesta-n-1762355.html"
-      },
-      {
-        "nombre": "El Territorio",
-        "url": "https://www.elterritorio.com.ar/noticias/2026/06/03/890000-sigue-adelante-el-reclamo-de-docentes-universitarios-y-tambien-habra-paro-manana"
-      }
-    ],
-    "createdAt": "2026-06-03T00:12:20.000Z",
-    "updatedAt": "2026-06-04T23:50:05Z"
-  },
-  {
-    "id": 202,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "11:00",
-    "fecha": "2026-06-04",
-    "lugar": "Tierra del Fuego: Ushuaia (Escuela N°1), Río Grande (Ministerio de Educación, Elcano y Lasserre), Tolhuin (Plaza Cívica)",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "SUTEF (Sindicato Unificado de las Trabajadoras y Trabajadores de la Educación Fueguina)"
-    ],
-    "motivo": "Segundo día del paro provincial docente de 48 horas (3 y 4 de junio) tras el masivo rechazo a la última propuesta salarial del Gobierno de Tierra del Fuego. Exigen recomposición salarial y mejores condiciones laborales",
-    "status": "en_curso",
-    "lat": "-54.8019",
-    "lng": "-68.3030",
-    "fuentes": [
-      {
-        "nombre": "Correo Diario",
-        "url": "https://correodiario.com.ar/sutef-inicia-este-miercoles-un-paro-provincial-de-48-horas-y-convoca-a-movilizaciones-en-toda-tierra-del-fuego/"
-      },
-      {
-        "nombre": "SUTEF",
-        "url": "https://sutef.org/3-y-4-de-junio-paro-provincial-docente/"
-      },
-      {
-        "nombre": "El Cronista",
-        "url": "https://www.cronista.com/informacion-gral/paro-confirmado-docentes-anunciaron-una-nueva-medida-de-fuerza-y-todos-estos-dias-no-habra-clases/"
-      }
-    ],
-    "createdAt": "2026-06-03T00:12:20.000Z",
-    "updatedAt": "2026-06-04T23:50:05Z"
-  },
-  {
-    "id": 211,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "00:01",
-    "fecha": "2026-06-04",
-    "lugar": "Universidades nacionales de todo el país",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "FEDUN (Federación de Docentes de las Universidades Nacionales)"
-    ],
-    "motivo": "Segundo día del paro nacional de 48 horas (3 y 4 de junio) de docentes universitarios de todo el país. Exigen convocatoria a paritarias, recuperación salarial (pérdida del 52,1% del poder adquisitivo desde diciembre 2023), cumplimiento de la Ley de Financiamiento Universitario y aumento del presupuesto universitario. Rechazan el ofrecimiento del Gobierno de un 21% de aumento a cambio de retirar el reclamo. Denuncian 18 meses consecutivos de caída salarial real y desfinanciamiento del sistema universitario público",
-    "status": "en_curso",
-    "lat": "-34.9218",
-    "lng": "-57.9546",
-    "fuentes": [
       {
         "nombre": "El Argentino Diario",
-        "url": "https://elargentinodiario.com.ar/politica/educacion-2/02/06/2026/fedun-lanza-paro-de-48-horas-en-universidades-y-exige-paritarias-urgentes-ante-perdida-salarial-del-52/"
+        "url": "https://elargentinodiario.com.ar/politica/03/06/2026/nobel-perez-esquivel-ayuna-en-plaza-de-mayo-esto-va-a-cambiar-cuando-el-pueblo-diga-basta/"
       },
       {
-        "nombre": "Página|12",
-        "url": "https://www.pagina12.com.ar/2026/06/03/los-docentes-universitarios-rechazan-el-chantaje-del-gobierno-y-van-al-paro/"
+        "nombre": "Resumen Latinoamericano",
+        "url": "https://www.resumenlatinoamericano.org/2026/05/30/argentina-perez-esquivel-impulsa-una-semana-de-ayuno-como-protesta-contra-el-gobierno-de-milei"
       }
     ],
-    "createdAt": "2026-06-03T10:22:19.000Z",
-    "updatedAt": "2026-06-04T23:50:05Z"
-  },
-  {
-    "id": 300,
-    "seccion": "internacional",
-    "pais": "Reino Unido",
-    "bandera": "🇬🇧",
-    "hora": "00:01",
-    "fecha": "2026-06-04",
-    "lugar": "Londres, Reino Unido (toda la red de metro de Londres)",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "RMT (Rail, Maritime and Transport Union)"
-    ],
-    "motivo": "Huelga de 24 horas de conductores del metro de Londres (Tube) por segunda vez esta semana, en protesta por la introducción de una semana laboral comprimida de cuatro días. El sindicato RMT denuncia riesgos de seguridad por fatiga debido a turnos más largos. Sin servicio en las líneas Circle, Piccadilly, Metropolitan (Baker Street-Aldgate) y Central (White City-Liverpool Street). El resto de líneas operan con servicio reducido. Se espera que el servicio se reanude normalmente el 5 de junio",
-    "status": "en_curso",
-    "lat": "51.5074",
-    "lng": "-0.1278",
-    "fuentes": [
-      {
-        "nombre": "Transport for London",
-        "url": "https://tfl.gov.uk/campaign/strikes"
-      },
-      {
-        "nombre": "Tube Alerter",
-        "url": "https://tubenotifications.co.uk/tube-strikes"
-      },
-      {
-        "nombre": "Time Out London",
-        "url": "https://www.timeout.com/london/news/june-2026-tube-strikes-how-to-get-around-london-during-this-weeks-rmt-industrial-action-052826"
-      },
-      {
-        "nombre": "The Independent",
-        "url": "https://www.the-independent.com/news/uk/home-news/london-tube-strikes-latest-updates-tfl-june-b2988888.html"
-      }
-    ],
-    "createdAt": "2026-06-04T05:20:38.000Z",
-    "updatedAt": "2026-06-04T23:50:05Z"
-  },
-  {
-    "id": 301,
-    "seccion": "internacional",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "19:00",
-    "fecha": "2026-06-04",
-    "lugar": "Plaza Juan Goytisolo (frente al Museo Reina Sofía), Madrid",
-    "tipoAccion": "concentracion",
-    "organizaciones": [
-      "Plataforma por un Estado Laico"
-    ],
-    "motivo": "Concentración bajo el lema 'Exigimos un Estado laico' en el marco de la visita del Papa León XIV a España (del 6 al 9 de junio). Exigen la separación efectiva entre Iglesia y Estado y protestan contra los privilegios de la Iglesia católica en España",
-    "status": "convocada",
-    "lat": "40.4086",
-    "lng": "-3.6945",
-    "fuentes": [
-      {
-        "nombre": "Tercera Información",
-        "url": "https://www.tercerainformacion.es/articulo/actualidad/02/06/2026/exigimos-un-estado-laico-concentracion-en-madrid-ante-la-visita-del-papa-jueves-4-de-junio-a-las-1900-horas-en-la-plaza-juan-goytisolo/"
-      }
-    ],
-    "createdAt": "2026-06-04T05:20:38.000Z",
-    "updatedAt": "2026-06-04T23:50:05Z"
+    "createdAt": "2026-06-05T03:36:31.000Z",
+    "updatedAt": "2026-06-05T03:39:52Z"
   },
   {
     "id": 302,
     "seccion": "internacional",
     "pais": "España",
     "bandera": "🇪🇸",
-    "hora": "11:00",
-    "fecha": "2026-06-04",
-    "lugar": "Valencia (desde Plaza del Ayuntamiento hasta Plaza de la Virgen) y Alicante (IES Jorge Juan, 18:30)",
+    "hora": "00:01",
+    "fecha": "2026-06-05",
+    "lugar": "Comunitat Valenciana: València, Alicante, Castellón. Acampada en plaza de la Virgen de València",
     "tipoAccion": "huelga",
     "organizaciones": [
-      "Sindicatos docentes de la Comunidad Valenciana (STEPV, CCOO, UGT, CSIF)"
+      "STEPV",
+      "CCOO PV",
+      "UGT-PV",
+      "Plataforma en Defensa de l'Ensenyament Públic"
     ],
-    "motivo": "Nueva jornada de manifestaciones dentro de la huelga indefinida de docentes de la enseñanza pública no universitaria en la Comunidad Valenciana, que comenzó el 11 de mayo. Manifestación en València a las 11:00 desde plaza del Ayuntamiento, y en Alicante a las 18:30 desde IES Jorge Juan. Exigen mejoras salariales, reducción de la burocracia, disminución de la ratio alumnos por aula y mayores presupuestos educativos. Docentes mantienen acampada en la plaza de la Virgen de València",
+    "motivo": "Día 20 de la huelga indefinida de docentes de enseñanza pública no universitaria en la Comunidad Valenciana (desde el 11 de mayo). La Plataforma en Defensa de l'Ensenyament convoca una huelga de familias (no llevar hijos a clase) para este viernes 5 de junio, con manifestaciones por la tarde en València y Castellón a las 19:00. La acampada docente en la plaza de la Virgen de València continúa. Exigen mejoras salariales, reducción de burocracia y ratios, y mayor presupuesto educativo. Las negociaciones con Conselleria siguen estancadas",
     "status": "en_curso",
     "lat": "39.4699",
     "lng": "-0.3763",
     "fuentes": [
       {
-        "nombre": "El Periódico de Aquí",
-        "url": "https://www.elperiodicodeaqui.com/educacion/huelga-indefinida-profesores-calendario-protestas-hasta-5-junio_100116386_102.html"
-      },
-      {
-        "nombre": "The Olive Press",
-        "url": "https://www.theolivepress.es/spain-news/2026/05/11/watch-thousands-of-teachers-flood-the-streets-of-valencia-on-first-day-of-indefinite-strike-that-has-emptied-classrooms-but-why-are-they-protesting/"
+        "nombre": "Valencia Plaza",
+        "url": "https://valenciaplaza.com/valenciaplaza/educacion/la-plataforma-en-defensa-de-lensenyament-convoca-huelga-de-familias-el-proximo-dia-5"
       },
       {
         "nombre": "La Vanguardia",
         "url": "https://www.lavanguardia.com/local/valencia/20260604/11555121/todos-frentes-abiertos-huelga-indefinida-educacion-publica-valenciana.html"
       },
       {
-        "nombre": "Valencia Plaza",
-        "url": "https://valenciaplaza.com/valenciaplaza/educacion/sindicatos-convocan-nuevas-manifestaciones-este-martes-y-jueves-en-la-cuarta-semana-de-huelga-indefinida-educativa"
+        "nombre": "EFE",
+        "url": "https://efe.com/espana/2026-06-04/docentes-valencianos-cumplen-19-dias-huelga/"
       },
       {
-        "nombre": "The Leader",
-        "url": "https://theleader.info/2026/06/04/thousands-of-teachers-march-through-alicante-as-education-strike-enters-fourth-week/"
+        "nombre": "El Debate",
+        "url": "https://www.eldebate.com/espana/comunidad-valenciana/20260602/huelga-educacion-recrudece-deriva-acampada-indefinida-centro-valencia-estilo-15_424041.html"
       }
     ],
     "createdAt": "2026-06-04T05:20:38.000Z",
-    "updatedAt": "2026-06-04T23:50:05Z"
+    "updatedAt": "2026-06-05T03:39:52Z"
   },
   {
     "id": 303,
@@ -244,148 +85,74 @@
     "pais": "Bolivia",
     "bandera": "🇧🇴",
     "hora": "00:01",
-    "fecha": "2026-06-04",
-    "lugar": "La Paz, El Alto, Cochabamba, y más de 90 puntos de bloqueo en todo el país",
+    "fecha": "2026-06-05",
+    "lugar": "La Paz, Cochabamba, Oruro, Potosí, Chuquisaca, Santa Cruz — más de 94 puntos de bloqueo en todo el país",
     "tipoAccion": "protesta",
     "organizaciones": [
       "Central Obrera Boliviana (COB)",
       "Federación Tupac Katari",
       "Sectores afines a Evo Morales"
     ],
-    "motivo": "Más de un mes de protestas antigubernamentales exigiendo la renuncia del presidente Rodrigo Paz. Comunidades rurales tomaron un campo petrolero en Santa Cruz, cerrando válvulas y deteniendo la producción. Bloqueos de rutas impiden el transporte de alimentos, combustible y medicinas (más de 90 bloqueos activos). El presidente presentó un proyecto de ley de estado de excepción al Congreso el 3 de junio para autorizar el despliegue militar. Los ministros de Defensa y Educación renunciaron el 2 de junio. Al menos 5 muertos y pérdidas económicas millonarias. Grupos campesinos y sindicales rechazan la militarización y mantienen la movilización",
+    "motivo": "Día 36 de protestas con bloqueos de carreteras en al menos 6 departamentos (94+ puntos de corte). Exigen la renuncia del presidente Rodrigo Paz. La COB rechazó el diálogo y mantiene las medidas. Cochabamba (27 puntos), La Paz (21), Oruro (18) y Potosí (15) son los más afectados. Desabastecimiento de alimentos, combustible y oxígeno medicinal. Al menos 9 fallecidos reportados (6 por falta de atención médica por bloqueos). El viernes 5 de junio es feriado nacional adicional, pero los bloqueos continúan. El Gobierno niega posible renuncia",
     "status": "en_curso",
     "lat": "-16.5000",
     "lng": "-68.1500",
     "fuentes": [
       {
-        "nombre": "AFP vía NAMPA",
-        "url": "https://www.nampa.org/text/22940293"
+        "nombre": "Visión 360",
+        "url": "https://www.vision360.bo/noticias/2026/06/04/51362-los-bloqueos-de-carreteras-se-concentran-en-cochabamba-la-paz-oruro-y-potosi"
       },
       {
-        "nombre": "The Straits Times",
-        "url": "https://www.straitstimes.com/world/bolivias-defence-minister-salinas-resigns-after-weeks-of-mass-protests"
+        "nombre": "Infobae",
+        "url": "https://www.infobae.com/america/agencias/2026/06/03/conflictos-en-bolivia-dejan-9-fallecidos-seis-por-falta-de-atencion-medica-por-bloqueos/"
       },
       {
-        "nombre": "Orinoco Tribune",
-        "url": "https://orinocotribune.com/growing-demonstrations-in-bolivia-demand-resignation-of-president-paz/"
+        "nombre": "Bolivia.com",
+        "url": "https://www.bolivia.com/actualidad/nacionales/empresarios-califican-de-inoportuna-la-declaracion-del-feriado-mientras-persisten-bloqueos-586332"
       },
       {
-        "nombre": "Sri Lanka Guardian",
-        "url": "https://slguardian.org/bolivia-faces-political-shock-as-government-pushes-military-state-of-exception-amid-mass-protests/"
-      },
-      {
-        "nombre": "Democracy Now!",
-        "url": "https://www.democracynow.org/2026/6/4/headlines/rural_communities_in_bolivia_seize_oil_field_calling_on_president_paz_to_resign"
+        "nombre": "ANF",
+        "url": "https://www.noticiasfides.com/nacional/politica/a-casi-un-mes-de-bloqueos-asi-comenzo-y-muto-el-conflicto-que-exige-la-renuncia-de-paz"
       }
     ],
     "createdAt": "2026-06-04T05:20:38.000Z",
-    "updatedAt": "2026-06-04T23:50:05Z"
-  },
-  {
-    "id": 304,
-    "seccion": "internacional",
-    "pais": "Corea del Sur",
-    "bandera": "🇰🇷",
-    "hora": "09:00",
-    "fecha": "2026-06-04",
-    "lugar": "Gwacheon (sede de la Comisión Electoral Nacional) y Songpa-gu, Seúl",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Manifestantes de derecha y seguidores del Partido del Poder Popular (PPP)",
-      "YouTuber Jeon Han-gil"
-    ],
-    "motivo": "Protestas por la escasez de papeletas electorales durante las elecciones locales del 3 de junio. Cientos de manifestantes acusan fraude electoral y bloquean la salida de urnas en Songpa-gu, Seúl, y se concentran frente a la sede de la Comisión Electoral Nacional en Gwacheon. Portan pancartas con frases como 'Elecciones fraudulentas' y exigen la anulación de los comicios y la renuncia del presidente de la NEC. La policía estima la multitud en hasta 1.200 personas",
-    "status": "en_curso",
-    "lat": "37.3596",
-    "lng": "126.9860",
-    "fuentes": [
-      {
-        "nombre": "The Straits Times",
-        "url": "https://www.straitstimes.com/asia/east-asia/shortage-of-ballot-papers-sparks-protests-in-south-koreas-local-elections"
-      },
-      {
-        "nombre": "ChosunBiz",
-        "url": "https://biz.chosun.com/en/en-society/2026/06/04/IBFNGWWI3VG2DNQ6KB3MCOB27A/"
-      },
-      {
-        "nombre": "Seoul Economic Daily",
-        "url": "https://en.sedaily.com/society/2026/06/04/protesters-gather-after-unprecedented-ballot-shortage-two"
-      },
-      {
-        "nombre": "The Korea Herald",
-        "url": "https://www.koreaherald.com/article/10763752"
-      }
-    ],
-    "createdAt": "2026-06-04T09:11:02.000Z",
-    "updatedAt": "2026-06-04T23:50:05Z"
-  },
-  {
-    "id": 305,
-    "seccion": "internacional",
-    "pais": "Bangladesh",
-    "bandera": "🇧🇩",
-    "hora": "10:00",
-    "fecha": "2026-06-04",
-    "lugar": "Dhaka (oficinas centrales del Islami Bank en Motijheel y sucursales en todo el país)",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "Islami Bank Sacheton Grahok Forum (Foro de Clientes Conscientes del Islami Bank)"
-    ],
-    "motivo": "Paro simbólico de una hora ('pen-down strike') de empleados del Islami Bank Bangladesh, convocado por el Foro de Clientes que exige la renuncia del presidente del banco, Md Khurshid Alam, acusado de irregularidades financieras durante el régimen de la Liga Awami. La protesta ocurre en medio de manifestaciones callejeras que entran en su tercer día consecutivo, con marchas y sentadas frente a la sede central en Motijheel y cerca del Club Nacional de Prensa. La gerencia del banco advirtió acciones disciplinarias. Se reporta un aumento en los retiros de depósitos por la incertidumbre",
-    "status": "en_curso",
-    "lat": "23.7771",
-    "lng": "90.3995",
-    "fuentes": [
-      {
-        "nombre": "The Business Standard",
-        "url": "https://publisher.tbsnews.net/economy/banking/management-warns-strict-action-against-islami-bank-officials-observing-pen-down"
-      },
-      {
-        "nombre": "JagoNews24",
-        "url": "https://www.jagonews24.com/en/biz-econ/news/93131"
-      },
-      {
-        "nombre": "The Daily Star",
-        "url": "https://www.thedailystar.net/business/news/turmoil-islami-bank-continues-protests-enter-second-day-4188751"
-      }
-    ],
-    "createdAt": "2026-06-04T09:11:02.000Z",
-    "updatedAt": "2026-06-04T23:50:05Z"
+    "updatedAt": "2026-06-05T03:39:52Z"
   },
   {
     "id": 306,
     "seccion": "internacional",
     "pais": "España",
     "bandera": "🇪🇸",
-    "hora": "00:01",
-    "fecha": "2026-06-04",
-    "lugar": "Lleida, Alt Pirineu y Aran (Catalunya). Manifestación y asamblea en Tàrrega (Lleida)",
+    "hora": "12:00",
+    "fecha": "2026-06-05",
+    "lugar": "Catalunya: huelga general en todos los centros educativos. Manifestación unitaria en Barcelona desde Arc de Triomf hasta el Parlament",
     "tipoAccion": "huelga",
     "organizaciones": [
+      "USTEC·STEs",
       "CGT Ensenyament",
       "La Intersindical",
       "COS"
     ],
-    "motivo": "Jornada de huelga docente en las comarcas de Lleida, Alt Pirineu y Aran, dentro del ciclo de 17 días de huelga en la educación pública catalana. Reclaman mejoras salariales, reducción de ratios, disminución de la burocracia y más inversión educativa. Los sindicatos CGT, Intersindical y COS mantienen la convocatoria mientras USTEC y Aspepc la desconvocaron por el preacuerdo con la Generalitat. Consulta docente sobre el preacuerdo finaliza hoy a mediodía",
+    "motivo": "Tercera y última jornada de huelga general de todo el ciclo en la educación pública catalana (17 días de protesta en un mes). Manifestación unitaria en Barcelona a las 12:00 desde Arc de Triomf hasta el Parlament. Los docentes rechazaron el preacuerdo firmado por los sindicatos mayoritarios con la Generalitat. Exigen mejoras salariales, reducción de ratios, disminución de burocracia y más inversión educativa. Solo Aspepc se desmarcó de la huelga tras aprobar el pacto en consulta interna. Selectividad comienza en 4 días",
     "status": "en_curso",
-    "lat": "41.6176",
-    "lng": "0.6200",
+    "lat": "41.3874",
+    "lng": "2.1686",
     "fuentes": [
+      {
+        "nombre": "El Periódico",
+        "url": "https://www.elperiodico.com/es/sociedad/20260605/huelga-profesores-catalunya-hoy-viernes-5-junio-recorrido-manifestacion-barcelona-dv-130131145"
+      },
       {
         "nombre": "El Periódico",
         "url": "https://www.elperiodico.com/es/sociedad/20260604/huelga-profesores-cataluna-sindicatos-movilizaciones-ultima-hora-directo-130098594"
       },
       {
-        "nombre": "El Periódico",
-        "url": "https://www.elperiodico.com/es/sociedad/20260604/huelga-profesores-barcelona-catalunya-hoy-jueves-4-junio-manana-viernes-calendario-dv-130131145"
-      },
-      {
-        "nombre": "Diari de Tarragona",
-        "url": "https://www.diaridetarragona.com/catalunya/261981/escuela-catalana-pendiente-consulta-desencadenar-nuevas-huelgas.html"
+        "nombre": "CatalunyaPress",
+        "url": "https://www.catalunyapress.es/articulo/sociedad/2026-05-06/5870364-docentes-inician-nuevo-calendario-huelgas-catalunya-17-dias-movilizacion-mes"
       }
     ],
     "createdAt": "2026-06-04T09:11:02.000Z",
-    "updatedAt": "2026-06-04T23:50:05Z"
+    "updatedAt": "2026-06-05T03:39:52Z"
   },
   {
     "id": 307,
@@ -393,233 +160,74 @@
     "pais": "México",
     "bandera": "🇲🇽",
     "hora": "00:01",
-    "fecha": "2026-06-04",
-    "lugar": "Ciudad de México (Zócalo, Paseo de la Reforma, avenida Insurgentes, sede de la Secretaría de Gobernación)",
+    "fecha": "2026-06-05",
+    "lugar": "Ciudad de México (Zócalo, Paseo de la Reforma, avenida Insurgentes, Bucareli, sede de la Secretaría de Gobernación). Acciones en al menos 10 estados más",
     "tipoAccion": "huelga",
     "organizaciones": [
       "CNTE (Coordinadora Nacional de Trabajadores de la Educación)"
     ],
-    "motivo": "Huelga nacional indefinida de docentes desde el 1 de junio, a 8 días del inicio del Mundial 2026. Exigen la abrogación de la Ley del ISSSTE de 2007, aumento salarial del 100% y la derogación de la reforma educativa de 2019. Mantienen un campamento con 12.000 docentes en el Centro Histórico de la CDMX, bloqueando calles clave. El 3 de junio derribaron estatuas de futbolistas en Paseo de la Reforma instaladas para el Mundial. También protestan jueces y magistrados jubilados exigiendo pensiones. El gobierno de Sheinbaum no ha cedido a las demandas centrales. La FIFA canceló capacitaciones presenciales en el Zócalo por razones de seguridad. Amenazan con intensificar acciones durante la inauguración del Mundial el 11 de junio",
+    "motivo": "Día 5 de la huelga nacional indefinida de docentes. Mantienen campamento con miles de maestros en el Centro Histórico de la CDMX. El 4 de junio, profesores bloquearon Bucareli por tercer día consecutivo. Exigen abrogación de la Ley del ISSSTE de 2007, aumento salarial del 100% y derogación de la reforma educativa. A 6 días de la inauguración del Mundial 2026 (11 de junio). La FIFA canceló capacitaciones presenciales en el Zócalo. Sheinbaum no ha cedido a demandas centrales. Los docentes amenazan con intensificar acciones durante el Mundial",
     "status": "en_curso",
     "lat": "19.4326",
     "lng": "-99.1332",
     "fuentes": [
       {
+        "nombre": "Courthouse News Service",
+        "url": "https://www.courthousenews.com/striking-teachers-in-mexico-city-threaten-world-cup-week-before-kick-off/"
+      },
+      {
+        "nombre": "Latin America Reports",
+        "url": "https://latinamericareports.com/mexico-city-teachers-strike-threatens-to-disrupt-2026-world-cup-kick-off/14603/"
+      },
+      {
         "nombre": "USA Today",
         "url": "https://www.usatoday.com/story/news/world/2026/06/04/protests-construction-mexico-city-world-cup/90400365007/"
       },
       {
-        "nombre": "El País",
+        "nombre": "El País English",
         "url": "https://english.elpais.com/international/2026-06-03/mexican-teachers-expand-protest-camp-and-threaten-to-shut-down-the-capital.html"
-      },
-      {
-        "nombre": "AFP vía NAMPA",
-        "url": "https://www.nampa.org/text/22940270"
-      },
-      {
-        "nombre": "Reuters vía U.S. News",
-        "url": "https://www.usnews.com/news/world/articles/2026-06-03/protests-and-last-minute-construction-work-disrupt-mexico-city-ahead-of-world-cup"
       }
     ],
     "createdAt": "2026-06-04T12:30:02.000Z",
-    "updatedAt": "2026-06-04T23:50:05Z"
-  },
-  {
-    "id": 308,
-    "seccion": "internacional",
-    "pais": "Bélgica",
-    "bandera": "🇧🇪",
-    "hora": "10:00",
-    "fecha": "2026-06-04",
-    "lugar": "Bruselas (estación Central), Namur, Charleroi",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Estudiantes y docentes de la Federación Valonia-Bruselas (FWB)",
-      "Sindicatos educativos francófonos"
-    ],
-    "motivo": "Protestas contra las reformas educativas del gobierno de la Comunidad Francesa de Bélgica, que incluyen aumento de tasas universitarias de 835€ a 1.194€ (35%) y dos horas extra semanales sin pago para docentes de secundaria. Más de 1.000 manifestantes, principalmente jóvenes, se congregaron frente a la estación Central de Bruselas. La protesta derivó en enfrentamientos con la policía, que usó gases lacrimógenos. Manifestantes incendiaron barreras y bicicletas y lanzaron petardos. También se reportaron protestas en Namur y Charleroi. El parlamento de la FWB prevé votar las medidas hoy",
-    "status": "en_curso",
-    "lat": "50.8467",
-    "lng": "4.3517",
-    "fuentes": [
-      {
-        "nombre": "Reuters vía U.S. News",
-        "url": "https://www.usnews.com/news/world/articles/2026-06-04/clashes-break-out-at-belgian-protest-against-education-reforms"
-      },
-      {
-        "nombre": "The Brussels Times",
-        "url": "https://www.brusselstimes.com/belgium/2172138/protesters-light-fire-outside-brussels-central-station"
-      },
-      {
-        "nombre": "The Straits Times",
-        "url": "https://www.straitstimes.com/world/europe/clashes-break-out-at-belgian-protest-against-education-reforms"
-      }
-    ],
-    "createdAt": "2026-06-04T16:00:23.000Z",
-    "updatedAt": "2026-06-04T23:50:05Z"
-  },
-  {
-    "id": 309,
-    "seccion": "internacional",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "10:00",
-    "fecha": "2026-06-04",
-    "lugar": "DDU Marg, Nueva Delhi (centro de Delhi)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Partido político no especificado"
-    ],
-    "motivo": "Marcha de protesta de un partido político en DDU Marg, Nueva Delhi, de 10:00 a 17:00 horas. La Policía de Tránsito de Delhi emitió un aviso con desvíos y restricciones vehiculares. DDU Marg permanece cerrado al tráfico. Se esperan afectaciones en IP Marg, Vikas Marg, Minto Road y Bahadur Shah Zafar Marg. Se recomienda a los pasajeros de ferrocarril usar el acceso de Paharganj",
-    "status": "en_curso",
-    "lat": "28.6292",
-    "lng": "77.2358",
-    "fuentes": [
-      {
-        "nombre": "India Today",
-        "url": "https://www.indiatoday.in/information/story/delhi-traffic-advisory-ddu-marg-protest-march-june-4-central-delhi-routes-2921665-2026-06-04"
-      },
-      {
-        "nombre": "Delhi Traffic Police (X/Twitter)",
-        "url": "https://x.com/dtptraffic/status/2062393435450216476"
-      }
-    ],
-    "createdAt": "2026-06-04T16:00:23.000Z",
-    "updatedAt": "2026-06-04T23:50:05Z"
-  },
-  {
-    "id": 310,
-    "seccion": "internacional",
-    "pais": "Somalia",
-    "bandera": "🇸🇴",
-    "hora": "00:01",
-    "fecha": "2026-06-04",
-    "lugar": "Mogadishu (distrito Howl Wadaag)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Oposición somalí",
-      "Expresidente Sharif Sheikh Ahmed",
-      "Exprimera ministra Hassan Ali Khaire"
-    ],
-    "motivo": "Protestas contra la decisión del presidente Hassan Sheikh Mohamud de extender su mandato por un año tras su vencimiento el 15 de mayo de 2026. El gobierno bloqueó las protestas en múltiples ubicaciones y designó un solo lugar para manifestarse. Enfrentamientos armados entre fuerzas gubernamentales y milicias aliadas a la oposición estallaron la noche del 3 de junio y continuaron el 4 de junio. Se reportaron disparos de armas pesadas, incluyendo armas antitanque y drones. Civiles huyeron de la zona y se reportaron vehículos destruidos. La oposición acusa al gobierno de intento de asesinato",
-    "status": "en_curso",
-    "lat": "2.0469",
-    "lng": "45.3182",
-    "fuentes": [
-      {
-        "nombre": "Reuters vía U.S. News",
-        "url": "https://www.usnews.com/news/world/articles/2026-06-04/somali-military-and-opposition-allied-militias-trade-fire-ahead-of-anti-government-protests"
-      },
-      {
-        "nombre": "AFP vía The Standard",
-        "url": "https://www.standardmedia.co.ke/africa/article/2001549480/somalia-capital-rocked-by-gunfire-and-fighting-overnight"
-      },
-      {
-        "nombre": "The Eastleigh Voice",
-        "url": "https://eastleighvoice.co.ke/somalia/347829/mogadishu-protest-row-escalates-as-somali-government-blocks-multi-site-rallies"
-      }
-    ],
-    "createdAt": "2026-06-04T16:00:23.000Z",
-    "updatedAt": "2026-06-04T23:50:05Z"
-  },
-  {
-    "id": 311,
-    "seccion": "internacional",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "10:00",
-    "fecha": "2026-06-04",
-    "lugar": "Sede de CNews, París",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Manifestantes",
-      "Periodistas",
-      "Funcionarios electos franceses"
-    ],
-    "motivo": "Protesta frente a la sede de CNews en París contra la presencia de Ksenia Fedorova, exdirectora de RT France, como comentarista en medios del grupo Bolloré (CNews, Europe 1, Le Journal du Dimanche). La acusan de difundir narrativas del Kremlin y hacer propaganda de guerra a favor de Rusia. Los manifestantes portaban carteles contra lo que describen como propaganda bélica y exigen mayor escrutinio de las autoridades francesas y el regulador de medios. El debate se intensifica de cara a las elecciones presidenciales de 2027",
-    "status": "en_curso",
-    "lat": "48.8742",
-    "lng": "2.3115",
-    "fuentes": [
-      {
-        "nombre": "Euronews",
-        "url": "https://www.euronews.com/video/2026/06/04/france-protesters-rally-outside-cnews-tv-over-alleged-kremlin-influence"
-      },
-      {
-        "nombre": "Africanews",
-        "url": "https://www.africanews.com/2026/06/04/france-protesters-rally-outside-cnews-tv-over-alleged-kremlin-influence"
-      }
-    ],
-    "createdAt": "2026-06-04T16:00:23.000Z",
-    "updatedAt": "2026-06-04T23:50:05Z"
+    "updatedAt": "2026-06-05T03:39:52Z"
   },
   {
     "id": 313,
     "seccion": "internacional",
     "pais": "Albania",
     "bandera": "🇦🇱",
-    "hora": "00:01",
-    "fecha": "2026-06-04",
-    "lugar": "Tirana (centro, frente a edificios gubernamentales) y Zvërnec/Vlorë (costa adriática)",
+    "hora": "18:00",
+    "fecha": "2026-06-05",
+    "lugar": "Tirana (Skanderbeg Square y frente a la Oficina del Primer Ministro), Zvërnec/Vlorë (costa adriática)",
     "tipoAccion": "protesta",
     "organizaciones": [
-      "Ecologistas locales (PPNEA-BirdLife Albania)",
-      "Residentes y activistas ambientales"
+      "Ciudadanos y activistas ambientales",
+      "Ecologistas locales (PPNEA-BirdLife Albania)"
     ],
-    "motivo": "Crecientes protestas contra el desarrollo de un megacomplejo turístico de lujo vinculado a Jared Kushner (yerno de Donald Trump) y su firma Affinity Partners, en la laguna de Narta y la isla de Sazán, un área protegida de importancia ecológica. Los manifestantes exigen la cancelación del proyecto de US$1.400 millones que incluye 10.000 habitaciones hoteleras y afectaría humedales donde habitan flamencos, focas y tortugas marinas. La policía antidisturbios dispersó a los manifestantes con gases lacrimógenos y cañones de agua. Las protestas continuaron por cuarto día consecutivo con enfrentamientos en el centro de Tirana",
+    "motivo": "Las protestas contra el megacomplejo turístico de lujo vinculado a Jared Kushner en la laguna de Narta y la isla de Sazán continúan por sexto día consecutivo. Manifestación ciudadana en Tirana frente a la Oficina del Primer Ministro. Exigen cinco demandas: renuncia del gobierno, derogación del estatus de inversor estratégico, derogación del Paquete de Montaña, abolición de la ley de áreas protegidas y cancelación de cambios legales para el patrimonio nacional. El proyecto de US$1.400 millones amenaza humedales protegidos con flamencos, focas y tortugas marinas. Protestas y enfrentamientos con la policía se han reportado en días anteriores",
     "status": "en_curso",
     "lat": "41.3275",
     "lng": "19.8187",
     "fuentes": [
       {
+        "nombre": "Al Bawaba",
+        "url": "https://www.albawaba.com/news/massive-protests-grip-albania-over-1629254"
+      },
+      {
+        "nombre": "Vox News Albania",
+        "url": "https://www.voxnews.al/english/aktualitet/protesta-per-zvernecin-zbardhen-pese-kerkesat-e-levizjes-qytetare--i117951"
+      },
+      {
+        "nombre": "Panorama",
+        "url": "https://en.panorama.com.al/video-rama-ne-burg-berisha-ne-burg-perfundon-protesta-e-trete-kunder-projektit-ne-zvernec-qytetaret-refuzojne-ftesen-e-kryeministrit-pa-doreheqje-ska-dialog/"
+      },
+      {
         "nombre": "Democracy Now!",
         "url": "https://www.democracynow.org/2026/6/4/headlines/protests_erupt_in_albania_over_massive_resort_development_linked_to_jared_kushner"
-      },
-      {
-        "nombre": "Associated Press vía ABC News",
-        "url": "https://abcnews.com/International/wireStory/protests-grow-trump-family-linked-resort-albania-133555530"
-      },
-      {
-        "nombre": "Euronews",
-        "url": "https://www.euronews.com/video/2026/06/04/albania-fourth-day-of-unrest-as-trump-linked-resort-sparks-protests"
       }
     ],
     "createdAt": "2026-06-04T18:33:49.000Z",
-    "updatedAt": "2026-06-04T23:50:05Z"
-  },
-  {
-    "id": 314,
-    "seccion": "internacional",
-    "pais": "Filipinas",
-    "bandera": "🇵🇭",
-    "hora": "08:00",
-    "fecha": "2026-06-04",
-    "lugar": "Senado de Filipinas, Diokno Boulevard, Pasay City, Manila",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Partidarios de la vicepresidenta Sara Duterte",
-      "Manifestantes opositores al senador Alan Peter Cayetano"
-    ],
-    "motivo": "Masivas protestas frente al Senado de Filipinas en medio de una crisis de liderazgo parlamentario. Manifestantes partidarios de la vicepresidenta Sara Duterte exigen la renuncia del presidente Ferdinand Marcos Jr. y se oponen al juicio político contra Duterte, mientras un grupo separado protesta contra el senador Alan Peter Cayetano por la reorganización de presidencias de comités. Se reportaron enfrentamientos entre grupos rivales y cierre de la avenida Diokno Boulevard. Manifestantes instalaron un ataúd simbolizando la 'muerte de la democracia'. La policía reportó casi 600 participantes en las protestas del día",
-    "status": "en_curso",
-    "lat": "14.5146",
-    "lng": "121.0112",
-    "fuentes": [
-      {
-        "nombre": "ABS-CBN News",
-        "url": "https://www.abs-cbn.com/news/nation/2026/6/4/duterte-supporters-hold-evening-protest-outside-senate-2324"
-      },
-      {
-        "nombre": "The Manila Times",
-        "url": "https://www.manilatimes.net/2026/06/04/news/national/protesters-clash-outside-senate-pasay-road-closed/2358500"
-      },
-      {
-        "nombre": "Philippine Tribune",
-        "url": "https://tribune.net.ph/2026/06/04/protesters-set-up-a-coffin-to-symbolize-the-death-of-democracy"
-      }
-    ],
-    "createdAt": "2026-06-04T20:55:39.000Z",
-    "updatedAt": "2026-06-04T23:50:05Z"
+    "updatedAt": "2026-06-05T03:39:52Z"
   },
   {
     "id": 315,
@@ -627,23 +235,31 @@
     "pais": "Venezuela",
     "bandera": "🇻🇪",
     "hora": "10:00",
-    "fecha": "2026-06-04",
-    "lugar": "Caracas (avenida Presidente Medina/Victoria y diversas zonas del centro de la ciudad)",
+    "fecha": "2026-06-05",
+    "lugar": "Caracas (avenida Presidente Medina/Victoria, Embajada de EE.UU.) y otras ciudades del país",
     "tipoAccion": "protesta",
     "organizaciones": [
+      "Sindicatos y gremios laborales venezolanos",
       "Oposición venezolana",
-      "Sindicatos y gremios laborales",
       "ONG Un Mundo Sin Mordaza",
       "Familiares de presos políticos"
     ],
-    "motivo": "Jornada nacional de protestas convocadas por la oposición y gremios laborales en toda Venezuela exigiendo elecciones libres, liberación de presos políticos y mejoras salariales. En Caracas, familiares y activistas bloquearon la avenida Presidente Medina (Victoria) en rechazo a traslados arbitrarios de detenidos desde El Helicoide hacia la cárcel de Tocuyito, bajo la consigna 'No son traslados, son liberaciones'. Miles de manifestantes en todo el país demandan un cronograma electoral claro y el fin de la opacidad gubernamental",
+    "motivo": "Continúan las protestas nacionales. Trabajadores, estudiantes y oposición marcharon hacia la Embajada de EE.UU. en Caracas para exigir elecciones presidenciales y parlamentarias libres, mientras la presidenta interina Delcy Rodríguez marca 150 días en el poder. En la avenida Victoria, familiares y activistas protestan contra traslados arbitrarios de detenidos. Exigen liberación de presos políticos, mejoras salariales y un cronograma electoral claro. El Jefe del Estado Mayor Conjunto de EE.UU., General Dan Caine, visitó Caracas el 3 de junio, coincidiendo con protestas en la Embajada",
     "status": "en_curso",
     "lat": "10.4806",
     "lng": "-66.9036",
     "fuentes": [
       {
+        "nombre": "Al Jazeera vía Modern Ghana",
+        "url": "https://www.modernghana.com/amp/videonews/660593"
+      },
+      {
         "nombre": "Blueprint Nigeria",
         "url": "https://blueprint.ng/venezuelan-opposition-mobilises-nationwide-protests-over-elections-reforms/"
+      },
+      {
+        "nombre": "Newsy Today",
+        "url": "https://www.newsy-today.com/us-military-chief-makes-historic-first-visit-to-venezuela/"
       },
       {
         "nombre": "Monitoreamos",
@@ -651,110 +267,7 @@
       }
     ],
     "createdAt": "2026-06-04T20:55:39.000Z",
-    "updatedAt": "2026-06-04T23:50:05Z"
-  },
-  {
-    "id": 316,
-    "seccion": "internacional",
-    "pais": "Libia",
-    "bandera": "🇱🇾",
-    "hora": "10:00",
-    "fecha": "2026-06-04",
-    "lugar": "Trípoli (sede de ACNUR/UNHCR)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Manifestantes libios"
-    ],
-    "motivo": "Cientos de libios protestan frente a la sede de ACNUR en Trípoli contra la migración irregular, exigiendo el cierre de la oficina de la agencia de la ONU. Acusan a ACNUR de buscar asentar migrantes en Libia y rechazan el aumento de la migración. Portan pancartas con frases como 'Nuestro amor por nuestro país no es racismo' y 'Libia no es el basurero del mundo'",
-    "status": "en_curso",
-    "lat": "32.8872",
-    "lng": "13.1913",
-    "fuentes": [
-      {
-        "nombre": "AFP vía NAMPA",
-        "url": "https://www.nampa.org/text/22940788"
-      },
-      {
-        "nombre": "Reuters vía U.S. News",
-        "url": "https://www.usnews.com/news/world/articles/2026-06-04/libyans-block-off-un-refugee-office-in-protest-against-migrants"
-      },
-      {
-        "nombre": "The Straits Times",
-        "url": "https://www.straitstimes.com/world/libyans-block-off-un-refugee-office-in-protest-against-migrants"
-      },
-      {
-        "nombre": "Vanguard",
-        "url": "https://www.vanguardngr.com/2026/06/hundreds-in-libya-protest-against-migrants-refugees/"
-      }
-    ],
-    "createdAt": "2026-06-04T22:20:37.000Z",
-    "updatedAt": "2026-06-04T23:50:05Z"
-  },
-  {
-    "id": 317,
-    "seccion": "internacional",
-    "pais": "Suiza",
-    "bandera": "🇨🇭",
-    "hora": "18:00",
-    "fecha": "2026-06-04",
-    "lugar": "Ginebra (Plaine de Plainpalais, distrito de la Treille)",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "Cartel Intersyndical (paraguas de sindicatos del sector público de Ginebra)"
-    ],
-    "motivo": "Tercer día de huelga de 3 días del personal del sector público y subvencionado del cantón de Ginebra contra los recortes presupuestarios y medidas de austeridad. Protestan contra el congelamiento salarial, la detención de ajustes por inflación y una nueva ley de pensiones. Manifestación a las 18:00 en la Plaine de Plainpalais con sindicatos del sector privado y organizaciones sociales. Cerca de 2.000 empleados marcharon en días previos bajo el lema 'Contra la austeridad'",
-    "status": "en_curso",
-    "lat": "46.2044",
-    "lng": "6.1432",
-    "fuentes": [
-      {
-        "nombre": "SwissObserver",
-        "url": "https://swissobserver.ch/fr/news/geneva-civil-servants-protest-budget-cuts/"
-      },
-      {
-        "nombre": "WRS",
-        "url": "https://www.worldradio.ch/news/bitesize-news/geneva-civil-servants-strike-against-budget-cuts"
-      },
-      {
-        "nombre": "SafeAbroad",
-        "url": "https://safeabroad.com/the-week-ahead/the-week-ahead-june-1-2026"
-      },
-      {
-        "nombre": "EuropeSays",
-        "url": "https://www.europesays.com/ch/77724/"
-      }
-    ],
-    "createdAt": "2026-06-04T22:20:37.000Z",
-    "updatedAt": "2026-06-04T23:50:05Z"
-  },
-  {
-    "id": 318,
-    "seccion": "internacional",
-    "pais": "Reino Unido",
-    "bandera": "🇬🇧",
-    "hora": "00:01",
-    "fecha": "2026-06-04",
-    "lugar": "Sheffield Hallam University, Sheffield, Reino Unido",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "UCU (University and College Union)"
-    ],
-    "motivo": "Octavo día de huelga de 18 días del personal académico e investigador de Sheffield Hallam University contra los planes de eliminar al menos 130 puestos de trabajo para ahorrar £27 millones. Exigen garantías de que no habrá despidos forzosos, rechazan la creación de una filial que excluiría a nuevos empleados del Teachers' Pension Scheme, y se oponen al aumento de horas máximas de enseñanza. La huelga cuenta con el apoyo del 88% de los miembros del sindicato",
-    "status": "en_curso",
-    "lat": "53.3811",
-    "lng": "-1.4651",
-    "fuentes": [
-      {
-        "nombre": "BBC vía AOL",
-        "url": "https://www.aol.com/articles/university-staff-strike-over-savage-142254781.html"
-      },
-      {
-        "nombre": "UCU",
-        "url": "https://www.ucu.org.uk/article/14516/18-days-of-strikes-begin-tomorrow-at-Sheffield-Hallam-over-plans-to-gut-the-university"
-      }
-    ],
-    "createdAt": "2026-06-04T23:44:47.000Z",
-    "updatedAt": "2026-06-04T23:50:05Z"
+    "updatedAt": "2026-06-05T03:39:52Z"
   },
   {
     "id": 319,
@@ -762,13 +275,16 @@
     "pais": "Reino Unido",
     "bandera": "🇬🇧",
     "hora": "00:01",
-    "fecha": "2026-06-04",
-    "lugar": "Mar del Norte (Alba FSU), plataformas offshore de Ithaca Energy",
+    "fecha": "2026-06-05",
+    "lugar": "Mar del Norte (Alba FSU, Statfjord A, Oseberg, Ula), plataformas offshore de Ithaca Energy",
     "tipoAccion": "huelga",
     "organizaciones": [
-      "Unite the Union"
+      "Unite the Union",
+      "Styrke",
+      "SAFE",
+      "Lederne"
     ],
-    "motivo": "Huelga de trabajadores offshore de Bilfinger en las plataformas del Mar del Norte operadas por Ithaca Energy. Exigen que Ithaca Energy extienda el bono de retención de hasta £14.500 a los trabajadores contratistas de Bilfinger (andamistas, ingenieros, personal de cubierta y acceso por cuerdas), del cual han sido excluidos mientras trabajadores de otras empresas en los mismos activos sí lo reciben. La huelga en el Alba FSU se desarrolla del 4 al 7 de junio, y le seguirá otra en el FPF-1 del 9 al 12 de junio",
+    "motivo": "Segundo día de la huelga de trabajadores offshore de Bilfinger en las plataformas del Mar del Norte operadas por Ithaca Energy (Alba FSU, 4-7 de junio). Exigen que Ithaca Energy extienda el bono de retención de hasta £14.500 a los trabajadores contratistas de Bilfinger, del cual han sido excluidos. Le seguirá otra huelga en el FPF-1 del 9 al 12 de junio. En paralelo, en Noruega, 600+ trabajadores offshore amenazan con sumarse a la huelga desde el 5 de junio si fracasa la mediación salarial, lo que afectaría producción en Statfjord A, Ula, Draugen, Oseberg y Ekofisk",
     "status": "en_curso",
     "lat": "58.0000",
     "lng": "0.5000",
@@ -780,9 +296,17 @@
       {
         "nombre": "Unite",
         "url": "https://www.unitetheunion.org/news-events/news/2026/june/bilfinger-offshore-workers-to-strike-over-pay"
+      },
+      {
+        "nombre": "Reuters vía MarketScreener",
+        "url": "https://hk.marketscreener.com/news/norway-negotiators-work-overtime-to-avert-oil-strike-ce7f5ddddb8df520"
+      },
+      {
+        "nombre": "BOE Report",
+        "url": "https://boereport.com/2026/06/01/nearly-8-of-norway-oil-workers-threaten-strike-from-june-5/"
       }
     ],
     "createdAt": "2026-06-04T23:44:47.000Z",
-    "updatedAt": "2026-06-04T23:50:05Z"
+    "updatedAt": "2026-06-05T03:39:52Z"
   }
 ]
