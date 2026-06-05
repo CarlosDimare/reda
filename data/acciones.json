@@ -41,7 +41,7 @@
       }
     ],
     "createdAt": "2026-06-05T03:36:31.000Z",
-    "updatedAt": "2026-06-05T21:12:57Z"
+    "updatedAt": "2026-06-05T22:45:17Z"
   },
   {
     "id": 501,
@@ -70,7 +70,7 @@
       }
     ],
     "createdAt": "2026-06-05T08:07:18.000Z",
-    "updatedAt": "2026-06-05T21:12:57Z"
+    "updatedAt": "2026-06-05T22:45:17Z"
   },
   {
     "id": 502,
@@ -99,7 +99,7 @@
       }
     ],
     "createdAt": "2026-06-05T17:17:11.000Z",
-    "updatedAt": "2026-06-05T21:12:57Z"
+    "updatedAt": "2026-06-05T22:45:17Z"
   },
   {
     "id": 503,
@@ -125,7 +125,7 @@
       }
     ],
     "createdAt": "2026-06-05T17:17:11.000Z",
-    "updatedAt": "2026-06-05T21:12:57Z"
+    "updatedAt": "2026-06-05T22:45:17Z"
   },
   {
     "id": 504,
@@ -154,7 +154,36 @@
       }
     ],
     "createdAt": "2026-06-05T19:20:02.000Z",
-    "updatedAt": "2026-06-05T21:12:57Z"
+    "updatedAt": "2026-06-05T22:45:17Z"
+  },
+  {
+    "id": 505,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "00:01",
+    "fecha": "2026-06-05",
+    "lugar": "Tribunales Federales en todo el país (CABA, Rosario, Córdoba, Santa Fe y demás jurisdicciones)",
+    "tipoAccion": "paro",
+    "organizaciones": [
+      "UEJN (Unión de Empleados de la Justicia de la Nación)"
+    ],
+    "motivo": "Paro nacional de 24 horas en todas las dependencias del fuero federal del país. Reclaman recomposición salarial, incorporación de participación en la obra social judicial y defensa del fuero nacional del trabajo. La medida dejó sin actividad a los tribunales federales con guardias mínimas. Denuncian pérdida del poder adquisitivo frente a la inflación y falta de respuestas del Poder Ejecutivo y la Corte Suprema",
+    "status": "en_curso",
+    "lat": "-34.6037",
+    "lng": "-58.3816",
+    "fuentes": [
+      {
+        "nombre": "Conclusión",
+        "url": "https://www.conclusion.com.ar/gremiales/transcurre-el-paro-nacional-de-los-judiciales-federales-en-reclamo-de-salarios-y-condiciones-laborales/06/2026/"
+      },
+      {
+        "nombre": "Rosario3",
+        "url": "http://ecos365.rosario3.com/informaciongeneral/otro-viernes-con-tribunales-federales-paralizados-judiciales-lanzan-nuevo-paro-20260604-0056.html"
+      }
+    ],
+    "createdAt": "2026-06-05T21:09:56.000Z",
+    "updatedAt": "2026-06-05T22:45:17Z"
   },
   {
     "id": 302,
@@ -198,7 +227,7 @@
       }
     ],
     "createdAt": "2026-06-04T05:20:38.000Z",
-    "updatedAt": "2026-06-05T21:12:57Z"
+    "updatedAt": "2026-06-05T22:45:17Z"
   },
   {
     "id": 303,
@@ -237,7 +266,7 @@
       }
     ],
     "createdAt": "2026-06-04T05:20:38.000Z",
-    "updatedAt": "2026-06-05T21:12:57Z"
+    "updatedAt": "2026-06-05T22:45:17Z"
   },
   {
     "id": 306,
@@ -277,7 +306,7 @@
       }
     ],
     "createdAt": "2026-06-04T09:11:02.000Z",
-    "updatedAt": "2026-06-05T21:12:57Z"
+    "updatedAt": "2026-06-05T22:45:17Z"
   },
   {
     "id": 307,
@@ -318,7 +347,7 @@
       }
     ],
     "createdAt": "2026-06-04T12:30:02.000Z",
-    "updatedAt": "2026-06-05T21:12:57Z"
+    "updatedAt": "2026-06-05T22:45:17Z"
   },
   {
     "id": 315,
@@ -362,7 +391,7 @@
       }
     ],
     "createdAt": "2026-06-04T20:55:39.000Z",
-    "updatedAt": "2026-06-05T21:12:57Z"
+    "updatedAt": "2026-06-05T22:45:17Z"
   },
   {
     "id": 319,
@@ -403,7 +432,7 @@
       }
     ],
     "createdAt": "2026-06-04T23:44:47.000Z",
-    "updatedAt": "2026-06-05T21:12:57Z"
+    "updatedAt": "2026-06-05T22:45:17Z"
   },
   {
     "id": 320,
@@ -441,7 +470,7 @@
       }
     ],
     "createdAt": "2026-06-05T08:04:44.000Z",
-    "updatedAt": "2026-06-05T21:12:57Z"
+    "updatedAt": "2026-06-05T22:45:17Z"
   },
   {
     "id": 321,
@@ -475,7 +504,7 @@
       }
     ],
     "createdAt": "2026-06-05T17:13:45.000Z",
-    "updatedAt": "2026-06-05T21:12:57Z"
+    "updatedAt": "2026-06-05T22:45:17Z"
   },
   {
     "id": 322,
@@ -515,7 +544,7 @@
       }
     ],
     "createdAt": "2026-06-05T19:16:46.000Z",
-    "updatedAt": "2026-06-05T21:12:57Z"
+    "updatedAt": "2026-06-05T22:45:17Z"
   },
   {
     "id": 323,
@@ -541,7 +570,7 @@
       }
     ],
     "createdAt": "2026-06-05T19:16:46.000Z",
-    "updatedAt": "2026-06-05T21:12:57Z"
+    "updatedAt": "2026-06-05T22:45:17Z"
   },
   {
     "id": 324,
@@ -567,7 +596,7 @@
       }
     ],
     "createdAt": "2026-06-05T19:16:46.000Z",
-    "updatedAt": "2026-06-05T21:12:57Z"
+    "updatedAt": "2026-06-05T22:45:17Z"
   },
   {
     "id": 325,
@@ -597,7 +626,7 @@
       }
     ],
     "createdAt": "2026-06-05T19:16:46.000Z",
-    "updatedAt": "2026-06-05T21:12:57Z"
+    "updatedAt": "2026-06-05T22:45:17Z"
   },
   {
     "id": 326,
@@ -632,7 +661,7 @@
       }
     ],
     "createdAt": "2026-06-05T21:07:13.000Z",
-    "updatedAt": "2026-06-05T21:12:57Z"
+    "updatedAt": "2026-06-05T22:45:17Z"
   },
   {
     "id": 327,
@@ -666,7 +695,7 @@
       }
     ],
     "createdAt": "2026-06-05T21:07:13.000Z",
-    "updatedAt": "2026-06-05T21:12:57Z"
+    "updatedAt": "2026-06-05T22:45:17Z"
   },
   {
     "id": 328,
@@ -697,7 +726,7 @@
       }
     ],
     "createdAt": "2026-06-05T21:07:13.000Z",
-    "updatedAt": "2026-06-05T21:12:57Z"
+    "updatedAt": "2026-06-05T22:45:17Z"
   },
   {
     "id": 329,
@@ -731,7 +760,7 @@
       }
     ],
     "createdAt": "2026-06-05T21:07:13.000Z",
-    "updatedAt": "2026-06-05T21:12:57Z"
+    "updatedAt": "2026-06-05T22:45:17Z"
   },
   {
     "id": 330,
@@ -762,7 +791,7 @@
       }
     ],
     "createdAt": "2026-06-05T21:07:13.000Z",
-    "updatedAt": "2026-06-05T21:12:57Z"
+    "updatedAt": "2026-06-05T22:45:17Z"
   },
   {
     "id": 331,
@@ -787,7 +816,7 @@
       }
     ],
     "createdAt": "2026-06-05T21:07:13.000Z",
-    "updatedAt": "2026-06-05T21:12:57Z"
+    "updatedAt": "2026-06-05T22:45:17Z"
   },
   {
     "id": 332,
@@ -813,35 +842,49 @@
       }
     ],
     "createdAt": "2026-06-05T21:07:13.000Z",
-    "updatedAt": "2026-06-05T21:12:57Z"
+    "updatedAt": "2026-06-05T22:45:17Z"
   },
   {
-    "id": 505,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "00:01",
+    "id": 333,
+    "seccion": "internacional",
+    "pais": "República Democrática del Congo",
+    "bandera": "🇨🇩",
+    "hora": "08:00",
     "fecha": "2026-06-05",
-    "lugar": "Tribunales Federales en todo el país (CABA, Rosario, Córdoba, Santa Fe y demás jurisdicciones)",
-    "tipoAccion": "paro",
+    "lugar": "Kinshasa, Palais du Peuple. Puntos de partida: 1ª Rue Limete Cohydro y Molard Circle",
+    "tipoAccion": "protesta",
     "organizaciones": [
-      "UEJN (Unión de Empleados de la Justicia de la Nación)"
+      "Coalition Citoyenne pour la Nation (CCN)",
+      "Confesiones religiosas",
+      "Organizaciones de la sociedad civil"
     ],
-    "motivo": "Paro nacional de 24 horas en todas las dependencias del fuero federal del país. Reclaman recomposición salarial, incorporación de participación en la obra social judicial y defensa del fuero nacional del trabajo. La medida dejó sin actividad a los tribunales federales con guardias mínimas. Denuncian pérdida del poder adquisitivo frente a la inflación y falta de respuestas del Poder Ejecutivo y la Corte Suprema",
-    "status": "en_curso",
-    "lat": "-34.6037",
-    "lng": "-58.3816",
+    "motivo": "Gran marcha ciudadana en favor de la reforma constitucional en Kinshasa. Los manifestantes partieron desde la 1ª Rue Limete Cohydro y Molard Circle hasta el Palais du Peuple, sede del Parlamento. Defienden la necesidad de reformar la Constitución de 2006, argumentando que presenta debilidades estructurales que deben ser abordadas. La marcha fue organizada por la Coalición Ciudadana por la Nación (CCN) con apoyo de diversas confesiones religiosas y organizaciones cívicas. La oposición (C64) califica la iniciativa de 'golpe de Estado constitucional' y planea presentar una denuncia contra el presidente Félix Tshisekedi el 9 de junio. Previamente, la oposición realizó una jornada de 'ville morte' el 3 de junio",
+    "status": "finalizada",
+    "lat": "-4.3250",
+    "lng": "15.3222",
     "fuentes": [
       {
-        "nombre": "Conclusión",
-        "url": "https://www.conclusion.com.ar/gremiales/transcurre-el-paro-nacional-de-los-judiciales-federales-en-reclamo-de-salarios-y-condiciones-laborales/06/2026/"
+        "nombre": "U.S. Embassy Kinshasa / allAfrica",
+        "url": "https://allafrica.com/stories/202606020412.html"
       },
       {
-        "nombre": "Rosario3",
-        "url": "http://ecos365.rosario3.com/informaciongeneral/otro-viernes-con-tribunales-federales-paralizados-judiciales-lanzan-nuevo-paro-20260604-0056.html"
+        "nombre": "Congo Guardian",
+        "url": "https://congoguardian.com/2026/06/04/rdc-la-ccn-annonce-une-grande-marche-en-faveur-de-la-reforme-constitutionnelle-ce-vendredi-a-kinshasa"
+      },
+      {
+        "nombre": "XtraAfrica",
+        "url": "https://www.xtrafrica.com/news/katumbi-strike-against-drc-constitution-reform"
+      },
+      {
+        "nombre": "7sur7.cd",
+        "url": "https://mail.7sur7.cd/2026/06/05/rdc-la-c64-annonce-une-plainte-contre-tshisekedi-et-un-rassemblement-devant-le-palais-du"
+      },
+      {
+        "nombre": "Arcfyre International (X/GSOC Alert)",
+        "url": "https://x.com/Arcfyre_Intl/status/2061352655679590592"
       }
     ],
-    "createdAt": "2026-06-05T21:09:56.000Z",
-    "updatedAt": "2026-06-05T21:12:57Z"
+    "createdAt": "2026-06-05T22:41:03.000Z",
+    "updatedAt": "2026-06-05T22:45:17Z"
   }
 ]
