@@ -37,7 +37,7 @@
       }
     ],
     "createdAt": "2026-06-05T03:36:31.000Z",
-    "updatedAt": "2026-06-05T11:48:00Z"
+    "updatedAt": "2026-06-05T14:51:42Z"
   },
   {
     "id": 501,
@@ -66,7 +66,7 @@
       }
     ],
     "createdAt": "2026-06-05T08:07:18.000Z",
-    "updatedAt": "2026-06-05T11:48:00Z"
+    "updatedAt": "2026-06-05T14:51:42Z"
   },
   {
     "id": 302,
@@ -106,7 +106,7 @@
       }
     ],
     "createdAt": "2026-06-04T05:20:38.000Z",
-    "updatedAt": "2026-06-05T11:48:00Z"
+    "updatedAt": "2026-06-05T14:51:42Z"
   },
   {
     "id": 303,
@@ -115,14 +115,14 @@
     "bandera": "🇧🇴",
     "hora": "00:01",
     "fecha": "2026-06-05",
-    "lugar": "La Paz, Cochabamba, Oruro, Potosí, Chuquisaca, Santa Cruz — más de 94 puntos de bloqueo en todo el país",
+    "lugar": "La Paz, Cochabamba, Oruro, Potosí, Chuquisaca, Santa Cruz — 94 puntos de bloqueo en todo el país",
     "tipoAccion": "protesta",
     "organizaciones": [
       "Central Obrera Boliviana (COB)",
       "Federación Tupat Katari",
       "Sectores afines a Evo Morales"
     ],
-    "motivo": "Día 36 de protestas con bloqueos de carreteras en al menos 6 departamentos (94+ puntos de corte). Exigen la renuncia del presidente Rodrigo Paz. La COB rechazó el diálogo y mantiene las medidas. Cochabamba (27 puntos), La Paz (21), Oruro (18) y Potosí (15) son los más afectados. Desabastecimiento de alimentos, combustible y oxígeno medicinal. Al menos 9 fallecidos reportados (6 por falta de atención médica por bloqueos). El viernes 5 de junio es feriado nacional adicional, pero los bloqueos continúan. El Gobierno niega posible renuncia",
+    "motivo": "Día 36 de protestas con bloqueos de carreteras en al menos 6 departamentos (94 puntos de corte). Exigen la renuncia del presidente Rodrigo Paz. La COB rechazó el diálogo y mantiene las medidas. Cochabamba (27 puntos), La Paz (21), Oruro (18) y Potosí (15) son los más afectados. El 4 de junio (jueves feriado de Corpus Christi) los bloqueos continuaron. Desabastecimiento de alimentos, combustible y oxígeno medicinal. Al menos 9 fallecidos reportados. El Gobierno niega posible renuncia. Operativos conjuntos de militares y policías intentan desbloquear vías",
     "status": "en_curso",
     "lat": "-16.5000",
     "lng": "-68.1500",
@@ -145,14 +145,14 @@
       }
     ],
     "createdAt": "2026-06-04T05:20:38.000Z",
-    "updatedAt": "2026-06-05T11:48:00Z"
+    "updatedAt": "2026-06-05T14:51:42Z"
   },
   {
     "id": 306,
     "seccion": "internacional",
     "pais": "España",
     "bandera": "🇪🇸",
-    "hora": "12:00",
+    "hora": "10:00",
     "fecha": "2026-06-05",
     "lugar": "Catalunya: huelga general en todos los centros educativos públicos y concertados. Manifestación unitaria en Barcelona desde Arc de Triomf hasta el Parlament",
     "tipoAccion": "huelga",
@@ -162,7 +162,7 @@
       "COS",
       "USTEC·STEs"
     ],
-    "motivo": "Huelga general educativa en toda Cataluña —cierre de 4 semanas de paros— tras el rechazo del 65% de los docentes al preacuerdo firmado entre Govern y sindicatos mayoritarios. De 60.686 votantes, 39.502 (65%) votaron 'no'. Manifestación unitaria en Barcelona a las 12:00 desde Arc de Triomf hasta el Parlament, confluyendo marchas desde Sant Adrià, plaça d'Espanya y Zona Franca. La concertada se manifiesta por separado a las 10:30. Exigen mejoras salariales (400 € en 4 años considerados insuficientes), reducción de ratios, disminución de burocracia y más inversión educativa. Selectividad comienza en 4 días. Los sindicatos anuncian que las protestas continuarán las dos semanas restantes del curso, con acciones durante la visita del Papa",
+    "motivo": "Huelga general educativa en toda Cataluña. Unas 15.200 personas se manifestaron en Barcelona, duplicando la cifra de la huelga del 27 de mayo. Marchas confluyeron desde Sant Adrià, plaça d'Espanya y Zona Franca hasta Arc de Triomf. Profesores ocuparon brevemente los Servicios Territoriales de Educació del Barcelonès y cortaron la ronda Litoral. El 65% de los docentes (39.502 de 60.686 votantes) rechazó el preacuerdo Govern-sindicatos mayoritarios. Exigen mejoras salariales (400 € en 4 años considerados insuficientes), reducción de ratios y más inversión. Los sindicatos anunciaron una nueva huelga general para el 9 de junio coincidiendo con la visita del Papa León XIV a Barcelona, y protestas durante las dos semanas restantes del curso",
     "status": "en_curso",
     "lat": "41.3874",
     "lng": "2.1686",
@@ -185,25 +185,29 @@
       }
     ],
     "createdAt": "2026-06-04T09:11:02.000Z",
-    "updatedAt": "2026-06-05T11:48:00Z"
+    "updatedAt": "2026-06-05T14:51:42Z"
   },
   {
     "id": 307,
     "seccion": "internacional",
     "pais": "México",
     "bandera": "🇲🇽",
-    "hora": "00:01",
+    "hora": "10:00",
     "fecha": "2026-06-05",
-    "lugar": "Ciudad de México (Zócalo, Paseo de la Reforma, avenida Insurgentes, Bucareli, sede de la Secretaría de Gobernación). Acciones en al menos 10 estados más",
+    "lugar": "Ciudad de México (Zócalo, Paseo de la Reforma, avenida Insurgentes, Bucareli — Antimonumento Ayotzinapa +43, sede de la Secretaría de Gobernación). Acciones en al menos 10 estados más",
     "tipoAccion": "huelga",
     "organizaciones": [
       "CNTE (Coordinadora Nacional de Trabajadores de la Educación)"
     ],
-    "motivo": "Día 5 de la huelga nacional indefinida de docentes. Mantienen campamento con miles de maestros en el Centro Histórico de la CDMX. El 4 de junio, profesores bloquearon Bucareli por tercer día consecutivo. Exigen abrogación de la Ley del ISSSTE de 2007, aumento salarial del 100% y derogación de la reforma educativa. A 6 días de la inauguración del Mundial 2026 (11 de junio). La FIFA canceló capacitaciones presenciales en el Zócalo. Sheinbaum no ha cedido a demandas centrales. Los docentes amenazan con intensificar acciones durante el Mundial",
+    "motivo": "Día 5 de la huelga nacional indefinida de docentes. Se estima la participación de 7.000 personas en CDMX, concentrándose desde las 10:00 en Paseo de la Reforma e Insurgentes y el Antimonumento Ayotzinapa +43. Mantienen campamento en el Centro Histórico con bloqueos previstos en Reforma. Exigen abrogación de la Ley del ISSSTE de 2007, regreso al sistema de pensiones sin Afores, aumento salarial del 100% al sueldo base y derogación de la reforma educativa. A 6 días de la inauguración del Mundial 2026 (11 de junio). Sheinbaum no ha cedido a demandas centrales. También hay movilizaciones de estudiantes del IPN y colectivos sociales",
     "status": "en_curso",
     "lat": "19.4326",
     "lng": "-99.1332",
     "fuentes": [
+      {
+        "nombre": "Publimetro México",
+        "url": "https://www.publimetro.com.mx/noticias/2026/06/05/marchas-cdmx-hoy-5-de-junio-de-2026-cnte-lidera-movilizaciones-y-preven-bloqueos-en-reforma/"
+      },
       {
         "nombre": "Courthouse News Service",
         "url": "https://www.courthousenews.com/striking-teachers-in-mexico-city-threaten-world-cup-week-before-kick-off/"
@@ -213,54 +217,12 @@
         "url": "https://latinamericareports.com/mexico-city-teachers-strike-threatens-to-disrupt-2026-world-cup-kick-off/14603/"
       },
       {
-        "nombre": "USA Today",
-        "url": "https://www.usatoday.com/story/news/world/2026/06/04/protests-construction-mexico-city-world-cup/90400365007/"
-      },
-      {
         "nombre": "El País English",
         "url": "https://english.elpais.com/international/2026-06-03/mexican-teachers-expand-protest-camp-and-threaten-to-shut-down-the-capital.html"
       }
     ],
     "createdAt": "2026-06-04T12:30:02.000Z",
-    "updatedAt": "2026-06-05T11:48:00Z"
-  },
-  {
-    "id": 313,
-    "seccion": "internacional",
-    "pais": "Albania",
-    "bandera": "🇦🇱",
-    "hora": "18:00",
-    "fecha": "2026-06-05",
-    "lugar": "Tirana (Skanderbeg Square y frente a la Oficina del Primer Ministro), Zvërnec/Vlorë (costa adriática)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Ciudadanos y activistas ambientales",
-      "Ecologistas locales (PPNEA-BirdLife Albania)"
-    ],
-    "motivo": "Las protestas contra el megacomplejo turístico de lujo vinculado a Jared Kushner en la laguna de Narta y la isla de Sazán continúan por sexto día consecutivo. Manifestación ciudadana en Tirana frente a la Oficina del Primer Ministro. Exigen cinco demandas: renuncia del gobierno, derogación del estatus de inversor estratégico, derogación del Paquete de Montaña, abolición de la ley de áreas protegidas y cancelación de cambios legales para el patrimonio nacional. El proyecto de US$1.400 millones amenaza humedales protegidos con flamencos, focas y tortugas marinas. Protestas y enfrentamientos con la policía se han reportado en días anteriores",
-    "status": "en_curso",
-    "lat": "41.3275",
-    "lng": "19.8187",
-    "fuentes": [
-      {
-        "nombre": "Al Bawaba",
-        "url": "https://www.albawaba.com/news/massive-protests-grip-albania-over-1629254"
-      },
-      {
-        "nombre": "Vox News Albania",
-        "url": "https://www.voxnews.al/english/aktualitet/protesta-per-zvernecin-zbardhen-pese-kerkesat-e-levizjes-qytetare--i117951"
-      },
-      {
-        "nombre": "Panorama",
-        "url": "https://en.panorama.com.al/video-rama-ne-burg-berisha-ne-burg-perfundon-protesta-e-trete-kunder-projektit-ne-zvernec-qytetaret-refuzojne-ftesen-e-kryeministrit-pa-doreheqje-ska-dialog/"
-      },
-      {
-        "nombre": "Democracy Now!",
-        "url": "https://www.democracynow.org/2026/6/4/headlines/protests_erupt_in_albania_over_massive_resort_development_linked_to_jared_kushner"
-      }
-    ],
-    "createdAt": "2026-06-04T18:33:49.000Z",
-    "updatedAt": "2026-06-05T11:48:00Z"
+    "updatedAt": "2026-06-05T14:51:42Z"
   },
   {
     "id": 315,
@@ -277,11 +239,15 @@
       "ONG Un Mundo Sin Mordaza",
       "Familiares de presos políticos"
     ],
-    "motivo": "Continúan las protestas nacionales. Trabajadores, estudiantes y oposición marcharon hacia la Embajada de EE.UU. en Caracas para exigir elecciones presidenciales y parlamentarias libres, mientras la presidenta interina Delcy Rodríguez marca 150 días en el poder. En la avenida Victoria, familiares y activistas protestan contra traslados arbitrarios de detenidos. Exigen liberación de presos políticos, mejoras salariales y un cronograma electoral claro. El Jefe del Estado Mayor Conjunto de EE.UU., General Dan Caine, visitó Caracas el 3 de junio, coincidiendo con protestas en la Embajada",
+    "motivo": "Continúan las protestas nacionales. Personas mayores protestaron en Caracas exigiendo mejores condiciones de salud y pensiones. Trabajadores, estudiantes y oposición marchan hacia la Embajada de EE.UU. para exigir elecciones presidenciales y parlamentarias libres, mientras la presidenta interina Delcy Rodríguez marca 150 días en el poder. En la avenida Victoria, familiares y activistas protestan contra traslados arbitrarios de detenidos. Exigen liberación de presos políticos, mejoras salariales y un cronograma electoral claro",
     "status": "en_curso",
     "lat": "10.4806",
     "lng": "-66.9036",
     "fuentes": [
+      {
+        "nombre": "AP vía AOL",
+        "url": "https://www.aol.com/articles/protestas-elecciones-mundial-fotos-semana-070507000.html"
+      },
       {
         "nombre": "Al Jazeera vía Modern Ghana",
         "url": "https://www.modernghana.com/amp/videonews/660593"
@@ -291,16 +257,12 @@
         "url": "https://blueprint.ng/venezuelan-opposition-mobilises-nationwide-protests-over-elections-reforms/"
       },
       {
-        "nombre": "Newsy Today",
-        "url": "https://www.newsy-today.com/us-military-chief-makes-historic-first-visit-to-venezuela/"
-      },
-      {
         "nombre": "Monitoreamos",
         "url": "https://monitoreamos.com/venezuela/familiares-y-activistas-protestan-en-la-avenida-victoria-para-exigir-informacion-sobre-trasladados-arbitrarios"
       }
     ],
     "createdAt": "2026-06-04T20:55:39.000Z",
-    "updatedAt": "2026-06-05T11:48:00Z"
+    "updatedAt": "2026-06-05T14:51:42Z"
   },
   {
     "id": 319,
@@ -314,7 +276,7 @@
     "organizaciones": [
       "Unite the Union"
     ],
-    "motivo": "Segundo día de la huelga de trabajadores offshore de Bilfinger en la plataforma Alba FSU del Mar del Norte operada por Ithaca Energy (huelga 4-7 de junio). Exigen que Ithaca Energy extienda el bono de retención de hasta £14.500 a los trabajadores contratistas de Bilfinger, del cual han sido excluidos. Le seguirá otra huelga en el FPF-1 del 9 al 12 de junio. En Noruega, una huelga similar de 617 trabajadores offshore amenazada para el 5 de junio fue evitada tras alcanzarse un acuerdo salarial de última hora el 5 de junio",
+    "motivo": "Segundo día de la huelga de trabajadores offshore de Bilfinger en la plataforma Alba FSU del Mar del Norte operada por Ithaca Energy (huelga 4-7 de junio). Exigen que Ithaca Energy extienda el bono de retención de hasta £14.500 a los trabajadores contratistas de Bilfinger, del cual han sido excluidos. Le seguirá otra huelga en el FPF-1 del 9 al 12 de junio. En Noruega, una huelga similar de 617 trabajadores offshore fue evitada tras alcanzarse un acuerdo salarial de última hora",
     "status": "en_curso",
     "lat": "58.0000",
     "lng": "0.5000",
@@ -337,7 +299,7 @@
       }
     ],
     "createdAt": "2026-06-04T23:44:47.000Z",
-    "updatedAt": "2026-06-05T11:48:00Z"
+    "updatedAt": "2026-06-05T14:51:42Z"
   },
   {
     "id": 320,
@@ -375,6 +337,6 @@
       }
     ],
     "createdAt": "2026-06-05T08:04:44.000Z",
-    "updatedAt": "2026-06-05T11:48:00Z"
+    "updatedAt": "2026-06-05T14:51:42Z"
   }
 ]
