@@ -41,7 +41,7 @@
       }
     ],
     "createdAt": "2026-06-05T03:36:31.000Z",
-    "updatedAt": "2026-06-05T17:20:54Z"
+    "updatedAt": "2026-06-05T19:23:18Z"
   },
   {
     "id": 501,
@@ -70,7 +70,7 @@
       }
     ],
     "createdAt": "2026-06-05T08:07:18.000Z",
-    "updatedAt": "2026-06-05T17:20:54Z"
+    "updatedAt": "2026-06-05T19:23:18Z"
   },
   {
     "id": 502,
@@ -99,7 +99,7 @@
       }
     ],
     "createdAt": "2026-06-05T17:17:11.000Z",
-    "updatedAt": "2026-06-05T17:20:54Z"
+    "updatedAt": "2026-06-05T19:23:18Z"
   },
   {
     "id": 503,
@@ -125,7 +125,36 @@
       }
     ],
     "createdAt": "2026-06-05T17:17:11.000Z",
-    "updatedAt": "2026-06-05T17:20:54Z"
+    "updatedAt": "2026-06-05T19:23:18Z"
+  },
+  {
+    "id": 504,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "12:00",
+    "fecha": "2026-06-05",
+    "lugar": "Ruta Nacional 3, km 3, Comodoro Rivadavia, Chubut",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "ATE (Asociación de Trabajadores del Estado)"
+    ],
+    "motivo": "Protesta de trabajadores estatales de ATE con cortes intermitentes en la Ruta 3 a la altura del km 3 en Comodoro Rivadavia. Reclaman actualización salarial acorde a la inflación, cumplimiento de acuerdos paritarios, mejoras en condiciones laborales y rechazo a la conciliación obligatoria. El paro convocado fue suspendido por conciliación obligatoria pero los trabajadores mantienen medidas de presión. El conflicto se intensificó tras detenciones de dirigentes gremiales el martes previo en una movilización en la sede de Supervisión de Escuelas",
+    "status": "finalizada",
+    "lat": "-45.8667",
+    "lng": "-67.5000",
+    "fuentes": [
+      {
+        "nombre": "ADNSur",
+        "url": "https://www.adnsur.com.ar/sociedad/una-protesta-de-trabajadores-de-ate-genero-un-caos-de-transito-en-la-ruta-3_a6a22f69f3bd91bc35b328e0f"
+      },
+      {
+        "nombre": "Noticias Puerto Santa Cruz",
+        "url": "https://noticiaspuertosantacruz.com.ar/caos-de-transito-en-comodoro-por-una-protesta-de-trabajadores-de-ate-en-ruta-3"
+      }
+    ],
+    "createdAt": "2026-06-05T19:20:02.000Z",
+    "updatedAt": "2026-06-05T19:23:18Z"
   },
   {
     "id": 302,
@@ -169,7 +198,7 @@
       }
     ],
     "createdAt": "2026-06-04T05:20:38.000Z",
-    "updatedAt": "2026-06-05T17:20:54Z"
+    "updatedAt": "2026-06-05T19:23:18Z"
   },
   {
     "id": 303,
@@ -208,7 +237,7 @@
       }
     ],
     "createdAt": "2026-06-04T05:20:38.000Z",
-    "updatedAt": "2026-06-05T17:20:54Z"
+    "updatedAt": "2026-06-05T19:23:18Z"
   },
   {
     "id": 306,
@@ -236,7 +265,7 @@
       },
       {
         "nombre": "El Periódico",
-        "url": "https://www.elperiodico.com/es/sociedad/20260605/huelga-profesores-catalunya-sindicatos-movilizaciones-ultima-hora-directo-130098594"
+        "url": "https://www.elperiodico.com/es/sociedad/20260605/huelga-profesores-catalunya-hoy-viernes-5-junio-recorrido-manifestacion-barcelona-dv-130131145"
       },
       {
         "nombre": "CatalunyaPress",
@@ -248,7 +277,7 @@
       }
     ],
     "createdAt": "2026-06-04T09:11:02.000Z",
-    "updatedAt": "2026-06-05T17:20:54Z"
+    "updatedAt": "2026-06-05T19:23:18Z"
   },
   {
     "id": 307,
@@ -289,7 +318,7 @@
       }
     ],
     "createdAt": "2026-06-04T12:30:02.000Z",
-    "updatedAt": "2026-06-05T17:20:54Z"
+    "updatedAt": "2026-06-05T19:23:18Z"
   },
   {
     "id": 315,
@@ -333,7 +362,7 @@
       }
     ],
     "createdAt": "2026-06-04T20:55:39.000Z",
-    "updatedAt": "2026-06-05T17:20:54Z"
+    "updatedAt": "2026-06-05T19:23:18Z"
   },
   {
     "id": 319,
@@ -374,7 +403,7 @@
       }
     ],
     "createdAt": "2026-06-04T23:44:47.000Z",
-    "updatedAt": "2026-06-05T17:20:54Z"
+    "updatedAt": "2026-06-05T19:23:18Z"
   },
   {
     "id": 320,
@@ -412,7 +441,7 @@
       }
     ],
     "createdAt": "2026-06-05T08:04:44.000Z",
-    "updatedAt": "2026-06-05T17:20:54Z"
+    "updatedAt": "2026-06-05T19:23:18Z"
   },
   {
     "id": 321,
@@ -446,6 +475,128 @@
       }
     ],
     "createdAt": "2026-06-05T17:13:45.000Z",
-    "updatedAt": "2026-06-05T17:20:54Z"
+    "updatedAt": "2026-06-05T19:23:18Z"
+  },
+  {
+    "id": 322,
+    "seccion": "internacional",
+    "pais": "Albania",
+    "bandera": "🇦🇱",
+    "hora": "00:01",
+    "fecha": "2026-06-05",
+    "lugar": "Tirana (Skanderbeg Square), Korça. Protestas de solidaridad en Berlín, Múnich y Estocolmo",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Ambientalistas de Zvërnec",
+      "Comunidad local de Vjosa-Narta",
+      "Organizaciones de la diáspora albanesa",
+      "ONG ambientalistas de 28 países"
+    ],
+    "motivo": "Continúan las protestas diarias del movimiento 'Flamingo Revolution' contra el desarrollo de un resort de lujo vinculado a Jared Kushner en el área protegida de Zvërnec-Vjosa-Narta. El 5 de junio hay protestas en Korça y en Berlín, Múnich y Estocolmo frente a misiones diplomáticas albanesas. Exigen la cancelación del proyecto, la protección del humedal y sus flamingos, y la renuncia del primer ministro Edi Rama. Una ola mayor de protestas está prevista para el 6 de junio en Vlora, Milán, Florencia, Londres, Nueva York y Toronto",
+    "status": "en_curso",
+    "lat": "41.3275",
+    "lng": "19.8187",
+    "fuentes": [
+      {
+        "nombre": "EUalive / Albanian Daily News",
+        "url": "https://eualive.net/flamingo-revolution-spreads-albanian-protests-against-zvernec-development-gain-global-momentum/"
+      },
+      {
+        "nombre": "Albanian Daily News",
+        "url": "https://albaniandailynews.com/news/anti-zv-rnec-development-protests-expand-across-europe-and-north-america"
+      },
+      {
+        "nombre": "Anadolu Ajansı",
+        "url": "https://www.aa.com.tr/en/europe/protests-grow-in-albania-over-kushner-linked-tourism-project/3953944"
+      },
+      {
+        "nombre": "Democracy Now!",
+        "url": "https://www.youtube.com/watch?v=pRYLrc4DU80"
+      }
+    ],
+    "createdAt": "2026-06-05T19:16:46.000Z",
+    "updatedAt": "2026-06-05T19:23:18Z"
+  },
+  {
+    "id": 323,
+    "seccion": "internacional",
+    "pais": "Francia",
+    "bandera": "🇫🇷",
+    "hora": "18:00",
+    "fecha": "2026-06-05",
+    "lugar": "París",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Manifestantes pro-palestinos",
+      "Comunidad libanesa en Francia"
+    ],
+    "motivo": "Protesta en París en solidaridad con Líbano y Gaza. Los manifestantes portaron banderas libanesas, palestinas e iraníes y criticaron la respuesta del gobierno francés a los conflictos regionales. Exigieron una acción más firme respecto a las situaciones en Líbano y Gaza, y expresaron preocupación por el papel y la influencia de Francia en la región",
+    "status": "finalizada",
+    "lat": "48.8566",
+    "lng": "2.3522",
+    "fuentes": [
+      {
+        "nombre": "Moneycontrol",
+        "url": "https://www.moneycontrol.com/world/paris-protesters-rally-for-lebanon-and-gaza-criticize-france-s-middle-east-policy-videoshow-13942479.html"
+      }
+    ],
+    "createdAt": "2026-06-05T19:16:46.000Z",
+    "updatedAt": "2026-06-05T19:23:18Z"
+  },
+  {
+    "id": 324,
+    "seccion": "internacional",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "20:00",
+    "fecha": "2026-06-05",
+    "lugar": "50+ ciudades en 25 estados y Washington D.C.",
+    "tipoAccion": "vigilia",
+    "organizaciones": [
+      "Seven Days in June: HEALTH IS PRIMARY",
+      "Coalición de organizaciones de salud pública"
+    ],
+    "motivo": "Vigilias con velas en todo el país como parte de la semana nacional de acción 'Seven Days in June: HEALTH IS PRIMARY' contra los recortes de más de $1 billón en atención médica incluidos en H.R.1. Las vigilias honran las vidas perdidas y reconocen a los millones más en riesgo si los recortes avanzan. La fecha marca 45 años desde el primer informe de los CDC que documentó los casos que se conocerían como VIH/SIDA. Incluye también reuniones comunitarias, foros, marchas y servicios interreligiosos en más de 50 ciudades",
+    "status": "en_curso",
+    "lat": "38.9072",
+    "lng": "-77.0369",
+    "fuentes": [
+      {
+        "nombre": "PRNewswire / Seven Days in June",
+        "url": "https://www.prnewswire.com/news-releases/seven-days-in-june-health-is-primary-mobilizes-communities-against-1-trillion-in-healthcare-cuts-with-100-events-planned-in-50-cities-across-25-states-and-dc-302785689.html"
+      }
+    ],
+    "createdAt": "2026-06-05T19:16:46.000Z",
+    "updatedAt": "2026-06-05T19:23:18Z"
+  },
+  {
+    "id": 325,
+    "seccion": "internacional",
+    "pais": "Suiza",
+    "bandera": "🇨🇭",
+    "hora": "12:00",
+    "fecha": "2026-06-05",
+    "lugar": "Ginebra, Place des Nations (frente a la sede de la ONU)",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "CFDT",
+      "CGT",
+      "UNSA",
+      "Solidaires",
+      "FSU",
+      "Organizaciones de la diáspora iraní"
+    ],
+    "motivo": "Concentración frente a la sede de la ONU en Ginebra durante la conferencia anual de la Organización Internacional del Trabajo (OIT) para denunciar la presencia de representantes de la República Islámica de Irán. Exigen el fin de las ejecuciones en Irán, la liberación de presos políticos, el respeto a los derechos de los trabajadores y las libertades civiles, y denuncian la guerra en curso",
+    "status": "finalizada",
+    "lat": "46.2226",
+    "lng": "6.1383",
+    "fuentes": [
+      {
+        "nombre": "Europe Solidaire Sans Frontières",
+        "url": "https://europe-solidaire.org/spip.php?article78877="
+      }
+    ],
+    "createdAt": "2026-06-05T19:16:46.000Z",
+    "updatedAt": "2026-06-05T19:23:18Z"
   }
 ]
