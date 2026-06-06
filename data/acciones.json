@@ -5,7 +5,7 @@
     "pais": "Argentina",
     "bandera": "🇦🇷",
     "hora": "17:00",
-    "fecha": "2026-06-05",
+    "fecha": "2026-06-06",
     "lugar": "Plaza de Mayo, CABA. Réplicas en plazas centrales de todo el país",
     "tipoAccion": "protesta",
     "organizaciones": [
@@ -14,7 +14,7 @@
       "CTA de los Trabajadores (Hugo Yasky)",
       "CTA Autónoma (Hugo 'Cachorro' Godoy)"
     ],
-    "motivo": "4° día del ayuno nacional de 8 días en Plaza de Mayo contra las políticas del gobierno de Javier Milei. Bajo el lema 'Jornada de ayuno y oración para despertar las conciencias', denuncian el crecimiento del hambre, la exclusión, la violencia y el deterioro social. Réplicas en plazas centrales del interior con organizaciones ecuménicas, sociales y de derechos humanos. Acto de cierre el 9 de junio. Participan Peteco Carabajal y Bruno Arias",
+    "motivo": "5° día del ayuno nacional de 8 días en Plaza de Mayo contra las políticas del gobierno de Javier Milei. Bajo el lema 'Jornada de ayuno y oración para despertar las conciencias', denuncian el crecimiento del hambre, la exclusión, la violencia y el deterioro social. Réplicas en plazas centrales del interior con organizaciones ecuménicas, sociales y de derechos humanos. Acto de cierre el 9 de junio. Participan Peteco Carabajal y Bruno Arias",
     "status": "en_curso",
     "lat": "-34.6083",
     "lng": "-58.3719",
@@ -41,371 +41,173 @@
       }
     ],
     "createdAt": "2026-06-05T03:36:31.000Z",
-    "updatedAt": "2026-06-05T22:45:17Z"
+    "updatedAt": "2026-06-06T00:11:40Z"
   },
   {
-    "id": 501,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "00:01",
-    "fecha": "2026-06-05",
-    "lugar": "Río Gallegos, Santa Cruz (Casa de Gobierno). Réplicas en escuelas públicas de gestión privada de toda la provincia",
-    "tipoAccion": "paro",
-    "organizaciones": [
-      "ADOSAC (Asociación Docentes de Santa Cruz)"
-    ],
-    "motivo": "Paro docente de 48 horas (jueves 4 y viernes 5 de junio) en rechazo a los descuentos salariales aplicados por el Gobierno provincial sobre los haberes por jornadas de huelga previas. Los docentes quemaron cubiertas frente a la Casa de Gobierno en Río Gallegos. Exigen la devolución de los montos descontados (hasta $2 millones por docente) y la apertura de paritarias. La paritaria del sector Educación está convocada para el 8 de junio. El gremio denuncia que hay compañeros 'sin salario' tras los descuentos",
-    "status": "en_curso",
-    "lat": "-51.6236",
-    "lng": "-69.2168",
-    "fuentes": [
-      {
-        "nombre": "La Opinión Austral",
-        "url": "https://laopinionaustral.com.ar/politica-y-economia/docentes-prendieron-fuego-cubiertas-frente-a-la-casa-de-gobierno-de-santa-cruz-y-decidieron-dos-dias-de-paro-por-descuentos-salariales-668250.html"
-      },
-      {
-        "nombre": "TiempoSur",
-        "url": "https://www.tiemposur.com.ar/info-general/adosac-ratifico-un-paro-de-48-horas-frente-a-los-descuentos-aplicados"
-      }
-    ],
-    "createdAt": "2026-06-05T08:07:18.000Z",
-    "updatedAt": "2026-06-05T22:45:17Z"
-  },
-  {
-    "id": 502,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "00:01",
-    "fecha": "2026-06-05",
-    "lugar": "57 universidades nacionales en todo el país",
-    "tipoAccion": "paro",
-    "organizaciones": [
-      "CONADU Histórica"
-    ],
-    "motivo": "Paro nacional docente activo en las 57 universidades nacionales (jueves 4 y viernes 5 de junio) exigiendo aumento salarial mensual para no seguir perdiendo poder adquisitivo frente a la inflación, recuperación de lo perdido desde diciembre de 2025, actualización de la garantía salarial, restitución del FONID, fondos de capacitación y fondo de emergencia para evitar la quiebra de las obras sociales. Exigen el cumplimiento de la Ley de Financiamiento Universitario sancionada por el Congreso. La CONADU Histórica denuncia una pérdida salarial del 52% desde la asunción de Javier Milei",
-    "status": "en_curso",
-    "lat": "-34.5997",
-    "lng": "-58.3815",
-    "fuentes": [
-      {
-        "nombre": "CONADU Histórica",
-        "url": "https://conaduhistorica.org.ar/prensa/4-y-5-de-junio-paro-nacional-docente-activo-en-las-universidades-nacionales/"
-      },
-      {
-        "nombre": "El Esquiú",
-        "url": "https://www.elesquiu.com/sociedad/2026/6/2/conadu-historica-cuestiona-la-oferta-del-gobierno-a-rectores-y-advierte-que-el-reclamo-seguira-584042.html"
-      }
-    ],
-    "createdAt": "2026-06-05T17:17:11.000Z",
-    "updatedAt": "2026-06-05T22:45:17Z"
-  },
-  {
-    "id": 503,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "10:00",
-    "fecha": "2026-06-05",
-    "lugar": "Esquina de calle Corrientes y Córdoba, Rosario, Santa Fe",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Plenario de Trabajadores Jubilados",
-      "Frejel (Frente de Jubilados en Lucha)"
-    ],
-    "motivo": "Protesta de jubilados y pensionados en la esquina de Corrientes y Córdoba. Reclaman mejores condiciones de vida, aumento de haberes previsionales, restitución de medicamentos gratuitos del PAMI y rechazo a la reforma previsional. La convocatoria se consolida como un clásico de los viernes en Rosario, sumando cada vez más participantes. A pesar de la lluvia y las bajas temperaturas, los adultos mayores mantienen la protesta para visibilizar la situación crítica del sector",
-    "status": "en_curso",
-    "lat": "-32.9468",
-    "lng": "-60.6393",
-    "fuentes": [
-      {
-        "nombre": "Conclusión",
-        "url": "https://www.conclusion.com.ar/la-ciudad/jubilados-redoblan-el-reclamo-en-calle-corrientes-ni-la-lluvia-ni-el-viento-nos-detienen/06/2026/"
-      }
-    ],
-    "createdAt": "2026-06-05T17:17:11.000Z",
-    "updatedAt": "2026-06-05T22:45:17Z"
-  },
-  {
-    "id": 504,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "12:00",
-    "fecha": "2026-06-05",
-    "lugar": "Ruta Nacional 3, km 3, Comodoro Rivadavia, Chubut",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "ATE (Asociación de Trabajadores del Estado)"
-    ],
-    "motivo": "Protesta de trabajadores estatales de ATE con cortes intermitentes en la Ruta 3 a la altura del km 3 en Comodoro Rivadavia. Reclaman actualización salarial acorde a la inflación, cumplimiento de acuerdos paritarios, mejoras en condiciones laborales y rechazo a la conciliación obligatoria. El paro convocado fue suspendido por conciliación obligatoria pero los trabajadores mantienen medidas de presión. El conflicto se intensificó tras detenciones de dirigentes gremiales el martes previo en una movilización en la sede de Supervisión de Escuelas",
-    "status": "finalizada",
-    "lat": "-45.8667",
-    "lng": "-67.5000",
-    "fuentes": [
-      {
-        "nombre": "ADNSur",
-        "url": "https://www.adnsur.com.ar/sociedad/una-protesta-de-trabajadores-de-ate-genero-un-caos-de-transito-en-la-ruta-3_a6a22f69f3bd91bc35b328e0f"
-      },
-      {
-        "nombre": "Noticias Puerto Santa Cruz",
-        "url": "https://noticiaspuertosantacruz.com.ar/caos-de-transito-en-comodoro-por-una-protesta-de-trabajadores-de-ate-en-ruta-3"
-      }
-    ],
-    "createdAt": "2026-06-05T19:20:02.000Z",
-    "updatedAt": "2026-06-05T22:45:17Z"
-  },
-  {
-    "id": 505,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "00:01",
-    "fecha": "2026-06-05",
-    "lugar": "Tribunales Federales en todo el país (CABA, Rosario, Córdoba, Santa Fe y demás jurisdicciones)",
-    "tipoAccion": "paro",
-    "organizaciones": [
-      "UEJN (Unión de Empleados de la Justicia de la Nación)"
-    ],
-    "motivo": "Paro nacional de 24 horas en todas las dependencias del fuero federal del país. Reclaman recomposición salarial, incorporación de participación en la obra social judicial y defensa del fuero nacional del trabajo. La medida dejó sin actividad a los tribunales federales con guardias mínimas. Denuncian pérdida del poder adquisitivo frente a la inflación y falta de respuestas del Poder Ejecutivo y la Corte Suprema",
-    "status": "en_curso",
-    "lat": "-34.6037",
-    "lng": "-58.3816",
-    "fuentes": [
-      {
-        "nombre": "Conclusión",
-        "url": "https://www.conclusion.com.ar/gremiales/transcurre-el-paro-nacional-de-los-judiciales-federales-en-reclamo-de-salarios-y-condiciones-laborales/06/2026/"
-      },
-      {
-        "nombre": "Rosario3",
-        "url": "http://ecos365.rosario3.com/informaciongeneral/otro-viernes-con-tribunales-federales-paralizados-judiciales-lanzan-nuevo-paro-20260604-0056.html"
-      }
-    ],
-    "createdAt": "2026-06-05T21:09:56.000Z",
-    "updatedAt": "2026-06-05T22:45:17Z"
-  },
-  {
-    "id": 302,
-    "seccion": "internacional",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "00:01",
-    "fecha": "2026-06-05",
-    "lugar": "Comunitat Valenciana: València, Alicante, Castellón. Acampada en plaza de la Virgen de València",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "STEPV",
-      "CCOO PV",
-      "UGT-PV",
-      "Plataforma en Defensa de l'Ensenyament Públic"
-    ],
-    "motivo": "Día 20 de la huelga indefinida de docentes de enseñanza pública no universitaria en la Comunidad Valenciana (desde el 11 de mayo). La Plataforma en Defensa de l'Ensenyament convoca una huelga de familias (no llevar hijos a clase) para este viernes 5 de junio, con manifestaciones por la tarde en València y Castellón a las 19:00. La acampada docente en la plaza de la Virgen de València continúa. Exigen mejoras salariales, reducción de burocracia y ratios, y mayor presupuesto educativo. Las negociaciones con Conselleria siguen estancadas",
-    "status": "en_curso",
-    "lat": "39.4699",
-    "lng": "-0.3763",
-    "fuentes": [
-      {
-        "nombre": "Valencia Plaza",
-        "url": "https://valenciaplaza.com/valenciaplaza/educacion/la-plataforma-en-defensa-de-lensenyament-convoca-huelga-de-familias-el-proximo-dia-5"
-      },
-      {
-        "nombre": "La Vanguardia",
-        "url": "https://www.lavanguardia.com/local/valencia/20260604/11555121/todos-frentes-abiertos-huelga-indefinida-educacion-publica-valenciana.html"
-      },
-      {
-        "nombre": "EFE",
-        "url": "https://efe.com/espana/2026-06-04/docentes-valencianos-cumplen-19-dias-huelga/"
-      },
-      {
-        "nombre": "El Debate",
-        "url": "https://www.eldebate.com/espana/comunidad-valenciana/20260602/huelga-educacion-recrudece-deriva-acampada-indefinida-centro-valencia-estilo-15_424041.html"
-      },
-      {
-        "nombre": "El Periódico de Aquí",
-        "url": "https://www.elperiodicodeaqui.com/educacion/huelga-indefinida-profesores-calendario-protestas-hasta-5-junio_100116386_102.html"
-      }
-    ],
-    "createdAt": "2026-06-04T05:20:38.000Z",
-    "updatedAt": "2026-06-05T22:45:17Z"
-  },
-  {
-    "id": 303,
+    "id": 334,
     "seccion": "internacional",
     "pais": "Bolivia",
     "bandera": "🇧🇴",
     "hora": "00:01",
-    "fecha": "2026-06-05",
-    "lugar": "La Paz, Cochabamba, Oruro, Potosí, Chuquisaca, Santa Cruz — 94 puntos de bloqueo en todo el país",
+    "fecha": "2026-06-06",
+    "lugar": "La Paz, Cochabamba, Oruro, Potosí, Chuquisaca, Santa Cruz — más de 90 puntos de bloqueo en todo el país",
     "tipoAccion": "protesta",
     "organizaciones": [
       "Central Obrera Boliviana (COB)",
-      "Federación Tupat Katari",
+      "Federación de Campesinos del Altiplano",
       "Sectores afines a Evo Morales"
     ],
-    "motivo": "Día 36 de protestas con bloqueos de carreteras en al menos 6 departamentos (94 puntos de corte). Exigen la renuncia del presidente Rodrigo Paz. La COB rechazó el diálogo y mantiene las medidas. Cochabamba (27 puntos), La Paz (21), Oruro (18) y Potosí (15) son los más afectados. El 4 de junio (jueves feriado de Corpus Christi) los bloqueos continuaron. Desabastecimiento de alimentos, combustible y oxígeno medicinal. Al menos 9 fallecidos reportados. El Gobierno niega posible renuncia. Operativos conjuntos de militares y policías intentan desbloquear vías",
+    "motivo": "Día 37 de protestas con bloqueos de carreteras en al menos 6 departamentos (más de 90 puntos de corte). Exigen la renuncia del presidente Rodrigo Paz y un aumento salarial del 20%. La COB mantiene las medidas. Cochabamba, La Paz, Oruro y Potosí son los más afectados. Desabastecimiento de alimentos, combustible y oxígeno medicinal. Al menos 4 fallecidos reportados. El Gobierno implementa operativos conjuntos de militares y policías para desbloquear vías",
     "status": "en_curso",
     "lat": "-16.5000",
     "lng": "-68.1500",
     "fuentes": [
       {
-        "nombre": "Visión 360",
-        "url": "https://www.vision360.bo/noticias/2026/06/04/51362-los-bloqueos-de-carreteras-se-concentran-en-cochabamba-la-paz-oruro-y-potosi"
+        "nombre": "La Razón",
+        "url": "https://larazon.bo/nacional/2026/06/01/bolivia-inicia-junio-con-mas-de-90-bloqueos-cochabamba-es-ahora-centro-de-la-protesta/"
       },
       {
         "nombre": "Infobae",
-        "url": "https://www.infobae.com/america/agencias/2026/06/03/conflictos-en-bolivia-dejan-9-fallecidos-seis-por-falta-de-atencion-medica-por-bloqueos/"
+        "url": "https://www.infobae.com/america/america-latina/2026/05/27/protestas-en-bolivia-los-bloqueos-causan-perdidas-millonarias-y-agraven-el-desabastecimiento-en-sectores-productivos-clave/"
       },
       {
-        "nombre": "Bolivia.com",
-        "url": "https://www.bolivia.com/actualidad/nacionales/empresarios-califican-de-inoportuna-la-declaracion-del-feriado-mientras-persisten-bloqueos-586332"
+        "nombre": "Wikipedia",
+        "url": "https://es.wikipedia.org/wiki/Protestas_en_Bolivia_de_2026"
       },
       {
-        "nombre": "ANF",
-        "url": "https://www.noticiasfides.com/nacional/politica/a-casi-un-mes-de-bloqueos-asi-comenzo-y-muto-el-conflicto-que-exige-la-renuncia-de-paz"
+        "nombre": "Prensa Latina",
+        "url": "https://www.prensa-latina.cu/2026/06/01/bolivia-inicia-junio-con-mas-de-90-puntos-de-bloqueo"
       }
     ],
-    "createdAt": "2026-06-04T05:20:38.000Z",
-    "updatedAt": "2026-06-05T22:45:17Z"
+    "createdAt": "2026-06-06T00:04:47.000Z",
+    "updatedAt": "2026-06-06T00:11:40Z"
   },
   {
-    "id": 306,
-    "seccion": "internacional",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "10:00",
-    "fecha": "2026-06-05",
-    "lugar": "Catalunya: huelga general en todos los centros educativos públicos y concertados. Manifestación unitaria en Barcelona desde Arc de Triomf hasta el Parlament",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "CGT Ensenyament",
-      "La Intersindical",
-      "COS",
-      "USTEC·STEs"
-    ],
-    "motivo": "Huelga general educativa en toda Cataluña. Unas 15.200 personas se manifestaron en Barcelona, duplicando la cifra de la huelga del 27 de mayo. Marchas confluyeron desde Sant Adrià, plaça d'Espanya y Zona Franca hasta Arc de Triomf. Profesores ocuparon brevemente los Servicios Territoriales de Educació del Barcelonès y cortaron la ronda Litoral. El 65% de los docentes (39.502 de 60.686 votantes) rechazó el preacuerdo Govern-sindicatos mayoritarios. Exigen mejoras salariales (400 € en 4 años considerados insuficientes), reducción de ratios y más inversión. Los sindicatos anunciaron una nueva huelga general para el 9 de junio coincidiendo con la visita del Papa León XIV a Barcelona, y protestas durante las dos semanas restantes del curso",
-    "status": "en_curso",
-    "lat": "41.3874",
-    "lng": "2.1686",
-    "fuentes": [
-      {
-        "nombre": "El País",
-        "url": "https://elpais.com/espana/catalunya/2026-06-05/los-profesores-catalanes-vuelven-a-la-huelga-tras-rechazar-el-preacuerdo-con-el-govern.html"
-      },
-      {
-        "nombre": "El Periódico",
-        "url": "https://www.elperiodico.com/es/sociedad/20260605/huelga-profesores-catalunya-hoy-viernes-5-junio-recorrido-manifestacion-barcelona-dv-130131145"
-      },
-      {
-        "nombre": "CatalunyaPress",
-        "url": "https://www.catalunyapress.es/articulo/sociedad/2026-06-05/5908177-huelga-general-docente-catalunya-manifestaciones-horas-negociaciones"
-      },
-      {
-        "nombre": "El Triangle",
-        "url": "https://www.eltriangle.eu/es/2026/06/05/huelga-general-de-los-docentes-en-toda-cataluna/"
-      }
-    ],
-    "createdAt": "2026-06-04T09:11:02.000Z",
-    "updatedAt": "2026-06-05T22:45:17Z"
-  },
-  {
-    "id": 307,
+    "id": 335,
     "seccion": "internacional",
     "pais": "México",
     "bandera": "🇲🇽",
-    "hora": "10:00",
-    "fecha": "2026-06-05",
-    "lugar": "Ciudad de México (Zócalo, Paseo de la Reforma, avenida Insurgentes, Bucareli — Antimonumento Ayotzinapa +43, sede de la Secretaría de Gobernación). Acciones en al menos 10 estados más",
+    "hora": "09:00",
+    "fecha": "2026-06-06",
+    "lugar": "Ciudad de México (Zócalo, Paseo de la Reforma). Acciones en Oaxaca, Michoacán, Chiapas, Guerrero y otros estados",
     "tipoAccion": "huelga",
     "organizaciones": [
       "CNTE (Coordinadora Nacional de Trabajadores de la Educación)"
     ],
-    "motivo": "Día 5 de la huelga nacional indefinida de docentes. Se estima la participación de 7.000 personas en CDMX, concentrándose desde las 10:00 en Paseo de la Reforma e Insurgentes y el Antimonumento Ayotzinapa +43. Mantienen campamento en el Centro Histórico con bloqueos previstos en Reforma. Exigen abrogación de la Ley del ISSSTE de 2007, regreso al sistema de pensiones sin Afores, aumento salarial del 100% al sueldo base y derogación de la reforma educativa. A 6 días de la inauguración del Mundial 2026 (11 de junio). Sheinbaum no ha cedido a demandas centrales. También hay movilizaciones de estudiantes del IPN y colectivos sociales",
+    "motivo": "Día 6 de la huelga nacional indefinida de docentes. Exigen abrogación de la Ley del ISSSTE de 2007, regreso al sistema de pensiones sin Afores, aumento salarial del 100% al sueldo base y derogación de la reforma educativa. Mantienen campamento en el Centro Histórico. A 5 días de la inauguración del Mundial 2026 (11 de junio). Sheinbaum no ha cedido a demandas centrales. El sindicato amenaza con disruptir el Mundial si no hay solución",
     "status": "en_curso",
     "lat": "19.4326",
     "lng": "-99.1332",
     "fuentes": [
       {
-        "nombre": "Capital México",
-        "url": "https://www.capitalmexico.com.mx/cdmx/movilizaciones-protestas-y-eventos-masivos-marcaran-este-5-de-junio-en-la-cdmx/"
-      },
-      {
-        "nombre": "Publimetro México",
-        "url": "https://www.publimetro.com.mx/noticias/2026/06/05/marchas-cdmx-hoy-5-de-junio-de-2026-cnte-lidera-movilizaciones-y-preven-bloqueos-en-reforma/"
-      },
-      {
-        "nombre": "Courthouse News Service",
-        "url": "https://www.courthousenews.com/striking-teachers-in-mexico-city-threaten-world-cup-week-before-kick-off/"
-      },
-      {
         "nombre": "Latin America Reports",
         "url": "https://latinamericareports.com/mexico-city-teachers-strike-threatens-to-disrupt-2026-world-cup-kick-off/14603/"
+      },
+      {
+        "nombre": "Reuters",
+        "url": "https://www.reutersconnect.com/item/cnte-teachers-demonstrate-in-mexico-as-they-declare-an-indefinite-national-strike/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwSDZWM1FR"
+      },
+      {
+        "nombre": "Mexico News Daily",
+        "url": "https://mexiconewsdaily.com/news/teachers-union-national-strike-world-cup/"
       },
       {
         "nombre": "El País English",
         "url": "https://english.elpais.com/international/2026-06-03/mexican-teachers-expand-protest-camp-and-threaten-to-shut-down-the-capital.html"
       }
     ],
-    "createdAt": "2026-06-04T12:30:02.000Z",
-    "updatedAt": "2026-06-05T22:45:17Z"
+    "createdAt": "2026-06-06T00:04:47.000Z",
+    "updatedAt": "2026-06-06T00:11:40Z"
   },
   {
-    "id": 315,
+    "id": 336,
     "seccion": "internacional",
-    "pais": "Venezuela",
-    "bandera": "🇻🇪",
-    "hora": "10:00",
-    "fecha": "2026-06-05",
-    "lugar": "Caracas (avenida Presidente Medina/Victoria, Embajada de EE.UU.) y otras ciudades del país",
+    "pais": "Albania",
+    "bandera": "🇦🇱",
+    "hora": "12:00",
+    "fecha": "2026-06-06",
+    "lugar": "Vlora (Zvërnec). Acciones de solidaridad en Milán, Florencia, Londres, Nueva York y Toronto",
     "tipoAccion": "protesta",
     "organizaciones": [
-      "Sindicatos y gremios laborales venezolanos",
-      "Oposición venezolana",
-      "ONG Un Mundo Sin Mordaza",
-      "Familiares de presos políticos"
+      "Ambientalistas de Zvërnec",
+      "Comunidad local de Vjosa-Narta",
+      "Organizaciones de la diáspora albanesa"
     ],
-    "motivo": "Continúan las protestas nacionales. Personas mayores protestaron en Caracas exigiendo mejores condiciones de salud y pensiones. Trabajadores, estudiantes y oposición marchan hacia la Embajada de EE.UU. para exigir elecciones presidenciales y parlamentarias libres, mientras la presidenta interina Delcy Rodríguez marca 150 días en el poder. En la avenida Victoria, familiares y activistas protestan contra traslados arbitrarios de detenidos. Exigen liberación de presos políticos, mejoras salariales y un cronograma electoral claro",
+    "motivo": "Ola masiva de protestas del movimiento 'Flamingo Revolution' contra el desarrollo de un resort de lujo vinculado a Jared Kushner en el área protegida de Zvërnec-Vjosa-Narta. Manifestaciones previstas en Vlora y en varias ciudades del mundo (Milán, Florencia, Londres, Nueva York y Toronto). Exigen la cancelación del proyecto, la protección del humedal y sus flamingos, y la renuncia del primer ministro Edi Rama. Las protestas en Tirana han sido las más grandes de la semana con miles de participantes",
     "status": "en_curso",
-    "lat": "10.4806",
-    "lng": "-66.9036",
+    "lat": "40.4660",
+    "lng": "19.5000",
     "fuentes": [
       {
-        "nombre": "AP vía AOL",
-        "url": "https://www.aol.com/articles/protestas-elecciones-mundial-fotos-semana-070507000.html"
+        "nombre": "Reuters",
+        "url": "https://www.reuters.com/world/albania-is-not-sale-protesters-say-over-kushner-linked-luxury-resort-near-2026-06-05/"
       },
       {
-        "nombre": "Al Jazeera vía Modern Ghana",
-        "url": "https://www.modernghana.com/amp/videonews/660593"
+        "nombre": "EUalive / Albanian Daily News",
+        "url": "https://eualive.net/flamingo-revolution-spreads-albanian-protests-against-zvernec-development-gain-global-momentum/"
       },
       {
-        "nombre": "Blueprint Nigeria",
-        "url": "https://blueprint.ng/venezuelan-opposition-mobilises-nationwide-protests-over-elections-reforms/"
+        "nombre": "Albanian Daily News",
+        "url": "https://albaniandailynews.com/news/anti-zv-rnec-development-protests-expand-across-europe-and-north-america"
       },
       {
-        "nombre": "Monitoreamos",
-        "url": "https://monitoreamos.com/venezuela/familiares-y-activistas-protestan-en-la-avenida-victoria-para-exigir-informacion-sobre-trasladados-arbitrarios"
-      },
-      {
-        "nombre": "americateve / AP",
-        "url": "https://www.americateve.com/protestas-elecciones-mundial-y-otras-fotos-la-semana-latinoamerica-y-el-caribe-n5452538"
+        "nombre": "BirdLife International",
+        "url": "https://www.birdlife.org/news/2026/06/04/albanias-flamingo-protests-when-a-government-sells-off-a-wetland-its-selling-off-democracy-too/"
       }
     ],
-    "createdAt": "2026-06-04T20:55:39.000Z",
-    "updatedAt": "2026-06-05T22:45:17Z"
+    "createdAt": "2026-06-06T00:04:47.000Z",
+    "updatedAt": "2026-06-06T00:11:40Z"
   },
   {
-    "id": 319,
+    "id": 337,
+    "seccion": "internacional",
+    "pais": "India",
+    "bandera": "🇮🇳",
+    "hora": "09:00",
+    "fecha": "2026-06-06",
+    "lugar": "Nueva Delhi, Jantar Mantar (Sansad Marg, Connaught Place)",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "CJP (Cockroach Janta Party)"
+    ],
+    "motivo": "Protesta pacífica convocada por el CJP exigiendo la renuncia del Ministro de Educación Dharmendra Pradhan por presuntas irregularidades en los exámenes nacionales NEET-UG, CUET, CBSE y SSC GD. El fundador Abhijeet Dipke regresa de EE.UU. para liderar la protesta. Llega a Delhi a las 8 am y se dirige a la comisaría Parliament Street para solicitar permiso antes de marchar a Jantar Mantar. Convocatoria masiva con apoyo de figuras públicas como Sonam Wangchuk, Anna Hazare y partidos políticos de la oposición",
+    "status": "en_curso",
+    "lat": "28.6273",
+    "lng": "77.2167",
+    "fuentes": [
+      {
+        "nombre": "LiveMint",
+        "url": "https://www.livemint.com/news/india/cjp-gears-up-for-june-6-protest-at-delhis-jantar-mantar-whats-on-agenda-whos-attending-5-points-11780571236382.html"
+      },
+      {
+        "nombre": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/india-news/cjp-founder-abhijeet-dipke-to-return-from-us-to-protest-in-delhi-jantar-mantar-on-june-6-for-edu-minister-resignation-101780300679097.html"
+      },
+      {
+        "nombre": "Economic Times",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/cjp-june-6-protest-whats-the-agenda-where-and-when-it-will-be-held-all-you-need-to-know/articleshow/131531321.cms"
+      },
+      {
+        "nombre": "Deccan Herald",
+        "url": "https://www.deccanherald.com/india/cockroach-janta-party-gears-up-for-june-6-protest-at-delhis-jantar-mantar-heres-what-we-know-so-far-4028324"
+      }
+    ],
+    "createdAt": "2026-06-06T00:04:47.000Z",
+    "updatedAt": "2026-06-06T00:11:40Z"
+  },
+  {
+    "id": 338,
     "seccion": "internacional",
     "pais": "Reino Unido",
     "bandera": "🇬🇧",
     "hora": "00:01",
-    "fecha": "2026-06-05",
+    "fecha": "2026-06-06",
     "lugar": "Mar del Norte (Alba FSU), plataformas offshore de Ithaca Energy",
     "tipoAccion": "huelga",
     "organizaciones": [
       "Unite the Union"
     ],
-    "motivo": "Segundo día de la huelga de trabajadores offshore de Bilfinger en la plataforma Alba FSU del Mar del Norte operada por Ithaca Energy (huelga 4-7 de junio). Exigen que Ithaca Energy extienda el bono de retención de hasta £14.500 a los trabajadores contratistas de Bilfinger, del cual han sido excluidos. Le seguirá otra huelga en el FPF-1 del 9 al 12 de junio. En Noruega, una huelga similar de 617 trabajadores offshore fue evitada tras alcanzarse un acuerdo salarial de última hora",
+    "motivo": "Tercer día de la huelga de trabajadores offshore de Bilfinger en la plataforma Alba FSU del Mar del Norte operada por Ithaca Energy (huelga 4-7 de junio). Exigen que Ithaca Energy extienda el bono de retención de hasta £14.500 a los trabajadores contratistas de Bilfinger, del cual han sido excluidos. Le seguirá otra huelga en el FPF-1 del 9 al 12 de junio. Unite denuncia que Ithaca Energy registró $2 mil millones en ganancias en 2025",
     "status": "en_curso",
     "lat": "58.0000",
     "lng": "0.5000",
@@ -423,69 +225,204 @@
         "url": "https://splash247.com/north-sea-workers-set-for-strike-action-on-ithaca-energy-assets"
       },
       {
-        "nombre": "RTÉ",
-        "url": "https://www.rte.ie/news/business/2026/0605/1576873-norwegian-oil-companies/"
-      },
-      {
         "nombre": "UK Strike Calendar",
         "url": "https://www.strikecalendar.co.uk/"
       }
     ],
-    "createdAt": "2026-06-04T23:44:47.000Z",
-    "updatedAt": "2026-06-05T22:45:17Z"
+    "createdAt": "2026-06-06T00:04:47.000Z",
+    "updatedAt": "2026-06-06T00:11:40Z"
   },
   {
-    "id": 320,
+    "id": 339,
     "seccion": "internacional",
-    "pais": "Corea del Sur",
-    "bandera": "🇰🇷",
-    "hora": "08:00",
-    "fecha": "2026-06-05",
-    "lugar": "Seúl, distrito de Songpa (Jamsil 7-dong), estación de votación",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "11:00",
+    "fecha": "2026-06-06",
+    "lugar": "Los Ángeles, California (Edificio Federal Wilshire). Otras acciones en varias ciudades de EE.UU.",
     "tipoAccion": "protesta",
     "organizaciones": [
-      "Manifestantes de derecha radical",
-      "Residentes del distrito Songpa"
+      "U.S. Hands Off Cuba Committee",
+      "CodePink Los Angeles",
+      "Black Men Build",
+      "Socialist Workers Party",
+      "National Writers Union"
     ],
-    "motivo": "Más de 1.000 manifestantes bloquearon durante 35 horas una estación de votación en Seúl tras la escasez de papeletas en las elecciones locales del 3 de junio. La policía antidisturbios desalojó a los manifestantes este viernes 5 de junio. Portaban carteles con 'detengan el conteo de votos' e 'invaliden la elección'. Exigen un recuento completo o una repetición de la elección en el distrito. Dos urnas con unos 2.000 votos fueron finalmente aseguradas y trasladadas al centro de conteo",
-    "status": "finalizada",
-    "lat": "37.5100",
-    "lng": "127.1000",
+    "motivo": "Protesta de emergencia 'No War on Cuba' contra las agresiones y amenazas militares de Estados Unidos hacia Cuba. Denuncian el recrudecimiento del bloqueo económico, las amenazas de intervención impulsadas desde Washington y las órdenes ejecutivas de Donald Trump que endurecieron el bloqueo. Exigen el fin de la escalada militar y el cese del estrangulamiento energético contra la isla. Forma parte de una campaña nacional de acción",
+    "status": "en_curso",
+    "lat": "34.0550",
+    "lng": "-118.3000",
     "fuentes": [
       {
-        "nombre": "The Straits Times",
-        "url": "https://www.straitstimes.com/asia/east-asia/south-korean-riot-police-clear-protesters-after-ballot-shortage-blockade"
+        "nombre": "Cubainformación",
+        "url": "https://www.cubainformacion.tv/solidaridad/20260603/123188/123188-no-war-on-cuba-en-los-angeles-6-de-junio-convocan-protesta-de-emergencia-contra-las-amenazas-militares-de-ee-uu-a-la-isla"
       },
       {
-        "nombre": "AFP vía Malay Mail",
-        "url": "https://www.malaymail.com/news/world/2026/06/05/south-korean-police-clear-protesters-after-35-hour-standoff-at-polling-station/222614"
+        "nombre": "Radio HC",
+        "url": "https://www.radiohc.cu/en/no-war-on-cuba-in-los-angeles-june-6-emergency-protest-called-against-u-s-military-threats-to-the-island/"
       },
       {
-        "nombre": "The Korea Times",
-        "url": "https://www.koreatimes.co.kr/southkorea/society/20260605/police-secure-ballot-boxes-from-seoul-polling-station-after-dispersing-protesters"
-      },
-      {
-        "nombre": "Reuters vía Citizen Digital",
-        "url": "https://citizen.digital/article/shortage-of-ballot-papers-sparks-protests-in-south-koreas-local-elections-n383967"
+        "nombre": "US Hands Off Cuba Committee",
+        "url": "https://www.ushandsoffcubacommittee.com/"
       }
     ],
-    "createdAt": "2026-06-05T08:04:44.000Z",
-    "updatedAt": "2026-06-05T22:45:17Z"
+    "createdAt": "2026-06-06T00:04:47.000Z",
+    "updatedAt": "2026-06-06T00:11:40Z"
   },
   {
-    "id": 321,
+    "id": 340,
+    "seccion": "internacional",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "10:00",
+    "fecha": "2026-06-06",
+    "lugar": "17 sucursales de Citizens Bank en Nueva Jersey, y otras sucursales en todo el país",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "De-ICE Citizens Bank Coalition",
+      "Northwest Bronx Indivisible",
+      "Movimiento nacional contra prisiones privadas"
+    ],
+    "motivo": "Jornada nacional de acción contra Citizens Bank por su financiamiento a las empresas de prisiones privadas CoreCivic y GEO Group, que operan centros de detención de ICE. Protestas simultáneas en múltiples sucursales del banco en todo el país. Exigen que Citizens Bank corte sus lazos financieros con las empresas que lucran con la detención de inmigrantes. Denuncian los abusos y muertes prevenibles en centros de detención de ICE financiados por el banco",
+    "status": "en_curso",
+    "lat": "40.7920",
+    "lng": "-74.2450",
+    "fuentes": [
+      {
+        "nombre": "NJ.com",
+        "url": "https://www.nj.com/news/2026/06/citizens-bank-faces-statewide-nj-protests-over-ice-detention-financing.html"
+      },
+      {
+        "nombre": "De-ICE Citizens Bank",
+        "url": "https://www.de-icecitizensbank.org/"
+      },
+      {
+        "nombre": "InDepth NH",
+        "url": "https://indepthnh.org/2026/06/05/national-and-local-protests-against-citizens-bank-slated-for-june-6/"
+      }
+    ],
+    "createdAt": "2026-06-06T00:04:47.000Z",
+    "updatedAt": "2026-06-06T00:11:40Z"
+  },
+  {
+    "id": 341,
+    "seccion": "internacional",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "11:00",
+    "fecha": "2026-06-06",
+    "lugar": "Boston, Massachusetts (Copley Square → Boston Common)",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Boston Pride for the People"
+    ],
+    "motivo": "Desfile y festival del Orgullo de Boston 2026 con el lema 'Pride as Protest: Since 1776' (El Orgullo como protesta desde 1776), conmemorando 250 años de presencia y resistencia LGBTQIA+ en la historia estadounidense. Se espera más de un millón de asistentes en el desfile desde Copley Square hasta Boston Common. El tema de este año reconoce el rol histórico de la protesta en la lucha por los derechos LGBTQIA+. Se celebra una semana antes de lo habitual debido a que Boston será sede de partidos del Mundial 2026",
+    "status": "en_curso",
+    "lat": "42.3550",
+    "lng": "-71.0650",
+    "fuentes": [
+      {
+        "nombre": "Boston Pride for the People",
+        "url": "https://www.bostonprideforthepeople.org/"
+      },
+      {
+        "nombre": "NBC Boston",
+        "url": "https://www.nbcboston.com/news/local/bostons-pride-organizers-announce-theme-for-2026-pride-as-protest-since-1776/3952116/"
+      },
+      {
+        "nombre": "MassLive",
+        "url": "https://www.masslive.com/boston/2026/06/boston-pride-2026-when-does-the-parade-start-whats-this-years-theme.html"
+      },
+      {
+        "nombre": "Hoodline",
+        "url": "https://hoodline.com/2026/06/boston-pride-parade-roars-back-saturday-with-pride-as-protest-on-the-common/"
+      }
+    ],
+    "createdAt": "2026-06-06T00:04:47.000Z",
+    "updatedAt": "2026-06-06T00:11:40Z"
+  },
+  {
+    "id": 342,
+    "seccion": "internacional",
+    "pais": "España",
+    "bandera": "🇪🇸",
+    "hora": "12:00",
+    "fecha": "2026-06-06",
+    "lugar": "Valencia y Alicante. Puntos de concentración en plazas centrales de ambas ciudades",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Sindicato de Inquilinas",
+      "Plataforma por la Vivienda Digna",
+      "Movimiento por el Derecho a la Vivienda"
+    ],
+    "motivo": "Protestas por el derecho a la vivienda contra los precios abusivos de alquiler y la especulación inmobiliaria. Manifestaciones convocadas en Alicante (por el Sindicato de Vivienda de Carolines y Zona Norte) y en Valencia. Exigen alquileres indefinidos, limitación de precios, control de la expansión turística y medidas contra la especulación. El movimiento por la vivienda convoca movilizaciones en 24 ciudades españolas durante la primavera, con citas clave en Valencia y Alicante el 6 de junio",
+    "status": "en_curso",
+    "lat": "39.4699",
+    "lng": "-0.3763",
+    "fuentes": [
+      {
+        "nombre": "Diario de Alicante",
+        "url": "https://diariodealicante.net/en/manifestacion-vivienda-alicante-6j/"
+      },
+      {
+        "nombre": "El Periódico de Aquí",
+        "url": "https://www.elperiodicodeaqui.com/economia/movimiento-por-vivienda-convoca-movilizaciones-en-24-ciudades-durante-esta-primavera_100115482_102.html"
+      },
+      {
+        "nombre": "AP / ABC News",
+        "url": "https://abcnews.com/International/wireStory/thousands-spains-capital-protest-increasing-housing-costs-133264610"
+      }
+    ],
+    "createdAt": "2026-06-06T00:04:47.000Z",
+    "updatedAt": "2026-06-06T00:11:40Z"
+  },
+  {
+    "id": 343,
+    "seccion": "internacional",
+    "pais": "Francia",
+    "bandera": "🇫🇷",
+    "hora": "00:01",
+    "fecha": "2026-06-06",
+    "lugar": "Todo el territorio francés (función pública territorial)",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "FSU Territoriale (SNUTER-FSU)"
+    ],
+    "motivo": "Preaviso de huelga nacional de la FSU Territoriale del 5 al 30 de junio de 2026 para la función pública territorial. Más de 850.000 agentes pueden secundar la huelga. Exigen medidas salariales de urgencia: revalorización de regímenes indemnizatorios, extensión del teletrabajo, reembolso de gastos kilométricos, atribución uniforme de 80 puntos (+400 € mensuales) en la grilla indiciaria, revalorización de al menos el 20% del valor del punto de índice y su indexación al IPC",
+    "status": "en_curso",
+    "lat": "48.8566",
+    "lng": "2.3522",
+    "fuentes": [
+      {
+        "nombre": "FSU Territoriale 13",
+        "url": "https://www.fsu-territoriale13.fr/preavis-de-greve-national-du-24-mars-au-24-avril-2026"
+      },
+      {
+        "nombre": "SNUTER-FSU",
+        "url": "https://snuter-fsu.fr/preavis-de-greve-national-du-24-avril-au-31-mai-2026"
+      },
+      {
+        "nombre": "Strike Tracker",
+        "url": "https://striketracker.app/strikes-in-france/national-strike-france-9-april-2026"
+      }
+    ],
+    "createdAt": "2026-06-06T00:04:47.000Z",
+    "updatedAt": "2026-06-06T00:11:40Z"
+  },
+  {
+    "id": 344,
     "seccion": "internacional",
     "pais": "España",
     "bandera": "🇪🇸",
     "hora": "00:01",
-    "fecha": "2026-06-05",
-    "lugar": "Aeropuertos de Lanzarote, Fuerteventura, La Palma, El Hierro, Sevilla, Jerez, Vigo, A Coruña y otros — 9 torres de control operadas por SAERCO",
+    "fecha": "2026-06-06",
+    "lugar": "9 torres de control operadas por SAERCO: Lanzarote, Fuerteventura, La Palma, El Hierro, Sevilla, Jerez, Vigo, A Coruña",
     "tipoAccion": "huelga",
     "organizaciones": [
       "USCA (Unión Sindical de Controladores Aéreos)",
       "CCOO"
     ],
-    "motivo": "Huelga indefinida de controladores aéreos de SAERCO desde el 17 de abril, vigente a diario hasta al menos el 30 de junio. Afecta a 9 torres de control en España, con mayor impacto en Canarias (Lanzarote, Fuerteventura, La Palma, El Hierro) y ciudades continentales (Sevilla, Jerez, Vigo, A Coruña). El Ministerio de Transportes impuso servicios mínimos cercanos al 100%, por lo que los vuelos operan mayoritariamente pero con retrasos. Los controladores denuncian salarios insuficientes y deterioro de condiciones laborales. No hay acuerdo a la vista con SAERCO",
+    "motivo": "Huelga indefinida de controladores aéreos de SAERCO desde el 17 de abril, vigente a diario hasta al menos el 30 de junio. Afecta a 9 torres de control en España, con mayor impacto en Canarias y ciudades continentales. El Ministerio de Transportes impuso servicios mínimos cercanos al 100%. Los controladores denuncian salarios insuficientes y deterioro de condiciones laborales. No hay acuerdo a la vista con SAERCO",
     "status": "en_curso",
     "lat": "28.5000",
     "lng": "-13.5000",
@@ -503,89 +440,89 @@
         "url": "https://www.travelandtourworld.com/news/article/spains-air-traffic-control-strike-what-travelers-need-to-know-about-delays-and-cancellations"
       }
     ],
-    "createdAt": "2026-06-05T17:13:45.000Z",
-    "updatedAt": "2026-06-05T22:45:17Z"
+    "createdAt": "2026-06-06T00:04:47.000Z",
+    "updatedAt": "2026-06-06T00:11:40Z"
   },
   {
-    "id": 322,
+    "id": 345,
     "seccion": "internacional",
-    "pais": "Albania",
-    "bandera": "🇦🇱",
-    "hora": "00:01",
-    "fecha": "2026-06-05",
-    "lugar": "Tirana (Skanderbeg Square), Korça. Protestas de solidaridad en Berlín, Múnich y Estocolmo",
+    "pais": "Venezuela",
+    "bandera": "🇻🇪",
+    "hora": "10:00",
+    "fecha": "2026-06-06",
+    "lugar": "Caracas (avenida Presidente Medina/Victoria, Embajada de EE.UU.) y otras ciudades del país",
     "tipoAccion": "protesta",
     "organizaciones": [
-      "Ambientalistas de Zvërnec",
-      "Comunidad local de Vjosa-Narta",
-      "Organizaciones de la diáspora albanesa",
-      "ONG ambientalistas de 28 países"
+      "Sindicatos y gremios laborales venezolanos",
+      "Oposición venezolana",
+      "ONG Un Mundo Sin Mordaza",
+      "Familiares de presos políticos"
     ],
-    "motivo": "Continúan las protestas diarias del movimiento 'Flamingo Revolution' contra el desarrollo de un resort de lujo vinculado a Jared Kushner en el área protegida de Zvërnec-Vjosa-Narta. El 5 de junio hay protestas en Korça y en Berlín, Múnich y Estocolmo frente a misiones diplomáticas albanesas. Exigen la cancelación del proyecto, la protección del humedal y sus flamingos, y la renuncia del primer ministro Edi Rama. Una ola mayor de protestas está prevista para el 6 de junio en Vlora, Milán, Florencia, Londres, Nueva York y Toronto",
+    "motivo": "Continúan las protestas nacionales en Venezuela. Personas mayores protestan exigiendo mejores condiciones de salud y pensiones. Trabajadores, estudiantes y oposición marchan hacia la Embajada de EE.UU. para exigir elecciones presidenciales y parlamentarias libres, mientras la presidenta interina Delcy Rodríguez cumple más de 150 días en el poder. Familiares y activistas protestan contra traslados arbitrarios de detenidos. Exigen liberación de presos políticos, mejoras salariales y un cronograma electoral claro",
     "status": "en_curso",
-    "lat": "41.3275",
-    "lng": "19.8187",
+    "lat": "10.4806",
+    "lng": "-66.9036",
     "fuentes": [
       {
-        "nombre": "EUalive / Albanian Daily News",
-        "url": "https://eualive.net/flamingo-revolution-spreads-albanian-protests-against-zvernec-development-gain-global-momentum/"
+        "nombre": "AP vía AOL",
+        "url": "https://www.aol.com/articles/protestas-elecciones-mundial-fotos-semana-070507000.html"
       },
       {
-        "nombre": "Albanian Daily News",
-        "url": "https://albaniandailynews.com/news/anti-zv-rnec-development-protests-expand-across-europe-and-north-america"
+        "nombre": "Blueprint Nigeria",
+        "url": "https://blueprint.ng/venezuelan-opposition-mobilises-nationwide-protests-over-elections-reforms/"
       },
       {
-        "nombre": "Anadolu Ajansı",
-        "url": "https://www.aa.com.tr/en/europe/protests-grow-in-albania-over-kushner-linked-tourism-project/3953944"
-      },
-      {
-        "nombre": "Democracy Now!",
-        "url": "https://www.youtube.com/watch?v=pRYLrc4DU80"
+        "nombre": "Monitoreamos",
+        "url": "https://monitoreamos.com/venezuela/familiares-y-activistas-protestan-en-la-avenida-victoria-para-exigir-informacion-sobre-trasladados-arbitrarios"
       }
     ],
-    "createdAt": "2026-06-05T19:16:46.000Z",
-    "updatedAt": "2026-06-05T22:45:17Z"
+    "createdAt": "2026-06-06T00:04:47.000Z",
+    "updatedAt": "2026-06-06T00:11:40Z"
   },
   {
-    "id": 323,
+    "id": 346,
     "seccion": "internacional",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "18:00",
-    "fecha": "2026-06-05",
-    "lugar": "París",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "12:00",
+    "fecha": "2026-06-06",
+    "lugar": "Más de 50 ciudades en 25 estados y Washington D.C.",
     "tipoAccion": "protesta",
     "organizaciones": [
-      "Manifestantes pro-palestinos",
-      "Comunidad libanesa en Francia"
+      "National Visibility Brigade",
+      "D Day Democracy Day coalition"
     ],
-    "motivo": "Protesta en París en solidaridad con Líbano y Gaza. Los manifestantes portaron banderas libanesas, palestinas e iraníes y criticaron la respuesta del gobierno francés a los conflictos regionales. Exigieron una acción más firme respecto a las situaciones en Líbano y Gaza, y expresaron preocupación por el papel y la influencia de Francia en la región",
-    "status": "finalizada",
-    "lat": "48.8566",
-    "lng": "2.3522",
+    "motivo": "Jornada nacional 'D Day Democracy Day' con manifestaciones en puentes y pasos elevados (overpasses) en todo el país. Acción pacífica de protesta pública contra el autoritarismo, las deportaciones masivas sin debido proceso, las leyes dirigidas contra las mujeres y el deterioro democrático. Los participantes sostienen carteles con mensajes coordinados, música y actividades comunitarias para hacer visible la defensa de la democracia",
+    "status": "en_curso",
+    "lat": "38.9072",
+    "lng": "-77.0369",
     "fuentes": [
       {
-        "nombre": "Moneycontrol",
-        "url": "https://www.moneycontrol.com/world/paris-protesters-rally-for-lebanon-and-gaza-criticize-france-s-middle-east-policy-videoshow-13942479.html"
+        "nombre": "Dr. Edith / Substack",
+        "url": "https://dredith3.substack.com/p/on-june-6-we-land-again-for-democracy"
+      },
+      {
+        "nombre": "Boston Pride",
+        "url": "https://www.bostonprideforthepeople.org/post/boston-s-pride-organizers-announce-theme-for-2026-pride-as-protest-since-1776"
       }
     ],
-    "createdAt": "2026-06-05T19:16:46.000Z",
-    "updatedAt": "2026-06-05T22:45:17Z"
+    "createdAt": "2026-06-06T00:04:47.000Z",
+    "updatedAt": "2026-06-06T00:11:40Z"
   },
   {
-    "id": 324,
+    "id": 347,
     "seccion": "internacional",
     "pais": "Estados Unidos",
     "bandera": "🇺🇸",
     "hora": "20:00",
-    "fecha": "2026-06-05",
-    "lugar": "50+ ciudades en 25 estados y Washington D.C.",
+    "fecha": "2026-06-06",
+    "lugar": "Múltiples ciudades en todo el país",
     "tipoAccion": "vigilia",
     "organizaciones": [
       "Seven Days in June: HEALTH IS PRIMARY",
       "Coalición de organizaciones de salud pública"
     ],
-    "motivo": "Vigilias con velas en todo el país como parte de la semana nacional de acción 'Seven Days in June: HEALTH IS PRIMARY' contra los recortes de más de $1 billón en atención médica incluidos en H.R.1. Las vigilias honran las vidas perdidas y reconocen a los millones más en riesgo si los recortes avanzan. La fecha marca 45 años desde el primer informe de los CDC que documentó los casos que se conocerían como VIH/SIDA. Incluye también reuniones comunitarias, foros, marchas y servicios interreligiosos en más de 50 ciudades",
+    "motivo": "Vigilias con velas como parte de la semana nacional de acción 'Seven Days in June: HEALTH IS PRIMARY' contra los recortes de más de $1 billón en atención médica incluidos en H.R.1. Las vigilias honran las vidas perdidas y reconocen a los millones más en riesgo si los recortes avanzan. Incluye reuniones comunitarias, foros, marchas y servicios interreligiosos en más de 50 ciudades",
     "status": "en_curso",
     "lat": "38.9072",
     "lng": "-77.0369",
@@ -595,296 +532,7 @@
         "url": "https://www.prnewswire.com/news-releases/seven-days-in-june-health-is-primary-mobilizes-communities-against-1-trillion-in-healthcare-cuts-with-100-events-planned-in-50-cities-across-25-states-and-dc-302785689.html"
       }
     ],
-    "createdAt": "2026-06-05T19:16:46.000Z",
-    "updatedAt": "2026-06-05T22:45:17Z"
-  },
-  {
-    "id": 325,
-    "seccion": "internacional",
-    "pais": "Suiza",
-    "bandera": "🇨🇭",
-    "hora": "12:00",
-    "fecha": "2026-06-05",
-    "lugar": "Ginebra, Place des Nations (frente a la sede de la ONU)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "CFDT",
-      "CGT",
-      "UNSA",
-      "Solidaires",
-      "FSU",
-      "Organizaciones de la diáspora iraní"
-    ],
-    "motivo": "Concentración frente a la sede de la ONU en Ginebra durante la conferencia anual de la Organización Internacional del Trabajo (OIT) para denunciar la presencia de representantes de la República Islámica de Irán. Exigen el fin de las ejecuciones en Irán, la liberación de presos políticos, el respeto a los derechos de los trabajadores y las libertades civiles, y denuncian la guerra en curso",
-    "status": "finalizada",
-    "lat": "46.2226",
-    "lng": "6.1383",
-    "fuentes": [
-      {
-        "nombre": "Europe Solidaire Sans Frontières",
-        "url": "https://europe-solidaire.org/spip.php?article78877="
-      }
-    ],
-    "createdAt": "2026-06-05T19:16:46.000Z",
-    "updatedAt": "2026-06-05T22:45:17Z"
-  },
-  {
-    "id": 326,
-    "seccion": "internacional",
-    "pais": "Hungría",
-    "bandera": "🇭🇺",
-    "hora": "17:00",
-    "fecha": "2026-06-05",
-    "lugar": "Budapest, Kodály körönd → Kossuth Square (frente al Parlamento)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Fidesz",
-      "Mi Hazánk (Movimiento Nuestra Patria)",
-      "Ciudadanos patrióticos convocados por redes sociales"
-    ],
-    "motivo": "Protesta 'Marcha Pacífica contra el Pacto Migratorio' de la UE. Alrededor de 1.000 manifestantes marcharon desde Kodály körönd hasta la Plaza Kossuth. El primer ministro Péter Magyar salió al balcón y fue abucheado. Rechazan el Pacto Migratorio de la UE que entra en vigor el 12 de junio de 2026, que obliga a los estados miembros a aceptar cuotas de migrantes o pagar compensaciones financieras. Exigen que Hungría mantenga el control soberano de sus fronteras. Se entregó una petición con más de 2.400 firmas",
-    "status": "finalizada",
-    "lat": "47.4979",
-    "lng": "19.0402",
-    "fuentes": [
-      {
-        "nombre": "Daily News Hungary",
-        "url": "https://dailynewshungary.com/migration-protest-magyar-boo-heart/"
-      },
-      {
-        "nombre": "Hungary Today",
-        "url": "https://hungarytoday.hu/traitor-thousands-march-against-peter-magyars-betrayal-with-the-migration-pact/"
-      },
-      {
-        "nombre": "Memesita / Index.hu",
-        "url": "https://www.memesita.com/a-migracios-paktum-ellen-tuntettek-budapesten-magyar-peter-az-erkelyrol-tapsolta-meg-a-resztvevoket/"
-      }
-    ],
-    "createdAt": "2026-06-05T21:07:13.000Z",
-    "updatedAt": "2026-06-05T22:45:17Z"
-  },
-  {
-    "id": 327,
-    "seccion": "internacional",
-    "pais": "Bélgica",
-    "bandera": "🇧🇪",
-    "hora": "13:00",
-    "fecha": "2026-06-05",
-    "lugar": "Bruselas, centro (frente al Parlamento de la Fédération Wallonie-Bruxelles, Gare Centrale, Marolles)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Sindicatos de enseñanza de la FWB (CGSP-Enseignement, SETCa, CSC)",
-      "Estudiantes y colectivos sociales"
-    ],
-    "motivo": "Segundo día de protestas masivas del sector educativo contra el 'décret programme 2' del gobierno Azur (MR-Engagés) en la Fédération Wallonie-Bruxelles. El viernes 5 de junio, dos grupos se congregaron desde las 13:00 frente al parlamento y la Gare Centrale. La policía cargó y lanzó gases lacrimógenos contra manifestantes, incluyendo menores. 14 personas detenidas (6 mayores, 8 menores). Denuncian recortes presupuestarios, aumento de carga docente, eliminación de comidas gratuitas para alumnos desfavorecidos y deterioro de la educación pública",
-    "status": "finalizada",
-    "lat": "50.8467",
-    "lng": "4.3525",
-    "fuentes": [
-      {
-        "nombre": "La Libre Belgique",
-        "url": "https://www.lalibre.be/belgique/judiciaire/2026/06/05/nasse-policiere-eleves-gazes-enseignants-matraques-deux-jours-sous-haute-tension-a-bruxelles-GAOCHBHKWVHTPMNC7WSXIBEOZA/"
-      },
-      {
-        "nombre": "La DH/Les Sports+",
-        "url": "https://www.dhnet.be/actu/belgique/2026/06/04/direct-enseignement-eleves-et-professeurs-se-mobilisent-a-quelques-heures-du-vote-du-decret-programme-SUPVXEA5DVGU3MW2GXQDMQSKNY/"
-      },
-      {
-        "nombre": "L'Avenir",
-        "url": "https://www.lavenir.net/actu/societe/2026/06/04/manifestation-des-enseignants-a-bruxelles-des-milliers-de-personnes-dans-les-rues-contre-le-gouvernement-azur-des-degats-sont-a-deplorer-V7LMLZVMGRCITL3XLS5RAPOBLI/"
-      }
-    ],
-    "createdAt": "2026-06-05T21:07:13.000Z",
-    "updatedAt": "2026-06-05T22:45:17Z"
-  },
-  {
-    "id": 328,
-    "seccion": "internacional",
-    "pais": "Canadá",
-    "bandera": "🇨🇦",
-    "hora": "12:00",
-    "fecha": "2026-06-05",
-    "lugar": "Quebec, desde el Musée national des beaux-arts du Québec hasta la Assemblée nationale",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Coalition Main Rouge",
-      "Sindicatos (CSN, FTQ, CSQ)",
-      "Grupos comunitarios y estudiantiles"
-    ],
-    "motivo": "Manifestación unitaria 'Demain mérite mieux' por el fin de los trabajos parlamentarios y en vísperas de la campaña electoral 2026. Marcha desde el Museo de Bellas Artes hasta la Asamblea Nacional de Quebec. Exigen mayor justicia fiscal, reinversiones masivas en servicios públicos, programas sociales y acción comunitaria autónoma, y el pleno respeto de los derechos y libertades democráticas. Rechazan las políticas de austeridad y neoliberalismo del gobierno de la CAQ de la primera ministra Christine Fréchette",
-    "status": "finalizada",
-    "lat": "46.8033",
-    "lng": "-71.2300",
-    "fuentes": [
-      {
-        "nombre": "CCMM-CSN",
-        "url": "https://www.ccmm-csn.qc.ca/evenements/manifestation-unitaire-pour-la-fin-des-travaux-parlementaires/"
-      },
-      {
-        "nombre": "Résistance Montréal",
-        "url": "https://www.resistancemontreal.org/event/7277"
-      }
-    ],
-    "createdAt": "2026-06-05T21:07:13.000Z",
-    "updatedAt": "2026-06-05T22:45:17Z"
-  },
-  {
-    "id": 329,
-    "seccion": "internacional",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "20:00",
-    "fecha": "2026-06-05",
-    "lugar": "Madrid, Embajada de EE.UU. (Calle Serrano, 75)",
-    "tipoAccion": "vigilia",
-    "organizaciones": [
-      "Movimiento de Solidaridad con la Revolución Cubana en Madrid",
-      "Movimiento Estatal de Solidaridad con Cuba (MESC)"
-    ],
-    "motivo": "Vigilia #PetróleoPaCuba frente a la Embajada de EE.UU. en Madrid contra el bloqueo energético y la política de agresión económica y militar contra Cuba. Decenas de personas denunciaron el 'estrangulamiento energético sin precedentes' provocado por las órdenes ejecutivas de Donald Trump. Exigen el fin del bloqueo, la defensa de la soberanía cubana y el cese de las sanciones internacionales. La protesta se enmarca en una campaña internacional del 30 de mayo al 7 de junio frente a sedes diplomáticas estadounidenses",
-    "status": "finalizada",
-    "lat": "40.4168",
-    "lng": "-3.7038",
-    "fuentes": [
-      {
-        "nombre": "Europa Press",
-        "url": "https://www.europapress.es/nacional/noticia-decenas-personas-movilizan-frente-embajada-estados-unidos-denunciar-bloqueo-ahoga-cuba-20260605223108.html"
-      },
-      {
-        "nombre": "Cuba Información",
-        "url": "https://www.cubainformacion.tv/solidaridad/20260529/123067/123067-petroleopacuba-convocan-para-el-5-de-junio-una-vigilia-ante-la-embajada-de-ee-uu-en-madrid-para-exigir-el-fin-del-bloqueo-energetico-a-cuba"
-      },
-      {
-        "nombre": "Mundo Obrero",
-        "url": "https://mundoobrero.es/2026/05/30/concentracion-el-5-de-junio-frente-a-la-embajada-de-ee-uu-en-madrid-para-denunciar-el-bloqueo-energetico-contra-cuba/"
-      }
-    ],
-    "createdAt": "2026-06-05T21:07:13.000Z",
-    "updatedAt": "2026-06-05T22:45:17Z"
-  },
-  {
-    "id": 330,
-    "seccion": "internacional",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "20:00",
-    "fecha": "2026-06-05",
-    "lugar": "Valencia, Consulado de EE.UU. (C/ Dr. Romagosa, 1)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Asociación Valenciana de Amistad con Cuba José Martí",
-      "Rumbo a Cuba",
-      "Plataforma Bolivariana del País Valencià Hugo Chávez"
-    ],
-    "motivo": "Concentración frente al Consulado de EE.UU. en Valencia contra el bloqueo energético a Cuba y la política de agresión económica y militar de Washington. Exigen el fin de las medidas coercitivas que afectan el acceso a combustibles, electricidad y recursos esenciales para la vida cotidiana en Cuba. En el marco de la campaña internacional #PetróleoPaCuba, #LetCubaLive y #CubaNoEstaSola, del 30 de mayo al 7 de junio. Denuncian las órdenes ejecutivas de Trump del 29 de enero y 1 de mayo que endurecieron el bloqueo",
-    "status": "finalizada",
-    "lat": "39.4699",
-    "lng": "-0.3763",
-    "fuentes": [
-      {
-        "nombre": "Prensa Latina",
-        "url": "https://www.prensa-latina.cu/2026/06/01/valencia-y-madrid-se-suman-a-manifestaciones-por-cuba/"
-      },
-      {
-        "nombre": "Cuba Información",
-        "url": "https://www.cubainformacion.tv/solidaridad/20260601/123127/123127-valencia-se-plantara-contra-el-bloqueo-petrolero-y-en-defensa-de-la-soberania-y-la-paz-en-cuba-frente-al-consulado-de-eeuu-el-proximo-5-de-junio"
-      }
-    ],
-    "createdAt": "2026-06-05T21:07:13.000Z",
-    "updatedAt": "2026-06-05T22:45:17Z"
-  },
-  {
-    "id": 331,
-    "seccion": "internacional",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "00:01",
-    "fecha": "2026-06-05",
-    "lugar": "Todo el territorio francés (funcionarios territoriales)",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "FSU Territoriale"
-    ],
-    "motivo": "Inicio del preaviso de huelga nacional de la FSU Territoriale del 5 al 30 de junio de 2026. Más de 850.000 agentes de la función pública territorial pueden secundar la huelga. Exigen medidas salariales de urgencia: revalorización de regímenes indemnizatorios, extensión del teletrabajo, reembolso de gastos kilométricos, atribución uniforme de 80 puntos (+400 € mensuales) en la grilla indiciaria, revalorización de al menos el 20% del valor del punto de índice y su indexación al IPC. Denuncian que la guerra en Irán y la crisis energética han disparado los precios de los combustibles",
-    "status": "en_curso",
-    "lat": "48.8566",
-    "lng": "2.3522",
-    "fuentes": [
-      {
-        "nombre": "Imazpress / FSU Territoriale",
-        "url": "https://imazpress.com/courrier-des-lecteurs/preavis-de-greve-national-du-5-au-30-juin-2026"
-      }
-    ],
-    "createdAt": "2026-06-05T21:07:13.000Z",
-    "updatedAt": "2026-06-05T22:45:17Z"
-  },
-  {
-    "id": 332,
-    "seccion": "internacional",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "10:00",
-    "fecha": "2026-06-05",
-    "lugar": "París, Tribunal Judicial de París (Porte de Clichy)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Colectivos de apoyo a la causa palestina",
-      "Activistas pro-derechos humanos"
-    ],
-    "motivo": "Concentración de apoyo a Teba y a los activistas procesados por su movilización en favor de Palestina. Los manifestantes portaron banderas palestinas y pancartas de apoyo frente al Tribunal Judicial de París. Denuncian la criminalización del apoyo al pueblo palestino y exigen el abandono de los procesos judiciales contra los defensores de la causa palestina en Francia",
-    "status": "finalizada",
-    "lat": "48.8940",
-    "lng": "2.3140",
-    "fuentes": [
-      {
-        "nombre": "Yeni Şafak",
-        "url": "https://www.yenisafak.com/fr/gallery/international/manifestation-de-soutien-a-teba-devant-le-tribunal-de-paris-57090"
-      }
-    ],
-    "createdAt": "2026-06-05T21:07:13.000Z",
-    "updatedAt": "2026-06-05T22:45:17Z"
-  },
-  {
-    "id": 333,
-    "seccion": "internacional",
-    "pais": "República Democrática del Congo",
-    "bandera": "🇨🇩",
-    "hora": "08:00",
-    "fecha": "2026-06-05",
-    "lugar": "Kinshasa, Palais du Peuple. Puntos de partida: 1ª Rue Limete Cohydro y Molard Circle",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Coalition Citoyenne pour la Nation (CCN)",
-      "Confesiones religiosas",
-      "Organizaciones de la sociedad civil"
-    ],
-    "motivo": "Gran marcha ciudadana en favor de la reforma constitucional en Kinshasa. Los manifestantes partieron desde la 1ª Rue Limete Cohydro y Molard Circle hasta el Palais du Peuple, sede del Parlamento. Defienden la necesidad de reformar la Constitución de 2006, argumentando que presenta debilidades estructurales que deben ser abordadas. La marcha fue organizada por la Coalición Ciudadana por la Nación (CCN) con apoyo de diversas confesiones religiosas y organizaciones cívicas. La oposición (C64) califica la iniciativa de 'golpe de Estado constitucional' y planea presentar una denuncia contra el presidente Félix Tshisekedi el 9 de junio. Previamente, la oposición realizó una jornada de 'ville morte' el 3 de junio",
-    "status": "finalizada",
-    "lat": "-4.3250",
-    "lng": "15.3222",
-    "fuentes": [
-      {
-        "nombre": "U.S. Embassy Kinshasa / allAfrica",
-        "url": "https://allafrica.com/stories/202606020412.html"
-      },
-      {
-        "nombre": "Congo Guardian",
-        "url": "https://congoguardian.com/2026/06/04/rdc-la-ccn-annonce-une-grande-marche-en-faveur-de-la-reforme-constitutionnelle-ce-vendredi-a-kinshasa"
-      },
-      {
-        "nombre": "XtraAfrica",
-        "url": "https://www.xtrafrica.com/news/katumbi-strike-against-drc-constitution-reform"
-      },
-      {
-        "nombre": "7sur7.cd",
-        "url": "https://mail.7sur7.cd/2026/06/05/rdc-la-c64-annonce-une-plainte-contre-tshisekedi-et-un-rassemblement-devant-le-palais-du"
-      },
-      {
-        "nombre": "Arcfyre International (X/GSOC Alert)",
-        "url": "https://x.com/Arcfyre_Intl/status/2061352655679590592"
-      }
-    ],
-    "createdAt": "2026-06-05T22:41:03.000Z",
-    "updatedAt": "2026-06-05T22:45:17Z"
+    "createdAt": "2026-06-06T00:04:47.000Z",
+    "updatedAt": "2026-06-06T00:11:40Z"
   }
 ]
