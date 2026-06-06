@@ -1,49 +1,5 @@
 [
   {
-    "id": 500,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "17:00",
-    "fecha": "2026-06-06",
-    "lugar": "Plaza de Mayo, CABA. Réplicas en plazas centrales de todo el país",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Adolfo Pérez Esquivel (Premio Nobel de la Paz)",
-      "Mesa Ecuménica por la democracia, la vida y el bien común",
-      "CTA de los Trabajadores (Hugo Yasky)",
-      "CTA Autónoma (Hugo 'Cachorro' Godoy)"
-    ],
-    "motivo": "5° día del ayuno nacional de 8 días en Plaza de Mayo contra las políticas del gobierno de Javier Milei. Bajo el lema 'Jornada de ayuno y oración para despertar las conciencias', denuncian el crecimiento del hambre, la exclusión, la violencia y el deterioro social. Réplicas en plazas centrales del interior con organizaciones ecuménicas, sociales y de derechos humanos. Acto de cierre el 9 de junio. Participan Peteco Carabajal y Bruno Arias",
-    "status": "en_curso",
-    "lat": "-34.6083",
-    "lng": "-58.3719",
-    "fuentes": [
-      {
-        "nombre": "Infobae",
-        "url": "https://www.infobae.com/politica/2026/05/31/perez-esquivel-y-las-cta-convocaron-a-un-ayuno-nacional-de-ocho-dias-en-plaza-de-mayo-contra-el-gobierno/"
-      },
-      {
-        "nombre": "CTA Autónoma",
-        "url": "https://ctaa.org.ar/comenzo-el-ayuno-para-despertar-conciencias-en-plaza-de-mayo/"
-      },
-      {
-        "nombre": "El Argentino Diario",
-        "url": "https://elargentinodiario.com.ar/politica/03/06/2026/nobel-perez-esquivel-ayuna-en-plaza-de-mayo-esto-va-a-cambiar-cuando-el-pueblo-diga-basta/"
-      },
-      {
-        "nombre": "Resumen Latinoamericano",
-        "url": "https://www.resumenlatinoamericano.org/2026/05/30/argentina-perez-esquivel-impulsa-una-semana-de-ayuno-como-protesta-contra-el-gobierno-de-milei"
-      },
-      {
-        "nombre": "Infobae / EFE",
-        "url": "https://www.infobae.com/america/agencias/2026/06/05/religiosos-activistas-y-el-nobel-perez-esquivel-se-unen-en-ayuno-y-oracion-contra-milei/"
-      }
-    ],
-    "createdAt": "2026-06-05T03:36:31.000Z",
-    "updatedAt": "2026-06-06T10:09:21Z"
-  },
-  {
     "id": 334,
     "seccion": "internacional",
     "pais": "Bolivia",
@@ -77,10 +33,14 @@
       {
         "nombre": "Prensa Latina",
         "url": "https://www.prensa-latina.cu/2026/06/01/bolivia-inicia-junio-con-mas-de-90-puntos-de-bloqueo"
+      },
+      {
+        "nombre": "Infobae",
+        "url": "https://www.infobae.com/america/agencias/2026/06/06/la-coalicion-escudo-de-las-americas-reitera-su-apoyo-a-bolivia-ante-los-bloqueos-y-protestas/"
       }
     ],
     "createdAt": "2026-06-06T00:04:47.000Z",
-    "updatedAt": "2026-06-06T10:09:21Z"
+    "updatedAt": "2026-06-06T11:58:07Z"
   },
   {
     "id": 335,
@@ -117,7 +77,7 @@
       }
     ],
     "createdAt": "2026-06-06T00:04:47.000Z",
-    "updatedAt": "2026-06-06T10:09:21Z"
+    "updatedAt": "2026-06-06T11:58:07Z"
   },
   {
     "id": 336,
@@ -160,7 +120,7 @@
       }
     ],
     "createdAt": "2026-06-06T00:04:47.000Z",
-    "updatedAt": "2026-06-06T10:09:21Z"
+    "updatedAt": "2026-06-06T11:58:07Z"
   },
   {
     "id": 337,
@@ -206,10 +166,18 @@
       {
         "nombre": "Free Press Journal",
         "url": "https://www.freepressjournal.in/india/gen-z-takes-over-jantar-mantar-as-youth-raise-godi-media-slogans-at-cockroach-janata-party-protest-video"
+      },
+      {
+        "nombre": "The Hindu",
+        "url": "https://www.thehindu.com/news/national/cockroach-janta-party-abhijeet-dipke-cjp-protest-in-delhi-jantar-mantar-live-updates-june-6-2026/article71068317.ece"
+      },
+      {
+        "nombre": "Economic Times",
+        "url": "https://economictimes.indiatimes.com/news/politics-and-nation/you-can-delete-our-posts-not-our-voices-cjp-founder-dipke-leads-jantar-mantar-protest-demanding-dharmendra-pradhans-resignation/articleshow/131546713.cms"
       }
     ],
     "createdAt": "2026-06-06T00:04:47.000Z",
-    "updatedAt": "2026-06-06T10:09:21Z"
+    "updatedAt": "2026-06-06T11:58:07Z"
   },
   {
     "id": 338,
@@ -246,7 +214,7 @@
       }
     ],
     "createdAt": "2026-06-06T00:04:47.000Z",
-    "updatedAt": "2026-06-06T10:09:21Z"
+    "updatedAt": "2026-06-06T11:58:07Z"
   },
   {
     "id": 339,
@@ -283,7 +251,7 @@
       }
     ],
     "createdAt": "2026-06-06T00:04:47.000Z",
-    "updatedAt": "2026-06-06T10:09:21Z"
+    "updatedAt": "2026-06-06T11:58:07Z"
   },
   {
     "id": 340,
@@ -318,7 +286,7 @@
       }
     ],
     "createdAt": "2026-06-06T00:04:47.000Z",
-    "updatedAt": "2026-06-06T10:09:21Z"
+    "updatedAt": "2026-06-06T11:58:07Z"
   },
   {
     "id": 341,
@@ -355,7 +323,7 @@
       }
     ],
     "createdAt": "2026-06-06T00:04:47.000Z",
-    "updatedAt": "2026-06-06T10:09:21Z"
+    "updatedAt": "2026-06-06T11:58:07Z"
   },
   {
     "id": 342,
@@ -364,7 +332,7 @@
     "bandera": "🇪🇸",
     "hora": "12:00",
     "fecha": "2026-06-06",
-    "lugar": "Valencia y Alicante. Puntos de concentración en plazas centrales de ambas ciudades",
+    "lugar": "Valencia, Alicante, Santiago de Compostela, A Coruña, Santander. Movilizaciones coordinadas en toda España",
     "tipoAccion": "protesta",
     "organizaciones": [
       "Sindicato de Inquilinas",
@@ -387,10 +355,22 @@
       {
         "nombre": "AP / ABC News",
         "url": "https://abcnews.com/International/wireStory/thousands-spains-capital-protest-increasing-housing-costs-133264610"
+      },
+      {
+        "nombre": "El Correo Gallego",
+        "url": "https://www.elcorreogallego.es/galicia/2026/06/06/galicia-abismo-vivienda-nosa-casa-131093816.html"
+      },
+      {
+        "nombre": "Postureo Cántabro",
+        "url": "https://postureocantabro.com/modificacion-recorrido-lineas-autobus-manifestacion-6-junio-2026/"
+      },
+      {
+        "nombre": "Briega.org",
+        "url": "https://www.briega.org/es/evento/vivienda-nos-cuesta-vida-movilizate-por-cantabria-para-vivir-sab-06062026-1200"
       }
     ],
     "createdAt": "2026-06-06T00:04:47.000Z",
-    "updatedAt": "2026-06-06T10:09:21Z"
+    "updatedAt": "2026-06-06T11:58:07Z"
   },
   {
     "id": 344,
@@ -424,7 +404,7 @@
       }
     ],
     "createdAt": "2026-06-06T00:04:47.000Z",
-    "updatedAt": "2026-06-06T10:09:21Z"
+    "updatedAt": "2026-06-06T11:58:07Z"
   },
   {
     "id": 346,
@@ -454,7 +434,7 @@
       }
     ],
     "createdAt": "2026-06-06T00:04:47.000Z",
-    "updatedAt": "2026-06-06T10:09:21Z"
+    "updatedAt": "2026-06-06T11:58:07Z"
   },
   {
     "id": 347,
@@ -480,7 +460,7 @@
       }
     ],
     "createdAt": "2026-06-06T00:04:47.000Z",
-    "updatedAt": "2026-06-06T10:09:21Z"
+    "updatedAt": "2026-06-06T11:58:07Z"
   },
   {
     "id": 348,
@@ -511,10 +491,14 @@
       {
         "nombre": "Yonhap News",
         "url": "https://en.yna.co.kr/view/AEN20260604001551315"
+      },
+      {
+        "nombre": "Swissinfo",
+        "url": "https://www.swissinfo.ch/spa/miles-de-personas-exigen-en-se%C3%BAl-repetir-las-elecciones-locales-por-la-falta-de-papeletas/91539013"
       }
     ],
     "createdAt": "2026-06-06T00:04:47.000Z",
-    "updatedAt": "2026-06-06T10:09:21Z"
+    "updatedAt": "2026-06-06T11:58:07Z"
   },
   {
     "id": 349,
@@ -539,7 +523,7 @@
       }
     ],
     "createdAt": "2026-06-06T00:04:47.000Z",
-    "updatedAt": "2026-06-06T10:09:21Z"
+    "updatedAt": "2026-06-06T11:58:07Z"
   },
   {
     "id": 350,
@@ -570,7 +554,7 @@
       }
     ],
     "createdAt": "2026-06-06T00:04:47.000Z",
-    "updatedAt": "2026-06-06T10:09:21Z"
+    "updatedAt": "2026-06-06T11:58:07Z"
   },
   {
     "id": 351,
@@ -623,7 +607,7 @@
       }
     ],
     "createdAt": "2026-06-06T00:04:47.000Z",
-    "updatedAt": "2026-06-06T10:09:21Z"
+    "updatedAt": "2026-06-06T11:58:07Z"
   },
   {
     "id": 352,
@@ -657,7 +641,7 @@
       }
     ],
     "createdAt": "2026-06-06T00:04:47.000Z",
-    "updatedAt": "2026-06-06T10:09:21Z"
+    "updatedAt": "2026-06-06T11:58:07Z"
   },
   {
     "id": 353,
@@ -698,7 +682,7 @@
       }
     ],
     "createdAt": "2026-06-06T00:04:47.000Z",
-    "updatedAt": "2026-06-06T10:09:21Z"
+    "updatedAt": "2026-06-06T11:58:07Z"
   },
   {
     "id": 354,
@@ -728,7 +712,7 @@
       }
     ],
     "createdAt": "2026-06-06T00:04:47.000Z",
-    "updatedAt": "2026-06-06T10:09:21Z"
+    "updatedAt": "2026-06-06T11:58:07Z"
   },
   {
     "id": 355,
@@ -755,7 +739,7 @@
       }
     ],
     "createdAt": "2026-06-06T10:01:59.000Z",
-    "updatedAt": "2026-06-06T10:09:21Z"
+    "updatedAt": "2026-06-06T11:58:07Z"
   },
   {
     "id": 356,
@@ -785,7 +769,55 @@
       }
     ],
     "createdAt": "2026-06-06T10:01:59.000Z",
-    "updatedAt": "2026-06-06T10:09:21Z"
+    "updatedAt": "2026-06-06T11:58:07Z"
+  },
+  {
+    "id": 500,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "17:00",
+    "fecha": "2026-06-06",
+    "lugar": "Plaza de Mayo, CABA. Réplicas en plazas centrales de todo el país",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Adolfo Pérez Esquivel (Premio Nobel de la Paz)",
+      "Mesa Ecuménica por la democracia, la vida y el bien común",
+      "CTA de los Trabajadores (Hugo Yasky)",
+      "CTA Autónoma (Hugo 'Cachorro' Godoy)"
+    ],
+    "motivo": "5° día del ayuno nacional de 8 días en Plaza de Mayo contra las políticas del gobierno de Javier Milei. Bajo el lema 'Jornada de ayuno y oración para despertar las conciencias', denuncian el crecimiento del hambre, la exclusión, la violencia y el deterioro social. Réplicas en plazas centrales del interior con organizaciones ecuménicas, sociales y de derechos humanos. Acto de cierre el 9 de junio. Participan Peteco Carabajal y Bruno Arias",
+    "status": "en_curso",
+    "lat": "-34.6083",
+    "lng": "-58.3719",
+    "fuentes": [
+      {
+        "nombre": "Infobae",
+        "url": "https://www.infobae.com/politica/2026/05/31/perez-esquivel-y-las-cta-convocaron-a-un-ayuno-nacional-de-ocho-dias-en-plaza-de-mayo-contra-el-gobierno/"
+      },
+      {
+        "nombre": "CTA Autónoma",
+        "url": "https://ctaa.org.ar/comenzo-el-ayuno-para-despertar-conciencias-en-plaza-de-mayo/"
+      },
+      {
+        "nombre": "El Argentino Diario",
+        "url": "https://elargentinodiario.com.ar/politica/03/06/2026/nobel-perez-esquivel-ayuna-en-plaza-de-mayo-esto-va-a-cambiar-cuando-el-pueblo-diga-basta/"
+      },
+      {
+        "nombre": "Resumen Latinoamericano",
+        "url": "https://www.resumenlatinoamericano.org/2026/05/30/argentina-perez-esquivel-impulsa-una-semana-de-ayuno-como-protesta-contra-el-gobierno-de-milei"
+      },
+      {
+        "nombre": "Infobae / EFE",
+        "url": "https://www.infobae.com/america/agencias/2026/06/05/religiosos-activistas-y-el-nobel-perez-esquivel-se-unen-en-ayuno-y-oracion-contra-milei/"
+      },
+      {
+        "nombre": "Política Argentina",
+        "url": "https://www.politicargentina.com/notas/202606/74143-perez-esquivel-convoco-a-un-ayuno-en-plaza-de-mayo-contra-las-politicas-de-milei.html"
+      }
+    ],
+    "createdAt": "2026-06-05T03:36:31.000Z",
+    "updatedAt": "2026-06-06T11:58:07Z"
   },
   {
     "id": 501,
@@ -801,7 +833,7 @@
       "Biblioteca Popular Infanto Juvenil"
     ],
     "motivo": "Festifeminista 6J — jornada cultural feminista en el marco del Ni Una Menos 2026. Velada artística con música en vivo, poesía, intervenciones culturales, taller de collage, olla popular y feria. Exigen justicia por los femicidios, denuncian el antifeminismo de Estado del gobierno de Javier Milei y el desmantelamiento de políticas de género",
-    "status": "convocado",
+    "status": "en_curso",
     "lat": "-53.7860",
     "lng": "-67.7080",
     "fuentes": [
@@ -811,6 +843,67 @@
       }
     ],
     "createdAt": "2026-06-06T10:05:17.000Z",
-    "updatedAt": "2026-06-06T10:09:21Z"
+    "updatedAt": "2026-06-06T11:58:07Z"
+  },
+  {
+    "id": 502,
+    "seccion": "internacional",
+    "pais": "Bangladesh",
+    "bandera": "🇧🇩",
+    "hora": "11:00",
+    "fecha": "2026-06-06",
+    "lugar": "Dhaka, National Press Club",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Socialist Party of Bangladesh (Marxist)"
+    ],
+    "motivo": "Rally contra el aumento del precio de la electricidad y los combustibles. Exigen la retirada del incremento tarifario que agrava el sufrimiento de la población",
+    "status": "en_curso",
+    "lat": "23.7270",
+    "lng": "90.4100",
+    "fuentes": [
+      {
+        "nombre": "New Age BD",
+        "url": "https://www.newagebd.net/post/politics/301734/protests-against-power-price-hike-continue"
+      }
+    ],
+    "createdAt": "2026-06-06T11:52:18.000Z",
+    "updatedAt": "2026-06-06T11:58:07Z"
+  },
+  {
+    "id": 503,
+    "seccion": "internacional",
+    "pais": "España",
+    "bandera": "🇪🇸",
+    "hora": "12:00",
+    "fecha": "2026-06-06",
+    "lugar": "Santiago de Compostela (Parlamento de Galicia), A Coruña, Santander",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Xuntanza Pola Vivenda Compostela",
+      "Sindicato de Barrio da Falperra-Os Mallos",
+      "Sindicato de Inquilinas de Vigo",
+      "Plataforma por la Vivienda Digna"
+    ],
+    "motivo": "Protestas por el derecho a la vivienda contra el encarecimiento de los alquileres y la especulación inmobiliaria en Galicia y Cantabria. Más de mil personas en Santiago bajo el lema \"A nosa casa non é un negocio\". Exigen reforma de la LAU, limitación de precios, expropiación de viviendas de fondos de inversión y fin del alquiler temporal",
+    "status": "en_curso",
+    "lat": "42.8782",
+    "lng": "-8.5448",
+    "fuentes": [
+      {
+        "nombre": "El Correo Gallego",
+        "url": "https://www.elcorreogallego.es/galicia/2026/06/06/galicia-abismo-vivienda-nosa-casa-131093816.html"
+      },
+      {
+        "nombre": "Postureo Cántabro",
+        "url": "https://postureocantabro.com/modificacion-recorrido-lineas-autobus-manifestacion-6-junio-2026/"
+      },
+      {
+        "nombre": "Briega.org",
+        "url": "https://www.briega.org/es/evento/vivienda-nos-cuesta-vida-movilizate-por-cantabria-para-vivir-sab-06062026-1200"
+      }
+    ],
+    "createdAt": "2026-06-06T11:52:18.000Z",
+    "updatedAt": "2026-06-06T11:58:07Z"
   }
 ]
