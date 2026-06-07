@@ -44,7 +44,7 @@
       }
     ],
     "createdAt": "2026-06-06T00:04:47.000Z",
-    "updatedAt": "2026-06-07T10:30:50Z"
+    "updatedAt": "2026-06-07T12:12:31Z"
   },
   {
     "id": 335,
@@ -58,7 +58,7 @@
     "organizaciones": [
       "CNTE (Coordinadora Nacional de Trabajadores de la Educación)"
     ],
-    "motivo": "Día 7 de la huelga nacional indefinida de docentes. Exigen abrogación de la Ley del ISSSTE de 2007, regreso al sistema de pensiones sin Afores, aumento salarial del 100% al sueldo base y derogación de la reforma educativa. Mantienen campamento en el Zócalo. La CNTE realiza asamblea nacional este 7 de junio para definir acciones de la próxima semana, en el contexto de la inauguración del Mundial 2026 (11 de junio). Sheinbaum no ha cedido a demandas centrales. El sindicato amenaza con disruptir el Mundial si no hay solución",
+    "motivo": "Día 7 de la huelga nacional indefinida de docentes. Exigen abrogación de la Ley del ISSSTE de 2007, regreso al sistema de pensiones sin Afores, aumento salarial del 100% al sueldo base y derogación de la reforma educativa. Mantienen campamento en el Zócalo. La CNTE realiza asamblea nacional este 7 de junio para definir acciones de la próxima semana, en el contexto de la inauguración del Mundial 2026 (11 de junio). Sheinbaum no ha cedido a demandas centrales. El sindicato amenaza con disruptir el Mundial si no hay solución. El 6 de junio la Segob exhortó a la CNTE a concluir el plantón",
     "status": "en_curso",
     "lat": "19.4326",
     "lng": "-99.1332",
@@ -94,10 +94,14 @@
       {
         "nombre": "Líder Empresarial",
         "url": "https://www.liderempresarial.com/huelga-de-la-cnte-en-junio-2026-los-estados-afectados/"
+      },
+      {
+        "nombre": "Infobae",
+        "url": "https://www.infobae.com/mexico/2026/06/07/segob-exhorta-a-cnte-a-concluir-protesta-en-el-zocalo-tras-propuesta-de-sep-e-issste-maestros-podrian-intensificar-protestas-por-mundial/"
       }
     ],
     "createdAt": "2026-06-06T00:04:47.000Z",
-    "updatedAt": "2026-06-07T10:30:50Z"
+    "updatedAt": "2026-06-07T12:12:31Z"
   },
   {
     "id": 344,
@@ -131,7 +135,7 @@
       }
     ],
     "createdAt": "2026-06-06T00:04:47.000Z",
-    "updatedAt": "2026-06-07T10:30:50Z"
+    "updatedAt": "2026-06-07T12:12:31Z"
   },
   {
     "id": 513,
@@ -173,7 +177,7 @@
       }
     ],
     "createdAt": "2026-06-07T03:40:03.000Z",
-    "updatedAt": "2026-06-07T10:30:50Z"
+    "updatedAt": "2026-06-07T12:12:31Z"
   },
   {
     "id": 517,
@@ -198,7 +202,7 @@
       }
     ],
     "createdAt": "2026-06-07T07:52:43.000Z",
-    "updatedAt": "2026-06-07T10:30:50Z"
+    "updatedAt": "2026-06-07T12:12:31Z"
   },
   {
     "id": 518,
@@ -239,7 +243,7 @@
       }
     ],
     "createdAt": "2026-06-07T10:29:49.000Z",
-    "updatedAt": "2026-06-07T10:30:50Z"
+    "updatedAt": "2026-06-07T12:12:31Z"
   },
   {
     "id": 519,
@@ -268,7 +272,7 @@
       }
     ],
     "createdAt": "2026-06-07T10:29:49.000Z",
-    "updatedAt": "2026-06-07T10:30:50Z"
+    "updatedAt": "2026-06-07T12:12:31Z"
   },
   {
     "id": 520,
@@ -293,7 +297,45 @@
       }
     ],
     "createdAt": "2026-06-07T10:29:49.000Z",
-    "updatedAt": "2026-06-07T10:30:50Z"
+    "updatedAt": "2026-06-07T12:12:31Z"
+  },
+  {
+    "id": 521,
+    "seccion": "internacional",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "12:00",
+    "fecha": "2026-06-07",
+    "lugar": "Asbury Park, Nueva Jersey (City Hall → Main Street → Cookman Avenue → Grand Avenue → Sunset Avenue)",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Jersey Pride Inc.",
+      "Garden State Equality"
+    ],
+    "motivo": "34ª Celebración Estatal del Orgullo LGBTQ+ de Nueva Jersey — Desfile, festival y concierto en Asbury Park con más de 20.000 participantes asistentes. Fusión de celebración y protesta: exigen igualdad de derechos, protección de la comunidad trans, fin de la discriminación y resistencia contra las políticas del gobierno de Trump que atacan a la comunidad LGBTQ+. El evento incluye la exhibición del Monumento Conmemorativo del Sida más grande de Nueva Jersey. Se realizan en un contexto de retroceso nacional de derechos LGBTQ+ y recorte de patrocinios corporativos a eventos del Orgullo",
+    "status": "en_curso",
+    "lat": "40.2206",
+    "lng": "-74.0000",
+    "fuentes": [
+      {
+        "nombre": "Jersey Pride Oficial",
+        "url": "https://jerseypride.org/"
+      },
+      {
+        "nombre": "Asbury Park Press",
+        "url": "https://www.app.com/story/news/local/eatontown-asbury-park/asbury-park/2026/06/05/asbury-park-pride-2026-celebration-protest/90354358007/"
+      },
+      {
+        "nombre": "Out In Jersey",
+        "url": "https://outinjersey.net/events/jersey-pride-2026/"
+      },
+      {
+        "nombre": "Shore Guide",
+        "url": "https://www.shore-guide.com/events/jersey-pride/"
+      }
+    ],
+    "createdAt": "2026-06-07T12:07:59.000Z",
+    "updatedAt": "2026-06-07T12:12:31Z"
   },
   {
     "id": 515,
@@ -345,7 +387,7 @@
       }
     ],
     "createdAt": "2026-06-07T03:42:29.000Z",
-    "updatedAt": "2026-06-07T10:30:50Z"
+    "updatedAt": "2026-06-07T12:12:31Z"
   },
   {
     "id": 516,
@@ -383,6 +425,6 @@
       }
     ],
     "createdAt": "2026-06-07T03:42:29.000Z",
-    "updatedAt": "2026-06-07T10:30:50Z"
+    "updatedAt": "2026-06-07T12:12:31Z"
   }
 ]
