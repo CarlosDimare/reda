@@ -44,7 +44,7 @@
       }
     ],
     "createdAt": "2026-06-06T00:04:47.000Z",
-    "updatedAt": "2026-06-07T07:57:42Z"
+    "updatedAt": "2026-06-07T10:30:50Z"
   },
   {
     "id": 335,
@@ -90,10 +90,14 @@
       {
         "nombre": "La Razón de México",
         "url": "https://www.razon.com.mx/mexico/2026/06/06/la-cnte-amaga-con-escalar-protestas-csp-hay-dialogo-y-solo-busca-provocar"
+      },
+      {
+        "nombre": "Líder Empresarial",
+        "url": "https://www.liderempresarial.com/huelga-de-la-cnte-en-junio-2026-los-estados-afectados/"
       }
     ],
     "createdAt": "2026-06-06T00:04:47.000Z",
-    "updatedAt": "2026-06-07T07:57:42Z"
+    "updatedAt": "2026-06-07T10:30:50Z"
   },
   {
     "id": 344,
@@ -127,7 +131,7 @@
       }
     ],
     "createdAt": "2026-06-06T00:04:47.000Z",
-    "updatedAt": "2026-06-07T07:57:42Z"
+    "updatedAt": "2026-06-07T10:30:50Z"
   },
   {
     "id": 513,
@@ -169,7 +173,7 @@
       }
     ],
     "createdAt": "2026-06-07T03:40:03.000Z",
-    "updatedAt": "2026-06-07T07:57:42Z"
+    "updatedAt": "2026-06-07T10:30:50Z"
   },
   {
     "id": 517,
@@ -194,7 +198,102 @@
       }
     ],
     "createdAt": "2026-06-07T07:52:43.000Z",
-    "updatedAt": "2026-06-07T07:57:42Z"
+    "updatedAt": "2026-06-07T10:30:50Z"
+  },
+  {
+    "id": 518,
+    "seccion": "internacional",
+    "pais": "Brasil",
+    "bandera": "🇧🇷",
+    "hora": "10:00",
+    "fecha": "2026-06-07",
+    "lugar": "São Paulo, Avenida Paulista (desde MASP hasta Praça Roosevelt)",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Associação da Parada do Orgulho LGBT+ de São Paulo"
+    ],
+    "motivo": "30ª Parada do Orgulho LGBT+ de São Paulo — Marcha del Orgullo LGBTQ+ más grande del mundo en la Avenida Paulista, con entre 3 y 5 millones de participantes esperados. Exigen igualdad de derechos, visibilidad y fin de la violencia contra la comunidad LGBTQ+ en Brasil. Tema 2026: 'A rua convoca. A urna confirma'. Incluye 25 tríos eléctricos con artistas como Pabllo Vittar, Gloria Groove y Grag Queen. Brasil registra altos índices de violencia contra personas trans",
+    "status": "en_curso",
+    "lat": "-23.5610",
+    "lng": "-46.6560",
+    "fuentes": [
+      {
+        "nombre": "Parada SP Oficial",
+        "url": "https://paradasp.org.br/"
+      },
+      {
+        "nombre": "Venga Store",
+        "url": "https://venga-store.com/blogs/music-festival-blog/sao-paulo-pride-2026-complete-guide-to-the-worlds-largest-pride-parade"
+      },
+      {
+        "nombre": "Pride Latitude",
+        "url": "https://www.pridelatitude.com/blog/sao-paulo-pride-2026"
+      },
+      {
+        "nombre": "IGLTA",
+        "url": "https://www.iglta.org/event/30th-s%C3%A3o-paulo-lgbt%2B-pride-parade/3980"
+      },
+      {
+        "nombre": "AS USA",
+        "url": "https://en.as.com/latest_news/pride-month-worldwide-the-festivals-parades-and-cities-leading-the-celebration-in-2026-f202606-n/"
+      }
+    ],
+    "createdAt": "2026-06-07T10:29:49.000Z",
+    "updatedAt": "2026-06-07T10:30:50Z"
+  },
+  {
+    "id": 519,
+    "seccion": "internacional",
+    "pais": "Canadá",
+    "bandera": "🇨🇦",
+    "hora": "10:00",
+    "fecha": "2026-06-07",
+    "lugar": "Winnipeg, Manitoba (Edificio Legislativo → Memorial Boulevard → The Forks)",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Pride Winnipeg"
+    ],
+    "motivo": "Pride Winnipeg 2026 — Desfile y festival del Orgullo 2SLGBTQ+ en el centro de Winnipeg. Rally conmemorativo en el Edificio Legislativo de Manitoba a las 10:00 h, desfile a las 11:00 h por Memorial Boulevard y festival en The Forks. Bajo el lema 'Celebrate YOU'. Exigen igualdad de derechos, visibilidad y fin de la discriminación contra la comunidad queer en Manitoba",
+    "status": "en_curso",
+    "lat": "49.8951",
+    "lng": "-97.1384",
+    "fuentes": [
+      {
+        "nombre": "Pride Winnipeg",
+        "url": "https://www.pridewinnipeg.com/pride-season/2026-festival-schedule/"
+      },
+      {
+        "nombre": "Classic 107",
+        "url": "https://classic107.com/articles/pride-winnipeg-parade-and-festival-return-this-weekend"
+      }
+    ],
+    "createdAt": "2026-06-07T10:29:49.000Z",
+    "updatedAt": "2026-06-07T10:30:50Z"
+  },
+  {
+    "id": 520,
+    "seccion": "internacional",
+    "pais": "España",
+    "bandera": "🇪🇸",
+    "hora": "12:00",
+    "fecha": "2026-06-07",
+    "lugar": "A Coruña, Galicia",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "O Mural"
+    ],
+    "motivo": "Manifestación convocada por la asociación O Mural bajo el lema 'A Coruña pola beleza. Deixade pasar as ondas do mar' para exigir a la Xunta de Galicia y al Ayuntamiento de A Coruña la protección y restauración urgente de los murales de Lugrís, frescos del siglo XX declarados Bien de Interés Cultural (BIC). Los murales llevan 5 años sin mantenimiento y sufren grave deterioro por filtraciones de agua. Más de 200 personas aprobaron la protesta en asamblea el 15 de mayo",
+    "status": "en_curso",
+    "lat": "43.3700",
+    "lng": "-8.3950",
+    "fuentes": [
+      {
+        "nombre": "La Voz de Galicia",
+        "url": "https://www.lavozdegalicia.es/noticia/coruna/coruna/2026/05/15/manifestacion-7-junio-bajo-lema-coruna-pola-beleza-deixade-pasar-as-ondas-do-mar/0003_202605H15C2991.htm"
+      }
+    ],
+    "createdAt": "2026-06-07T10:29:49.000Z",
+    "updatedAt": "2026-06-07T10:30:50Z"
   },
   {
     "id": 515,
@@ -239,10 +338,14 @@
       {
         "nombre": "Página 12",
         "url": "https://www.pagina12.com.ar/2026/06/03/perez-esquivel-comenzo-un-ayuno-contra-el-hambre-del-pueblo-que-genera-milei/"
+      },
+      {
+        "nombre": "Nota al Pie",
+        "url": "https://www.notaalpie.com.ar/2026/06/03/adolfo-perez-esquivel-ayuno"
       }
     ],
     "createdAt": "2026-06-07T03:42:29.000Z",
-    "updatedAt": "2026-06-07T07:57:42Z"
+    "updatedAt": "2026-06-07T10:30:50Z"
   },
   {
     "id": 516,
@@ -280,6 +383,6 @@
       }
     ],
     "createdAt": "2026-06-07T03:42:29.000Z",
-    "updatedAt": "2026-06-07T07:57:42Z"
+    "updatedAt": "2026-06-07T10:30:50Z"
   }
 ]
