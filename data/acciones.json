@@ -5,7 +5,7 @@
     "pais": "Bolivia",
     "bandera": "🇧🇴",
     "hora": "00:01",
-    "fecha": "2026-06-06",
+    "fecha": "2026-06-07",
     "lugar": "La Paz, Cochabamba, Oruro, Potosí, Chuquisaca, Santa Cruz — más de 90 puntos de bloqueo en todo el país",
     "tipoAccion": "protesta",
     "organizaciones": [
@@ -13,7 +13,7 @@
       "Federación de Campesinos del Altiplano",
       "Sectores afines a Evo Morales"
     ],
-    "motivo": "Día 37 de protestas con bloqueos de carreteras en al menos 6 departamentos (más de 90 puntos de corte). Exigen la renuncia del presidente Rodrigo Paz y un aumento salarial del 20%. La COB mantiene las medidas. Cochabamba, La Paz, Oruro y Potosí son los más afectados. Desabastecimiento de alimentos, combustible y oxígeno medicinal. Al menos 4 fallecidos reportados. El Gobierno implementa operativos conjuntos de militares y policías para desbloquear vías",
+    "motivo": "Día 38 de protestas con bloqueos de carreteras en al menos 6 departamentos (más de 90 puntos de corte). Exigen la renuncia del presidente Rodrigo Paz y un aumento salarial del 20%. La COB mantiene las medidas. Cochabamba, La Paz, Oruro y Potosí son los más afectados. Desabastecimiento de alimentos, combustible y oxígeno medicinal. Al menos 4 fallecidos reportados. El Gobierno implementa operativos conjuntos de militares y policías para desbloquear vías",
     "status": "en_curso",
     "lat": "-16.5000",
     "lng": "-68.1500",
@@ -44,7 +44,7 @@
       }
     ],
     "createdAt": "2026-06-06T00:04:47.000Z",
-    "updatedAt": "2026-06-06T23:38:07Z"
+    "updatedAt": "2026-06-07T03:46:14Z"
   },
   {
     "id": 335,
@@ -52,13 +52,13 @@
     "pais": "México",
     "bandera": "🇲🇽",
     "hora": "09:00",
-    "fecha": "2026-06-06",
+    "fecha": "2026-06-07",
     "lugar": "Ciudad de México (Zócalo, Paseo de la Reforma). Acciones en Oaxaca, Michoacán, Chiapas, Guerrero y otros estados",
     "tipoAccion": "huelga",
     "organizaciones": [
       "CNTE (Coordinadora Nacional de Trabajadores de la Educación)"
     ],
-    "motivo": "Día 6 de la huelga nacional indefinida de docentes. Exigen abrogación de la Ley del ISSSTE de 2007, regreso al sistema de pensiones sin Afores, aumento salarial del 100% al sueldo base y derogación de la reforma educativa. Mantienen campamento en el Centro Histórico. A 5 días de la inauguración del Mundial 2026 (11 de junio). Sheinbaum no ha cedido a demandas centrales. El sindicato amenaza con disruptir el Mundial si no hay solución",
+    "motivo": "Día 7 de la huelga nacional indefinida de docentes. Exigen abrogación de la Ley del ISSSTE de 2007, regreso al sistema de pensiones sin Afores, aumento salarial del 100% al sueldo base y derogación de la reforma educativa. Mantienen campamento en el Zócalo. La CNTE realiza asamblea nacional este 7 de junio para definir acciones de la próxima semana, en el contexto de la inauguración del Mundial 2026 (11 de junio). Sheinbaum no ha cedido a demandas centrales. El sindicato amenaza con disruptir el Mundial si no hay solución",
     "status": "en_curso",
     "lat": "19.4326",
     "lng": "-99.1332",
@@ -82,10 +82,14 @@
       {
         "nombre": "DW",
         "url": "https://www.dw.com/es/el-mundial-altavoz-de-las-demandas-de-maestros-mexicanos/a-77441892"
+      },
+      {
+        "nombre": "PorEsto!",
+        "url": "https://www.poresto.com/mexico/2026/6/6/cnte-acusa-falta-de-respuesta-por-maestros-lesionados-y-alista-acciones-rumbo-al-mundial-2026.html"
       }
     ],
     "createdAt": "2026-06-06T00:04:47.000Z",
-    "updatedAt": "2026-06-06T23:38:07Z"
+    "updatedAt": "2026-06-07T03:46:14Z"
   },
   {
     "id": 336,
@@ -93,7 +97,7 @@
     "pais": "Albania",
     "bandera": "🇦🇱",
     "hora": "12:00",
-    "fecha": "2026-06-06",
+    "fecha": "2026-06-07",
     "lugar": "Vlora (Zvërnec). Acciones de solidaridad en Milán, Florencia, Londres, Nueva York y Toronto",
     "tipoAccion": "protesta",
     "organizaciones": [
@@ -101,7 +105,7 @@
       "Comunidad local de Vjosa-Narta",
       "Organizaciones de la diáspora albanesa"
     ],
-    "motivo": "Ola masiva de protestas del movimiento 'Flamingo Revolution' contra el desarrollo de un resort de lujo vinculado a Jared Kushner en el área protegida de Zvërnec-Vjosa-Narta. Manifestaciones el 6 de junio en Vlora y en varias ciudades del mundo (Milán, Florencia, Londres, Nueva York y Toronto). Las protestas en Tirana continúan por séptimo día consecutivo. Exigen la cancelación del proyecto, la protección del humedal y sus flamingos, y la renuncia del primer ministro Edi Rama. La fiscalía especial anticorrupción (SPAK) abrió una investigación sobre el proyecto",
+    "motivo": "Ola masiva de protestas del movimiento 'Flamingo Revolution' contra el desarrollo de un resort de lujo vinculado a Jared Kushner en el área protegida de Zvërnec-Vjosa-Narta. Manifestaciones continúan en Tirana y Vlora. Exigen la cancelación del proyecto, la protección del humedal y sus flamingos, y la renuncia del primer ministro Edi Rama. La fiscalía especial anticorrupción (SPAK) abrió una investigación sobre el proyecto",
     "status": "en_curso",
     "lat": "40.4660",
     "lng": "19.5000",
@@ -140,224 +144,7 @@
       }
     ],
     "createdAt": "2026-06-06T00:04:47.000Z",
-    "updatedAt": "2026-06-06T23:38:07Z"
-  },
-  {
-    "id": 337,
-    "seccion": "internacional",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "09:00",
-    "fecha": "2026-06-06",
-    "lugar": "Nueva Delhi, Jantar Mantar (Sansad Marg, Connaught Place)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "CJP (Cockroach Janta Party)"
-    ],
-    "motivo": "Protesta pacífica convocada por el CJP exigiendo la renuncia del Ministro de Educación Dharmendra Pradhan por presuntas irregularidades en los exámenes nacionales NEET-UG, CUET, CBSE y SSC GD. El fundador Abhijeet Dipke regresa de EE.UU. para liderar la protesta. Cientos de jóvenes asisten con medidas de seguridad reforzadas por la policía. Seis personas detenidas",
-    "status": "en_curso",
-    "lat": "28.6273",
-    "lng": "77.2167",
-    "fuentes": [
-      {
-        "nombre": "LiveMint",
-        "url": "https://www.livemint.com/news/india/cjp-gears-up-for-june-6-protest-at-delhis-jantar-mantar-whats-on-agenda-whos-attending-5-points-11780571236382.html"
-      },
-      {
-        "nombre": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/india-news/cjp-founder-abhijeet-dipke-to-return-from-us-to-protest-in-delhi-jantar-mantar-on-june-6-for-edu-minister-resignation-101780300679097.html"
-      },
-      {
-        "nombre": "Economic Times",
-        "url": "https://economictimes.indiatimes.com/news/new-updates/cjp-june-6-protest-whats-the-agenda-where-and-when-it-will-be-held-all-you-need-to-know/articleshow/131531321.cms"
-      },
-      {
-        "nombre": "Deccan Herald",
-        "url": "https://www.deccanchronicle.com/nation/current-affairs/060626/cockroach-janta-party-cjp-june-6-protest-delhi-jantar-mantar-live-updates.html"
-      },
-      {
-        "nombre": "India TV News",
-        "url": "https://www.indiatvnews.com/news/india/cockroach-janata-party-jantar-mantar-protest-live-updates-delhi-news-abhijeet-dipke-cjp-stir-latest-news-2026-06-06-1043832"
-      },
-      {
-        "nombre": "Malay Mail",
-        "url": "https://www.malaymail.com/news/world/2026/06/06/indian-police-deploy-steel-barricades-and-detention-vans-as-cockroach-janta-party-plans-street-protest/222747"
-      },
-      {
-        "nombre": "Free Press Journal",
-        "url": "https://www.freepressjournal.in/india/gen-z-takes-over-jantar-mantar-as-youth-raise-godi-media-slogans-at-cockroach-janata-party-protest-video"
-      },
-      {
-        "nombre": "The Hindu",
-        "url": "https://www.thehindu.com/news/national/cockroach-janta-party-abhijeet-dipke-cjp-protest-in-delhi-jantar-mantar-live-updates-june-6-2026/article71068317.ece"
-      },
-      {
-        "nombre": "Economic Times",
-        "url": "https://economictimes.indiatimes.com/news/politics-and-nation/you-can-delete-our-posts-not-our-voices-cjp-founder-dipke-leads-jantar-mantar-protest-demanding-dharmendra-pradhans-resignation/articleshow/131546713.cms"
-      },
-      {
-        "nombre": "News24",
-        "url": "https://news24online.com/india/cockroach-janta-party-cjp-protest-live-updates-delhi-jantar-mantar-abhijeet-dipke-cjp-protest-today-education-minister-dharmendra-pradhan-resignation/856826/"
-      }
-    ],
-    "createdAt": "2026-06-06T00:04:47.000Z",
-    "updatedAt": "2026-06-06T23:38:07Z"
-  },
-  {
-    "id": 339,
-    "seccion": "internacional",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
-    "hora": "11:00",
-    "fecha": "2026-06-06",
-    "lugar": "Los Ángeles, California (Edificio Federal Wilshire). Otras acciones en varias ciudades de EE.UU.",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "U.S. Hands Off Cuba Committee",
-      "CodePink Los Angeles",
-      "Black Men Build",
-      "Socialist Workers Party",
-      "National Writers Union"
-    ],
-    "motivo": "Protesta de emergencia 'No War on Cuba' contra las agresiones y amenazas militares de Estados Unidos hacia Cuba. Denuncian el recrudecimiento del bloqueo económico, las amenazas de intervención impulsadas desde Washington y las órdenes ejecutivas de Donald Trump que endurecieron el bloqueo. Exigen el fin de la escalada militar y el cese del estrangulamiento energético contra la isla. Forma parte de una campaña nacional de acción",
-    "status": "en_curso",
-    "lat": "34.0550",
-    "lng": "-118.3000",
-    "fuentes": [
-      {
-        "nombre": "Cubainformación",
-        "url": "https://www.cubainformacion.tv/solidaridad/20260603/123188/123188-no-war-on-cuba-en-los-angeles-6-de-junio-convocan-protesta-de-emergencia-contra-las-amenazas-militares-de-ee-uu-a-la-isla"
-      },
-      {
-        "nombre": "Radio HC",
-        "url": "https://www.radiohc.cu/en/no-war-on-cuba-in-los-angeles-june-6-emergency-protest-called-against-u-s-military-threats-to-the-island/"
-      },
-      {
-        "nombre": "US Hands Off Cuba Committee",
-        "url": "https://www.ushandsoffcubacommittee.com/"
-      }
-    ],
-    "createdAt": "2026-06-06T00:04:47.000Z",
-    "updatedAt": "2026-06-06T23:38:07Z"
-  },
-  {
-    "id": 340,
-    "seccion": "internacional",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
-    "hora": "10:00",
-    "fecha": "2026-06-06",
-    "lugar": "17 sucursales de Citizens Bank en Nueva Jersey, y otras sucursales en todo el país",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "De-ICE Citizens Bank Coalition",
-      "Northwest Bronx Indivisible",
-      "Movimiento nacional contra prisiones privadas"
-    ],
-    "motivo": "Jornada nacional de acción contra Citizens Bank por su financiamiento a las empresas de prisiones privadas CoreCivic y GEO Group, que operan centros de detención de ICE. Protestas simultáneas en múltiples sucursales del banco en todo el país. Exigen que Citizens Bank corte sus lazos financieros con las empresas que lucran con la detención de inmigrantes. Denuncian los abusos y muertes prevenibles en centros de detención de ICE financiados por el banco",
-    "status": "en_curso",
-    "lat": "40.7920",
-    "lng": "-74.2450",
-    "fuentes": [
-      {
-        "nombre": "NJ.com",
-        "url": "https://www.nj.com/news/2026/06/citizens-bank-faces-statewide-nj-protests-over-ice-detention-financing.html"
-      },
-      {
-        "nombre": "De-ICE Citizens Bank",
-        "url": "https://www.de-icecitizensbank.org/"
-      },
-      {
-        "nombre": "InDepth NH",
-        "url": "https://indepthnh.org/2026/06/05/national-and-local-protests-against-citizens-bank-slated-for-june-6/"
-      }
-    ],
-    "createdAt": "2026-06-06T00:04:47.000Z",
-    "updatedAt": "2026-06-06T23:38:07Z"
-  },
-  {
-    "id": 341,
-    "seccion": "internacional",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
-    "hora": "11:00",
-    "fecha": "2026-06-06",
-    "lugar": "Boston, Massachusetts (Copley Square → Boston Common)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Boston Pride for the People"
-    ],
-    "motivo": "Desfile y festival del Orgullo de Boston 2026 con el lema 'Pride as Protest: Since 1776' (El Orgullo como protesta desde 1776), conmemorando 250 años de presencia y resistencia LGBTQIA+ en la historia estadounidense. Se espera más de un millón de asistentes en el desfile desde Copley Square hasta Boston Common. El tema de este año reconoce el rol histórico de la protesta en la lucha por los derechos LGBTQIA+. Se celebra una semana antes de lo habitual debido a que Boston será sede de partidos del Mundial 2026",
-    "status": "en_curso",
-    "lat": "42.3550",
-    "lng": "-71.0650",
-    "fuentes": [
-      {
-        "nombre": "Boston Pride for the People",
-        "url": "https://www.bostonprideforthepeople.org/"
-      },
-      {
-        "nombre": "NBC Boston",
-        "url": "https://www.nbcboston.com/news/local/bostons-pride-organizers-announce-theme-for-2026-pride-as-protest-since-1776/3952116/"
-      },
-      {
-        "nombre": "MassLive",
-        "url": "https://www.masslive.com/boston/2026/06/boston-pride-2026-when-does-the-parade-start-whats-this-years-theme.html"
-      },
-      {
-        "nombre": "Hoodline",
-        "url": "https://hoodline.com/2026/06/boston-pride-parade-roars-back-saturday-with-pride-as-protest-on-the-common/"
-      }
-    ],
-    "createdAt": "2026-06-06T00:04:47.000Z",
-    "updatedAt": "2026-06-06T23:38:07Z"
-  },
-  {
-    "id": 342,
-    "seccion": "internacional",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "12:00",
-    "fecha": "2026-06-06",
-    "lugar": "Valencia, Alicante, Santiago de Compostela, A Coruña, Santander. Movilizaciones coordinadas en toda España",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Sindicato de Inquilinas",
-      "Plataforma por la Vivienda Digna",
-      "Movimiento por el Derecho a la Vivienda"
-    ],
-    "motivo": "Protestas por el derecho a la vivienda contra los precios abusivos de alquiler y la especulación inmobiliaria. Manifestaciones convocadas en Alicante (por el Sindicato de Vivienda de Carolines y Zona Norte) y en Valencia. Exigen alquileres indefinidos, limitación de precios, control de la expansión turística y medidas contra la especulación. El movimiento por la vivienda convoca movilizaciones en 24 ciudades españolas durante la primavera, con citas clave en Valencia y Alicante el 6 de junio",
-    "status": "en_curso",
-    "lat": "39.4699",
-    "lng": "-0.3763",
-    "fuentes": [
-      {
-        "nombre": "Diario de Alicante",
-        "url": "https://diariodealicante.net/en/manifestacion-vivienda-alicante-6j/"
-      },
-      {
-        "nombre": "El Periódico de Aquí",
-        "url": "https://www.elperiodicodeaqui.com/economia/movimiento-por-vivienda-convoca-movilizaciones-en-24-ciudades-durante-esta-primavera_100115482_102.html"
-      },
-      {
-        "nombre": "AP / ABC News",
-        "url": "https://abcnews.com/International/wireStory/thousands-spains-capital-protest-increasing-housing-costs-133264610"
-      },
-      {
-        "nombre": "El Correo Gallego",
-        "url": "https://www.elcorreogallego.es/galicia/2026/06/06/galicia-abismo-vivienda-nosa-casa-131093816.html"
-      },
-      {
-        "nombre": "Postureo Cántabro",
-        "url": "https://postureocantabro.com/modificacion-recorrido-lineas-autobus-manifestacion-6-junio-2026/"
-      },
-      {
-        "nombre": "Briega.org",
-        "url": "https://www.briega.org/es/evento/vivienda-nos-cuesta-vida-movilizate-por-cantabria-para-vivir-sab-06062026-1200"
-      }
-    ],
-    "createdAt": "2026-06-06T00:04:47.000Z",
-    "updatedAt": "2026-06-06T23:38:07Z"
+    "updatedAt": "2026-06-07T03:46:14Z"
   },
   {
     "id": 344,
@@ -365,7 +152,7 @@
     "pais": "España",
     "bandera": "🇪🇸",
     "hora": "00:01",
-    "fecha": "2026-06-06",
+    "fecha": "2026-06-07",
     "lugar": "9 torres de control operadas por SAERCO: Lanzarote, Fuerteventura, La Palma, El Hierro, Sevilla, Jerez, Vigo, A Coruña",
     "tipoAccion": "huelga",
     "organizaciones": [
@@ -391,620 +178,53 @@
       }
     ],
     "createdAt": "2026-06-06T00:04:47.000Z",
-    "updatedAt": "2026-06-06T23:38:07Z"
+    "updatedAt": "2026-06-07T03:46:14Z"
   },
   {
-    "id": 346,
-    "seccion": "internacional",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
-    "hora": "12:00",
-    "fecha": "2026-06-06",
-    "lugar": "Más de 50 ciudades en 25 estados y Washington D.C.",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "National Visibility Brigade",
-      "D Day Democracy Day coalition"
-    ],
-    "motivo": "Jornada nacional 'D Day Democracy Day' con manifestaciones en puentes y pasos elevados (overpasses) en todo el país. Acción pacífica de protesta pública contra el autoritarismo, las deportaciones masivas sin debido proceso, las leyes dirigidas contra las mujeres y el deterioro democrático. Los participantes sostienen carteles con mensajes coordinados, música y actividades comunitarias para hacer visible la defensa de la democracia",
-    "status": "en_curso",
-    "lat": "38.9072",
-    "lng": "-77.0369",
-    "fuentes": [
-      {
-        "nombre": "Dr. Edith / Substack",
-        "url": "https://dredith3.substack.com/p/on-june-6-we-land-again-for-democracy"
-      },
-      {
-        "nombre": "Boston Pride",
-        "url": "https://www.bostonprideforthepeople.org/post/boston-s-pride-organizers-announce-theme-for-2026-pride-as-protest-since-1776"
-      },
-      {
-        "nombre": "Visibility Brigade",
-        "url": "https://www.visibilitybrigade.com/"
-      }
-    ],
-    "createdAt": "2026-06-06T00:04:47.000Z",
-    "updatedAt": "2026-06-06T23:38:07Z"
-  },
-  {
-    "id": 348,
-    "seccion": "internacional",
-    "pais": "Corea del Sur",
-    "bandera": "🇰🇷",
-    "hora": "10:00",
-    "fecha": "2026-06-06",
-    "lugar": "Seúl, Songpa-gu (Olympic Park Handball Gymnasium, Jamsil)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Ciudadanos surcoreanos (manifestación espontánea)",
-      "Partido del Poder Popular (PPP)"
-    ],
-    "motivo": "Segundo día de la sentada masiva bloqueando el centro de conteo de votos en Jamsil, Seúl. Hasta 10.000 personas bloquean las entradas exigiendo la repetición de las elecciones locales del 3 de junio tras la escasez de boletas en al menos 50 centros de votación. El presidente de la Comisión Nacional Electoral renunció por el escándalo. La policía desplegó 400 antidisturbios. Los manifestantes impiden la salida de urnas y funcionarios electorales",
-    "status": "en_curso",
-    "lat": "37.5172",
-    "lng": "127.1087",
-    "fuentes": [
-      {
-        "nombre": "Asia Business Daily",
-        "url": "https://www.asiae.co.kr/en/article/2026060612590794918"
-      },
-      {
-        "nombre": "Reuters / Cyprus Mail",
-        "url": "https://cyprus-mail.com/2026/06/05/thousands-demand-south-korea-vote-re-run-after-ballot-shortage"
-      },
-      {
-        "nombre": "Yonhap News",
-        "url": "https://en.yna.co.kr/view/AEN20260604001551315"
-      },
-      {
-        "nombre": "Swissinfo",
-        "url": "https://www.swissinfo.ch/spa/miles-de-personas-exigen-en-se%C3%BAl-repetir-las-elecciones-locales-por-la-falta-de-papeletas/91539013"
-      },
-      {
-        "nombre": "US News / Reuters",
-        "url": "https://www.usnews.com/news/world/articles/2026-06-06/south-korean-protesters-keep-calling-for-re-run-of-election-after-ballot-shortage"
-      },
-      {
-        "nombre": "ChosunBiz",
-        "url": "https://biz.chosun.com/en/en-society/2026/06/06/2BDXSDZY2BERFJOIBWS5DLORYQ/"
-      },
-      {
-        "nombre": "Seoul Economic Daily",
-        "url": "https://en.sedaily.com/international/2026/06/06/10000-gather-at-jamsil-vote-counting-site-as-moss-tan"
-      }
-    ],
-    "createdAt": "2026-06-06T00:04:47.000Z",
-    "updatedAt": "2026-06-06T23:38:07Z"
-  },
-  {
-    "id": 349,
-    "seccion": "internacional",
-    "pais": "Polonia",
-    "bandera": "🇵🇱",
-    "hora": "11:00",
-    "fecha": "2026-06-06",
-    "lugar": "Varsovia, Palacio Presidencial (Krakowskie Przedmieście 48/50). Marcha hasta el Ministerio de Salud",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Ogólnopolskie Stowarzyszenie Wiedzy o Szczepieniach 'STOP NOP'"
-    ],
-    "motivo": "10° protesta nacional contra el mandato obligatorio de vacunación y contra la criminalización de la medicina natural (ley Lex Szarlatan / Lex Big Pharma). Marcha desde el Palacio Presidencial hasta el Ministerio de Salud. Exigen el fin de la obligatoriedad de vacunas, la derogación de leyes que penalizan la medicina alternativa y el respeto a la libertad de elección médica",
-    "status": "en_curso",
-    "lat": "52.2399",
-    "lng": "21.0157",
-    "fuentes": [
-      {
-        "nombre": "STOP NOP",
-        "url": "https://stopnop.com.pl/xprotest/"
-      }
-    ],
-    "createdAt": "2026-06-06T00:04:47.000Z",
-    "updatedAt": "2026-06-06T23:38:07Z"
-  },
-  {
-    "id": 350,
-    "seccion": "internacional",
-    "pais": "Alemania",
-    "bandera": "🇩🇪",
-    "hora": "15:00",
-    "fecha": "2026-06-06",
-    "lugar": "Berlín, Mariannenplatz. Otras acciones en Münster (Domplatz)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Colectivos antifascistas berlineses",
-      "Omas gegen Rechts",
-      "Fridays for Future"
-    ],
-    "motivo": "Jornada de protesta cultural contra el racismo, la guerra y el rearme militar en Alemania. 'Open Air gegen Rassismus & Krieg' en Berlín exige políticas a favor de migrantes y refugiados, y el fin de los recortes sociales. En Münster, concierto solidario 'Musik statt Hass' contra el avance de la ultraderecha (AfD) de cara a las elecciones estatales de septiembre. Rechazo al aumento del gasto militar y a las políticas de exclusión",
-    "status": "en_curso",
-    "lat": "52.4930",
-    "lng": "13.4237",
-    "fuentes": [
-      {
-        "nombre": "Rausgegangen Berlin",
-        "url": "https://rausgegangen.com/at/en/events/open-air-gegen-rassismus-krieg-0/"
-      },
-      {
-        "nombre": "Rausgegangen Münster",
-        "url": "https://testweb.rausgehangen.de/en/events/solidaritatskonzert-kundgebung-gegen-die-afd-0/"
-      }
-    ],
-    "createdAt": "2026-06-06T00:04:47.000Z",
-    "updatedAt": "2026-06-06T23:38:07Z"
-  },
-  {
-    "id": 351,
-    "seccion": "internacional",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "10:00",
-    "fecha": "2026-06-06",
-    "lugar": "325 tiendas Decathlon en todo el territorio francés. Concentraciones en Villeneuve-d'Ascq (sede), París, Lyon, Marsella y todas las ciudades con tienda Decathlon",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "CFDT",
-      "CFTC",
-      "CGT",
-      "CFE-CGC",
-      "Unsa"
-    ],
-    "motivo": "Primera huelga nacional intersindical en la historia de Decathlon. Exigen aumento salarial y medidas urgentes para preservar el poder adquisitivo tras un año récord de beneficios (910 millones de euros en 2025, +16%). La dirección se niega a revalorizar la grilla salarial pese a la inflación del 2,4%. Denuncian que los dividendos para accionistas alcanzan los 605 millones de euros mientras 4.800 empleados cobran el salario mínimo. Entre 10 y 20 tiendas permanecerán cerradas, el resto operará al ralentí",
-    "status": "en_curso",
-    "lat": "50.6224",
-    "lng": "3.1468",
-    "fuentes": [
-      {
-        "nombre": "CFTC",
-        "url": "https://www.cftc.fr/actualites/greve-chez-decathlon-il-nest-pas-acceptable-quune-entreprise-aussi-prospere-laisse-ses-salaries-sappauvrir"
-      },
-      {
-        "nombre": "Le Tribunal du Net",
-        "url": "https://www.letribunaldunet.fr/actualites/greve-decathlon-6-juin-2026-magasins-france.html"
-      },
-      {
-        "nombre": "Le Dauphiné Libéré",
-        "url": "https://www.ledauphine.com/social/2026/06/06/des-milliers-de-grevistes-pourquoi-certains-magasins-decathlon-resteront-fermes-ce-samedi"
-      },
-      {
-        "nombre": "La Dépêche",
-        "url": "https://www.ladepeche.fr/2026/06/02/decathlon-une-grosse-pagaille-dans-les-magasins-ce-samedi-6-juin-lintersyndicale-appelle-les-salaries-a-la-mobilisation-nationale-13400050.php"
-      },
-      {
-        "nombre": "CFDT Services",
-        "url": "https://services.cfdt.fr/sinformer/nos-communiques/decathlon-l-ensemble-des-organisations-syndicales-appelle-a-une-mobilisation-nationale-le-6-juin-2026"
-      },
-      {
-        "nombre": "France 3 Régions",
-        "url": "https://france3-regions.franceinfo.fr/hauts-de-france/nord-0/lille/une-premiere-dans-l-histoire-de-decathlon-une-mobilisation-nationale-se-prepare-ce-samedi-6-juin-2026-3361834.html"
-      },
-      {
-        "nombre": "Midi Libre",
-        "url": "https://www.midilibre.fr/2026/06/06/nos-salaires-avant-leurs-dividendes-pourquoi-les-salaries-des-magasins-decathlon-sont-ils-appeles-a-la-greve-ce-samedi-13405687.php"
-      }
-    ],
-    "createdAt": "2026-06-06T00:04:47.000Z",
-    "updatedAt": "2026-06-06T23:38:07Z"
-  },
-  {
-    "id": 352,
-    "seccion": "internacional",
-    "pais": "México",
-    "bandera": "🇲🇽",
-    "hora": "14:00",
-    "fecha": "2026-06-06",
-    "lugar": "Guadalajara, Jalisco. Salida desde Glorieta La Minerva, Av. López Mateos, Hidalgo, Chapultepec hasta Glorieta de las y los Desaparecidos",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Marcha del Orgullo Guadalajara",
-      "Colectivos LGBTI+ de Jalisco"
-    ],
-    "motivo": "Marcha del Orgullo de Guadalajara 2026. Movilización masiva que combina celebración del orgullo LGBTI+ con exigencias de visibilidad, equidad de derechos y denuncia de injusticias. Incluye carros alegóricos, artistas y música. Jalisco es la cuarta entidad con mayor población LGBTI+ de México (298.270 personas). La convocatoria se realiza bajo el lema 'Sin miedo y sin fronteras'",
-    "status": "en_curso",
-    "lat": "20.6769",
-    "lng": "-103.3472",
-    "fuentes": [
-      {
-        "nombre": "Debate MX",
-        "url": "https://www.debate.com.mx/guadalajara/el-sabado-6-de-junio-sera-la-marcha-del-orgullo-guadalajara-2026-20260602-0221.html"
-      },
-      {
-        "nombre": "Ejecentral",
-        "url": "https://www.ejecentral.com.mx/nuestro-eje/cuando-es-la-marcha-lgbt-2026-en-jalisco-horarios-rutas-y-consignas-de-las-dos-movilizaciones-en-guadalajara"
-      },
-      {
-        "nombre": "Facebook Evento",
-        "url": "https://www.facebook.com/events/glorieta-minerva-guadalajara/marcha-del-orgullo-guadalajara-6-de-junio-del-2026/2024730924983266/"
-      }
-    ],
-    "createdAt": "2026-06-06T00:04:47.000Z",
-    "updatedAt": "2026-06-06T23:38:07Z"
-  },
-  {
-    "id": 353,
-    "seccion": "internacional",
-    "pais": "Reino Unido",
-    "bandera": "🇬🇧",
-    "hora": "08:00",
-    "fecha": "2026-06-06",
-    "lugar": "Lurgan (Condado de Armagh, Irlanda del Norte). Marcha de 25 millas hasta Newry y Omeath",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "IPSC Lurgan (Ireland Palestine Solidarity Campaign)",
-      "IPSC Mid Ulster",
-      "IPSC Newry",
-      "IPSC Armagh",
-      "IPSC Portadown"
-    ],
-    "motivo": "'Great March for Gaza & International Justice' — marcha masiva de 25 millas (longitud de la Franja de Gaza) desde Lurgan hasta Newry y Omeath. Exigen acción de los gobiernos irlandés y británico para responsabilizar a Israel por el genocidio en Gaza y el fin del apartheid. Participan personas de todas las confesiones, incluyendo comunidades judías y protestantes. Se esperan hasta 1.500 participantes con el apoyo del grupo musical Kneecap",
-    "status": "en_curso",
-    "lat": "54.4662",
-    "lng": "-6.3326",
-    "fuentes": [
-      {
-        "nombre": "IPSC Ireland",
-        "url": "https://www.ipsc.ie/protest/emergency-protests-for-palestine-around-ireland"
-      },
-      {
-        "nombre": "MSN News",
-        "url": "https://www.msn.com/en-gb/news/other/people-from-jewish-and-protestant-faiths-to-take-part-in-gaza-humanitarian-march-opposed-by-loyalists/ar-AA24W9cC"
-      },
-      {
-        "nombre": "Instagram IPSC Lurgan",
-        "url": "https://www.instagram.com/reel/DZHcJvLMedy/"
-      },
-      {
-        "nombre": "People's Fundraising",
-        "url": "https://www.peoplesfundraising.com/donation/great-march-for-gaza-lurgan-to-newry"
-      }
-    ],
-    "createdAt": "2026-06-06T00:04:47.000Z",
-    "updatedAt": "2026-06-06T23:38:07Z"
-  },
-  {
-    "id": 354,
-    "seccion": "internacional",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "13:00",
-    "fecha": "2026-06-06",
-    "lugar": "Rouen, Place Carnot. Otras acciones locales en varias ciudades francesas",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Colectivos contra la represión",
-      "Movimiento de free parties y contracultura"
-    ],
-    "motivo": "'Manifestive Tekno Anti-Rep' — manifestación festiva y política contra el avance del autoritarismo, las leyes restrictivas contra las free parties y la represión estatal. Denuncian la criminalización de la contracultura y la deriva autoritaria del gobierno. Jornada de protesta con música, performances y acción callejera en el centro de Rouen. Provoca cortes de tráfico en la red de transporte Astuce desde las 13:00",
-    "status": "en_curso",
-    "lat": "49.4400",
-    "lng": "1.0900",
-    "fuentes": [
-      {
-        "nombre": "Agend'Havre",
-        "url": "https://www.agendhavre.fr/events/event/manifestive-tekno-anti-rep-2026-rouen/"
-      },
-      {
-        "nombre": "Rouen.fr",
-        "url": "https://rouen.fr/fr/breve/20260605/trafic-du-reseau-astuce-perturbe-en-raison-dune-manifestation-samedi-6-juin-2026"
-      }
-    ],
-    "createdAt": "2026-06-06T00:04:47.000Z",
-    "updatedAt": "2026-06-06T23:38:07Z"
-  },
-  {
-    "id": 355,
-    "seccion": "internacional",
-    "pais": "Colombia",
-    "bandera": "🇨🇴",
-    "hora": "09:00",
-    "fecha": "2026-06-06",
-    "lugar": "Bogotá. Múltiples puntos: Puente La Marichuela (Usme), Parque de los Hippies (Chapinero), Plaza de Bolívar (La Candelaria)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Habitantes del sector Ciudadela Tres Quebradas",
-      "Juventud de Chapinero",
-      "Colectivos de derechos humanos"
-    ],
-    "motivo": "Jornada de múltiples protestas en Bogotá: (1) Movilización de la comunidad Ciudadela Tres Quebradas desde Puente La Marichuela hasta Portal de Usme exigiendo mejoras en infraestructura y servicios. (2) Marcha Pacífica Juvenil desde el Parque de los Hippies hasta la Universidad Pedagógica Nacional contra la violencia y por derechos juveniles. (3) Velatón por la liberación en la Plaza de Bolívar en solidaridad con personas detenidas. Las movilizaciones forman parte de la agenda de protestas previstas entre el 3 y el 14 de junio en Bogotá",
-    "status": "en_curso",
-    "lat": "4.7110",
-    "lng": "-74.0721",
-    "fuentes": [
-      {
-        "nombre": "Bogotá.gov.co",
-        "url": "https://bogota.gov.co/mi-ciudad/gobierno/conoce-las-marchas-y-manifestaciones-en-bogota-3-al-14-de-junio-2026"
-      }
-    ],
-    "createdAt": "2026-06-06T10:01:59.000Z",
-    "updatedAt": "2026-06-06T23:38:07Z"
-  },
-  {
-    "id": 356,
+    "id": 513,
     "seccion": "internacional",
     "pais": "Japón",
     "bandera": "🇯🇵",
-    "hora": "11:00",
-    "fecha": "2026-06-06",
-    "lugar": "Tokio, Parque Yoyogi (Shibuya). Festival del Orgullo en Yoyogi Park, desfile el 7 de junio",
+    "hora": "12:00",
+    "fecha": "2026-06-07",
+    "lugar": "Tokio, Parque Yoyogi → Shibuya y Harajuku (desfile de 3 km)",
     "tipoAccion": "protesta",
     "organizaciones": [
       "Tokyo Pride",
       "Comunidad LGBTQ+ de Tokio"
     ],
-    "motivo": "Tokyo Pride 2026 — Festival del Orgullo LGBTQ+ en el Parque Yoyogi de Tokio, como parte del Mes del Orgullo. El evento incluye performances, shows de drag queens, música y charlas. La marcha del orgullo (Pride Parade) está prevista para el 7 de junio desde Shibuya. Exigen mayor aceptación de las minorías sexuales y reconocimiento de derechos LGBTQ+ en Japón. El festival es gratuito y abierto a todo público",
+    "motivo": "Tokyo Pride Parade 2026 — Desfile del Orgullo LGBTQ+ en el área de Shibuya y Harajuku como parte del Mes del Orgullo. Más de 15.000 participantes esperados. Exigen mayor aceptación de las minorías sexuales, reconocimiento de derechos LGBTQ+ y fin de la discriminación en Japón. El festival en el Parque Yoyogi comenzó el 6 de junio y culmina con el desfile del Orgullo este 7 de junio",
     "status": "en_curso",
     "lat": "35.6716",
     "lng": "139.6967",
     "fuentes": [
       {
-        "nombre": "Japan Travel",
-        "url": "https://en.japantravel.com/tokyo/tokyo-pride/35924"
+        "nombre": "Tokyo Pride Official",
+        "url": "https://pride.tokyo/parade/"
       },
       {
         "nombre": "Tokyo Cheapo",
         "url": "https://tokyocheapo.com/events/tokyo-rainbow-pride/"
+      },
+      {
+        "nombre": "Japan Travel",
+        "url": "https://en.japantravel.com/tokyo/tokyo-pride/35924"
+      },
+      {
+        "nombre": "Time Out Tokyo",
+        "url": "https://www.timeout.com/tokyo/lgbtq/guide-to-tokyo-rainbow-pride-2023-events-festivals-plus-how-to-participate"
       }
     ],
-    "createdAt": "2026-06-06T10:01:59.000Z",
-    "updatedAt": "2026-06-06T23:38:07Z"
+    "createdAt": "2026-06-07T03:40:03.000Z",
+    "updatedAt": "2026-06-07T03:46:14Z"
   },
   {
-    "id": 502,
-    "seccion": "internacional",
-    "pais": "Bangladesh",
-    "bandera": "🇧🇩",
-    "hora": "11:00",
-    "fecha": "2026-06-06",
-    "lugar": "Dhaka, National Press Club",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Socialist Party of Bangladesh (Marxist)"
-    ],
-    "motivo": "Rally contra el aumento del precio de la electricidad y los combustibles. Exigen la retirada del incremento tarifario que agrava el sufrimiento de la población",
-    "status": "en_curso",
-    "lat": "23.7270",
-    "lng": "90.4100",
-    "fuentes": [
-      {
-        "nombre": "New Age BD",
-        "url": "https://www.newagebd.net/post/politics/301734/protests-against-power-price-hike-continue"
-      }
-    ],
-    "createdAt": "2026-06-06T11:52:18.000Z",
-    "updatedAt": "2026-06-06T23:38:07Z"
-  },
-  {
-    "id": 503,
-    "seccion": "internacional",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "12:00",
-    "fecha": "2026-06-06",
-    "lugar": "Santiago de Compostela (Parlamento de Galicia), A Coruña, Santander",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Xuntanza Pola Vivenda Compostela",
-      "Sindicato de Barrio da Falperra-Os Mallos",
-      "Sindicato de Inquilinas de Vigo",
-      "Plataforma por la Vivienda Digna"
-    ],
-    "motivo": "Protestas por el derecho a la vivienda contra el encarecimiento de los alquileres y la especulación inmobiliaria en Galicia y Cantabria. Más de mil personas en Santiago bajo el lema \"A nosa casa non é un negocio\". Exigen reforma de la LAU, limitación de precios, expropiación de viviendas de fondos de inversión y fin del alquiler temporal",
-    "status": "en_curso",
-    "lat": "42.8782",
-    "lng": "-8.5448",
-    "fuentes": [
-      {
-        "nombre": "El Correo Gallego",
-        "url": "https://www.elcorreogallego.es/galicia/2026/06/06/galicia-abismo-vivienda-nosa-casa-131093816.html"
-      },
-      {
-        "nombre": "Postureo Cántabro",
-        "url": "https://postureocantabro.com/modificacion-recorrido-lineas-autobus-manifestacion-6-junio-2026/"
-      },
-      {
-        "nombre": "Briega.org",
-        "url": "https://www.briega.org/es/evento/vivienda-nos-cuesta-vida-movilizate-por-cantabria-para-vivir-sab-06062026-1200"
-      }
-    ],
-    "createdAt": "2026-06-06T11:52:18.000Z",
-    "updatedAt": "2026-06-06T23:38:07Z"
-  },
-  {
-    "id": 504,
-    "seccion": "internacional",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
-    "hora": "11:00",
-    "fecha": "2026-06-06",
-    "lugar": "Múltiples showrooms de Tesla en todo EE.UU. (Dedham MA, Lyndhurst OH, Devon PA, Long Beach CA, Santa Monica CA y otras ciudades)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "#TeslaTakedown",
-      "Activistas contra la concentración de riqueza",
-      "Movimiento de resistencia pacífica"
-    ],
-    "motivo": "Jornada nacional de protesta pacífica #TeslaTakedown contra Elon Musk, Tesla y la concentración de riqueza que impulsa el giro autoritario en EE.UU. Manifestaciones simultáneas en showrooms de Tesla en múltiples ciudades. Exigen que los multimillonarios rindan cuentas y denuncian la captura corporativa de la democracia",
-    "status": "en_curso",
-    "lat": "39.8283",
-    "lng": "-98.5795",
-    "fuentes": [
-      {
-        "nombre": "Action Network / #TeslaTakedown",
-        "url": "https://actionnetwork.org/event_campaigns/teslatakedown"
-      },
-      {
-        "nombre": "Facebook Event Devon PA",
-        "url": "https://www.facebook.com/events/470-w-lancaster-ave-devon-pa-19333/tesla-takedown-devon-pa-saturday-june-6/3340788162769190/"
-      }
-    ],
-    "createdAt": "2026-06-06T14:57:58.000Z",
-    "updatedAt": "2026-06-06T23:38:07Z"
-  },
-  {
-    "id": 505,
-    "seccion": "internacional",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
-    "hora": "10:00",
-    "fecha": "2026-06-06",
-    "lugar": "Los Ángeles, California (SoFi Stadium, Inglewood)",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "UNITE HERE Local 11"
-    ],
-    "motivo": "Cerca de 2.000 trabajadores del SoFi Stadium votaron a favor de autorizar una huelga (96% de votos a favor) a una semana del inicio del Mundial 2026. Exigen aumento salarial justo y garantías contra operativos de ICE en el estadio durante la Copa del Mundo. Denuncian que la empresa Legends Global solo ofreció 25 centavos de aumento por hora. Reclaman que la FIFA no comparta datos personales de los trabajadores con el DHS. El SoFi albergará la ceremonia inaugural y 8 partidos del Mundial",
-    "status": "en_curso",
-    "lat": "33.9535",
-    "lng": "-118.3390",
-    "fuentes": [
-      {
-        "nombre": "El País US",
-        "url": "https://elpais.com/us/2026-06-06/los-trabajadores-del-estadio-que-albergara-la-inauguracion-del-mundial-en-estados-unidos-se-lanzan-a-una-huelga.html"
-      },
-      {
-        "nombre": "CBS Los Angeles",
-        "url": "https://www.cbsnews.com/losangeles/news/sofi-stadium-workers-strik-2026-fifa-world-cup-los-angeles/"
-      },
-      {
-        "nombre": "Reuters",
-        "url": "https://www.reuters.com/world/us/sofi-stadium-workers-vote-strike-ahead-world-cup-2026-06-06/"
-      }
-    ],
-    "createdAt": "2026-06-06T14:57:58.000Z",
-    "updatedAt": "2026-06-06T23:38:07Z"
-  },
-  {
-    "id": 506,
-    "seccion": "internacional",
-    "pais": "Irán",
-    "bandera": "🇮🇷",
-    "hora": "09:00",
-    "fecha": "2026-06-06",
-    "lugar": "Teherán, Mashhad, Shiraz, Isfahán, Qom, Tabriz, Kermanshah, Karaj, Ahvaz, Rasht, Sari, Arak, Hamadan, Yazd y otras ciudades en todo el país",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Estudiantes de secundaria y universitarios",
-      "Consejo Nacional de Resistencia de Irán (NCRI)"
-    ],
-    "motivo": "Ola masiva de protestas estudiantiles coordinadas en decenas de ciudades de Irán contra la ley que eleva al 60% el peso del promedio de secundaria en el examen de ingreso universitario (Konkur). Los estudiantes denuncian discriminación educativa, destrucción de la igualdad de oportunidades, presión psicológica y falta de justicia. Sentadas frente al Ministerio de Educación y el Consejo Supremo de la Revolución Cultural en Teherán. Represión en Mashhad (estudiantes encerrados y detenidos) y Qom (separación por género y amenazas). Consignas: 'Los estudiantes morirán pero no aceptarán la humillación', 'No tenemos miedo, estamos todos juntos'",
-    "status": "en_curso",
-    "lat": "35.6892",
-    "lng": "51.3890",
-    "fuentes": [
-      {
-        "nombre": "NCRI",
-        "url": "https://www.ncr-iran.org/en/news/iran-protests/nationwide-student-protests-shatter-tehrans-illusion-of-control/"
-      },
-      {
-        "nombre": "NCRI Statement",
-        "url": "https://www.ncr-iran.org/en/ncri-statements/statement-iran-protest/iran-nationwide-student-protests-in-dozens-of-cities-against-discrimination-and-educational-injustice/"
-      },
-      {
-        "nombre": "Times of Israel",
-        "url": "https://www.timesofisrael.com/iranian-students-protest-across-country-over-exam-changes-several-arrests-reported/"
-      },
-      {
-        "nombre": "WNCRI",
-        "url": "https://wncri.org/2026/06/06/iranian-students-gen-z-gpa/"
-      },
-      {
-        "nombre": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_June_6"
-      }
-    ],
-    "createdAt": "2026-06-06T16:11:14.000Z",
-    "updatedAt": "2026-06-06T23:38:07Z"
-  },
-  {
-    "id": 507,
-    "seccion": "internacional",
-    "pais": "Canadá",
-    "bandera": "🇨🇦",
-    "hora": "13:00",
-    "fecha": "2026-06-06",
-    "lugar": "Quebec, Place de l'Assemblée-Nationale",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Colectivos trans y LGBTQ+ de Quebec",
-      "Euphorie dans le genre"
-    ],
-    "motivo": "Marcha Trans 2026 en Quebec contra la represión de los derechos de las personas trans en Canadá. Denuncian las legislaciones transfóbicas introducidas en varias provincias, los comentarios del líder conservador Pierre Poilievre negando el reconocimiento de más de dos géneros, las políticas restrictivas del gobierno de la CAQ y el aumento de la intolerancia en las escuelas. Exigen protección de derechos, acceso a cuidados de afirmación de género y fin de la discriminación estatal",
-    "status": "en_curso",
-    "lat": "46.8084",
-    "lng": "-71.2148",
-    "fuentes": [
-      {
-        "nombre": "Happening Next - Marche Trans 2026",
-        "url": "https://happeningnext.com/event/marche-trans-2026-eid3a0dmm5kk5"
-      }
-    ],
-    "createdAt": "2026-06-06T16:11:14.000Z",
-    "updatedAt": "2026-06-06T23:38:07Z"
-  },
-  {
-    "id": 510,
-    "seccion": "internacional",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "12:00",
-    "fecha": "2026-06-06",
-    "lugar": "París, Place de la République",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Colectivos antifascistas parisinos"
-    ],
-    "motivo": "Manifestación antifascista y antiimperialista 'Contre le fascisme et la guerre, pas un pas en arrière'. Conmemoración anual del asesinato de Clément Méric (2013) a manos de neonazis. Exigen unidad de las luchas antifascistas, antiracistas, feministas, sindicales e internacionalistas contra el avance del fascismo y la guerra",
-    "status": "en_curso",
-    "lat": "48.8673",
-    "lng": "2.3634",
-    "fuentes": [
-      {
-        "nombre": "Paris Luttes Info",
-        "url": "https://paris-luttes.info/manifestation-contre-le-fascisme-20894"
-      }
-    ],
-    "createdAt": "2026-06-06T20:39:10.000Z",
-    "updatedAt": "2026-06-06T23:38:07Z"
-  },
-  {
-    "id": 509,
-    "seccion": "internacional",
-    "pais": "Chile",
-    "bandera": "🇨🇱",
-    "hora": "09:30",
-    "fecha": "2026-06-06",
-    "lugar": "Santiago, Plaza Dignidad (Metro Baquedano)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Coordinadora Nacional de Organizaciones de Derechos Humanos y Sociales",
-      "Mesa de Derechos Humanos por una Vida Digna",
-      "Central Unitaria de Trabajadores (CUT)",
-      "Agrupación Nacional de Empleados Fiscales (ANEF)"
-    ],
-    "motivo": "Marcha por los Derechos Humanos y contra la Impunidad contra el gobierno de José Antonio Kast. Denuncian el desmantelamiento institucional de los derechos humanos, desvinculaciones de programas históricos, instrucciones del Ministerio de Justicia de no intervenir en determinadas causas, y solicitudes de indulto a favor de criminales de lesa humanidad. Participan gremios como CUT y ANEF, organizaciones sociales, parlamentarios y la senadora Fabiola Campillay. El gobierno modificó el recorrido de la marcha, hecho inédito desde la dictadura",
-    "status": "en_curso",
-    "lat": "-33.4372",
-    "lng": "-70.6401",
-    "fuentes": [
-      {
-        "nombre": "Radio Nuevo Mundo",
-        "url": "https://radionuevomundo.cl/2026/06/este-sabado-6-de-junio-se-realizara-la-marcha-por-los-derechos-humanos-en-santiago/"
-      },
-      {
-        "nombre": "Radio Nuevo Mundo",
-        "url": "https://radionuevomundo.cl/2026/06/primera-vez-en-democracia-gobierno-modifica-el-recorrido-de-marcha-convocada-por-organizaciones-de-derechos-humanos/"
-      }
-    ],
-    "createdAt": "2026-06-06T19:19:06.000Z",
-    "updatedAt": "2026-06-06T23:38:07Z"
-  },
-  {
-    "id": 500,
+    "id": 515,
     "seccion": "protestas_ar",
     "pais": "Argentina",
     "bandera": "🇦🇷",
     "hora": "17:00",
-    "fecha": "2026-06-06",
+    "fecha": "2026-06-07",
     "lugar": "Plaza de Mayo, CABA. Réplicas en plazas centrales de todo el país",
     "tipoAccion": "protesta",
     "organizaciones": [
@@ -1013,7 +233,7 @@
       "CTA de los Trabajadores (Hugo Yasky)",
       "CTA Autónoma (Hugo 'Cachorro' Godoy)"
     ],
-    "motivo": "6° día del ayuno nacional de 8 días en Plaza de Mayo contra las políticas del gobierno de Javier Milei. Bajo el lema 'Jornada de ayuno y oración para despertar las conciencias', denuncian el crecimiento del hambre, la exclusión, la violencia y el deterioro social. Réplicas en plazas centrales del interior con organizaciones ecuménicas, sociales y de derechos humanos. Acto de cierre el 9 de junio. Participan Peteco Carabajal y Bruno Arias",
+    "motivo": "6° día del ayuno nacional de 8 días en Plaza de Mayo contra las políticas del gobierno de Javier Milei (del 2 al 9 de junio). Bajo el lema 'Jornada de ayuno y oración para despertar las conciencias', denuncian el crecimiento del hambre, la exclusión, la violencia y el deterioro social. Réplicas en plazas centrales del interior con organizaciones ecuménicas, sociales y de derechos humanos. Acto de cierre el 9 de junio",
     "status": "en_curso",
     "lat": "-34.6083",
     "lng": "-58.3719",
@@ -1039,53 +259,27 @@
         "url": "https://www.infobae.com/america/agencias/2026/06/05/religiosos-activistas-y-el-nobel-perez-esquivel-se-unen-en-ayuno-y-oracion-contra-milei/"
       },
       {
-        "nombre": "Política Argentina",
-        "url": "https://www.politicargentina.com/notas/202606/74143-perez-esquivel-convoco-a-un-ayuno-en-plaza-de-mayo-contra-las-politicas-de-milei.html"
+        "nombre": "Página 12",
+        "url": "https://www.pagina12.com.ar/2026/06/03/perez-esquivel-comenzo-un-ayuno-contra-el-hambre-del-pueblo-que-genera-milei/"
       }
     ],
-    "createdAt": "2026-06-05T03:36:31.000Z",
-    "updatedAt": "2026-06-06T23:38:07Z"
+    "createdAt": "2026-06-07T03:42:29.000Z",
+    "updatedAt": "2026-06-07T03:46:14Z"
   },
   {
-    "id": 501,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "18:00",
-    "fecha": "2026-06-06",
-    "lugar": "Río Grande, Tierra del Fuego. Biblioteca Popular Infanto Juvenil, Pioneros Fueguinos Nº 880",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Escuela Popular de Géneros, Disidencias y Masculinidades",
-      "Biblioteca Popular Infanto Juvenil"
-    ],
-    "motivo": "Festifeminista 6J — jornada cultural feminista en el marco del Ni Una Menos 2026. Velada artística con música en vivo, poesía, intervenciones culturales, taller de collage, olla popular y feria. Exigen justicia por los femicidios, denuncian el antifeminismo de Estado del gobierno de Javier Milei y el desmantelamiento de políticas de género",
-    "status": "en_curso",
-    "lat": "-53.7860",
-    "lng": "-67.7080",
-    "fuentes": [
-      {
-        "nombre": "Desde las Bases",
-        "url": "https://desdelasbases.com.ar/nota/9436/vivas-libres-y-desendeudadas-nos-queremos-unir-las-luchas-y-rebelarse-es-la-tarea/"
-      }
-    ],
-    "createdAt": "2026-06-06T10:05:17.000Z",
-    "updatedAt": "2026-06-06T23:38:07Z"
-  },
-  {
-    "id": 508,
+    "id": 516,
     "seccion": "protestas_ar",
     "pais": "Argentina",
     "bandera": "🇦🇷",
     "hora": "00:01",
-    "fecha": "2026-06-06",
+    "fecha": "2026-06-07",
     "lugar": "Río Gallegos, Santa Cruz (Casa de Gobierno). Acampe en toda la provincia",
     "tipoAccion": "protesta",
     "organizaciones": [
       "Policías Autoconvocados de Santa Cruz",
       "Servicio Penitenciario Provincial"
     ],
-    "motivo": "Tercera jornada de protesta policial con acampe frente a la Casa de Gobierno en Río Gallegos. Exigen recomposición salarial, participación en la mesa paritaria (Consejo del Salario) y mejores condiciones laborales. Quite de colaboración: solo atienden emergencias. El Gobierno nacional dispuso un Comando Unificado con Gendarmería, Prefectura, Policía Federal, PSA y Servicio Penitenciario Federal para cubrir tareas policiales. El gobernador Claudio Vidal reconoció el reclamo como 'justo' pero dijo no contar con recursos. 85% de acatamiento según los autoconvocados. La paritaria está convocada para el 10 de junio",
+    "motivo": "Día 6 de la protesta policial con acampe frente a la Casa de Gobierno en Río Gallegos (desde el 2 de junio). Exigen recomposición salarial, participación en la mesa paritaria (Consejo del Salario) y mejores condiciones laborales. Quite de colaboración: solo atienden emergencias. El Gobierno nacional dispuso un Comando Unificado con Gendarmería, Prefectura, Policía Federal, PSA y Servicio Penitenciario Federal para cubrir tareas policiales. El gobernador Claudio Vidal reconoció el reclamo como 'justo' pero dijo no contar con recursos. 85% de acatamiento. La paritaria está convocada para el 10 de junio",
     "status": "en_curso",
     "lat": "-51.6230",
     "lng": "-69.2168",
@@ -1095,86 +289,19 @@
         "url": "https://www.infobae.com/politica/2026/06/06/conflicto-salarial-con-la-policia-en-santa-cruz-protestas-acampe-y-refuerzo-de-fuerzas-federales-de-nacion/"
       },
       {
-        "nombre": "Winfo",
-        "url": "https://winfo.ar/politica/2026/06/policias-autoconvocados-piden-participar-de-la-paritaria-salarial"
-      },
-      {
-        "nombre": "Radio News",
-        "url": "https://radionews.com.ar/policias-santa-cruz-acampe-paritarias/"
+        "nombre": "LA NACION",
+        "url": "https://www.lanacion.com.ar/politica/protestas-policiales-generan-tension-en-santa-cruz-el-gobierno-nacional-activo-ayuda-nid05062026/"
       },
       {
         "nombre": "El Destape",
         "url": "https://www.eldestapeweb.com/politica/milei-sale-socorrer-vidal-tiene-policias-acuartelados-santa-cruz-202666164158"
       },
       {
-        "nombre": "LA NACION",
-        "url": "https://www.lanacion.com.ar/politica/protestas-policiales-generan-tension-en-santa-cruz-el-gobierno-nacional-activo-ayuda-nid05062026/"
+        "nombre": "Radio News",
+        "url": "https://radionews.com.ar/policias-santa-cruz-acampe-paritarias/"
       }
     ],
-    "createdAt": "2026-06-06T16:14:12.000Z",
-    "updatedAt": "2026-06-06T23:38:07Z"
-  },
-  {
-    "id": 511,
-    "seccion": "internacional",
-    "pais": "México",
-    "bandera": "🇲🇽",
-    "hora": "08:00",
-    "fecha": "2026-06-06",
-    "lugar": "Ciudad de México, Ángel de la Independencia → Hemiciclo a Benito Juárez",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Brigada Callejera de Apoyo a la Mujer",
-      "Trabajadoras Sexuales de Calzada de Tlalpan"
-    ],
-    "motivo": "Protesta de trabajadoras sexuales en el marco del Día Internacional de la Trabajadora Sexual. Exigen derechos laborales, condiciones dignas para vivir y ejercer su labor, seguro de desempleo y apoyo económico ante la disminución de ingresos de hasta 70% por obras viales (ciclovía 'La Gran Tenochtitlán') realizadas en preparación para el Mundial 2026. Denuncian que el gobierno busca 'limpiar' la imagen de la ciudad para los turistas extranjeros a costa de su sustento",
-    "status": "en_curso",
-    "lat": "19.4270",
-    "lng": "-99.1676",
-    "fuentes": [
-      {
-        "nombre": "Eje Central",
-        "url": "https://www.ejecentral.com.mx/nuestro-eje/manifestaciones-hoy-sabado-6-de-junio-en-cdmx-donde-y-a-que-hora-habra-marchas-y-bloqueos"
-      },
-      {
-        "nombre": "La Crónica de Hoy",
-        "url": "https://www.cronica.com.mx/metropoli/2026/06/02/marchas-cdmx-hoy-trabajadoras-sexuales-se-unen-a-las-protestas-en-reforma-este-martes-2-de-junio/"
-      },
-      {
-        "nombre": "LatinUS",
-        "url": "https://latinus.us/mexico/2026/6/3/trabajadoras-sexuales-toman-las-calles-de-cdmx-acusan-afectaciones-por-obras-del-mundial-175110.html"
-      }
-    ],
-    "createdAt": "2026-06-06T22:01:17.000Z",
-    "updatedAt": "2026-06-06T23:38:07Z"
-  },
-  {
-    "id": 512,
-    "seccion": "internacional",
-    "pais": "México",
-    "bandera": "🇲🇽",
-    "hora": "11:00",
-    "fecha": "2026-06-06",
-    "lugar": "Ciudad de México, Xoco (Instalaciones del Instituto Nacional de los Pueblos Indígenas - INPI)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Comunidad Indígena Otomí Residente en la Ciudad de México"
-    ],
-    "motivo": "Jornada antimundialista de la Comunidad Indígena Otomí Residente. Protestan contra la invisibilización de los pueblos originarios durante el Mundial 2026 y denuncian la falta de consulta en proyectos urbanos vinculados al torneo. Exigen respeto a sus derechos territoriales y culturales, y que los recursos destinados al Mundial se redirijan a programas sociales para comunidades indígenas",
-    "status": "en_curso",
-    "lat": "19.3640",
-    "lng": "-99.1450",
-    "fuentes": [
-      {
-        "nombre": "Eje Central",
-        "url": "https://www.ejecentral.com.mx/nuestro-eje/manifestaciones-hoy-sabado-6-de-junio-en-cdmx-donde-y-a-que-hora-habra-marchas-y-bloqueos"
-      },
-      {
-        "nombre": "POSTA México",
-        "url": "https://www.posta.com.mx/cdmx/manifestaciones-hoy-sabado-6-de-junio-en-la-cdmx/vl2212847"
-      }
-    ],
-    "createdAt": "2026-06-06T22:01:17.000Z",
-    "updatedAt": "2026-06-06T23:38:07Z"
+    "createdAt": "2026-06-07T03:42:29.000Z",
+    "updatedAt": "2026-06-07T03:46:14Z"
   }
 ]
