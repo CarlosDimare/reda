@@ -32,7 +32,7 @@
       }
     ],
     "createdAt": "2026-06-06T00:04:47.000Z",
-    "updatedAt": "2026-06-08T06:51:02Z"
+    "updatedAt": "2026-06-08T12:01:22Z"
   },
   {
     "id": 335,
@@ -46,7 +46,7 @@
     "organizaciones": [
       "CNTE (Coordinadora Nacional de Trabajadores de la Educación)"
     ],
-    "motivo": "Día 8 de la huelga nacional indefinida de docentes. Exigen abrogación de la Ley del ISSSTE de 2007, regreso al sistema de pensiones sin Afores, aumento salarial del 100% al sueldo base y derogación de la reforma educativa. Mantienen campamento en el Zócalo. Sheinbaum no ha cedido a demandas centrales. El sindicato amenaza con disruptir el Mundial 2026 (inicia 11 de junio) si no hay solución. La CNTE continúa con talleres, conferencias de prensa y asamblea nacional representativa. Movilizaciones programadas en Aguascalientes del 8 al 11 de junio. La huelga sigue activa mientras evalúan continuar las manifestaciones",
+    "motivo": "Día 8 de la huelga nacional indefinida de docentes. Exigen abrogación de la Ley del ISSSTE de 2007, regreso al sistema de pensiones sin Afores, aumento salarial del 100% al sueldo base y derogación de la reforma educativa. Mantienen campamento en el Zócalo. El gobierno federal exhortó a la CNTE a concluir la huelga para no afectar el ciclo escolar y el Mundial 2026. La CNTE rechazó la propuesta gubernamental sobre pensiones por 'insuficiente' y anunció que reforzará el plantón. Sheinbaum descartó desalojo y acusó a un sector de la CNTE de buscar confrontación. La Asamblea Nacional Representativa analiza los resolutivos. La huelga sigue activa y advierten que continuarán durante el Mundial. Marchas programadas en Aguascalientes del 8 al 11 de junio",
     "status": "en_curso",
     "lat": "19.4326",
     "lng": "-99.1332",
@@ -66,10 +66,18 @@
       {
         "nombre": "Zeta Tijuana",
         "url": "https://zetatijuana.com/2026/06/cnte-desafia-al-gobierno-y-mantiene-huelga-pese-a-ofertas-de-sheinbaum/"
+      },
+      {
+        "nombre": "Infobae / EFE",
+        "url": "https://www.infobae.com/america/agencias/2026/06/08/maestros-mantienen-huelga-y-reforzaran-planton-en-ciudad-de-mexico/"
+      },
+      {
+        "nombre": "El Economista",
+        "url": "https://www.eleconomista.com.mx/politica/cnte-amaga-reforzar-planton-ciudad-mexico-20260608-817352.html"
       }
     ],
     "createdAt": "2026-06-06T00:04:47.000Z",
-    "updatedAt": "2026-06-08T06:51:02Z"
+    "updatedAt": "2026-06-08T12:01:22Z"
   },
   {
     "id": 344,
@@ -99,16 +107,16 @@
       }
     ],
     "createdAt": "2026-06-06T00:04:47.000Z",
-    "updatedAt": "2026-06-08T06:51:02Z"
+    "updatedAt": "2026-06-08T12:01:22Z"
   },
   {
     "id": 522,
     "seccion": "internacional",
     "pais": "Albania",
     "bandera": "🇦🇱",
-    "hora": "00:01",
+    "hora": "18:00",
     "fecha": "2026-06-08",
-    "lugar": "Tirana (Skanderbeg Square, frente a la Oficina del Primer Ministro). Protestas también en Shkodër, Vlora y otras ciudades. Solidaridad global en Bruselas, Bolonia, Milán, Londres, Berlín, Nueva York, Toronto, Atenas",
+    "lugar": "Tirana (Skanderbeg Square, frente a la Oficina del Primer Ministro). Protestas también en Shkodër, Vlora y otras ciudades. Solidaridad global en Toronto, Stuttgart, Bruselas, Bolonia, Milán, Londres, Berlín, Nueva York, Atenas",
     "tipoAccion": "protesta",
     "organizaciones": [
       "PPNEA (Preservation and Protection of the Natural Environment in Albania)",
@@ -116,7 +124,7 @@
       "Lëvizja Bashkë",
       "Ciudadanos de Tirana"
     ],
-    "motivo": "Continúan las protestas masivas ('Revolución Flamenca') contra la construcción de un resort de lujo vinculado a Jared Kushner e Ivanka Trump en la laguna protegida de Vjosa-Narta y la isla de Sazan. El proyecto de $1.98 mil millones amenaza un ecosistema costero con más de 200 especies de aves migratorias. Los manifestantes exigen la cancelación del proyecto, la renuncia del primer ministro Edi Rama y denuncian corrupción. Las protestas continúan a diario en junio con concentraciones en Tirana, Shkodër y solidaridad de la diáspora. El gobierno de Rama defiende el proyecto. La fiscalía anticorrupción SPAK mantiene una investigación abierta. Wikipedia destaca 'demonstrations erupt' el 8 de junio",
+    "motivo": "Novena protesta masiva de la 'Revolución Flamenca' contra la construcción de un resort de lujo vinculado a Jared Kushner e Ivanka Trump en la laguna protegida de Vjosa-Narta y la isla de Sazan. Miles de ciudadanos marcharon desde Skanderbeg Square hasta la Oficina del Primer Ministro. El proyecto de $1.98 mil millones amenaza un ecosistema costero con más de 200 especies de aves migratorias. Exigen cancelación del proyecto y renuncia del primer ministro Edi Rama. La delegación de la UE en Tirana reaccionó llamando a proteger la naturaleza. El gobierno de Rama defiende el proyecto. La fiscalía anticorrupción SPAK mantiene investigación abierta. Cobertura internacional de The Times, CNN, BBC, Bloomberg y Reuters. Protestas de solidaridad de la diáspora en Toronto y Stuttgart",
     "status": "en_curso",
     "lat": "41.3275",
     "lng": "19.8187",
@@ -136,10 +144,18 @@
       {
         "nombre": "EU Alive",
         "url": "https://eualive.net/flamingo-revolution-spreads-albanian-protests-against-zvernec-development-gain-global-momentum"
+      },
+      {
+        "nombre": "Balkanweb",
+        "url": "https://www.balkanweb.com/en/shqiperi-e-re-jep-doreheqjen-mijera-qytetare-ne-shesh-kunder-rames-mbahet-sot-protesta-e-9/"
+      },
+      {
+        "nombre": "WION",
+        "url": "https://www.wionews.com/videos/albania-protests-albania-witnesses-huge-rally-against-1-6b-kushner-coastal-project-1780888307884"
       }
     ],
     "createdAt": "2026-06-07T14:27:51.000Z",
-    "updatedAt": "2026-06-08T06:51:02Z"
+    "updatedAt": "2026-06-08T12:01:22Z"
   },
   {
     "id": 527,
@@ -154,7 +170,7 @@
       "Global Sumud Coalition",
       "Coalición Global Sumud"
     ],
-    "motivo": "Día 3 de la huelga de hambre global de solidaridad iniciada el 7 de junio. 27 activistas de 13 países (España, Canadá, EE.UU., Italia, Túnez, Argentina, Portugal, Uruguay, Polonia, Sudáfrica y otros) exigen la liberación de 11 activistas de la Global Sumud Land Convoy retenidos en el este de Libia desde el 24 de mayo. Siete días sin comer ni beber. Exigen intervención diplomática de sus gobiernos, acceso consular y libertad inmediata. Convocan protestas frente a embajadas libias y ministerios de Exteriores",
+    "motivo": "Día 3 de la huelga de hambre global de solidaridad iniciada el 7 de junio. 27 activistas de 13 países (España, Canadá, EE.UU., Italia, Túnez, Argentina, Portugal, Uruguay, Polonia, Sudáfrica y otros) exigen la liberación de 10 activistas de la Global Sumud Land Convoy retenidos en Benghazi (este de Libia) desde el 24 de mayo. El activista tunecino Mehdi Buzguenda fue liberado y ya se reunió con su familia. Los 10 restantes cumplen 7 días sin comer ni beber. Exigen intervención diplomática de sus gobiernos, acceso consular y libertad inmediata. Convocan protestas frente a embajadas libias y ministerios de Exteriores",
     "status": "en_curso",
     "lat": "40.4168",
     "lng": "-3.7038",
@@ -170,10 +186,14 @@
       {
         "nombre": "RTVC",
         "url": "https://rtvc.es/27-activistas-trece-paises-huelga-hambre-libertad-voluntarios-flotilla-8-junio-2026/"
+      },
+      {
+        "nombre": "El Periodista",
+        "url": "https://www.elperiodista.cl/2026/06/activistas-de-13-paises-inician-huelga-de-hambre-mundial-por-liberacion-de-voluntarios-detenidos-en-libia/"
       }
     ],
     "createdAt": "2026-06-07T18:47:34.000Z",
-    "updatedAt": "2026-06-08T06:51:02Z"
+    "updatedAt": "2026-06-08T12:01:22Z"
   },
   {
     "id": 534,
@@ -211,7 +231,7 @@
       }
     ],
     "createdAt": "2026-06-08T01:39:53.000Z",
-    "updatedAt": "2026-06-08T06:51:02Z"
+    "updatedAt": "2026-06-08T12:01:22Z"
   },
   {
     "id": 535,
@@ -240,7 +260,7 @@
       }
     ],
     "createdAt": "2026-06-08T01:39:53.000Z",
-    "updatedAt": "2026-06-08T06:51:02Z"
+    "updatedAt": "2026-06-08T12:01:22Z"
   },
   {
     "id": 537,
@@ -265,7 +285,211 @@
       }
     ],
     "createdAt": "2026-06-08T06:45:34.000Z",
-    "updatedAt": "2026-06-08T06:51:02Z"
+    "updatedAt": "2026-06-08T12:01:22Z"
+  },
+  {
+    "id": 538,
+    "seccion": "internacional",
+    "pais": "Corea del Sur",
+    "bandera": "🇰🇷",
+    "hora": "09:00",
+    "fecha": "2026-06-08",
+    "lugar": "Seúl (SK Olympic Handball Gymnasium, Songpa Ward)",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "People's Welfare Countermeasure Committee",
+      "Ciudadanos de Seúl"
+    ],
+    "motivo": "Cuarto día de protestas masivas por la escasez de boletas en las elecciones locales del 3 de junio. Aproximadamente 1.600 manifestantes rodearon el gimnasio donde se realiza el conteo de votos, bloqueando las 10 entradas para impedir la remoción de urnas. Exigen una repetición de las elecciones y denuncian fraude electoral. La votación fue suspendida temporalmente en 22 centros de votación por falta de papeletas. La policía desplegó 350 efectivos. El presidente Lee Jae Myung ordenó una investigación conjunta entre fiscales y policía",
+    "status": "en_curso",
+    "lat": "37.5100",
+    "lng": "127.1100",
+    "fuentes": [
+      {
+        "nombre": "Yonhap",
+        "url": "https://en.yna.co.kr/view/AEN20260608005951315"
+      },
+      {
+        "nombre": "The Korea Times",
+        "url": "https://www.koreatimes.co.kr/southkorea/society/20260608/protest-over-ballot-shortage-in-local-elections-enters-4th-day"
+      }
+    ],
+    "createdAt": "2026-06-08T11:55:49.000Z",
+    "updatedAt": "2026-06-08T12:01:22Z"
+  },
+  {
+    "id": 539,
+    "seccion": "internacional",
+    "pais": "España",
+    "bandera": "🇪🇸",
+    "hora": "00:01",
+    "fecha": "2026-06-08",
+    "lugar": "Todas las delegaciones de la Agencia Tributaria (AEAT) en España. Concentraciones a las 11:00 en todas las comunidades autónomas, incluyendo Madrid (calle Guzmán el Bueno)",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "CSIF (Central Sindical Independiente y de Funcionarios)"
+    ],
+    "motivo": "Huelga de 24 horas de los 28.000 trabajadores de la Agencia Estatal de Administración Tributaria (AEAT) en toda España, en plena campaña de la Renta 2025. Exigen mejoras salariales y condiciones laborales, promoción interna, regulación del teletrabajo y que el personal de Vigilancia Aduanera sea declarado profesión de riesgo. La huelga es convocada en solitario por CSIF, sin el respaldo de CCOO, UGT, Gestha y SIAT. Concentraciones de 11:00 a 12:00 en todas las delegaciones. Culmina el calendario de protestas iniciado el 6 de mayo",
+    "status": "en_curso",
+    "lat": "40.4168",
+    "lng": "-3.7038",
+    "fuentes": [
+      {
+        "nombre": "El Mundo",
+        "url": "https://www.elmundo.es/economia/2026/06/08/6a268551e4d4d8a24f8b457d.html"
+      },
+      {
+        "nombre": "Infobae / EFE",
+        "url": "https://www.infobae.com/espana/agencias/2026/06/08/csif-convoca-este-lunes-a-la-huelga-a-los-28000-trabajadores-de-la-agencia-tributaria/"
+      },
+      {
+        "nombre": "Última Hora",
+        "url": "https://www.ultimahora.es/noticias/local/2026/06/08/2645275/funcionarios-agencia-tributaria-estan-convocados-huelga-este-lunes-plena-campana-declaracion-renta.html"
+      }
+    ],
+    "createdAt": "2026-06-08T11:55:49.000Z",
+    "updatedAt": "2026-06-08T12:01:22Z"
+  },
+  {
+    "id": 540,
+    "seccion": "internacional",
+    "pais": "España",
+    "bandera": "🇪🇸",
+    "hora": "09:30",
+    "fecha": "2026-06-08",
+    "lugar": "Valencia (Conselleria de Educación, avenida de Campanar). Acampada en la Plaza de la Virgen de València",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "STEPV",
+      "CCOO",
+      "UGT",
+      "CSIF",
+      "ANPE"
+    ],
+    "motivo": "Quinta semana de huelga indefinida del profesorado de la enseñanza pública no universitaria valenciana (iniciada el 11 de mayo, 21 días lectivos). Undécima reunión negociadora con la Conselleria de Educación. El gobierno valenciano presentó una oferta de 3.388 millones de euros en cuatro años que incluye reducción de ratios, incorporación de 7.742 docentes y 1.410 millones para infraestructuras. Los sindicatos estudian la propuesta pero el valenciano sigue siendo el principal escollo. Concentración a las 9:30 frente a la Conselleria. La acampada en la Plaza de la Virgen cumple una semana",
+    "status": "en_curso",
+    "lat": "39.4699",
+    "lng": "-0.3763",
+    "fuentes": [
+      {
+        "nombre": "Levante-EMV",
+        "url": "https://www.levante-emv.com/comunitat-valenciana/2026/06/08/ultima-hora-huelga-indefinida-de-profesores-valencia-reunion-conselleria-130615662.html"
+      },
+      {
+        "nombre": "EFE",
+        "url": "https://efe.com/espana/2026-06-08/huelga-docentes-valencianos-quinta-semana/"
+      }
+    ],
+    "createdAt": "2026-06-08T11:55:49.000Z",
+    "updatedAt": "2026-06-08T12:01:22Z"
+  },
+  {
+    "id": 541,
+    "seccion": "internacional",
+    "pais": "India",
+    "bandera": "🇮🇳",
+    "hora": "00:01",
+    "fecha": "2026-06-08",
+    "lugar": "Amritsar, Punjab",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Agricultores de Punjab"
+    ],
+    "motivo": "Agricultores de Amritsar realizaron una protesta contra la presunta escasez de urea y fertilizantes. Manifestantes prepararon la quema de un muñeco como forma de protesta. La policía implementó medidas de seguridad adecuadas para mantener el orden público durante la manifestación",
+    "status": "finalizada",
+    "lat": "31.6340",
+    "lng": "74.8723",
+    "fuentes": [
+      {
+        "nombre": "The News Mill",
+        "url": "https://thenewsmill.com/2026/06/farmers-protest-in-amritsar-over-urea-and-fertiliser-shortage-with-security-measures-in-place/"
+      }
+    ],
+    "createdAt": "2026-06-08T11:55:49.000Z",
+    "updatedAt": "2026-06-08T12:01:22Z"
+  },
+  {
+    "id": 542,
+    "seccion": "internacional",
+    "pais": "Bangladesh",
+    "bandera": "🇧🇩",
+    "hora": "08:00",
+    "fecha": "2026-06-08",
+    "lugar": "Dhaka (Central Shaheed Minar). Réplicas en Chattogram, Sylhet, Rajshahi, Mymensingh, Magura, Naogaon y otros distritos",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "Intern Doctors' Association",
+      "Bangladesh Medical Association"
+    ],
+    "motivo": "Huelga nacional indefinida de médicos internos de hospitales públicos y privados. Exigen seis puntos: cancelación de la decisión del Ministerio sobre el entrenamiento FCPS; tarifas de examen de admisión entre 500 y 1.000 takas; salario mínimo de 30.000 takas para médicos internos; ubicación laboral para médicos en formación bajo el Grado 9 de la escala salarial nacional; aprobación de una ley de seguridad para trabajadores de la salud; aumento del límite de edad para ingresar a la administración pública de salud a 34 años; y un salario claro para médicos de instituciones privadas. Servicios de emergencia (UCI, CCU) excluidos de la huelga",
+    "status": "en_curso",
+    "lat": "23.8103",
+    "lng": "90.4125",
+    "fuentes": [
+      {
+        "nombre": "New Age BD",
+        "url": "https://www.newagebd.net/post/country/301976/intern-doctors-go-on-strike"
+      }
+    ],
+    "createdAt": "2026-06-08T11:55:49.000Z",
+    "updatedAt": "2026-06-08T12:01:22Z"
+  },
+  {
+    "id": 543,
+    "seccion": "internacional",
+    "pais": "Venezuela",
+    "bandera": "🇻🇪",
+    "hora": "00:01",
+    "fecha": "2026-06-08",
+    "lugar": "Caracas (frente a la Embajada de Estados Unidos). Convocatoria a la diáspora venezolana en plazas emblemáticas del mundo",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Comité por la Libertad de los Presos Políticos",
+      "Familiares de presos políticos"
+    ],
+    "motivo": "Protesta nacional e internacional para exigir la excarcelación de más de 500 presos políticos en Venezuela. Se cumplen 5 meses desde que se anunció públicamente la liberación de todos los presos políticos sin que se haya materializado. También se cumplen 5 meses de vigilias frente a El Rodeo y El Helicoide. El domingo 7 de junio familiares realizaron una vigilia frente a la Embajada de EE.UU. en Caracas. Convocan a la diáspora venezolana a vestir camisas de colores (amarillo, azul, rosado, verde) y alzar la voz en plazas emblemáticas de sus ciudades",
+    "status": "en_curso",
+    "lat": "10.4806",
+    "lng": "-66.9036",
+    "fuentes": [
+      {
+        "nombre": "El Nacional",
+        "url": "https://www.elnacional.com/2026/06/familiares-de-presos-politicos-hicieron-vigilia-frente-a-la-embajada-de-estados-unidos-en-caracas/"
+      }
+    ],
+    "createdAt": "2026-06-08T11:55:49.000Z",
+    "updatedAt": "2026-06-08T12:01:22Z"
+  },
+  {
+    "id": 544,
+    "seccion": "internacional",
+    "pais": "Australia",
+    "bandera": "🇦🇺",
+    "hora": "00:01",
+    "fecha": "2026-06-08",
+    "lugar": "Instalaciones de Ichthys LNG (frente a la costa de Australia Occidental)",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "Offshore Alliance",
+      "Maritime Union of Australia",
+      "Australian Workers' Union"
+    ],
+    "motivo": "Escalada de la huelga en las instalaciones de gas natural licuado Ichthys LNG de Inpex. Los trabajadores aumentaron los paros de 4 a 8 horas diarias y sumarán nuevas prohibiciones laborales el jueves. El sindicato denuncia que Inpex incumplió los términos acordados en la negociación facilitada por la Fair Work Commission. Inpex busca un acuerdo con condiciones inferiores a las discutidas: beneficios reducidos para trabajo remoto, menos puestos de tiempo completo garantizados, salarios más bajos y términos de despido por debajo de los estándares de la industria",
+    "status": "en_curso",
+    "lat": "-20.0000",
+    "lng": "120.0000",
+    "fuentes": [
+      {
+        "nombre": "Reuters / MarketScreener",
+        "url": "https://au.marketscreener.com/news/workers-to-escalate-strike-at-inpex-s-ichthys-lng-sites-after-talks-fail-ce7f5dd2dc8df426"
+      },
+      {
+        "nombre": "Mezha",
+        "url": "https://mezha.net/eng/bukvy/b78e95c5_workers_escalate_strike/"
+      }
+    ],
+    "createdAt": "2026-06-08T11:55:49.000Z",
+    "updatedAt": "2026-06-08T12:01:22Z"
   },
   {
     "id": 515,
@@ -325,7 +549,7 @@
       }
     ],
     "createdAt": "2026-06-07T03:42:29.000Z",
-    "updatedAt": "2026-06-08T06:51:02Z"
+    "updatedAt": "2026-06-08T12:01:22Z"
   },
   {
     "id": 516,
@@ -376,10 +600,14 @@
       {
         "nombre": "Noticias Puerto Santa Cruz",
         "url": "https://noticiaspuertosantacruz.com.ar/policia-de-santa-cruz-protesta-pese-a-tener-fecha-confirmada-de-paritarias-salariales"
+      },
+      {
+        "nombre": "OPI Santa Cruz",
+        "url": "https://www.opisantacruz.com.ar/2026/06/07/policias-protestas-cadetes-supliendo-efectivos-en-comisarias/"
       }
     ],
     "createdAt": "2026-06-07T03:42:29.000Z",
-    "updatedAt": "2026-06-08T06:51:02Z"
+    "updatedAt": "2026-06-08T12:01:22Z"
   },
   {
     "id": 536,
@@ -409,9 +637,17 @@
       {
         "nombre": "El Comercio Online",
         "url": "https://www.elcomercioonline.com.ar/articulos/60108278-Prestadores-de-PAMI-inician-un-paro-de-72-horas-para-reclamar-una-actualizacion-de-honorarios.html"
+      },
+      {
+        "nombre": "MendoVoz",
+        "url": "https://www.mendovoz.com/actualidad/nacionales/2026/6/8/paro-de-72-horas-en-pami-medicos-de-cabecera-odontologos-suspenden-la-atencion-172775.html"
+      },
+      {
+        "nombre": "Perfil",
+        "url": "https://www.perfil.com/noticias/politica/pami-medicos-de-cabecera-y-odontologos-inician-un-paro-de-72-horas.phtml"
       }
     ],
     "createdAt": "2026-06-08T01:42:22.000Z",
-    "updatedAt": "2026-06-08T06:51:02Z"
+    "updatedAt": "2026-06-08T12:01:22Z"
   }
 ]
