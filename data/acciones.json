@@ -47,7 +47,7 @@
       }
     ],
     "createdAt": "2026-06-07T03:42:29.000Z",
-    "updatedAt": "2026-06-10T08:14:34Z"
+    "updatedAt": "2026-06-10T12:02:49Z"
   },
   {
     "id": 536,
@@ -100,7 +100,7 @@
       }
     ],
     "createdAt": "2026-06-08T01:42:22.000Z",
-    "updatedAt": "2026-06-10T08:14:34Z"
+    "updatedAt": "2026-06-10T12:02:49Z"
   },
   {
     "id": 607,
@@ -132,7 +132,32 @@
       }
     ],
     "createdAt": "2026-06-10T08:10:00.000Z",
-    "updatedAt": "2026-06-10T08:14:34Z"
+    "updatedAt": "2026-06-10T12:02:49Z"
+  },
+  {
+    "id": 609,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "00:01",
+    "fecha": "2026-06-10",
+    "lugar": "Santa Cruz (toda la provincia, sin clases en todas las escuelas)",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "ADOSAC (Asociación Docentes de Santa Cruz)"
+    ],
+    "motivo": "Paro de 72 horas que comienza hoy 10 de junio en toda la provincia de Santa Cruz, paralizando el dictado de clases. Exigen recomposición salarial que supere el costo de la canasta básica ($2.000.000), aplicación de cláusula gatillo con carácter retroactivo a enero, devolución de montos descontados por días de huelga y rechazo a la incorporación de UDA en la mesa paritaria. El Gobierno provincial postergó negociaciones hasta el 18 de junio y condicionó mejoras a un crédito de 600 millones de dólares",
+    "status": "en_curso",
+    "lat": "-51.6230",
+    "lng": "-69.2168",
+    "fuentes": [
+      {
+        "nombre": "+Prensa",
+        "url": "https://masprensa.com/2026/06/09/adosac-ratifico-un-paro-de-72-horas-ante-la-falta-de-oferta-salarial/"
+      }
+    ],
+    "createdAt": "2026-06-10T11:56:00.000Z",
+    "updatedAt": "2026-06-10T12:02:49Z"
   },
   {
     "id": 334,
@@ -148,7 +173,7 @@
       "Federación Tupac Katari",
       "Sectores afines a Evo Morales"
     ],
-    "motivo": "Día 41 de protestas con bloqueos. La COB y la Federación Tupac Katari convocaron a una gran marcha desde El Alto hacia La Paz este 10 de junio, con refuerzos de Potosí, Oruro y el Chapare. Exigen la renuncia del presidente Rodrigo Paz y un aumento salarial del 20%. Desabastecimiento crítico de alimentos, combustible y oxígeno medicinal. El Senado aprobó ley que permite al presidente usar el ejército. Al menos 10 fallecidos reportados. Cabildos en La Paz y Sucre exigen medidas de excepción",
+    "motivo": "Día 41 de protestas con bloqueos. La COB y la Federación Tupac Katari convocaron a una gran marcha desde El Alto hacia La Paz este 10 de junio, con refuerzos de Potosí, Oruro y el Chapare. Exigen la renuncia del presidente Rodrigo Paz y un aumento salarial del 20%. Desabastecimiento crítico de alimentos, combustible y oxígeno medicinal. El Senado aprobó ley que permite al presidente usar el ejército. Al menos 10 fallecidos reportados. Cabildos en La Paz y Sucre exigen medidas de excepción. La Policía fue acuartelada y los militares desplegaron carros Neptuno",
     "status": "en_curso",
     "lat": "-16.5000",
     "lng": "-68.1500",
@@ -168,10 +193,14 @@
       {
         "nombre": "UPI",
         "url": "https://www.upi.com/Top_News/World-News/2026/06/09/latam-bolivia-protesters-threats/6761781033978/"
+      },
+      {
+        "nombre": "El Deber",
+        "url": "https://eldeber.com.bo/pais/campesinos-fejuves-cobistas-preparan-marcha-paz-este-martes_1781058543"
       }
     ],
     "createdAt": "2026-06-06T00:04:47.000Z",
-    "updatedAt": "2026-06-10T08:14:34Z"
+    "updatedAt": "2026-06-10T12:02:49Z"
   },
   {
     "id": 335,
@@ -185,7 +214,7 @@
     "organizaciones": [
       "CNTE (Coordinadora Nacional de Trabajadores de la Educación)"
     ],
-    "motivo": "Día 10 de la huelga nacional indefinida. Megamarcha conmemorativa a 55 años del Halconazo (10 de junio de 1971) desde Casco de Santo Tomás al Zócalo a las 16:00. Exigen abrogación de la Ley del ISSSTE de 2007, aumento salarial y derogación de reforma educativa. El gobierno blindó el Estadio Ciudad de México para la inauguración del Mundial 2026. La CNTE amenaza con protestar el 11 de junio. Madres buscadoras realizan rodada nocturna y velada al estadio. Transportistas y campesinos se suman",
+    "motivo": "Día 10 de la huelga nacional indefinida. Megamarcha conmemorativa a 55 años del Halconazo (10 de junio de 1971) desde Casco de Santo Tomás al Zócalo a las 16:00. Exigen abrogación de la Ley del ISSSTE de 2007, aumento salarial y derogación de reforma educativa. El gobierno blindó el Estadio Ciudad de México para la inauguración del Mundial 2026. La CNTE amenaza con protestar el 11 de junio. Madres buscadoras realizan rodada nocturna y velada al estadio. Transportistas y campesinos se suman. Gobierno activó cerco de seguridad perimetral desde hoy",
     "status": "en_curso",
     "lat": "19.4326",
     "lng": "-99.1332",
@@ -209,10 +238,18 @@
       {
         "nombre": "El Espectador",
         "url": "https://www.elespectador.com/mundo/america/protestas-y-posibles-huelgas-los-reclamos-en-ee-uu-y-mexico-antes-del-mundial/"
+      },
+      {
+        "nombre": "AS México",
+        "url": "https://mexico.as.com/actualidad/megamarcha-cnte-10-de-junio-a-que-hora-inician-los-bloqueos-ruta-y-afectaciones-viales-hoy-en-cdmx-f202606-n/"
+      },
+      {
+        "nombre": "Excelsior",
+        "url": "https://www.excelsior.com.mx/nacional/no-pasaran-advierte-cnte-autoridades-adelantan-cerco-seguridad"
       }
     ],
     "createdAt": "2026-06-06T00:04:47.000Z",
-    "updatedAt": "2026-06-10T08:14:34Z"
+    "updatedAt": "2026-06-10T12:02:49Z"
   },
   {
     "id": 344,
@@ -242,7 +279,7 @@
       }
     ],
     "createdAt": "2026-06-06T00:04:47.000Z",
-    "updatedAt": "2026-06-10T08:14:34Z"
+    "updatedAt": "2026-06-10T12:02:49Z"
   },
   {
     "id": 522,
@@ -259,7 +296,7 @@
       "BirdLife Albania",
       "Diáspora albanesa en Europa y América"
     ],
-    "motivo": "Día 10 de la 'Revolución Flamenca' contra el resort de lujo de Jared Kushner e Ivanka Trump en la laguna Vjosa-Narta. Manifestación masiva con participación récord este 10 de junio. La diáspora organiza vuelos chárter desde Inglaterra para unirse. Exigen cancelación del proyecto y renuncia del primer ministro Edi Rama. La Fiscalía Especial contra la Corrupción (SPAK) abrió investigación formal. Consignas: 'Albania no está en venta', 'Revolución'",
+    "motivo": "Día 11 de la 'Revolución Flamenca' contra el resort de lujo de Jared Kushner e Ivanka Trump en la laguna Vjosa-Narta. Manifestación masiva con participación récord. Miles de ciudadanos marcharon por diversas calles de Tirana. La diáspora organiza vuelos chárter desde Inglaterra para unirse. Exigen cancelación del proyecto y renuncia del primer ministro Edi Rama. La Fiscalía Especial contra la Corrupción (SPAK) abrió investigación formal. Consignas: 'Albania no está en venta', 'Revolución'",
     "status": "en_curso",
     "lat": "41.3275",
     "lng": "19.8187",
@@ -278,11 +315,15 @@
       },
       {
         "nombre": "Panorama.al",
-        "url": "https://en.panorama.com.al/mijera-qytetare-ne-shesh-kerkojne-doreheqjen-e-rames-agim-nesho-diktatori-i-flamingove-nuk-mund-te-ndaloje-fluturimin-e-lire-te-shqiponjave/"
+        "url": "https://en.panorama.com.al/video-protesta-per-doreheqjen-e-qeverise-mijera-protestues-marshim-ne-rruge-te-ndryshme-te-tiranes-ju-erdhi-fundi/"
+      },
+      {
+        "nombre": "24 Seven",
+        "url": "https://24seven.news/2026/06/10/protests-surge-as-albanian-pm-backs-luxury-development-tied-to-kushner/"
       }
     ],
     "createdAt": "2026-06-07T14:27:51.000Z",
-    "updatedAt": "2026-06-10T08:14:34Z"
+    "updatedAt": "2026-06-10T12:02:49Z"
   },
   {
     "id": 527,
@@ -311,7 +352,7 @@
       }
     ],
     "createdAt": "2026-06-07T18:47:34.000Z",
-    "updatedAt": "2026-06-10T08:14:34Z"
+    "updatedAt": "2026-06-10T12:02:49Z"
   },
   {
     "id": 535,
@@ -340,7 +381,7 @@
       }
     ],
     "createdAt": "2026-06-08T01:39:53.000Z",
-    "updatedAt": "2026-06-10T08:14:34Z"
+    "updatedAt": "2026-06-10T12:02:49Z"
   },
   {
     "id": 537,
@@ -365,7 +406,7 @@
       }
     ],
     "createdAt": "2026-06-08T06:45:34.000Z",
-    "updatedAt": "2026-06-10T08:14:34Z"
+    "updatedAt": "2026-06-10T12:02:49Z"
   },
   {
     "id": 540,
@@ -398,7 +439,7 @@
       }
     ],
     "createdAt": "2026-06-08T11:55:49.000Z",
-    "updatedAt": "2026-06-10T08:14:34Z"
+    "updatedAt": "2026-06-10T12:02:49Z"
   },
   {
     "id": 542,
@@ -428,7 +469,7 @@
       }
     ],
     "createdAt": "2026-06-08T11:55:49.000Z",
-    "updatedAt": "2026-06-10T08:14:34Z"
+    "updatedAt": "2026-06-10T12:02:49Z"
   },
   {
     "id": 543,
@@ -443,7 +484,7 @@
       "Comité por la Libertad de los Presos Políticos",
       "Familiares de presos políticos"
     ],
-    "motivo": "Continúa la protesta exigiendo excarcelación de más de 500 presos políticos. Más de 5 meses desde el anuncio público de liberación sin materializarse. Vigilias frente a El Rodeo, El Helicoide y Embajada de EE.UU.",
+    "motivo": "Continúa la protesta exigiendo excarcelación de más de 500 presos políticos. Más de 5 meses desde el anuncio público de liberación sin materializarse. Vigilias frente a El Rodeo, El Helicoide y Embajada de EE.UU. Ley de amnistía aprobada en febrero pero ~400 presos políticos permanecen encarcelados según Foro Penal",
     "status": "en_curso",
     "lat": "10.4806",
     "lng": "-66.9036",
@@ -451,10 +492,14 @@
       {
         "nombre": "El Nacional",
         "url": "https://www.elnacional.com/2026/06/familiares-de-presos-politicos-hicieron-vigilia-frente-a-la-embajada-de-estados-unidos-en-caracas/"
+      },
+      {
+        "nombre": "BSS/AFP",
+        "url": "https://www.bssnews.net/international/394161"
       }
     ],
     "createdAt": "2026-06-08T11:55:49.000Z",
-    "updatedAt": "2026-06-10T08:14:34Z"
+    "updatedAt": "2026-06-10T12:02:49Z"
   },
   {
     "id": 544,
@@ -481,7 +526,7 @@
       }
     ],
     "createdAt": "2026-06-08T11:55:49.000Z",
-    "updatedAt": "2026-06-10T08:14:34Z"
+    "updatedAt": "2026-06-10T12:02:49Z"
   },
   {
     "id": 545,
@@ -510,7 +555,7 @@
       }
     ],
     "createdAt": "2026-06-08T15:51:39.000Z",
-    "updatedAt": "2026-06-10T08:14:34Z"
+    "updatedAt": "2026-06-10T12:02:49Z"
   },
   {
     "id": 554,
@@ -539,7 +584,7 @@
       }
     ],
     "createdAt": "2026-06-08T20:42:40.000Z",
-    "updatedAt": "2026-06-10T08:14:34Z"
+    "updatedAt": "2026-06-10T12:02:49Z"
   },
   {
     "id": 555,
@@ -568,7 +613,7 @@
       }
     ],
     "createdAt": "2026-06-08T20:42:40.000Z",
-    "updatedAt": "2026-06-10T08:14:34Z"
+    "updatedAt": "2026-06-10T12:02:49Z"
   },
   {
     "id": 557,
@@ -594,7 +639,7 @@
       }
     ],
     "createdAt": "2026-06-08T22:24:51.000Z",
-    "updatedAt": "2026-06-10T08:14:34Z"
+    "updatedAt": "2026-06-10T12:02:49Z"
   },
   {
     "id": 563,
@@ -609,7 +654,7 @@
       "Joint Awami Action Committee (JAAC)",
       "AJK Bar Council"
     ],
-    "motivo": "Continúa el cierre total (shutter-down strike) en AJK con enfrentamientos violentos. El gobierno de AJK ordenó procesos por sedición contra líderes del JAAC y ofrece recompensa de 10 millones de rupias. Varios muertos en Kotli. Cierre total de comercios, bancos y transporte. El colegio de abogados boicotea procedimientos judiciales. Internet suspendido. Amnistía Internacional condena la represión",
+    "motivo": "Continúa el cierre total (shutter-down strike) en AJK con enfrentamientos violentos. 27 muertos y más de 200 heridos reportados. El gobierno de AJK ordenó procesos por sedición contra líderes del JAAC y ofrece recompensa de 10 millones de rupias. Cierre total de comercios, bancos y transporte. El colegio de abogados boicotea procedimientos judiciales. Internet suspendido. Amnistía Internacional condena la represión. La diáspora en Londres protesta, 50 parlamentarios británicos expresan preocupación",
     "status": "en_curso",
     "lat": "34.3700",
     "lng": "73.4700",
@@ -625,10 +670,18 @@
       {
         "nombre": "ANI News",
         "url": "https://www.aninews.in/news/world/asia/anti-pakistan-anger-rises-in-pojk-joint-awami-action-committee-announces-massive-shutdown20260512230655"
+      },
+      {
+        "nombre": "Business Today",
+        "url": "https://www.businesstoday.in/bt-tv/whats-hot/video/pok-uprising-27-dead-as-pakistan-army-cracks-down-on-banned-jaac-protests-india-demands-justice-536020-2026-06-10"
+      },
+      {
+        "nombre": "The Hindu",
+        "url": "https://www.thehindu.com/news/international/markets-streets-deserted-in-different-parts-of-pok-after-jaacs-protest-call/article71083633.ece"
       }
     ],
     "createdAt": "2026-06-09T02:53:20.000Z",
-    "updatedAt": "2026-06-10T08:14:34Z"
+    "updatedAt": "2026-06-10T12:02:49Z"
   },
   {
     "id": 567,
@@ -655,7 +708,7 @@
       }
     ],
     "createdAt": "2026-06-09T06:48:40.000Z",
-    "updatedAt": "2026-06-10T08:14:34Z"
+    "updatedAt": "2026-06-10T12:02:49Z"
   },
   {
     "id": 569,
@@ -680,7 +733,7 @@
       }
     ],
     "createdAt": "2026-06-09T06:48:40.000Z",
-    "updatedAt": "2026-06-10T08:14:34Z"
+    "updatedAt": "2026-06-10T12:02:49Z"
   },
   {
     "id": 570,
@@ -709,7 +762,7 @@
       }
     ],
     "createdAt": "2026-06-09T10:33:16.000Z",
-    "updatedAt": "2026-06-10T08:14:34Z"
+    "updatedAt": "2026-06-10T12:02:49Z"
   },
   {
     "id": 571,
@@ -738,7 +791,7 @@
       }
     ],
     "createdAt": "2026-06-09T10:33:16.000Z",
-    "updatedAt": "2026-06-10T08:14:34Z"
+    "updatedAt": "2026-06-10T12:02:49Z"
   },
   {
     "id": 576,
@@ -773,7 +826,7 @@
       }
     ],
     "createdAt": "2026-06-09T20:54:55.000Z",
-    "updatedAt": "2026-06-10T08:14:34Z"
+    "updatedAt": "2026-06-10T12:02:49Z"
   },
   {
     "id": 581,
@@ -790,7 +843,7 @@
       "UNSA-Ferroviaire",
       "CFDT-Cheminots"
     ],
-    "motivo": "Huelga nacional unitaria de 24h en SNCF con los cuatro sindicatos ferroviarios. Protestan contra reestructuraciones, deterioro de condiciones laborales, riesgos psicosociales y aumento salarial insuficiente del 2.57%. Se esperan graves perturbaciones: 1 de cada 3 TGV cancelados, 1 de cada 2 Intercités. Eurostar ya canceló servicios del 8 al 13 de junio. Es la mayor huelga ferroviaria del año",
+    "motivo": "Huelga nacional unitaria de 24h en SNCF con los cuatro sindicatos ferroviarios. Protestan contra reestructuraciones, deterioro de condiciones laborales, riesgos psicosociales y aumento salarial insuficiente del 2.57%. Se esperan graves perturbaciones: 1 de cada 3 TGV cancelados, 1 de cada 2 Intercités. Eurostar ya canceló servicios del 8 al 13 de junio. Es la mayor huelga ferroviaria del año. Los trabajadores decidieron renovar la huelga hasta al menos el 14 de junio",
     "status": "en_curso",
     "lat": "48.8566",
     "lng": "2.3522",
@@ -814,10 +867,14 @@
       {
         "nombre": "TravelTourister",
         "url": "https://www.traveltourister.com/news/france-sncf-strike-june-10-2026-eurostar-cancellations-tgv-thalys-what-to-do-rights/"
+      },
+      {
+        "nombre": "Bonjour RATP",
+        "url": "https://www.bonjour-ratp.fr/en/actualites/articles/greve-100626/"
       }
     ],
     "createdAt": "2026-06-09T23:50:51.000Z",
-    "updatedAt": "2026-06-10T08:14:34Z"
+    "updatedAt": "2026-06-10T12:02:49Z"
   },
   {
     "id": 600,
@@ -832,7 +889,7 @@
       "Korean Confederation of Trade Unions (KCTU) - Kakao branch",
       "Sindicatos de KakaoPay, Kakao Enterprise, DK Tech, XL Games"
     ],
-    "motivo": "Primera huelga en la historia en la sede central de Kakao. Huelga parcial de 10:00 a 15:00 con manifestación en Pangyo. Unions de 5 subsidiarias participan: Kakao HQ, KakaoPay, Kakao Enterprise, DK Tech y XL Games. Exigen seguridad laboral ante ventas y reestructuraciones, mejora del sistema de compensación y condenan prácticas gerenciales. ~2.000 miembros convocados, ~600 esperados según policía. No se anticipan afectaciones a KakaoTalk o KakaoPay",
+    "motivo": "Primera huelga en la historia en la sede central de Kakao. Huelga parcial de 10:00 a 15:00 con manifestación en Pangyo. Unions de 5 subsidiarias participan: Kakao HQ, KakaoPay, Kakao Enterprise, DK Tech y XL Games. Exigen seguridad laboral ante ventas y reestructuraciones, mejora del sistema de compensación y condenan prácticas gerenciales. ~2.000 miembros convocados, ~500-800 participantes según fuentes. No se anticipan afectaciones a KakaoTalk o KakaoPay. Advierten de segunda huelga el 29 de junio ('logoff day')",
     "status": "en_curso",
     "lat": "37.3947",
     "lng": "127.1105",
@@ -844,10 +901,14 @@
       {
         "nombre": "WSWS",
         "url": "https://www.wsws.org/en/articles/2026/06/06/osxk-j06.html"
+      },
+      {
+        "nombre": "Digital Today",
+        "url": "https://www.digitaltoday.co.kr/en/view/62170/kakao-union-presses-ahead-with-first-headquarters-strike-warns-of-second-walkout-on-june-29-logoff-day"
       }
     ],
     "createdAt": "2026-06-10T03:30:55.000Z",
-    "updatedAt": "2026-06-10T08:14:34Z"
+    "updatedAt": "2026-06-10T12:02:49Z"
   },
   {
     "id": 601,
@@ -863,7 +924,7 @@
       "Federación de Maestros",
       "IST (Integración de los Trabajadores Socialistas)"
     ],
-    "motivo": "Tercer paro general parcial del PIT-CNT bajo el gobierno de Yamandú Orsi, de 9:00 a 13:00. Maestros de todo el país extienden la medida a 24h. Exigen aumento de presupuesto para educación y salud pública, rechazan el ajuste del Ministro de Economía. Los trabajadores tercerizados del MIDES denuncian meses de salarios impagos. Sectores del transporte y ONGs también en conflicto",
+    "motivo": "Tercer paro general parcial del PIT-CNT bajo el gobierno de Yamandú Orsi, de 9:00 a 13:00. Maestros de todo el país extienden la medida a 24h. Exigen aumento de presupuesto para educación y salud pública, rechazan el ajuste del Ministro de Economía. Los trabajadores tercerizados del MIDES denuncian meses de salarios impagos. Sectores del transporte y ONGs también en conflicto. Educación pública detiene actividades 24h en primaria, secundaria y Udelar",
     "status": "en_curso",
     "lat": "-34.9011",
     "lng": "-56.1645",
@@ -871,10 +932,14 @@
       {
         "nombre": "IST / LITCI Uruguay",
         "url": "https://www.ist.uy/10-6-todos-al-paro-general/"
+      },
+      {
+        "nombre": "Actualidad",
+        "url": "https://www.actualidad.com.uy/index.php/nacionales/9086-el-pit-cnt-realiza-un-paro-general-parcial-este-miercoles-10-de-junio"
       }
     ],
     "createdAt": "2026-06-10T03:30:55.000Z",
-    "updatedAt": "2026-06-10T08:14:34Z"
+    "updatedAt": "2026-06-10T12:02:49Z"
   },
   {
     "id": 602,
@@ -890,7 +955,7 @@
       "Federaciones Nacionales del Magisterio",
       "Sindicatos filiales"
     ],
-    "motivo": "Jornada nacional de protesta 'Protesto quedándome en mi casa' de 7:00 a 19:00. Declaración de Emergencia Educativa por colapso de condiciones laborales. Exigen restitución de derechos adquiridos, cese de suspensiones de sueldos, firma de contrato colectivo digno y aumento salarial. Forma parte de un cronograma de lucha del 1 al 12 de junio",
+    "motivo": "Jornada nacional de protesta 'Protesto quedándome en mi casa' de 7:00 a 19:00. Declaración de Emergencia Educativa por colapso de condiciones laborales. Exigen restitución de derechos adquiridos, cese de suspensiones de sueldos, firma de contrato colectivo digno y aumento salarial. Forma parte de un cronograma de lucha del 1 al 12 de junio. Se suman profesores universitarios (APUCV) en paro de 24h",
     "status": "en_curso",
     "lat": "10.4806",
     "lng": "-66.9036",
@@ -902,10 +967,14 @@
       {
         "nombre": "Noticia y Punto",
         "url": "https://noticiaypunto.net/convocan-a-paro-nacional-para-el-10-de-junio-en-emergencia-educativa-se-declara-el-magisterio-venezolano-durante-protesta-en-caracas/"
+      },
+      {
+        "nombre": "Diario Frontera",
+        "url": "https://fronteradigital.com.ve/entrada/73208"
       }
     ],
     "createdAt": "2026-06-10T03:30:55.000Z",
-    "updatedAt": "2026-06-10T08:14:34Z"
+    "updatedAt": "2026-06-10T12:02:49Z"
   },
   {
     "id": 603,
@@ -914,13 +983,14 @@
     "bandera": "🇩🇪",
     "hora": "12:30",
     "fecha": "2026-06-10",
-    "lugar": "Hannover, Platz der Menschenrechte (Trammplatz)",
+    "lugar": "Hannover (Platz der Menschenrechte/Trammplatz) y acciones solidarias en todo el país",
     "tipoAccion": "protesta",
     "organizaciones": [
       "DBfK (Deutscher Berufsverband für Pflegeberufe)",
-      "Verdi"
+      "Verdi",
+      "Asociaciones de médicos y hospitales"
     ],
-    "motivo": "Protesta de enfermeras/os coincidiendo con la Conferencia de Ministros de Salud en Hannover. Rechazan el proyecto de reforma GKV que prevé recortes drásticos en áreas de cuidados: presupuestos limitados, refinanciación parcial de tarifas de personal y eliminación de financiación de medidas de alivio. Advierten que esto provocará reducción de personal y empeoramiento de la atención",
+    "motivo": "Protesta nacional contra los planes de austeridad de la ministra de Salud Nina Warken, que prevén recortes drásticos en áreas de cuidados y salud. Manifestación central en Hannover coincidiendo con la Conferencia de Ministros de Salud (GMK). En Hamburgo, consultorías cierran 2h; el viernes hospitales de Baviera cerrarán simbólicamente sus accesos. Advierten que los recortes provocarán reducción de personal y empeoramiento de la atención",
     "status": "en_curso",
     "lat": "52.3759",
     "lng": "9.7320",
@@ -928,10 +998,14 @@
       {
         "nombre": "DBfK",
         "url": "https://www.dbfk.de/de/berufspolitik/pflegedemo-hannover.php"
+      },
+      {
+        "nombre": "Tagesschau",
+        "url": "https://www.tagesschau.de/inland/innenpolitik/plaene-reform-krankenkassen-protest-100.html"
       }
     ],
     "createdAt": "2026-06-10T03:30:55.000Z",
-    "updatedAt": "2026-06-10T08:14:34Z"
+    "updatedAt": "2026-06-10T12:02:49Z"
   },
   {
     "id": 604,
@@ -962,7 +1036,7 @@
       }
     ],
     "createdAt": "2026-06-10T03:30:55.000Z",
-    "updatedAt": "2026-06-10T08:14:34Z"
+    "updatedAt": "2026-06-10T12:02:49Z"
   },
   {
     "id": 605,
@@ -995,7 +1069,7 @@
       }
     ],
     "createdAt": "2026-06-10T08:05:41.000Z",
-    "updatedAt": "2026-06-10T08:14:34Z"
+    "updatedAt": "2026-06-10T12:02:49Z"
   },
   {
     "id": 606,
@@ -1022,6 +1096,6 @@
       }
     ],
     "createdAt": "2026-06-10T08:05:41.000Z",
-    "updatedAt": "2026-06-10T08:14:34Z"
+    "updatedAt": "2026-06-10T12:02:49Z"
   }
 ]
