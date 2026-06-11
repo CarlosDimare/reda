@@ -1,31 +1,5 @@
 [
   {
-    "id": 647,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "00:01",
-    "fecha": "2026-06-11",
-    "lugar": "Todo el país (universidades nacionales)",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "CONADU Histórica",
-      "CTA Autónoma"
-    ],
-    "motivo": "Paro nacional de 48 horas de docentes universitarios y preuniversitarios en rechazo a la brutal pérdida del poder adquisitivo salarial. Exigen inmediata recomposición salarial, reapertura de paritarias y cese del ajuste contra la Universidad Pública. Los salarios docentes están por debajo de la línea de pobreza, con más de 100% de diferencia entre inflación y actualización salarial. El gobierno de Javier Milei mantiene cerrada la paritaria nacional universitaria desde septiembre de 2024. Se convoca a fortalecer la unidad del Frente Sindical de Universidades Nacionales.",
-    "status": "en_curso",
-    "lat": "-34.6037",
-    "lng": "-58.3816",
-    "fuentes": [
-      {
-        "nombre": "CONADU Histórica",
-        "url": "https://conaduhistorica.org.ar/prensa/conadu-historica-convoca-a-un-paro-nacional-de-48-horas-11-y-12-de-junio/"
-      }
-    ],
-    "createdAt": "2026-06-11T02:03:26.000Z",
-    "updatedAt": "2026-06-11T02:07:38Z"
-  },
-  {
     "id": 623,
     "seccion": "internacional",
     "pais": "México",
@@ -73,49 +47,41 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-11T02:07:38Z"
+    "updatedAt": "2026-06-11T07:06:32Z"
   },
   {
     "id": 624,
     "seccion": "internacional",
     "pais": "Italia",
     "bandera": "🇮🇹",
-    "hora": "09:01",
+    "hora": "03:00",
     "fecha": "2026-06-11",
     "lugar": "Toda Italia (red ferroviaria nacional: Trenitalia, Italo, Trenord)",
     "tipoAccion": "huelga",
     "organizaciones": [
-      "Filt-Cgil",
-      "Fit-Cisl",
-      "Uiltrasporti",
-      "Ugl Ferrovieri",
-      "Fast Confsal",
-      "Orsa Trasporti"
+      "CUB Trasporti",
+      "SGB"
     ],
-    "motivo": "Huelga ferroviaria nacional de 8 horas (09:01 a 17:00) que afecta a Trenitalia, Italo, Trenord y empresas contratistas. Seis sindicatos convocan contra la reestructuración de la red Intercity propuesta por el Ministerio de Transporte, que dividiría las operaciones en tres contratos separados y pondría en riesgo ~3.000 puestos de trabajo. También protestan por la incertidumbre sobre inversiones post-PNRR y la entrada de SNCF al mercado italiano de alta velocidad. Posibles cancelaciones y retrasos en toda la red",
+    "motivo": "Huelga ferroviaria nacional reducida: los sindicatos confederales (Filt-Cgil, Fit-Cisl, Uiltrasporti, Ugl Ferrovieri, Fast Confsal, Orsa Trasporti) suspendieron su paro de 8 horas tras acuerdo con el Ministerio. Sin embargo, los sindicatos de base CUB Trasporti y SGB mantienen la huelga de 23 horas (03:00 11 junio - 02:00 12 junio) contra la reestructuración de la red Intercity, el fraccionamiento de licitaciones y el deterioro de condiciones laborales. Posibles cancelaciones y retrasos en toda la red.",
     "status": "en_curso",
     "lat": "41.9028",
     "lng": "12.4964",
     "fuentes": [
       {
-        "nombre": "InTrieste",
-        "url": "https://intrieste.com/2026/06/08/rail-strike-set-to-disrupt-train-travel-across-italy-on-june-11/"
-      },
-      {
         "nombre": "FIRSTonline",
         "url": "https://www.firstonline.info/en/Train-strikes-on-June-11-and-12--2026--involving-Trenitalia--Italo--and-Trenord.-Here-are-the-timetables-and-guaranteed-bands./"
       },
       {
-        "nombre": "VisaHQ",
-        "url": "https://www.visahq.com/es/news/2026-06-03/it/nation-wide-eight-hour-rail-strike-scheduled-for-11-june-set-to-disrupt-passenger-and-freight-flows/"
+        "nombre": "Wanted in Rome",
+        "url": "https://www.wantedinrome.com/news/italy-rail-strike-on-11-june-partly-suspended.html"
       },
       {
-        "nombre": "Summer in Italy",
-        "url": "https://www.summerinitaly.com/traveltips/transport-strikes-in-italy"
+        "nombre": "FIRSTonline update",
+        "url": "https://firstonline.info/en/Train-strike-on-June-11th-reduced-but-not-cancelled%3B-risk-of-disruption-remains-on-Thursday./"
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-11T02:07:38Z"
+    "updatedAt": "2026-06-11T07:06:32Z"
   },
   {
     "id": 625,
@@ -132,8 +98,8 @@
       "UNSA-Ferroviaire",
       "CFDT-Cheminots"
     ],
-    "motivo": "Continuación de la huelga nacional ferroviaria iniciada el 10 de junio. Los cuatro sindicatos representativos mantienen la huelga por reestructuraciones, deterioro de condiciones laborales y salarios insuficientes. Tráfico muy perturbado: 1 de cada 3 TGV cancelados, 1 de cada 2 Intercités, 4 de cada 5 TER suprimidos en Hauts-de-France y Nouvelle-Aquitaine. Los sindicatos decidieron renovar el paro hasta al menos el 14 de junio. Se espera recuperación del tráfico el 12 de junio",
-    "status": "en_curso",
+    "motivo": "Huelga nacional ferroviaria de 24 horas (10 de junio) convocada por los cuatro sindicatos representativos (CGT, UNSA, SUD-Rail, CFDT) contra la filialización, apertura a la competencia y deterioro salarial. Tráfico muy perturbado: 1 de cada 3 TGV cancelados, 1 de cada 2 Intercités, tráfico regional fuertemente afectado. Las federaciones sindicales se reunieron el 11 de junio para evaluar la movilización y decidir próximos pasos. El tráfico comenzó a normalizarse la mañana del 11 de junio.",
+    "status": "concluida",
     "lat": "48.8566",
     "lng": "2.3522",
     "fuentes": [
@@ -151,7 +117,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-11T02:07:38Z"
+    "updatedAt": "2026-06-11T07:06:32Z"
   },
   {
     "id": 626,
@@ -188,7 +154,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-11T02:07:38Z"
+    "updatedAt": "2026-06-11T07:06:32Z"
   },
   {
     "id": 627,
@@ -217,7 +183,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-11T02:07:38Z"
+    "updatedAt": "2026-06-11T07:06:32Z"
   },
   {
     "id": 628,
@@ -244,7 +210,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-11T02:07:38Z"
+    "updatedAt": "2026-06-11T07:06:32Z"
   },
   {
     "id": 629,
@@ -274,7 +240,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-11T02:07:38Z"
+    "updatedAt": "2026-06-11T07:06:32Z"
   },
   {
     "id": 630,
@@ -307,7 +273,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-11T02:07:38Z"
+    "updatedAt": "2026-06-11T07:06:32Z"
   },
   {
     "id": 631,
@@ -336,7 +302,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-11T02:07:38Z"
+    "updatedAt": "2026-06-11T07:06:32Z"
   },
   {
     "id": 632,
@@ -366,7 +332,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-11T02:07:38Z"
+    "updatedAt": "2026-06-11T07:06:32Z"
   },
   {
     "id": 633,
@@ -396,7 +362,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-11T02:07:38Z"
+    "updatedAt": "2026-06-11T07:06:32Z"
   },
   {
     "id": 634,
@@ -423,7 +389,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-11T02:07:38Z"
+    "updatedAt": "2026-06-11T07:06:32Z"
   },
   {
     "id": 635,
@@ -448,7 +414,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-11T02:07:38Z"
+    "updatedAt": "2026-06-11T07:06:32Z"
   },
   {
     "id": 636,
@@ -477,7 +443,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-11T02:07:38Z"
+    "updatedAt": "2026-06-11T07:06:32Z"
   },
   {
     "id": 637,
@@ -506,7 +472,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-11T02:07:38Z"
+    "updatedAt": "2026-06-11T07:06:32Z"
   },
   {
     "id": 638,
@@ -535,7 +501,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-11T02:07:38Z"
+    "updatedAt": "2026-06-11T07:06:32Z"
   },
   {
     "id": 639,
@@ -561,7 +527,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-11T02:07:38Z"
+    "updatedAt": "2026-06-11T07:06:32Z"
   },
   {
     "id": 640,
@@ -595,7 +561,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-11T02:07:38Z"
+    "updatedAt": "2026-06-11T07:06:32Z"
   },
   {
     "id": 641,
@@ -630,7 +596,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-11T02:07:38Z"
+    "updatedAt": "2026-06-11T07:06:32Z"
   },
   {
     "id": 642,
@@ -665,7 +631,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-11T02:07:38Z"
+    "updatedAt": "2026-06-11T07:06:32Z"
   },
   {
     "id": 643,
@@ -699,7 +665,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-11T02:07:38Z"
+    "updatedAt": "2026-06-11T07:06:32Z"
   },
   {
     "id": 644,
@@ -724,7 +690,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-11T02:07:38Z"
+    "updatedAt": "2026-06-11T07:06:32Z"
   },
   {
     "id": 645,
@@ -750,7 +716,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-11T02:07:38Z"
+    "updatedAt": "2026-06-11T07:06:32Z"
   },
   {
     "id": 646,
@@ -784,6 +750,82 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-11T02:07:38Z"
+    "updatedAt": "2026-06-11T07:06:32Z"
+  },
+  {
+    "id": 647,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "00:01",
+    "fecha": "2026-06-11",
+    "lugar": "Todo el país (universidades nacionales). Acción de visibilización en Rosario y clases públicas en tribunales",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "CONADU Histórica",
+      "CONADU",
+      "FEDUN",
+      "FATUN (trabajadores no docentes)",
+      "CTA Autónoma",
+      "Frente Sindical Universitario"
+    ],
+    "motivo": "Paro nacional de 48 horas de docentes y no docentes universitarios en rechazo a la pérdida del poder adquisitivo salarial (más del 50% desde la asunción de Milei). Exigen inmediata recomposición salarial, reapertura de paritarias y cumplimiento de la Ley de Financiamiento Universitario. El Gobierno mantiene cerrada la paritaria nacional universitaria. Acción de visibilización en Rosario y movilización al Palacio Pizzurno anunciada para el 16 de junio.",
+    "status": "en_curso",
+    "lat": "-34.6037",
+    "lng": "-58.3816",
+    "fuentes": [
+      {
+        "nombre": "CONADU Histórica",
+        "url": "https://conaduhistorica.org.ar/prensa/conadu-historica-convoca-a-un-paro-nacional-de-48-horas-11-y-12-de-junio/"
+      },
+      {
+        "nombre": "Infobae",
+        "url": "https://www.infobae.com/educacion/2026/06/07/los-docentes-universitarios-anunciaron-un-paro-de-una-semana-en-todo-el-pais/"
+      },
+      {
+        "nombre": "DataBA (FATUN no docentes)",
+        "url": "https://databa.ar/nota/5440/paro-y-movilizacion-no-docente-para-el-11-y-12-de-junio/"
+      },
+      {
+        "nombre": "La Gaceta",
+        "url": "https://www.lagaceta.com.ar/nota/1140254/sociedad/conflicto-universitario-conadu-anuncio-paro-nacional-semana-denuncio-al-gobierno-ante-oit.html"
+      }
+    ],
+    "createdAt": "2026-06-11T02:03:26.000Z",
+    "updatedAt": "2026-06-11T07:06:32Z"
+  },
+  {
+    "id": 648,
+    "seccion": "internacional",
+    "pais": "Cuba",
+    "bandera": "🇨🇺",
+    "hora": "00:01",
+    "fecha": "2026-06-11",
+    "lugar": "Santos Suárez, La Habana (y otros barrios: El Vedado, Centro Habana, Playa, Regla, Marianao)",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Vecinos de Santos Suárez",
+      "Residentes de La Habana"
+    ],
+    "motivo": "Estallido de cacerolazos y protestas callejeras en múltiples barrios de La Habana contra los apagones prolongados de hasta 31-40 horas consecutivas. La crisis energética deja al 65-70% del país sin electricidad simultáneamente con un déficit de ~2.000 MW. Los vecinos denuncian falta de suministro eléctrico, de agua y condiciones de vida insostenibles. La policía reprime las protestas con detenciones. La oleada de descontento es la más extensa desde el 11J de 2021, con más de 1.200 protestas mensuales registradas.",
+    "status": "en_curso",
+    "lat": "23.1136",
+    "lng": "-82.3666",
+    "fuentes": [
+      {
+        "nombre": "CiberCuba",
+        "url": "https://en.cibercuba.com/noticias/2026-06-11-u1-e208574-s27061-nid331896-suenan-calderos-habana-protesta-apagones"
+      },
+      {
+        "nombre": "14ymedio",
+        "url": "https://www.14ymedio.com/cuba/vecinos-cortan-via-blanca-habana_1_1127555.html"
+      },
+      {
+        "nombre": "Martí Noticias",
+        "url": "https://www.martinoticias.com/a/fuerte-protesta-en-la-lisa-y-otros-barrios-de-cuba-mayor%C3%ADa-de-hogares-del-pa%C3%ADs-seguir%C3%A1n-a-oscuras/467807.html"
+      }
+    ],
+    "createdAt": "2026-06-11T06:58:54.000Z",
+    "updatedAt": "2026-06-11T07:06:32Z"
   }
 ]
