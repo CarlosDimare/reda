@@ -27,7 +27,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-13T05:06:18Z"
+    "updatedAt": "2026-06-13T08:40:31Z"
   },
   {
     "id": 8,
@@ -56,7 +56,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-13T05:06:18Z"
+    "updatedAt": "2026-06-13T08:40:31Z"
   },
   {
     "id": 10,
@@ -83,7 +83,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-13T05:06:18Z"
+    "updatedAt": "2026-06-13T08:40:31Z"
   },
   {
     "id": 11,
@@ -92,12 +92,12 @@
     "bandera": "🇰🇷",
     "hora": "08:00",
     "fecha": "2026-06-13",
-    "lugar": "Seúl (Yeouido Square) y área metropolitana",
+    "lugar": "Seúl (Yeouido Square) y área metropolitana. También Pyeongtaek y Yongin (plantas Samsung y SK hynix)",
     "tipoAccion": "huelga",
     "organizaciones": [
       "National Ready-Mixed Concrete Transport Workers' Union (KNRCTWU)"
     ],
-    "motivo": "Día 6 de la huelga indefinida de transportistas de hormigón en Seúl. 8.000 miembros y 11.000 vehículos en paro. Exigen mejora de tarifas de transporte, seguridad laboral y fin de prácticas abusivas. El 96.1% de los miembros rechazó el acuerdo tentativo del 9 de junio. La huelga afecta a construcciones de semiconductores de Samsung y SK hynix. Negociaciones continúan mediadas por el Ministerio de Transporte.",
+    "motivo": "Día 6 de la huelga indefinida de transportistas de hormigón en Seúl. 8.000 miembros y 11.000 vehículos en paro. Exigen mejora de tarifas de transporte, seguridad laboral y fin de prácticas abusivas. El 96.1% de los miembros rechazó el acuerdo tentativo del 9 de junio. La huelga detuvo la construcción de plantas de semiconductores de Samsung en Pyeongtaek y SK hynix en Yongin. Negociaciones continúan mediadas por el Ministerio de Transporte.",
     "status": "en_curso",
     "lat": "37.5665",
     "lng": "126.9780",
@@ -107,16 +107,20 @@
         "url": "https://en.sedaily.com/finance/2026/06/13/prolonged-ready-mix-concrete-delivery-strike-disrupts"
       },
       {
+        "nombre": "Borecraft",
+        "url": "https://borecraft.com/2026/06/12/concrete-strike-halts-pouring-at-samsung-and-sk-hynix-fab-sites"
+      },
+      {
         "nombre": "Businesskorea",
         "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=271198"
       },
       {
-        "nombre": "The Asia Business Daily",
-        "url": "https://www.asiae.co.kr/en/article/2026060717474756545"
+        "nombre": "Reuters",
+        "url": "https://www.reuters.com/business/world-at-work/south-korea-concrete-delivery-halt-threatens-samsung-sk-hynix-chip-plant-work-2026-06-12"
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-13T05:06:18Z"
+    "updatedAt": "2026-06-13T08:40:31Z"
   },
   {
     "id": 12,
@@ -145,7 +149,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-13T05:06:18Z"
+    "updatedAt": "2026-06-13T08:40:31Z"
   },
   {
     "id": 13,
@@ -174,7 +178,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-13T05:06:18Z"
+    "updatedAt": "2026-06-13T08:40:31Z"
   },
   {
     "id": 14,
@@ -209,7 +213,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-13T05:06:18Z"
+    "updatedAt": "2026-06-13T08:40:31Z"
   },
   {
     "id": 15,
@@ -234,7 +238,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-13T05:06:18Z"
+    "updatedAt": "2026-06-13T08:40:31Z"
   },
   {
     "id": 17,
@@ -276,7 +280,7 @@
       }
     ],
     "createdAt": "2026-06-11T06:58:54.000Z",
-    "updatedAt": "2026-06-13T05:06:18Z"
+    "updatedAt": "2026-06-13T08:40:31Z"
   },
   {
     "id": 19,
@@ -314,7 +318,7 @@
       }
     ],
     "createdAt": "2026-06-11T15:03:53.000Z",
-    "updatedAt": "2026-06-13T05:06:18Z"
+    "updatedAt": "2026-06-13T08:40:31Z"
   },
   {
     "id": 20,
@@ -332,7 +336,7 @@
       "Organizaciones indígenas quechuas de Potosí y Cochabamba",
       "Evo Morales (ex presidente, apoyando a manifestantes)"
     ],
-    "motivo": "Día 44 de protestas masivas contra el gobierno del presidente Rodrigo Paz. Marchas de miles de campesinos, obreros y choferes desde El Alto a La Paz enfrentando gases lacrimógenos policiales. ~86 bloqueos de carreteras activos en 6 de 9 departamentos causando desabastecimiento de combustible, alimentos y oxígeno medicinal. Exigen renuncia del presidente, mejoras salariales y calidad de la gasolina. El gobierno prepara decreto de estado de excepción. Evo Morales respalda a los manifestantes.",
+    "motivo": "Día 44 de protestas masivas contra el gobierno del presidente Rodrigo Paz. Marchas de miles de campesinos, obreros y choferes desde El Alto a La Paz enfrentando gases lacrimógenos policiales. ~86 bloqueos de carreteras activos en 6 de 9 departamentos causando desabastecimiento de combustible, alimentos y oxígeno medicinal. Exigen renuncia del presidente, mejoras salariales y calidad de la gasolina. El gobierno prepara decreto de estado de excepción. Evo Morales respalda a los manifestantes. El Congreso aprobó ley que permite uso de militares contra manifestantes.",
     "status": "en_curso",
     "lat": "-16.5000",
     "lng": "-68.1500",
@@ -351,11 +355,15 @@
       },
       {
         "nombre": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/bolivian-farmers-clash-with-police-as-ex-president-vows-resistance"
+        "url": "https://www.aljazeera.com/news/2026/6/11/bolivian-farmers-clash-with-police-as-ex-president-vows-resistance"
+      },
+      {
+        "nombre": "Al Jazeera (ley militar)",
+        "url": "https://www.aljazeera.com/where/bolivia"
       }
     ],
     "createdAt": "2026-06-11T15:03:53.000Z",
-    "updatedAt": "2026-06-13T05:06:18Z"
+    "updatedAt": "2026-06-13T08:40:31Z"
   },
   {
     "id": 23,
@@ -395,7 +403,7 @@
       }
     ],
     "createdAt": "2026-06-11T18:33:33.000Z",
-    "updatedAt": "2026-06-13T05:06:18Z"
+    "updatedAt": "2026-06-13T08:40:31Z"
   },
   {
     "id": 24,
@@ -410,7 +418,7 @@
       "Joint Awami Action Committee (JAAC)",
       "Ciudadanos de Cachemira bajo administración pakistaní"
     ],
-    "motivo": "Día 5 de las masivas protestas y huelga general en Cachemira bajo administración pakistaní. Más de 80.000 manifestantes en Rawalakot exigen 'azadi' (libertad) y cantan consignas contra Pakistán y China. El movimiento se endureció tras 16 muertos por represión en Rawalakot. El JAAC continúa su marcha hacia Muzaffarabad. El gobierno pakistaní prohibió al JAAC bajo leyes antiterrorismo, cortes de internet por 10 días, y más de 1.000 arrestos. También hay protestas de la diáspora frente a embajadas de Pakistán en Londres y Nueva York.",
+    "motivo": "Día 5 de las masivas protestas y huelga general en Cachemira bajo administración pakistaní. Más de 80.000 manifestantes en Rawalakot exigen 'azadi' (libertad) y cantan consignas contra Pakistán y China. El gobierno pakistaní prohibió al JAAC bajo leyes antiterrorismo, cortes de internet por 10 días, y más de 1.000 arrestos. El 13 de junio las fuerzas de seguridad abrieron fuego con fusiles AK-47 contra manifestantes desarmados, causando más de 30 muertos y ~200 heridos. Manifestación de la diáspora frente a embajadas de Pakistán en Londres y Nueva York.",
     "status": "en_curso",
     "lat": "34.3700",
     "lng": "73.4711",
@@ -430,10 +438,14 @@
       {
         "nombre": "India Today",
         "url": "https://www.indiatoday.in/world/story/pakistan-occupied-kashmir-protests-security-crackdown-marches-authorities-tensions-2924808-2026-06-10"
+      },
+      {
+        "nombre": "The Star",
+        "url": "https://www.thestar.com.my/news/nation/2026/06/13/kashmir-protests-turn-fatal-after-authorities-open-fire"
       }
     ],
     "createdAt": "2026-06-11T18:33:33.000Z",
-    "updatedAt": "2026-06-13T05:06:18Z"
+    "updatedAt": "2026-06-13T08:40:31Z"
   },
   {
     "id": 38,
@@ -476,7 +488,7 @@
       }
     ],
     "createdAt": "2026-06-12T10:59:58.000Z",
-    "updatedAt": "2026-06-13T05:06:18Z"
+    "updatedAt": "2026-06-13T08:40:31Z"
   },
   {
     "id": 40,
@@ -510,7 +522,7 @@
       }
     ],
     "createdAt": "2026-06-12T14:13:25.000Z",
-    "updatedAt": "2026-06-13T05:06:18Z"
+    "updatedAt": "2026-06-13T08:40:31Z"
   },
   {
     "id": 48,
@@ -548,7 +560,7 @@
       }
     ],
     "createdAt": "2026-06-12T21:16:05.000Z",
-    "updatedAt": "2026-06-13T05:06:18Z"
+    "updatedAt": "2026-06-13T08:40:31Z"
   },
   {
     "id": 51,
@@ -584,7 +596,7 @@
       }
     ],
     "createdAt": "2026-06-13T00:20:29.000Z",
-    "updatedAt": "2026-06-13T05:06:18Z"
+    "updatedAt": "2026-06-13T08:40:31Z"
   },
   {
     "id": 52,
@@ -610,7 +622,7 @@
       }
     ],
     "createdAt": "2026-06-13T00:20:29.000Z",
-    "updatedAt": "2026-06-13T05:06:18Z"
+    "updatedAt": "2026-06-13T08:40:31Z"
   },
   {
     "id": 53,
@@ -638,7 +650,7 @@
       }
     ],
     "createdAt": "2026-06-13T00:20:29.000Z",
-    "updatedAt": "2026-06-13T05:06:18Z"
+    "updatedAt": "2026-06-13T08:40:31Z"
   },
   {
     "id": 54,
@@ -664,7 +676,7 @@
       }
     ],
     "createdAt": "2026-06-13T00:20:29.000Z",
-    "updatedAt": "2026-06-13T05:06:18Z"
+    "updatedAt": "2026-06-13T08:40:31Z"
   },
   {
     "id": 55,
@@ -697,7 +709,7 @@
       }
     ],
     "createdAt": "2026-06-13T00:20:29.000Z",
-    "updatedAt": "2026-06-13T05:06:18Z"
+    "updatedAt": "2026-06-13T08:40:31Z"
   },
   {
     "id": 56,
@@ -706,7 +718,7 @@
     "bandera": "🇺🇸",
     "hora": "10:00",
     "fecha": "2026-06-13",
-    "lugar": "Múltiples ciudades de EE.UU. (San José, Alhambra, Devon PA, Owings Mills MD, Dedham MA, Boston, Lyndhurst OH, Long Beach CA, Madison WI, Sunnyvale CA y otras)",
+    "lugar": "Múltiples ciudades de EE.UU. (San José, Alhambra, Devon PA, Owings Mills MD, Dedham MA, Boston, Lyndhurst OH, Long Beach CA, Madison WI, Sunnyvale CA, Lynnwood WA, Seattle WA y otras)",
     "tipoAccion": "protesta",
     "organizaciones": [
       "#TeslaTakedown",
@@ -724,7 +736,7 @@
       }
     ],
     "createdAt": "2026-06-13T00:20:29.000Z",
-    "updatedAt": "2026-06-13T05:06:18Z"
+    "updatedAt": "2026-06-13T08:40:31Z"
   },
   {
     "id": 57,
@@ -746,7 +758,7 @@
     "fuentes": [
       {
         "nombre": "New Straits Times",
-        "url": "https://www.nst.com.my/news/nation/2026/06/1462130/protesters-gather-outside-tiktok-office-kuala-lumpur"
+        "url": "https://www.nst.com.my/news/nation/2026/06/13/protesters-gather-outside-tiktok-office-kuala-lumpur"
       },
       {
         "nombre": "The Star",
@@ -758,7 +770,7 @@
       }
     ],
     "createdAt": "2026-06-13T05:00:14.000Z",
-    "updatedAt": "2026-06-13T05:06:18Z"
+    "updatedAt": "2026-06-13T08:40:31Z"
   },
   {
     "id": 58,
@@ -784,7 +796,7 @@
       }
     ],
     "createdAt": "2026-06-13T05:00:14.000Z",
-    "updatedAt": "2026-06-13T05:06:18Z"
+    "updatedAt": "2026-06-13T08:40:31Z"
   },
   {
     "id": 59,
@@ -819,7 +831,7 @@
       }
     ],
     "createdAt": "2026-06-13T05:00:14.000Z",
-    "updatedAt": "2026-06-13T05:06:18Z"
+    "updatedAt": "2026-06-13T08:40:31Z"
   },
   {
     "id": 60,
@@ -845,6 +857,6 @@
       }
     ],
     "createdAt": "2026-06-13T05:00:14.000Z",
-    "updatedAt": "2026-06-13T05:06:18Z"
+    "updatedAt": "2026-06-13T08:40:31Z"
   }
 ]
