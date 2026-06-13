@@ -1,5 +1,64 @@
 [
   {
+    "id": 68,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "15:00",
+    "fecha": "2026-06-13",
+    "lugar": "Buenos Aires (Espacio Memoria y Derechos Humanos - ex ESMA, Casa de la Militancia H.I.J.O.S.)",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "H.I.J.O.S.",
+      "Organismos de Derechos Humanos"
+    ],
+    "motivo": "Festival 'Cristina Libre' a un año de la detención y proscripción de Cristina Fernández de Kirchner. Jornada cultural con música en vivo, ferias de emprendedores, radio abierta, muestras artísticas y actividades de organismos de derechos humanos. Exigen libertad de la expresidenta y denuncian persecución judicial y política, en el marco del primer aniversario de la condena firme de la Corte Suprema que la inhabilitó perpetuamente y la mantiene en prisión domiciliaria.",
+    "status": "en_curso",
+    "lat": "-34.5409",
+    "lng": "-58.4596",
+    "fuentes": [
+      {
+        "nombre": "Notigital",
+        "url": "https://notigital.com.ar/h-i-j-o-s-realizara-un-festival-por-cristina-libre-a-un-ano-de-la-detencion-y-proscripcion-de-la-ex-presidenta/"
+      },
+      {
+        "nombre": "TN",
+        "url": "https://tn.com.ar/politica/2026/06/09/el-pj-prepara-un-banderazo-y-un-festival-para-reclamar-por-la-libertad-de-cristina-kirchner/"
+      },
+      {
+        "nombre": "InfoPlatense",
+        "url": "https://www.infoplatense.com.ar/banderazo-por-cristina-libre-el-20-de-junio-el-peronismo-convoca-a-un-ano-de-la-prision-domiciliaria-de-cfk/"
+      }
+    ],
+    "createdAt": "2026-06-13T13:07:06.000Z",
+    "updatedAt": "2026-06-13T23:08:41Z"
+  },
+  {
+    "id": 82,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "14:00",
+    "fecha": "2026-06-13",
+    "lugar": "Santa Fe (Plaza 25 de Mayo)",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "AMSAFE (Sindicato de Trabajadores de la Educación de Santa Fe)"
+    ],
+    "motivo": "Festival Provincial en Defensa de la Educación Pública con la Carpa Blanca de la Dignidad Docente, en el marco del plan de lucha por salarios y presupuesto educativo. Exigen convocatoria a paritarias con nueva propuesta salarial, recomposición de ingresos, mayor presupuesto para escuelas y defensa de la educación pública. El festival incluye actividades culturales, música en vivo (La Delio Valdez, Mamita Peyote, Gulubú Rock) y muestra del recorrido de la Carpa Blanca por 30 localidades de la provincia.",
+    "status": "en_curso",
+    "lat": "-31.6333",
+    "lng": "-60.7000",
+    "fuentes": [
+      {
+        "nombre": "AMSAFE",
+        "url": "https://www.amsafe.org.ar/conferencia-de-prensa-festival-provincial-en-defensa-de-la-educacion-publica/"
+      }
+    ],
+    "createdAt": "2026-06-13T20:01:36.000Z",
+    "updatedAt": "2026-06-13T23:08:41Z"
+  },
+  {
     "id": 6,
     "seccion": "internacional",
     "pais": "España",
@@ -27,7 +86,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-13T21:49:09Z"
+    "updatedAt": "2026-06-13T23:08:41Z"
   },
   {
     "id": 8,
@@ -56,7 +115,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-13T21:49:09Z"
+    "updatedAt": "2026-06-13T23:08:41Z"
   },
   {
     "id": 10,
@@ -83,7 +142,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-13T21:49:09Z"
+    "updatedAt": "2026-06-13T23:08:41Z"
   },
   {
     "id": 11,
@@ -120,7 +179,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-13T21:49:09Z"
+    "updatedAt": "2026-06-13T23:08:41Z"
   },
   {
     "id": 12,
@@ -149,7 +208,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-13T21:49:09Z"
+    "updatedAt": "2026-06-13T23:08:41Z"
   },
   {
     "id": 13,
@@ -178,7 +237,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-13T21:49:09Z"
+    "updatedAt": "2026-06-13T23:08:41Z"
   },
   {
     "id": 14,
@@ -213,7 +272,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-13T21:49:09Z"
+    "updatedAt": "2026-06-13T23:08:41Z"
   },
   {
     "id": 15,
@@ -238,7 +297,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-13T21:49:09Z"
+    "updatedAt": "2026-06-13T23:08:41Z"
   },
   {
     "id": 19,
@@ -276,7 +335,7 @@
       }
     ],
     "createdAt": "2026-06-11T15:03:53.000Z",
-    "updatedAt": "2026-06-13T21:49:09Z"
+    "updatedAt": "2026-06-13T23:08:41Z"
   },
   {
     "id": 20,
@@ -329,7 +388,7 @@
       }
     ],
     "createdAt": "2026-06-11T15:03:53.000Z",
-    "updatedAt": "2026-06-13T21:49:09Z"
+    "updatedAt": "2026-06-13T23:08:41Z"
   },
   {
     "id": 23,
@@ -373,7 +432,7 @@
       }
     ],
     "createdAt": "2026-06-11T18:33:33.000Z",
-    "updatedAt": "2026-06-13T21:49:09Z"
+    "updatedAt": "2026-06-13T23:08:41Z"
   },
   {
     "id": 24,
@@ -427,7 +486,7 @@
       }
     ],
     "createdAt": "2026-06-11T18:33:33.000Z",
-    "updatedAt": "2026-06-13T21:49:09Z"
+    "updatedAt": "2026-06-13T23:08:41Z"
   },
   {
     "id": 38,
@@ -474,7 +533,7 @@
       }
     ],
     "createdAt": "2026-06-12T10:59:58.000Z",
-    "updatedAt": "2026-06-13T21:49:09Z"
+    "updatedAt": "2026-06-13T23:08:41Z"
   },
   {
     "id": 40,
@@ -508,7 +567,7 @@
       }
     ],
     "createdAt": "2026-06-12T14:13:25.000Z",
-    "updatedAt": "2026-06-13T21:49:09Z"
+    "updatedAt": "2026-06-13T23:08:41Z"
   },
   {
     "id": 51,
@@ -548,33 +607,7 @@
       }
     ],
     "createdAt": "2026-06-13T00:20:29.000Z",
-    "updatedAt": "2026-06-13T21:49:09Z"
-  },
-  {
-    "id": 52,
-    "seccion": "internacional",
-    "pais": "Pakistán",
-    "bandera": "🇵🇰",
-    "hora": "09:00",
-    "fecha": "2026-06-13",
-    "lugar": "Islamabad (Parliament House)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Sindicatos de empleados federales",
-      "Trade unions (ferroviarios, WAPDA, municipalidades)"
-    ],
-    "motivo": "Protesta masiva de empleados del gobierno federal y sindicatos contra el aumento salarial del 7% anunciado en el Presupuesto Federal 2026-27, que consideran insuficiente frente a la inflación. Exigen un incremento sustancial de salarios, medidas contra el aumento de precios de alimentos básicos y combustible. Intentaron marchar hacia el Parlamento y fueron bloqueados por la policía y Frontier Corps. Anunciaron movimiento 'Jail Bharo Tehreek' (Llenar las Cárceles).",
-    "status": "en_curso",
-    "lat": "33.7181",
-    "lng": "73.0573",
-    "fuentes": [
-      {
-        "nombre": "The News International",
-        "url": "https://www.thenews.pk/print/1420269-govt-employees-announce-protest-reject-7pc-salary-raise-amid-inflation"
-      }
-    ],
-    "createdAt": "2026-06-13T00:20:29.000Z",
-    "updatedAt": "2026-06-13T21:49:09Z"
+    "updatedAt": "2026-06-13T23:08:41Z"
   },
   {
     "id": 53,
@@ -602,7 +635,7 @@
       }
     ],
     "createdAt": "2026-06-13T00:20:29.000Z",
-    "updatedAt": "2026-06-13T21:49:09Z"
+    "updatedAt": "2026-06-13T23:08:41Z"
   },
   {
     "id": 54,
@@ -633,7 +666,7 @@
       }
     ],
     "createdAt": "2026-06-13T00:20:29.000Z",
-    "updatedAt": "2026-06-13T21:49:09Z"
+    "updatedAt": "2026-06-13T23:08:41Z"
   },
   {
     "id": 55,
@@ -670,7 +703,7 @@
       }
     ],
     "createdAt": "2026-06-13T00:20:29.000Z",
-    "updatedAt": "2026-06-13T21:49:09Z"
+    "updatedAt": "2026-06-13T23:08:41Z"
   },
   {
     "id": 56,
@@ -697,7 +730,7 @@
       }
     ],
     "createdAt": "2026-06-13T00:20:29.000Z",
-    "updatedAt": "2026-06-13T21:49:09Z"
+    "updatedAt": "2026-06-13T23:08:41Z"
   },
   {
     "id": 57,
@@ -731,7 +764,7 @@
       }
     ],
     "createdAt": "2026-06-13T05:00:14.000Z",
-    "updatedAt": "2026-06-13T21:49:09Z"
+    "updatedAt": "2026-06-13T23:08:41Z"
   },
   {
     "id": 58,
@@ -757,7 +790,7 @@
       }
     ],
     "createdAt": "2026-06-13T05:00:14.000Z",
-    "updatedAt": "2026-06-13T21:49:09Z"
+    "updatedAt": "2026-06-13T23:08:41Z"
   },
   {
     "id": 59,
@@ -792,7 +825,7 @@
       }
     ],
     "createdAt": "2026-06-13T05:00:14.000Z",
-    "updatedAt": "2026-06-13T21:49:09Z"
+    "updatedAt": "2026-06-13T23:08:41Z"
   },
   {
     "id": 60,
@@ -818,7 +851,7 @@
       }
     ],
     "createdAt": "2026-06-13T05:00:14.000Z",
-    "updatedAt": "2026-06-13T21:49:09Z"
+    "updatedAt": "2026-06-13T23:08:41Z"
   },
   {
     "id": 61,
@@ -860,7 +893,7 @@
       }
     ],
     "createdAt": "2026-06-13T11:12:39.000Z",
-    "updatedAt": "2026-06-13T21:49:09Z"
+    "updatedAt": "2026-06-13T23:08:41Z"
   },
   {
     "id": 62,
@@ -886,7 +919,7 @@
       }
     ],
     "createdAt": "2026-06-13T11:12:39.000Z",
-    "updatedAt": "2026-06-13T21:49:09Z"
+    "updatedAt": "2026-06-13T23:08:41Z"
   },
   {
     "id": 63,
@@ -920,7 +953,7 @@
       }
     ],
     "createdAt": "2026-06-13T11:12:39.000Z",
-    "updatedAt": "2026-06-13T21:49:09Z"
+    "updatedAt": "2026-06-13T23:08:41Z"
   },
   {
     "id": 64,
@@ -945,7 +978,7 @@
       }
     ],
     "createdAt": "2026-06-13T11:12:39.000Z",
-    "updatedAt": "2026-06-13T21:49:09Z"
+    "updatedAt": "2026-06-13T23:08:41Z"
   },
   {
     "id": 65,
@@ -976,7 +1009,7 @@
       }
     ],
     "createdAt": "2026-06-13T13:03:21.000Z",
-    "updatedAt": "2026-06-13T21:49:09Z"
+    "updatedAt": "2026-06-13T23:08:41Z"
   },
   {
     "id": 66,
@@ -1011,7 +1044,7 @@
       }
     ],
     "createdAt": "2026-06-13T13:03:21.000Z",
-    "updatedAt": "2026-06-13T21:49:09Z"
+    "updatedAt": "2026-06-13T23:08:41Z"
   },
   {
     "id": 67,
@@ -1041,579 +1074,6 @@
       }
     ],
     "createdAt": "2026-06-13T13:03:21.000Z",
-    "updatedAt": "2026-06-13T21:49:09Z"
-  },
-  {
-    "id": 68,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "15:00",
-    "fecha": "2026-06-13",
-    "lugar": "Buenos Aires (Espacio Memoria y Derechos Humanos - ex ESMA, Casa de la Militancia H.I.J.O.S.)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "H.I.J.O.S.",
-      "Organismos de Derechos Humanos"
-    ],
-    "motivo": "Festival 'Cristina Libre' a un año de la detención y proscripción de Cristina Fernández de Kirchner. Jornada cultural con música en vivo, ferias de emprendedores, radio abierta, muestras artísticas y actividades de organismos de derechos humanos. Exigen libertad de la expresidenta y denuncian persecución judicial y política, en el marco del primer aniversario de la condena firme de la Corte Suprema que la inhabilitó perpetuamente y la mantiene en prisión domiciliaria.",
-    "status": "en_curso",
-    "lat": "-34.5409",
-    "lng": "-58.4596",
-    "fuentes": [
-      {
-        "nombre": "Notigital",
-        "url": "https://notigital.com.ar/h-i-j-o-s-realizara-un-festival-por-cristina-libre-a-un-ano-de-la-detencion-y-proscripcion-de-la-ex-presidenta/"
-      },
-      {
-        "nombre": "TN",
-        "url": "https://tn.com.ar/politica/2026/06/09/el-pj-prepara-un-banderazo-y-un-festival-para-reclamar-por-la-libertad-de-cristina-kirchner/"
-      },
-      {
-        "nombre": "InfoPlatense",
-        "url": "https://www.infoplatense.com.ar/banderazo-por-cristina-libre-el-20-de-junio-el-peronismo-convoca-a-un-ano-de-la-prision-domiciliaria-de-cfk/"
-      }
-    ],
-    "createdAt": "2026-06-13T13:07:06.000Z",
-    "updatedAt": "2026-06-13T21:49:09Z"
-  },
-  {
-    "id": 69,
-    "seccion": "internacional",
-    "pais": "República Democrática del Congo",
-    "bandera": "🇨🇩",
-    "hora": "08:00",
-    "fecha": "2026-06-13",
-    "lugar": "Kinshasa (frente al Parlamento, Asamblea Nacional)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Coalition Article 64 (C64)",
-      "Martin Fayulu (ECiDé)",
-      "Moise Katumbi (Ensemble)"
-    ],
-    "motivo": "Violentas protestas en Kinshasa contra el cambio constitucional que permitiría al presidente Félix Tshisekedi optar a un tercer mandato. La Coalición Artículo 64 (C64) convocó manifestaciones multitudinarias. La policía y el ejército dispersaron a los manifestantes con gas lacrimógeno y munición real. El líder opositor Martin Fayulu resultó herido de bala. La Asamblea Nacional aprobó un proyecto de ley para someter cambios constitucionales a referéndum, denunciado por la oposición como intento de eliminar los límites de mandato. El gobierno de Tshisekedi no comentó el uso de munición real.",
-    "status": "en_curso",
-    "lat": "-4.3250",
-    "lng": "15.3222",
-    "fuentes": [
-      {
-        "nombre": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/violence-erupts-at-anti-government-protest-in-dr-congo"
-      },
-      {
-        "nombre": "Reuters / US News",
-        "url": "https://www.usnews.com/news/world/articles/2026-06-12/congolese-security-forces-disperse-protesters-opposing-constitutional-change"
-      },
-      {
-        "nombre": "Millennium News 24/7",
-        "url": "https://millenniumnews24.com/2026/06/13/violence-erupts-at-anti-government-protest-in-dr-congo/"
-      },
-      {
-        "nombre": "ABC News",
-        "url": "https://abcnews.com/International/wireStory/clashes-erupt-congos-capital-opposition-rejects-presidential-term-133822396"
-      }
-    ],
-    "createdAt": "2026-06-13T15:16:19.000Z",
-    "updatedAt": "2026-06-13T21:49:09Z"
-  },
-  {
-    "id": 70,
-    "seccion": "internacional",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "15:00",
-    "fecha": "2026-06-13",
-    "lugar": "París (Place Pierre Laroque)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Les Patriotes"
-    ],
-    "motivo": "Manifestación nacional por el Frexit (salida de Francia de la UE) convocada por Les Patriotes de Florian Philippot. También se rindió homenaje a Lyhanna, niña asesinada de 11 años cuyo caso provocó indignación nacional. Exigen salida de la UE y la OTAN, fin de la ayuda militar a Ucrania, dimisión del ministro de Justicia Darmanin y protección de la infancia.",
-    "status": "en_curso",
-    "lat": "48.8566",
-    "lng": "2.3522",
-    "fuentes": [
-      {
-        "nombre": "Les Patriotes / Blog Florian Philippot",
-        "url": "http://lezarceleur.blogspot.com/2026/06/la-manif-du-13-juin-2026-paris.html"
-      },
-      {
-        "nombre": "Pravda France",
-        "url": "https://france.news-pravda.com/france/2026/06/12/230209.html"
-      }
-    ],
-    "createdAt": "2026-06-13T16:55:07.000Z",
-    "updatedAt": "2026-06-13T21:49:09Z"
-  },
-  {
-    "id": 71,
-    "seccion": "internacional",
-    "pais": "Turquía",
-    "bandera": "🇹🇷",
-    "hora": "17:00",
-    "fecha": "2026-06-13",
-    "lugar": "Múltiples ciudades: Estambul (Beşiktaş, İskele Meydanı), Ankara (Kolej Meydanı), y otras 15+ ciudades (Diyarbakır, Antalya, Eskişehir, Mersin, İzmir, Bodrum, Çanakkale, Edirne, Gaziantep, Hatay, Manisa, Ordu, Şanlıurfa, Urla)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Ankara Kadın Platformu",
-      "Medeni Haklarımızdan Vazgeçmiyoruz Kampanya Grubu",
-      "Kaos GL",
-      "212 organizaciones de derechos humanos y sociedad civil"
-    ],
-    "motivo": "Protestas coordinadas a nivel nacional contra el 12° Paquete Judicial del gobierno de Erdoğan, que incluye disposiciones que criminalizan a la comunidad LGBTI+, aumentan la edad mínima para cirugías de afirmación de género de 18 a 25 años, penalizan las uniones entre personas del mismo sexo con hasta 4 años de prisión, y restringen el derecho de pensión alimenticia para mujeres. En Ankara la policía usó gas pimienta y detuvo a 4 manifestantes.",
-    "status": "en_curso",
-    "lat": "39.9334",
-    "lng": "32.8597",
-    "fuentes": [
-      {
-        "nombre": "BirGün",
-        "url": "https://www.birgun.net/haber/kadinlardan-abluka-altinda-basin-aciklamasi-nafaka-hakkimizdan-vazgecmiyoruz-718071"
-      },
-      {
-        "nombre": "Kaos GL",
-        "url": "https://kaosgl1.org/haber/lgbti-dusmani-12-yargi-paketi-ne-karsi-eylem-cagrilari"
-      },
-      {
-        "nombre": "Bianet",
-        "url": "https://bianet.org/haber/over-200-ngos-and-rights-groups-raise-concern-over-planned-anti-lgbti-legislation-320388"
-      }
-    ],
-    "createdAt": "2026-06-13T16:55:07.000Z",
-    "updatedAt": "2026-06-13T21:49:09Z"
-  },
-  {
-    "id": 72,
-    "seccion": "internacional",
-    "pais": "Israel",
-    "bandera": "🇮🇱",
-    "hora": "19:00",
-    "fecha": "2026-06-13",
-    "lugar": "Tel Aviv (Plaza Habima), Jerusalén (Plaza Paris), Haifa (Centro Horev) y otras ciudades",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Movimiento de protesta anti-gubernamental israelí",
-      "Grupos de izquierda y pacifistas"
-    ],
-    "motivo": "Protestas semanales contra el gobierno de Netanyahu. Exigen: fin de la 'guerra infinita' contra Irán, acuerdo para liberar rehenes, elecciones anticipadas, y denuncian la corrupción gubernamental y el deterioro democrático. Continúan también las protestas de la comunidad ultraortodoxa contra el reclutamiento militar obligatorio. El Tribunal Supremo permitió hasta 1.000 manifestantes en Tel Aviv y 150 en Haifa.",
-    "status": "en_curso",
-    "lat": "32.0853",
-    "lng": "34.7818",
-    "fuentes": [
-      {
-        "nombre": "Haaretz",
-        "url": "https://www.haaretz.com/israel-news/israel-politics/2026-06-13/ty-article/.premium/anti-government-protests-take-place-across-israel/0000019e-c1cb-d86d-adde-fdff07470000"
-      },
-      {
-        "nombre": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/thousands-protest-government-and-iran-war-in-tel-aviv-exceeding-court-ordered-limits/"
-      },
-      {
-        "nombre": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/6/12/violence-escalates-in-israel-amid-ultra-orthodox-military-draft-protests"
-      }
-    ],
-    "createdAt": "2026-06-13T16:55:07.000Z",
-    "updatedAt": "2026-06-13T21:49:09Z"
-  },
-  {
-    "id": 74,
-    "seccion": "internacional",
-    "pais": "Nigeria",
-    "bandera": "🇳🇬",
-    "hora": "08:00",
-    "fecha": "2026-06-13",
-    "lugar": "Abuja (puente Nyanya-Karu), Lagos (Ikeja Underbridge, Gani Fawehinmi Park) y otras ciudades",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Femi Falana (SAN)",
-      "Falz (Folarin Falana)",
-      "MuyDarkMan (Martins Vincent Otse)",
-      "Committee for the Defence of Human Rights (CDHR)",
-      "Coalición de la sociedad civil"
-    ],
-    "motivo": "Protestas masivas en Nigeria contra la inseguridad, los secuestros de escolares (46 estudiantes y maestros en Oyo, 42 niños en Borno) y la crisis económica. En Abuja manifestantes bloquearon el puente Nyanya-Karu exigiendo la renuncia del presidente Tinubu y el rescate de los secuestrados. En Lagos, Falana y Falz lideraron marchas con consignas como 'No Democracy Without Security' y 'End Hunger'. La protesta causó caos vehicular y requirió intervención militar. La Coalición Artículo 64 declaró que la lucha por la democracia debe continuar.",
-    "status": "en_curso",
-    "lat": "9.0579",
-    "lng": "7.4951",
-    "fuentes": [
-      {
-        "nombre": "TheCable",
-        "url": "https://www.thecable.ng/tinubu-must-go-youths-protest-in-abuja-over-school-kidnappings/"
-      },
-      {
-        "nombre": "The Whistler",
-        "url": "https://thewhistler.ng/video-protesters-picket-abuja-bridge-demand-oyo-teachers-pupils-rescue/"
-      },
-      {
-        "nombre": "Sahara Reporters",
-        "url": "https://saharareporters.com/2026/06/12/breaking-falana-endbadgovernance-protesters-hit-lagos-streets-democracy-day-decry"
-      },
-      {
-        "nombre": "Nigeria Info FM",
-        "url": "https://www.nigeriainfo.fm/lagos/news/national/protests-mark-democracy-day-across-nigeria-as-falana-falz-lead-calls-against-hardship-insecurity/"
-      }
-    ],
-    "createdAt": "2026-06-13T18:06:08.000Z",
-    "updatedAt": "2026-06-13T21:49:09Z"
-  },
-  {
-    "id": 75,
-    "seccion": "internacional",
-    "pais": "Reino Unido (Irlanda del Norte, Inglaterra, Escocia)",
-    "bandera": "🇬🇧",
-    "hora": "13:00",
-    "fecha": "2026-06-13",
-    "lugar": "Belfast (City Hall, Derry Guildhall), Glasgow (Buchanan Street), Liverpool (County Road, Walton), Brighton (Queen's Road, estación de tren), Newcastle (Civic Centre)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "United Against Racism Belfast",
-      "Stand Up to Racism Glasgow",
-      "Carnival Against Fascism Brighton",
-      "South East Patriots (anti-inmigración)"
-    ],
-    "motivo": "Jornada de protestas en todo el Reino Unido. En Belfast, la mayor manifestación anti-racismo de la historia de la ciudad (~20.000 personas convocadas por United Against Racism) tras una semana de disturbios racistas provocados por un apuñalamiento en el norte de Belfast. En Glasgow, miles de personas se enfrentaron a manifestantes de extrema derecha en Buchanan Street bajo el lema 'Glasgow Reclaims the Streets'. En Brighton, 4.000 antifascistas vs 300 anti-inmigración del grupo South East Patriots. En Liverpool, 150 anti-inmigración se enfrentaron a contra-manifestantes. En Newcastle, cientos de policías desplegados para mantener separados a grupos rivales. El PSNI arrestó a 23 personas por los disturbios en Belfast.",
-    "status": "en_curso",
-    "lat": "54.5973",
-    "lng": "-5.9301",
-    "fuentes": [
-      {
-        "nombre": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c20ygdde4djo"
-      },
-      {
-        "nombre": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/6/13/thousands-attend-anti-racism-rallies-following-unrest-in-belfast"
-      },
-      {
-        "nombre": "Belfast Telegraph",
-        "url": "https://www.belfasttelegraph.co.uk/news/northern-ireland/thousands-of-people-chant-refugees-are-welcome-here-at-belfasts-largest-ever-anti-racism-rally/a/157151836.html"
-      },
-      {
-        "nombre": "Internewscast Journal",
-        "url": "https://internewscast.com/news/uk-anti-immigrant-protests-spark-clashes-with-counter-demonstrators-across-multiple-cities/"
-      },
-      {
-        "nombre": "Glasgow Times",
-        "url": "https://www.glasgowtimes.co.uk/news/scottish-news/26192073.anti-racism-rally-faces-counter-protest-glasgow-buchannan-street/"
-      }
-    ],
-    "createdAt": "2026-06-13T18:06:08.000Z",
-    "updatedAt": "2026-06-13T21:49:09Z"
-  },
-  {
-    "id": 76,
-    "seccion": "internacional",
-    "pais": "Italia",
-    "bandera": "🇮🇹",
-    "hora": "14:00",
-    "fecha": "2026-06-13",
-    "lugar": "Roma (Prati - Piazza della Libertà a Piazza Risorgimento; Piazzale del Verano a Porta Pia; Via dei Fori Imperiali; Piazza San Giovanni). Otras manifestaciones programadas en toda Italia.",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Comitato Remigrazione e Riconquista",
-      "CasaPound Italia",
-      "CGIL",
-      "Unione Sindacale di Base (USB)",
-      "Rete dei Comunisti",
-      "Potere al Popolo",
-      "Colectivos estudiantiles y antifascistas"
-    ],
-    "motivo": "Jornada de cuatro manifestaciones simultáneas en Roma con ~20.000 manifestantes y 1.500 policías desplegados. La marcha 'Remigrazione e Riconquista' (~4.000 personas) salió desde Piazza della Libertà en Prati exigiendo una ley de iniciativa popular contra la inmigración irregular (150.000+ firmas). Tres contramanifestaciones: una antifascista desde el Coliseo (~5.000 personas, CGIL y asociaciones), otra estudiantil desde el Verano (~5.000 personas) hacia el Ministerio de Transporte de Salvini, y una provida desde San Giovanni. Tensión máxima en Prati con cordones policiales. La izquierda exige la prohibición de la marcha que consideran inconstitucional.",
-    "status": "en_curso",
-    "lat": "41.9028",
-    "lng": "12.4964",
-    "fuentes": [
-      {
-        "nombre": "Il Sole 24 ORE",
-        "url": "https://en.ilsole24ore.com/art/repatriation-four-opposing-marches-in-rome-today-thousands-of-police-officers-on-the-scene-AIZlsfdD"
-      },
-      {
-        "nombre": "ANSA",
-        "url": "https://www.ansa.it/sito/notizie/cronaca/2026/06/13/a-roma-il-corteo-di-remigrazione-e-riconquista_dbe11ff2-5794-4e0f-9a9e-36b13a53f8a2.html"
-      },
-      {
-        "nombre": "Tag24",
-        "url": "https://sviluppo2024.tag24.it/1397667-roma-cortei-13-giugno-ordine-pubblico-manifestazioni-sicurezza-blindata"
-      }
-    ],
-    "createdAt": "2026-06-13T18:06:08.000Z",
-    "updatedAt": "2026-06-13T21:49:09Z"
-  },
-  {
-    "id": 77,
-    "seccion": "internacional",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "10:00",
-    "fecha": "2026-06-13",
-    "lugar": "Sevilla",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Activistas de 13 países",
-      "Global Sumud Coalition"
-    ],
-    "motivo": "Protesta en Sevilla exigiendo la liberación de 10 miembros del Global Sumud Land Convoy detenidos en el este de Libia desde el 24 de mayo cuando intentaban entregar ayuda humanitaria a Gaza. Los detenidos (de Argentina, Portugal, Italia, EE.UU., Uruguay, Polonia, Túnez, Canadá y España) han estado en huelga de hambre y sed desde el 1 de junio. Activistas de 13 países lanzaron una huelga de hambre global solidaria frente a embajadas libias exigiendo intervención diplomática inmediata.",
-    "status": "en_curso",
-    "lat": "37.3891",
-    "lng": "-5.9845",
-    "fuentes": [
-      {
-        "nombre": "PressTV",
-        "url": "https://www.presstv.ir/Detail/2026/06/13/770338/Seville-protest-calls-for-release-of-Sumud-Convoy-activists-in-Libya"
-      },
-      {
-        "nombre": "Demócrata",
-        "url": "https://www.democrata.es/en/international/expansion-activists-from-thirteen-countries-go-on-a-hunger-strike-to-demand-the-release-of-the-flotilla-volunteers/"
-      }
-    ],
-    "createdAt": "2026-06-13T18:06:08.000Z",
-    "updatedAt": "2026-06-13T21:49:09Z"
-  },
-  {
-    "id": 78,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "07:00",
-    "fecha": "2026-06-13",
-    "lugar": "Buenos Aires (Hospital Garrahan → Plaza de Mayo). Paro desde 7am, asamblea al mediodía, marcha a Plaza de Mayo por la tarde, ruidazo nacional 20hs.",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "APyT (Asociación de Profesionales y Técnicos del Hospital Garrahan)",
-      "ATE-Garrahan (Junta Interna)"
-    ],
-    "motivo": "Paro, movilización a Plaza de Mayo y ruidazo nacional de trabajadores del Hospital Garrahan contra el veto del presidente Milei a la Ley de Emergencia Pediátrica que actualizaba el financiamiento del hospital. Denuncian falta de insumos, pérdida de más de 200 profesionales por bajos salarios, persecución sindical y desfinanciamiento. Exigen recomposición salarial, presupuesto para el hospital y aplicación de la ley vetada. Advierten que escalarán acciones.",
-    "status": "en_curso",
-    "lat": "-34.6083",
-    "lng": "-58.3717",
-    "fuentes": [
-      {
-        "nombre": "Radio Almafuerte",
-        "url": "https://radioalmafuerte.com.ar/nota/1229/estalla-el-conflicto-paro-marcha-y-ruidazo-contra-el-veto-de-milei-al-garrahan/"
-      }
-    ],
-    "createdAt": "2026-06-13T18:09:29.000Z",
-    "updatedAt": "2026-06-13T21:49:09Z"
-  },
-  {
-    "id": 79,
-    "seccion": "internacional",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
-    "hora": "12:00",
-    "fecha": "2026-06-13",
-    "lugar": "Kalamazoo, Míchigan (Bronson Park)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Michigan Nurses Association (MNA)",
-      "National Nurses United (NNU)"
-    ],
-    "motivo": "Rally 'RED ALERT' de enfermeras del Beacon Kalamazoo Hospital contra los recortes federales al Medicaid y Medicare (H.R. 1) que amenazan con pérdidas de $9.6-15 millones anuales al hospital. Exigen 'Medicare for All' y políticas que beneficien a la clase trabajadora. Parte del tour nacional RED ALERT de NNU visitando comunidades afectadas por la ley de presupuesto que recortó más de un billón de dólares en salud.",
-    "status": "en_curso",
-    "lat": "42.2917",
-    "lng": "-85.5872",
-    "fuentes": [
-      {
-        "nombre": "WWMT News 3",
-        "url": "https://wwmt.com/news/local/nurses-rally-kalamazoo-federal-healthcare-funding-medicare-medicaid-changes-west-michigan-beacon-hospital-red-alert-"
-      },
-      {
-        "nombre": "MLive",
-        "url": "https://www.mlive.com/news/kalamazoo/2026/06/kalamazoo-nurses-to-rally-saturday-over-shifting-federal-funds-they-fear-threatens-health-care.html"
-      },
-      {
-        "nombre": "MI Nurses Association",
-        "url": "https://minurses.org/news/nurses-put-beacon-kalamazoo-red-alert-status"
-      }
-    ],
-    "createdAt": "2026-06-13T20:00:16.000Z",
-    "updatedAt": "2026-06-13T21:49:09Z"
-  },
-  {
-    "id": 80,
-    "seccion": "internacional",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
-    "hora": "15:00",
-    "fecha": "2026-06-13",
-    "lugar": "Romulus, Míchigan (7525 Cogswell St, almacén convertido en centro de detención de ICE)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Coalition to Shut the Camps"
-    ],
-    "motivo": "Protesta semanal de los sábados contra la conversión de un almacén industrial en un centro de detención de ICE con capacidad para 500 personas en Romulus, Míchigan. Los manifestantes exigen el cierre del proyecto, denuncian violaciones de derechos humanos, falta de transparencia y el uso de fondos públicos para la detención de inmigrantes. La Coalición to Shut the Camps presenta demandas de transparencia a agencias públicas y utilities.",
-    "status": "en_curso",
-    "lat": "42.2223",
-    "lng": "-83.3966",
-    "fuentes": [
-      {
-        "nombre": "Equality in Government",
-        "url": "https://equalityingov.org/event/stop-the-romulus-ice-detention-center/2026-06-13/"
-      },
-      {
-        "nombre": "Michigan Advance",
-        "url": "https://michiganadvance.com/2026/04/25/hundreds-protest-in-romulus-against-proposal-to-convert-warehouse-into-ice-detention-center/"
-      }
-    ],
-    "createdAt": "2026-06-13T20:00:16.000Z",
-    "updatedAt": "2026-06-13T21:49:09Z"
-  },
-  {
-    "id": 81,
-    "seccion": "internacional",
-    "pais": "Suiza",
-    "bandera": "🇨🇭",
-    "hora": "14:00",
-    "fecha": "2026-06-13",
-    "lugar": "Ginebra (G7 counter-summit mobilization)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Coalición NO G7 (~50 organizaciones)",
-      "StopReArmEurope"
-    ],
-    "motivo": "Movilización de contra-cumbre contra la reunión del G7 en Évian (13-17 de junio). Manifestación en Ginebra exigiendo el fin de las guerras, la austeridad y la destrucción ambiental. Las autoridades suizas amenazaron con prohibir la movilización, intensificando acciones antidemocráticas y represivas.",
-    "status": "convocada",
-    "lat": "46.2044",
-    "lng": "6.1432",
-    "fuentes": [
-      {
-        "nombre": "StopReArmEurope",
-        "url": "https://stoprearm.org/991-2/"
-      },
-      {
-        "nombre": "Find A Protest",
-        "url": "https://www.findaprotest.info/event/geneva/evt-d86691d5281b171b"
-      }
-    ],
-    "createdAt": "2026-06-13T20:00:16.000Z",
-    "updatedAt": "2026-06-13T21:49:09Z"
-  },
-  {
-    "id": 82,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "14:00",
-    "fecha": "2026-06-13",
-    "lugar": "Santa Fe (Plaza 25 de Mayo)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "AMSAFE (Sindicato de Trabajadores de la Educación de Santa Fe)"
-    ],
-    "motivo": "Festival Provincial en Defensa de la Educación Pública con la Carpa Blanca de la Dignidad Docente, en el marco del plan de lucha por salarios y presupuesto educativo. Exigen convocatoria a paritarias con nueva propuesta salarial, recomposición de ingresos, mayor presupuesto para escuelas y defensa de la educación pública. El festival incluye actividades culturales, música en vivo (La Delio Valdez, Mamita Peyote, Gulubú Rock) y muestra del recorrido de la Carpa Blanca por 30 localidades de la provincia.",
-    "status": "en_curso",
-    "lat": "-31.6333",
-    "lng": "-60.7000",
-    "fuentes": [
-      {
-        "nombre": "AMSAFE",
-        "url": "https://www.amsafe.org.ar/conferencia-de-prensa-festival-provincial-en-defensa-de-la-educacion-publica/"
-      }
-    ],
-    "createdAt": "2026-06-13T20:01:36.000Z",
-    "updatedAt": "2026-06-13T21:49:09Z"
-  },
-  {
-    "id": 83,
-    "seccion": "internacional",
-    "pais": "Ecuador",
-    "bandera": "🇪🇨",
-    "hora": "09:00",
-    "fecha": "2026-06-13",
-    "lugar": "Quito (Caja del IESS, parque El Ejido → Corte Constitucional)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Unión Nacional de Educadores (UNE)",
-      "Federación de Estudiantes Secundarios del Ecuador (FESE)",
-      "Confederación Nacional de Servidores Públicos (CONASEP)",
-      "Unión Nacional de Empleados del Ministerio de Educación (UNEM)"
-    ],
-    "motivo": "Marcha nacional de docentes, estudiantes y servidores públicos contra el Acuerdo Ministerial 0045A, que obliga a actividades docentes los sábados ampliando la jornada laboral sin remuneración. Exigen su derogación por inconstitucional, rechazan el alza de combustibles y denuncian precarización laboral, retrasos en ascensos y falta de inversión educativa.",
-    "status": "en_curso",
-    "lat": "-0.1807",
-    "lng": "-78.4678",
-    "fuentes": [
-      {
-        "nombre": "El Comercio",
-        "url": "https://www.elcomercio.com/actualidad/ecuador/docentes-une-marchan-quito-derechos-laborales/"
-      },
-      {
-        "nombre": "Radio Pichincha",
-        "url": "https://www.radiopichincha.com/une-marcha-quito-demanda-inconstitucionalidad-acuerdo-incorpora-actividades-escolares-obligatorias-fines-semana/"
-      },
-      {
-        "nombre": "Primicias",
-        "url": "https://www.primicias.ec/politica/maestros-estudiantes-marcha-quito-acuerdo-actividades-docentes-sabados-125333/"
-      }
-    ],
-    "createdAt": "2026-06-13T21:44:18.000Z",
-    "updatedAt": "2026-06-13T21:49:09Z"
-  },
-  {
-    "id": 84,
-    "seccion": "internacional",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "17:00",
-    "fecha": "2026-06-13",
-    "lugar": "Pamplona (Parque de la Runa, Parque Antoniutti, Plaza de la Libertad → Plaza del Castillo)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Euskalgintzaren Kontseilua"
-    ],
-    "motivo": "Marcha multitudinaria (~4.000 personas) por el derecho a vivir en euskera, bajo el lema 'Euskaraz bizitzeko behar den dena' (Todo lo necesario para vivir en euskera). Tres columnas confluyeron en la Plaza del Castillo exigiendo oficialidad plena del euskera en toda Navarra, políticas lingüísticas estructurales y condiciones reales para la normalización del idioma vasco, que denuncian en 'situación de emergencia'.",
-    "status": "en_curso",
-    "lat": "42.8125",
-    "lng": "-1.6458",
-    "fuentes": [
-      {
-        "nombre": "EFE",
-        "url": "https://efe.com/navarra/2026-06-13/manifestacion-por-el-derecho-a-vivir-en-euskera/"
-      },
-      {
-        "nombre": "Noticias de Navarra",
-        "url": "https://www.noticiasdenavarra.com/sociedad/2026/06/13/kontseilua-marcha-euskaltzale-pamplona-iruna-11197236.html"
-      },
-      {
-        "nombre": "elDiario.es",
-        "url": "https://www.eldiario.es/navarra/miles-personas-manifiestan-pamplona-reclamar-condiciones-verdaderas-vivir-euskera_1_13300027.html"
-      }
-    ],
-    "createdAt": "2026-06-13T21:44:18.000Z",
-    "updatedAt": "2026-06-13T21:49:09Z"
-  },
-  {
-    "id": 85,
-    "seccion": "internacional",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "12:00",
-    "fecha": "2026-06-13",
-    "lugar": "Madrid (Plaza de las Cortes, frente al Congreso de los Diputados)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Asociación de Tropa y Marinería Española (ATME)",
-      "Jusapol, Jucil, Jupol (apoyo de asociaciones policiales)"
-    ],
-    "motivo": "Concentración de militares de tropa y marinería (medio centenar) apoyados por familiares y asociaciones de guardias civiles y policía nacional. Exigen mejoras salariales (salario base de 1.326€/mes denunciado como insuficiente), reconocimiento como profesión de riesgo, reforma del reglamento de retribuciones, aprobación de una ley única de carrera militar, fin de la temporalidad y de la jubilación obligatoria a los 45 años con pensión no contributiva.",
-    "status": "en_curso",
-    "lat": "40.4153",
-    "lng": "-3.6967",
-    "fuentes": [
-      {
-        "nombre": "RTVE",
-        "url": "https://www.rtve.es/noticias/20260613/militares-se-manifiestan-congreso-pedir-subidas-sueldo-ser-reconocidos-profesion-riesgo/17113817.shtml"
-      },
-      {
-        "nombre": "EFE",
-        "url": "https://efe.com/espana/2026-06-13/militares-tropa-marineria-piden-ante-congreso-dignidad-labor-riesgo/"
-      },
-      {
-        "nombre": "20 Minutos",
-        "url": "https://www.20minutos.es/nacional/militares-tropa-marineria-piden-ante-congreso-dignidad-ante-una-labor-riesgo_6982880_0.html"
-      }
-    ],
-    "createdAt": "2026-06-13T21:44:18.000Z",
-    "updatedAt": "2026-06-13T21:49:09Z"
+    "updatedAt": "2026-06-13T23:08:41Z"
   }
 ]
