@@ -1,40 +1,11 @@
 [
   {
-    "id": 4,
-    "seccion": "internacional",
-    "pais": "Italia",
-    "bandera": "🇮🇹",
-    "hora": "10:00",
-    "fecha": "2026-06-12",
-    "lugar": "Perugia y toda Italia (manifestaciones de abogados penalistas en sedes judiciales)",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "Unione Camere Penali Italiane (UCPI)"
-    ],
-    "motivo": "Último día de la huelga nacional de 5 días (8 al 12 de junio) de abogados penalistas. Protestan por la interceptación ilegal de conversaciones entre detenidos y sus abogados en la cárcel de Capanne (Perugia). Exigen garantías constitucionales del derecho de defensa y cese de prácticas de vigilancia ilegal. La huelga finaliza hoy.",
-    "status": "en_curso",
-    "lat": "43.1122",
-    "lng": "12.3888",
-    "fuentes": [
-      {
-        "nombre": "Sky TG24",
-        "url": "https://tg24.sky.it/cronaca/2026/06/01/scioperi-giugno-2026"
-      },
-      {
-        "nombre": "PartitaIva.it",
-        "url": "https://www.partitaiva.it/sciopero-trasporti-8-giugno/"
-      }
-    ],
-    "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-12T23:05:17Z"
-  },
-  {
     "id": 6,
     "seccion": "internacional",
     "pais": "España",
     "bandera": "🇪🇸",
     "hora": "00:01",
-    "fecha": "2026-06-12",
+    "fecha": "2026-06-13",
     "lugar": "9 torres de control SAERCO: Lanzarote, Fuerteventura, La Palma, El Hierro, Sevilla, Jerez, Vigo, A Coruña",
     "tipoAccion": "huelga",
     "organizaciones": [
@@ -56,7 +27,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-12T23:05:17Z"
+    "updatedAt": "2026-06-13T00:28:09Z"
   },
   {
     "id": 8,
@@ -64,7 +35,7 @@
     "pais": "España",
     "bandera": "🇪🇸",
     "hora": "11:00",
-    "fecha": "2026-06-12",
+    "fecha": "2026-06-13",
     "lugar": "Madrid (Puerta del Sol, sede Presidencia regional)",
     "tipoAccion": "huelga",
     "organizaciones": [
@@ -85,37 +56,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-12T23:05:17Z"
-  },
-  {
-    "id": 9,
-    "seccion": "internacional",
-    "pais": "Bangladesh",
-    "bandera": "🇧🇩",
-    "hora": "08:00",
-    "fecha": "2026-06-12",
-    "lugar": "Dhaka (Central Shaheed Minar). Réplicas en Chattogram, Sylhet, Rajshahi, Mymensingh y otros distritos",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "Intern Doctors' Association",
-      "Bangladesh Medical Association"
-    ],
-    "motivo": "Continúa la huelga nacional indefinida de médicos internos. Exigen: cancelación del entrenamiento FCPS, salario mínimo de 30.000 takas, ley de seguridad para trabajadores de la salud y mejoras laborales. Servicios de emergencia excluidos de la huelga.",
-    "status": "en_curso",
-    "lat": "23.8103",
-    "lng": "90.4125",
-    "fuentes": [
-      {
-        "nombre": "The Daily Star",
-        "url": "https://online91.thedailystar.net/news/bangladesh/rights/news/interns-sylhet-osmani-hospital-indefinite-strike-over-6-demands-4192731"
-      },
-      {
-        "nombre": "New Age BD",
-        "url": "https://www.newagebd.net/post/country/301976/intern-doctors-go-on-strike"
-      }
-    ],
-    "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-12T23:05:17Z"
+    "updatedAt": "2026-06-13T00:28:09Z"
   },
   {
     "id": 10,
@@ -123,7 +64,7 @@
     "pais": "Australia",
     "bandera": "🇦🇺",
     "hora": "00:01",
-    "fecha": "2026-06-12",
+    "fecha": "2026-06-13",
     "lugar": "Instalaciones Ichthys LNG (frente a la costa de Australia Occidental)",
     "tipoAccion": "huelga",
     "organizaciones": [
@@ -142,7 +83,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-12T23:05:17Z"
+    "updatedAt": "2026-06-13T00:28:09Z"
   },
   {
     "id": 11,
@@ -150,32 +91,32 @@
     "pais": "Corea del Sur",
     "bandera": "🇰🇷",
     "hora": "08:00",
-    "fecha": "2026-06-12",
+    "fecha": "2026-06-13",
     "lugar": "Seúl (Yeouido Square) y área metropolitana",
     "tipoAccion": "huelga",
     "organizaciones": [
       "National Ready-Mixed Concrete Transport Workers' Union (KNRCTWU)"
     ],
-    "motivo": "Continúa la huelga indefinida de transportistas de hormigón en Seúl. 8.000 miembros y 11.000 vehículos en paro. Exigen mejora de tarifas de transporte, seguridad laboral y fin de prácticas abusivas. El 96.1% de los miembros rechazó el acuerdo tentativo del 9 de junio. La huelga afecta a construcciones de semiconductores de Samsung y SK hynix.",
+    "motivo": "Día 6 de la huelga indefinida de transportistas de hormigón en Seúl. 8.000 miembros y 11.000 vehículos en paro. Exigen mejora de tarifas de transporte, seguridad laboral y fin de prácticas abusivas. El 96.1% de los miembros rechazó el acuerdo tentativo del 9 de junio. La huelga afecta a construcciones de semiconductores de Samsung y SK hynix. Negociaciones continúan mediadas por el Ministerio de Transporte.",
     "status": "en_curso",
     "lat": "37.5665",
     "lng": "126.9780",
     "fuentes": [
       {
+        "nombre": "Seoul Economic Daily",
+        "url": "https://en.sedaily.com/finance/2026/06/13/prolonged-ready-mix-concrete-delivery-strike-disrupts"
+      },
+      {
+        "nombre": "Businesskorea",
+        "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=271198"
+      },
+      {
         "nombre": "The Asia Business Daily",
         "url": "https://www.asiae.co.kr/en/article/2026060717474756545"
-      },
-      {
-        "nombre": "The Asia Business Daily (exclusivo)",
-        "url": "https://www.asiae.co.kr/en/article/2026061115224667683"
-      },
-      {
-        "nombre": "The Asia Business Daily (infraestructura)",
-        "url": "https://www.asiae.co.kr/en/article/2026061117002318244"
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-12T23:05:17Z"
+    "updatedAt": "2026-06-13T00:28:09Z"
   },
   {
     "id": 12,
@@ -183,28 +124,28 @@
     "pais": "Rumanía",
     "bandera": "🇷🇴",
     "hora": "00:01",
-    "fecha": "2026-06-12",
+    "fecha": "2026-06-13",
     "lugar": "Unidades sanitarias y de asistencia social en toda Rumanía",
     "tipoAccion": "huelga",
     "organizaciones": [
       "Federația Sanitas"
     ],
-    "motivo": "Continúa la huelga japonesa de trabajadores sanitarios (~100.000 miembros con brazalete blanco). Protestan contra la nueva ley de salarios públicos que congela o reduce salarios de más del 60% del sector. Exigen valor de referencia de 4.325 RON y coeficientes justos.",
+    "motivo": "Continúa la huelga japonesa de trabajadores sanitarios (~120.000 miembros con brazalete blanco) iniciada el 9 de junio. Protestan contra la nueva ley de salarios públicos que congela o reduce salarios de más del 60% del sector. Exigen valor de referencia de 4.325 RON y coeficientes justos. Advierten que podrían escalar a huelga general con cese de actividades.",
     "status": "en_curso",
     "lat": "44.4268",
     "lng": "26.1025",
     "fuentes": [
       {
-        "nombre": "BTA",
-        "url": "https://www.bta.bg/en/news/balkans/1143351-romanian-healthcare-and-sanitation-workers-stage-protest-against-new-bill-warn-"
-      },
-      {
         "nombre": "AGERPRES",
         "url": "https://agerpres.ro/english/2026/06/09/members-of-sanitas-trade-union-of-healthcare-and-social-care-employees-on-japanese-strike--1564362"
+      },
+      {
+        "nombre": "BTA",
+        "url": "https://www.bta.bg/en/news/balkans/1143351-romanian-healthcare-and-sanitation-workers-stage-protest-against-new-bill-warn-"
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-12T23:05:17Z"
+    "updatedAt": "2026-06-13T00:28:09Z"
   },
   {
     "id": 13,
@@ -212,7 +153,7 @@
     "pais": "Reino Unido (Irlanda del Norte)",
     "bandera": "🇬🇧",
     "hora": "00:01",
-    "fecha": "2026-06-12",
+    "fecha": "2026-06-13",
     "lugar": "Belfast (Erskine House, Carne House)",
     "tipoAccion": "huelga",
     "organizaciones": [
@@ -233,7 +174,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-12T23:05:17Z"
+    "updatedAt": "2026-06-13T00:28:09Z"
   },
   {
     "id": 14,
@@ -241,7 +182,7 @@
     "pais": "Estados Unidos",
     "bandera": "🇺🇸",
     "hora": "00:01",
-    "fecha": "2026-06-12",
+    "fecha": "2026-06-13",
     "lugar": "Newark, Nueva Jersey (Delaney Hall ICE Detention Center). Protestas frente a Fiscalía General",
     "tipoAccion": "huelga_de_hambre",
     "organizaciones": [
@@ -249,7 +190,7 @@
       "Eyes on ICE",
       "Movimiento Cosecha"
     ],
-    "motivo": "Día 22 de la huelga de hambre y laboral de ~300 inmigrantes detenidos en Delaney Hall. Exigen cierre del centro, libertad y condiciones humanitarias. Denuncian comida en mal estado y trabajos forzados por $1-2/día para GEO Group.",
+    "motivo": "Día 23 de la huelga de hambre y laboral de ~300 inmigrantes detenidos en Delaney Hall. Exigen cierre del centro, libertad y condiciones humanitarias. Denuncian comida en mal estado y trabajos forzados por $1-2/día para GEO Group.",
     "status": "en_curso",
     "lat": "40.7282",
     "lng": "-74.1724",
@@ -268,7 +209,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-12T23:05:17Z"
+    "updatedAt": "2026-06-13T00:28:09Z"
   },
   {
     "id": 15,
@@ -276,7 +217,7 @@
     "pais": "Sudáfrica",
     "bandera": "🇿🇦",
     "hora": "08:00",
-    "fecha": "2026-06-12",
+    "fecha": "2026-06-13",
     "lugar": "Germiston, Ciudad de Ekurhuleni (calles céntricas)",
     "tipoAccion": "huelga",
     "organizaciones": [
@@ -293,33 +234,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-12T23:05:17Z"
-  },
-  {
-    "id": 16,
-    "seccion": "internacional",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "00:01",
-    "fecha": "2026-06-12",
-    "lugar": "Jalandhar y todo Punjab (depósitos de Punbus y Punjab Roadways). Marcha hacia residencia del CM",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "Sindicato de Trabajadores de Punbus",
-      "Sindicato de PRTC (Punjab Roadways Transport Corporation)"
-    ],
-    "motivo": "Continúa la huelga indefinida de conductores y cobradores contractuales de Punbus y Punjab Roadways contra la privatización del transporte público. Marcha hacia la residencia del Chief Minister para exigir regularización de empleados, reincorporación de suspendidos y retiro del esquema de privatización.",
-    "status": "en_curso",
-    "lat": "31.3260",
-    "lng": "75.5762",
-    "fuentes": [
-      {
-        "nombre": "National Times",
-        "url": "https://nationaltimesmedia.com/punjab-transport-services-hit-as-contractual-staff-launch-indefinite-strike-against-privatization-move/"
-      }
-    ],
-    "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-12T23:05:17Z"
+    "updatedAt": "2026-06-13T00:28:09Z"
   },
   {
     "id": 17,
@@ -327,7 +242,7 @@
     "pais": "Cuba",
     "bandera": "🇨🇺",
     "hora": "00:01",
-    "fecha": "2026-06-12",
+    "fecha": "2026-06-13",
     "lugar": "Santos Suárez, La Habana (y otros barrios: El Vedado, Centro Habana, Playa, Regla, Marianao). También Santiago de Cuba (Distrito José Martí)",
     "tipoAccion": "protesta",
     "organizaciones": [
@@ -361,7 +276,7 @@
       }
     ],
     "createdAt": "2026-06-11T06:58:54.000Z",
-    "updatedAt": "2026-06-12T23:05:17Z"
+    "updatedAt": "2026-06-13T00:28:09Z"
   },
   {
     "id": 19,
@@ -369,14 +284,14 @@
     "pais": "Corea del Sur",
     "bandera": "🇰🇷",
     "hora": "00:01",
-    "fecha": "2026-06-12",
+    "fecha": "2026-06-13",
     "lugar": "Seúl, Songpa-gu (Olympic Park Handball Stadium / Jamsil Counting Center)",
     "tipoAccion": "protesta",
     "organizaciones": [
       "Ciudadanos denunciando fraude electoral",
       "Partido Libertad e Innovación (Hwang Kyo-ahn)"
     ],
-    "motivo": "Continúa el bloqueo del estadio de handball de Jamsil (usado como centro de conteo de votos en elecciones locales del 3 de junio) por denuncias de falta de boletas y presunto fraude electoral. Manifestantes exigen recuento manual y repetición de elecciones. El bloqueo continúa por segunda semana. Cadenas humanas alrededor del centro de conteo fueron dispersadas por la policía el 12 de junio.",
+    "motivo": "Continúa el bloqueo del estadio de handball de Jamsil (usado como centro de conteo de votos en elecciones locales del 3 de junio) por denuncias de falta de boletas y presunto fraude electoral. Manifestantes exigen recuento manual y repetición de elecciones. El bloqueo continúa por segunda semana.",
     "status": "en_curso",
     "lat": "37.5186",
     "lng": "127.1219",
@@ -394,16 +309,12 @@
         "url": "https://en.sedaily.com/international/2026/06/11/sports-bodies-locked-out-for-a-week-demand-police"
       },
       {
-        "nombre": "YTN",
-        "url": "https://www.ytn.co.kr/_ln/0103_202606111342092808"
-      },
-      {
         "nombre": "The Straits Times",
         "url": "https://www.straitstimes.com/asia/how-south-koreas-ballot-shortage-spurred-turnout-of-thousands-to-defend-democracy"
       }
     ],
     "createdAt": "2026-06-11T15:03:53.000Z",
-    "updatedAt": "2026-06-12T23:05:17Z"
+    "updatedAt": "2026-06-13T00:28:09Z"
   },
   {
     "id": 20,
@@ -411,8 +322,8 @@
     "pais": "Bolivia",
     "bandera": "🇧🇴",
     "hora": "00:01",
-    "fecha": "2026-06-12",
-    "lugar": "La Paz, El Alto, Cochabamba y ~80 puntos de bloqueo en todo el país",
+    "fecha": "2026-06-13",
+    "lugar": "La Paz, El Alto, Cochabamba y ~86 puntos de bloqueo en todo el país",
     "tipoAccion": "protesta",
     "organizaciones": [
       "Central Obrera Boliviana (COB)",
@@ -421,11 +332,15 @@
       "Organizaciones indígenas quechuas de Potosí y Cochabamba",
       "Evo Morales (ex presidente, apoyando a manifestantes)"
     ],
-    "motivo": "Día 42 de protestas masivas contra el gobierno del presidente Rodrigo Paz. Marchas de miles de campesinos, obreros y choferes desde El Alto a La Paz enfrentando gases lacrimógenos policiales. ~80 bloqueos de carreteras activos en 6 de 9 departamentos causando desabastecimiento de combustible, alimentos y oxígeno medicinal. Exigen renuncia del presidente, mejoras salariales y calidad de la gasolina. El gobierno prepara decreto de estado de excepción. Evo Morales respalda a los manifestantes.",
+    "motivo": "Día 44 de protestas masivas contra el gobierno del presidente Rodrigo Paz. Marchas de miles de campesinos, obreros y choferes desde El Alto a La Paz enfrentando gases lacrimógenos policiales. ~86 bloqueos de carreteras activos en 6 de 9 departamentos causando desabastecimiento de combustible, alimentos y oxígeno medicinal. Exigen renuncia del presidente, mejoras salariales y calidad de la gasolina. El gobierno prepara decreto de estado de excepción. Evo Morales respalda a los manifestantes.",
     "status": "en_curso",
     "lat": "-16.5000",
     "lng": "-68.1500",
     "fuentes": [
+      {
+        "nombre": "Éxito Noticias",
+        "url": "https://exitonoticias.com.bo/bolivia-llega-a-43-dias-de-conflicto-con-86-bloqueos/394277/"
+      },
       {
         "nombre": "Sputnik Mundo",
         "url": "https://noticiaslatam.lat/20260611/arrecian-las-protestas-en-bolivia-ante-el-perfilado-establecimiento-del-estado-de-excepcion-1173839774.html"
@@ -435,24 +350,12 @@
         "url": "https://www.infobae.com/america/america-latina/2026/06/10/siguen-las-protestas-masivas-en-bolivia-la-policia-arresto-a-uno-de-los-dirigentes-que-impulsan-los-bloqueos/"
       },
       {
-        "nombre": "Associated Press",
-        "url": "https://www.ctpost.com/news/world/article/masiva-marcha-de-sindicalistas-y-campesinos-22299644.php"
-      },
-      {
         "nombre": "Al Jazeera",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/bolivian-farmers-clash-with-police-as-ex-president-vows-resistance"
-      },
-      {
-        "nombre": "El Deber",
-        "url": "https://eldeber.com.bo/pais/38-dias-conflicto-bolivia-suma-82-puntos-bloqueos-persiste-presion-abastecimiento_1780844282"
-      },
-      {
-        "nombre": "La Haine",
-        "url": "https://www.lahaine.org/mundo.php/bolivia-llega-a-la-paz-una-impresionante"
       }
     ],
     "createdAt": "2026-06-11T15:03:53.000Z",
-    "updatedAt": "2026-06-12T23:05:17Z"
+    "updatedAt": "2026-06-13T00:28:09Z"
   },
   {
     "id": 23,
@@ -460,7 +363,7 @@
     "pais": "Albania",
     "bandera": "🇦🇱",
     "hora": "18:00",
-    "fecha": "2026-06-12",
+    "fecha": "2026-06-13",
     "lugar": "Tirana (Plaza Skënderbej, frente a la Oficina del Primer Ministro). También Zvërnec, Vlora",
     "tipoAccion": "protesta",
     "organizaciones": [
@@ -469,34 +372,30 @@
       "Oposición política",
       "BirdLife Albania"
     ],
-    "motivo": "Duodécima noche consecutiva de protestas ('Revolución Flamenco') contra el megaproyecto de resort de lujo de Jared Kushner (yerno de Trump) e Ivanka Trump en la isla de Sazán y el humedal protegido de Vjosa-Narta. ~5.000 millones de euros. Los manifestantes exigen la cancelación del proyecto por falta de transparencia, destrucción ambiental y corrupción gubernamental. La Comisión Europea advirtió que el proyecto podría poner en riesgo la adhesión de Albania a la UE. El primer ministro Edi Rama se niega a dar marcha atrás.",
+    "motivo": "Decimotercera noche consecutiva de protestas ('Revolución Flamenco') contra el megaproyecto de resort de lujo de Jared Kushner (yerno de Trump) e Ivanka Trump en la isla de Sazán y el humedal protegido de Vjosa-Narta. ~5.000 millones de euros. Los manifestantes exigen la cancelación del proyecto por falta de transparencia, destrucción ambiental y corrupción gubernamental. La Comisión Europea advirtió que el proyecto podría poner en riesgo la adhesión de Albania a la UE. El primer ministro Edi Rama se niega a dar marcha atrás.",
     "status": "en_curso",
     "lat": "41.3275",
     "lng": "19.8187",
     "fuentes": [
       {
+        "nombre": "Hashtag.al",
+        "url": "https://www.hashtag.al/en/index.php/2026/06/12/protesta-e-13-te-ne-tirane-nis-grumbullimi-ne-sheshin-skenderbej-ndersa-ps-feston-35-vjetorin-e-themelimit/"
+      },
+      {
         "nombre": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/6/11/thousands-rally-in-tirana-in-largest-protest-yet-against-kushner-resort"
       },
       {
-        "nombre": "The Independent",
-        "url": "https://www.independent.co.uk/bulletin/news/albania-protest-jared-kushner-trump-property-b2994043.html"
-      },
-      {
-        "nombre": "Pravda Balkan",
-        "url": "https://balkan.news-pravda.com/en/albania/2026/06/11/34382.html"
-      },
-      {
-        "nombre": "Politis.com.cy",
-        "url": "https://en.politis.com.cy/news/world/1011727/thousands-march-in-tirana-as-kushner-resort-fuels-albanias-widest-protests-in-years"
-      },
-      {
         "nombre": "Euronews",
         "url": "https://www.euronews.com/video/2026/06/12/albania-thousands-rally-on-12th-day-of-protests-against-trump-linked-resort"
+      },
+      {
+        "nombre": "The Independent",
+        "url": "https://www.independent.co.uk/bulletin/news/albania-protest-jared-kushner-trump-property-b2994043.html"
       }
     ],
     "createdAt": "2026-06-11T18:33:33.000Z",
-    "updatedAt": "2026-06-12T23:05:17Z"
+    "updatedAt": "2026-06-13T00:28:09Z"
   },
   {
     "id": 24,
@@ -504,14 +403,14 @@
     "pais": "Pakistán (Cachemira bajo admin. pakistaní)",
     "bandera": "🇵🇰",
     "hora": "08:00",
-    "fecha": "2026-06-12",
+    "fecha": "2026-06-13",
     "lugar": "Rawalakot, Muzaffarabad, Kotli y múltiples ciudades de Azad Jammu y Cachemira (PoK)",
     "tipoAccion": "protesta",
     "organizaciones": [
       "Joint Awami Action Committee (JAAC)",
       "Ciudadanos de Cachemira bajo administración pakistaní"
     ],
-    "motivo": "Día 4 de las masivas protestas y huelga general en Cachemira bajo administración pakistaní. Más de 80.000 manifestantes en Rawalakot exigen 'azadi' (libertad) y cantan consignas contra Pakistán y China. El movimiento se endureció tras 16 muertos por represión en Rawalakot. El JAAC continúa su marcha hacia Muzaffarabad. El gobierno pakistaní prohibió al JAAC bajo leyes antiterrorismo, cortes de internet por 10 días, y más de 1.000 arrestos. También hay protestas de la diáspora frente a embajadas de Pakistán en Londres y Nueva York.",
+    "motivo": "Día 5 de las masivas protestas y huelga general en Cachemira bajo administración pakistaní. Más de 80.000 manifestantes en Rawalakot exigen 'azadi' (libertad) y cantan consignas contra Pakistán y China. El movimiento se endureció tras 16 muertos por represión en Rawalakot. El JAAC continúa su marcha hacia Muzaffarabad. El gobierno pakistaní prohibió al JAAC bajo leyes antiterrorismo, cortes de internet por 10 días, y más de 1.000 arrestos. También hay protestas de la diáspora frente a embajadas de Pakistán en Londres y Nueva York.",
     "status": "en_curso",
     "lat": "34.3700",
     "lng": "73.4711",
@@ -521,358 +420,20 @@
         "url": "https://www.bbc.com/news/articles/cdxdyn5716xo"
       },
       {
-        "nombre": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/6/8/at-least-11-killed-in-pakistan-administered-kashmir-clashes-before-rally"
-      },
-      {
-        "nombre": "India TV News",
-        "url": "https://www.indiatvnews.com/news/world/thousands-participate-in-candlelight-vigil-in-pok-as-pakistan-intensifies-crackdown-on-protesters-video-2026-06-11-1044418"
-      },
-      {
-        "nombre": "India Today",
-        "url": "https://www.indiatoday.in/world/story/pakistan-occupied-kashmir-protests-security-crackdown-marches-authorities-tensions-2924808-2026-06-10"
-      },
-      {
         "nombre": "News18",
         "url": "https://www.news18.com/amp/world/pok-on-the-boil-jaac-vows-no-compromise-as-clashes-with-pak-forces-enter-day-4-exclusive-ws-l-10144744.html"
       },
       {
-        "nombre": "ABP Live",
-        "url": "https://news.abplive.com/news/world/pakistan-se-lenge-azaadi-massive-pojk-protest-movement-gains-momentum-after-deadly-crackdown-1849701"
+        "nombre": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/6/8/at-least-11-killed-in-pakistan-administered-kashmir-clashes-before-rally"
+      },
+      {
+        "nombre": "India Today",
+        "url": "https://www.indiatoday.in/world/story/pakistan-occupied-kashmir-protests-security-crackdown-marches-authorities-tensions-2924808-2026-06-10"
       }
     ],
     "createdAt": "2026-06-11T18:33:33.000Z",
-    "updatedAt": "2026-06-12T23:05:17Z"
-  },
-  {
-    "id": 28,
-    "seccion": "internacional",
-    "pais": "Reino Unido (Irlanda del Norte)",
-    "bandera": "🇬🇧",
-    "hora": "19:00",
-    "fecha": "2026-06-12",
-    "lugar": "Belfast (Este, Oeste y centro), Greenock (Escocia) y otras ciudades del Reino Unido",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Manifestantes de extrema derecha / antiinmigración",
-      "Grupos de extrema derecha organizados en redes sociales"
-    ],
-    "motivo": "Los disturbios antiinmigración en Belfast entraron en calma la noche del 11-12 de junio tras dos noches de violencia. No se repitieron los enfrentamientos de días anteriores. 12 policías heridos, 16 arrestos y 2 cargos presentados tras la violencia del miércoles. Se mantuvo presencia policial con pequeñas protestas que bloquearon calles brevemente pero fueron dispersadas. El ataque con cuchillo que desencadenó los disturbios ocurrió el lunes 8 de junio.",
-    "status": "finalizada",
-    "lat": "54.5973",
-    "lng": "-5.9301",
-    "fuentes": [
-      {
-        "nombre": "Metro UK",
-        "url": "https://metro.co.uk/2026/06/11/belfast-riots-latest-rioters-dodge-police-water-cannons-hurl-bricks-antrim-28732103/"
-      },
-      {
-        "nombre": "ProtoThema English",
-        "url": "https://en.protothema.gr/2026/06/11/second-day-of-protests-in-belfast-following-the-attempted-by-an-illegal-immigrant/"
-      },
-      {
-        "nombre": "EL PAÍS English",
-        "url": "https://english.elpais.com/international/2026-06-11/how-the-far-right-stirs-up-protests-against-immigration-in-britain.html"
-      },
-      {
-        "nombre": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/2026_Northern_Ireland_riots"
-      },
-      {
-        "nombre": "RTÉ News",
-        "url": "https://www.rte.ie/news/2026/0612/1578066-belfast-unrest/"
-      },
-      {
-        "nombre": "NY Times",
-        "url": "https://www.nytimes.com/2026/06/12/world/europe/belfast-stabbing-riots-anti-immigrant.html"
-      }
-    ],
-    "createdAt": "2026-06-11T18:33:33.000Z",
-    "updatedAt": "2026-06-12T23:05:17Z"
-  },
-  {
-    "id": 31,
-    "seccion": "internacional",
-    "pais": "Nigeria",
-    "bandera": "🇳🇬",
-    "hora": "08:00",
-    "fecha": "2026-06-12",
-    "lugar": "Lagos, Abuya, Port Harcourt, Kano, Ibadán y otras ciudades de todo el país",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Femi Falana (SAN)",
-      "Falz (Folarin Falana)",
-      "Alianza para Sobrevivir al COVID-19 y Más Allá",
-      "Comité para la Defensa de los Derechos Humanos (CDHR)",
-      "Movimiento #EndBadGovernance",
-      "Take-It-Back (TIB) Movement",
-      "Sindicatos, grupos juveniles y organizaciones de la sociedad civil"
-    ],
-    "motivo": "Protesta nacional masiva en el Día de la Democracia en Nigeria contra la creciente inseguridad, la crisis económica y el deterioro de las condiciones de vida. Exigen la liberación de secuestrados en Oyo, Borno, Ekiti, Kwara y otros estados, y medidas urgentes del gobierno para abordar la inseguridad y revertir políticas antipobreza. La coalición incluye a Femi Falana, Falz (Folarin Falana) y 16 organizaciones de la sociedad civil. Las manifestaciones se realizan en múltiples ciudades del país. La policía en Abuja usó gases lacrimógenos para dispersar a los manifestantes. En Lagos hubo una contramanifestación de apoyo al gobierno.",
-    "status": "en_curso",
-    "lat": "6.5244",
-    "lng": "3.3792",
-    "fuentes": [
-      {
-        "nombre": "Punch Nigeria",
-        "url": "https://punchng.com/falana-others-set-june-12-for-nationwide-protests-over-insecurity-hardship/"
-      },
-      {
-        "nombre": "The Sun Nigeria",
-        "url": "https://thesun.ng/june-12-falana-son-csos-labour-groups-declare-nationwide-protest-over-insecurity-hardship/"
-      },
-      {
-        "nombre": "New Telegraph",
-        "url": "https://newtelegraphng.com/insecurity-falana-csos-mobilise-nationwide-june-12-protest/"
-      },
-      {
-        "nombre": "Information Nigeria",
-        "url": "https://www.informationng.com/2026/06/june-12-falana-csos-declare-nationwide-protest-over-insecurity-hardship-in-nigeria.html"
-      },
-      {
-        "nombre": "Sahara Reporters",
-        "url": "https://saharareporters.com/2026/06/09/june-12-protests-take-it-back-announces-venues-lagos-abuja-jigawa-others-mobilises"
-      },
-      {
-        "nombre": "Legit.ng",
-        "url": "https://www.legit.ng/nigeria/1714022-killings-abductioon-hardship-date-announced-nationwide-protest/"
-      },
-      {
-        "nombre": "Politics Nigeria",
-        "url": "https://politicsnigeria.com/2026/06/12/breaking-protest-erupts-in-lagos-over-insecurity-hardship-pics/"
-      },
-      {
-        "nombre": "Daily Times Nigeria",
-        "url": "https://dailytimesng.com/three-cities-one-anger-ibadan-lagos-abuja-shake-nigeria-with-mass-protests/"
-      },
-      {
-        "nombre": "The Guild NG",
-        "url": "https://theguildng.com/youths-others-hit-streets-in-protest-against-rising-insecurity/"
-      },
-      {
-        "nombre": "Premium Times",
-        "url": "https://www.premiumtimesng.com/regional/ssouth-west/887110-june-12-tension-rises-as-falana-led-protest-against-insecurity-encounters-counter-rally-in-lagos.html"
-      },
-      {
-        "nombre": "Gazette Nigeria",
-        "url": "https://gazettengr.com/democracy-day-falana-falz-lead-protest-over-kidnappings-economic-hardship/"
-      }
-    ],
-    "createdAt": "2026-06-12T01:44:29.000Z",
-    "updatedAt": "2026-06-12T23:05:17Z"
-  },
-  {
-    "id": 33,
-    "seccion": "internacional",
-    "pais": "Indonesia",
-    "bandera": "🇮🇩",
-    "hora": "10:00",
-    "fecha": "2026-06-12",
-    "lugar": "Jakarta (HI Roundabout, Bundaran Hotel Indonesia, Dukuh Atas, Thamrin). También Universidad Estatal de Jakarta (UNJ), Rawamangun",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "BEM UI (Student Executive Board - University of Indonesia)",
-      "BEM IPB",
-      "BEM Universitas Pancasila",
-      "BEM Gunadarma",
-      "FMN (National Student Front)",
-      "UNJ Resists Alliance"
-    ],
-    "motivo": "Protesta estudiantil masiva '#IndonesiaMenujuBangkrut' (Hacia la Quiebra de Indonesia) contra políticas económicas del gobierno de Prabowo Subianto. ~3.000 manifestantes de múltiples universidades. Exigen: fin del gasto estatal ineficiente, reducción de precios de combustible y alimentos básicos, cancelación del programa de comidas gratuitas MBG y cooperativas village, fin de la militarización en asuntos civiles. 4.151 efectivos de seguridad desplegados. La policía enfrentó a los estudiantes con barricadas y desvíos de tráfico. BEM UI dio por terminada su protesta y trabajadores se unieron a la manifestación al anochecer.",
-    "status": "en_curso",
-    "lat": "-6.2088",
-    "lng": "106.8456",
-    "fuentes": [
-      {
-        "nombre": "Tempo.co",
-        "url": "https://en.tempo.co/read/2108180/indonesia-bankruptcy-what-to-know-about-student-protest-in-jakarta-today"
-      },
-      {
-        "nombre": "The Online Citizen",
-        "url": "https://theonlinecitizen.com/2026/06/12/indonesia-faces-major-student-protests-as-groups-challenge-economic-and-government-policies"
-      },
-      {
-        "nombre": "CNN Indonesia",
-        "url": "https://www.cnnindonesia.com/nasional/20260612062800-20-1368184/4151-personel-gabungan-dikerahkan-kawal-demo-mahasiswa-hari-ini"
-      },
-      {
-        "nombre": "IDN Times",
-        "url": "https://www.idntimes.com/news/indonesia/tni-siaga-24-jam-amankan-demo-mahasiswa-tuntut-turunkan-harga-bbm-00-bbwlv-6mkgp4"
-      },
-      {
-        "nombre": "The Straits Times",
-        "url": "https://www.straitstimes.com/asia/se-asia/jakarta-to-deploy-thousands-of-police-officers-as-students-protest-against-prabowo"
-      },
-      {
-        "nombre": "The Business Times",
-        "url": "https://www.businesstimes.com.sg/international/asean/indonesia-fuel-price-hike-rupiah-rout-pile-pressure-prabowo-students-protest"
-      },
-      {
-        "nombre": "Tempo.co (workers join)",
-        "url": "https://en.tempo.co/read/2108296/workers-join-remaining-protesters-at-indonesia-bankruptcy-rally"
-      }
-    ],
-    "createdAt": "2026-06-12T06:47:19.000Z",
-    "updatedAt": "2026-06-12T23:05:17Z"
-  },
-  {
-    "id": 34,
-    "seccion": "internacional",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "13:00",
-    "fecha": "2026-06-12",
-    "lugar": "París (Place de la République). Otras ciudades de Francia",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "CGT",
-      "FSU",
-      "Solidaires",
-      "Attac",
-      "LDH (Ligue des droits de l'Homme)",
-      "Oxfam France",
-      "La Cimade",
-      "SOS Racisme",
-      "Syndicat de la Magistrature",
-      "UNEF",
-      "Collectif Né-es ici ou venu-es d'ailleurs"
-    ],
-    "motivo": "Movilización intersindical y unitaria contra la entrada en vigor del Pacto Europeo sobre Migración y Asilo el 12 de junio de 2026. Denuncian: detención de migrantes desde 6 años, procedimientos acelerados, externalización del asilo y fichaje biométrico. Concentración a las 13h y manifestación a las 17h en Place de la République. Exigen condiciones de acogida dignas para todas las personas migrantes.",
-    "status": "en_curso",
-    "lat": "48.8673",
-    "lng": "2.3636",
-    "fuentes": [
-      {
-        "nombre": "LDH France",
-        "url": "https://www.ldh-france.org/face-aux-attaques-contre-le-droit-dasile-et-les-personnes-migrantes-de-lunion-europeenne-mobilisons-nous/"
-      },
-      {
-        "nombre": "Solidaires / EuropeSays",
-        "url": "https://www.europesays.com/afrique/127940/"
-      },
-      {
-        "nombre": "Info Libertaire",
-        "url": "https://www.infolibertaire.net/contre-le-reglement-retour-et-le-pacte-asile-appel-a-manifestation-le-12-juin-a-paris/"
-      },
-      {
-        "nombre": "EFE",
-        "url": "https://efe.com/espana/2026-06-12/claves-pacto-migratorio-ue-espana/"
-      }
-    ],
-    "createdAt": "2026-06-12T06:47:19.000Z",
-    "updatedAt": "2026-06-12T23:05:17Z"
-  },
-  {
-    "id": 35,
-    "seccion": "internacional",
-    "pais": "Perú",
-    "bandera": "🇵🇪",
-    "hora": "10:00",
-    "fecha": "2026-06-12",
-    "lugar": "Lima (Plaza San Martín, con posibles recorridos hacia Congreso, Palacio de Gobierno o JNE)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Juntos por el Perú (JP)",
-      "Simpatizantes de Roberto Sánchez"
-    ],
-    "motivo": "Marcha 'La Toma de Lima' / 'Los Cuatro Suyos' convocada por simpatizantes de Roberto Sánchez para exigir transparencia electoral y defensa del voto popular. El conteo oficial muestra diferencia de menos de 1.000 votos entre Sánchez y Keiko Fujimori. Denuncian presunto fraude electoral y piden recuento. JP presentó recurso de nulidad de 1.751 mesas por presunta clonación de actas. Municipalidad de Lima declaró alerta máxima y cerró Plaza de Armas.",
-    "status": "en_curso",
-    "lat": "-12.0464",
-    "lng": "-77.0428",
-    "fuentes": [
-      {
-        "nombre": "Infobae",
-        "url": "https://www.infobae.com/peru/2026/06/11/convocan-a-nueva-marcha-la-toma-de-lima-para-este-viernes-en-apoyo-de-roberto-sanchez-hay-que-defender-el-voto-popular/"
-      },
-      {
-        "nombre": "La República",
-        "url": "https://larepublica.pe/sociedad/2026/06/11/marcha-la-toma-de-lima-cual-es-la-ruta-que-tomara-la-movilizacion-en-apoyo-de-roberto-sanchez-141042"
-      },
-      {
-        "nombre": "Caretas",
-        "url": "https://caretas.pe/politica/protestas-en-lima-este-viernes-12-de-junio-avenidas-y-calles-cerradas-ante-manifestaciones-por-resultados-de-segunda-vuelta/"
-      },
-      {
-        "nombre": "El Comercio",
-        "url": "https://elcomercio.pe/lima/sucesos/resultado-ajustado-de-las-elecciones-2026-eleva-tension-politica-anuncian-movilizaciones-en-lima-y-regiones-mientras-autoridades-refuerzan-seguridad-noticia/"
-      }
-    ],
-    "createdAt": "2026-06-12T06:47:19.000Z",
-    "updatedAt": "2026-06-12T23:05:17Z"
-  },
-  {
-    "id": 36,
-    "seccion": "internacional",
-    "pais": "Italia",
-    "bandera": "🇮🇹",
-    "hora": "00:01",
-    "fecha": "2026-06-12",
-    "lugar": "Italia (nacional). Sedes de administraciones públicas, escuelas y hospitales",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "ADL Cobas",
-      "CLAP",
-      "Confederazione Cobas",
-      "SIAL Cobas"
-    ],
-    "motivo": "Huelga nacional de trabajadores de empresas contratistas (appalti) y agencias de trabajo temporal (somministrazione) que operan en administraciones públicas y empresas privadas. Afecta servicios de limpieza, catering y mantenimiento en escuelas, hospitales y oficinas públicas. Exigen mejores salarios, condiciones laborales dignas y fin de la precarización laboral.",
-    "status": "en_curso",
-    "lat": "41.8719",
-    "lng": "12.5674",
-    "fuentes": [
-      {
-        "nombre": "Strike Tracker",
-        "url": "https://striketracker.app/strikes-in-italy/strike-italy-12-june-2026"
-      },
-      {
-        "nombre": "SIAL Cobas",
-        "url": "https://www.sialcobas.it/2026/05/sciopero-i/"
-      },
-      {
-        "nombre": "FIRSTonline",
-        "url": "https://www.firstonline.info/en/Train-strikes-on-June-11-and-12--2026--involving-Trenitalia--Italo--and-Trenord.-Here-are-the-timetables-and-guaranteed-bands./"
-      }
-    ],
-    "createdAt": "2026-06-12T10:59:58.000Z",
-    "updatedAt": "2026-06-12T23:05:17Z"
-  },
-  {
-    "id": 37,
-    "seccion": "internacional",
-    "pais": "Italia",
-    "bandera": "🇮🇹",
-    "hora": "00:01",
-    "fecha": "2026-06-12",
-    "lugar": "Italia (nacional). Museos, bibliotecas, archivos, sitios arqueológicos y teatros. Concentración en Venecia frente a Gallerie dell'Accademia",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "Federculture",
-      "Sindicatos de trabajadores culturales italianos"
-    ],
-    "motivo": "Huelga nacional de trabajadores del sector cultural (museos, bibliotecas, archivos, sitios arqueológicos, teatros). ~825.000 trabajadores del 3.5% de la fuerza laboral italiana. Protestan por salarios insuficientes, precariedad laboral y falta de inversión en el sector cultural. Manifestación en Venecia frente a Gallerie dell'Accademia.",
-    "status": "en_curso",
-    "lat": "41.9028",
-    "lng": "12.4964",
-    "fuentes": [
-      {
-        "nombre": "Art Media Agency / EuropeSays",
-        "url": "https://www.europesays.com/italy/23489/"
-      },
-      {
-        "nombre": "Hyperallergic",
-        "url": "https://hyperallergic.com/italian-arts-workers-announce-nationwide-strike/"
-      },
-      {
-        "nombre": "Strike Tracker",
-        "url": "https://striketracker.app/strikes-in-italy"
-      },
-      {
-        "nombre": "InsideArt",
-        "url": "https://insideart.eu/2026/06/12/sciopero-il-12-giugno-il-mondo-della-cultura-incrocia-le-braccia/"
-      }
-    ],
-    "createdAt": "2026-06-12T10:59:58.000Z",
-    "updatedAt": "2026-06-12T23:05:17Z"
+    "updatedAt": "2026-06-13T00:28:09Z"
   },
   {
     "id": 38,
@@ -880,270 +441,76 @@
     "pais": "México",
     "bandera": "🇲🇽",
     "hora": "07:00",
-    "fecha": "2026-06-12",
-    "lugar": "Ciudad de México (Zócalo, Paseo de la Reforma, Estadio Azteca, Aeropuerto Internacional). También Guerrero, Michoacán, Morelos, Zacatecas, Baja California",
-    "tipoAccion": "protesta",
+    "fecha": "2026-06-13",
+    "lugar": "Ciudad de México (Zócalo, Paseo de la Reforma, Estadio Azteca, Aeropuerto Internacional). También Guerrero, Michoacán, Morelos, Zacatecas, Baja California, Chiapas y 12 estados",
+    "tipoAccion": "huelga",
     "organizaciones": [
       "CNTE (Coordinadora Nacional de Trabajadores de la Educación)",
       "Sección 22 de la CNTE (Oaxaca)",
       "Madres buscadoras de desaparecidos"
     ],
-    "motivo": "Continúa la huelga nacional indefinida de maestros de la CNTE que comenzó en mayo, coincidiendo con la Copa Mundial de la FIFA 2026. Exigen: derogación de reformas de pensiones, aumento salarial del 100% (rechazan oferta gubernamental del 9%), mejores condiciones laborales y negociación directa con el gobierno federal. Mantienen campamento en el centro de la CDMX, bloquean vialidades y han derribado estatuas de futbolistas. ~100.000 efectivos de seguridad desplegados para el Mundial. También hay protestas de madres de desaparecidos y sindicatos de maestros durante el evento. 12 manifestantes detenidos.",
+    "motivo": "Día 13 de la huelga nacional indefinida de maestros de la CNTE que comenzó el 1 de junio, coincidiendo con la Copa Mundial de la FIFA 2026. Exigen: derogación de reformas de pensiones ISSSTE, aumento salarial, mejores condiciones laborales y negociación directa. Mantienen campamento en el Zócalo de la CDMX y bloqueos en 12 estados. La CNTE realiza consulta a bases para definir si continúa o levanta la huelga. Madres buscadoras también protestan durante el Mundial.",
     "status": "en_curso",
     "lat": "19.4326",
     "lng": "-99.1332",
     "fuentes": [
       {
-        "nombre": "Solace Global",
-        "url": "https://www.solaceglobal.com/news/2026/06/11/alert-plus-mexico-teachers-union-protests/"
+        "nombre": "El Universal (12 estados)",
+        "url": "https://www.eluniversal.com.mx/nacion/en-12-estados-protesta-la-cnte-genera-desabasto/"
       },
       {
-        "nombre": "Democracy Now!",
-        "url": "https://www.democracynow.org/2026/6/11/world_cup_mexico"
+        "nombre": "El Universal (consulta CNTE)",
+        "url": "https://oaxaca.eluniversal.com.mx/sociedad/inicia-cnte-consulta-para-analizar-si-levanta-planton-y-concluye-huelga/"
+      },
+      {
+        "nombre": "Solace Global",
+        "url": "https://www.solaceglobal.com/news/2026/06/11/alert-plus-mexico-teachers-union-protests/"
       },
       {
         "nombre": "Reuters",
         "url": "https://www.reuters.com/sports/soccer/mexico-open-world-cup-amid-passion-parties-protests-2026-06-11/"
       },
       {
-        "nombre": "Euronews",
-        "url": "https://www.euronews.com/video/2026/06/04/world-cup-player-statues-toppled-during-protest-in-mexico-city"
-      },
-      {
-        "nombre": "Mexico News Daily",
-        "url": "https://mexiconewsdaily.com/news/cnte-teacher-protests-mexico-citys-zocalo-world-cup/"
-      },
-      {
-        "nombre": "Anadolu Agency",
-        "url": "https://www.aa.com.tr/en/sports/mexico-kicks-off-world-cup-with-football-victory-and-massive-protests-on-streets-of-capital/3964768"
+        "nombre": "Democracy Now!",
+        "url": "https://www.democracynow.org/2026/6/11/world_cup_mexico"
       }
     ],
     "createdAt": "2026-06-12T10:59:58.000Z",
-    "updatedAt": "2026-06-12T23:05:17Z"
+    "updatedAt": "2026-06-13T00:28:09Z"
   },
   {
     "id": 40,
     "seccion": "internacional",
     "pais": "India",
     "bandera": "🇮🇳",
-    "hora": "10:00",
-    "fecha": "2026-06-12",
-    "lugar": "Lucknow, Uttar Pradesh (Eco Garden)",
+    "hora": "16:00",
+    "fecha": "2026-06-13",
+    "lugar": "Amritsar, Punjab (Golden Gate). También Lucknow y Pune (actividades previas)",
     "tipoAccion": "protesta",
     "organizaciones": [
       "Cockroach Janta Party (CJP)",
       "Estudiantes y aspirantes a empleos gubernamentales"
     ],
-    "motivo": "Protesta estudiantil en Lucknow liderada por Cockroach Janta Party (CJP) exigiendo la renuncia del Ministro de Educación Dharmendra Pradhan por presuntas irregularidades en exámenes competitivos (NEET, CBSE, CUET), incluyendo filtración de exámenes. ~1.000 manifestantes. El CJP planea extender las protestas a Delhi (Jantar Mantar) el 20 de junio si no se renuncia. También se realizaron protestas en Pune el 11 de junio.",
+    "motivo": "Protesta estudiantil en Amritsar convocada por Cockroach Janta Party (CJP) exigiendo la renuncia del Ministro de Educación Dharmendra Pradhan por presuntas irregularidades en exámenes competitivos (NEET, CBSE, CUET), incluyendo filtración de exámenes. El movimiento denominado 'Revuelta de la Generación Z' continúa expandiéndose por todo el país. El CJP planea extender las protestas a Delhi (Jantar Mantar) el 20 de junio si no se renuncia.",
     "status": "en_curso",
-    "lat": "26.8467",
-    "lng": "80.9462",
+    "lat": "31.6340",
+    "lng": "74.8723",
     "fuentes": [
+      {
+        "nombre": "The New Indian Express",
+        "url": "https://www.newindianexpress.com/india/2026/Jun/12/cockroach-janata-party-to-hold-protest-in-amritsar-on-june-13"
+      },
       {
         "nombre": "LiveMint",
         "url": "https://www.livemint.com/news/india/cockroach-janta-party-protest-news-live-dipke-dharmendra-pradhan-pune-jantar-mantar-lucknow-neet-nta-12-6-2026-11781236105104.html"
       },
       {
-        "nombre": "The New Indian Express",
-        "url": "https://www.newindianexpress.com/states/uttar-pradesh/2026/Jun/12/lucknow-protest-over-exam-irregularities-draws-students-aspirants-cjp-chief-reiterate-pradhans-resignation"
-      },
-      {
-        "nombre": "Times Now",
-        "url": "https://www.timesnownews.com/city/abhijeet-dipke-cjp-lucknow-protest-today-renews-demand-for-dharmendra-pradhans-resignation-article-154580965"
-      },
-      {
-        "nombre": "The Economic Times",
-        "url": "https://economictimes.indiatimes.com/news/politics-and-nation/cockroach-janata-party-kicks-off-nationwide-protest-drive-from-pune-which-cities-are-next/articleshow/131672869.cms"
+        "nombre": "Babushahi",
+        "url": "https://www.babushahi.com/view-news.php?id=222418"
       }
     ],
     "createdAt": "2026-06-12T14:13:25.000Z",
-    "updatedAt": "2026-06-12T23:05:17Z"
-  },
-  {
-    "id": 41,
-    "seccion": "internacional",
-    "pais": "Filipinas",
-    "bandera": "🇵🇭",
-    "hora": "10:00",
-    "fecha": "2026-06-12",
-    "lugar": "Manila (Kalaw Avenue, US Embassy, Quezon Boulevard, Recto Avenue). También Quezon City, Cebu y otras ciudades",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "BAYAN (Bagong Alyansang Makabayan)",
-      "Anakbayan",
-      "PISTON",
-      "Karapatan",
-      "Kilusang para sa Pambansang Demokrasya (KPD)"
-    ],
-    "motivo": "Protesta masiva del Día de la Independencia ('Hindependence Day') contra la interferencia militar estadounidense, los 9 sitios EDCA, la iniciativa Pax Silica (zona económica de 4.000 hectáreas en New Clark City) y la corrupción del gobierno de Marcos Jr. ~2.500 manifestantes en Kalaw Avenue, Manila. Exigen soberanía nacional, justicia social, retiro de tropas de EE.UU. y fin de la corrupción. Manifestaciones también en Cebu y otras ciudades. Un manifestante roció pintura a un policía encubierto.",
-    "status": "finalizada",
-    "lat": "14.5833",
-    "lng": "120.9833",
-    "fuentes": [
-      {
-        "nombre": "Philstar",
-        "url": "https://qa.philstar.com/headlines/2026/06/12/2534733/progressive-groups-protest-manila-hindependence-day"
-      },
-      {
-        "nombre": "GMA News",
-        "url": "https://www.gmanetwork.com/news/topstories/nation/991206/protest-independence-day-issues/story/"
-      },
-      {
-        "nombre": "Manila Bulletin",
-        "url": "https://mb.com.ph/2026/06/12/young-protester-sprays-paint-on-undercover-cop-but-pnp-declares-128th-independence-day-generally-peaceful"
-      },
-      {
-        "nombre": "Inquirer",
-        "url": "https://newsinfo.inquirer.net/2245443/fwd-progressive-groups-march-for-genuine-independence"
-      },
-      {
-        "nombre": "SunStar Cebu",
-        "url": "https://www.sunstar.com.ph/cebu/cebu-marks-128th-independence-day-with-unity-calls-protests"
-      },
-      {
-        "nombre": "EFE / ABC España",
-        "url": "https://www.abc.es/internacional/cientos-filipinos-protestan-manila-acuerdos-defensa-eeuu-20260612085442-nt.html"
-      }
-    ],
-    "createdAt": "2026-06-12T17:27:00.000Z",
-    "updatedAt": "2026-06-12T23:05:17Z"
-  },
-  {
-    "id": 42,
-    "seccion": "internacional",
-    "pais": "Alemania",
-    "bandera": "🇩🇪",
-    "hora": "10:00",
-    "fecha": "2026-06-12",
-    "lugar": "Berlín (Brandenburger Tor, Ministerio de Economía) y Völklingen (Sarre)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "IG Metall"
-    ],
-    "motivo": "Protesta nacional de trabajadores siderúrgicos contra la crisis de la industria del acero. ~1.700 manifestantes en Berlín y 8.500 en Völklingen. Bajo el lema 'Stahl hat Zukunft' (El acero tiene futuro). Exigen protección laboral contra 11.000 recortes de empleo en Thyssenkrupp, transición a producción verde de acero con apoyo estatal confiable, medidas contra importaciones baratas de Asia (3 millones de toneladas de acero ruso anualmente) y aranceles de EE.UU., y precios de energía asequibles. Líderes de Los Verdes y La Izquierda asistieron.",
-    "status": "finalizada",
-    "lat": "52.5163",
-    "lng": "13.3777",
-    "fuentes": [
-      {
-        "nombre": "Die Zeit",
-        "url": "https://www.zeit.de/news/2026-06/12/tausende-stahlarbeiter-zu-kundgebungen-erwartet"
-      },
-      {
-        "nombre": "taz",
-        "url": "https://taz.de/Demos-in-Berlin-und-Voelklingen/!6186736/"
-      },
-      {
-        "nombre": "Wirtschaftswoche",
-        "url": "https://www.wiwo.de/unternehmen/stahlindustrie-in-der-krise-protest-in-berlin-ig-metall-bangt-um-zehntausende-stahljobs/100232555.html"
-      },
-      {
-        "nombre": "MarketScreener",
-        "url": "https://www.marketscreener.com/news/ig-metall-calls-on-thousands-of-steelworkers-to-protest-ce7f5dd2d18afe20"
-      }
-    ],
-    "createdAt": "2026-06-12T17:27:00.000Z",
-    "updatedAt": "2026-06-12T23:05:17Z"
-  },
-  {
-    "id": 44,
-    "seccion": "internacional",
-    "pais": "Bangladesh",
-    "bandera": "🇧🇩",
-    "hora": "08:00",
-    "fecha": "2026-06-12",
-    "lugar": "Distritos fronterizos con India en todo Bangladesh. Próxima protesta masiva en Dhaka el 15 de junio",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Jamaat-e-Islami Bangladesh",
-      "Alianza opositora de 11 partidos",
-      "National Citizen Party (NCP)"
-    ],
-    "motivo": "Protestas fronterizas organizadas por la alianza opositora liderada por Jamaat-e-Islami contra presuntas 'push-ins' (deportaciones forzadas) y asesinatos de bangladesíes por fuerzas de la Border Security Force (BSF) de India en la frontera. Denuncian más de 50 push-ins y 24 muertos en los primeros 100 días del gobierno BNP. Exigen fin de las deportaciones, justicia por las muertes y medidas diplomáticas. India rechaza las acusaciones. Se planea una gran protesta en Dhaka el 15 de junio.",
-    "status": "en_curso",
-    "lat": "23.6850",
-    "lng": "90.3563",
-    "fuentes": [
-      {
-        "nombre": "Aryan Age",
-        "url": "https://www.aryanage.com/article/37572/jamaat-led-opposition-alliance-announces-border-protests-against-india-over-alleged"
-      },
-      {
-        "nombre": "News9live",
-        "url": "https://www.news9live.com/world/jamaat-e-islami-india-bangladesh-border-protests-push-in-row-2979582"
-      },
-      {
-        "nombre": "BorderLens",
-        "url": "https://www.borderlens.com/2026/06/12/push-in-politics-as-jamaat-and-ncp-turn-the-border-into-a-test-of-sovereignty/"
-      }
-    ],
-    "createdAt": "2026-06-12T17:27:00.000Z",
-    "updatedAt": "2026-06-12T23:05:17Z"
-  },
-  {
-    "id": 46,
-    "seccion": "internacional",
-    "pais": "República Democrática del Congo",
-    "bandera": "🇨🇩",
-    "hora": "10:00",
-    "fecha": "2026-06-12",
-    "lugar": "Kinshasa (Palais du Peuple, Parlamento)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Coalition Article 64 (C64)",
-      "Martin Fayulu (ECiDé)",
-      "Moise Katumbi (Ensemble pour la République)"
-    ],
-    "motivo": "Protesta violenta de la oposición contra cambios constitucionales que permitirían al presidente Félix Tshisekedi optar a un tercer mandato. La Asamblea Nacional aprobó un proyecto de ley de referéndum constitucional. Las fuerzas de seguridad dispararon gases lacrimógenos y munición real para dispersar a los manifestantes. El opositor Delly Sesanga recibió un disparo en la pierna. Varios heridos.",
-    "status": "finalizada",
-    "lat": "-4.3250",
-    "lng": "15.3222",
-    "fuentes": [
-      {
-        "nombre": "Reuters",
-        "url": "https://www.usnews.com/news/world/articles/2026-06-12/congolese-security-forces-disperse-protesters-opposing-constitutional-change"
-      },
-      {
-        "nombre": "AP / Newsday",
-        "url": "https://www.newsday.com/news/nation/congo-protest-opposition-constitution-kinshasa-n92473"
-      },
-      {
-        "nombre": "Globe Banner",
-        "url": "https://globebanner.com/u-s-embassy-in-kinshasa-issues-demonstration-alert-for-june-12-2026"
-      },
-      {
-        "nombre": "Devdiscourse",
-        "url": "https://www.devdiscourse.com/article/politics/3934489-tensions-rise-in-kinshasa-over-proposed-constitutional-changes"
-      }
-    ],
-    "createdAt": "2026-06-12T21:16:05.000Z",
-    "updatedAt": "2026-06-12T23:05:17Z"
-  },
-  {
-    "id": 47,
-    "seccion": "internacional",
-    "pais": "Grecia",
-    "bandera": "🇬🇷",
-    "hora": "10:30",
-    "fecha": "2026-06-12",
-    "lugar": "Atenas (Ministerio de Migración y Asilo) y oficinas regionales",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "Union of Contract Employees of the Asylum Service",
-      "Association of Employees of the Asylum Service and Appeals Authority"
-    ],
-    "motivo": "Huelga nacional de 24 horas de trabajadores del Servicio de Asilo y la Autoridad de Apelaciones. Denuncian falta de personal crónica, inseguridad laboral y agotamiento. Coincide con la entrada en vigor del Pacto Europeo de Migración y Asilo. Exigen contratación inmediata de personal permanente, regularización de trabajadores contratados, pago de salarios atrasados y condiciones laborales dignas.",
-    "status": "en_curso",
-    "lat": "37.9838",
-    "lng": "23.7275",
-    "fuentes": [
-      {
-        "nombre": "Greek City Times",
-        "url": "https://greekcitytimes.com/2026/06/11/greek-asylum-service-workers-announce-24-hour-strike"
-      }
-    ],
-    "createdAt": "2026-06-12T21:16:05.000Z",
-    "updatedAt": "2026-06-12T23:05:17Z"
+    "updatedAt": "2026-06-13T00:28:09Z"
   },
   {
     "id": 48,
@@ -1151,7 +518,7 @@
     "pais": "Kenia",
     "bandera": "🇰🇪",
     "hora": "00:01",
-    "fecha": "2026-06-12",
+    "fecha": "2026-06-13",
     "lugar": "Nanyuki (Base Aérea Laikipia, Condado de Laikipia)",
     "tipoAccion": "protesta",
     "organizaciones": [
@@ -1164,241 +531,199 @@
     "lng": "37.0733",
     "fuentes": [
       {
+        "nombre": "BBC News",
+        "url": "https://www.bbc.com/news/articles/crlw3w84w30o"
+      },
+      {
         "nombre": "Reuters / US News",
         "url": "https://www.usnews.com/news/world/articles/2026-06-12/kenyan-killed-at-protest-against-us-ebola-facility-was-a-teenager-relative-says"
       },
       {
-        "nombre": "Democracy Now!",
-        "url": "https://www.democracynow.org/2026/6/10/headlines/kenyan_police_forces_fatally_shoot_a_man_during_protest_against_us_ebola_facility"
+        "nombre": "Kenyans.co.ke",
+        "url": "https://www.kenyans.co.ke/news/124243-missing-form-three-student-found-dead-after-nanyuki-protest-shooting"
       },
       {
-        "nombre": "Citizen Digital",
-        "url": "https://citizen.digital/article/protests-erupt-in-nanyuki-over-ebola-quarantine-facility-n383782"
+        "nombre": "Democracy Now!",
+        "url": "https://www.democracynow.org/2026/6/10/headlines/kenyan_police_forces_fatally_shoot_a_man_during_protest_against_us_ebola_facility"
       }
     ],
     "createdAt": "2026-06-12T21:16:05.000Z",
-    "updatedAt": "2026-06-12T23:05:17Z"
+    "updatedAt": "2026-06-13T00:28:09Z"
   },
   {
-    "id": 49,
+    "id": 51,
+    "seccion": "internacional",
+    "pais": "Italia",
+    "bandera": "🇮🇹",
+    "hora": "06:00",
+    "fecha": "2026-06-13",
+    "lugar": "Italia (nacional). Aeropuertos de toda Italia: Verona, Cagliari, Milán Linate y rutas easyJet",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "easyJet pilots and cabin crew unions",
+      "ENAV (air traffic control)",
+      "SOGAER",
+      "USB Lavoro Privato"
+    ],
+    "motivo": "Huelga nacional de aviación en Italia con múltiples acciones coordinadas: pilotos y tripulación de cabina de easyJet (18h, 06:00-24:00), controladores aéreos ENAV en Verona (18h), servicios de tierra SOGAER en Cagliari (18h) y personal de handling Sky Service en Milán Linate (4h). ~210 vuelos easyJet cancelados afectando hasta 40.000 pasajeros. El aeropuerto de Verona permanecerá cerrado para todas las aerolíneas durante la mayor parte del día.",
+    "status": "en_curso",
+    "lat": "41.8719",
+    "lng": "12.5674",
+    "fuentes": [
+      {
+        "nombre": "Strike Tracker",
+        "url": "https://striketracker.app/strikes-in-italy/transport-strike-italy-13-jun-2026"
+      },
+      {
+        "nombre": "Travel Tourister",
+        "url": "https://www.traveltourister.com/news/italy-aviation-strike-june-13-2026-24hr-warning-easyjet-verona-cagliari-milan-linate-check-flight-now/"
+      },
+      {
+        "nombre": "The Traveler",
+        "url": "https://www.thetraveler.org/italy-air-transport-strike-on-june-13-to-disrupt-key-airports/"
+      }
+    ],
+    "createdAt": "2026-06-13T00:20:29.000Z",
+    "updatedAt": "2026-06-13T00:28:09Z"
+  },
+  {
+    "id": 52,
+    "seccion": "internacional",
+    "pais": "Pakistán",
+    "bandera": "🇵🇰",
+    "hora": "09:00",
+    "fecha": "2026-06-13",
+    "lugar": "Islamabad (Parliament House)",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Sindicatos de empleados federales",
+      "Trade unions (ferroviarios, WAPDA, municipalidades)"
+    ],
+    "motivo": "Protesta masiva de empleados del gobierno federal y sindicatos contra el aumento salarial del 7% anunciado en el Presupuesto Federal 2026-27, que consideran insuficiente frente a la inflación. Exigen un incremento sustancial de salarios, medidas contra el aumento de precios de alimentos básicos y combustible. Intentaron marchar hacia el Parlamento y fueron bloqueados por la policía y Frontier Corps. Anunciaron movimiento 'Jail Bharo Tehreek' (Llenar las Cárceles).",
+    "status": "en_curso",
+    "lat": "33.7181",
+    "lng": "73.0573",
+    "fuentes": [
+      {
+        "nombre": "The News International",
+        "url": "https://www.thenews.pk/print/1420269-govt-employees-announce-protest-reject-7pc-salary-raise-amid-inflation"
+      }
+    ],
+    "createdAt": "2026-06-13T00:20:29.000Z",
+    "updatedAt": "2026-06-13T00:28:09Z"
+  },
+  {
+    "id": 53,
+    "seccion": "internacional",
+    "pais": "Perú",
+    "bandera": "🇵🇪",
+    "hora": "16:00",
+    "fecha": "2026-06-13",
+    "lugar": "Arequipa (Plaza España, culminando en Plaza de Armas)",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Colectivo 'Fujimori Nunca Más'",
+      "Generación Z Arequipa",
+      "Frente de Defensa del Voto Popular",
+      "Organizaciones feministas y colectivos universitarios"
+    ],
+    "motivo": "Nueva movilización en Arequipa convocada por el colectivo 'Fujimori Nunca Más' exigiendo transparencia electoral y recuento de actas observadas en las elecciones presidenciales del 7 de junio en la región. Denuncian actas donde habría ganado Roberto Sánchez que fueron enviadas a jurados electorales especiales. Exigen respeto al voto popular.",
+    "status": "en_curso",
+    "lat": "-16.4090",
+    "lng": "-71.5375",
+    "fuentes": [
+      {
+        "nombre": "El Objetivo",
+        "url": "https://www.elobjetivo.pe/arequipa-colectivo-fujimori-nunca-mas-convoca-una-nueva-movilizacion-para-el-13-de-junio/"
+      }
+    ],
+    "createdAt": "2026-06-13T00:20:29.000Z",
+    "updatedAt": "2026-06-13T00:28:09Z"
+  },
+  {
+    "id": 54,
+    "seccion": "internacional",
+    "pais": "Suiza",
+    "bandera": "🇨🇭",
+    "hora": "10:00",
+    "fecha": "2026-06-13",
+    "lugar": "Lausanne (Rebon Square, 16:00). St. Gallen (Barn Square, 10:00). Winterthur (Neumarkt Square, 17:00)",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Kurdish Women's Union in Switzerland (YJK-S)",
+      "Movimiento de huelga de mujeres suizas"
+    ],
+    "motivo": "Actividades previas a la huelga nacional de mujeres del 14 de junio en Suiza. Manifestaciones en Lausanne, St. Gallen y Winterthur bajo el lema 'We Are All YPJ', en apoyo a las Unidades de Protección de la Mujer (YPJ). Exigen igualdad salarial, igualdad de oportunidades y fin de la discriminación. La huelga nacional de mujeres del 14 de junio es una tradición anual desde 2019 que convoca a ~500.000 mujeres.",
+    "status": "en_curso",
+    "lat": "46.8011",
+    "lng": "7.1444",
+    "fuentes": [
+      {
+        "nombre": "ANHA / Hawar News",
+        "url": "https://hawarnews.com/en/call-for-participation-in-womens-strike-in-switzerland-support-for-ypj"
+      }
+    ],
+    "createdAt": "2026-06-13T00:20:29.000Z",
+    "updatedAt": "2026-06-13T00:28:09Z"
+  },
+  {
+    "id": 55,
     "seccion": "internacional",
     "pais": "Reino Unido",
     "bandera": "🇬🇧",
-    "hora": "13:00",
-    "fecha": "2026-06-12",
-    "lugar": "Londres (Woolwich Crown Court, sureste de Londres)",
+    "hora": "08:30",
+    "fecha": "2026-06-13",
+    "lugar": "Londres (The Mall, Green Park, Buckingham Palace)",
     "tipoAccion": "protesta",
     "organizaciones": [
-      "Palestine Action",
-      "Defend Our Juries",
-      "Activistas propalestinos"
+      "Republic"
     ],
-    "motivo": "Protesta masiva de ~500 manifestantes frente a Woolwich Crown Court durante la sentencia de cuatro activistas de Palestine Action (Filton 4) por irrumpir en una fábrica de Elbit Systems en Bristol en 2024 y causar daños de £1.2 millones. 72 personas arrestadas por apoyar a una organización proscrita. Los activistas fueron condenados a penas de hasta 7 años y 8 meses de prisión. La policía emitió una orden de dispersión y usó unidades de apoyo territorial para despejar la zona. El gobierno británico mantiene proscrito a Palestine Action como organización terrorista pese a que el Tribunal Superior declaró la proscripción ilegal en febrero de 2026, pendiente de apelación.",
-    "status": "finalizada",
-    "lat": "51.4867",
-    "lng": "0.0600",
+    "motivo": "Protesta antimonarquía anual durante el desfile militar Trooping the Colour (cumpleaños oficial del Rey Carlos III). Los manifestantes exigen la abolición de la monarquía y su reemplazo por una jefatura de Estado electa y democrática. La policía metropolitana impuso restricciones 'draconianas' según Republic, forzando a los manifestantes a protestar lejos de la valla de Buckingham Palace. El grupo lo califica de 'abuso de poder' para silenciar la oposición legítima a la monarquía.",
+    "status": "en_curso",
+    "lat": "51.5072",
+    "lng": "-0.1276",
     "fuentes": [
       {
-        "nombre": "BBC News",
-        "url": "https://www.bbc.com/news/articles/ce950111xk7o"
-      },
-      {
-        "nombre": "Metro UK",
-        "url": "https://metro.co.uk/2026/06/12/72-people-arrested-protest-outside-london-court-28752072/"
-      },
-      {
-        "nombre": "Anadolu Agency",
-        "url": "https://www.aa.com.tr/en/europe/72-arrested-at-london-protest-supporting-palestine-action-activists/3965421"
+        "nombre": "Republic",
+        "url": "https://www.republic.org.uk/trooping_the_colour_protest_2026"
       },
       {
         "nombre": "GB News",
-        "url": "https://www.gbnews.com/news/palestine-action-woolwich-sentencing-arrests"
+        "url": "https://www.gbnews.com/royal/trooping-the-colour-republic-rage-draconian-restrictions-met-police-new-rules"
       },
       {
-        "nombre": "London Now",
-        "url": "https://www.london-now.co.uk/news/26190448.72-palestine-action-protesters-arrested-outside-woolwich-crown-court/"
+        "nombre": "The National",
+        "url": "https://www.thenational.scot/news/26190178.met-police-slammed-draconian-restrictions-anti-royal-protest/"
       }
     ],
-    "createdAt": "2026-06-12T22:56:16.000Z",
-    "updatedAt": "2026-06-12T23:05:17Z"
+    "createdAt": "2026-06-13T00:20:29.000Z",
+    "updatedAt": "2026-06-13T00:28:09Z"
   },
   {
-    "id": 21,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "00:01",
-    "fecha": "2026-06-12",
-    "lugar": "Todo el país (universidades nacionales). Acción de visibilización en Rosario y clases públicas en tribunales. Movilización al Congreso de la Nación",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "CONADU Histórica",
-      "CONADU",
-      "FEDUN",
-      "FATUN (trabajadores no docentes)",
-      "CTA Autónoma",
-      "Frente Sindical Universitario"
-    ],
-    "motivo": "Segundo día del paro nacional de 48 horas de docentes y no docentes universitarios (11 y 12 de junio) con movilización al Congreso de la Nación en rechazo a la Ley Bases y contra la pérdida del poder adquisitivo salarial (más del 50% desde la asunción de Milei). Exigen inmediata recomposición salarial, reapertura de paritarias y cumplimiento de la Ley de Financiamiento Universitario. El Gobierno mantiene cerrada la paritaria nacional universitaria. El 10 de junio el Gobierno firmó un acuerdo salarial (24,33% escalonado) con rectores y gremios que desactivó el paro de semana completa previsto del 16 al 20 de junio, pero el paro de 48h del 11-12 se mantuvo. El 11 de junio CONADU Histórica rechazó la oferta salarial del Gobierno en un Congreso Extraordinario y ratificó el paro de semana completa del 16 al 20 de junio. La movilización del 12 de junio confluye con la huelga general convocada por la CGT contra la Ley Bases.",
-    "status": "en_curso",
-    "lat": "-34.6037",
-    "lng": "-58.3816",
-    "fuentes": [
-      {
-        "nombre": "Infobae",
-        "url": "https://www.infobae.com/educacion/2026/06/07/los-docentes-universitarios-anunciaron-un-paro-de-una-semana-en-todo-el-pais/"
-      },
-      {
-        "nombre": "DataBA (FATUN no docentes)",
-        "url": "https://databa.ar/nota/5440/paro-y-movilizacion-no-docente-para-el-11-y-12-de-junio/"
-      },
-      {
-        "nombre": "La Gaceta",
-        "url": "https://www.lagaceta.com.ar/nota/1140254/sociedad/conflicto-universitario-conadu-anuncio-paro-nacional-semana-denuncio-al-gobierno-ante-oit.html"
-      },
-      {
-        "nombre": "Primera Edición",
-        "url": "https://www.primeraedicion.com.ar/nota/101112609/docentes-universitarios-anunciaron-un-nuevo-paro-y-exigen-la-aplicacion-de-la-ley-de-financiamiento/"
-      },
-      {
-        "nombre": "Portal Urbano Web",
-        "url": "https://portalurbanoweb.com.ar/2026/06/09/se-aprobo-un-paro-por-el-conflicto-universitario/"
-      },
-      {
-        "nombre": "Agencia Comunas",
-        "url": "https://www.agenciacomunas.com.ar/conflicto-universitario-conadu-aprobo-un-paro-de-una-semana-completa-y-denuncio-al-gobierno-ante-la-oit/"
-      },
-      {
-        "nombre": "Radio EME",
-        "url": "https://www.radioeme.com/2026/06/docentes-universitarios-analizaran-este-jueves-la-oferta-salarial-del-gobierno-y-definiran-si-aceptan-el-acuerdo/"
-      },
-      {
-        "nombre": "ADUL (paro 48h 11-12 junio)",
-        "url": "https://adul.org.ar/paro-nacional-de-48-horas-11-y-12-de-junio/"
-      },
-      {
-        "nombre": "APUNSaM (FATUN movilización 12 junio)",
-        "url": "https://www.apunsam.org/noticias/paro-nacional-del-frente-sindical-universitario-de-48-hs-con-movilizaci%C3%93n-a-congreso-en-contra-de-la-ley-bases-el-12-de-junio"
-      },
-      {
-        "nombre": "CONADU Histórica",
-        "url": "https://conaduhistorica.org.ar/prensa/12-06-en-todo-el-pais-frenemos-la-ley-bases/"
-      },
-      {
-        "nombre": "CONADU",
-        "url": "https://conadu.org.ar/11-y-12-de-junio-paro-universitario"
-      },
-      {
-        "nombre": "El Diario (Entre Ríos)",
-        "url": "https://www.eldiario.com.ar/2026/06/11/conadu-historica-rechaza-oferta-y-ratifica-paro-universitario-por-una-semana/"
-      },
-      {
-        "nombre": "La Capital (Rosario)",
-        "url": "https://www.lacapital.com.ar/la-ciudad/docentes-universitarios-rosarinos-ratificaron-el-paro-cuatro-dias-y-reclaman-suba-del-538-n10264223.html"
-      }
-    ],
-    "createdAt": "2026-06-11T02:03:26.000Z",
-    "updatedAt": "2026-06-12T23:05:17Z"
-  },
-  {
-    "id": 39,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "12:00",
-    "fecha": "2026-06-12",
-    "lugar": "Buenos Aires (Plaza del Congreso, Congreso de la Nación) y réplicas en todo el país",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "CGT (Confederación General del Trabajo)",
-      "ATE (Asociación Trabajadores del Estado)",
-      "CTA Autónoma",
-      "CTA de los Trabajadores",
-      "UDA (Unión Docentes Argentinos)",
-      "partidos políticos y organizaciones sociales"
-    ],
-    "motivo": "Cuarto paro general contra el gobierno de Javier Milei y primera huelga general desde 2019. Media jornada de paro general (12:00 a 00:00 hs) convocada por la CGT contra la reforma laboral que se debate en la Cámara de Diputados, el ajuste y la pérdida del poder adquisitivo. Masiva movilización al Congreso de la Nación con gremios combativos (UOM, aceiteros, CTA) que rodearon el Parlamento. Discurso central de la CGT a las 14:30. Adhieren ATE, ambas CTA, UDA, partidos de la oposición y organizaciones sociales. El gobierno aplica el protocolo antipiquetes de Patricia Bullrich. La UDA se declaró en estado de alerta y movilización en todo el país por falta de convocatoria a paritaria nacional docente. El transporte (colectivos, trenes, subtes, vuelos) paralizado.",
-    "status": "en_curso",
-    "lat": "-34.6097",
-    "lng": "-58.3923",
-    "fuentes": [
-      {
-        "nombre": "La Letra Chica (Acatamiento)",
-        "url": "https://laletrachica.com.ar/nota/24743/acatamiento-importantisimo-jorge-sola-destaco-la-fuerza-del-paro-general-contra-la-reforma-laboral/"
-      },
-      {
-        "nombre": "La Letra Chica (plan de lucha)",
-        "url": "https://laletrachica.com.ar/nota/24722/la-cgt-activa-el-camino-hacia-un-paro-nacional-contra-la-reforma-laboral/"
-      },
-      {
-        "nombre": "xeva Noticias",
-        "url": "https://xeva.com.mx/internacional/224578/argentina-vive-su-primera-huelga-general-desde-2019"
-      },
-      {
-        "nombre": "CONADU Histórica",
-        "url": "https://conaduhistorica.org.ar/prensa/12-06-en-todo-el-pais-frenemos-la-ley-bases/"
-      },
-      {
-        "nombre": "ATE Junín",
-        "url": "https://www.atejunin.com.ar/34953/paro-general-ate-junin-adhiere-el-12-de-junio-contra-la-ley-bases-y-el-dnu.html"
-      },
-      {
-        "nombre": "Gestión Sindical",
-        "url": "https://gestionsindical.com/los-docentes-cgt-iran-al-paro-gobierno-sigue-convocar-discutir-paritaria-nacional"
-      },
-      {
-        "nombre": "La Letra Chica",
-        "url": "https://laletrachica.com.ar/nota/21366/los-gremios-del-transporte-paralizan-el-pais-contra-el-ajuste-de-milei/"
-      },
-      {
-        "nombre": "El Diario de Catamarca",
-        "url": "https://www.eldiariodecatamarca.com.ar/index.php/politica-y-economia/comenzo-el-paro-general-de-la-cgt-que-servicios-no-funcionan-por-24-horas"
-      }
-    ],
-    "createdAt": "2026-06-12T11:03:38.000Z",
-    "updatedAt": "2026-06-12T23:05:17Z"
-  },
-  {
-    "id": 50,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "20:00",
-    "fecha": "2026-06-12",
-    "lugar": "Río Gallegos, El Calafate, Caleta Olivia, Pico Truncado y otras ciudades de Santa Cruz",
+    "id": 56,
+    "seccion": "internacional",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "10:00",
+    "fecha": "2026-06-13",
+    "lugar": "Múltiples ciudades de EE.UU. (San José, Alhambra, Devon PA, Owings Mills MD, Dedham MA, Boston, Lyndhurst OH, Long Beach CA, Madison WI, Sunnyvale CA y otras)",
     "tipoAccion": "protesta",
     "organizaciones": [
-      "Policías autoconvocados de Santa Cruz",
-      "Servicio Penitenciario Provincial",
-      "Familiares de efectivos policiales"
+      "#TeslaTakedown",
+      "Activistas contra el oligarquía",
+      "Grupos de acción local"
     ],
-    "motivo": "Conflicto salarial policial iniciado en febrero de 2026. Marcha masiva de ~2.500 efectivos, familiares y retirados en Río Gallegos que bloqueó la residencia del gobernador Claudio Vidal y la Casa de Gobierno. 95% de adhesión al paro policial en toda la provincia. Exigen piso salarial de $3.800.000 para familia tipo y rechazaron oferta gubernamental de $1.480.000. El conflicto forzó la intervención de Gendarmería, Prefectura, Policía Federal y PSA para cubrir seguridad. Reunión de la Mesa del Salario prevista para el 12 de junio. El Concejo Deliberante de Río Gallegos aprobó resolución unánime de apoyo al reclamo.",
+    "motivo": "Protestas nacionales #TeslaTakedown en decenas de concesionarios Tesla en todo Estados Unidos, en su semana 71 de acción semanal. Los manifestantes protestan contra Elon Musk, las políticas de la administración Trump, la desigualdad económica y el poder de los oligarcas. Las protestas se realizan cada sábado frente a concesionarios Tesla en más de 20 ubicaciones en todo el país.",
     "status": "en_curso",
-    "lat": "-51.6230",
-    "lng": "-69.2168",
+    "lat": "37.3382",
+    "lng": "-121.8863",
     "fuentes": [
       {
-        "nombre": "OPI Santa Cruz",
-        "url": "https://www.opisantacruz.com.ar/2026/06/12/gran-movilizacion-de-policias-en-la-provincia-en-la-capital-coparon-la-cuadra-de-la-residencia-del-gobernador/"
-      },
-      {
-        "nombre": "News Digitales",
-        "url": "https://www.newsdigitales.com/nota/336082/cuarto-intermedio-en-santa-cruz-sigue-la-tension-por-los-salarios-de-la-policia/"
-      },
-      {
-        "nombre": "Voces y Apuntes",
-        "url": "https://vocesyapuntes.com/el-concejo-deliberante-acompano-el-reclamo-salarial-de-las-fuerzas-de-seguridad/"
-      },
-      {
-        "nombre": "Infobae",
-        "url": "https://www.infobae.com/politica/2026/06/06/conflicto-salarial-con-la-policia-en-santa-cruz-protestas-acampe-y-refuerzo-de-fuerzas-federales-de-nacion/"
-      },
-      {
-        "nombre": "OPI Santa Cruz (paro 95%)",
-        "url": "https://www.opisantacruz.com.ar/2026/06/10/policia-de-santa-cruz-paro-del-95-y-paritaria-clave-hoy/"
+        "nombre": "Action Network / #TeslaTakedown",
+        "url": "https://actionnetwork.org/event_campaigns/teslatakedown"
       }
     ],
-    "createdAt": "2026-06-12T23:00:37.000Z",
-    "updatedAt": "2026-06-12T23:05:17Z"
+    "createdAt": "2026-06-13T00:20:29.000Z",
+    "updatedAt": "2026-06-13T00:28:09Z"
   }
 ]
