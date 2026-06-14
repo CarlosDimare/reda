@@ -1,70 +1,11 @@
 [
   {
-    "id": 68,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "15:00",
-    "fecha": "2026-06-13",
-    "lugar": "Buenos Aires (Espacio Memoria y Derechos Humanos - ex ESMA, Casa de la Militancia H.I.J.O.S.)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "H.I.J.O.S.",
-      "Organismos de Derechos Humanos"
-    ],
-    "motivo": "Festival 'Cristina Libre' a un año de la detención y proscripción de Cristina Fernández de Kirchner. Jornada cultural con música en vivo, ferias de emprendedores, radio abierta, muestras artísticas y actividades de organismos de derechos humanos. Exigen libertad de la expresidenta y denuncian persecución judicial y política, en el marco del primer aniversario de la condena firme de la Corte Suprema que la inhabilitó perpetuamente y la mantiene en prisión domiciliaria.",
-    "status": "en_curso",
-    "lat": "-34.5409",
-    "lng": "-58.4596",
-    "fuentes": [
-      {
-        "nombre": "Notigital",
-        "url": "https://notigital.com.ar/h-i-j-o-s-realizara-un-festival-por-cristina-libre-a-un-ano-de-la-detencion-y-proscripcion-de-la-ex-presidenta/"
-      },
-      {
-        "nombre": "TN",
-        "url": "https://tn.com.ar/politica/2026/06/09/el-pj-prepara-un-banderazo-y-un-festival-para-reclamar-por-la-libertad-de-cristina-kirchner/"
-      },
-      {
-        "nombre": "InfoPlatense",
-        "url": "https://www.infoplatense.com.ar/banderazo-por-cristina-libre-el-20-de-junio-el-peronismo-convoca-a-un-ano-de-la-prision-domiciliaria-de-cfk/"
-      }
-    ],
-    "createdAt": "2026-06-13T13:07:06.000Z",
-    "updatedAt": "2026-06-13T23:08:41Z"
-  },
-  {
-    "id": 82,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "14:00",
-    "fecha": "2026-06-13",
-    "lugar": "Santa Fe (Plaza 25 de Mayo)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "AMSAFE (Sindicato de Trabajadores de la Educación de Santa Fe)"
-    ],
-    "motivo": "Festival Provincial en Defensa de la Educación Pública con la Carpa Blanca de la Dignidad Docente, en el marco del plan de lucha por salarios y presupuesto educativo. Exigen convocatoria a paritarias con nueva propuesta salarial, recomposición de ingresos, mayor presupuesto para escuelas y defensa de la educación pública. El festival incluye actividades culturales, música en vivo (La Delio Valdez, Mamita Peyote, Gulubú Rock) y muestra del recorrido de la Carpa Blanca por 30 localidades de la provincia.",
-    "status": "en_curso",
-    "lat": "-31.6333",
-    "lng": "-60.7000",
-    "fuentes": [
-      {
-        "nombre": "AMSAFE",
-        "url": "https://www.amsafe.org.ar/conferencia-de-prensa-festival-provincial-en-defensa-de-la-educacion-publica/"
-      }
-    ],
-    "createdAt": "2026-06-13T20:01:36.000Z",
-    "updatedAt": "2026-06-13T23:08:41Z"
-  },
-  {
     "id": 6,
     "seccion": "internacional",
     "pais": "España",
     "bandera": "🇪🇸",
     "hora": "00:01",
-    "fecha": "2026-06-13",
+    "fecha": "2026-06-14",
     "lugar": "9 torres de control SAERCO: Lanzarote, Fuerteventura, La Palma, El Hierro, Sevilla, Jerez, Vigo, A Coruña",
     "tipoAccion": "huelga",
     "organizaciones": [
@@ -86,7 +27,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-13T23:08:41Z"
+    "updatedAt": "2026-06-14T01:48:25Z"
   },
   {
     "id": 8,
@@ -94,7 +35,7 @@
     "pais": "España",
     "bandera": "🇪🇸",
     "hora": "11:00",
-    "fecha": "2026-06-13",
+    "fecha": "2026-06-14",
     "lugar": "Madrid (Puerta del Sol, sede Presidencia regional)",
     "tipoAccion": "huelga",
     "organizaciones": [
@@ -115,7 +56,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-13T23:08:41Z"
+    "updatedAt": "2026-06-14T01:48:25Z"
   },
   {
     "id": 10,
@@ -123,7 +64,7 @@
     "pais": "Australia",
     "bandera": "🇦🇺",
     "hora": "00:01",
-    "fecha": "2026-06-13",
+    "fecha": "2026-06-14",
     "lugar": "Instalaciones Ichthys LNG (frente a la costa de Australia Occidental)",
     "tipoAccion": "huelga",
     "organizaciones": [
@@ -142,7 +83,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-13T23:08:41Z"
+    "updatedAt": "2026-06-14T01:48:25Z"
   },
   {
     "id": 11,
@@ -150,13 +91,13 @@
     "pais": "Corea del Sur",
     "bandera": "🇰🇷",
     "hora": "08:00",
-    "fecha": "2026-06-13",
+    "fecha": "2026-06-14",
     "lugar": "Seúl (Yeouido Square) y área metropolitana. También Pyeongtaek y Yongin (plantas Samsung y SK hynix)",
     "tipoAccion": "huelga",
     "organizaciones": [
       "National Ready-Mixed Concrete Transport Workers' Union (KNRCTWU)"
     ],
-    "motivo": "Día 6 de la huelga indefinida de transportistas de hormigón en Seúl. 8.000 miembros y 11.000 vehículos en paro. Exigen mejora de tarifas de transporte, seguridad laboral y fin de prácticas abusivas. El 96.1% de los miembros rechazó el acuerdo tentativo del 9 de junio. La huelga detuvo la construcción de plantas de semiconductores de Samsung en Pyeongtaek y SK hynix en Yongin. Negociaciones continúan mediadas por el Ministerio de Transporte.",
+    "motivo": "Día 7 de la huelga indefinida de transportistas de hormigón en Seúl. 8.000 miembros y 11.000 vehículos en paro. Exigen mejora de tarifas de transporte, seguridad laboral y fin de prácticas abusivas. La huelga detuvo la construcción de plantas de semiconductores de Samsung en Pyeongtaek y SK hynix en Yongin. Negociaciones continúan mediadas por el Ministerio de Transporte.",
     "status": "en_curso",
     "lat": "37.5665",
     "lng": "126.9780",
@@ -179,7 +120,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-13T23:08:41Z"
+    "updatedAt": "2026-06-14T01:48:25Z"
   },
   {
     "id": 12,
@@ -187,7 +128,7 @@
     "pais": "Rumanía",
     "bandera": "🇷🇴",
     "hora": "00:01",
-    "fecha": "2026-06-13",
+    "fecha": "2026-06-14",
     "lugar": "Unidades sanitarias y de asistencia social en toda Rumanía",
     "tipoAccion": "huelga",
     "organizaciones": [
@@ -208,7 +149,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-13T23:08:41Z"
+    "updatedAt": "2026-06-14T01:48:25Z"
   },
   {
     "id": 13,
@@ -216,7 +157,7 @@
     "pais": "Reino Unido (Irlanda del Norte)",
     "bandera": "🇬🇧",
     "hora": "00:01",
-    "fecha": "2026-06-13",
+    "fecha": "2026-06-14",
     "lugar": "Belfast (Erskine House, Carne House)",
     "tipoAccion": "huelga",
     "organizaciones": [
@@ -237,7 +178,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-13T23:08:41Z"
+    "updatedAt": "2026-06-14T01:48:25Z"
   },
   {
     "id": 14,
@@ -245,7 +186,7 @@
     "pais": "Estados Unidos",
     "bandera": "🇺🇸",
     "hora": "00:01",
-    "fecha": "2026-06-13",
+    "fecha": "2026-06-14",
     "lugar": "Newark, Nueva Jersey (Delaney Hall ICE Detention Center). Protestas frente a Fiscalía General",
     "tipoAccion": "huelga_de_hambre",
     "organizaciones": [
@@ -253,7 +194,7 @@
       "Eyes on ICE",
       "Movimiento Cosecha"
     ],
-    "motivo": "Día 23 de la huelga de hambre y laboral de ~300 inmigrantes detenidos en Delaney Hall. Exigen cierre del centro, libertad y condiciones humanitarias. Denuncian comida en mal estado y trabajos forzados por $1-2/día para GEO Group.",
+    "motivo": "Día 24 de la huelga de hambre y laboral de ~300 inmigrantes detenidos en Delaney Hall. Exigen cierre del centro, libertad y condiciones humanitarias. Denuncian comida en mal estado y trabajos forzados por $1-2/día para GEO Group.",
     "status": "en_curso",
     "lat": "40.7282",
     "lng": "-74.1724",
@@ -272,7 +213,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-13T23:08:41Z"
+    "updatedAt": "2026-06-14T01:48:25Z"
   },
   {
     "id": 15,
@@ -280,7 +221,7 @@
     "pais": "Sudáfrica",
     "bandera": "🇿🇦",
     "hora": "08:00",
-    "fecha": "2026-06-13",
+    "fecha": "2026-06-14",
     "lugar": "Germiston, Ciudad de Ekurhuleni (calles céntricas)",
     "tipoAccion": "huelga",
     "organizaciones": [
@@ -297,7 +238,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-13T23:08:41Z"
+    "updatedAt": "2026-06-14T01:48:25Z"
   },
   {
     "id": 19,
@@ -305,14 +246,14 @@
     "pais": "Corea del Sur",
     "bandera": "🇰🇷",
     "hora": "00:01",
-    "fecha": "2026-06-13",
+    "fecha": "2026-06-14",
     "lugar": "Seúl, Songpa-gu (Olympic Park Handball Stadium / Jamsil Counting Center)",
     "tipoAccion": "protesta",
     "organizaciones": [
       "Ciudadanos denunciando fraude electoral",
       "Partido Libertad e Innovación (Hwang Kyo-ahn)"
     ],
-    "motivo": "Continúa el bloqueo del estadio de handball de Jamsil (usado como centro de conteo de votos en elecciones locales del 3 de junio) por denuncias de falta de boletas y presunto fraude electoral. Manifestantes exigen recuento manual y repetición de elecciones. El bloqueo continúa por segunda semana.",
+    "motivo": "Continúa el bloqueo del estadio de handball de Jamsil (usado como centro de conteo de votos en elecciones locales del 3 de junio) por denuncias de falta de boletas y presunto fraude electoral. Manifestantes exigen recuento manual y repetición de elecciones. El bloqueo continúa por tercera semana.",
     "status": "en_curso",
     "lat": "37.5186",
     "lng": "127.1219",
@@ -335,7 +276,7 @@
       }
     ],
     "createdAt": "2026-06-11T15:03:53.000Z",
-    "updatedAt": "2026-06-13T23:08:41Z"
+    "updatedAt": "2026-06-14T01:48:25Z"
   },
   {
     "id": 20,
@@ -343,8 +284,8 @@
     "pais": "Bolivia",
     "bandera": "🇧🇴",
     "hora": "00:01",
-    "fecha": "2026-06-13",
-    "lugar": "La Paz, El Alto, Cochabamba y ~86 puntos de bloqueo en todo el país",
+    "fecha": "2026-06-14",
+    "lugar": "La Paz, El Alto, Cochabamba y puntos de bloqueo en todo el país",
     "tipoAccion": "protesta",
     "organizaciones": [
       "Central Obrera Boliviana (COB)",
@@ -353,7 +294,7 @@
       "Organizaciones indígenas quechuas de Potosí y Cochabamba",
       "Evo Morales (ex presidente, apoyando a manifestantes)"
     ],
-    "motivo": "Día 45 de protestas masivas contra el gobierno del presidente Rodrigo Paz. Marchas de miles de campesinos, obreros y choferes desde El Alto a La Paz enfrentando gases lacrimógenos policiales. ~86 bloqueos de carreteras activos en 6 de 9 departamentos causando desabastecimiento de combustible, alimentos y oxígeno medicinal. Exigen renuncia del presidente, mejoras salariales y calidad de la gasolina. El 13 de junio sectores movilizados en San Julián anunciaron cuarto intermedio y apertura al diálogo con el gobierno, mientras la COD de Cochabamba pidió cuarto intermedio humanitario. Se observa agotamiento y debilitamiento de las protestas tras 43-45 días de conflicto.",
+    "motivo": "Día 46 de protestas masivas contra el gobierno del presidente Rodrigo Paz, aunque con visible fractura y debilitamiento. El 13-14 de junio varios sectores (fabriles, mineros asalariados, maestros) alcanzaron acuerdos con el gobierno o suspendieron medidas. Solo sectores campesinos evistas mantienen bloqueos. La COB suspendió su ampliado. Persiste desabastecimiento parcial de combustible y alimentos en La Paz y El Alto. Exigen renuncia del presidente, mejoras salariales y calidad de la gasolina.",
     "status": "en_curso",
     "lat": "-16.5000",
     "lng": "-68.1500",
@@ -363,32 +304,24 @@
         "url": "https://exitonoticias.com.bo/bolivia-llega-a-43-dias-de-conflicto-con-86-bloqueos/394277/"
       },
       {
-        "nombre": "Sputnik Mundo",
-        "url": "https://noticiaslatam.lat/20260611/arrecian-las-protestas-en-bolivia-ante-el-perfilado-establecimiento-del-estado-de-excepcion-1173839774.html"
-      },
-      {
         "nombre": "Infobae",
         "url": "https://www.infobae.com/america/america-latina/2026/06/10/siguen-las-protestas-masivas-en-bolivia-la-policia-arresto-a-uno-de-los-dirigentes-que-impulsan-los-bloqueos/"
       },
       {
-        "nombre": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/6/11/bolivian-farmers-clash-with-police-as-ex-president-vows-resistance"
+        "nombre": "El Deber (14 junio)",
+        "url": "https://eldeber.com.bo/pais/division-desorganizacion-cunde-movilizados-evistas-quedan-solos_1781398949"
       },
       {
-        "nombre": "Red Uno (13 junio)",
+        "nombre": "Red Uno",
         "url": "https://www.reduno.com.bo/programa/sectores-movilizados-de-san-julian-dan-cuarto-intermedio-este-sabado-tras-un-mes-de-bloqueo-202661223490"
       },
       {
-        "nombre": "Sputnik Mundo (13 junio)",
-        "url": "https://noticiaslatam.lat/20260613/un-acuerdo-entre-manifestantes-y-el-gobierno-de-bolivia-seria-una-salida-honorable-para-ambas-1173871073.html"
-      },
-      {
-        "nombre": "Visión 360",
-        "url": "https://www.vision360.bo/noticias/2026/06/12/52735-bloqueos-se-levantan-en-cuatro-departamentos-y-la-cod-de-cochabamba-pide-cuarto-intermedio-y-dialogo-con-el-gobierno"
+        "nombre": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/6/11/bolivian-farmers-clash-with-police-as-ex-president-vows-resistance"
       }
     ],
     "createdAt": "2026-06-11T15:03:53.000Z",
-    "updatedAt": "2026-06-13T23:08:41Z"
+    "updatedAt": "2026-06-14T01:48:25Z"
   },
   {
     "id": 23,
@@ -396,8 +329,8 @@
     "pais": "Albania",
     "bandera": "🇦🇱",
     "hora": "18:00",
-    "fecha": "2026-06-13",
-    "lugar": "Tirana (Plaza Skënderbej, frente a la Oficina del Primer Ministro). También Zvërnec, Vlora",
+    "fecha": "2026-06-14",
+    "lugar": "Tirana (Plaza Skënderbej, frente a la Oficina del Primer Ministro). También Vlorë, Zvërnec",
     "tipoAccion": "protesta",
     "organizaciones": [
       "Ciudadanos albaneses",
@@ -405,11 +338,15 @@
       "Oposición política",
       "BirdLife Albania"
     ],
-    "motivo": "Decimotercera noche consecutiva de protestas ('Revolución Flamenco') contra el megaproyecto de resort de lujo de Jared Kushner (yerno de Trump) e Ivanka Trump en la isla de Sazán y el humedal protegido de Vjosa-Narta. ~5.000 millones de euros. Los manifestantes exigen la cancelación del proyecto por falta de transparencia, destrucción ambiental y corrupción gubernamental. La Comisión Europea advirtió que el proyecto podría poner en riesgo la adhesión de Albania a la UE. El primer ministro Edi Rama se niega a dar marcha atrás.",
+    "motivo": "Decimocuarta noche consecutiva de protestas ('Revolución Flamenco') contra el megaproyecto de resort de lujo de Jared Kushner (yerno de Trump) e Ivanka Trump en la isla de Sazán y el humedal protegido de Vjosa-Narta. ~5.000 millones de euros. Manifestantes derribaron vallas metálicas y de púas del resort en construcción en la costa adriática. Exigen cancelación del proyecto por falta de transparencia, destrucción ambiental, confiscación de tierras y corrupción gubernamental. La Comisión Europea advirtió que el proyecto podría poner en riesgo la adhesión de Albania a la UE.",
     "status": "en_curso",
     "lat": "41.3275",
     "lng": "19.8187",
     "fuentes": [
+      {
+        "nombre": "RBC-Ukraine / The Guardian",
+        "url": "https://newsukraine.rbc.ua/news/trump-family-linked-resort-sparks-aggressive-1781390602.html"
+      },
       {
         "nombre": "Hashtag.al",
         "url": "https://www.hashtag.al/en/index.php/2026/06/12/protesta-e-13-te-ne-tirane-nis-grumbullimi-ne-sheshin-skenderbej-ndersa-ps-feston-35-vjetorin-e-themelimit/"
@@ -421,18 +358,10 @@
       {
         "nombre": "Euronews",
         "url": "https://www.euronews.com/video/2026/06/12/albania-thousands-rally-on-12th-day-of-protests-against-trump-linked-resort"
-      },
-      {
-        "nombre": "The Independent",
-        "url": "https://www.independent.co.uk/bulletin/news/albania-protest-jared-kushner-trump-property-b2994043.html"
-      },
-      {
-        "nombre": "Vox News Albania",
-        "url": "https://www.voxnews.al/english/aktualitet/nis-protesta-e-14-te-protestuesit-kerkojne-doreheqjen-e-rames-dhe-ber-i118560"
       }
     ],
     "createdAt": "2026-06-11T18:33:33.000Z",
-    "updatedAt": "2026-06-13T23:08:41Z"
+    "updatedAt": "2026-06-14T01:48:25Z"
   },
   {
     "id": 24,
@@ -440,25 +369,25 @@
     "pais": "Pakistán (Cachemira bajo admin. pakistaní)",
     "bandera": "🇵🇰",
     "hora": "08:00",
-    "fecha": "2026-06-13",
+    "fecha": "2026-06-14",
     "lugar": "Rawalakot, Muzaffarabad, Kotli y múltiples ciudades de Azad Jammu y Cachemira (PoK)",
     "tipoAccion": "protesta",
     "organizaciones": [
       "Joint Awami Action Committee (JAAC)",
       "Ciudadanos de Cachemira bajo administración pakistaní"
     ],
-    "motivo": "Día 5 de las masivas protestas y huelga general en Cachemira bajo administración pakistaní. Más de 80.000 manifestantes en Rawalakot exigen 'azadi' (libertad) y cantan consignas contra Pakistán y China. El gobierno pakistaní prohibió al JAAC bajo leyes antiterrorismo, cortes de internet por 10 días, y más de 1.000 arrestos. El 13 de junio las fuerzas de seguridad abrieron fuego con fusiles AK-47 contra manifestantes desarmados en Rawalakot, causando al menos 16-20 muertos y decenas de heridos, en una de las escaladas más letales. Manifestación de la diáspora frente a embajadas de Pakistán en Londres y Nueva York.",
+    "motivo": "Día 6 de las masivas protestas en Cachemira bajo administración pakistaní. Dos sentadas continúan en las afueras de Rawalakot por cuarto día consecutivo. Huelga parcial y suspensión de transporte público en Muzaffarabad por quinto día. El gobierno pakistaní intensifica la represión: incautación de negocios de activistas del JAAC, redadas y corte de internet por octavo día consecutivo. Más de 1.000 arrestos. Exigen 'azadi' (libertad). El 13 de junio fuerzas de seguridad abrieron fuego con fusiles AK-47 contra manifestantes desarmados en Rawalakot causando al menos 16-20 muertos.",
     "status": "en_curso",
     "lat": "34.3700",
     "lng": "73.4711",
     "fuentes": [
       {
-        "nombre": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cdxdyn5716xo"
+        "nombre": "Dawn (14 junio)",
+        "url": "https://www.dawn.com/news/2007661/partial-strike-persists-across-ajk-as-jaac-sit-ins-continue"
       },
       {
-        "nombre": "News18",
-        "url": "https://www.news18.com/amp/world/pok-on-the-boil-jaac-vows-no-compromise-as-clashes-with-pak-forces-enter-day-4-exclusive-ws-l-10144744.html"
+        "nombre": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cdxdyn5716xo"
       },
       {
         "nombre": "Al Jazeera",
@@ -475,18 +404,10 @@
       {
         "nombre": "Dhaka Tribune / AFP",
         "url": "https://www.dhakatribune.com/world/asia/412461/death-toll-from-pakistan-administered-kashmir"
-      },
-      {
-        "nombre": "NewsPoint / CliqIndia",
-        "url": "https://www.newspointapp.com/english/world/deadly-crackdown-in-rawalakot-as-pakistan-forces-open-fire-on-protesters-cliqindia_english/articleshow/1450482027df29de281b9a920c805f33a9e45a29"
-      },
-      {
-        "nombre": "India TV News",
-        "url": "https://www.indiatvnews.com/world/pakistan-occupied-kashmir-protests-rawalakot-jaac-azadi-march-pakistan-army-firing-live-updates-2026-06-13-1010101"
       }
     ],
     "createdAt": "2026-06-11T18:33:33.000Z",
-    "updatedAt": "2026-06-13T23:08:41Z"
+    "updatedAt": "2026-06-14T01:48:25Z"
   },
   {
     "id": 38,
@@ -494,15 +415,15 @@
     "pais": "México",
     "bandera": "🇲🇽",
     "hora": "07:00",
-    "fecha": "2026-06-13",
-    "lugar": "Ciudad de México (Zócalo, Paseo de la Reforma, Estadio Azteca, Aeropuerto Internacional). También Guerrero, Michoacán, Morelos, Zacatecas, Baja California, Chiapas y 12 estados",
+    "fecha": "2026-06-14",
+    "lugar": "Ciudad de México (Zócalo, Paseo de la Reforma, Estadio Ciudad de México). También Guerrero, Michoacán, Morelos, Zacatecas, Baja California, Chiapas y 12 estados",
     "tipoAccion": "huelga",
     "organizaciones": [
       "CNTE (Coordinadora Nacional de Trabajadores de la Educación)",
       "Sección 22 de la CNTE (Oaxaca)",
       "Madres buscadoras de desaparecidos"
     ],
-    "motivo": "Día 13 de la huelga nacional indefinida de maestros de la CNTE que comenzó el 1 de junio, coincidiendo con la Copa Mundial de la FIFA 2026. Exigen: derogación de reformas de pensiones ISSSTE, aumento salarial, mejores condiciones laborales y negociación directa. Mantienen campamento en el Zócalo de la CDMX y bloqueos en 12 estados. La CNTE realiza consulta a bases para definir si continúa o levanta la huelga. Madres buscadoras también protestan durante el Mundial.",
+    "motivo": "Día 14 de la huelga nacional indefinida de maestros de la CNTE que comenzó el 1 de junio, durante la Copa Mundial de la FIFA 2026. Exigen: derogación de reformas de pensiones ISSSTE, aumento salarial, mejores condiciones laborales y negociación directa. Mantienen campamento en el Zócalo de la CDMX y bloqueos en 12 estados. Madres buscadoras también continúan protestando durante el Mundial.",
     "status": "en_curso",
     "lat": "19.4326",
     "lng": "-99.1332",
@@ -526,400 +447,10 @@
       {
         "nombre": "Democracy Now!",
         "url": "https://www.democracynow.org/2026/6/11/world_cup_mexico"
-      },
-      {
-        "nombre": "Mexico Solidarity / La Jornada (13 jun)",
-        "url": "https://mexicosolidarity.com/oaxaca-section-22-cnte-strike/"
       }
     ],
     "createdAt": "2026-06-12T10:59:58.000Z",
-    "updatedAt": "2026-06-13T23:08:41Z"
-  },
-  {
-    "id": 40,
-    "seccion": "internacional",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "16:00",
-    "fecha": "2026-06-13",
-    "lugar": "Amritsar, Punjab (Golden Gate). También Lucknow y Pune (actividades previas)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Cockroach Janta Party (CJP)",
-      "Estudiantes y aspirantes a empleos gubernamentales"
-    ],
-    "motivo": "Protesta estudiantil en Amritsar convocada por Cockroach Janta Party (CJP) exigiendo la renuncia del Ministro de Educación Dharmendra Pradhan por presuntas irregularidades en exámenes competitivos (NEET, CBSE, CUET), incluyendo filtración de exámenes. El movimiento denominado 'Revuelta de la Generación Z' continúa expandiéndose por todo el país. El CJP planea extender las protestas a Delhi (Jantar Mantar) el 20 de junio si no se renuncia.",
-    "status": "en_curso",
-    "lat": "31.6340",
-    "lng": "74.8723",
-    "fuentes": [
-      {
-        "nombre": "The New Indian Express",
-        "url": "https://www.newindianexpress.com/india/2026/Jun/12/cockroach-janata-party-to-hold-protest-in-amritsar-on-june-13"
-      },
-      {
-        "nombre": "LiveMint",
-        "url": "https://www.livemint.com/news/india/cockroach-janta-party-protest-news-live-dipke-dharmendra-pradhan-pune-jantar-mantar-lucknow-neet-nta-12-6-2026-11781236105104.html"
-      },
-      {
-        "nombre": "Babushahi",
-        "url": "https://www.babushahi.com/view-news.php?id=222418"
-      }
-    ],
-    "createdAt": "2026-06-12T14:13:25.000Z",
-    "updatedAt": "2026-06-13T23:08:41Z"
-  },
-  {
-    "id": 51,
-    "seccion": "internacional",
-    "pais": "Italia",
-    "bandera": "🇮🇹",
-    "hora": "06:00",
-    "fecha": "2026-06-13",
-    "lugar": "Italia (nacional). Aeropuertos de toda Italia: Verona, Cagliari, Milán Linate y rutas easyJet",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "easyJet pilots and cabin crew unions",
-      "ENAV (air traffic control)",
-      "SOGAER",
-      "USB Lavoro Privato"
-    ],
-    "motivo": "Huelga nacional de aviación en Italia con múltiples acciones coordinadas: pilotos y tripulación de cabina de easyJet (18h, 06:00-24:00), controladores aéreos ENAV en Verona (18h), servicios de tierra SOGAER en Cagliari (18h) y personal de handling Sky Service en Milán Linate (4h). ~210 vuelos easyJet cancelados afectando hasta 40.000 pasajeros. El aeropuerto de Verona permanecerá cerrado para todas las aerolíneas durante la mayor parte del día.",
-    "status": "en_curso",
-    "lat": "41.8719",
-    "lng": "12.5674",
-    "fuentes": [
-      {
-        "nombre": "Strike Tracker",
-        "url": "https://striketracker.app/strikes-in-italy/transport-strike-italy-13-jun-2026"
-      },
-      {
-        "nombre": "Travel Tourister",
-        "url": "https://www.traveltourister.com/news/italy-aviation-strike-june-13-2026-24hr-warning-easyjet-verona-cagliari-milan-linate-check-flight-now/"
-      },
-      {
-        "nombre": "The Traveler",
-        "url": "https://www.thetraveler.org/italy-air-transport-strike-on-june-13-to-disrupt-key-airports/"
-      },
-      {
-        "nombre": "La Milano",
-        "url": "https://www.lamilano.it/en/by-the-media/EasyJet%27s-nationwide-strike-tomorrow--June-13th%3A-Which-flights-are-at-risk/"
-      }
-    ],
-    "createdAt": "2026-06-13T00:20:29.000Z",
-    "updatedAt": "2026-06-13T23:08:41Z"
-  },
-  {
-    "id": 53,
-    "seccion": "internacional",
-    "pais": "Perú",
-    "bandera": "🇵🇪",
-    "hora": "16:00",
-    "fecha": "2026-06-13",
-    "lugar": "Arequipa (Plaza España, culminando en Plaza de Armas)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Colectivo 'Fujimori Nunca Más'",
-      "Generación Z Arequipa",
-      "Frente de Defensa del Voto Popular",
-      "Organizaciones feministas y colectivos universitarios"
-    ],
-    "motivo": "Nueva movilización en Arequipa convocada por el colectivo 'Fujimori Nunca Más' exigiendo transparencia electoral y recuento de actas observadas en las elecciones presidenciales del 7 de junio en la región. Denuncian actas donde habría ganado Roberto Sánchez que fueron enviadas a jurados electorales especiales. Exigen respeto al voto popular.",
-    "status": "en_curso",
-    "lat": "-16.4090",
-    "lng": "-71.5375",
-    "fuentes": [
-      {
-        "nombre": "El Objetivo",
-        "url": "https://www.elobjetivo.pe/arequipa-colectivo-fujimori-nunca-mas-convoca-una-nueva-movilizacion-para-el-13-de-junio/"
-      }
-    ],
-    "createdAt": "2026-06-13T00:20:29.000Z",
-    "updatedAt": "2026-06-13T23:08:41Z"
-  },
-  {
-    "id": 54,
-    "seccion": "internacional",
-    "pais": "Suiza",
-    "bandera": "🇨🇭",
-    "hora": "10:00",
-    "fecha": "2026-06-13",
-    "lugar": "Lausanne (Place de la Riponne, 16:00 y Place Rebon) y Neuchâtel. St. Gallen (Barn Square, 10:00). Winterthur (Neumarkt Square, 17:00)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Kurdish Women's Union in Switzerland (YJK-S)",
-      "Movimiento de huelga de mujeres suizas",
-      "Grève Féministe Vaud"
-    ],
-    "motivo": "Actividades previas a la huelga nacional de mujeres del 14 de junio en Suiza. Manifestación feminista masiva en Lausanne (Place de la Riponne) con miles de participantes bajo el lema 'No hay justicia de género sin justicia global', contra el G7 y la austeridad, y en apoyo al lanzamiento oficial de la gran huelga feminista del 14 de junio de 2027. También actividades en Neuchâtel (+1000 personas), St. Gallen y Winterthur bajo el lema 'We Are All YPJ' en apoyo a las Unidades de Protección de la Mujer (YPJ). Exigen igualdad salarial, igualdad de oportunidades y fin de la discriminación.",
-    "status": "en_curso",
-    "lat": "46.8011",
-    "lng": "7.1444",
-    "fuentes": [
-      {
-        "nombre": "ANHA / Hawar News",
-        "url": "https://hawarnews.com/en/call-for-participation-in-womens-strike-in-switzerland-support-for-ypj"
-      },
-      {
-        "nombre": "24 heures / Grève féministe",
-        "url": "https://www.24heures.ch/greve-feministe-des-milliers-de-personnes-manifestent-a-lausanne-867933899037"
-      }
-    ],
-    "createdAt": "2026-06-13T00:20:29.000Z",
-    "updatedAt": "2026-06-13T23:08:41Z"
-  },
-  {
-    "id": 55,
-    "seccion": "internacional",
-    "pais": "Reino Unido",
-    "bandera": "🇬🇧",
-    "hora": "08:30",
-    "fecha": "2026-06-13",
-    "lugar": "Londres (The Mall, Green Park, Buckingham Palace)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Republic"
-    ],
-    "motivo": "Protesta antimonarquía anual durante el desfile militar Trooping the Colour (cumpleaños oficial del Rey Carlos III). Los manifestantes exigen la abolición de la monarquía y su reemplazo por una jefatura de Estado electa y democrática. La policía metropolitana impuso restricciones 'draconianas' según Republic, forzando a los manifestantes a protestar lejos de la valla de Buckingham Palace. El grupo lo califica de 'abuso de poder' para silenciar la oposición legítima a la monarquía.",
-    "status": "en_curso",
-    "lat": "51.5072",
-    "lng": "-0.1276",
-    "fuentes": [
-      {
-        "nombre": "Republic",
-        "url": "https://www.republic.org.uk/trooping_the_colour_protest_2026"
-      },
-      {
-        "nombre": "GB News",
-        "url": "https://www.gbnews.com/royal/trooping-the-colour-republic-rage-draconian-restrictions-met-police-new-rules"
-      },
-      {
-        "nombre": "The National",
-        "url": "https://www.thenational.scot/news/26190178.met-police-slammed-draconian-restrictions-anti-royal-protest/"
-      },
-      {
-        "nombre": "Euronews",
-        "url": "https://www.euronews.com/my-europe/2026/06/13/thousands-gather-in-london-to-celebrate-trooping-the-colour"
-      }
-    ],
-    "createdAt": "2026-06-13T00:20:29.000Z",
-    "updatedAt": "2026-06-13T23:08:41Z"
-  },
-  {
-    "id": 56,
-    "seccion": "internacional",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
-    "hora": "10:00",
-    "fecha": "2026-06-13",
-    "lugar": "Múltiples ciudades de EE.UU. (San José, Alhambra, Devon PA, Owings Mills MD, Dedham MA, Boston, Lyndhurst OH, Long Beach CA, Madison WI, Sunnyvale CA, Lynnwood WA, Seattle WA y otras)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "#TeslaTakedown",
-      "Activistas contra el oligarquía",
-      "Grupos de acción local"
-    ],
-    "motivo": "Protestas nacionales #TeslaTakedown en decenas de concesionarios Tesla en todo Estados Unidos, en su semana 71 de acción semanal. Los manifestantes protestan contra Elon Musk, las políticas de la administración Trump, la desigualdad económica y el poder de los oligarcas. Las protestas se realizan cada sábado frente a concesionarios Tesla en más de 20 ubicaciones en todo el país.",
-    "status": "en_curso",
-    "lat": "37.3382",
-    "lng": "-121.8863",
-    "fuentes": [
-      {
-        "nombre": "Action Network / #TeslaTakedown",
-        "url": "https://actionnetwork.org/event_campaigns/teslatakedown"
-      }
-    ],
-    "createdAt": "2026-06-13T00:20:29.000Z",
-    "updatedAt": "2026-06-13T23:08:41Z"
-  },
-  {
-    "id": 57,
-    "seccion": "internacional",
-    "pais": "Malasia",
-    "bandera": "🇲🇾",
-    "hora": "10:00",
-    "fecha": "2026-06-13",
-    "lugar": "Kuala Lumpur (Sunway Velocity, sede de TikTok)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Albert Tei (organizador)",
-      "Creadores de contenido y usuarios de TikTok"
-    ],
-    "motivo": "Protesta 'Himpunan Gegar TikTok' frente a la sede de TikTok en Malasia contra restricciones a la libertad de expresión, bloqueo geográfico de cuentas y censura de contenido en la plataforma. Los manifestantes exigen que TikTok no imponga restricciones arbitrarias y defienda el derecho constitucional a la libertad de expresión.",
-    "status": "convocada",
-    "lat": "3.0765",
-    "lng": "101.7161",
-    "fuentes": [
-      {
-        "nombre": "New Straits Times",
-        "url": "https://www.nst.com.my/news/nation/2026/06/13/protesters-gather-outside-tiktok-office-kuala-lumpur"
-      },
-      {
-        "nombre": "The Star",
-        "url": "https://www.thestar.com.my/news/nation/2026/06/12/cops-aware-of-tei039s-tiktok-rally-will-prioritise-safety-and-compliance-with-law"
-      },
-      {
-        "nombre": "The Vibes",
-        "url": "https://www.thevibes.com/articles/news/123917/police-warn-against-lawbreaking-ahead-of-tiktok-protest-in-kl-tomorrow"
-      }
-    ],
-    "createdAt": "2026-06-13T05:00:14.000Z",
-    "updatedAt": "2026-06-13T23:08:41Z"
-  },
-  {
-    "id": 58,
-    "seccion": "internacional",
-    "pais": "Canadá",
-    "bandera": "🇨🇦",
-    "hora": "13:00",
-    "fecha": "2026-06-13",
-    "lugar": "Toronto (Coronation Park, rutas por Queen's Park, City Hall, CN Tower y Church-Wellesley Village)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "World Naked Bike Ride Toronto",
-      "Activistas climáticos"
-    ],
-    "motivo": "World Naked Bike Ride anual en Toronto contra la dependencia del petróleo y la contaminación urbana. Cientos de ciclistas protestan desnudos o semidesnudos bajo el lema 'menos gas, más trasero' exigiendo acción climática urgente, reducción de emisiones y más seguridad para ciclistas y peatones.",
-    "status": "en_curso",
-    "lat": "43.6328",
-    "lng": "-79.3933",
-    "fuentes": [
-      {
-        "nombre": "Cambridge Times",
-        "url": "https://www.cambridgetimes.ca/things-to-do/ontario-toronto-naked-bike-ride/article_0db77734-4de2-504b-945a-bafcd8641088.html"
-      }
-    ],
-    "createdAt": "2026-06-13T05:00:14.000Z",
-    "updatedAt": "2026-06-13T23:08:41Z"
-  },
-  {
-    "id": 59,
-    "seccion": "internacional",
-    "pais": "Alemania",
-    "bandera": "🇩🇪",
-    "hora": "14:00",
-    "fecha": "2026-06-13",
-    "lugar": "Berlín (Warschauer Str. / Marchlewskistr.)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Anarchistische Föderation",
-      "F_AJOC Berlin",
-      "Colectivos antifascistas"
-    ],
-    "motivo": "Protesta contra la vigilancia masiva con inteligencia artificial y la digitalización policial en Berlín. Se oponen al despliegue de cámaras con IA en zonas designadas como 'peligrosas' (Alexanderplatz, Rigaer Straße, Görlitzer Park) denunciando la militarización tecnológica del espacio público y la expansión del control estatal.",
-    "status": "convocada",
-    "lat": "52.5053",
-    "lng": "13.4505",
-    "fuentes": [
-      {
-        "nombre": "Anarchistische Föderation",
-        "url": "https://www.anarchistischefoderation.de/13-06-2026-demo-stab-out-the-eyes-of-the-state-gegen-ki-ueberwachung-fuer-freiheit-und-selbstbestimmung/"
-      },
-      {
-        "nombre": "F_AJOC Berlin",
-        "url": "https://fantifacharlottenburg.noblogs.org/en-US/13-06-2026-stab-the-eyes-out-of-the-state-demo-gegen-ki-ueberwachung/"
-      },
-      {
-        "nombre": "Kontrapolis",
-        "url": "https://kontrapolis.info/18056/"
-      }
-    ],
-    "createdAt": "2026-06-13T05:00:14.000Z",
-    "updatedAt": "2026-06-13T23:08:41Z"
-  },
-  {
-    "id": 60,
-    "seccion": "internacional",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "10:00",
-    "fecha": "2026-06-13",
-    "lugar": "Saint-Denis (Paris región)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Union syndicale Solidaires Seine-Saint-Denis",
-      "Colectivos pacifistas y antimilitaristas"
-    ],
-    "motivo": "Movilización de fin de semana contra la feria de armamento Eurosatory (13-15 de junio), la mayor exposición de defensa y seguridad terrestre del mundo. Los manifestantes denuncian la industria armamentista, exigen el fin de las exportaciones de armas a zonas de conflicto y rechazan la militarización de la política exterior francesa.",
-    "status": "convocada",
-    "lat": "48.9362",
-    "lng": "2.3574",
-    "fuentes": [
-      {
-        "nombre": "Solidaires 93",
-        "url": "https://solidaires93.org/events/week-end-de-mobilisation-contre-eurosatory/"
-      }
-    ],
-    "createdAt": "2026-06-13T05:00:14.000Z",
-    "updatedAt": "2026-06-13T23:08:41Z"
-  },
-  {
-    "id": 61,
-    "seccion": "internacional",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "18:30",
-    "fecha": "2026-06-13",
-    "lugar": "Madrid (Puerta del Sol, Ministerio de Asuntos Exteriores, Plaza Reina Sofía)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Encuentro Estatal por la República",
-      "Ateneo Republicano de Vallekas",
-      "Podemos",
-      "Izquierda Unida",
-      "Comuns",
-      "Compromís"
-    ],
-    "motivo": "III Marcha Republicana bajo el lema 'República para la paz'. Protesta contra la monarquía, por la paz y contra la guerra. Exigen salida inmediata de España de la OTAN, fin del genocidio en Palestina y una república del siglo XXI garante de la convivencia. Contraprogramación al aniversario de la proclamación de Felipe VI como jefe de Estado.",
-    "status": "convocada",
-    "lat": "40.4168",
-    "lng": "-3.7038",
-    "fuentes": [
-      {
-        "nombre": "Infobae",
-        "url": "https://www.infobae.com/espana/agencias/2026/06/13/la-marcha-republicana-saldra-este-sabado-de-la-puerta-del-sol-para-clamar-por-el-no-a-la-guerra/"
-      },
-      {
-        "nombre": "Tercera Información",
-        "url": "https://www.tercerainformacion.es/articulo/actualidad/26/05/2026/miles-de-personas-preparan-la-tercera-marcha-republicana-el-13-de-junio-bajo-el-lema-la-monarquia-es-la-guerra/"
-      },
-      {
-        "nombre": "El Salto",
-        "url": "https://www.elsaltodiario.com/republica/manifestacion-republicana-concita-acuerdo-izquierda-congreso"
-      },
-      {
-        "nombre": "Mundo Obrero",
-        "url": "https://mundoobrero.es/2026/06/10/la-marcha-republicana-vuelve-de-nuevo-a-las-calles-de-madrid-el-proximo-13-de-junio/"
-      }
-    ],
-    "createdAt": "2026-06-13T11:12:39.000Z",
-    "updatedAt": "2026-06-13T23:08:41Z"
-  },
-  {
-    "id": 62,
-    "seccion": "internacional",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "12:00",
-    "fecha": "2026-06-13",
-    "lugar": "París (Nation → Concorde)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Paris Luttes",
-      "Colectivos del movimiento Free Party"
-    ],
-    "motivo": "Manifestación nacional del movimiento Free Party contra la represión creciente con los proyectos de ley PPL1133 y LOI RIPOST, que criminalizan la organización de eventos, reducen umbrales declarativos, penalizan a organizadores y asistentes, y restringen libertades individuales. Recorrido de Nation a Concorde con vehículos musicalizados.",
-    "status": "convocada",
-    "lat": "48.8566",
-    "lng": "2.3522",
-    "fuentes": [
-      {
-        "nombre": "Info Libertaire",
-        "url": "https://www.infolibertaire.net/manifestive-paris-13-06/"
-      }
-    ],
-    "createdAt": "2026-06-13T11:12:39.000Z",
-    "updatedAt": "2026-06-13T23:08:41Z"
+    "updatedAt": "2026-06-14T01:48:25Z"
   },
   {
     "id": 63,
@@ -927,7 +458,7 @@
     "pais": "Reino Unido",
     "bandera": "🇬🇧",
     "hora": "03:00",
-    "fecha": "2026-06-13",
+    "fecha": "2026-06-14",
     "lugar": "Londres, East London (Bow Bus Garage, rutas 8, 25, 205, 425, N8, N25, N205)",
     "tipoAccion": "huelga",
     "organizaciones": [
@@ -953,127 +484,178 @@
       }
     ],
     "createdAt": "2026-06-13T11:12:39.000Z",
-    "updatedAt": "2026-06-13T23:08:41Z"
+    "updatedAt": "2026-06-14T01:48:25Z"
   },
   {
-    "id": 64,
+    "id": 100,
+    "seccion": "internacional",
+    "pais": "Suiza",
+    "bandera": "🇨🇭",
+    "hora": "15:00",
+    "fecha": "2026-06-14",
+    "lugar": "Ginebra (Parc Mon Repos → Place des Nations). También Zurich, Basilea, Berna, Biel, Lucerna y otras ciudades suizas",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "Grève Féministe Suisse",
+      "Coalition No G7",
+      "Kurdish Women's Union in Switzerland (YJK-S)",
+      "Unia",
+      "SSP"
+    ],
+    "motivo": "Huelga feminista nacional en Suiza (fecha histórica del 14 de junio por la igualdad constitucional). Este año converge con la manifestación internacional contra la cumbre del G7 en Évian (Francia). Marcha autorizada en Ginebra desde las 16:00 desde Parc Mon Repos hasta Place des Nations, con la Grève Féministe liderando la procesión. ~50.000 personas esperadas. Acciones también en Zurich (17:00 Helvityaplatz), Basilea (15:00 Petersplatz), Berna, Biel, Lucerna y más ciudades. Exigen igualdad salarial, fin de la violencia de género, justicia climática y rechazo al rearme y las políticas imperialistas del G7.",
+    "status": "en_curso",
+    "lat": "46.2044",
+    "lng": "6.1432",
+    "fuentes": [
+      {
+        "nombre": "SSP Vaud",
+        "url": "https://vaud.ssp-vpod.ch/news/2026/le-13-et-14-juin-2026-mobilisations-feministe-et-internationaliste/"
+      },
+      {
+        "nombre": "Geneva Tourism",
+        "url": "https://www.geneve.com/en/whats-on/visiting-geneva-during-the-g7-summit"
+      },
+      {
+        "nombre": "14juin.ch",
+        "url": "https://www.14juin.ch/"
+      },
+      {
+        "nombre": "ANHA / Hawar News",
+        "url": "https://hawarnews.com/en/call-for-participation-in-womens-strike-in-switzerland-support-for-ypj"
+      },
+      {
+        "nombre": "watson.ch",
+        "url": "https://www.watson.ch/schweiz/feministischer-streik/256782196-feministischer-care-streik-am-14-juni-2026-forderungen-und-fortschritte"
+      }
+    ],
+    "createdAt": "2026-06-14T01:42:24.000Z",
+    "updatedAt": "2026-06-14T01:48:25Z"
+  },
+  {
+    "id": 101,
+    "seccion": "internacional",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "19:30",
+    "fecha": "2026-06-14",
+    "lugar": "Nueva York (Town Hall, Manhattan) y más de 2.000 ciudades de EE.UU.",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "No Kings",
+      "Indivisible",
+      "50501",
+      "Committee for the First Amendment"
+    ],
+    "motivo": "Movilización nacional 'No Kings' contra el presidente Trump en su 80° cumpleaños, contraprogramando el evento UFC Freedom 250 en la Casa Blanca. Concierto 'Rise Up, Sing Out: A Concert for the First Amendment' en el Town Hall de Nueva York con Jane Fonda, Bette Midler, Patti Smith, Rufus Wainwright y Sasha Allen. Más de 2.000 fiestas de visualización y eventos comunitarios en todo el país. Exigen defensa de la democracia, libertad de expresión, fin del autoritarismo y protección de los derechos constitucionales.",
+    "status": "en_curso",
+    "lat": "40.7562",
+    "lng": "-73.9870",
+    "fuentes": [
+      {
+        "nombre": "Eastern Herald",
+        "url": "https://easternherald.com/2026/06/14/trump-80th-birthday-white-house-ufc-no-kings-protest-rise-up-sing-out-june-14-2026/"
+      },
+      {
+        "nombre": "Fast Company",
+        "url": "https://www.fastcompany.com/91556549/trump-birthday-protests-rally-june-14-no-kings-rise-up-sing-out-events-schedule-cities-locations"
+      },
+      {
+        "nombre": "No Kings",
+        "url": "https://www.nokings.org/"
+      },
+      {
+        "nombre": "The Hill",
+        "url": "https://thehill.com/blogs/in-the-know/5899878-no-kings-movement-protests-trump-birthday/"
+      }
+    ],
+    "createdAt": "2026-06-14T01:42:24.000Z",
+    "updatedAt": "2026-06-14T01:48:25Z"
+  },
+  {
+    "id": 102,
     "seccion": "internacional",
     "pais": "Bélgica",
     "bandera": "🇧🇪",
-    "hora": "12:00",
-    "fecha": "2026-06-13",
-    "lugar": "Bruselas (Place Poelaert)",
+    "hora": "15:00",
+    "fecha": "2026-06-14",
+    "lugar": "Bruselas (Estación Brussels-North → instituciones de la UE)",
     "tipoAccion": "protesta",
     "organizaciones": [
-      "Piknik Elektronik Brussels"
+      "Stop ReArm Europe",
+      "Stop Militarisation Platform",
+      "International Peace Bureau (IPB)",
+      "más de 800 organizaciones"
     ],
-    "motivo": "Protesta cultural contra la monopolización del espacio público por actores comerciales, la privatización de la escena electrónica y los conflictos de interés en la concesión de permisos municipales. Exigen que el espacio público pertenezca a todos y denuncian la 'colonización de las pistas de baile' por estructuras que sofocan la diversidad cultural.",
-    "status": "convocada",
-    "lat": "50.8371",
-    "lng": "4.3521",
+    "motivo": "Manifestación paneuropea 'Welfare not Warfare' contra el rearme de la UE y la OTAN, coincidiendo con las negociaciones del Marco Financiero Plurianual 2028-2034 de la UE. Marcha desde la estación Brussels-North hasta las instituciones europeas. Más de 800 organizaciones de la sociedad civil, sindicatos y movimientos sociales exigen que el dinero público se gaste en bienestar social, salud, educación y acción climática en lugar de armamento. Asamblea abierta desde las 18:00.",
+    "status": "en_curso",
+    "lat": "50.8600",
+    "lng": "4.3600",
     "fuentes": [
       {
-        "nombre": "Piknik Elektronik Brussels / AllEvents",
-        "url": "https://allevents.in/brussels/protest-elektronik-poelaert/200030165287727"
+        "nombre": "IPB",
+        "url": "https://ipb.org/welfare-not-warfare-europe-wide-mobilisation-on-14-june-against-eu-and-nato-rearmament-plans/"
+      },
+      {
+        "nombre": "DiEM25",
+        "url": "https://diem25.org/welfare-not-warfare-june-14-mobilisation-against-eu-and-nato-rearmament/"
       }
     ],
-    "createdAt": "2026-06-13T11:12:39.000Z",
-    "updatedAt": "2026-06-13T23:08:41Z"
+    "createdAt": "2026-06-14T01:42:24.000Z",
+    "updatedAt": "2026-06-14T01:48:25Z"
   },
   {
-    "id": 65,
+    "id": 104,
     "seccion": "internacional",
-    "pais": "Indonesia",
-    "bandera": "🇮🇩",
-    "hora": "14:30",
-    "fecha": "2026-06-13",
-    "lugar": "Yogyakarta (Gejayan intersection, Sleman Regency)",
+    "pais": "Países Bajos",
+    "bandera": "🇳🇱",
+    "hora": "14:00",
+    "fecha": "2026-06-14",
+    "lugar": "Ámsterdam (Dam Square)",
     "tipoAccion": "protesta",
     "organizaciones": [
-      "People's Call Alliance (Aliansi Rakyat Memanggil)",
-      "Cik Di Tiro Forum",
-      "SEMA UGM (Gadjah Mada University Student Senate)"
+      "Juthoor Palestine",
+      "Colectivos propalestinos"
     ],
-    "motivo": "Protesta masiva de estudiantes y sociedad civil en el histórico cruce de Gejayan contra el gobierno del presidente Prabowo Subianto y el vicepresidente Gibran Rakabuming Raka. Presentaron 10 demandas: suspensión del programa MBG (comidas gratuitas) por corrupción, rechazo a cooperativas gubernamentales, revocación de leyes militares y policiales, protección de libertad de expresión, educación y salud gratuitas, derechos laborales, reducción de precios de combustible no subsidiado, investigación de corrupción y fin del encarcelamiento de presos políticos. La protesta bloqueó el tráfico en el cruce que conecta 4 universidades principales.",
+    "motivo": "Marcha nacional de solidaridad con los rehenes palestinos en Ámsterdam. Concentración en Dam Square para exigir el fin del conflicto en Gaza y solidaridad con el pueblo palestino.",
     "status": "en_curso",
-    "lat": "-7.7675",
-    "lng": "110.3777",
+    "lat": "52.3731",
+    "lng": "4.8933",
     "fuentes": [
       {
-        "nombre": "Tempo.co",
-        "url": "https://en.tempo.co/read/2108400/thousands-of-yogyakarta-protesters-occupy-gejayan-intersection"
-      },
-      {
-        "nombre": "Tribunjogja",
-        "url": "https://jogja.tribunnews.com/diy/1216550/aksi-rakyat-memanggil-di-pertigaan-gejayan-digelar-siang-ini-kritisi-pemborosan-anggaran-dan-mbg"
+        "nombre": "Todon Acties",
+        "url": "https://acties.todon.nl/event/national-march-of-solidarity-with-palestinian-hostages"
       }
     ],
-    "createdAt": "2026-06-13T13:03:21.000Z",
-    "updatedAt": "2026-06-13T23:08:41Z"
+    "createdAt": "2026-06-14T01:42:24.000Z",
+    "updatedAt": "2026-06-14T01:48:25Z"
   },
   {
-    "id": 66,
+    "id": 105,
     "seccion": "internacional",
-    "pais": "Corea del Sur",
-    "bandera": "🇰🇷",
-    "hora": "11:00",
-    "fecha": "2026-06-13",
-    "lugar": "Seúl (Jongno-gu, Namdaemun-ro, Ujeongguk-ro, alrededor de City Hall)",
-    "tipoAccion": "protesta",
+    "pais": "Italia",
+    "bandera": "🇮🇹",
+    "hora": "00:01",
+    "fecha": "2026-06-14",
+    "lugar": "Florencia (red urbana de autobuses Autolinee Toscane)",
+    "tipoAccion": "huelga",
     "organizaciones": [
-      "Seoul Queer Culture Festival Organizing Committee",
-      "Comunidad LGBTQ+ de Corea del Sur",
-      "Grupos cristianos conservadores (contra-manifestación)"
+      "COBAS Lavoro Privato"
     ],
-    "motivo": "27° Festival de Cultura Queer de Seúl con desfile del orgullo LGBTQ+ de ~50.000 participantes exigiendo la aprobación de una ley integral contra la discriminación y el reconocimiento del matrimonio igualitario. Simultáneamente, grupos cristianos conservadores realizaron una contra-manifestación de ~30.000 personas oponiéndose a los derechos LGBTQ+, bajo el lema 'Matrimonio entre hombre y mujer, una República de Corea sana'. ~15.000 personas congregadas en el área para ambos eventos al mismo tiempo. No se registraron enfrentamientos. El alcalde de Seúl Oh Se-hoon ha bloqueado el uso de Seoul Plaza para el festival por 4 años consecutivos.",
+    "motivo": "Huelga de 24 horas de trabajadores de autobuses urbanos de Autolinee Toscane en Florencia. Exigen mejora de condiciones laborales: reducción de jornadas excesivamente largas, pausas suficientes, tiempos de descanso adecuados y mejores condiciones de transferencia. Servicios mínimos garantizados en franjas 04:15-08:14 y 12:30-14:29.",
     "status": "en_curso",
-    "lat": "37.5660",
-    "lng": "126.9780",
+    "lat": "43.7696",
+    "lng": "11.2558",
     "fuentes": [
       {
-        "nombre": "Reuters / The Straits Times",
-        "url": "https://www.straitstimes.com/asia/thousands-gather-for-seoul-queer-festival-counter-rally"
+        "nombre": "The Florentine",
+        "url": "https://www.theflorentine.net/2026/06/09/florence-bus-strike-june-14-nationwide-week-industrial-action/"
       },
       {
-        "nombre": "The Chosun",
-        "url": "https://www.chosun.com/english/national-en/2026/06/13/DV6TFQDYGFDEVMFVSRFZPEBSXU/"
-      },
-      {
-        "nombre": "Yonhap",
-        "url": "https://en.yna.co.kr/view/PYH20260613030900320?section=image/general"
+        "nombre": "Strike Tracker",
+        "url": "https://striketracker.app/strikes-in-italy/transport-strike-florence-14-jun-2026"
       }
     ],
-    "createdAt": "2026-06-13T13:03:21.000Z",
-    "updatedAt": "2026-06-13T23:08:41Z"
-  },
-  {
-    "id": 67,
-    "seccion": "internacional",
-    "pais": "México",
-    "bandera": "🇲🇽",
-    "hora": "10:00",
-    "fecha": "2026-06-13",
-    "lugar": "Ciudad de México (Caseta de cobro Tlalpan, Autopista México-Cuernavaca, salida a Cuernavaca)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Estudiantes de la Escuela Normal Rural Raúl Isidro Burgos de Ayotzinapa",
-      "Padres y madres de los 43 normalistas desaparecidos"
-    ],
-    "motivo": "Estudiantes normalistas de Ayotzinapa dañaron y destruyeron las casetas de cobro de la autopista México-Cuernavaca, en el contexto de las protestas por la desaparición forzada de los 43 estudiantes en 2014. Se opusieron a revisiones policiales de sus autobuses y lanzaron piedras contra las casetas. Exigen justicia por los 43 desaparecidos, acceso a archivos militares, reincorporación del Grupo Interdisciplinario de Expertos Independientes (GIEI), extradición de Tomás Zerón y otros funcionarios prófugos, y fin de la criminalización del movimiento. Denuncian cerco policial que les impide llegar a la CDMX para manifestarse.",
-    "status": "en_curso",
-    "lat": "19.2500",
-    "lng": "-99.1500",
-    "fuentes": [
-      {
-        "nombre": "La Jornada",
-        "url": "https://www.jornada.com.mx/2026/06/13/politica/004n1pol"
-      },
-      {
-        "nombre": "El Porvenir",
-        "url": "https://elporvenir.mx/nacional/acusan-bloqueos-padres-de-los-43-normalistas/994595"
-      }
-    ],
-    "createdAt": "2026-06-13T13:03:21.000Z",
-    "updatedAt": "2026-06-13T23:08:41Z"
+    "createdAt": "2026-06-14T01:42:24.000Z",
+    "updatedAt": "2026-06-14T01:48:25Z"
   }
 ]
