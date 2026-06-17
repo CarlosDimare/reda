@@ -56,10 +56,18 @@
       {
         "nombre": "Conclusión (12 junio)",
         "url": "https://www.conclusion.com.ar/gremiales/coad-ratifico-el-paro-universitario-para-la-semana-que-viene-y-no-docentes-consideran-un-avance-el-aumento/06/2026"
+      },
+      {
+        "nombre": "Crónica (16 junio)",
+        "url": "https://www.cronica.com.ar/politica/continua-el-reclamo-universitario-con-5-dias-de-paro-nacional-movilizaciones-y-acciones-de-visibilizacion/"
+      },
+      {
+        "nombre": "Radio Continental (16 junio)",
+        "url": "https://www.continental.com.ar/2026-06-16/paro-universitario-del-martes-del-sabado-150918/amp"
       }
     ],
     "createdAt": "2026-06-16T02:09:21.000Z",
-    "updatedAt": "2026-06-17T02:06:04Z"
+    "updatedAt": "2026-06-17T07:39:11Z"
   },
   {
     "id": 157,
@@ -94,7 +102,37 @@
       }
     ],
     "createdAt": "2026-06-16T18:18:53.000Z",
-    "updatedAt": "2026-06-17T02:06:04Z"
+    "updatedAt": "2026-06-17T07:39:11Z"
+  },
+  {
+    "id": 176,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "14:00",
+    "fecha": "2026-06-17",
+    "lugar": "Polo Científico Tecnológico, Godoy Cruz 2370, Ciudad de Buenos Aires (CABA)",
+    "tipoAccion": "movilización",
+    "organizaciones": [
+      "AGD UBA (Asociación Gremial Docente de la UBA)",
+      "ATE CONICET"
+    ],
+    "motivo": "Movilización al Polo Científico en rechazo al despido de 380 becarios/as posdoctorales, en el marco del paro nacional universitario. Exigen la reincorporación de los becarios despedidos, la aplicación de la Ley de Financiamiento Universitario y la reapertura de paritarias. La protesta se da en el segundo día de la huelga nacional de CONADU Histórica (16 al 20 de junio).",
+    "status": "en_curso",
+    "lat": "-34.5869",
+    "lng": "-58.4023",
+    "fuentes": [
+      {
+        "nombre": "Crónica (16 junio)",
+        "url": "https://www.cronica.com.ar/politica/continua-el-reclamo-universitario-con-5-dias-de-paro-nacional-movilizaciones-y-acciones-de-visibilizacion/"
+      },
+      {
+        "nombre": "AGD UBA (12 junio)",
+        "url": "https://agduba.org.ar/del-16-al-20-6-paremos-las-universidades-contra-la-entrega-de-la-ley-de-financiamiento-universitario/"
+      }
+    ],
+    "createdAt": "2026-06-17T07:35:59.000Z",
+    "updatedAt": "2026-06-17T07:39:11Z"
   },
   {
     "id": 6,
@@ -128,7 +166,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-17T02:06:04Z"
+    "updatedAt": "2026-06-17T07:39:11Z"
   },
   {
     "id": 8,
@@ -157,7 +195,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-17T02:06:04Z"
+    "updatedAt": "2026-06-17T07:39:11Z"
   },
   {
     "id": 10,
@@ -184,7 +222,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-17T02:06:04Z"
+    "updatedAt": "2026-06-17T07:39:11Z"
   },
   {
     "id": 11,
@@ -221,7 +259,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-17T02:06:04Z"
+    "updatedAt": "2026-06-17T07:39:11Z"
   },
   {
     "id": 12,
@@ -254,7 +292,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-17T02:06:04Z"
+    "updatedAt": "2026-06-17T07:39:11Z"
   },
   {
     "id": 13,
@@ -283,7 +321,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-17T02:06:04Z"
+    "updatedAt": "2026-06-17T07:39:11Z"
   },
   {
     "id": 15,
@@ -308,7 +346,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-17T02:06:04Z"
+    "updatedAt": "2026-06-17T07:39:11Z"
   },
   {
     "id": 19,
@@ -350,7 +388,7 @@
       }
     ],
     "createdAt": "2026-06-11T15:03:53.000Z",
-    "updatedAt": "2026-06-17T02:06:04Z"
+    "updatedAt": "2026-06-17T07:39:11Z"
   },
   {
     "id": 20,
@@ -399,7 +437,7 @@
       }
     ],
     "createdAt": "2026-06-11T15:03:53.000Z",
-    "updatedAt": "2026-06-17T02:06:04Z"
+    "updatedAt": "2026-06-17T07:39:11Z"
   },
   {
     "id": 23,
@@ -464,10 +502,14 @@
       {
         "nombre": "The Independent (16 junio)",
         "url": "https://www.independent.co.uk/news/world/europe/ivanka-trump-albania-island-protests-government-jared-kushner-b2996455.html"
+      },
+      {
+        "nombre": "AA.com.tr (17 junio - 17º día)",
+        "url": "https://www.aa.com.tr/en/europe/anti-government-protests-over-zvernec-tourism-project-continue-for-17th-day-in-albania/3969197"
       }
     ],
     "createdAt": "2026-06-11T18:33:33.000Z",
-    "updatedAt": "2026-06-17T02:06:04Z"
+    "updatedAt": "2026-06-17T07:39:11Z"
   },
   {
     "id": 24,
@@ -509,7 +551,7 @@
       }
     ],
     "createdAt": "2026-06-11T18:33:33.000Z",
-    "updatedAt": "2026-06-17T02:06:04Z"
+    "updatedAt": "2026-06-17T07:39:11Z"
   },
   {
     "id": 38,
@@ -564,7 +606,7 @@
       }
     ],
     "createdAt": "2026-06-12T10:59:58.000Z",
-    "updatedAt": "2026-06-17T02:06:04Z"
+    "updatedAt": "2026-06-17T07:39:11Z"
   },
   {
     "id": 122,
@@ -614,7 +656,7 @@
       }
     ],
     "createdAt": "2026-06-15T05:36:17.000Z",
-    "updatedAt": "2026-06-17T02:06:04Z"
+    "updatedAt": "2026-06-17T07:39:11Z"
   },
   {
     "id": 125,
@@ -639,7 +681,7 @@
       }
     ],
     "createdAt": "2026-06-15T05:36:17.000Z",
-    "updatedAt": "2026-06-17T02:06:04Z"
+    "updatedAt": "2026-06-17T07:39:11Z"
   },
   {
     "id": 127,
@@ -673,7 +715,7 @@
       }
     ],
     "createdAt": "2026-06-15T12:08:29.000Z",
-    "updatedAt": "2026-06-17T02:06:04Z"
+    "updatedAt": "2026-06-17T07:39:11Z"
   },
   {
     "id": 128,
@@ -698,7 +740,7 @@
       }
     ],
     "createdAt": "2026-06-15T12:08:29.000Z",
-    "updatedAt": "2026-06-17T02:06:04Z"
+    "updatedAt": "2026-06-17T07:39:11Z"
   },
   {
     "id": 159,
@@ -731,7 +773,7 @@
       }
     ],
     "createdAt": "2026-06-16T21:33:02.000Z",
-    "updatedAt": "2026-06-17T02:06:04Z"
+    "updatedAt": "2026-06-17T07:39:11Z"
   },
   {
     "id": 162,
@@ -767,7 +809,7 @@
       }
     ],
     "createdAt": "2026-06-16T21:33:02.000Z",
-    "updatedAt": "2026-06-17T02:06:04Z"
+    "updatedAt": "2026-06-17T07:39:11Z"
   },
   {
     "id": 165,
@@ -796,7 +838,7 @@
       }
     ],
     "createdAt": "2026-06-17T02:00:29.000Z",
-    "updatedAt": "2026-06-17T02:06:04Z"
+    "updatedAt": "2026-06-17T07:39:11Z"
   },
   {
     "id": 166,
@@ -833,7 +875,7 @@
       }
     ],
     "createdAt": "2026-06-17T02:00:29.000Z",
-    "updatedAt": "2026-06-17T02:06:04Z"
+    "updatedAt": "2026-06-17T07:39:11Z"
   },
   {
     "id": 167,
@@ -858,6 +900,262 @@
       }
     ],
     "createdAt": "2026-06-17T02:00:29.000Z",
-    "updatedAt": "2026-06-17T02:06:04Z"
+    "updatedAt": "2026-06-17T07:39:11Z"
+  },
+  {
+    "id": 168,
+    "seccion": "internacional",
+    "pais": "Israel",
+    "bandera": "🇮🇱",
+    "hora": "06:00",
+    "fecha": "2026-06-17",
+    "lugar": "Ruta 4 cerca de Bnei Brak, también Jerusalén (Shabbat Square) y Safed",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Jerusalem Faction (Peleg Yerushalmi)",
+      "Manifestantes Haredi ultraortodoxos"
+    ],
+    "motivo": "Protesta violenta de cientos de manifestantes Haredi contra el arresto de tres estudiantes de yeshivá evasores del servicio militar obligatorio. Bloquearon la Ruta 4 en ambas direcciones cerca de Bnei Brak, además de calles en Jerusalén y Safed. La policía utilizó granadas aturdidoras y forcejeos para dispersar a los manifestantes. Segunda protesta convocada en la prisión militar de Beit Lid.",
+    "status": "en_curso",
+    "lat": "32.0833",
+    "lng": "34.8333",
+    "fuentes": [
+      {
+        "nombre": "Jerusalem Post (17 junio)",
+        "url": "https://www.jpost.com/israel-news/article-899646"
+      },
+      {
+        "nombre": "Times of Israel (17 junio)",
+        "url": "https://www.timesofisrael.com/liveblog_entry/police-use-stun-grenades-amid-violent-clashes-with-haredi-protesters/"
+      },
+      {
+        "nombre": "Israel National News (17 junio)",
+        "url": "https://www.israelnationalnews.com/news/416657"
+      }
+    ],
+    "createdAt": "2026-06-17T07:32:43.000Z",
+    "updatedAt": "2026-06-17T07:39:11Z"
+  },
+  {
+    "id": 169,
+    "seccion": "internacional",
+    "pais": "Nigeria",
+    "bandera": "🇳🇬",
+    "hora": "10:00",
+    "fecha": "2026-06-17",
+    "lugar": "Ciudades del Sudeste (Abia, Anambra, Ebonyi, Enugu, Imo) y Abuja (FCT)",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "CSOACEM (Coalition of Civil Society Organisations Against Corruption and Electoral Malpractice)"
+    ],
+    "motivo": "Protestas pacíficas coordinadas en el Sudeste de Nigeria y Abuja contra la gestión financiera de la Comisión de Desarrollo del Sudeste (SEDC). Exigen la suspensión del Director Gerente Mark Okoye, una auditoría forense de los ₦16.600 millones asignados, transparencia en contratos y rendición de cuentas. El Senado nigeriano también investiga a la SEDC por presunto gasto de ₦153 millones en una oficina de una habitación en Abuja.",
+    "status": "en_curso",
+    "lat": "9.0579",
+    "lng": "7.4951",
+    "fuentes": [
+      {
+        "nombre": "National Periscope (10 junio)",
+        "url": "https://nationalperiscope.com/2026/06/10/south-east-coalition-demands-suspension-of-sedc-boss-plans-june-17-protest/"
+      },
+      {
+        "nombre": "National Accord Newspaper (10 junio)",
+        "url": "https://www.nationalaccordnewspaper.com/south-east-csos-plan-mass-rallies-demand-suspension-of-sedc-md-over-accountability-concerns/"
+      },
+      {
+        "nombre": "Daily Trust (10 junio)",
+        "url": "https://dailytrust.com/senate-accuses-south-east-development-commission-of-paying-n153m-for-one-room-office-in-abuja/"
+      }
+    ],
+    "createdAt": "2026-06-17T07:32:43.000Z",
+    "updatedAt": "2026-06-17T07:39:11Z"
+  },
+  {
+    "id": 170,
+    "seccion": "internacional",
+    "pais": "India",
+    "bandera": "🇮🇳",
+    "hora": "10:00",
+    "fecha": "2026-06-17",
+    "lugar": "Todas las sedes distritales de Bihar, incluyendo Patna (Gardanibagh)",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Rashtriya Janata Dal (RJD)",
+      "Lalu Prasad Yadav",
+      "Tejashwi Yadav"
+    ],
+    "motivo": "Protesta estatal del partido RJD en todo Bihar contra el gobierno de NDA por el aumento de delitos contra las mujeres, desempleo, inflación, corrupción y deterioro del orden público. Manifestaciones en todas las sedes distritales encabezadas por legisladores y líderes del partido. Exigen la renuncia del Ministro Principal Samrat Choudhary.",
+    "status": "en_curso",
+    "lat": "25.5941",
+    "lng": "85.1376",
+    "fuentes": [
+      {
+        "nombre": "PTI via Swadesi (17 junio)",
+        "url": "https://swadesi.com/news/rjd-holds-protests-against-bihar-govts-failed-policies-rising-crimes-i-mqhqymgu"
+      },
+      {
+        "nombre": "ThePrint (16 junio)",
+        "url": "https://theprint.in/india/rjd-to-hold-protests-across-bihar-over-atrocities-on-women-unemployment-corruption/2961369/"
+      },
+      {
+        "nombre": "Times of India (3 junio)",
+        "url": "https://timesofindia.indiatimes.com/city/patna/rjd-announces-statewide-protests-in-bihar-over-inflation-corruption/articleshow/131484171.cms"
+      }
+    ],
+    "createdAt": "2026-06-17T07:32:43.000Z",
+    "updatedAt": "2026-06-17T07:39:11Z"
+  },
+  {
+    "id": 171,
+    "seccion": "internacional",
+    "pais": "India",
+    "bandera": "🇮🇳",
+    "hora": "17:30",
+    "fecha": "2026-06-17",
+    "lugar": "Kota, Rajasthan (Dussehra Maidan / Shri Ram Rangmanch)",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Congreso Nacional Indio (INC)",
+      "Rahul Gandhi",
+      "NSUI (National Students' Union of India)"
+    ],
+    "motivo": "Lanzamiento de la campaña nacional 'Chhatron Ki Goonj' (Eco de Estudiantes) encabezada por Rahul Gandhi en Kota, el mayor centro de preparación para exámenes competitivos de India. La movilización denuncia filtraciones de exámenes (NEET-UG), irregularidades en reclutamientos, desempleo juvenil, privatización educativa y la 'saffronización' de la educación. El gobierno de BJP acusó al partido de intimidar a las instituciones educativas.",
+    "status": "en_curso",
+    "lat": "25.2138",
+    "lng": "75.8648",
+    "fuentes": [
+      {
+        "nombre": "Times of India (17 junio)",
+        "url": "https://timesofindia.indiatimes.com/india/rahul-gandhi-calls-on-gen-z-comrades-to-join-mega-rally-in-kota-targets-centre-over-paper-leaks-and-jobs/articleshow/131786137.cms"
+      },
+      {
+        "nombre": "Lokmat Times (17 junio)",
+        "url": "https://www.lokmattimes.com/national/rahul-gandhi-to-launch-nationwide-agitation-against-paper-leaks-exam-irregularities-from-rajasthans-kota-today/"
+      },
+      {
+        "nombre": "The Tribune (16 junio)",
+        "url": "https://www.tribuneindia.com/news/india/rahul-to-launch-students-protest-from-kota-today/"
+      },
+      {
+        "nombre": "The Indian Express (16 junio)",
+        "url": "https://indianexpress.com/article/political-pulse/rahul-gandhi-kota-education-campaign-10741368/"
+      }
+    ],
+    "createdAt": "2026-06-17T07:32:43.000Z",
+    "updatedAt": "2026-06-17T07:39:11Z"
+  },
+  {
+    "id": 172,
+    "seccion": "internacional",
+    "pais": "Indonesia",
+    "bandera": "🇮🇩",
+    "hora": "10:00",
+    "fecha": "2026-06-17",
+    "lugar": "Jakarta (Monas, DPR/MPR Senayan, Bundaran HI, Kantor Badan Gizi Nasional, Gedung Thamrin Nine)",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Aliansi Masyarakat Jakarta Timur",
+      "Aliansi Mahasiswa y Pemuda Jakarta Peduli Indonesia",
+      "AUR Barisan Merdeka Jakarta",
+      "PMII Jakarta Selatan",
+      "Estudiantes universitarios"
+    ],
+    "motivo": "Quinto día de protestas estudiantiles en Jakarta bajo el lema '#MenujuIndonesiaBangkrut' (Camino a la Bancarrota de Indonesia). 5 manifestaciones simultáneas en puntos clave de la capital. Rechazan el aumento del 30% en combustibles no subsidiados, los programas emblemáticos costosos del gobierno (comidas gratuitas, cooperativas), el debilitamiento de la rupia y la inflación. 4.576 efectivos de seguridad desplegados.",
+    "status": "en_curso",
+    "lat": "-6.1754",
+    "lng": "106.8272",
+    "fuentes": [
+      {
+        "nombre": "ANTARA News (17 junio)",
+        "url": "https://en.antaranews.com/news/419383/jakarta-deploys-4576-personnel-for-protest-security"
+      },
+      {
+        "nombre": "The Straits Times (17 junio)",
+        "url": "https://www.straitstimes.com/asia/se-asia/growing-discontent-with-policymaking-keeps-indonesian-students-on-streets"
+      },
+      {
+        "nombre": "Tribunnews (17 junio)",
+        "url": "https://bekasi.tribunnews.com/news/62007/demo-jakarta-hari-ini-pukul-1000-wib-1100-wib-dan-1300-wib-mahasiswa-dan-pemuda-turun-ke-jalan"
+      }
+    ],
+    "createdAt": "2026-06-17T07:32:43.000Z",
+    "updatedAt": "2026-06-17T07:39:11Z"
+  },
+  {
+    "id": 173,
+    "seccion": "internacional",
+    "pais": "Italia",
+    "bandera": "🇮🇹",
+    "hora": "00:01",
+    "fecha": "2026-06-17",
+    "lugar": "Farmacias municipales (red Assofarm) en toda Italia",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "Filcams CGIL",
+      "Fisascat CISL",
+      "Uiltucs"
+    ],
+    "motivo": "Huelga nacional de 24 horas de empleados de farmacias municipales (farmacie speciali) en toda Italia. Los sindicatos denuncian el estancamiento de las negociaciones para la renovación del convenio colectivo nacional del sector, exigiendo mejoras salariales y condiciones laborales. Se garantizan servicios mínimos esenciales.",
+    "status": "en_curso",
+    "lat": "41.9028",
+    "lng": "12.4964",
+    "fuentes": [
+      {
+        "nombre": "Strike Tracker - Italy Pharmacies",
+        "url": "https://striketracker.app/strikes-in-italy/strike-italy-17-jun-2026"
+      }
+    ],
+    "createdAt": "2026-06-17T07:32:43.000Z",
+    "updatedAt": "2026-06-17T07:39:11Z"
+  },
+  {
+    "id": 174,
+    "seccion": "internacional",
+    "pais": "Grecia",
+    "bandera": "🇬🇷",
+    "hora": "19:00",
+    "fecha": "2026-06-17",
+    "lugar": "Atenas (Plaza Monastiraki)",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Athens Bakers' Guild",
+      "Federation of Craft Trade Associations of Attica"
+    ],
+    "motivo": "Protesta de panaderos de Atenas contra los altos precios de la energía, la fuerte carga impositiva y la falta de medidas de alivio para pequeñas empresas. Exigen topes máximos al precio del diésel, gas natural y electricidad, eliminación del impuesto especial al consumo y del IVA en la energía, abolición del mercado de intercambio energético, umbral de exención fiscal de 12.000€ y protección de viviendas y negocios contra embargos.",
+    "status": "en_curso",
+    "lat": "37.9762",
+    "lng": "23.7264",
+    "fuentes": [
+      {
+        "nombre": "Tovima.com (16 junio)",
+        "url": "https://www.tovima.com/society/athens-bakers-call-members-to-rally-against-high-prices/"
+      }
+    ],
+    "createdAt": "2026-06-17T07:32:43.000Z",
+    "updatedAt": "2026-06-17T07:39:11Z"
+  },
+  {
+    "id": 175,
+    "seccion": "internacional",
+    "pais": "Grecia",
+    "bandera": "🇬🇷",
+    "hora": "12:00",
+    "fecha": "2026-06-17",
+    "lugar": "Atenas (Plaza Vathis, frente al Ministerio de Salud)",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "POEDIN (Panhellenic Federation of Public Hospital Employees)"
+    ],
+    "motivo": "Paro laboral y concentración de trabajadores sanitarios públicos en Atenas contra las disposiciones propuestas en el marco de Profesiones Pesadas y No Saludables (BAE). Denuncian criterios de inclusión discriminatorios que tratan de manera diferente a empleados que realizan funciones similares según la fecha de contratación y estatus laboral. El paro es de 12:00 a 15:00 hora local.",
+    "status": "en_curso",
+    "lat": "37.9842",
+    "lng": "23.7275",
+    "fuentes": [
+      {
+        "nombre": "datasurfr (12 junio)",
+        "url": "https://datasurfr.ai/news/healthcare-workers-scheduled-to-protest-in-athens-on-wednesday-17-june/"
+      }
+    ],
+    "createdAt": "2026-06-17T07:32:43.000Z",
+    "updatedAt": "2026-06-17T07:39:11Z"
   }
 ]
