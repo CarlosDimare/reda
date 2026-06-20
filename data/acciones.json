@@ -1,80 +1,17 @@
 [
   {
-    "id": 6,
-    "seccion": "internacional",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "00:01",
-    "fecha": "2026-06-19",
-    "lugar": "9 torres de control SAERCO: Lanzarote, Fuerteventura, La Palma, El Hierro, Sevilla, Jerez, Vigo, A Coruña",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "USCA",
-      "CCOO"
-    ],
-    "motivo": "Huelga indefinida de controladores aéreos de SAERCO vigente a diario desde el 17 de abril hasta al menos el 30 de junio. Afecta a 9 torres de control. El Ministerio de Transportes impuso servicios mínimos cercanos al 100%. Denuncian salarios insuficientes y deterioro de condiciones laborales.",
-    "status": "en_curso",
-    "lat": "28.5000",
-    "lng": "-13.5000",
-    "fuentes": [
-      {
-        "nombre": "Airport Strikes EU",
-        "url": "https://airportstrikes.eu/strike/251f2a91-d28e-4aea-83ac-0f43798acb84"
-      },
-      {
-        "nombre": "Travel and Tour World",
-        "url": "https://www.travelandtourworld.com/news/article/spains-air-traffic-control-strike-what-travelers-need-to-know-about-delays-and-cancellations"
-      },
-      {
-        "nombre": "Wego Travel Blog",
-        "url": "https://blog.wego.com/spain-atc-strike/"
-      }
-    ],
-    "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-19T23:00:01Z"
-  },
-  {
-    "id": 8,
-    "seccion": "internacional",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "11:00",
-    "fecha": "2026-06-19",
-    "lugar": "Madrid (Puerta del Sol, sede Presidencia regional)",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "Plataforma Laboral de Escuelas Infantiles (PLEI)"
-    ],
-    "motivo": "Continúa la huelga indefinida en escuelas infantiles 0-3 años en la Comunidad de Madrid (desde el 7 de abril). Exigen bajada de ratios, pareja educativa, más financiación y denuncian precariedad salarial.",
-    "status": "en_curso",
-    "lat": "40.4168",
-    "lng": "-3.7038",
-    "fuentes": [
-      {
-        "nombre": "EFE",
-        "url": "https://efe.com/comunidad-de-madrid/2026-06-08/educadoras-escenifican-en-sol-un-via-crucis-de-la-situacion-en-las-escuelas-infantiles/"
-      },
-      {
-        "nombre": "ABC",
-        "url": "https://www.abc.es/sociedad/educadoras-escenifican-sol-via-crucis-situacion-escuelas-20260608133649-nt.html"
-      }
-    ],
-    "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-19T23:00:01Z"
-  },
-  {
     "id": 11,
     "seccion": "internacional",
     "pais": "Corea del Sur",
     "bandera": "🇰🇷",
     "hora": "08:00",
-    "fecha": "2026-06-19",
+    "fecha": "2026-06-20",
     "lugar": "Seúl (Yeouido Square) y área metropolitana. También Pyeongtaek y Yongin (plantas Samsung y SK hynix)",
     "tipoAccion": "huelga",
     "organizaciones": [
       "National Ready-Mixed Concrete Transport Workers' Union (KNRCTWU)"
     ],
-    "motivo": "Día 11 de la huelga indefinida de transportistas de hormigón en Seúl. 8.000 miembros y 11.000 vehículos en paro. Exigen mejora de tarifas de transporte, seguridad laboral y fin de prácticas abusivas. La huelga detuvo la construcción de plantas de semiconductores de Samsung en Pyeongtaek y SK hynix en Yongin.",
+    "motivo": "Día 12 de la huelga indefinida de transportistas de hormigón en Seúl. 8.000 miembros y 11.000 vehículos en paro. Exigen mejora de tarifas de transporte, seguridad laboral y fin de prácticas abusivas. La huelga detuvo la construcción de plantas de semiconductores de Samsung en Pyeongtaek y SK hynix en Yongin.",
     "status": "en_curso",
     "lat": "37.5665",
     "lng": "126.9780",
@@ -97,111 +34,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-19T23:00:01Z"
-  },
-  {
-    "id": 12,
-    "seccion": "internacional",
-    "pais": "Rumanía",
-    "bandera": "🇷🇴",
-    "hora": "00:01",
-    "fecha": "2026-06-19",
-    "lugar": "Unidades sanitarias y de asistencia social en toda Rumanía",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "Federația Sanitas"
-    ],
-    "motivo": "Continúa la huelga japonesa de trabajadores sanitarios (~120.000 miembros con brazalete blanco) iniciada el 9 de junio. Protestan contra la nueva ley de salarios públicos que congela o reduce salarios de más del 60% del sector. Exigen valor de referencia de 4.325 RON y coeficientes justos. Sanitas amenazó con escalar a huelga general con cese total de actividades si el Ministerio de Trabajo no acepta sus propuestas.",
-    "status": "en_curso",
-    "lat": "44.4268",
-    "lng": "26.1025",
-    "fuentes": [
-      {
-        "nombre": "AGERPRES",
-        "url": "https://agerpres.ro/english/2026/06/09/members-of-sanitas-trade-union-of-healthcare-and-social-care-employees-on-japanese-strike--1564362"
-      },
-      {
-        "nombre": "Digi24 (14 junio)",
-        "url": "https://www.digi24.ro/stiri/actualitate/greva-japoneza-in-spitale-sanitas-ameninta-cu-greva-generala-daca-revendicarile-sunt-ignorate-dialog-nu-indiferenta-3807039"
-      },
-      {
-        "nombre": "Prima Pagina (14 junio)",
-        "url": "https://primapagina.ro/2026-06-14/sanitas-ameninta-cu-greva-generala-si-blocarea-spitalelor.html"
-      }
-    ],
-    "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-19T23:00:01Z"
-  },
-  {
-    "id": 15,
-    "seccion": "internacional",
-    "pais": "Sudáfrica",
-    "bandera": "🇿🇦",
-    "hora": "08:00",
-    "fecha": "2026-06-19",
-    "lugar": "Germiston, Ciudad de Ekurhuleni (calles céntricas)",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "MECSU (Municipal Employees Contributory Staff Union)"
-    ],
-    "motivo": "Décimo mes de huelga de trabajadores municipales de MECSU en Germiston. Exigen empleo permanente en la Ciudad de Ekurhuleni y rechazan la tercerización que deja a los trabajadores sin seguridad laboral, salarios justos ni beneficios.",
-    "status": "en_curso",
-    "lat": "-26.2183",
-    "lng": "28.1674",
-    "fuentes": [
-      {
-        "nombre": "Germiston City News / The Citizen",
-        "url": "https://www.citizen.co.za/germiston-city-news/news-headlines/local-news/2026/06/10/watch-mecsu-back-on-germiston-streets-as-strike-enters-10th-month/"
-      }
-    ],
-    "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-19T23:00:01Z"
-  },
-  {
-    "id": 19,
-    "seccion": "internacional",
-    "pais": "Corea del Sur",
-    "bandera": "🇰🇷",
-    "hora": "00:01",
-    "fecha": "2026-06-19",
-    "lugar": "Seúl, Songpa-gu (Olympic Park Handball Stadium / Jamsil Counting Center)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Ciudadanos denunciando fraude electoral",
-      "Partido Libertad e Innovación (Hwang Kyo-ahn)"
-    ],
-    "motivo": "Día 14 de las protestas por el bloqueo del estadio de handball de Jamsil (usado como centro de conteo de votos en elecciones locales del 3 de junio) por denuncias de falta de boletas y presunto fraude electoral. Manifestantes exigen recuento manual y repetición de elecciones.",
-    "status": "en_curso",
-    "lat": "37.5186",
-    "lng": "127.1219",
-    "fuentes": [
-      {
-        "nombre": "Yonhap News",
-        "url": "https://www.yna.co.kr/view/AKR20260611054101004"
-      },
-      {
-        "nombre": "Seoul Economic Daily",
-        "url": "https://en.sedaily.com/international/2026/06/11/sports-bodies-locked-out-for-a-week-demand-police"
-      },
-      {
-        "nombre": "The Straits Times",
-        "url": "https://www.straitstimes.com/asia/how-south-koreas-ballot-shortage-spurred-turnout-of-thousands-to-defend-democracy"
-      },
-      {
-        "nombre": "MK (12 junio)",
-        "url": "https://www.mk.co.kr/en/society/12072989"
-      },
-      {
-        "nombre": "The Asia Business Daily (16 junio)",
-        "url": "https://www.asiae.co.kr/en/article/2026061615162559168"
-      },
-      {
-        "nombre": "AJU PRESS (17 junio - giro ultraderecha)",
-        "url": "https://www.ajupress.com/view/20260617152955396"
-      }
-    ],
-    "createdAt": "2026-06-11T15:03:53.000Z",
-    "updatedAt": "2026-06-19T23:00:01Z"
+    "updatedAt": "2026-06-20T00:15:09Z"
   },
   {
     "id": 20,
@@ -209,7 +42,7 @@
     "pais": "Bolivia",
     "bandera": "🇧🇴",
     "hora": "00:01",
-    "fecha": "2026-06-19",
+    "fecha": "2026-06-20",
     "lugar": "La Paz, El Alto, Cochabamba y puntos de bloqueo en todo el país",
     "tipoAccion": "protesta",
     "organizaciones": [
@@ -219,7 +52,7 @@
       "Organizaciones indígenas quechuas de Potosí y Cochabamba",
       "Evo Morales (ex presidente, apoyando a manifestantes)"
     ],
-    "motivo": "Día 48 de protestas masivas contra el gobierno del presidente Rodrigo Paz. El 17 de junio, el gobierno y la COB iniciaron una mesa de diálogo en la Casa Grande del Pueblo. Se registran 47 puntos de bloqueo en 5 departamentos. La COB presentó 8 demandas. El Gran Cabildo de El Alto dio 72 horas a Paz para renunciar. La crisis deja al menos 23 muertos (17 por bloqueos). Persiste desabastecimiento de combustible y alimentos en La Paz y El Alto.",
+    "motivo": "Día 49 de protestas masivas contra el gobierno del presidente Rodrigo Paz. El 17 de junio, el gobierno y la COB iniciaron una mesa de diálogo en la Casa Grande del Pueblo. Se registran 47 puntos de bloqueo en 5 departamentos. La COB presentó 8 demandas. El Gran Cabildo de El Alto dio 72 horas a Paz para renunciar. La crisis deja al menos 23 muertos (17 por bloqueos). Persiste desabastecimiento de combustible y alimentos en La Paz y El Alto.",
     "status": "en_curso",
     "lat": "-16.5000",
     "lng": "-68.1500",
@@ -262,924 +95,149 @@
       }
     ],
     "createdAt": "2026-06-11T15:03:53.000Z",
-    "updatedAt": "2026-06-19T23:00:01Z"
+    "updatedAt": "2026-06-20T00:15:09Z"
   },
   {
-    "id": 23,
+    "id": 251,
     "seccion": "internacional",
-    "pais": "Albania",
-    "bandera": "🇦🇱",
-    "hora": "18:00",
-    "fecha": "2026-06-19",
-    "lugar": "Tirana (Plaza Skënderbej, frente a la Oficina del Primer Ministro). También Vlorë, Zvërnec",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Ciudadanos albaneses",
-      "Activistas ambientales",
-      "Oposición política",
-      "BirdLife Albania"
-    ],
-    "motivo": "Decimonovena noche consecutiva de protestas ('Revolución Flamenco') contra el megaproyecto de resort de lujo de Jared Kushner e Ivanka Trump en la isla de Sazán y el humedal protegido de Vjosa-Narta. Miles de ciudadanos llenaron el bulevar de Tirana coreando 'Rama, renuncia'. Manifestantes marcharon frente a Europe House coreando 'Europa está con nosotros'. La Comisión Europea advirtió que el proyecto podría poner en riesgo la adhesión de Albania a la UE.",
-    "status": "en_curso",
-    "lat": "41.3275",
-    "lng": "19.8187",
-    "fuentes": [
-      {
-        "nombre": "RBC-Ukraine / The Guardian",
-        "url": "https://newsukraine.rbc.ua/news/trump-family-linked-resort-sparks-aggressive-1781390602.html"
-      },
-      {
-        "nombre": "Hashtag.al",
-        "url": "https://www.hashtag.al/en/index.php/2026/06/12/protesta-e-13-te-ne-tirane-nis-grumbullimi-ne-sheshin-skenderbej-ndersa-ps-feston-35-vjetorin-e-themelimit/"
-      },
-      {
-        "nombre": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/6/11/thousands-rally-in-tirana-in-largest-protest-yet-against-kushner-resort"
-      },
-      {
-        "nombre": "Forbes",
-        "url": "https://www.forbes.com/sites/alisondurkee/2026/06/11/albanias-protests-against-jared-and-ivankas-resort-plans-are-getting-bigger/"
-      },
-      {
-        "nombre": "LMTribune (14 junio)",
-        "url": "https://www.lmtribune.com/wire/albanians-continue-to-protest-kushner-project-5c7b548b"
-      },
-      {
-        "nombre": "Vox News Albania (15 junio)",
-        "url": "https://www.voxnews.al/english/aktualitet/protestuesit-bllokojne-ne-mesnate-autostraden-tirane-durres-dhe-rruge-i118626"
-      },
-      {
-        "nombre": "Balkanweb (15 junio - 16ª protesta)",
-        "url": "https://balkanweb.com/en/live-mass-protest-of-the-16th-in-Tirana-Rama-resigns-thousands-of-citizens-march-on-the-boulevard-the-end-has-come-video/"
-      },
-      {
-        "nombre": "KOHA.net (15 junio)",
-        "url": "https://www.koha.net/en/arberi/dita-e-16-te-qytetaret-kerkojne-doreheqjen-e-kryeministrit-rama"
-      },
-      {
-        "nombre": "Hashtag.al (16 junio - 17ª protesta)",
-        "url": "https://www.hashtag.al/en/index.php/2026/06/16/protesta-e-17-te-ne-tirane-mijera-qytetare-pritet-te-marshojne-drejt-kryeministrise/"
-      },
-      {
-        "nombre": "Vox News Albania (16 junio)",
-        "url": "https://www.voxnews.al/english/aktualitet/nuk-ndalet-protesta-qytetare-ne-tirane-paralajmerohet-tubim-mbarekomb-i118774"
-      },
-      {
-        "nombre": "The Independent (16 junio)",
-        "url": "https://www.independent.co.uk/news/world/europe/ivanka-trump-albania-island-protests-government-jared-kushner-b2996455.html"
-      },
-      {
-        "nombre": "AA.com.tr (17 junio - 17º día)",
-        "url": "https://www.aa.com.tr/en/europe/anti-government-protests-over-zvernec-tourism-project-continue-for-17th-day-in-albania/3969197"
-      },
-      {
-        "nombre": "Panorama Albania (17 junio - 17ª protesta)",
-        "url": "https://en.panorama.com.al/video-protesta-e-17-te-per-doreheqjen-e-rames-qytetaret-marshojne-prane-europe-house-ne-kryeqytet-europa-eshte-me-ne/"
-      },
-      {
-        "nombre": "Panorama Albania (17 junio - marcha)",
-        "url": "https://en.panorama.com.al/parlamenti-i-krimit-marshimi-kilometrik-i-protestuesve-jeni-te-shitur-jepni-doreheqjen-shqiperia-e-shqiptareve/"
-      },
-      {
-        "nombre": "Hashtag.al (17 junio - 18ª protesta)",
-        "url": "https://www.hashtag.al/en/index.php/2026/06/17/rama-jeoe-doreheqjen-sterhiqemi-mijera-qytetare-mbushin-bulevardin/"
-      },
-      {
-        "nombre": "The Independent (18 junio - 19ª noche de protestas)",
-        "url": "https://www.independent.co.uk/travel/news-and-advice/trump-albania-luxury-resorts-protests-tourism-kushner-b2997905.html"
-      },
-      {
-        "nombre": "Euronews (19 junio - protesta flamenco)",
-        "url": "https://www.euronews.com/my-europe/2026/06/19/albania-protests-against-kushner-trump-resort-continue-for-20th-night"
-      }
-    ],
-    "createdAt": "2026-06-11T18:33:33.000Z",
-    "updatedAt": "2026-06-19T23:00:01Z"
-  },
-  {
-    "id": 24,
-    "seccion": "internacional",
-    "pais": "Pakistán (Cachemira bajo admin. pakistaní)",
-    "bandera": "🇵🇰",
-    "hora": "08:00",
-    "fecha": "2026-06-19",
-    "lugar": "Rawalakot, Muzaffarabad, Kotli y múltiples ciudades de Azad Jammu y Cachemira (PoK)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Joint Awami Action Committee (JAAC)",
-      "Ciudadanos de Cachemira bajo administración pakistaní"
-    ],
-    "motivo": "Día 10 de las masivas protestas en Cachemira bajo administración pakistaní. Sentadas continúan en Rawalakot. Huelga parcial en Muzaffarabad. El gobierno pakistaní mantiene la represión: incautación de negocios, redadas y corte de internet. Exigen 'azadi' y abolición de escaños reservados para refugiados. Más de 15 muertos en enfrentamientos.",
-    "status": "en_curso",
-    "lat": "34.3700",
-    "lng": "73.4711",
-    "fuentes": [
-      {
-        "nombre": "Dawn (15 junio)",
-        "url": "https://www.dawn.com/news/2007938/ppp-links-ajk-election-to-peace-in-region"
-      },
-      {
-        "nombre": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cdxdyn5716xo"
-      },
-      {
-        "nombre": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/6/8/at-least-11-killed-in-pakistan-administered-kashmir-clashes-before-rally"
-      },
-      {
-        "nombre": "The Star",
-        "url": "https://www.thestar.com.my/news/nation/2026/06/13/kashmir-protests-turn-fatal-after-authorities-open-fire"
-      },
-      {
-        "nombre": "Firstpost (16 junio)",
-        "url": "https://www.firstpost.com/world/pok-protests-intensify-jaac-targets-asim-munir-urges-govt-employees-to-resign-14023038.html"
-      },
-      {
-        "nombre": "US News (19 junio)",
-        "url": "https://www.usnews.com/news/world/articles/2026-06-19/pakistani-kashmir-faces-shutdown-as-protests-leave-over-20-dead"
-      }
-    ],
-    "createdAt": "2026-06-11T18:33:33.000Z",
-    "updatedAt": "2026-06-19T23:00:01Z"
-  },
-  {
-    "id": 38,
-    "seccion": "internacional",
-    "pais": "México",
-    "bandera": "🇲🇽",
-    "hora": "07:00",
-    "fecha": "2026-06-19",
-    "lugar": "Ciudad de México (Zócalo, Paseo de la Reforma, Estadio Ciudad de México). También Guerrero, Michoacán, Morelos, Zacatecas, Baja California, Chiapas y 12 estados",
+    "pais": "Italia",
+    "bandera": "🇮🇹",
+    "hora": "21:00",
+    "fecha": "2026-06-20",
+    "lugar": "Toda Italia: redes nacionales y regionales de tren, autobuses urbanos y metros. Especial impacto en Roma, Milán, Florencia, Bolonia (monorraíl Marconi Express suspendido)",
     "tipoAccion": "huelga",
     "organizaciones": [
-      "CNTE (Coordinadora Nacional de Trabajadores de la Educación)",
-      "Sección 22 de la CNTE (Oaxaca)",
-      "Madres buscadoras de desaparecidos"
+      "Múltiples sindicatos (convocatoria de huelga general)"
     ],
-    "motivo": "Día 18 de la huelga nacional indefinida de maestros de la CNTE (desde el 1 de junio), durante la Copa Mundial de la FIFA 2026. Este viernes 19 de junio, la CNTE realiza consulta a sus bases sobre posible receso de la huelga mientras continúan las movilizaciones. El miércoles 17, la CNTE marchó sobre Calzada de Tlalpan hacia el Estadio Ciudad de México para bloquear accesos durante el partido Colombia vs Uzbekistán. Denuncian represión y hostigamiento policial. Exigen: derogación de reformas de pensiones ISSSTE, aumento salarial y negociación directa.",
+    "motivo": "Huelga general nacional de 24 horas que finaliza a las 21:00 (iniciada el 19 de junio a las 21:00). Afecta a trenes nacionales y regionales, autobuses urbanos y sistemas de metro en toda Italia. Los servicios de alta velocidad (Frecciarossa, Italo) tienen prioridad legal y funcionan con mayor fiabilidad. Ventanas de servicio garantizado: 06:00-09:00 y 18:00-21:00. El monorraíl Marconi Express del aeropuerto de Bolonia permanecerá suspendido completamente sin ventanas garantizadas.",
     "status": "en_curso",
-    "lat": "19.4326",
-    "lng": "-99.1332",
+    "lat": 41.8719,
+    "lng": 12.5674,
     "fuentes": [
       {
-        "nombre": "El Universal (12 estados)",
-        "url": "https://www.eluniversal.com.mx/nacion/en-12-estados-protesta-la-cnte-genera-desabasto/"
+        "nombre": "Dining and Cooking - Italy Train and Airport Strikes June 2026",
+        "url": "https://www.diningandcooking.com/2639090/italy-train-and-airport-strikes-june-2026-dates-and-travel-advice/"
       },
       {
-        "nombre": "El Universal (consulta CNTE)",
-        "url": "https://oaxaca.eluniversal.com.mx/sociedad/inicia-cnte-consulta-para-analizar-si-levanta-planton-y-concluye-huelga/"
-      },
-      {
-        "nombre": "Reuters",
-        "url": "https://www.reuters.com/sports/soccer/mexico-open-world-cup-amid-passion-parties-protests-2026-06-11/"
-      },
-      {
-        "nombre": "Infobae (13 junio)",
-        "url": "https://www.infobae.com/mexico/2026/06/13/la-cnte-mantiene-paro-en-cdmx-asi-va-la-protesta-de-los-maestros-y-su-negociacion-con-el-gobierno/"
-      },
-      {
-        "nombre": "El País México (15 junio)",
-        "url": "https://elpais.com/mexico/2026-06-15/la-cnte-eleva-el-pulso-con-el-gobierno-de-sheinbaum-con-una-nueva-semana-de-movilizaciones-durante-el-mundial.html"
-      },
-      {
-        "nombre": "La Otra Escucha (16 junio)",
-        "url": "https://laotraescucha.com/mundo-cultural/vida-publica/hoy-martes-16-de-junio-2026-manifestaciones-cdmx-agenda-de-movilizaciones/"
-      },
-      {
-        "nombre": "Capital México (16 junio)",
-        "url": "https://www.capitalmexico.com.mx/cdmx/marchas-y-bloqueos-en-cdmx-hoy-16-de-junio-de-2026-vialidades-afectadas-y-alternativas/"
-      },
-      {
-        "nombre": "Eje Central (16 junio)",
-        "url": "https://www.ejecentral.com.mx/nuestro-eje/manifestaciones-hoy-martes-16-de-junio-en-cdmx-donde-y-a-que-hora-habra-marchas-y-bloqueos"
-      },
-      {
-        "nombre": "Análisis Noticias Online (17 junio)",
-        "url": "https://analisisnoticiasonline.com/cnte-amaga-con-boicotear-nuevamente-el-mundial-y-exige-a-sheinbaum-definir-de-frente-si-se-cierra-el-dialogo/"
-      },
-      {
-        "nombre": "El Universal (17 junio - represión CNTE)",
-        "url": "https://www.eluniversal.com.mx/nacion/cnte-acusa-represion-y-hostigamiento-al-intentar-llegar-al-estadio-cdmx-nos-va-a-recordar-este-regimen-de-falsa-transformacion/"
-      },
-      {
-        "nombre": "Reforma (17 junio - marcha CNTE)",
-        "url": "https://www.reforma.com/marcha-cnte-sobre-tlalpan-hacia-estadio/ar3224208"
-      },
-      {
-        "nombre": "Infobae (18 junio - CNTE se levanta de mesa de diálogo)",
-        "url": "https://www.infobae.com/mexico/2026/06/18/cnte-se-levanta-de-la-mesa-de-dialogo-con-segob-sep-e-issste-acusan-represion-del-gobierno-de-sheinbaum/"
-      },
-      {
-        "nombre": "N+ Media (19 junio - CNTE marcha Nochixtlán)",
-        "url": "https://www.nmas.com.mx/ciudad-de-mexico/movilidad/marchas/cnte-anuncia-marcha-en-cdmx-y-oaxaca-este-19-de-junio-para-conmemorar-caso-nochixtlan/"
+        "nombre": "Summer in Italy - Italy Transport Strikes",
+        "url": "https://www.summerinitaly.com/traveltips/transport-strikes-in-italy"
       }
     ],
-    "createdAt": "2026-06-12T10:59:58.000Z",
-    "updatedAt": "2026-06-19T23:00:01Z"
+    "createdAt": "2026-06-19T13:01:21.000Z",
+    "updatedAt": "2026-06-20T00:15:09Z"
   },
   {
-    "id": 122,
-    "seccion": "internacional",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "12:00",
-    "fecha": "2026-06-19",
-    "lugar": "Madrid (sede Ministerio de Sanidad, Paseo del Prado) y hospitales de toda España",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "CESM",
-      "SMA",
-      "Metges de Catalunya",
-      "AMYTS",
-      "SME",
-      "O'MEGA"
-    ],
-    "motivo": "Quinta semana de huelga nacional de médicos (~175.000 facultativos) contra el Estatuto Marco del Ministerio de Sanidad. El miércoles 17 de junio, Metges de Catalunya convocó huelga del personal médico del Siscat en Cataluña, los médicos de Valencia realizaron manifestación desde Conselleria de Sanidad hasta el Palau de la Generalitat, y el Sindicato Médico de Murcia convocó protestas regionales. Exigen estatuto propio, jornada laboral justa (35h), jubilación flexible y reconocimiento de guardias como tiempo cotizable.",
-    "status": "en_curso",
-    "lat": "40.4168",
-    "lng": "-3.7038",
-    "fuentes": [
-      {
-        "nombre": "El País (15 junio)",
-        "url": "https://elpais.com/sociedad/2026-06-15/comienza-la-ultima-semana-de-huelga-medica-convocada-antes-de-una-tregua-estival-pese-a-la-falta-de-acuerdo-con-sanidad.html"
-      },
-      {
-        "nombre": "La Razón (15 junio)",
-        "url": "https://www.larazon.es/sociedad/huelga-medica-total-monica-garcia_202606156a2f40920d35a17610bb5c9c.html"
-      },
-      {
-        "nombre": "CESM",
-        "url": "https://www.cesm.org/2026/06/02/el-comite-de-huelga-mantiene-el-paro-nacional-y-anima-a-una-gran-movilizacion-ante-la-falta-de-propuestas-del-ministerio-de-sanidad/"
-      },
-      {
-        "nombre": "Metges de Catalunya (via Europa Press)",
-        "url": "https://www.europapress.es/catalunya/noticia-metges-catalunya-convoca-huelga-17-junio-personal-medico-facultativo-siscat-20260605135018.html"
-      },
-      {
-        "nombre": "Levante-EMV (Valencia doctors)",
-        "url": "https://www.levante-emv.com/comunitat-valenciana/2026/06/10/nueva-manifestacion-medicos-valencia-huelga-131254597.html"
-      },
-      {
-        "nombre": "La Opinión de Murcia",
-        "url": "https://www.laopiniondemurcia.es/comunidad/2026/06/15/medicos-region-convocan-protesta-17-131437454.html"
-      },
-      {
-        "nombre": "EFE (17 junio - médicos vascos)",
-        "url": "https://efe.com/pais-vasco/2026-06-17/medicos-vascos-ministra-conflicto/"
-      },
-      {
-        "nombre": "Crónica Global (17 junio - seguimiento Cataluña)",
-        "url": "https://cronicaglobal.elespanol.com/politica/20260617/generalitat-cifra-seguimiento-huelga-medicos-cataluna/1003742772186_0.html"
-      },
-      {
-        "nombre": "ABC (19 junio - concentración Ramón y Cajal)",
-        "url": "https://www.abc.es/salud/medicos-concentran-hospital-ramon-cajal-madrid-20260619131540-nt.html"
-      }
-    ],
-    "createdAt": "2026-06-15T05:36:17.000Z",
-    "updatedAt": "2026-06-19T23:00:01Z"
-  },
-  {
-    "id": 125,
-    "seccion": "internacional",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "00:01",
-    "fecha": "2026-06-19",
-    "lugar": "Bilbao (Aeropuerto de Bilbao)",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "CSIF"
-    ],
-    "motivo": "Tercer día de huelga indefinida de operadores de pasarelas de embarque del Aeropuerto de Bilbao (desde el 15 de junio). Denuncian falta de personal e incidentes operativos recurrentes. Exigen mejores condiciones laborales. Posible afectación a embarques y desembarques.",
-    "status": "en_curso",
-    "lat": "43.3010",
-    "lng": "-2.9106",
-    "fuentes": [
-      {
-        "nombre": "Strike Tracker",
-        "url": "https://striketracker.app/strikes-in-spain/airport-strike-bilbao-15-jun-2026"
-      }
-    ],
-    "createdAt": "2026-06-15T05:36:17.000Z",
-    "updatedAt": "2026-06-19T23:00:01Z"
-  },
-  {
-    "id": 127,
-    "seccion": "internacional",
-    "pais": "Reino Unido (Inglaterra)",
-    "bandera": "🇬🇧",
-    "hora": "07:00",
-    "fecha": "2026-06-19",
-    "lugar": "Hospitales del NHS en toda Inglaterra",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "BMA (British Medical Association)",
-      "Resident Doctors Committee"
-    ],
-    "motivo": "Huelga de 5 días (15-19 junio) de médicos residentes del NHS en Inglaterra (día 3). Exigen mejoras salariales y condiciones laborales tras meses de negociaciones intensas con el gobierno sin alcanzar un acuerdo. La huelga afecta a hospitales de toda Inglaterra con servicios de emergencia prioritarios y cirugías electivas reprogramadas.",
-    "status": "en_curso",
-    "lat": "52.3555",
-    "lng": "-1.1743",
-    "fuentes": [
-      {
-        "nombre": "NHS England",
-        "url": "https://www.england.nhs.uk/long-read/industrial-action-by-british-medical-association-bma-resident-doctors-15-to-19-june-2026/"
-      },
-      {
-        "nombre": "UK Strike Calendar",
-        "url": "https://www.strikecalendar.co.uk/"
-      },
-      {
-        "nombre": "Bradford Teaching Hospitals",
-        "url": "https://www.bradfordhospitals.nhs.uk/resident-doctor-strikes-15-19-june-2026/"
-      }
-    ],
-    "createdAt": "2026-06-15T12:08:29.000Z",
-    "updatedAt": "2026-06-19T23:00:01Z"
-  },
-  {
-    "id": 128,
-    "seccion": "internacional",
-    "pais": "Marruecos",
-    "bandera": "🇲🇦",
-    "hora": "00:01",
-    "fecha": "2026-06-19",
-    "lugar": "Juzgados y tribunales de todo Marruecos",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "Association of Bar Associations of Morocco"
-    ],
-    "motivo": "Huelga nacional de abogados de una semana (15-21 junio) contra las declaraciones 'irresponsables' y 'provocadoras' del Ministro de Justicia Abdellatif Ouahbi, a quien acusan de desacreditar la profesión legal y socavar su papel constitucional. La asociación ha solicitado formalmente la intervención del jefe de gobierno.",
-    "status": "en_curso",
-    "lat": "31.7917",
-    "lng": "-7.0926",
-    "fuentes": [
-      {
-        "nombre": "Newsy Today",
-        "url": "https://www.newsy-today.com/lawyers-announce-national-strike-from-june-15-21/"
-      }
-    ],
-    "createdAt": "2026-06-15T12:08:29.000Z",
-    "updatedAt": "2026-06-19T23:00:01Z"
-  },
-  {
-    "id": 159,
-    "seccion": "internacional",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "00:01",
-    "fecha": "2026-06-19",
-    "lugar": "Gurugram, Haryana (almacén de Flipkart, frontera Farrukhnagar-Jhajjar)",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "IFAT (Indian Federation of App-Based Transport Workers)"
-    ],
-    "motivo": "Día 5 de huelga de miles de trabajadores del almacén de Flipkart en Haryana. Denuncian reducción salarial de ₹18.000 a ₹12.000-14.000 mensuales y pagos de hasta ₹50 por turno nocturno. Exigen restauración de salarios conforme al salario mínimo legal, agua potable, áreas de descanso y refrigeración ante temperaturas extremas (>40°C). IFAT amenazó con una campaña nacional de solidaridad.",
-    "status": "en_curso",
-    "lat": "28.4500",
-    "lng": "76.8500",
-    "fuentes": [
-      {
-        "nombre": "Business Standard",
-        "url": "https://www.business-standard.com/india-news/ifat-alleges-thousands-of-flipkart-warehouse-workers-strike-over-wages-126061601248_1.html"
-      },
-      {
-        "nombre": "The Hindu BusinessLine",
-        "url": "https://www.thehindubusinessline.com/companies/flipkart-warehouse-workers-strike-protesting-low-wages-and-poor-working-conditions/article71109412.ece"
-      },
-      {
-        "nombre": "The Tribune",
-        "url": "https://www.tribuneindia.com/news/haryana/flipkart-warehouse-staff-go-on-strike-over-wage-contract-disputes/"
-      },
-      {
-        "nombre": "The Workers Rights (17 junio)",
-        "url": "https://www.theworkersrights.com/flipkart-warehouse-strike/"
-      }
-    ],
-    "createdAt": "2026-06-16T21:33:02.000Z",
-    "updatedAt": "2026-06-19T23:00:01Z"
-  },
-  {
-    "id": 167,
-    "seccion": "internacional",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "00:01",
-    "fecha": "2026-06-19",
-    "lugar": "Bilbao (Bizintek Innova)",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "ELA"
-    ],
-    "motivo": "Huelga de trabajadores de Bizintek Innova (electrónica) en Bilbao del 17 al 19 de junio. Exigen mejoras salariales y condiciones laborales. La huelga afecta a la producción de la empresa.",
-    "status": "en_curso",
-    "lat": "43.2630",
-    "lng": "-2.9350",
-    "fuentes": [
-      {
-        "nombre": "Strike Tracker - Bilbao",
-        "url": "https://striketracker.app/strikes-in-spain/strike-bilbao-17-19-jun-2026"
-      }
-    ],
-    "createdAt": "2026-06-17T02:00:29.000Z",
-    "updatedAt": "2026-06-19T23:00:01Z"
-  },
-  {
-    "id": 172,
-    "seccion": "internacional",
-    "pais": "Indonesia",
-    "bandera": "🇮🇩",
-    "hora": "10:00",
-    "fecha": "2026-06-19",
-    "lugar": "Jakarta (Monas, DPR/MPR Senayan, Bundaran HI, Kantor Badan Gizi Nasional, Gedung Thamrin Nine, Hotel Sultan/GBK, Medan Merdeka Selatan, Pos Lantas Simpang Lima Senen)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Estudiantes universitarios",
-      "Lembaga Bantuan Hukum Tridharma Indonesia (UPN, UNJ, Unpam, Atmajaya)",
-      "Aliansi Masyarakat Jakarta Timur",
-      "AUR Barisan Merdeka Jakarta",
-      "Aliansi Mahasiswa y Pemuda Jakarta Peduli Indonesia",
-      "PMII Jakarta Selatan",
-      "Masyarakat Pejuang Gizi Anak Indonesia",
-      "Aliansi Mahasiswa Jakarta Pinggiran",
-      "HMI Cabang Jakarta Raya"
-    ],
-    "motivo": "Múltiples protestas simultáneas en Jakarta. Sexto día de protestas estudiantiles (#MenujuIndonesiaBangkrut) contra aumento del 30% en combustibles no subsidiados e inflación. Además, manifestación por ejecución de tierras del Hotel Sultan/GBK, protesta de LBH Tridharma Indonesia, y protesta de Aliansi Mahasiswa Jakarta Pinggiran. Dos grupos (pro y contra) se manifestaron sobre el programa MBG (Makan Bergizi Gratis) en Patung Kuda. 4.131-4.576 efectivos de seguridad desplegados.",
-    "status": "en_curso",
-    "lat": "-6.1754",
-    "lng": "106.8272",
-    "fuentes": [
-      {
-        "nombre": "ANTARA News (17 junio)",
-        "url": "https://en.antaranews.com/news/419383/jakarta-deploys-4576-personnel-for-protest-security"
-      },
-      {
-        "nombre": "The Straits Times (17 junio)",
-        "url": "https://www.straitstimes.com/asia/se-asia/growing-discontent-with-policymaking-keeps-indonesian-students-on-streets"
-      },
-      {
-        "nombre": "Tribunnews (17 junio)",
-        "url": "https://bekasi.tribunnews.com/news/62007/demo-jakarta-hari-ini-pukul-1000-wib-1100-wib-dan-1300-wib-mahasiswa-dan-pemuda-turun-ke-jalan"
-      },
-      {
-        "nombre": "Kompas.com (18 junio - 3 demos)",
-        "url": "https://megapolitan.kompas.com/read/2026/06/18/08052291/ada-3-demo-di-jakarta-hari-ini-waspada-berpotensi-macet-lokasi-berikut"
-      },
-      {
-        "nombre": "AsatuNews (18 junio - demo MBG Patung Kuda)",
-        "url": "https://www.asatunews.co.id/demo-massa-patung-kuda-jakarta"
-      },
-      {
-        "nombre": "Tempo.co (19 junio - estudiantes en DPR)",
-        "url": "https://en.tempo.co/read/2109392/thousands-of-students-arrive-at-dpr-building-to-join-friday-protest"
-      }
-    ],
-    "createdAt": "2026-06-17T07:32:43.000Z",
-    "updatedAt": "2026-06-19T23:00:01Z"
-  },
-  {
-    "id": 182,
-    "seccion": "internacional",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "00:01",
-    "fecha": "2026-06-19",
-    "lugar": "Byramangala-Bidadi, Karnataka (cerca de Bengaluru)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Agricultores de Byramangala-Bidadi",
-      "BJP Karnataka",
-      "Janata Dal (Secular)"
-    ],
-    "motivo": "Continúan las protestas de agricultores (>470 días) contra la adquisición forzosa de ~500 acres para el Greater Bengaluru Integrated Township (GBIT). Los líderes de la oposición en Karnataka respaldaron a los agricultores. El gobierno emitió notificación final de adquisición. Exigen cancelación del proyecto que amenaza tierras ancestrales y medios de vida agrícolas.",
-    "status": "en_curso",
-    "lat": "12.8000",
-    "lng": "77.4800",
-    "fuentes": [
-      {
-        "nombre": "Lokmat Times (17 junio)",
-        "url": "https://www.lokmattimes.com/politics/cant-make-layout-in-15-years-r-ashoka-backs-farmers-protest-against-bidadi-township-project/"
-      },
-      {
-        "nombre": "Asianet Newsable (17 junio)",
-        "url": "https://newsable.asianetnews.com/india/bidadi-township-bjp-backs-farmers-warns-congress-of-projects-future-articleshow-dyagf1p"
-      },
-      {
-        "nombre": "The Hans India (17 junio)",
-        "url": "https://www.thehansindia.com/karnataka/cm-defends-bidadi-township-minister-expresses-concern-over-project-1087155"
-      }
-    ],
-    "createdAt": "2026-06-17T18:40:40.000Z",
-    "updatedAt": "2026-06-19T23:00:01Z"
-  },
-  {
-    "id": 196,
-    "seccion": "internacional",
-    "pais": "Turquía",
-    "bandera": "🇹🇷",
-    "hora": "10:00",
-    "fecha": "2026-06-19",
-    "lugar": "Ankara (frente a la Gran Asamblea Nacional, Puerta de Çankaya)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Plataforma de Docentes Víctimas de Entrevistas",
-      "Sindicato de Profesores del Sector Privado (Özel Sektör Öğretmenleri Sendikası)",
-      "Eğitim Sen"
-    ],
-    "motivo": "Cuarto día de protestas de docentes en Ankara. Maestros víctimas del sistema de entrevistas y del sector privado realizan huelga de hambre. Exigen regulación del salario base en la Ley N° 5580 y nombramiento de docentes excluidos por entrevistas. La policía intervino hoy en la puerta de Çankaya del Parlamento, deteniendo al menos a 14 manifestantes. Las protestas se han extendido a más de 10 provincias.",
-    "status": "en_curso",
-    "lat": "39.9334",
-    "lng": "32.8597",
-    "fuentes": [
-      {
-        "nombre": "BirGün (17 junio)",
-        "url": "https://www.birgun.net/haber/teachers-forced-into-starvation-718803"
-      },
-      {
-        "nombre": "Gerçek Gündem (17 junio)",
-        "url": "https://www.gercekgundem.com/guncel/aclik-grevi-karari-alan-ogretmenlere-ankarada-polis-mudahalesi-cok-sayida-gozalti-var-573366"
-      }
-    ],
-    "createdAt": "2026-06-17T22:56:41.000Z",
-    "updatedAt": "2026-06-19T23:00:01Z"
-  },
-  {
-    "id": 205,
-    "seccion": "internacional",
-    "pais": "Pakistán",
-    "bandera": "🇵🇰",
-    "hora": "00:01",
-    "fecha": "2026-06-19",
-    "lugar": "Karachi (toda la ciudad, rutas de transporte público)",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "Karachi Bus Owners Association"
-    ],
-    "motivo": "Huelga indefinida de propietarios de autobuses en Karachi desde el 18 de junio. Suspenden servicios de transporte público en toda la ciudad en protesta por las multas excesivas de tránsito (challans) y las fuertes sanciones económicas impuestas a los vehículos de transporte público. Exigen que las autoridades aborden sus preocupaciones y acepten sus demandas. La huelga afecta a miles de usuarios diarios.",
-    "status": "en_curso",
-    "lat": "24.8607",
-    "lng": "67.0011",
-    "fuentes": [
-      {
-        "nombre": "ProPakistani",
-        "url": "https://propakistani.pk/2026/06/17/karachi-bus-owners-announce-indefinite-strike-against-heavy-challans/"
-      }
-    ],
-    "createdAt": "2026-06-18T05:15:53.000Z",
-    "updatedAt": "2026-06-19T23:00:01Z"
-  },
-  {
-    "id": 211,
-    "seccion": "internacional",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "05:00",
-    "fecha": "2026-06-19",
-    "lugar": "Bengaluru, Karnataka (toda la ciudad)",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "Karnataka Rajya Karmika Parishat",
-      "Asociaciones de panaderos, vendedores de beeda y comerciantes minoristas"
-    ],
-    "motivo": "Huelga indefinida de más de 58.000 pequeños comercios en Bengaluru: panaderías, puestos de té/café, vendedores ambulantes y tiendas de barrio. Denuncian acoso de funcionarios gubernamentales con inspecciones frecuentes, multas excesivas e intimidación. Exigen una licencia única y regulaciones claras. El cierre afectó a millones de residentes que dependen de estos comercios para el desayuno y artículos diarios.",
-    "status": "en_curso",
-    "lat": "12.9716",
-    "lng": "77.5946",
-    "fuentes": [
-      {
-        "nombre": "The New Indian Express",
-        "url": "https://www.newindianexpress.com/cities/bengaluru/2026/Jun/17/bengaluru-small-traders-street-vendors-to-go-on-strike-from-june-18"
-      },
-      {
-        "nombre": "Goodreturns",
-        "url": "https://www.goodreturns.in/news/bengaluru-strike-tomorrow-why-small-shops-and-street-vendors-shutting-down-across-the-city-june-18-1516165.html"
-      },
-      {
-        "nombre": "OneIndia",
-        "url": "https://www.oneindia.com/bengaluru/bengaluru-strike-tea-shops-bakeries-and-cigarette-vendors-shut-over-licence-extortion-issues-8121931.html"
-      }
-    ],
-    "createdAt": "2026-06-18T12:55:47.000Z",
-    "updatedAt": "2026-06-19T23:00:01Z"
-  },
-  {
-    "id": 227,
-    "seccion": "internacional",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
-    "hora": "06:30",
-    "fecha": "2026-06-19",
-    "lugar": "Seattle, Washington (Embassy Suites by Hilton Pioneer Square, 255 S. King Street, junto al Lumen Field)",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "UNITE HERE Local 8"
-    ],
-    "motivo": "Huelga indefinida de 117 trabajadores del hotel Embassy Suites by Hilton en Pioneer Square, Seattle. Exigen aumento salarial justo, cobertura médica全年, protecciones contra ICE (que notifiquen si agentes ingresan al hotel) y retorno a niveles de personal prepandemia. El contrato colectivo venció el 31 de mayo. La huelga comenzó el 18 de junio a las 6:30 AM durante la Copa Mundial FIFA 2026. El sindicato pide al público no alojarse ni realizar eventos en el hotel hasta que concluya la huelga.",
-    "status": "en_curso",
-    "lat": "47.5992",
-    "lng": "-122.3312",
-    "fuentes": [
-      {
-        "nombre": "MyNorthwest (18 junio)",
-        "url": "https://mynorthwest.com/local/strike-seattle-hotel-workers/4249200"
-      },
-      {
-        "nombre": "Hotel Dive (18 junio)",
-        "url": "https://www.hoteldive.com/news/union-workers-seattle-hilton-strike/823302/"
-      },
-      {
-        "nombre": "Tri-City Herald (18 junio)",
-        "url": "https://www.tri-cityherald.com/living/article316179747.html"
-      }
-    ],
-    "createdAt": "2026-06-18T21:33:14.000Z",
-    "updatedAt": "2026-06-19T23:00:01Z"
-  },
-  {
-    "id": 228,
-    "seccion": "internacional",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "00:01",
-    "fecha": "2026-06-19",
-    "lugar": "Mumbai, Maharashtra (depósitos de BEST, rutas de autobuses municipales y red eléctrica de South Mumbai)",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "BEST Sanyukt Kamgar Kruti Samiti",
-      "12 sindicatos de empleados de BEST"
-    ],
-    "motivo": "Huelga indefinida anunciada desde la medianoche del 18 de junio por empleados de BEST (Brihanmumbai Electric Supply and Transport). 12 sindicatos unificados exigen: fusión del presupuesto de BEST con el de BMC, pago de duelas legales a jubilados, implementación de la 7ª Comisión Salarial 2016-2026, abolición del trabajo contratado, absorción de trabajadores de wet-lease, recargar 6.000 autobuses propios y fin de la privatización. El gobierno de Maharashtra prohibió la huelga bajo la Ley de Preservación de Servicios Esenciales (MESPA). Afecta a servicios de autobús y suministro eléctrico de South Mumbai. La huelga fue declarada ilegal por un tribunal industrial y el gobierno de Maharashtra invocó MESMA. Dos sindicatos (Shramik Utkarsh Sabha y BEST Kamgar Union) se distanciaron de la protesta.",
-    "status": "en_curso",
-    "lat": "19.0760",
-    "lng": "72.8777",
-    "fuentes": [
-      {
-        "nombre": "Economic Times (18 junio)",
-        "url": "https://economictimes.indiatimes.com/news/new-updates/mumbai-best-employees-announce-indefinite-strike-why-theyre-protesting-and-how-it-could-disrupt-your-travel/articleshow/131836975.cms"
-      },
-      {
-        "nombre": "ThePrint / PTI (18 junio)",
-        "url": "https://theprint.in/india/mumbai-civic-bus-services-likely-to-be-hit-as-best-employee-unions-announce-indefinite-strike/2963852/"
-      },
-      {
-        "nombre": "Indian Express (17 junio)",
-        "url": "https://indianexpress.com/article/cities/mumbai/best-strike-june-18-unions-pay-pension-demands-explained-10743884/"
-      },
-      {
-        "nombre": "Free Press Journal (17 junio)",
-        "url": "https://www.freepressjournal.in/mumbai/best-employees-warn-indefinite-strike-from-june-19-administration-invokes-essential-services-act"
-      },
-      {
-        "nombre": "ETAuto (19 junio - tribunal bloquea huelga)",
-        "url": "https://auto.economictimes.indiatimes.com/news/commercial-vehicle/best-undertaking-strike-stalled-as-court-order-mesma-block-protest-in-mumbai/131841480"
-      },
-      {
-        "nombre": "NDTV Profit (19 junio - servicios afectados)",
-        "url": "https://www.ndtvprofit.com/india/best-bus-strike-in-mumbai-services-hit-as-employees-protest-over-salary-hike-other-demands-11657735"
-      }
-    ],
-    "createdAt": "2026-06-18T21:33:14.000Z",
-    "updatedAt": "2026-06-19T23:00:01Z"
-  },
-  {
-    "id": 234,
-    "seccion": "internacional",
-    "pais": "Israel",
-    "bandera": "🇮🇱",
-    "hora": "08:00",
-    "fecha": "2026-06-19",
-    "lugar": "Bnei Brak, Prisión Militar de Beit Lid (cerca de Netanya), Kfar Yona, y múltiples ciudades de Israel",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Comunidad Ultra-Ortodoxa (Haredí)",
-      "Facción de Jerusalén",
-      "Agudat Yisrael",
-      "Partidos UTJ (United Torah Judaism)"
-    ],
-    "motivo": "Masivas protestas de la comunidad ultra-ortodoxa (Haredí) contra el reclutamiento militar obligatorio. Miles de manifestantes bloquearon el tráfico en Bnei Brak y se congregaron frente a la Prisión Militar de Beit Lid exigiendo la liberación de evasores del servicio militar detenidos. La policía usó granadas aturdidoras y porras para dispersar a los manifestantes en Bnei Brak. Un oficial fue suspendido por patear a un manifestante haredí en el suelo. Los líderes haredíes amenazan con una revuelta fiscal y la desobediencia civil. El tema ha llevado a los partidos UTJ a abandonar la coalición de gobierno. La crisis se intensificó tras una sentencia del Tribunal Supremo de 2024 que revocó las exenciones.",
-    "status": "en_curso",
-    "lat": "32.0834",
-    "lng": "34.8312",
-    "fuentes": [
-      {
-        "nombre": "The Times of Israel (18 junio)",
-        "url": "https://www.timesofisrael.com/enraged-by-arrests-of-draft-evaders-israels-ultra-orthodox-community-is-in-revolt/"
-      },
-      {
-        "nombre": "Euronews (18 junio)",
-        "url": "https://www.euronews.com/video/2026/06/18/mass-protest-by-ultra-orthodox-jews-in-israel-over-army-conscription"
-      },
-      {
-        "nombre": "Haaretz (18 junio)",
-        "url": "https://www.haaretz.com/israel-news/israel-crime/2026-06-18/ty-article/.premium/israel-police-suspend-officer-for-kicking-haredi-demonstrator-lying-on-ground/0000019e-d90e-dcae-a3ff-fb2ec4030000"
-      },
-      {
-        "nombre": "Ynetnews (18 junio)",
-        "url": "https://www.ynetnews.com/article/lyu6r42za"
-      }
-    ],
-    "createdAt": "2026-06-18T21:33:14.000Z",
-    "updatedAt": "2026-06-19T23:00:01Z"
-  },
-  {
-    "id": 236,
-    "seccion": "internacional",
-    "pais": "Canadá (Ontario)",
-    "bandera": "🇨🇦",
-    "hora": "00:01",
-    "fecha": "2026-06-19",
-    "lugar": "Múltiples localidades en Ontario: Toronto, York Region, Peterborough, Hamilton, Oakville y otras 22 agencias de servicios comunitarios y sociales",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "OPSEU/SEFPO (Ontario Public Service Employees Union)",
-      "OPSEU Local 358",
-      "OPSEU Local 386",
-      "Community Living Trent Highlands",
-      "Community Living Central York",
-      "Aptus Treatment Centre"
-    ],
-    "motivo": "Cuarta semana de huelga provincial de más de 4.000 trabajadores de servicios comunitarios y sociales en Ontario. Exigen financiamiento retroactivo del gobierno provincial para compensar el impacto del Bill 124 (ley que limitó aumentos salariales al 1% anual, declarada inconstitucional). Denuncian décadas de falta de financiamiento que ha dejado a las agencias sin personal y con salarios insuficientes. La huelga afecta a servicios para personas con discapacidades del desarrollo, salud mental, protección juvenil y familias en crisis. Escuelas de tratamiento, programas diurnos y hogares grupales permanecen cerrados desde el 25 de mayo.",
-    "status": "en_curso",
-    "lat": "43.6532",
-    "lng": "-79.3832",
-    "fuentes": [
-      {
-        "nombre": "CP24 (16 junio - 4ª semana)",
-        "url": "https://www.cp24.com/local/toronto/2026/06/16/ontario-families-struggling-as-community-and-social-service-workers-strike-enters-fourth-week/"
-      },
-      {
-        "nombre": "YorkRegion.com (18 junio)",
-        "url": "https://www.yorkregion.com/news/opseu-strike-continues-in-york-region-stressing-families/article_c1cdb894-0df9-52dd-bada-7041891c95ab.html"
-      },
-      {
-        "nombre": "kawarthaNOW (15 junio)",
-        "url": "https://kawarthanow.com/2026/06/15/opseu-workers-enter-fourth-week-of-strike-as-union-seeks-retroactive-bill-124-funding/"
-      }
-    ],
-    "createdAt": "2026-06-18T23:43:01.000Z",
-    "updatedAt": "2026-06-19T23:00:01Z"
-  },
-  {
-    "id": 237,
-    "seccion": "internacional",
-    "pais": "Perú",
-    "bandera": "🇵🇪",
-    "hora": "16:00",
-    "fecha": "2026-06-19",
-    "lugar": "Lima (Campo de Marte, Jesús María) y plazas de todo el país",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Juntos por el Perú (JP)",
-      "Frente Patriótico de Loreto",
-      "Confederación Nacional de Rondas Campesinas"
-    ],
-    "motivo": "Gran movilización nacional en defensa del voto popular y exigencia de transparencia electoral tras la segunda vuelta presidencial del 7 de junio. Roberto Sánchez, candidato de Juntos por el Perú, convocó a sus seguidores tras una diferencia de menos de 40.000 votos (50,09% para Keiko Fujimori vs 49,89% para Sánchez). Exigen justicia electoral, recuento transparente y nulidad de 1.751 mesas de votación.",
-    "status": "en_curso",
-    "lat": "-12.0713",
-    "lng": "-77.0363",
-    "cantidadManifestantes": "",
-    "createdAt": "2026-06-19T04:04:26.000Z",
-    "updatedAt": "2026-06-19T23:00:01Z",
-    "fuentes": [
-      "https://caretas.pe/politica/juntos-por-el-peru-convoca-a-marcha-nacional-del-19-de-junio-en-defensa-del-voto/",
-      "https://www.infobae.com/peru/2026/06/18/juntos-por-el-peru-convoca-a-marcha-en-defensa-del-voto-el-proximo-19-de-junio/",
-      "https://elmontonero.pe/politica/juntos-por-el-peru-anuncia-gran-movilizacion-este-19-de-junio-en-defensa-del-voto"
-    ]
-  },
-  {
-    "id": 238,
-    "seccion": "internacional",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "00:01",
-    "fecha": "2026-06-19",
-    "lugar": "Toda España (sedes de Iberdrola en todas las comunidades autónomas)",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "UGT FICA",
-      "CCOO",
-      "ELA",
-      "CIG"
-    ],
-    "motivo": "Huelga estatal de más de 9.300 trabajadores de Iberdrola en toda España tras 16 meses de bloqueo en la negociación del convenio colectivo. Denuncian pérdida de poder adquisitivo mientras la empresa alcanza máximos de capitalización bursátil y prevé aumentar beneficio un 47% y retribución al accionista un 65%. Exigen mantenimiento del poder adquisitivo y subidas salariales garantizadas mínimas del IPC. La huelga coincide con la semana de celebración del 150 aniversario de la eléctrica.",
-    "status": "en_curso",
-    "lat": "40.4168",
-    "lng": "-3.7038",
-    "cantidadManifestantes": "",
-    "createdAt": "2026-06-19T04:04:26.000Z",
-    "updatedAt": "2026-06-19T23:00:01Z",
-    "fuentes": [
-      "https://www.elsaltodiario.com/laboral/trabajadores-iberdrola-convocan-huelga-19-junio",
-      "https://www.elsaltodiario.com/laboral/miles-trabajadores-iberdrola-secundan-huelga-estatal-bloqueo-convenio",
-      "https://www.publico.es/economia/trabajadores-iberdrola-secundan-huelga-bloqueo-convenio.html",
-      "https://nuevatribuna.es/articulo/economia/huelga-iberdrola-19-junio-2025-convenio-colectivo/20260618091143238055.html",
-      "https://www.ugt.es/iberdrola-se-suma-la-huelga-en-defensa-del-convenio-el-mismo-dia-en-que-anuncia-un-aumento-de-beneficio-del-47",
-      {
-        "nombre": "EFE (19 junio - segunda huelga Iberdrola)",
-        "url": "https://efe.com/economia/2026-06-19/ccoo-ugt-segunda-huelga-iberdrola/"
-      }
-    ]
-  },
-  {
-    "id": 239,
+    "id": 267,
     "seccion": "internacional",
     "pais": "Francia",
     "bandera": "🇫🇷",
-    "hora": "15:00",
-    "fecha": "2026-06-19",
-    "lugar": "París (Place de la Sorbonne)",
-    "tipoAccion": "huelga",
+    "hora": "14:00",
+    "fecha": "2026-06-20",
+    "lugar": "París (Place Vauban)",
+    "tipoAccion": "protesta",
     "organizaciones": [
-      "SUD éducation Paris",
-      "SUD éducation 92",
-      "Coordination Nationale des Mineur·es Isolé·es en Lutte",
-      "Collectif des Jeunes du Parc de Belleville"
+      "Consejo Nacional de la Resistencia Iraní (NCRI)",
+      "Iran Freedom"
     ],
-    "motivo": "Jornada de huelga y concentración de personal educativo en defensa del derecho a la escolarización sin condiciones para menores no acompañados (MNA) y niños de familias precarias. Exigen el fin de las trabas burocráticas y discriminatorias en los tests CASNAV, la escolarización efectiva de todos los menores y el acceso gratuito al transporte público.",
-    "status": "en_curso",
-    "lat": "48.8490",
-    "lng": "2.3429",
-    "cantidadManifestantes": "",
-    "createdAt": "2026-06-19T04:04:26.000Z",
-    "updatedAt": "2026-06-19T23:00:01Z",
+    "motivo": "Gran manifestación 'Paris Free Iran Rally' con más de 100.000 participantes esperados desde toda Europa. Exigen el fin de las ejecuciones en Irán, democracia y república secular bajo el lema 'No al Shah, No a los mulás'. Respaldada por más de 260 organizaciones internacionales.",
+    "status": "convocada",
+    "lat": 48.8516,
+    "lng": 2.3114,
     "fuentes": [
-      "https://www.sudeducation.org/actualites/19-juin-greve-et-rassemblement-pour-le-droit-a-la-scolarisation-sans-condition/"
-    ]
+      {
+        "nombre": "Iran Freedom",
+        "url": "https://iranfreedom.org/en/iranian-resistance/2026/05/paris-free-iran-rally-expected-to-draw-over-100000-participants-on-20-june-2026/86345/"
+      },
+      {
+        "nombre": "Iran Freedom (19 junio - 260 organizaciones)",
+        "url": "https://iranfreedom.org/en/iranian-resistance/2026/06/more-than-260-international-organizations-endorse-the-paris-free-iran-rally-on-june-20/87343/"
+      }
+    ],
+    "createdAt": "2026-06-20T00:07:38.000Z",
+    "updatedAt": "2026-06-20T00:15:09Z"
   },
   {
-    "id": 240,
+    "id": 268,
     "seccion": "internacional",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "",
-    "fecha": "2026-06-19",
-    "lugar": "París (Línea 7 del Metro)",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "CGT-RATP",
-      "UNSA-RATP",
-      "FO-RATP"
-    ],
-    "motivo": "Huelga de trabajadores de la línea 7 del metro de París por reivindicaciones salariales y de condiciones laborales. La línea 7 es una de las más concurridas de la red parisina y conecta La Courneuve con Villejuif y Mairie d'Ivry.",
-    "status": "en_curso",
-    "lat": "48.8566",
-    "lng": "2.3522",
-    "cantidadManifestantes": "",
-    "createdAt": "2026-06-19T04:04:26.000Z",
-    "updatedAt": "2026-06-19T23:00:01Z",
-    "fuentes": [
-      "https://actu.fr/ile-de-france/paris_75056/transports-une-nouvelle-greve-sur-la-ligne-7-du-metro-parisien-ce-19-juin-2026_6262626.html"
-    ]
-  },
-  {
-    "id": 241,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "17:00",
-    "fecha": "2026-06-19",
-    "lugar": "CABA: Callao y Corrientes → Edificio del Plata (Carlos Pellegrini 251)",
+    "pais": "España (Canarias)",
+    "bandera": "🇮🇨",
+    "hora": "11:00",
+    "fecha": "2026-06-20",
+    "lugar": "Las Palmas de Gran Canaria (Parque del Canódromo, Schamann → Parque de Don Benito)",
     "tipoAccion": "marcha",
     "organizaciones": [
-      "Coordinadora contra los desalojos y por la vivienda"
+      "Derecho al Techo"
     ],
-    "motivo": "Marcha de las Escobas contra la crisis habitacional en CABA. Denuncian aumento del 400% en alquileres, 12.000 personas en situación de calle, ola de desalojos y especulación inmobiliaria. La movilización retoma el símbolo de la histórica Huelga de las Escobas de 1907. Rechazan las políticas habitacionales de Jorge Macri y Javier Milei.",
-    "status": "en_curso",
-    "lat": -34.6037,
-    "lng": -58.3816,
+    "motivo": "Manifestación contra la crisis de la vivienda en Canarias. Denuncian encarecimiento récord de alquileres (subida del 13,6% interanual), desahucios sin alternativa habitacional (1.426 en 2025), gentrificación de barrios y falta de vivienda pública. Colectivos sociales advierten que si no hay cambios, convocarán huelga general.",
+    "status": "convocada",
+    "lat": 28.1086,
+    "lng": -15.4234,
     "fuentes": [
       {
-        "nombre": "Nota al Pie (16 junio)",
-        "url": "https://www.notaalpie.com.ar/2026/06/16/marcha-escobas-desalojos-caba/"
+        "nombre": "Atlántico Hoy",
+        "url": "https://www.atlanticohoy.com/palmas/manifestacion-por-vivienda-en-palmas-gran-canaria-si-no-hay-cambios-planteamos-huelga-general_1563052_102.html"
       },
       {
-        "nombre": "Argentina Indymedia (16 junio)",
-        "url": "https://argentina.indymedia.org/2026/06/16/marcha-de-las-escobas-contra-los-desalojos-y-por-vivienda-digna/"
-      },
-      {
-        "nombre": "Andar Agencia (18 junio)",
-        "url": "https://www.andaragencia.org/organizan-una-marcha-de-las-escobas-contra-los-desalojos-y-por-vivienda-digna/"
-      },
-      {
-        "nombre": "Periódico VAS",
-        "url": "https://www.periodicovas.com/las-escobas-vuelven-a-la-calle/"
-      },
-      {
-        "nombre": "datasurfr.ai",
-        "url": "https://datasurfr.ai/alert/housing-rights-demonstration-scheduled-in-buenos-aires-on-friday-19-june/"
-      },
-      {
-        "nombre": "La Bocina (19 junio - día de la marcha)",
-        "url": "https://labocina.info/2026/06/19/nueva-marcha-de-las-escobas-contra-los-desalojos-y-por-vivienda-digna/"
-      },
-      {
-        "nombre": "La Izquierda Diario (19 junio)",
-        "url": "https://www.laizquierdadiario.pe/Vuelve-la-Marcha-de-las-Escobas-movilizacion-contra-los-desalojos-y-la-especulacion-inmobiliaria-en"
+        "nombre": "El Diario (Canarias Ahora)",
+        "url": "https://www.eldiario.es/canariasahora/sociedad/emergencia-habitacional-canarias-datos-nuevas-movilizaciones-principales-reivindicaciones_1_13308250.html"
       }
     ],
-    "createdAt": "2026-06-19T04:09:32.000Z",
-    "updatedAt": "2026-06-19T23:00:01Z"
+    "createdAt": "2026-06-20T00:07:38.000Z",
+    "updatedAt": "2026-06-20T00:15:09Z"
+  },
+  {
+    "id": 269,
+    "seccion": "internacional",
+    "pais": "España",
+    "bandera": "🇪🇸",
+    "hora": "19:30",
+    "fecha": "2026-06-20",
+    "lugar": "Valencia (Puente de la Exposición → Plaza del Ayuntamiento)",
+    "tipoAccion": "marcha",
+    "organizaciones": [
+      "Lambda (colectivo LGTBIAQ+)"
+    ],
+    "motivo": "Manifestación del Orgullo LGTBIAQ+ de València 2026 bajo el lema 'Pels teus drets, actua!' (¡Por tus derechos, actúa!). Convoca Lambda como acto central del Pride, en el marco de los Gay Games XII que se celebran este año en València.",
+    "status": "convocada",
+    "lat": 39.4699,
+    "lng": -0.3763,
+    "fuentes": [
+      {
+        "nombre": "Levante-EMV",
+        "url": "https://www.levante-emv.com/valencia/2026/06/17/pride-valencia-2026-agenda-actividades-131497344.html"
+      },
+      {
+        "nombre": "Revista Rainbow",
+        "url": "https://revistarainbow.com/en/orgull-lgtbiaq-valencia-20-junio-en/"
+      }
+    ],
+    "createdAt": "2026-06-20T00:07:38.000Z",
+    "updatedAt": "2026-06-20T00:15:09Z"
+  },
+  {
+    "id": 270,
+    "seccion": "internacional",
+    "pais": "España",
+    "bandera": "🇪🇸",
+    "hora": "19:00",
+    "fecha": "2026-06-20",
+    "lugar": "Murcia (Gran Vía)",
+    "tipoAccion": "marcha",
+    "organizaciones": [
+      "No Te Prives (colectivo LGTBIAQ+)"
+    ],
+    "motivo": "Manifestación del Orgullo Murcia 2026 convocada por el colectivo No Te Prives. Marcha reivindicativa por la diversidad sexual y los derechos LGTBIAQ+, plantando cara a la intolerancia mediante la exhibición pública de diversidad y resistencia.",
+    "status": "convocada",
+    "lat": 37.9922,
+    "lng": -1.1307,
+    "fuentes": [
+      {
+        "nombre": "Revista Rainbow",
+        "url": "https://revistarainbow.com/orgullo-murcia-2026-no-te-prives-programacion/"
+      }
+    ],
+    "createdAt": "2026-06-20T00:07:38.000Z",
+    "updatedAt": "2026-06-20T00:15:09Z"
   },
   {
     "id": 242,
@@ -1187,7 +245,7 @@
     "pais": "Argentina",
     "bandera": "🇦🇷",
     "hora": "00:01",
-    "fecha": "2026-06-19",
+    "fecha": "2026-06-20",
     "lugar": "Universidades públicas de todo el país",
     "tipoAccion": "huelga",
     "organizaciones": [
@@ -1197,7 +255,7 @@
       "FEDUN",
       "Frente Sindical de Universidades Nacionales"
     ],
-    "motivo": "Cuarto día del paro nacional de docentes universitarios (16 al 20 de junio). Exigen plena aplicación de la Ley de Financiamiento Universitario (Ley 27.795), apertura de paritarias formales y recomposición salarial de emergencia ante la pérdida del poder adquisitivo superior al 50% desde diciembre de 2023. Rechazaron la oferta oficial de 21,33% de aumento por considerarla insuficiente.",
+    "motivo": "Quinto y último día del paro nacional de docentes universitarios (16 al 20 de junio). Exigen plena aplicación de la Ley de Financiamiento Universitario (Ley 27.795), apertura de paritarias formales y recomposición salarial de emergencia ante la pérdida del poder adquisitivo superior al 50% desde diciembre de 2023. Rechazaron la oferta oficial de 21,33% de aumento por considerarla insuficiente.",
     "status": "en_curso",
     "lat": -34.6037,
     "lng": -58.3816,
@@ -1232,667 +290,82 @@
       }
     ],
     "createdAt": "2026-06-19T04:09:32.000Z",
-    "updatedAt": "2026-06-19T23:00:01Z"
+    "updatedAt": "2026-06-20T00:15:09Z"
   },
   {
-    "id": 243,
+    "id": 271,
     "seccion": "protestas_ar",
     "pais": "Argentina",
     "bandera": "🇦🇷",
-    "hora": "00:01",
-    "fecha": "2026-06-19",
-    "lugar": "Santa Cruz: escuelas públicas de toda la provincia",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "ADOSAC (Asociación Docentes de Santa Cruz)"
-    ],
-    "motivo": "Tercer y último día del paro de 72 horas (17-19 junio) de docentes en Santa Cruz. Exigen aumento salarial, cláusula gatillo, devolución de descuentos por huelgas previas y tratamiento de la propuesta pedagógica. Rechazan ofertas del gobierno provincial por insuficientes. El jueves 18 se realizó la reunión paritaria sin avances.",
-    "status": "en_curso",
-    "lat": -46.0,
-    "lng": -69.5,
-    "fuentes": [
-      {
-        "nombre": "OPI Santa Cruz (15 junio)",
-        "url": "https://www.opisantacruz.com.ar/2026/06/15/adosac-determino-un-paro-por-72-horas/"
-      },
-      {
-        "nombre": "PlusNews (16 junio)",
-        "url": "https://plusnews.com.ar/2026/06/16/paro-docente-adosac-santa-cruz-2/"
-      },
-      {
-        "nombre": "La Opinión Austral (15 junio)",
-        "url": "https://laopinionaustral.com.ar/politica-y-economia/adosac-anuncio-un-nuevo-paro-de-72-horas-y-se-profundiza-el-conflicto-docente-672056.html"
-      }
-    ],
-    "createdAt": "2026-06-19T04:09:32.000Z",
-    "updatedAt": "2026-06-19T23:00:01Z"
-  },
-  {
-    "id": 244,
-    "seccion": "internacional",
-    "pais": "Australia",
-    "bandera": "🇦🇺",
-    "hora": "06:30",
-    "fecha": "2026-06-19",
-    "lugar": "Sídney, NSW (Cope St, Waterloo Estate)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Action for Public Housing",
-      "Save Waterloo Encampment",
-      "Green Left"
-    ],
-    "motivo": "Día 27 de protesta contra la demolición de 750 viviendas públicas en Waterloo. La policía antidisturbios (60 efectivos) desalojó el campamento esta madrugada. Una manifestante arrestada. Exigen cancelación del proyecto de renovación urbana que reemplaza viviendas públicas por desarrollo mixto.",
-    "status": "en_curso",
-    "lat": -33.8965,
-    "lng": 151.21,
-    "fuentes": [
-      {
-        "nombre": "ABC News Australia",
-        "url": "https://www.abc.net.au/news/2026-06-19/arrest-police-clear-waterloo-public-housing-demolition-protest/106817688"
-      },
-      {
-        "nombre": "7NEWS",
-        "url": "https://7news.com.au/news/riot-squad-moves-in-on-public-housing-tenants-protesting-waterloo-demolition-c-22455416"
-      },
-      {
-        "nombre": "Green Left",
-        "url": "https://www.greenleft.org.au/2026/1456/news/homes-nsw-labor-send-riot-police-evict-waterloo-protest-camp"
-      }
-    ],
-    "createdAt": "2026-06-19T09:18:53.000Z",
-    "updatedAt": "2026-06-19T23:00:01Z"
-  },
-  {
-    "id": 245,
-    "seccion": "internacional",
-    "pais": "Myanmar (Birmania)",
-    "bandera": "🇲🇲",
-    "hora": "00:01",
-    "fecha": "2026-06-19",
-    "lugar": "Yangón, Mandalay, Sagaing, Monywa, Hpakant (Myanmar). Londres, Mae Sot (internacional)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "General Strike Coordination Body (GSCB)",
-      "National League for Democracy (NLD)",
-      "Assistance Association for Political Prisoners (AAPP)",
-      "Yangon 4 Brothers"
-    ],
-    "motivo": "Campaña global 'Rose Movement: Roses of Hope' en el 81° cumpleaños de Aung San Suu Kyi. Exigen su liberación incondicional, prueba de vida y liberación de todos los presos políticos. Acciones: distribución de rosas, movimientos relámpago en Yangón, huelga de hambre en Londres. La junta desplegó policías de civil para arrestar participantes.",
-    "status": "en_curso",
-    "lat": 21.9162,
-    "lng": 95.956,
-    "fuentes": [
-      {
-        "nombre": "Mizzima",
-        "url": "https://eng.mizzima.com/2026/06/19/35422"
-      },
-      {
-        "nombre": "DVB",
-        "url": "https://english.dvb.no/myanmar-police-to-arrest-anyone-involved-in-flower-strike-ahead-of-aung-san-suu-kyis-81st-birthday/"
-      },
-      {
-        "nombre": "Mizzima (Statement)",
-        "url": "https://eng.mizzima.com/2026/06/19/35398"
-      }
-    ],
-    "createdAt": "2026-06-19T09:18:53.000Z",
-    "updatedAt": "2026-06-19T23:00:01Z"
-  },
-  {
-    "id": 246,
-    "seccion": "internacional",
-    "pais": "Portugal",
-    "bandera": "🇵🇹",
-    "hora": "00:01",
-    "fecha": "2026-06-19",
-    "lugar": "Escuelas de todo Portugal (Lisboa, Oporto, zonas costeras). Concentración en MECI, Lisboa",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "FENPROF",
-      "S.TO.P.",
-      "SPLIU",
-      "SINAPE"
-    ],
-    "motivo": "Quinto y último día de huelga nacional de educadores de preescolar y profesores de 1er ciclo. Exigen equiparación salarial, reducción de horario lectivo a 22 períodos semanales y mejores condiciones. Más de 138 escuelas cerradas en 62 municipios. Adhesión del 80%.",
-    "status": "en_curso",
-    "lat": 38.7223,
-    "lng": -9.1393,
-    "fuentes": [
-      {
-        "nombre": "The Portugal News",
-        "url": "https://www.theportugalnews.com/news/2026-06-15/more-than-100-schools-closed-in-portugal-due-to-strike/1040521"
-      },
-      {
-        "nombre": "TVI Notícias",
-        "url": "https://tvi.iol.pt/noticias/greve/escolas/greve-nas-escolas-encerra-alguns-estabelecimentos-mas-nao-afeta-exames-nacionais/20260618/6a33c7d0d34edcee7c656b2d"
-      },
-      {
-        "nombre": "The Portugal Brief",
-        "url": "https://theportugalbrief.pt/fenprof-takes-pre-school-educators-and-1st-cycle-teachers-out-for-a-single-teacher-regime-strike-day-public-rally-at-meci-ministry-from-10-00/"
-      }
-    ],
-    "createdAt": "2026-06-19T09:18:53.000Z",
-    "updatedAt": "2026-06-19T23:00:01Z"
-  },
-  {
-    "id": 247,
-    "seccion": "internacional",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "19:00",
-    "fecha": "2026-06-19",
-    "lugar": "Sevilla (Parlamento de Andalucía → Plaza de la Gavidia)",
-    "tipoAccion": "marcha",
-    "organizaciones": [
-      "Asociación Pro Derechos Humanos de Andalucía",
-      "Sindicato de Inquilinas e Inquilinos de Sevilla",
-      "Asamblea por la Vivienda de Sevilla"
-    ],
-    "motivo": "Manifestación por el derecho a la vivienda en Sevilla. Denuncian saturación del mercado, subasta de 102 viviendas de alquiler social a fondos de inversión, acoso inmobiliario en el centro histórico y proliferación de apartamentos turísticos.",
-    "status": "convocada",
-    "lat": 37.3891,
-    "lng": -5.9845,
-    "fuentes": [
-      {
-        "nombre": "Noticias Obreras",
-        "url": "https://noticiasobreras.es/2026/06/sevilla-se-moviliza-por-el-derecho-a-la-vivienda-con-una-marcha-el-19-de-junio/"
-      }
-    ],
-    "createdAt": "2026-06-19T09:18:53.000Z",
-    "updatedAt": "2026-06-19T23:00:01Z"
-  },
-  {
-    "id": 248,
-    "seccion": "internacional",
-    "pais": "Albania",
-    "bandera": "🇦🇱",
-    "hora": "10:00",
-    "fecha": "2026-06-19",
-    "lugar": "Tirana (frente a la Oficina del Primer Ministro y Parlamento)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Partido Democrático (PD)",
-      "Sali Berisha"
-    ],
-    "motivo": "Protesta de la oposición albanesa (PD de Sali Berisha) contra el gobierno de Rama. Exigen levantamiento de inmunidad de la Viceprimera Ministra Belinda Balluku y creación de gobierno interino. Manifestantes lanzaron cócteles molotov contra la Oficina del Primer Ministro. Policía respondió con cañones de agua.",
-    "status": "en_curso",
-    "lat": 41.3275,
-    "lng": 19.8187,
-    "fuentes": [
-      {
-        "nombre": "Panorama Albania",
-        "url": "https://en.panorama.com.al/live-opozita-ne-proteste-berisha-perkrahe-demokrateve-para-kryeministrise/"
-      }
-    ],
-    "createdAt": "2026-06-19T09:18:53.000Z",
-    "updatedAt": "2026-06-19T23:00:01Z"
-  },
-  {
-    "id": 250,
-    "seccion": "internacional",
-    "pais": "Reino Unido",
-    "bandera": "🇬🇧",
-    "hora": "17:30",
-    "fecha": "2026-06-19",
-    "lugar": "Londres (cerca de Swiss Cottage Tube, residencia de la embajadora israelí)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "International Jewish Anti-Zionist Network (IJAN-UK)",
-      "Jewish Network for Palestine (JNP)"
-    ],
-    "motivo": "Protesta semanal exigiendo la expulsión de la embajadora israelí Tzipi Hotevelli por incitar al genocidio. Concentración pacífica con micrófono abierto. Forma parte de la campaña internacional contra la guerra en Gaza y las políticas de Israel.",
-    "status": "convocada",
-    "lat": 51.5435,
-    "lng": -0.1744,
-    "fuentes": [
-      {
-        "nombre": "World BEYOND War",
-        "url": "https://events.worldbeyondwar.org/event/weekly-rally-expel-the-israeli-ambassador-tzipi-hotevely-from-the-uk-for-inciting-genocide-2/2026-06-19/"
-      }
-    ],
-    "createdAt": "2026-06-19T09:18:53.000Z",
-    "updatedAt": "2026-06-19T23:00:01Z"
-  },
-  {
-    "id": 251,
-    "seccion": "internacional",
-    "pais": "Italia",
-    "bandera": "🇮🇹",
-    "hora": "21:00",
-    "fecha": "2026-06-19",
-    "lugar": "Toda Italia: redes nacionales y regionales de tren, autobuses urbanos y metros. Especial impacto en Roma, Milán, Florencia, Bolonia (monorraíl Marconi Express suspendido el 20 junio)",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "Múltiples sindicatos (convocatoria de huelga general)"
-    ],
-    "motivo": "Huelga general nacional de 24 horas desde las 21:00 del 19 de junio hasta las 21:00 del 20 de junio. Afecta a trenes nacionales y regionales, autobuses urbanos y sistemas de metro en toda Italia. Los servicios de alta velocidad (Frecciarossa, Italo) tienen prioridad legal y funcionan con mayor fiabilidad. Ventanas de servicio garantizado: 06:00-09:00 y 18:00-21:00. El monorraíl Marconi Express del aeropuerto de Bolonia permanecerá suspendido completamente el 20 de junio sin ventanas garantizadas.",
-    "status": "convocada",
-    "lat": 41.8719,
-    "lng": 12.5674,
-    "fuentes": [
-      {
-        "nombre": "Dining and Cooking - Italy Train and Airport Strikes June 2026",
-        "url": "https://www.diningandcooking.com/2639090/italy-train-and-airport-strikes-june-2026-dates-and-travel-advice/"
-      },
-      {
-        "nombre": "Summer in Italy - Italy Transport Strikes",
-        "url": "https://www.summerinitaly.com/traveltips/transport-strikes-in-italy"
-      }
-    ],
-    "createdAt": "2026-06-19T13:01:21.000Z",
-    "updatedAt": "2026-06-19T23:00:01Z"
-  },
-  {
-    "id": 252,
-    "seccion": "internacional",
-    "pais": "Bangladesh",
-    "bandera": "🇧🇩",
-    "hora": "15:00",
-    "fecha": "2026-06-19",
-    "lugar": "Dhaka (intersección Shahbagh). También protesta matinal frente al National Press Club y rueda de prensa en Dhaka Reporters' Unity",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Bangladesh Student Unity Council",
-      "Bangladesh Hindu Buddhist Christian Unity Council",
-      "Minority Rights Movement",
-      "Bangladesh National Hindu Grand Alliance",
-      "Hindu Mohajote"
-    ],
-    "motivo": "Masiva protesta de estudiantes hindúes en Dhaka tras la profanación de una estatua de Lord Ram en Gaibandha (una turba colocó un zapato en la estatua). También protestan por la paralización de la construcción de una estatua de Lord Ram de 81 pies en Palashbari tras amenazas de grupos islamistas radicales. Exigen acción gubernamental y protección de la comunidad hindú. El gobierno recibió un ultimátum de 72 horas que expiró.",
-    "status": "convocada",
-    "lat": 23.7274,
-    "lng": 90.4106,
-    "fuentes": [
-      {
-        "nombre": "Malaysia Sun / ANI (18 junio)",
-        "url": "https://www.malaysiasun.com/news/279132340/bangladeshi-hindu-students-to-stage-massive-protest-against-alleged-insult-to-lord-ram-on-june-19"
-      }
-    ],
-    "createdAt": "2026-06-19T13:01:21.000Z",
-    "updatedAt": "2026-06-19T23:00:01Z"
-  },
-  {
-    "id": 253,
-    "seccion": "internacional",
-    "pais": "Sudáfrica",
-    "bandera": "🇿🇦",
     "hora": "09:00",
-    "fecha": "2026-06-19",
-    "lugar": "Las 9 provincias de Sudáfrica: Gauteng (Johannesburgo, Pretoria), Cabo Occidental (Ciudad del Cabo), KwaZulu-Natal (Durban), Cabo Oriental (Puerto Elizabeth), Estado Libre (Bloemfontein), Limpopo, Mpumalanga, Noroeste, Cabo Septentrional",
+    "fecha": "2026-06-20",
+    "lugar": "Rosario, Santa Fe: Plaza Pringles (Córdoba y Paraguay) → Monumento Nacional a la Bandera",
     "tipoAccion": "protesta",
     "organizaciones": [
-      "COSATU (Congress of South African Trade Unions)"
-    ],
-    "motivo": "Protesta socioeconómica nacional protegida bajo la Sección 77 de la Ley de Relaciones Laborales. COSATU exige medidas contra el aumento del costo de vida, prohibición de despidos con fines de lucro, y una cumbre de empleo jurídicamente vinculante. La protesta abarca los 9 provincias con marchas y piquetes de 09:00 a 16:30. El aviso fue presentado originalmente en agosto de 2017 y formalmente activado el 3 de junio de 2026.",
-    "status": "en_curso",
-    "lat": -28.5,
-    "lng": 25.0,
-    "fuentes": [
-      {
-        "nombre": "Global Business Solutions - Guía para empleadores",
-        "url": "https://www.globalbusiness.co.za/post/cosatu-national-strike-19-june-2026-employer-guide"
-      },
-      {
-        "nombre": "SACCAWU - COSATU's Call to Action",
-        "url": "https://saccawu.org.za/cosatus-call-to-action-addressing-the-rising-costs-of-living-in-south-africa/"
-      },
-      {
-        "nombre": "IOL Business Report",
-        "url": "https://iol.co.za/business-report/economy/2026-06-15-cosatus-call-to-action-addressing-the-rising-costs-of-living-in-south-africa"
-      }
-    ],
-    "createdAt": "2026-06-19T16:10:20.000Z",
-    "updatedAt": "2026-06-19T23:00:01Z"
-  },
-  {
-    "id": 254,
-    "seccion": "internacional",
-    "pais": "Martinica (Francia)",
-    "bandera": "🇲🇶",
-    "hora": "07:00",
-    "fecha": "2026-06-19",
-    "lugar": "Fort-de-France, Martinica (escuelas, guarderías y cocina municipal)",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "STTM-FA-FPT (Syndicat des Travailleurs Territoriaux de Martinique)"
-    ],
-    "motivo": "Reconducción de la huelga de trabajadores territoriales en Fort-de-France por problemas de gestión de RRHH e inacción municipal. El movimiento afecta a escuelas, guarderías y la cocina municipal. El sindicato denuncia que, pese a un protocolo de acuerdo que resolvió 10 de 12 puntos, la municipalidad no ha implementado los compromisos restantes. Exigen mejoras en el diálogo social y auditoría organizacional.",
-    "status": "en_curso",
-    "lat": 14.6037,
-    "lng": -61.0734,
-    "fuentes": [
-      {
-        "nombre": "RCI Martinique",
-        "url": "https://rci.fm/martinique/infos/Social/Greve-du-STTM-FA-FPT-le-mouvement-du-syndicat-reconduit-ce-vendredi-19-juin-2026"
-      }
-    ],
-    "createdAt": "2026-06-19T18:18:18.000Z",
-    "updatedAt": "2026-06-19T23:00:01Z"
-  },
-  {
-    "id": 255,
-    "seccion": "internacional",
-    "pais": "Filipinas",
-    "bandera": "🇵🇭",
-    "hora": "13:00",
-    "fecha": "2026-06-19",
-    "lugar": "Ciudad Quezón, Manila (Ateneo de Manila University, campus Loyola, Zen Garden)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Sanggunian ng mga Mag-aaral (Student Council)",
-      "Ateneo Seniors' Alliance",
-      "Faculty and staff of Ateneo de Manila University"
-    ],
-    "motivo": "Mass walkout de estudiantes, profesores y personal del Ateneo de Manila University exigiendo verdad, justicia y rendición de cuentas tras la muerte por ahogamiento de los jugadores de baloncesto Rene Baterbonia y Divine Adili durante una actividad de team building en Dipaculao, Aurora el 8 de junio. La clase graduanda usó brazaletes negros durante la ceremonia de graduación. Exigen transparencia de la administración universitaria y reformas.",
-    "status": "en_curso",
-    "lat": 14.6396,
-    "lng": 121.077,
-    "fuentes": [
-      {
-        "nombre": "Philstar (19 junio)",
-        "url": "https://www.philstar.com/headlines/2026/06/19/2536371/ateneo-do-better-students-faculty-walk-out-demand-justice-baterbonia-adili"
-      },
-      {
-        "nombre": "Rappler (19 junio)",
-        "url": "https://www.rappler.com/philippines/metro-manila/photos-ateneo-de-manila-graduation-black-friday-protest-adili-baterbonia-deaths/"
-      },
-      {
-        "nombre": "The Manila Times (19 junio)",
-        "url": "https://www.manilatimes.net/2026/06/19/videos/watch-ateneo-students-walk-out-in-protest-over-athletes-deaths/2369036"
-      }
-    ],
-    "createdAt": "2026-06-19T20:13:56.000Z",
-    "updatedAt": "2026-06-19T23:00:01Z"
-  },
-  {
-    "id": 256,
-    "seccion": "internacional",
-    "pais": "Alemania",
-    "bandera": "🇩🇪",
-    "hora": "00:01",
-    "fecha": "2026-06-19",
-    "lugar": "Berlín y Brandeburgo (concentración en Wittenbergplatz, Berlín)",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "Verdi (Vereinte Dienstleistungsgewerkschaft)"
-    ],
-    "motivo": "Huelgas de advertencia (Warnstreiks) de trabajadores del comercio minorista y mayorista en Berlín y Brandeburgo. Verdi exige aumento salarial del 7% (mínimo 222€/mes), salario mínimo por hora de 14,90€ y mejores condiciones laborales. Concentración con acción musical de protesta en Wittenbergplatz para aumentar presión antes de la próxima ronda de negociación colectiva.",
-    "status": "en_curso",
-    "lat": 52.5016,
-    "lng": 13.3433,
-    "fuentes": [
-      {
-        "nombre": "Retail-News (19 junio)",
-        "url": "https://retail-news.de/verdi-warnstreik-berlin-brandenburg-handel-2026/"
-      }
-    ],
-    "createdAt": "2026-06-19T20:13:56.000Z",
-    "updatedAt": "2026-06-19T23:00:01Z"
-  },
-  {
-    "id": 257,
-    "seccion": "internacional",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "06:00",
-    "fecha": "2026-06-19",
-    "lugar": "Alicante y Valencia (tranvías y trenes de Metrovalencia y TRAM d'Alacant)",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "SEMAF (Sindicato Español de Maquinistas Ferroviarios)",
-      "Sindicato Ferroviario Independiente",
-      "Metrovalencia"
-    ],
-    "motivo": "Huelga intermitente de maquinistas de tranvía y ferrocarril en Alicante y Valencia del 19 al 30 de junio (días 19, 24, 27). Exigen mejoras salariales, condiciones laborales y seguridad operativa. Afecta a servicios de Metrovalencia y TRAM d'Alacant.",
-    "status": "en_curso",
-    "lat": "39.4699",
-    "lng": "-0.3763",
-    "fuentes": [
-      {
-        "nombre": "SafeAbroad",
-        "url": "https://safeabroad.com/advisories/staggered-rail-driver-strikes-will-take-place-in-alicante-and-valencia-spain-between-june-19-and-june-30-expect-travel-delays/"
-      }
-    ],
-    "createdAt": "2026-06-19T21:43:13.000Z",
-    "updatedAt": "2026-06-19T23:00:01Z"
-  },
-  {
-    "id": 258,
-    "seccion": "internacional",
-    "pais": "Rumanía",
-    "bandera": "🇷🇴",
-    "hora": "19:00",
-    "fecha": "2026-06-19",
-    "lugar": "Bucarest (Plaza Victoria, frente al Palacio Victoria)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Inițiativa România",
-      "Asociația MEA",
-      "Corupția Ucide",
-      "Rezistența"
-    ],
-    "motivo": "Protesta ciudadana 'E nevoie de apărăm democrația' (Necesitamos defender la democracia) contra el estancamiento sistémico y la corrupción judicial. Cientos de personas se congregaron en la Plaza Victoria tras decisiones judiciales del jueves que los organizadores consideraron favorables a intereses gubernamentales. Exigen independencia judicial y fin de la corrupción.",
-    "status": "en_curso",
-    "lat": 44.4268,
-    "lng": 26.1025,
-    "fuentes": [
-      {
-        "nombre": "Newsy Today",
-        "url": "https://www.newsy-today.com/protest-in-victory-square-romanians-rally-against-systemic-stagnation/"
-      }
-    ],
-    "createdAt": "2026-06-19T22:54:40.000Z",
-    "updatedAt": "2026-06-19T23:00:01Z"
-  },
-  {
-    "id": 259,
-    "seccion": "internacional",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "08:30",
-    "fecha": "2026-06-19",
-    "lugar": "Dijon y toda Côte-d'Or (concentración en Canopé)",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "Intersyndicale Éducation de Côte-d'Or"
-    ],
-    "motivo": "Huelga del personal educativo contra los ajustes de la mapa escolar que suprimen 164 puestos en la academia (81 en primer grado), con 63 cierres de clases frente a solo 23 aperturas. Denuncian que Francia tiene ya las clases más masificadas de Europa y rechazan el argumento demográfico para justificar los cierres.",
-    "status": "en_curso",
-    "lat": 47.322,
-    "lng": 5.0415,
-    "fuentes": [
-      {
-        "nombre": "Le Bien Public",
-        "url": "https://www.bienpublic.com/education/2026/06/19/ils-manifestent-contre-les-ajustements-de-la-carte-scolaire-du-1er-degre"
-      }
-    ],
-    "createdAt": "2026-06-19T22:54:40.000Z",
-    "updatedAt": "2026-06-19T23:00:01Z"
-  },
-  {
-    "id": 260,
-    "seccion": "internacional",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "00:01",
-    "fecha": "2026-06-19",
-    "lugar": "Brest (Tribunal Judicial)",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "Barreau de Brest"
-    ],
-    "motivo": "Jornada de 'justicia muerta' en el tribunal de Brest. Abogados en huelga contra el proyecto de ley Sure (Sanction utile, rapide et effective) del Ministro de Justicia Gérald Darmanin. Ninguna audiencia fue asegurada. El texto será examinado en la Asamblea Nacional el 29 de junio.",
-    "status": "en_curso",
-    "lat": 48.3904,
-    "lng": -4.4861,
-    "fuentes": [
-      {
-        "nombre": "Le Télégramme",
-        "url": "https://www.letelegramme.fr/finistere/brest-29200/reforme-de-la-justice-criminelle-journee-morte-au-tribunal-de-brest-aucune-audience-assuree-ce-vendredi-7066906.php"
-      }
-    ],
-    "createdAt": "2026-06-19T22:54:40.000Z",
-    "updatedAt": "2026-06-19T23:00:01Z"
-  },
-  {
-    "id": 261,
-    "seccion": "internacional",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "14:00",
-    "fecha": "2026-06-19",
-    "lugar": "Caudan, Bretaña (Fonderie de Bretagne)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "La France Insoumise",
-      "CGT",
-      "FSU 56"
-    ],
-    "motivo": "Unos 200 manifestantes (obreros, sindicalistas y concejales) en apoyo a los 245 empleados de la Fonderie de Bretagne, propiedad de Europlasma, grupo en dificultades financieras con filiales en concurso de acreedores y liquidación. Denuncian la pérdida de un 'fleón industrial' y empleos amenazados en la cuenca de Lorient.",
-    "status": "en_curso",
-    "lat": 47.8085,
-    "lng": -3.3405,
-    "fuentes": [
-      {
-        "nombre": "Le Télégramme",
-        "url": "https://www.letelegramme.fr/morbihan/lorient-56100/pres-de-200-manifestants-reunis-pour-soutenir-la-fonderie-de-bretagne-a-caudan-7067117.php"
-      }
-    ],
-    "createdAt": "2026-06-19T22:54:40.000Z",
-    "updatedAt": "2026-06-19T23:00:01Z"
-  },
-  {
-    "id": 262,
-    "seccion": "internacional",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "00:01",
-    "fecha": "2026-06-19",
-    "lugar": "Lyon (Cocina central de los Hospices Civils de Lyon)",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "Trabajadores de la Unité Centrale de Production Alimentaire (HCL)"
-    ],
-    "motivo": "Huelga de trabajadores de la cocina central de los Hospices Civils de Lyon por reivindicaciones laborales y salariales. La huelga afecta a la producción de alimentos para los hospitales públicos de la ciudad.",
-    "status": "en_curso",
-    "lat": 45.764,
-    "lng": 4.8357,
-    "fuentes": [
-      {
-        "nombre": "Strike Tracker",
-        "url": "https://striketracker.app/strikes-in-france"
-      }
-    ],
-    "createdAt": "2026-06-19T22:54:40.000Z",
-    "updatedAt": "2026-06-19T23:00:01Z"
-  },
-  {
-    "id": 263,
-    "seccion": "internacional",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "00:01",
-    "fecha": "2026-06-19",
-    "lugar": "Saint-Nazaire, Loire-Atlantique (plataforma de distribución de La Poste)",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "CGT",
-      "Trabajadores de La Poste Saint-Nazaire"
-    ],
-    "motivo": "Quinto día de huelga de trabajadores de La Poste en Saint-Nazaire contra la supresión de rutas de reparto (efectiva desde julio). Exigen más medios humanos. La huelga continuará al menos hasta el 22 de junio. 17,5% de agentes en huelga al inicio, 8,6% en esta jornada. La dirección asegura que todas las rutas de paquetería están cubiertas.",
-    "status": "en_curso",
-    "lat": 47.2756,
-    "lng": -2.2088,
-    "fuentes": [
-      {
-        "nombre": "Ouest-France",
-        "url": "https://www.ouest-france.fr/economie/entreprises/la-poste/a-la-poste-de-saint-nazaire-la-greve-est-reconduite-jusquau-lundi-22-juin-de6ce0b6-6bff-11f1-bda1-40414195e76f"
-      }
-    ],
-    "createdAt": "2026-06-19T22:54:40.000Z",
-    "updatedAt": "2026-06-19T23:00:01Z"
-  },
-  {
-    "id": 264,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "08:00",
-    "fecha": "2026-06-19",
-    "lugar": "Todo el país: estaciones de tren, subte (CABA), aeropuertos",
-    "tipoAccion": "asamblea",
-    "organizaciones": [
+      "ATE (Asociación Trabajadores del Estado)",
       "CATT (Confederación Argentina de Trabajadores del Transporte)",
-      "La Fraternidad",
-      "Aeronavegantes",
-      "AGTSyP (Subte)"
+      "CCC (Corriente Clasista y Combativa)",
+      "Movimiento Evita",
+      "Sindicato de Aceiteros de Rosario",
+      "Multisectorial sindical"
     ],
-    "motivo": "Asambleas y paralización total de trenes, subtes y vuelos comerciales en todo el país durante la mañana (trenes 4-12, subtes 8-10, vuelos 4-12) en rechazo al Impuesto a las Ganancias aprobado en el paquete fiscal. La CATT impulsó la medida que afectó a más de 1,3 millones de pasajeros de tren. Exigen elevación del piso de Ganancias, reapertura de paritarias, y rechazan reformas que atentan contra la actividad sindical.",
-    "status": "concluida",
-    "lat": -34.6037,
-    "lng": -58.3816,
-    "fuentes": [
-      {
-        "nombre": "La Letra Chica (19 junio - CATT asambleas)",
-        "url": "https://laletrachica.com.ar/nota/19993/los-trabajadores-le-ponen-puntos-suspensivos-al-servicio-de-trenes-subtes-y-aviones/"
-      },
-      {
-        "nombre": "La Letra Chica (19 junio - paro trenes La Fraternidad)",
-        "url": "https://laletrachica.com.ar/nota/19367/se-termino-la-paciencia-rige-el-paro-de-trenes-en-todo-el-pais/"
-      }
-    ],
-    "createdAt": "2026-06-19T22:56:50.000Z",
-    "updatedAt": "2026-06-19T23:00:01Z"
-  },
-  {
-    "id": 265,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "09:00",
-    "fecha": "2026-06-19",
-    "lugar": "Rosario, Santa Fe (Puente Pueyrredón)",
-    "tipoAccion": "corte de ruta",
-    "organizaciones": [
-      "UTA (Unión Tranviarios Automotor)"
-    ],
-    "motivo": "Corte parcial del Puente Pueyrredón en Rosario por cerca de un centenar de choferes de colectivos de la UTA. Reclaman emergencia salarial en disconformidad con el último acuerdo paritario firmado por la cúpula del sindicato con las cámaras empresarias. Hubo incidentes con efectivos de la Prefectura Naval y la Policía Federal que intentaban despejar los carriles bajo lluvia torrencial. La protesta se inició a las 9 de la mañana con previsiones de repetirse de 16 a 18.",
-    "status": "concluida",
+    "motivo": "Protesta multisectorial 'Milei persona no grata' contra la visita del presidente Javier Milei a Rosario por el Día de la Bandera. Concentración desde las 9 en Plaza Pringles y marcha al Monumento a la Bandera. Rechazan políticas de ajuste, reforma laboral, despidos, pérdida de salarios y lo que califican como entrega de la soberanía. Convocan ATE, CATT, gremios del transporte, aceiteros, movimientos sociales y partidos políticos. La CGT Rosario también anticipó masivo repudio.",
+    "status": "en_curso",
     "lat": -32.9468,
     "lng": -60.6509,
     "fuentes": [
       {
-        "nombre": "Con La Gente Noticias (19 junio)",
-        "url": "https://conlagentenoticias.com/protesta-salarial-de-choferes-de-colectivos-en-puente-pueyrredon-incidentes-con-la-prefectura/"
+        "nombre": "Perfil (19 junio)",
+        "url": "https://www.perfil.com/noticias/politica/ate-prepara-una-protesta-en-rosario-ante-la-visita-de-milei-por-el-dia-de-la-bandera.phtml"
+      },
+      {
+        "nombre": "Aviones.com (18 junio)",
+        "url": "https://aviones.com/gremios-y-organizaciones-sociales-preparan-una-marcha-contra-milei-en-rosario-durante-el-dia-de-la-bandera/"
+      },
+      {
+        "nombre": "Conclusión (16 junio)",
+        "url": "https://www.conclusion.com.ar/la-ciudad/el-contra-acto-del-20-de-junio-preparan-una-movilizacion-para-repudiar-la-visita-de-milei-a-rosario/06/2026/"
+      },
+      {
+        "nombre": "La Capital (18 junio)",
+        "url": "https://www.lacapital.com.ar/politica/movilizacion-multisectorial-rechazo-la-visita-milei-al-monumento-la-bandera-n10265191.html"
+      },
+      {
+        "nombre": "Resumen Latinoamericano (19 junio)",
+        "url": "https://www.resumenlatinoamericano.org/2026/06/19/argentina-dia-de-la-bandera-organizan-un-repudio-contra-javier-milei-durante-el-acto-oficial/"
       }
     ],
-    "createdAt": "2026-06-19T22:56:50.000Z",
-    "updatedAt": "2026-06-19T23:00:01Z"
+    "createdAt": "2026-06-20T00:12:21.000Z",
+    "updatedAt": "2026-06-20T00:15:09Z"
   },
   {
-    "id": 266,
+    "id": 272,
     "seccion": "protestas_ar",
     "pais": "Argentina",
     "bandera": "🇦🇷",
-    "hora": "11:00",
-    "fecha": "2026-06-19",
-    "lugar": "CABA (Ministerio de Economía)",
-    "tipoAccion": "protesta",
+    "hora": "15:00",
+    "fecha": "2026-06-20",
+    "lugar": "CABA: Parque Lezama",
+    "tipoAccion": "banderazo",
     "organizaciones": [
-      "Intendentes bonaerenses",
-      "Ministerio de Infraestructura bonaerense (Gabriel Katopodis)"
+      "Partido Justicialista (PJ) Nacional",
+      "Más de 20 partidos políticos y organizaciones sociales"
     ],
-    "motivo": "Protesta de intendentes bonaerenses encabezados por el ministro de Infraestructura Gabriel Katopodis en el Ministerio de Economía contra el aumento del 542,7% en combustibles desde el inicio de la gestión Milei. Exigen que se retrotraigan los precios al 1 de marzo. Denuncian que el Gobierno se apropió de 6,1 billones de pesos del impuesto a los combustibles que debían destinarse a mantenimiento vial.",
-    "status": "concluida",
-    "lat": -34.6037,
-    "lng": -58.3816,
+    "motivo": "Banderazo por Cristina libre y contra la proscripción. A un año de la prisión domiciliaria de Cristina Fernández de Kirchner por la Causa Vialidad, el PJ Nacional convoca a concentrarse en Parque Lezama a las 15 hs para exigir su libertad y denunciar proscripción política. Se espera que la exmandataria brinde un discurso transmitido por altoparlantes.",
+    "status": "convocada",
+    "lat": -34.6274,
+    "lng": -58.3698,
     "fuentes": [
       {
-        "nombre": "Primera Página (19 junio)",
-        "url": "https://primerapagina.info/nota/21210/contra-la-estafa-de-la-nafta-intendentes-bonaerenses-reclamaron-por-el-aumento-del-540-del-servicio-en-la-era-milei/"
+        "nombre": "Agencia del Plata (9 junio)",
+        "url": "https://agenciadelplata.info/2026/06/09/el-pj-se-planta-en-la-calle-banderazo-masivo-el-20-de-junio-en-parque-lezama-para-exigir-la-libertad-de-cristina/"
+      },
+      {
+        "nombre": "El Eco (17 junio)",
+        "url": "https://www.eleco.com.ar/politica/el-pj-convoco-a-un-banderazo-en-parque-lezama-para-pedir-la-liberacion-de-cristina-kirchner"
       }
     ],
-    "createdAt": "2026-06-19T22:56:50.000Z",
-    "updatedAt": "2026-06-19T23:00:01Z"
+    "createdAt": "2026-06-20T00:12:21.000Z",
+    "updatedAt": "2026-06-20T00:15:09Z"
   }
 ]
