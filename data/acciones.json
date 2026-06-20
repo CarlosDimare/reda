@@ -34,7 +34,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-20T00:15:09Z"
+    "updatedAt": "2026-06-20T04:55:50Z"
   },
   {
     "id": 20,
@@ -95,7 +95,7 @@
       }
     ],
     "createdAt": "2026-06-11T15:03:53.000Z",
-    "updatedAt": "2026-06-20T00:15:09Z"
+    "updatedAt": "2026-06-20T04:55:50Z"
   },
   {
     "id": 251,
@@ -124,7 +124,7 @@
       }
     ],
     "createdAt": "2026-06-19T13:01:21.000Z",
-    "updatedAt": "2026-06-20T00:15:09Z"
+    "updatedAt": "2026-06-20T04:55:50Z"
   },
   {
     "id": 267,
@@ -154,7 +154,7 @@
       }
     ],
     "createdAt": "2026-06-20T00:07:38.000Z",
-    "updatedAt": "2026-06-20T00:15:09Z"
+    "updatedAt": "2026-06-20T04:55:50Z"
   },
   {
     "id": 268,
@@ -183,7 +183,7 @@
       }
     ],
     "createdAt": "2026-06-20T00:07:38.000Z",
-    "updatedAt": "2026-06-20T00:15:09Z"
+    "updatedAt": "2026-06-20T04:55:50Z"
   },
   {
     "id": 269,
@@ -212,7 +212,7 @@
       }
     ],
     "createdAt": "2026-06-20T00:07:38.000Z",
-    "updatedAt": "2026-06-20T00:15:09Z"
+    "updatedAt": "2026-06-20T04:55:50Z"
   },
   {
     "id": 270,
@@ -237,7 +237,178 @@
       }
     ],
     "createdAt": "2026-06-20T00:07:38.000Z",
-    "updatedAt": "2026-06-20T00:15:09Z"
+    "updatedAt": "2026-06-20T04:55:50Z"
+  },
+  {
+    "id": 273,
+    "seccion": "internacional",
+    "pais": "India",
+    "bandera": "🇮🇳",
+    "hora": "13:00",
+    "fecha": "2026-06-20",
+    "lugar": "Nueva Delhi (Jantar Mantar)",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Cockroach Janta Party (CJP)"
+    ],
+    "motivo": "Segunda protesta del Cockroach Janta Party en Jantar Mantar. Exigen la renuncia del ministro de Educación Dharmendra Pradhan por filtraciones en exámenes nacionales y suicidios de estudiantes. Manifestantes llevan platos y cucharas (thali-chamach) como símbolo, evocando la campaña de Modi durante la pandemia. El gobierno desplegó 270 cámaras corporales y múltiples barricadas.",
+    "status": "convocada",
+    "lat": 28.6271,
+    "lng": 77.2166,
+    "fuentes": [
+      {
+        "nombre": "The Economic Times (20 junio)",
+        "url": "https://economictimes.indiatimes.com/news/india/heavy-security-in-place-as-cockroach-janta-party-stages-second-protest-at-jantar-mantar/articleshow/131870232.cms"
+      },
+      {
+        "nombre": "Hindustan Times (20 junio)",
+        "url": "https://www.hindustantimes.com/india-news/cjp-protest-delhi-live-updates-abhijeet-dipke-jantar-mantar-cockroach-janta-party-sonam-wangchuk-dharmendra-pradhan-neet-101781924276120.html"
+      },
+      {
+        "nombre": "The New Indian Express (20 junio)",
+        "url": "https://www.newindianexpress.com/india/2026/Jun/20/bring-a-thali-and-chamach-cjp-revives-covid-era-imagery-for-exam-leak-protest-in-jantar-mantar"
+      }
+    ],
+    "createdAt": "2026-06-20T04:50:29.000Z",
+    "updatedAt": "2026-06-20T04:55:50Z"
+  },
+  {
+    "id": 274,
+    "seccion": "internacional",
+    "pais": "Alemania",
+    "bandera": "🇩🇪",
+    "hora": "14:00",
+    "fecha": "2026-06-20",
+    "lugar": "Hamburgo (Hansaplatz)",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Chaos Computer Club (CCC) Hamburg",
+      "Überwachungsfrei.eu"
+    ],
+    "motivo": "Protesta contra el avance de leyes de vigilancia en Alemania: reconocimiento facial biométrico, análisis masivo de datos, recolección de datos de movilidad, almacenamiento preventivo y control de chats. El Hansaplatz es símbolo de vigilancia estatal por ser sitio de experimentación con IA de vigilancia conductual desde 2023.",
+    "status": "convocada",
+    "lat": 53.5533,
+    "lng": 10.0066,
+    "fuentes": [
+      {
+        "nombre": "CCC Hamburg (20 junio)",
+        "url": "https://hamburg.ccc.de/blog/2026/06/20/demo-aufruf-%C3%BCberwachungsfrei-in-hamburg/"
+      },
+      {
+        "nombre": "Überwachungsfrei.eu",
+        "url": "https://ueberwachungsfrei.eu/"
+      }
+    ],
+    "createdAt": "2026-06-20T04:50:29.000Z",
+    "updatedAt": "2026-06-20T04:55:50Z"
+  },
+  {
+    "id": 275,
+    "seccion": "internacional",
+    "pais": "Alemania",
+    "bandera": "🇩🇪",
+    "hora": "16:30",
+    "fecha": "2026-06-20",
+    "lugar": "Leipzig (Connewitzer Kreuz → Wilhelm-Leuschner-Platz)",
+    "tipoAccion": "marcha",
+    "organizaciones": [
+      "Copwatch Leipzig",
+      "Leipzig nimmt Platz",
+      "Rechtshilfekollektiv Chemie Leipzig"
+    ],
+    "motivo": "Manifestación contra el endurecimiento de la Ley Policial de Sajonia (sächsPVDG), que amplía vigilancia facial, otorga más poder policial y permite perfiles de conducta basados en IA. Denuncian retroceso del Estado de derecho y autoritarización de políticas de seguridad.",
+    "status": "convocada",
+    "lat": 51.319,
+    "lng": 12.3719,
+    "fuentes": [
+      {
+        "nombre": "Copwatch Leipzig",
+        "url": "https://www.copwatchleipzig.org/20-juni-2026-demo-gegen-das-sachsische-polizeigesetz/"
+      },
+      {
+        "nombre": "netzpolitik.org (18 junio)",
+        "url": "https://netzpolitik.org/2026/sachsen-vielzahl-von-protesten-gegen-polizeigesetz/"
+      },
+      {
+        "nombre": "PLANLOS Leipzig",
+        "url": "https://www.planlos-leipzig.org/events/20-juni-2026-demo-gegen-das-saechsische-polizeigesetz/"
+      }
+    ],
+    "createdAt": "2026-06-20T04:50:29.000Z",
+    "updatedAt": "2026-06-20T04:55:50Z"
+  },
+  {
+    "id": 276,
+    "seccion": "internacional",
+    "pais": "Túnez",
+    "bandera": "🇹🇳",
+    "hora": "17:30",
+    "fecha": "2026-06-20",
+    "lugar": "Túnez (Plaza Nelson Mandela)",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Sociedad Civil Tunecina (organizaciones anti-racismo)",
+      "Mnemty"
+    ],
+    "motivo": "Manifestación contra el racismo y la discriminación bajo el lema 'Sí a la solidaridad, no al racismo'. Denuncian el aumento del discurso de odio, la criminalización de activistas anti-racismo y la detención de Saadia Mosbah (condenada a 8 años). Exigen fin de la impunidad ante agresiones a migrantes subsaharianos y ciudadanos negros tunecinos.",
+    "status": "convocada",
+    "lat": 36.7986,
+    "lng": 10.1815,
+    "fuentes": [
+      {
+        "nombre": "Tunisian Solidarity (convocatoria)",
+        "url": "https://tunisiansolidarity.org/en/a-call-for-solidarity-and-against-racism-and-hate-speech/"
+      },
+      {
+        "nombre": "Infobae / EFE (agenda 20 junio)",
+        "url": "https://www.infobae.com/america/agencias/2026/06/20/sabado-20-de-junio-de-2026-0200-gmt/"
+      },
+      {
+        "nombre": "Al-Dustour News (convocatoria 15 junio)",
+        "url": "https://dstornews.com/the-news/arab-news/466296/"
+      }
+    ],
+    "createdAt": "2026-06-20T04:50:29.000Z",
+    "updatedAt": "2026-06-20T04:55:50Z"
+  },
+  {
+    "id": 277,
+    "seccion": "internacional",
+    "pais": "Reino Unido",
+    "bandera": "🇬🇧",
+    "hora": "12:00",
+    "fecha": "2026-06-20",
+    "lugar": "Londres (Central Hall Westminster)",
+    "tipoAccion": "mitin",
+    "organizaciones": [
+      "Stop the War Coalition",
+      "Unison",
+      "UCU",
+      "RMT",
+      "Aslef",
+      "NEU",
+      "PCS"
+    ],
+    "motivo": "Conferencia internacional contra la guerra. Reúne a sindicatos, activistas y organizaciones de 23 países para rechazar el rearme masivo europeo, el servicio militar obligatorio y las guerras impulsadas por EE.UU. Exigen 'salarios, no armas' y financiamiento para salud, educación y servicios públicos. Secuela de la Cumbre por la Paz de París (octubre 2025).",
+    "status": "convocada",
+    "lat": 51.5007,
+    "lng": -0.1266,
+    "fuentes": [
+      {
+        "nombre": "Stop the War Coalition",
+        "url": "https://www.stopwar.org.uk/events/european-peace-conference/"
+      },
+      {
+        "nombre": "Counterfire",
+        "url": "https://www.counterfire.org/article/international-resistance-to-war-comes-to-london/"
+      },
+      {
+        "nombre": "International Peace Bureau",
+        "url": "https://ipb.org/events/international-peace-conference-london/"
+      }
+    ],
+    "createdAt": "2026-06-20T04:50:29.000Z",
+    "updatedAt": "2026-06-20T04:55:50Z"
   },
   {
     "id": 242,
@@ -287,10 +458,18 @@
       {
         "nombre": "OtrasVocesenEducacion (19 junio)",
         "url": "https://otrasvoceseneducacion.org/archivos/434602"
+      },
+      {
+        "nombre": "Crónica (16 junio - 5 días de paro)",
+        "url": "https://www.cronica.com.ar/politica/continua-el-reclamo-universitario-con-5-dias-de-paro-nacional-movilizaciones-y-acciones-de-visibilizacion/"
+      },
+      {
+        "nombre": "La Gaceta (8 junio - CONADU denuncia OIT)",
+        "url": "https://www.lagaceta.com.ar/nota/1140254/sociedad/conflicto-universitario-conadu-anuncio-paro-nacional-semana-denuncio-al-gobierno-ante-oit.html"
       }
     ],
     "createdAt": "2026-06-19T04:09:32.000Z",
-    "updatedAt": "2026-06-20T00:15:09Z"
+    "updatedAt": "2026-06-20T04:55:50Z"
   },
   {
     "id": 271,
@@ -307,9 +486,11 @@
       "CCC (Corriente Clasista y Combativa)",
       "Movimiento Evita",
       "Sindicato de Aceiteros de Rosario",
-      "Multisectorial sindical"
+      "CTA (Central de Trabajadores Argentinos)",
+      "Multisectorial sindical",
+      "CGT Rosario"
     ],
-    "motivo": "Protesta multisectorial 'Milei persona no grata' contra la visita del presidente Javier Milei a Rosario por el Día de la Bandera. Concentración desde las 9 en Plaza Pringles y marcha al Monumento a la Bandera. Rechazan políticas de ajuste, reforma laboral, despidos, pérdida de salarios y lo que califican como entrega de la soberanía. Convocan ATE, CATT, gremios del transporte, aceiteros, movimientos sociales y partidos políticos. La CGT Rosario también anticipó masivo repudio.",
+    "motivo": "Protesta multisectorial 'Milei persona no grata' contra la visita del presidente Javier Milei a Rosario por el Día de la Bandera. Concentración desde las 9 en Plaza Pringles (Córdoba y Paraguay) con escenario para oradores. Rechazan políticas de ajuste, reforma laboral, despidos, pérdida de salarios y lo que califican como entrega de la soberanía. Convocan ATE, CATT, CTA, gremios del transporte, aceiteros, movimientos sociales y partidos políticos. La CGT Rosario también anticipó masivo repudio. Los organizadores aclararon que no interferirán con el acto oficial en el Monumento a la Bandera.",
     "status": "en_curso",
     "lat": -32.9468,
     "lng": -60.6509,
@@ -333,10 +514,18 @@
       {
         "nombre": "Resumen Latinoamericano (19 junio)",
         "url": "https://www.resumenlatinoamericano.org/2026/06/19/argentina-dia-de-la-bandera-organizan-un-repudio-contra-javier-milei-durante-el-acto-oficial/"
+      },
+      {
+        "nombre": "Radio UNR (19 junio)",
+        "url": "https://radio.unr.edu.ar/2026/06/19/gremios-y-organizaciones-convocan-a-un-acto-en-plaza-pringles-para-expresar-su-rechazo-a-milei/"
+      },
+      {
+        "nombre": "Rosario3 (18 junio - Multisectorial Sindical)",
+        "url": "https://www.rosario3.com/politica/la-multisectorial-sindical-realizara-un-acto-paralelo-al-del-dia-de-la-bandera-y-declara-persona-no-grata-a-milei-20260618-0002.html"
       }
     ],
     "createdAt": "2026-06-20T00:12:21.000Z",
-    "updatedAt": "2026-06-20T00:15:09Z"
+    "updatedAt": "2026-06-20T04:55:50Z"
   },
   {
     "id": 272,
@@ -345,13 +534,14 @@
     "bandera": "🇦🇷",
     "hora": "15:00",
     "fecha": "2026-06-20",
-    "lugar": "CABA: Parque Lezama",
+    "lugar": "CABA: Parque Lezama (San Telmo) y más de 135 municipios en todo el país",
     "tipoAccion": "banderazo",
     "organizaciones": [
       "Partido Justicialista (PJ) Nacional",
+      "La Cámpora",
       "Más de 20 partidos políticos y organizaciones sociales"
     ],
-    "motivo": "Banderazo por Cristina libre y contra la proscripción. A un año de la prisión domiciliaria de Cristina Fernández de Kirchner por la Causa Vialidad, el PJ Nacional convoca a concentrarse en Parque Lezama a las 15 hs para exigir su libertad y denunciar proscripción política. Se espera que la exmandataria brinde un discurso transmitido por altoparlantes.",
+    "motivo": "Banderazo por Cristina libre y contra la proscripción. A un año de la prisión domiciliaria de Cristina Fernández de Kirchner por la Causa Vialidad, el PJ Nacional y La Cámpora convocan a concentrarse en Parque Lezama a las 15 hs para exigir su libertad y denunciar proscripción política. Se replica en simultáneo en más de 135 municipios. Se espera discurso de Máximo Kirchner y posible mensaje de Cristina por altoparlantes. El juez de ejecución penal Rodrigo Giménez Uriburu intimó a la exmandataria a cumplir estrictamente el arresto domiciliario tras incidentes en manifestaciones previas.",
     "status": "convocada",
     "lat": -34.6274,
     "lng": -58.3698,
@@ -363,9 +553,17 @@
       {
         "nombre": "El Eco (17 junio)",
         "url": "https://www.eleco.com.ar/politica/el-pj-convoco-a-un-banderazo-en-parque-lezama-para-pedir-la-liberacion-de-cristina-kirchner"
+      },
+      {
+        "nombre": "CholilaOnline (19 junio - masivo despliegue)",
+        "url": "https://cholilaonline.ar/2026/06/politica-la-militancia-hara-un-banderazo-en-parque-lezama-reclamando-libertad-para-cristina-kirchner.html"
+      },
+      {
+        "nombre": "Head Topics (20 junio - 135 municipios)",
+        "url": "https://ar.headtopics.com/news/marchas-por-la-libertad-de-cristina-fern-ndez-de-kirchner-84711779"
       }
     ],
     "createdAt": "2026-06-20T00:12:21.000Z",
-    "updatedAt": "2026-06-20T00:15:09Z"
+    "updatedAt": "2026-06-20T04:55:50Z"
   }
 ]
