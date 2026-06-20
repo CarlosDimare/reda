@@ -11,7 +11,7 @@
     "organizaciones": [
       "National Ready-Mixed Concrete Transport Workers' Union (KNRCTWU)"
     ],
-    "motivo": "Día 12 de la huelga indefinida de transportistas de hormigón en Seúl. 8.000 miembros y 11.000 vehículos en paro. Exigen mejora de tarifas de transporte, seguridad laboral y fin de prácticas abusivas. La huelga detuvo la construcción de plantas de semiconductores de Samsung en Pyeongtaek y SK hynix en Yongin.",
+    "motivo": "Día 12+ de la huelga indefinida de transportistas de hormigón en Seúl. 8.000 miembros y 11.000 vehículos en paro. Exigen mejora de tarifas de transporte, seguridad laboral y fin de prácticas abusivas. La huelga detuvo la construcción de plantas de semiconductores de Samsung en Pyeongtaek y SK hynix en Yongin.",
     "status": "en_curso",
     "lat": "37.5665",
     "lng": "126.9780",
@@ -34,7 +34,7 @@
       }
     ],
     "createdAt": "2026-06-11T01:59:38.000Z",
-    "updatedAt": "2026-06-20T04:55:50Z"
+    "updatedAt": "2026-06-20T08:26:43Z"
   },
   {
     "id": 20,
@@ -52,7 +52,7 @@
       "Organizaciones indígenas quechuas de Potosí y Cochabamba",
       "Evo Morales (ex presidente, apoyando a manifestantes)"
     ],
-    "motivo": "Día 49 de protestas masivas contra el gobierno del presidente Rodrigo Paz. El 17 de junio, el gobierno y la COB iniciaron una mesa de diálogo en la Casa Grande del Pueblo. Se registran 47 puntos de bloqueo en 5 departamentos. La COB presentó 8 demandas. El Gran Cabildo de El Alto dio 72 horas a Paz para renunciar. La crisis deja al menos 23 muertos (17 por bloqueos). Persiste desabastecimiento de combustible y alimentos en La Paz y El Alto.",
+    "motivo": "Día 49 de protestas masivas contra el gobierno del presidente Rodrigo Paz. El 20 de junio Paz decretó estado de excepción 'para liberar las carreteras'. La COB firmó un acuerdo de pacificación el 19 de junio pero los campesinos y seguidores de Morales lo rechazaron y mantienen bloqueos. El Gran Cabildo de El Alto dio 72 horas a Paz para renunciar. La crisis deja al menos 23 muertos. Persiste desabastecimiento de combustible y alimentos. Pérdidas económicas estimadas en 3.000 millones de dólares.",
     "status": "en_curso",
     "lat": "-16.5000",
     "lng": "-68.1500",
@@ -78,12 +78,12 @@
         "url": "https://brujuladigital.net/politica/2026/06/16/cabildo-de-el-alto-da-72-horas-a-rodrigo-paz-para-renunciar-y-anuncia-una-nueva-fase-de-bloqueos-62129"
       },
       {
-        "nombre": "Unitel (16 junio)",
-        "url": "https://unitel.bo/noticias/politica/el-alto-bloqueadores-del-distrito-8-dan-48-horas-al-presidente-paz-para-que-renuncie-y-anuncian-bloqueo-de-las-mil-esquinas-PG21413936"
+        "nombre": "ABC Color / EFE (20 junio - estado de excepción)",
+        "url": "https://www.abc.com.py/internacionales/2026/06/20/paz-decreta-el-estado-de-excepcion-en-bolivia-tras-siete-semanas-de-bloqueos-de-carreteras/"
       },
       {
-        "nombre": "MercoPress (17 junio)",
-        "url": "https://en.mercopress.com/2026/06/17/bolivia-s-blockade-crisis-leaves-at-least-16-dead-as-the-government-calls-unions-to-talks"
+        "nombre": "Sputnik Mundo (20 junio - estado de excepción)",
+        "url": "https://noticiaslatam.lat/20260620/el-presidente-rodrigo-paz-decreta-el-estado-de-excepcion-en-bolivia-ante-los-bloqueos-1173967000.html"
       },
       {
         "nombre": "Brújula Digital (17 junio - 47 bloqueos)",
@@ -95,7 +95,7 @@
       }
     ],
     "createdAt": "2026-06-11T15:03:53.000Z",
-    "updatedAt": "2026-06-20T04:55:50Z"
+    "updatedAt": "2026-06-20T08:26:43Z"
   },
   {
     "id": 251,
@@ -107,6 +107,9 @@
     "lugar": "Toda Italia: redes nacionales y regionales de tren, autobuses urbanos y metros. Especial impacto en Roma, Milán, Florencia, Bolonia (monorraíl Marconi Express suspendido)",
     "tipoAccion": "huelga",
     "organizaciones": [
+      "USB",
+      "CUB",
+      "SGB",
       "Múltiples sindicatos (convocatoria de huelga general)"
     ],
     "motivo": "Huelga general nacional de 24 horas que finaliza a las 21:00 (iniciada el 19 de junio a las 21:00). Afecta a trenes nacionales y regionales, autobuses urbanos y sistemas de metro en toda Italia. Los servicios de alta velocidad (Frecciarossa, Italo) tienen prioridad legal y funcionan con mayor fiabilidad. Ventanas de servicio garantizado: 06:00-09:00 y 18:00-21:00. El monorraíl Marconi Express del aeropuerto de Bolonia permanecerá suspendido completamente sin ventanas garantizadas.",
@@ -121,10 +124,14 @@
       {
         "nombre": "Summer in Italy - Italy Transport Strikes",
         "url": "https://www.summerinitaly.com/traveltips/transport-strikes-in-italy"
+      },
+      {
+        "nombre": "Wanted in Rome",
+        "url": "https://www.wantedinrome.com/news/italy-public-transport-strikes-travel-june.html"
       }
     ],
     "createdAt": "2026-06-19T13:01:21.000Z",
-    "updatedAt": "2026-06-20T04:55:50Z"
+    "updatedAt": "2026-06-20T08:26:43Z"
   },
   {
     "id": 267,
@@ -133,13 +140,13 @@
     "bandera": "🇫🇷",
     "hora": "14:00",
     "fecha": "2026-06-20",
-    "lugar": "París (Place Vauban)",
+    "lugar": "París (Place Vauban, Paris 7)",
     "tipoAccion": "protesta",
     "organizaciones": [
       "Consejo Nacional de la Resistencia Iraní (NCRI)",
       "Iran Freedom"
     ],
-    "motivo": "Gran manifestación 'Paris Free Iran Rally' con más de 100.000 participantes esperados desde toda Europa. Exigen el fin de las ejecuciones en Irán, democracia y república secular bajo el lema 'No al Shah, No a los mulás'. Respaldada por más de 260 organizaciones internacionales.",
+    "motivo": "Gran manifestación 'Paris Free Iran Rally' con más de 100.000 participantes esperados desde toda Europa. Exigen el fin de las ejecuciones en Irán, democracia y república secular bajo el lema 'No al Shah, No a los mulás'. Respaldada por más de 260 organizaciones internacionales, 78 premios Nobel y más de 3.000 líderes globales de 55 países. Coincide con el 45° aniversario del levantamiento del 20 de junio de 1981.",
     "status": "convocada",
     "lat": 48.8516,
     "lng": 2.3114,
@@ -151,10 +158,18 @@
       {
         "nombre": "Iran Freedom (19 junio - 260 organizaciones)",
         "url": "https://iranfreedom.org/en/iranian-resistance/2026/06/more-than-260-international-organizations-endorse-the-paris-free-iran-rally-on-june-20/87343/"
+      },
+      {
+        "nombre": "NCRI US",
+        "url": "https://www.ncrius.org/stand-with-iranians-for-freedom-join-the-june-20-gathering-in-paris.html"
+      },
+      {
+        "nombre": "Sada Elbalad",
+        "url": "https://see.news/june-20-paris-the-global-roar-of-yes-to-a-democratic-republic"
       }
     ],
     "createdAt": "2026-06-20T00:07:38.000Z",
-    "updatedAt": "2026-06-20T04:55:50Z"
+    "updatedAt": "2026-06-20T08:26:43Z"
   },
   {
     "id": 268,
@@ -183,7 +198,7 @@
       }
     ],
     "createdAt": "2026-06-20T00:07:38.000Z",
-    "updatedAt": "2026-06-20T04:55:50Z"
+    "updatedAt": "2026-06-20T08:26:43Z"
   },
   {
     "id": 269,
@@ -212,7 +227,7 @@
       }
     ],
     "createdAt": "2026-06-20T00:07:38.000Z",
-    "updatedAt": "2026-06-20T04:55:50Z"
+    "updatedAt": "2026-06-20T08:26:43Z"
   },
   {
     "id": 270,
@@ -237,7 +252,7 @@
       }
     ],
     "createdAt": "2026-06-20T00:07:38.000Z",
-    "updatedAt": "2026-06-20T04:55:50Z"
+    "updatedAt": "2026-06-20T08:26:43Z"
   },
   {
     "id": 273,
@@ -251,8 +266,8 @@
     "organizaciones": [
       "Cockroach Janta Party (CJP)"
     ],
-    "motivo": "Segunda protesta del Cockroach Janta Party en Jantar Mantar. Exigen la renuncia del ministro de Educación Dharmendra Pradhan por filtraciones en exámenes nacionales y suicidios de estudiantes. Manifestantes llevan platos y cucharas (thali-chamach) como símbolo, evocando la campaña de Modi durante la pandemia. El gobierno desplegó 270 cámaras corporales y múltiples barricadas.",
-    "status": "convocada",
+    "motivo": "Segunda protesta del Cockroach Janta Party en Jantar Mantar. Exigen la renuncia del ministro de Educación Dharmendra Pradhan por filtraciones en exámenes nacionales y suicidios de estudiantes. Manifestantes llevan platos y cucharas (thali-chamach) como símbolo, evocando la campaña de Modi durante la pandemia. El gobierno desplegó 270 cámaras corporales y múltiples barricadas. Compensación de 1 crore de rupias exigida para familias de 11 estudiantes fallecidos.",
+    "status": "en_curso",
     "lat": 28.6271,
     "lng": 77.2166,
     "fuentes": [
@@ -261,16 +276,32 @@
         "url": "https://economictimes.indiatimes.com/news/india/heavy-security-in-place-as-cockroach-janta-party-stages-second-protest-at-jantar-mantar/articleshow/131870232.cms"
       },
       {
-        "nombre": "Hindustan Times (20 junio)",
+        "nombre": "Hindustan Times (20 junio - live)",
         "url": "https://www.hindustantimes.com/india-news/cjp-protest-delhi-live-updates-abhijeet-dipke-jantar-mantar-cockroach-janta-party-sonam-wangchuk-dharmendra-pradhan-neet-101781924276120.html"
       },
       {
         "nombre": "The New Indian Express (20 junio)",
         "url": "https://www.newindianexpress.com/india/2026/Jun/20/bring-a-thali-and-chamach-cjp-revives-covid-era-imagery-for-exam-leak-protest-in-jantar-mantar"
+      },
+      {
+        "nombre": "The Tribune (20 junio)",
+        "url": "https://www.tribuneindia.com/news/delhi/cockroach-janta-partys-second-protest-in-delhi-270-body-cameras-multi-layer-security-at-jantar-mantar/"
+      },
+      {
+        "nombre": "Times Now (20 junio)",
+        "url": "https://www.timesnownews.com/delhi/cjp-2nd-jantar-mantar-protest-today-abhijeet-dipke-appeals-to-bring-plates-and-spoons-delhi-police-gives-nod-article-154693574"
+      },
+      {
+        "nombre": "Outlook India (20 junio)",
+        "url": "https://www.outlookindia.com/national/cockroach-janta-party-to-hold-second-jantar-mantar-protest-urges-students-to-bring-plates-and-spoons"
+      },
+      {
+        "nombre": "India Today (20 junio)",
+        "url": "https://www.indiatoday.in/india/story/delhi-police-security-cjp-protest-jantar-mantar-cctv-barricades-ptag-2930310-2026-06-20"
       }
     ],
     "createdAt": "2026-06-20T04:50:29.000Z",
-    "updatedAt": "2026-06-20T04:55:50Z"
+    "updatedAt": "2026-06-20T08:26:43Z"
   },
   {
     "id": 274,
@@ -300,7 +331,7 @@
       }
     ],
     "createdAt": "2026-06-20T04:50:29.000Z",
-    "updatedAt": "2026-06-20T04:55:50Z"
+    "updatedAt": "2026-06-20T08:26:43Z"
   },
   {
     "id": 275,
@@ -335,7 +366,7 @@
       }
     ],
     "createdAt": "2026-06-20T04:50:29.000Z",
-    "updatedAt": "2026-06-20T04:55:50Z"
+    "updatedAt": "2026-06-20T08:26:43Z"
   },
   {
     "id": 276,
@@ -369,7 +400,7 @@
       }
     ],
     "createdAt": "2026-06-20T04:50:29.000Z",
-    "updatedAt": "2026-06-20T04:55:50Z"
+    "updatedAt": "2026-06-20T08:26:43Z"
   },
   {
     "id": 277,
@@ -408,7 +439,159 @@
       }
     ],
     "createdAt": "2026-06-20T04:50:29.000Z",
-    "updatedAt": "2026-06-20T04:55:50Z"
+    "updatedAt": "2026-06-20T08:26:43Z"
+  },
+  {
+    "id": 278,
+    "seccion": "internacional",
+    "pais": "India",
+    "bandera": "🇮🇳",
+    "hora": "00:01",
+    "fecha": "2026-06-20",
+    "lugar": "Mumbai, Maharashtra (depósitos BEST en toda la ciudad; especial impacto en BKC, Kurla, Bandra, South Mumbai y suburbios del este)",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "BEST Sanyukt Kamgar Kruti Samiti",
+      "12 sindicatos de empleados de BEST"
+    ],
+    "motivo": "Día 2 de la huelga indefinida de empleados de BEST (Brihanmumbai Electric Supply & Transport), el segundo mayor transporte público de Mumbai. Solo 48 de 2.766 autobuses operan. Exigen fusión del presupuesto de BEST con el BMC, implementación de la 7ma Comisión Salarial (2016-2026), pago de deudas legales a jubilados, abolición de contrataciones tercerizadas y absorción de trabajadores en wet-lease. 26 incidentes de violencia reportados. Afecta a 25 lakhs de pasajeros diarios. El gobierno invocó MESMA y la corte industrial ordenó cesar la huelga, pero los trabajadores se mantienen firmes.",
+    "status": "en_curso",
+    "lat": 19.076,
+    "lng": 72.8777,
+    "fuentes": [
+      {
+        "nombre": "Times of India (20 junio)",
+        "url": "https://timesofindia.indiatimes.com/city/mumbai/mumbai-best-strike-enters-day-2-commuters-reel-as-bus-services-remain-shut/articleshow/131870395.cms"
+      },
+      {
+        "nombre": "CNBC TV18 (20 junio)",
+        "url": "https://www.cnbctv18.com/india/mumbai-best-strike-day-two-commuters-face-hardships-as-buses-remain-off-roads-19929069.htm"
+      },
+      {
+        "nombre": "Mathrubhumi English (20 junio)",
+        "url": "https://english.mathrubhumi.com/news/india/mumbai-best-strike-commute-disruption-mesma-lrlf0iq0"
+      }
+    ],
+    "createdAt": "2026-06-20T08:20:18.000Z",
+    "updatedAt": "2026-06-20T08:26:43Z"
+  },
+  {
+    "id": 279,
+    "seccion": "internacional",
+    "pais": "Bangladés",
+    "bandera": "🇧🇩",
+    "hora": "00:01",
+    "fecha": "2026-06-20",
+    "lugar": "Dhaka (Gulshan-1, cerca de la Alta Comisión India)",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Jamaat-e-Islami",
+      "Bangladesh Azad Party",
+      "11 partidos políticos aliados"
+    ],
+    "motivo": "Manifestación anti-India liderada por Jamaat-e-Islami y la alianza Bangladesh Azad Party. Quemaron una efigie del ministro del Interior indio Amit Shah. Intentaron marchar hacia la Alta Comisión India pero fueron bloqueados por la policía en Gulshan-1. Exigen fin de presuntos 'push-ins' y disparos en la frontera India-Bangladesh. Las protestas anti-India se han incrementado en Bangladés desde la caída del gobierno de Sheikh Hasina.",
+    "status": "convocada",
+    "lat": 23.78,
+    "lng": 90.41,
+    "fuentes": [
+      {
+        "nombre": "Punjab Newsline (20 junio)",
+        "url": "https://www.punjabnewsline.com/news/anti-india-protests-escalate-in-dhaka-effigy-of-amit-shah-burnt"
+      }
+    ],
+    "createdAt": "2026-06-20T08:20:18.000Z",
+    "updatedAt": "2026-06-20T08:26:43Z"
+  },
+  {
+    "id": 280,
+    "seccion": "internacional",
+    "pais": "Israel",
+    "bandera": "🇮🇱",
+    "hora": "06:48",
+    "fecha": "2026-06-20",
+    "lugar": "Residencia del Jefe del Estado Mayor de las FDI, Eyal Zamir (cerca de Tel Aviv)",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Awake Mother"
+    ],
+    "motivo": "Unos 20 activistas de la organización 'Awake Mother' protestaron frente a la residencia del Jefe del Estado Mayor de las FDI, Eyal Zamir, contra la 'zona de abandono' en Líbano. Denuncian que 'cuatro soldados más pagaron con su vida en la zona de sacrificio en Líbano'. Exigen el fin de lo que llaman una 'máquina de guerra rota'. La policía confiscó un megáfono a una manifestante.",
+    "status": "convocada",
+    "lat": 32.0853,
+    "lng": 34.7818,
+    "fuentes": [
+      {
+        "nombre": "Ynetnews (20 junio)",
+        "url": "https://www.ynetnews.com/article/c4vz9rwhp"
+      }
+    ],
+    "createdAt": "2026-06-20T08:20:18.000Z",
+    "updatedAt": "2026-06-20T08:26:43Z"
+  },
+  {
+    "id": 281,
+    "seccion": "internacional",
+    "pais": "Pakistán (Cachemira ocupada)",
+    "bandera": "🇵🇰",
+    "hora": "00:01",
+    "fecha": "2026-06-20",
+    "lugar": "Rawalakot, Muzaffarabad, Mirpur (PoK)",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Joint Awami Action Committee (JAAC)"
+    ],
+    "motivo": "Día 16 de protestas masivas en PoK. 60.000-70.000 manifestantes en Rawalakot (Eidgah Ground). Denuncian represión militar, bloqueo de suministros de harina, legumbres y verduras, y corte de internet. Reportes de más de 50 muertos desde el inicio de las protestas (16 solo en un incidente con disparos). Pakistán declaró terroristas a 150 manifestantes. India elevó el tema ante la ONU acusando a Pakistán de ocupación ilegal y supresión de derechos.",
+    "status": "en_curso",
+    "lat": 33.85,
+    "lng": 73.75,
+    "fuentes": [
+      {
+        "nombre": "ABP News (20 junio - breaking)",
+        "url": "https://news.abplive.com/videos/news/world-breaking-mass-protests-intensify-in-pok-as-allegations-of-military-crackdown-and-supply-blockade-surface-1851519"
+      },
+      {
+        "nombre": "Organiser (20 junio)",
+        "url": "https://organiser.org/2026/06/20/358624/world/state-sponsored-terror-in-pojk-how-islamabad-uses-brutal-military-force-to-crush-the-citizens-rightful-revolt/"
+      },
+      {
+        "nombre": "ABP News (19 junio - 11th day)",
+        "url": "https://news.abplive.com/news/world/pakistan-declares-150-pojk-protesters-terrorists-as-anti-government-agitation-enters-11th-day-1851208"
+      },
+      {
+        "nombre": "Al Jazeera (9 junio)",
+        "url": "https://www.aljazeera.com/news/2026/6/9/deadly-protests-in-pakistan-administered-kashmir-whats-going-on"
+      }
+    ],
+    "createdAt": "2026-06-20T08:20:18.000Z",
+    "updatedAt": "2026-06-20T08:26:43Z"
+  },
+  {
+    "id": 282,
+    "seccion": "internacional",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "10:00",
+    "fecha": "2026-06-20",
+    "lugar": "Múltiples ubicaciones: San José CA, Alhambra CA, Washington DC, Devon PA, Owings Mills MD, Dedham MA, Ann Arbor MI, Lyndhurst OH, Long Beach CA, Santa Monica CA",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Tesla Takedown"
+    ],
+    "motivo": "Jornada nacional de protestas #TeslaTakedown en concesionarias Tesla en más de 10 ciudades de EE.UU. El movimiento exige rendición de cuentas a Elon Musk por el desmantelamiento de la democracia, despidos masivos, fraudes de seguridad en vehículos y difusión de teorías conspirativas. El movimiento pide desinversión en Tesla (venta de vehículos y acciones) como presión económica contra Musk. Las protestas incluyen marchas, bailes y concentraciones pacíficas en showrooms de todo el país.",
+    "status": "convocada",
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "fuentes": [
+      {
+        "nombre": "Action Network - #TeslaTakedown",
+        "url": "https://actionnetwork.org/event_campaigns/teslatakedown"
+      },
+      {
+        "nombre": "Wikipedia - Tesla Takedown",
+        "url": "https://en.wikipedia.org/wiki/Tesla_Takedown"
+      }
+    ],
+    "createdAt": "2026-06-20T08:20:18.000Z",
+    "updatedAt": "2026-06-20T08:26:43Z"
   },
   {
     "id": 242,
@@ -469,7 +652,7 @@
       }
     ],
     "createdAt": "2026-06-19T04:09:32.000Z",
-    "updatedAt": "2026-06-20T04:55:50Z"
+    "updatedAt": "2026-06-20T08:26:43Z"
   },
   {
     "id": 271,
@@ -525,7 +708,7 @@
       }
     ],
     "createdAt": "2026-06-20T00:12:21.000Z",
-    "updatedAt": "2026-06-20T04:55:50Z"
+    "updatedAt": "2026-06-20T08:26:43Z"
   },
   {
     "id": 272,
@@ -564,6 +747,6 @@
       }
     ],
     "createdAt": "2026-06-20T00:12:21.000Z",
-    "updatedAt": "2026-06-20T04:55:50Z"
+    "updatedAt": "2026-06-20T08:26:43Z"
   }
 ]
