@@ -71,10 +71,18 @@
       {
         "nombre": "Merca2 (21 junio - estado de excepción)",
         "url": "https://www.merca2.es/2026/06/21/estado-excepcion-bolivia-protestas-paz-2402244/"
+      },
+      {
+        "nombre": "The Guardian (21 junio)",
+        "url": "https://www.theguardian.com/world/2026/jun/21/bolivian-president-declares-state-of-emergency-and-deploys-military-to-quell-anti-government-protests"
+      },
+      {
+        "nombre": "WION (21 junio)",
+        "url": "https://www.wionews.com/world/bolivia-declares-state-of-emergency-sends-troops-to-crush-six-week-protest-blockade-1782003559539"
       }
     ],
     "createdAt": "2026-06-11T15:03:53.000Z",
-    "updatedAt": "2026-06-21T08:40:28Z"
+    "updatedAt": "2026-06-21T11:48:23Z"
   },
   {
     "id": 21,
@@ -117,7 +125,7 @@
       }
     ],
     "createdAt": "2026-06-21T08:37:01.000Z",
-    "updatedAt": "2026-06-21T08:40:28Z"
+    "updatedAt": "2026-06-21T11:48:23Z"
   },
   {
     "id": 22,
@@ -157,7 +165,7 @@
       }
     ],
     "createdAt": "2026-06-21T08:37:01.000Z",
-    "updatedAt": "2026-06-21T08:40:28Z"
+    "updatedAt": "2026-06-21T11:48:23Z"
   },
   {
     "id": 23,
@@ -195,7 +203,7 @@
       }
     ],
     "createdAt": "2026-06-21T08:37:01.000Z",
-    "updatedAt": "2026-06-21T08:40:28Z"
+    "updatedAt": "2026-06-21T11:48:23Z"
   },
   {
     "id": 24,
@@ -244,6 +252,97 @@
       }
     ],
     "createdAt": "2026-06-21T08:37:01.000Z",
-    "updatedAt": "2026-06-21T08:40:28Z"
+    "updatedAt": "2026-06-21T11:48:23Z"
+  },
+  {
+    "id": 25,
+    "seccion": "internacional",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "12:00",
+    "fecha": "2026-06-21",
+    "lugar": "Washington, D.C. (cerca del Capitolio y espacios públicos)",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Comunidad de migrantes afganos en EE.UU.",
+      "Activistas de derechos humanos",
+      "Right to Learn Afghanistan"
+    ],
+    "motivo": "Protesta de migrantes afganos en Washington D.C. contra las políticas de apartheid de género del régimen talibán en Afganistán. Los manifestantes corearon 'Educación, Trabajo, Libertad' y exigieron el reconocimiento internacional del 'apartheid de género' en Afganistán. Pidieron a los gobiernos e instituciones globales que condicionen cualquier compromiso oficial con los talibanes al respeto de los derechos humanos y la restauración de los derechos de las mujeres. La protesta forma parte de una jornada coordinada global de la diáspora afgana en múltiples países.",
+    "status": "convocada",
+    "lat": "38.9072",
+    "lng": "-77.0369",
+    "fuentes": [
+      {
+        "nombre": "AtlasPress (21 junio)",
+        "url": "https://atlaspress.news/en/2026/06/21/afghan-migrants-protest-taliban-gender-apartheid-womens-rights/"
+      },
+      {
+        "nombre": "Shahed News (21 junio)",
+        "url": "https://shahed.news/en/2026/06/21/afghan-migrants-protest-in-several-countries-call-for-recognition-of-taliban-policies-as-gender-apartheid/"
+      }
+    ],
+    "createdAt": "2026-06-21T11:47:45.000Z",
+    "updatedAt": "2026-06-21T11:48:23Z"
+  },
+  {
+    "id": 26,
+    "seccion": "internacional",
+    "pais": "España",
+    "bandera": "🇪🇸",
+    "hora": "12:00",
+    "fecha": "2026-06-21",
+    "lugar": "Madrid (oficina del Parlamento Europeo) y Bilbao",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Comunidad de migrantes afganos en España",
+      "Activistas de derechos humanos"
+    ],
+    "motivo": "Protestas coordinadas de migrantes afganos en Madrid y Bilbao contra el régimen talibán, denunciando el apartheid de género y la represión violenta de protestas pacíficas en Herat. En Madrid emitieron un comunicado describiendo la situación de derechos humanos en Afganistán como 'deteriorada' y pidieron una investigación legal formal sobre la violencia dirigida contra la comunidad hazara como genocidio. Destacaron que las comunidades tayika, uzbeka, turcomana, chiíta y minorías religiosas como sijs e hindúes enfrentan discriminación estructural.",
+    "status": "convocada",
+    "lat": "40.4168",
+    "lng": "-3.7038",
+    "fuentes": [
+      {
+        "nombre": "AtlasPress (21 junio)",
+        "url": "https://atlaspress.news/en/2026/06/21/afghan-migrants-protest-taliban-gender-apartheid-womens-rights/"
+      },
+      {
+        "nombre": "Shahed News (21 junio)",
+        "url": "https://shahed.news/en/2026/06/21/afghan-migrants-protest-in-several-countries-call-for-recognition-of-taliban-policies-as-gender-apartheid/"
+      }
+    ],
+    "createdAt": "2026-06-21T11:47:45.000Z",
+    "updatedAt": "2026-06-21T11:48:23Z"
+  },
+  {
+    "id": 27,
+    "seccion": "internacional",
+    "pais": "Suiza",
+    "bandera": "🇨🇭",
+    "hora": "12:00",
+    "fecha": "2026-06-21",
+    "lugar": "Ginebra, frente a la oficina de Naciones Unidas",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Comunidad de migrantes afganos en Suiza",
+      "Activistas de derechos humanos"
+    ],
+    "motivo": "Protesta de migrantes afganos en Ginebra frente a la oficina de la ONU para condenar la represión violenta de protestas pacíficas en el área de Jebrail en Herat, Afganistán. Denunciaron los arrestos arbitrarios de mujeres por su vestimenta y el trato coercitivo a manifestantes como ejemplos de las crecientes restricciones talibanes. Exigieron el reconocimiento internacional del apartheid de género y acción concreta de la ONU y los gobiernos.",
+    "status": "convocada",
+    "lat": "46.2044",
+    "lng": "6.1432",
+    "fuentes": [
+      {
+        "nombre": "AtlasPress (21 junio)",
+        "url": "https://atlaspress.news/en/2026/06/21/afghan-migrants-protest-taliban-gender-apartheid-womens-rights/"
+      },
+      {
+        "nombre": "Shahed News (21 junio)",
+        "url": "https://shahed.news/en/2026/06/21/afghan-migrants-protest-in-several-countries-call-for-recognition-of-taliban-policies-as-gender-apartheid/"
+      }
+    ],
+    "createdAt": "2026-06-21T11:47:45.000Z",
+    "updatedAt": "2026-06-21T11:48:23Z"
   }
 ]
