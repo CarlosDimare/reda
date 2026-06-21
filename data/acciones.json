@@ -63,9 +63,187 @@
       {
         "nombre": "Reuters (20 junio - estado de excepción)",
         "url": "https://www.reuters.com/world/americas/bolivias-paz-declares-state-emergency-over-blockade-crisis-2026-06-20/"
+      },
+      {
+        "nombre": "Hindustan Times (21 junio - día 50)",
+        "url": "https://www.hindustantimes.com/world-news/bolivia-protests-food-shortage-state-of-emergency-what-is-happening-in-bolivia-crisis-explained-101782023758748.html"
+      },
+      {
+        "nombre": "Merca2 (21 junio - estado de excepción)",
+        "url": "https://www.merca2.es/2026/06/21/estado-excepcion-bolivia-protestas-paz-2402244/"
       }
     ],
     "createdAt": "2026-06-11T15:03:53.000Z",
-    "updatedAt": "2026-06-21T04:05:27Z"
+    "updatedAt": "2026-06-21T08:40:28Z"
+  },
+  {
+    "id": 21,
+    "seccion": "internacional",
+    "pais": "Pakistán (Cachemira bajo admin. pakistaní)",
+    "bandera": "🇵🇰",
+    "hora": "00:01",
+    "fecha": "2026-06-21",
+    "lugar": "Muzaffarabad, Rawalakot, Kotli y múltiples distritos de Azad Jammu y Cachemira (PoK)",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Joint Awami Action Committee (JAAC)",
+      "Awami Action Committee (AAC)",
+      "United Kashmir People's National Party (UKPNP)"
+    ],
+    "motivo": "Día 19 de protestas masivas antigubernamentales en Cachemira bajo administración pakistaní. La crisis se desató por la disputa sobre 12 escaños reservados en la Asamblea Legislativa para refugiados, y se ha expandido a demandas más amplias contra el gobierno de Islamabad: fin del bloqueo alimenticio, restauración de internet, tarifas eléctricas más bajas, alivio ante la inflación y transparencia gubernamental. Pakistán ha impuesto un bloqueo alimenticio total y suspendido servicios de internet. Más de 1.435 cachemires han sido detenidos o están desaparecidos desde que comenzó la operación militar. Al menos 46 muertos desde el inicio de las protestas.",
+    "status": "en_curso",
+    "lat": "34.3700",
+    "lng": "73.4700",
+    "fuentes": [
+      {
+        "nombre": "News18 (21 junio - día 19)",
+        "url": "https://www.news18.com/world/pok-protests-day-19-pakistan-crackdown-rawalakot-jaac-arrests-food-blockade-internet-blackout-azad-jammu-kashmir-glasgow-protests-ws-l-10163678.html"
+      },
+      {
+        "nombre": "NewsBytes (21 junio - día 19)",
+        "url": "https://www.newsbytesapp.com/news/world/unrest-deepens-in-pok-amid-crackdown/story"
+      },
+      {
+        "nombre": "Times of India (20 junio)",
+        "url": "https://timesofindia.indiatimes.com/india/peace-broker-or-troubled-state-what-pok-unrest-means-for-pakistan/articleshow/131878384.cms"
+      },
+      {
+        "nombre": "Al Jazeera (9 junio)",
+        "url": "https://www.aljazeera.com/news/2026/6/9/deadly-protests-in-pakistan-administered-kashmir-whats-going-on"
+      },
+      {
+        "nombre": "BBC (11 junio)",
+        "url": "https://www.bbc.com/news/articles/cdxdyn5716xo"
+      }
+    ],
+    "createdAt": "2026-06-21T08:37:01.000Z",
+    "updatedAt": "2026-06-21T08:40:28Z"
+  },
+  {
+    "id": 22,
+    "seccion": "internacional",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "10:00",
+    "fecha": "2026-06-21",
+    "lugar": "Múltiples estadios de la FIFA World Cup 2026 y arenas deportivas: Los Ángeles (SoFi), Miami (Hard Rock), Boston (Gillette), Seattle (Lumen Field), Atlanta (Mercedes-Benz), Filadelfia (Lincoln Financial), SF Bay Area (Levi's), Kansas City (Arrowhead), Dallas (AT&T), Houston (NRG), East Rutherford (MetLife), Vancouver (BC Place), Toronto (BMO Field), Guadalajara, Ciudad de México, Monterrey; además de estadios en Portland, Sacramento, Cleveland, St. Louis, Arlington TX",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Sierra Club (Angeles Chapter)",
+      "Third Act SoCal",
+      "Fossil Free Football",
+      "Extinction Rebellion"
+    ],
+    "motivo": "Protesta climática coordinada contra el patrocinio de combustibles fósiles en la FIFA World Cup 2026 y el deporte profesional. El principal patrocinador de la FIFA, Saudi Aramco (la mayor petrolera del mundo), es el blanco central. Se protesta también en estadios patrocinados por Phillips 66, Bank of America, Marathon Petroleum, BP, Shell y Energy Transfer. La FIFA World Cup 2026 es proyectada como la más contaminante de la historia. La protesta busca que la FIFA y los equipos deportivos rompan sus vínculos con patrocinadores de combustibles fósiles.",
+    "status": "convocada",
+    "lat": "33.9533",
+    "lng": "-118.3394",
+    "fuentes": [
+      {
+        "nombre": "Sierra Club (10 junio - convocatoria)",
+        "url": "https://www.sierraclub.org/angeles/blog/2026/06/climate-activists-protest-fossil-fuel-sponsorships-us-fifa-world-cup-stadiums"
+      },
+      {
+        "nombre": "Politico (20 junio)",
+        "url": "https://www.politico.com/live-updates/2026/06/20/world-cup-2026/climate-protest-fifa-aramco-dodgers-00969096"
+      },
+      {
+        "nombre": "The Guardian (19 junio)",
+        "url": "https://www.theguardian.com/environment/2026/jun/19/activists-world-cup-fifa-aramco-oil-partnership"
+      },
+      {
+        "nombre": "Hill Heat (21 junio - evento)",
+        "url": "https://hillheat.com/events/2026/06/21/protest-fossil-fuel-sportswashing-across-the-nation"
+      }
+    ],
+    "createdAt": "2026-06-21T08:37:01.000Z",
+    "updatedAt": "2026-06-21T08:40:28Z"
+  },
+  {
+    "id": 23,
+    "seccion": "internacional",
+    "pais": "India",
+    "bandera": "🇮🇳",
+    "hora": "01:00",
+    "fecha": "2026-06-21",
+    "lugar": "Jantar Mantar, Nueva Delhi",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Cockroach Janta Party (CJP)",
+      "Abhijeet Dipke (fundador)"
+    ],
+    "motivo": "Protesta que se extendió durante la noche del 20 al 21 de junio en Jantar Mantar contra el ministro de Educación, Dharmendra Pradhan, exigiendo su renuncia por presuntas irregularidades en exámenes nacionales (filtración del NEET 2026) y controversias en el sistema educativo. La policía de Delhi negó el permiso para continuar la protesta nocturna, pero los manifestantes se negaron a retirarse. Los manifestantes usaron thali (platos) y chammach (cucharas) como símbolo de protesta, evocando la campaña gubernamental de 2020 contra el COVID-19.",
+    "status": "en_curso",
+    "lat": "28.6271",
+    "lng": "77.2168",
+    "fuentes": [
+      {
+        "nombre": "The Indian Express (21 junio)",
+        "url": "https://indianexpress.com/article/cities/delhi/cockroach-janta-party-protest-jantar-mantar-pradhan-resignation-neet-row-abhijeet-dipke-10749906/"
+      },
+      {
+        "nombre": "The Hindu (21 junio)",
+        "url": "https://www.thehindu.com/news/national/cockroach-janta-party-protest-jantar-mantar-delhi-neet-paper-leak-live-june-20-2026/article71125410.ece"
+      },
+      {
+        "nombre": "Hindustan Times (20 junio)",
+        "url": "https://www.hindustantimes.com/india-news/cjp-protest-delhi-live-updates-abhijeet-dipke-jantar-mantar-cockroach-janta-party-sonam-wangchuk-dharmendra-pradhan-neet-101781924276120.html"
+      },
+      {
+        "nombre": "MSN / News18 (21 junio)",
+        "url": "https://www.msn.com/en-xl/politics/government/india-s-cockroach-party-supporters-bang-plates-to-call-for-education-minister-s-resignationpublished-on-june-21-2026-7-48-am/ar-AA26arVk"
+      }
+    ],
+    "createdAt": "2026-06-21T08:37:01.000Z",
+    "updatedAt": "2026-06-21T08:40:28Z"
+  },
+  {
+    "id": 24,
+    "seccion": "internacional",
+    "pais": "Albania",
+    "bandera": "🇦🇱",
+    "hora": "18:00",
+    "fecha": "2026-06-21",
+    "lugar": "Tirana, bulevar principal y frente a la oficina del Primer Ministro; también en Vlora (Zvërnec)",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Manifestantes ambientales y ciudadanos",
+      "Lëvizja Bashkë",
+      "Lëvizja Shqipëria Bëhet",
+      "PPNEA / BirdLife Albania",
+      "Comunidad de la diáspora albanesa"
+    ],
+    "motivo": "Día 21 de protestas masivas contra el gobierno del Primer Ministro Edi Rama por el desarrollo turístico de lujo en la costa protegida de Vjosa-Narta (Zvërnec), vinculado a Jared Kushner (yerno de Donald Trump) y su firma Affinity Partners. Los manifestantes exigen la cancelación del proyecto, la renuncia de Rama y mayor transparencia. La protesta de hoy es una de las más grandes desde que comenzó el movimiento, con participación de la diáspora albanesa llegada de toda Europa. La fiscalía anticorrupción SPAK ha abierto una investigación sobre los títulos de propiedad del terreno.",
+    "status": "en_curso",
+    "lat": "41.3275",
+    "lng": "19.8187",
+    "fuentes": [
+      {
+        "nombre": "Tasnim News (21 junio)",
+        "url": "https://www.tasnimnews.ir/en/news/2026/06/21/3622645/thousands-protest-in-albania-over-kushner-backed-resort-project"
+      },
+      {
+        "nombre": "ARY News / AFP (21 junio)",
+        "url": "https://arynews.tv/albanian-protests-trump-linked-resort-swell"
+      },
+      {
+        "nombre": "Daily Beirut (21 junio)",
+        "url": "https://dailybeirut.com/en/world/thousands-protest-in-albania-demanding-pm-ramas-resignation-over-kushner-linked-/"
+      },
+      {
+        "nombre": "The New York Times (21 junio)",
+        "url": "https://www.nytimes.com/2026/06/21/world/europe/albania-kushner-project-protests.html"
+      },
+      {
+        "nombre": "Al Jazeera (11 junio)",
+        "url": "https://www.aljazeera.com/news/2026/6/11/thousands-rally-in-albania-in-largest-protest-yet-against-kushner-resort"
+      },
+      {
+        "nombre": "NPR (16 junio)",
+        "url": "https://www.wuwm.com/world/2026-06-16/protests-continue-against-albanias-government-over-a-kushner-linked-resort-project"
+      }
+    ],
+    "createdAt": "2026-06-21T08:37:01.000Z",
+    "updatedAt": "2026-06-21T08:40:28Z"
   }
 ]
