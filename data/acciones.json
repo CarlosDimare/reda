@@ -1,830 +1,139 @@
 [
   {
-    "id": 20,
-    "seccion": "internacional",
-    "pais": "Bolivia",
-    "bandera": "🇧🇴",
-    "hora": "00:01",
-    "fecha": "2026-06-21",
-    "lugar": "La Paz, El Alto, Cochabamba y puntos de bloqueo en todo el país",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Central Obrera Boliviana (COB)",
-      "Federación Departamental de Campesinos Túpac Katari",
-      "Sindicatos obreros",
-      "Organizaciones indígenas quechuas de Potosí y Cochabamba",
-      "Evo Morales (ex presidente, apoyando a manifestantes)"
-    ],
-    "motivo": "Día 50 de protestas masivas contra el gobierno del presidente Rodrigo Paz. El 21 de junio la Asamblea Legislativa aprobó el estado de excepción decretado el 20 de junio. Grandes sindicatos rurales llamaron a una pausa en el conflicto por el Año Nuevo Andino y ordenaron el repliegue de movilizados hasta la próxima semana para analizar la situación. Policía y militares retiraron bloqueos en rutas clave como El Alto-Oruro y Cochabamba-Oruro. Se reportaban 34 bloqueos activos (vs 47 el viernes). Algunos bloqueos en San Julián (Santa Cruz) se levantaron tras acuerdos. Miles celebraron el Año Nuevo Andino con ofrendas a la Pachamama. La crisis deja al menos 23 muertos y pérdidas económicas estimadas en 3.000 millones de dólares.",
-    "status": "en_curso",
-    "lat": "-16.5000",
-    "lng": "-68.1500",
-    "fuentes": [
-      {
-        "nombre": "La Jornada (21 junio - pausa por Año Nuevo Andino)",
-        "url": "https://www.jornada.com.mx/noticia/2026/06/21/mundo/manifestantes-en-bolivia-suspenden-protesta-sociales-por-el-ano-nuevo-andino"
-      },
-      {
-        "nombre": "Infobae (21 junio - estado excepción aprobado)",
-        "url": "https://www.infobae.com/america/america-latina/2026/06/21/la-asamblea-legislativa-de-bolivia-aprobo-la-declaracion-de-estado-de-excepcion-de-rodrigo-paz-para-liberar-las-rutas-bloqueadas/"
-      },
-      {
-        "nombre": "Europa Press (21 junio - acuerdo Santa Cruz)",
-        "url": "https://www.europapress.es/internacional/noticia-gobierno-boliviano-manifestantes-acuerdan-levantamiento-bloqueos-parte-santa-cruz-20260621090605.html"
-      },
-      {
-        "nombre": "The Guardian (21 junio)",
-        "url": "https://www.theguardian.com/world/2026/jun/21/bolivian-president-declares-state-of-emergency-and-deploys-military-to-quell-anti-government-protests"
-      },
-      {
-        "nombre": "Hindustan Times (21 junio - día 50)",
-        "url": "https://www.hindustantimes.com/world-news/bolivia-protests-food-shortage-state-of-emergency-what-is-happening-in-bolivia-crisis-explained-101782023758748.html"
-      },
-      {
-        "nombre": "WION (21 junio)",
-        "url": "https://www.wionews.com/world/bolivia-declares-state-of-emergency-sends-troops-to-crush-six-week-protest-blockade-1782003559539"
-      },
-      {
-        "nombre": "Merca2 (21 junio)",
-        "url": "https://www.merca2.es/2026/06/21/estado-excepcion-bolivia-protestas-paz-2402244/"
-      },
-      {
-        "nombre": "CNN (20 junio - estado de excepción)",
-        "url": "https://www.cnn.com/2026/06/20/americas/bolivia-president-state-of-emergency-intl-hnk"
-      },
-      {
-        "nombre": "Reuters (20 junio - estado de excepción)",
-        "url": "https://www.reuters.com/world/americas/bolivias-paz-declares-state-emergency-over-blockade-crisis-2026-06-20/"
-      },
-      {
-        "nombre": "ABC Color / EFE (20 junio - estado de excepción)",
-        "url": "https://www.abc.com.py/internacionales/2026/06/20/paz-decreta-el-estado-de-excepcion-en-bolivia-tras-siete-semanas-de-bloqueos-de-carreteras/"
-      },
-      {
-        "nombre": "Sputnik Mundo (20 junio - estado de excepción)",
-        "url": "https://noticiaslatam.lat/20260620/el-presidente-rodrigo-paz-decreta-el-estado-de-excepcion-en-bolivia-ante-los-bloqueos-1173967000.html"
-      },
-      {
-        "nombre": "Brújula Digital (17 junio - 47 bloqueos)",
-        "url": "https://brujuladigital.net/sociedad/2026/06/17/a-horas-de-comenzar-el-dialogo-se-registran-47-bloqueos-en-cinco-departamentos-62162"
-      },
-      {
-        "nombre": "Brújula Digital (16 junio - Cabildo El Alto)",
-        "url": "https://brujuladigital.net/politica/2026/06/16/cabildo-de-el-alto-da-72-horas-a-rodrigo-paz-para-renunciar-y-anuncia-una-nueva-fase-de-bloqueos-62129"
-      }
-    ],
-    "createdAt": "2026-06-11T15:03:53.000Z",
-    "updatedAt": "2026-06-21T23:15:15Z"
-  },
-  {
-    "id": 21,
-    "seccion": "internacional",
-    "pais": "Pakistán (Cachemira bajo admin. pakistaní)",
-    "bandera": "🇵🇰",
-    "hora": "00:01",
-    "fecha": "2026-06-21",
-    "lugar": "Muzaffarabad, Rawalakot (Eidgah Ground), Kotli y múltiples distritos de Azad Jammu y Cachemira (PoK)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Joint Awami Action Committee (JAAC)",
-      "Awami Action Committee (AAC)",
-      "United Kashmir People's National Party (UKPNP)"
-    ],
-    "motivo": "Día 19 de protestas masivas antigubernamentales en Cachemira bajo administración pakistaní. La crisis se desató por la disputa sobre 12 escaños reservados en la Asamblea Legislativa para refugiados, y se ha expandido a demandas más amplias contra el gobierno de Islamabad: fin del bloqueo alimenticio, restauración de internet, tarifas eléctricas más bajas, alivio ante la inflación y transparencia gubernamental. Alrededor de 70.000 personas participaron en una protesta nocturna con linternas en Rawalakot. Pakistán mantiene bloqueo alimenticio total e internet suspendido. Más de 1.435 cachemires detenidos o desaparecidos. Al menos 46 muertos desde el inicio.",
-    "status": "en_curso",
-    "lat": "34.3700",
-    "lng": "73.4700",
-    "fuentes": [
-      {
-        "nombre": "News18 (21 junio - día 19)",
-        "url": "https://www.news18.com/world/pok-protests-day-19-pakistan-crackdown-rawalakot-jaac-arrests-food-blockade-internet-blackout-azad-jammu-kashmir-glasgow-protests-ws-l-10163678.html"
-      },
-      {
-        "nombre": "ABP News (21 junio - día 13/19)",
-        "url": "https://news.abplive.com/videos/news/world-breaking-pok-protests-enter-13th-day-thousands-continue-demonstrations-in-rawalakot-1851629"
-      },
-      {
-        "nombre": "NewsBytes (21 junio - día 19)",
-        "url": "https://www.newsbytesapp.com/news/india/pok-protests-enter-19th-day-over-12-refugee-election-seats/tldr"
-      },
-      {
-        "nombre": "Times of India (20 junio)",
-        "url": "https://timesofindia.indiatimes.com/india/peace-broker-or-troubled-state-what-pok-unrest-means-for-pakistan/articleshow/131878384.cms"
-      },
-      {
-        "nombre": "Al Jazeera (9 junio)",
-        "url": "https://www.aljazeera.com/news/2026/6/9/deadly-protests-in-pakistan-administered-kashmir-whats-going-on"
-      },
-      {
-        "nombre": "BBC (11 junio)",
-        "url": "https://www.bbc.com/news/articles/cdxdyn5716xo"
-      }
-    ],
-    "createdAt": "2026-06-21T08:37:01.000Z",
-    "updatedAt": "2026-06-21T23:15:15Z"
-  },
-  {
-    "id": 22,
-    "seccion": "internacional",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
-    "hora": "10:00",
-    "fecha": "2026-06-21",
-    "lugar": "Múltiples estadios de la FIFA World Cup 2026 y arenas deportivas: Los Ángeles (SoFi, Dodger Stadium), Miami (Hard Rock), Boston (Gillette), Seattle (Lumen Field), Atlanta (Mercedes-Benz), Filadelfia (Lincoln Financial), SF Bay Area (Levi's), Kansas City (Arrowhead), Dallas (AT&T), Houston (NRG), East Rutherford (MetLife), Vancouver (BC Place), Toronto (BMO Field), Guadalajara, Ciudad de México, Monterrey; además de estadios en Portland, Sacramento, Cleveland, St. Louis, Arlington TX",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Sierra Club (Angeles Chapter)",
-      "Third Act SoCal",
-      "Fossil Free Football",
-      "Extinction Rebellion"
-    ],
-    "motivo": "Protesta climática coordinada contra el patrocinio de combustibles fósiles en la FIFA World Cup 2026 y el deporte profesional. El principal patrocinador de la FIFA, Saudi Aramco (la mayor petrolera del mundo), es el blanco central. Se protesta también en estadios patrocinados por Phillips 66, Bank of America, Marathon Petroleum, BP, Shell y Energy Transfer. La FIFA World Cup 2026 es proyectada como la más contaminante de la historia. La protesta busca que la FIFA y los equipos deportivos rompan sus vínculos con patrocinadores de combustibles fósiles.",
-    "status": "en_curso",
-    "lat": "33.9533",
-    "lng": "-118.3394",
-    "fuentes": [
-      {
-        "nombre": "Hill Heat (21 junio - evento del día)",
-        "url": "https://hillheat.com/events/2026/06/21/protest-fossil-fuel-sportswashing-across-the-nation"
-      },
-      {
-        "nombre": "Politico (20 junio)",
-        "url": "https://www.politico.com/live-updates/2026/06/20/world-cup-2026/climate-protest-fifa-aramco-dodgers-00969096"
-      },
-      {
-        "nombre": "The Guardian (19 junio)",
-        "url": "https://www.theguardian.com/environment/2026/jun/19/activists-world-cup-fifa-aramco-oil-partnership"
-      },
-      {
-        "nombre": "Sierra Club (10 junio - convocatoria)",
-        "url": "https://www.sierraclub.org/angeles/blog/2026/06/climate-activists-protest-fossil-fuel-sponsorships-us-fifa-world-cup-stadiums"
-      }
-    ],
-    "createdAt": "2026-06-21T08:37:01.000Z",
-    "updatedAt": "2026-06-21T23:15:15Z"
-  },
-  {
     "id": 23,
     "seccion": "internacional",
     "pais": "India",
     "bandera": "🇮🇳",
-    "hora": "06:00",
-    "fecha": "2026-06-21",
+    "hora": "00:01",
+    "fecha": "2026-06-22",
     "lugar": "Jantar Mantar, Nueva Delhi",
     "tipoAccion": "protesta",
     "organizaciones": [
       "Cockroach Janta Party (CJP)",
       "Abhijeet Dipke (fundador)",
-      "Sonam Wangchuk (activista climático)"
+      "Sonam Wangchuk (activista climático)",
+      "AISA",
+      "SFI",
+      "All India Students' Federation (AISF)",
+      "Krantikari Yuva Sangathan"
     ],
-    "motivo": "Día 2 de la protesta del Cockroach Janta Party (CJP) en Jantar Mantar, exigiendo la renuncia del Ministro de Educación Dharmendra Pradhan por supuestas irregularidades en exámenes nacionales (filtración del NEET 2026). La protesta continuó durante la noche del 20 al 21 de junio. La policía declaró la reunión como 'asamblea ilegal' tras las 5:00 PM del sábado pero los manifestantes se negaron a retirarse. Los manifestantes usaron thali (platos) y chammach (cucharas) como símbolo. El 21 de junio (Día Internacional del Yoga y re-examen NEET-UG) la protesta seguía activa con Dipke llamando a agricultores y estudiantes a unirse. Sonam Wangchuk anunció una huelga de hambre para el 27 de junio si el ministro no renuncia.",
+    "motivo": "Día 3 de la protesta/sentada del Cockroach Janta Party (CJP) en Jantar Mantar, exigiendo la renuncia del Ministro de Educación Dharmendra Pradhan por la filtración del examen NEET-UG 2026. La protesta continúa ininterrumpidamente desde el sábado 20 de junio, con manifestantes acampando día y noche pese a la orden policial de desalojar. Dipke intensificó el llamado a agricultores y estudiantes para unirse. Organizaciones estudiantiles (AISA, SFI, AISF) se sumaron. Se reportan cortes de agua y electricidad en el lugar. Sonam Wangchuk anunció huelga de hambre desde el 27 de junio si Pradhan no renuncia. La policía mantiene vigilancia con 270 cámaras corporales.",
     "status": "en_curso",
     "lat": "28.6271",
     "lng": "77.2168",
     "fuentes": [
       {
-        "nombre": "Times of India (21 junio)",
+        "nombre": "The Morning Voice (22 junio - día 3)",
+        "url": "https://tmv.in/article/no-backing-down-cjp-sit-in-intensifies-as-jantar-mantar-protest-enters-day-3-date=2026-06-22"
+      },
+      {
+        "nombre": "Nagaland Post (22 junio - overnight protest)",
+        "url": "https://nagalandpost.com/cjps-overnight-protest-demands-pradhans-resignation/"
+      },
+      {
+        "nombre": "The Star / AP (22 junio - 'cockroaches' bang utensils)",
+        "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/22/cockroaches-bang-utensils-calling-for-ministers-resignation"
+      },
+      {
+        "nombre": "Telegraph India (22 junio - protest on till Pradhan resigns)",
+        "url": "https://www.telegraphindia.com/india/neet-paper-leak-protest-continues-as-dharmendra-pradhan-resignation-demand-grows-prnt/cid/2166589"
+      },
+      {
+        "nombre": "Times of India (21 junio - CJP stays put, langar y lassi)",
+        "url": "https://timesofindia.indiatimes.com/city/delhi/cjp-stays-put-at-jantar-mantar-langar-and-lassi-arrive/articleshow/131895238.cms"
+      },
+      {
+        "nombre": "Al Jazeera (21 junio - cockroach movement camps out)",
+        "url": "https://www.aljazeera.com/news/2026/6/21/indias-cockroach-movement-camps-out-until-education-minister-resigns"
+      },
+      {
+        "nombre": "The Print (21 junio - overnight sit-in)",
+        "url": "https://theprint.in/india/dipke-cjp-supporters-continue-sit-in-overnight-at-jantar-mantar-urge-people-to-join-protest/2965902/"
+      },
+      {
+        "nombre": "Times of India (21 junio - farmers invited)",
         "url": "https://timesofindia.indiatimes.com/city/delhi/stand-with-us-with-thalis-in-hand-cjp-supporters-continue-protest-at-jantar-mantar-urge-farmers-to-join-agitation/articleshow/131887991.cms"
-      },
-      {
-        "nombre": "The Economic Times (21 junio)",
-        "url": "https://economictimes.indiatimes.com/news/politics-and-nation/cjp-founder-abhijeet-dipke-supporters-continue-sit-in-overnight-at-jantar-mantar-urge-people-to-join-protest/articleshow/131886580.cms"
-      },
-      {
-        "nombre": "Times Now (21 junio)",
-        "url": "https://www.timesnownews.com/india/cockroach-janata-party-founder-abhijeet-dipke-appeals-to-farmers-to-join-stir-demands-dharmendra-pradhans-resignation-article-154707137"
-      },
-      {
-        "nombre": "Free Press Journal (21 junio)",
-        "url": "https://www.freepressjournal.in/india/cjp-supporters-defy-deadline-at-jantar-mantar-demand-resignation-of-education-minister-over-exam-irregularities"
-      },
-      {
-        "nombre": "The Indian Express (21 junio)",
-        "url": "https://indianexpress.com/article/cities/delhi/cockroach-janta-party-protest-jantar-mantar-pradhan-resignation-neet-row-abhijeet-dipke-10749906/"
-      },
-      {
-        "nombre": "The Hindu (21 junio)",
-        "url": "https://www.thehindu.com/news/national/cockroach-janta-party-protest-jantar-mantar-delhi-neet-paper-leak-live-june-20-2026/article71125410.ece"
-      },
-      {
-        "nombre": "Hindustan Times (20 junio)",
-        "url": "https://www.hindustantimes.com/india-news/cjp-protest-delhi-live-updates-abhijeet-dipke-jantar-mantar-cockroach-janta-party-sonam-wangchuk-dharmendra-pradhan-neet-101781924276120.html"
-      },
-      {
-        "nombre": "MSN / News18 (21 junio)",
-        "url": "https://www.msn.com/en-xl/politics/government/india-s-cockroach-party-supporters-bang-plates-to-call-for-education-minister-s-resignationpublished-on-june-21-2026-7-48-am/ar-AA26arVk"
       }
     ],
     "createdAt": "2026-06-21T08:37:01.000Z",
-    "updatedAt": "2026-06-21T23:15:15Z"
+    "updatedAt": "2026-06-22T02:06:18Z"
   },
   {
-    "id": 24,
+    "id": 40,
     "seccion": "internacional",
-    "pais": "Albania",
-    "bandera": "🇦🇱",
-    "hora": "18:00",
-    "fecha": "2026-06-21",
-    "lugar": "Tirana, bulevar principal y frente a la oficina del Primer Ministro; también en Vlora (Zvërnec)",
+    "pais": "Indonesia",
+    "bandera": "🇮🇩",
+    "hora": "10:00",
+    "fecha": "2026-06-22",
+    "lugar": "Jakarta: Horse Statue (Central Jakarta), área de Monas y frente a Embajada de EE.UU.",
     "tipoAccion": "protesta",
     "organizaciones": [
-      "Manifestantes ambientales y ciudadanos",
-      "Lëvizja Bashkë",
-      "Lëvizja Shqipëria Bëhet",
-      "PPNEA / BirdLife Albania",
-      "Comunidad de la diáspora albanesa"
+      "PB PMII (Central Board of the Indonesian Islamic Students Movement)",
+      "Jakarta Community Alliance",
+      "KNARA (National Coalition for Agrarian Reform)"
     ],
-    "motivo": "Día 22 de protestas masivas contra el gobierno del Primer Ministro Edi Rama por el desarrollo turístico de lujo en la costa protegida de Vjosa-Narta (Zvërnec), vinculado a Jared Kushner (yerno de Donald Trump) y su firma Affinity Partners. Las protestas del 20-21 de junio fueron las más grandes hasta la fecha, con decenas de miles de personas rodeando la residencia de Rama —más de 100.000 según medios albaneses— incluyendo miembros de la diáspora albanokosovar que cruzaron la frontera. El domingo 21 por la mañana aún permanecía un grupo reducido de manifestantes. Los manifestantes exigen la cancelación del proyecto, la renuncia de Rama y mayor transparencia. La fiscalía anticorrupción SPAK investiga los títulos de propiedad. Rama se niega a renunciar y afirma que el proyecto 'no tiene posibilidad de ser detenido mientras yo esté en el cargo'.",
+    "motivo": "Tres protestas simultáneas en Yakarta el lunes 22 de junio. PB PMII se manifiesta en la estatua del caballo en Central Jakarta exigiendo una evaluación total del Gabinete Merah Putih del presidente Prabowo Subianto y Gibran Rakabuming Raka, con acciones coordinadas en aproximadamente 300 puntos en toda Indonesia hasta el 24 de junio. La Jakarta Community Alliance realiza una marcha pacífica desde la Embajada de EE.UU. hasta la intersección de Monas en apoyo al programa de comidas nutritivas gratuitas y exigiendo penas máximas para corruptores. KNARA protesta en el área de Monas contra la injusticia agraria y la 'economía codiciosa', exigiendo la creación del Cuerpo Nacional de Reforma Agraria (BNARA) y la defensa de Pancasila y el Artículo 33 de la Constitución de 1945.",
     "status": "en_curso",
-    "lat": "41.3275",
-    "lng": "19.8187",
+    "lat": "-6.1751",
+    "lng": "106.8275",
     "fuentes": [
       {
-        "nombre": "Al Jazeera (21 junio - video)",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/06/21/protests-in-albania-against-kushner-resort-swell-to-tens-of-thousands"
-      },
-      {
-        "nombre": "Al Jazeera (21 junio - galería)",
-        "url": "https://www.aljazeera.com/gallery/2026/6/21/albanian-protesters-rally-against-kushner-backed-resort-in-protected-area"
-      },
-      {
-        "nombre": "Europa Press (21 junio - 22 días, continúa hoy)",
-        "url": "https://www.europapress.es/internacional/noticia-miles-albaneses-protagonizan-tirana-mayor-concentracion-contra-proyecto-jared-kushner-pais-20260621092752.html"
-      },
-      {
-        "nombre": "The New York Times (21 junio)",
-        "url": "https://www.nytimes.com/2026/06/21/world/europe/albania-kushner-project-protests.html"
-      },
-      {
-        "nombre": "Kathimerini (21 junio - 100.000 asistentes)",
-        "url": "https://www.ekathimerini.com/news/1307336/new-large-protest-in-albania-over-coastal-resort-project/"
-      },
-      {
-        "nombre": "DW (21 junio)",
-        "url": "https://www.dw.com/es/crecen-protestas-en-albania-contra-proyecto-ligado-a-trump/a-77641728"
-      },
-      {
-        "nombre": "The Straits Times (21 junio)",
-        "url": "https://www.straitstimes.com/world/europe/albanian-protests-against-trump-linked-resort-swell"
-      },
-      {
-        "nombre": "Voice of Emirates (21 junio - 'Flamingo Revolution')",
-        "url": "https://www.voiceofemirates.com/en/politics/2026/06/21/flamingo-revolution-albania-rises-up-again-against-jared-kushners-tourism-project/"
-      },
-      {
-        "nombre": "BGNES / AFP (21 junio)",
-        "url": "https://www.bgnes.com/society/thousands-protest-in-albania-against-a-resort-project-linked-to-the-trump-family"
-      },
-      {
-        "nombre": "NPR (16 junio)",
-        "url": "https://www.wuwm.com/world/2026-06-16/protests-continue-against-albanias-government-over-a-kushner-linked-resort-project"
+        "nombre": "Tempo.co (22 junio - 3 protestas en Jakarta)",
+        "url": "https://en.tempo.co/read/2109674/jakarta-braces-for-three-protests-across-the-city-today"
       }
     ],
-    "createdAt": "2026-06-21T08:37:01.000Z",
-    "updatedAt": "2026-06-21T23:15:15Z"
+    "createdAt": "2026-06-22T02:01:30.000Z",
+    "updatedAt": "2026-06-22T02:06:18Z"
   },
   {
-    "id": 25,
+    "id": 41,
     "seccion": "internacional",
     "pais": "Estados Unidos",
     "bandera": "🇺🇸",
-    "hora": "12:00",
-    "fecha": "2026-06-21",
-    "lugar": "Washington, D.C. (cerca del Capitolio y espacios públicos)",
+    "hora": "17:00",
+    "fecha": "2026-06-22",
+    "lugar": "MacArthur Blvd & High St, Oakland, California",
     "tipoAccion": "protesta",
     "organizaciones": [
-      "Comunidad de migrantes afganos en EE.UU.",
-      "Activistas de derechos humanos",
-      "Right to Learn Afghanistan"
+      "Indivisible East Bay",
+      "Residentes locales de Oakland"
     ],
-    "motivo": "Protesta de migrantes afganos en Washington D.C. contra las políticas de apartheid de género del régimen talibán en Afganistán. Los manifestantes corearon 'Educación, Trabajo, Libertad' y exigieron el reconocimiento internacional del 'apartheid de género' en Afganistán. Pidieron a los gobiernos e instituciones globales que condicionen cualquier compromiso oficial con los talibanes al respeto de los derechos humanos y la restauración de los derechos de las mujeres. La protesta forma parte de una jornada coordinada global de la diáspora afgana en múltiples países.",
+    "motivo": "Protesta comunitaria semanal en la esquina de MacArthur y High St en Oakland contra las políticas del gobierno de Trump. Los vecinos se congregan semanalmente desde la toma de posesión para demostrar que la resistencia contra las políticas gubernamentales dañinas es fuerte, usando carteles y el poder de la comunidad.",
     "status": "en_curso",
-    "lat": "38.9072",
-    "lng": "-77.0369",
+    "lat": "37.8044",
+    "lng": "-122.2712",
     "fuentes": [
       {
-        "nombre": "AtlasPress (21 junio)",
-        "url": "https://atlaspress.news/en/2026/06/21/afghan-migrants-protest-taliban-gender-apartheid-womens-rights/"
-      },
-      {
-        "nombre": "Shahed News (21 junio)",
-        "url": "https://shahed.news/en/2026/06/21/afghan-migrants-protest-in-several-countries-call-for-recognition-of-taliban-policies-as-gender-apartheid/"
+        "nombre": "Indivisible East Bay (22 junio - weekly protest)",
+        "url": "https://indivisibleeb.org/event/macarthur-high-st-weekly-resistance-protest-5/2026-06-22/"
       }
     ],
-    "createdAt": "2026-06-21T11:47:45.000Z",
-    "updatedAt": "2026-06-21T23:15:15Z"
+    "createdAt": "2026-06-22T02:01:30.000Z",
+    "updatedAt": "2026-06-22T02:06:18Z"
   },
   {
-    "id": 26,
-    "seccion": "internacional",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "12:00",
-    "fecha": "2026-06-21",
-    "lugar": "Madrid (oficina del Parlamento Europeo) y Bilbao",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Comunidad de migrantes afganos en España",
-      "Activistas de derechos humanos"
-    ],
-    "motivo": "Protestas coordinadas de migrantes afganos en Madrid y Bilbao contra el régimen talibán, denunciando el apartheid de género y la represión violenta de protestas pacíficas en Herat. En Madrid emitieron un comunicado describiendo la situación de derechos humanos en Afganistán como 'deteriorada' y pidieron una investigación legal formal sobre la violencia dirigida contra la comunidad hazara como genocidio. Destacaron que las comunidades tayika, uzbeka, turcomana, chiíta y minorías religiosas como sijs e hindúes enfrentan discriminación estructural.",
-    "status": "en_curso",
-    "lat": "40.4168",
-    "lng": "-3.7038",
-    "fuentes": [
-      {
-        "nombre": "AtlasPress (21 junio)",
-        "url": "https://atlaspress.news/en/2026/06/21/afghan-migrants-protest-taliban-gender-apartheid-womens-rights/"
-      },
-      {
-        "nombre": "Shahed News (21 junio)",
-        "url": "https://shahed.news/en/2026/06/21/afghan-migrants-protest-in-several-countries-call-for-recognition-of-taliban-policies-as-gender-apartheid/"
-      },
-      {
-        "nombre": "Hasht-e Subh / 8AM (21 junio)",
-        "url": "https://8am.media/eng/afghans-in-spain-protest-in-support-of-women-under-taliban-rule/"
-      }
-    ],
-    "createdAt": "2026-06-21T11:47:45.000Z",
-    "updatedAt": "2026-06-21T23:15:15Z"
-  },
-  {
-    "id": 27,
-    "seccion": "internacional",
-    "pais": "Suiza",
-    "bandera": "🇨🇭",
-    "hora": "12:00",
-    "fecha": "2026-06-21",
-    "lugar": "Ginebra, frente a la oficina de Naciones Unidas",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Comunidad de migrantes afganos en Suiza",
-      "Activistas de derechos humanos"
-    ],
-    "motivo": "Protesta de migrantes afganos en Ginebra frente a la oficina de la ONU para condenar la represión violenta de protestas pacíficas en el área de Jebrail en Herat, Afganistán. Denunciaron los arrestos arbitrarios de mujeres por su vestimenta y el trato coercitivo a manifestantes como ejemplos de las crecientes restricciones talibanes. Exigieron el reconocimiento internacional del apartheid de género y acción concreta de la ONU y los gobiernos.",
-    "status": "en_curso",
-    "lat": "46.2044",
-    "lng": "6.1432",
-    "fuentes": [
-      {
-        "nombre": "AtlasPress (21 junio)",
-        "url": "https://atlaspress.news/en/2026/06/21/afghan-migrants-protest-taliban-gender-apartheid-womens-rights/"
-      },
-      {
-        "nombre": "Shahed News (21 junio)",
-        "url": "https://shahed.news/en/2026/06/21/afghan-migrants-protest-in-several-countries-call-for-recognition-of-taliban-policies-as-gender-apartheid/"
-      }
-    ],
-    "createdAt": "2026-06-21T11:47:45.000Z",
-    "updatedAt": "2026-06-21T23:15:15Z"
-  },
-  {
-    "id": 28,
-    "seccion": "internacional",
-    "pais": "Corea del Sur",
-    "bandera": "🇰🇷",
-    "hora": "00:01",
-    "fecha": "2026-06-21",
-    "lugar": "SK Olympic Handball Gymnasium, Songpa-gu, Seúl; también en Hongdae, Jongno, Jung-gu",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Ciudadanos manifestantes",
-      "BOSS Hongdae (grupo juvenil)"
-    ],
-    "motivo": "Día 17 de protestas exigiendo una repetición de las elecciones locales del 3 de junio, empañadas por una grave escasez de papeletas. La participación cayó drásticamente: de 20.000-30.000 personas el primer fin de semana a unos 1.000 el 21 de junio, con una marcada disminución de jóvenes de 20-30 años (solo 10-20% de los asistentes). Se han producido divisiones internas y acusaciones de infiltración política. Grupos juveniles separatistas como 'BOSS Hongdae' realizaron protestas independientes. El Primer Ministro Kim Min-seok asistió a un foro de reforma electoral a 500 metros del bloqueo pero no visitó a los manifestantes.",
-    "status": "en_curso",
-    "lat": "37.5185",
-    "lng": "127.1243",
-    "fuentes": [
-      {
-        "nombre": "Kyunghyang Shinmun (21 junio - caída de participación)",
-        "url": "https://www.khan.co.kr/en/article/202606211528007"
-      },
-      {
-        "nombre": "Yonhap (21 junio)",
-        "url": "https://en.yna.co.kr/view/AEN20260621002700315"
-      },
-      {
-        "nombre": "The Korea Times (21 junio)",
-        "url": "https://www.koreatimes.co.kr/southkorea/politics/20260621/protests-over-ballot-shortage-continue-for-17th-day"
-      }
-    ],
-    "createdAt": "2026-06-21T14:05:16.000Z",
-    "updatedAt": "2026-06-21T23:15:15Z"
-  },
-  {
-    "id": 29,
-    "seccion": "internacional",
-    "pais": "Moldavia",
-    "bandera": "🇲🇩",
-    "hora": "12:00",
-    "fecha": "2026-06-21",
-    "lugar": "Intersección de calles București e Ismail, Chisináu",
-    "tipoAccion": "marcha",
-    "organizaciones": [
-      "Platform of LGBTQI+ Organizations of the Republic of Moldova",
-      "GENDERDOC-M Information Center"
-    ],
-    "motivo": "Marcha del Orgullo Chișinău Pride 2026, edición 25 del festival Moldova Pride, bajo el lema 'El espacio público pertenece a todos y la libertad de reunión no puede ser condicionada por opiniones políticas'. Los participantes demandan el derecho al matrimonio igualitario, reconocimiento legal de parejas del mismo sexo, mayor protección contra delitos de odio y procedimientos simplificados para personas transgénero. La marcha transcurrió sin incidentes por primera vez, con unos 350 participantes. Grupos conservadores realizaron una contramanifestación pacífica separada en el centro de la ciudad.",
-    "status": "finalizado",
-    "lat": "47.0241",
-    "lng": "28.8328",
-    "fuentes": [
-      {
-        "nombre": "GDM Moldova Pride 2026",
-        "url": "https://gdm.md/landing/pride2026/"
-      },
-      {
-        "nombre": "HotNews.ro (21 junio)",
-        "url": "https://hotnews.ro/primul-mars-pride-de-la-chisinau-la-care-nu-au-fost-incidente-cazul-unui-fost-soldat-discriminat-in-armata-care-a-iesit-in-strada-2279733"
-      },
-      {
-        "nombre": "Cotidianul (20 junio)",
-        "url": "https://cotidianul.md/en/33357/The-family-march-before-the-pride-march--Dodon-accuses-the-PAS-government-of-reminding-him-of-the-deportations-to-Siberia/"
-      }
-    ],
-    "createdAt": "2026-06-21T14:05:16.000Z",
-    "updatedAt": "2026-06-21T23:15:15Z"
-  },
-  {
-    "id": 30,
-    "seccion": "internacional",
-    "pais": "Ucrania",
-    "bandera": "🇺🇦",
-    "hora": "11:00",
-    "fecha": "2026-06-21",
-    "lugar": "Parque Taras Shevchenko y calle Jreshchatyk, Kyiv",
-    "tipoAccion": "marcha",
-    "organizaciones": [
-      "KyivPride",
-      "Activistas LGBT+",
-      "Organizaciones de derechos humanos",
-      "Ukrainian LGBT Military for Equal Rights"
-    ],
-    "motivo": "10.ª Marcha del Orgullo KyivPride 2026 con unos 5.000 participantes, la más grande desde el inicio de la guerra. Bajo el lema 'Nuestras familias son parte de Ucrania', exigen el rechazo del nuevo proyecto de Código Civil (considerado discriminatorio por definir la familia solo como unión hombre-mujer), el reconocimiento de uniones civiles para militares y civiles, el fortalecimiento de la responsabilidad por delitos de odio y la simplificación de procedimientos para personas transgénero. Contó con apoyo de embajadas de Suecia, Canadá, Alemania, Australia, Italia, Noruega, Bélgica, Reino Unido, Finlandia, España, Dinamarca, Francia, Países Bajos, UE y ONU. Una contramanifestación de 'valores tradicionales' también se realizó en la misma avenida. La marcha finalizó durante un ataque con drones rusos sobre Kyiv.",
-    "status": "finalizado",
-    "lat": "50.4472",
-    "lng": "30.5227",
-    "fuentes": [
-      {
-        "nombre": "Kyiv Independent (21 junio - 5.000 participantes)",
-        "url": "https://kyivindependent.com/thousands-gather-for-kyivs-largest-pride-march-since-start-of-all-out-war"
-      },
-      {
-        "nombre": "The New Voice of Ukraine (21 junio)",
-        "url": "https://english.nv.ua/life/kyivpride-march-draws-5-000-in-push-for-lgbtiq-family-rights-photo-50618041.html"
-      },
-      {
-        "nombre": "The Public (21 junio)",
-        "url": "https://thepublic.info/en/news/kyivpride-2026-brought-together-thousands-of-people-in-the-centre-of-kyiv"
-      },
-      {
-        "nombre": "ANTIKOR Portal (21 junio)",
-        "url": "http://antikor.ua/en/articles/845625-aktsii_v_stolitse_na_kreshchatike_startoval_marsh_storonnikov_traditsionnyh_tsennostej"
-      }
-    ],
-    "createdAt": "2026-06-21T14:05:16.000Z",
-    "updatedAt": "2026-06-21T23:15:15Z"
-  },
-  {
-    "id": 31,
-    "seccion": "internacional",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "14:00",
-    "fecha": "2026-06-21",
-    "lugar": "París, desde Barbès (París 18°) hasta Place de la République",
-    "tipoAccion": "marcha",
-    "organizaciones": [
-      "CGT (Confédération générale du travail)",
-      "FSU (Fédération syndicale unitaire)",
-      "LDH (Ligue des droits de l'Homme)",
-      "MRAP (Mouvement contre le racisme)",
-      "Union syndicale Solidaires",
-      "Attac France",
-      "Emmaüs France",
-      "France Nature Environnement"
-    ],
-    "motivo": "Marcha unitaria contra todas las formas de racismo, discriminaciones y la extrema derecha en París, convocada por el alcalde de Saint-Denis Bally Bagayoko y apoyada por decenas de organizaciones sindicales, asociativas y políticas. Exigen igualdad de derechos frente al aumento de actos racistas, la normalización del discurso de odio en medios y la discriminación sistémica en empleo, vivienda y controles policiales. La movilización tuvo lugar antes de las festividades de la Fête de la Musique.",
-    "status": "finalizado",
-    "lat": "48.8566",
-    "lng": "2.3522",
-    "fuentes": [
-      {
-        "nombre": "France24 (21 junio - miles de personas marchan)",
-        "url": "https://www.france24.com/fr/info-en-continu/20260621-des-milliers-de-personnes-manifestent-contre-le-racisme-%C3%A0-paris-%C3%A0-l-appel-de-lfi"
-      },
-      {
-        "nombre": "L'Humanité (21 junio - crónica)",
-        "url": "https://www.humanite.fr/politique/antiracisme/marche-antiraciste-a-paris-plusieurs-milliers-de-personnes-defilent-contre-la-haine-malgre-la-canicule"
-      },
-      {
-        "nombre": "LDH France (15 junio - convocatoria)",
-        "url": "https://www.ldh-france.org/manifestons-contre-tous-les-racismes-dimanche-21-juin-a-paris/"
-      },
-      {
-        "nombre": "L'Insoumission (19 junio)",
-        "url": "https://linsoumission.fr/2026/06/19/21-juin-antiraciste/"
-      },
-      {
-        "nombre": "Attac France (21 junio)",
-        "url": "https://france.attac.org/se-mobiliser/contre-la-repression-et-le-racisme-pour-les-libertes-publiques/article/manifestons-contre-tous-les-racismes-dimanche-21-juin-2026-a-paris"
-      }
-    ],
-    "createdAt": "2026-06-21T16:14:37.000Z",
-    "updatedAt": "2026-06-21T23:15:15Z"
-  },
-  {
-    "id": 32,
-    "seccion": "internacional",
-    "pais": "Turquía",
-    "bandera": "🇹🇷",
-    "hora": "15:00",
-    "fecha": "2026-06-21",
-    "lugar": "Fenerbahçe, Kadıköy, Estambul",
-    "tipoAccion": "marcha",
-    "organizaciones": [
-      "Activistas y colectivos trans (LGBTİ+)",
-      "DEM Parti (Participación de la diputada Özgül Saki)"
-    ],
-    "motivo": "12.ª Marcha del Orgullo Trans de Estambul, realizada pese a las prohibiciones oficiales de los distritos de Beyoğlu y Kadıköy. Los manifestantes utilizaron una estrategia de señuelo: mientras miles de policías custodiaban la Plaza Taksim, los activistas se congregaron en una ubicación no anunciada en Fenerbahçe (Kadıköy). Conmemoraron a 15 personas trans asesinadas (Hande Kader, Poyraz, Arya, entre otras) bajo el lema 'Construiremos un mundo donde las personas trans envejezcan y mueran'. La policía rodeó al grupo tras la marcha y detuvo a varios activistas y a los periodistas Yusuf Çelik y Doğa Tekneci. Las estaciones de metro Taksim fueron cerradas durante la operación policial.",
-    "status": "finalizado",
-    "lat": "40.9900",
-    "lng": "29.0300",
-    "fuentes": [
-      {
-        "nombre": "Bianet (21 junio - crónica con detenciones)",
-        "url": "https://bianet.org/haber/trans-activists-pop-up-in-kadikoy-after-decoy-parade-draws-police-to-taksim-320753"
-      },
-      {
-        "nombre": "BirGün (21 junio)",
-        "url": "https://www.birgun.net/haber/12-trans-onur-yuruyusu-kadikoyde-gerceklesti-pek-cok-ilcede-yasaklama-karari-alinmisti-719599"
-      },
-      {
-        "nombre": "T24 (21 junio - video)",
-        "url": "https://t24.com.tr/video/12-istanbul-trans-onur-yuruyusu-yasaga-karsi-gerceklesti,70527"
-      }
-    ],
-    "createdAt": "2026-06-21T18:03:55.000Z",
-    "updatedAt": "2026-06-21T23:15:15Z"
-  },
-  {
-    "id": 33,
-    "seccion": "internacional",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "12:00",
-    "fecha": "2026-06-21",
-    "lugar": "Plaza de España, Palma de Mallorca, Islas Baleares",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Plataforma de Afectados por la Hipoteca (PAH) de Mallorca",
-      "Sindicatos (CGT, CNT)",
-      "Entidades vecinales y ecologistas"
-    ],
-    "motivo": "Concentración de más de 150 personas contra la emergencia habitacional en Baleares, bajo el lema 'La vivienda nos cuesta la vida'. Denuncian la 'limpieza social' tras el desalojo de la antigua prisión de Palma, donde residían más de 200 personas que quedaron sin alternativa habitacional, y la amenaza de desahucio en Son Bordoy, donde 180 personas viven desde hace 28 años. Critican al Govern de Marga Prohens y al Ayuntamiento de Palma por no declarar zonas tensionadas ni construir vivienda social. La protesta forma parte de una ola de movilizaciones simultáneas en 32 ciudades españolas desde mayo.",
-    "status": "finalizado",
-    "lat": "39.5696",
-    "lng": "2.6502",
-    "fuentes": [
-      {
-        "nombre": "Cadena SER (21 junio)",
-        "url": "https://cadenaser.com/baleares/2026/06/21/un-centenar-de-personas-protesta-en-palma-contra-la-emergencia-habitacional-nos-estan-ahogando-radio-mallorca/"
-      },
-      {
-        "nombre": "Diario de Mallorca (21 junio)",
-        "url": "https://www.diariodemallorca.es/mallorca/2026/06/21/concentracion-palma-desahucios-crisis-habitacional-131657130.html"
-      },
-      {
-        "nombre": "Europa Press (21 junio)",
-        "url": "https://www.europapress.es/illes-balears/noticia-centenar-personas-claman-palma-contra-limpieza-social-vista-puesta-desalojo-son-bordoy-20260621131535.html"
-      },
-      {
-        "nombre": "Última Hora (21 junio)",
-        "url": "https://www.ultimahora.es/noticias/local/2026/06/21/2654919/unas-150-personas-estallan-por-situacion-vivienda-estan-haciendo-limpieza-social.html"
-      }
-    ],
-    "createdAt": "2026-06-21T18:03:55.000Z",
-    "updatedAt": "2026-06-21T23:15:15Z"
-  },
-  {
-    "id": 34,
-    "seccion": "internacional",
-    "pais": "Brasil",
-    "bandera": "🇧🇷",
-    "hora": "10:00",
-    "fecha": "2026-06-21",
-    "lugar": "São Paulo (Av. Paulista ~42.400 personas), Río de Janeiro (Copacabana ~41.800), Brasilia, Belo Horizonte, Salvador (~30.000), Recife, Porto Alegre y más de 50 ciudades en todo el país",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Frente Povo Sem Medo",
-      "Frente Brasil Popular",
-      "PSOL",
-      "PT",
-      "Movimento dos Trabalhadores Rurais Sem Terra (MST)",
-      "Movimento dos Trabalhadores Sem Teto (MTST)",
-      "UNE",
-      "Central Única dos Trabalhadores (CUT)"
-    ],
-    "motivo": "Masivas protestas en todo Brasil contra la 'PEC da Blindagem' (que exigiría autorización del Congreso para procesar penalmente a diputados y senadores) y contra el 'PL da Anistia' (que otorgaría perdón a condenados por intento de golpe de Estado del 8 de enero de 2023, incluido el expresidente Jair Bolsonaro, condenado a 27 años de prisión). En Río de Janeiro se presentaron Chico Buarque, Caetano Veloso, Gilberto Gil, Djavan y Maria Gadú. En Salvador actuaron Daniela Mercury y Wagner Moura. Los organizadores estiman más de 200.000 participantes en todo el país. El presidente de la Cámara Hugo Motta declaró tras las protestas que 'es momento de retirar esas pautas tóxicas'.",
-    "status": "finalizado",
-    "lat": "-23.5505",
-    "lng": "-46.6333",
-    "fuentes": [
-      {
-        "nombre": "O Progresso (21 junio - 42.400 en SP)",
-        "url": "https://www.progresso.com.br/politica/sao-paulo-tem-42-mil-pessoas-em-ato-contra-pec-da-blindagem-e-anistia/448571/"
-      },
-      {
-        "nombre": "Gilvan Melo Blog (21 junio - múltiples capitales)",
-        "url": "https://gilvanmelo.blogspot.com/2025/09/anti-bolsonarismo-recupera-as-ruas-em.html"
-      },
-      {
-        "nombre": "Luíz Müller Blog (21 junio - Porto Alegre DMAE)",
-        "url": "https://luizmuller.com/2026/06/20/ato-em-defesa-do-dmae-e-contra-a-privataria-generalizada-acontece-neste-domingo/"
-      }
-    ],
-    "createdAt": "2026-06-21T20:11:43.000Z",
-    "updatedAt": "2026-06-21T23:15:15Z"
-  },
-  {
-    "id": 35,
-    "seccion": "internacional",
-    "pais": "Japón",
-    "bandera": "🇯🇵",
-    "hora": "10:00",
-    "fecha": "2026-06-21",
-    "lugar": "Kyushu, Okinawa (protestas contra ejercicio militar); Tokio (Puerta Principal del Congreso Nacional/Diet)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Grupos cívicos locales",
-      "Residentes de Yamato Town (Kumamoto)",
-      "Grupo cívico de Ishigaki, Okinawa",
-      "Paz e Forum (Paz e Fórum)",
-      "Red de Migrantes SMJ"
-    ],
-    "motivo": "Jornada de protestas en múltiples frentes en Japón. Por un lado, grupos cívicos y residentes se oponen al ejercicio militar conjunto Resolute Dragon entre EE.UU. y Japón (~9.600 efectivos) en Kyushu y Okinawa, que incluye vuelos de entrenamiento a baja altura y despliegue del sistema de misiles Typhon con alcance de 1.600 km, advirtiendo que incrementa las tensiones regionales con China. Por otro lado, en Tokio frente al Congreso Nacional, se realizó la acción 'No al Odio' (ヘイトに NO! 国会前アクション) contra la discriminación a extranjeros, el endurecimiento de requisitos de residencia permanente y naturalización, y el aumento desmedido de tasas de trámites migratorios, exigiendo una sociedad multicultural y sin racismo.",
-    "status": "finalizado",
-    "lat": "33.0000",
-    "lng": "131.0000",
-    "fuentes": [
-      {
-        "nombre": "Xinhua (21 junio - protestas contra ejercicio militar)",
-        "url": "https://english.news.cn/20260621/7026e8a7af1a422cad0ffc15d08c7d43/c.html"
-      },
-      {
-        "nombre": "China Daily Asia (21 junio - protestas ejercicios)",
-        "url": "https://www.chinadailyasia.com/hk/article/635267"
-      },
-      {
-        "nombre": "Migrants.jp (21 junio - acción No al Odio Dieta)",
-        "url": "https://migrants.jp/news/event/20260621notohateaction.html"
-      },
-      {
-        "nombre": "The Japan Times (21 junio - misiles Typhon)",
-        "url": "https://www.japantimes.co.jp/news/2026/06/21/japan/us-typhon-missiles-japan-sdf/"
-      }
-    ],
-    "createdAt": "2026-06-21T20:11:43.000Z",
-    "updatedAt": "2026-06-21T23:15:15Z"
-  },
-  {
-    "id": 36,
-    "seccion": "internacional",
-    "pais": "Alemania",
-    "bandera": "🇩🇪",
-    "hora": "12:00",
-    "fecha": "2026-06-21",
-    "lugar": "Berlín (Reichstag/Bundestag y Puerta de Brandeburgo)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Manifestantes anti-guerra (no afiliados a partidos)",
-      "Activistas pacifistas"
-    ],
-    "motivo": "Doble protesta en Berlín con motivo del Día Nacional del Veterano y el 85.º aniversario del ataque nazi a la URSS. Durante el discurso del ministro de Defensa Boris Pistorius en el Reichstag, unos 12 manifestantes con camisetas manchadas de rojo interrumpieron coreando 'Nunca más reclutamiento' y desplegaron una pancarta 'Por un futuro sin guerra'. Pistorius respondió: 'Uno de los lemas de la Bundeswehr es: Luchamos para que puedas estar contra nosotros'. Paralelamente, cientos de personas se congregaron en la Puerta de Brandeburgo exigiendo un cambio de rumbo en la política exterior alemana, diálogo con Rusia y fin de la escalada militar en Europa, en el marco de la creciente resistencia al rearme alemán impulsado por el canciller Friedrich Merz.",
-    "status": "finalizado",
-    "lat": "52.5200",
-    "lng": "13.4050",
-    "fuentes": [
-      {
-        "nombre": "Yahoo News / AFP (21 junio - protesta Veterans Day)",
-        "url": "https://www.yahoo.com/news/politics/articles/german-rearmament-sparks-anti-war-171121456.html"
-      },
-      {
-        "nombre": "Mitteldeutsche Zeitung (21 junio - protesta Bürgerfest)",
-        "url": "https://www.mz.de/panorama/protest-bei-burgerfest-zum-veteranentag-4271548"
-      },
-      {
-        "nombre": "Pravda DE (21 junio - Friedensdemo Brandenburger Tor)",
-        "url": "https://deutsch.news-pravda.com/world/2026/06/21/733575.html"
-      }
-    ],
-    "createdAt": "2026-06-21T20:11:43.000Z",
-    "updatedAt": "2026-06-21T23:15:15Z"
-  },
-  {
-    "id": 37,
-    "seccion": "internacional",
-    "pais": "México",
-    "bandera": "🇲🇽",
-    "hora": "11:00",
-    "fecha": "2026-06-21",
-    "lugar": "Ciudad de México: Ángel de la Independencia (marcha a Alameda Central), Plaza Tlaxcoaque, intersección Chapultepec-Amberes (col. Juárez)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Asamblea Antifa Antimundialista de Rollers, Skaters and BMX",
-      "Firmas por Palestina MX",
-      "Observatorio de Derechos Humanos de los Pueblos",
-      "Hijas de la Cannabis",
-      "Laboratorio 4:20"
-    ],
-    "motivo": "Jornada de protestas y concentraciones en la CDMX. La Asamblea Antifa Antimundialista encabezó una marcha desde el Ángel de la Independencia a la Alameda Central exigiendo la reconstrucción del Skatepark San Antonio Abad, afectado por obras del corredor elevado sobre Calzada de Tlalpan vinculadas al Mundial 2026. En el Ángel de la Independencia se realizaron dos acciones pro-Palestina: recolección de firmas para exigir una postura más firme del gobierno mexicano y un acto político-cultural exigiendo la expulsión de la Federación Israelí de la FIFA. En Plaza Tlaxcoaque, Hijas de la Cannabis realizó un evento cultural exigiendo espacios seguros para mujeres consumidoras de cannabis. Laboratorio 4:20 realizó una jornada informativa sobre derechos cannábicos en Chapultepec y Amberes.",
-    "status": "finalizado",
-    "lat": "19.4326",
-    "lng": "-99.1332",
-    "fuentes": [
-      {
-        "nombre": "El Economista (21 junio - agenda movilizaciones CDMX)",
-        "url": "https://www.eleconomista.com.mx/politica/habra-marchas-hoy-cdmx-consulta-movilizaciones-previstas-21-junio-20260621-819484.html"
-      },
-      {
-        "nombre": "La Prensa (21 junio - concentraciones CDMX)",
-        "url": "https://oem.com.mx/la-prensa/metropoli/concentraciones-y-protestas-domingo-21-de-junio-en-cdmx-horarios-lugares-y-cierres-viales-30678177"
-      }
-    ],
-    "createdAt": "2026-06-21T21:53:01.000Z",
-    "updatedAt": "2026-06-21T23:15:15Z"
-  },
-  {
-    "id": 38,
+    "id": 42,
     "seccion": "internacional",
     "pais": "Estados Unidos",
     "bandera": "🇺🇸",
-    "hora": "08:00",
-    "fecha": "2026-06-21",
-    "lugar": "Sheraton Philadelphia Downtown, Center City, Filadelfia, Pensilvania",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "UNITE HERE Local 274"
-    ],
-    "motivo": "Trabajadores hoteleros del Sheraton Philadelphia Downtown iniciaron una huelga laboral el domingo 21 de junio, exigiendo salarios y beneficios acordes al nuevo estándar municipal obtenido en otros cinco hoteles sindicalizados de Center City. Demandan un salario mínimo de 30 USD por hora para trabajadores no propina para enero de 2028, una cuota diaria de 15 habitaciones para el personal de limpieza, una gratificación del 18% para banquetes y cobertura de salud familiar. La huelga ocurre durante la Copa Mundial FIFA 2026 y las celebraciones del 250.º aniversario de EE.UU., cuando Filadelfia recibe una gran afluencia de turistas.",
-    "status": "en_curso",
-    "lat": "39.9526",
-    "lng": "-75.1652",
-    "fuentes": [
-      {
-        "nombre": "6abc Philadelphia (21 junio)",
-        "url": "https://6abc.com/post/hotel-workers-center-city-go-strike-amid-world-cup-america-250-celebrations/19346000"
-      },
-      {
-        "nombre": "NBC10 Philadelphia (21 junio)",
-        "url": "https://www.nbcphiladelphia.com/news/local/workers-strike-sheraton-philadelphia-downtown/4420790/"
-      },
-      {
-        "nombre": "CBS News Philadelphia (21 junio)",
-        "url": "https://www.cbsnews.com/philadelphia/news/sheraton-downtown-hotel-strike-world-cup/"
-      },
-      {
-        "nombre": "The Philadelphia Inquirer (21 junio)",
-        "url": "https://www.inquirer.com/news/sheraton-philadelphia-downtown-unite-here-strike-20260621.html"
-      }
-    ],
-    "createdAt": "2026-06-21T23:10:28.000Z",
-    "updatedAt": "2026-06-21T23:15:15Z"
-  },
-  {
-    "id": 39,
-    "seccion": "internacional",
-    "pais": "Canadá",
-    "bandera": "🇨🇦",
-    "hora": "12:00",
-    "fecha": "2026-06-21",
-    "lugar": "Calgary City Hall, Calgary, Alberta",
+    "hora": "16:30",
+    "fecha": "2026-06-22",
+    "lugar": "Ocean St & Water St, Santa Cruz, California",
     "tipoAccion": "protesta",
     "organizaciones": [
-      "Comunidad de migrantes afganos en Canadá",
-      "Activistas de derechos humanos",
-      "Organizaciones de mujeres afganas en el exilio"
+      "Indivisible Santa Cruz County"
     ],
-    "motivo": "Protesta de la diáspora afgana y defensores de derechos humanos en Calgary frente al ayuntamiento, como parte de una jornada coordinada global en cuatro países contra el apartheid de género del régimen talibán en Afganistán. Exigen que el Consejo de Derechos Humanos de la ONU, los relatores especiales y los gobiernos rompan su silencio y tomen medidas concretas para apoyar a las mujeres afganas, tras los arrestos de mujeres y niñas en Herat por no usar burka y la violenta represión de protestas pacíficas. Los manifestantes pidieron la investigación formal de las políticas talibanes como crimen de lesa humanidad.",
+    "motivo": "Protesta semanal por los derechos civiles cada lunes en la esquina de Ocean y Water St en Santa Cruz contra proyectos de ley discriminatorios y en defensa de los derechos civiles.",
     "status": "en_curso",
-    "lat": "51.0447",
-    "lng": "-114.0719",
+    "lat": "36.9742",
+    "lng": "-122.0268",
     "fuentes": [
       {
-        "nombre": "AtlasPress (21 junio - coordinación 4 países)",
-        "url": "https://atlaspress.news/en/2026/06/21/afghan-migrants-protest-taliban-gender-apartheid-womens-rights/"
-      },
-      {
-        "nombre": "Dawat Media 24 (21 junio - crónica Calgary)",
-        "url": "https://dawatmedia24.com/afghanistan-news/afghan-women-and-allies-rally-in-calgary-demanding-global-action-amid-herat-crackdown"
-      },
-      {
-        "nombre": "Shahed News (21 junio)",
-        "url": "https://shahed.news/en/2026/06/21/afghan-migrants-protest-in-several-countries-call-for-recognition-of-taliban-policies-as-gender-apartheid/"
+        "nombre": "Indivisible Santa Cruz County (22 junio - Monday protest)",
+        "url": "https://www.indivisiblesantacruzcounty.com/events"
       }
     ],
-    "createdAt": "2026-06-21T23:10:28.000Z",
-    "updatedAt": "2026-06-21T23:15:15Z"
+    "createdAt": "2026-06-22T02:01:30.000Z",
+    "updatedAt": "2026-06-22T02:06:18Z"
   }
 ]
