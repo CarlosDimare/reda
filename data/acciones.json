@@ -52,7 +52,7 @@
       }
     ],
     "createdAt": "2026-06-21T08:37:01.000Z",
-    "updatedAt": "2026-06-22T14:42:31Z"
+    "updatedAt": "2026-06-22T18:49:00Z"
   },
   {
     "id": 40,
@@ -84,10 +84,14 @@
       {
         "nombre": "VOI.id (22 junio - 50.000 personas en Horse Statue)",
         "url": "https://voi.id/en/news/581087"
+      },
+      {
+        "nombre": "IDN Times (22 junio - PMII demo DPR)",
+        "url": "https://www.idntimes.com/news/indonesia/demo-di-dpr-pmii-bawa-maklumat-pergerakan-reshuffle-hingga-reset-bgn-00-jkxzp-95hltp"
       }
     ],
     "createdAt": "2026-06-22T02:01:30.000Z",
-    "updatedAt": "2026-06-22T14:42:31Z"
+    "updatedAt": "2026-06-22T18:49:00Z"
   },
   {
     "id": 41,
@@ -113,7 +117,7 @@
       }
     ],
     "createdAt": "2026-06-22T02:01:30.000Z",
-    "updatedAt": "2026-06-22T14:42:31Z"
+    "updatedAt": "2026-06-22T18:49:00Z"
   },
   {
     "id": 42,
@@ -138,7 +142,7 @@
       }
     ],
     "createdAt": "2026-06-22T02:01:30.000Z",
-    "updatedAt": "2026-06-22T14:42:31Z"
+    "updatedAt": "2026-06-22T18:49:00Z"
   },
   {
     "id": 43,
@@ -168,7 +172,7 @@
       }
     ],
     "createdAt": "2026-06-22T08:37:15.000Z",
-    "updatedAt": "2026-06-22T14:42:31Z"
+    "updatedAt": "2026-06-22T18:49:00Z"
   },
   {
     "id": 44,
@@ -211,7 +215,7 @@
       }
     ],
     "createdAt": "2026-06-22T08:37:15.000Z",
-    "updatedAt": "2026-06-22T14:42:31Z"
+    "updatedAt": "2026-06-22T18:49:00Z"
   },
   {
     "id": 46,
@@ -244,7 +248,33 @@
       }
     ],
     "createdAt": "2026-06-22T08:39:15.000Z",
-    "updatedAt": "2026-06-22T14:42:31Z"
+    "updatedAt": "2026-06-22T18:49:00Z"
+  },
+  {
+    "id": 56,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "10:00",
+    "fecha": "2026-06-22",
+    "lugar": "Parque Tecnológico Miguelete, San Martín, Provincia de Buenos Aires",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Asamblea Multisectorial del INTI",
+      "ATE (Asociación Trabajadores del Estado)"
+    ],
+    "motivo": "Banderazo contra el vaciamiento del INTI y amenaza de 800 despidos. Las autoridades cerraron la sede central del Parque Tecnológico Miguelete para impedir la protesta con la consigna 'Para que gane Argentina hay que sacar a Adorni'. Los trabajadores denuncian incumplimiento del fallo judicial del 26 de mayo que ordenó frenar el desmantelamiento. Giselle Santana de la Asamblea Multisectorial advirtió que la decisión causa conmoción y los trabajadores se autoconvocaron para definir la continuidad.",
+    "status": "en_curso",
+    "lat": "-34.5744",
+    "lng": "-58.5375",
+    "fuentes": [
+      {
+        "nombre": "Tiempo Argentino (22 junio - cierre sede central INTI)",
+        "url": "https://www.tiempoar.com.ar/ta_article/inti-cierran-sede-central-protesta/"
+      }
+    ],
+    "createdAt": "2026-06-22T18:46:39.000Z",
+    "updatedAt": "2026-06-22T18:49:00Z"
   },
   {
     "id": 47,
@@ -281,7 +311,7 @@
       }
     ],
     "createdAt": "2026-06-22T14:36:44.000Z",
-    "updatedAt": "2026-06-22T14:42:31Z"
+    "updatedAt": "2026-06-22T18:49:00Z"
   },
   {
     "id": 48,
@@ -319,7 +349,7 @@
       }
     ],
     "createdAt": "2026-06-22T14:36:44.000Z",
-    "updatedAt": "2026-06-22T14:42:31Z"
+    "updatedAt": "2026-06-22T18:49:00Z"
   },
   {
     "id": 49,
@@ -353,7 +383,7 @@
       }
     ],
     "createdAt": "2026-06-22T14:36:44.000Z",
-    "updatedAt": "2026-06-22T14:42:31Z"
+    "updatedAt": "2026-06-22T18:49:00Z"
   },
   {
     "id": 50,
@@ -392,7 +422,7 @@
       }
     ],
     "createdAt": "2026-06-22T14:36:44.000Z",
-    "updatedAt": "2026-06-22T14:42:31Z"
+    "updatedAt": "2026-06-22T18:49:00Z"
   },
   {
     "id": 51,
@@ -425,9 +455,166 @@
       {
         "nombre": "The Hindu (22 junio - PoK crisis explained)",
         "url": "https://www.thehindu.com/news/international/why-are-there-protests-in-pok-explained/article71098668.ece"
+      },
+      {
+        "nombre": "The Print (22 junio - women children protest)",
+        "url": "https://theprint.in/diplomacy/students-women-and-children-at-forefront-as-pok-protests-continue-demand-constitutional-amendments/2966901/"
       }
     ],
     "createdAt": "2026-06-22T14:36:44.000Z",
-    "updatedAt": "2026-06-22T14:42:31Z"
+    "updatedAt": "2026-06-22T18:49:00Z"
+  },
+  {
+    "id": 52,
+    "seccion": "internacional",
+    "pais": "Colombia",
+    "bandera": "🇨🇴",
+    "hora": "00:01",
+    "fecha": "2026-06-22",
+    "lugar": "Bogotá (Portal Américas, Usme, Kennedy, Universidad Nacional, Cali) y otras ciudades",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Ciudadanos",
+      "Votantes de Iván Cepeda",
+      "Estudiantes de la Universidad Nacional"
+    ],
+    "motivo": "Protestas y bloqueos continúan en Bogotá, Cali y otras ciudades tras la ajustada victoria del ultraderechista Abelardo de la Espriella en la segunda vuelta presidencial del domingo. Manifestantes bloquean avenidas principales, queman llantas y banderas de EE.UU., y denuncian fraude electoral. 23 estaciones de TransMilenio cerradas. La Universidad Nacional suspendió actividades presenciales el lunes. Enfrentamientos con la UNDMO en el sur de Bogotá. 48 eventos de concentraciones registrados en todo el país. La policía reporta ataques a estaciones de Policía en Usme y Kennedy.",
+    "status": "en_curso",
+    "lat": "4.7110",
+    "lng": "-74.0721",
+    "fuentes": [
+      {
+        "nombre": "El Espectador (22 junio - bloqueos continúan lunes)",
+        "url": "https://www.elespectador.com/bogota/jornada-de-bloqueos-y-disturbios-en-el-sur-de-bogota-tras-segunda-vuelta-presidencial/"
+      },
+      {
+        "nombre": "Caracol Radio (22 junio - disturbios Bogotá)",
+        "url": "https://caracol.com.co/2026/06/22/disturbios-y-bloqueos-en-bogota-luego-de-conocerse-resultados-de-la-segunda-vuelta-presidencial/"
+      },
+      {
+        "nombre": "El Colombiano (22 junio - 48 eventos)",
+        "url": "https://www.elcolombiano.com/colombia/elecciones-disturbios-y-movilizaciones-en-bogota-y-otras-ciudades-tras-elecciones-CK38017746"
+      },
+      {
+        "nombre": "France24 (22 junio - resistencia)",
+        "url": "https://www.france24.com/es/minuto-a-minuto/20260622-resistencia-miles-marchan-contra-el-presidente-electo-de-ultraderecha-en-colombia"
+      },
+      {
+        "nombre": "Telesur (22 junio - protests Bogotá)",
+        "url": "https://www.telesurenglish.net/protests-bogota-awaits-official-result/"
+      },
+      {
+        "nombre": "CBS News (22 junio - Trump-backed candidate sparks protests)",
+        "url": "https://www.cbsnews.com/news/colombia-presidential-vote-trump-candidate-wins-sparking-protests/"
+      }
+    ],
+    "createdAt": "2026-06-22T18:43:57.000Z",
+    "updatedAt": "2026-06-22T18:49:00Z"
+  },
+  {
+    "id": 53,
+    "seccion": "internacional",
+    "pais": "Italia",
+    "bandera": "🇮🇹",
+    "hora": "09:30",
+    "fecha": "2026-06-22",
+    "lugar": "Lecce, Puglia",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "UIL Trasporti",
+      "SGM Lecce"
+    ],
+    "motivo": "Huelga de 3 horas del personal de transporte público local de SGM Lecce, de 9:30 a 12:30, por reivindicaciones laborales. Servicios de autobuses y trolebuses suspendidos durante el paro, afectando a los usuarios del transporte público en Lecce.",
+    "status": "convocada",
+    "lat": "40.3516",
+    "lng": "18.1718",
+    "fuentes": [
+      {
+        "nombre": "MIT Italia (registro oficial huelga 22 junio Lecce)",
+        "url": "https://scioperi.mit.gov.it/mit2/public/scioperi"
+      },
+      {
+        "nombre": "The Local Italy (22 junio - transport strikes)",
+        "url": "https://www.thelocal.it/20260525/calendar-the-transport-strikes-to-expect-in-italy-in-june-2026"
+      },
+      {
+        "nombre": "QuiFinanza (22 junio - scioperi)",
+        "url": "https://quifinanza.it/info-utili/scioperi/scioperi-22-28-giugno-2026/1004532/"
+      }
+    ],
+    "createdAt": "2026-06-22T18:43:57.000Z",
+    "updatedAt": "2026-06-22T18:49:00Z"
+  },
+  {
+    "id": 54,
+    "seccion": "internacional",
+    "pais": "Italia",
+    "bandera": "🇮🇹",
+    "hora": "11:50",
+    "fecha": "2026-06-22",
+    "lugar": "Región de Calabria",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "FAISA-CISAL",
+      "Ferrovie della Calabria"
+    ],
+    "motivo": "Huelga regional de 4 horas del personal de Ferrovie della Calabria, de 11:50 a 15:50, exigiendo mejoras laborales y salariales. Afecta los servicios de transporte público ferroviario en toda la región de Calabria, con posibles demoras y cancelaciones.",
+    "status": "convocada",
+    "lat": "38.9063",
+    "lng": "16.5962",
+    "fuentes": [
+      {
+        "nombre": "MIT Italia (registro oficial huelga 22 junio Calabria)",
+        "url": "https://scioperi.mit.gov.it/mit2/public/scioperi"
+      },
+      {
+        "nombre": "The Local Italy (22 junio - transport strikes)",
+        "url": "https://www.thelocal.it/20260525/calendar-the-transport-strikes-to-expect-in-italy-in-june-2026"
+      },
+      {
+        "nombre": "QuiFinanza (22 junio - scioperi)",
+        "url": "https://quifinanza.it/info-utili/scioperi/scioperi-22-28-giugno-2026/1004532/"
+      }
+    ],
+    "createdAt": "2026-06-22T18:43:57.000Z",
+    "updatedAt": "2026-06-22T18:49:00Z"
+  },
+  {
+    "id": 55,
+    "seccion": "internacional",
+    "pais": "Corea del Sur",
+    "bandera": "🇰🇷",
+    "hora": "09:00",
+    "fecha": "2026-06-22",
+    "lugar": "SK Olympic Handball Gymnasium, Olympic Park, Songpa-gu, Seúl",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Ciudadanos",
+      "Manifestantes por la revisión electoral"
+    ],
+    "motivo": "Día 18 de protesta/sentada frente al gimnasio de balonmano del Parque Olímpico de Songpa, donde se encuentran las urnas de la votación. Los manifestantes exigen una repetición de las elecciones locales del 3 de junio por la escasez de papeletas en los colegios electorales. Alrededor de 130 manifestantes acampan de forma permanente, mientras la policía investiga 36 casos de actos ilegales relacionados con la protesta, incluyendo obstrucción y agresiones. El jefe interino de la Policía Nacional advirtió que tomarán medidas severas contra actos ilegales.",
+    "status": "en_curso",
+    "lat": "37.5204",
+    "lng": "127.1220",
+    "fuentes": [
+      {
+        "nombre": "Korea Herald (22 junio - day 18 protest)",
+        "url": "https://biz.heraldcorp.com/article/10783726"
+      },
+      {
+        "nombre": "Korea JoongAng Daily (22 junio - police vow action)",
+        "url": "https://www.koreajoongangdaily.com/korea/acting-police-chief-vows-swift-firm-response-to-illegal-acts-at-songpa-election-protest/12734278"
+      },
+      {
+        "nombre": "Yonhap (22 junio - investigators question election workers)",
+        "url": "https://en.yna.co.kr/view/AEN20260622002351315"
+      },
+      {
+        "nombre": "MK (22 junio - acting police commissioner)",
+        "url": "https://www.mk.co.kr/en/society/12079812"
+      }
+    ],
+    "createdAt": "2026-06-22T18:43:57.000Z",
+    "updatedAt": "2026-06-22T18:49:00Z"
   }
 ]
