@@ -57,7 +57,7 @@
       }
     ],
     "createdAt": "2026-06-21T08:37:01.000Z",
-    "updatedAt": "2026-06-23T17:58:08Z"
+    "updatedAt": "2026-06-23T20:06:04Z"
   },
   {
     "id": 44,
@@ -78,6 +78,10 @@
     "lat": "41.3275",
     "lng": "19.8187",
     "fuentes": [
+      {
+        "nombre": "France 24 (23 junio - Flamingo Revolution swells)",
+        "url": "https://www.france24.com/en/flamingo-revolution-albanian-protests-swell-against-trump-linked-resort"
+      },
       {
         "nombre": "The Guardian (22 junio - daily protests feature)",
         "url": "https://www.theguardian.com/world/2026/jun/22/albania-protests-jared-kushner-ivanka-trump-resort-sazan-island-anger-government"
@@ -108,7 +112,7 @@
       }
     ],
     "createdAt": "2026-06-22T08:37:15.000Z",
-    "updatedAt": "2026-06-23T17:58:08Z"
+    "updatedAt": "2026-06-23T20:06:04Z"
   },
   {
     "id": 51,
@@ -164,7 +168,7 @@
       }
     ],
     "createdAt": "2026-06-22T14:36:44.000Z",
-    "updatedAt": "2026-06-23T17:58:08Z"
+    "updatedAt": "2026-06-23T20:06:04Z"
   },
   {
     "id": 73,
@@ -190,7 +194,7 @@
       }
     ],
     "createdAt": "2026-06-23T01:29:50.000Z",
-    "updatedAt": "2026-06-23T17:58:08Z"
+    "updatedAt": "2026-06-23T20:06:04Z"
   },
   {
     "id": 77,
@@ -220,7 +224,7 @@
       }
     ],
     "createdAt": "2026-06-23T05:47:26.000Z",
-    "updatedAt": "2026-06-23T17:58:08Z"
+    "updatedAt": "2026-06-23T20:06:04Z"
   },
   {
     "id": 79,
@@ -250,7 +254,7 @@
       }
     ],
     "createdAt": "2026-06-23T05:47:26.000Z",
-    "updatedAt": "2026-06-23T17:58:08Z"
+    "updatedAt": "2026-06-23T20:06:04Z"
   },
   {
     "id": 80,
@@ -284,7 +288,7 @@
       }
     ],
     "createdAt": "2026-06-23T12:31:14.000Z",
-    "updatedAt": "2026-06-23T17:58:08Z"
+    "updatedAt": "2026-06-23T20:06:04Z"
   },
   {
     "id": 81,
@@ -321,7 +325,7 @@
       }
     ],
     "createdAt": "2026-06-23T12:31:14.000Z",
-    "updatedAt": "2026-06-23T17:58:08Z"
+    "updatedAt": "2026-06-23T20:06:04Z"
   },
   {
     "id": 82,
@@ -346,7 +350,7 @@
       }
     ],
     "createdAt": "2026-06-23T12:31:14.000Z",
-    "updatedAt": "2026-06-23T17:58:08Z"
+    "updatedAt": "2026-06-23T20:06:04Z"
   },
   {
     "id": 83,
@@ -377,7 +381,7 @@
       }
     ],
     "createdAt": "2026-06-23T12:31:14.000Z",
-    "updatedAt": "2026-06-23T17:58:08Z"
+    "updatedAt": "2026-06-23T20:06:04Z"
   },
   {
     "id": 84,
@@ -413,7 +417,7 @@
       }
     ],
     "createdAt": "2026-06-23T12:31:14.000Z",
-    "updatedAt": "2026-06-23T17:58:08Z"
+    "updatedAt": "2026-06-23T20:06:04Z"
   },
   {
     "id": 85,
@@ -450,40 +454,51 @@
       }
     ],
     "createdAt": "2026-06-23T15:45:39.000Z",
-    "updatedAt": "2026-06-23T17:58:08Z"
+    "updatedAt": "2026-06-23T20:06:04Z"
   },
   {
-    "id": 86,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "15:00",
+    "id": 88,
+    "seccion": "internacional",
+    "pais": "India",
+    "bandera": "🇮🇳",
+    "hora": "11:00",
     "fecha": "2026-06-23",
-    "lugar": "Congreso de la Nación, Av. Rivadavia y Callao, CABA",
+    "lugar": "Jantar Mantar, Nueva Delhi, y Pundri, Kaithal (Haryana)",
     "tipoAccion": "protesta",
     "organizaciones": [
-      "Jubilados autoconvocados",
-      "Unión de Trabajadores Jubilados en Lucha (UTJEL)",
-      "Hinchas de fútbol (múltiples clubes)",
-      "CGT",
-      "Curas en Opción por los Pobres"
+      "Samyukt Kisan Morcha (Non-Political)",
+      "Bharatiya Kisan Union (Charuni)",
+      "Rashtriya Kisan Mahasangh",
+      "Tamil Nadu Farmers Protection Association"
     ],
-    "motivo": "Marcha semanal de jubilados (Marcha de la Dignidad) exigiendo aumento del piso de haberes, reposición de la gratuidad de medicamentos PAMI, y contra el veto presidencial. La protesta de hoy sumó la participación masiva de simpatizantes de decenas de clubes de fútbol. El Ministerio de Seguridad aplicó el protocolo antipiquetes: hubo represión con gases lacrimógenos y balas de goma, 15 heridos graves, aproximadamente 100 detenidos, vehículos incendiados y un policía herido de bala.",
-    "status": "en_curso",
-    "lat": "-34.6097",
-    "lng": "-58.3920",
+    "motivo": "Protesta de agricultores en Jantar Mantar (Nueva Delhi) y Pundri (Kaithal, Haryana) contra el acuerdo comercial propuesto India-EE.UU., exigiendo que se excluya del pacto a los sectores agrícola, lechero y avícola. El SKM realizó una protesta simbólica mientras el Representante Comercial de EE.UU., Jamieson Greer, se reunía en Nueva Delhi para las negociaciones. En Kaithal, agricultores de BKU (Charuni) quemaron efigies de Modi y Trump. Advirtieron con una marcha nacional si el gobierno no excluye a la agricultura del acuerdo.",
+    "status": "concluido",
+    "lat": "28.6271",
+    "lng": "77.2168",
     "fuentes": [
       {
-        "nombre": "Infonoroeste (23 junio - represión, heridos y detenidos)",
-        "url": "https://infonoroeste.com.ar/nota/49695/represion_heridos_y_detenidos_en_la_protesta_de_jubilados_con_apoyo_de_hinchas_de_futbol/"
+        "nombre": "News18 (23 junio - SKM protest Jantar Mantar)",
+        "url": "https://www.news18.com/amp/agency-feeds/farmers-protest-at-jantar-mantar-against-proposed-india-us-trade-deal-10168920.html"
       },
       {
-        "nombre": "Política del Sur (23 junio - jubilados resisten el ajuste)",
-        "url": "https://politicadelsur.com/nota/92469/jubilados-resisten-el-ajuste-en-las-calles/"
+        "nombre": "The Tribune (23 junio - BKU Charuni burn effigies Kaithal)",
+        "url": "https://www.tribuneindia.com/news/haryana/bku-charuni-farmers-oppose-proposed-india-us-trade-deal-call-nationwide-meeting-on-june-25-in-chandigarh/"
+      },
+      {
+        "nombre": "ETV Bharat (23 junio - symbolic protest Jantar Mantar)",
+        "url": "https://www.etvbharat.com/en/state/farmers-demand-rethink-on-proposed-india-us-trade-agreement-threaten-bigger-protest-enn26062303493"
+      },
+      {
+        "nombre": "ABP Live (23 junio - protesta en Jantar Mantar)",
+        "url": "https://www.abplive.com/states/delhi-ncr/farmers-protest-at-jantar-mantar-delhi-under-banner-of-samyukt-kisan-morcha-against-proposed-india-us-trade-deal-ann-3149656"
+      },
+      {
+        "nombre": "The Hindu BusinessLine (23 junio - trade talks begin amid farmer concerns)",
+        "url": "https://www.thehindubusinessline.com/economy/india-us-trade-talks-begin-amid-farmers-concerns-over-agriculture-market/article71138708.ece"
       }
     ],
-    "createdAt": "2026-06-23T15:48:46.000Z",
-    "updatedAt": "2026-06-23T17:58:08Z"
+    "createdAt": "2026-06-23T20:00:09.000Z",
+    "updatedAt": "2026-06-23T20:06:04Z"
   },
   {
     "id": 87,
@@ -504,8 +519,16 @@
     "lng": "-58.4567",
     "fuentes": [
       {
+        "nombre": "La 100 (23 junio - liberación de molinetes Línea B)",
+        "url": "https://la100.cienradios.com/sociedad/liberaron-molinetes-en-una-estacion-de-la-linea-b-de-subte-como-medida-de-fuerza-de-los-metrodelegados/"
+      },
+      {
         "nombre": "Perfil (23 junio - metrodelegados liberan molinetes)",
         "url": "https://www.perfil.com/noticias/sociedad/los-metrodelegados-liberaran-molinetes-en-la-linea-b-y-advierten-que-podrian-profundizar-las-medidas-de-fuerza.phtml"
+      },
+      {
+        "nombre": "MinutoUno (23 junio - medida de fuerza metrodelegados)",
+        "url": "https://www.minutouno.com/sociedad/subte-sorpresiva-medida-fuerza-metrodelegados-este-martes-n6291696"
       },
       {
         "nombre": "El Destape (23 junio - liberan molinetes Línea B)",
@@ -514,9 +537,17 @@
       {
         "nombre": "BAE Negocios (23 junio - metrodelegados Lacroze)",
         "url": "https://www.baenegocios.com/sociedad/metrodelegados-liberaran-molinetes-en-la-estacion-lacroze-de-la-linea-b/"
+      },
+      {
+        "nombre": "Pura Ciudad (23 junio - metrodelegados liberaron molinetes)",
+        "url": "https://www.puraciudad.com.ar/los-metrodelegados-liberaron-molinetes-en-la-linea-b-y-anticipan-nuevas-medidas/"
+      },
+      {
+        "nombre": "InfoCanning (23 junio - conflicto Línea B)",
+        "url": "https://www.infocanning.com.ar/noticias/ultimo-momento/conflicto-en-la-linea-b-del-subte-metrodelegados-liberan-molinetes-en-protesta/"
       }
     ],
     "createdAt": "2026-06-23T15:48:46.000Z",
-    "updatedAt": "2026-06-23T17:58:08Z"
+    "updatedAt": "2026-06-23T20:06:04Z"
   }
 ]
