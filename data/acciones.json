@@ -44,7 +44,7 @@
       }
     ],
     "createdAt": "2026-06-21T08:37:01.000Z",
-    "updatedAt": "2026-06-23T01:38:37Z"
+    "updatedAt": "2026-06-23T05:51:50Z"
   },
   {
     "id": 40,
@@ -75,7 +75,7 @@
       }
     ],
     "createdAt": "2026-06-22T02:01:30.000Z",
-    "updatedAt": "2026-06-23T01:38:37Z"
+    "updatedAt": "2026-06-23T05:51:50Z"
   },
   {
     "id": 44,
@@ -114,7 +114,7 @@
       }
     ],
     "createdAt": "2026-06-22T08:37:15.000Z",
-    "updatedAt": "2026-06-23T01:38:37Z"
+    "updatedAt": "2026-06-23T05:51:50Z"
   },
   {
     "id": 51,
@@ -154,7 +154,7 @@
       }
     ],
     "createdAt": "2026-06-22T14:36:44.000Z",
-    "updatedAt": "2026-06-23T01:38:37Z"
+    "updatedAt": "2026-06-23T05:51:50Z"
   },
   {
     "id": 55,
@@ -188,7 +188,7 @@
       }
     ],
     "createdAt": "2026-06-22T18:43:57.000Z",
-    "updatedAt": "2026-06-23T01:38:37Z"
+    "updatedAt": "2026-06-23T05:51:50Z"
   },
   {
     "id": 67,
@@ -214,7 +214,7 @@
       }
     ],
     "createdAt": "2026-06-23T01:29:50.000Z",
-    "updatedAt": "2026-06-23T01:38:37Z"
+    "updatedAt": "2026-06-23T05:51:50Z"
   },
   {
     "id": 68,
@@ -244,7 +244,7 @@
       }
     ],
     "createdAt": "2026-06-23T01:29:50.000Z",
-    "updatedAt": "2026-06-23T01:38:37Z"
+    "updatedAt": "2026-06-23T05:51:50Z"
   },
   {
     "id": 70,
@@ -270,7 +270,7 @@
       }
     ],
     "createdAt": "2026-06-23T01:29:50.000Z",
-    "updatedAt": "2026-06-23T01:38:37Z"
+    "updatedAt": "2026-06-23T05:51:50Z"
   },
   {
     "id": 71,
@@ -300,7 +300,7 @@
       }
     ],
     "createdAt": "2026-06-23T01:29:50.000Z",
-    "updatedAt": "2026-06-23T01:38:37Z"
+    "updatedAt": "2026-06-23T05:51:50Z"
   },
   {
     "id": 72,
@@ -326,7 +326,7 @@
       }
     ],
     "createdAt": "2026-06-23T01:29:50.000Z",
-    "updatedAt": "2026-06-23T01:38:37Z"
+    "updatedAt": "2026-06-23T05:51:50Z"
   },
   {
     "id": 73,
@@ -352,6 +352,188 @@
       }
     ],
     "createdAt": "2026-06-23T01:29:50.000Z",
-    "updatedAt": "2026-06-23T01:38:37Z"
+    "updatedAt": "2026-06-23T05:51:50Z"
+  },
+  {
+    "id": 74,
+    "seccion": "internacional",
+    "pais": "Bélgica",
+    "bandera": "🇧🇪",
+    "hora": "09:00",
+    "fecha": "2026-06-23",
+    "lugar": "Petit Château (Bd du Neuvième de Ligne 27), Bruselas; marcha hacia Botanique, Belliard y Plaza de la Moneda",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "CGSP",
+      "CGSP Admi",
+      "CGSP ALR Bruxelles",
+      "Sindicatos del sector público belga"
+    ],
+    "motivo": "Huelga nacional del sector público y marcha por la dignidad humana y la defensa de los servicios públicos en Bruselas, en la Jornada Internacional de los Servicios Públicos. Protesta contra las medidas de austeridad del Gobierno Arizona, exigiendo servicios públicos de calidad, condiciones de trabajo dignas, y en contra de los recortes en seguridad social, pensiones y atención a migrantes y personas vulnerables. Importantes perturbaciones en transporte público, recolección de residuos y servicios administrativos.",
+    "status": "en_curso",
+    "lat": "50.8503",
+    "lng": "4.3517",
+    "fuentes": [
+      {
+        "nombre": "CGSP Admi (23 juin - marche pour la dignité humaine)",
+        "url": "https://www.cgsp-admi.be/2026/06/09/23-juin-pour-la-dignite-humaine-et-en-defense-des-sp"
+      },
+      {
+        "nombre": "BruxellesToday (17 juin - grève services publics 23 juin)",
+        "url": "https://www.bruxellestoday.be/actualite/manifestation-mardi-23-juin-syndicats-secteur-public.html"
+      },
+      {
+        "nombre": "Woluwe1200 (22 juin - grève Bruxelles-Propreté)",
+        "url": "https://www.woluwe1200.be/mardi-23-juin-greve-de-bruxelles-proprete/"
+      },
+      {
+        "nombre": "IPALLE (19 juin - grève recyparcs fermés)",
+        "url": "https://ipalle.be/greve-ce-mardi-23-juin-plusieurs-recyparcs-seront-fermes"
+      }
+    ],
+    "createdAt": "2026-06-23T05:47:26.000Z",
+    "updatedAt": "2026-06-23T05:51:50Z"
+  },
+  {
+    "id": 75,
+    "seccion": "internacional",
+    "pais": "Francia",
+    "bandera": "🇫🇷",
+    "hora": "10:00",
+    "fecha": "2026-06-23",
+    "lugar": "Sede de ONISEP, París",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "SNASUB-FSU",
+      "Personal de ONISEP"
+    ],
+    "motivo": "Huelga y concentración del personal de ONISEP (Office National d'Information sur les Enseignements et les Professions) contra el desmantelamiento del organismo y el proyecto de transferencia forzosa de personal hacia las rectorías. Exigen la permanencia de ONISEP como operador nacional de información educativa, la preservación de todos los empleos y el mantenimiento de la red nacional, en el marco del consejo de administración que se celebra ese día.",
+    "status": "en_curso",
+    "lat": "48.8566",
+    "lng": "2.3522",
+    "fuentes": [
+      {
+        "nombre": "Café Pédagogique (22 juin - ONISEP appel grève 23 juin)",
+        "url": "https://www.cafepedagogique.net/2026/06/22/onisep-appel-a-la-greve-mardi-23-juin/"
+      }
+    ],
+    "createdAt": "2026-06-23T05:47:26.000Z",
+    "updatedAt": "2026-06-23T05:51:50Z"
+  },
+  {
+    "id": 76,
+    "seccion": "internacional",
+    "pais": "Francia",
+    "bandera": "🇫🇷",
+    "hora": "00:01",
+    "fecha": "2026-06-23",
+    "lugar": "Ville de Paris y CASVP (Centre d'Action Sociale), París",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "CGT Ville de Paris",
+      "CGT CASVP",
+      "Fédération CGT des Services Publics"
+    ],
+    "motivo": "Jornada de huelga de todos los agentes de la Ville de Paris y del CASVP en el marco de la Jornada Internacional de la Función Pública y la semana de movilización sectorial del 22 al 26 de junio. Exigen aumento salarial con revalorización del punto de índice a 6,5€, mejora de todas las grillas indiciarias, aumento indemnitario de 400€ para todos los agentes, fin de la precarización laboral, y defensa del servicio público de calidad.",
+    "status": "en_curso",
+    "lat": "48.8566",
+    "lng": "2.3522",
+    "fuentes": [
+      {
+        "nombre": "CGT Services Publics (17 juin - préavis grève Ville de Paris 23 juin)",
+        "url": "https://www.cgtservicespublics.fr/les-luttes/actualite-des-luttes-2026/preavis-de-greve-locaux/article/72-le-syndicat-cgt-des-territoriaux-d-allonnes-depose-un-preavis-de-greve-du-22"
+      },
+      {
+        "nombre": "CGT CASVP (23 juin - Journée internationale fonction publique)",
+        "url": "https://cgt-casvp.blogspot.com/2026/06/23-juin-2026-journee-internationale-de.html"
+      }
+    ],
+    "createdAt": "2026-06-23T05:47:26.000Z",
+    "updatedAt": "2026-06-23T05:51:50Z"
+  },
+  {
+    "id": 77,
+    "seccion": "internacional",
+    "pais": "Reino Unido",
+    "bandera": "🇬🇧",
+    "hora": "18:00",
+    "fecha": "2026-06-23",
+    "lugar": "Nessfield Gate, RAF Menwith Hill, Harrogate, North Yorkshire",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Menwith Hill Accountability Campaign",
+      "World BEYOND War"
+    ],
+    "motivo": "Vigilia semanal por la paz frente a la base de vigilancia masiva de Menwith Hill (operada por NSA/NRO de EE.UU.), exigiendo el cierre de la base y el fin de las actividades de espionaje global. Los manifestantes sostienen una protesta pacífica con carteles frente a la puerta Nessfield, como parte de una campaña continua contra la red global de bases militares e inteligencia estadounidenses.",
+    "status": "convocada",
+    "lat": "54.0086",
+    "lng": "-1.6192",
+    "fuentes": [
+      {
+        "nombre": "World BEYOND War (23 junio - Weekly Peace Witness Menwith Hill)",
+        "url": "https://events.worldbeyondwar.org/event/peace-witness/2026-06-23/"
+      },
+      {
+        "nombre": "Network for Peace (Menwith Hill weekly demonstrations)",
+        "url": "http://www.networkforpeace.org.uk/calendar/print/12mo"
+      }
+    ],
+    "createdAt": "2026-06-23T05:47:26.000Z",
+    "updatedAt": "2026-06-23T05:51:50Z"
+  },
+  {
+    "id": 78,
+    "seccion": "internacional",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "16:00",
+    "fecha": "2026-06-23",
+    "lugar": "5th Avenue & 44th Street, Brooklyn, Nueva York",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Sunset Park Elders Solidarity"
+    ],
+    "motivo": "Vigilia semanal frente a la oficina de la congresista Mikie Sherrill exigiendo un alto al fuego permanente en Gaza, salud para todos, construcción de puentes en lugar de muros, y financiación de escuelas en lugar de guerras. Forma parte de las protestas semanales 'Mondays with Mikie' por Palestina y justicia social.",
+    "status": "convocada",
+    "lat": "40.6500",
+    "lng": "-73.9900",
+    "fuentes": [
+      {
+        "nombre": "World BEYOND War (23 junio - Weekly Vigil Permanent Ceasefire)",
+        "url": "https://events.worldbeyondwar.org/"
+      }
+    ],
+    "createdAt": "2026-06-23T05:47:26.000Z",
+    "updatedAt": "2026-06-23T05:51:50Z"
+  },
+  {
+    "id": 79,
+    "seccion": "internacional",
+    "pais": "Alemania",
+    "bandera": "🇩🇪",
+    "hora": "00:01",
+    "fecha": "2026-06-23",
+    "lugar": "Base Aérea de Ramstein, Ramstein-Miesenbach, Renania-Palatinado",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Stopp Air Base Ramstein",
+      "Campaña por el cierre de bases militares de EE.UU."
+    ],
+    "motivo": "Día 4 del campamento por la paz 'Friedenswoche' (Semana de la Paz) en la Base Aérea de Ramstein, del 20 al 28 de junio. Protesta continua exigiendo el cierre de la base militar estadounidense de Ramstein y de todas las bases militares de EE.UU. en Alemania. El sábado 27 de junio se realizará una marcha de protesta desde la estación de tren hasta la puerta principal de la base.",
+    "status": "en_curso",
+    "lat": "49.4357",
+    "lng": "7.6009",
+    "fuentes": [
+      {
+        "nombre": "World BEYOND War (20-28 junio - Peace Camp Ramstein)",
+        "url": "https://events.worldbeyondwar.org/event/peace-camp-stopp-air-base-ramstein-active-for-peace/"
+      },
+      {
+        "nombre": "Stopp Ramstein (Friedenswoche 2026)",
+        "url": "https://www.stoppramstein.de/event/"
+      }
+    ],
+    "createdAt": "2026-06-23T05:47:26.000Z",
+    "updatedAt": "2026-06-23T05:51:50Z"
   }
 ]
