@@ -53,7 +53,7 @@
       }
     ],
     "createdAt": "2026-06-24T19:14:56.000Z",
-    "updatedAt": "2026-06-25T16:29:59Z"
+    "updatedAt": "2026-06-25T18:37:50Z"
   },
   {
     "id": 132,
@@ -87,7 +87,7 @@
       }
     ],
     "createdAt": "2026-06-24T22:48:52.000Z",
-    "updatedAt": "2026-06-25T16:29:59Z"
+    "updatedAt": "2026-06-25T18:37:50Z"
   },
   {
     "id": 147,
@@ -122,7 +122,7 @@
       }
     ],
     "createdAt": "2026-06-25T04:46:43.000Z",
-    "updatedAt": "2026-06-25T16:29:59Z"
+    "updatedAt": "2026-06-25T18:37:50Z"
   },
   {
     "id": 154,
@@ -157,10 +157,14 @@
       {
         "nombre": "Perfil (24 junio - CGT analiza paro general de 36 horas)",
         "url": "https://www.perfil.com/noticias/reperfilar/la-cgt-planea-un-nuevo-paro-general-que-duraria-36-horas.phtml"
+      },
+      {
+        "nombre": "Ámbito (25 junio - CGT se reúne, podría anunciar medidas contra reforma laboral)",
+        "url": "https://www.ambito.com/politica/se-viene-un-nuevo-paro-general-la-cupula-la-cgt-se-reune-y-podria-anunciar-medidas-contra-la-reforma-laboral-n6292421"
       }
     ],
     "createdAt": "2026-06-25T11:16:02.000Z",
-    "updatedAt": "2026-06-25T16:29:59Z"
+    "updatedAt": "2026-06-25T18:37:50Z"
   },
   {
     "id": 156,
@@ -189,7 +193,7 @@
       }
     ],
     "createdAt": "2026-06-25T13:36:47.000Z",
-    "updatedAt": "2026-06-25T16:29:59Z"
+    "updatedAt": "2026-06-25T18:37:50Z"
   },
   {
     "id": 157,
@@ -219,7 +223,32 @@
       }
     ],
     "createdAt": "2026-06-25T13:36:47.000Z",
-    "updatedAt": "2026-06-25T16:29:59Z"
+    "updatedAt": "2026-06-25T18:37:50Z"
+  },
+  {
+    "id": 160,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "09:00",
+    "fecha": "2026-06-25",
+    "lugar": "Legislatura Provincial (Ushuaia), Plaza Cívica (Tolhuin), y Don Bosco y Alberdi (Río Grande), Tierra del Fuego",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "SUTEF (Sindicato Unificado de Trabajadoras y Trabajadores de la Educación Fueguina)"
+    ],
+    "motivo": "Jornada de desobligación y movilización docente en las tres ciudades de Tierra del Fuego en reclamo de una recomposición salarial que alcance el Salario Mínimo Vital y Móvil ($2.879.877), pago de deudas salariales del 2% adeudado de 2025, cese de descuentos arbitrarios, mejoras en infraestructura edilicia escolar y sanción de una Ley de Financiamiento Educativo provincial. El gremio rechazó la propuesta del Gobierno provincial por considerarla insuficiente frente al contexto inflacionario. La medida forma parte de un plan de lucha que viene escalando desde febrero de 2026.",
+    "status": "en_curso",
+    "lat": "-54.8019",
+    "lng": "-68.3030",
+    "fuentes": [
+      {
+        "nombre": "Correo Diario (24 junio - SUTEF convoca a desobligación y movilización 25 de junio)",
+        "url": "https://correodiario.com.ar/sutef-convoco-a-una-jornada-de-desobligacion-y-movilizacion-en-reclamo-de-mejoras-salariales-y-condiciones-edilicias/"
+      }
+    ],
+    "createdAt": "2026-06-25T18:34:50.000Z",
+    "updatedAt": "2026-06-25T18:37:50Z"
   },
   {
     "id": 133,
@@ -267,7 +296,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T16:29:59Z"
+    "updatedAt": "2026-06-25T18:37:50Z"
   },
   {
     "id": 134,
@@ -306,7 +335,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T16:29:59Z"
+    "updatedAt": "2026-06-25T18:37:50Z"
   },
   {
     "id": 135,
@@ -336,7 +365,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T16:29:59Z"
+    "updatedAt": "2026-06-25T18:37:50Z"
   },
   {
     "id": 136,
@@ -370,7 +399,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T16:29:59Z"
+    "updatedAt": "2026-06-25T18:37:50Z"
   },
   {
     "id": 137,
@@ -404,7 +433,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T16:29:59Z"
+    "updatedAt": "2026-06-25T18:37:50Z"
   },
   {
     "id": 138,
@@ -434,7 +463,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T16:29:59Z"
+    "updatedAt": "2026-06-25T18:37:50Z"
   },
   {
     "id": 139,
@@ -467,7 +496,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T16:29:59Z"
+    "updatedAt": "2026-06-25T18:37:50Z"
   },
   {
     "id": 140,
@@ -524,7 +553,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T16:29:59Z"
+    "updatedAt": "2026-06-25T18:37:50Z"
   },
   {
     "id": 141,
@@ -557,7 +586,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T16:29:59Z"
+    "updatedAt": "2026-06-25T18:37:50Z"
   },
   {
     "id": 142,
@@ -588,7 +617,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T16:29:59Z"
+    "updatedAt": "2026-06-25T18:37:50Z"
   },
   {
     "id": 143,
@@ -614,7 +643,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T16:29:59Z"
+    "updatedAt": "2026-06-25T18:37:50Z"
   },
   {
     "id": 144,
@@ -641,7 +670,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T16:29:59Z"
+    "updatedAt": "2026-06-25T18:37:50Z"
   },
   {
     "id": 145,
@@ -667,7 +696,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T16:29:59Z"
+    "updatedAt": "2026-06-25T18:37:50Z"
   },
   {
     "id": 146,
@@ -693,7 +722,7 @@
       }
     ],
     "createdAt": "2026-06-25T04:44:18.000Z",
-    "updatedAt": "2026-06-25T16:29:59Z"
+    "updatedAt": "2026-06-25T18:37:50Z"
   },
   {
     "id": 149,
@@ -723,7 +752,7 @@
       }
     ],
     "createdAt": "2026-06-25T08:21:23.000Z",
-    "updatedAt": "2026-06-25T16:29:59Z"
+    "updatedAt": "2026-06-25T18:37:50Z"
   },
   {
     "id": 150,
@@ -765,7 +794,7 @@
       }
     ],
     "createdAt": "2026-06-25T08:21:23.000Z",
-    "updatedAt": "2026-06-25T16:29:59Z"
+    "updatedAt": "2026-06-25T18:37:50Z"
   },
   {
     "id": 151,
@@ -795,7 +824,7 @@
       }
     ],
     "createdAt": "2026-06-25T08:21:23.000Z",
-    "updatedAt": "2026-06-25T16:29:59Z"
+    "updatedAt": "2026-06-25T18:37:50Z"
   },
   {
     "id": 152,
@@ -825,7 +854,7 @@
       }
     ],
     "createdAt": "2026-06-25T11:13:59.000Z",
-    "updatedAt": "2026-06-25T16:29:59Z"
+    "updatedAt": "2026-06-25T18:37:50Z"
   },
   {
     "id": 153,
@@ -857,7 +886,7 @@
       }
     ],
     "createdAt": "2026-06-25T11:13:59.000Z",
-    "updatedAt": "2026-06-25T16:29:59Z"
+    "updatedAt": "2026-06-25T18:37:50Z"
   },
   {
     "id": 155,
@@ -910,7 +939,7 @@
       }
     ],
     "createdAt": "2026-06-25T13:34:59.000Z",
-    "updatedAt": "2026-06-25T16:29:59Z"
+    "updatedAt": "2026-06-25T18:37:50Z"
   },
   {
     "id": 158,
@@ -941,7 +970,7 @@
       }
     ],
     "createdAt": "2026-06-25T16:21:56.000Z",
-    "updatedAt": "2026-06-25T16:29:59Z"
+    "updatedAt": "2026-06-25T18:37:50Z"
   },
   {
     "id": 159,
@@ -966,6 +995,6 @@
       }
     ],
     "createdAt": "2026-06-25T16:21:56.000Z",
-    "updatedAt": "2026-06-25T16:29:59Z"
+    "updatedAt": "2026-06-25T18:37:50Z"
   }
 ]
