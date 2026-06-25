@@ -53,7 +53,7 @@
       }
     ],
     "createdAt": "2026-06-24T19:14:56.000Z",
-    "updatedAt": "2026-06-25T08:27:17Z"
+    "updatedAt": "2026-06-25T11:19:22Z"
   },
   {
     "id": 132,
@@ -87,7 +87,7 @@
       }
     ],
     "createdAt": "2026-06-24T22:48:52.000Z",
-    "updatedAt": "2026-06-25T08:27:17Z"
+    "updatedAt": "2026-06-25T11:19:22Z"
   },
   {
     "id": 147,
@@ -122,7 +122,45 @@
       }
     ],
     "createdAt": "2026-06-25T04:46:43.000Z",
-    "updatedAt": "2026-06-25T08:27:17Z"
+    "updatedAt": "2026-06-25T11:19:22Z"
+  },
+  {
+    "id": 154,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "14:00",
+    "fecha": "2026-06-25",
+    "lugar": "Sede de la CGT, Azopardo 802, Ciudad de Buenos Aires",
+    "tipoAccion": "asamblea",
+    "organizaciones": [
+      "CGT (Confederación General del Trabajo)",
+      "Consejo Directivo de la CGT"
+    ],
+    "motivo": "Reunión del Consejo Directivo de la CGT para definir el plan de lucha contra el Gobierno de Javier Milei. Se debaten dos propuestas: protestas sectoriales escalonadas ('modelo francés') impulsadas por el triunvirato (Sola, Jerónimo, Argüello), y un paro general de 36 horas con movilización a Plaza de Mayo propuesto por el bloque de Barrionuevo (gastronómicos), Maturano (La Fraternidad) y Calegari (UTA). En paralelo, un sector disidente propone entregar las obras sociales al Estado ante su crisis financiera.",
+    "status": "en_curso",
+    "lat": "-34.6131",
+    "lng": "-58.3772",
+    "fuentes": [
+      {
+        "nombre": "Infobae (25 junio - CGT debate plan de lucha: protestas a la francesa vs paro 36h)",
+        "url": "https://www.infobae.com/politica/2026/06/25/protestas-a-la-francesa-o-paro-de-36-horas-la-interna-de-la-cgt-se-agitara-hoy-con-un-debate-clave-sobre-el-nuevo-plan-de-lucha/"
+      },
+      {
+        "nombre": "Infobae (24 junio - sector CGT impulsa paro 36h y propone entregar obras sociales)",
+        "url": "https://www.infobae.com/politica/2026/06/24/un-sector-de-la-cgt-impulsa-un-paro-de-36-horas-y-propone-que-el-estado-se-haga-cargo-de-las-obras-sociales/"
+      },
+      {
+        "nombre": "Crónica (24 junio - CGT define cronograma de protestas escalonadas)",
+        "url": "https://www.cronica.com.ar/politica/la-cgt-define-un-cronograma-de-protestas-escalonadas/"
+      },
+      {
+        "nombre": "Perfil (24 junio - CGT analiza paro general de 36 horas)",
+        "url": "https://www.perfil.com/noticias/reperfilar/la-cgt-planea-un-nuevo-paro-general-que-duraria-36-horas.phtml"
+      }
+    ],
+    "createdAt": "2026-06-25T11:16:02.000Z",
+    "updatedAt": "2026-06-25T11:19:22Z"
   },
   {
     "id": 133,
@@ -166,7 +204,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T08:27:17Z"
+    "updatedAt": "2026-06-25T11:19:22Z"
   },
   {
     "id": 134,
@@ -201,7 +239,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T08:27:17Z"
+    "updatedAt": "2026-06-25T11:19:22Z"
   },
   {
     "id": 135,
@@ -231,7 +269,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T08:27:17Z"
+    "updatedAt": "2026-06-25T11:19:22Z"
   },
   {
     "id": 136,
@@ -265,7 +303,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T08:27:17Z"
+    "updatedAt": "2026-06-25T11:19:22Z"
   },
   {
     "id": 137,
@@ -299,7 +337,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T08:27:17Z"
+    "updatedAt": "2026-06-25T11:19:22Z"
   },
   {
     "id": 138,
@@ -329,7 +367,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T08:27:17Z"
+    "updatedAt": "2026-06-25T11:19:22Z"
   },
   {
     "id": 139,
@@ -362,7 +400,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T08:27:17Z"
+    "updatedAt": "2026-06-25T11:19:22Z"
   },
   {
     "id": 140,
@@ -411,7 +449,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T08:27:17Z"
+    "updatedAt": "2026-06-25T11:19:22Z"
   },
   {
     "id": 141,
@@ -444,7 +482,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T08:27:17Z"
+    "updatedAt": "2026-06-25T11:19:22Z"
   },
   {
     "id": 142,
@@ -475,7 +513,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T08:27:17Z"
+    "updatedAt": "2026-06-25T11:19:22Z"
   },
   {
     "id": 143,
@@ -501,7 +539,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T08:27:17Z"
+    "updatedAt": "2026-06-25T11:19:22Z"
   },
   {
     "id": 144,
@@ -528,7 +566,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T08:27:17Z"
+    "updatedAt": "2026-06-25T11:19:22Z"
   },
   {
     "id": 145,
@@ -554,7 +592,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T08:27:17Z"
+    "updatedAt": "2026-06-25T11:19:22Z"
   },
   {
     "id": 146,
@@ -580,41 +618,7 @@
       }
     ],
     "createdAt": "2026-06-25T04:44:18.000Z",
-    "updatedAt": "2026-06-25T08:27:17Z"
-  },
-  {
-    "id": 148,
-    "seccion": "internacional",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "05:00",
-    "fecha": "2026-06-25",
-    "lugar": "Principales zonas de fabricación de calzado en toda España (Almansa, Arnedo, Elche, etc.)",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "UGT FICA",
-      "CCOO Industria"
-    ],
-    "motivo": "Huelga nacional en el sector del calzado ante la falta de acuerdo para la renovación del convenio colectivo estatal. Los sindicatos UGT FICA y CCOO Industria rechazan la propuesta patronal por considerarla insuficiente en materia salarial, advirtiendo que la subida propuesta (9 puntos) supondría una pérdida de poder adquisitivo. La huelga incluye piquetes informativos desde las 5:00, concentraciones y manifestaciones en todas las zonas calzadistas. Se prevén nuevos paros el 15 y 16 de julio si no hay avances en la negociación.",
-    "status": "en_curso",
-    "lat": "40.4168",
-    "lng": "-3.7038",
-    "fuentes": [
-      {
-        "nombre": "Europa Press (17 junio - CCOO y UGT advierten de huelga en el calzado el 25)",
-        "url": "https://www.europapress.es/castilla-lamancha/noticia-ccoo-ugt-advierten-huelga-calzado-dia-25-si-no-hay-acuerdo-viernes-patronal-20260617142426.html"
-      },
-      {
-        "nombre": "Radio Arnedo (23 junio - huelga en el calzado aún convocada, mediación en SIMA)",
-        "url": "https://www.radioarnedo.com/2026/06/noticias/la-huelga-en-el-sector-del-calzado-pendiente-de-la-reunion-de-manana-miercoles-en-el-servicio-interconfederal-de-mediacion-y-arbitraje-sima/"
-      },
-      {
-        "nombre": "Strike Tracker (11 junio - Spain footwear strike June 25 confirmed)",
-        "url": "https://striketracker.app/strikes-in-spain/strike-spain-25-jun-16-jul-2026"
-      }
-    ],
-    "createdAt": "2026-06-25T08:21:23.000Z",
-    "updatedAt": "2026-06-25T08:27:17Z"
+    "updatedAt": "2026-06-25T11:19:22Z"
   },
   {
     "id": 149,
@@ -644,7 +648,7 @@
       }
     ],
     "createdAt": "2026-06-25T08:21:23.000Z",
-    "updatedAt": "2026-06-25T08:27:17Z"
+    "updatedAt": "2026-06-25T11:19:22Z"
   },
   {
     "id": 150,
@@ -678,7 +682,7 @@
       }
     ],
     "createdAt": "2026-06-25T08:21:23.000Z",
-    "updatedAt": "2026-06-25T08:27:17Z"
+    "updatedAt": "2026-06-25T11:19:22Z"
   },
   {
     "id": 151,
@@ -708,6 +712,68 @@
       }
     ],
     "createdAt": "2026-06-25T08:21:23.000Z",
-    "updatedAt": "2026-06-25T08:27:17Z"
+    "updatedAt": "2026-06-25T11:19:22Z"
+  },
+  {
+    "id": 152,
+    "seccion": "internacional",
+    "pais": "Polonia",
+    "bandera": "🇵🇱",
+    "hora": "17:00",
+    "fecha": "2026-06-25",
+    "lugar": "Amberexpo Conference Centre y centro de Gdańsk",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Łączy nas Polska (Poland Unites Us)",
+      "Confederation of the Polish Crown"
+    ],
+    "motivo": "Protestas masivas contra la celebración de la Conferencia de Recuperación de Ucrania (URC 2026) en Gdańsk, en oposición a la glorificación de la UPA por parte de las autoridades ucranianas. Los manifestantes exigen el fin del apoyo a Ucrania y rechazan la conferencia por considerar que Ucrania promueve el nacionalismo ucraniano radical. La conferencia URC 2026 se celebra del 25 al 26 de junio sin la presencia del presidente Zelensky debido a la disputa diplomática entre Polonia y Ucrania. El área del centro de conferencias fue fuertemente custodiada por la policía.",
+    "status": "en_curso",
+    "lat": "54.3520",
+    "lng": "18.6466",
+    "fuentes": [
+      {
+        "nombre": "Caliber.Az (25 junio - Mass protests planned in Poland against Ukraine recovery conference)",
+        "url": "https://caliber.az/en/post/mass-protests-planned-in-poland-against-ukraine-recovery-conference"
+      },
+      {
+        "nombre": "The Straits Times (25 junio - Ukraine recovery summit opens, overshadowed by Kyiv-Warsaw row)",
+        "url": "https://www.straitstimes.com/world/europe/ukraine-recovery-summit-opens-overshadowed-by-kyiv-warsaw-row"
+      }
+    ],
+    "createdAt": "2026-06-25T11:13:59.000Z",
+    "updatedAt": "2026-06-25T11:19:22Z"
+  },
+  {
+    "id": 153,
+    "seccion": "internacional",
+    "pais": "India",
+    "bandera": "🇮🇳",
+    "hora": "13:30",
+    "fecha": "2026-06-25",
+    "lugar": "Oficinas centrales de CHQ/Circle/District de BSNL en toda la India",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Bharatiya Doorsanchar Manch (BDM)",
+      "AIGETOA",
+      "BTEU",
+      "BDPS",
+      "AIBSNLOBCEWA",
+      "STEWA",
+      "FNTOBEA",
+      "BTU"
+    ],
+    "motivo": "Protesta nacional ('Lunch Hour Demonstration') de empleados y pensionistas de BSNL/MTNL de toda la India, convocada por el Bharatiya Doorsanchar Manch (BDM), exigiendo la implementación inmediata de la 3ra PRC (Pay Revision Commission), la revisión de pensiones desvinculada de la rentabilidad corporativa, la paridad salarial ('One Company - One Policy'), la derogación del proceso de contratación SET y la extensión de incrementos salariales para JTOs/JAOs/JEs. La protesta se realizó de 13:30 a 14:30 en todas las oficinas de BSNL del país.",
+    "status": "en_curso",
+    "lat": "20.5937",
+    "lng": "78.9629",
+    "fuentes": [
+      {
+        "nombre": "AIGETOA CHQ (24 junio - BDM convoca Lunch Hour Demonstration 25 de junio)",
+        "url": "https://aigetoachq.org/lunch-hour-demonstration-25th-june-2026/"
+      }
+    ],
+    "createdAt": "2026-06-25T11:13:59.000Z",
+    "updatedAt": "2026-06-25T11:19:22Z"
   }
 ]
