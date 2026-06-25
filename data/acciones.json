@@ -38,10 +38,18 @@
       {
         "nombre": "Infobae (6 junio - conflicto salarial policía Santa Cruz, acampe continuo)",
         "url": "https://www.infobae.com/politica/2026/06/06/conflicto-salarial-con-la-policia-en-santa-cruz-protestas-acampe-y-refuerzo-de-fuerzas-federales-de-nacion/"
+      },
+      {
+        "nombre": "Página|12 (24 junio - Santa Cruz: la policía reclama por salarios y denuncia amenazas)",
+        "url": "https://www.pagina12.com.ar/2026/06/24/santa-cruz-la-policia-reclama-por-salarios-y-denuncia-amenazas-del-gobierno-provincial/"
+      },
+      {
+        "nombre": "Mundo Gremial (24 junio - escala el reclamo policial en Santa Cruz, rechazan oferta)",
+        "url": "https://mundogremial.com/escala-el-reclamo-policial-en-santa-cruz-rechazan-la-oferta-de-vidal-y-profundizan-el-plan-de-lucha-en-la-casa-de-gobierno/"
       }
     ],
     "createdAt": "2026-06-24T19:14:56.000Z",
-    "updatedAt": "2026-06-25T00:17:12Z"
+    "updatedAt": "2026-06-25T04:49:31Z"
   },
   {
     "id": 132,
@@ -68,10 +76,49 @@
       {
         "nombre": "La Brújula 24 (23 junio - auxiliares paran 48h miércoles 24 y jueves 25)",
         "url": "https://www.labrujula24.com/notas/2026/06/23/auxiliares-de-la-educacion-paran-48-horas-y-se-movilizan-al-consejo-escolar-n506758/"
+      },
+      {
+        "nombre": "0291.com.ar (24 junio - ATE anunció paro 48h en escuelas de Bahía Blanca y la región)",
+        "url": "https://0291.com.ar/ate-anuncio-un-paro-de-48-horas-en-escuelas-de-bahia-blanca-y-la-region/"
       }
     ],
     "createdAt": "2026-06-24T22:48:52.000Z",
-    "updatedAt": "2026-06-25T00:17:12Z"
+    "updatedAt": "2026-06-25T04:49:31Z"
+  },
+  {
+    "id": 147,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "13:00",
+    "fecha": "2026-06-25",
+    "lugar": "Sala III de la Cámara Penal Contravencional y de Faltas, Ciudad de Buenos Aires",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "CADeP (Coordinadora Antirrepresiva por los Derechos del Pueblo)",
+      "Organizaciones de derechos humanos",
+      "Organizaciones sociales y sindicales"
+    ],
+    "motivo": "Acompañamiento a la audiencia de apelación de la condena de cuatro manifestantes (Carlos Denuble, Astor Galán Vizgarra, Joaquín Arrúa y Pedro Esquivel) detenidos el 2 de febrero de 2024 durante protestas pacíficas frente al Congreso contra la Ley Ómnibus. CADeP y organizaciones de DD.HH. convocan a la comunidad a acompañar la revisión de la sentencia por considerarla un caso de criminalización de la protesta social. Denuncian que las condenas fueron dictadas sin pruebas y que la causa es la única que avanzó entre las 14 detenciones de aquella jornada.",
+    "status": "en_curso",
+    "lat": "-34.6108",
+    "lng": "-58.3903",
+    "fuentes": [
+      {
+        "nombre": "Kaosenlared/ANRed (24 junio - CADeP convoca a acompañar audiencia de apelación)",
+        "url": "https://kaosenlared.net/argentina-apelan-la-condena-a-manifestantes-detenidos-durante-las-protestas-contra-la-ley-omnibus/"
+      },
+      {
+        "nombre": "Resumen Latinoamericano/Página12 (23 junio - apelación el 25 de junio en Cámara Penal)",
+        "url": "https://www.resumenlatinoamericano.org/2026/06/23/argentina-apelan-la-condena-a-cuatro-manifestantes-detenidos-en-la-protesta-contra-la-ley-bases/"
+      },
+      {
+        "nombre": "Argentina Indymedia (23 junio - garantizar el derecho a la protesta, apelan condena)",
+        "url": "https://argentina.indymedia.org/2026/06/23/garantizar-el-derecho-a-la-protesta-apelan-condena-arbitraria-a-manifestantes-contra-la-ley-omnibus/"
+      }
+    ],
+    "createdAt": "2026-06-25T04:46:43.000Z",
+    "updatedAt": "2026-06-25T04:49:31Z"
   },
   {
     "id": 133,
@@ -115,7 +162,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T00:17:12Z"
+    "updatedAt": "2026-06-25T04:49:31Z"
   },
   {
     "id": 134,
@@ -150,7 +197,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T00:17:12Z"
+    "updatedAt": "2026-06-25T04:49:31Z"
   },
   {
     "id": 135,
@@ -180,7 +227,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T00:17:12Z"
+    "updatedAt": "2026-06-25T04:49:31Z"
   },
   {
     "id": 136,
@@ -214,7 +261,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T00:17:12Z"
+    "updatedAt": "2026-06-25T04:49:31Z"
   },
   {
     "id": 137,
@@ -248,7 +295,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T00:17:12Z"
+    "updatedAt": "2026-06-25T04:49:31Z"
   },
   {
     "id": 138,
@@ -278,7 +325,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T00:17:12Z"
+    "updatedAt": "2026-06-25T04:49:31Z"
   },
   {
     "id": 139,
@@ -311,7 +358,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T00:17:12Z"
+    "updatedAt": "2026-06-25T04:49:31Z"
   },
   {
     "id": 140,
@@ -349,10 +396,14 @@
       {
         "nombre": "Citizen Digital (19 junio - Ruto warning ahead of June 25)",
         "url": "https://citizen.digital/article/protest-but-president-rutos-warning-ahead-of-june-25th-gen-z-demos-anniversary-n384951"
+      },
+      {
+        "nombre": "Solace Global (24 junio - Kenya braces for nationwide protests June 25)",
+        "url": "https://www.solaceglobal.com/news/2026/06/24/alert-plus-kenya-protests-25-june"
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T00:17:12Z"
+    "updatedAt": "2026-06-25T04:49:31Z"
   },
   {
     "id": 141,
@@ -385,7 +436,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T00:17:12Z"
+    "updatedAt": "2026-06-25T04:49:31Z"
   },
   {
     "id": 142,
@@ -416,7 +467,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T00:17:12Z"
+    "updatedAt": "2026-06-25T04:49:31Z"
   },
   {
     "id": 143,
@@ -442,7 +493,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T00:17:12Z"
+    "updatedAt": "2026-06-25T04:49:31Z"
   },
   {
     "id": 144,
@@ -469,7 +520,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T00:17:12Z"
+    "updatedAt": "2026-06-25T04:49:31Z"
   },
   {
     "id": 145,
@@ -495,6 +546,32 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T00:17:12Z"
+    "updatedAt": "2026-06-25T04:49:31Z"
+  },
+  {
+    "id": 146,
+    "seccion": "internacional",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "10:00",
+    "fecha": "2026-06-25",
+    "lugar": "Ayuntamiento de Miami, Miami, Florida",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Organizaciones civiles de Miami",
+      "Activistas pro-inmigrantes"
+    ],
+    "motivo": "Protesta de organizaciones civiles en el Ayuntamiento de Miami exigiendo que la Policía revoque su acuerdo de cooperación con el Servicio de Inmigración y Aduanas (ICE). La oficina de ICE en Miami lidera los arrestos migratorios a nivel nacional en Estados Unidos. Los manifestantes denuncian las redadas masivas y detenciones arbitrarias de inmigrantes en la comunidad, en el marco de las políticas migratorias del gobierno de Donald Trump.",
+    "status": "en_curso",
+    "lat": "25.7740",
+    "lng": "-80.1937",
+    "fuentes": [
+      {
+        "nombre": "Infobae/EFE (24 junio - protesta en Miami contra ICE el 25 de junio)",
+        "url": "https://www.infobae.com/america/agencias/2026/06/24/jueves-25-de-junio-de-2026-1930-gmt/"
+      }
+    ],
+    "createdAt": "2026-06-25T04:44:18.000Z",
+    "updatedAt": "2026-06-25T04:49:31Z"
   }
 ]
