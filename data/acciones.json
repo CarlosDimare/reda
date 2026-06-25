@@ -53,7 +53,7 @@
       }
     ],
     "createdAt": "2026-06-24T19:14:56.000Z",
-    "updatedAt": "2026-06-25T11:19:22Z"
+    "updatedAt": "2026-06-25T13:40:31Z"
   },
   {
     "id": 132,
@@ -87,7 +87,7 @@
       }
     ],
     "createdAt": "2026-06-24T22:48:52.000Z",
-    "updatedAt": "2026-06-25T11:19:22Z"
+    "updatedAt": "2026-06-25T13:40:31Z"
   },
   {
     "id": 147,
@@ -122,7 +122,7 @@
       }
     ],
     "createdAt": "2026-06-25T04:46:43.000Z",
-    "updatedAt": "2026-06-25T11:19:22Z"
+    "updatedAt": "2026-06-25T13:40:31Z"
   },
   {
     "id": 154,
@@ -160,7 +160,66 @@
       }
     ],
     "createdAt": "2026-06-25T11:16:02.000Z",
-    "updatedAt": "2026-06-25T11:19:22Z"
+    "updatedAt": "2026-06-25T13:40:31Z"
+  },
+  {
+    "id": 156,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "09:00",
+    "fecha": "2026-06-25",
+    "lugar": "Plaza 25 de Mayo, Resistencia, Chaco",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Vendedores ambulantes autoconvocados de Resistencia"
+    ],
+    "motivo": "Protesta denominada 'Facturazo' de más de 70 vendedores ambulantes de Resistencia, Chaco, contra la persecución municipal, los decomisos y multas que afectan su actividad en la economía popular. Entrega simbólica de facturas de elaboración propia y presentación de petitorio exigiendo la apertura de una mesa de diálogo con las autoridades municipales y provinciales. Bajo la consigna 'Trabajar no es delito', denuncian que no obtuvieron respuestas a sus planteos. Participan vendedores de panificados, pancheros y jugueteros.",
+    "status": "en_curso",
+    "lat": "-27.4512",
+    "lng": "-58.9867",
+    "fuentes": [
+      {
+        "nombre": "TN24 (25 junio - vendedores ambulantes Facturazo Resistencia)",
+        "url": "https://www.tn24.com.ar/2026/06/vendedores-ambulantes-realizaran-un-facturazo-en-la-plaza-25-de-mayo-de-resistencia/"
+      },
+      {
+        "nombre": "Diario La Voz del Chaco (23 junio - anuncio Facturazo vendedores ambulantes)",
+        "url": "https://www.diariolavozdelchaco.com/2026/06/23/nos-quieren-ocultar-vendedores-ambulantes-haran-un-facturazo-en-pleno-centro-de-resistencia/"
+      }
+    ],
+    "createdAt": "2026-06-25T13:36:47.000Z",
+    "updatedAt": "2026-06-25T13:40:31Z"
+  },
+  {
+    "id": 157,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "00:01",
+    "fecha": "2026-06-25",
+    "lugar": "Universidades públicas de todo el país (61 universidades nacionales)",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "CONADU Histórica (Federación Nacional de Docentes, Investigadores y Creadores Universitarios)",
+      "CONADU (Federación Nacional de Docentes Universitarios)"
+    ],
+    "motivo": "Paro nacional universitario de 48 horas (jueves 25 y viernes 26 de junio) de docentes universitarios de todo el país en reclamo de la aplicación de la Ley de Financiamiento Universitario, recomposición salarial urgente, apertura de paritarias y presupuesto suficiente para el funcionamiento de las universidades públicas. Incluye acciones federales en las 61 universidades y una marcha de velas el jueves desde Plaza Houssay hasta la Secretaría de Educación en CABA. Denuncian una pérdida del poder adquisitivo del 44% desde diciembre de 2023 y el desmantelamiento de la educación pública por el gobierno de Javier Milei. Rechazaron la oferta salarial del gobierno (24,33% en dos tramos) por considerarla insuficiente.",
+    "status": "en_curso",
+    "lat": "-34.5997",
+    "lng": "-58.3961",
+    "fuentes": [
+      {
+        "nombre": "Política del Sur (25 junio - CONADU Histórica paro 48h nacional universitario)",
+        "url": "https://politicadelsur.com/nota/92071/la-conadu-historica-confirmo-un-nuevo-paro-nacional-con-acciones-en-todo-el-pais/"
+      },
+      {
+        "nombre": "Faro Noticias (CONADU paro 48h 25 y 26 de junio)",
+        "url": "https://faronoticias.com.ar/nota/13939/la-conadu-convoca-a-un-paro-universitario-nacional-de-48-horas-para-el-25-y-26-de-junio/"
+      }
+    ],
+    "createdAt": "2026-06-25T13:36:47.000Z",
+    "updatedAt": "2026-06-25T13:40:31Z"
   },
   {
     "id": 133,
@@ -204,7 +263,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T11:19:22Z"
+    "updatedAt": "2026-06-25T13:40:31Z"
   },
   {
     "id": 134,
@@ -239,7 +298,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T11:19:22Z"
+    "updatedAt": "2026-06-25T13:40:31Z"
   },
   {
     "id": 135,
@@ -269,7 +328,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T11:19:22Z"
+    "updatedAt": "2026-06-25T13:40:31Z"
   },
   {
     "id": 136,
@@ -303,7 +362,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T11:19:22Z"
+    "updatedAt": "2026-06-25T13:40:31Z"
   },
   {
     "id": 137,
@@ -337,7 +396,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T11:19:22Z"
+    "updatedAt": "2026-06-25T13:40:31Z"
   },
   {
     "id": 138,
@@ -367,7 +426,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T11:19:22Z"
+    "updatedAt": "2026-06-25T13:40:31Z"
   },
   {
     "id": 139,
@@ -400,7 +459,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T11:19:22Z"
+    "updatedAt": "2026-06-25T13:40:31Z"
   },
   {
     "id": 140,
@@ -449,7 +508,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T11:19:22Z"
+    "updatedAt": "2026-06-25T13:40:31Z"
   },
   {
     "id": 141,
@@ -482,7 +541,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T11:19:22Z"
+    "updatedAt": "2026-06-25T13:40:31Z"
   },
   {
     "id": 142,
@@ -513,7 +572,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T11:19:22Z"
+    "updatedAt": "2026-06-25T13:40:31Z"
   },
   {
     "id": 143,
@@ -539,7 +598,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T11:19:22Z"
+    "updatedAt": "2026-06-25T13:40:31Z"
   },
   {
     "id": 144,
@@ -566,7 +625,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T11:19:22Z"
+    "updatedAt": "2026-06-25T13:40:31Z"
   },
   {
     "id": 145,
@@ -592,7 +651,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T11:19:22Z"
+    "updatedAt": "2026-06-25T13:40:31Z"
   },
   {
     "id": 146,
@@ -618,7 +677,7 @@
       }
     ],
     "createdAt": "2026-06-25T04:44:18.000Z",
-    "updatedAt": "2026-06-25T11:19:22Z"
+    "updatedAt": "2026-06-25T13:40:31Z"
   },
   {
     "id": 149,
@@ -648,7 +707,7 @@
       }
     ],
     "createdAt": "2026-06-25T08:21:23.000Z",
-    "updatedAt": "2026-06-25T11:19:22Z"
+    "updatedAt": "2026-06-25T13:40:31Z"
   },
   {
     "id": 150,
@@ -682,7 +741,7 @@
       }
     ],
     "createdAt": "2026-06-25T08:21:23.000Z",
-    "updatedAt": "2026-06-25T11:19:22Z"
+    "updatedAt": "2026-06-25T13:40:31Z"
   },
   {
     "id": 151,
@@ -712,7 +771,7 @@
       }
     ],
     "createdAt": "2026-06-25T08:21:23.000Z",
-    "updatedAt": "2026-06-25T11:19:22Z"
+    "updatedAt": "2026-06-25T13:40:31Z"
   },
   {
     "id": 152,
@@ -742,7 +801,7 @@
       }
     ],
     "createdAt": "2026-06-25T11:13:59.000Z",
-    "updatedAt": "2026-06-25T11:19:22Z"
+    "updatedAt": "2026-06-25T13:40:31Z"
   },
   {
     "id": 153,
@@ -774,6 +833,55 @@
       }
     ],
     "createdAt": "2026-06-25T11:13:59.000Z",
-    "updatedAt": "2026-06-25T11:19:22Z"
+    "updatedAt": "2026-06-25T13:40:31Z"
+  },
+  {
+    "id": 155,
+    "seccion": "internacional",
+    "pais": "Francia",
+    "bandera": "🇫🇷",
+    "hora": "09:00",
+    "fecha": "2026-06-25",
+    "lugar": "Múltiples ciudades de Francia (París, Marsella, Lyon, Saint-Étienne, Clermont-Ferrand, Bobigny y otras)",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "CGT (Confédération Générale du Travail)",
+      "FO (Force Ouvrière)",
+      "SUD",
+      "FSU",
+      "FA-FP (Fédération Autonome de la Fonction Publique)"
+    ],
+    "motivo": "Jornada nacional de huelga y movilización intersindical en Francia contra la austeridad, los recortes presupuestarios y por aumentos salariales en el sector público. Convocada por CGT, FO, SUD, FSU y FA-FP, la protesta abarca hospitales, acción social, función pública territorial, educación, industria química y transportes. Las acciones incluyen manifestaciones frente a prefecturas y agencias regionales de salud en todo el país, un acto central en París frente al Ministerio de Salud (entre Bir Hakeim y la Place des Martyrs), un piquete en el Puerto de Marsella (9-15 h), concentraciones en Lyon (Sanofi, Kem One) y Saint-Étienne, y huelga de conductores TER en Auvernia contra las temperaturas extremas en cabinas. Los sindicatos denuncian el cierre de camas y servicios hospitalarios, la precarización de AESH y personal educativo, y la congelación del punto índice salarial desde 2023.",
+    "status": "en_curso",
+    "lat": "48.8566",
+    "lng": "2.3522",
+    "fuentes": [
+      {
+        "nombre": "CGT Services Publics (16 junio - préavis de grève national 25 juin 2026)",
+        "url": "https://cgtservicespublics.fr/les-luttes/actualite-des-luttes-2026/preavis-de-greve-federaux/article/la-federation-cgt-des-services-publics-depose-un-preavis-de-greve-pour-la-31308"
+      },
+      {
+        "nombre": "FO Santé (25 juin - grève nationale santé et action sociale)",
+        "url": "https://www.force-ouvriere.fr/sante-et-action-sociale-greve-nationale-le-25-juin-pour-sauver"
+      },
+      {
+        "nombre": "La Marseillaise (23 juin - CGT 13 passe à l'offensive, grève Marseille 25 juin)",
+        "url": "https://www.lamarseillaise.fr/social/face-a-l-urgence-sociale-la-cgt-13-passe-a-l-offensive-HH20411655"
+      },
+      {
+        "nombre": "CGT Educ'Action 42 (17 juin - grève 25 juin plan urgence Loire)",
+        "url": "https://www.cgteduc42.fr/Le-25-juin-toutes-et-tous-en-greve-pour-un-plan-d-urgence-dans-la-Loire"
+      },
+      {
+        "nombre": "La Montagne (24 juin - grève TER Auvergne 25 juin 40°C cabines)",
+        "url": "https://www.lamontagne.fr/clermont-ferrand-63000/actualites/40c-dans-les-cabines-la-cgt-appelle-les-conducteurs-de-ter-auvergnats-a-la-greve_15009761/"
+      },
+      {
+        "nombre": "Intersyndicale Éducation 93 (19 juin - grève 25 juin Seine-Saint-Denis)",
+        "url": "https://93.cgteduccreteil.org/25-juin-L-intersyndicale-education-93-appelle-a-la-greve-pour-defendre-le"
+      }
+    ],
+    "createdAt": "2026-06-25T13:34:59.000Z",
+    "updatedAt": "2026-06-25T13:40:31Z"
   }
 ]
