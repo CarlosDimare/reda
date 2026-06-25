@@ -53,7 +53,7 @@
       }
     ],
     "createdAt": "2026-06-24T19:14:56.000Z",
-    "updatedAt": "2026-06-25T13:40:31Z"
+    "updatedAt": "2026-06-25T16:29:59Z"
   },
   {
     "id": 132,
@@ -87,7 +87,7 @@
       }
     ],
     "createdAt": "2026-06-24T22:48:52.000Z",
-    "updatedAt": "2026-06-25T13:40:31Z"
+    "updatedAt": "2026-06-25T16:29:59Z"
   },
   {
     "id": 147,
@@ -122,7 +122,7 @@
       }
     ],
     "createdAt": "2026-06-25T04:46:43.000Z",
-    "updatedAt": "2026-06-25T13:40:31Z"
+    "updatedAt": "2026-06-25T16:29:59Z"
   },
   {
     "id": 154,
@@ -160,7 +160,7 @@
       }
     ],
     "createdAt": "2026-06-25T11:16:02.000Z",
-    "updatedAt": "2026-06-25T13:40:31Z"
+    "updatedAt": "2026-06-25T16:29:59Z"
   },
   {
     "id": 156,
@@ -189,7 +189,7 @@
       }
     ],
     "createdAt": "2026-06-25T13:36:47.000Z",
-    "updatedAt": "2026-06-25T13:40:31Z"
+    "updatedAt": "2026-06-25T16:29:59Z"
   },
   {
     "id": 157,
@@ -219,7 +219,7 @@
       }
     ],
     "createdAt": "2026-06-25T13:36:47.000Z",
-    "updatedAt": "2026-06-25T13:40:31Z"
+    "updatedAt": "2026-06-25T16:29:59Z"
   },
   {
     "id": 133,
@@ -246,6 +246,10 @@
     "lng": "77.2168",
     "fuentes": [
       {
+        "nombre": "ETV Bharat (25 junio - CJP protest day 6, students from across India)",
+        "url": "https://www.etvbharat.com/en/state/cjp-protest-over-education-reforms-enters-day-6-demonstrators-demand-ministers-resignation-enn26062503265"
+      },
+      {
         "nombre": "The Independent (24 junio - CJP protest day 5, no end in sight)",
         "url": "https://www.independent.co.uk/asia/india/cockroach-party-protest-dharmendra-pradhan-resign-b3001886.html"
       },
@@ -263,7 +267,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T13:40:31Z"
+    "updatedAt": "2026-06-25T16:29:59Z"
   },
   {
     "id": 134,
@@ -295,10 +299,14 @@
       {
         "nombre": "Al Jazeera (11 junio - largest protest yet)",
         "url": "https://www.aljazeera.com/news/2026/6/11/thousands-rally-in-albania-in-largest-protest-yet-against-kushner-resort"
+      },
+      {
+        "nombre": "CE Report (25 junio - 25th day, heavy rain, protest continues)",
+        "url": "https://www.cereport.eu/news/politics/92125"
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T13:40:31Z"
+    "updatedAt": "2026-06-25T16:29:59Z"
   },
   {
     "id": 135,
@@ -328,7 +336,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T13:40:31Z"
+    "updatedAt": "2026-06-25T16:29:59Z"
   },
   {
     "id": 136,
@@ -362,7 +370,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T13:40:31Z"
+    "updatedAt": "2026-06-25T16:29:59Z"
   },
   {
     "id": 137,
@@ -396,7 +404,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T13:40:31Z"
+    "updatedAt": "2026-06-25T16:29:59Z"
   },
   {
     "id": 138,
@@ -426,7 +434,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T13:40:31Z"
+    "updatedAt": "2026-06-25T16:29:59Z"
   },
   {
     "id": 139,
@@ -459,7 +467,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T13:40:31Z"
+    "updatedAt": "2026-06-25T16:29:59Z"
   },
   {
     "id": 140,
@@ -483,32 +491,40 @@
     "lng": "36.8172",
     "fuentes": [
       {
+        "nombre": "AP News (25 junio - Kenyans mark anniversary, police block roads)",
+        "url": "https://apnews.com/article/kenya-protests-william-ruto-nairobi-1abfae9815508354b31c4eb974f82f19"
+      },
+      {
+        "nombre": "BBC News (25 junio - families lay flowers on barbed wire barricade)",
+        "url": "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo"
+      },
+      {
+        "nombre": "Africanews (25 junio - police in massive show of force)",
+        "url": "https://www.africanews.com/2026/06/25/kenya-police-in-massive-show-of-force-on-protest-anniversary/"
+      },
+      {
+        "nombre": "Tuko.co.ke (25 junio - major roads blocked, heavy police deployed)",
+        "url": "https://www.tuko.co.ke/kenya/counties/630658-june-25-protests-major-roads-blocked-heavy-police-deployed-gen-z-anniversary/"
+      },
+      {
+        "nombre": "TV47 (25 junio - no matatus, commuters walk to work)",
+        "url": "https://www.tv47.digital/june-25-protests-no-matatus-on-major-roads-in-nairobi-as-commuters-walk-to-work-154127/"
+      },
+      {
+        "nombre": "People Daily (25 junio - police lob teargas in Githurai)",
+        "url": "https://peopledaily.digital/news/gen-z-protests-anniversary-police-lob-teargas-to-disrupt-demonstrators-in-githurai/amp"
+      },
+      {
         "nombre": "Eagle News Feed (25 junio - police seal off Nairobi CBD ahead of memorial protests)",
         "url": "https://eaglenewsfeed.com/police-seal-off-nairobi-cbd-ahead-of-june-25-memorial-protests/"
       },
       {
         "nombre": "NewsTrendsKE (25 junio - Nairobi on lockdown, June 25 barricades)",
         "url": "https://newstrends.co.ke/nairobi-on-lockdown-what-the-june-25-barricades-tell-us-about-rutos-presidency/"
-      },
-      {
-        "nombre": "Al Jazeera (24 junio - Kenya braces for return of Gen Z protests)",
-        "url": "https://www.aljazeera.com/features/2026/6/24/kenya-braces-for-return-of-gen-z-protests-how-did-they-begin"
-      },
-      {
-        "nombre": "Nairobi Wire (24 junio - human rights defenders deploy drones)",
-        "url": "https://nairobiwire.com/2026/06/june-25-protests-kenya-security-plan-human-rights.html"
-      },
-      {
-        "nombre": "The Star (24 junio - tension builds ahead of Gen Z memorial)",
-        "url": "https://www.the-star.co.ke/news/2026-06-24-tension-builds-ahead-of-gen-z-protest-memorial"
-      },
-      {
-        "nombre": "Solace Global (24 junio - Kenya braces for nationwide protests June 25)",
-        "url": "https://www.solaceglobal.com/news/2026/06/24/alert-plus-kenya-protests-25-june"
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T13:40:31Z"
+    "updatedAt": "2026-06-25T16:29:59Z"
   },
   {
     "id": 141,
@@ -541,7 +557,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T13:40:31Z"
+    "updatedAt": "2026-06-25T16:29:59Z"
   },
   {
     "id": 142,
@@ -572,7 +588,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T13:40:31Z"
+    "updatedAt": "2026-06-25T16:29:59Z"
   },
   {
     "id": 143,
@@ -598,7 +614,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T13:40:31Z"
+    "updatedAt": "2026-06-25T16:29:59Z"
   },
   {
     "id": 144,
@@ -625,7 +641,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T13:40:31Z"
+    "updatedAt": "2026-06-25T16:29:59Z"
   },
   {
     "id": 145,
@@ -651,7 +667,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T13:40:31Z"
+    "updatedAt": "2026-06-25T16:29:59Z"
   },
   {
     "id": 146,
@@ -677,7 +693,7 @@
       }
     ],
     "createdAt": "2026-06-25T04:44:18.000Z",
-    "updatedAt": "2026-06-25T13:40:31Z"
+    "updatedAt": "2026-06-25T16:29:59Z"
   },
   {
     "id": 149,
@@ -707,7 +723,7 @@
       }
     ],
     "createdAt": "2026-06-25T08:21:23.000Z",
-    "updatedAt": "2026-06-25T13:40:31Z"
+    "updatedAt": "2026-06-25T16:29:59Z"
   },
   {
     "id": 150,
@@ -736,12 +752,20 @@
         "url": "https://one.news18.com/english/article/world/pakistan-rangers-crack-down-on-women-protesters-in-pok-block-access-to-demonstrations-eng-9910172344"
       },
       {
+        "nombre": "ABP Live (25 junio - 50,000 gather in Rawalakot, demand Pakistan Army leave)",
+        "url": "https://news.abplive.com/news/india/pojk-uprising-50-000-gather-in-rawalakot-demand-pakistan-army-leave-kashmir-pro-india-sentiments-exclusive-1852584"
+      },
+      {
+        "nombre": "NewsX (25 junio - PoK uprising deepens, 50,000 gather day 17)",
+        "url": "https://www.newsx.com/world/pok-uprising-deepens-over-50000-gather-in-rawalakot-as-anti-pakistan-protests-enter-17th-day-240837/"
+      },
+      {
         "nombre": "Al Jazeera (9 junio - deadly protests in Pakistan-administered Kashmir: what's going on)",
         "url": "https://www.aljazeera.com/news/2026/6/9/deadly-protests-in-pakistan-administered-kashmir-whats-going-on"
       }
     ],
     "createdAt": "2026-06-25T08:21:23.000Z",
-    "updatedAt": "2026-06-25T13:40:31Z"
+    "updatedAt": "2026-06-25T16:29:59Z"
   },
   {
     "id": 151,
@@ -771,7 +795,7 @@
       }
     ],
     "createdAt": "2026-06-25T08:21:23.000Z",
-    "updatedAt": "2026-06-25T13:40:31Z"
+    "updatedAt": "2026-06-25T16:29:59Z"
   },
   {
     "id": 152,
@@ -801,7 +825,7 @@
       }
     ],
     "createdAt": "2026-06-25T11:13:59.000Z",
-    "updatedAt": "2026-06-25T13:40:31Z"
+    "updatedAt": "2026-06-25T16:29:59Z"
   },
   {
     "id": 153,
@@ -833,7 +857,7 @@
       }
     ],
     "createdAt": "2026-06-25T11:13:59.000Z",
-    "updatedAt": "2026-06-25T13:40:31Z"
+    "updatedAt": "2026-06-25T16:29:59Z"
   },
   {
     "id": 155,
@@ -856,6 +880,10 @@
     "lat": "48.8566",
     "lng": "2.3522",
     "fuentes": [
+      {
+        "nombre": "Devdiscourse (25 junio - Airbus workers rally against on-site workweek increase)",
+        "url": "https://www.devdiscourse.com/article/business/3940677-airbus-workers-rally-against-on-site-workweek-increase"
+      },
       {
         "nombre": "CGT Services Publics (16 junio - préavis de grève national 25 juin 2026)",
         "url": "https://cgtservicespublics.fr/les-luttes/actualite-des-luttes-2026/preavis-de-greve-federaux/article/la-federation-cgt-des-services-publics-depose-un-preavis-de-greve-pour-la-31308"
@@ -882,6 +910,62 @@
       }
     ],
     "createdAt": "2026-06-25T13:34:59.000Z",
-    "updatedAt": "2026-06-25T13:40:31Z"
+    "updatedAt": "2026-06-25T16:29:59Z"
+  },
+  {
+    "id": 158,
+    "seccion": "internacional",
+    "pais": "Rumania",
+    "bandera": "🇷🇴",
+    "hora": "11:00",
+    "fecha": "2026-06-25",
+    "lugar": "Palacio del Parlamento, Alveola Parcului Izvor, Bucarest",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "FSLI (Federația Sindicatelor Libere din Învățământ)",
+      "FSE 'Spiru Haret' (Federația Sindicatelor din Educație)",
+      "FNS 'Alma Mater' (Federația Națională Sindicală)"
+    ],
+    "motivo": "Protesta de cientos de profesores frente al Palacio del Parlamento de Rumania, depositando más de 160.000 firmas para una iniciativa legislativa ciudadana que exige la modificación de las Leyes de Educación y la derogación de las medidas de austeridad de la Ley 141/2025 (Ley Bolojan). Exigen la reducción del número de alumnos por clase (máx. 22 en primaria, 26 en secundaria), la vuelta a las normas didácticas anteriores, el pago por hora digno y mejores condiciones salariales. Advierten con boicotear el examen de Bachillerato si no se atienden sus reclamos. El conflicto comenzó en julio de 2025 y se ha intensificado progresivamente.",
+    "status": "en_curso",
+    "lat": "44.4275",
+    "lng": "26.0874",
+    "fuentes": [
+      {
+        "nombre": "Mediafax (25 junio - teachers protest Parliament 160k signatures)",
+        "url": "https://www.mediafax.ro/english/teachers-protest-in-front-of-parliament-160000-signatures-for-amending-the-education-law-23761500"
+      },
+      {
+        "nombre": "HotNews (25 junio - protest profesori Parlament 160.000 semnături)",
+        "url": "https://hotnews.ro/protest-al-profesorilor-in-fata-parlamentului-160-000-de-semnaturi-pentru-modificarea-unor-masuri-din-educatie-2283998"
+      }
+    ],
+    "createdAt": "2026-06-25T16:21:56.000Z",
+    "updatedAt": "2026-06-25T16:29:59Z"
+  },
+  {
+    "id": 159,
+    "seccion": "internacional",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "03:00",
+    "fecha": "2026-06-25",
+    "lugar": "T.F. Green International Airport, Warwick, Rhode Island",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "Trabajadores de alimentos y bebidas de Grove Bay Concessions"
+    ],
+    "motivo": "Huelga de 73 trabajadores de servicios de alimentos y bebidas del Aeropuerto T.F. Green de Rhode Island, operados por Grove Bay Concessions. Sin contrato laboral desde hace aproximadamente un año, exigen un aumento salarial acorde al costo de vida y no el salario mínimo. La huelga comenzó a las 3:00 AM en medio del aumento de tráfico por la Copa del Mundo.",
+    "status": "en_curso",
+    "lat": "41.7242",
+    "lng": "-71.4282",
+    "fuentes": [
+      {
+        "nombre": "NBC 10 News/WJAR (25 junio - T.F. Green airport food workers strike)",
+        "url": "https://turnto10.com/news/local/food-and-beverage-workers-at-tf-green-airport-go-on-strike-june-25-2026"
+      }
+    ],
+    "createdAt": "2026-06-25T16:21:56.000Z",
+    "updatedAt": "2026-06-25T16:29:59Z"
   }
 ]
