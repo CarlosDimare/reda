@@ -42,10 +42,14 @@
       {
         "nombre": "Al Jazeera (21 junio - CJP camps out indefinitely)",
         "url": "https://www.aljazeera.com/news/2026/6/21/indias-cockroach-movement-camps-out-until-education-minister-resigns"
+      },
+      {
+        "nombre": "CNN (26 junio - CJP protest day 7, camp continues)",
+        "url": "https://www.cnn.com/2026/06/26/india/india-cockroach-janta-party-delhi-protest-intl-hnk"
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-26T17:49:54Z"
+    "updatedAt": "2026-06-26T19:51:01Z"
   },
   {
     "id": 134,
@@ -84,7 +88,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-26T17:49:54Z"
+    "updatedAt": "2026-06-26T19:51:01Z"
   },
   {
     "id": 135,
@@ -118,45 +122,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-26T17:49:54Z"
-  },
-  {
-    "id": 136,
-    "seccion": "internacional",
-    "pais": "Georgia",
-    "bandera": "🇬🇪",
-    "hora": "19:00",
-    "fecha": "2026-06-26",
-    "lugar": "Avenida Rustaveli, frente al Parlamento, Tbilisi",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Ciudadanos georgianos prodemocráticos",
-      "Oposición política georgiana"
-    ],
-    "motivo": "Día 576 de protestas proeuropeas continuas en Tbilisi. Los manifestantes exigen nuevas elecciones parlamentarias, liberación de presos políticos (Zviad Tsetskhladze, Mzia Amaglobeli, Elene Khoshtaria) y el retorno al camino de integración europea. Portan banderas de Georgia, UE, EE.UU. y Ucrania. Las protestas comenzaron el 28 de noviembre de 2024 tras la suspensión de las negociaciones de adhesión a la UE por el partido gobernante Georgian Dream.",
-    "status": "en_curso",
-    "lat": "41.6938",
-    "lng": "44.8015",
-    "fuentes": [
-      {
-        "nombre": "Caucasian Knot (23 junio - 573rd day of protests)",
-        "url": "https://www.eng.kavkaz-uzel.eu/articles/76370"
-      },
-      {
-        "nombre": "Transitions (19 junio - feature on ongoing protests)",
-        "url": "https://tol.org/client/article/a-quiet-uprising-on-the-avenue.html"
-      },
-      {
-        "nombre": "Georgia Today (24 junio - Ombudsman challenges protest laws)",
-        "url": "https://georgiatoday.ge/ombudsman-criminal-penalties-for-repeat-protest-offenses-violate-constitution/"
-      },
-      {
-        "nombre": "Eurasianet (17 junio - Tbilisi protests pass 500 days with no end in sight)",
-        "url": "https://eurasianet.org/tbilisi-protests-pass-500-days-with-no-end-in-sight-what-choice-do-we-have"
-      }
-    ],
-    "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-26T17:49:54Z"
+    "updatedAt": "2026-06-26T19:51:01Z"
   },
   {
     "id": 138,
@@ -186,82 +152,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-26T17:49:54Z"
-  },
-  {
-    "id": 139,
-    "seccion": "internacional",
-    "pais": "Canadá",
-    "bandera": "🇨🇦",
-    "hora": "00:01",
-    "fecha": "2026-06-26",
-    "lugar": "Bank of Canada, Ottawa (sede central) y Montreal",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "PSAC (Public Service Alliance of Canada)"
-    ],
-    "motivo": "Día 4 de la huelga y lockout de 63 trabajadores de seguridad del Bank of Canada en Ottawa y Montreal, iniciada el 23 de junio tras el fracaso de las negociaciones. Es la primera huelga en la historia del Bank of Canada. El sindicato PSAC denuncia que el banco busca cambios que socavarían la antigüedad en horas extras y vacaciones, y propone un retroceso en la licencia por maternidad. No hay nuevas negociaciones programadas. Los trabajadores exigen salarios justos, horarios estables y respeto básico.",
-    "status": "en_curso",
-    "lat": "45.4215",
-    "lng": "-75.6993",
-    "fuentes": [
-      {
-        "nombre": "Global News (23 junio - Bank of Canada security strike)",
-        "url": "https://globalnews.ca/news/11918390/bank-of-canada-security-workers/"
-      },
-      {
-        "nombre": "Ottawa Citizen (23 junio - lockout, first strike in history)",
-        "url": "https://ottawacitizen.com/public-service/lockout-security-officers-bank-of-canada"
-      },
-      {
-        "nombre": "CTV News (23 junio - BoC security workers start job action)",
-        "url": "https://www.ctvnews.ca/business/article/bank-of-canada-security-workers-start-job-action-after-talks-fail/"
-      }
-    ],
-    "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-26T17:49:54Z"
-  },
-  {
-    "id": 150,
-    "seccion": "internacional",
-    "pais": "Pakistán",
-    "bandera": "🇵🇰",
-    "hora": "00:01",
-    "fecha": "2026-06-26",
-    "lugar": "Todo Kashmir bajo administración pakistaní (PoK) - Rawalakot, Muzaffarabad, Kotli, Neelum Valley y otras ciudades",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Joint Awami Action Committee (JAAC)",
-      "Awami Action Committee (AAC)"
-    ],
-    "motivo": "Día 22 de protestas masivas en Kashmir bajo administración pakistaní (PoK). El JAAC mantiene huelgas de cierre total (shutter-down) y bloqueo de ruedas (wheel-jam) en toda la región, con más de 50.000 personas acampadas en Rawalakot. Exigen la implementación de 38 demandas que incluyen empleo, salud, educación, reformas administrativas, restauración de derechos y la abolición de 12 escaños reservados para refugiados. Pakistan Rangers desplegados en Kotli para impedir la participación de mujeres. Más de 58 muertos desde el inicio de las protestas el 5 de junio. El gobierno pakistaní mantiene bloqueo de alimentos, corte de internet y restricciones de medios.",
-    "status": "en_curso",
-    "lat": "33.6000",
-    "lng": "73.4000",
-    "fuentes": [
-      {
-        "nombre": "News18 (25 junio - Long March not postponed, shutter-down strikes continue)",
-        "url": "https://www.news18.com/amp/world/long-march-not-postponed-pok-protest-leaders-keep-pressure-on-pakistan-government-ws-l-10172443.html"
-      },
-      {
-        "nombre": "News18 (25 junio - Pakistan Rangers prevent women from joining protests in PoK)",
-        "url": "https://one.news18.com/english/article/world/pakistan-rangers-crack-down-on-women-protesters-in-pok-block-access-to-demonstrations-eng-9910172344"
-      },
-      {
-        "nombre": "ABP Live (25 junio - 50,000 gather in Rawalakot, demand Pakistan Army leave)",
-        "url": "https://news.abplive.com/news/india/pojk-uprising-50-000-gather-in-rawalakot-demand-pakistan-army-leave-kashmir-pro-india-sentiments-exclusive-1852584"
-      },
-      {
-        "nombre": "NewsX (25 junio - PoK uprising day 17, 50,000 gather)",
-        "url": "https://www.newsx.com/world/pok-uprising-deepens-over-50000-gather-in-rawalakot-as-anti-pakistan-protests-enter-17th-day-240837/"
-      },
-      {
-        "nombre": "Al Jazeera (9 junio - deadly protests in Pakistan-administered Kashmir: what's going on)",
-        "url": "https://www.aljazeera.com/news/2026/6/9/deadly-protests-in-pakistan-administered-kashmir-whats-going-on"
-      }
-    ],
-    "createdAt": "2026-06-25T08:21:23.000Z",
-    "updatedAt": "2026-06-26T17:49:54Z"
+    "updatedAt": "2026-06-26T19:51:01Z"
   },
   {
     "id": 166,
@@ -278,7 +169,7 @@
       "Abdul Hamid Abdul Ati (convocante)",
       "Ciudadanos palestinos en Gaza"
     ],
-    "motivo": "Día de la 'Revolución del 26 de Junio', protestas masivas convocadas en toda la Franja de Gaza contra el gobierno de Hamas y las condiciones humanitarias insostenibles. Las manifestaciones comenzaron a las 16:00 hora local en 18 puntos de concentración en toda Gaza. Los organizadores exigen el derecho a una vida digna, fin de la crisis humanitaria, reconstrucción y que la voluntad del pueblo sea la fuente de legitimidad política. Las protestas fueron convocadas como pacíficas bajo bandera palestina, sin afiliación política. Hamas intentó desmovilizar la protesta mediante advertencias y campañas de desprestigio, y puso en alerta a sus servicios de seguridad.",
+    "motivo": "Día de la 'Revolución del 26 de Junio', protestas masivas convocadas en toda la Franja de Gaza contra el gobierno de Hamas y las condiciones humanitarias insostenibles. Las manifestaciones comenzaron a las 16:00 hora local en 18 puntos de concentración en toda Gaza. Los organizadores exigen el derecho a una vida digna, fin de la crisis humanitaria, reconstrucción y que la voluntad del pueblo sea la fuente de legitimidad política. Las protestas fueron convocadas como pacíficas bajo bandera palestina, sin afiliación política. Hamas desplegó a sus fuerzas de seguridad, inteligencia y brigadas Al-Qassam para reprimir las protestas. Se reportaron detenciones y una brutal represión contra los manifestantes.",
     "status": "en_curso",
     "lat": "31.5012",
     "lng": "34.4371",
@@ -317,7 +208,7 @@
       }
     ],
     "createdAt": "2026-06-26T03:28:45.000Z",
-    "updatedAt": "2026-06-26T17:49:54Z"
+    "updatedAt": "2026-06-26T19:51:01Z"
   },
   {
     "id": 167,
@@ -348,7 +239,7 @@
       }
     ],
     "createdAt": "2026-06-26T03:28:45.000Z",
-    "updatedAt": "2026-06-26T17:49:54Z"
+    "updatedAt": "2026-06-26T19:51:01Z"
   },
   {
     "id": 168,
@@ -374,7 +265,7 @@
       }
     ],
     "createdAt": "2026-06-26T03:28:45.000Z",
-    "updatedAt": "2026-06-26T17:49:54Z"
+    "updatedAt": "2026-06-26T19:51:01Z"
   },
   {
     "id": 172,
@@ -412,7 +303,7 @@
       }
     ],
     "createdAt": "2026-06-26T07:08:19.000Z",
-    "updatedAt": "2026-06-26T17:49:54Z"
+    "updatedAt": "2026-06-26T19:51:01Z"
   },
   {
     "id": 173,
@@ -442,7 +333,7 @@
       }
     ],
     "createdAt": "2026-06-26T07:08:19.000Z",
-    "updatedAt": "2026-06-26T17:49:54Z"
+    "updatedAt": "2026-06-26T19:51:01Z"
   },
   {
     "id": 174,
@@ -468,7 +359,7 @@
       }
     ],
     "createdAt": "2026-06-26T07:08:19.000Z",
-    "updatedAt": "2026-06-26T17:49:54Z"
+    "updatedAt": "2026-06-26T19:51:01Z"
   },
   {
     "id": 175,
@@ -494,7 +385,7 @@
       }
     ],
     "createdAt": "2026-06-26T07:08:19.000Z",
-    "updatedAt": "2026-06-26T17:49:54Z"
+    "updatedAt": "2026-06-26T19:51:01Z"
   },
   {
     "id": 176,
@@ -520,7 +411,7 @@
       }
     ],
     "createdAt": "2026-06-26T07:08:19.000Z",
-    "updatedAt": "2026-06-26T17:49:54Z"
+    "updatedAt": "2026-06-26T19:51:01Z"
   },
   {
     "id": 177,
@@ -551,7 +442,7 @@
       }
     ],
     "createdAt": "2026-06-26T10:35:29.000Z",
-    "updatedAt": "2026-06-26T17:49:54Z"
+    "updatedAt": "2026-06-26T19:51:01Z"
   },
   {
     "id": 178,
@@ -592,7 +483,7 @@
       }
     ],
     "createdAt": "2026-06-26T10:35:29.000Z",
-    "updatedAt": "2026-06-26T17:49:54Z"
+    "updatedAt": "2026-06-26T19:51:01Z"
   },
   {
     "id": 181,
@@ -622,7 +513,7 @@
       }
     ],
     "createdAt": "2026-06-26T13:09:37.000Z",
-    "updatedAt": "2026-06-26T17:49:54Z"
+    "updatedAt": "2026-06-26T19:51:01Z"
   },
   {
     "id": 183,
@@ -647,7 +538,7 @@
       }
     ],
     "createdAt": "2026-06-26T15:38:01.000Z",
-    "updatedAt": "2026-06-26T17:49:54Z"
+    "updatedAt": "2026-06-26T19:51:01Z"
   },
   {
     "id": 184,
@@ -679,7 +570,7 @@
       }
     ],
     "createdAt": "2026-06-26T15:38:01.000Z",
-    "updatedAt": "2026-06-26T17:49:54Z"
+    "updatedAt": "2026-06-26T19:51:01Z"
   },
   {
     "id": 169,
@@ -724,10 +615,14 @@
       {
         "nombre": "La Nacion (26 junio - Santa Cruz: sigue el acampe policial, sin acuerdo salarial)",
         "url": "https://www.lanacion.com.ar/politica/santa-cruz-sigue-el-acampe-policial-sin-acuerdo-salarial-nid26062026/"
+      },
+      {
+        "nombre": "ADN Sur (26 junio - Policías de Santa Cruz llevan 23 días de paro y prometen seguir)",
+        "url": "https://www.adnsur.com.ar/policiales---judiciales/policias-de-santa-cruz-llevan-23-dias-de-paro-y-prometen-seguir-hasta-lograr-un-aumento-de-sueldo_a6a3e690131bed2e8fa0db088"
       }
     ],
     "createdAt": "2026-06-26T03:32:30.000Z",
-    "updatedAt": "2026-06-26T17:49:54Z"
+    "updatedAt": "2026-06-26T19:51:01Z"
   },
   {
     "id": 170,
@@ -776,7 +671,7 @@
       }
     ],
     "createdAt": "2026-06-26T03:32:30.000Z",
-    "updatedAt": "2026-06-26T17:49:54Z"
+    "updatedAt": "2026-06-26T19:51:01Z"
   },
   {
     "id": 171,
@@ -816,10 +711,14 @@
       {
         "nombre": "Infobae (26 junio - La masacre de Avellaneda: crónica del doble asesinato policial a 24 años)",
         "url": "https://www.infobae.com/sociedad/2026/06/26/la-masacre-de-avellaneda-cuando-la-policia-asesino-a-dos-jovenes-y-trato-de-encubrirlo-como-un-enfrentamiento-entre-piqueteros/"
+      },
+      {
+        "nombre": "Resumen Latinoamericano (26 junio - Jornada cultural en la Estación Darío y Maxi, 24 años de la Masacre)",
+        "url": "https://www.resumenlatinoamericano.org/2026/06/26/argentina-jornada-cultural-en-la-estacion-dario-y-maxi"
       }
     ],
     "createdAt": "2026-06-26T03:32:30.000Z",
-    "updatedAt": "2026-06-26T17:49:54Z"
+    "updatedAt": "2026-06-26T19:51:01Z"
   },
   {
     "id": 179,
@@ -853,7 +752,7 @@
       }
     ],
     "createdAt": "2026-06-26T10:38:48.000Z",
-    "updatedAt": "2026-06-26T17:49:54Z"
+    "updatedAt": "2026-06-26T19:51:01Z"
   },
   {
     "id": 180,
@@ -883,7 +782,7 @@
       }
     ],
     "createdAt": "2026-06-26T10:38:48.000Z",
-    "updatedAt": "2026-06-26T17:49:54Z"
+    "updatedAt": "2026-06-26T19:51:01Z"
   },
   {
     "id": 182,
@@ -910,7 +809,7 @@
       }
     ],
     "createdAt": "2026-06-26T13:13:04.000Z",
-    "updatedAt": "2026-06-26T17:49:54Z"
+    "updatedAt": "2026-06-26T19:51:01Z"
   },
   {
     "id": 185,
@@ -940,7 +839,7 @@
       }
     ],
     "createdAt": "2026-06-26T15:41:07.000Z",
-    "updatedAt": "2026-06-26T17:49:54Z"
+    "updatedAt": "2026-06-26T19:51:01Z"
   },
   {
     "id": 186,
@@ -969,7 +868,7 @@
       }
     ],
     "createdAt": "2026-06-26T17:46:59.000Z",
-    "updatedAt": "2026-06-26T17:49:54Z"
+    "updatedAt": "2026-06-26T19:51:01Z"
   },
   {
     "id": 187,
@@ -995,6 +894,43 @@
       }
     ],
     "createdAt": "2026-06-26T17:46:59.000Z",
-    "updatedAt": "2026-06-26T17:49:54Z"
+    "updatedAt": "2026-06-26T19:51:01Z"
+  },
+  {
+    "id": 188,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "00:01",
+    "fecha": "2026-06-26",
+    "lugar": "Administración Pública Provincial y municipal de Jujuy (en toda la provincia)",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "ATE (Asociación Trabajadores del Estado) Seccional Jujuy"
+    ],
+    "motivo": "Paro provincial de 24 horas en toda la provincia de Jujuy, alcanzando a trabajadores de los ámbitos nacional, provincial y municipal. Exigen reapertura de paritarias ante la pérdida del poder adquisitivo, reincorporación de empleados despedidos en distintos municipios, pase a contrato de capacitadores en ministerios, blanqueo salarial para trabajadores próximos a jubilarse, recategorizaciones, entrega de ropa de trabajo y pase a planta permanente de trabajadores municipales y jornalizados. La medida fue decidida por el consejo directivo provincial del gremio ante la falta de respuestas del gobierno provincial.",
+    "status": "en_curso",
+    "lat": "-24.1858",
+    "lng": "-65.2995",
+    "fuentes": [
+      {
+        "nombre": "El Tribuno de Jujuy (25 junio - ATE Jujuy anunció un paro provincial para este viernes 26)",
+        "url": "https://eltribunodejujuy.com/informacion-general/2026-6-25-0-15-0-ate-jujuy-anuncio-un-paro-provincial-para-este-viernes"
+      },
+      {
+        "nombre": "Somos Jujuy (25 junio - ATE va al paro este viernes y reclama reapertura de paritarias)",
+        "url": "https://www.somosjujuy.com.ar/jujuy/ate-va-paro-viernes-reclama-reapertura-paritarias-n119924"
+      },
+      {
+        "nombre": "ATE Nacional (24 junio - ATE reclamó reapertura de paritarias y anunció paro provincial para el viernes 26)",
+        "url": "https://ate.org.ar/20260624-jujuy/"
+      },
+      {
+        "nombre": "El Submarino Jujuy (26 junio - ATE Jujuy inició un paro provincial y municipal por 24 horas)",
+        "url": "https://elsubmarinojujuy.com.ar/ate-jujuy-inicio-un-paro-provincial-y-municipal-por-24-horas/"
+      }
+    ],
+    "createdAt": "2026-06-26T19:46:52.000Z",
+    "updatedAt": "2026-06-26T19:51:01Z"
   }
 ]
