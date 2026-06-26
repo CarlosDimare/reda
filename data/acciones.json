@@ -1,101 +1,11 @@
 [
   {
-    "id": 126,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "00:01",
-    "fecha": "2026-06-25",
-    "lugar": "Casa de Gobierno, Río Gallegos, Santa Cruz (y puntos de toda la provincia)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Policías autoconvocados de Santa Cruz",
-      "Personal penitenciario autoconvocado",
-      "Bomberos autoconvocados",
-      "Mesa de Unidad Policial y Penitenciaria (MUPP)"
-    ],
-    "motivo": "Acampe y protesta continua de efectivos policiales autoconvocados en la Casa de Gobierno de Río Gallegos y otros puntos de Santa Cruz, exigiendo una recomposición salarial genuina con sumas remunerativas y rechazando las ofertas del gobierno de Claudio Vidal que incluyen montos no remunerativos. El conflicto se intensificó el 23 de junio cuando los manifestantes ingresaron al patio interno de la Casa de Gobierno e instalaron carpas ('Carpa de la Dignidad'), profundizando las medidas ante la falta de avances en la Mesa del Salario. Los autoconvocados denuncian que el gobierno no presenta interlocutores con capacidad de decisión y que la oferta salarial no impacta en el salario básico ni en la carrera policial. El conflicto viene escalando desde febrero de 2026. La próxima reunión está prevista para el 30 de junio.",
-    "status": "en_curso",
-    "lat": "-51.6226",
-    "lng": "-69.2181",
-    "fuentes": [
-      {
-        "nombre": "OPI Santa Cruz (23 junio - policías profundizan medidas, ingresan a Casa de Gobierno)",
-        "url": "https://www.opisantacruz.com.ar/2026/06/23/policias-autoconvocados-sin-acuerdo-salarial-y-presionados-amenazados-por-el-secretario-de-trabajo-redoblaron-la-apuesta-y-profundizaron-las-medidas/"
-      },
-      {
-        "nombre": "El Destape (23 junio - policía Santa Cruz acampa en Casa de Gobierno)",
-        "url": "https://www.eldestapeweb.com/politica/policia-santa-cruz-rechazo-oferta-vidal-acamparon-casa-gobierno-tomada-pelo-2026623195723"
-      },
-      {
-        "nombre": "El Destape (23 junio - efectivos ingresan al predio Casa de Gobierno)",
-        "url": "https://www.eldestapeweb.com/politica/santa-cruz-acuerdo-salarial-efectivos-policiales-ingresaron-predio-casa-gobierno-rio-gallegos-202662314311"
-      },
-      {
-        "nombre": "Diario Nuevo Día (23 junio - policías rechazan oferta, continúan acampe)",
-        "url": "https://www.eldiarionuevodia.com.ar/locales/paritaria-policial-en-santa-cruz-autoconvocados-rechazaron-la-nueva-oferta-salarial-y-detallaron-como-quedarian-los-salarios/"
-      },
-      {
-        "nombre": "Infobae (6 junio - conflicto salarial policía Santa Cruz, acampe continuo)",
-        "url": "https://www.infobae.com/politica/2026/06/06/conflicto-salarial-con-la-policia-en-santa-cruz-protestas-acampe-y-refuerzo-de-fuerzas-federales-de-nacion/"
-      },
-      {
-        "nombre": "Página|12 (24 junio - Santa Cruz: la policía reclama por salarios y denuncia amenazas)",
-        "url": "https://www.pagina12.com.ar/2026/06/24/santa-cruz-la-policia-reclama-por-salarios-y-denuncia-amenazas-del-gobierno-provincial/"
-      },
-      {
-        "nombre": "Mundo Gremial (24 junio - escala el reclamo policial en Santa Cruz, rechazan oferta)",
-        "url": "https://mundogremial.com/escala-el-reclamo-policial-en-santa-cruz-rechazan-la-oferta-de-vidal-y-profundizan-el-plan-de-lucha-en-la-casa-de-gobierno/"
-      },
-      {
-        "nombre": "La Gaceta (25 junio - policías rechazan oferta, profundizan acampe, esperan reunión 30/6)",
-        "url": "https://www.lagaceta.com.ar/nota/1142663/politica/escala-reclamo-policial-santa-cruz-rechazan-oferta-salarial-profundizan-acampe-frente-casa-gobierno.html"
-      }
-    ],
-    "createdAt": "2026-06-24T19:14:56.000Z",
-    "updatedAt": "2026-06-25T23:55:58Z"
-  },
-  {
-    "id": 132,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "10:00",
-    "fecha": "2026-06-25",
-    "lugar": "Bahía Blanca, Patagones y Villarino (Consejo Escolar de Bahía Blanca y establecimientos educativos públicos)",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "ATE (Asociación Trabajadores del Estado)",
-      "Auxiliares docentes de la educación"
-    ],
-    "motivo": "Segundo día del paro de 48 horas (24 y 25 de junio) de auxiliares de la educación nucleados en ATE en Bahía Blanca, Patagones y Villarino, en reclamo de mejoras salariales y laborales. Exigen recomposición salarial, mejor cobertura de IOMA y derogación de la resolución 293/18. La medida afecta establecimientos educativos públicos de la región.",
-    "status": "en_curso",
-    "lat": "-38.7196",
-    "lng": "-62.2724",
-    "fuentes": [
-      {
-        "nombre": "La Provincia en Vivo (24 junio - auxiliares docentes paro 48h Bahía Blanca)",
-        "url": "https://laprovinciaenvivo.com/2026/06/24/auxiliares-docentes-paran-48-horas-en-distritos-del-sur-de-la-provincia-de-buenos-aires/"
-      },
-      {
-        "nombre": "La Brújula 24 (23 junio - auxiliares paran 48h miércoles 24 y jueves 25)",
-        "url": "https://www.labrujula24.com/notas/2026/06/23/auxiliares-de-la-educacion-paran-48-horas-y-se-movilizan-al-consejo-escolar-n506758/"
-      },
-      {
-        "nombre": "0291.com.ar (24 junio - ATE anunció paro 48h en escuelas de Bahía Blanca y la región)",
-        "url": "https://0291.com.ar/ate-anuncio-un-paro-de-48-horas-en-escuelas-de-bahia-blanca-y-la-region/"
-      }
-    ],
-    "createdAt": "2026-06-24T22:48:52.000Z",
-    "updatedAt": "2026-06-25T23:55:58Z"
-  },
-  {
     "id": 133,
     "seccion": "internacional",
     "pais": "India",
     "bandera": "🇮🇳",
     "hora": "00:01",
-    "fecha": "2026-06-25",
+    "fecha": "2026-06-26",
     "lugar": "Jantar Mantar, Nueva Delhi",
     "tipoAccion": "protesta",
     "organizaciones": [
@@ -108,7 +18,7 @@
       "Krantikari Yuva Sangathan",
       "Bhartiya Kisan Union (Charuni faction)"
     ],
-    "motivo": "Día 6 de la protesta/sentada continua del Cockroach Janta Party (CJP) en Jantar Mantar, exigiendo la renuncia del Ministro de Educación Dharmendra Pradhan por la filtración del examen NEET-UG 2026. La protesta continúa ininterrumpidamente desde el 20 de junio con manifestantes acampando día y noche. El movimiento, nacido de un meme en internet, ha movilizado a miles de jóvenes y superado los 20 millones de seguidores en Instagram. Grupos de agricultores y estudiantes de toda la India continúan sumándose.",
+    "motivo": "Día 7 de la protesta/sentada continua del Cockroach Janta Party (CJP) en Jantar Mantar, exigiendo la renuncia del Ministro de Educación Dharmendra Pradhan por la filtración del examen NEET-UG 2026. La protesta continúa ininterrumpidamente desde el 20 de junio con manifestantes acampando día y noche. El movimiento, nacido de un meme en internet, ha movilizado a miles de jóvenes y superado los 20 millones de seguidores en Instagram. Grupos de agricultores y estudiantes de toda la India continúan sumándose.",
     "status": "en_curso",
     "lat": "28.6271",
     "lng": "77.2168",
@@ -135,7 +45,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T23:55:58Z"
+    "updatedAt": "2026-06-26T03:36:01Z"
   },
   {
     "id": 134,
@@ -143,7 +53,7 @@
     "pais": "Albania",
     "bandera": "🇦🇱",
     "hora": "19:00",
-    "fecha": "2026-06-25",
+    "fecha": "2026-06-26",
     "lugar": "Plaza Skënderbej y frente a la Oficina del Primer Ministro, Tirana",
     "tipoAccion": "protesta",
     "organizaciones": [
@@ -151,7 +61,7 @@
       "Diáspora albanesa",
       "Activistas ambientales"
     ],
-    "motivo": "Día 26 de protestas masivas ('Revolución de los Flamencos') contra el complejo turístico de lujo respaldado por Jared Kushner en la costa protegida de Vjosa-Narta, y exigiendo la renuncia del Primer Ministro Edi Rama por corrupción. Grandes multitudes se congregan diariamente en la Plaza Skënderbej y marchan hacia la Oficina del Primer Ministro portando banderas albanesas y pancartas bajo el lema 'Albania no está en venta'. La Fiscalía Especial de Albania abrió una investigación sobre el proyecto. Las protestas continúan ininterrumpidamente desde el 30 de mayo.",
+    "motivo": "Día 27 de protestas masivas ('Revolución de los Flamencos') contra el complejo turístico de lujo respaldado por Jared Kushner en la costa protegida de Vjosa-Narta, y exigiendo la renuncia del Primer Ministro Edi Rama por corrupción. Grandes multitudes se congregan diariamente en la Plaza Skënderbej y marchan hacia la Oficina del Primer Ministro portando banderas albanesas y pancartas bajo el lema 'Albania no está en venta'. La Fiscalía Especial de Albania abrió una investigación sobre el proyecto. Las protestas continúan ininterrumpidamente desde el 30 de mayo.",
     "status": "en_curso",
     "lat": "41.3275",
     "lng": "19.8187",
@@ -174,7 +84,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T23:55:58Z"
+    "updatedAt": "2026-06-26T03:36:01Z"
   },
   {
     "id": 135,
@@ -182,14 +92,14 @@
     "pais": "Alemania",
     "bandera": "🇩🇪",
     "hora": "00:01",
-    "fecha": "2026-06-25",
+    "fecha": "2026-06-26",
     "lugar": "Base Aérea de Ramstein, Ramstein-Miesenbach, Renania-Palatinado",
     "tipoAccion": "protesta",
     "organizaciones": [
       "Stopp Air Base Ramstein",
       "Campaña por el cierre de bases militares de EE.UU."
     ],
-    "motivo": "Día 6 del campamento por la paz 'Friedenswoche' (Semana de la Paz) en la Base Aérea de Ramstein, del 20 al 28 de junio. Protesta continua exigiendo el cierre de la base militar estadounidense de Ramstein y de todas las bases militares de EE.UU. en Alemania. El programa cultural incluye presentaciones musicales y talleres. El sábado 27 de junio se realizará una marcha de protesta desde la estación de tren hasta la puerta principal de la base.",
+    "motivo": "Día 7 del campamento por la paz 'Friedenswoche' (Semana de la Paz) en la Base Aérea de Ramstein, del 20 al 28 de junio. Protesta continua exigiendo el cierre de la base militar estadounidense de Ramstein y de todas las bases militares de EE.UU. en Alemania. El sábado 27 de junio se realizará una marcha de protesta desde la estación de tren hasta la puerta principal de la base. El campamento continúa con actividades culturales, talleres y debates.",
     "status": "en_curso",
     "lat": "49.4357",
     "lng": "7.6009",
@@ -201,10 +111,14 @@
       {
         "nombre": "World BEYOND War (20-28 junio - Peace Camp Ramstein)",
         "url": "https://events.worldbeyondwar.org/event/peace-camp-stopp-air-base-ramstein-active-for-peace/"
+      },
+      {
+        "nombre": "Stars and Stripes (25 junio - Protesters to rally outside Ramstein on Saturday 27)",
+        "url": "https://www.stripes.com/ktown/2026-06-25/ramtsein-protest-saturday-22064867.html"
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T23:55:58Z"
+    "updatedAt": "2026-06-26T03:36:01Z"
   },
   {
     "id": 136,
@@ -212,14 +126,14 @@
     "pais": "Georgia",
     "bandera": "🇬🇪",
     "hora": "19:00",
-    "fecha": "2026-06-25",
+    "fecha": "2026-06-26",
     "lugar": "Avenida Rustaveli, frente al Parlamento, Tbilisi",
     "tipoAccion": "protesta",
     "organizaciones": [
       "Ciudadanos georgianos prodemocráticos",
       "Oposición política georgiana"
     ],
-    "motivo": "Día 575 de protestas proeuropeas continuas en Tbilisi. Los manifestantes exigen nuevas elecciones parlamentarias, liberación de presos políticos (Zviad Tsetskhladze, Mzia Amaglobeli, Elene Khoshtaria) y el retorno al camino de integración europea. Portan banderas de Georgia, UE, EE.UU. y Ucrania. Las protestas comenzaron el 28 de noviembre de 2024 tras la suspensión de las negociaciones de adhesión a la UE por el partido gobernante Georgian Dream.",
+    "motivo": "Día 576 de protestas proeuropeas continuas en Tbilisi. Los manifestantes exigen nuevas elecciones parlamentarias, liberación de presos políticos (Zviad Tsetskhladze, Mzia Amaglobeli, Elene Khoshtaria) y el retorno al camino de integración europea. Portan banderas de Georgia, UE, EE.UU. y Ucrania. Las protestas comenzaron el 28 de noviembre de 2024 tras la suspensión de las negociaciones de adhesión a la UE por el partido gobernante Georgian Dream.",
     "status": "en_curso",
     "lat": "41.6938",
     "lng": "44.8015",
@@ -238,41 +152,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T23:55:58Z"
-  },
-  {
-    "id": 137,
-    "seccion": "internacional",
-    "pais": "Túnez",
-    "bandera": "🇹🇳",
-    "hora": "00:01",
-    "fecha": "2026-06-25",
-    "lugar": "Todas las sucursales bancarias y oficinas de seguros en todo Túnez",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "Federación General de Bancos, Instituciones Financieras y Compañías de Seguros (UGTT)",
-      "Consejo Bancario y Financiero (CBF)"
-    ],
-    "motivo": "Día 3 (último día) de la huelga general sectorial de tres días (23-25 de junio) en los sectores bancario, financiero y de seguros de Túnez, por salarios y reivindicaciones estatutarias. Los trabajadores denuncian el bloqueo de las negociaciones sobre aumentos salariales y la negativa a aplicar el artículo 412 de la ley n°41-2024. El paro paraliza todas las transacciones financieras del país.",
-    "status": "en_curso",
-    "lat": "33.8869",
-    "lng": "9.5375",
-    "fuentes": [
-      {
-        "nombre": "Africa Business Insight (23 junio - three-day strike begins)",
-        "url": "https://africabusinessinsight.com/tunisian-banking-and-insurance-sector-begins-three-day-strike-over-wage-dispute/"
-      },
-      {
-        "nombre": "La Presse de Tunisie (22 junio - grève 23-25 juin)",
-        "url": "https://www.lapresse.tn/2026/06/22/tunisie-trois-jours-sans-banques/"
-      },
-      {
-        "nombre": "Business News Tunisia (22 junio - bank strike June 23-25)",
-        "url": "https://businessnews.com.tn/2026/06/22/greve-des-banques-lugtt-mobilise-tous-les-salaries-des-sieges-aux-agences/1406972/"
-      }
-    ],
-    "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T23:55:58Z"
+    "updatedAt": "2026-06-26T03:36:01Z"
   },
   {
     "id": 138,
@@ -280,14 +160,14 @@
     "pais": "Bangladesh",
     "bandera": "🇧🇩",
     "hora": "12:00",
-    "fecha": "2026-06-25",
+    "fecha": "2026-06-26",
     "lugar": "NBR Headquarters, Agargaon, Dhaka (y oficinas de aduanas, VAT e impuestos en todo el país)",
     "tipoAccion": "huelga",
     "organizaciones": [
       "NBR Reform Unity Council",
       "Oficiales de impuestos, aduanas y VAT de Bangladesh"
     ],
-    "motivo": "Continuación del paro laboral (pen-down strike) de funcionarios de la Junta Nacional de Ingresos (NBR) de Bangladesh de 12:00 a 17:00, exigiendo la destitución del presidente de la NBR, Abdur Rahman Khan, y la retirada de órdenes de transferencia punitivas. Más de 100 oficinas de impuestos, aduanas y VAT en todo el país están en huelga. El comercio de importación y exportación en los puertos de Chattogram y Mongla está paralizado. Si las demandas no se cumplen para el 27 de junio, se declarará un paro total indefinido desde el 28 de junio.",
+    "motivo": "Segundo día del paro laboral (pen-down strike) de funcionarios de la Junta Nacional de Ingresos (NBR) de Bangladesh de 12:00 a 17:00, exigiendo la destitución del presidente de la NBR, Abdur Rahman Khan, y la retirada de órdenes de transferencia punitivas. Más de 100 oficinas de impuestos, aduanas y VAT en todo el país están en huelga. El comercio de importación y exportación en los puertos de Chattogram y Mongla está paralizado. El NBR Reform Unity Council anunció una marcha nacional hacia la sede del NBR para el 28 de junio si no se cumplen sus demandas.",
     "status": "en_curso",
     "lat": "23.7800",
     "lng": "90.3800",
@@ -302,7 +182,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T23:55:58Z"
+    "updatedAt": "2026-06-26T03:36:01Z"
   },
   {
     "id": 139,
@@ -310,13 +190,13 @@
     "pais": "Canadá",
     "bandera": "🇨🇦",
     "hora": "00:01",
-    "fecha": "2026-06-25",
+    "fecha": "2026-06-26",
     "lugar": "Bank of Canada, Ottawa (sede central) y Montreal",
     "tipoAccion": "huelga",
     "organizaciones": [
       "PSAC (Public Service Alliance of Canada)"
     ],
-    "motivo": "Huelga y lockout continúa de 63 trabajadores de seguridad del Bank of Canada en Ottawa y Montreal, iniciada el 23 de junio tras el fracaso de las negociaciones. Es la primera huelga en la historia del Bank of Canada. El sindicato PSAC denuncia que el banco busca cambios que socavarían la antigüedad en horas extras y vacaciones, y propone un retroceso en la licencia por maternidad. No hay nuevas negociaciones programadas. Los trabajadores exigen salarios justos, horarios estables y respeto básico.",
+    "motivo": "Día 4 de la huelga y lockout de 63 trabajadores de seguridad del Bank of Canada en Ottawa y Montreal, iniciada el 23 de junio tras el fracaso de las negociaciones. Es la primera huelga en la historia del Bank of Canada. El sindicato PSAC denuncia que el banco busca cambios que socavarían la antigüedad en horas extras y vacaciones, y propone un retroceso en la licencia por maternidad. No hay nuevas negociaciones programadas. Los trabajadores exigen salarios justos, horarios estables y respeto básico.",
     "status": "en_curso",
     "lat": "45.4215",
     "lng": "-75.6993",
@@ -335,306 +215,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T23:55:58Z"
-  },
-  {
-    "id": 140,
-    "seccion": "internacional",
-    "pais": "Kenia",
-    "bandera": "🇰🇪",
-    "hora": "09:00",
-    "fecha": "2026-06-25",
-    "lugar": "Todos los 47 condados de Kenia (Nairobi: CBD, Parlamento, y áreas urbanas principales)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Activistas Gen Z kenianos",
-      "Amka Changamka Movement",
-      "Familias de víctimas de protestas 2024-2025",
-      "Sociedad civil keniana",
-      "James Orengo (Gobernador de Siaya)"
-    ],
-    "motivo": "Conmemoración del segundo aniversario de las protestas Gen Z del 25 de junio de 2024 contra el proyecto de ley financiera (Finance Bill) en Kenia. Manifestaciones pacíficas, vigilias y marchas en memoria de los más de 120 manifestantes asesinados en las protestas de 2024 y 2025. Exigen justicia, rendición de cuentas policial, liberación de detenidos y reformas. El gobierno ha desplegado gran cantidad de policías y advertido contra la violencia. Defensores de derechos humanos desplegarán drones y monitores para documentar posibles violaciones.",
-    "status": "en_curso",
-    "lat": "-1.2864",
-    "lng": "36.8172",
-    "fuentes": [
-      {
-        "nombre": "AP News (25 junio - Kenyans mark anniversary, police block roads)",
-        "url": "https://apnews.com/article/kenya-protests-william-ruto-nairobi-1abfae9815508354b31c4eb974f82f19"
-      },
-      {
-        "nombre": "BBC News (25 junio - families lay flowers on barbed wire barricade)",
-        "url": "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo"
-      },
-      {
-        "nombre": "Africanews (25 junio - police in massive show of force)",
-        "url": "https://www.africanews.com/2026/06/25/kenya-police-in-massive-show-of-force-on-protest-anniversary/"
-      },
-      {
-        "nombre": "Tuko.co.ke (25 junio - major roads blocked, heavy police deployed)",
-        "url": "https://www.tuko.co.ke/kenya/counties/630658-june-25-protests-major-roads-blocked-heavy-police-deployed-gen-z-anniversary/"
-      },
-      {
-        "nombre": "TV47 (25 junio - no matatus, commuters walk to work)",
-        "url": "https://www.tv47.digital/june-25-protests-no-matatus-on-major-roads-in-nairobi-as-commuters-walk-to-work-154127/"
-      },
-      {
-        "nombre": "People Daily (25 junio - police lob teargas in Githurai)",
-        "url": "https://peopledaily.digital/news/gen-z-protests-anniversary-police-lob-teargas-to-disrupt-demonstrators-in-githurai/amp"
-      },
-      {
-        "nombre": "Eagle News Feed (25 junio - police seal off Nairobi CBD ahead of memorial protests)",
-        "url": "https://eaglenewsfeed.com/police-seal-off-nairobi-cbd-ahead-of-june-25-memorial-protests/"
-      },
-      {
-        "nombre": "NewsTrendsKE (25 junio - Nairobi on lockdown, June 25 barricades)",
-        "url": "https://newstrends.co.ke/nairobi-on-lockdown-what-the-june-25-barricades-tell-us-about-rutos-presidency/"
-      },
-      {
-        "nombre": "BBC News (25 junio - families lay flowers on barbed wire barricade)",
-        "url": "https://www.bbc.com/news/articles/cgqjl8kj8wpo"
-      },
-      {
-        "nombre": "Nairobi Leo (25 junio - police lob teargas at protesters marching to Central Police Station)",
-        "url": "https://nairobileo.co.ke/news/article/28420/police-lob-teargas-at-protesters-marching-towards-central-police-station"
-      }
-    ],
-    "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T23:55:58Z"
-  },
-  {
-    "id": 141,
-    "seccion": "internacional",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "09:30",
-    "fecha": "2026-06-25",
-    "lugar": "Sede de Quantic Dream, 30 Rue Raoul Wallenberg, París 19.° (y lugar de trabajo de todo el sector del videojuego en Francia)",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "STJV (Syndicat des Travailleureuses du Jeu Vidéo)"
-    ],
-    "motivo": "Huelga nacional ('Summer Grève Fest') en todo el sector del videojuego en Francia contra los despidos masivos y la crisis de la industria. Piquete de huelga desde las 9:30 frente a Quantic Dream, que planea eliminar 115 puestos (25% de su plantilla en Francia). Los trabajadores exigen cambios organizativos profundos, más democracia en las empresas y el fin de los despidos injustificados. Más de 1.000 empleos están amenazados o ya destruidos en el sector del videojuego francés en 2026.",
-    "status": "en_curso",
-    "lat": "48.8566",
-    "lng": "2.3522",
-    "fuentes": [
-      {
-        "nombre": "STJV (22 junio - call for national strike June 25)",
-        "url": "https://www.stjv.fr/en/2026/06/summer-greve-fest-call-for-a-national-strike-on-june-25th-2026/"
-      },
-      {
-        "nombre": "Game Developer (22 junio - French union national strike outside Quantic Dream)",
-        "url": "https://www.gamedeveloper.com/business/french-union-stjv-to-commence-national-strike-outside-quantic-dream"
-      },
-      {
-        "nombre": "Kotaku (22 junio - entire video game sector called to strike)",
-        "url": "https://kotaku.com/video-game-union-industry-strike-stjv-layoffs-summer-greve-fest-2000709023"
-      }
-    ],
-    "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T23:55:58Z"
-  },
-  {
-    "id": 142,
-    "seccion": "internacional",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "10:00",
-    "fecha": "2026-06-25",
-    "lugar": "Kisan Bhawan, Sector 35-A, Chandigarh",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Bharatiya Kisan Union (Charuni)",
-      "Organizaciones campesinas de toda la India",
-      "Organizaciones sociales"
-    ],
-    "motivo": "Reunión nacional de organizaciones campesinas y sociales convocada por BKU (Charuni) en Kisan Bhawan, Chandigarh, para coordinar la oposición al acuerdo comercial India-EE.UU. Los agricultores exigen la exclusión de los sectores agrícola, lechero y avícola del pacto, advirtiendo que la reducción de aranceles inundará los mercados indios con productos estadounidenses subsidiados. Prevén definir el curso de acción futuro de la protesta a nivel nacional.",
-    "status": "en_curso",
-    "lat": "30.7333",
-    "lng": "76.7794",
-    "fuentes": [
-      {
-        "nombre": "The Tribune (23 junio - BKU Charuni calls nationwide meeting June 25 in Chandigarh)",
-        "url": "https://www.tribuneindia.com/news/haryana/bku-charuni-farmers-oppose-proposed-india-us-trade-deal-call-nationwide-meeting-on-june-25-in-chandigarh/"
-      },
-      {
-        "nombre": "South Asian Daily (23 junio - BKU Charuni June 25 nationwide farmer meeting)",
-        "url": "https://southasiandaily.com/bku-charuni-calls-june-25-nationwide-farmer-meeting-to-oppose-proposed-india-u-s-trade-deal/"
-      }
-    ],
-    "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T23:55:58Z"
-  },
-  {
-    "id": 143,
-    "seccion": "internacional",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
-    "hora": "14:00",
-    "fecha": "2026-06-25",
-    "lugar": "Contra Costa Regional Medical Center, 2500 Alhambra Ave, Martinez, California",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "California Nurses Association (CNA)",
-      "National Nurses United (NNU)"
-    ],
-    "motivo": "Piquete informativo de enfermeros registrados del Contra Costa Health System y Contra Costa Regional Medical Center, protestando por los recortes presupuestarios que amenazan servicios al paciente y la estabilidad laboral. Exigen un acuerdo por escrito que garantice la preservación de puestos de trabajo, antigüedad y beneficios ante posibles privatizaciones. La pérdida de fondos por H.R. 1 del gobierno Trump afectaría a 93.000 residentes del condado para 2029.",
-    "status": "en_curso",
-    "lat": "37.9978",
-    "lng": "-122.1341",
-    "fuentes": [
-      {
-        "nombre": "National Nurses United (23 junio - Contra Costa picket June 25)",
-        "url": "https://www.nationalnursesunited.org/press/contra-costa-county-nurses-to-hold-informational-picket-to-preserve-patient-services"
-      }
-    ],
-    "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T23:55:58Z"
-  },
-  {
-    "id": 144,
-    "seccion": "internacional",
-    "pais": "Kenia",
-    "bandera": "🇰🇪",
-    "hora": "12:00",
-    "fecha": "2026-06-25",
-    "lugar": "Nanyuki Central Park, Nanyuki, Condado de Laikipia",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Activistas comunitarios de Laikipia",
-      "Residentes de Nanyuki",
-      "Trabajadores de salud"
-    ],
-    "motivo": "Protesta contra la construcción de un centro de cuarentena para Ébola en la Base Aérea de Laikipia, que ha generado controversia entre residentes y trabajadores de salud. La manifestación también honra la memoria de Sylvester Muigai Ndung'u, un adolescente de 17 años que murió durante una protesta anterior contra el mismo proyecto el 9 de junio. Los organizadores exigen la suspensión del proyecto y garantías de seguridad sanitaria.",
-    "status": "en_curso",
-    "lat": "0.0170",
-    "lng": "37.0735",
-    "fuentes": [
-      {
-        "nombre": "Citizen Digital (23 junio - activists rally support for Nanyuki June 25 demonstrations)",
-        "url": "https://citizen.digital/article/activists-rally-support-for-june-25-nanyuki-demonstrations-against-ebola-centre-n385095"
-      }
-    ],
-    "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T23:55:58Z"
-  },
-  {
-    "id": 145,
-    "seccion": "internacional",
-    "pais": "Reino Unido",
-    "bandera": "🇬🇧",
-    "hora": "00:01",
-    "fecha": "2026-06-25",
-    "lugar": "Hospitales de Irlanda del Norte (NHS Senior Doctors) y planta de Alexander Dennis, Scarborough",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "BMA (British Medical Association) - Senior Doctors",
-      "UNITE - Alexander Dennis"
-    ],
-    "motivo": "Huelga de médicos seniors del NHS en Irlanda del Norte por salarios y condiciones laborales. Paralelamente, huelga de trabajadores de Alexander Dennis en Scarborough (fabricante de autobuses) por aumento salarial. Ambas acciones forman parte de la ola de conflictos laborales en el Reino Unido.",
-    "status": "en_curso",
-    "lat": "54.5973",
-    "lng": "-5.9301",
-    "fuentes": [
-      {
-        "nombre": "UK Strike Action Calendar (25 junio - NHS Senior Doctors NI, Alexander Dennis)",
-        "url": "https://www.strikecalendar.co.uk/"
-      }
-    ],
-    "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-25T23:55:58Z"
-  },
-  {
-    "id": 146,
-    "seccion": "internacional",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
-    "hora": "10:00",
-    "fecha": "2026-06-25",
-    "lugar": "Ayuntamiento de Miami, Miami, Florida",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Organizaciones civiles de Miami",
-      "Activistas pro-inmigrantes"
-    ],
-    "motivo": "Protesta de organizaciones civiles en el Ayuntamiento de Miami exigiendo que la Policía revoque su acuerdo de cooperación con el Servicio de Inmigración y Aduanas (ICE). La oficina de ICE en Miami lidera los arrestos migratorios a nivel nacional en Estados Unidos. Los manifestantes denuncian las redadas masivas y detenciones arbitrarias de inmigrantes en la comunidad, en el marco de las políticas migratorias del gobierno de Donald Trump.",
-    "status": "en_curso",
-    "lat": "25.7740",
-    "lng": "-80.1937",
-    "fuentes": [
-      {
-        "nombre": "Infobae/EFE (24 junio - protesta en Miami contra ICE el 25 de junio)",
-        "url": "https://www.infobae.com/america/agencias/2026/06/24/jueves-25-de-junio-de-2026-1930-gmt/"
-      }
-    ],
-    "createdAt": "2026-06-25T04:44:18.000Z",
-    "updatedAt": "2026-06-25T23:55:58Z"
-  },
-  {
-    "id": 147,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "13:00",
-    "fecha": "2026-06-25",
-    "lugar": "Sala III de la Cámara Penal Contravencional y de Faltas, Ciudad de Buenos Aires",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "CADeP (Coordinadora Antirrepresiva por los Derechos del Pueblo)",
-      "Organizaciones de derechos humanos",
-      "Organizaciones sociales y sindicales"
-    ],
-    "motivo": "Acompañamiento a la audiencia de apelación de la condena de cuatro manifestantes (Carlos Denuble, Astor Galán Vizgarra, Joaquín Arrúa y Pedro Esquivel) detenidos el 2 de febrero de 2024 durante protestas pacíficas frente al Congreso contra la Ley Ómnibus. CADeP y organizaciones de DD.HH. convocan a la comunidad a acompañar la revisión de la sentencia por considerarla un caso de criminalización de la protesta social. Denuncian que las condenas fueron dictadas sin pruebas y que la causa es la única que avanzó entre las 14 detenciones de aquella jornada.",
-    "status": "en_curso",
-    "lat": "-34.6108",
-    "lng": "-58.3903",
-    "fuentes": [
-      {
-        "nombre": "Kaosenlared/ANRed (24 junio - CADeP convoca a acompañar audiencia de apelación)",
-        "url": "https://kaosenlared.net/argentina-apelan-la-condena-a-manifestantes-detenidos-durante-las-protestas-contra-la-ley-omnibus/"
-      },
-      {
-        "nombre": "Resumen Latinoamericano/Página12 (23 junio - apelación el 25 de junio en Cámara Penal)",
-        "url": "https://www.resumenlatinoamericano.org/2026/06/23/argentina-apelan-la-condena-a-cuatro-manifestantes-detenidos-en-la-protesta-contra-la-ley-bases/"
-      },
-      {
-        "nombre": "Argentina Indymedia (23 junio - garantizar el derecho a la protesta, apelan condena)",
-        "url": "https://argentina.indymedia.org/2026/06/23/garantizar-el-derecho-a-la-protesta-apelan-condena-arbitraria-a-manifestantes-contra-la-ley-omnibus/"
-      }
-    ],
-    "createdAt": "2026-06-25T04:46:43.000Z",
-    "updatedAt": "2026-06-25T23:55:58Z"
-  },
-  {
-    "id": 149,
-    "seccion": "internacional",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "18:30",
-    "fecha": "2026-06-25",
-    "lugar": "Sede de la Unión Europea, Passeig de Gràcia 90, Barcelona",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Defensem Cuba",
-      "Coordinadora catalana de solidaridad con Cuba"
-    ],
-    "motivo": "Concentración 'Desperta Europa!' frente a la sede de la UE en Barcelona para exigir el levantamiento del bloqueo económico, comercial y financiero impuesto por Estados Unidos contra Cuba. Bajo los lemas 'Desperta Europa!' y 'Deixeu viure a Cuba!', la convocatoria pide a las instituciones europeas adoptar una posición más firme contra una política que continúa afectando gravemente a la población cubana. Forma parte de las acciones de solidaridad internacional que se desarrollan en diferentes ciudades de Europa.",
-    "status": "en_curso",
-    "lat": "41.3925",
-    "lng": "2.1630",
-    "fuentes": [
-      {
-        "nombre": "Cubainformación (20 junio - convocatoria Desperta Europa! 25 de junio Barcelona)",
-        "url": "https://www.cubainformacion.tv/solidaridad/20260620/123536/123536-desperta-europa-25-de-junio-concentracion-ante-la-sede-de-la-union-europea-en-barcelona-contra-el-bloqueo-de-ee-uu-a-cuba"
-      },
-      {
-        "nombre": "Radio Habana Cuba (20 junio - Wake Up Europe! June 25 rally in Barcelona)",
-        "url": "https://www.radiohc.cu/en/wake-up-europe-june-25th-rally-in-front-of-the-european-union-headquarters-in-barcelona/"
-      }
-    ],
-    "createdAt": "2026-06-25T08:21:23.000Z",
-    "updatedAt": "2026-06-25T23:55:58Z"
+    "updatedAt": "2026-06-26T03:36:01Z"
   },
   {
     "id": 150,
@@ -642,14 +223,14 @@
     "pais": "Pakistán",
     "bandera": "🇵🇰",
     "hora": "00:01",
-    "fecha": "2026-06-25",
+    "fecha": "2026-06-26",
     "lugar": "Todo Kashmir bajo administración pakistaní (PoK) - Rawalakot, Muzaffarabad, Kotli, Neelum Valley y otras ciudades",
     "tipoAccion": "protesta",
     "organizaciones": [
       "Joint Awami Action Committee (JAAC)",
       "Awami Action Committee (AAC)"
     ],
-    "motivo": "Día 21 de protestas masivas en Kashmir bajo administración pakistaní (PoK). El JAAC mantiene huelgas de cierre total (shutter-down) y bloqueo de ruedas (wheel-jam) en toda la región, con más de 70.000 personas acampadas en Rawalakot desde hace más de 11 días. Exigen la implementación de 38 demandas que incluyen empleo, salud, educación, reformas administrativas, restauración de derechos y la abolición de 12 escaños reservados para refugiados. Pakistan Rangers desplegados en Kotli para impedir la participación de mujeres. Más de 58 muertos desde el inicio de las protestas el 5 de junio. El gobierno pakistaní mantiene bloqueo de alimentos, corte de internet y restricciones de medios.",
+    "motivo": "Día 22 de protestas masivas en Kashmir bajo administración pakistaní (PoK). El JAAC mantiene huelgas de cierre total (shutter-down) y bloqueo de ruedas (wheel-jam) en toda la región, con más de 50.000 personas acampadas en Rawalakot. Exigen la implementación de 38 demandas que incluyen empleo, salud, educación, reformas administrativas, restauración de derechos y la abolición de 12 escaños reservados para refugiados. Pakistan Rangers desplegados en Kotli para impedir la participación de mujeres. Más de 58 muertos desde el inicio de las protestas el 5 de junio. El gobierno pakistaní mantiene bloqueo de alimentos, corte de internet y restricciones de medios.",
     "status": "en_curso",
     "lat": "33.6000",
     "lng": "73.4000",
@@ -676,451 +257,198 @@
       }
     ],
     "createdAt": "2026-06-25T08:21:23.000Z",
-    "updatedAt": "2026-06-25T23:55:58Z"
+    "updatedAt": "2026-06-26T03:36:01Z"
   },
   {
-    "id": 151,
+    "id": 166,
     "seccion": "internacional",
-    "pais": "Italia",
-    "bandera": "🇮🇹",
-    "hora": "10:00",
-    "fecha": "2026-06-25",
-    "lugar": "Red de autobuses ATVO, provincia de Venecia (Véneto)",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "ATVO staff",
-      "Sindicatos del transporte de Véneto"
-    ],
-    "motivo": "Huelga de 4 horas (10:00-14:00) de los trabajadores de ATVO en la provincia de Venecia, afectando los servicios de autobuses locales. La medida se enmarca en las protestas laborales del sector del transporte público italiano por salarios y condiciones laborales.",
-    "status": "en_curso",
-    "lat": "45.4408",
-    "lng": "12.3155",
-    "fuentes": [
-      {
-        "nombre": "Strike Tracker Italy (25 junio - ATVO bus strike Venice 10:00-14:00)",
-        "url": "https://striketracker.app/strikes-in-italy"
-      },
-      {
-        "nombre": "Dolcevia.com (25 junio - Venice province public transport strike)",
-        "url": "https://www.dolcevia.com/en/italy-travel-alerts"
-      }
-    ],
-    "createdAt": "2026-06-25T08:21:23.000Z",
-    "updatedAt": "2026-06-25T23:55:58Z"
-  },
-  {
-    "id": 152,
-    "seccion": "internacional",
-    "pais": "Polonia",
-    "bandera": "🇵🇱",
-    "hora": "17:00",
-    "fecha": "2026-06-25",
-    "lugar": "Amberexpo Conference Centre y centro de Gdańsk",
+    "pais": "Palestina (Gaza)",
+    "bandera": "🇵🇸",
+    "hora": "16:00",
+    "fecha": "2026-06-26",
+    "lugar": "Múltiples ubicaciones en la Franja de Gaza (ciudad de Gaza, Khan Younis, Deir al-Balah, Rafah y otras)",
     "tipoAccion": "protesta",
     "organizaciones": [
-      "Łączy nas Polska (Poland Unites Us)",
-      "Confederation of the Polish Crown"
+      "Movimiento June 26 Revolution",
+      "Activistas gazatíes",
+      "Abdul Hamid Abdul Ati (convocante)",
+      "Ciudadanos palestinos en Gaza"
     ],
-    "motivo": "Protestas masivas contra la celebración de la Conferencia de Recuperación de Ucrania (URC 2026) en Gdańsk, en oposición a la glorificación de la UPA por parte de las autoridades ucranianas. Los manifestantes exigen el fin del apoyo a Ucrania y rechazan la conferencia por considerar que Ucrania promueve el nacionalismo ucraniano radical. La conferencia URC 2026 se celebra del 25 al 26 de junio sin la presencia del presidente Zelensky debido a la disputa diplomática entre Polonia y Ucrania. El área del centro de conferencias fue fuertemente custodiada por la policía.",
-    "status": "en_curso",
-    "lat": "54.3520",
-    "lng": "18.6466",
+    "motivo": "Protestas masivas convocadas bajo el nombre 'June 26 Revolution' en toda la Franja de Gaza contra el gobierno de Hamas y las condiciones humanitarias insostenibles. Los organizadores, activistas palestinos dentro y fuera de Gaza, exigen el derecho a una vida digna, fin de la crisis humanitaria, reconstrucción y que la voluntad del pueblo sea la fuente de legitimidad política. Las manifestaciones fueron convocadas como pacíficas bajo bandera palestina, sin afiliación política. Hamas ha intentado desmovilizar la protesta mediante advertencias y campañas de desprestigio.",
+    "status": "convocada",
+    "lat": "31.5012",
+    "lng": "34.4371",
     "fuentes": [
       {
-        "nombre": "Caliber.Az (25 junio - Mass protests planned in Poland against Ukraine recovery conference)",
-        "url": "https://caliber.az/en/post/mass-protests-planned-in-poland-against-ukraine-recovery-conference"
+        "nombre": "Times of Israel (25 junio - Gazans plan first large anti-Hamas protest since ceasefire)",
+        "url": "https://www.timesofisrael.com/as-strip-stagnates-gazans-plan-first-large-anti-hamas-protest-since-ceasefire/"
       },
       {
-        "nombre": "The Straits Times (25 junio - Ukraine recovery summit opens, overshadowed by Kyiv-Warsaw row)",
-        "url": "https://www.straitstimes.com/world/europe/ukraine-recovery-summit-opens-overshadowed-by-kyiv-warsaw-row"
-      }
-    ],
-    "createdAt": "2026-06-25T11:13:59.000Z",
-    "updatedAt": "2026-06-25T23:55:58Z"
-  },
-  {
-    "id": 153,
-    "seccion": "internacional",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "13:30",
-    "fecha": "2026-06-25",
-    "lugar": "Oficinas centrales de CHQ/Circle/District de BSNL en toda la India",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Bharatiya Doorsanchar Manch (BDM)",
-      "AIGETOA",
-      "BTEU",
-      "BDPS",
-      "AIBSNLOBCEWA",
-      "STEWA",
-      "FNTOBEA",
-      "BTU"
-    ],
-    "motivo": "Protesta nacional ('Lunch Hour Demonstration') de empleados y pensionistas de BSNL/MTNL de toda la India, convocada por el Bharatiya Doorsanchar Manch (BDM), exigiendo la implementación inmediata de la 3ra PRC (Pay Revision Commission), la revisión de pensiones desvinculada de la rentabilidad corporativa, la paridad salarial ('One Company - One Policy'), la derogación del proceso de contratación SET y la extensión de incrementos salariales para JTOs/JAOs/JEs. La protesta se realizó de 13:30 a 14:30 en todas las oficinas de BSNL del país.",
-    "status": "en_curso",
-    "lat": "20.5937",
-    "lng": "78.9629",
-    "fuentes": [
+        "nombre": "972mag (25 junio - Why Gazans are planning a mass mobilization)",
+        "url": "https://www.972mag.com/gaza-june-26-protest-israel-hamas/"
+      },
       {
-        "nombre": "AIGETOA CHQ (24 junio - BDM convoca Lunch Hour Demonstration 25 de junio)",
-        "url": "https://aigetoachq.org/lunch-hour-demonstration-25th-june-2026/"
+        "nombre": "Jerusalem Post (13 junio - New Gaza protest campaign calls for mass rallies)",
+        "url": "https://www.jpost.com/middle-east/article-899267"
+      },
+      {
+        "nombre": "Asharq Al-Awsat (14 junio - June 26 Revolution: Calls for Gaza Protests Against Hamas)",
+        "url": "https://english.aawsat.com/arab-world/5283854-june-26-revolution-calls-gaza-protests-against-hamas"
       }
     ],
-    "createdAt": "2026-06-25T11:13:59.000Z",
-    "updatedAt": "2026-06-25T23:55:58Z"
+    "createdAt": "2026-06-26T03:28:45.000Z",
+    "updatedAt": "2026-06-26T03:36:01Z"
   },
   {
-    "id": 154,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
+    "id": 167,
+    "seccion": "internacional",
+    "pais": "Israel",
+    "bandera": "🇮🇱",
     "hora": "14:00",
-    "fecha": "2026-06-25",
-    "lugar": "Sede de la CGT, Azopardo 802, Ciudad de Buenos Aires",
-    "tipoAccion": "asamblea",
-    "organizaciones": [
-      "CGT (Confederación General del Trabajo)",
-      "Consejo Directivo de la CGT"
-    ],
-    "motivo": "Reunión del Consejo Directivo de la CGT para definir el plan de lucha contra el Gobierno de Javier Milei. Se debaten dos propuestas: protestas sectoriales escalonadas ('modelo francés') impulsadas por el triunvirato (Sola, Jerónimo, Argüello), y un paro general de 36 horas con movilización a Plaza de Mayo propuesto por el bloque de Barrionuevo (gastronómicos), Maturano (La Fraternidad) y Calegari (UTA). En paralelo, un sector disidente propone entregar las obras sociales al Estado ante su crisis financiera.",
-    "status": "en_curso",
-    "lat": "-34.6131",
-    "lng": "-58.3772",
-    "fuentes": [
-      {
-        "nombre": "Infobae (25 junio - CGT debate plan de lucha: protestas a la francesa vs paro 36h)",
-        "url": "https://www.infobae.com/politica/2026/06/25/protestas-a-la-francesa-o-paro-de-36-horas-la-interna-de-la-cgt-se-agitara-hoy-con-un-debate-clave-sobre-el-nuevo-plan-de-lucha/"
-      },
-      {
-        "nombre": "Infobae (24 junio - sector CGT impulsa paro 36h y propone entregar obras sociales)",
-        "url": "https://www.infobae.com/politica/2026/06/24/un-sector-de-la-cgt-impulsa-un-paro-de-36-horas-y-propone-que-el-estado-se-haga-cargo-de-las-obras-sociales/"
-      },
-      {
-        "nombre": "Crónica (24 junio - CGT define cronograma de protestas escalonadas)",
-        "url": "https://www.cronica.com.ar/politica/la-cgt-define-un-cronograma-de-protestas-escalonadas/"
-      },
-      {
-        "nombre": "Perfil (24 junio - CGT analiza paro general de 36 horas)",
-        "url": "https://www.perfil.com/noticias/reperfilar/la-cgt-planea-un-nuevo-paro-general-que-duraria-36-horas.phtml"
-      },
-      {
-        "nombre": "Ámbito (25 junio - CGT se reúne, podría anunciar medidas contra reforma laboral)",
-        "url": "https://www.ambito.com/politica/se-viene-un-nuevo-paro-general-la-cupula-la-cgt-se-reune-y-podria-anunciar-medidas-contra-la-reforma-laboral-n6292421"
-      }
-    ],
-    "createdAt": "2026-06-25T11:16:02.000Z",
-    "updatedAt": "2026-06-25T23:55:58Z"
-  },
-  {
-    "id": 155,
-    "seccion": "internacional",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "09:00",
-    "fecha": "2026-06-25",
-    "lugar": "Múltiples ciudades de Francia (París, Marsella, Lyon, Saint-Étienne, Clermont-Ferrand, Bobigny y otras)",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "CGT (Confédération Générale du Travail)",
-      "FO (Force Ouvrière)",
-      "SUD",
-      "FSU",
-      "FA-FP (Fédération Autonome de la Fonction Publique)",
-      "FSU (éducation)",
-      "SE-Unsa",
-      "FNEC FP FO",
-      "CFDT",
-      "Snalc",
-      "SUD Éducation"
-    ],
-    "motivo": "Jornada nacional de huelga y movilización intersindical en Francia contra la austeridad, los recortes presupuestarios y por aumentos salariales en el sector público. Convocada por CGT, FO, SUD, FSU y FA-FP, la protesta abarca hospitales, acción social, función pública territorial, educación, industria química y transportes. Las acciones incluyen manifestaciones frente a prefecturas y agencias regionales de salud en todo el país, un acto central en París frente al Ministerio de Salud (entre Bir Hakeim y la Place des Martyrs), un piquete en el Puerto de Marsella (9-15 h), concentraciones en Lyon (Sanofi, Kem One) y Saint-Étienne, y huelga de conductores TER en Auvernia contra las temperaturas extremas en cabinas. Los sindicatos denuncian el cierre de camas y servicios hospitalarios, la precarización de AESH y personal educativo, y la congelación del punto índice salarial desde 2023. En paralelo, una intersyndicale de siete organizaciones de la educación (FSU, SE-Unsa, FNEC FP FO, CFDT, CGT, Snalc, SUD Éducation) convocó a los docentes a usar su derecho de huelga el mismo 25 de junio para protestar contra las 'condiciones de trabajo inaceptables' durante la ola de calor excepcional que azota Francia. Con temperaturas que superan los 40°C, unos 3.500 establecimientos escolares cerraron y otros 10.000 ajustaron sus horarios. Los sindicatos docentes denuncian que 'la salud del personal, de los alumnos y sus condiciones de trabajo están en peligro' por la falta de medidas de adaptación a la canícula.",
-    "status": "en_curso",
-    "lat": "48.8566",
-    "lng": "2.3522",
-    "fuentes": [
-      {
-        "nombre": "Devdiscourse (25 junio - Airbus workers rally against on-site workweek increase)",
-        "url": "https://www.devdiscourse.com/article/business/3940677-airbus-workers-rally-against-on-site-workweek-increase"
-      },
-      {
-        "nombre": "CGT Services Publics (16 junio - préavis de grève national 25 juin 2026)",
-        "url": "https://cgtservicespublics.fr/les-luttes/actualite-des-luttes-2026/preavis-de-greve-federaux/article/la-federation-cgt-des-services-publics-depose-un-preavis-de-greve-pour-la-31308"
-      },
-      {
-        "nombre": "FO Santé (25 juin - grève nationale santé et action sociale)",
-        "url": "https://www.force-ouvriere.fr/sante-et-action-sociale-greve-nationale-le-25-juin-pour-sauver"
-      },
-      {
-        "nombre": "La Marseillaise (23 juin - CGT 13 passe à l'offensive, grève Marseille 25 juin)",
-        "url": "https://www.lamarseillaise.fr/social/face-a-l-urgence-sociale-la-cgt-13-passe-a-l-offensive-HH20411655"
-      },
-      {
-        "nombre": "CGT Educ'Action 42 (17 juin - grève 25 juin plan urgence Loire)",
-        "url": "https://www.cgteduc42.fr/Le-25-juin-toutes-et-tous-en-greve-pour-un-plan-d-urgence-dans-la-Loire"
-      },
-      {
-        "nombre": "La Montagne (24 juin - grève TER Auvergne 25 juin 40°C cabines)",
-        "url": "https://www.lamontagne.fr/clermont-ferrand-63000/actualites/40c-dans-les-cabines-la-cgt-appelle-les-conducteurs-de-ter-auvergnats-a-la-greve_15009761/"
-      },
-      {
-        "nombre": "Intersyndicale Éducation 93 (19 juin - grève 25 juin Seine-Saint-Denis)",
-        "url": "https://93.cgteduccreteil.org/25-juin-L-intersyndicale-education-93-appelle-a-la-greve-pour-defendre-le"
-      },
-      {
-        "nombre": "Ouest-France (25 junio - canicule, syndicats enseignants appellent à la grève)",
-        "url": "https://www.ouest-france.fr/meteo/canicule/canicule-les-syndicats-denseignants-appellent-a-la-greve-face-aux-conditions-de-travail-inacceptables-388d9c8a-70a0-11f1-b8a9-4a6626afbf8d"
-      },
-      {
-        "nombre": "Le Figaro (25 junio - canicule, enseignants grève conditions inacceptables)",
-        "url": "https://www.lefigaro.fr/actualite-france/canicule-face-aux-conditions-de-travail-inacceptables-les-syndicats-d-enseignants-appellent-a-la-greve-20260625"
-      },
-      {
-        "nombre": "Le Monde (25 junio - Heat wave: French teaching unions strike)",
-        "url": "https://www.lemonde.fr/en/france/article/2026/06/25/heat-wave-french-teaching-unions-announce-strike-over-unacceptable-working-conditions_6754871_7.html"
-      },
-      {
-        "nombre": "The Guardian (25 junio - Unions urge teachers to strike as French school exams go ahead in up to 40C heat)",
-        "url": "https://www.theguardian.com/world/2026/jun/25/unions-urge-teachers-strike-french-school-exams-heat"
-      },
-      {
-        "nombre": "Midi Libre (25 junio - canicule, syndicats enseignants grève 3500 écoles fermées)",
-        "url": "https://www.midilibre.fr/2026/06/25/canicule-conditions-de-travail-inacceptables-eleves-mis-en-danger-les-syndicats-denseignants-appellent-a-la-greve-13437636.php"
-      }
-    ],
-    "createdAt": "2026-06-25T13:34:59.000Z",
-    "updatedAt": "2026-06-25T23:55:58Z"
-  },
-  {
-    "id": 156,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "09:00",
-    "fecha": "2026-06-25",
-    "lugar": "Plaza 25 de Mayo, Resistencia, Chaco",
+    "fecha": "2026-06-26",
+    "lugar": "Salidas de Bnei Brak, Distrito de Tel Aviv",
     "tipoAccion": "protesta",
     "organizaciones": [
-      "Vendedores ambulantes autoconvocados de Resistencia"
+      "Mothers on the Frontline (Ayelet Hashachar Saidoff)",
+      "Soldados en servicio activo y reservistas",
+      "Ciudadanos israelíes pro-reclutamiento igualitario"
     ],
-    "motivo": "Protesta denominada 'Facturazo' de más de 70 vendedores ambulantes de Resistencia, Chaco, contra la persecución municipal, los decomisos y multas que afectan su actividad en la economía popular. Entrega simbólica de facturas de elaboración propia y presentación de petitorio exigiendo la apertura de una mesa de diálogo con las autoridades municipales y provinciales. Bajo la consigna 'Trabajar no es delito', denuncian que no obtuvieron respuestas a sus planteos. Participan vendedores de panificados, pancheros y jugueteros.",
-    "status": "en_curso",
-    "lat": "-27.4512",
-    "lng": "-58.9867",
+    "motivo": "Protesta de activistas del movimiento 'Mothers on the Frontline' bloqueando las salidas de Bnei Brak horas antes del inicio del Shabat, en respuesta a las masivas protestas de convoyes de la comunidad haredí que interrumpieron el tráfico en todo Israel el 24 de junio. Exigen igualdad en la carga del servicio militar obligatorio y denuncian las exenciones masivas de la comunidad haredí. Los organizadores convocan a cientos de participantes, incluyendo soldados activos, reservistas y familiares, bajo el lema de que 'quienes cargan con el peso deben protestar'.",
+    "status": "convocada",
+    "lat": "32.0833",
+    "lng": "34.8333",
     "fuentes": [
       {
-        "nombre": "TN24 (25 junio - vendedores ambulantes Facturazo Resistencia)",
-        "url": "https://www.tn24.com.ar/2026/06/vendedores-ambulantes-realizaran-un-facturazo-en-la-plaza-25-de-mayo-de-resistencia/"
+        "nombre": "JNS (25 junio - Haredi convoy protest, counter-protest planned for Friday in Bnei Brak)",
+        "url": "https://www.jns.org/news/israel-news/haredi-convoy-protest-over-idf-enlistment-disrupts-traffic-nationwide"
       },
       {
-        "nombre": "Diario La Voz del Chaco (23 junio - anuncio Facturazo vendedores ambulantes)",
-        "url": "https://www.diariolavozdelchaco.com/2026/06/23/nos-quieren-ocultar-vendedores-ambulantes-haran-un-facturazo-en-pleno-centro-de-resistencia/"
+        "nombre": "News.itsbaba.com (25 junio - Anti-exemption protesters plan to block Bnei Brak exits before Shabbat)",
+        "url": "https://news.itsbaba.com/22813/anti-exemption-protesters-plan-to-block-bnei-brak-exits-befo-22813"
       }
     ],
-    "createdAt": "2026-06-25T13:36:47.000Z",
-    "updatedAt": "2026-06-25T23:55:58Z"
+    "createdAt": "2026-06-26T03:28:45.000Z",
+    "updatedAt": "2026-06-26T03:36:01Z"
   },
   {
-    "id": 157,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "00:01",
-    "fecha": "2026-06-25",
-    "lugar": "Universidades públicas de todo el país (61 universidades nacionales)",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "CONADU Histórica (Federación Nacional de Docentes, Investigadores y Creadores Universitarios)",
-      "CONADU (Federación Nacional de Docentes Universitarios)"
-    ],
-    "motivo": "Paro nacional universitario de 48 horas (jueves 25 y viernes 26 de junio) de docentes universitarios de todo el país en reclamo de la aplicación de la Ley de Financiamiento Universitario, recomposición salarial urgente, apertura de paritarias y presupuesto suficiente para el funcionamiento de las universidades públicas. Incluye acciones federales en las 61 universidades y una marcha de velas el jueves desde Plaza Houssay hasta la Secretaría de Educación en CABA. Denuncian una pérdida del poder adquisitivo del 44% desde diciembre de 2023 y el desmantelamiento de la educación pública por el gobierno de Javier Milei. Rechazaron la oferta salarial del gobierno (24,33% en dos tramos) por considerarla insuficiente.",
-    "status": "en_curso",
-    "lat": "-34.5997",
-    "lng": "-58.3961",
-    "fuentes": [
-      {
-        "nombre": "Política del Sur (25 junio - CONADU Histórica paro 48h nacional universitario)",
-        "url": "https://politicadelsur.com/nota/92071/la-conadu-historica-confirmo-un-nuevo-paro-nacional-con-acciones-en-todo-el-pais/"
-      },
-      {
-        "nombre": "Faro Noticias (CONADU paro 48h 25 y 26 de junio)",
-        "url": "https://faronoticias.com.ar/nota/13939/la-conadu-convoca-a-un-paro-universitario-nacional-de-48-horas-para-el-25-y-26-de-junio/"
-      }
-    ],
-    "createdAt": "2026-06-25T13:36:47.000Z",
-    "updatedAt": "2026-06-25T23:55:58Z"
-  },
-  {
-    "id": 158,
-    "seccion": "internacional",
-    "pais": "Rumania",
-    "bandera": "🇷🇴",
-    "hora": "11:00",
-    "fecha": "2026-06-25",
-    "lugar": "Palacio del Parlamento, Alveola Parcului Izvor, Bucarest",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "FSLI (Federația Sindicatelor Libere din Învățământ)",
-      "FSE 'Spiru Haret' (Federația Sindicatelor din Educație)",
-      "FNS 'Alma Mater' (Federația Națională Sindicală)"
-    ],
-    "motivo": "Protesta de cientos de profesores frente al Palacio del Parlamento de Rumania, depositando más de 160.000 firmas para una iniciativa legislativa ciudadana que exige la modificación de las Leyes de Educación y la derogación de las medidas de austeridad de la Ley 141/2025 (Ley Bolojan). Exigen la reducción del número de alumnos por clase (máx. 22 en primaria, 26 en secundaria), la vuelta a las normas didácticas anteriores, el pago por hora digno y mejores condiciones salariales. Advierten con boicotear el examen de Bachillerato si no se atienden sus reclamos. El conflicto comenzó en julio de 2025 y se ha intensificado progresivamente.",
-    "status": "en_curso",
-    "lat": "44.4275",
-    "lng": "26.0874",
-    "fuentes": [
-      {
-        "nombre": "Mediafax (25 junio - teachers protest Parliament 160k signatures)",
-        "url": "https://www.mediafax.ro/english/teachers-protest-in-front-of-parliament-160000-signatures-for-amending-the-education-law-23761500"
-      },
-      {
-        "nombre": "HotNews (25 junio - protest profesori Parlament 160.000 semnături)",
-        "url": "https://hotnews.ro/protest-al-profesorilor-in-fata-parlamentului-160-000-de-semnaturi-pentru-modificarea-unor-masuri-din-educatie-2283998"
-      }
-    ],
-    "createdAt": "2026-06-25T16:21:56.000Z",
-    "updatedAt": "2026-06-25T23:55:58Z"
-  },
-  {
-    "id": 159,
+    "id": 168,
     "seccion": "internacional",
     "pais": "Estados Unidos",
     "bandera": "🇺🇸",
-    "hora": "03:00",
-    "fecha": "2026-06-25",
-    "lugar": "T.F. Green International Airport, Warwick, Rhode Island",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "Trabajadores de alimentos y bebidas de Grove Bay Concessions"
-    ],
-    "motivo": "Huelga de 73 trabajadores de servicios de alimentos y bebidas del Aeropuerto T.F. Green de Rhode Island, operados por Grove Bay Concessions. Sin contrato laboral desde hace aproximadamente un año, exigen un aumento salarial acorde al costo de vida y no el salario mínimo. La huelga comenzó a las 3:00 AM en medio del aumento de tráfico por la Copa del Mundo.",
-    "status": "en_curso",
-    "lat": "41.7242",
-    "lng": "-71.4282",
-    "fuentes": [
-      {
-        "nombre": "NBC 10 News/WJAR (25 junio - T.F. Green airport food workers strike)",
-        "url": "https://turnto10.com/news/local/food-and-beverage-workers-at-tf-green-airport-go-on-strike-june-25-2026"
-      }
-    ],
-    "createdAt": "2026-06-25T16:21:56.000Z",
-    "updatedAt": "2026-06-25T23:55:58Z"
-  },
-  {
-    "id": 160,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "09:00",
-    "fecha": "2026-06-25",
-    "lugar": "Legislatura Provincial (Ushuaia), Plaza Cívica (Tolhuin), y Don Bosco y Alberdi (Río Grande), Tierra del Fuego",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "SUTEF (Sindicato Unificado de Trabajadoras y Trabajadores de la Educación Fueguina)"
-    ],
-    "motivo": "Jornada de desobligación y movilización docente en las tres ciudades de Tierra del Fuego en reclamo de una recomposición salarial que alcance el Salario Mínimo Vital y Móvil ($2.879.877), pago de deudas salariales del 2% adeudado de 2025, cese de descuentos arbitrarios, mejoras en infraestructura edilicia escolar y sanción de una Ley de Financiamiento Educativo provincial. El gremio rechazó la propuesta del Gobierno provincial por considerarla insuficiente frente al contexto inflacionario. La medida forma parte de un plan de lucha que viene escalando desde febrero de 2026.",
-    "status": "en_curso",
-    "lat": "-54.8019",
-    "lng": "-68.3030",
-    "fuentes": [
-      {
-        "nombre": "Correo Diario (24 junio - SUTEF convoca a desobligación y movilización 25 de junio)",
-        "url": "https://correodiario.com.ar/sutef-convoco-a-una-jornada-de-desobligacion-y-movilizacion-en-reclamo-de-mejoras-salariales-y-condiciones-edilicias/"
-      }
-    ],
-    "createdAt": "2026-06-25T18:34:50.000Z",
-    "updatedAt": "2026-06-25T23:55:58Z"
-  },
-  {
-    "id": 161,
-    "seccion": "internacional",
-    "pais": "Países Bajos",
-    "bandera": "🇳🇱",
-    "hora": "17:00",
-    "fecha": "2026-06-25",
-    "lugar": "Grote Markt, Groningen",
+    "hora": "07:00",
+    "fecha": "2026-06-26",
+    "lugar": "Snelling Avenue (desde Dan Patch Ave hasta Summit Ave), Falcon Heights, Minnesota",
     "tipoAccion": "protesta",
     "organizaciones": [
-      "FNV (Federatie Nederlandse Vakbeweging)"
+      "OpenMarketMN",
+      "Twin Cities VCC"
     ],
-    "motivo": "Manifestación masiva convocada por el sindicato FNV en la Grote Markt de Groningen contra los planes de recorte del gobierno neerlandés (gabinete Jetten) en materia de seguridad social: reducción de la duración de la WW (seguro de desempleo) y WIA (incapacidad laboral) de 24 a 12 meses, retraso de la edad de jubilación AOW, y recortes por 10 mil millones de euros en el sistema de salud. Los manifestantes denuncian que el gobierno rompe los acuerdos sociales de 2013 y 2019, y exigen que se grave a los más ricos (impuesto del 2% a los multimillonarios) en lugar de recortar derechos sociales. El evento contó con programa musical, discursos de dirigentes sindicales y políticos de la oposición, y una asistencia de varios cientos de personas.",
-    "status": "finalizado",
-    "lat": "53.2194",
-    "lng": "6.5665",
+    "motivo": "Protesta semanal ('General Strike') para proteger el Área Canoa Boundary Waters (BWCA) en Minnesota contra la minería de cobre. Exigen la restauración de la prohibición de 20 años de minería cerca del BWCA, que fue derogada por el Senado de EE.UU. (votación 50-49). La manifestación se realiza cada viernes en la Avenida Snelling, convocando a vecinos a caminar, usar bus o bicicleta para unirse a la protesta pacífica.",
+    "status": "convocada",
+    "lat": "44.9800",
+    "lng": "-93.1670",
     "fuentes": [
       {
-        "nombre": "FNV (25 mayo - convocatoria manifestación 25 junio Groningen)",
-        "url": "https://www.fnv.nl/nieuwsbericht/regio/noord/2026/05/25-juni-grote-demonstratie-fnv-tegen-afbraakbeleid"
-      },
-      {
-        "nombre": "FNV (página oficial de la manifestación)",
-        "url": "https://www.fnv.nl/acties/de-toekomst-is-van-ons/manifestatie-groningen-25-juni"
-      },
-      {
-        "nombre": "112Groningen (25 junio - cobertura en vivo de la manifestación)",
-        "url": "https://112groningen.nl/431987/overig/grote-fnv-demonstratie-grote-markt-stop-de-afbraak"
-      },
-      {
-        "nombre": "GroenLinks-PvdA (agenda manifestación FNV Groningen)",
-        "url": "https://groningen.groenlinkspvda.nl/agenda/fnv-actie-demonstratie-groningen-25-juni-2026-17u-tot-25-juni-2026-20u"
-      },
-      {
-        "nombre": "Drimble/OOG TV Groningen (25 junio - FNV demonstratie Grote Markt)",
-        "url": "https://drimble.nl/regio/groningen/groningen-stad/107288783/fnv-demonstratie-op-grote-markt-tegen-overheidsbezuinigingen.html"
+        "nombre": "Roseville Reporter (event listing - Protect the Boundary Waters General Strike June 26)",
+        "url": "https://rosevillereporter.org/event/protect-the-boundary-waters-general-strike-snelling-avenue/2026-06-26/"
       }
     ],
-    "createdAt": "2026-06-25T20:54:03.000Z",
-    "updatedAt": "2026-06-25T23:55:58Z"
+    "createdAt": "2026-06-26T03:28:45.000Z",
+    "updatedAt": "2026-06-26T03:36:01Z"
   },
   {
-    "id": 162,
-    "seccion": "internacional",
-    "pais": "Bélgica",
-    "bandera": "🇧🇪",
-    "hora": "00:01",
-    "fecha": "2026-06-25",
-    "lugar": "Región de Bruselas-Capital (escuelas, hospitales, transporte público STIB-MIVB), Aeropuertos de Zaventem y Charleroi, Puerto de Amberes-Brujas",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "CSC-FGTB",
-      "CGTB",
-      "ABVV/FGTB",
-      "ACV/CSC",
-      "ACLVB/CGSLB"
-    ],
-    "motivo": "Huelga general del sector público en Bruselas y paros nacionales en Bélgica contra los planes de austeridad del gobierno, los recortes presupuestarios, la reforma de pensiones y el congelamiento salarial. Convocada por el frente común sindical (CSC-FGTB, CGTB), la huelga afecta escuelas, hospitales, transporte público municipal (STIB-MIVB) y servicios administrativos en toda la Región de Bruselas-Capital, con una participación estimada del 80% de los empleados públicos. Paralelamente, los aeropuertos de Zaventem (Bruselas) y Charleroi cancelaron todos sus vuelos del día, y el puerto de Amberes-Brujas detuvo sus operaciones por la huelga de servicios de practicaje y despacho. Los sindicatos denuncian que el gobierno propone solo un 2% de aumento salarial frente al 5% exigido, y rechazan los recortes a las pensiones. Las protestas comenzaron en marzo de 2026 tras el anuncio de medidas de austeridad vinculadas a la deuda regional y las reglas fiscales de la UE.",
-    "status": "en_curso",
-    "lat": "50.8467",
-    "lng": "4.3525",
-    "fuentes": [
-      {
-        "nombre": "7sur7.be (convocatoria huelga sector público Bruselas 25 junio)",
-        "url": "https://www.7sur7.be/belgique/le-front-commun-syndical-appelle-a-la-greve-dans-le-secteur-public-bruxellois-ce-mardi~aa52de2a/"
-      },
-      {
-        "nombre": "NewsDirectory3 (25 junio - Brussels public sector strike, citando 7sur7)",
-        "url": "https://www.newsdirectory3.com/protest-against-arizona-held-in-brussels-on-march-12-2026/"
-      },
-      {
-        "nombre": "AKM (25 junio - puerto Amberes-Brujas detenido por huelga)",
-        "url": "https://www.akm.ru/eng/news/the-belgian-port-of-antwerp-bruges-has-stopped-work-due-to-a-strike/"
-      },
-      {
-        "nombre": "AKM (25 junio - sindicatos belgas convocan huelga, vuelos cancelados)",
-        "url": "https://www.akm.ru/eng/news/belgian-trade-unions-have-called-for-a-strike-on-june-25"
-      }
-    ],
-    "createdAt": "2026-06-25T20:54:03.000Z",
-    "updatedAt": "2026-06-25T23:55:58Z"
-  },
-  {
-    "id": 163,
+    "id": 169,
     "seccion": "protestas_ar",
     "pais": "Argentina",
     "bandera": "🇦🇷",
-    "hora": "14:30",
-    "fecha": "2026-06-25",
-    "lugar": "Estación Darío y Maxi (ex Avellaneda), Avellaneda, Provincia de Buenos Aires",
+    "hora": "00:01",
+    "fecha": "2026-06-26",
+    "lugar": "Casa de Gobierno, Río Gallegos, Santa Cruz (y puntos de toda la provincia)",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Policías autoconvocados de Santa Cruz",
+      "Personal penitenciario autoconvocado",
+      "Bomberos autoconvocados",
+      "Mesa de Unidad Policial y Penitenciaria (MUPP)"
+    ],
+    "motivo": "Continúa el acampe y protesta de efectivos policiales autoconvocados en la Casa de Gobierno de Río Gallegos y otros puntos de Santa Cruz, exigiendo una recomposición salarial genuina con sumas remunerativas y rechazando las ofertas del gobierno de Claudio Vidal que incluyen montos no remunerativos. El conflicto se intensificó el 23 de junio cuando los manifestantes ingresaron al patio interno de la Casa de Gobierno e instalaron carpas. La reunión del Consejo del Salario pasó a cuarto intermedio hasta el 26 de junio sin acuerdo. Los autoconvocados mantienen el quite de colaboración (solo emergencias), con un acatamiento del 85-95%. Fuerzas federales (Gendarmería, Prefectura, PSA) cubren tareas policiales. El conflicto viene escalando desde febrero de 2026.",
+    "status": "en_curso",
+    "lat": "-51.6226",
+    "lng": "-69.2181",
+    "fuentes": [
+      {
+        "nombre": "OPI Santa Cruz (7 junio - sigue paro y acampe, cadetes en comisarías)",
+        "url": "https://www.opisantacruz.com.ar/2026/06/07/policias-protestas-cadetes-supliendo-efectivos-en-comisarias/"
+      },
+      {
+        "nombre": "Página|12 (24 junio - Santa Cruz: policía reclama salarios, denuncia amenazas)",
+        "url": "https://www.pagina12.com.ar/2026/06/24/santa-cruz-la-policia-reclama-por-salarios-y-denuncia-amenazas-del-gobierno-provincial"
+      },
+      {
+        "nombre": "El Estratégico (24 junio - policía Santa Cruz acampe frente a Casa de Gobierno)",
+        "url": "https://www.elestrategico.com/2026/06/24/la-policia-de-santa-cruz-reclama-un-aumento-salarial-y-entra-en-conflicto-con-el-gobierno-provincial"
+      },
+      {
+        "nombre": "Infobae (6 junio - conflicto salarial policía Santa Cruz, refuerzo fuerzas federales)",
+        "url": "https://www.infobae.com/politica/2026/06/06/conflicto-salarial-con-la-policia-en-santa-cruz-protestas-acampe-y-refuerzo-de-fuerzas-federales-de-nacion/"
+      }
+    ],
+    "createdAt": "2026-06-26T03:32:30.000Z",
+    "updatedAt": "2026-06-26T03:36:01Z"
+  },
+  {
+    "id": 170,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "10:00",
+    "fecha": "2026-06-26",
+    "lugar": "Universidades públicas de todo el país (acto central en Plaza de Mayo, CABA, y puntos en las 61 universidades nacionales)",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "CONADU Histórica (Federación Nacional de Docentes, Investigadores y Creadores Universitarios)",
+      "CONADU (Federación Nacional de Docentes Universitarios)",
+      "CIN (Consejo Interuniversitario Nacional)",
+      "FUA (Federación Universitaria Argentina)",
+      "Frente Sindical de Universidades Nacionales"
+    ],
+    "motivo": "Segundo día del paro nacional universitario de 48 horas (jueves 26 y viernes 27 de junio) y Marcha Federal Universitaria en defensa de la universidad pública. Docentes, estudiantes y trabajadores no docentes exigen la aplicación de la Ley de Financiamiento Universitario, recomposición salarial urgente ante una pérdida del poder adquisitivo cercana al 50% desde diciembre de 2023, apertura de paritarias y presupuesto suficiente para el funcionamiento de las universidades. La Corte Suprema de Justicia dejó firme la cautelar que obliga al Gobierno a aplicar la ley (25 de junio de 2026). Marchas, clases públicas y actos en las 61 universidades nacionales del país, con acto central en Plaza de Mayo.",
+    "status": "en_curso",
+    "lat": "-34.6083",
+    "lng": "-58.3712",
+    "fuentes": [
+      {
+        "nombre": "Chequeado (25 junio - Corte Suprema ratificó cautelar financiamiento universitario)",
+        "url": "https://chequeado.com/el-explicador/financiamiento-universitario-la-corte-suprema-ratifico-una-cautelar-que-obliga-al-gobierno-a-aumentar-salarios-y-becas-segun-la-ley/"
+      },
+      {
+        "nombre": "El Retrato de Hoy (25 junio - Corte dejó firme cautelar financiamiento universitario)",
+        "url": "https://elretratodehoy.com.ar/2026/06/25/la-corte-suprema-dejo-firme-la-cautelar-que-ordena-el-financiamiento-universitario/"
+      },
+      {
+        "nombre": "CTA Autónoma (26 de Junio: Marcha Federal Universidad Pública)",
+        "url": "https://ctaa.org.ar/26-de-junio-marcha-federal-en-defensa-de-la-universidad-publica/"
+      },
+      {
+        "nombre": "ADUL (26 y 27/06: Paro Nacional Docente Universitario 48hs + Marcha Federal)",
+        "url": "https://adul.org.ar/26-y-27-06-paro-nacional-docente-universitario-de-48hs/"
+      },
+      {
+        "nombre": "Voces Paralelas (26 junio 2026 - Paro Nacional Docencia Universitaria y Preuniversitaria)",
+        "url": "https://vocesparalelas.com.ar/sitio/jueves-26-y-viernes-27-de-junio-paro-nacional-de-la-docencia-universitaria-y-preuniversitaria-en-argentina/"
+      }
+    ],
+    "createdAt": "2026-06-26T03:32:30.000Z",
+    "updatedAt": "2026-06-26T03:36:01Z"
+  },
+  {
+    "id": 171,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "15:00",
+    "fecha": "2026-06-26",
+    "lugar": "Puente Pueyrredón (Estación Darío y Maxi, ex Avellaneda), Avellaneda, Provincia de Buenos Aires",
     "tipoAccion": "protesta",
     "organizaciones": [
       "Organizaciones sociales, piqueteras y de derechos humanos",
@@ -1131,7 +459,7 @@
       "Movimiento Evita",
       "CCC (Corriente Clasista y Combativa)"
     ],
-    "motivo": "Jornada cultural y vigilia 'Junio Arde Rojo' en la Estación Darío y Maxi, a 24 años de la Masacre de Avellaneda (26 de junio de 2002), cuando la Policía Bonaerense asesinó a los militantes piqueteros Darío Santillán y Maximiliano Kosteki durante una protesta de trabajadores desocupados en el Puente Pueyrredón. Incluye asamblea transfeminista, paneles sobre criminalización de la protesta social, ferias, música en vivo y ollas populares. Exigen juicio y castigo para los responsables políticos de la masacre. La movilización central al Puente Pueyrredón está prevista para el viernes 26 de junio.",
+    "motivo": "Movilización central al Puente Pueyrredón a 24 años de la Masacre de Avellaneda (26 de junio de 2002), cuando la Policía Bonaerense asesinó a los militantes piqueteros Darío Santillán y Maximiliano Kosteki durante una protesta de trabajadores desocupados. Exigen juicio y castigo para los responsables políticos de la masacre. La jornada 'Junio Arde Rojo' incluye corte del puente, acto político-cultural, ferias, ollas populares y música en vivo. Cada 26 de junio se conmemora el aniversario de la masacre con movilización al Puente Pueyrredón.",
     "status": "en_curso",
     "lat": "-34.6626",
     "lng": "-58.3675",
@@ -1141,78 +469,15 @@
         "url": "https://www.anred.org/junio-arde-rojo-jornada-cultural-en-la-estacion-dario-y-maxi-a-24-anos-de-la-masacre-de-avellaneda/"
       },
       {
-        "nombre": "Red Eco Alternativo (24 junio - Junio Arde Rojo 24 años Masacre Avellaneda)",
+        "nombre": "Red Eco Alternativo (24 junio - Junio Arde Rojo 24 años Masacre Avellaneda, movilización 26/6)",
         "url": "https://redeco.com.ar/principal/76929-a-24-anos-de-la-masacre-de-avellaneda-junio-arde-rojo"
-      }
-    ],
-    "createdAt": "2026-06-25T20:57:36.000Z",
-    "updatedAt": "2026-06-25T23:55:58Z"
-  },
-  {
-    "id": 164,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "10:00",
-    "fecha": "2026-06-25",
-    "lugar": "La Plata, Berisso y Ensenada (Paseo del Bosque, Casa de Gobierno bonaerense, Plaza Moreno, y accesos a la Autopista La Plata-Buenos Aires)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Taxistas autoconvocados de La Plata",
-      "Remiseros",
-      "Fleteros",
-      "Sindicato Unión Conductores de Taxis",
-      "Asociación de Taxistas de La Plata"
-    ],
-    "motivo": "Protestas y piquetes de taxistas, remiseros, fleteros y propietarios de vehículos en La Plata, Berisso y Ensenada contra la falta de suministro de GNC que lleva 13 días con restricciones en más del 80% de las estaciones de servicio. Exigen una solución a Camuzzi y al gobierno provincial para garantizar el abastecimiento. Realizaron cortes en la subida de la Autopista La Plata-Buenos Aires y movilizaciones desde el Paseo del Bosque hacia la Casa de Gobierno bonaerense. La crisis también afecta a industrias como Cerámica Ctibor, Copetro y Cerámica Fanelli, que quedaron paralizadas por las restricciones al suministro de gas ante la ola de frío.",
-    "status": "en_curso",
-    "lat": "-34.9215",
-    "lng": "-57.9546",
-    "fuentes": [
-      {
-        "nombre": "El Destape (25 junio - crisis gas, piquetes La Plata)",
-        "url": "https://www.eldestapeweb.com/politica/crisis-falta-gas-piquetes-milei-fabricas-paralizadas-2026625114614"
       },
       {
-        "nombre": "El Editor Platense (25 junio - siguen protestas GNC La Plata)",
-        "url": "https://eleditorplatense.com/economia/siguen-los-problemas-con-el-gnc-en-la-plata-y-continuan-las-protestas-nceb68de7-3c5f-4460-915c-3a6af3e1ccb3"
-      },
-      {
-        "nombre": "Página 12 (23 junio - sin GNC en La Plata, anuncian piquetes)",
-        "url": "https://www.pagina12.com.ar/2026/06/23/sin-gnc-en-la-plata-anuncian-piquetes-y-cortes-ante-la-falta-de-suministro/"
-      },
-      {
-        "nombre": "Clarín (23 junio - escasez GNC La Plata, 11 días sin expendio)",
-        "url": "https://www.clarin.com/economia/agudiza-escasez-gnc-region-plata-11-dias-expendio-mayoria-estaciones_0_1Z6jsuPpYq.html"
+        "nombre": "Instagram Pampillón UNR (26 junio - Junio Nos Arde Rojo, movilización Puente Pueyrredón)",
+        "url": "https://www.instagram.com/p/DLQ0FENx_gP/"
       }
     ],
-    "createdAt": "2026-06-25T22:21:18.000Z",
-    "updatedAt": "2026-06-25T23:55:58Z"
-  },
-  {
-    "id": 165,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "00:01",
-    "fecha": "2026-06-25",
-    "lugar": "Puente de acceso a San Lorenzo, departamento Capital, Salta",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Pueblo Lule",
-      "Residentes y vecinos de San Lorenzo"
-    ],
-    "motivo": "Piquete parcial y corte intermitente en el puente de acceso a San Lorenzo, Salta, en protesta contra la sanción de una ley provincial que habilita la entrega en comodato de un predio de 9 hectáreas al Tigres Rugby Club. Manifestantes del pueblo lule y vecinos denuncian que las tierras corresponden a espacios de propiedad comunitaria y posesión ancestral, y que la ley se aprobó sin resolución judicial o administrativa definitiva. Advierten con un calendario de protestas y exigen la apertura de una mesa de diálogo con el Ejecutivo provincial.",
-    "status": "en_curso",
-    "lat": "-24.7333",
-    "lng": "-65.4833",
-    "fuentes": [
-      {
-        "nombre": "Voces Críticas (25 junio - corte San Lorenzo por tierras Tigres Rugby)",
-        "url": "https://www.vocescriticas.com/noticias/2026/06/25/206032-conflicto-por-tierras-en-san-lorenzo-manifestantes-realizan-un-corte-tras-la-sancion-de-la-ley-a-favor-de-tigres-rugby-club"
-      }
-    ],
-    "createdAt": "2026-06-25T23:53:03.000Z",
-    "updatedAt": "2026-06-25T23:55:58Z"
+    "createdAt": "2026-06-26T03:32:30.000Z",
+    "updatedAt": "2026-06-26T03:36:01Z"
   }
 ]
