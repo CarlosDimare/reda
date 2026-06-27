@@ -49,7 +49,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-27T04:38:30Z"
+    "updatedAt": "2026-06-27T07:53:17Z"
   },
   {
     "id": 134,
@@ -92,7 +92,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-27T04:38:30Z"
+    "updatedAt": "2026-06-27T07:53:17Z"
   },
   {
     "id": 135,
@@ -126,7 +126,7 @@
       }
     ],
     "createdAt": "2026-06-25T00:15:57.000Z",
-    "updatedAt": "2026-06-27T04:38:30Z"
+    "updatedAt": "2026-06-27T07:53:17Z"
   },
   {
     "id": 190,
@@ -170,7 +170,7 @@
       }
     ],
     "createdAt": "2026-06-26T22:44:04.000Z",
-    "updatedAt": "2026-06-27T04:38:30Z"
+    "updatedAt": "2026-06-27T07:53:17Z"
   },
   {
     "id": 192,
@@ -206,7 +206,7 @@
       }
     ],
     "createdAt": "2026-06-27T00:04:33.000Z",
-    "updatedAt": "2026-06-27T04:38:30Z"
+    "updatedAt": "2026-06-27T07:53:17Z"
   },
   {
     "id": 194,
@@ -238,7 +238,7 @@
       }
     ],
     "createdAt": "2026-06-27T00:04:33.000Z",
-    "updatedAt": "2026-06-27T04:38:30Z"
+    "updatedAt": "2026-06-27T07:53:17Z"
   },
   {
     "id": 195,
@@ -272,7 +272,7 @@
       }
     ],
     "createdAt": "2026-06-27T00:04:33.000Z",
-    "updatedAt": "2026-06-27T04:38:30Z"
+    "updatedAt": "2026-06-27T07:53:17Z"
   },
   {
     "id": 196,
@@ -310,7 +310,7 @@
       }
     ],
     "createdAt": "2026-06-27T00:04:33.000Z",
-    "updatedAt": "2026-06-27T04:38:30Z"
+    "updatedAt": "2026-06-27T07:53:17Z"
   },
   {
     "id": 197,
@@ -349,7 +349,7 @@
       }
     ],
     "createdAt": "2026-06-27T00:04:33.000Z",
-    "updatedAt": "2026-06-27T04:38:30Z"
+    "updatedAt": "2026-06-27T07:53:17Z"
   },
   {
     "id": 198,
@@ -384,7 +384,7 @@
       }
     ],
     "createdAt": "2026-06-27T00:04:33.000Z",
-    "updatedAt": "2026-06-27T04:38:30Z"
+    "updatedAt": "2026-06-27T07:53:17Z"
   },
   {
     "id": 199,
@@ -410,7 +410,7 @@
       }
     ],
     "createdAt": "2026-06-27T00:04:33.000Z",
-    "updatedAt": "2026-06-27T04:38:30Z"
+    "updatedAt": "2026-06-27T07:53:17Z"
   },
   {
     "id": 203,
@@ -445,7 +445,7 @@
       }
     ],
     "createdAt": "2026-06-27T04:33:34.000Z",
-    "updatedAt": "2026-06-27T04:38:30Z"
+    "updatedAt": "2026-06-27T07:53:17Z"
   },
   {
     "id": 204,
@@ -471,7 +471,7 @@
       }
     ],
     "createdAt": "2026-06-27T04:33:34.000Z",
-    "updatedAt": "2026-06-27T04:38:30Z"
+    "updatedAt": "2026-06-27T07:53:17Z"
   },
   {
     "id": 205,
@@ -502,7 +502,88 @@
       }
     ],
     "createdAt": "2026-06-27T04:33:34.000Z",
-    "updatedAt": "2026-06-27T04:38:30Z"
+    "updatedAt": "2026-06-27T07:53:17Z"
+  },
+  {
+    "id": 207,
+    "seccion": "internacional",
+    "pais": "Líbano",
+    "bandera": "🇱🇧",
+    "hora": "00:30",
+    "fecha": "2026-06-27",
+    "lugar": "Suburbios del sur de Beirut, carretera al aeropuerto, centro de Beirut (cerca del Parlamento), Líbano",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Hezbolá (partido-milicia chií)",
+      "Simpatizantes de Hezbolá"
+    ],
+    "motivo": "Protestas masivas de simpatizantes de Hezbolá en Beirut contra el acuerdo marco tripartito firmado entre Líbano, Israel y Estados Unidos en Washington. Los manifestantes recorrieron las calles en motocicletas, quemaron neumáticos y bloquearon la carretera principal al aeropuerto Rafik Hariri. El diputado de Hezbolá Hassan Fadlallah advirtió que implementar el acuerdo podría llevar a una guerra civil. El ejército libanés dispersó a los manifestantes con gases lacrimógenos. El acuerdo marco, firmado el 26 de junio de 2026, establece el desarme de Hezbolá, la retirada israelí del sur del Líbano y la restauración de la soberanía libanesa.",
+    "status": "en_curso",
+    "lat": "33.8938",
+    "lng": "35.5018",
+    "fuentes": [
+      {
+        "nombre": "Middle East Eye (27 junio - Hezbollah supporters block Beirut road)",
+        "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-supporters-block-beirut-road-burn-tires-protest-israel-lebanon"
+      },
+      {
+        "nombre": "AFP / Times of Israel (27 junio - Hezbollah supporters ride motorcycles through Beirut)",
+        "url": "https://www.timesofisrael.com/liveblog_entry/hezbollah-supporters-ride-motorcycles-through-beirut-to-protest-israel-lebanon-deal/"
+      },
+      {
+        "nombre": "Notimérica (27 junio - Decenas de seguidores de Hezbolá protestan contra acuerdo marco con Israel)",
+        "url": "https://www.notimerica.com/politica/noticia-libano-decenas-seguidores-hezbola-protestan-contra-acuerdo-marco-israel-20260627000322.html"
+      },
+      {
+        "nombre": "El Tiempo (27 junio - Simpatizantes de Hezbolá protestan en Líbano contra tratado marco de paz con Israel)",
+        "url": "https://www.eltiempo.com/mundo/medio-oriente/simpatizantes-de-hezbola-protestan-en-libano-contra-el-tratado-marco-de-paz-acordado-con-israel-manifestantes-incendian-llantas-3567449"
+      }
+    ],
+    "createdAt": "2026-06-27T07:47:45.000Z",
+    "updatedAt": "2026-06-27T07:53:17Z"
+  },
+  {
+    "id": 208,
+    "seccion": "internacional",
+    "pais": "México",
+    "bandera": "🇲🇽",
+    "hora": "10:00",
+    "fecha": "2026-06-27",
+    "lugar": "Ángel de la Independencia → Paseo de la Reforma → Zócalo, Ciudad de México (Marcha del Orgullo); y Plaza Palestina Libre → Tlatelolco (Contramarcha)",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Comité Gay Pride CDMX",
+      "Colectivos LGBTIQ+",
+      "Contramarcha LGBTQIA+ CDMX (colectivos disidentes)"
+    ],
+    "motivo": "XLVIII Marcha del Orgullo LGBTTTIQAP+ en la Ciudad de México, una de las más grandes de América Latina (~800.000 participantes esperados). Concentración desde las 10:00 en el Ángel de la Independencia, salida a las 11:00 hacia el Zócalo. Lema: 'Nuestra venganza será volar libres'. Homenaje a Kenia Cuevas, activista trans. Paralelamente, la Contramarcha LGBTQIA+ desde la Plaza Palestina Libre hacia Tlatelolco, contra el pinkwashing corporativo, transfeminicidios, crímenes de odio, gentrificación, el Mundial FIFA 2026 y en solidaridad con Palestina, Líbano, Irán, Venezuela, Cuba y Congo. Ambas movilizaciones coinciden con el Fan Fest del Mundial en el Zócalo.",
+    "status": "convocada",
+    "lat": "19.4326",
+    "lng": "-99.1332",
+    "fuentes": [
+      {
+        "nombre": "EFE (27 junio - Más de 50 organizaciones piden acceso al Zócalo en Marcha del Orgullo)",
+        "url": "https://efe.com/mundo/2026-06-27/organizaciones-marcha-orgullo-lgbtiq-mexico/"
+      },
+      {
+        "nombre": "Dallas Voice (26 junio - Mexico City Pride 2026: Marcha del Orgullo Goes On)",
+        "url": "https://dallasvoice.com/pride-is-on-in-mexico-city/"
+      },
+      {
+        "nombre": "Maya Comunicación (25 junio - Guía completa Marcha del Orgullo LGBT+ 2026 y Contramarcha en CDMX)",
+        "url": "https://mayacomunicacion.com.mx/guia-completa-de-la-marcha-del-orgullo-lgbt-2026-y-la-contramarcha-en-cdmx/"
+      },
+      {
+        "nombre": "Revolución 3.0 (24 junio - Rumbo al 27 de junio: contramarcha LGBT+ surge como resistencia)",
+        "url": "https://revoluciontrespuntocero.news/rumbo-al-27-de-junio-contramarcha-lgbt-surge-como-resistencia-frente-al-pinkwashing-y-abraza-la-solidaridad-internacional/"
+      },
+      {
+        "nombre": "El Universal Querétaro (24 junio - Convocan a Contramarcha del Orgullo LGBT+ en CDMX)",
+        "url": "https://www.eluniversalqueretaro.mx/nacion/convocan-a-contramarcha-del-orgullo-lgbt-en-cdmx/"
+      }
+    ],
+    "createdAt": "2026-06-27T07:47:45.000Z",
+    "updatedAt": "2026-06-27T07:53:17Z"
   },
   {
     "id": 200,
@@ -546,7 +627,7 @@
       }
     ],
     "createdAt": "2026-06-27T00:08:41.000Z",
-    "updatedAt": "2026-06-27T04:38:30Z"
+    "updatedAt": "2026-06-27T07:53:17Z"
   },
   {
     "id": 201,
@@ -592,7 +673,7 @@
       }
     ],
     "createdAt": "2026-06-27T00:08:41.000Z",
-    "updatedAt": "2026-06-27T04:38:30Z"
+    "updatedAt": "2026-06-27T07:53:17Z"
   },
   {
     "id": 202,
@@ -635,7 +716,7 @@
       }
     ],
     "createdAt": "2026-06-27T00:08:41.000Z",
-    "updatedAt": "2026-06-27T04:38:30Z"
+    "updatedAt": "2026-06-27T07:53:17Z"
   },
   {
     "id": 206,
@@ -660,6 +741,6 @@
       }
     ],
     "createdAt": "2026-06-27T04:36:11.000Z",
-    "updatedAt": "2026-06-27T04:38:30Z"
+    "updatedAt": "2026-06-27T07:53:17Z"
   }
 ]
