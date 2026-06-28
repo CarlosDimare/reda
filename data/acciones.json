@@ -33,7 +33,7 @@
       }
     ],
     "createdAt": "2026-06-28T00:01:51.000Z",
-    "updatedAt": "2026-06-28T20:16:25Z"
+    "updatedAt": "2026-06-28T21:43:45Z"
   },
   {
     "id": 236,
@@ -67,7 +67,7 @@
       }
     ],
     "createdAt": "2026-06-28T00:01:51.000Z",
-    "updatedAt": "2026-06-28T20:16:25Z"
+    "updatedAt": "2026-06-28T21:43:45Z"
   },
   {
     "id": 237,
@@ -97,7 +97,7 @@
       }
     ],
     "createdAt": "2026-06-28T00:01:51.000Z",
-    "updatedAt": "2026-06-28T20:16:25Z"
+    "updatedAt": "2026-06-28T21:43:45Z"
   },
   {
     "id": 238,
@@ -122,7 +122,7 @@
       }
     ],
     "createdAt": "2026-06-28T00:01:51.000Z",
-    "updatedAt": "2026-06-28T20:16:25Z"
+    "updatedAt": "2026-06-28T21:43:45Z"
   },
   {
     "id": 239,
@@ -147,7 +147,7 @@
       }
     ],
     "createdAt": "2026-06-28T00:01:51.000Z",
-    "updatedAt": "2026-06-28T20:16:25Z"
+    "updatedAt": "2026-06-28T21:43:45Z"
   },
   {
     "id": 245,
@@ -178,7 +178,7 @@
       }
     ],
     "createdAt": "2026-06-28T04:46:21.000Z",
-    "updatedAt": "2026-06-28T20:16:25Z"
+    "updatedAt": "2026-06-28T21:43:45Z"
   },
   {
     "id": 255,
@@ -211,7 +211,32 @@
       }
     ],
     "createdAt": "2026-06-28T10:42:36.000Z",
-    "updatedAt": "2026-06-28T20:16:25Z"
+    "updatedAt": "2026-06-28T21:43:45Z"
+  },
+  {
+    "id": 276,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "14:00",
+    "fecha": "2026-06-28",
+    "lugar": "Acceso a Cacharí (Ruta Nacional 3 y Av. San Martín), Provincia de Buenos Aires",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Vecinos autoconvocados de Azul y Cacharí"
+    ],
+    "motivo": "Protesta vecinal contra la instalación de una estación de peaje sobre la Ruta Nacional 3, en el tramo entre Cacharí y Azul, en el marco del proceso de privatización de las carreteras nacionales. Rechazan el peaje por considerar que golpea el bolsillo de trabajadores, estudiantes, productores agropecuarios, comerciantes y transportistas que dependen diariamente de este corredor. Consignas: 'Que no nos quiebren' y 'No al peaje entre Cacharí y Azul'. Jornada con volanteada informativa, feria comunitaria y participación de artistas locales.",
+    "status": "convocado",
+    "lat": "-36.3833",
+    "lng": "-59.5167",
+    "fuentes": [
+      {
+        "nombre": "Ahora Info - Protesta rechazo a peaje Ruta Nacional 3 (24 junio 2026)",
+        "url": "https://ahorainfo.com.ar/2026/06/24/protesta-rechazo-a-peaje-en-ruta-nacional-3/"
+      }
+    ],
+    "createdAt": "2026-06-28T21:39:19.000Z",
+    "updatedAt": "2026-06-28T21:43:45Z"
   },
   {
     "id": 240,
@@ -253,7 +278,7 @@
       }
     ],
     "createdAt": "2026-06-28T04:44:22.000Z",
-    "updatedAt": "2026-06-28T20:16:25Z"
+    "updatedAt": "2026-06-28T21:43:45Z"
   },
   {
     "id": 241,
@@ -286,7 +311,7 @@
       }
     ],
     "createdAt": "2026-06-28T04:44:22.000Z",
-    "updatedAt": "2026-06-28T20:16:25Z"
+    "updatedAt": "2026-06-28T21:43:45Z"
   },
   {
     "id": 242,
@@ -302,7 +327,7 @@
       "Plena Inclusión Madrid"
     ],
     "motivo": "Manifestación alternativa del Orgullo Crítico 2026 bajo el lema 'Contra el capitalismo colonial que nos masacra' y '¡A todas las desviadas, a las barricadas!'. Denuncian la mercantilización y despolitización del Orgullo oficial MADO, y reivindican el carácter político y combativo del Orgullo LGTBIQA+ frente a intereses comerciales e institucionales.",
-    "status": "convocado",
+    "status": "en_curso",
     "lat": "40.3863",
     "lng": "-3.7433",
     "fuentes": [
@@ -316,7 +341,7 @@
       }
     ],
     "createdAt": "2026-06-28T04:44:22.000Z",
-    "updatedAt": "2026-06-28T20:16:25Z"
+    "updatedAt": "2026-06-28T21:43:45Z"
   },
   {
     "id": 244,
@@ -350,7 +375,7 @@
       }
     ],
     "createdAt": "2026-06-28T04:44:22.000Z",
-    "updatedAt": "2026-06-28T20:16:25Z"
+    "updatedAt": "2026-06-28T21:43:45Z"
   },
   {
     "id": 248,
@@ -379,7 +404,7 @@
       }
     ],
     "createdAt": "2026-06-28T08:19:34.000Z",
-    "updatedAt": "2026-06-28T20:16:25Z"
+    "updatedAt": "2026-06-28T21:43:45Z"
   },
   {
     "id": 249,
@@ -395,7 +420,7 @@
       "Asociaciones de víctimas de la DANA"
     ],
     "motivo": "Manifestación popular con el lema 'Mazón a presó' en Paiporta, zona cero de la DANA del 29 de octubre de 2024 que dejó 230 víctimas mortales en la provincia de Valencia. Exigen que el expresident de la Generalitat Carlos Mazón vaya a prisión por su gestión de la catástrofe y rechazan su aforamiento. Reclaman verdad, justicia y reparación para las víctimas. Corean consignas como 'No són morts, són assassinats' y 'No a l'aforament, sí a Picassent'.",
-    "status": "convocado",
+    "status": "en_curso",
     "lat": "39.4269",
     "lng": "-0.4186",
     "fuentes": [
@@ -413,7 +438,7 @@
       }
     ],
     "createdAt": "2026-06-28T08:19:34.000Z",
-    "updatedAt": "2026-06-28T20:16:25Z"
+    "updatedAt": "2026-06-28T21:43:45Z"
   },
   {
     "id": 250,
@@ -449,7 +474,7 @@
       }
     ],
     "createdAt": "2026-06-28T08:19:34.000Z",
-    "updatedAt": "2026-06-28T20:16:25Z"
+    "updatedAt": "2026-06-28T21:43:45Z"
   },
   {
     "id": 251,
@@ -487,7 +512,7 @@
       }
     ],
     "createdAt": "2026-06-28T10:38:59.000Z",
-    "updatedAt": "2026-06-28T20:16:25Z"
+    "updatedAt": "2026-06-28T21:43:45Z"
   },
   {
     "id": 253,
@@ -526,7 +551,7 @@
       }
     ],
     "createdAt": "2026-06-28T10:38:59.000Z",
-    "updatedAt": "2026-06-28T20:16:25Z"
+    "updatedAt": "2026-06-28T21:43:45Z"
   },
   {
     "id": 254,
@@ -565,7 +590,7 @@
       }
     ],
     "createdAt": "2026-06-28T10:38:59.000Z",
-    "updatedAt": "2026-06-28T20:16:25Z"
+    "updatedAt": "2026-06-28T21:43:45Z"
   },
   {
     "id": 256,
@@ -594,7 +619,7 @@
       }
     ],
     "createdAt": "2026-06-28T14:21:50.000Z",
-    "updatedAt": "2026-06-28T20:16:25Z"
+    "updatedAt": "2026-06-28T21:43:45Z"
   },
   {
     "id": 257,
@@ -620,7 +645,7 @@
       }
     ],
     "createdAt": "2026-06-28T14:21:50.000Z",
-    "updatedAt": "2026-06-28T20:16:25Z"
+    "updatedAt": "2026-06-28T21:43:45Z"
   },
   {
     "id": 258,
@@ -649,7 +674,7 @@
       }
     ],
     "createdAt": "2026-06-28T14:21:50.000Z",
-    "updatedAt": "2026-06-28T20:16:25Z"
+    "updatedAt": "2026-06-28T21:43:45Z"
   },
   {
     "id": 259,
@@ -675,7 +700,7 @@
       }
     ],
     "createdAt": "2026-06-28T14:21:50.000Z",
-    "updatedAt": "2026-06-28T20:16:25Z"
+    "updatedAt": "2026-06-28T21:43:45Z"
   },
   {
     "id": 260,
@@ -706,7 +731,7 @@
       }
     ],
     "createdAt": "2026-06-28T14:21:50.000Z",
-    "updatedAt": "2026-06-28T20:16:25Z"
+    "updatedAt": "2026-06-28T21:43:45Z"
   },
   {
     "id": 261,
@@ -741,7 +766,7 @@
       }
     ],
     "createdAt": "2026-06-28T14:21:50.000Z",
-    "updatedAt": "2026-06-28T20:16:25Z"
+    "updatedAt": "2026-06-28T21:43:45Z"
   },
   {
     "id": 262,
@@ -766,7 +791,7 @@
       }
     ],
     "createdAt": "2026-06-28T14:21:50.000Z",
-    "updatedAt": "2026-06-28T20:16:25Z"
+    "updatedAt": "2026-06-28T21:43:45Z"
   },
   {
     "id": 263,
@@ -801,7 +826,7 @@
       }
     ],
     "createdAt": "2026-06-28T14:21:50.000Z",
-    "updatedAt": "2026-06-28T20:16:25Z"
+    "updatedAt": "2026-06-28T21:43:45Z"
   },
   {
     "id": 264,
@@ -836,7 +861,7 @@
       }
     ],
     "createdAt": "2026-06-28T15:52:37.000Z",
-    "updatedAt": "2026-06-28T20:16:25Z"
+    "updatedAt": "2026-06-28T21:43:45Z"
   },
   {
     "id": 265,
@@ -876,7 +901,7 @@
       }
     ],
     "createdAt": "2026-06-28T15:52:37.000Z",
-    "updatedAt": "2026-06-28T20:16:25Z"
+    "updatedAt": "2026-06-28T21:43:45Z"
   },
   {
     "id": 266,
@@ -911,7 +936,7 @@
       }
     ],
     "createdAt": "2026-06-28T15:52:37.000Z",
-    "updatedAt": "2026-06-28T20:16:25Z"
+    "updatedAt": "2026-06-28T21:43:45Z"
   },
   {
     "id": 267,
@@ -937,7 +962,7 @@
       }
     ],
     "createdAt": "2026-06-28T15:52:37.000Z",
-    "updatedAt": "2026-06-28T20:16:25Z"
+    "updatedAt": "2026-06-28T21:43:45Z"
   },
   {
     "id": 268,
@@ -964,7 +989,7 @@
       }
     ],
     "createdAt": "2026-06-28T15:52:37.000Z",
-    "updatedAt": "2026-06-28T20:16:25Z"
+    "updatedAt": "2026-06-28T21:43:45Z"
   },
   {
     "id": 269,
@@ -999,7 +1024,7 @@
       }
     ],
     "createdAt": "2026-06-28T15:52:37.000Z",
-    "updatedAt": "2026-06-28T20:16:25Z"
+    "updatedAt": "2026-06-28T21:43:45Z"
   },
   {
     "id": 270,
@@ -1032,7 +1057,7 @@
       }
     ],
     "createdAt": "2026-06-28T17:07:50.000Z",
-    "updatedAt": "2026-06-28T20:16:25Z"
+    "updatedAt": "2026-06-28T21:43:45Z"
   },
   {
     "id": 271,
@@ -1062,7 +1087,7 @@
       }
     ],
     "createdAt": "2026-06-28T17:07:50.000Z",
-    "updatedAt": "2026-06-28T20:16:25Z"
+    "updatedAt": "2026-06-28T21:43:45Z"
   },
   {
     "id": 272,
@@ -1077,7 +1102,7 @@
       "O-Zone to F-Zone Sangharsh Samiti"
     ],
     "motivo": "Marcha con antorchas (torch march) de miles de residentes de Meethapur bajo la campaña \"O-Zone Hatao, Ghar Bachao\" (Eliminen la Zona O, Salven nuestros Hogares), exigiendo la reclasificación del área de O-Zone a F-Zone para garantizar la seguridad legal de miles de familias afectadas por restricciones urbanísticas que han generado incertidumbre sobre sus hogares y propiedades. Millares de familias viven bajo incertidumbre desde hace años debido a las restricciones de la O-Zone.",
-    "status": "convocado",
+    "status": "en_curso",
     "lat": "28.5200",
     "lng": "77.2700",
     "fuentes": [
@@ -1087,7 +1112,7 @@
       }
     ],
     "createdAt": "2026-06-28T17:07:50.000Z",
-    "updatedAt": "2026-06-28T20:16:25Z"
+    "updatedAt": "2026-06-28T21:43:45Z"
   },
   {
     "id": 273,
@@ -1118,6 +1143,57 @@
       }
     ],
     "createdAt": "2026-06-28T18:43:57.000Z",
-    "updatedAt": "2026-06-28T20:16:25Z"
+    "updatedAt": "2026-06-28T21:43:45Z"
+  },
+  {
+    "id": 274,
+    "seccion": "protestas_int",
+    "pais": "Suecia",
+    "bandera": "🇸🇪",
+    "hora": "12:00",
+    "fecha": "2026-06-28",
+    "lugar": "Sergels torg, Estocolmo",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Nordic Ukraine Forum"
+    ],
+    "motivo": "Demonstration semanal contra la guerra de Rusia en Ucrania en Sergels torg, Estocolmo, convocada por Nordic Ukraine Forum. Exigen más armas para Ucrania, sanciones más duras y embargo total al comercio con Rusia incluidos combustibles fósiles, y expulsión de más diplomáticos rusos de Suecia. Manifestación pacífica y apartidista que se realiza cada semana desde el inicio de la invasión rusa a gran escala.",
+    "status": "en_curso",
+    "lat": 59.3327,
+    "lng": 18.0645,
+    "fuentes": [
+      {
+        "nombre": "Gnistor.se - 28/6 Demonstration mot rysslands krig i Ukraina",
+        "url": "https://www.gnistor.se/event/2026-06-28-28-6-demonstration-mot-rysslands-krig-i-ukraina-demonstratsiia-na-pidtrimku-ukraini/"
+      }
+    ],
+    "createdAt": "2026-06-28T21:37:05.000Z",
+    "updatedAt": "2026-06-28T21:43:45Z"
+  },
+  {
+    "id": 275,
+    "seccion": "protestas_int",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "20:00",
+    "fecha": "2026-06-28",
+    "lugar": "2112 Rio Grande St, Austin, Texas",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Coalición contra la criminalización de la indigencia",
+      "Vecinos de Austin"
+    ],
+    "motivo": "Vigilia de 12 horas en Austin, Texas, conmemorando el segundo aniversario del fallo Johnson v. Grants Pass de la Corte Suprema de EE.UU., que permitió a las ciudades multar y arrestar a personas por dormir a la intemperie. Exigen el fin de la criminalización de las personas sin hogar, se oponen a los recortes federales a programas de vivienda y alimentación, y denuncian a los multimillonarios locales que financian políticas represivas contra la indigencia.",
+    "status": "convocado",
+    "lat": 30.2875,
+    "lng": -97.7403,
+    "fuentes": [
+      {
+        "nombre": "HappeningNext - 12-Hour Vigil Austin June 28 2026",
+        "url": "https://happeningnext.com/event/12-hour-vigil-stand-against-billionaires-making-us-homeless-hungry-andamp-sick-eid3a0dqo9xtl"
+      }
+    ],
+    "createdAt": "2026-06-28T21:37:05.000Z",
+    "updatedAt": "2026-06-28T21:43:45Z"
   }
 ]
