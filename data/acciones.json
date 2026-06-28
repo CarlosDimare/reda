@@ -33,7 +33,7 @@
       }
     ],
     "createdAt": "2026-06-28T00:01:51.000Z",
-    "updatedAt": "2026-06-28T00:03:47Z"
+    "updatedAt": "2026-06-28T04:50:24Z"
   },
   {
     "id": 236,
@@ -67,7 +67,7 @@
       }
     ],
     "createdAt": "2026-06-28T00:01:51.000Z",
-    "updatedAt": "2026-06-28T00:03:47Z"
+    "updatedAt": "2026-06-28T04:50:24Z"
   },
   {
     "id": 237,
@@ -97,7 +97,7 @@
       }
     ],
     "createdAt": "2026-06-28T00:01:51.000Z",
-    "updatedAt": "2026-06-28T00:03:47Z"
+    "updatedAt": "2026-06-28T04:50:24Z"
   },
   {
     "id": 238,
@@ -122,7 +122,7 @@
       }
     ],
     "createdAt": "2026-06-28T00:01:51.000Z",
-    "updatedAt": "2026-06-28T00:03:47Z"
+    "updatedAt": "2026-06-28T04:50:24Z"
   },
   {
     "id": 239,
@@ -147,6 +147,247 @@
       }
     ],
     "createdAt": "2026-06-28T00:01:51.000Z",
-    "updatedAt": "2026-06-28T00:03:47Z"
+    "updatedAt": "2026-06-28T04:50:24Z"
+  },
+  {
+    "id": 245,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "15:00",
+    "fecha": "2026-06-28",
+    "lugar": "Plazoleta de la Noche de los Lápices (8 y 61), La Plata, Provincia de Buenos Aires",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Colectivo Arde Closet",
+      "Malas como las Arañas",
+      "AMMAR La Plata"
+    ],
+    "motivo": "18° edición del Arde Closet, intervención callejera en La Plata por el Día Internacional del Orgullo (28 de junio), en conmemoración de la revuelta de Stonewall de 1969. Jornada político-cultural con show conversatorio sobre estrategias de organización colectiva, panel de debate sobre trabajo sexual, lectura del Panfleto Travesti, talleres de estampado, micrófono abierto, música en vivo y olla popular. Bajo la consigna 'Arde Closet 18 años: protesta súper puta, súper travesti'. Exigen memoria, verdad, justicia y reparación para las travestis históricas, acceso integral a la salud, políticas habitacionales específicas y derechos laborales para las trabajadoras sexuales. Rechazo a la persecución de identidades disidentes en el espacio público.",
+    "status": "convocado",
+    "lat": "-34.9215",
+    "lng": "-57.9547",
+    "fuentes": [
+      {
+        "nombre": "ARGay - Arde Closet 18 años La Plata",
+        "url": "https://argay.ar/el-arde-closet-celebra-18-anos-de-resistencia-y-organizacion-sexo-disidente-en-las-calles-de-la-plata/"
+      },
+      {
+        "nombre": "Pulso Noticias - Arde Closet 18 años",
+        "url": "https://pulsonoticias.com.ar/el-arde-closet-celebra-18-anos/"
+      }
+    ],
+    "createdAt": "2026-06-28T04:46:21.000Z",
+    "updatedAt": "2026-06-28T04:50:24Z"
+  },
+  {
+    "id": 246,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "18:00",
+    "fecha": "2026-06-28",
+    "lugar": "Plaza Belgrano, San Salvador de Jujuy, Jujuy",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "COMO Jujuy (Comisión Organizadora de la Marcha del Orgullo Jujuy)"
+    ],
+    "motivo": "Marcha del Orgullo LGBTIQ+ en San Salvador de Jujuy por el Día Internacional del Orgullo (28 de junio), a 57 años de la revuelta de Stonewall. Concentración en Plaza Belgrano a las 18:00, recorrido por calles céntricas con intervenciones artísticas y homenaje a activistas históricos. Consignas: 'Sin políticas públicas no hay igualdad ni libertad real'; 'Basta de discursos y crímenes de odio'; 'Basta de desfinanciamiento en programas de VIH, TBC e ITS'; 'Nueva Ley Antidiscriminatoria'; 'Cupo laboral travesti-trans'; 'Derogación del Decreto 62/25 sobre niñeces trans y no binaries'.",
+    "status": "convocado",
+    "lat": "-24.1858",
+    "lng": "-65.2995",
+    "fuentes": [
+      {
+        "nombre": "ARGay - Agenda Junio 2026 (Jujuy Marcha del Orgullo)",
+        "url": "https://argay.ar/agenda/"
+      },
+      {
+        "nombre": "Que Pasa Jujuy - Semana del Orgullo Jujuy 2026",
+        "url": "https://www.quepasajujuy.com.ar/jujuy/comienzan-las-actividades-por-el-orgullo-y-preparan-una-gran-marcha-para-el-28-de-junio/"
+      }
+    ],
+    "createdAt": "2026-06-28T04:46:21.000Z",
+    "updatedAt": "2026-06-28T04:50:24Z"
+  },
+  {
+    "id": 247,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "12:00",
+    "fecha": "2026-06-28",
+    "lugar": "Plaza 25 de Mayo, La Rioja Capital, La Rioja",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Asamblea Diversa La Rioja"
+    ],
+    "motivo": "Marcha del Orgullo LGBTIQ+ en La Rioja Capital por el Día Internacional del Orgullo (28 de junio). Concentración en Plaza 25 de Mayo con izamiento de bandera LGBTQ+, actividades culturales y de visibilización. Exigen el cumplimiento de derechos del colectivo, sanción de una ley antidiscriminatoria, y rechazo a los discursos de odio y políticas de ajuste que afectan a la comunidad diversa.",
+    "status": "convocado",
+    "lat": "-29.4135",
+    "lng": "-66.8560",
+    "fuentes": [
+      {
+        "nombre": "ARGay - Agenda Junio 2026 (La Rioja Marcha del Orgullo)",
+        "url": "https://argay.ar/agenda/"
+      },
+      {
+        "nombre": "ARGay - Marchas 2026",
+        "url": "https://argay.ar/marchas2026/"
+      }
+    ],
+    "createdAt": "2026-06-28T04:46:21.000Z",
+    "updatedAt": "2026-06-28T04:50:24Z"
+  },
+  {
+    "id": 240,
+    "seccion": "protestas_int",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "12:00",
+    "fecha": "2026-06-28",
+    "lugar": "Fifth Avenue (25th Street) → Greenwich Village, Manhattan, Nueva York",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Heritage of Pride",
+      "NYC Pride"
+    ],
+    "motivo": "NYC Pride March 2026, una de las mayores manifestaciones LGBTIQ+ del mundo, bajo el lema 'For All of Us' ('Para Todos Nosotros') inspirado en Marsha P. Johnson. Marcha por la Quinta Avenida pasando por el Monumento Nacional Stonewall, exigiendo derechos LGBTIQ+ globales, justicia para personas trans y comunidades no binarias, y protección frente a discursos de odio y políticas discriminatorias.",
+    "status": "en_curso",
+    "lat": "40.7430",
+    "lng": "-73.9921",
+    "fuentes": [
+      {
+        "nombre": "NYC Pride - The March 2026",
+        "url": "https://nycpride.org/home/events/"
+      },
+      {
+        "nombre": "Secret NYC - NYC Pride March route 2026",
+        "url": "https://secretnyc.co/nyc-pride-march-2026-guide/"
+      },
+      {
+        "nombre": "TimeOut - NYC Pride March 2026",
+        "url": "https://www.timeout.com/newyork/lgbt/gay-pride-parade-in-nyc"
+      },
+      {
+        "nombre": "NBC New York - NYC Pride March 2026",
+        "url": "https://www.nbcnewyork.com/new-york-city/nyc-pride-march-2026-route-start-time-events/6516891/"
+      }
+    ],
+    "createdAt": "2026-06-28T04:44:22.000Z",
+    "updatedAt": "2026-06-28T04:50:24Z"
+  },
+  {
+    "id": 241,
+    "seccion": "protestas_int",
+    "pais": "Canadá",
+    "bandera": "🇨🇦",
+    "hora": "14:00",
+    "fecha": "2026-06-28",
+    "lugar": "Yonge Street (Church Street) → Nathan Phillips Square, Toronto, Ontario",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Pride Toronto"
+    ],
+    "motivo": "Toronto Pride Parade 2026 - 45° aniversario. Tema oficial 'We Won't Stop' ('No Nos Detendremos'). Es la celebración del Orgullo más grande de Canadá y la segunda más grande del mundo, con más de 1.5 millones de asistentes esperados. Exige derechos 2SLGBTQI+, justicia trans, protección contra discursos de odio y políticas de inclusión.",
+    "status": "en_curso",
+    "lat": "43.6629",
+    "lng": "-79.3845",
+    "fuentes": [
+      {
+        "nombre": "Pride Toronto - Festival 2026",
+        "url": "https://www.pridetoronto.com/"
+      },
+      {
+        "nombre": "TTC - Toronto Pride 2026",
+        "url": "https://www.ttc.ca/about-the-ttc/Making-TTC-a-Diverse-and-Inclusive-Organization/Toronto-Pride-2026"
+      },
+      {
+        "nombre": "Out x Out - Toronto Pride 2026 Guide",
+        "url": "https://outxout.com/blog/toronto-pride-2026"
+      }
+    ],
+    "createdAt": "2026-06-28T04:44:22.000Z",
+    "updatedAt": "2026-06-28T04:50:24Z"
+  },
+  {
+    "id": 242,
+    "seccion": "protestas_int",
+    "pais": "España",
+    "bandera": "🇪🇸",
+    "hora": "19:00",
+    "fecha": "2026-06-28",
+    "lugar": "Metro Carpetana → Plaza Elíptica, Carabanchel, Madrid",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Plataforma Orgullo Crítico Madrid",
+      "Plena Inclusión Madrid"
+    ],
+    "motivo": "Manifestación alternativa del Orgullo Crítico 2026 bajo el lema 'Contra el capitalismo colonial que nos masacra' y '¡A todas las desviadas, a las barricadas!'. Denuncian la mercantilización y despolitización del Orgullo oficial MADO, y reivindican el carácter político y combativo del Orgullo LGTBIQA+ frente a intereses comerciales e institucionales.",
+    "status": "convocado",
+    "lat": "40.3863",
+    "lng": "-3.7433",
+    "fuentes": [
+      {
+        "nombre": "Tercera Información - Orgullo Crítico 2026",
+        "url": "https://www.tercerainformacion.es/articulo/actualidad/27/06/2026/el-orgullo-critico-2026-tomara-las-calles-este-domingo-28-de-junio-contra-el-capitalismo-colonial-que-nos-masacra/"
+      },
+      {
+        "nombre": "El País - Programa del Orgullo 2026 de Madrid",
+        "url": "https://elpais.com/espana/madrid/2026-06-24/programa-del-orgullo-de-madrid-conciertos-eventos-y-manifestacion.html"
+      }
+    ],
+    "createdAt": "2026-06-28T04:44:22.000Z",
+    "updatedAt": "2026-06-28T04:50:24Z"
+  },
+  {
+    "id": 243,
+    "seccion": "protestas_int",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "12:00",
+    "fecha": "2026-06-28",
+    "lugar": "Lafayette Park → frente a la Casa Blanca, Washington DC",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Coalición multicultural y multirracial de organizaciones civiles"
+    ],
+    "motivo": "Jornada nacional multicultural y multirracial con marcha frente a la Casa Blanca, en respuesta a la narrativa 'excluyente' del movimiento MAGA en la conmemoración del 250 aniversario de independencia de EE.UU. Exigen una celebración inclusiva que refleje la diversidad racial, étnica y cultural de la nación.",
+    "status": "en_curso",
+    "lat": "38.8977",
+    "lng": "-77.0365",
+    "fuentes": [
+      {
+        "nombre": "EFE / Swissinfo - Agenda 27-28-29 junio 2026",
+        "url": "https://www.swissinfo.ch/spa/s%C3%A1bado-27%2C-domingo-28-y-lunes-29-de-junio-de-2026-%2819.30-gmt%29/91659117"
+      }
+    ],
+    "createdAt": "2026-06-28T04:44:22.000Z",
+    "updatedAt": "2026-06-28T04:50:24Z"
+  },
+  {
+    "id": 244,
+    "seccion": "protestas_int",
+    "pais": "Serbia",
+    "bandera": "🇷🇸",
+    "hora": "10:00",
+    "fecha": "2026-06-28",
+    "lugar": "Belgrado",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "SNS (Partido Progresista Serbio)",
+      "Presidente Aleksandar Vucic"
+    ],
+    "motivo": "Gran manifestación 'patriótica' organizada por el partido nacionalista serbio SNS del presidente Aleksandar Vucic. Movilización de apoyo al gobierno que se extiende del 26 al 28 de junio, como muestra de respaldo popular al liderazgo de Vucic en un contexto de tensiones regionales.",
+    "status": "en_curso",
+    "lat": "44.8206",
+    "lng": "20.4622",
+    "fuentes": [
+      {
+        "nombre": "EFE / Swissinfo - Agenda 27-28-29 junio 2026",
+        "url": "https://www.swissinfo.ch/spa/s%C3%A1bado-27%2C-domingo-28-y-lunes-29-de-junio-de-2026-%2819.30-gmt%29/91659117"
+      }
+    ],
+    "createdAt": "2026-06-28T04:44:22.000Z",
+    "updatedAt": "2026-06-28T04:50:24Z"
   }
 ]
