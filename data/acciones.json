@@ -33,7 +33,7 @@
       }
     ],
     "createdAt": "2026-06-28T00:01:51.000Z",
-    "updatedAt": "2026-06-28T08:26:30Z"
+    "updatedAt": "2026-06-28T10:46:05Z"
   },
   {
     "id": 236,
@@ -67,7 +67,7 @@
       }
     ],
     "createdAt": "2026-06-28T00:01:51.000Z",
-    "updatedAt": "2026-06-28T08:26:30Z"
+    "updatedAt": "2026-06-28T10:46:05Z"
   },
   {
     "id": 237,
@@ -97,7 +97,7 @@
       }
     ],
     "createdAt": "2026-06-28T00:01:51.000Z",
-    "updatedAt": "2026-06-28T08:26:30Z"
+    "updatedAt": "2026-06-28T10:46:05Z"
   },
   {
     "id": 238,
@@ -122,7 +122,7 @@
       }
     ],
     "createdAt": "2026-06-28T00:01:51.000Z",
-    "updatedAt": "2026-06-28T08:26:30Z"
+    "updatedAt": "2026-06-28T10:46:05Z"
   },
   {
     "id": 239,
@@ -147,7 +147,7 @@
       }
     ],
     "createdAt": "2026-06-28T00:01:51.000Z",
-    "updatedAt": "2026-06-28T08:26:30Z"
+    "updatedAt": "2026-06-28T10:46:05Z"
   },
   {
     "id": 245,
@@ -178,7 +178,40 @@
       }
     ],
     "createdAt": "2026-06-28T04:46:21.000Z",
-    "updatedAt": "2026-06-28T08:26:30Z"
+    "updatedAt": "2026-06-28T10:46:05Z"
+  },
+  {
+    "id": 255,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "14:00",
+    "fecha": "2026-06-28",
+    "lugar": "Plaza del Congreso (Av. Rivadavia y Callao), Ciudad de Buenos Aires",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Comisión Organizadora 28J",
+      "Las Históricas",
+      "Frente Oficial de Travestis y Trans Antirracista",
+      "Ni Una Menos",
+      "Movida Ciudad"
+    ],
+    "motivo": "10° Marcha Plurinacional Antirracista contra los Travesticidios, Transfemicidios y Transhomicidios (28J). Concentración desde las 14:00 en Plaza Congreso con festival, olla popular y radio abierta. Exigen justicia por Sofía Fernández y todas las víctimas de crímenes de odio, ley de reparación histórica para personas TTT mayores de 50, cupo laboral trans, defensa de la ESI, y rechazo a los discursos de odio y políticas de ajuste del gobierno de Javier Milei. Repudian también la proscripción de Cristina Fernández de Kirchner y el fallo de la Corte Suprema que desestima la figura de travesticidio en el caso de Diana Sacayán.",
+    "status": "convocado",
+    "lat": "-34.6097",
+    "lng": "-58.3925",
+    "fuentes": [
+      {
+        "nombre": "Nueva Ciudad (28J Marcha contra travesticidios 2026)",
+        "url": "https://www.nueva-ciudad.com.ar/notas/202506/56387-este-sabado-se-realiza-la-marcha-del-28j-contra-los-travesticidios-transfemicidios-y-transhomicidios.html"
+      },
+      {
+        "nombre": "Periodismo de Izquierda (26 junio - #28J Todxs a las calles)",
+        "url": "https://periodismodeizquierda.com/28j-todxs-a-las-calles-por-sofia-fernandez-contra-los-travesticidios-la-violencia-institucional-y-el-ajuste-de-milei/"
+      }
+    ],
+    "createdAt": "2026-06-28T10:42:36.000Z",
+    "updatedAt": "2026-06-28T10:46:05Z"
   },
   {
     "id": 240,
@@ -220,7 +253,7 @@
       }
     ],
     "createdAt": "2026-06-28T04:44:22.000Z",
-    "updatedAt": "2026-06-28T08:26:30Z"
+    "updatedAt": "2026-06-28T10:46:05Z"
   },
   {
     "id": 241,
@@ -253,7 +286,7 @@
       }
     ],
     "createdAt": "2026-06-28T04:44:22.000Z",
-    "updatedAt": "2026-06-28T08:26:30Z"
+    "updatedAt": "2026-06-28T10:46:05Z"
   },
   {
     "id": 242,
@@ -283,32 +316,7 @@
       }
     ],
     "createdAt": "2026-06-28T04:44:22.000Z",
-    "updatedAt": "2026-06-28T08:26:30Z"
-  },
-  {
-    "id": 243,
-    "seccion": "protestas_int",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
-    "hora": "12:00",
-    "fecha": "2026-06-28",
-    "lugar": "Lafayette Park → frente a la Casa Blanca, Washington DC",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Coalición multicultural y multirracial de organizaciones civiles"
-    ],
-    "motivo": "Jornada nacional multicultural y multirracial con marcha frente a la Casa Blanca, en respuesta a la narrativa 'excluyente' del movimiento MAGA en la conmemoración del 250 aniversario de independencia de EE.UU. Exigen una celebración inclusiva que refleje la diversidad racial, étnica y cultural de la nación.",
-    "status": "en_curso",
-    "lat": "38.8977",
-    "lng": "-77.0365",
-    "fuentes": [
-      {
-        "nombre": "EFE / Swissinfo - Agenda 27-28-29 junio 2026",
-        "url": "https://www.swissinfo.ch/spa/s%C3%A1bado-27%2C-domingo-28-y-lunes-29-de-junio-de-2026-%2819.30-gmt%29/91659117"
-      }
-    ],
-    "createdAt": "2026-06-28T04:44:22.000Z",
-    "updatedAt": "2026-06-28T08:26:30Z"
+    "updatedAt": "2026-06-28T10:46:05Z"
   },
   {
     "id": 244,
@@ -334,7 +342,7 @@
       }
     ],
     "createdAt": "2026-06-28T04:44:22.000Z",
-    "updatedAt": "2026-06-28T08:26:30Z"
+    "updatedAt": "2026-06-28T10:46:05Z"
   },
   {
     "id": 248,
@@ -363,7 +371,7 @@
       }
     ],
     "createdAt": "2026-06-28T08:19:34.000Z",
-    "updatedAt": "2026-06-28T08:26:30Z"
+    "updatedAt": "2026-06-28T10:46:05Z"
   },
   {
     "id": 249,
@@ -397,7 +405,7 @@
       }
     ],
     "createdAt": "2026-06-28T08:19:34.000Z",
-    "updatedAt": "2026-06-28T08:26:30Z"
+    "updatedAt": "2026-06-28T10:46:05Z"
   },
   {
     "id": 250,
@@ -424,6 +432,152 @@
       }
     ],
     "createdAt": "2026-06-28T08:19:34.000Z",
-    "updatedAt": "2026-06-28T08:26:30Z"
+    "updatedAt": "2026-06-28T10:46:05Z"
+  },
+  {
+    "id": 251,
+    "seccion": "protestas_int",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "10:30",
+    "fecha": "2026-06-28",
+    "lugar": "Market Street (Beale St → 8th St / Civic Center), San Francisco, California",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "SF Pride",
+      "San Francisco LGBT Pride Celebration Committee"
+    ],
+    "motivo": "56° San Francisco Pride Parade 2026 bajo el lema 'Resistance in Action' ('Resistencia en Acción'). Una de las celebraciones del Orgullo LGBTIQ+ más grandes del mundo, con más de 250 contingentes marchando por Market Street desde el Embarcadero hasta Civic Center Plaza. Reúne a más de un millón de asistentes en defensa de los derechos LGBTIQ+, la justicia para personas trans, la igualdad global y en conmemoración del legado de Harvey Milk y la historia del activismo queer en San Francisco.",
+    "status": "en_curso",
+    "lat": "37.7793",
+    "lng": "-122.4193",
+    "fuentes": [
+      {
+        "nombre": "SF Pride - Parade 2026",
+        "url": "https://sfpride.org/parade/"
+      },
+      {
+        "nombre": "SFMTA - SF Pride Parade June 28 2026",
+        "url": "https://www.sfmta.com/project-updates/san-francisco-pride-parade"
+      },
+      {
+        "nombre": "Downtown SF - SF Pride 2026 Guide",
+        "url": "https://downtownsf.org/post/san-francisco-pride-guide"
+      },
+      {
+        "nombre": "KQED - SF Pride 2026",
+        "url": "https://www.kqed.org/news/12086888/sf-"
+      }
+    ],
+    "createdAt": "2026-06-28T10:38:59.000Z",
+    "updatedAt": "2026-06-28T10:46:05Z"
+  },
+  {
+    "id": 252,
+    "seccion": "protestas_int",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "12:00",
+    "fecha": "2026-06-28",
+    "lugar": "Lafayette Park / frente a la Casa Blanca, Washington DC",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "ANSWER Coalition",
+      "National Iranian-American Council",
+      "Palestinian Youth Movement",
+      "CODEPINK",
+      "Democratic Socialists of America",
+      "The People's Forum"
+    ],
+    "motivo": "Marcha Nacional en Washington DC contra la guerra en Irán, con el lema 'No War on Iran!' ('¡No a la guerra en Irán!'). Miles de manifestantes exigen el cese inmediato de los bombardeos estadounidenses e israelíes contra Irán y el fin de toda ayuda militar a Israel. Denuncian la guerra ilegal y no provocada lanzada por Trump y Netanyahu, que amenaza con desencadenar un conflicto devastador en todo Oriente Medio y extender el genocidio en Gaza. Participan organizaciones pacifistas, antiguerra y de derechos civiles de todo el país, con autobuses desde Nueva York y otras ciudades.",
+    "status": "en_curso",
+    "lat": "38.8977",
+    "lng": "-77.0365",
+    "fuentes": [
+      {
+        "nombre": "ANSWER Coalition - National March June 28",
+        "url": "https://www.answercoalition.org/j28"
+      },
+      {
+        "nombre": "Black Star News - No War On Iran March",
+        "url": "https://blackstarnews.com/no-war-on-iran-national-march-announced-for-june-28/"
+      }
+    ],
+    "createdAt": "2026-06-28T10:38:59.000Z",
+    "updatedAt": "2026-06-28T10:46:05Z"
+  },
+  {
+    "id": 253,
+    "seccion": "protestas_int",
+    "pais": "Filipinas",
+    "bandera": "🇵🇭",
+    "hora": "14:30",
+    "fecha": "2026-06-28",
+    "lugar": "EDSA Shrine → People Power Monument, Quezon City, Gran Manila",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Interreligious Leaders Council for National Transformation (IRCNT)",
+      "Catholic Bishops' Conference of the Philippines (CBCP)",
+      "Taumbayan Ayaw sa Magnanakaw at Abusado Network Alliance (Tama Na)"
+    ],
+    "motivo": "White Ribbon March (Marcha de la Cinta Blanca), manifestación multitudinaria contra la corrupción en Quezon City, organizada por el Consejo Interreligioso de Líderes para la Transformación Nacional. Exigen el fin de la corrupción gubernamental, el castigo a funcionarios responsables, una ley genuina contra las dinastías políticas y reformas al sistema electoral. Participan grupos católicos, cristianos, musulmanes y organizaciones de la sociedad civil. Misa a las 12:00 en el EDSA Shrine, marcha desde las 14:30 hacia el People Power Monument. Se esperan entre 10.000 y 100.000 asistentes.",
+    "status": "en_curso",
+    "lat": "14.5826",
+    "lng": "121.0186",
+    "fuentes": [
+      {
+        "nombre": "GMA News - White Ribbon March June 28 2026",
+        "url": "https://www.gmanetwork.com/news/topstories/nation/992948/live-updates-white-ribbon-march-june-28-2026/story/"
+      },
+      {
+        "nombre": "GMA News - CBCP backs White Ribbon March",
+        "url": "https://www.gmanetwork.com/news/topstories/nation/992313/cbcp-backs-white-ribbon-march-vs-corruption/story/"
+      },
+      {
+        "nombre": "Inquirer - Groups to hold anti-corruption rally on June 28",
+        "url": "https://newsinfo.inquirer.net/2249194/groups-to-hold-anticorruption-rally-on-june-28"
+      }
+    ],
+    "createdAt": "2026-06-28T10:38:59.000Z",
+    "updatedAt": "2026-06-28T10:46:05Z"
+  },
+  {
+    "id": 254,
+    "seccion": "protestas_int",
+    "pais": "Colombia",
+    "bandera": "🇨🇴",
+    "hora": "12:00",
+    "fecha": "2026-06-28",
+    "lugar": "Parque Nacional → Carrera Séptima → Plaza de Bolívar, Bogotá",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Colectivos LGBTIQ+ de Bogotá",
+      "Colombia Diversa",
+      "Alcaldía Mayor de Bogotá"
+    ],
+    "motivo": "Marcha Distrital del Orgullo LGBTIQ+ en Bogotá, una de las movilizaciones más grandes de Colombia, bajo el lema 'Nos están matando: vivir con dignidad es nuestro derecho'. Se realiza a mes y medio de que el ultraderechista Abelardo de la Espriella, quien está en contra de la adopción igualitaria, asuma la Presidencia de Colombia. Exigen protección frente a la violencia contra personas LGBTIQ+, igualdad de derechos, y defensa de los avances legislativos como el matrimonio igualitario y las leyes antidiscriminación. Más de 150.000 asistentes esperados.",
+    "status": "en_curso",
+    "lat": "4.5981",
+    "lng": "-74.0762",
+    "fuentes": [
+      {
+        "nombre": "EFE / Swissinfo - Agenda 28 junio 2026",
+        "url": "https://www.swissinfo.ch/spa/s%C3%A1bado-27%2C-domingo-28-y-lunes-29-de-junio-de-2026-%2819.30-gmt%29/91659117"
+      },
+      {
+        "nombre": "Radiónica - Marchas Orgullo 2026 Colombia",
+        "url": "https://www.radionica.rocks/marchas-orgullo-2026-colombia"
+      },
+      {
+        "nombre": "Cambio Colombia - Orgullo LGBTIQ+ Bogotá 2026",
+        "url": "https://cambiocolombia.com/pais/articulo/2026/6/bogota-se-prepara-para-un-mes-de-orgullo-memoria-y-reivindicacion-con-cuatro-marchas-lgbtiq"
+      },
+      {
+        "nombre": "Gobierno Bogotá - Marchas 16-28 junio",
+        "url": "http://www.gobiernobogota.gov.co/noticias/marchas-bogota-16-28-junio-informacion"
+      }
+    ],
+    "createdAt": "2026-06-28T10:38:59.000Z",
+    "updatedAt": "2026-06-28T10:46:05Z"
   }
 ]
