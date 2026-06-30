@@ -41,7 +41,7 @@
       }
     ],
     "createdAt": "2026-06-29T00:17:04.000Z",
-    "updatedAt": "2026-06-30T00:08:49Z"
+    "updatedAt": "2026-06-30T04:49:29Z"
   },
   {
     "id": 307,
@@ -74,7 +74,7 @@
       }
     ],
     "createdAt": "2026-06-29T21:24:17.000Z",
-    "updatedAt": "2026-06-30T00:08:49Z"
+    "updatedAt": "2026-06-30T04:49:29Z"
   },
   {
     "id": 314,
@@ -126,10 +126,145 @@
       {
         "nombre": "Xinhua - SAPS steps up security ahead of planned protests",
         "url": "https://english.news.cn/africa/20260629/4a1e8c0b4f9e4a7b8c6d5e3f2a1b0c9d/c.html"
+      },
+      {
+        "nombre": "IOL - Anti-immigrant protests erupt across South Africa June 30",
+        "url": "https://iol.co.za/news/south-africa/2026-06-30-anti-immigrant-protests-erupt-across-south-africa-as-june-30-deadline-for-undocumented-foreigners-approaches/"
+      },
+      {
+        "nombre": "eNCA - LIVE COVERAGE: #30June anti-migration protests",
+        "url": "https://www.enca.com/news-top-stories-videos/live-coverage-30june-anti-migration-protests"
+      },
+      {
+        "nombre": "Al Jazeera - Migrants in South Africa fear violence ahead of June 30 deadline",
+        "url": "https://www.aljazeera.com/news/2026/6/30/migrants-in-south-africa-fear-violence-ahead-of-june-30-deadline"
       }
     ],
     "createdAt": "2026-06-30T00:01:51.000Z",
-    "updatedAt": "2026-06-30T00:08:49Z"
+    "updatedAt": "2026-06-30T04:49:29Z"
+  },
+  {
+    "id": 317,
+    "seccion": "protestas_int",
+    "pais": "Brasil",
+    "bandera": "🇧🇷",
+    "hora": "18:00",
+    "fecha": "2026-06-30",
+    "lugar": "A nivel nacional, principal acto en Vão Livre do MASP, Avenida Paulista, São Paulo; también en Porto Alegre, Belo Horizonte, Brasília y otras capitales",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "CUT (Central Única dos Trabalhadores)",
+      "Força Sindical",
+      "UGT (União Geral dos Trabalhadores)",
+      "CTB (Central dos Trabalhadores e Trabalhadoras do Brasil)",
+      "CSB (Central dos Sindicatos Brasileiros)",
+      "NCST (Nova Central Sindical de Trabalhadores)",
+      "Intersindical",
+      "Fórum das Centrais Sindicais",
+      "Frente Brasil Popular",
+      "Povo sem Medo",
+      "Movimento Vida Além do Trabalho (VAT)"
+    ],
+    "motivo": "Dia Nacional de Mobilização pelo fim da escala 6x1 e redução da jornada de trabalho para 40 horas semanais sem redução salarial. Pressionam o Senado Federal a aprovar a PEC 221, já aprovada na Câmara dos Deputados, que transforma o regime 6x1 em 5x2. No dia seguinte (1º de julho) haverá audiência pública na CCJ do Senado e reunião com o presidente da Casa, Davi Alcolumbre (União-AP).",
+    "status": "convocada",
+    "lat": "-23.5615",
+    "lng": "-46.6560",
+    "fuentes": [
+      {
+        "nombre": "Poder360 - Trabalhadores vão às ruas no dia 30 pelo fim da 6x1",
+        "url": "https://www.poder360.com.br/poder-brasil/trabalhadores-vao-as-ruas-do-pais-no-dia-30-pelo-fim-da-6-x-1/"
+      },
+      {
+        "nombre": "CUT - Presidente da CUT convoca trabalhadores para irem às ruas dia 30",
+        "url": "https://www.cut.org.br/noticias/presidente-da-cut-convoca-trabalhadores-para-irem-as-ruas-dia-30-pelo-fim-da-dd4d"
+      },
+      {
+        "nombre": "Agência Sindical - Sindicalismo realiza ato dia 30",
+        "url": "https://agenciasindical.com.br/sindicalismo-realiza-ato-dia-30/"
+      },
+      {
+        "nombre": "Brasil de Fato - Movimentos sindicais convocam ato em Brasília 30 junho",
+        "url": "https://www.brasildefato.com.br/2026/06/26/fim-da-escala-6x1-movimentos-sindicais-convocam-ato-em-brasilia-para-destravar-pec-no-senado/"
+      }
+    ],
+    "createdAt": "2026-06-30T04:43:36.000Z",
+    "updatedAt": "2026-06-30T04:49:29Z"
+  },
+  {
+    "id": 318,
+    "seccion": "protestas_int",
+    "pais": "Alemania",
+    "bandera": "🇩🇪",
+    "hora": "18:30",
+    "fecha": "2026-06-30",
+    "lugar": "Hauptwache, Frankfurt am Main",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Alianza de sindicatos y organizaciones sociales contra los recortes sociales"
+    ],
+    "motivo": "Protesta contra los recortes sociales y la nueva ley de prestación básica ('neue Grundsicherung') que entra en vigor al día siguiente. Denuncian que la reforma endurece las sanciones, obliga a aceptar cualquier trabajo sin importar lo inadecuado, y aumenta la presión sobre los trabajadores mientras se destinan miles de millones al rearme. Exigen protección social y fin de la exclusión.",
+    "status": "convocada",
+    "lat": "50.1136",
+    "lng": "8.6791",
+    "fuentes": [
+      {
+        "nombre": "Kritik & Praxis - Kundgebung gegen Sozialkürzungen 30 Juni 2026 Frankfurt",
+        "url": "https://kritikundpraxis.org/event/save-the-date-kundgebung-gegen-sozialkuerzungen-und-die-sogenannte-neue-grundsicherung-wir-bleiben-solidarisch-fuer-ein-gutes-leben-ohne-armut-und-ausgrenzung/"
+      }
+    ],
+    "createdAt": "2026-06-30T04:43:36.000Z",
+    "updatedAt": "2026-06-30T04:49:29Z"
+  },
+  {
+    "id": 319,
+    "seccion": "protestas_int",
+    "pais": "Perú",
+    "bandera": "🇵🇪",
+    "hora": "00:00",
+    "fecha": "2026-06-30",
+    "lugar": "Frente al Congreso de la República, Avenida Abancay, Lima (manifestantes instalaron carpas con permanencia indefinida)",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Mineros artesanales de Arequipa y otras regiones del Perú"
+    ],
+    "motivo": "Protesta de mineros artesanales frente al Congreso exigiendo la ampliación del Registro Integral de Formalización Minera (Reinfo) 'sin condiciones' y la aprobación inmediata de la Ley MAPE (Minería Artesanal y de Pequeña Escala). Instalaron carpas en señal de permanencia indefinida. El Ejecutivo oficializó la ampliación del Reinfo pero requiere debate en el Pleno del Congreso, cuya legislatura concluyó, generando incertidumbre.",
+    "status": "en_curso",
+    "lat": "-12.0464",
+    "lng": "-77.0428",
+    "fuentes": [
+      {
+        "nombre": "OCMAL - Mineros protestan frente al Congreso 30 junio 2026",
+        "url": "https://www.ocmal.org/mineros-protestan-frente-al-congreso-exigen-ampliacion-del-reinfo-y-aprobacion-de-ley-mape/"
+      }
+    ],
+    "createdAt": "2026-06-30T04:43:36.000Z",
+    "updatedAt": "2026-06-30T04:49:29Z"
+  },
+  {
+    "id": 320,
+    "seccion": "protestas_int",
+    "pais": "España",
+    "bandera": "🇪🇸",
+    "hora": "00:00",
+    "fecha": "2026-06-30",
+    "lugar": "Varias provincias de España, con actos frente a sedes de la CEOE y otras instituciones",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "CC OO del Hábitat",
+      "Delegadas sindicales del sector de limpieza de edificios"
+    ],
+    "motivo": "Movilización coordinada en varias provincias de trabajadoras del sector de limpieza de edificios contra el bloqueo de la negociación de convenios colectivos. Denuncian bajos salarios, alta parcialidad, pluriempleo, escaso reconocimiento de enfermedades profesionales y falta de avances en la renovación de convenios. El sector emplea a medio millón de mujeres en España. La principal patronal ASPEL niega el bloqueo.",
+    "status": "en_curso",
+    "lat": "40.4168",
+    "lng": "-3.7038",
+    "fuentes": [
+      {
+        "nombre": "El País - Las limpiadoras de edificios se plantan (30 junio 2026)",
+        "url": "https://elpais.com/economia/2026-06-30/las-limpiadoras-de-edificios-se-plantan-por-la-precariedad-que-sufren-si-seguimos-asi-iremos-a-la-huelga.html"
+      }
+    ],
+    "createdAt": "2026-06-30T04:43:36.000Z",
+    "updatedAt": "2026-06-30T04:49:29Z"
   },
   {
     "id": 294,
@@ -174,7 +309,7 @@
       }
     ],
     "createdAt": "2026-06-29T05:13:52.000Z",
-    "updatedAt": "2026-06-30T00:08:49Z"
+    "updatedAt": "2026-06-30T04:49:29Z"
   },
   {
     "id": 313,
@@ -221,10 +356,14 @@
       {
         "nombre": "Nueva Data R4 - Policías autoconvocados mantienen el acampe en Santa Cruz (26 junio 2026)",
         "url": "https://nuevadatar4.com.ar/nota/2057/policias-autoconvocados-mantienen-el-acampe-en-santa-cruz-y-crece-la-tension-con-el-gobierno"
+      },
+      {
+        "nombre": "InfoGremiales - Policías cumplen un mes de acampe y rechazan 11 ofertas (29 junio 2026)",
+        "url": "https://www.infogremiales.com.ar/tension-en-santa-cruz-policias-cumplen-un-mes-de-acampe-frente-a-la-gobernacion-y-rechazan-11-ofertas-salariales/"
       }
     ],
     "createdAt": "2026-06-29T22:39:06.000Z",
-    "updatedAt": "2026-06-30T00:08:49Z"
+    "updatedAt": "2026-06-30T04:49:29Z"
   },
   {
     "id": 315,
@@ -246,10 +385,18 @@
       {
         "nombre": "Diario Concordia - Jubilados volverán a marchar frente al PAMI (28 junio 2026)",
         "url": "https://www.diarioconcordia.com.ar/2026/06/jubilados-volveran-marchar-y-convocan.html"
+      },
+      {
+        "nombre": "7Paginas - Jubilados de Concordia volverán a marchar (28 junio 2026)",
+        "url": "https://7paginas.com.ar/jubilados-de-concordia-volveran-a-marchar-y-convocan-a-una-protesta-frente-al-pami-por-el-recorte-de-prestaciones"
+      },
+      {
+        "nombre": "Diario El Sol - Jubilados de Concordia vuelven a las calles (29 junio 2026)",
+        "url": "https://diarioelsol.com.ar/contenido/61320/jubilados-de-concordia-vuelven-a-las-calles-convocan-a-una-protesta-frente-al-pa"
       }
     ],
     "createdAt": "2026-06-30T00:06:03.000Z",
-    "updatedAt": "2026-06-30T00:08:49Z"
+    "updatedAt": "2026-06-30T04:49:29Z"
   },
   {
     "id": 316,
@@ -278,6 +425,6 @@
       }
     ],
     "createdAt": "2026-06-30T00:06:03.000Z",
-    "updatedAt": "2026-06-30T00:08:49Z"
+    "updatedAt": "2026-06-30T04:49:29Z"
   }
 ]
