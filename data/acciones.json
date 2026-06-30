@@ -14,7 +14,7 @@
       "Activistas ambientales",
       "Sociedad civil albanesa"
     ],
-    "motivo": "32° día consecutivo de protestas de la 'Revolución Flamenco' (Flamingo Revolution) en Tirana, el mayor movimiento civil en Albania desde la caída del comunismo. Protestan contra un proyecto turístico de lujo de 1.400 millones de USD en Zvernec vinculado a Jared Kushner (yerno de Donald Trump) en un área protegida de flamingos. Exigen la renuncia del primer ministro Edi Rama, fin de la corrupción, protección ambiental y el cese de la venta de tierras públicas. Marcha diaria desde Skanderbeg Square hasta la oficina del Primer Ministro.",
+    "motivo": "32° día consecutivo de protestas de la 'Revolución Flamenco' (Flamingo Revolution) en Tirana, el mayor movimiento civil en Albania desde la caída del comunismo. Protestan contra un proyecto turístico de lujo de 1.400 millones de USD en Zvernec vinculado a Jared Kushner (yerno de Donald Trump) en un área protegida de flamingos. Exigen la renuncia del primer ministro Edi Rama, fin de la corrupción, protección ambiental y el cese de la venta de tierras públicas. El 30 de junio la protesta escaló con enfrentamientos entre manifestantes y policía frente al parlamento, con 6 detenidos, luego de que eurodiputados visitaran Tirana en señal de apoyo.",
     "status": "en_curso",
     "lat": "41.3275",
     "lng": "19.8187",
@@ -46,10 +46,14 @@
       {
         "nombre": "BTA - Protests enter 30th day June 30",
         "url": "https://www.bta.bg/en/news/balkans/1157872-protests-against-albanian-coastal-development-project-enter-30th-day"
+      },
+      {
+        "nombre": "Politico - Protesters and police clash in Albania June 30",
+        "url": "https://www.politico.eu/article/protestors-and-police-clash-in-albania-one-day-after-meps-visit/"
       }
     ],
     "createdAt": "2026-06-29T00:17:04.000Z",
-    "updatedAt": "2026-06-30T18:24:12Z"
+    "updatedAt": "2026-06-30T20:35:06Z"
   },
   {
     "id": 307,
@@ -82,7 +86,7 @@
       }
     ],
     "createdAt": "2026-06-29T21:24:17.000Z",
-    "updatedAt": "2026-06-30T18:24:12Z"
+    "updatedAt": "2026-06-30T20:35:06Z"
   },
   {
     "id": 314,
@@ -91,14 +95,16 @@
     "bandera": "🇿🇦",
     "hora": "06:00",
     "fecha": "2026-06-30",
-    "lugar": "A nivel nacional, principales focos: Hillbrow (Johannesburgo), Durban, Tshwane/Pretoria, Pietermaritzburg, Benoni",
+    "lugar": "A nivel nacional, principales focos: Johannesburgo, Durban, Pretoria, Ciudad del Cabo, Pietermaritzburg, Soweto",
     "tipoAccion": "protesta",
     "organizaciones": [
       "March and March",
       "Operation Dudula",
-      "Amabhinca Nation"
+      "Amabhinca Nation",
+      "MK Party",
+      "ActionSA"
     ],
-    "motivo": "Protesta nacional contra la inmigración ilegal convocada por el grupo 'March and March' (liderado por Jacinta Ngobese-Zuma), con fecha límite para la salida de inmigrantes indocumentados. Principales focos en Gauteng (Hillbrow, Tshwane, Benoni, Actonville, Wattville), KwaZulu-Natal (Durban/eThekwini, Pietermaritzburg, Eshowe), Western Cape (Mossel Bay, Kleinmond, Gansbaai), Eastern Cape (Thornhill, KuGompo City) y North West (Rustenburg, Brits, Marikana). El presidente Cyril Ramaphosa advirtió contra la xenofobia y el vigilantismo, señalando que la aplicación de las leyes migratorias 'recae en el Estado'. La SAPS y las fuerzas de defensa (SANDF) fueron puestas en alerta máxima. March and March enfrenta una orden judicial que les prohíbe acercarse al Consulado de Nigeria y la Casa de los Trofeos de Nigeria. Varios países (Malaui, Ghana) repatriaron ciudadanos ante la escalada de tensión.",
+    "motivo": "Protesta nacional contra la inmigración ilegal convocada por el grupo 'March and March' (liderado por Jacinta Ngobese-Zuma), con fecha límite para la salida de inmigrantes indocumentados. El 30 de junio, miles de sudafricanos marcharon en Johannesburgo, Durban (decenas de miles), Pretoria, Ciudad del Cabo y otras ciudades. El gobierno desplegó miles de policías y militares (costo R600 millones). Hubo saqueos aislados y enfrentamientos menores, pero la jornada transcurrió mayormente en paz. Manifestantes en Durban vistieron atuendos tradicionales zulúes con lanzas y escudos. Se reportaron 4 muertos en las semanas previas por violencia xenófoba relacionada. Más de 25.000 extranjeros fueron repatriados por sus gobiernos (Malaui, Zimbabue, Nigeria, Ghana).",
     "status": "en_curso",
     "lat": "-26.2041",
     "lng": "28.0473",
@@ -158,10 +164,30 @@
       {
         "nombre": "The Straits Times - SA cities shuttered June 30",
         "url": "https://www.straitstimes.com/world/south-african-cities-shuttered-ahead-of-anti-migrant-protests"
+      },
+      {
+        "nombre": "AP News - Sudáfrica despliega policías ante protestas masivas",
+        "url": "https://apnews.com/article/sudafrica-migrantes-protestas-817d18a8d982768a3f8220e63d885346"
+      },
+      {
+        "nombre": "El País - Miles marchan contra inmigrantes Sudáfrica 30 junio",
+        "url": "https://elpais.com/internacional/2026-06-30/miles-de-personas-marchan-contra-los-inmigrantes-en-sudafrica-tras-cumplirse-el-ultimatum-de-los-grupos-racistas-para-expulsarlos-del-pais.html"
+      },
+      {
+        "nombre": "France24 - Thousands march to demand illegal migrants leave SA",
+        "url": "https://www.france24.com/en/live-news/20260630-s-africa-deploys-police-as-anti-migrant-protests-loom"
+      },
+      {
+        "nombre": "IOL - Tens of thousands march in Durban June 30",
+        "url": "https://iol.co.za/mercury/news/2026-06-30-tens-of-thousands-march-in-durban-demanding-illegal-migrants-leave-south-africa/"
+      },
+      {
+        "nombre": "EWN - 30 June protests Joburg CBD",
+        "url": "https://www.ewn.co.za/2026/06/30/30-june-protests-police-scramble-to-contain-growing-crowd-in-joburg-cbd"
       }
     ],
     "createdAt": "2026-06-30T00:01:51.000Z",
-    "updatedAt": "2026-06-30T18:24:12Z"
+    "updatedAt": "2026-06-30T20:35:06Z"
   },
   {
     "id": 317,
@@ -170,7 +196,7 @@
     "bandera": "🇧🇷",
     "hora": "18:00",
     "fecha": "2026-06-30",
-    "lugar": "A nivel nacional, principal acto en Vão Livre do MASP, Avenida Paulista, São Paulo; también en Porto Alegre, Belo Horizonte, Brasília y otras capitales",
+    "lugar": "A nivel nacional, principal acto en Vão Livre do MASP, Avenida Paulista, São Paulo; también en Porto Alegre, Belo Horizonte, Brasília, Río de Janeiro y otras capitales",
     "tipoAccion": "protesta",
     "organizaciones": [
       "CUT (Central Única dos Trabalhadores)",
@@ -185,8 +211,8 @@
       "Povo sem Medo",
       "Movimento Vida Além do Trabalho (VAT)"
     ],
-    "motivo": "Dia Nacional de Mobilização pelo fim da escala 6x1 e redução da jornada de trabalho para 40 horas semanais sem redução salarial. Pressionam o Senado Federal a aprovar a PEC 221, já aprovada na Câmara dos Deputados, que transforma o regime 6x1 em 5x2. No dia seguinte (1º de julho) haverá audiência pública na CCJ do Senado e reunião com o presidente da Casa, Davi Alcolumbre (União-AP).",
-    "status": "convocada",
+    "motivo": "Dia Nacional de Mobilização pelo fim da escala 6x1 e redução da jornada de trabalho para 40 horas semanais sem redução salarial. Pressionam o Senado Federal a aprovar a PEC 221, já aprovada na Câmara dos Deputados. Cientos de conductores de autobús en huelga protestaron en el centro de Río de Janeiro como parte del movimiento. Al día siguiente (1º de julio) habrá audiencia pública en la CCJ del Senado.",
+    "status": "en_curso",
     "lat": "-23.5615",
     "lng": "-46.6560",
     "fuentes": [
@@ -209,10 +235,18 @@
       {
         "nombre": "Revista Fórum - Movimentos sociais pressionam Alcolumbre e convocam atos 30 junho",
         "url": "https://revistaforum.com.br/politica/movimentos-alcolumbre-escala-6x1/"
+      },
+      {
+        "nombre": "AP - Rio bus drivers protest shorter work week June 30",
+        "url": "https://www.wral.com/news/ap/7b6da-rio-bus-drivers-and-workers-throughout-brazil-demand-shorter-work-week-as-lawmakers-examine-proposal/"
+      },
+      {
+        "nombre": "Poder360 - Locais dos atos 30 junho 2026",
+        "url": "https://www.poder360.com.br/poder-brasil/trabalhadores-vao-as-ruas-pelo-fim-da-6-x-1-nesta-3a-feira/"
       }
     ],
     "createdAt": "2026-06-30T04:43:36.000Z",
-    "updatedAt": "2026-06-30T18:24:12Z"
+    "updatedAt": "2026-06-30T20:35:06Z"
   },
   {
     "id": 318,
@@ -241,7 +275,7 @@
       }
     ],
     "createdAt": "2026-06-30T04:43:36.000Z",
-    "updatedAt": "2026-06-30T18:24:12Z"
+    "updatedAt": "2026-06-30T20:35:06Z"
   },
   {
     "id": 319,
@@ -266,7 +300,7 @@
       }
     ],
     "createdAt": "2026-06-30T04:43:36.000Z",
-    "updatedAt": "2026-06-30T18:24:12Z"
+    "updatedAt": "2026-06-30T20:35:06Z"
   },
   {
     "id": 320,
@@ -296,7 +330,7 @@
       }
     ],
     "createdAt": "2026-06-30T04:43:36.000Z",
-    "updatedAt": "2026-06-30T18:24:12Z"
+    "updatedAt": "2026-06-30T20:35:06Z"
   },
   {
     "id": 322,
@@ -310,7 +344,7 @@
     "organizaciones": [
       "Iglesia Ni Cristo (INC)"
     ],
-    "motivo": "Protesta sorpresiva de miles de miembros de la Iglesia Ni Cristo (INC) en apoyo al senador Rodante Marcoleta, quien enfrenta una posible detención por presunta malversación de fondos (P75 millones / USD 1.2 millones) en su campaña electoral de 2025. La Oficina del Defensor del Pueblo anunció que presentará cargos por saqueo (plunder) esta semana, lo que derivaría en arresto inmediato sin derecho a fianza. Los manifestantes denuncian 'justicia selectiva' y exigen transparencia y rendición de cuentas. El presidente Ferdinand Marcos Jr. canceló sus eventos públicos y monitorea la situación. La protesta colapsó importantes rutas de EDSA y provocó el cierre de accesos a Malacañang.",
+    "motivo": "Protesta relámpago de miles de miembros de la Iglesia Ni Cristo (INC) en apoyo al senador Rodante Marcoleta, quien enfrenta una posible detención por presunta malversación de fondos (P75 millones / USD 1.2 millones) en su campaña electoral de 2025. Manifestación sin permiso que colapsó EDSA con un estimado de 13.000 asistentes. La policía arrestó a 4 personas y 2 agentes resultaron heridos. El presidente Ferdinand Marcos Jr. canceló sus eventos públicos. La INC obtuvo permiso para una protesta adicional el 1 de julio.",
     "status": "en_curso",
     "lat": "14.5995",
     "lng": "121.0500",
@@ -334,10 +368,18 @@
       {
         "nombre": "ABC Color - Miles protestan Manila 30 junio 2026",
         "url": "https://www.abc.com.py/internacionales/2026/06/30/miles-de-personas-se-manifiestan-en-manila-contra-el-posible-arresto-de-un-senador/"
+      },
+      {
+        "nombre": "Malay Mail - Lightning protest Philippine sect Manila June 30",
+        "url": "https://www.malaymail.com/news/world/2026/06/30/lightning-protest-by-powerful-philippine-sect-backing-duterte-ally-paralyses-parts-of-manila/225817"
+      },
+      {
+        "nombre": "Philstar - INC rally PNP full alert 6000 cops June 30",
+        "url": "https://www.philstar.com/headlines/2026/06/30/2538867/iglesia-ni-cristo-rally-pnp-full-alert-6000-cops-deployed"
       }
     ],
     "createdAt": "2026-06-30T11:29:19.000Z",
-    "updatedAt": "2026-06-30T18:24:12Z"
+    "updatedAt": "2026-06-30T20:35:06Z"
   },
   {
     "id": 323,
@@ -377,7 +419,7 @@
       }
     ],
     "createdAt": "2026-06-30T11:29:19.000Z",
-    "updatedAt": "2026-06-30T18:24:12Z"
+    "updatedAt": "2026-06-30T20:35:06Z"
   },
   {
     "id": 324,
@@ -417,7 +459,7 @@
       }
     ],
     "createdAt": "2026-06-30T11:29:19.000Z",
-    "updatedAt": "2026-06-30T18:24:12Z"
+    "updatedAt": "2026-06-30T20:35:06Z"
   },
   {
     "id": 325,
@@ -457,7 +499,7 @@
       }
     ],
     "createdAt": "2026-06-30T11:29:19.000Z",
-    "updatedAt": "2026-06-30T18:24:12Z"
+    "updatedAt": "2026-06-30T20:35:06Z"
   },
   {
     "id": 326,
@@ -492,7 +534,7 @@
       }
     ],
     "createdAt": "2026-06-30T16:03:18.000Z",
-    "updatedAt": "2026-06-30T18:24:12Z"
+    "updatedAt": "2026-06-30T20:35:06Z"
   },
   {
     "id": 327,
@@ -527,7 +569,7 @@
       }
     ],
     "createdAt": "2026-06-30T16:03:18.000Z",
-    "updatedAt": "2026-06-30T18:24:12Z"
+    "updatedAt": "2026-06-30T20:35:06Z"
   },
   {
     "id": 328,
@@ -552,7 +594,7 @@
       "Otras organizaciones civiles"
     ],
     "motivo": "Protesta pacífica frente al Palacio Presidencial contra la reunión del 'Consejo de Paz de Gaza' (Gaza Board of Peace) impulsado por Donald Trump que se celebra en un resort chipriota del 30 de junio al 1 de julio. Denuncian que la iniciativa excluye a los palestinos, viola el derecho internacional y representa 'capitalismo de desastre'. Exigen que el gobierno de Chipre retire su apoyo al organismo.",
-    "status": "convocada",
+    "status": "en_curso",
     "lat": "35.1566",
     "lng": "33.3588",
     "fuentes": [
@@ -566,7 +608,7 @@
       }
     ],
     "createdAt": "2026-06-30T16:03:18.000Z",
-    "updatedAt": "2026-06-30T18:24:12Z"
+    "updatedAt": "2026-06-30T20:35:06Z"
   },
   {
     "id": 329,
@@ -582,7 +624,7 @@
       "UN1TÉ Police FO",
       "Synergie Officiers"
     ],
-    "motivo": "Manifestación de los principales sindicatos policiales franceses frente al Ministerio de Economía en Bercy exigiendo mejoras salariales, mejores condiciones laborales y más medios. Rechazan la reforma que otorga aumentos solo a los comisarios mientras ignora al resto del cuerpo. Participaron entre 3.000 y 5.000 manifestantes. Advierten de una manifestación de gran escala en septiembre si no son escuchados.",
+    "motivo": "Manifestación de los principales sindicatos policiales franceses frente al Ministerio de Economía en Bercy exigiendo mejoras salariales, mejores condiciones laborales y más medios. Rechazan la reforma que otorga aumentos solo a los comisarios mientras ignora al resto del cuerpo. Participaron entre 3.000 y 5.000 manifestantes. Marcharon de Bercy a la dirección de RRHH del Ministerio del Interior. Advierten de una manifestación de gran escala en septiembre si no son escuchados.",
     "status": "en_curso",
     "lat": "48.8374",
     "lng": "2.3761",
@@ -594,10 +636,18 @@
       {
         "nombre": "Boursorama - Manifestation syndicats police Paris June 30",
         "url": "https://www.boursorama.com/actualite-economique/actualites/manifestation-de-syndicats-de-police-a-paris-pour-reclamer-des-moyens-supplementaires-e24ad26278c24bc5b3595f85531e303a"
+      },
+      {
+        "nombre": "France24 - Manifestation syndicats police Paris 30 juin",
+        "url": "https://www.france24.com/fr/info-en-continu/20260630-manifestation-de-syndicats-de-police-%C3%A0-paris-pour-r%C3%A9clamer-des-moyens-suppl%C3%A9mentaires"
+      },
+      {
+        "nombre": "Le Singulier - Des milliers de policiers défilent à Paris 30 juin",
+        "url": "https://lesinguliersete.fr/des-milliers-de-policiers-defilent-a-paris-pour-une-revalorisation-qui-divise/"
       }
     ],
     "createdAt": "2026-06-30T16:03:18.000Z",
-    "updatedAt": "2026-06-30T18:24:12Z"
+    "updatedAt": "2026-06-30T20:35:06Z"
   },
   {
     "id": 330,
@@ -630,7 +680,7 @@
       }
     ],
     "createdAt": "2026-06-30T16:03:18.000Z",
-    "updatedAt": "2026-06-30T18:24:12Z"
+    "updatedAt": "2026-06-30T20:35:06Z"
   },
   {
     "id": 331,
@@ -659,7 +709,7 @@
       }
     ],
     "createdAt": "2026-06-30T16:03:18.000Z",
-    "updatedAt": "2026-06-30T18:24:12Z"
+    "updatedAt": "2026-06-30T20:35:06Z"
   },
   {
     "id": 332,
@@ -687,10 +737,173 @@
       {
         "nombre": "Times Now - Sardar Aman Khan challenge to Islamabad June 30",
         "url": "https://www.timesnownews.com/world/asia/pakistan-needs-pojk-not-the-other-way-around-sardar-aman-khans-fresh-challenge-to-islamabad-article-154805929"
+      },
+      {
+        "nombre": "India Today - POK is not part of Pakistan: Thousands rally June 30",
+        "url": "https://www.indiatoday.in/world/story/pok-protest-rawalakot-challenges-pakistan-food-blockade-warns-of-turning-towards-india-2937588-2026-06-30"
       }
     ],
     "createdAt": "2026-06-30T16:03:18.000Z",
-    "updatedAt": "2026-06-30T18:24:12Z"
+    "updatedAt": "2026-06-30T20:35:06Z"
+  },
+  {
+    "id": 333,
+    "seccion": "protestas_int",
+    "pais": "Francia",
+    "bandera": "🇫🇷",
+    "hora": "14:00",
+    "fecha": "2026-06-30",
+    "lugar": "Sede del Samusocial de Paris → Ministerio de Economía (Bercy), París",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "SOLIPAM",
+      "Samusocial de Paris",
+      "Aide sociale à l'enfance 75",
+      "Trabajadores del sector social de París"
+    ],
+    "motivo": "Huelga y manifestación de trabajadores del sector social de París contra las políticas de austeridad que degradan los servicios públicos de solidaridad. Denuncian el endurecimiento de los criterios de vulnerabilidad del 115 (línea de emergencia para personas sin hogar), que ya no prioriza a mujeres embarazadas hasta los 7 meses de gestación. Exigen soluciones de alojamiento dignas y permanentes. Marcha desde la sede del Samusocial de Paris hacia el Ministerio de Economía y Finanzas.",
+    "status": "en_curso",
+    "lat": "48.8566",
+    "lng": "2.3518",
+    "fuentes": [
+      {
+        "nombre": "SOLIPAM - Grève du secteur social 30 juin",
+        "url": "https://solipam.fr/2026/06/29/mardi-30-juin-greve-du-secteur-social/"
+      }
+    ],
+    "createdAt": "2026-06-30T18:18:30.000Z",
+    "updatedAt": "2026-06-30T20:35:06Z"
+  },
+  {
+    "id": 334,
+    "seccion": "protestas_int",
+    "pais": "España",
+    "bandera": "🇪🇸",
+    "hora": "00:00",
+    "fecha": "2026-06-30",
+    "lugar": "Oficinas de Cruz Roja, Ibiza, Islas Baleares",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "USO (Unión Sindical Obrera)",
+      "Plantilla de Cruz Roja Ibiza"
+    ],
+    "motivo": "Última concentración del mes de junio de la plantilla de Cruz Roja en Ibiza, movilizada todos los martes y jueves de junio, para reclamar la negociación del convenio autonómico. Rechazan adherirse al convenio estatal de acción social por considerarlo un retroceso en derechos laborales (días de asuntos propios, condiciones por bajas médicas). Exigen un plus de insularidad dado el elevado coste de vida en Ibiza y condiciones laborales dignas para garantizar la calidad de la atención.",
+    "status": "en_curso",
+    "lat": "38.9067",
+    "lng": "1.4206",
+    "fuentes": [
+      {
+        "nombre": "Diario de Ibiza - Cruz Roja protestas junio 30",
+        "url": "https://www.diariodeibiza.es/ibiza/2026/06/30/plantilla-cruz-roja-ibiza-concluye-131963542.html"
+      }
+    ],
+    "createdAt": "2026-06-30T18:18:30.000Z",
+    "updatedAt": "2026-06-30T20:35:06Z"
+  },
+  {
+    "id": 335,
+    "seccion": "protestas_int",
+    "pais": "España",
+    "bandera": "🇪🇸",
+    "hora": "16:00-19:00",
+    "fecha": "2026-06-30",
+    "lugar": "Palacio de San Esteban y diversos puntos de la Región de Murcia",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "Bomberos forestales de la Región de Murcia",
+      "PSOE Regional"
+    ],
+    "motivo": "Quinto y último día de huelga de los bomberos forestales de Murcia (26 al 30 de junio), con paros de tres horas diarias (16:00-19:00), en plena campaña de verano de lucha contra incendios. Exigen mejoras salariales (denuncian que las subidas acumuladas no compensan la pérdida de poder adquisitivo), condiciones laborales justas y la reconversión del cuerpo en servicio 100% público. Servicios mínimos garantizados al ser servicio esencial de emergencias.",
+    "status": "en_curso",
+    "lat": "37.9922",
+    "lng": "-1.1307",
+    "fuentes": [
+      {
+        "nombre": "Libertad Digital - Huelga bomberos forestales Murcia 26-30 junio",
+        "url": "https://www.libertaddigital.com/espana/murcia/2026-06-19/murcia-gobierno-fernando-lopez-miras-bomberos-forestales-huelga-26-al-30-junio-por-el-estancamiento-de-las-negociaciones-sobre-su-situacion-laboral-y-salarial-7423930/"
+      }
+    ],
+    "createdAt": "2026-06-30T18:18:30.000Z",
+    "updatedAt": "2026-06-30T20:35:06Z"
+  },
+  {
+    "id": 337,
+    "seccion": "protestas_int",
+    "pais": "Alemania",
+    "bandera": "🇩🇪",
+    "hora": "00:00",
+    "fecha": "2026-06-30",
+    "lugar": "Aeropuertos de toda Alemania (Lufthansa)",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "Vereinigung Cockpit (VC)",
+      "UFO (Unabhängige Flugbegleiter Organisation)"
+    ],
+    "motivo": "Huelga de pilotos (VC) y tripulantes de cabina (UFO) de Lufthansa que provocó la cancelación de más de 460 vuelos en toda Alemania, afectando a unos 69.000 pasajeros. Exigen aumentos en las contribuciones del empleador a los fondos de pensiones y pensiones de transición. UFO denuncia que la estrategia de Lufthansa para sus filiales CityLine y Discover pone en riesgo unos 800 puestos de trabajo. La dirección de Lufthansa calificó la huelga de 'escalada completamente innecesaria'.",
+    "status": "en_curso",
+    "lat": "50.0333",
+    "lng": "8.5706",
+    "fuentes": [
+      {
+        "nombre": "Panorama Albania - Lufthansa flights cancelled pilots crew strike June 30",
+        "url": "https://en.panorama.com.al/anulohen-fluturimet-e-lufthansa-s-ne-gjermani-pilotet-dhe-anetaret-e-ekuipazhit-te-kabines-futen-ne-greve/"
+      }
+    ],
+    "createdAt": "2026-06-30T20:34:17.000Z",
+    "updatedAt": "2026-06-30T20:35:06Z"
+  },
+  {
+    "id": 338,
+    "seccion": "protestas_int",
+    "pais": "Francia",
+    "bandera": "🇫🇷",
+    "hora": "09:00",
+    "fecha": "2026-06-30",
+    "lugar": "Dirección General de France Travail, París XX",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "CGT",
+      "FSU",
+      "Union Syndicale SUD",
+      "Intersyndicale France Travail"
+    ],
+    "motivo": "Movilización de la intersindical CGT, FSU y SUD frente a la dirección general de France Travail en París al inicio de las Negociaciones Anuales Obligatorias (NAO) sobre salarios. Exigen aumento de medios para el conjunto de agentes, abrogación de las contrarreformas del seguro de desempleo y de la ley de pleno empleo de 2023. Denuncian salarios insuficientes y deterioro de las condiciones laborales.",
+    "status": "en_curso",
+    "lat": "48.8667",
+    "lng": "2.3833",
+    "fuentes": [
+      {
+        "nombre": "L'Humanité - France Travail intersyndicale mobilisée 30 juin",
+        "url": "https://www.humanite.fr/social-et-economie/assurance-chomage-2/un-mal-etre-des-deux-cotes-du-guichet-lintersyndicale-de-france-travail-revendique-plus-de-moyens-pour-ses-agents"
+      }
+    ],
+    "createdAt": "2026-06-30T20:34:17.000Z",
+    "updatedAt": "2026-06-30T20:35:06Z"
+  },
+  {
+    "id": 339,
+    "seccion": "protestas_int",
+    "pais": "Reino Unido",
+    "bandera": "🇬🇧",
+    "hora": "00:00",
+    "fecha": "2026-06-30",
+    "lugar": "Glasgow Caledonian University, Glasgow, Escocia",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "EIS-ULA (Educational Institute of Scotland University Lecturers Association)"
+    ],
+    "motivo": "Inicio de una serie de huelgas de personal académico de la Glasgow Caledonian University contra la propuesta de eliminación de 100 puestos de trabajo. Las huelgas coinciden con los días de graduación de verano para maximizar el impacto. Los días de huelga incluyen el 30 de junio, 1 y 2 de julio, y luego el 4 de agosto y 7, 8 y 10 de septiembre. La secretaria general del EIS, Andrea Bradley, afirmó que los estudiantes apoyan la acción.",
+    "status": "en_curso",
+    "lat": "55.8650",
+    "lng": "-4.2500",
+    "fuentes": [
+      {
+        "nombre": "BBC News - Lecturers strike Glasgow Caledonian University June 30",
+        "url": "https://www.bbc.co.uk/news/articles/cg4wed95y35o"
+      }
+    ],
+    "createdAt": "2026-06-30T20:34:17.000Z",
+    "updatedAt": "2026-06-30T20:35:06Z"
   },
   {
     "id": 294,
@@ -755,7 +968,7 @@
       }
     ],
     "createdAt": "2026-06-29T05:13:52.000Z",
-    "updatedAt": "2026-06-30T18:24:12Z"
+    "updatedAt": "2026-06-30T20:35:06Z"
   },
   {
     "id": 313,
@@ -833,7 +1046,7 @@
       }
     ],
     "createdAt": "2026-06-29T22:39:06.000Z",
-    "updatedAt": "2026-06-30T18:24:12Z"
+    "updatedAt": "2026-06-30T20:35:06Z"
   },
   {
     "id": 315,
@@ -866,7 +1079,7 @@
       }
     ],
     "createdAt": "2026-06-30T00:06:03.000Z",
-    "updatedAt": "2026-06-30T18:24:12Z"
+    "updatedAt": "2026-06-30T20:35:06Z"
   },
   {
     "id": 316,
@@ -915,7 +1128,7 @@
       }
     ],
     "createdAt": "2026-06-30T00:06:03.000Z",
-    "updatedAt": "2026-06-30T18:24:12Z"
+    "updatedAt": "2026-06-30T20:35:06Z"
   },
   {
     "id": 321,
@@ -944,87 +1157,7 @@
       }
     ],
     "createdAt": "2026-06-30T08:30:41.000Z",
-    "updatedAt": "2026-06-30T18:24:12Z"
-  },
-  {
-    "id": 333,
-    "seccion": "protestas_int",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "14:00",
-    "fecha": "2026-06-30",
-    "lugar": "Sede del Samusocial de Paris → Ministerio de Economía (Bercy), París",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "SOLIPAM",
-      "Samusocial de Paris",
-      "Aide sociale à l'enfance 75",
-      "Trabajadores del sector social de París"
-    ],
-    "motivo": "Huelga y manifestación de trabajadores del sector social de París contra las políticas de austeridad que degradan los servicios públicos de solidaridad. Denuncian el endurecimiento de los criterios de vulnerabilidad del 115 (línea de emergencia para personas sin hogar), que ya no prioriza a mujeres embarazadas hasta los 7 meses de gestación. Exigen soluciones de alojamiento dignas y permanentes. Marcha desde la sede del Samusocial de Paris hacia el Ministerio de Economía y Finanzas.",
-    "status": "en_curso",
-    "lat": "48.8566",
-    "lng": "2.3518",
-    "fuentes": [
-      {
-        "nombre": "SOLIPAM - Grève du secteur social 30 juin",
-        "url": "https://solipam.fr/2026/06/29/mardi-30-juin-greve-du-secteur-social/"
-      }
-    ],
-    "createdAt": "2026-06-30T18:18:30.000Z",
-    "updatedAt": "2026-06-30T18:24:12Z"
-  },
-  {
-    "id": 334,
-    "seccion": "protestas_int",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "00:00",
-    "fecha": "2026-06-30",
-    "lugar": "Oficinas de Cruz Roja, Ibiza, Islas Baleares",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "USO (Unión Sindical Obrera)",
-      "Plantilla de Cruz Roja Ibiza"
-    ],
-    "motivo": "Última concentración del mes de junio de la plantilla de Cruz Roja en Ibiza, movilizada todos los martes y jueves de junio, para reclamar la negociación del convenio autonómico. Rechazan adherirse al convenio estatal de acción social por considerarlo un retroceso en derechos laborales (días de asuntos propios, condiciones por bajas médicas). Exigen un plus de insularidad dado el elevado coste de vida en Ibiza y condiciones laborales dignas para garantizar la calidad de la atención.",
-    "status": "en_curso",
-    "lat": "38.9067",
-    "lng": "1.4206",
-    "fuentes": [
-      {
-        "nombre": "Diario de Ibiza - Cruz Roja protestas junio 30",
-        "url": "https://www.diariodeibiza.es/ibiza/2026/06/30/plantilla-cruz-roja-ibiza-concluye-131963542.html"
-      }
-    ],
-    "createdAt": "2026-06-30T18:18:30.000Z",
-    "updatedAt": "2026-06-30T18:24:12Z"
-  },
-  {
-    "id": 335,
-    "seccion": "protestas_int",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "16:00-19:00",
-    "fecha": "2026-06-30",
-    "lugar": "Palacio de San Esteban y diversos puntos de la Región de Murcia",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "Bomberos forestales de la Región de Murcia",
-      "PSOE Regional"
-    ],
-    "motivo": "Quinto y último día de huelga de los bomberos forestales de Murcia (26 al 30 de junio), con paros de tres horas diarias (16:00-19:00), en plena campaña de verano de lucha contra incendios. Exigen mejoras salariales (denuncian que las subidas acumuladas no compensan la pérdida de poder adquisitivo), condiciones laborales justas y la reconversión del cuerpo en servicio 100% público. Servicios mínimos garantizados al ser servicio esencial de emergencias.",
-    "status": "en_curso",
-    "lat": "37.9922",
-    "lng": "-1.1307",
-    "fuentes": [
-      {
-        "nombre": "Libertad Digital - Huelga bomberos forestales Murcia 26-30 junio",
-        "url": "https://www.libertaddigital.com/espana/murcia/2026-06-19/murcia-gobierno-fernando-lopez-miras-bomberos-forestales-huelga-26-al-30-junio-por-el-estancamiento-de-las-negociaciones-sobre-su-situacion-laboral-y-salarial-7423930/"
-      }
-    ],
-    "createdAt": "2026-06-30T18:18:30.000Z",
-    "updatedAt": "2026-06-30T18:24:12Z"
+    "updatedAt": "2026-06-30T20:35:06Z"
   },
   {
     "id": 336,
@@ -1054,6 +1187,6 @@
       }
     ],
     "createdAt": "2026-06-30T18:20:26.000Z",
-    "updatedAt": "2026-06-30T18:24:12Z"
+    "updatedAt": "2026-06-30T20:35:06Z"
   }
 ]
