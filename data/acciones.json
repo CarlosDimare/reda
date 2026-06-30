@@ -45,7 +45,7 @@
       }
     ],
     "createdAt": "2026-06-29T00:17:04.000Z",
-    "updatedAt": "2026-06-30T08:34:48Z"
+    "updatedAt": "2026-06-30T11:33:53Z"
   },
   {
     "id": 307,
@@ -78,7 +78,7 @@
       }
     ],
     "createdAt": "2026-06-29T21:24:17.000Z",
-    "updatedAt": "2026-06-30T08:34:48Z"
+    "updatedAt": "2026-06-30T11:33:53Z"
   },
   {
     "id": 314,
@@ -149,7 +149,7 @@
       }
     ],
     "createdAt": "2026-06-30T00:01:51.000Z",
-    "updatedAt": "2026-06-30T08:34:48Z"
+    "updatedAt": "2026-06-30T11:33:53Z"
   },
   {
     "id": 317,
@@ -200,7 +200,7 @@
       }
     ],
     "createdAt": "2026-06-30T04:43:36.000Z",
-    "updatedAt": "2026-06-30T08:34:48Z"
+    "updatedAt": "2026-06-30T11:33:53Z"
   },
   {
     "id": 318,
@@ -229,7 +229,7 @@
       }
     ],
     "createdAt": "2026-06-30T04:43:36.000Z",
-    "updatedAt": "2026-06-30T08:34:48Z"
+    "updatedAt": "2026-06-30T11:33:53Z"
   },
   {
     "id": 319,
@@ -254,7 +254,7 @@
       }
     ],
     "createdAt": "2026-06-30T04:43:36.000Z",
-    "updatedAt": "2026-06-30T08:34:48Z"
+    "updatedAt": "2026-06-30T11:33:53Z"
   },
   {
     "id": 320,
@@ -284,7 +284,168 @@
       }
     ],
     "createdAt": "2026-06-30T04:43:36.000Z",
-    "updatedAt": "2026-06-30T08:34:48Z"
+    "updatedAt": "2026-06-30T11:33:53Z"
+  },
+  {
+    "id": 322,
+    "seccion": "protestas_int",
+    "pais": "Filipinas",
+    "bandera": "🇵🇭",
+    "hora": "07:00",
+    "fecha": "2026-06-30",
+    "lugar": "People Power Monument, EDSA, Quezon City, Metro Manila (también Liwasang Bonifacio, Manila)",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Iglesia Ni Cristo (INC)"
+    ],
+    "motivo": "Protesta sorpresiva de miles de miembros de la Iglesia Ni Cristo (INC) en apoyo al senador Rodante Marcoleta, quien enfrenta una posible detención por presunta malversación de fondos (P75 millones / USD 1.2 millones) en su campaña electoral de 2025. La Oficina del Defensor del Pueblo anunció que presentará cargos por saqueo (plunder) esta semana, lo que derivaría en arresto inmediato sin derecho a fianza. Los manifestantes denuncian 'justicia selectiva' y exigen transparencia y rendición de cuentas. El presidente Ferdinand Marcos Jr. canceló sus eventos públicos y monitorea la situación. La protesta colapsó importantes rutas de EDSA y provocó el cierre de accesos a Malacañang.",
+    "status": "en_curso",
+    "lat": "14.5995",
+    "lng": "121.0500",
+    "fuentes": [
+      {
+        "nombre": "Rappler - INC surprise rally Marcoleta June 30 2026",
+        "url": "https://www.rappler.com/philippines/iglesia-ni-cristo-surprise-rally-protest-possible-arrest-rodante-marcoleta/"
+      },
+      {
+        "nombre": "Inquirer - INC holds Edsa protest June 30",
+        "url": "https://newsinfo.inquirer.net/2255100/watch-inc-holds-edsa-protest-over-alleged-selective-justice"
+      },
+      {
+        "nombre": "GMA News - LIVE UPDATES EDSA protest June 30 2026",
+        "url": "https://www.gmanetwork.com/news/topstories/nation/993155/live-updates-edsa-protest-june-30-2026/story/"
+      },
+      {
+        "nombre": "Philstar - Major EDSA routes blocked June 30",
+        "url": "https://www.philstar.com/nation/2026/06/30/2538844/major-edsa-routes-blocked-due-iglesia-ni-cristo-rally"
+      },
+      {
+        "nombre": "ABC Color - Miles protestan Manila 30 junio 2026",
+        "url": "https://www.abc.com.py/internacionales/2026/06/30/miles-de-personas-se-manifiestan-en-manila-contra-el-posible-arresto-de-un-senador/"
+      }
+    ],
+    "createdAt": "2026-06-30T11:29:19.000Z",
+    "updatedAt": "2026-06-30T11:33:53Z"
+  },
+  {
+    "id": 323,
+    "seccion": "protestas_int",
+    "pais": "Bolivia",
+    "bandera": "🇧🇴",
+    "hora": "00:00",
+    "fecha": "2026-06-30",
+    "lugar": "A nivel nacional, con bloqueos en La Paz, El Alto, Cochabamba y otras ciudades",
+    "tipoAccion": "huelga_general",
+    "organizaciones": [
+      "COB (Central Obrera Boliviana)",
+      "Sindicatos de mineros, maestros y transportistas",
+      "Comunidades indígenas y campesinas",
+      "FEJUVE El Alto"
+    ],
+    "motivo": "Huelga general indefinida que supera las 5 semanas consecutivas en rechazo a las medidas de austeridad del presidente Rodrigo Paz, incluyendo la cancelación de subsidios a combustibles, privatización de recursos naturales y ajustes estructurales del FMI. Exigen: aumento salarial del 20%, renuncia del presidente Paz, fin de la privatización de recursos y liberación de líderes sindicales detenidos (más de 300 arrestados). El gobierno declaró estado de emergencia por 90 días el 20 de junio y desplegó al ejército para despejar bloqueos. Las comunidades indígenas y cocaleras mantienen bloqueos a pesar del acuerdo de pacificación firmado por la dirigencia de la COB. Se reportan enfrentamientos violentos con dinamita y gases lacrimógenos.",
+    "status": "en_curso",
+    "lat": "-16.5000",
+    "lng": "-68.1500",
+    "fuentes": [
+      {
+        "nombre": "AP News - Bolivia state of emergency",
+        "url": "https://apnews.com/article/bolivia-state-of-emergency-blockades-food-fuel-b279b823152c51c27f794cd9837d4aa6"
+      },
+      {
+        "nombre": "Spring Magazine - Bolivia general strike June 30 2026",
+        "url": "https://springmag.ca/rifle-machine-gun-the-people-will-not-be-silenced-general-strike-and-protests-in-bolivia"
+      },
+      {
+        "nombre": "Wikipedia - 2026 Bolivian protests",
+        "url": "https://en.wikipedia.org/wiki/2026_Bolivian_protests"
+      },
+      {
+        "nombre": "Struggle La Lucha - Paz sends army against general strike",
+        "url": "https://www.struggle-la-lucha.org/2026/06/21/u-s-backed-paz-sends-army-against-bolivias-general-strike/"
+      }
+    ],
+    "createdAt": "2026-06-30T11:29:19.000Z",
+    "updatedAt": "2026-06-30T11:33:53Z"
+  },
+  {
+    "id": 324,
+    "seccion": "protestas_int",
+    "pais": "India",
+    "bandera": "🇮🇳",
+    "hora": "00:00",
+    "fecha": "2026-06-30",
+    "lugar": "Jantar Mantar, Nueva Delhi",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Cockroach Janata Party (CJP)",
+      "Activista Sonam Wangchuk",
+      "All-India Students' Association (AISA)",
+      "Líderes agricultores (Khap)"
+    ],
+    "motivo": "Día 3 de la huelga de hambre indefinida del activista climático Sonam Wangchuk en Jantar Mantar, en el marco de la protesta del Cockroach Janata Party que comenzó el 20 de junio. Exigen la renuncia del ministro de Educación Dharmendra Pradhan por presuntas irregularidades en exámenes competitivos (filtración de exámenes NEET y otros). Wangchuk también demanda protección constitucional para Ladakh (estado, Lista Sexta y protección ambiental). Cientos de estudiantes, agricultores y miembros de la sociedad civil se congregan diariamente. Wangchuk declaró que continuará el ayuno 'seis semanas o hasta la muerte'. Manifestantes denuncian cortes de agua y saneamiento por parte de la policía de Delhi.",
+    "status": "en_curso",
+    "lat": "28.6273",
+    "lng": "77.2167",
+    "fuentes": [
+      {
+        "nombre": "Times of India - Wangchuk hunger strike day 3 June 30",
+        "url": "https://timesofindia.indiatimes.com/city/delhi/pradhan-will-be-responsible-if-anything-happens-sonam-wangchuks-blood-sugar-drops-to-66-as-hunger-strike-enters-day-3/articleshow/132085568.cms"
+      },
+      {
+        "nombre": "The Tribune - Sonam Wangchuk begins indefinite fast",
+        "url": "https://www.tribuneindia.com/news/top-headlines/sonam-wangchuk-begins-indefinite-fast-at-delhis-jantar-mantar/"
+      },
+      {
+        "nombre": "New Indian Express - Wangchuk hunger strike Day 2",
+        "url": "https://www.newindianexpress.com/india/2026/Jun/29/wangchuk-calls-for-nationwide-support-as-indefinite-hunger-strike-enters-day-2"
+      },
+      {
+        "nombre": "The Quint - Sonam Wangchuk six weeks or death",
+        "url": "https://www.thequint.com/news/politics/sonam-wangchuk-six-weeks-or-death-hunger-strik"
+      }
+    ],
+    "createdAt": "2026-06-30T11:29:19.000Z",
+    "updatedAt": "2026-06-30T11:33:53Z"
+  },
+  {
+    "id": 325,
+    "seccion": "protestas_int",
+    "pais": "Perú",
+    "bandera": "🇵🇪",
+    "hora": "00:00",
+    "fecha": "2026-06-30",
+    "lugar": "Región Moquegua (distritos de Moquegua, Samegua, Torata, San Antonio), con bloqueos en la Panamericana Sur",
+    "tipoAccion": "paro",
+    "organizaciones": [
+      "Comité de Comando de Lucha por la Defensa del Territorio de Moquegua",
+      "Gobierno Regional de Moquegua (Gilia Gutiérrez)",
+      "Sociedad civil organizada",
+      "Gremios y transportistas"
+    ],
+    "motivo": "Paro regional indefinido desde las 00:00 horas del 30 de junio en rechazo al Proyecto de Ley N.° 11658/2024-PE, aprobado por el Congreso el 23 de junio, que modifica los límites territoriales entre Moquegua y Tacna. Moquegua denuncia que las coordenadas legislativas abarcan el sector de Quebrada Honda (distrito de Torata), reduciendo su territorio y afectando recursos del canon minero. Exigen que el presidente José María Balcázar observe la ley. Se suspendieron clases presenciales en 4 distritos. El gobernador de Tacna niega afectación territorial.",
+    "status": "en_curso",
+    "lat": "-17.1930",
+    "lng": "-70.9350",
+    "fuentes": [
+      {
+        "nombre": "RPP - Paro indefinido Moquegua 30 junio 2026",
+        "url": "https://rpp.pe/peru/moquegua/paro-indefinido-en-moquegua-por-conflicto-de-limites-territoriales-con-tacna-2026-noticia-1695248"
+      },
+      {
+        "nombre": "Correo - Moquegua paro regional indefinido 30 junio",
+        "url": "https://diariocorreo.pe/peru/moquegua-acatara-paro-regional-indefinido-desde-este-30-de-junio-por-conflicto-de-limites-con-tacna-noticia/"
+      },
+      {
+        "nombre": "La República - Moquegua paro indefinido 30 junio 2026",
+        "url": "https://larepublica.pe/politica/2026/06/28/moquegua-acatara-paro-indefinido-desde-el-martes-30-de-junio-por-proyecto-de-ley-que-modificaria-su-territorio-hnews-991844"
+      },
+      {
+        "nombre": "RPP - Suspenden clases en Moquegua por paro",
+        "url": "https://rpp.pe/peru/moquegua/moquegua-suspenden-clases-presenciales-ante-el-inicio-del-paro-regional-indefinido-de-este-martes-noticia-1695247"
+      }
+    ],
+    "createdAt": "2026-06-30T11:29:19.000Z",
+    "updatedAt": "2026-06-30T11:33:53Z"
   },
   {
     "id": 294,
@@ -337,7 +498,7 @@
       }
     ],
     "createdAt": "2026-06-29T05:13:52.000Z",
-    "updatedAt": "2026-06-30T08:34:48Z"
+    "updatedAt": "2026-06-30T11:33:53Z"
   },
   {
     "id": 313,
@@ -403,7 +564,7 @@
       }
     ],
     "createdAt": "2026-06-29T22:39:06.000Z",
-    "updatedAt": "2026-06-30T08:34:48Z"
+    "updatedAt": "2026-06-30T11:33:53Z"
   },
   {
     "id": 315,
@@ -436,7 +597,7 @@
       }
     ],
     "createdAt": "2026-06-30T00:06:03.000Z",
-    "updatedAt": "2026-06-30T08:34:48Z"
+    "updatedAt": "2026-06-30T11:33:53Z"
   },
   {
     "id": 316,
@@ -481,7 +642,7 @@
       }
     ],
     "createdAt": "2026-06-30T00:06:03.000Z",
-    "updatedAt": "2026-06-30T08:34:48Z"
+    "updatedAt": "2026-06-30T11:33:53Z"
   },
   {
     "id": 321,
@@ -506,6 +667,6 @@
       }
     ],
     "createdAt": "2026-06-30T08:30:41.000Z",
-    "updatedAt": "2026-06-30T08:34:48Z"
+    "updatedAt": "2026-06-30T11:33:53Z"
   }
 ]
