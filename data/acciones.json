@@ -1,49 +1,5 @@
 [
   {
-    "id": 281,
-    "seccion": "protestas_int",
-    "pais": "Albania",
-    "bandera": "🇦🇱",
-    "hora": "19:00",
-    "fecha": "2026-07-02",
-    "lugar": "Skanderbeg Square → Oficina del Primer Ministro, Tirana",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Flamingo Revolution",
-      "Ciudadanos de Albania",
-      "Activistas ambientales",
-      "Sociedad civil albanesa"
-    ],
-    "motivo": "35° día consecutivo de protestas de la 'Revolución Flamenco' (Flamingo Revolution) en Tirana, el mayor movimiento civil en Albania desde la caída del comunismo. Protestan contra un proyecto turístico de lujo de 1.400 millones de USD en Zvernec vinculado a Jared Kushner (yerno de Donald Trump) en un área protegida de flamingos. Exigen la renuncia del primer ministro Edi Rama, fin de la corrupción, protección ambiental y el cese de la venta de tierras públicas.",
-    "status": "en_curso",
-    "lat": "41.3275",
-    "lng": "19.8187",
-    "fuentes": [
-      {
-        "nombre": "Anadolu Agency - Albania Flamingo Revolution protests",
-        "url": "https://www.aa.com.tr/en/europe/albania-protesters-rally-for-28-straight-days-against-alleged-trump-s-son-in-law-linked-project/3980111"
-      },
-      {
-        "nombre": "DW - The Flamingo Revolution: What's behind Albania's protests?",
-        "url": "https://www.dw.com/en/the-flamingo-revolution-whats-behind-albanias-protests/a-77710991"
-      },
-      {
-        "nombre": "Politico - Protesters and police clash in Albania June 30",
-        "url": "https://www.politico.eu/article/protestors-and-police-clash-in-albania-one-day-after-meps-visit/"
-      },
-      {
-        "nombre": "Albeu - Protesters gather at SPAK July 1",
-        "url": "https://albeu.com/english/protesters-gather-today-at-1000-outside-spak-to-submit-the-book-albanian-files-ramas-resignation-demanded/905355/"
-      },
-      {
-        "nombre": "Citizen Digital - Albanian police arrest protesters July 1",
-        "url": "https://citizen.digital/article/albanian-police-arrest-protesters-after-eggs-thrown-at-mps-cars-n385543"
-      }
-    ],
-    "createdAt": "2026-06-29T00:17:04.000Z",
-    "updatedAt": "2026-07-02T13:59:32Z"
-  },
-  {
     "id": 307,
     "seccion": "protestas_int",
     "pais": "Portugal",
@@ -70,7 +26,7 @@
       }
     ],
     "createdAt": "2026-06-29T21:24:17.000Z",
-    "updatedAt": "2026-07-02T13:59:32Z"
+    "updatedAt": "2026-07-02T16:12:20Z"
   },
   {
     "id": 322,
@@ -119,114 +75,7 @@
       }
     ],
     "createdAt": "2026-06-30T11:29:19.000Z",
-    "updatedAt": "2026-07-02T13:59:32Z"
-  },
-  {
-    "id": 324,
-    "seccion": "protestas_int",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "00:00",
-    "fecha": "2026-07-02",
-    "lugar": "Jantar Mantar, Nueva Delhi",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Cockroach Janata Party (CJP)",
-      "Activista Sonam Wangchuk",
-      "All-India Students' Association (AISA)",
-      "Líderes agricultores (Khap)"
-    ],
-    "motivo": "Día 5 de la huelga de hambre indefinida del activista climático Sonam Wangchuk en Jantar Mantar, en el marco de la protesta del Cockroach Janata Party que comenzó el 20 de junio. Exigen la renuncia del ministro de Educación Dharmendra Pradhan por presuntas irregularidades en exámenes competitivos (filtración de exámenes NEET). Wangchuk también demanda protección constitucional para Ladakh. Cientos de estudiantes, agricultores y miembros de la sociedad civil se congregan diariamente.",
-    "status": "en_curso",
-    "lat": "28.6273",
-    "lng": "77.2167",
-    "fuentes": [
-      {
-        "nombre": "Times of India - Wangchuk hunger strike day 3 June 30",
-        "url": "https://timesofindia.indiatimes.com/city/delhi/pradhan-will-be-responsible-if-anything-happens-sonam-wangchuks-blood-sugar-drops-to-66-as-hunger-strike-enters-day-3/articleshow/132085568.cms"
-      },
-      {
-        "nombre": "The Tribune - Sonam Wangchuk begins indefinite fast",
-        "url": "https://www.tribuneindia.com/news/top-headlines/sonam-wangchuk-begins-indefinite-fast-at-delhis-jantar-mantar/"
-      },
-      {
-        "nombre": "Outlook India - Sonam Wangchuk urges people to join his anshan",
-        "url": "https://www.outlookindia.com/national/sonam-wangchuk-urges-people-across-the-country-to-join-his-anshan"
-      }
-    ],
-    "createdAt": "2026-06-30T11:29:19.000Z",
-    "updatedAt": "2026-07-02T13:59:32Z"
-  },
-  {
-    "id": 325,
-    "seccion": "protestas_int",
-    "pais": "Perú",
-    "bandera": "🇵🇪",
-    "hora": "00:00",
-    "fecha": "2026-07-02",
-    "lugar": "Región Moquegua (distritos de Moquegua, Samegua, Torata, San Antonio), con bloqueos en la Panamericana Sur",
-    "tipoAccion": "paro",
-    "organizaciones": [
-      "Comité de Comando de Lucha por la Defensa del Territorio de Moquegua",
-      "Gobierno Regional de Moquegua (Gilia Gutiérrez)",
-      "Sociedad civil organizada",
-      "Gremios y transportistas"
-    ],
-    "motivo": "Tercer día del paro regional indefinido en rechazo al Proyecto de Ley N.° 11658/2024-PE, aprobado por el Congreso el 23 de junio, que modifica los límites territoriales entre Moquegua y Tacna. Moquegua denuncia que las coordenadas legislativas abarcan el sector de Quebrada Honda (distrito de Torata), reduciendo su territorio y afectando recursos del canon minero. Exigen que el presidente José María Balcázar observe la ley. Se suspendieron clases presenciales en 4 distritos.",
-    "status": "en_curso",
-    "lat": "-17.1930",
-    "lng": "-70.9350",
-    "fuentes": [
-      {
-        "nombre": "RPP - Paro indefinido Moquegua 30 junio 2026",
-        "url": "https://rpp.pe/peru/moquegua/paro-indefinido-en-moquegua-por-conflicto-de-limites-territoriales-con-tacna-2026-noticia-1695248"
-      },
-      {
-        "nombre": "La República - Moquegua paro indefinido 30 junio 2026",
-        "url": "https://larepublica.pe/politica/2026/06/28/moquegua-acatara-paro-indefinido-desde-el-martes-30-de-junio-por-proyecto-de-ley-que-modificaria-su-territorio-hnews-991844"
-      },
-      {
-        "nombre": "Correo - Moquegua paro regional indefinido 30 junio",
-        "url": "https://diariocorreo.pe/peru/moquegua-acatara-paro-regional-indefinido-desde-este-30-de-junio-por-conflicto-de-limites-con-tacna-noticia/"
-      }
-    ],
-    "createdAt": "2026-06-30T11:29:19.000Z",
-    "updatedAt": "2026-07-02T13:59:32Z"
-  },
-  {
-    "id": 332,
-    "seccion": "protestas_int",
-    "pais": "Pakistán (Cachemira bajo ocupación)",
-    "bandera": "🇵🇰",
-    "hora": "00:00",
-    "fecha": "2026-07-02",
-    "lugar": "Rawalakot, Poonch y Sudhnoti, Cachemira bajo administración pakistaní",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Jammu Kashmir Joint Awami Action Committee (JAAC)",
-      "Sardar Aman Khan",
-      "Activistas civiles"
-    ],
-    "motivo": "Continuación de protestas masivas en Rawalakot contra el gobierno de Islamabad, exigiendo la implementación de un acuerdo firmado en octubre de 2025, la abolición de escaños reservados para refugiados, y el fin del bloqueo de suministros. Manifestantes corean que la región 'no es parte de Pakistán'. El líder Sardar Aman Khan advirtió que la crisis humanitaria podría llevar a la población a buscar ayuda en India. El gobierno desplegó paramilitares, impuso toques de queda y suspendió internet móvil.",
-    "status": "en_curso",
-    "lat": "33.8500",
-    "lng": "73.7500",
-    "fuentes": [
-      {
-        "nombre": "Republic World - Massive PoK protests June 30 2026",
-        "url": "https://www.republicworld.com/world-news/pok-food-shortages-local-leader-says-people-may-turn-to-india-if-blockades-continue-as-protest-erupts-in-rawalkot-2026-06-30-130638"
-      },
-      {
-        "nombre": "India Today - POK is not part of Pakistan: Thousands rally June 30",
-        "url": "https://www.indiatoday.in/world/story/pok-protest-rawalakot-challenges-pakistan-food-blockade-warns-of-turning-towards-india-2937588-2026-06-30"
-      },
-      {
-        "nombre": "News18 - JAAC Leader arrest triggers widespread protests PoK July 1",
-        "url": "https://www.news18.com/world/jaac-leader-shaukat-mirs-arrest-triggers-widespread-protests-across-pok-demonstrations-reach-uk-ws-l-10183560.html"
-      }
-    ],
-    "createdAt": "2026-06-30T16:03:18.000Z",
-    "updatedAt": "2026-07-02T13:59:32Z"
+    "updatedAt": "2026-07-02T16:12:20Z"
   },
   {
     "id": 339,
@@ -255,7 +104,7 @@
       }
     ],
     "createdAt": "2026-06-30T20:34:17.000Z",
-    "updatedAt": "2026-07-02T13:59:32Z"
+    "updatedAt": "2026-07-02T16:12:20Z"
   },
   {
     "id": 345,
@@ -285,7 +134,7 @@
       }
     ],
     "createdAt": "2026-07-01T01:39:12.000Z",
-    "updatedAt": "2026-07-02T13:59:32Z"
+    "updatedAt": "2026-07-02T16:12:20Z"
   },
   {
     "id": 346,
@@ -320,7 +169,7 @@
       }
     ],
     "createdAt": "2026-07-01T01:39:12.000Z",
-    "updatedAt": "2026-07-02T13:59:32Z"
+    "updatedAt": "2026-07-02T16:12:20Z"
   },
   {
     "id": 347,
@@ -345,7 +194,7 @@
       }
     ],
     "createdAt": "2026-07-01T01:39:12.000Z",
-    "updatedAt": "2026-07-02T13:59:32Z"
+    "updatedAt": "2026-07-02T16:12:20Z"
   },
   {
     "id": 348,
@@ -371,7 +220,7 @@
       }
     ],
     "createdAt": "2026-07-01T01:39:12.000Z",
-    "updatedAt": "2026-07-02T13:59:32Z"
+    "updatedAt": "2026-07-02T16:12:20Z"
   },
   {
     "id": 362,
@@ -405,7 +254,7 @@
       }
     ],
     "createdAt": "2026-07-01T13:18:37.000Z",
-    "updatedAt": "2026-07-02T13:59:32Z"
+    "updatedAt": "2026-07-02T16:12:20Z"
   },
   {
     "id": 363,
@@ -439,7 +288,7 @@
       }
     ],
     "createdAt": "2026-07-01T13:18:37.000Z",
-    "updatedAt": "2026-07-02T13:59:32Z"
+    "updatedAt": "2026-07-02T16:12:20Z"
   },
   {
     "id": 364,
@@ -468,45 +317,7 @@
       }
     ],
     "createdAt": "2026-07-01T13:18:37.000Z",
-    "updatedAt": "2026-07-02T13:59:32Z"
-  },
-  {
-    "id": 370,
-    "seccion": "protestas_int",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
-    "hora": "00:00",
-    "fecha": "2026-07-02",
-    "lugar": "Haverhill, Lawrence y 16 comunidades del noreste de Massachusetts (Merrimack Valley)",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "Teamsters Local 104",
-      "MeVa Transit (Merrimack Valley Regional Transit Authority)"
-    ],
-    "motivo": "Segundo día de huelga de conductores de autobuses y mecánicos de Merrimack Valley Transit (MeVa) tras expirar su contrato. El paro afecta a 16 comunidades del noreste de Massachusetts. Exigen mejores salarios y condiciones laborales. Servicios de autobús suspendidos en toda el área.",
-    "status": "en_curso",
-    "lat": "42.7762",
-    "lng": "-71.0773",
-    "fuentes": [
-      {
-        "nombre": "CBS Boston - Merrimack Valley Transit bus drivers go on strike July 1",
-        "url": "https://www.cbsnews.com/boston/video/merrimack-valley-transit-bus-drivers-go-on-strike/"
-      },
-      {
-        "nombre": "Hoodline - Lawrence MeVa Strike Could Disrupt Bus Service July 1",
-        "url": "https://hoodline.com/2026/07/heat-hustle-and-no-ride-lawrence-braces-as-meva-strike-looms/"
-      },
-      {
-        "nombre": "MSN News - Merrimack Valley Transit bus drivers go on strike July 1",
-        "url": "https://www.msn.com/en-us/news/us/merrimack-valley-transit-bus-drivers-go-on-strike-impacting-dozens-of-towns/ar-AA26YX08"
-      },
-      {
-        "nombre": "StrikeTracker - MeVa bus strike July 1 2026",
-        "url": "https://striketracker.app/strikes-in-united-states"
-      }
-    ],
-    "createdAt": "2026-07-01T23:23:32.000Z",
-    "updatedAt": "2026-07-02T13:59:32Z"
+    "updatedAt": "2026-07-02T16:12:20Z"
   },
   {
     "id": 374,
@@ -554,7 +365,7 @@
       }
     ],
     "createdAt": "2026-07-02T05:57:14.000Z",
-    "updatedAt": "2026-07-02T13:59:32Z"
+    "updatedAt": "2026-07-02T16:12:20Z"
   },
   {
     "id": 375,
@@ -583,7 +394,7 @@
       }
     ],
     "createdAt": "2026-07-02T05:57:14.000Z",
-    "updatedAt": "2026-07-02T13:59:32Z"
+    "updatedAt": "2026-07-02T16:12:20Z"
   },
   {
     "id": 376,
@@ -615,7 +426,7 @@
       }
     ],
     "createdAt": "2026-07-02T05:57:14.000Z",
-    "updatedAt": "2026-07-02T13:59:32Z"
+    "updatedAt": "2026-07-02T16:12:20Z"
   },
   {
     "id": 377,
@@ -651,7 +462,7 @@
       }
     ],
     "createdAt": "2026-07-02T05:57:14.000Z",
-    "updatedAt": "2026-07-02T13:59:32Z"
+    "updatedAt": "2026-07-02T16:12:20Z"
   },
   {
     "id": 378,
@@ -682,7 +493,7 @@
       }
     ],
     "createdAt": "2026-07-02T05:57:14.000Z",
-    "updatedAt": "2026-07-02T13:59:32Z"
+    "updatedAt": "2026-07-02T16:12:20Z"
   },
   {
     "id": 380,
@@ -711,7 +522,7 @@
       }
     ],
     "createdAt": "2026-07-02T09:17:35.000Z",
-    "updatedAt": "2026-07-02T13:59:32Z"
+    "updatedAt": "2026-07-02T16:12:20Z"
   },
   {
     "id": 381,
@@ -744,7 +555,7 @@
       }
     ],
     "createdAt": "2026-07-02T09:17:35.000Z",
-    "updatedAt": "2026-07-02T13:59:32Z"
+    "updatedAt": "2026-07-02T16:12:20Z"
   },
   {
     "id": 382,
@@ -778,169 +589,7 @@
       }
     ],
     "createdAt": "2026-07-02T09:17:35.000Z",
-    "updatedAt": "2026-07-02T13:59:32Z"
-  },
-  {
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "createdAt": "2026-07-02T01:36:55.000Z",
-    "updatedAt": "2026-07-02T13:59:32Z",
-    "id": 372,
-    "fecha": "2026-07-02",
-    "hora": "00:00",
-    "lugar": "Provincia de Santa Cruz (todo el territorio provincial), con epicentro en Río Gallegos (frente a Casa de Gobierno)",
-    "tipoAccion": "paro",
-    "organizaciones": [
-      "ADOSAC (Asociación Docentes de Santa Cruz)"
-    ],
-    "motivo": "Cuarto y último día del paro total de actividades por 96 horas en toda la provincia de Santa Cruz (29 jun - 2 jul). El Congreso Provincial de ADOSAC ratificó la medida tras considerar insuficiente la oferta del gobierno provincial. Exigen: aumento salarial inmediato ante la pérdida del poder adquisitivo (salario inicial de $1.276.000 frente a una canasta básica regional de $1.900.000), devolución total de los descuentos aplicados por días de huelga anteriores, y tratamiento urgente de la propuesta pedagógica presentada por el sindicato. El 2 de julio realizaron una movilización frente a Casa de Gobierno en Río Gallegos.",
-    "status": "en_curso",
-    "lat": "-51.6230",
-    "lng": "-69.2168",
-    "fuentes": [
-      {
-        "nombre": "TiempoSur - ADOSAC ratificó un paro de 96 horas (28 junio 2026)",
-        "url": "https://www.tiemposur.com.ar/info-general/adosac-ratifico-un-paro-de-96-horas"
-      },
-      {
-        "nombre": "Señal Calafate - 96h: ADOSAC estaría de paro casi toda la semana (27 junio 2026)",
-        "url": "https://xn--sealcalafate-bhb.com/contenido/22845/adosac-vuelve-al-paro-desde-manana"
-      },
-      {
-        "nombre": "La Opinión Austral - ADOSAC definió paro de 96 horas y espera que el Gobierno mejore la oferta (28 junio 2026)",
-        "url": "https://www.opisantacruz.com.ar/2026/06/28/adosac-definio-paro-de-96-horas-y-espera-que-el-gobierno-mejore-la-oferta-salarial/"
-      },
-      {
-        "nombre": "La Opinión Austral - ADOSAC ratificó el paro de 96 horas en Santa Cruz (28 junio 2026)",
-        "url": "https://laopinionaustral.com.ar/politica-y-economia/adosac-ratifico-el-paro-de-96-horas-en-santa-cruz-676924.html"
-      },
-      {
-        "nombre": "El Destape - Nueva semana caliente para Vidal: estatales, docentes y policías elevan medidas de fuerza (29 junio 2026)",
-        "url": "https://www.eldestapeweb.com/politica/nueva-semana-caliente-vidal-estatales-docentes-policias-elevan-medidas-fuerza-202662915814"
-      },
-      {
-        "nombre": "El Destape - Vidal suma otro conflicto: docentes anuncian paro y marcha 2 julio (29 junio 2026)",
-        "url": "https://www.eldestapeweb.com/politica/vidal-no-logra-destrabar-conflictos-docentes-santa-cruz-rechazaron-paritaria-lanzan-otro-paro-96-horas-2026629172247"
-      }
-    ]
-  },
-  {
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "createdAt": "2026-07-02T01:36:55.000Z",
-    "updatedAt": "2026-07-02T13:59:32Z",
-    "id": 373,
-    "fecha": "2026-07-02",
-    "hora": "00:00",
-    "lugar": "Casa de Gobierno (con acampe 'Carpa de la Dignidad'), Río Gallegos, y en toda la provincia de Santa Cruz",
-    "tipoAccion": "quite de colaboración",
-    "organizaciones": [
-      "Policías Autoconvocados de Santa Cruz",
-      "Bomberos de Santa Cruz"
-    ],
-    "motivo": "Quite de colaboración y acampe ('Carpa de la Dignidad') de policías y bomberos de Santa Cruz frente a Casa de Gobierno en Río Gallegos, con más de un mes de conflicto salarial. Exigen que un agente ingresante alcance un salario de $2.200.000 (actualmente cobran $1.100.000, por debajo de la línea de pobreza). Rechazaron 11 ofertas del gobierno provincial. El 95% de los efectivos están plegados. Fuerzas federales (Gendarmería, Prefectura, Policía Federal, PSA, SPF) cubren patrullaje. El gobierno nacional amenazó con denuncias penales si no levantan el quite de colaboración.",
-    "status": "en_curso",
-    "lat": "-51.6230",
-    "lng": "-69.2168",
-    "fuentes": [
-      {
-        "nombre": "Infogremiales - Policías cumplen un mes de acampe rechazan 11 ofertas (29 junio 2026)",
-        "url": "https://www.infogremiales.com.ar/tension-en-santa-cruz-policias-cumplen-un-mes-de-acampe-frente-a-la-gobernacion-y-rechazan-11-ofertas-salariales/"
-      },
-      {
-        "nombre": "La Nación - Tensión Santa Cruz cumple un mes conflicto policía",
-        "url": "https://www.lanacion.com.ar/politica/tension-en-santa-cruz-cumple-un-mes-el-conflicto-por-salarios-de-la-policia-tras-el-rechazo-de-11-nid28062026/"
-      },
-      {
-        "nombre": "Infobae - Conflicto salarial policía Santa Cruz acampe",
-        "url": "https://www.infobae.com/politica/2026/06/06/conflicto-salarial-con-la-policia-en-santa-cruz-protestas-acampe-y-refuerzo-de-fuerzas-federales-de-nacion"
-      },
-      {
-        "nombre": "OPI Santa Cruz - Vidal desbordado: Milei interviene para quebrar paro policial (1 julio 2026)",
-        "url": "https://www.opisantacruz.com.ar/2026/07/01/parte-del-acuerdo-con-milei-nacion-se-mete-en-el-conflicto-policial-amenaza-y-tensa-la-cuerda-el-gobierno-provincial-esta-rebasado-y-no-encuentra-la-salida/"
-      },
-      {
-        "nombre": "La Arena - Policías de Santa Cruz están acuartelados hace un mes y reclaman mejoras salariales (1 julio 2026)",
-        "url": "https://www.laarena.com.ar/el-pais/policias-de-santa-cruz-estan-acuartelados-hace-un-mes-y-reclaman-mejoras-salariales-2026719500"
-      },
-      {
-        "nombre": "ADNSUR - Jamás nos recibió: la dura acusación de los policías contra Claudio Vidal (1 julio 2026)",
-        "url": "https://www.adnsur.com.ar/policiales---judiciales/-jamas-nos-recibio---la-dura-acusacion-de-los-policias-de-santa-cruz-contra-claudio-vidal-en-plena-protesta_a6a4506240932c618ef74bb3b"
-      },
-      {
-        "nombre": "OPI Santa Cruz - Marcha del Frente Sindical confluye con acampe policial (1 julio 2026)",
-        "url": "https://www.opisantacruz.com.ar/2026/07/01/marcha-del-frente-sindical-en-rio-gallegos/"
-      }
-    ]
-  },
-  {
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "createdAt": "2026-07-02T06:00:25.000Z",
-    "updatedAt": "2026-07-02T13:59:32Z",
-    "id": 379,
-    "fecha": "2026-07-02",
-    "hora": "09:30",
-    "lugar": "Plaza 25 de Mayo, Resistencia, Provincia del Chaco",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Vendedores Ambulantes Autoconvocados de Resistencia"
-    ],
-    "motivo": "Protesta 'Dulce Resistencia' en la Semana de la Dulzura. Vendedores ambulantes de Resistencia reclaman ser incluidos en la Bienal Internacional de Esculturas 2026 para trabajar de manera ordenada. Exigen una mesa de diálogo con el Municipio de Resistencia y el Gobierno del Chaco para regularizar la actividad. Reunieron más de 200 firmas de apoyo ciudadano. Entregan algodones de azúcar gratis para visibilizar el reclamo.",
-    "status": "convocada",
-    "lat": "-27.4514",
-    "lng": "-58.9869",
-    "fuentes": [
-      {
-        "nombre": "NEA HOY - Vendedores ambulantes reclaman por trabajo en Resistencia (1 julio 2026)",
-        "url": "https://neahoy.com/2026/07/01/con-algodones-de-azucar-vendedores-ambulantes-volveran-a-reclamar-por-trabajo-en-resistencia/"
-      },
-      {
-        "nombre": "Infoqom - Vendedores ambulantes volverán a manifestarse (1 julio 2026)",
-        "url": "https://infoqom.com.ar/vendedores-ambulantes-volveran-a-manifestarse-para-pedir-un-lugar-de-trabajo-en-la-bienal-2026/"
-      },
-      {
-        "nombre": "Diario La Voz del Chaco - Bienal: vendedores ambulantes lanzan Dulce Resistencia (30 junio 2026)",
-        "url": "https://www.diariolavozdelchaco.com/2026/06/30/bienal-vendedores-ambulantes-lanzan-dulce-resistencia-y-piden-dialogar-con-el-municipio-y-la-provincia/"
-      }
-    ]
-  },
-  {
-    "id": 383,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "00:00",
-    "fecha": "2026-07-02",
-    "lugar": "Tribunales de toda la provincia de Córdoba (Capital e interior), con concentración en Tribunales I",
-    "tipoAccion": "paro",
-    "organizaciones": [
-      "AGEPJ (Asociación Gremial de Empleados del Poder Judicial)",
-      "Judiciales autoconvocados de Córdoba"
-    ],
-    "motivo": "Paro de 72 horas (1-3 de julio) de empleados judiciales de Córdoba tras rechazar por 513 votos contra 228 la oferta salarial del Tribunal Superior de Justicia (TSJ) y del gobernador Martín Llaryora. Exigen recomposición salarial urgente, cumplimiento del acuerdo de equiparación firmado en 2025 con la Justicia Federal (que queda neutralizado por aumentos de aportes jubilatorios del 6% al 8% y de Apross), y derogación de la Ley 11.087. La Fiscalía General emitió un memorando exigiendo guardias mínimas bajo amenaza de falta grave, lo que el gremio rechaza por considerar ilegal.",
-    "status": "en_curso",
-    "lat": "-31.4201",
-    "lng": "-64.1888",
-    "fuentes": [
-      {
-        "nombre": "Perfil - Memorando tensióna conflicto salarial judicial Córdoba (2 julio 2026)",
-        "url": "https://www.perfil.com/noticias/cordoba/un-memorando-tensiona-aun-mas-el-conflicto-salarial-ante-el-paro-ordena-garantizar-servicios-en-unidades-judiciales.phtml"
-      },
-      {
-        "nombre": "AGEPJ - Cronograma paro 72hs 1,2,3 julio 2026",
-        "url": "https://agepj.org.ar/culmina-el-paro-con-una-gran-adhesion-sin-propuestas-continua-el-plan-de-lucha-asamblea-general-extraordinaria-propuesta-de-paros-de-60-hs-y-72-hs-asambleas-y-movilizaciones/"
-      },
-      {
-        "nombre": "La Voz - Judiciales rechazaron oferta salarial Llaryora (1 julio 2026)",
-        "url": "https://www.lavoz.com.ar/politica/empleados-judiciales-rechazaron-oferta-salarial-llaryora_0_FyeWU0aatA.html"
-      }
-    ],
-    "createdAt": "2026-07-02T11:53:38.000Z",
-    "updatedAt": "2026-07-02T13:59:32Z"
+    "updatedAt": "2026-07-02T16:12:20Z"
   },
   {
     "id": 384,
@@ -975,7 +624,7 @@
       }
     ],
     "createdAt": "2026-07-02T13:58:27.000Z",
-    "updatedAt": "2026-07-02T13:59:32Z"
+    "updatedAt": "2026-07-02T16:12:20Z"
   },
   {
     "id": 385,
@@ -1001,6 +650,183 @@
       }
     ],
     "createdAt": "2026-07-02T13:58:27.000Z",
-    "updatedAt": "2026-07-02T13:59:32Z"
+    "updatedAt": "2026-07-02T16:12:20Z"
+  },
+  {
+    "id": 386,
+    "seccion": "protestas_int",
+    "pais": "Colombia",
+    "bandera": "🇨🇴",
+    "hora": "06:45",
+    "fecha": "2026-07-02",
+    "lugar": "Autopista Sur (carrera 62A), sector Frigorífico Guadalupe, Bogotá - Soacha",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Trabajadores del frigorífico",
+      "Comerciantes del sector",
+      "Transportadores de carga pesada"
+    ],
+    "motivo": "Protesta de trabajadores de frigoríficos, comerciantes y transportadores de carga pesada que bloqueó la Autopista Sur entre Bogotá y Soacha desde tempranas horas. Exigen apertura de mesas de diálogo con el Distrito para frenar operativos de control y restricciones ambientales que afectan su trabajo. El bloqueo total en ambos sentidos obligó a suspender el servicio de TransMilenio entre Portal Sur y San Mateo, cerrando 12 estaciones. Concejal denunció extorsiones en la zona. Policía intervino para disuadir la manifestación.",
+    "status": "en_curso",
+    "lat": "4.5709",
+    "lng": "-74.1449",
+    "fuentes": [
+      {
+        "nombre": "Infobae - Autopista Sur bloqueada protestas Bogotá 2 julio 2026",
+        "url": "https://www.infobae.com/colombia/2026/07/02/la-autopista-sur-permanece-bloqueada-por-protestas-y-afecta-el-transito-entre-bogota-y-soacha-esto-se-sabe/"
+      },
+      {
+        "nombre": "Colombia.com - Protestas bloquean Autopista Sur TransMilenio 2 julio 2026",
+        "url": "https://www.colombia.com/actualidad/nacionales/bloqueo-en-la-autopista-sur-hoy-estas-son-las-estaciones-de-transmilenio-cerradas-590248"
+      }
+    ],
+    "createdAt": "2026-07-02T16:04:21.000Z",
+    "updatedAt": "2026-07-02T16:12:20Z"
+  },
+  {
+    "id": 387,
+    "seccion": "protestas_int",
+    "pais": "Reino Unido",
+    "bandera": "🇬🇧",
+    "hora": "08:00",
+    "fecha": "2026-07-02",
+    "lugar": "Institute of Cancer Research (ICR), Sutton y Chelsea, Londres",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "Unite the Union"
+    ],
+    "motivo": "Huelga continua de trabajadores del Institute of Cancer Research (ICR) en Londres (Sutton y Chelsea) del 29 de junio al 10 de julio, contra la baja oferta salarial del 4% mientras el CEO gana más de £457,000 anuales y el instituto tiene más de £100 millones en reservas. Exigen aumento salarial justo y restauración del poder adquisitivo perdido tras años de aumentos por debajo de la inflación. Trabajadores de investigación, laboratorios y mantenimiento ganan apenas por encima del salario mínimo de Londres.",
+    "status": "en_curso",
+    "lat": "51.4934",
+    "lng": "-0.1738",
+    "fuentes": [
+      {
+        "nombre": "Unite the Union - Further London strikes Institute of Cancer Research June 24",
+        "url": "https://www.unitetheunion.org/news-events/news/2026/june/further-london-strikes-at-world-leading-institute-of-cancer-research"
+      },
+      {
+        "nombre": "StrikeCalendar - ICR industrial action July 2 2026",
+        "url": "https://www.strikecalendar.co.uk/union/unite/instituteofcancerresearchunite"
+      }
+    ],
+    "createdAt": "2026-07-02T16:04:21.000Z",
+    "updatedAt": "2026-07-02T16:12:20Z"
+  },
+  {
+    "id": 388,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "09:00",
+    "fecha": "2026-07-02",
+    "lugar": "Sede central CNEA, Av. del Libertador 8250, Núñez, CABA; Centro Atómico Bariloche, Río Negro",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "ATE (Asociación de Trabajadores del Estado)",
+      "APCNEAN (Asociación de Profesionales de la CNEA)"
+    ],
+    "motivo": "Protesta contra el despido de casi 100 trabajadores de la Comisión Nacional de Energía Atómica (CNEA) y contra la represión de Gendarmería durante la toma del edificio el 30 de junio. El 1 de julio los trabajadores volvieron a concentrarse frente a la sede central. Exigen reincorporación de los cesanteados y rechazan el ajuste que redujo la estructura del organismo en un 57,83%. ATE convoca a plenario nacional para debatir una nueva huelga general. El 2 de julio está prevista una mesa de negociación con las autoridades.",
+    "status": "en_curso",
+    "lat": "-34.5467",
+    "lng": "-58.4629",
+    "fuentes": [
+      {
+        "nombre": "Página 12 - Para los científicos, más ajuste y represión (2 julio 2026)",
+        "url": "https://www.pagina12.com.ar/2026/07/02/para-los-cientificos-mas-ajuste-y-represion-2/"
+      },
+      {
+        "nombre": "La Arena - Denuncian persecución en CNEA (2 julio 2026)",
+        "url": "https://www.laarena.com.ar/el-pais/denuncian-persecucion-en-cnea-2026720470"
+      },
+      {
+        "nombre": "Agenda del Sur - Gobierno despidió más de 100 trabajadores de la Comisión Atómica (2 julio 2026)",
+        "url": "https://agendadelsur.com/index.php/2026/07/02/el-gobierno-nacional-despidio-mas-de-100-trabajadores-de-la-comision-atomica-y-el-presidente-huyo-escoltado-por-gendarmeria/"
+      },
+      {
+        "nombre": "infoydata - ATE denuncia vaciamiento del plan nuclear (2 julio 2026)",
+        "url": "https://infoydata.com/despidos-cnea-vaciamiento-plan-nuclear-argentino/"
+      },
+      {
+        "nombre": "El Ciudadano - Nueva protesta en la CNEA (1 julio 2026)",
+        "url": "https://elciudadanoweb.com/nueva-protesta-en-la-cnea-trabajadores-volvieron-a-concentrarse-tras-el-desalojo-de-gendarmeria/"
+      },
+      {
+        "nombre": "ATE - Aguiar encabezó protesta por despidos en CNEA (1 julio 2026)",
+        "url": "https://ate.org.ar/260701-cnea-protesta/"
+      }
+    ],
+    "createdAt": "2026-07-02T16:07:18.000Z",
+    "updatedAt": "2026-07-02T16:12:20Z"
+  },
+  {
+    "id": 389,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "11:00",
+    "fecha": "2026-07-02",
+    "lugar": "Polo Científico, Av. Santa Fe y Godoy Cruz, CABA; sedes del CONICET en todo el país (Bariloche, Bahía Blanca, etc.)",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "ATE CONICET Capital",
+      "Colectivo de Becarias y Becarios Posdoctorales CONICET"
+    ],
+    "motivo": "Jornada nacional de protesta en defensa del sistema científico argentino. Rechazan el despido inminente de 379 becarios posdoctorales que quedarán sin trabajo a fin de julio, la baja arbitraria de la obra social (Unión Personal), la cancelación de concursos de Personal de Apoyo (CPA), el congelamiento del financiamiento (reducido al 0,14% del PBI) y la pérdida salarial superior al 40%. El 1 de julio la Guardia de Infantería de la Policía de la Ciudad reprimió a manifestantes cuando cortaban Av. Santa Fe.",
+    "status": "en_curso",
+    "lat": "-34.5881",
+    "lng": "-58.4013",
+    "fuentes": [
+      {
+        "nombre": "Página 12 - Para los científicos, más ajuste y represión (2 julio 2026)",
+        "url": "https://www.pagina12.com.ar/2026/07/02/para-los-cientificos-mas-ajuste-y-represion-2/"
+      },
+      {
+        "nombre": "El Foco Venezuela - Policía argentina reprime protesta de trabajadores ante despidos (2 julio 2026)",
+        "url": "https://elfoco.ve/policia-argentina-reprime-protesta-de-trabajadores-ante-despidos/"
+      },
+      {
+        "nombre": "Tiempo Argentino - CONICET: la Policía de la Ciudad reprimió protesta (1 julio 2026)",
+        "url": "https://www.tiempoar.com.ar/ta_article/conicet-la-policia-de-la-ciudad-reprimio-una-protesta-en-contra-de-los-despidos-y-el-ajuste/"
+      },
+      {
+        "nombre": "C5N - Científicos cortaron Av. Santa Fe (1 julio 2026)",
+        "url": "https://www.c5n.com/sociedad/cientificos-investigadores-y-becarios-del-conicet-cortaron-avenida-santa-fe-tension-y-empujones-la-policia-n242359"
+      },
+      {
+        "nombre": "Página 12 - Ajuste y palos para becarios del Conicet (1 julio 2026)",
+        "url": "https://www.pagina12.com.ar/2026/07/01/reprimieron-a-becarios-y-becarias-del-conicet-que-marcharon-por-sus-puestos-de-trabajo/"
+      }
+    ],
+    "createdAt": "2026-07-02T16:07:18.000Z",
+    "updatedAt": "2026-07-02T16:12:20Z"
+  },
+  {
+    "id": 390,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "00:00",
+    "fecha": "2026-07-02",
+    "lugar": "Yacimientos petroleros en Río Grande y cruce Cholila, Tierra del Fuego",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "Sindicato de Petróleo y Gas Privado de Tierra del Fuego"
+    ],
+    "motivo": "Paro por tiempo indeterminado contra las operadoras Velitec y Terra Ignis por incumplimiento del acuerdo de incorporación de 260 trabajadores tras la salida de YPF de Tierra del Fuego. Solo 43 de los 260 trabajadores comprometidos fueron incorporados. Exigen la reincorporación de los 217 trabajadores restantes, el pago de salarios y aguinaldos adeudados, y garantías de operación normal de los yacimientos. El gremio ratificó que la medida de fuerza continuará hasta que se cumplan los acuerdos.",
+    "status": "en_curso",
+    "lat": "-53.7860",
+    "lng": "-67.6995",
+    "fuentes": [
+      {
+        "nombre": "Provincia 23 - Sosa denunció que Velitec incorporó solo 43 de 260 trabajadores (2 julio 2026)",
+        "url": "https://www.provincia23.com.ar/2026/07/02/sosa-denuncio-que-velitec-solo-incorporo-a-43-de-los-260-trabajadores-comprometidos/"
+      },
+      {
+        "nombre": "Boca de Pozo - Petroleros privados retiraron afiliados (31 mayo 2026)",
+        "url": "https://bocadepozo.com.ar/2026/05/31/urgente-petroleros-privados-de-tierra-del-fuego-retiro-a-todos-sus-afiliados-de-las-operaciones-que-dejo-ypf-a-cargo-de-velitec-y-terra-ignis/"
+      }
+    ],
+    "createdAt": "2026-07-02T16:07:18.000Z",
+    "updatedAt": "2026-07-02T16:12:20Z"
   }
 ]
