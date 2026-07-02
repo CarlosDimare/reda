@@ -5,7 +5,7 @@
     "pais": "Albania",
     "bandera": "🇦🇱",
     "hora": "19:00",
-    "fecha": "2026-07-01",
+    "fecha": "2026-07-02",
     "lugar": "Skanderbeg Square → Oficina del Primer Ministro, Tirana",
     "tipoAccion": "protesta",
     "organizaciones": [
@@ -14,7 +14,7 @@
       "Activistas ambientales",
       "Sociedad civil albanesa"
     ],
-    "motivo": "33° día consecutivo de protestas de la 'Revolución Flamenco' (Flamingo Revolution) en Tirana, el mayor movimiento civil en Albania desde la caída del comunismo. Protestan contra un proyecto turístico de lujo de 1.400 millones de USD en Zvernec vinculado a Jared Kushner (yerno de Donald Trump) en un área protegida de flamingos. Exigen la renuncia del primer ministro Edi Rama, fin de la corrupción, protección ambiental y el cese de la venta de tierras públicas.",
+    "motivo": "35° día consecutivo de protestas de la 'Revolución Flamenco' (Flamingo Revolution) en Tirana, el mayor movimiento civil en Albania desde la caída del comunismo. Protestan contra un proyecto turístico de lujo de 1.400 millones de USD en Zvernec vinculado a Jared Kushner (yerno de Donald Trump) en un área protegida de flamingos. Exigen la renuncia del primer ministro Edi Rama, fin de la corrupción, protección ambiental y el cese de la venta de tierras públicas.",
     "status": "en_curso",
     "lat": "41.3275",
     "lng": "19.8187",
@@ -41,72 +41,7 @@
       }
     ],
     "createdAt": "2026-06-29T00:17:04.000Z",
-    "updatedAt": "2026-07-01T23:30:17Z"
-  },
-  {
-    "id": 294,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "00:00",
-    "fecha": "2026-07-01",
-    "lugar": "Provincia de Santa Cruz (todo el territorio provincial), con epicentro en Río Gallegos",
-    "tipoAccion": "paro",
-    "organizaciones": [
-      "ADOSAC (Asociación Docentes de Santa Cruz)"
-    ],
-    "motivo": "Segundo día del paro total de actividades por 96 horas en toda la provincia de Santa Cruz (29 jun - 2 jul). El Congreso Provincial de ADOSAC ratificó la medida tras considerar insuficiente la oferta del gobierno provincial. Exigen: aumento salarial inmediato ante la pérdida del poder adquisitivo (salario inicial de $1.276.000 frente a una canasta básica regional de $1.900.000), devolución total de los descuentos aplicados por días de huelga anteriores, y tratamiento urgente de la propuesta pedagógica presentada por el sindicato.",
-    "status": "en_curso",
-    "lat": "-51.6230",
-    "lng": "-69.2168",
-    "fuentes": [
-      {
-        "nombre": "TiempoSur - ADOSAC ratificó un paro de 96 horas (28 junio 2026)",
-        "url": "https://www.tiemposur.com.ar/info-general/adosac-ratifico-un-paro-de-96-horas"
-      },
-      {
-        "nombre": "Señal Calafate - 96h: ADOSAC estaría de paro casi toda la semana (27 junio 2026)",
-        "url": "https://xn--sealcalafate-bhb.com/contenido/22845/adosac-vuelve-al-paro-desde-manana"
-      },
-      {
-        "nombre": "La Opinión Austral - ADOSAC definió paro de 96 horas y espera que el Gobierno mejore la oferta (28 junio 2026)",
-        "url": "https://www.opisantacruz.com.ar/2026/06/28/adosac-definio-paro-de-96-horas-y-espera-que-el-gobierno-mejore-la-oferta-salarial/"
-      },
-      {
-        "nombre": "Diario El Cóndor - ADOSAC confirmó paro de 96 horas (29 junio 2026)",
-        "url": "https://diarioelcondor.com.ar/contenido/9954/adosac-confirmo-un-paro-de-96-horas-y-profundiza-el-plan-de-lucha-ante-la-falta-"
-      },
-      {
-        "nombre": "Ahora Calafate - ADOSAC endurece el conflicto y extiende el paro a 96 horas (28 junio 2026)",
-        "url": "https://ahoracalafate.com.ar/contenido/40937/adosac-endurece-el-conflicto-y-extiende-el-paro-a-96-horas"
-      },
-      {
-        "nombre": "La Opinión Austral - ADOSAC ratificó el paro de 96 horas en Santa Cruz (28 junio 2026)",
-        "url": "https://laopinionaustral.com.ar/politica-y-economia/adosac-ratifico-el-paro-de-96-horas-en-santa-cruz-676924.html"
-      },
-      {
-        "nombre": "El Destape - Nueva semana caliente para Vidal: estatales, docentes y policías elevan medidas de fuerza (29 junio 2026)",
-        "url": "https://www.eldestapeweb.com/politica/nueva-semana-caliente-vidal-estatales-docentes-policias-elevan-medidas-fuerza-202662915814"
-      },
-      {
-        "nombre": "OPI Santa Cruz - El Gobierno no mejoró la oferta a ADOSAC en paritarias (29 junio 2026)",
-        "url": "https://www.opisantacruz.com.ar/2026/06/29/el-gobierno-no-mejoro-la-oferta-a-adosac-en-paritarias/"
-      },
-      {
-        "nombre": "El Destape - Claudio Vidal suma otro conflicto: docentes anunciaron nuevo paro (29 junio 2026)",
-        "url": "https://www.eldestapeweb.com/politica/vidal-no-logra-destrabar-conflictos-docentes-santa-cruz-rechazaron-paritaria-lanzan-otro-paro-96-horas-2026629172247"
-      },
-      {
-        "nombre": "Diario El Cóndor - ADOSAC confirmó paro de 96 horas y profundiza plan de lucha (29 junio 2026)",
-        "url": "https://diarioelcondor.com.ar/contenido/9954/adosac-confirmo-un-paro-de-96-horas-y-profundiza-el-plan-de-lucha-ante-la-falta-"
-      },
-      {
-        "nombre": "El Extremo Sur - ADOSAC se mantiene en pie de guerra y arranca paro de 96 horas (29 junio 2026)",
-        "url": "https://www.elextremosur.com/nota/58744-adosac-se-mantiene-en-pie-de-guerra-y-arranca-un-paro-de-96-horas/"
-      }
-    ],
-    "createdAt": "2026-06-29T05:13:52.000Z",
-    "updatedAt": "2026-07-01T23:30:17Z"
+    "updatedAt": "2026-07-02T01:41:02Z"
   },
   {
     "id": 307,
@@ -114,13 +49,13 @@
     "pais": "Portugal",
     "bandera": "🇵🇹",
     "hora": "00:00",
-    "fecha": "2026-07-01",
+    "fecha": "2026-07-02",
     "lugar": "A nivel nacional (central de emergencias de la ANEPC), con servicios mínimos garantizados",
     "tipoAccion": "huelga",
     "organizaciones": [
       "SinFAP (Sindicato Independente dos Trabalhadores da Floresta, Ambiente e Proteção Civil)"
     ],
-    "motivo": "Tercer día de huelga de 5 días de los operadores de telecomunicaciones de emergencia de la Protección Civil (ANEPC), del 29 de junio al 3 de julio. Exigen la creación de una carrera profesional propia para los operadores de emergencia (OPTELEM), considerados la 'espina dorsal' del sistema de socorro. Rechazan la reorganización de la ANEPC y exigen el retorno a los Comandos Distritales de Operaciones de Socorro. Los servicios mínimos están garantizados, por lo que el socorro a la población no se ve afectado, pero quedan sin realizar tareas administrativas.",
+    "motivo": "Cuarto día de huelga de 5 días de los operadores de telecomunicaciones de emergencia de la Protección Civil (ANEPC), del 29 de junio al 3 de julio. Exigen la creación de una carrera profesional propia para los operadores de emergencia (OPTELEM), considerados la 'espina dorsal' del sistema de socorro. Rechazan la reorganización de la ANEPC y exigen el retorno a los Comandos Distritales de Operaciones de Socorro. Los servicios mínimos están garantizados, por lo que el socorro a la población no se ve afectado, pero quedan sin realizar tareas administrativas.",
     "status": "en_curso",
     "lat": "39.3999",
     "lng": "-8.2245",
@@ -135,101 +70,7 @@
       }
     ],
     "createdAt": "2026-06-29T21:24:17.000Z",
-    "updatedAt": "2026-07-01T23:30:17Z"
-  },
-  {
-    "id": 313,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "00:00",
-    "fecha": "2026-07-01",
-    "lugar": "Casa de Gobierno (con acampe 'Carpa de la Dignidad'), Río Gallegos, y en toda la provincia de Santa Cruz",
-    "tipoAccion": "quite de colaboración",
-    "organizaciones": [
-      "Policías Autoconvocados de Santa Cruz",
-      "Bomberos de Santa Cruz"
-    ],
-    "motivo": "Quite de colaboración y acampe ('Carpa de la Dignidad') de policías y bomberos de Santa Cruz frente a Casa de Gobierno en Río Gallegos, con más de un mes de conflicto salarial. Exigen que un agente ingresante alcance un salario de $2.200.000 (actualmente cobran $1.100.000, por debajo de la línea de pobreza). Rechazaron 11 ofertas del gobierno provincial. El 95% de los efectivos están plegados. Fuerzas federales (Gendarmería, Prefectura, Policía Federal, PSA, SPF) cubren patrullaje. El 23 de junio retirados ingresaron a los jardines de Casa de Gobierno, derivando en denuncia penal de la Fiscalía de Estado.",
-    "status": "en_curso",
-    "lat": "-51.6230",
-    "lng": "-69.2168",
-    "fuentes": [
-      {
-        "nombre": "Infogremiales - Policías cumplen un mes de acampe rechazan 11 ofertas (29 junio 2026)",
-        "url": "https://www.infogremiales.com.ar/tension-en-santa-cruz-policias-cumplen-un-mes-de-acampe-frente-a-la-gobernacion-y-rechazan-11-ofertas-salariales/"
-      },
-      {
-        "nombre": "La Opinión Austral - Conflicto policial: la Justicia analiza mensajes (30 junio 2026)",
-        "url": "https://laopinionaustral.com.ar/politica-y-economia/conflicto-policial-en-santa-cruz-la-justicia-analiza-temerarios-mensajes-entre-los-manifestantes-677284.html"
-      },
-      {
-        "nombre": "La Nación - Tensión Santa Cruz cumple un mes conflicto policía",
-        "url": "https://www.lanacion.com.ar/politica/tension-en-santa-cruz-cumple-un-mes-el-conflicto-por-salarios-de-la-policia-tras-el-rechazo-de-11-nid28062026/"
-      },
-      {
-        "nombre": "Infobae - Conflicto salarial policía Santa Cruz acampe",
-        "url": "https://www.infobae.com/politica/2026/06/06/conflicto-salarial-con-la-policia-en-santa-cruz-protestas-acampe-y-refuerzo-de-fuerzas-federales-de-nacion"
-      },
-      {
-        "nombre": "Página12 - Santa Cruz policía reclama salarios",
-        "url": "https://www.pagina12.com.ar/2026/06/24/santa-cruz-la-policia-reclama-por-salarios-y-denuncia-amenazas-del-gobierno-provincial"
-      },
-      {
-        "nombre": "TiempoSur - Policías y penitenciarios marcharon Santa Cruz",
-        "url": "https://www.tiemposur.com.ar/politica/policias-y-penitenciarios-marcharon-en-santa-cruz"
-      },
-      {
-        "nombre": "Data Legislativa - Acampe y protesta de los policías de Santa Cruz (24 junio 2026)",
-        "url": "https://www.datalegislativa.com/2026/06/24/acampe-y-protesta-de-los-policias-de-santa-cruz/"
-      },
-      {
-        "nombre": "El Extremo Sur - Policías autoconvocados seguirán con el acampe (25 junio 2026)",
-        "url": "https://www.elextremosur.com/nota/58705-policias-autoconvocados-de-santa-cruz-seguiran-con-el-acampe-en-casa-de-gobierno/"
-      },
-      {
-        "nombre": "Nueva Data R4 - Policías autoconvocados mantienen el acampe en Santa Cruz (26 junio 2026)",
-        "url": "https://nuevadatar4.com.ar/nota/2057/policias-autoconvocados-mantienen-el-acampe-en-santa-cruz-y-crece-la-tension-con-el-gobierno"
-      },
-      {
-        "nombre": "InfoGremiales - Policías cumplen un mes de acampe y rechazan 11 ofertas (29 junio 2026)",
-        "url": "https://www.infogremiales.com.ar/tension-en-santa-cruz-policias-cumplen-un-mes-de-acampe-frente-a-la-gobernacion-y-rechazan-11-ofertas-salariales/"
-      },
-      {
-        "nombre": "La Gaceta - Escala el reclamo policial en Santa Cruz: rechazan la oferta y profundizan el acampe (25 junio 2026)",
-        "url": "https://www.lagaceta.com.ar/nota/1142663/politica/escala-reclamo-policial-santa-cruz-rechazan-oferta-salarial-profundizan-acampe-frente-casa-gobierno.html"
-      },
-      {
-        "nombre": "El Destape - Conflicto policial Santa Cruz buscan interpelar al ministro de Seguridad (21 junio 2026)",
-        "url": "https://www.eldestapeweb.com/politica/conflicto-policial-santa-cruz-buscan-interpelar-ministro-seguridad-crisis-2026621153947"
-      },
-      {
-        "nombre": "Diario Nuevo Día - Prodromos informó a diputados detalles del conflicto policial (25 junio 2026)",
-        "url": "https://www.eldiarionuevodia.com.ar/locales/prodromos-informo-a-diputados-detalles-del-conflicto-policial-en-santa-cruz-adhesion-al-quite-de-colaboracion-ciudades-mas-afectadas-y-las-fuerzas-federales/"
-      },
-      {
-        "nombre": "La Gaceta - Escala el reclamo policial en Santa Cruz: rechazan oferta y profundizan acampe (25 junio 2026)",
-        "url": "https://www.lagaceta.com.ar/nota/1142663/politica/escala-reclamo-policial-santa-cruz-rechazan-oferta-salarial-profundizan-acampe-frente-casa-gobierno.html"
-      },
-      {
-        "nombre": "El Destape - El conflicto policial en Santa Cruz sigue sin resolverse: no hubo oferta y habrá nueva reunión salarial (30 junio 2026)",
-        "url": "https://www.eldestapeweb.com/politica/conflicto-policial-santa-cruz-sigue-resolverse-no-hubo-oferta-habra-nueva-reunion-salarial-2026630194317"
-      },
-      {
-        "nombre": "OPI Santa Cruz - Vidal desbordado: Milei interviene para quebrar paro policial (1 julio 2026)",
-        "url": "https://www.opisantacruz.com.ar/2026/07/01/parte-del-acuerdo-con-milei-nacion-se-mete-en-el-conflicto-policial-amenaza-y-tensa-la-cuerda-el-gobierno-provincial-esta-rebasado-y-no-encuentra-la-salida/"
-      },
-      {
-        "nombre": "Infomedia 24 - Trabajo de Nación advirtió que la medida policial es ilegal (1 julio 2026)",
-        "url": "https://infomedia24.com.ar/3/81150"
-      },
-      {
-        "nombre": "La Arena - Policías de Santa Cruz están acuartelados hace un mes y reclaman mejoras salariales (1 julio 2026)",
-        "url": "https://www.laarena.com.ar/el-pais/policias-de-santa-cruz-estan-acuartelados-hace-un-mes-y-reclaman-mejoras-salariales-2026719500"
-      }
-    ],
-    "createdAt": "2026-06-29T22:39:06.000Z",
-    "updatedAt": "2026-07-01T23:30:17Z"
+    "updatedAt": "2026-07-02T01:41:02Z"
   },
   {
     "id": 322,
@@ -237,13 +78,13 @@
     "pais": "Filipinas",
     "bandera": "🇵🇭",
     "hora": "08:00",
-    "fecha": "2026-07-01",
+    "fecha": "2026-07-02",
     "lugar": "White Plains Avenue y EDSA, People Power Monument, Quezon City, Metro Manila",
     "tipoAccion": "protesta",
     "organizaciones": [
       "Iglesia Ni Cristo (INC)"
     ],
-    "motivo": "Segundo día de la protesta masiva de la Iglesia Ni Cristo (INC) en apoyo al senador Rodante Marcoleta, quien enfrenta una posible detención por presunta malversación de fondos (P75 millones) en su campaña electoral de 2025. La ciudad de Quezon City otorgó permiso para la manifestación del 1 de julio de 8:00 a 20:00, con una asistencia estimada de 100.000 personas. Al menos 5.000 manifestantes estaban presentes a las 7 AM y la cifra aumentó durante el día. Despliegue de 600 a 2.500 efectivos policiales.",
+    "motivo": "Tercer día de la protesta masiva de la Iglesia Ni Cristo (INC) en apoyo al senador Rodante Marcoleta, quien enfrenta una posible detención por presunta malversación de fondos (P75 millones) en su campaña electoral de 2025. La ciudad de Quezon City otorgó permiso para la manifestación del 1 de julio de 8:00 a 20:00, con una asistencia estimada de 100.000 personas. Al menos 5.000 manifestantes estaban presentes a las 7 AM y la cifra aumentó durante el día. Despliegue de 600 a 2.500 efectivos policiales. El 2 de julio, Quezon City aprobó el tercer día consecutivo de la protesta.",
     "status": "en_curso",
     "lat": "14.5995",
     "lng": "121.0500",
@@ -267,10 +108,14 @@
       {
         "nombre": "Manila Times - INC lightning protest traffic gridlock July 1",
         "url": "https://www.manilatimes.net/2026/07/01/news/national/inc-lightning-protest-causes-traffic-gridlock/2376134"
+      },
+      {
+        "nombre": "Inquirer - QC OKs Day 3 of INC-led rally on Thursday July 2",
+        "url": "https://newsinfo.inquirer.net/2255978/qc-oks-day-3-of-inc-led-rally-on-thursday-july-2"
       }
     ],
     "createdAt": "2026-06-30T11:29:19.000Z",
-    "updatedAt": "2026-07-01T23:30:17Z"
+    "updatedAt": "2026-07-02T01:41:02Z"
   },
   {
     "id": 324,
@@ -278,7 +123,7 @@
     "pais": "India",
     "bandera": "🇮🇳",
     "hora": "00:00",
-    "fecha": "2026-07-01",
+    "fecha": "2026-07-02",
     "lugar": "Jantar Mantar, Nueva Delhi",
     "tipoAccion": "protesta",
     "organizaciones": [
@@ -287,7 +132,7 @@
       "All-India Students' Association (AISA)",
       "Líderes agricultores (Khap)"
     ],
-    "motivo": "Día 4 de la huelga de hambre indefinida del activista climático Sonam Wangchuk en Jantar Mantar, en el marco de la protesta del Cockroach Janata Party que comenzó el 20 de junio. Exigen la renuncia del ministro de Educación Dharmendra Pradhan por presuntas irregularidades en exámenes competitivos (filtración de exámenes NEET). Wangchuk también demanda protección constitucional para Ladakh. Cientos de estudiantes, agricultores y miembros de la sociedad civil se congregan diariamente. El nivel de azúcar en sangre de Wangchuk cayó a 66 al tercer día del ayuno.",
+    "motivo": "Día 5 de la huelga de hambre indefinida del activista climático Sonam Wangchuk en Jantar Mantar, en el marco de la protesta del Cockroach Janata Party que comenzó el 20 de junio. Exigen la renuncia del ministro de Educación Dharmendra Pradhan por presuntas irregularidades en exámenes competitivos (filtración de exámenes NEET). Wangchuk también demanda protección constitucional para Ladakh. Cientos de estudiantes, agricultores y miembros de la sociedad civil se congregan diariamente. El nivel de azúcar en sangre de Wangchuk cayó a 66 al tercer día del ayuno.",
     "status": "en_curso",
     "lat": "28.6273",
     "lng": "77.2167",
@@ -306,7 +151,7 @@
       }
     ],
     "createdAt": "2026-06-30T11:29:19.000Z",
-    "updatedAt": "2026-07-01T23:30:17Z"
+    "updatedAt": "2026-07-02T01:41:02Z"
   },
   {
     "id": 325,
@@ -314,7 +159,7 @@
     "pais": "Perú",
     "bandera": "🇵🇪",
     "hora": "00:00",
-    "fecha": "2026-07-01",
+    "fecha": "2026-07-02",
     "lugar": "Región Moquegua (distritos de Moquegua, Samegua, Torata, San Antonio), con bloqueos en la Panamericana Sur",
     "tipoAccion": "paro",
     "organizaciones": [
@@ -323,7 +168,7 @@
       "Sociedad civil organizada",
       "Gremios y transportistas"
     ],
-    "motivo": "Segundo día del paro regional indefinido en rechazo al Proyecto de Ley N.° 11658/2024-PE, aprobado por el Congreso el 23 de junio, que modifica los límites territoriales entre Moquegua y Tacna. Moquegua denuncia que las coordenadas legislativas abarcan el sector de Quebrada Honda (distrito de Torata), reduciendo su territorio y afectando recursos del canon minero. Exigen que el presidente José María Balcázar observe la ley. Se suspendieron clases presenciales en 4 distritos.",
+    "motivo": "Tercer día del paro regional indefinido en rechazo al Proyecto de Ley N.° 11658/2024-PE, aprobado por el Congreso el 23 de junio, que modifica los límites territoriales entre Moquegua y Tacna. Moquegua denuncia que las coordenadas legislativas abarcan el sector de Quebrada Honda (distrito de Torata), reduciendo su territorio y afectando recursos del canon minero. Exigen que el presidente José María Balcázar observe la ley. Se suspendieron clases presenciales en 4 distritos.",
     "status": "en_curso",
     "lat": "-17.1930",
     "lng": "-70.9350",
@@ -342,7 +187,7 @@
       }
     ],
     "createdAt": "2026-06-30T11:29:19.000Z",
-    "updatedAt": "2026-07-01T23:30:17Z"
+    "updatedAt": "2026-07-02T01:41:02Z"
   },
   {
     "id": 332,
@@ -350,7 +195,7 @@
     "pais": "Pakistán (Cachemira bajo ocupación)",
     "bandera": "🇵🇰",
     "hora": "00:00",
-    "fecha": "2026-07-01",
+    "fecha": "2026-07-02",
     "lugar": "Rawalakot, Poonch y Sudhnoti, Cachemira bajo administración pakistaní",
     "tipoAccion": "protesta",
     "organizaciones": [
@@ -377,7 +222,7 @@
       }
     ],
     "createdAt": "2026-06-30T16:03:18.000Z",
-    "updatedAt": "2026-07-01T23:30:17Z"
+    "updatedAt": "2026-07-02T01:41:02Z"
   },
   {
     "id": 339,
@@ -385,13 +230,13 @@
     "pais": "Reino Unido",
     "bandera": "🇬🇧",
     "hora": "00:00",
-    "fecha": "2026-07-01",
+    "fecha": "2026-07-02",
     "lugar": "Glasgow Caledonian University, Glasgow, Escocia",
     "tipoAccion": "huelga",
     "organizaciones": [
       "EIS-ULA (Educational Institute of Scotland University Lecturers Association)"
     ],
-    "motivo": "Segundo día de huelgas del personal académico de la Glasgow Caledonian University contra la propuesta de eliminación de 100 puestos de trabajo. Las huelgas coinciden con los días de graduación de verano para maximizar el impacto. Días de huelga: 30 de junio, 1 y 2 de julio, y luego 4 de agosto y 7, 8 y 10 de septiembre.",
+    "motivo": "Tercer día de huelgas del personal académico de la Glasgow Caledonian University contra la propuesta de eliminación de 100 puestos de trabajo. Las huelgas coinciden con los días de graduación de verano para maximizar el impacto. Días de huelga: 30 de junio, 1 y 2 de julio, y luego 4 de agosto y 7, 8 y 10 de septiembre.",
     "status": "en_curso",
     "lat": "55.8650",
     "lng": "-4.2500",
@@ -399,144 +244,14 @@
       {
         "nombre": "BBC News - Lecturers strike Glasgow Caledonian University June 30",
         "url": "https://www.bbc.co.uk/news/articles/cg4wed95y35o"
+      },
+      {
+        "nombre": "EIS-ULA - GCU strike dates include July 2 2026",
+        "url": "https://www.eis.org.uk/glasgow-caledonian-3-strike-dates"
       }
     ],
     "createdAt": "2026-06-30T20:34:17.000Z",
-    "updatedAt": "2026-07-01T23:30:17Z"
-  },
-  {
-    "id": 340,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "11:00",
-    "fecha": "2026-07-01",
-    "lugar": "Polo Científico, Godoy Cruz 2270, Palermo, CABA + Sede Central CNEA, Av. del Libertador 8250, Núñez, CABA + sedes CNEA en todo el país",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "ATE (Asociación Trabajadores del Estado)",
-      "APCNEAN (Asociación de Profesionales de la CNEA y la Actividad Nuclear)"
-    ],
-    "motivo": "Jornada nacional de protesta de trabajadores de la CNEA y ATE contra los ~170 despidos masivos (contratos no renovados al 1 de julio). El 30 de junio Gendarmería desalojó la toma pacífica de la sede central con incidentes. Exigen reincorporación de todos los cesanteados, fin de la persecución sindical y rechazan el desmantelamiento del organismo nuclear. La protesta continúa con movilizaciones en todo el país.",
-    "status": "en_curso",
-    "lat": "-34.5500",
-    "lng": "-58.4500",
-    "fuentes": [
-      {
-        "nombre": "Infobae - ATE tomó el edificio de CNEA por despidos (30 junio 2026)",
-        "url": "https://www.infobae.com/politica/2026/06/30/protesta-por-los-despidos-en-la-comision-nacional-de-energia-atomica-ate-tomo-el-edificio/"
-      },
-      {
-        "nombre": "La Nación - Gendarmería desalojó protesta en CNEA (30 junio 2026)",
-        "url": "https://www.lanacion.com.ar/politica/la-gendarmeria-desalojo-una-protesta-gremial-por-despidos-en-la-comision-nacional-de-energia-atomica-nid30062026/"
-      },
-      {
-        "nombre": "El Destape - Despidos masivos en CNEA y protestas (30 junio 2026)",
-        "url": "https://www.eldestapeweb.com/politica/despidos-masivos-cnea-protestas-alguien-explicacion-202663015224"
-      },
-      {
-        "nombre": "Clarín - Echaron a 170 personas de la Comisión de Energía Atómica (30 junio 2026)",
-        "url": "https://www.clarin.com/economia/siguen-ajuste-sector-publico-echaron-170-personas-comision-energia-atomica_0_DFyXigJ8mX.html"
-      },
-      {
-        "nombre": "Ámbito - Cientos de despidos en la CNEA: trabajadores denuncian vaciamiento (30 junio 2026)",
-        "url": "https://www.ambito.com/informacion-general/cientos-despidos-la-cnea-trabajadores-denuncian-un-vaciamiento-y-realizan-una-protesta-la-sede-central-n6294518"
-      },
-      {
-        "nombre": "Mundo Gremial - ATE ocupó pacíficamente la sede central de la CNEA (30 junio 2026)",
-        "url": "https://mundogremial.com/despidos-en-la-cnea-ate-ocupo-pacificamente-la-sede-central-y-denuncio-un-intento-de-vaciamiento-del-organismo/"
-      },
-      {
-        "nombre": "Nuevo Enfoque Urbano - Gendarmería desalojó protesta en CNEA (1 julio 2026)",
-        "url": "https://nuevoenfoqueurbano.com.ar/gendarmeria-desalojo-una-protesta-por-despidos-en-sede-de-la-comision-nacional-de-energia-atomica/"
-      },
-      {
-        "nombre": "Canal C - La Gendarmería desalojó una protesta en la CNEA (1 julio 2026)",
-        "url": "https://canalc.com.ar/cnea-desalojo-gendarmeria-despidos-buenos-aires/"
-      },
-      {
-        "nombre": "Infobariloche - ATE exige reincorporación CNEA (1 julio 2026)",
-        "url": "https://infobariloche.com.ar/politica/26-pais/36065-ate-exige-la-reincorporacion-de-casi-100-trabajadores-despedidos-en-la-cnea.html"
-      },
-      {
-        "nombre": "ATE - ATE ocupó sede CNEA (30 junio 2026)",
-        "url": "https://ate.org.ar/260630-cnea-represion/"
-      },
-      {
-        "nombre": "El Cronista de Salta - ATE tomó la sede de la CNEA (1 julio 2026)",
-        "url": "https://elcrosalta.com.ar/ate-tomo-la-sede-de-la-cnea-tras-denunciar-el-despido-de-casi-100-trabajadores/"
-      },
-      {
-        "nombre": "QuePasaWeb - Trabajadores CNEA movilizan San Martín (1 julio 2026)",
-        "url": "https://www.quepasaweb.com.ar/trabajadores-de-la-cnea-movilizan-en-san-martin-rechazan-mas-de-100-despidos-y-el-ajuste-sobre-el-organismo-szn2/"
-      },
-      {
-        "nombre": "Pura Ciudad - Nueva protesta en la sede de la CNEA en Núñez por los contratos laborales (1 julio 2026)",
-        "url": "https://www.puraciudad.com.ar/nueva-protesta-en-la-sede-de-la-cnea-en-nunez-por-los-contratos-laborales/"
-      },
-      {
-        "nombre": "ATE - Aguiar encabezó la protesta por despidos en la CNEA y ATE avanza hacia un paro nacional (1 julio 2026)",
-        "url": "https://ate.org.ar/260701-cnea-protesta/"
-      },
-      {
-        "nombre": "Infobae - Nueva concentración en la CNEA (1 julio 2026)",
-        "url": "https://www.infobae.com/politica/2026/07/01/nueva-concentracion-en-la-cnea-trabajadores-reclamaron-por-las-desvinculaciones-y-el-desalojo/"
-      },
-      {
-        "nombre": "Diario UNO - ATE ocupó la sede de Energía Atómica ante los despidos de 170 empleados (1 julio 2026)",
-        "url": "https://www.diariouno.com.ar/politica/ate-ocupo-la-sede-energia-atomica-los-despidos-170-empleados-n1571159"
-      },
-      {
-        "nombre": "ATE - Aguiar encabezó la protesta por despidos en la CNEA y ATE avanza hacia un paro nacional (1 julio 2026)",
-        "url": "https://ate.org.ar/260701-cnea-protesta/"
-      },
-      {
-        "nombre": "Que Pasa Web - Trabajadores de la CNEA movilizan en San Martín (1 julio 2026)",
-        "url": "https://www.quepasaweb.com.ar/trabajadores-de-la-cnea-movilizan-en-san-martin-rechazan-mas-de-100-despidos-y-el-ajuste-sobre-el-organismo-szn2/"
-      },
-      {
-        "nombre": "El Cordillerano - Tensión y desalojo en la sede central de la CNEA (1 julio 2026)",
-        "url": "https://www.elcordillerano.com.ar/noticias/2026/07/01/248140-tension-y-desalojo-en-la-sede-central-de-la-comision-nacional-de-energia-atomica"
-      },
-      {
-        "nombre": "Pura Ciudad - Nueva protesta en la sede de la CNEA en Núñez (1 julio 2026)",
-        "url": "https://www.puraciudad.com.ar/nueva-protesta-en-la-sede-de-la-cnea-en-nunez-por-los-contratos-laborales/"
-      },
-      {
-        "nombre": "ANRed - Escándalo nuclear: despidos sin preaviso desatan una inédita represión en la CNEA (1 julio 2026)",
-        "url": "https://www.anred.org/escandalo-nuclear-despidos-sin-preaviso-desatan-una-inedita-represion-en-la-cnea/"
-      }
-    ],
-    "createdAt": "2026-06-30T21:59:46.000Z",
-    "updatedAt": "2026-07-01T23:30:17Z"
-  },
-  {
-    "id": 344,
-    "seccion": "protestas_int",
-    "pais": "Alemania",
-    "bandera": "🇩🇪",
-    "hora": "09:00",
-    "fecha": "2026-07-01",
-    "lugar": "Embajada de China, Märkisches Ufer 54, 10179 Berlín",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Society for Threatened Peoples (STP)",
-      "Tibet Initiative Germany",
-      "World Uyghur Congress (WUC)",
-      "Freedom for Hong Kong"
-    ],
-    "motivo": "Protesta por derechos humanos frente a la Embajada de China en Berlín con motivo de la entrada en vigor de la 'Ley de Promoción de la Unidad Étnica y el Progreso' de China. Denuncian la legalización de la asimilación forzada de tibetanos, uigures, mongoles y otras minorías étnicas bajo el pretexto de 'unidad y progreso', con el lema: 'Unidad étnica = Eliminación cultural'.",
-    "status": "convocada",
-    "lat": "52.5200",
-    "lng": "13.4050",
-    "fuentes": [
-      {
-        "nombre": "GfbV - Human Rights Protest Outside Chinese Embassy Berlin July 1",
-        "url": "https://www.gfbv.de/en/human-rights-protest-outside-the-chinese-embassy-in-berlin-july-1-ethnic-unity-is-cultural-eradication-oppose-chinas-unity-law/"
-      }
-    ],
-    "createdAt": "2026-07-01T01:39:12.000Z",
-    "updatedAt": "2026-07-01T23:30:17Z"
+    "updatedAt": "2026-07-02T01:41:02Z"
   },
   {
     "id": 345,
@@ -544,7 +259,7 @@
     "pais": "España",
     "bandera": "🇪🇸",
     "hora": "00:00",
-    "fecha": "2026-07-01",
+    "fecha": "2026-07-02",
     "lugar": "Todos los centros de trabajo de Airbus en España: Airbus Defensa y Espacio, Airbus Operaciones y Airbus Helicópteros (a nivel nacional)",
     "tipoAccion": "huelga",
     "organizaciones": [
@@ -566,7 +281,7 @@
       }
     ],
     "createdAt": "2026-07-01T01:39:12.000Z",
-    "updatedAt": "2026-07-01T23:30:17Z"
+    "updatedAt": "2026-07-02T01:41:02Z"
   },
   {
     "id": 346,
@@ -574,7 +289,7 @@
     "pais": "España",
     "bandera": "🇪🇸",
     "hora": "00:00",
-    "fecha": "2026-07-01",
+    "fecha": "2026-07-02",
     "lugar": "Región de Murcia (servicios urbanos e interurbanos de autobús y tranvía); principal foco en Cartagena",
     "tipoAccion": "huelga",
     "organizaciones": [
@@ -597,7 +312,7 @@
       }
     ],
     "createdAt": "2026-07-01T01:39:12.000Z",
-    "updatedAt": "2026-07-01T23:30:17Z"
+    "updatedAt": "2026-07-02T01:41:02Z"
   },
   {
     "id": 347,
@@ -605,7 +320,7 @@
     "pais": "España",
     "bandera": "🇪🇸",
     "hora": "00:00",
-    "fecha": "2026-07-01",
+    "fecha": "2026-07-02",
     "lugar": "Todos los centros de trabajo de Correos en la Comunidad de Madrid",
     "tipoAccion": "huelga",
     "organizaciones": [
@@ -622,7 +337,7 @@
       }
     ],
     "createdAt": "2026-07-01T01:39:12.000Z",
-    "updatedAt": "2026-07-01T23:30:17Z"
+    "updatedAt": "2026-07-02T01:41:02Z"
   },
   {
     "id": 348,
@@ -630,7 +345,7 @@
     "pais": "Reino Unido",
     "bandera": "🇬🇧",
     "hora": "00:00",
-    "fecha": "2026-07-01",
+    "fecha": "2026-07-02",
     "lugar": "Foreign, Commonwealth and Development Office (FCDO), frente a 10 Downing Street, Londres",
     "tipoAccion": "protesta",
     "organizaciones": [
@@ -648,308 +363,7 @@
       }
     ],
     "createdAt": "2026-07-01T01:39:12.000Z",
-    "updatedAt": "2026-07-01T23:30:17Z"
-  },
-  {
-    "id": 349,
-    "seccion": "protestas_int",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "00:01",
-    "fecha": "2026-07-01",
-    "lugar": "A nivel nacional (colectividades territoriales de toda Francia)",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "Fédération SUD Collectivités Territoriales"
-    ],
-    "motivo": "Jornada de huelga de los agentes de la Función Pública Territorial contra las reformas del gobierno que afectan al conjunto de la función pública. Exigen: aumento salarial inmediato de 400€, fin de los recortes de empleo, abrogación de la ley de transformación de la función pública, reducción del tiempo de trabajo a 32 horas semanales, jubilación a los 60 años, y mejora de las condiciones laborales. Denuncian la mercantilización de los servicios públicos.",
-    "status": "en_curso",
-    "lat": "48.8566",
-    "lng": "2.3518",
-    "fuentes": [
-      {
-        "nombre": "SUD CT - Préavis de grève juillet 2026",
-        "url": "https://www.sud-ct.org/preavis-de-greve-juillet-2026.html"
-      }
-    ],
-    "createdAt": "2026-07-01T01:39:12.000Z",
-    "updatedAt": "2026-07-01T23:30:17Z"
-  },
-  {
-    "id": 350,
-    "seccion": "protestas_int",
-    "pais": "Canadá",
-    "bandera": "🇨🇦",
-    "hora": "11:00",
-    "fecha": "2026-07-01",
-    "lugar": "Simultáneamente en Montreal y Québec (lugares por confirmar por la COLOC)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Coalition contre le logement cher (COLOC)"
-    ],
-    "motivo": "Primera 'manif-action' de la Coalition contre le logement cher (COLOC) en Montreal y Quebec el día de la mudanza (1 de julio), símbolo de la crisis de vivienda asequible en Quebec. Denuncian la especulación inmobiliaria, los alquileres abusivos y la precariedad habitacional. Exigen que la vivienda sea reconocida como un derecho fundamental y no como una mercancía. Convocan a portar una llave como símbolo de la lucha por el derecho a la vivienda.",
-    "status": "convocada",
-    "lat": "45.5017",
-    "lng": "-73.5673",
-    "fuentes": [
-      {
-        "nombre": "CLPMR - Manif-actions du 1er juillet COLOC",
-        "url": "https://clpmr.com/activites/manif-actions-du-1er-juillet-de-la-coalition-contre-le-logement-cher-coloc/"
-      }
-    ],
-    "createdAt": "2026-07-01T01:39:12.000Z",
-    "updatedAt": "2026-07-01T23:30:17Z"
-  },
-  {
-    "id": 351,
-    "seccion": "protestas_int",
-    "pais": "Corea del Sur",
-    "bandera": "🇰🇷",
-    "hora": "07:30",
-    "fecha": "2026-07-01",
-    "lugar": "Colegio electoral de Jamsil-dong, Songpa-gu, Seúl; y sede de la NEC en Gwacheon, Gyeonggi",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Ciudadanos de Seúl",
-      "Simpatizantes del bloque conservador"
-    ],
-    "motivo": "Protesta por la escasez de boletas en las elecciones locales del miércoles anterior. Cientos de manifestantes bloquearon el acceso a las urnas en el colegio electoral de Jamsil-dong desde el miércoles por la noche. La policía dispersó a los manifestantes (hasta 1.400) a las 7:30 AM del 1 de julio tras 35 horas de asedio, incautando las cajas electorales que contenían unos 2.000 votos. Exigen un recuento y denuncian fraude electoral. También planean concentrarse frente a la sede de la Comisión Electoral Nacional en Gwacheon.",
-    "status": "en_curso",
-    "lat": "37.5100",
-    "lng": "127.1000",
-    "fuentes": [
-      {
-        "nombre": "The Korea Herald - Police dispersed protesters at polling station July 1 2026",
-        "url": "https://www.koreaherald.com/article/10766765"
-      }
-    ],
-    "createdAt": "2026-07-01T01:39:12.000Z",
-    "updatedAt": "2026-07-01T23:30:17Z"
-  },
-  {
-    "id": 352,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "11:00",
-    "fecha": "2026-07-01",
-    "lugar": "Polo Científico, Godoy Cruz 2270, Palermo, CABA (réplicas en todo el país: CCT Rosario, Casa Histórica Tucumán, Posadas Misiones, etc.)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "ATE-CONICET",
-      "Asamblea de Becarios Autoconvocados CONICET NOA Sur",
-      "Jóvenes Científicos Precarizados",
-      "ADIUNT (Tucumán)",
-      "ATE Rosario"
-    ],
-    "motivo": "Jornada nacional de protesta contra el 'cientificidio': 379 becarios posdoctorales en riesgo de quedar en la calle a fin de julio sin prórrogas, crisis de la obra social Unión Personal con bajas masivas e interrupción de tratamientos, demora en efectivización de concursos CICyT 2022/2023/CPA, y pérdida salarial superior al 40%. Movilización federal al Polo Científico en coincidencia con la reunión del Directorio del CONICET. Exigen prórrogas inmediatas, restitución de obra social y recomposición salarial.",
-    "status": "en_curso",
-    "lat": "-34.5867",
-    "lng": "-58.4200",
-    "fuentes": [
-      {
-        "nombre": "TiempoAR - Jornada nacional de protesta en el CONICET (30 junio 2026)",
-        "url": "https://www.tiempoar.com.ar/ta_article/cientificidio-jornada-nacional-de-protesta-en-el-conicet-contra-los-despidos-y-el-vaciamiento/"
-      },
-      {
-        "nombre": "El Destape - Trabajadores del CONICET se movilizan en todo el país (30 junio 2026)",
-        "url": "https://www.eldestapeweb.com/politica/ajuste-milei-trabajadores-conicet-movilizaran-distintos-puntos-pais-2026630194525"
-      },
-      {
-        "nombre": "Panorama 24 - Becarios CONICET protesta Casa Histórica Tucumán (25 junio 2026)",
-        "url": "https://panorama24.com.ar/economia/becarios-del-conicet-convocan-a-una-jornada-de-protesta-en-la-puerta-de-casa-historica/"
-      },
-      {
-        "nombre": "Rosario3 - CONICET Rosario protesta 1 julio (29 junio 2026)",
-        "url": "https://www.rosario3.com/informaciongeneral/conicet-rosario-vuelve-a-la-protesta-en-rosario-y-alerta-por-la-continuidad-de-379-becarios-20260629-0054.html"
-      },
-      {
-        "nombre": "La Gaceta - Becarios del CONICET lideran una movilización (1 julio 2026)",
-        "url": "https://www.lagaceta.com.ar/nota/1143524/politica/becarios-conicet-lideran-movilizacion.html"
-      },
-      {
-        "nombre": "C5N - Científicos del CONICET cortaron Avenida Santa Fe (1 julio 2026)",
-        "url": "https://www.c5n.com/sociedad/cientificos-investigadores-y-becarios-del-conicet-cortaron-avenida-santa-fe-tension-y-empujones-la-policia-n242359"
-      },
-      {
-        "nombre": "El Destape - Máxima tensión: Policía no permitió avanzar protesta de trabajadores del CONICET (1 julio 2026)",
-        "url": "https://www.eldestapeweb.com/politica/maxima-tension-golpes-empujones-policia-no-permitio-avanzar-protesta-trabajadores-conicet-202671142927"
-      },
-      {
-        "nombre": "teleSUR - Policía de Argentina reprime protesta de trabajadores del CONICET (1 julio 2026)",
-        "url": "https://www.telesurtv.net/policia-argentina-reprime-protesta-conicet/"
-      },
-      {
-        "nombre": "C5N - Científicos del CONICET cortaron Avenida Santa Fe (1 julio 2026)",
-        "url": "https://www.c5n.com/sociedad/cientificos-investigadores-y-becarios-del-conicet-cortaron-avenida-santa-fe-tension-y-empujones-la-policia-n242359"
-      },
-      {
-        "nombre": "El Destape - Máxima tensión: Policía no permitió avanzar protesta de trabajadores del CONICET (1 julio 2026)",
-        "url": "https://www.eldestapeweb.com/politica/maxima-tension-golpes-empujones-policia-no-permitio-avanzar-protesta-trabajadores-conicet-202671142927"
-      },
-      {
-        "nombre": "La Gaceta - Becarios del CONICET lideran una movilización (1 julio 2026)",
-        "url": "https://www.lagaceta.com.ar/nota/1143524/politica/becarios-conicet-lideran-movilizacion.html"
-      }
-    ],
-    "createdAt": "2026-07-01T01:43:03.000Z",
-    "updatedAt": "2026-07-01T23:30:17Z"
-  },
-  {
-    "id": 353,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "09:00",
-    "fecha": "2026-07-01",
-    "lugar": "Concentración en Caja de Jubilaciones y Pensiones, marcha a Plaza Mansilla (Casa de Gobierno), Paraná, Entre Ríos",
-    "tipoAccion": "paro",
-    "organizaciones": [
-      "AGMER (Asociación Gremial del Magisterio de Entre Ríos)",
-      "AMET (Asociación del Magisterio de Enseñanza Técnica) Entre Ríos"
-    ],
-    "motivo": "Paro provincial de 24 horas con movilización de docentes de los 17 departamentos hacia Paraná. Reclaman urgente apertura de paritarias y recomposición salarial, y rechazan el proyecto de reforma previsional impulsado por el gobierno provincial que modificaría la edad jubilatoria (extensión a 68 años) y aumentaría los aportes al 19%. Séptimo paro del ciclo lectivo 2026. Consignas: 'La 8732 no se toca' y 'La Caja no se toca'.",
-    "status": "en_curso",
-    "lat": "-31.7443",
-    "lng": "-60.5171",
-    "fuentes": [
-      {
-        "nombre": "Agencia FARCO - AGMER paro y movilización 1 julio (30 junio 2026)",
-        "url": "https://agencia.farco.org.ar/2026/06/30/paro-y-movilizacion-docente-entre-rios-radio-sapukay/"
-      },
-      {
-        "nombre": "Diario Debate Pregón - AGMER confirmó paro 1 julio (29 junio 2026)",
-        "url": "https://www.diariodebatepregon.com/provinciales/agmer-confirmo-un-nuevo-paro-docente-para-esta-semana"
-      },
-      {
-        "nombre": "UNO Entre Ríos - AMET convoca a paro y movilización (30 junio 2026)",
-        "url": "https://www.unoentrerios.com.ar/tiempo-sindical/amet-convoca-paro-y-movilizacion-defensa-del-sistema-previsional-y-la-apertura-urgente-paritarias-n10267297.html"
-      },
-      {
-        "nombre": "APFDigital - Movilización Multisectorial: sindicatos rechazaron el ajuste y la reforma previsional (1 julio 2026)",
-        "url": "https://www.apfdigital.com.ar/noticias/2026/07/01/461761-movilizacion-de-la-multisectorial-sindicatos-rechazaron-el-ajuste-y-la-reforma-previsional"
-      },
-      {
-        "nombre": "Análisis Digital - AGMER lleva adelante el séptimo paro docente (1 julio 2026)",
-        "url": "https://www.analisisdigital.com.ar/provinciales/2026/07/01/agmer-lleva-adelante-el-septimo-paro-docente-reclaman-mejoras-salariales-y-rechazan-la-reforma-previsional"
-      },
-      {
-        "nombre": "Elonce - Los gremios docentes AGMER y AMET realizan un paro (1 julio 2026)",
-        "url": "https://www.elonce.com/politica/los-gremios-docentes-agmer-y-amet-realizan-un-paro-este-miercoles.htm"
-      },
-      {
-        "nombre": "APFDigital - Movilización Multisectorial: sindicatos rechazaron el ajuste y la reforma previsional (1 julio 2026)",
-        "url": "https://www.apfdigital.com.ar/noticias/2026/07/01/461761-movilizacion-de-la-multisectorial-sindicatos-rechazaron-el-ajuste-y-la-reforma-previsional"
-      },
-      {
-        "nombre": "Análisis Digital - AGMER lleva adelante el séptimo paro docente (1 julio 2026)",
-        "url": "https://www.analisisdigital.com.ar/provinciales/2026/07/01/agmer-lleva-adelante-el-septimo-paro-docente-reclaman-mejoras-salariales-y-rechazan-la-reforma-previsional"
-      },
-      {
-        "nombre": "UNO Entre Ríos - Paro docente: estamos ante las puertas de una catástrofe educativa (1 julio 2026)",
-        "url": "https://www.unoentrerios.com.ar/la-provincia/paro-docente-estamos-las-puertas-una-catastrofe-educativa-n10267449.html"
-      }
-    ],
-    "createdAt": "2026-07-01T01:43:03.000Z",
-    "updatedAt": "2026-07-01T23:30:17Z"
-  },
-  {
-    "id": 354,
-    "seccion": "protestas_int",
-    "pais": "Indonesia",
-    "bandera": "🇮🇩",
-    "hora": "13:00",
-    "fecha": "2026-07-01",
-    "lugar": "Mabes Polri (Markas Besar Kepolisian), Kebayoran Baru, Jakarta Selatan",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "BEM UI (Badan Eksekutif Mahasiswa Universitas Indonesia)",
-      "Aliansi Mahasiswa UI",
-      "Koalisi Masyarakat Sipil untuk Reformasi Kepolisian (RFP)"
-    ],
-    "motivo": "Protesta frente a la jefatura de policía en el 80° aniversario de Bhayangkara (Día de la Policía). Denuncian el fracaso de la Reforma Polri y exigen la derogación de la Ley Polri, el fin de la criminalización e impunidad, y que los aparatos de seguridad se mantengan fuera de los espacios civiles. Llevan símbolos de luto por la 'muerte' de la Reforma Polri. Simultáneamente, otra protesta de la Coalición RFP frente a Polda Metro Jaya exige el fin de la reforma policial fallida.",
-    "status": "en_curso",
-    "lat": "-6.2386",
-    "lng": "106.8167",
-    "fuentes": [
-      {
-        "nombre": "Tribunnews - Mahasiswa UI demo Mabes Polri July 1 2026",
-        "url": "https://style.tribunnews.com/news/374505/mahasiswa-ui-kepung-mabes-polri-di-jakarta-siang-ini-pukul-1300-gelar-aksi-perkabungan-reformasi"
-      },
-      {
-        "nombre": "IDN Times - BEM UI demo Mabes Polri July 1",
-        "url": "https://www.idntimes.com/news/indonesia/kecewa-reformasi-polri-gagal-bem-ui-demo-mabes-polri-besok-00-vdzm7-2qm910"
-      },
-      {
-        "nombre": "Liputan6 - Dua demo warnai HUT Bhayangkara July 1",
-        "url": "https://berita.liputan6.com/peristiwa/read/8129182/dua-demo-siap-warnai-hut-bhayangkara-ini-lokasinya"
-      },
-      {
-        "nombre": "Kompas - Mahasiswa UI demo Mabes Polri July 1",
-        "url": "https://video.kompas.com/watch/1939740/mahasiswa-ui-akan-demo-mabes-polri-saat-hut-bhayangkara-100-polisi-berjaga"
-      }
-    ],
-    "createdAt": "2026-07-01T06:24:19.000Z",
-    "updatedAt": "2026-07-01T23:30:17Z"
-  },
-  {
-    "id": 356,
-    "seccion": "protestas_int",
-    "pais": "Irlanda",
-    "bandera": "🇮🇪",
-    "hora": "13:00",
-    "fecha": "2026-07-01",
-    "lugar": "Office of Government Procurement, Mayor Street, Dublín 1",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "SIPTU (Services Industrial Professional and Technical Union)",
-      "UNI Europa"
-    ],
-    "motivo": "Manifestación de cientos de trabajadores de limpieza, seguridad y servicios de alimentación coincidiendo con la presidencia irlandesa del Consejo de la UE. Exigen mejores condiciones laborales, salarios más altos y negociación colectiva real en la reforma de las normas de contratación pública de la UE. Lema: 'No public procurement without a collective agreement'. Irlanda asumió la presidencia de la UE el 1 de julio.",
-    "status": "en_curso",
-    "lat": "53.3498",
-    "lng": "-6.2492",
-    "fuentes": [
-      {
-        "nombre": "UNI Global Union - Dublin rally procurement reform July 1",
-        "url": "https://uniglobalunion.org/news/thousands-of-workers-set-to-rally-in-dublin-and-paris-for-pro-worker-procurement-reform/"
-      }
-    ],
-    "createdAt": "2026-07-01T06:24:19.000Z",
-    "updatedAt": "2026-07-01T23:30:17Z"
-  },
-  {
-    "id": 357,
-    "seccion": "protestas_int",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "13:00",
-    "fecha": "2026-07-01",
-    "lugar": "Bercy, frente al Ministerio de Finanzas, París XII",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "CFDT Services",
-      "CFTC-CSFV",
-      "CGT-Commerce",
-      "FO-FEETS",
-      "UNI Europa"
-    ],
-    "motivo": "Manifestación de más de 1.000 trabajadores de limpieza, seguridad y servicios de alimentación procedentes de Francia, Bélgica y Países Bajos frente al Ministerio de Finanzas. Exigen la inclusión de cláusulas sociales y laborales vinculantes en la reforma de las normas de contratación pública de la UE. Denuncian que el dinero público debe servir al interés público y no a la precarización laboral.",
-    "status": "en_curso",
-    "lat": "48.8376",
-    "lng": "2.3763",
-    "fuentes": [
-      {
-        "nombre": "UNI Global Union - Paris rally procurement reform July 1",
-        "url": "https://uniglobalunion.org/news/thousands-of-workers-set-to-rally-in-dublin-and-paris-for-pro-worker-procurement-reform/"
-      },
-      {
-        "nombre": "CGT Commerce - Pas de marché public sans garanties July 1",
-        "url": "https://commercecgt.fr/collections/Article/pas-de-marche-public-sans-garanties-solides-pour-les-travailleurs"
-      }
-    ],
-    "createdAt": "2026-07-01T06:24:19.000Z",
-    "updatedAt": "2026-07-01T23:30:17Z"
+    "updatedAt": "2026-07-02T01:41:02Z"
   },
   {
     "id": 358,
@@ -957,13 +371,13 @@
     "pais": "Francia",
     "bandera": "🇫🇷",
     "hora": "13:00",
-    "fecha": "2026-07-01",
+    "fecha": "2026-07-02",
     "lugar": "Siège social de Roquette, La Madeleine, Métropole lilloise, Nord",
     "tipoAccion": "protesta",
     "organizaciones": [
       "Intersyndicale CFDT-CGT-UNSA Roquette"
     ],
-    "motivo": "Manifestación y paro de producción de 4 turnos (30 jun 22h - 2 jul 6h) contra el plan de supresión de 310 puestos de trabajo en el grupo agroindustrial Roquette, de los cuales 247 en el sitio de Lestrem. Ocho autobuses transportaron trabajadores desde Lestrem hasta el siège social en La Madeleine para mantener la presión sobre la dirección.",
+    "motivo": "Protesta y paro de producción de 4 turnos (30 jun 22h - 2 jul 6h) contra el plan de supresión de 310 puestos de trabajo en el grupo agroindustrial Roquette, de los cuales 247 en el sitio de Lestrem. Ocho autobuses transportaron trabajadores desde Lestrem hasta el siège social en La Madeleine para mantener la presión sobre la dirección.",
     "status": "en_curso",
     "lat": "50.6550",
     "lng": "3.0710",
@@ -982,116 +396,7 @@
       }
     ],
     "createdAt": "2026-07-01T06:24:19.000Z",
-    "updatedAt": "2026-07-01T23:30:17Z"
-  },
-  {
-    "id": 359,
-    "seccion": "protestas_int",
-    "pais": "Alemania",
-    "bandera": "🇩🇪",
-    "hora": "17:00",
-    "fecha": "2026-07-01",
-    "lugar": "An der Bastei, Konrad-Adenauer-Ufer, Colonia (Rheinuferstraße cerrada 14:00-21:00)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "DGB Köln-Bonn (Deutscher Gewerkschaftsbund)",
-      "Verdi Köln-Bonn-Leverkusen",
-      "IG Metall Köln-Leverkusen"
-    ],
-    "motivo": "Protesta 'Basta! Der Sozialstaat braucht deine Hilfe' contra los planes del gobierno federal de reformar los seguros de salud y pensiones. Rechazan el aumento de la edad de jubilación, la eliminación de la pensión a los 63 años, el aumento de copagos en salud (50%) y la eliminación del seguro gratuito para cónyuges. Exigen impuesto a las grandes fortunas, estabilidad de pensiones y salarios dignos. Se esperan 2.000 participantes.",
-    "status": "en_curso",
-    "lat": "50.9375",
-    "lng": "6.9603",
-    "fuentes": [
-      {
-        "nombre": "Kölner Stadt-Anzeiger - DGB Demo Sozialstaat Köln July 1",
-        "url": "https://www.ksta.de/koeln/koelner-innenstadt/dgb-koeln-ruft-zu-demo-fuer-den-erhalt-des-sozialstaats-auf-1310380"
-      },
-      {
-        "nombre": "IG Metall Köln - BASTA! July 1",
-        "url": "https://koeln-leverkusen.igmetall.de/aktuelles/2026/basta01072026-zur-bastei"
-      },
-      {
-        "nombre": "DGB NRW - BASTA! Sozialstaat verteidigen July 1",
-        "url": "https://nrw.dgb.de/ueber-uns/regionen-mit-stadt-und-kreisverbaenden/koeln-bonn/"
-      }
-    ],
-    "createdAt": "2026-07-01T06:24:19.000Z",
-    "updatedAt": "2026-07-01T23:30:17Z"
-  },
-  {
-    "id": 360,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "09:00",
-    "fecha": "2026-07-01",
-    "lugar": "Tribunales de Paraná → Caja de Jubilaciones → Casa Gris (Casa de Gobierno), Paraná, Entre Ríos",
-    "tipoAccion": "movilización",
-    "organizaciones": [
-      "AJER (Asociación Judicial de Entre Ríos)",
-      "Multisectorial en Defensa de la Caja de Jubilaciones"
-    ],
-    "motivo": "Asamblea y movilización de trabajadores judiciales en el marco de la Multisectorial en Defensa de la Caja de Jubilaciones. Concentración en explanada de Tribunales de Paraná, marcha hacia la Caja de Jubilaciones y luego a Casa de Gobierno. Rechazan el proyecto de reforma previsional del gobierno provincial que modificaría la edad jubilatoria y aumentaría aportes. Se suman a la jornada de protesta junto a AGMER y AMET.",
-    "status": "en_curso",
-    "lat": "-31.7443",
-    "lng": "-60.5171",
-    "fuentes": [
-      {
-        "nombre": "APFDigital - AJER convoca asamblea con movilización 1 julio (30 junio 2026)",
-        "url": "https://www.apfdigital.com.ar/noticias/2026/06/30/461692-empleados-judiciales-convocan-a-asamblea-y-a-movilizar-en-la-multisectorial-en-defensa-de-la-caja-de-jubilaciones"
-      },
-      {
-        "nombre": "APFDigital - Movilización Multisectorial: sindicatos rechazaron el ajuste y la reforma previsional (1 julio 2026)",
-        "url": "https://www.apfdigital.com.ar/noticias/2026/07/01/461761-movilizacion-de-la-multisectorial-sindicatos-rechazaron-el-ajuste-y-la-reforma-previsional"
-      }
-    ],
-    "createdAt": "2026-07-01T06:27:49.000Z",
-    "updatedAt": "2026-07-01T23:30:17Z"
-  },
-  {
-    "id": 361,
-    "seccion": "protestas_int",
-    "pais": "Sudáfrica",
-    "bandera": "🇿🇦",
-    "hora": "00:00",
-    "fecha": "2026-07-01",
-    "lugar": "A nivel nacional: Johannesburgo, Soweto, Durban, Ciudad del Cabo, Pretoria; foco principal en Hillbrow (Johannesburgo)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "March and March (Jacinta Ngobese-Zuma)",
-      "Operation Dudula",
-      "Progressive Forces",
-      "Insizwa Nobunsiza"
-    ],
-    "motivo": "Protestas masivas antiinmigración ('March and March') con ultimátum para la salida de inmigrantes indocumentados. 120 marchas en todo el país: 108 pacíficas, 12 con violencia. Más de 900 arrestos. Ejército desplegado en Hillbrow. Miles de inmigrantes de Zimbabue, Malaui y Nigeria huyeron del país. El presidente Ramaphosa intervino personalmente. Denuncian desempleo (33% oficial, 60% juvenil), saturación de servicios públicos e inseguridad, atribuyéndolo a la inmigración ilegal.",
-    "status": "en_curso",
-    "lat": "-26.2041",
-    "lng": "28.0473",
-    "fuentes": [
-      {
-        "nombre": "Business Day - Ramaphosa credited for defusing protests July 1",
-        "url": "https://www.businessday.co.za/news/2026-07-01-ramaphosa-credited-with-largely-defusing-anti-immigration-protests/"
-      },
-      {
-        "nombre": "Live News Chat - South Africa 900 arrested July 1",
-        "url": "https://livenewschat.eu/south-africa-900-arrested-anti-migrant-protests-deadline-day-july-2026"
-      },
-      {
-        "nombre": "AP News - Anti-immigration protesters march in SA June 30",
-        "url": "https://www.wivb.com/news/world/ap-anti-immigration-protesters-march-in-south-africa-as-some-immigrants-leave-the-country/"
-      },
-      {
-        "nombre": "Times LIVE - Live updates June 30",
-        "url": "https://www.timeslive.co.za/news/south-africa/2026-06-29-live-updates-anti-immigrant-marchers-pelted-in-johannesburg/"
-      },
-      {
-        "nombre": "Merca2 - Sudáfrica despliega ejército protestas antiinmigrantes July 1",
-        "url": "https://www.merca2.es/2026/07/01/protestas-antiinmigrantes-sudafrica-ejercito-exodo-2408835/"
-      }
-    ],
-    "createdAt": "2026-07-01T13:18:37.000Z",
-    "updatedAt": "2026-07-01T23:30:17Z"
+    "updatedAt": "2026-07-02T01:41:02Z"
   },
   {
     "id": 362,
@@ -1099,7 +404,7 @@
     "pais": "España",
     "bandera": "🇪🇸",
     "hora": "00:00",
-    "fecha": "2026-07-01",
+    "fecha": "2026-07-02",
     "lugar": "Centros de BorgWarner en Vigo, Nigrán y O Porriño (Pontevedra), Galicia",
     "tipoAccion": "huelga",
     "organizaciones": [
@@ -1125,7 +430,7 @@
       }
     ],
     "createdAt": "2026-07-01T13:18:37.000Z",
-    "updatedAt": "2026-07-01T23:30:17Z"
+    "updatedAt": "2026-07-02T01:41:02Z"
   },
   {
     "id": 363,
@@ -1133,7 +438,7 @@
     "pais": "México",
     "bandera": "🇲🇽",
     "hora": "00:00",
-    "fecha": "2026-07-01",
+    "fecha": "2026-07-02",
     "lugar": "304 sucursales del Nacional Monte de Piedad en todo México, con centro en Ciudad de México",
     "tipoAccion": "huelga",
     "organizaciones": [
@@ -1159,7 +464,7 @@
       }
     ],
     "createdAt": "2026-07-01T13:18:37.000Z",
-    "updatedAt": "2026-07-01T23:30:17Z"
+    "updatedAt": "2026-07-02T01:41:02Z"
   },
   {
     "id": 364,
@@ -1167,13 +472,13 @@
     "pais": "España",
     "bandera": "🇪🇸",
     "hora": "12:00",
-    "fecha": "2026-07-01",
+    "fecha": "2026-07-02",
     "lugar": "Estaciones de tren de toda España (servicios de atención al pasajero, control de billetes y venta de LogiRAIL/Renfe)",
     "tipoAccion": "huelga",
     "organizaciones": [
       "Sindicato Ferroviario"
     ],
-    "motivo": "Huelga parcial de 4 horas (12:00-16:00) de empleados de LogiRAIL (filial de Renfe) en toda España, el 1 y 2 de julio. Es la cuarta y quinta jornada de 5 días de huelga convocadas por el Sindicato Ferroviario por salarios y condiciones laborales. Afecta a unos 4.000 trabajadores de servicios de estación. Los trenes operan pero los servicios de atención al pasajero se ven afectados.",
+    "motivo": "Huelga parcial de 4 horas (12:00-16:00) de empleados de LogiRAIL (filial de Renfe) en toda España, el 2 de julio. Es la quinta jornada de 5 días de huelga convocadas por el Sindicato Ferroviario por salarios y condiciones laborales. Afecta a unos 4.000 trabajadores de servicios de estación. Los trenes operan pero los servicios de atención al pasajero se ven afectados.",
     "status": "en_curso",
     "lat": "40.4168",
     "lng": "-3.7038",
@@ -1188,135 +493,7 @@
       }
     ],
     "createdAt": "2026-07-01T13:18:37.000Z",
-    "updatedAt": "2026-07-01T23:30:17Z"
-  },
-  {
-    "id": 365,
-    "seccion": "protestas_int",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "10:00",
-    "fecha": "2026-07-01",
-    "lugar": "Plaza Principal de McLeod Ganj → Pilar de los Mártires (Templo Tibetano principal), Dharamshala, Himachal Pradesh",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Students for a Free Tibet India (SFT-India)",
-      "Tibetan Women's Association (TWA)",
-      "National Democratic Party of Tibet (NDPT)",
-      "Gu Chu Sum Movement Association of Tibet",
-      "Tibetan Youth Congress (TYC)"
-    ],
-    "motivo": "Día de Acción Global de organizaciones tibetanas en el exilio contra la entrada en vigor de la 'Ley de Promoción de la Unidad Étnica y el Progreso' de China. Denuncian que la ley codifica legalmente la asimilación forzada de tibetanos y criminaliza la preservación del idioma tibetano, costumbres tradicionales e identidad cultural como amenazas a la 'unidad nacional'. Manifestación coordinada a nivel mundial con protestas simultáneas en múltiples países. El TYC realizó protesta paralela durante su 55° reunión en Dehradun.",
-    "status": "concluida",
-    "lat": "32.2432",
-    "lng": "76.3234",
-    "fuentes": [
-      {
-        "nombre": "Phayul - Exiled Tibetans condemn China's Ethnic Unity Law July 1 2026",
-        "url": "https://phayul.com/exiled-tibetans-condemn-chinas-ethnic-unity-law-as-threat-to-tibetan-identity/"
-      },
-      {
-        "nombre": "NewsX - What Is China's New Ethnic Unity Law July 1 2026",
-        "url": "https://www.newsx.com/world/tibet-china-new-ethnic-unity-law-why-tibetans-are-protesting-worldwide-243351/"
-      },
-      {
-        "nombre": "Asianet Newsable - Tibetan activists protest new Chinese law July 1 2026",
-        "url": "https://newsable.asianetnews.com/world/tibetan-activists-protest-new-chinese-law-to-erase-their-identity-articleshow-8sfifg5"
-      }
-    ],
-    "createdAt": "2026-07-01T18:27:14.000Z",
-    "updatedAt": "2026-07-01T23:30:17Z"
-  },
-  {
-    "id": 367,
-    "seccion": "protestas_int",
-    "pais": "Turquía",
-    "bandera": "🇹🇷",
-    "hora": "12:00",
-    "fecha": "2026-07-01",
-    "lugar": "Gebze Kent Meydanı (Plaza de la Ciudad), Gebze, Kocaeli",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Gebze Sendikalar Birliği (Unión de Sindicatos de Gebze)",
-      "Birleşik Metal-İş",
-      "Emek Partisi",
-      "DEM Parti",
-      "Sol Parti"
-    ],
-    "motivo": "Protesta de trabajadores contra la cumbre de la OTAN del 7-8 de julio en Ankara, con consignas 'OTAN defol' (OTAN vete), 'Savaşa değil emekçiye bütçe' (Presupuesto para los trabajadores, no para la guerra). Denuncian que la OTAN es una organización imperialista de guerra y que el gasto militar del 5% del PBI destruye el presupuesto social. Exigen aumento del salario mínimo y justicia fiscal.",
-    "status": "en_curso",
-    "lat": "40.8028",
-    "lng": "29.4305",
-    "fuentes": [
-      {
-        "nombre": "Cumhuriyet - Gebze işçilerden NATO protestosu July 1 2026",
-        "url": "https://www.cumhuriyet.com.tr/siyaset/gebze-de-iscilerden-nato-protestosu-savasa-degil-emekciye-butce-2516931"
-      },
-      {
-        "nombre": "Haber41 - Gebze Sendikalar Birliği NATO Protestosu July 1 2026",
-        "url": "https://www.haber41.com.tr/gebze-sendikalar-birligi-onculugunde-gebzede-nato-protestosu"
-      }
-    ],
-    "createdAt": "2026-07-01T21:59:17.000Z",
-    "updatedAt": "2026-07-01T23:30:17Z"
-  },
-  {
-    "id": 368,
-    "seccion": "protestas_int",
-    "pais": "Australia",
-    "bandera": "🇦🇺",
-    "hora": "12:00",
-    "fecha": "2026-07-01",
-    "lugar": "Martin Place, Sídney (réplicas en Melbourne, Canberra y Brisbane)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Australian Tibetan Community Association",
-      "Australia Tibet Council",
-      "Amnistía Internacional Australia",
-      "Victims of the Chinese Communist Party Australia-New Zealand Alliance"
-    ],
-    "motivo": "Protesta del Día de Acción Global de la diáspora tibetana en Australia contra la entrada en vigor de la 'Ley de Promoción de la Unidad Étnica y el Progreso' de China. Denuncian que la ley codifica la asimilación forzada de tibetanos y uigures, criminaliza la lengua y cultura tibetanas, y otorga jurisdicción extraterritorial (Art. 63) para perseguir disidentes en el exterior. Exigen que Australia condene la ley y convoque al embajador chino.",
-    "status": "en_curso",
-    "lat": "-33.8688",
-    "lng": "151.2093",
-    "fuentes": [
-      {
-        "nombre": "Amnesty International Australia - Ethnic Unity Law protest Sydney July 1",
-        "url": "https://www.amnesty.org.au/china-new-ethnic-unity-law-set-to-entrench-assimilation-of-minority-groups/"
-      },
-      {
-        "nombre": "Epoch Times - Sydney protest China Ethnic Unity Law July 1 2026",
-        "url": "https://www.epochtimes.com/gb/26/7/1/n14800587.htm"
-      }
-    ],
-    "createdAt": "2026-07-01T21:59:17.000Z",
-    "updatedAt": "2026-07-01T23:30:17Z"
-  },
-  {
-    "id": 369,
-    "seccion": "protestas_int",
-    "pais": "Sri Lanka",
-    "bandera": "🇱🇰",
-    "hora": "17:00",
-    "fecha": "2026-07-01",
-    "lugar": "Havelock Mall, Colombo",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Activistas pro-Palestina de Sri Lanka",
-      "Free Palestine Movement of Sri Lanka"
-    ],
-    "motivo": "Protesta de solidaridad con Palestina contra un evento musical organizado por la Embajada de EE.UU. con el ejército y la marina de Sri Lanka en Havelock Mall. Los manifestantes denunciaron la participación de fuerzas armadas locales en un evento estadounidense mientras EE.UU. respalda las atrocidades israelíes en Gaza. Exigieron el fin de la violencia contra los palestinos.",
-    "status": "concluida",
-    "lat": "6.8870",
-    "lng": "79.8567",
-    "fuentes": [
-      {
-        "nombre": "Colombo Times - Palestine supporters protest US embassy musical show July 1",
-        "url": "https://colombotimes.net/palestine-supporters-staged-a-protest-against-us-embassy-musical-show-at-havelock-mall/"
-      }
-    ],
-    "createdAt": "2026-07-01T21:59:17.000Z",
-    "updatedAt": "2026-07-01T23:30:17Z"
+    "updatedAt": "2026-07-02T01:41:02Z"
   },
   {
     "id": 370,
@@ -1324,7 +501,7 @@
     "pais": "Estados Unidos",
     "bandera": "🇺🇸",
     "hora": "00:00",
-    "fecha": "2026-07-01",
+    "fecha": "2026-07-02",
     "lugar": "Haverhill, Lawrence y 16 comunidades del noreste de Massachusetts (Merrimack Valley)",
     "tipoAccion": "huelga",
     "organizaciones": [
@@ -1354,40 +531,93 @@
       }
     ],
     "createdAt": "2026-07-01T23:23:32.000Z",
-    "updatedAt": "2026-07-01T23:30:17Z"
+    "updatedAt": "2026-07-02T01:41:02Z"
   },
   {
-    "id": 371,
     "seccion": "protestas_ar",
     "pais": "Argentina",
     "bandera": "🇦🇷",
-    "hora": "10:00",
-    "fecha": "2026-07-01",
-    "lugar": "Sede central de la Dirección General de Cultura y Educación (13 entre 56 y 57), La Plata, Provincia de Buenos Aires",
-    "tipoAccion": "protesta",
+    "createdAt": "2026-07-02T01:36:55.000Z",
+    "updatedAt": "2026-07-02T01:41:02Z",
+    "id": 372,
+    "fecha": "2026-07-02",
+    "hora": "00:00",
+    "lugar": "Provincia de Santa Cruz (todo el territorio provincial), con epicentro en Río Gallegos",
+    "tipoAccion": "paro",
     "organizaciones": [
-      "ATE DGCYE (Junta Interna)",
-      "Empleados de la DGCyE",
-      "SUTEBA",
-      "FEB",
-      "AMET",
-      "Udocba"
+      "ADOSAC (Asociación Docentes de Santa Cruz)"
     ],
-    "motivo": "Protesta y piquete de trabajadores de la Dirección General de Cultura y Educación bonaerense frente a la sede central en La Plata. Exigen urgente recomposición salarial ante la pérdida del poder adquisitivo, convocatoria a paritarias y rechazo a la reforma previsional. Denuncian que la paritaria se encuentra congelada por el gobierno provincial y que llevan más de dos meses de reclamo sin respuestas. Corte total de la Avenida 13.",
+    "motivo": "Cuarto y último día del paro total de actividades por 96 horas en toda la provincia de Santa Cruz (29 jun - 2 jul). El Congreso Provincial de ADOSAC ratificó la medida tras considerar insuficiente la oferta del gobierno provincial. Exigen: aumento salarial inmediato ante la pérdida del poder adquisitivo (salario inicial de $1.276.000 frente a una canasta básica regional de $1.900.000), devolución total de los descuentos aplicados por días de huelga anteriores, y tratamiento urgente de la propuesta pedagógica presentada por el sindicato.",
     "status": "en_curso",
-    "lat": "-34.9215",
-    "lng": "-57.9546",
+    "lat": "-51.6230",
+    "lng": "-69.2168",
     "fuentes": [
       {
-        "nombre": "El Día - Protesta y piquete en Educación por aumento salarial (1 julio 2026)",
-        "url": "https://www.eldia.com/la-ciudad/protesta-y-piquete-en-educacion-por-aumento-salarial-la-ciudad_1782919680"
+        "nombre": "TiempoSur - ADOSAC ratificó un paro de 96 horas (28 junio 2026)",
+        "url": "https://www.tiemposur.com.ar/info-general/adosac-ratifico-un-paro-de-96-horas"
       },
       {
-        "nombre": "LaPlata1 - El sueldo no alcanza: trabajadores de Educación bonaerense realizaron una masiva protesta en La Plata (1 julio 2026)",
-        "url": "https://www.laplata1.com/2026-07-01/el-sueldo-no-alcanza-trabajadores-de-educacion-bonaerense-realizaron-una-masiva-protesta-en-la-plata-124516/"
+        "nombre": "Señal Calafate - 96h: ADOSAC estaría de paro casi toda la semana (27 junio 2026)",
+        "url": "https://xn--sealcalafate-bhb.com/contenido/22845/adosac-vuelve-al-paro-desde-manana"
+      },
+      {
+        "nombre": "La Opinión Austral - ADOSAC definió paro de 96 horas y espera que el Gobierno mejore la oferta (28 junio 2026)",
+        "url": "https://www.opisantacruz.com.ar/2026/06/28/adosac-definio-paro-de-96-horas-y-espera-que-el-gobierno-mejore-la-oferta-salarial/"
+      },
+      {
+        "nombre": "La Opinión Austral - ADOSAC ratificó el paro de 96 horas en Santa Cruz (28 junio 2026)",
+        "url": "https://laopinionaustral.com.ar/politica-y-economia/adosac-ratifico-el-paro-de-96-horas-en-santa-cruz-676924.html"
+      },
+      {
+        "nombre": "El Destape - Nueva semana caliente para Vidal: estatales, docentes y policías elevan medidas de fuerza (29 junio 2026)",
+        "url": "https://www.eldestapeweb.com/politica/nueva-semana-caliente-vidal-estatales-docentes-policias-elevan-medidas-fuerza-202662915814"
       }
+    ]
+  },
+  {
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "createdAt": "2026-07-02T01:36:55.000Z",
+    "updatedAt": "2026-07-02T01:41:02Z",
+    "id": 373,
+    "fecha": "2026-07-02",
+    "hora": "00:00",
+    "lugar": "Casa de Gobierno (con acampe 'Carpa de la Dignidad'), Río Gallegos, y en toda la provincia de Santa Cruz",
+    "tipoAccion": "quite de colaboración",
+    "organizaciones": [
+      "Policías Autoconvocados de Santa Cruz",
+      "Bomberos de Santa Cruz"
     ],
-    "createdAt": "2026-07-01T23:27:00.000Z",
-    "updatedAt": "2026-07-01T23:30:17Z"
+    "motivo": "Quite de colaboración y acampe ('Carpa de la Dignidad') de policías y bomberos de Santa Cruz frente a Casa de Gobierno en Río Gallegos, con más de un mes de conflicto salarial. Exigen que un agente ingresante alcance un salario de $2.200.000 (actualmente cobran $1.100.000, por debajo de la línea de pobreza). Rechazaron 11 ofertas del gobierno provincial. El 95% de los efectivos están plegados. Fuerzas federales (Gendarmería, Prefectura, Policía Federal, PSA, SPF) cubren patrullaje.",
+    "status": "en_curso",
+    "lat": "-51.6230",
+    "lng": "-69.2168",
+    "fuentes": [
+      {
+        "nombre": "Infogremiales - Policías cumplen un mes de acampe rechazan 11 ofertas (29 junio 2026)",
+        "url": "https://www.infogremiales.com.ar/tension-en-santa-cruz-policias-cumplen-un-mes-de-acampe-frente-a-la-gobernacion-y-rechazan-11-ofertas-salariales/"
+      },
+      {
+        "nombre": "La Nación - Tensión Santa Cruz cumple un mes conflicto policía",
+        "url": "https://www.lanacion.com.ar/politica/tension-en-santa-cruz-cumple-un-mes-el-conflicto-por-salarios-de-la-policia-tras-el-rechazo-de-11-nid28062026/"
+      },
+      {
+        "nombre": "Infobae - Conflicto salarial policía Santa Cruz acampe",
+        "url": "https://www.infobae.com/politica/2026/06/06/conflicto-salarial-con-la-policia-en-santa-cruz-protestas-acampe-y-refuerzo-de-fuerzas-federales-de-nacion"
+      },
+      {
+        "nombre": "OPI Santa Cruz - Vidal desbordado: Milei interviene para quebrar paro policial (1 julio 2026)",
+        "url": "https://www.opisantacruz.com.ar/2026/07/01/parte-del-acuerdo-con-milei-nacion-se-mete-en-el-conflicto-policial-amenaza-y-tensa-la-cuerda-el-gobierno-provincial-esta-rebasado-y-no-encuentra-la-salida/"
+      },
+      {
+        "nombre": "La Arena - Policías de Santa Cruz están acuartelados hace un mes y reclaman mejoras salariales (1 julio 2026)",
+        "url": "https://www.laarena.com.ar/el-pais/policias-de-santa-cruz-estan-acuartelados-hace-un-mes-y-reclaman-mejoras-salariales-2026719500"
+      },
+      {
+        "nombre": "ADNSUR - Jamás nos recibió: la dura acusación de los policías contra Claudio Vidal (1 julio 2026)",
+        "url": "https://www.adnsur.com.ar/policiales---judiciales/-jamas-nos-recibio---la-dura-acusacion-de-los-policias-de-santa-cruz-contra-claudio-vidal-en-plena-protesta_a6a4506240932c618ef74bb3b"
+      }
+    ]
   }
 ]
