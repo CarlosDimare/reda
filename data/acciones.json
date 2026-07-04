@@ -1,122 +1,94 @@
 [
   {
-    "id": 345,
+    "id": 431,
     "seccion": "protestas_int",
     "pais": "España",
     "bandera": "🇪🇸",
-    "hora": "00:00",
-    "fecha": "2026-07-03",
-    "lugar": "Todos los centros de trabajo de Airbus en España: Airbus Defensa y Espacio, Airbus Operaciones y Airbus Helicópteros (a nivel nacional)",
-    "tipoAccion": "huelga",
+    "hora": "19:00",
+    "fecha": "2026-07-04",
+    "lugar": "Glorieta de Carlos V (Atocha) a Plaza de Colón, Madrid",
+    "tipoAccion": "marcha",
     "organizaciones": [
-      "Sindicatos de Airbus España",
-      "Comités de empresa de Airbus"
+      "Federación Estatal LGTBI+ (FELGTBI+)",
+      "COGAM (Colectivo LGTBI de Madrid)"
     ],
-    "motivo": "Día 3 de la huelga general mensual en Airbus España (1-31 de julio) en todos los centros de trabajo y divisiones del país. Protestan contra la insuficiente subida salarial y la reducción del teletrabajo (eliminación de uno de los dos días semanales). La huelga se desarrolla durante todas las jornadas y horarios laborales del mes de julio.",
+    "motivo": "Manifestación Estatal del Orgullo LGTBIQ+ 2026 (MADO'26) bajo el lema '¡A las calles con orgullo! Disidencia y resistencia'. Marcha multitudinaria desde Atocha hasta Colón exigiendo un Pacto de Estado contra los discursos de odio y la defensa de los derechos del colectivo LGTBIQ+ ante el aumento de agresiones y discursos de odio en España. Se espera más de un millón de asistentes.",
     "status": "en_curso",
     "lat": "40.4168",
     "lng": "-3.7038",
     "fuentes": [
       {
-        "nombre": "OKDiario - Airbus España convoca huelga 1 julio por un mes",
-        "url": "https://okdiario.com/economia/plantilla-airbus-espana-covoca-huelga-desde-1-julio-que-durara-mes-18829704"
+        "nombre": "RTVE - Desfile Orgullo 2026 Madrid 4 julio",
+        "url": "https://www.rtve.es/play/noticias/20260703/desfile-orgullo-2026-lgtb-recorrido-madrid-hora-donde-ver/17142460.shtml"
       },
       {
-        "nombre": "OKDiario - Airbus amenaza con descuentos salariales pese a movilizaciones",
-        "url": "https://okdiario.com/economia/airbus-responde-movilizaciones-sus-trabajadores-habra-descuento-salarial-nomina-18857450"
+        "nombre": "El Confidencial - Manifestación Orgullo Madrid 4 julio 2026",
+        "url": "https://www.elconfidencial.com/espana/madrid/2026-07-03/manifestacion-orgullo-2026-madrid-horario-recorrido-cortes-trafico-sabado-4-julio-1qrt_4382214/"
       }
     ],
-    "createdAt": "2026-07-01T01:39:12.000Z",
-    "updatedAt": "2026-07-03T23:06:06Z"
+    "createdAt": "2026-07-04T01:07:21.000Z",
+    "updatedAt": "2026-07-04T01:16:00Z"
   },
   {
-    "id": 347,
+    "id": 432,
     "seccion": "protestas_int",
     "pais": "España",
     "bandera": "🇪🇸",
-    "hora": "00:00",
-    "fecha": "2026-07-03",
-    "lugar": "Todos los centros de trabajo de Correos en la Comunidad de Madrid",
-    "tipoAccion": "huelga",
+    "hora": "12:00",
+    "fecha": "2026-07-04",
+    "lugar": "Plaza de Numancia al Ayuntamiento de Santander, Cantabria",
+    "tipoAccion": "marcha",
     "organizaciones": [
-      "CGT (Confederación General del Trabajo)"
-    ],
-    "motivo": "Día 3 de la huelga en todos los centros y turnos de trabajo de Correos en la Comunidad de Madrid (1 de julio al 30 de septiembre). Denuncian falta de personal que se incrementa 'exponencialmente' en verano, vulneración del derecho a la conciliación y al descanso, y mayor riesgo para la salud por condiciones climáticas extremas. La huelga incluye actos de protesta y movilizaciones durante todo el verano.",
-    "status": "en_curso",
-    "lat": "40.4168",
-    "lng": "-3.7038",
-    "fuentes": [
-      {
-        "nombre": "Infobae - CGT convoca huelga todo el verano en Correos Madrid 30 junio 2026",
-        "url": "https://www.infobae.com/espana/agencias/2026/06/30/cgt-convoca-huelga-todo-el-verano-en-centros-de-trabajo-de-correos-en-comunidad-de-madrid/"
-      }
-    ],
-    "createdAt": "2026-07-01T01:39:12.000Z",
-    "updatedAt": "2026-07-03T23:06:06Z"
-  },
-  {
-    "id": 348,
-    "seccion": "protestas_int",
-    "pais": "Reino Unido",
-    "bandera": "🇬🇧",
-    "hora": "18:30",
-    "fecha": "2026-07-03",
-    "lugar": "Foreign, Commonwealth and Development Office (FCDO), King Charles Street, Londres",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Activista Aomar Karim",
-      "Baloch Yakjehti Committee"
-    ],
-    "motivo": "Último día de la huelga de hambre pacífica de tres días (1-3 de julio) del activista baluchi Aomar Karim. Inició frente a 10 Downing Street y se trasladó al FCDO el viernes 3 de julio a las 18:30. Denuncia violaciones de derechos humanos en Baluchistán (Pakistán) y las sentencias de cadena perpetua impuestas a los líderes del Baloch Yakjehti Committee, Mahrang Baloch y Sibghatullah Shahji. Exige que el gobierno británico condene estas acciones y presione a Pakistán.",
-    "status": "en_curso",
-    "lat": "51.5000",
-    "lng": "-0.1260",
-    "fuentes": [
-      {
-        "nombre": "Asianet Newsable - London hunger strike Balochistan July 1-3",
-        "url": "https://newsable.asianetnews.com/world/london-hunger-strike-to-spotlight-human-rights-violations-in-balochistan-articleshow-t3hg77k"
-      },
-      {
-        "nombre": "Daily Hunt / ANI - Baloch activist hunger strike UK PM office July 2-3",
-        "url": "https://m.dailyhunt.in/news/india/english/ani+english-epaper-anieng/baloch+activist+launches+hunger+strike+outside+uk+pms+office+over+rights+concerns-newsid-n718164458"
-      }
-    ],
-    "createdAt": "2026-07-01T01:39:12.000Z",
-    "updatedAt": "2026-07-03T23:06:06Z"
-  },
-  {
-    "id": 362,
-    "seccion": "protestas_int",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "00:00",
-    "fecha": "2026-07-03",
-    "lugar": "Centros de BorgWarner en Vigo, Nigrán y O Porriño (Pontevedra), Galicia",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "CIG",
-      "UGT",
+      "Coordinadora de Pensionistas de Cantabria",
+      "Federación de Asociaciones de Vecinos de Cantabria (FDAV)",
+      "Asociación para la Defensa de la Sanidad Pública en Cantabria",
+      "Izquierda Unida",
+      "Podemos",
+      "PSOE",
       "CGT",
-      "USO",
-      "CC.OO.",
-      "Comité de empresa de BorgWarner"
+      "Intersindical Cántabra"
     ],
-    "motivo": "Día 3 de huelga indefinida en la planta de automoción BorgWarner por incumplimientos sistemáticos del convenio colectivo durante 10 meses, vulneración del derecho de información sobre traslado de 180 trabajadores del centro de Zamáns a Porto do Molle (Nigrán), e incumplimientos en vacaciones, permisos y categorías profesionales. La empresa recibió 5 millones de euros en subvenciones públicas pero no creó empleo indefinido.",
+    "motivo": "Manifestación en defensa de la sanidad pública cántabra contra los recortes presupuestarios, la privatización y los conciertos con clínicas privadas. Exigen que los 250 millones de euros destinados a Santa Clotilde vuelvan al sistema sanitario público. Denuncian el empeoramiento de las listas de espera y la rebaja de capacidades de la sanidad pública. Marcha desde la Plaza de Numancia hasta el Ayuntamiento de Santander.",
     "status": "en_curso",
-    "lat": "42.2328",
-    "lng": "-8.7126",
+    "lat": "43.4623",
+    "lng": "-3.8099",
     "fuentes": [
       {
-        "nombre": "Cadena SER - Huelga indefinida BorgWarner 1 julio",
-        "url": "https://cadenaser.com/galicia/2026/06/27/julio-empezara-en-borgwarner-con-una-huelga-indefenidad-radio-vigo/"
+        "nombre": "Europa Press - Manifestación sanidad pública Santander 4 julio",
+        "url": "https://www.europapress.es/cantabria/noticia-colectivos-convocan-manifestacion-defensa-sanidad-publica-sabado-santander-20260630094300.html"
       },
       {
-        "nombre": "La Voz de Galicia - BorgWarner convoca huelga indefinida 1 julio",
-        "url": "https://www.lavozdegalicia.es/noticia/vigo/2026/06/27/comite-borgwarner-convoca-huelga-indefinida-miercoles/00031782555286207402683.htm"
+        "nombre": "El Diario Cantabria - Varios colectivos convocan manifestación sanidad pública 4 julio",
+        "url": "https://eldiariocantabria.publico.es/articulo/sanidad/varios-colectivos-convocan-manifestacion-sabado-santander-defensa-sanidad-publica/20260630110505195051.html"
       }
     ],
-    "createdAt": "2026-07-01T13:18:37.000Z",
-    "updatedAt": "2026-07-03T23:06:06Z"
+    "createdAt": "2026-07-04T01:07:21.000Z",
+    "updatedAt": "2026-07-04T01:16:00Z"
+  },
+  {
+    "id": 433,
+    "seccion": "protestas_int",
+    "pais": "España",
+    "bandera": "🇪🇸",
+    "hora": "20:30",
+    "fecha": "2026-07-04",
+    "lugar": "Jardines del Triunfo a Plaza del Carmen (Ayuntamiento), Granada",
+    "tipoAccion": "marcha",
+    "organizaciones": [
+      "SAPAD (Sindicato Andaluz de Profesionales de Ayuda a Domicilio)"
+    ],
+    "motivo": "Marcha de profesionales del Servicio de Atención a Domicilio (SAD) para exigir dignidad profesional y reconocimiento social. Reclaman mejores condiciones laborales, salarios dignos y el reconocimiento de la importancia de su labor en el cuidado de personas dependientes. Recorrido desde Jardines del Triunfo por Gran Vía de Colón y Reyes Católicos hasta la Plaza del Carmen.",
+    "status": "en_curso",
+    "lat": "37.1773",
+    "lng": "-3.5986",
+    "fuentes": [
+      {
+        "nombre": "Ayuntamiento Granada - Manifestación SAPAD 4 julio 2026",
+        "url": "http://www.movilidadgranada.com/articulo.php?id=6795&idioma=es"
+      }
+    ],
+    "createdAt": "2026-07-04T01:07:21.000Z",
+    "updatedAt": "2026-07-04T01:16:00Z"
   },
   {
     "id": 363,
@@ -124,14 +96,14 @@
     "pais": "México",
     "bandera": "🇲🇽",
     "hora": "00:00",
-    "fecha": "2026-07-03",
+    "fecha": "2026-07-04",
     "lugar": "304 sucursales del Nacional Monte de Piedad en todo México, con centro en Ciudad de México",
     "tipoAccion": "huelga",
     "organizaciones": [
       "Sindicato Nacional de Empleados y Trabajadores del Nacional Monte de Piedad",
       "Arturo Zayún (dirigente nacional)"
     ],
-    "motivo": "La huelga en el Nacional Monte de Piedad cumple 9 meses (desde el 1 de octubre de 2025). El paro mantiene cerradas las 304 sucursales de la casa de empeño más antigua de México. Los trabajadores exigen respeto a los derechos laborales y prestaciones del Contrato Colectivo de Trabajo. Miles de clientes afectados sin poder recuperar prendas. Nuevo director José Antonio Murillo Garza asumió el 1 de junio.",
+    "motivo": "La huelga en el Nacional Monte de Piedad continúa por noveno mes consecutivo (desde el 1 de octubre de 2025). El paro mantiene cerradas las 304 sucursales de la casa de empeño más antigua de México. Los trabajadores exigen respeto a los derechos laborales y prestaciones del Contrato Colectivo de Trabajo. Miles de clientes afectados sin poder recuperar prendas.",
     "status": "en_curso",
     "lat": "19.4326",
     "lng": "-99.1332",
@@ -143,43 +115,10 @@
       {
         "nombre": "Cúspide México - 9 meses huelga Monte de Piedad 29 junio",
         "url": "https://cuspidemexico.com/2026/06/29/tras-nueve-meses-de-protestas-y-los-trabajadores-del-monte-de-piedad-no-ceden/"
-      },
-      {
-        "nombre": "Ejecentral - Huelga Monte de Piedad 1 julio cumple 9 meses",
-        "url": "https://www.ejecentral.com.mx/nuestro-eje/huelga-monte-de-piedad-hoy-1-de-julio-cumple-9-meses-esto-se-sabe-de-las-negociaciones-al-momento"
       }
     ],
     "createdAt": "2026-07-01T13:18:37.000Z",
-    "updatedAt": "2026-07-03T23:06:06Z"
-  },
-  {
-    "id": 387,
-    "seccion": "protestas_int",
-    "pais": "Reino Unido",
-    "bandera": "🇬🇧",
-    "hora": "08:00",
-    "fecha": "2026-07-03",
-    "lugar": "Institute of Cancer Research (ICR), Sutton y Chelsea, Londres",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "Unite the Union"
-    ],
-    "motivo": "Día 5 de la huelga continua de trabajadores del Institute of Cancer Research (ICR) en Londres (29 junio - 10 julio), contra la baja oferta salarial del 4% mientras el CEO gana más de £457,000 anuales y el instituto tiene más de £100 millones en reservas. Exigen aumento salarial justo y restauración del poder adquisitivo. Trabajadores de investigación, laboratorios y mantenimiento ganan apenas por encima del salario mínimo de Londres.",
-    "status": "en_curso",
-    "lat": "51.4934",
-    "lng": "-0.1738",
-    "fuentes": [
-      {
-        "nombre": "Unite the Union - Further London strikes Institute of Cancer Research June 24",
-        "url": "https://www.unitetheunion.org/news-events/news/2026/june/further-london-strikes-at-world-leading-institute-of-cancer-research"
-      },
-      {
-        "nombre": "StrikeCalendar - ICR industrial action July 3 2026",
-        "url": "https://www.strikecalendar.co.uk/union/unite/instituteofcancerresearchunite"
-      }
-    ],
-    "createdAt": "2026-07-02T16:04:21.000Z",
-    "updatedAt": "2026-07-03T23:06:06Z"
+    "updatedAt": "2026-07-04T01:16:00Z"
   },
   {
     "id": 391,
@@ -187,7 +126,7 @@
     "pais": "Albania",
     "bandera": "🇦🇱",
     "hora": "19:00",
-    "fecha": "2026-07-03",
+    "fecha": "2026-07-04",
     "lugar": "Plaza Skanderbeg, frente a la Oficina del Primer Ministro y el Parlamento, Tirana",
     "tipoAccion": "protesta",
     "organizaciones": [
@@ -195,918 +134,237 @@
       "Ciudadanos albaneses",
       "Activistas ambientales"
     ],
-    "motivo": "Día 35 consecutivo de protestas de la 'Revolución Flamenco' contra el complejo turístico de lujo vinculado a Jared Kushner (yerno de Donald Trump) en la laguna de Narta, Zvernec. Las protestas se han convertido en un movimiento antigubernamental más amplio que exige la renuncia del primer ministro Edi Rama por corrupción. El 2 de julio la policía usó gas lacrimógeno y cañones de agua contra manifestantes. 12 policías heridos, 18 detenidos. Las protestas diarias continúan con concentraciones cada noche desde hace más de un mes. Hoy es la protesta 34.ª consecutiva, con concentración en Plaza Skanderbeg a las 19:00 y marcha hacia la Oficina del Primer Ministro.",
+    "motivo": "Día 36 consecutivo de protestas de la 'Revolución Flamenco' contra el complejo turístico de lujo vinculado a Jared Kushner (yerno de Donald Trump) en la laguna de Narta, Zvernec. Las protestas se han convertido en un movimiento antigubernamental más amplio que exige la renuncia del primer ministro Edi Rama por corrupción. El 2 de julio la policía usó gas lacrimógeno y cañones de agua contra manifestantes. Las protestas continúan cada noche a las 19:00 con concentraciones en Plaza Skanderbeg y marchas hacia la Oficina del Primer Ministro.",
     "status": "en_curso",
     "lat": "41.3275",
     "lng": "19.8187",
     "fuentes": [
       {
+        "nombre": "BBC - Thousands of Albanians demand PM resignation 4 July 2026",
+        "url": "https://www.bbc.com/news/articles/c8925jnl0z3o"
+      },
+      {
         "nombre": "AP News - Albanian anti-government protest turns violent July 2",
         "url": "https://apnews.com/article/albania-kushner-trump-development-protest-tourism-clashes-063288405ee82156e32e6bde500d0569"
       },
       {
-        "nombre": "DW - Albanian police fire tear gas Flamingo Revolution July 2",
-        "url": "https://www.dw.com/en/albania-protests-kushner-resort-flamingo-revolution/a-77807190"
-      },
-      {
-        "nombre": "NHK - Protesters in Albania call for PM resign July 3 2026",
-        "url": "https://www3.nhk.or.jp/nhkworld/en/news/20260703_N01/"
-      },
-      {
-        "nombre": "Euronews Albania - Citizens begin march PM office day 33 July 2",
-        "url": "https://euronews.al/en/citizens-begin-march-toward-the-prime-ministers-office/"
-      },
-      {
-        "nombre": "Time Bulletin - Albanian police fire water cannon July 3 2026",
-        "url": "https://timebulletin.us/albanian-police-fire-water-cannon-as-trump-linked-protests-boil-over/"
-      },
-      {
-        "nombre": "Panorama Albania - 34.ª protesta masiva 3 julio 2026",
-        "url": "https://en.panorama.com.al/doreheqje-e-panegociueshme-e-rames-sot-protesta-e-34-mijera-qytetare-ne-sheshe-e-rruge-ju-erdhi-fundi/"
+        "nombre": "Politico - Albania PM denounces Flamingo Revolution July 2",
+        "url": "https://www.politico.eu/article/18-arrested-9-police-injured-protests-albania-escalate/"
       }
     ],
     "createdAt": "2026-07-02T18:12:47.000Z",
-    "updatedAt": "2026-07-03T23:06:06Z"
+    "updatedAt": "2026-07-04T01:16:00Z"
   },
   {
-    "id": 393,
+    "id": 434,
     "seccion": "protestas_int",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "00:00",
-    "fecha": "2026-07-03",
-    "lugar": "Hospitales públicos de Odisha (Bhubaneswar, Cuttack, Baleshwar, Bhadrak, Kendrapada, Jajpur y otros distritos)",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "10:00",
+    "fecha": "2026-07-04",
+    "lugar": "Nacional: más de 140 ciudades en todo EE.UU., incluyendo Washington D.C. (National Mall), Nueva York (Times Square), Los Ángeles, Filadelfia, Chicago, Arvada (Colorado), Green Bay (Wisconsin), Palm Beach (Florida - Mar-a-Lago), Atlanta (Georgia)",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Women's March",
+      "50501 Movement",
+      "Indivisible",
+      "Freedom Over Fascism",
+      "The People's Union USA",
+      "Spirit of Mandela Coalition"
+    ],
+    "motivo": "Jornada nacional de protestas 'No Kings 2.0' y 'Free America' en el 250 aniversario de la independencia de EE.UU. Más de 140 eventos convocados por Women's March en todo el país contra las políticas del presidente Donald Trump: redadas migratorias de ICE, guerra en Irán, crisis económica y deriva autoritaria. Concentraciones y marchas pacíficas en Washington D.C., Nueva York, Los Ángeles y otras ciudades. Manifestación frente a Mar-a-Lago en Palm Beach. Boicot económico nacional convocado por The People's Union USA. Movilización contra genocidios en Atlanta (Spirit of Mandela). Coincide con el megamitín de Trump en el National Mall.",
+    "status": "en_curso",
+    "lat": "38.9072",
+    "lng": "-77.0369",
+    "fuentes": [
+      {
+        "nombre": "TIME - Anti-Trump Protests Planned Across US on July 4 2026",
+        "url": "https://time.com/7299015/anti-trump-administration-protests-united-states-july-4-independence-day/"
+      },
+      {
+        "nombre": "El País US - Protestas 250 aniversario EEUU 4 julio 2026",
+        "url": "https://elpais.com/us/2026-07-03/calor-extremo-y-despliegue-historico-asi-sera-el-operativo-de-seguridad-durante-los-festejos-del-250-aniversario-de-estados-unidos.html"
+      },
+      {
+        "nombre": "El Español - Convocan más de 140 protestas EEUU contra Trump 4 julio",
+        "url": "https://www.elespanol.com/mundo/america/20250704/no-quieren-sonemos-libertad-convocan-protestas-eeuu-trump-julio/1003743833283_0.html"
+      },
+      {
+        "nombre": "Jefferson County Dems - Arvada July 4th Protest",
+        "url": "https://www.jeffcodems.org/resistance"
+      },
+      {
+        "nombre": "Spirit of Mandela - National Mobilization July 4 Atlanta",
+        "url": "https://spiritofmandela.org/news-events/july-4th-2026-mobilization-against-genocides-atlanta"
+      }
+    ],
+    "createdAt": "2026-07-04T01:07:21.000Z",
+    "updatedAt": "2026-07-04T01:16:00Z"
+  },
+  {
+    "id": 435,
+    "seccion": "protestas_int",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "00:01",
+    "fecha": "2026-07-04",
+    "lugar": "Filadelfia y área metropolitana (Pensilvania): instalaciones de PECO Energy",
     "tipoAccion": "huelga",
     "organizaciones": [
-      "OMSA (Odisha Medical Services Association)"
+      "IBEW (International Brotherhood of Electrical Workers) Local 614"
     ],
-    "motivo": "Día 4 de huelga indefinida de médicos del gobierno en Odisha. Exigen reestructuración de cadetes, implementación del esquema Dynamic Assured Career Progression, política de transferencias transparente, resolución de anomalías salariales, seguro de salud integral, medidas de seguridad laboral y regularización de médicos ad-hoc. Los OPD quedaron vacíos y solo se atienden emergencias. El gobierno instó a los médicos a deponer la huelga. Alrededor de 8.000 médicos secundan el paro.",
+    "motivo": "Huelga de 1.600 trabajadores de PECO Energy (filial de Exelon) en Filadelfia al expirar el plazo para alcanzar un nuevo convenio colectivo sin acuerdo. El contrato expiró el 1 de abril de 2026. Los trabajadores (linieros, técnicos de gas, mecánicos, operadores de call center) exigen aumentos salariales justos, mejoras en el sistema de jubilación y beneficios médicos. PECO ofreció un aumento del 20% en 5 años pero el sindicato lo rechazó por insuficiente. La huelga comienza en plena ola de calor. PECO activó planes de contingencia.",
     "status": "en_curso",
-    "lat": "20.2961",
-    "lng": "85.8245",
+    "lat": "39.9526",
+    "lng": "-75.1652",
     "fuentes": [
       {
-        "nombre": "OdishaBytes - Odisha doctors cease-work strike enters day 2 July 2",
-        "url": "https://odishabytes.com/long-queues-empty-opds-odisha-doctors-cease-work-strike-enters-day-2/"
+        "nombre": "6ABC Philadelphia - PECO union continue talks July 4 strike deadline",
+        "url": "https://6abc.com/post/peco-union-continue-contract-talks-july-4th-strike-deadline-looms/19437191/"
       },
       {
-        "nombre": "Times of India - Govt urges protesting doctors to call off strike July 2",
-        "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/govt-urges-protesting-doctors-to-call-off-strike-sit-for-talks/articleshow/132144498.cms"
+        "nombre": "CBS Philadelphia - Union 1600 PECO workers strike July 4",
+        "url": "https://www.cbsnews.com/philadelphia/news/peco-workers-strike-ibew-614-philadelphia-pennsylvania/"
       },
       {
-        "nombre": "New Indian Express - OMSA statewide protest July 2",
-        "url": "https://www.newindianexpress.com/states/odisha/2026/Jul/02/omsa-launches-statewide-protest-seeking-fulfilment-of-demands"
+        "nombre": "NBC10 Philadelphia - PECO union strike July 4",
+        "url": "https://www.nbcphiladelphia.com/news/local/peco-union-says-it-will-announce-details-of-impending-strike-on-thursday/4422667/"
       }
     ],
-    "createdAt": "2026-07-02T18:12:47.000Z",
-    "updatedAt": "2026-07-03T23:06:06Z"
+    "createdAt": "2026-07-04T01:07:21.000Z",
+    "updatedAt": "2026-07-04T01:16:00Z"
   },
   {
-    "id": 395,
-    "seccion": "protestas_int",
-    "pais": "Irán",
-    "bandera": "🇮🇷",
-    "hora": "00:00",
-    "fecha": "2026-07-03",
-    "lugar": "Universidades de Teherán (Universidad Azad, Universidad Al Zahra, Universidad Sharif), Karaj y Ahvaz",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Estudiantes universitarios iraníes"
-    ],
-    "motivo": "Sexto día consecutivo de protestas estudiantiles en campus universitarios de Irán. Estudiantes corean 'Muerte al dictador', queman banderas iraníes y cuelgan ratones de juguete en árboles para burlarse del líder supremo Jamenei. Las protestas se mantienen dentro de los campus para evitar una represión más dura. Se reportaron ataques de la milicia Basij contra estudiantes en la Universidad Sharif. Denuncian represión, crisis económica e inflación récord del 80%. El gobierno declaró feriado bancario y cerró escuelas y universidades para contener las protestas. El funeral de Jamenei comienza hoy, atrayendo la atención mundial, mientras las protestas estudiantiles continúan.",
-    "status": "en_curso",
-    "lat": "35.7153",
-    "lng": "51.4046",
-    "fuentes": [
-      {
-        "nombre": "Telas Amigas - Iran protests students chant death to dictator third day July 2",
-        "url": "https://telasamigas.com/article/iran-protests-students-chant-death-to-the-dictator-for-third-day"
-      },
-      {
-        "nombre": "Iran News Update - Iran universities stirring student protests July 2",
-        "url": "https://irannewsupdate.com/news/insider/irans-universities-are-stirring-again-student-protests-signal-a-broader-social-convergence/"
-      },
-      {
-        "nombre": "Busola - Iran Protests President Acknowledges Legitimate Demands July 3 2026",
-        "url": "https://busola.org/article/iran-protests-president-acknowledges-legitimate-demands-amid-soaring-inflation"
-      },
-      {
-        "nombre": "NCRI - Iran News in Brief July 3 2026 student protests",
-        "url": "https://www.ncr-iran.org/en/news/iran-news-in-brief-news/iran-news-in-brief-july-3-2026/"
-      }
-    ],
-    "createdAt": "2026-07-02T18:12:47.000Z",
-    "updatedAt": "2026-07-03T23:06:06Z"
-  },
-  {
-    "id": 399,
-    "seccion": "protestas_int",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "00:00",
-    "fecha": "2026-07-03",
-    "lugar": "Jantar Mantar, Nueva Delhi",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Cockroach Janata Party (CJP)",
-      "All India Students' Association (AISA)",
-      "Activista Sonam Wangchuk"
-    ],
-    "motivo": "Día 15 de protesta y huelga de hambre del activista Sonam Wangchuk y estudiantes en Jantar Mantar contra las irregularidades en el sistema de exámenes (filtración del NEET-UG). Exigen la renuncia del Ministro de Educación Dharmendra Pradhan. La salud de Wangchuk se deterioró (azúcar en sangre en 60, presión baja). Seis estudiantes de AISA también en huelga de hambre indefinida. La policía de Delhi presuntamente agredió a estudiantes que intentaban instalar una biblioteca en el lugar de la protesta.",
-    "status": "en_curso",
-    "lat": "28.6274",
-    "lng": "77.2166",
-    "fuentes": [
-      {
-        "nombre": "The Hindu - Wangchuk health worsens CJP protest July 2 2026",
-        "url": "https://www.thehindu.com/news/national/cjp-protest-day-13-wangchuks-sugar-drops-to-60-dipke-launches-chai-pe-charcha-with-cockroaches/article71174577.ece"
-      },
-      {
-        "nombre": "Economic Times - Sonam Wangchuk health worsens fifth day July 2",
-        "url": "https://economictimes.indiatimes.com/news/politics-and-nation/sonam-wangchuks-health-worsens-on-fifth-day-of-fast-as-cjp-protest-gathers-momentum/articleshow/132135355.cms"
-      }
-    ],
-    "createdAt": "2026-07-02T21:42:57.000Z",
-    "updatedAt": "2026-07-03T23:06:06Z"
-  },
-  {
-    "id": 402,
-    "seccion": "protestas_int",
-    "pais": "Pakistán (Cachemira bajo control pakistaní / PoK)",
-    "bandera": "🇵🇰",
-    "hora": "00:00",
-    "fecha": "2026-07-03",
-    "lugar": "Eidgah Ground, Rawalakot; Muzaffarabad y otras ciudades de Azad Jammu y Cachemira (AJK/PoK)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Joint Awami Action Committee (JAAC)",
-      "Ciudadanos de PoK/AJK"
-    ],
-    "motivo": "Cuarta semana consecutiva de protestas antigubernamentales masivas en Rawalakot y toda la región de PoK/AJK. Más de 80.000 personas reunidas en Eidgah Ground exigen reformas constitucionales. El gobierno pakistaní arrestó al líder del JAAC Shaukat Nawaz Mir bajo cargos de sedición y terrorismo, y declaró terroristas a 150 manifestantes. Internet bloqueado en toda la región. PTI anunció boicot a elecciones de AJK del 27 de julio en solidaridad con los manifestantes.",
-    "status": "en_curso",
-    "lat": "33.8500",
-    "lng": "73.7500",
-    "fuentes": [
-      {
-        "nombre": "India Today - PoK protests spiral Pakistan Army guns Kashmir July 2",
-        "url": "https://www.indiatoday.in/world/story/pojk-protests-jaac-leader-sardar-aman-khan-claims-pakistan-army-armed-kashmiris-2939347-2026-07-02"
-      },
-      {
-        "nombre": "Express Tribune - PTI boycott AJK elections unrest July 2",
-        "url": "https://tribune.com.pk/story/2616135/pti-announces-boycott-of-upcoming-ajk-elections-amid-recent-unrest"
-      },
-      {
-        "nombre": "IANS - Civil society group PoK plans July 5 protests 3 julio 2026",
-        "url": "https://ianslive.in/civil-society-group-in-pok-plans-july-5-protests-amid-mounting-unrest--20260703123821"
-      }
-    ],
-    "createdAt": "2026-07-02T21:42:57.000Z",
-    "updatedAt": "2026-07-03T23:06:06Z"
-  },
-  {
-    "id": 404,
+    "id": 436,
     "seccion": "protestas_int",
     "pais": "Reino Unido",
     "bandera": "🇬🇧",
-    "hora": "17:00",
-    "fecha": "2026-07-03",
-    "lugar": "Village Hotel Walsall, Tempus Drive, Walsall WS2 8JT (West Midlands)",
+    "hora": "00:00",
+    "fecha": "2026-07-04",
+    "lugar": "Cwm Taf Morgannwg University Health Board, Gales del Sur (Rhondda Cynon Taf, Merthyr Tydfil, Bridgend)",
     "tipoAccion": "huelga",
     "organizaciones": [
       "Unite the Union"
     ],
-    "motivo": "Huelga de trabajadores de hospitalidad, gimnasio, eventos, recepción y limpieza del Village Hotel Walsall contra el impago del salario digno (Living Wage de £13.45/hora), la negativa a igualar el salario de los trabajadores jóvenes, y la falta de reconocimiento del sindicato Unite. La huelga forma parte de una serie de 14 días de paro entre junio y julio.",
+    "motivo": "Continuación de la huelga de aproximadamente 100 visitadores sanitarios (health visitors) del Cwm Taf Morgannwg University Health Board en Gales, en su octavo mes de conflicto laboral. Exigen ser reclasificados de la banda salarial 6 a la banda 7 (diferencia de hasta 9.000 libras anuales). La huelga, que comenzó el 23 de febrero, fue extendida hasta el 17 de julio de 2026. El sindicato Unite advierte que citas esenciales y obligatorias no se están realizando. El gobierno galés instó a una resolución temprana.",
     "status": "en_curso",
-    "lat": "52.5950",
-    "lng": "-1.9940",
+    "lat": "51.6000",
+    "lng": "-3.4000",
     "fuentes": [
       {
-        "nombre": "Unite the Union - Walsall Village Hotel strike dates include July 3",
-        "url": "https://www.unitetheunion.org/news-events/news/2026/june/striking-walsall-village-hotel-workers-protest-during-england-s-opening-world-cup-game"
+        "nombre": "Nursing in Practice - Welsh health visitor strike escalates",
+        "url": "https://www.nursinginpractice.com/clinical/paediatrics/unite-calls-for-resignation-as-welsh-health-visitor-strike-action-escalates/"
       },
       {
-        "nombre": "Birmingham Mail - Protest planned outside Walsall hotel July 2",
-        "url": "https://www.birminghammail.co.uk/black-country/protest-planned-outside-major-walsall-34131677"
-      },
-      {
-        "nombre": "Strike Calendar UK - Village Hotel July 3 2026",
-        "url": "https://www.strikecalendar.co.uk/union/unite/villagehotelunite"
+        "nombre": "StrikeTracker - Cwm Taf Morgannwg health visitors July 4 2026",
+        "url": "https://striketracker.app/strikes-in-united-kingdom/healthcare-strike-rhondda-cynon-taf-11-april-2026"
       }
     ],
-    "createdAt": "2026-07-02T23:03:17.000Z",
-    "updatedAt": "2026-07-03T23:06:06Z"
+    "createdAt": "2026-07-04T01:07:21.000Z",
+    "updatedAt": "2026-07-04T01:16:00Z"
   },
   {
-    "id": 405,
+    "id": 437,
     "seccion": "protestas_int",
-    "pais": "Alemania",
-    "bandera": "🇩🇪",
-    "hora": "00:00",
-    "fecha": "2026-07-03",
-    "lugar": "14 plantas siderúrgicas en Renania del Norte-Westfalia (NRW), incluyendo Colonia y la región del Ruhr",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "IG Metall"
-    ],
-    "motivo": "Día 3 de las huelgas y manifestaciones de 18 días (1-18 de julio) convocadas por IG Metall en 14 plantas siderúrgicas de Renania del Norte-Westfalia. Los trabajadores del acero protestan por la seguridad laboral, el aumento salarial y los costos de la transición ecológica (descarbonización). Denuncian recortes sociales y reducciones de rendimiento tras la terminación de los convenios colectivos de 2025. Exigen un aumento salarial real, protección del empleo y una cumbre nacional del acero.",
-    "status": "en_curso",
-    "lat": "51.4500",
-    "lng": "7.0000",
-    "fuentes": [
-      {
-        "nombre": "Boerse Global / ad-hoc-news - IG Metall strikes 14 sites NRW July 1-18 2026",
-        "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/german-steel-workers-gear-up-for-18-day-protest-over-job-security-and/69636350"
-      }
-    ],
-    "createdAt": "2026-07-02T23:03:17.000Z",
-    "updatedAt": "2026-07-03T23:06:06Z"
-  },
-  {
-    "id": 406,
-    "seccion": "protestas_int",
-    "pais": "Alemania",
-    "bandera": "🇩🇪",
-    "hora": "00:00",
-    "fecha": "2026-07-03",
-    "lugar": "Múltiples ciudades: Berlín (Breitscheidplatz), Hamburgo (Gänsemarkt), Dortmund, Wiesbaden, Hannover, Oldenburg, Braunschweig",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "Verdi (Vereinte Dienstleistungsgewerkschaft)"
-    ],
-    "motivo": "Huelgas de advertencia nacionales en el sector minorista y mayorista en 7 estados federados. Verdi exige un aumento salarial del 7% (mínimo 225€/mes) y 150€ más para aprendices. Los empleadores ofrecen solo 2,4% desde noviembre 2026 y 2% desde agosto 2027. Trabajadores de Rewe, Edeka, Kaufland, H&M, IKEA, ZARA, Primark, Metro y otras cadenas secundan el paro. Negociaciones continúan la próxima semana.",
-    "status": "en_curso",
-    "lat": "52.5200",
-    "lng": "13.4050",
-    "fuentes": [
-      {
-        "nombre": "DER SPIEGEL - Verdi ruft zu bundesweitem Ausstand im Handel auf (2 julio 2026)",
-        "url": "https://www.spiegel.de/wirtschaft/service/streik-ver-di-ruft-zu-bundesweitem-ausstand-im-handel-auf-a-50467697-6bf9-4915-8509-f21841017151"
-      },
-      {
-        "nombre": "Verdi Berlin-Brandenburg - Streik 3 julio 2026 Breitscheidplatz",
-        "url": "https://bb.verdi.de/presse/pressemitteilungen/++co++a276d964-760d-11f1-85ea-675b387774bb"
-      },
-      {
-        "nombre": "t-online Hamburg - Verdi-Streik Hamburg 3 julio Ikea Rewe H&M Kaufland",
-        "url": "https://hamburg.t-online.de/region/hamburg/id_101324968/neuer-verdi-streik-in-hamburg-ikea-rewe-h-m-kaufland-freitag-betroffen.html"
-      },
-      {
-        "nombre": "ad-hoc-news - Verdi Streiks Warnaktionen 3 Juli sieben Bundesländern",
-        "url": "https://www.ad-hoc-news.de/wirtschaft/verdi-streiks-warnaktionen-am-3-juli-in-sieben-bundeslaendern/69675186"
-      },
-      {
-        "nombre": "TakeToNews - Verdi Calls for Strikes in Retail July 3 2026",
-        "url": "https://taketonews.com/verdi-calls-for-strikes-in-retail-thousands-to-walk-out-this-friday/"
-      }
-    ],
-    "createdAt": "2026-07-03T01:09:02.000Z",
-    "updatedAt": "2026-07-03T23:06:06Z"
-  },
-  {
-    "id": 407,
-    "seccion": "protestas_int",
-    "pais": "Países Bajos",
-    "bandera": "🇳🇱",
-    "hora": "10:00",
-    "fecha": "2026-07-03",
-    "lugar": "Alberdingk Thijmlaan 1, Eindhoven",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "VCP (Vakcentrale voor Professionals)",
-      "FNV",
-      "CNV",
-      "De Unie"
-    ],
-    "motivo": "Manifestación de sindicatos del sector metalúrgico y tecnológico (Metalektro, Metal & Technology) en Eindhoven contra los drásticos planes de austeridad del gabinete que afectan la seguridad social. Los sindicatos emitieron un ultimátum al gobierno para que retire los planes de desmantelamiento social. La manifestación busca mostrar que los empleados no aceptarán medidas que pongan en riesgo sus medios de vida. Participan trabajadores de empresas de la región de Eindhoven.",
-    "status": "en_curso",
-    "lat": "51.4416",
-    "lng": "5.4697",
-    "fuentes": [
-      {
-        "nombre": "De Unie - Metal and Technology demonstration July 3 2026 Eindhoven",
-        "url": "https://www.unie.nl/en/jouw-cao-en-branche/Metal-and-Technology-and-Metalworking-%26-Electrical-Engineering-general-call-for-demonstration-July-3--2026"
-      },
-      {
-        "nombre": "VCP - Manifestatie Eindhoven 3 juli 2026",
-        "url": "https://www.vcp.nl/manifestatie-eindhoven-op-3-juli/"
-      }
-    ],
-    "createdAt": "2026-07-03T01:09:02.000Z",
-    "updatedAt": "2026-07-03T23:06:06Z"
-  },
-  {
-    "id": 408,
-    "seccion": "protestas_int",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
-    "hora": "07:00",
-    "fecha": "2026-07-03",
-    "lugar": "MyMichigan Medical Center Alma, 300 E Warwick Dr, Alma, Míchigan (piquete en la acera del hospital)",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "Michigan Nurses Association (MNA)",
-      "National Nurses United (NNU)"
-    ],
-    "motivo": "Huelga de 3 días (3-6 de julio) de 178 enfermeras del MyMichigan Medical Center Alma contra prácticas laborales injustas del empleador. La gerencia ofrece 0% de aumento en el primer año y 1% en cada uno de los dos siguientes, lo que las enfermeras consideran un recorte salarial efectivo con la inflación. El sindicato presentó dos cargos por prácticas laborales injustas ante la NLRB. Las enfermeras exigen un contrato justo y denuncian cambios unilaterales en políticas que afectan a enfermeras psiquiátricas. El acceso de pacientes al hospital no se verá afectado.",
-    "status": "en_curso",
-    "lat": "43.3789",
-    "lng": "-84.6597",
-    "fuentes": [
-      {
-        "nombre": "Michigan Nurses Association - Alma nurses 3-day ULP strike July 3",
-        "url": "https://minurses.org/sturgis/news/alma-nurses-hold-3-day-ulp-strike-july-3"
-      }
-    ],
-    "createdAt": "2026-07-03T01:09:02.000Z",
-    "updatedAt": "2026-07-03T23:06:06Z"
-  },
-  {
-    "id": 409,
-    "seccion": "protestas_int",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
-    "hora": "07:00",
-    "fecha": "2026-07-03",
-    "lugar": "Snelling Avenue (entre Dan Patch Ave y Summit Ave), Falcon Heights, Minnesota",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "OpenMarketMN",
-      "Twin Cities VCC"
-    ],
-    "motivo": "Protesta semanal de los viernes ('General Strike') para proteger el Área Canoa Boundary Waters (BWCA) de la minería. El Senado de EE.UU. votó 50-49 para derogar la prohibición de 20 años de minería cerca del BWCA, allanando el camino para que la empresa Twin Metals abra una mina de cobre subterránea. Los manifestantes exigen la restauración de la protección ambiental. Protesta recurrente cada viernes.",
-    "status": "en_curso",
-    "lat": "44.9866",
-    "lng": "-93.1661",
-    "fuentes": [
-      {
-        "nombre": "Roseville Reporter - Protect the Boundary Waters General Strike July 3 2026",
-        "url": "https://rosevillereporter.org/event/protect-the-boundary-waters-general-strike-snelling-avenue/2026-07-03/"
-      }
-    ],
-    "createdAt": "2026-07-03T01:09:02.000Z",
-    "updatedAt": "2026-07-03T23:06:06Z"
-  },
-  {
-    "id": 410,
-    "seccion": "protestas_int",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
+    "pais": "Ecuador",
+    "bandera": "🇪🇨",
     "hora": "18:00",
-    "fecha": "2026-07-03",
-    "lugar": "Downtown Fort Lauderdale, Florida",
+    "fecha": "2026-07-04",
+    "lugar": "Antigua Tribuna de los Shyris, norte de Quito",
     "tipoAccion": "marcha",
     "organizaciones": [
-      "Urban League of Broward County's Young Professional Network (ULBCYPN)"
+      "Plataforma Revoca EC",
+      "Washington Andrade (abogado)",
+      "Leonidas Iza (dirigente indígena)",
+      "UNE (Unión Nacional de Educadores)",
+      "FENOCIN"
     ],
-    "motivo": "'We The People: A Community Rally for a Fairer Florida' — marcha comunitaria, mitin y concierto gratuito al aire libre. Reúne a residentes, defensores, líderes y agentes de cambio del sur de Florida para abogar por una Florida más justa. Incluye discursos de la congresista Maxine Waters y actuaciones musicales de Sheila E. y Junkanoo.",
+    "motivo": "'Marcha de las Antorchas' convocada por la plataforma Revoca EC en Quito para exigir al Consejo Nacional Electoral (CNE) la entrega de formularios para iniciar la recolección de firmas para la revocatoria del mandato del presidente Daniel Noboa y la vicepresidenta María José Pinto. Denuncian incumplimiento del plan de gobierno y exigencia de respeto al derecho de participación ciudadana. Concentración a las 18:00 con antorchas, velas y linternas simbólicas. Noboa presentó más de 14.500 folios (22 cajas) como defensa ante el CNE.",
     "status": "en_curso",
-    "lat": "26.1224",
-    "lng": "-80.1373",
+    "lat": "-0.1807",
+    "lng": "-78.4678",
     "fuentes": [
       {
-        "nombre": "HappeningNext - We The People Rally Fort Lauderdale July 3 2026",
-        "url": "https://happeningnext.com/event/we-the-people-a-community-rally-for-a-fairer-florida-eid1ef0l1c2cbur"
-      }
-    ],
-    "createdAt": "2026-07-03T01:09:02.000Z",
-    "updatedAt": "2026-07-03T23:06:06Z"
-  },
-  {
-    "id": 411,
-    "seccion": "protestas_int",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
-    "hora": "13:00",
-    "fecha": "2026-07-03",
-    "lugar": "Sucursal Citizens Bank, Arlington Heights, Massachusetts",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Turn Purple 2 Blue"
-    ],
-    "motivo": "Protesta frente a Citizens Bank para exigir que deje de financiar a operadores de prisiones privadas y centros de detención de inmigración (GEO Group y CoreCivic). Los manifestantes portan carteles con lemas como 'De-ICE Citizens Bank', 'Las jaulas no son comunidades' y 'Citizens Bank + ICE = abuso de derechos humanos'.",
-    "status": "en_curso",
-    "lat": "42.4154",
-    "lng": "-71.1565",
-    "fuentes": [
+        "nombre": "El Diario Ecuador - Marcha Antorchas Revoca EC 4 julio 2026",
+        "url": "https://www.eldiario.ec/ecuador/revoca-ec-convoca-a-marcha-de-las-antorchas-en-respaldo-a-revocatoria-de-noboa-y-pinto-02072026/"
+      },
       {
-        "nombre": "Turn Purple 2 Blue - De-ICE Citizens Bank Arlington Heights July 3 2026",
-        "url": "https://turnpurple2blue.org/event/citizens-bank-stop-financing-ice-prisons-arlington-heights/2026-07-03/"
+        "nombre": "Prensa Latina - Acciones revocatoria Noboa 2 julio 2026",
+        "url": "https://www.prensa-latina.cu/2026/07/02/organizaciones-de-ecuador-anunciaran-acciones-por-revocatoria-a-noboa/"
       }
     ],
-    "createdAt": "2026-07-03T01:09:02.000Z",
-    "updatedAt": "2026-07-03T23:06:06Z"
+    "createdAt": "2026-07-04T01:07:21.000Z",
+    "updatedAt": "2026-07-04T01:16:00Z"
   },
   {
-    "id": 412,
+    "id": 438,
     "seccion": "protestas_int",
-    "pais": "Pakistán",
-    "bandera": "🇵🇰",
+    "pais": "Global (diáspora iraní)",
+    "bandera": "🇮🇷",
     "hora": "00:00",
-    "fecha": "2026-07-03",
-    "lugar": "400 ubicaciones en toda la provincia de Sindh: Karachi, Hyderabad, Sukkur, Larkana, y otras ciudades y localidades",
+    "fecha": "2026-07-04",
+    "lugar": "Embajadas de EE.UU. en múltiples ciudades del mundo: Los Ángeles, Toronto, Londres, París, Berlín, Estocolmo, Sídney, Copenhague, La Haya, entre otras",
     "tipoAccion": "protesta",
     "organizaciones": [
-      "Jamaat-e-Islami (JI) Sindh"
+      "Reza Pahlavi (Príncipe Heredero de Irán)",
+      "Diáspora iraní global",
+      "Consejo Nacional de Resistencia de Irán (NCRI)"
     ],
-    "motivo": "Protestas de alcance provincial en Sindh contra cortes de carga de hasta 18-20 horas diarias, tarifas eléctricas elevadas, sobrefacturación y contratos abusivos con Productores Independientes de Energía (IPP). Exigen la cancelación de contratos con IPP que califican de unilaterales y ruinosos, el fin de la carga de pérdidas de línea a consumidores, y la construcción de la autopista Hyderabad-Sukkur. Denuncian que Sindh contribuye con el 70% de los ingresos nacionales pero sufre abandono en infraestructura básica.",
+    "motivo": "Inicio de la 'Semana Global de Acción por un Irán Libre' (Global Week of Action for a Free Iran) del 4 al 9 de julio, convocada por el Príncipe Heredero Reza Pahlavi. Protestas de la diáspora iraní frente a embajadas de EE.UU. en todo el mundo para exigir el fin del régimen teocrático iraní. La semana de acción coincide con el inicio del funeral del líder supremo Ali Khamenei el 4 de julio en Teherán. También marca los seis meses de las masacres de enero contra manifestantes. Se esperan protestas masivas en Los Ángeles, Toronto, Londres, París y otras ciudades con importantes comunidades iraníes.",
     "status": "en_curso",
-    "lat": "24.8607",
-    "lng": "67.0011",
+    "lat": "34.0522",
+    "lng": "-118.2437",
     "fuentes": [
       {
-        "nombre": "The News - JI announces protest in Sindh against loadshedding IPP contracts (2 julio 2026)",
-        "url": "https://www.thenews.pk/print/1423703-ji-announces-protest-in-sindh-against-loadshedding-ipp-contracts"
+        "nombre": "Jerusalem Post - Iranian diaspora Week of Action July 4 2026",
+        "url": "https://www.jpost.com/middle-east/iran-news/article-901327"
       },
       {
-        "nombre": "PPI News Agency - JI Sindh protest load shedding (3 julio 2026)",
-        "url": "https://ppinewsagency.com/national-economy-energy-inflation-and-load-shedding-have-made-life-difficult-for-the-public-jamaat-e-islami-sindh/"
+        "nombre": "Iran International - Calls for protest Khamenei funeral July 4",
+        "url": "https://www.iranintl.com/en/202606304964"
+      },
+      {
+        "nombre": "AP News - Khamenei funeral begins July 4 2026",
+        "url": "https://apnews.com/article/iran-ayatollah-khamenei-funeral-us-war-what-to-know-5269a930c4a2263f788ebe893db86d61"
       }
     ],
-    "createdAt": "2026-07-03T05:12:58.000Z",
-    "updatedAt": "2026-07-03T23:06:06Z"
+    "createdAt": "2026-07-04T01:07:21.000Z",
+    "updatedAt": "2026-07-04T01:16:00Z"
   },
   {
-    "id": 413,
+    "id": 439,
     "seccion": "protestas_int",
-    "pais": "Colombia",
-    "bandera": "🇨🇴",
-    "hora": "16:00",
-    "fecha": "2026-07-03",
-    "lugar": "Avenida Ciudad de Cali con calle 145, localidad de Suba, Bogotá",
-    "tipoAccion": "marcha",
-    "organizaciones": [
-      "Secretaría Distrital de Gobierno de Bogotá (acompañamiento institucional)"
-    ],
-    "motivo": "Marcha conmemorativa de Cristian David Castillo en la localidad de Suba, Bogotá. Movilización social programada con acompañamiento de equipos de Diálogo Social y Derechos Humanos del Distrito, que estarán presentes para garantizar el derecho a la protesta pacífica y facilitar la convivencia. Se esperan cierres temporales de vías y desvíos de tránsito en la zona.",
-    "status": "en_curso",
-    "lat": "4.7446",
-    "lng": "-74.0842",
-    "fuentes": [
-      {
-        "nombre": "Pulzo - Marchas en Bogotá del 3 al 7 de julio agenda horarios (3 julio 2026)",
-        "url": "https://www.pulzo.com/nacion/bogota/marchas-bogota-3-7-julio-agenda-horarios-vias-afectadas-PP5235737"
-      },
-      {
-        "nombre": "El Espectador - Marchas Bogotá primera semana de julio (2 julio 2026)",
-        "url": "https://www.elespectador.com/bogota/habra-marchas-en-bogota-durante-la-primera-semana-de-julio-consulte-la-agenda-y-las-vias-que-podrian-verse-afectadas/"
-      }
-    ],
-    "createdAt": "2026-07-03T05:12:58.000Z",
-    "updatedAt": "2026-07-03T23:06:06Z"
-  },
-  {
-    "id": 414,
-    "seccion": "protestas_int",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "20:00",
-    "fecha": "2026-07-03",
-    "lugar": "Basilique du Sacré-Coeur, París",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "International Solidarity Movement (ISM) France"
-    ],
-    "motivo": "Concentración de solidaridad con Gaza en París convocada por ISM France. Los manifestantes exigen el fin del genocidio en Gaza y denuncian la guerra en curso en el contexto de los 1.000 días desde el inicio del conflicto. La protesta busca visibilizar la situación humanitaria en Gaza y presionar al gobierno francés para que tome una posición más firme contra la guerra.",
-    "status": "en_curso",
-    "lat": "48.8867",
-    "lng": "2.3431",
-    "fuentes": [
-      {
-        "nombre": "ISM France - Rassemblement Gaza Paris vendredi 3 juillet 20h Sacré-Coeur (1 julio 2026)",
-        "url": "https://ismfrance.org/index.php/2026/07/01/rassemblement-gaza-paris-vendredi-3-juillet-20h-basilique-du-sacre-coeur/"
-      }
-    ],
-    "createdAt": "2026-07-03T05:12:58.000Z",
-    "updatedAt": "2026-07-03T23:06:06Z"
-  },
-  {
-    "id": 415,
-    "seccion": "protestas_int",
-    "pais": "Venezuela",
-    "bandera": "🇻🇪",
-    "hora": "10:00",
-    "fecha": "2026-07-03",
-    "lugar": "Plaza Brión de Chacaíto, Caracas (y en todos los municipios de Venezuela)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Coalición Nacional Sindical",
-      "Sociedad Civil Organizada Simón Rodríguez",
-      "Movimiento estudiantil"
-    ],
-    "motivo": "Movilización nacional convocada por la Coalición Sindical para exigir el fin del interinato de Delcy Rodríguez, declarar la falta absoluta de Nicolás Maduro tras cumplirse 180 días de su captura, y demandar un cronograma electoral definitivo, salarios dignos y la liberación de presos políticos. Concentración principal en la Plaza Brión de Chacaíto con presencia de la exmagistrada Blanca Rosa Mármol de León. Acciones simultáneas en todos los municipios del país con cacerolazos. También se realizan protestas frente a la Embajada de EE.UU. en Caracas.",
-    "status": "en_curso",
-    "lat": "10.4961",
-    "lng": "-66.8305",
-    "fuentes": [
-      {
-        "nombre": "Efecto Cocuyo - Coalición Sindical convoca movilización 3 julio para exigir fin del interinato (2 julio 2026)",
-        "url": "https://efectococuyo.com/la-humanidad/coalicion-sindical-convoca-movilizacion-este-3-de-julio-para-exigir-fin-del-interinato/"
-      },
-      {
-        "nombre": "El News de Venezuela - Coalición Sindical y Sociedad Civil Simón Rodríguez convocan movilización 3 julio (2 julio 2026)",
-        "url": "https://theelnews.org/2026/07/02/coalicion-sindical-y-sociedad-civil-simon-rodriguez-convocan-movilizacion-este-3-de-julio-para-exigir-fin-del-interinato/"
-      },
-      {
-        "nombre": "El Nacional - Andrés Velásquez convoca a protesta nacional el 3 de julio (21 junio 2026)",
-        "url": "https://www.elnacional.com/2026/06/andres-velasquez-convoca-a-protesta-nacional-el-proximo-3-de-julio-venezuela-tiene-que-pelear-por-una-direccion/"
-      }
-    ],
-    "createdAt": "2026-07-03T08:33:40.000Z",
-    "updatedAt": "2026-07-03T23:06:06Z"
-  },
-  {
-    "id": 416,
-    "seccion": "protestas_int",
-    "pais": "Alemania",
-    "bandera": "🇩🇪",
-    "hora": "15:30",
-    "fecha": "2026-07-03",
-    "lugar": "Speersort (entre Hauptkirche St. Petri y Domstraße), Hamburgo",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "DGB (Deutscher Gewerkschaftsbund) Hamburg",
-      "Mieterverein zu Hamburg",
-      "GEW Hamburg",
-      "VVN-BdA Hamburg"
-    ],
-    "motivo": "Manifestación y concentración 'Nein zum sozialen Kahlschlag' convocada por el DGB Hamburg y diversas organizaciones civiles contra los planes de austeridad del gobierno que afectan la seguridad social. Exigen no a los recortes en pensiones, seguros de salud y cuidados; no al aumento de la edad de jubilación; vivienda como derecho fundamental con un tope de alquileres y construcción masiva de vivienda social; y una distribución justa de la riqueza con mayor contribución de las grandes fortunas.",
-    "status": "en_curso",
-    "lat": "53.5505",
-    "lng": "9.9990",
-    "fuentes": [
-      {
-        "nombre": "tagesschau.de - Demo gegen Sozialabbau Hamburg 3 julio 2026",
-        "url": "https://www.tagesschau.de/inland/regional/hamburg/demo-gegen-sozialabbau-protest-gegen-mietenstopp-forderung,demo-668.html"
-      },
-      {
-        "nombre": "DGB Nord - DGB Hamburg ruft auf zum breiten Protest gegen sozialen Kahlschlag (18 junio 2026)",
-        "url": "https://nord.dgb.de/presse/pressemitteilungen/pressemitteilung/dgb-hamburg-ruft-auf-zum-breiten-protest-gegen-sozialen-kahlschlag/"
-      },
-      {
-        "nombre": "ver.di Hamburg - Demonstration 'Nein zum sozialen Kahlschlag' 3 julio 2026",
-        "url": "https://hamburg.verdi.de/service/veranstaltungen/++co++c75adad8-663a-11f1-9612-47c59b4a52b2"
-      },
-      {
-        "nombre": "GEW Hamburg - Kundgebung Nein zum sozialen Kahlschlag 3 julio 2026",
-        "url": "https://www.gew-hamburg.de/themen/aktionen-und-kampagnen/2026-06/kundgebung-nein-zum-sozialen-kahlschlag"
-      }
-    ],
-    "createdAt": "2026-07-03T08:33:40.000Z",
-    "updatedAt": "2026-07-03T23:06:06Z"
-  },
-  {
-    "id": 417,
-    "seccion": "protestas_int",
-    "pais": "Alemania",
-    "bandera": "🇩🇪",
+    "pais": "Europa (múltiples países)",
+    "bandera": "🇪🇺",
     "hora": "00:00",
-    "fecha": "2026-07-03",
-    "lugar": "Múltiples plantas de Mercedes-Benz: Sindelfingen, Untertürkheim (Stuttgart), Rastatt, Kuppenheim, Bremen, Berlín, Hamburgo, Düsseldorf, Germersheim, Ludwigsfelde",
+    "fecha": "2026-07-04",
+    "lugar": "Bruselas (Bélgica), París (Francia), Londres (Reino Unido), Atenas (Grecia), Viena (Austria), Zúrich (Suiza), Fráncfort (Alemania), Colonia (Alemania), Hamburgo (Alemania), Estambul (Turquía)",
     "tipoAccion": "protesta",
     "organizaciones": [
-      "IG Metall"
+      "Plataforma Contra la OTAN y la Guerra Imperialista (PAN-IW)",
+      "TKP (Partido Comunista de Turquía)",
+      "Coalición de organizaciones revolucionarias y democráticas"
     ],
-    "motivo": "Protestas nacionales de miles de trabajadores de Mercedes-Benz contra la intensificación de medidas de ahorro por parte de la empresa. IG Metall convocó manifestaciones frente a las puertas de las fábricas en toda Alemania. Alrededor de 90.000 de los 108.000 empleados en Alemania no recibirán el pago especial de transformación (18,4% del salario mensual) que se esperaba en julio. La empresa busca reducir costos, acelerar procesos y alargar la jornada laboral sin compensación salarial. Alrededor de 10.000 a 20.000 manifestantes participaron.",
+    "motivo": "Jornada de protestas contra la OTAN y las guerras imperialistas en múltiples ciudades europeas, convocada por la Plataforma Contra la OTAN y la Guerra Imperialista (PAN-IW) en vísperas de la Cumbre de la OTAN en Ankara (7-8 de julio). Manifestaciones en Bruselas, París, Londres, Atenas, Viena, Zúrich, Fráncfort, Colonia y Hamburgo. En Estambul se realiza la 'Cumbre Internacional por la Paz Antiimperialista' con activistas de todo el mundo. Denuncian el aumento del gasto militar al 5% del PIB, las guerras en Ucrania y Medio Oriente, y exigen el desmantelamiento de la OTAN.",
     "status": "en_curso",
-    "lat": "48.7900",
-    "lng": "9.1900",
+    "lat": "50.8503",
+    "lng": "4.3517",
     "fuentes": [
       {
-        "nombre": "DW - Mercedes-Benz workers protest cost cutting July 3 2026",
-        "url": "https://www.dw.com/en/germany-news-mercedes-benz-workers-protest-cost-cutting/live-77815223"
+        "nombre": "AIL Red - PAN-IW calls for demonstrations July 4 2026",
+        "url": "https://ail-red.com/the-nato-and-antiimperialist-war-platform-of-which-ail-is-a-member-has-called-for-a-demonstration-on-4-july/"
       },
       {
-        "nombre": "tagesschau.de - IG Metall kündigt heißen Sommer für Autobauer an (3 julio 2026)",
-        "url": "https://www.tagesschau.de/wirtschaft/unternehmen/mercedes-proteste-autobauer-ig-metall-100.html"
+        "nombre": "No To NATO - Istanbul Anti-Imperialist Peace Summit July 4",
+        "url": "https://notonato2026.org/en/event/istanbul-uluslararasi-anti-emperyalist-baris-zirvesi-2026-07-04-14"
       },
       {
-        "nombre": "ORF - Tausende protestieren gegen Sparkurs bei Mercedes-Benz (3 julio 2026)",
-        "url": "https://orf.at/stories/3435153/"
+        "nombre": "TKP - Anti-NATO rally July 4 2026",
+        "url": "https://www.tkp.org.tr/en/agenda/tkp-calls-for-mass-anti-nato-rally-ahead-of-nato-summit-in-ankara/"
       }
     ],
-    "createdAt": "2026-07-03T11:30:29.000Z",
-    "updatedAt": "2026-07-03T23:06:06Z"
-  },
-  {
-    "id": 418,
-    "seccion": "protestas_int",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "00:00",
-    "fecha": "2026-07-03",
-    "lugar": "Vikas Bhawan (Sushruta Trauma Centre), Civil Lines, Nueva Delhi",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "Health Mission Doctors' Welfare Association (HMDWA)",
-      "Delhi State Health Mission (DSHM)"
-    ],
-    "motivo": "Huelga simbólica de un día de aproximadamente 500 médicos y trabajadores de la salud del Delhi State Health Mission (DSHM). Exigen la implementación de las recomendaciones de la 7ª Comisión de Pagos, revisión de los topes salariales, seguridad laboral para empleados contractuales, tarjetas de salud DGEHS y beneficios de jubilación. Los manifestantes acamparon frente a Vikas Bhawan después de que una delegación no lograra reunirse con el CM ni con el Ministro de Salud de Delhi.",
-    "status": "en_curso",
-    "lat": "28.6700",
-    "lng": "77.2300",
-    "fuentes": [
-      {
-        "nombre": "Indian Express - Delhi health workers strike 7th Pay Commission July 3 2026",
-        "url": "https://indianexpress.com/article/cities/delhi/delhi-state-health-mission-dshm-nhm-doctors-strike-7th-pay-commission-10769727/"
-      },
-      {
-        "nombre": "Hindustan Times - Doctors one-day strike July 3 2026",
-        "url": "https://www.hindustantimes.com/cities/others/doctors-association-to-hold-one-day-strike-today-over-better-wages-101783014693057.html"
-      }
-    ],
-    "createdAt": "2026-07-03T11:30:29.000Z",
-    "updatedAt": "2026-07-03T23:06:06Z"
-  },
-  {
-    "id": 419,
-    "seccion": "protestas_int",
-    "pais": "Etiopía (Tigray)",
-    "bandera": "🇪🇹",
-    "hora": "00:00",
-    "fecha": "2026-07-03",
-    "lugar": "Mekelle, capital de la región de Tigray (Kebeles 05 y 06, área de Ilala)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Residentes de Mekelle",
-      "Comunidades de Tigray"
-    ],
-    "motivo": "Protestas en Mekelle, capital de Tigray, contra el reclutamiento forzoso de jóvenes por parte de fuerzas armadas afiliadas al Frente de Liberación del Pueblo de Tigray (TPLF). Residentes enfrentaron vehículos que transportaban jóvenes reclutados, lanzando piedras e intentando bloquearlos. Las fuerzas armadas establecieron puestos de control improvisados en barrios de la ciudad. Familias denuncian que sus hijos son detenidos y llevados a campos de entrenamiento militar sin debido proceso. Organizaciones de derechos humanos como Human Rights Watch y la UE han condenado estas prácticas.",
-    "status": "en_curso",
-    "lat": "13.4967",
-    "lng": "39.4753",
-    "fuentes": [
-      {
-        "nombre": "Kulu Media - Mekelle protests forced recruitment July 3 2026",
-        "url": "https://kulu-media.com/mekelle-protests-over-forced-recruitment/"
-      }
-    ],
-    "createdAt": "2026-07-03T11:30:29.000Z",
-    "updatedAt": "2026-07-03T23:06:06Z"
-  },
-  {
-    "id": 420,
-    "seccion": "protestas_int",
-    "pais": "Reino Unido",
-    "bandera": "🇬🇧",
-    "hora": "18:00",
-    "fecha": "2026-07-03",
-    "lugar": "Embajada de China, 49-51 Portland Place, Londres",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Tibet Action Institute",
-      "Free Tibet",
-      "Global Alliance for Tibet & Persecuted Minorities (GATPM)"
-    ],
-    "motivo": "Vigilia con velas y protesta urgente en homenaje a Lobga Rangzen, un tibetano que murió tras autoinmolarse frente a la sede de la ONU en Nueva York el 2 de julio de 2026. Los manifestantes exigen justicia para el pueblo tibetano y la derogación de la Ley de Unidad Étnica y Progreso de China, que entró en vigor el 1 de julio de 2026 y consideran un instrumento de asimilación forzada que amenaza la identidad cultural, religiosa y lingüística de tibetanos, uigures y otras minorías.",
-    "status": "en_curso",
-    "lat": "51.5200",
-    "lng": "-0.1460",
-    "fuentes": [
-      {
-        "nombre": "GATPM - Urgent Protest Candlelight Vigil London 3 July 2026",
-        "url": "https://tsamtruk.com/2026/07/03/urgent-protest-candlelight-vigil/"
-      },
-      {
-        "nombre": "Free Tibet - Tibetan activist dies in self-immolation protest July 3 2026",
-        "url": "https://freetibet.org/latest/tibetan-activist-lobga-rangzen-dies-in-self-immolation-protest-for-tibetan-independence/"
-      },
-      {
-        "nombre": "DW - Man dies after setting himself on fire outside UN headquarters",
-        "url": "https://www.dw.com/en/man-dies-after-setting-himself-on-fire-outside-un-headquarters-in-new-york/a-77813523"
-      },
-      {
-        "nombre": "NY Times - Tibetan dies after self-immolation at UN",
-        "url": "https://www.nytimes.com/2026/07/03/world/asia/tibet-self-immolation-united-nations-china.html"
-      }
-    ],
-    "createdAt": "2026-07-03T15:54:10.000Z",
-    "updatedAt": "2026-07-03T23:06:06Z"
-  },
-  {
-    "id": 421,
-    "seccion": "protestas_int",
-    "pais": "Chile",
-    "bandera": "🇨🇱",
-    "hora": "10:00",
-    "fecha": "2026-07-03",
-    "lugar": "Santiago (Plaza Dignidad), Valparaíso (Plaza Aníbal Pinto), Curicó (Plaza de Armas)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Asamblea Biobío se levanta",
-      "Organizaciones sociales y sindicales de Chile"
-    ],
-    "motivo": "Segundo día de jornada de movilización nacional contra el gobierno de José Antonio Kast y sus políticas económicas, laborales y ambientales. Las organizaciones denuncian alza indiscriminada de alimentos, combustibles y servicios básicos, la imposición de proyectos mineros como Minera Aclara en Penco-Lirquén, y la criminalización del pueblo mapuche. Las protestas incluyen concentraciones y marchas en Santiago (Plaza Dignidad), Valparaíso (Plaza Aníbal Pinto) y Curicó (Plaza de Armas).",
-    "status": "en_curso",
-    "lat": "-33.4489",
-    "lng": "-70.6693",
-    "fuentes": [
-      {
-        "nombre": "Código Rojo Chile - 2 y 3 julio jornada de movilización contra Kast (1 julio 2026)",
-        "url": "https://codigorojochile.cl/2026/07/01/2-y-3-julio-jornada-de-movilizacion-contra-kast-y-sus-politicas-anti-populares/"
-      }
-    ],
-    "createdAt": "2026-07-03T15:54:10.000Z",
-    "updatedAt": "2026-07-03T23:06:06Z"
-  },
-  {
-    "id": 423,
-    "seccion": "protestas_int",
-    "pais": "Italia",
-    "bandera": "🇮🇹",
-    "hora": "00:00",
-    "fecha": "2026-07-03",
-    "lugar": "Nacional: Roma, Milán, Nápoles, Génova y principales ciudades. Aeropuertos de Roma (Fiumicino, Ciampino), Milán (Malpensa), Venecia y Nápoles con más de 2.000 vuelos afectados",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "Cobas (Confederación de Comités de Base)",
-      "CUB Trasporti",
-      "USB (Unione Sindacale di Base)"
-    ],
-    "motivo": "Huelga nacional de trabajadores del transporte, empleados públicos, personal de salud y educadores contra el 'ataque reaccionario' del gobierno de Giorgia Meloni a los derechos civiles y democráticos, la criminalización de migrantes y la escalada de conflictos sociales. Exigen renovación de contratos laborales con aumentos salariales e indexación automática ante inflación creciente, salario mínimo, reducción de precios de combustible y cancelación de aumentos de tarifas energéticas. Más de 2.000 vuelos cancelados o demorados en los principales aeropuertos del país.",
-    "status": "en_curso",
-    "lat": "41.9028",
-    "lng": "12.4964",
-    "fuentes": [
-      {
-        "nombre": "APA - Transport workers, civil servants striking across Italy (3 julio 2026)",
-        "url": "https://en.apa.az/europe/transport-workers-civil-servants-striking-across-italy-trade-union-390896"
-      },
-      {
-        "nombre": "Travel and Tour News - Over 2,000 Flights Disrupted at Italian Airports Amid Strike (3 julio 2026)",
-        "url": "https://travelandtournews.com/over-2000-flights-disrupted-italian-airports-strike-july-3-2026/"
-      }
-    ],
-    "createdAt": "2026-07-03T17:22:59.000Z",
-    "updatedAt": "2026-07-03T23:06:06Z"
-  },
-  {
-    "id": 424,
-    "seccion": "protestas_int",
-    "pais": "Kenia",
-    "bandera": "🇰🇪",
-    "hora": "10:00",
-    "fecha": "2026-07-03",
-    "lugar": "Kisii y Keroka, Kenya (rally en Kisii, con actividades también en Keroka)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Linda Mwananchi movement",
-      "Edwin Sifuna (Nairobi Senator, líder del movimiento)",
-      "James Orengo (Gobernador de Siaya)",
-      "Caroli Omondi (MP Suba South)"
-    ],
-    "motivo": "Rally político del movimiento opositor Linda Mwananchi ('Protege al Ciudadano'), originalmente programado para el 26 de junio y reprogramado al 3 de julio tras participar en las conmemoraciones de las protestas Gen-Z del 25 de junio de 2024. Exigen cambio de liderazgo de cara a las elecciones de 2027, denuncian las políticas económicas del presidente William Ruto que han empobrecido a la mayoría de keniatas, y abogan por justicia constitucional, rendición de cuentas y justicia económica. El movimiento ha ganado tracción en todo el país con apoyo de líderes de la oposición.",
-    "status": "en_curso",
-    "lat": "-0.6775",
-    "lng": "34.7795",
-    "fuentes": [
-      {
-        "nombre": "Citizen Digital - WATCH LIVE: Linda Mwananchi rally in Kisii (3 julio 2026)",
-        "url": "https://citizen.digital/article/watch-live-linda-mwananchi-rally-in-kisii-n385762"
-      },
-      {
-        "nombre": "People Daily - Sifuna postpones Kisii and Keroka rallies to July 3 (23 junio 2026)",
-        "url": "https://peopledaily.digital/inside-politics/sifuna-postpones-kisii-and-keroka-rallies-to-join-june-25-gen-z-protest-memorials"
-      },
-      {
-        "nombre": "The Kenya Times - Linda Mwananchi Suspends Rallies to Join June 25 Protests",
-        "url": "https://thekenyatimes.com/latest-kenya-times-news/linda-mwananchi-protests/"
-      }
-    ],
-    "createdAt": "2026-07-03T18:46:01.000Z",
-    "updatedAt": "2026-07-03T23:06:06Z"
-  },
-  {
-    "id": 427,
-    "seccion": "protestas_int",
-    "pais": "Bulgaria",
-    "bandera": "🇧🇬",
-    "hora": "10:00",
-    "fecha": "2026-07-03",
-    "lugar": "Múltiples puntos de bloqueo en todo el país: autopista Trakia (Stara Zagora, Pazardzhik, Plovdiv), carretera Sofia-Ruse, puentes del Danubio (Ruse, Vidin), paso fronterizo Durankulak, carretera Silistra-Ruse, cruce Petolatchka, carretera Sofia-Varna (Lovech), Blagoevgrad y otras rutas principales",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Asociación Nacional de Productores de Granos (NAG)",
-      "Cámara Agraria Búlgara (BAC)",
-      "26 organizaciones del sector agrario"
-    ],
-    "motivo": "Tercer día consecutivo de protestas nacionales de agricultores y productores de granos en Bulgaria. Bloquean 80 puntos clave en todo el país con maquinaria pesada contra las medidas de apoyo del gobierno que consideran insuficientes. Exigen la renuncia del Ministro de Agricultura Kiril Vatev, prohibición de importación de grano ucraniano, cambios legislativos para el sector agrario, pago urgente de ayudas estatales y compensación por pérdidas de más de 2.000 millones de levas. Las protestas continúan de lunes a viernes, con duración creciente cada día.",
-    "status": "en_curso",
-    "lat": "42.5000",
-    "lng": "25.5000",
-    "fuentes": [
-      {
-        "nombre": "Novinite - Bulgarian Grain Farmers Declare Indefinite Protest Blocking the Country",
-        "url": "https://www.novinite.com/articles/224005/Bulgarian+Grain+Farmers+Declare+Indefinite+Protest%2C+Blocking+the+Country+with+Heavy+Equipment"
-      },
-      {
-        "nombre": "Novinite - Farmers Will Block Main Roads In Bulgaria For Two Hours Today",
-        "url": "https://www.novinite.com/articles/224007/Farmers+Will+Block+Main+Roads+In+Bulgaria+For+Two+Hours+Today"
-      },
-      {
-        "nombre": "Novini247 - Third day of grain producers protests today (3 julio 2026)",
-        "url": "https://novini247.com/novini/treti-den-na-protesti-na-zarnoproizvoditeli-se-provejda-dnes-kray_7444509.html"
-      },
-      {
-        "nombre": "Novinite - Another Day Of Protests By Bulgarian Farmers",
-        "url": "https://www.novinite.com/articles/224091/Another+Day+Of+Protests+By+Bulgarian+Farmers"
-      }
-    ],
-    "createdAt": "2026-07-03T23:00:13.000Z",
-    "updatedAt": "2026-07-03T23:06:06Z"
-  },
-  {
-    "id": 428,
-    "seccion": "protestas_int",
-    "pais": "Nigeria",
-    "bandera": "🇳🇬",
-    "hora": "08:00",
-    "fecha": "2026-07-03",
-    "lugar": "Carretera Sokoto-Yauri-Birnin Kebbi (autopista Sokoto-Jega), Área de Gobierno Local de Bodinga, Estado de Sokoto",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Residentes y jóvenes de Bodinga LGA"
-    ],
-    "motivo": "Protesta de residentes y jóvenes de Bodinga contra los persistentes ataques de bandidos armados en comunidades del área. Los manifestantes bloquearon la carretera Sokoto-Jega con fogatas y troncos, causando un gran atasco de tráfico. Denuncian la muerte de aldeanos, el desplazamiento de familias y la inacción gubernamental. Apedrearon el convoy del Presidente de la Cámara de Representantes de Sokoto cuando intentaba pasar. La policía dispersó a los manifestantes al mediodía y se desplegaron refuerzos de seguridad.",
-    "status": "finalizada",
-    "lat": "13.0500",
-    "lng": "5.1500",
-    "fuentes": [
-      {
-        "nombre": "Daily Trust - Youth Block Sokoto-Jega Highway over rising insecurity (3 julio 2026)",
-        "url": "https://dailytrust.com/youth-block-sokoto-jega-highway-over-rising-insecurity/"
-      },
-      {
-        "nombre": "Sahara Reporters - Angry Sokoto Residents Block Highway As Fresh Bandit Attacks Force Villagers To Flee (3 julio 2026)",
-        "url": "https://saharareporters.com/2026/07/03/angry-sokoto-residents-block-highway-fresh-bandit-attacks-force-villagers-flee"
-      },
-      {
-        "nombre": "Daily Post Nigeria - Bandit attacks spark protest in Sokoto (3 julio 2026)",
-        "url": "https://dailypost.ng/2026/07/03/bandit-attacks-spark-protest-in-sokoto-as-angry-residents-block-major-highway-video/"
-      },
-      {
-        "nombre": "Legit.ng - Tragedy as Bandits Kill Village Head, Son, Others in Fresh Attack (3 julio 2026)",
-        "url": "https://www.legit.ng/nigeria/1717550-tragedy-bandits-kill-village-head-son-fresh-attack/"
-      }
-    ],
-    "createdAt": "2026-07-03T23:00:13.000Z",
-    "updatedAt": "2026-07-03T23:06:06Z"
-  },
-  {
-    "id": 429,
-    "seccion": "protestas_int",
-    "pais": "Ghana",
-    "bandera": "🇬🇭",
-    "hora": "10:00",
-    "fecha": "2026-07-03",
-    "lugar": "Región Occidental (Western Region), comunidades afectadas a lo largo del corredor vial Abidjan-Lagos, desde Elubo hasta Apemanim",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Coalición de Personas Afectadas del Lote 1 del Corredor Vial Abidjan-Lagos",
-      "Agricultores, propietarios de tierras y desarrolladores"
-    ],
-    "motivo": "Más de 7.000 agricultores, propietarios de tierras y desarrolladores afectados por el proyecto del corredor vial Abidjan-Lagos (tramo Elubo-Agona-Nkwanta) exigen el pago inmediato de compensaciones tras casi tres años de espera. Alertan que la falta de pago ha obligado a abandonar cultivos y proyectos de infraestructura. Exigen la reanudación de la verificación y valoración de propiedades, la publicación de un calendario de pagos antes de finales de julio de 2026, y la provisión de medios de vida alternativos por parte del Gobierno de Ghana y la CEDEAO.",
-    "status": "en_curso",
-    "lat": "5.0000",
-    "lng": "-2.5000",
-    "fuentes": [
-      {
-        "nombre": "3News Ghana - WR Over 7,000 farmers landowners demand compensation Abidjan-Lagos corridor (3 julio 2026)",
-        "url": "https://3news.com/news/wr-over-7-000-farmers-landowners-demand-compensation-for-abidjan-lagos-corridor-road-project/"
-      },
-      {
-        "nombre": "OnuaOnline - Over 7,000 farmers landowners demand compensation Abidjan-Lagos corridor (3 julio 2026)",
-        "url": "https://onuaonline.com/wr-over-7000-farmers-landowners-demand-compensation-for-destruction-caused-by-abidjan-lagos-corridor-road-project/"
-      }
-    ],
-    "createdAt": "2026-07-03T23:00:13.000Z",
-    "updatedAt": "2026-07-03T23:06:06Z"
-  },
-  {
-    "id": 430,
-    "seccion": "protestas_int",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "11:00",
-    "fecha": "2026-07-03",
-    "lugar": "Frente a la estatua de Gandhi, Mysuru, Karnataka",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Asociación de Cultivadores de Caña de Azúcar del Estado de Karnataka",
-      "Kurubur Shanthakumar (presidente)",
-      "Agricultores de Bidadi y Mysuru"
-    ],
-    "motivo": "Cientos de agricultores protestaron en Mysuru contra el proyecto urbanístico propuesto cerca de Bidadi (distrito rural de Bengaluru), que implicaría la adquisición de casi 7.500 acres de tierra fértil. Exigen la cancelación del proyecto y denuncian que el gobierno ignora su protesta continua de más de 470 días. También exigen que los gobiernos estatal y central declaren zona de sequía las áreas afectadas, suspendan el cobro de préstamos agrícolas, condonen intereses, proporcionen forraje y agua potable para el ganado, y amplíen el empleo rural.",
-    "status": "finalizada",
-    "lat": "12.2958",
-    "lng": "76.6394",
-    "fuentes": [
-      {
-        "nombre": "The Hindu - Farmers rally in Mysuru against Bidadi township demand drought relief (3 julio 2026)",
-        "url": "https://www.thehindu.com/news/national/karnataka/farmers-rally-in-mysuru-against-bidadi-township-demand-drought-relief/article71179252.ece"
-      }
-    ],
-    "createdAt": "2026-07-03T23:00:13.000Z",
-    "updatedAt": "2026-07-03T23:06:06Z"
+    "createdAt": "2026-07-04T01:07:21.000Z",
+    "updatedAt": "2026-07-04T01:16:00Z"
   },
   {
     "id": 390,
@@ -1114,13 +372,13 @@
     "pais": "Argentina",
     "bandera": "🇦🇷",
     "hora": "00:00",
-    "fecha": "2026-07-03",
+    "fecha": "2026-07-04",
     "lugar": "Yacimientos petroleros en Río Grande y cruce Cholila, Tierra del Fuego",
     "tipoAccion": "huelga",
     "organizaciones": [
       "Sindicato de Petróleo y Gas Privado de Tierra del Fuego"
     ],
-    "motivo": "Paro por tiempo indeterminado contra las operadoras Velitec y Terra Ignis por incumplimiento del acuerdo de incorporación de 260 trabajadores tras la salida de YPF de Tierra del Fuego. Solo 43 de los 260 trabajadores comprometidos fueron incorporados. Exigen la reincorporación de los 217 trabajadores restantes, el pago de salarios y aguinaldos adeudados, y garantías de operación normal de los yacimientos. El gremio ratificó que la medida de fuerza continuará hasta que se cumplan los acuerdos.",
+    "motivo": "Paro por tiempo indeterminado contra las operadoras Velitec y Terra Ignis por incumplimiento del acuerdo de incorporación de 260 trabajadores tras la salida de YPF de Tierra del Fuego. Solo 43 de los 260 trabajadores comprometidos fueron incorporados. Exigen la reincorporación de los 217 trabajadores restantes, el pago de salarios y aguinaldos adeudados, y garantías de operación normal de los yacimientos. El gremio ratificó que la medida de fuerza continuará hasta que se cumplan los acuerdos. El paro continúa vigente por tiempo indeterminado.",
     "status": "en_curso",
     "lat": "-53.7860",
     "lng": "-67.6995",
@@ -1140,51 +398,14 @@
       {
         "nombre": "Boca de Pozo - Conflicto petrolero TDF: paro total, acusaciones, derrames (2 julio 2026)",
         "url": "https://bocadepozo.com.ar/2026/07/02/conflicto-petrolero-en-tdf-paro-total-graves-acusaciones-de-castillo-al-gremio-derrames-de-petroleo-y-riesgo-en-el-suministro-de-gas/"
+      },
+      {
+        "nombre": "Gremiales del Sur - Petroleros TDF con medidas de fuerza (2 julio 2026)",
+        "url": "https://www.gremialesdelsur.com.ar/"
       }
     ],
     "createdAt": "2026-07-02T16:07:18.000Z",
-    "updatedAt": "2026-07-03T23:06:06Z"
-  },
-  {
-    "id": 397,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "00:00",
-    "fecha": "2026-07-03",
-    "lugar": "Tribunales de Córdoba (Capital y todas las sedes del Interior provincial)",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "AGEPJ (Asociación Gremial de Empleados del Poder Judicial de Córdoba)"
-    ],
-    "motivo": "Paro de 48 horas de los empleados judiciales de Córdoba (desde 00:00 del 2 de julio hasta 24:00 del 3 de julio) tras rechazar por 513 votos la propuesta salarial del Tribunal Superior de Justicia. Exigen recomposición salarial que recupere el poder adquisitivo, tras rechazar la oferta de adelanto de cuotas de equiparación. La medida afecta todas las dependencias judiciales de la provincia con guardias mínimas. La Fiscalía General emitió un memorando exigiendo guardias mínimas, lo que tensionó aún más el conflicto.",
-    "status": "en_curso",
-    "lat": "-31.4201",
-    "lng": "-64.1888",
-    "fuentes": [
-      {
-        "nombre": "Perfil - Judiciales rechazaron la oferta salarial del TSJ y vuelven al paro (2 julio 2026)",
-        "url": "https://www.perfil.com/noticias/cordoba/judiciales-rechazaron-la-oferta-del-tsj-y-se-extiende-el-conflicto-salarial-en-tribunales.phtml"
-      },
-      {
-        "nombre": "Perfil - Un memorando tensiona aún más el conflicto salarial (3 julio 2026)",
-        "url": "https://www.perfil.com/noticias/cordoba/un-memorando-tensiona-aun-mas-el-conflicto-salarial-ante-el-paro-ordena-garantizar-servicios-en-unidades-judiciales.phtml"
-      },
-      {
-        "nombre": "AGEPJ - Asamblea Extraordinaria rechazó propuesta y ratificó paro 48h (1 julio 2026)",
-        "url": "https://agepj.org.ar/la-asamblea-extraordinaria-rechazo-la-propuesta-salarial-del-tsj-y-ratifico-medidas-de-fuerza/"
-      },
-      {
-        "nombre": "La Voz - Judiciales rechazaron oferta salarial: paro de 48 horas (1 julio 2026)",
-        "url": "https://www.lavoz.com.ar/politica/empleados-judiciales-rechazaron-oferta-salarial-llaryora_0_FyeWU0aatA.html"
-      },
-      {
-        "nombre": "Perfil - Un memorando tensiona aún más el conflicto salarial (3 julio 2026)",
-        "url": "https://www.perfil.com/noticias/cordoba/un-memorando-tensiona-aun-mas-el-conflicto-salarial-ante-el-paro-ordena-garantizar-servicios-en-unidades-judiciales.phtml"
-      }
-    ],
-    "createdAt": "2026-07-02T20:03:10.000Z",
-    "updatedAt": "2026-07-03T23:06:06Z"
+    "updatedAt": "2026-07-04T01:16:00Z"
   },
   {
     "id": 422,
@@ -1192,13 +413,13 @@
     "pais": "Argentina",
     "bandera": "🇦🇷",
     "hora": "12:00",
-    "fecha": "2026-07-03",
+    "fecha": "2026-07-04",
     "lugar": "Centro Atómico Bariloche, Av. Bustillo km 9,5, Bariloche, Río Negro (y sedes CNEA en CABA, San Rafael, Trelew y Córdoba)",
     "tipoAccion": "protesta",
     "organizaciones": [
       "ATE (Asociación de Trabajadores del Estado)"
     ],
-    "motivo": "Segundo día consecutivo de protestas de trabajadores de la Comisión Nacional de Energía Atómica (CNEA) nucleados en ATE contra el despido de 170 trabajadores contratados en todo el país (62 solo en Bariloche) y la reducción de la estructura de 645 a 272 cargos. Denuncian un plan de vaciamiento y privatización del organismo nuclear argentino. Exigen la reincorporación de todos los despedidos, el pago de salarios adeudados y la continuidad de proyectos estratégicos como el reactor CAREM. Las protestas incluyeron cortes intermitentes de tránsito en la Av. Bustillo. Réplicas en CABA, San Rafael (Mendoza), Trelew y Córdoba.",
+    "motivo": "Protestas de trabajadores de la Comisión Nacional de Energía Atómica (CNEA) nucleados en ATE contra el despido de 170 trabajadores contratados en todo el país (62 solo en Bariloche) y la reducción de la estructura de 645 a 272 cargos. Denuncian un plan de vaciamiento y privatización del organismo nuclear argentino. Exigen la reincorporación de todos los despedidos, el pago de salarios adeudados y la continuidad de proyectos estratégicos como el reactor CAREM. Las protestas incluyen cortes intermitentes de tránsito en la Av. Bustillo. Réplicas en CABA, San Rafael (Mendoza), Trelew y Córdoba. Los trabajadores declararon estado de alerta, asamblea y movilización permanente.",
     "status": "en_curso",
     "lat": "-41.1331",
     "lng": "-71.3103",
@@ -1230,72 +451,13 @@
       {
         "nombre": "Bache3000 - Sigue la protesta trabajadores cesanteados CNEA Bariloche (3 julio 2026)",
         "url": "https://baribache3000.com.ar/nota/5182/sigue-la-protesta-de-trabajadores-cesanteados-en-la-cnea/"
+      },
+      {
+        "nombre": "InfoBariloche - CNEA Bariloche alerta y movilización permanente (1 julio 2026)",
+        "url": "https://infobariloche.com.ar/sociedad/19-bariloche/36097-trabajadores-de-la-cnea-bariloche-declaran-estado-de-alerta-y-movilizacion-permanente.html"
       }
     ],
     "createdAt": "2026-07-03T15:57:09.000Z",
-    "updatedAt": "2026-07-03T23:06:06Z"
-  },
-  {
-    "id": 425,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "17:00",
-    "fecha": "2026-07-03",
-    "lugar": "Plaza de Mayo, CABA (y réplicas en todo el país: Córdoba, Santa Fe, Entre Ríos, Santa Cruz, Tierra del Fuego, Tucumán, Salta, Jujuy, Santiago del Estero, Catamarca)",
-    "tipoAccion": "marcha",
-    "organizaciones": [
-      "CONADU",
-      "CONADU Histórica",
-      "FEDUN",
-      "FAGDUT",
-      "UDA",
-      "CTERA",
-      "FATUN",
-      "Consejo Interuniversitario Nacional (CIN)",
-      "CGT"
-    ],
-    "motivo": "Cuarta Marcha Federal Universitaria. Centenares de miles de personas marcharon en todo el país para exigir el cumplimiento de la Ley de Financiamiento Universitario. Reclaman aumento de partidas presupuestarias para funcionamiento y salarios docentes, frente al ajuste y desfinanciamiento del gobierno de Javier Milei. El acto central en Plaza de Mayo colmó la plaza y sus inmediaciones. El gobierno ratificó que no aplicará la ley y oficializó un nuevo recorte de $5.303 millones.",
-    "status": "finalizada",
-    "lat": "-34.6083",
-    "lng": "-58.3712",
-    "fuentes": [
-      {
-        "nombre": "Buenos Aires Impacto - Multitudinaria marcha universitaria 3 julio 2026",
-        "url": "https://buenosairesimpacto.com/nota/6950/multitudinaria-marcha-universitaria-pidieron-el-cumplimiento-de-la-ley-de-financiamiento"
-      }
-    ],
-    "createdAt": "2026-07-03T21:40:28.000Z",
-    "updatedAt": "2026-07-03T23:06:06Z"
-  },
-  {
-    "id": 426,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "17:00",
-    "fecha": "2026-07-03",
-    "lugar": "Rotonda de Remedios de Escalada y calle Gervaso, Capitán Bermúdez, provincia de Santa Fe",
-    "tipoAccion": "marcha",
-    "organizaciones": [
-      "Familiares y amigos de Gastón Montenegro",
-      "Comunidad de Capitán Bermúdez"
-    ],
-    "motivo": "Tercera marcha para exigir la aparición con vida de Gastón Montenegro, joven de 25 años desaparecido desde el 26 de junio en Capitán Bermúdez. La familia sostiene que fue secuestrado a punta de pistola y exige la detención de los responsables, ya identificados por testigos y cámaras de seguridad. La Fiscalía investiga el caso con hipótesis de secuestro narco. Se realizaron allanamientos en Capitán Bermúdez, Rosario, Funes y Fray Luis Beltrán con 4 detenidos por narcomenudeo.",
-    "status": "finalizada",
-    "lat": "-32.8242",
-    "lng": "-60.7159",
-    "fuentes": [
-      {
-        "nombre": "11Noticias - Tercera marcha Gastón Montenegro Capitán Bermúdez 3 julio 2026",
-        "url": "https://11noticias.com/noticias/C.Bermudez/Convocan-a-una-tercera-marcha-para-exigir-la-aparicion-de-Gaston-Montenegro-en-Capitan-Bermudez_50313.html"
-      },
-      {
-        "nombre": "Rosario3 - Nueva marcha por Gastón Montenegro, la familia asegura que fue secuestrado",
-        "url": "https://www.rosario3.com/policiales/nueva-marcha-por-gaston-montenegro-el-joven-buscado-en-capitan-bermudez-la-familia-asegura-que-fue-secuestrado-20260701-0073.html"
-      }
-    ],
-    "createdAt": "2026-07-03T21:40:28.000Z",
-    "updatedAt": "2026-07-03T23:06:06Z"
+    "updatedAt": "2026-07-04T01:16:00Z"
   }
 ]
