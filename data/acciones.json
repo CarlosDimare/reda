@@ -27,7 +27,7 @@
       }
     ],
     "createdAt": "2026-07-04T01:07:21.000Z",
-    "updatedAt": "2026-07-04T01:16:00Z"
+    "updatedAt": "2026-07-04T05:12:43Z"
   },
   {
     "id": 432,
@@ -63,7 +63,7 @@
       }
     ],
     "createdAt": "2026-07-04T01:07:21.000Z",
-    "updatedAt": "2026-07-04T01:16:00Z"
+    "updatedAt": "2026-07-04T05:12:43Z"
   },
   {
     "id": 433,
@@ -88,7 +88,7 @@
       }
     ],
     "createdAt": "2026-07-04T01:07:21.000Z",
-    "updatedAt": "2026-07-04T01:16:00Z"
+    "updatedAt": "2026-07-04T05:12:43Z"
   },
   {
     "id": 363,
@@ -118,7 +118,7 @@
       }
     ],
     "createdAt": "2026-07-01T13:18:37.000Z",
-    "updatedAt": "2026-07-04T01:16:00Z"
+    "updatedAt": "2026-07-04T05:12:43Z"
   },
   {
     "id": 391,
@@ -153,7 +153,7 @@
       }
     ],
     "createdAt": "2026-07-02T18:12:47.000Z",
-    "updatedAt": "2026-07-04T01:16:00Z"
+    "updatedAt": "2026-07-04T05:12:43Z"
   },
   {
     "id": 434,
@@ -199,7 +199,7 @@
       }
     ],
     "createdAt": "2026-07-04T01:07:21.000Z",
-    "updatedAt": "2026-07-04T01:16:00Z"
+    "updatedAt": "2026-07-04T05:12:43Z"
   },
   {
     "id": 435,
@@ -232,7 +232,7 @@
       }
     ],
     "createdAt": "2026-07-04T01:07:21.000Z",
-    "updatedAt": "2026-07-04T01:16:00Z"
+    "updatedAt": "2026-07-04T05:12:43Z"
   },
   {
     "id": 436,
@@ -261,7 +261,7 @@
       }
     ],
     "createdAt": "2026-07-04T01:07:21.000Z",
-    "updatedAt": "2026-07-04T01:16:00Z"
+    "updatedAt": "2026-07-04T05:12:43Z"
   },
   {
     "id": 437,
@@ -294,7 +294,7 @@
       }
     ],
     "createdAt": "2026-07-04T01:07:21.000Z",
-    "updatedAt": "2026-07-04T01:16:00Z"
+    "updatedAt": "2026-07-04T05:12:43Z"
   },
   {
     "id": 438,
@@ -329,7 +329,7 @@
       }
     ],
     "createdAt": "2026-07-04T01:07:21.000Z",
-    "updatedAt": "2026-07-04T01:16:00Z"
+    "updatedAt": "2026-07-04T05:12:43Z"
   },
   {
     "id": 439,
@@ -364,7 +364,64 @@
       }
     ],
     "createdAt": "2026-07-04T01:07:21.000Z",
-    "updatedAt": "2026-07-04T01:16:00Z"
+    "updatedAt": "2026-07-04T05:12:43Z"
+  },
+  {
+    "id": 440,
+    "seccion": "protestas_int",
+    "pais": "Francia",
+    "bandera": "🇫🇷",
+    "hora": "15:00",
+    "fecha": "2026-07-04",
+    "lugar": "Place de la Bastille a Place de la Nation, París (y en toda Francia)",
+    "tipoAccion": "marcha",
+    "organizaciones": [
+      "Fondation des Femmes",
+      "Coalition féministe et enfantiste pour une loi intégrale contre les violences sexuelles",
+      "CFDT",
+      "SUPAP-FSU"
+    ],
+    "motivo": "Grande Marche citoyenne du 4 juillet 2026 contra las violencias sexuales. Marcha multitudinaria en París desde Bastilla hasta Nation, con réplicas en toda Francia, exigiendo una ley marco integral contra las violencias sexuales. En memoria de Lyhanna (niña de 11 años asesinada) y todas las víctimas. Exigen 3 mil millones de euros anuales para implementar la ley, educación sexual integral, acompañamiento a víctimas y fin de la impunidad de los agresores.",
+    "status": "en_curso",
+    "lat": "48.8534",
+    "lng": "2.3488",
+    "fuentes": [
+      {
+        "nombre": "Fondation des Femmes - Grande Marche 4 juillet 2026",
+        "url": "https://fondationdesfemmes.org/actualites/marche-4-juillet-2026-violences-sexuelles/"
+      },
+      {
+        "nombre": "SUPAP-FSU - Manifestation 4 juillet violences sexuelles",
+        "url": "https://www.supap-fsu.org/2026/07/ce-samedi-4-juillet-manifestons-contre-les-violences-sexuelles-faites-aux-femmes-et-aux-enfants.15h-de-bastille-vers-nation.html"
+      }
+    ],
+    "createdAt": "2026-07-04T05:07:17.000Z",
+    "updatedAt": "2026-07-04T05:12:43Z"
+  },
+  {
+    "id": 441,
+    "seccion": "protestas_int",
+    "pais": "Colombia",
+    "bandera": "🇨🇴",
+    "hora": "12:30",
+    "fecha": "2026-07-04",
+    "lugar": "Parque Los Girasoles a Parque Floridablanca, Engativá, Bogotá",
+    "tipoAccion": "marcha",
+    "organizaciones": [
+      "Colectivos de personas trans de Bogotá"
+    ],
+    "motivo": "Marcha 'Yo Marcho Trans NB' convocada por colectivos de personas trans en Bogotá por los derechos de las personas trans y no binarias. Exigen inclusión, respeto, políticas públicas de protección contra la discriminación y garantías para el ejercicio pleno de sus derechos en la capital colombiana.",
+    "status": "en_curso",
+    "lat": "4.7110",
+    "lng": "-74.0721",
+    "fuentes": [
+      {
+        "nombre": "Semana - Marchas en Bogotá afectan movilidad 3 al 7 de julio",
+        "url": "https://www.semana.com/nacion/bogota/articulo/estas-son-las-marchas-en-bogota-que-podrian-afectar-la-movilidad-del-3-al-7-de-julio/202652/"
+      }
+    ],
+    "createdAt": "2026-07-04T05:07:17.000Z",
+    "updatedAt": "2026-07-04T05:12:43Z"
   },
   {
     "id": 390,
@@ -405,7 +462,7 @@
       }
     ],
     "createdAt": "2026-07-02T16:07:18.000Z",
-    "updatedAt": "2026-07-04T01:16:00Z"
+    "updatedAt": "2026-07-04T05:12:43Z"
   },
   {
     "id": 422,
@@ -458,6 +515,6 @@
       }
     ],
     "createdAt": "2026-07-03T15:57:09.000Z",
-    "updatedAt": "2026-07-04T01:16:00Z"
+    "updatedAt": "2026-07-04T05:12:43Z"
   }
 ]
