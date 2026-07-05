@@ -38,7 +38,7 @@
       }
     ],
     "createdAt": "2026-07-02T16:07:18.000Z",
-    "updatedAt": "2026-07-05T22:06:15Z"
+    "updatedAt": "2026-07-05T23:15:29Z"
   },
   {
     "id": 422,
@@ -91,7 +91,7 @@
       }
     ],
     "createdAt": "2026-07-03T15:57:09.000Z",
-    "updatedAt": "2026-07-05T22:06:15Z"
+    "updatedAt": "2026-07-05T23:15:29Z"
   },
   {
     "id": 476,
@@ -120,7 +120,7 @@
       }
     ],
     "createdAt": "2026-07-05T11:29:58.000Z",
-    "updatedAt": "2026-07-05T22:06:15Z"
+    "updatedAt": "2026-07-05T23:15:29Z"
   },
   {
     "id": 485,
@@ -147,7 +147,42 @@
       }
     ],
     "createdAt": "2026-07-05T17:37:57.000Z",
-    "updatedAt": "2026-07-05T22:06:15Z"
+    "updatedAt": "2026-07-05T23:15:29Z"
+  },
+  {
+    "id": 486,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "00:00",
+    "fecha": "2026-07-05",
+    "lugar": "Casa de Gobierno, Río Gallegos, Santa Cruz (y múltiples localidades de la provincia)",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Mesa de Unidad Policial y Penitenciaria (MUPP)",
+      "Policías autoconvocados de Santa Cruz",
+      "Servicio Penitenciario Provincial"
+    ],
+    "motivo": "Cumple un mes el acampe y trabajo a reglamento de efectivos policiales y penitenciarios en Santa Cruz por reclamo salarial. Exigen un salario inicial de $2.200.000. Solo el 10% del personal está operativo. El gobierno provincial realizó 11 ofertas rechazadas. El gobernador Claudio Vidal recibió un adelanto de $20.000 millones de coparticipación para destrabar el conflicto. Denuncian que jefes de comisaría deben hacer Uber o delivery para complementar ingresos.",
+    "status": "en_curso",
+    "lat": "-51.6230",
+    "lng": "-69.2168",
+    "fuentes": [
+      {
+        "nombre": "El Cronista - Policías y maestros con changas: la caída de recursos dispara conflictos sociales (5 julio 2026)",
+        "url": "https://www.cronista.com/economia-politica/policias-y-maestros-con-changas-la-caida-de-recursos-dispara-conflictos-sociales-en-las-provincias/"
+      },
+      {
+        "nombre": "La Arena - Policías de Santa Cruz están acuartelados hace un mes (1 julio 2026)",
+        "url": "https://www.laarena.com.ar/el-pais/policias-de-santa-cruz-estan-acuartelados-hace-un-mes-y-reclaman-mejoras-salariales-2026719500"
+      },
+      {
+        "nombre": "El Destape - Policía Santa Cruz denuncia acciones intimidatorias de Milei y Vidal (3 julio 2026)",
+        "url": "https://www.eldestapeweb.com/politica/acuerdo-salarial-policia-santa-cruz-denuncia-acciones-intimidatorias-milei-vidal-202673162341"
+      }
+    ],
+    "createdAt": "2026-07-05T22:00:50.000Z",
+    "updatedAt": "2026-07-05T23:15:29Z"
   },
   {
     "id": 391,
@@ -194,7 +229,7 @@
       }
     ],
     "createdAt": "2026-07-02T18:12:47.000Z",
-    "updatedAt": "2026-07-05T22:06:15Z"
+    "updatedAt": "2026-07-05T23:15:29Z"
   },
   {
     "id": 439,
@@ -211,7 +246,7 @@
       "Plataforma Contra la OTAN y la Guerra Imperialista (PAN-IW)",
       "Coalición de organizaciones revolucionarias y democráticas"
     ],
-    "motivo": "Semana de acción Anti-OTAN (4-12 de julio) en vísperas de la Cumbre de la OTAN en Ankara (7-8 de julio). El 5 de julio la Coordinación 'No a la OTAN' convocó una marcha en Kadıköy (Estambul) a las 19:00 bajo el lema 'No os queremos, marchamos contra la OTAN'. El TKP convocó marchas simultáneas en Izmir, Antalya, Adana, Çanakkale y Samsun. Manifestaciones también en Bruselas, París, Londres, Atenas, Viena, Zúrich, Fráncfort, Colonia y Hamburgo. Denuncian el aumento del gasto militar al 5% del PIB, las guerras en Ucrania y Medio Oriente, y exigen el desmantelamiento de la OTAN. Ese mismo día, decenas de personas (periodistas, abogados, académicos) fueron detenidas en redadas simultáneas en toda Turquía antes de la cumbre.",
+    "motivo": "Semana de acción Anti-OTAN (4-12 de julio) en vísperas de la Cumbre de la OTAN en Ankara (7-8 de julio). El 5 de julio la Coordinación 'No a la OTAN' convocó una marcha en Kadıköy (Estambul) a las 19:00 bajo el lema 'No os queremos, marchamos contra la OTAN'. El TKP convocó marchas simultáneas en Izmir, Antalya, Adana, Çanakkale y Samsun. Manifestaciones también en Bruselas, París, Londres, Atenas, Viena, Zúrich, Fráncfort, Colonia y Hamburgo. En Ankara, más de 100 manifestantes fueron detenidos ese mismo domingo por participar en una protesta contra la OTAN en la plaza Kizilay, desafiando la prohibición gubernamental de manifestaciones impuesta desde el 28 de junio. Denuncian el aumento del gasto militar al 5% del PIB, las guerras en Ucrania y Medio Oriente, y exigen el desmantelamiento de la OTAN. Decenas de personas (periodistas, abogados, académicos) fueron detenidas en redadas simultáneas en toda Turquía antes de la cumbre.",
     "status": "en_curso",
     "lat": "41.0082",
     "lng": "28.9784",
@@ -247,10 +282,14 @@
       {
         "nombre": "BBC Türkçe - Gazeteci, avukat ve akademisyenler gözaltında July 5",
         "url": "https://www.bbc.com/turkce/articles/c6211mnvlz5o"
+      },
+      {
+        "nombre": "RTVE - Más de 100 detenidos en protesta contra la OTAN en Ankara 5 julio 2026",
+        "url": "https://www.rtve.es/noticias/20260705/mas-100-detenidos-protesta-contra-otan-ankara/17144573.shtml"
       }
     ],
     "createdAt": "2026-07-04T01:07:21.000Z",
-    "updatedAt": "2026-07-05T22:06:15Z"
+    "updatedAt": "2026-07-05T23:15:29Z"
   },
   {
     "id": 444,
@@ -290,7 +329,7 @@
       }
     ],
     "createdAt": "2026-07-04T10:31:43.000Z",
-    "updatedAt": "2026-07-05T22:06:15Z"
+    "updatedAt": "2026-07-05T23:15:29Z"
   },
   {
     "id": 446,
@@ -341,7 +380,7 @@
       }
     ],
     "createdAt": "2026-07-04T10:31:43.000Z",
-    "updatedAt": "2026-07-05T22:06:15Z"
+    "updatedAt": "2026-07-05T23:15:29Z"
   },
   {
     "id": 449,
@@ -377,7 +416,7 @@
       }
     ],
     "createdAt": "2026-07-02T18:12:47.000Z",
-    "updatedAt": "2026-07-05T22:06:15Z"
+    "updatedAt": "2026-07-05T23:15:29Z"
   },
   {
     "id": 464,
@@ -394,7 +433,7 @@
       "Jammu Kashmir Joint Awami Action Committee (JKAMMC)",
       "Diáspora cachemira global"
     ],
-    "motivo": "Jornada de protestas masivas del JAAC en Cachemira bajo ocupación pakistaní (PoK) contra la brutal represión del gobierno pakistaní, que ha dejado decenas de muertos. El movimiento cumple 26 días. El 5 de julio las fuerzas de seguridad paquistaníes abrieron fuego contra manifestantes, causando al menos 1 muerto y varios heridos. Más de 600 activistas han sido arrestados. Pakistán designó al JAAC como 'organización terrorista'. La movilización del 4 de julio en Rawalakot congregó a más de 80.000 personas. Los líderes advierten que si no se cumplen las 38 demandas clave, el movimiento evolucionará hacia un llamado a la retirada total de Pakistán de la región.",
+    "motivo": "Jornada de protestas masivas del JAAC en Cachemira bajo ocupación pakistaní (PoK) contra la brutal represión del gobierno pakistaní, que ha dejado decenas de muertos. El movimiento cumple 26 días. El 5 de julio las fuerzas de seguridad paquistaníes abrieron fuego contra manifestantes en Amb (Dudial), causando al menos 1 muerto y varios heridos. Más de 600 activistas han sido arrestados. Pakistán designó al JAAC como 'organización terrorista'. Manifestaciones de la diáspora cachemira en Londres (frente a la Alta Comisión Pakistaní) y Auckland (Nueva Zelanda). Los líderes advierten que si no se cumplen las 38 demandas clave, el movimiento evolucionará hacia un llamado a la retirada total de Pakistán de la región.",
     "status": "en_curso",
     "lat": "33.6000",
     "lng": "73.6000",
@@ -418,10 +457,18 @@
       {
         "nombre": "Times of India - PoJK leader seeks support July 5 protest",
         "url": "https://timesofindia.indiatimes.com/india/cruelty-at-its-peak-pojk-leader-seeks-support-of-indians-in-protest-against-pakistan/articleshow/132178532.cms"
+      },
+      {
+        "nombre": "Times of India - Massive anti-Pakistan protests London July 5 2026",
+        "url": "https://timesofindia.indiatimes.com/world/uk/massive-anti-pakistan-protests-erupt-in-london-over-crackdown-on-pok-activists-watch/articleshow/132197583.cms"
+      },
+      {
+        "nombre": "India Today - PoK 1 killed Pakistan Rangers fire July 5 2026",
+        "url": "https://www.indiatoday.in/world/story/pok-protests-pakistan-rangers-firing-one-killed-many-injured-jaac-rallies-spread-2941230-2026-07-05"
       }
     ],
     "createdAt": "2026-07-05T02:50:38.000Z",
-    "updatedAt": "2026-07-05T22:06:15Z"
+    "updatedAt": "2026-07-05T23:15:29Z"
   },
   {
     "id": 465,
@@ -456,7 +503,7 @@
       }
     ],
     "createdAt": "2026-07-05T02:50:38.000Z",
-    "updatedAt": "2026-07-05T22:06:15Z"
+    "updatedAt": "2026-07-05T23:15:29Z"
   },
   {
     "id": 466,
@@ -482,7 +529,7 @@
       }
     ],
     "createdAt": "2026-07-05T02:50:38.000Z",
-    "updatedAt": "2026-07-05T22:06:15Z"
+    "updatedAt": "2026-07-05T23:15:29Z"
   },
   {
     "id": 467,
@@ -508,7 +555,7 @@
       }
     ],
     "createdAt": "2026-07-05T02:50:38.000Z",
-    "updatedAt": "2026-07-05T22:06:15Z"
+    "updatedAt": "2026-07-05T23:15:29Z"
   },
   {
     "id": 468,
@@ -538,7 +585,7 @@
       }
     ],
     "createdAt": "2026-07-05T02:50:38.000Z",
-    "updatedAt": "2026-07-05T22:06:15Z"
+    "updatedAt": "2026-07-05T23:15:29Z"
   },
   {
     "id": 469,
@@ -580,7 +627,7 @@
       }
     ],
     "createdAt": "2026-07-05T02:50:38.000Z",
-    "updatedAt": "2026-07-05T22:06:15Z"
+    "updatedAt": "2026-07-05T23:15:29Z"
   },
   {
     "id": 471,
@@ -605,7 +652,7 @@
       }
     ],
     "createdAt": "2026-07-05T02:50:38.000Z",
-    "updatedAt": "2026-07-05T22:06:15Z"
+    "updatedAt": "2026-07-05T23:15:29Z"
   },
   {
     "id": 472,
@@ -635,7 +682,7 @@
       }
     ],
     "createdAt": "2026-07-05T06:39:05.000Z",
-    "updatedAt": "2026-07-05T22:06:15Z"
+    "updatedAt": "2026-07-05T23:15:29Z"
   },
   {
     "id": 473,
@@ -661,7 +708,7 @@
       }
     ],
     "createdAt": "2026-07-05T06:39:05.000Z",
-    "updatedAt": "2026-07-05T22:06:15Z"
+    "updatedAt": "2026-07-05T23:15:29Z"
   },
   {
     "id": 474,
@@ -699,7 +746,7 @@
       }
     ],
     "createdAt": "2026-07-05T09:40:18.000Z",
-    "updatedAt": "2026-07-05T22:06:15Z"
+    "updatedAt": "2026-07-05T23:15:29Z"
   },
   {
     "id": 475,
@@ -729,7 +776,7 @@
       }
     ],
     "createdAt": "2026-07-05T09:40:18.000Z",
-    "updatedAt": "2026-07-05T22:06:15Z"
+    "updatedAt": "2026-07-05T23:15:29Z"
   },
   {
     "id": 477,
@@ -759,7 +806,7 @@
       }
     ],
     "createdAt": "2026-07-05T14:40:27.000Z",
-    "updatedAt": "2026-07-05T22:06:15Z"
+    "updatedAt": "2026-07-05T23:15:29Z"
   },
   {
     "id": 478,
@@ -785,7 +832,7 @@
       }
     ],
     "createdAt": "2026-07-05T14:40:27.000Z",
-    "updatedAt": "2026-07-05T22:06:15Z"
+    "updatedAt": "2026-07-05T23:15:29Z"
   },
   {
     "id": 479,
@@ -811,7 +858,7 @@
       }
     ],
     "createdAt": "2026-07-05T14:40:27.000Z",
-    "updatedAt": "2026-07-05T22:06:15Z"
+    "updatedAt": "2026-07-05T23:15:29Z"
   },
   {
     "id": 481,
@@ -846,7 +893,7 @@
       }
     ],
     "createdAt": "2026-07-05T16:05:41.000Z",
-    "updatedAt": "2026-07-05T22:06:15Z"
+    "updatedAt": "2026-07-05T23:15:29Z"
   },
   {
     "id": 482,
@@ -877,7 +924,7 @@
       }
     ],
     "createdAt": "2026-07-05T17:35:28.000Z",
-    "updatedAt": "2026-07-05T22:06:15Z"
+    "updatedAt": "2026-07-05T23:15:29Z"
   },
   {
     "id": 483,
@@ -904,7 +951,7 @@
       }
     ],
     "createdAt": "2026-07-05T17:35:28.000Z",
-    "updatedAt": "2026-07-05T22:06:15Z"
+    "updatedAt": "2026-07-05T23:15:29Z"
   },
   {
     "id": 484,
@@ -934,41 +981,40 @@
       }
     ],
     "createdAt": "2026-07-05T17:35:28.000Z",
-    "updatedAt": "2026-07-05T22:06:15Z"
+    "updatedAt": "2026-07-05T23:15:29Z"
   },
   {
-    "id": 486,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
+    "id": 487,
+    "seccion": "protestas_int",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
     "hora": "00:00",
     "fecha": "2026-07-05",
-    "lugar": "Casa de Gobierno, Río Gallegos, Santa Cruz (y múltiples localidades de la provincia)",
-    "tipoAccion": "protesta",
+    "lugar": "Múltiples instalaciones de PECO: Berwyn Yard (Tredyffrin Township), Oregon Avenue (Filadelfia), y otras plantas en Pensilvania",
+    "tipoAccion": "huelga",
     "organizaciones": [
-      "Mesa de Unidad Policial y Penitenciaria (MUPP)",
-      "Policías autoconvocados de Santa Cruz",
-      "Servicio Penitenciario Provincial"
+      "IBEW Local 614 (International Brotherhood of Electrical Workers)",
+      "United Association Local 855"
     ],
-    "motivo": "Cumple un mes el acampe y trabajo a reglamento de efectivos policiales y penitenciarios en Santa Cruz por reclamo salarial. Exigen un salario inicial de $2.200.000. Solo el 10% del personal está operativo. El gobierno provincial realizó 11 ofertas rechazadas. El gobernador Claudio Vidal recibió un adelanto de $20.000 millones de coparticipación para destrabar el conflicto. Denuncian que jefes de comisaría deben hacer Uber o delivery para complementar ingresos.",
+    "motivo": "Huelga histórica de 1.600 trabajadores sindicalizados de PECO, la principal empresa eléctrica y de gas de Filadelfia y sus suburbios, por primera vez en sus 145 años de historia. El paro comenzó a la medianoche del 4 de julio tras el colapso de las negociaciones contractuales. Los trabajadores (linieros, técnicos de gas, mecánicos, operarios de call center) exigen salarios acordes a la industria —ganan un 30% menos que sus pares en empresas comparables— y mejores beneficios de pensión y salud para 600 empleados contratados después de 2021. La huelga continuó el 5 de julio con piquetes en varias instalaciones, en medio de una ola de calor. Sindicatos de servicios públicos de Pensilvania, Nueva Jersey, Delaware, Maryland, Virginia y Georgia se niegan a cruzar la línea de piquete. Se reportaron tres agresiones a trabajadores en huelga.",
     "status": "en_curso",
-    "lat": "-51.6230",
-    "lng": "-69.2168",
+    "lat": "40.0000",
+    "lng": "-75.1500",
     "fuentes": [
       {
-        "nombre": "El Cronista - Policías y maestros con changas: la caída de recursos dispara conflictos sociales (5 julio 2026)",
-        "url": "https://www.cronista.com/economia-politica/policias-y-maestros-con-changas-la-caida-de-recursos-dispara-conflictos-sociales-en-las-provincias/"
+        "nombre": "Philadelphia Inquirer - PECO strike negotiations continue July 5 2026",
+        "url": "https://www.inquirer.com/news/philadelphia/peco-strike-negotiations-call-center-contract-offer-outages-20260705.html"
       },
       {
-        "nombre": "La Arena - Policías de Santa Cruz están acuartelados hace un mes (1 julio 2026)",
-        "url": "https://www.laarena.com.ar/el-pais/policias-de-santa-cruz-estan-acuartelados-hace-un-mes-y-reclaman-mejoras-salariales-2026719500"
+        "nombre": "WITF - PECO workers strike July 4-5 2026",
+        "url": "https://www.witf.org/2026/07/05/peco-workers-strike-on-july-fourth-for-the-first-time-in-the-utilitys-history/"
       },
       {
-        "nombre": "El Destape - Policía Santa Cruz denuncia acciones intimidatorias de Milei y Vidal (3 julio 2026)",
-        "url": "https://www.eldestapeweb.com/politica/acuerdo-salarial-policia-santa-cruz-denuncia-acciones-intimidatorias-milei-vidal-202673162341"
+        "nombre": "CBS Philadelphia - PECO union strike negotiations resume Sunday July 5 2026",
+        "url": "https://www.cbsnews.com/philadelphia/video/negotiations-to-resume-sunday-between-peco-union-workers-as-strike-continues/"
       }
     ],
-    "createdAt": "2026-07-05T22:00:50.000Z",
-    "updatedAt": "2026-07-05T22:06:15Z"
+    "createdAt": "2026-07-05T23:10:21.000Z",
+    "updatedAt": "2026-07-05T23:15:29Z"
   }
 ]
