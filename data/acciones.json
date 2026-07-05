@@ -1,132 +1,11 @@
 [
   {
-    "id": 431,
-    "seccion": "protestas_int",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "19:00",
-    "fecha": "2026-07-04",
-    "lugar": "Glorieta de Carlos V (Atocha) a Plaza de Colón, Madrid",
-    "tipoAccion": "marcha",
-    "organizaciones": [
-      "Federación Estatal LGTBI+ (FELGTBI+)",
-      "COGAM (Colectivo LGTBI de Madrid)"
-    ],
-    "motivo": "Manifestación Estatal del Orgullo LGTBIQ+ 2026 (MADO'26) bajo el lema '¡A las calles con orgullo! Disidencia y resistencia'. Marcha multitudinaria desde Atocha hasta Colón exigiendo un Pacto de Estado contra los discursos de odio y la defensa de los derechos del colectivo LGTBIQ+ ante el aumento de agresiones y discursos de odio en España. Se espera más de un millón de asistentes.",
-    "status": "en_curso",
-    "lat": "40.4168",
-    "lng": "-3.7038",
-    "fuentes": [
-      {
-        "nombre": "RTVE - Desfile Orgullo 2026 Madrid 4 julio",
-        "url": "https://www.rtve.es/play/noticias/20260703/desfile-orgullo-2026-lgtb-recorrido-madrid-hora-donde-ver/17142460.shtml"
-      },
-      {
-        "nombre": "El Confidencial - Manifestación Orgullo Madrid 4 julio 2026",
-        "url": "https://www.elconfidencial.com/espana/madrid/2026-07-03/manifestacion-orgullo-2026-madrid-horario-recorrido-cortes-trafico-sabado-4-julio-1qrt_4382214/"
-      }
-    ],
-    "createdAt": "2026-07-04T01:07:21.000Z",
-    "updatedAt": "2026-07-04T23:37:38Z"
-  },
-  {
-    "id": 432,
-    "seccion": "protestas_int",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "12:00",
-    "fecha": "2026-07-04",
-    "lugar": "Plaza de Numancia al Ayuntamiento de Santander, Cantabria",
-    "tipoAccion": "marcha",
-    "organizaciones": [
-      "Coordinadora de Pensionistas de Cantabria",
-      "Federación de Asociaciones de Vecinos de Cantabria (FDAV)",
-      "Asociación para la Defensa de la Sanidad Pública en Cantabria",
-      "Izquierda Unida",
-      "Podemos",
-      "PSOE",
-      "CGT",
-      "Intersindical Cántabra"
-    ],
-    "motivo": "Manifestación en defensa de la sanidad pública cántabra contra los recortes presupuestarios, la privatización y los conciertos con clínicas privadas. Exigen que los 250 millones de euros destinados a Santa Clotilde vuelvan al sistema sanitario público. Denuncian el empeoramiento de las listas de espera y la rebaja de capacidades de la sanidad pública. Marcha desde la Plaza de Numancia hasta el Ayuntamiento de Santander.",
-    "status": "en_curso",
-    "lat": "43.4623",
-    "lng": "-3.8099",
-    "fuentes": [
-      {
-        "nombre": "Europa Press - Manifestación sanidad pública Santander 4 julio",
-        "url": "https://www.europapress.es/cantabria/noticia-colectivos-convocan-manifestacion-defensa-sanidad-publica-sabado-santander-20260630094300.html"
-      },
-      {
-        "nombre": "El Diario Cantabria - Varios colectivos convocan manifestación sanidad pública 4 julio",
-        "url": "https://eldiariocantabria.publico.es/articulo/sanidad/varios-colectivos-convocan-manifestacion-sabado-santander-defensa-sanidad-publica/20260630110505195051.html"
-      }
-    ],
-    "createdAt": "2026-07-04T01:07:21.000Z",
-    "updatedAt": "2026-07-04T23:37:38Z"
-  },
-  {
-    "id": 433,
-    "seccion": "protestas_int",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "20:30",
-    "fecha": "2026-07-04",
-    "lugar": "Jardines del Triunfo a Plaza del Carmen (Ayuntamiento), Granada",
-    "tipoAccion": "marcha",
-    "organizaciones": [
-      "SAPAD (Sindicato Andaluz de Profesionales de Ayuda a Domicilio)"
-    ],
-    "motivo": "Marcha de profesionales del Servicio de Atención a Domicilio (SAD) para exigir dignidad profesional y reconocimiento social. Reclaman mejores condiciones laborales, salarios dignos y el reconocimiento de la importancia de su labor en el cuidado de personas dependientes. Recorrido desde Jardines del Triunfo por Gran Vía de Colón y Reyes Católicos hasta la Plaza del Carmen.",
-    "status": "en_curso",
-    "lat": "37.1773",
-    "lng": "-3.5986",
-    "fuentes": [
-      {
-        "nombre": "Ayuntamiento Granada - Manifestación SAPAD 4 julio 2026",
-        "url": "http://www.movilidadgranada.com/articulo.php?id=6795&idioma=es"
-      }
-    ],
-    "createdAt": "2026-07-04T01:07:21.000Z",
-    "updatedAt": "2026-07-04T23:37:38Z"
-  },
-  {
-    "id": 363,
-    "seccion": "protestas_int",
-    "pais": "México",
-    "bandera": "🇲🇽",
-    "hora": "00:00",
-    "fecha": "2026-07-04",
-    "lugar": "304 sucursales del Nacional Monte de Piedad en todo México, con centro en Ciudad de México",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "Sindicato Nacional de Empleados y Trabajadores del Nacional Monte de Piedad",
-      "Arturo Zayún (dirigente nacional)"
-    ],
-    "motivo": "La huelga en el Nacional Monte de Piedad continúa por noveno mes consecutivo (desde el 1 de octubre de 2025). El paro mantiene cerradas las 304 sucursales de la casa de empeño más antigua de México. Los trabajadores exigen respeto a los derechos laborales y prestaciones del Contrato Colectivo de Trabajo. Miles de clientes afectados sin poder recuperar prendas.",
-    "status": "en_curso",
-    "lat": "19.4326",
-    "lng": "-99.1332",
-    "fuentes": [
-      {
-        "nombre": "El Informador - Negociaciones Monte de Piedad 9 meses 30 junio",
-        "url": "https://www.informador.mx/mexico/asi-van-las-negociaciones-en-nacional-monte-de-piedad-tras-nueve-meses-de-huelga-20260630-0158.html"
-      },
-      {
-        "nombre": "Cúspide México - 9 meses huelga Monte de Piedad 29 junio",
-        "url": "https://cuspidemexico.com/2026/06/29/tras-nueve-meses-de-protestas-y-los-trabajadores-del-monte-de-piedad-no-ceden/"
-      }
-    ],
-    "createdAt": "2026-07-01T13:18:37.000Z",
-    "updatedAt": "2026-07-04T23:37:38Z"
-  },
-  {
     "id": 391,
     "seccion": "protestas_int",
     "pais": "Albania",
     "bandera": "🇦🇱",
     "hora": "19:00",
-    "fecha": "2026-07-04",
+    "fecha": "2026-07-05",
     "lugar": "Plaza Skanderbeg, frente a la Oficina del Primer Ministro y el Parlamento, Tirana",
     "tipoAccion": "protesta",
     "organizaciones": [
@@ -134,7 +13,7 @@
       "Ciudadanos albaneses",
       "Activistas ambientales"
     ],
-    "motivo": "Día 36 consecutivo de protestas de la 'Revolución Flamenco' contra el complejo turístico de lujo vinculado a Jared Kushner (yerno de Donald Trump) en la laguna de Narta, Zvernec. Las protestas se han convertido en un movimiento antigubernamental más amplio que exige la renuncia del primer ministro Edi Rama por corrupción. El 2 de julio la policía usó gas lacrimógeno y cañones de agua contra manifestantes. Las protestas continúan cada noche a las 19:00 con concentraciones en Plaza Skanderbeg y marchas hacia la Oficina del Primer Ministro.",
+    "motivo": "Día 36 consecutivo de protestas de la 'Revolución Flamenco' contra el complejo turístico de lujo vinculado a Jared Kushner en la laguna de Narta, Zvernec. Las protestas se han convertido en un movimiento antigubernamental más amplio que exige la renuncia del primer ministro Edi Rama por corrupción. Manifestaciones nocturnas cada día a las 19:00 con concentraciones en Plaza Skanderbeg y marchas hacia la Oficina del Primer Ministro. La protesta del 4 de julio (día 35) contó con participación masiva de la diáspora albanesa desde toda Europa.",
     "status": "en_curso",
     "lat": "41.3275",
     "lng": "19.8187",
@@ -154,155 +33,14 @@
       {
         "nombre": "Anadolu Ajansı - Albania protest Zvernec project enters second month July 4",
         "url": "https://www.aa.com.tr/en/vg/video-gallery/albania-protest-over-zvernec-project-enters-second-month/151456"
+      },
+      {
+        "nombre": "Albanian Daily News - Thousands Join Flamingo Revolution July 4",
+        "url": "https://albaniandailynews.com/news/thousands-join-flamingo-revolution-protest-in-tirana-calling-for-albanian-pm-s-resignation"
       }
     ],
     "createdAt": "2026-07-02T18:12:47.000Z",
-    "updatedAt": "2026-07-04T23:37:38Z"
-  },
-  {
-    "id": 434,
-    "seccion": "protestas_int",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
-    "hora": "10:00",
-    "fecha": "2026-07-04",
-    "lugar": "Nacional: más de 140 ciudades en todo EE.UU., incluyendo Washington D.C. (National Mall), Nueva York (Times Square), Los Ángeles, Filadelfia, Chicago, Arvada (Colorado), Green Bay (Wisconsin), Palm Beach (Florida - Mar-a-Lago), Atlanta (Georgia)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Women's March",
-      "50501 Movement",
-      "Indivisible",
-      "Freedom Over Fascism",
-      "The People's Union USA",
-      "Spirit of Mandela Coalition"
-    ],
-    "motivo": "Jornada nacional de protestas 'No Kings 2.0' y 'Free America' en el 250 aniversario de la independencia de EE.UU. Más de 140 eventos convocados por Women's March en todo el país contra las políticas del presidente Donald Trump: redadas migratorias de ICE, guerra en Irán, crisis económica y deriva autoritaria. Concentraciones y marchas pacíficas en Washington D.C., Nueva York, Los Ángeles y otras ciudades. Manifestación frente a Mar-a-Lago en Palm Beach. Boicot económico nacional convocado por The People's Union USA. Movilización contra genocidios en Atlanta (Spirit of Mandela). Coincide con el megamitín de Trump en el National Mall.",
-    "status": "en_curso",
-    "lat": "38.9072",
-    "lng": "-77.0369",
-    "fuentes": [
-      {
-        "nombre": "TIME - Anti-Trump Protests Planned Across US on July 4 2026",
-        "url": "https://time.com/7299015/anti-trump-administration-protests-united-states-july-4-independence-day/"
-      },
-      {
-        "nombre": "El País US - Protestas 250 aniversario EEUU 4 julio 2026",
-        "url": "https://elpais.com/us/2026-07-03/calor-extremo-y-despliegue-historico-asi-sera-el-operativo-de-seguridad-durante-los-festejos-del-250-aniversario-de-estados-unidos.html"
-      },
-      {
-        "nombre": "El Español - Convocan más de 140 protestas EEUU contra Trump 4 julio",
-        "url": "https://www.elespanol.com/mundo/america/20250704/no-quieren-sonemos-libertad-convocan-protestas-eeuu-trump-julio/1003743833283_0.html"
-      },
-      {
-        "nombre": "Women's March - Free America Weekend of Action July 4",
-        "url": "https://action.womensmarch.com/"
-      },
-      {
-        "nombre": "Spirit of Mandela - National Mobilization July 4 Atlanta",
-        "url": "https://spiritofmandela.org/news-events/july-4th-2026-mobilization-against-genocides-atlanta"
-      }
-    ],
-    "createdAt": "2026-07-04T01:07:21.000Z",
-    "updatedAt": "2026-07-04T23:37:38Z"
-  },
-  {
-    "id": 435,
-    "seccion": "protestas_int",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
-    "hora": "00:01",
-    "fecha": "2026-07-04",
-    "lugar": "Filadelfia y área metropolitana (Pensilvania): instalaciones de PECO Energy",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "IBEW (International Brotherhood of Electrical Workers) Local 614"
-    ],
-    "motivo": "Huelga de 1.600 trabajadores de PECO Energy (filial de Exelon) en Filadelfia al expirar el plazo para alcanzar un nuevo convenio colectivo sin acuerdo. El contrato expiró el 1 de abril de 2026. Los trabajadores (linieros, técnicos de gas, mecánicos, operadores de call center) exigen aumentos salariales justos, mejoras en el sistema de jubilación y beneficios médicos. PECO ofreció un aumento del 20% en 5 años pero el sindicato lo rechazó por insuficiente. La huelga comienza en plena ola de calor. PECO activó planes de contingencia.",
-    "status": "en_curso",
-    "lat": "39.9526",
-    "lng": "-75.1652",
-    "fuentes": [
-      {
-        "nombre": "6ABC Philadelphia - PECO union continue talks July 4 strike deadline",
-        "url": "https://6abc.com/post/peco-union-continue-contract-talks-july-4th-strike-deadline-looms/19437191/"
-      },
-      {
-        "nombre": "CBS Philadelphia - Union 1600 PECO workers strike July 4",
-        "url": "https://www.cbsnews.com/philadelphia/news/peco-workers-strike-ibew-614-philadelphia-pennsylvania/"
-      },
-      {
-        "nombre": "NBC10 Philadelphia - PECO union strike July 4",
-        "url": "https://www.nbcphiladelphia.com/news/local/peco-union-says-it-will-announce-details-of-impending-strike-on-thursday/4422667/"
-      },
-      {
-        "nombre": "The Philadelphia Inquirer - Peco workers are on strike July 4",
-        "url": "https://www.inquirer.com/business/peco-strike-ibew-union-electricity-power-outage-20260704.html"
-      }
-    ],
-    "createdAt": "2026-07-04T01:07:21.000Z",
-    "updatedAt": "2026-07-04T23:37:38Z"
-  },
-  {
-    "id": 436,
-    "seccion": "protestas_int",
-    "pais": "Reino Unido",
-    "bandera": "🇬🇧",
-    "hora": "00:00",
-    "fecha": "2026-07-04",
-    "lugar": "Cwm Taf Morgannwg University Health Board, Gales del Sur (Rhondda Cynon Taf, Merthyr Tydfil, Bridgend)",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "Unite the Union"
-    ],
-    "motivo": "Continuación de la huelga de aproximadamente 100 visitadores sanitarios (health visitors) del Cwm Taf Morgannwg University Health Board en Gales, en su octavo mes de conflicto laboral. Exigen ser reclasificados de la banda salarial 6 a la banda 7 (diferencia de hasta 9.000 libras anuales). La huelga, que comenzó el 23 de febrero, fue extendida hasta el 17 de julio de 2026. El sindicato Unite advierte que citas esenciales y obligatorias no se están realizando. El gobierno galés instó a una resolución temprana.",
-    "status": "en_curso",
-    "lat": "51.6000",
-    "lng": "-3.4000",
-    "fuentes": [
-      {
-        "nombre": "Nursing in Practice - Welsh health visitor strike escalates",
-        "url": "https://www.nursinginpractice.com/clinical/paediatrics/unite-calls-for-resignation-as-welsh-health-visitor-strike-action-escalates/"
-      },
-      {
-        "nombre": "StrikeTracker - Cwm Taf Morgannwg health visitors July 4 2026",
-        "url": "https://striketracker.app/strikes-in-united-kingdom/healthcare-strike-rhondda-cynon-taf-11-april-2026"
-      }
-    ],
-    "createdAt": "2026-07-04T01:07:21.000Z",
-    "updatedAt": "2026-07-04T23:37:38Z"
-  },
-  {
-    "id": 437,
-    "seccion": "protestas_int",
-    "pais": "Ecuador",
-    "bandera": "🇪🇨",
-    "hora": "18:00",
-    "fecha": "2026-07-04",
-    "lugar": "Antigua Tribuna de los Shyris, norte de Quito",
-    "tipoAccion": "marcha",
-    "organizaciones": [
-      "Plataforma Revoca EC",
-      "Washington Andrade (abogado)",
-      "Leonidas Iza (dirigente indígena)",
-      "UNE (Unión Nacional de Educadores)",
-      "FENOCIN"
-    ],
-    "motivo": "'Marcha de las Antorchas' convocada por la plataforma Revoca EC en Quito para exigir al Consejo Nacional Electoral (CNE) la entrega de formularios para iniciar la recolección de firmas para la revocatoria del mandato del presidente Daniel Noboa y la vicepresidenta María José Pinto. Denuncian incumplimiento del plan de gobierno y exigencia de respeto al derecho de participación ciudadana. Concentración a las 18:00 con antorchas, velas y linternas simbólicas. Noboa presentó más de 14.500 folios (22 cajas) como defensa ante el CNE.",
-    "status": "en_curso",
-    "lat": "-0.1807",
-    "lng": "-78.4678",
-    "fuentes": [
-      {
-        "nombre": "El Diario Ecuador - Marcha Antorchas Revoca EC 4 julio 2026",
-        "url": "https://www.eldiario.ec/ecuador/revoca-ec-convoca-a-marcha-de-las-antorchas-en-respaldo-a-revocatoria-de-noboa-y-pinto-02072026/"
-      },
-      {
-        "nombre": "Prensa Latina - Acciones revocatoria Noboa 2 julio 2026",
-        "url": "https://www.prensa-latina.cu/2026/07/02/organizaciones-de-ecuador-anunciaran-acciones-por-revocatoria-a-noboa/"
-      }
-    ],
-    "createdAt": "2026-07-04T01:07:21.000Z",
-    "updatedAt": "2026-07-04T23:37:38Z"
+    "updatedAt": "2026-07-05T02:58:08Z"
   },
   {
     "id": 438,
@@ -310,15 +48,15 @@
     "pais": "Global (diáspora iraní)",
     "bandera": "🇮🇷",
     "hora": "00:00",
-    "fecha": "2026-07-04",
-    "lugar": "Embajadas de EE.UU. en múltiples ciudades del mundo: Los Ángeles, Toronto, Londres, París, Berlín, Estocolmo, Sídney, Copenhague, La Haya, entre otras",
+    "fecha": "2026-07-05",
+    "lugar": "Embajadas de EE.UU. en múltiples ciudades del mundo: Los Ángeles, Toronto, Londres, París, Berlín, Estocolmo, Sídney, Copenhague, La Haya, Helsinki, entre otras",
     "tipoAccion": "protesta",
     "organizaciones": [
       "Reza Pahlavi (Príncipe Heredero de Irán)",
       "Diáspora iraní global",
       "Consejo Nacional de Resistencia de Irán (NCRI)"
     ],
-    "motivo": "Inicio de la 'Semana Global de Acción por un Irán Libre' (Global Week of Action for a Free Iran) del 4 al 9 de julio, convocada por el Príncipe Heredero Reza Pahlavi. Protestas de la diáspora iraní frente a embajadas de EE.UU. en todo el mundo para exigir el fin del régimen teocrático iraní. La semana de acción coincide con el inicio del funeral del líder supremo Ali Khamenei el 4 de julio en Teherán. También marca los seis meses de las masacres de enero contra manifestantes. Se esperan protestas masivas en Los Ángeles, Toronto, Londres, París y otras ciudades con importantes comunidades iraníes.",
+    "motivo": "Continúa la 'Semana Global de Acción por un Irán Libre' (Global Week of Action for a Free Iran) del 4 al 9 de julio, convocada por el Príncipe Heredero Reza Pahlavi. Protestas de la diáspora iraní frente a embajadas de EE.UU. en todo el mundo para exigir el fin del régimen teocrático iraní. El 4 de julio se realizaron protestas en Helsinki y otras ciudades. La semana de acción coincide con el funeral del líder supremo Ali Khamenei y los seis meses de las masacres de enero contra manifestantes.",
     "status": "en_curso",
     "lat": "34.0522",
     "lng": "-118.2437",
@@ -334,29 +72,33 @@
       {
         "nombre": "AP News - Khamenei funeral begins July 4 2026",
         "url": "https://apnews.com/article/iran-ayatollah-khamenei-funeral-us-war-what-to-know-5269a930c4a2263f788ebe893db86d61"
+      },
+      {
+        "nombre": "Crypto Briefing - Iranians protest outside US Embassy Helsinki July 4",
+        "url": "https://cryptobriefing.com/iranians-protest-outside-us-embassy-in-helsinki-against-tehran-agreements/"
       }
     ],
     "createdAt": "2026-07-02T18:12:47.000Z",
-    "updatedAt": "2026-07-04T23:37:38Z"
+    "updatedAt": "2026-07-05T02:58:08Z"
   },
   {
     "id": 439,
     "seccion": "protestas_int",
-    "pais": "Europa (múltiples países)",
+    "pais": "Turquía y Europa (múltiples países)",
     "bandera": "🇪🇺",
     "hora": "00:00",
-    "fecha": "2026-07-04",
-    "lugar": "Bruselas (Bélgica), París (Francia), Londres (Reino Unido), Atenas (Grecia), Viena (Austria), Zúrich (Suiza), Fráncfort (Alemania), Colonia (Alemania), Hamburgo (Alemania), Estambul (Turquía), Innsbruck (Austria)",
+    "fecha": "2026-07-05",
+    "lugar": "Estambul, Izmir, Antalya, Adana, Çanakkale, Samsun (Turquía); Bruselas (Bélgica), París (Francia), Londres (Reino Unido), Atenas (Grecia), Viena (Austria), Zúrich (Suiza), Fráncfort (Alemania), Colonia (Alemania), Hamburgo (Alemania)",
     "tipoAccion": "protesta",
     "organizaciones": [
-      "Plataforma Contra la OTAN y la Guerra Imperialista (PAN-IW)",
       "TKP (Partido Comunista de Turquía)",
+      "Plataforma Contra la OTAN y la Guerra Imperialista (PAN-IW)",
       "Coalición de organizaciones revolucionarias y democráticas"
     ],
-    "motivo": "Jornada de protestas contra la OTAN y las guerras imperialistas en múltiples ciudades europeas, convocada por la Plataforma Contra la OTAN y la Guerra Imperialista (PAN-IW) en vísperas de la Cumbre de la OTAN en Ankara (7-8 de julio). Manifestaciones en Bruselas, París, Londres, Atenas, Viena, Zúrich, Fráncfort, Colonia y Hamburgo. En Estambul se realiza la 'Cumbre Internacional por la Paz Antiimperialista' con activistas de todo el mundo. Denuncian el aumento del gasto militar al 5% del PIB, las guerras en Ucrania y Medio Oriente, y exigen el desmantelamiento de la OTAN.",
+    "motivo": "Continúa la semana de acción Anti-OTAN (4-12 de julio) en vísperas de la Cumbre de la OTAN en Ankara (7-8 de julio). El TKP convocó marchas el 5 de julio en 6 ciudades turcas: Estambul, Izmir, Antalya, Adana, Çanakkale y Samsun, bajo el lema 'Por nuestro país y nuestro honor, marchamos contra la OTAN'. Manifestaciones también en Bruselas, París, Londres, Atenas, Viena, Zúrich, Fráncfort, Colonia y Hamburgo. Denuncian el aumento del gasto militar al 5% del PIB, las guerras en Ucrania y Medio Oriente, y exigen el desmantelamiento de la OTAN.",
     "status": "en_curso",
-    "lat": "50.8503",
-    "lng": "4.3517",
+    "lat": "41.0082",
+    "lng": "28.9784",
     "fuentes": [
       {
         "nombre": "AIL Red - PAN-IW calls for demonstrations July 4 2026",
@@ -367,8 +109,12 @@
         "url": "https://notonato2026.org/en/event/istanbul-uluslararasi-anti-emperyalist-baris-zirvesi-2026-07-04-14"
       },
       {
-        "nombre": "TKP - Anti-NATO rally July 4 2026",
+        "nombre": "TKP - Anti-NATO rally July 4 2026 / Marches July 5 2026",
         "url": "https://www.tkp.org.tr/en/agenda/tkp-calls-for-mass-anti-nato-rally-ahead-of-nato-summit-in-ankara/"
+      },
+      {
+        "nombre": "ICP - TKP announces International Anti-NATO Summit July 5",
+        "url": "https://icp.org.tr/news/tkp-announces-international-anti-nato-summit"
       },
       {
         "nombre": "Info Libertaire - Renforçons la lutte contre le sommet de l'OTAN 4 juillet",
@@ -376,141 +122,7 @@
       }
     ],
     "createdAt": "2026-07-04T01:07:21.000Z",
-    "updatedAt": "2026-07-04T23:37:38Z"
-  },
-  {
-    "id": 440,
-    "seccion": "protestas_int",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "15:00",
-    "fecha": "2026-07-04",
-    "lugar": "Place de la Bastille a Place de la Nation, París (y en toda Francia: 80 ciudades)",
-    "tipoAccion": "marcha",
-    "organizaciones": [
-      "Fondation des Femmes",
-      "Coalition féministe et enfantiste pour une loi intégrale contre les violences sexuelles",
-      "CFDT",
-      "SUPAP-FSU"
-    ],
-    "motivo": "Grande Marche citoyenne du 4 juillet 2026 contra las violencias sexuales. Marcha multitudinaria en París desde Bastilla hasta Nation (15:30), con réplicas en 80 ciudades de toda Francia, exigiendo una ley marco integral contra las violencias sexuales. En memoria de Lyhanna (niña de 11 años asesinada) y todas las víctimas. Exigen 3 mil millones de euros anuales para implementar la ley, educación sexual integral, acompañamiento a víctimas y fin de la impunidad de los agresores. 130 organizaciones convocantes, más de 340.000 firmas de la petición.",
-    "status": "en_curso",
-    "lat": "48.8534",
-    "lng": "2.3488",
-    "fuentes": [
-      {
-        "nombre": "Fondation des Femmes - Grande Marche 4 juillet 2026",
-        "url": "https://fondationdesfemmes.org/actualites/marche-4-juillet-2026-violences-sexuelles/"
-      },
-      {
-        "nombre": "SUPAP-FSU - Manifestation 4 juillet violences sexuelles",
-        "url": "https://www.supap-fsu.org/2026/07/ce-samedi-4-juillet-manifestons-contre-les-violences-sexuelles-faites-aux-femmes-et-aux-enfants.15h-de-bastille-vers-nation.html"
-      },
-      {
-        "nombre": "L'Humanité - Toutes et tous dans la rue le 4 juillet pour Lyhanna",
-        "url": "https://www.humanite.fr/feminisme/droits-de-lenfant/toutes-et-tous-dans-la-rue-le-4-juillet-pour-lyhanna-et-les-autres-victimes"
-      },
-      {
-        "nombre": "La Croix - Mobilisation pour une loi globale contre les violences sexuelles 4 juillet",
-        "url": "https://www.la-croix.com/apres-l-affaire-lyhanna-mobilisation-pour-une-loi-globale-contre-les-violences-sexuelles-20260703"
-      }
-    ],
-    "createdAt": "2026-07-04T05:07:17.000Z",
-    "updatedAt": "2026-07-04T23:37:38Z"
-  },
-  {
-    "id": 441,
-    "seccion": "protestas_int",
-    "pais": "Colombia",
-    "bandera": "🇨🇴",
-    "hora": "12:30",
-    "fecha": "2026-07-04",
-    "lugar": "Parque Los Girasoles a Parque Floridablanca, Engativá, Bogotá",
-    "tipoAccion": "marcha",
-    "organizaciones": [
-      "Colectivos de personas trans de Bogotá"
-    ],
-    "motivo": "Marcha 'Yo Marcho Trans NB' convocada por colectivos de personas trans en Bogotá por los derechos de las personas trans y no binarias. Exigen inclusión, respeto, políticas públicas de protección contra la discriminación y garantías para el ejercicio pleno de sus derechos en la capital colombiana.",
-    "status": "en_curso",
-    "lat": "4.7110",
-    "lng": "-74.0721",
-    "fuentes": [
-      {
-        "nombre": "Semana - Marchas en Bogotá afectan movilidad 3 al 7 de julio",
-        "url": "https://www.semana.com/nacion/bogota/articulo/estas-son-las-marchas-en-bogota-que-podrian-afectar-la-movilidad-del-3-al-7-de-julio/202652/"
-      }
-    ],
-    "createdAt": "2026-07-04T05:07:17.000Z",
-    "updatedAt": "2026-07-04T23:37:38Z"
-  },
-  {
-    "id": 442,
-    "seccion": "protestas_int",
-    "pais": "Reino Unido",
-    "bandera": "🇬🇧",
-    "hora": "12:00",
-    "fecha": "2026-07-04",
-    "lugar": "Central London: Hyde Park Corner, Piccadilly, Haymarket, Trafalgar Square, Whitehall",
-    "tipoAccion": "marcha",
-    "organizaciones": [
-      "Pride in London",
-      "LGBTQIA+ community groups y organizaciones"
-    ],
-    "motivo": "Pride in London 2026: marcha anual del orgullo LGBTQIA+ que congrega a más de 1,5 millones de personas. Bajo el lema 'Many Voices. One Front', exigen derechos de salud trans, visibilidad queer negra y morena, derechos de familias elegidas y fin de los crímenes de odio. 35.000 manifestantes de 600 grupos marchan desde Hyde Park Corner hasta Whitehall. Seis escenarios con actuaciones en Trafalgar Square, Soho y Leicester Square. Es la celebración Pride más grande del Reino Unido, con 54 años de historia desde la primera marcha en 1972.",
-    "status": "en_curso",
-    "lat": "51.5074",
-    "lng": "-0.1278",
-    "fuentes": [
-      {
-        "nombre": "Evening Standard - London Pride 2026 parade route timings",
-        "url": "https://www.standard.co.uk/news/london/pride-in-london-2026-lgbtq-parade-route-time-when-b1288472.html"
-      },
-      {
-        "nombre": "US Embassy UK - Demonstration Alert London Pride July 4 2026",
-        "url": "https://uk.usembassy.gov/demonstration-alert-london-pride-july-4-2026"
-      },
-      {
-        "nombre": "Time Out - Pride in London 2026 full parade route",
-        "url": "https://www.timeout.com/london/news/pride-london-2026-parade-route-map-070126"
-      },
-      {
-        "nombre": "The Independent - London Pride 2026 parade route performers",
-        "url": "https://www.independent.co.uk/news/uk/home-news/london-pride-2026-parade-route-date-performers-stages-b2992442.html"
-      }
-    ],
-    "createdAt": "2026-07-04T08:09:27.000Z",
-    "updatedAt": "2026-07-04T23:37:38Z"
-  },
-  {
-    "id": 443,
-    "seccion": "protestas_int",
-    "pais": "Reino Unido",
-    "bandera": "🇬🇧",
-    "hora": "11:00",
-    "fecha": "2026-07-04",
-    "lugar": "Sucursales de Barclays en todo el Reino Unido: Carmarthen, Londres, Birmingham, Bristol, Coventry, Leicester, Edimburgo, Glasgow y otras ciudades",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Palestine Solidarity Campaign (PSC)",
-      "Campaign Against Arms Trade (CAAT)",
-      "War on Want"
-    ],
-    "motivo": "Jornada nacional de acción 'Boycott Barclays' contra el financiamiento de Barclays a empresas armamentísticas que proveen a Israel. Barclays invierte más de £2 mil millones en acciones y proporciona préstamos por £6.1 mil millones a 9 empresas cuyas armas y tecnología militar son usadas en el genocidio en Gaza y la ocupación en Cisjordania. Barclays también actúa como 'primary dealer' de bonos del gobierno israelí. Protestas simultáneas frente a sucursales de Barclays en todo el Reino Unido exigiendo el fin de la complicidad en crímenes de guerra.",
-    "status": "en_curso",
-    "lat": "51.5074",
-    "lng": "-0.1278",
-    "fuentes": [
-      {
-        "nombre": "Palestine Solidarity Campaign - Boycott Barclays Day of Action July 4",
-        "url": "https://palestinecampaign.org/events/boycott-barclays-day-of-action-8/"
-      },
-      {
-        "nombre": "X/PSCupdates - Boycott Barclays Day of Action Sat 4 July",
-        "url": "https://x.com/PSCupdates/status/2073058553179394339"
-      }
-    ],
-    "createdAt": "2026-07-04T08:09:27.000Z",
-    "updatedAt": "2026-07-04T23:37:38Z"
+    "updatedAt": "2026-07-05T02:58:08Z"
   },
   {
     "id": 444,
@@ -518,7 +130,7 @@
     "pais": "Alemania",
     "bandera": "🇩🇪",
     "hora": "08:00",
-    "fecha": "2026-07-04",
+    "fecha": "2026-07-05",
     "lugar": "Messe Erfurt, Erfurt, Turingia (con bloqueos en autopista A71 y accesos a la ciudad)",
     "tipoAccion": "protesta",
     "organizaciones": [
@@ -527,7 +139,7 @@
       "Gewerkschaften",
       "Initiativen und Bündnisse"
     ],
-    "motivo": "Masivas protestas contra el congreso federal de la ultraderechista Alternativa para Alemania (AfD) en Erfurt, donde el partido elige su nueva dirección con Alice Weidel y Tino Chrupalla. 20.000 manifestantes según la policía, con bloqueos de la autopista A71 y sentadas. Activistas se pegaron a rieles de tranvía y barrieron accesos al recinto. Los manifestantes denuncian las políticas racistas y de 'remigración' de la AfD, la deriva autoritaria y el peligro fascista. La policía mantiene un gran despliegue con 2.500 agentes, water cannons y refuerzos de varios estados federados. La fecha coincide con el centenario de una conferencia nazi en Weimar.",
+    "motivo": "Continúan las masivas protestas contra el congreso federal de la ultraderechista Alternativa para Alemania (AfD) en Erfurt (4-5 de julio). El 4 de julio 31.000 personas según policía (50.000 según organizadores) bloquearon la autopista A71 y accesos a la ciudad. Activistas se pegaron a rieles de tranvía y barrieron accesos al recinto. El congreso reeligió a Alice Weidel y Tino Chrupalla. El 5 de julio el congreso finaliza mientras las protestas continúan. Los manifestantes denuncian las políticas racistas y de 'remigración' de la AfD. La fecha coincide con el centenario de una conferencia nazi en Weimar.",
     "status": "en_curso",
     "lat": "50.9787",
     "lng": "11.0328",
@@ -545,38 +157,12 @@
         "url": "https://www.handelsblatt.com/politik/deutschland/treffen-in-erfurt-afd-parteitag-beginnt-umfangreiche-proteste-erwartet/100237854.html"
       },
       {
-        "nombre": "Der Spiegel - Gericht kippt Versammlungsverbot zu AfD-Parteitag",
-        "url": "https://www.spiegel.de/politik/afd-parteitagin-erfurt-thueringer-gericht-kippt-versammlungsverbot-a-3c4a273d-9077-412a-af5c-6902c5a9c90d"
+        "nombre": "Aachener Zeitung - AfD-Parteitag endet - Protestbündnis zieht positive Bilanz July 5",
+        "url": "https://www.aachener-zeitung.de/dpa/topthemen/afd-parteitag-endet-protestbuendnis-zieht-positive-bilanz/158279651.html"
       }
     ],
     "createdAt": "2026-07-04T10:31:43.000Z",
-    "updatedAt": "2026-07-04T23:37:38Z"
-  },
-  {
-    "id": 445,
-    "seccion": "protestas_int",
-    "pais": "Reino Unido",
-    "bandera": "🇬🇧",
-    "hora": "13:00",
-    "fecha": "2026-07-04",
-    "lugar": "Aneurin Bevan Statue, Queen Street, Cardiff, Gales",
-    "tipoAccion": "marcha",
-    "organizaciones": [
-      "Cardiff Stop the War Coalition",
-      "Coalición de organizaciones por la paz, pro-Palestina, sindicales, religiosas y comunitarias"
-    ],
-    "motivo": "Marcha en Cardiff conmemorando los '1.000 días de genocidio' en Gaza. Manifestación con discursos de palestinos galeses, trabajadores humanitarios que participaron en la Flotilla Gaza Sumud, y Emma Kamio, madre de la activista de Palestine Action Ellie Kamio (condenada a 6 años de prisión por acción directa contra empresa armamentística). Exigen el fin del genocidio en Gaza, el cese de la complicidad británica con Israel, y la adopción de sanciones y boicot al gobierno israelí.",
-    "status": "en_curso",
-    "lat": "51.4816",
-    "lng": "-3.1791",
-    "fuentes": [
-      {
-        "nombre": "Nation.Cymru - 1,000 Days of Genocide march Cardiff July 4",
-        "url": "https://nation.cymru/news/1000-days-of-genocide-march-planned-for-wales-capital/"
-      }
-    ],
-    "createdAt": "2026-07-04T10:31:43.000Z",
-    "updatedAt": "2026-07-04T23:37:38Z"
+    "updatedAt": "2026-07-05T02:58:08Z"
   },
   {
     "id": 446,
@@ -584,7 +170,7 @@
     "pais": "Corea del Sur",
     "bandera": "🇰🇷",
     "hora": "00:00",
-    "fecha": "2026-07-04",
+    "fecha": "2026-07-05",
     "lugar": "Olympic Park Handball Gymnasium, Songpa-gu, Seúl",
     "tipoAccion": "protesta",
     "organizaciones": [
@@ -592,7 +178,7 @@
       "Partido del Poder Popular (oposición)",
       "Asociación de Elecciones Limpias"
     ],
-    "motivo": "Continúa por día 30 la protesta ciudadana contra la escasez de papeletas electorales que afectó las elecciones locales del 3 de junio. Los manifestantes bloquean el acceso al gimnasio Olímpico que alberga urnas y votos (380 urnas, 2,47 millones de votos), exigiendo una repetición electoral. El 2 de julio, tras 27 días de bloqueo, una comisión parlamentaria ingresó con protección policial. Más de 2.000 policías desplegados. La protesta continúa exigiendo una investigación independiente con fiscales especiales y nuevas elecciones. El perfil demográfico de los manifestantes está envejeciendo a medida que aumentan las cancelaciones y los costos.",
+    "motivo": "Cumple un mes la protesta ciudadana contra la escasez de papeletas electorales que afectó las elecciones locales del 3 de junio. Los manifestantes bloquean el acceso al gimnasio Olímpico que alberga urnas y votos (380 urnas, 2,47 millones de votos), exigiendo una repetición electoral. El 2 de julio, tras 27 días de bloqueo, una comisión parlamentaria ingresó con protección policial. La protesta continúa exigiendo una investigación independiente con fiscales especiales y nuevas elecciones. El perfil demográfico de los manifestantes está envejeciendo a medida que aumentan las cancelaciones y los costos. El 4 de julio la policía reportó 2.000 efectivos desplegados.",
     "status": "en_curso",
     "lat": "37.5153",
     "lng": "127.1074",
@@ -608,61 +194,14 @@
       {
         "nombre": "Korea JoongAng Daily - Lawmakers enter vote-counting center after blockade",
         "url": "https://www.koreajoangdaily.com/korea/lawmakers-finally-inspect-seoul-votecounting-center-after-27day-blockade/12752608"
-      }
-    ],
-    "createdAt": "2026-07-04T10:31:43.000Z",
-    "updatedAt": "2026-07-04T23:37:38Z"
-  },
-  {
-    "id": 447,
-    "seccion": "protestas_int",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "00:00",
-    "fecha": "2026-07-04",
-    "lugar": "Línea TGV Atlántico, con epicentro en Toulouse-Matabiau y depósitos en Angoulême, Tarbes, Le Mans, Hendaye",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "Intersindical de la SNCF (CGT, SUD-Rail, Unsa-Ferroviaire)"
-    ],
-    "motivo": "Huelga de conductores del TGV Atlántico de la SNCF por seguridad ferroviaria, condiciones laborales y defensa del servicio público ferroviario. La huelga comenzó el 22 de mayo y continúa los fines de semana. Exigen mejoras en seguridad (denuncian riesgos por fallos de material rodante y condiciones peligrosas), fin del deterioro de condiciones laborales (jornadas extendidas, planificación cambiante, aumento de carga de trabajo), y la reapertura de depósitos de conductores amenazados de cierre (Angoulême, Tarbes, Le Mans, Hendaye). Graves perturbaciones en el primer fin de semana de vacaciones de verano. La dirección de SNCF Voyageurs es acusada de 'oídos sordos' ante las alertas de los agentes.",
-    "status": "en_curso",
-    "lat": "43.6047",
-    "lng": "1.4442",
-    "fuentes": [
+      },
       {
-        "nombre": "La Depeche - Grève des cheminots TGV Atlantique 3-4 juillet 2026",
-        "url": "https://www.ladepeche.fr/2026/07/01/greve-des-cheminots-dans-les-tgv-menaces-sur-les-premiers-departs-en-vacances-a-matabiau-ce-week-end-13447826.php"
+        "nombre": "Money Today - Jamsil protest blockade one month July 5",
+        "url": "https://www.mt.co.kr/society/2026/07/05/2026070307502054206"
       }
     ],
     "createdAt": "2026-07-04T10:31:43.000Z",
-    "updatedAt": "2026-07-04T23:37:38Z"
-  },
-  {
-    "id": 448,
-    "seccion": "protestas_int",
-    "pais": "Australia",
-    "bandera": "🇦🇺",
-    "hora": "11:30",
-    "fecha": "2026-07-04",
-    "lugar": "Escaleras del Parliament House, Melbourne, Victoria",
-    "tipoAccion": "contraprotesta",
-    "organizaciones": [
-      "Trans Queer Solidarity",
-      "Trans Action Network"
-    ],
-    "motivo": "Contraprotesta 'SMASH TRANSPHOBIA! FIGHT FOR TRANS LIBERATION!' en Melbourne contra una manifestación de grupos transfóbicos de extrema derecha convocada el mismo día. Los manifestantes defienden los derechos de las personas trans y de género diverso frente a los ataques coordinados de una coalición transfóbica que incluye a 'feministas' radicales, One Nation y seguidores de Trump. La contraprotesta responde a la reciente decisión judicial en el caso Giggle v. Tickle y los intentos de modificar las leyes de antidiscriminación. Exigen el fin de la transfobia y la defensa de la igualdad de género.",
-    "status": "en_curso",
-    "lat": "-37.8136",
-    "lng": "144.9631",
-    "fuentes": [
-      {
-        "nombre": "Star Observer - Counter-protests respond to planned anti-trans rallies July 4",
-        "url": "https://www.starobserver.com.au/news/sda-counter-protests/242437"
-      }
-    ],
-    "createdAt": "2026-07-04T10:31:43.000Z",
-    "updatedAt": "2026-07-04T23:37:38Z"
+    "updatedAt": "2026-07-05T02:58:08Z"
   },
   {
     "id": 449,
@@ -670,15 +209,16 @@
     "pais": "India",
     "bandera": "🇮🇳",
     "hora": "00:00",
-    "fecha": "2026-07-04",
+    "fecha": "2026-07-05",
     "lugar": "Jantar Mantar, Nueva Delhi",
     "tipoAccion": "protesta",
     "organizaciones": [
       "Cockroach Janta Party (CJP)",
       "Sonam Wangchuk (activista climático)",
-      "All India Students' Association (AISA)"
+      "All India Students' Association (AISA)",
+      "Samyukt Kisan Morcha (SKM)"
     ],
-    "motivo": "Día 15 de la protesta del Cockroach Janta Party (CJP) en Jantar Mantar, Delhi, exigiendo la renuncia del Ministro de Educación Dharmendra Pradhan por irregularidades en exámenes nacionales (filtración del examen NEET). El activista Sonam Wangchuk continúa en huelga de hambre por séptimo día consecutivo, habiendo perdido 5 kg y con salud deteriorada bajo supervisión médica. Seis estudiantes de AISA también en huelga de hambre. El movimiento exige rendición de cuentas, transparencia en el sistema educativo y reformas institucionales. Apoyado por líderes políticos (CPI-M, CPI, CPI-ML), activistas (Yogendra Yadav, Prashant Bhushan), agricultores y organizaciones civiles de toda India.",
+    "motivo": "Día 16 de la protesta del Cockroach Janta Party (CJP) en Jantar Mantar, Delhi. El día 15 (4 de julio) el activista Sonam Wangchuk continuaba en huelga de hambre por séptimo día consecutivo, habiendo perdido 5 kg con salud deteriorada bajo supervisión médica. Seis estudiantes de AISA también en huelga de hambre. El Samyukt Kisan Morcha (SKM) anunció que una delegación se uniría a la protesta el 5 de julio. El movimiento exige la renuncia del Ministro de Educación Dharmendra Pradhan por irregularidades en exámenes nacionales (filtración del examen NEET), rendición de cuentas, transparencia en el sistema educativo y reformas institucionales.",
     "status": "en_curso",
     "lat": "28.6278",
     "lng": "77.2167",
@@ -690,98 +230,252 @@
       {
         "nombre": "New Indian Express - Wangchuk day 7 hunger strike July 4 2026",
         "url": "https://www.newindianexpress.com/india/2026/Jul/04/wangchuk-enters-7th-day-of-hunger-strike-cjp-says-activist-has-lost-5kg-as-health-deteriorates"
+      },
+      {
+        "nombre": "Deccan Herald - SKM delegation to join CJP protest Jantar Mantar July 5",
+        "url": "https://www.deccanherald.com/india/delhi/skm-delegation-to-join-cjp-protest-at-jantar-mantar-on-july-5-4062068"
       }
     ],
     "createdAt": "2026-07-04T12:05:25.000Z",
-    "updatedAt": "2026-07-04T23:37:38Z"
+    "updatedAt": "2026-07-05T02:58:08Z"
   },
   {
-    "id": 450,
+    "id": 464,
     "seccion": "protestas_int",
-    "pais": "Filipinas",
-    "bandera": "🇵🇭",
-    "hora": "09:00",
-    "fecha": "2026-07-04",
-    "lugar": "Kalaw Avenue, frente a la Embajada de EE.UU., Manila",
+    "pais": "Cachemira bajo ocupación pakistaní (PoK)",
+    "bandera": "🇮🇳",
+    "hora": "00:00",
+    "fecha": "2026-07-05",
+    "lugar": "Múltiples localidades en PoK: Rawalakot, Muzaffarabad, Mirpur, Kotli y otras ciudades; así como manifestaciones globales de la diáspora cachemira",
     "tipoAccion": "protesta",
     "organizaciones": [
-      "Bagong Alyansang Makabayan (BAYAN)",
-      "Activistas progresistas filipinos"
+      "Joint Awami Action Committee (JAAC)",
+      "Sardar Amman Khan (líder JAAC)",
+      "Jammu Kashmir Joint Awami Action Committee (JKAMMC)",
+      "Diáspora cachemira global"
     ],
-    "motivo": "Protesta en el Día de la Amistad Filipino-Estadounidense (80° aniversario) contra la expansión de la presencia militar estadounidense en Filipinas y la iniciativa Pax Silica. Los manifestantes denuncian los sitios EDCA (Acuerdo de Cooperación de Defensa Mejorada), la creciente intervención de EE.UU. en asuntos filipinos, y el proyecto Pax Silica que busca establecer una zona económica de seguridad en New Clark City, Pampanga, al que califican de 'producción de guerra disfrazada de desarrollo'. Exigen el fin de la impunidad estadounidense y el respeto a la soberanía filipina.",
+    "motivo": "Jornada de protestas masivas convocadas por JAAC en Cachemira bajo ocupación pakistaní (PoK) contra la brutal represión del gobierno pakistaní, que ha dejado decenas de muertos. El movimiento, que cumple 25 días, exige el fin de la represión, el levantamiento del bloqueo y el toque de queda, y 38 demandas clave que incluyen derechos humanos básicos. Sardar Amman Khan llamó a la diáspora global a sumarse. Pakistán designó al JAAC como 'organización terrorista'. La movilización del 4 de julio en Rawalakot congregó a más de 80.000 personas. Los líderes advierten que si no se cumplen las demandas, el movimiento evolucionará hacia un llamado a la retirada total de Pakistán de la región.",
     "status": "en_curso",
-    "lat": "14.5790",
-    "lng": "120.9763",
+    "lat": "33.6000",
+    "lng": "73.6000",
     "fuentes": [
       {
-        "nombre": "Daily Tribune - Philippine-US Friendship Day protest 4 July 2026",
-        "url": "https://tribune.net.ph/2026/07/04/philippine-us-friendship-day-protest"
+        "nombre": "IANS - Civil society group PoK plans July 5 protests",
+        "url": "https://ianslive.in/civil-society-group-in-pok-plans-july-5-protests-amid-mounting-unrest--20260703123821"
       },
       {
-        "nombre": "Manila Bulletin - Protesters halt traffic along Kalaw Avenue on PH–US Friendship Day",
-        "url": "https://mb.com.ph/2026/07/04/protesters-halt-traffic-along-kalaw-avenue-on-phus-friendship-day"
-      }
-    ],
-    "createdAt": "2026-07-04T14:08:22.000Z",
-    "updatedAt": "2026-07-04T23:37:38Z"
-  },
-  {
-    "id": 453,
-    "seccion": "protestas_int",
-    "pais": "Canadá",
-    "bandera": "🇨🇦",
-    "hora": "11:00",
-    "fecha": "2026-07-04",
-    "lugar": "Kitchener Market, 300 King St E, Kitchener, Ontario (también vigilias semanales pro-Palestina en otras ciudades canadienses)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "World BEYOND War",
-      "CODEPINK",
-      "Grupos comunitarios pro-paz"
-    ],
-    "motivo": "Vigilia semanal 'Grief Walk' en Kitchener, Ontario, expresando duelo por las víctimas del genocidio en Gaza y exigiendo un alto el fuego permanente. Caminata semanal cada sábado de 11:00 a 12:00 desde Kitchener Market por el centro de la ciudad. Forma parte de las movilizaciones globales por Palestina que ocurren cada fin de semana en Canadá.",
-    "status": "en_curso",
-    "lat": "43.4514",
-    "lng": "-80.4925",
-    "fuentes": [
+        "nombre": "Times Now - PoK erupts again worldwide protest July 5",
+        "url": "https://www.timesnownews.com/world/asia/pok-protests-july-5-pakistan-crackdown-jaac-call-for-demonstrations-article-154944953"
+      },
       {
-        "nombre": "World BEYOND War - Weekly Demonstration Grief Walk July 4",
-        "url": "https://events.worldbeyondwar.org/event/weekly-demonstration-grief-walk/2026-07-04/"
+        "nombre": "Times of India - PoJK leader seeks support July 5 protest",
+        "url": "https://timesofindia.indiatimes.com/india/cruelty-at-its-peak-pojk-leader-seeks-support-of-indians-in-protest-against-pakistan/articleshow/132178532.cms"
       }
     ],
-    "createdAt": "2026-07-04T17:01:25.000Z",
-    "updatedAt": "2026-07-04T23:37:38Z"
+    "createdAt": "2026-07-05T02:50:38.000Z",
+    "updatedAt": "2026-07-05T02:58:08Z"
   },
   {
-    "id": 454,
+    "id": 465,
     "seccion": "protestas_int",
-    "pais": "Nueva Zelanda",
-    "bandera": "🇳🇿",
+    "pais": "España",
+    "bandera": "🇪🇸",
     "hora": "12:00",
-    "fecha": "2026-07-04",
-    "lugar": "Consulado de EE.UU., Auckland central (Tāmaki Makaurau)",
+    "fecha": "2026-07-05",
+    "lugar": "Playa Es Trenc, Mallorca, Islas Baleares",
     "tipoAccion": "protesta",
     "organizaciones": [
-      "Palestine Solidarity Network Aotearoa (PSNA)",
-      "BAYAN Aotearoa New Zealand",
-      "Americans Abroad Against the War"
+      "GOB (Grupo de Ornitología Balear)",
+      "Terraferida",
+      "Menys Turisme, Més Vida (Menos Turismo, Más Vida)"
     ],
-    "motivo": "Protesta 'US Invasion Day' en el 250 aniversario de la independencia de EE.UU. y 144ª semana consecutiva de movilizaciones pro-Palestina en Auckland. Manifestantes denuncian las guerras de EE.UU. en Afganistán, Irak, Irán y Palestina bajo el lema 'la libertad estadounidense construida sobre los huesos de los colonizados'. Oradores incluyeron a Amena Motawaze (refugiada afgana), Eugene Velasco (BAYAN), Adnan Swaid (activista palestino), Sapna Samant (activista india), Diana Phillips (Americans Abroad Against the War) y Dr. Barry Lee. Se exhibieron zapatos de niños en memoria de las 168 niñas asesinadas en Minab (Irán).",
+    "motivo": "Cadena humana en la playa de Es Trenc contra la reducción del nivel de protección del Parque Natural de Es Trenc-Es Salobrar. Los ecologistas denuncian que el Govern Balear pretende desproteger el parque mediante una ley ómnibus que permitiría modificar el plan de gestión por decreto sin debate parlamentario. La protesta se realiza bajo el lema 'Ni antes, ni ahora, ni nunca'. El Govern de Marga Prohens niega tener intención de desproteger el espacio natural. Es Trenc es uno de los humedales y playas vírgenes más importantes de Mallorca.",
     "status": "en_curso",
-    "lat": "-36.8485",
-    "lng": "174.7633",
+    "lat": "39.3500",
+    "lng": "2.9833",
     "fuentes": [
       {
-        "nombre": "Radio Free - July 4th anniversary NZ rally 2026",
-        "url": "https://www.radiofree.org/2026/07/04/july-4th-anniversary-speakers-at-nz-rally-slam-american-freedom-built-on-bones-of-colonised/"
-      },
-      {
-        "nombre": "Asia Pacific Report - NZ US Invasion Day protest July 4 2026",
-        "url": "https://www.asiapacificreport.nz/2026/07/04/july-4th-anniversary-speakers-at-nz-rally-slam-american-freedom-built-on-bones-of-colonised/"
+        "nombre": "Majorca Daily Bulletin - Human chain protest Es Trenc July 5",
+        "url": "https://www.majorcadailybulletin.com/news/local/2026/07/04/143755/the-human-chain-protest-protect-one-mallorca-most-important-natural-spaces.html"
       }
     ],
-    "createdAt": "2026-07-04T18:30:48.000Z",
-    "updatedAt": "2026-07-04T23:37:38Z"
+    "createdAt": "2026-07-05T02:50:38.000Z",
+    "updatedAt": "2026-07-05T02:58:08Z"
+  },
+  {
+    "id": 466,
+    "seccion": "protestas_int",
+    "pais": "España",
+    "bandera": "🇪🇸",
+    "hora": "17:00",
+    "fecha": "2026-07-05",
+    "lugar": "Ayuntamiento de Dénia, Alicante, Comunidad Valenciana",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Dénia Animal Save",
+      "Colectivos antiespecistas"
+    ],
+    "motivo": "Manifestación anual contra los 'Bous a la Mar' de Dénia, tradición taurina que consiste en lanzar toros y vaquillas al mar. Los activistas exigen la abolición inmediata de esta y todas las celebraciones que usan animales. Denuncian tortura, sufrimiento animal y gasto público. El rapero alicantino Arkano entregó casi 70.000 firmas al Ayuntamiento pidiendo el fin de los 'Bous a la Mar'. El gobierno local redujo las sesiones a la mitad pero los activistas consideran la medida insuficiente. El nuevo alcalde Rafa Carrió (Compromís) es instado a abolir los festejos taurinos.",
+    "status": "en_curso",
+    "lat": "38.8400",
+    "lng": "0.1100",
+    "fuentes": [
+      {
+        "nombre": "La Protesta - Manifestación contra Bous a la Mar Dénia 5 julio",
+        "url": "https://laprotesta.es/2026/07/05/convocan-una-nueva-manifestacion-contra-los-bous-a-la-mar-de-denia/"
+      }
+    ],
+    "createdAt": "2026-07-05T02:50:38.000Z",
+    "updatedAt": "2026-07-05T02:58:08Z"
+  },
+  {
+    "id": 467,
+    "seccion": "protestas_int",
+    "pais": "España",
+    "bandera": "🇪🇸",
+    "hora": "11:00",
+    "fecha": "2026-07-05",
+    "lugar": "Plaza Consistorial (frente al Ayuntamiento), Pamplona, Navarra",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "AnimaNaturalis",
+      "PETA"
+    ],
+    "motivo": "Concentración antitaurina en la víspera del primer encierro de San Fermín bajo el lema 'Tauromaquia es Pecado'. Más de un centenar de activistas denuncian que la Casa de la Misericordia, fundación religiosa que gestiona la Plaza de Toros de Pamplona, se lucra con el sufrimiento animal. Exigen el fin de las corridas de toros y de la financiación pública de la tauromaquia en Navarra. Critican que una institución católica dedicada a la beneficencia sea responsable de organizar espectáculos basados en la muerte de animales.",
+    "status": "en_curso",
+    "lat": "42.8167",
+    "lng": "-1.6500",
+    "fuentes": [
+      {
+        "nombre": "La Protesta - Antitaurinos San Fermín 5 julio 2026",
+        "url": "https://laprotesta.es/2026/07/05/antitaurinos-denuncian-que-la-tauromaquia-es-pecado-en-visperas-de-las-fiestas-de-san-fermin-en-pamplona-y-acusan-a-la-iglesia-de-hacer-caja-con-el-sufrimiento-animal/"
+      }
+    ],
+    "createdAt": "2026-07-05T02:50:38.000Z",
+    "updatedAt": "2026-07-05T02:58:08Z"
+  },
+  {
+    "id": 468,
+    "seccion": "protestas_int",
+    "pais": "Chile",
+    "bandera": "🇨🇱",
+    "hora": "12:00",
+    "fecha": "2026-07-05",
+    "lugar": "Plaza Baquedano (Plaza Dignidad), Santiago (y 9 ciudades más: Copiapó, La Serena, Viña del Mar, Rancagua, Concepción, Talca, Temuco, Valdivia, Puerto Montt)",
+    "tipoAccion": "marcha",
+    "organizaciones": [
+      "ARMY Chile (comunidad de seguidores de BTS)",
+      "Alianza de fanbases locales"
+    ],
+    "motivo": "Marcha nacional 'BTS al Nacional' convocada por la comunidad ARMY Chile en 10 ciudades del país para exigir transparencia respecto a la gestión y viabilidad técnica de un eventual concierto de BTS en el Estadio Nacional de Santiago. Los fans denuncian falta de información por parte de las productoras y exigen respuestas. La protesta en Santiago parte desde Plaza Baquedano (Plaza Dignidad) hacia La Moneda a las 12:30. Réplicas en Copiapó, La Serena, Viña del Mar, Rancagua, Concepción, Talca, Temuco, Valdivia y Puerto Montt. Las movilizaciones se declaran estrictamente pacíficas.",
+    "status": "en_curso",
+    "lat": "-33.4378",
+    "lng": "-70.6504",
+    "fuentes": [
+      {
+        "nombre": "24horas - ARMY Chile marcha nacional 5 julio 2026",
+        "url": "https://www.24horas.cl/actualidad/nacional/fanaticos-bts-army-convocan-marcha-nacional-domingo-5-julio"
+      },
+      {
+        "nombre": "T13 - Fanáticos BTS convocan marcha nacional 5 julio",
+        "url": "https://www.t13.cl/amp/noticia/nacional/fanaticos-bts-convocan-marcha-nacional-este-domingo-revisa-las-ciudades-horario-4-7-2026"
+      }
+    ],
+    "createdAt": "2026-07-05T02:50:38.000Z",
+    "updatedAt": "2026-07-05T02:58:08Z"
+  },
+  {
+    "id": 469,
+    "seccion": "protestas_int",
+    "pais": "Italia",
+    "bandera": "🇮🇹",
+    "hora": "00:00",
+    "fecha": "2026-07-05",
+    "lugar": "Aeropuertos de toda Italia: Milán Malpensa, Roma Fiumicino, Roma Ciampino, Catania Fontanarossa y otros",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "CUB Trasporti",
+      "FILT-CGIL",
+      "FIT-CISL",
+      "UILTRASPORTI",
+      "ENAV (controladores aéreos)",
+      "ADR Security"
+    ],
+    "motivo": "Huelga nacional de 24 horas en el sector del transporte aéreo en Italia que afecta a tripulaciones de easyJet, personal de handling, controladores aéreos (ENAV en Malpensa) y seguridad aeroportuaria (ADR en Roma). Jornada de máxima afectación con cancelaciones y retrasos en toda la red. Franjas protegidas de 07:00-10:00 y 18:00-21:00. La huelga es convocada por CUB Trasporti y respaldada por múltiples sindicatos del sector. Se esperan graves perturbaciones en vuelos nacionales e internacionales.",
+    "status": "en_curso",
+    "lat": "41.8003",
+    "lng": "12.2389",
+    "fuentes": [
+      {
+        "nombre": "FIRSTonline - Airline strike July 5 Italy",
+        "url": "https://www.firstonline.info/en/Airline-strike-July-5--2026-at-risk-flights-throughout-Italy--easyJet-among-the-hardest-hit.-Here-are-the-guaranteed-times-and-slots./"
+      },
+      {
+        "nombre": "AirHelp - Italy 5 July flight strikes",
+        "url": "https://www.airhelp.com/en/flight-disruptions/italy-airport-strikes-malpensa-rome-catania-05072026/"
+      },
+      {
+        "nombre": "StrikeTracker - Italy CUB Trasporti strike July 5 2026",
+        "url": "https://striketracker.app/strikes-in-italy/transport-strike-italy-5-july-2026"
+      },
+      {
+        "nombre": "InTrieste - Nationwide aviation strikes Italy July 5",
+        "url": "https://intrieste.com/2026/07/04/nationwide-aviation-strikes-expected-to-disrupt-air-travel-across-italy-on-july-5/"
+      }
+    ],
+    "createdAt": "2026-07-05T02:50:38.000Z",
+    "updatedAt": "2026-07-05T02:58:08Z"
+  },
+  {
+    "id": 470,
+    "seccion": "protestas_int",
+    "pais": "Italia",
+    "bandera": "🇮🇹",
+    "hora": "11:00",
+    "fecha": "2026-07-05",
+    "lugar": "Giardini della Biennale, Venecia",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Pussy Riot",
+      "FEMEN"
+    ],
+    "motivo": "Protesta conjunta de Pussy Riot y FEMEN durante la inauguración de la Bienal de Venecia contra la participación de Rusia en la exposición. Los activistas mostraron pancartas con 'Blood is Russia's art' y exigieron un boicot cultural total a eventos patrocinados por el Estado ruso hasta el fin de la guerra en Ucrania. Miembros de FEMEN protestaron con el torso desnudo con lemas pintados y fueron retirados por la policía italiana. Pussy Riot denuncia que el pabellón ruso intenta blanquear la agresión militar del Kremlin contra Ucrania. La Bienal de Venecia perdió 2 millones de euros en financiación de la UE por la inclusión de Rusia.",
+    "status": "en_curso",
+    "lat": "45.4283",
+    "lng": "12.3572",
+    "fuentes": [
+      {
+        "nombre": "European Pulse - Pussy Riot FEMEN protest Venice Biennale July 5 2026",
+        "url": "https://europeanpulse.com/pussy-riot-and-femen-protest-russia-s-venice-biennale-return-amid-ukraine-war"
+      }
+    ],
+    "createdAt": "2026-07-05T02:50:38.000Z",
+    "updatedAt": "2026-07-05T02:58:08Z"
+  },
+  {
+    "id": 471,
+    "seccion": "protestas_int",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "11:00",
+    "fecha": "2026-07-05",
+    "lugar": "West 80th Ave. & Wadsworth Blvd., Arvada, Colorado",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Indivisible"
+    ],
+    "motivo": "Protesta semanal 'Ice Out for Good' del grupo Indivisible en Arvada, Colorado, contra las políticas migratorias del presidente Donald Trump y las redadas del ICE. Manifestación semanal cada domingo exigiendo el fin de las deportaciones masivas y la protección de las comunidades inmigrantes. Forma parte de las movilizaciones continuas contra las políticas del gobierno de Trump en todo Estados Unidos.",
+    "status": "en_curso",
+    "lat": "39.8000",
+    "lng": "-105.0800",
+    "fuentes": [
+      {
+        "nombre": "Colorado Times Recorder - Indivisible Ice Out for Good July 5",
+        "url": "https://coloradotimesrecorder.com/2026/07/in-the-streets-we-are-america-and-other-political-events/80039/"
+      }
+    ],
+    "createdAt": "2026-07-05T02:50:38.000Z",
+    "updatedAt": "2026-07-05T02:58:08Z"
   },
   {
     "id": 390,
@@ -789,13 +483,13 @@
     "pais": "Argentina",
     "bandera": "🇦🇷",
     "hora": "00:00",
-    "fecha": "2026-07-04",
+    "fecha": "2026-07-05",
     "lugar": "Yacimientos petroleros en Río Grande y cruce Cholila, Tierra del Fuego",
     "tipoAccion": "huelga",
     "organizaciones": [
       "Sindicato de Petróleo y Gas Privado de Tierra del Fuego"
     ],
-    "motivo": "Paro por tiempo indeterminado contra las operadoras Velitec y Terra Ignis por incumplimiento del acuerdo de incorporación de 260 trabajadores tras la salida de YPF de Tierra del Fuego. Solo 43 de los 260 trabajadores comprometidos fueron incorporados. Exigen la reincorporación de los 217 trabajadores restantes, el pago de salarios y aguinaldos adeudados, y garantías de operación normal de los yacimientos. El gremio ratificó que la medida de fuerza continuará hasta que se cumplan los acuerdos. El paro continúa vigente por tiempo indeterminado.",
+    "motivo": "Continúa el paro por tiempo indeterminado contra las operadoras Velitec y Terra Ignis por incumplimiento del acuerdo de incorporación de 260 trabajadores tras la salida de YPF de Tierra del Fuego. Solo 43 de los 260 trabajadores comprometidos fueron incorporados. Exigen la reincorporación de los 217 trabajadores restantes, el pago de salarios y aguinaldos adeudados, y garantías de operación normal de los yacimientos. La planta San Sebastián está al borde del colapso con una sola turbina operativa. El gremio ratificó que la medida de fuerza continuará hasta que se cumplan los acuerdos.",
     "status": "en_curso",
     "lat": "-53.7860",
     "lng": "-67.6995",
@@ -813,8 +507,8 @@
         "url": "https://www.provincia23.com.ar/2026/07/02/sosa-denuncio-que-velitec-solo-incorporo-a-43-de-los-260-trabajadores-comprometidos/"
       },
       {
-        "nombre": "Boca de Pozo - Conflicto petrolero TDF: paro total, acusaciones, derrames (2 julio 2026)",
-        "url": "https://bocadepozo.com.ar/2026/07/02/conflicto-petrolero-en-tdf-paro-total-graves-acusaciones-de-castillo-al-gremio-derrames-de-petroleo-y-riesgo-en-el-suministro-de-gas/"
+        "nombre": "Boca de Pozo - Exclusivo TDF: Paro petrolero indefinido (1 julio 2026)",
+        "url": "https://bocadepozo.com.ar/2026/07/01/exclusivo-tdf-paro-petrolero-indefinido-en-por-los-incumplimientos-de-terra-ignis-y-velitec-que-solo-incorporaron-43-de-los-260-trabajadores/"
       },
       {
         "nombre": "Gremiales del Sur - Petroleros TDF con medidas de fuerza (2 julio 2026)",
@@ -822,7 +516,7 @@
       }
     ],
     "createdAt": "2026-07-02T16:07:18.000Z",
-    "updatedAt": "2026-07-04T23:37:38Z"
+    "updatedAt": "2026-07-05T02:58:08Z"
   },
   {
     "id": 422,
@@ -830,19 +524,23 @@
     "pais": "Argentina",
     "bandera": "🇦🇷",
     "hora": "12:00",
-    "fecha": "2026-07-04",
+    "fecha": "2026-07-05",
     "lugar": "Centro Atómico Bariloche, Av. Bustillo km 9,5, Bariloche, Río Negro (y sedes CNEA en CABA, San Rafael, Trelew y Córdoba)",
     "tipoAccion": "protesta",
     "organizaciones": [
       "ATE (Asociación de Trabajadores del Estado)"
     ],
-    "motivo": "Protestas de trabajadores de la Comisión Nacional de Energía Atómica (CNEA) nucleados en ATE contra el despido de 170 trabajadores contratados en todo el país (62 solo en Bariloche) y la reducción de la estructura de 645 a 272 cargos. Denuncian un plan de vaciamiento y privatización del organismo nuclear argentino. Exigen la reincorporación de todos los despedidos, el pago de salarios adeudados y la continuidad de proyectos estratégicos como el reactor CAREM. Las protestas incluyen cortes intermitentes de tránsito en la Av. Bustillo. Réplicas en CABA, San Rafael (Mendoza), Trelew y Córdoba. Los trabajadores declararon estado de alerta, asamblea y movilización permanente.",
+    "motivo": "Continúan las protestas de trabajadores de la Comisión Nacional de Energía Atómica (CNEA) nucleados en ATE contra el despido de 170 trabajadores contratados en todo el país (62 solo en Bariloche) y la reducción de la estructura de 645 a 272 cargos. Denuncian un plan de vaciamiento y privatización del organismo nuclear argentino. Exigen la reincorporación de todos los despedidos, el pago de salarios adeudados y la continuidad de proyectos estratégicos como el reactor CAREM. Las protestas incluyen cortes intermitentes de tránsito en la Av. Bustillo. Réplicas en CABA, San Rafael (Mendoza), Trelew y Córdoba. Los trabajadores declararon estado de alerta, asamblea y movilización permanente. ATE analiza convocar a un paro nacional.",
     "status": "en_curso",
     "lat": "-41.1331",
     "lng": "-71.3103",
     "fuentes": [
       {
-        "nombre": "Bache3000 - Sigue la protesta trabajadores cesanteados CNEA (3 julio 2026)",
+        "nombre": "Infoestación - Conflicto CNEA: despidos y protestas vigentes (3 julio 2026)",
+        "url": "https://www.infoestacion.com.ar/conflicto-en-la-cnea-despidos-y-protestas-enfrentan-al-gobierno-y-trabajadore/"
+      },
+      {
+        "nombre": "Bache3000 - Sigue la protesta de trabajadores cesanteados CNEA (3 julio 2026)",
         "url": "https://baribache3000.com.ar/nota/5182/sigue-la-protesta-de-trabajadores-cesanteados-en-la-cnea/"
       },
       {
@@ -866,379 +564,11 @@
         "url": "https://www.nodal.am/2026/07/argentina-las-fuerzas-de-seguridad-reprimieron-una-protesta-de-cientificos-e-investigadores/"
       },
       {
-        "nombre": "Bache3000 - Sigue la protesta trabajadores cesanteados CNEA Bariloche (3 julio 2026)",
-        "url": "https://baribache3000.com.ar/nota/5182/sigue-la-protesta-de-trabajadores-cesanteados-en-la-cnea/"
-      },
-      {
         "nombre": "InfoBariloche - CNEA Bariloche alerta y movilización permanente (1 julio 2026)",
         "url": "https://infobariloche.com.ar/sociedad/19-bariloche/36097-trabajadores-de-la-cnea-bariloche-declaran-estado-de-alerta-y-movilizacion-permanente.html"
       }
     ],
     "createdAt": "2026-07-03T15:57:09.000Z",
-    "updatedAt": "2026-07-04T23:37:38Z"
-  },
-  {
-    "id": 451,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "15:00",
-    "fecha": "2026-07-04",
-    "lugar": "Federación Argentina de Box, Castro Barros 75, CABA",
-    "tipoAccion": "acto",
-    "organizaciones": [
-      "CTA-A",
-      "CTA-T",
-      "ATE",
-      "Movimiento Popular La Dignidad",
-      "FATPREN",
-      "Unión de Residentes Cubanos en Argentina",
-      "La Cámpora",
-      "Movimiento Evita",
-      "Patria Grande",
-      "Partido Comunista",
-      "APDH",
-      "Liga Argentina por los Derechos Humanos",
-      "La Neurona Rebelde",
-      "Jubilados Insurgentes",
-      "Movimiento Barrios de Pie",
-      "Descamisados",
-      "FETIA",
-      "Llamamiento Argentino Judío"
-    ],
-    "motivo": "Acto masivo 'Estamos con Cuba' en repudio al bloqueo económico, comercial y financiero que Estados Unidos impone a Cuba desde hace 66 años. Organizaciones políticas, sindicales, sociales y culturales se reúnen para exigir el retiro de Cuba de la lista de Estados Patrocinadores del Terrorismo y denunciar la asfixia energética y financiera profundizada por las Órdenes Ejecutivas de Donald Trump. Incluye presentación de CUA - Club Unido Antifascista y lectura de declaración conjunta. También se repudia el sometimiento del gobierno de Javier Milei a la política exterior de Washington.",
-    "status": "en_curso",
-    "lat": "-34.6118",
-    "lng": "-58.4110",
-    "fuentes": [
-      {
-        "nombre": "NODAL - Acto en defensa de Cuba 4 julio 2026 CABA",
-        "url": "https://www.nodal.am/2026/07/organizaciones-argentinas-convocan-a-un-acto-masivo-en-defensa-de-cuba-frente-al-bloqueo-genocida/"
-      },
-      {
-        "nombre": "Prensa Latina - Convocan acto en defensa de Cuba 4 julio 2026",
-        "url": "https://www.prensa-latina.cu/2026/07/03/organizaciones-argentinas-convocan-acto-en-defensa-de-cuba/"
-      }
-    ],
-    "createdAt": "2026-07-04T14:09:58.000Z",
-    "updatedAt": "2026-07-04T23:37:38Z"
-  },
-  {
-    "id": 452,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "10:00",
-    "fecha": "2026-07-04",
-    "lugar": "Sede del PAMI (Urquiza y Tucumán) y Municipalidad de Concordia, Concordia, Entre Ríos",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "ATE (Asociación de Trabajadores del Estado) Seccional Concordia",
-      "Mesa de Jubilados y Pensionados de la Plaza 25 de Mayo",
-      "Organizaciones sociales y políticas"
-    ],
-    "motivo": "Jornada de protesta en Concordia con dos ejes: (1) ATE denuncia despido de más de 100 trabajadores municipales en áreas como Seguridad Ciudadana, Salud, Tránsito, Terminal de Ómnibus y Tarjeta SUBE, y rechaza la tercerización de servicios; (2) Jubilados y pensionados del PAMI se concentraron frente a la sede local junto a ATE y organizaciones sociales para reclamar por recorte de prestaciones médicas, falta de médicos especialistas, demoras en la entrega de medicamentos y aumento del costo de los remedios. La directora de la UGL XXXIV del PAMI, Karina Bernardi, fue interpelada por los manifestantes. La protesta transcurrió de forma pacífica con intercambios de tono elevado con la directora del organismo.",
-    "status": "en_curso",
-    "lat": "-31.3920",
-    "lng": "-58.0209",
-    "fuentes": [
-      {
-        "nombre": "Agencia NOVA - Concordia: despidos y protesta PAMI 4 julio 2026",
-        "url": "https://www.agencianova.com/nota.asp?id=169503&id_tiponota=10&n=2026_7_4"
-      },
-      {
-        "nombre": "Concordia al Día - ATE denunció nueva ola de despidos municipal 4 julio 2026",
-        "url": "https://www.concordiaaldia.com.ar/2026/07/ate-denuncio-una-nueva-ola-de-despidos.html"
-      }
-    ],
-    "createdAt": "2026-07-04T15:43:27.000Z",
-    "updatedAt": "2026-07-04T23:37:38Z"
-  },
-  {
-    "id": 455,
-    "seccion": "protestas_int",
-    "pais": "Colombia",
-    "bandera": "🇨🇴",
-    "hora": "13:00",
-    "fecha": "2026-07-04",
-    "lugar": "Cerca de la Embajada de EE.UU., Bogotá (Avenida El Dorado / Calle 26, en las cercanías de la Embajada estadounidense)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Grupos sociales y políticos colombianos",
-      "Congreso de los Pueblos",
-      "Organizaciones antiimperialistas"
-    ],
-    "motivo": "Múltiples protestas anti-EE.UU. convocadas frente a la Embajada de Estados Unidos en Bogotá en el marco del 250 aniversario de la independencia de EE.UU. Los manifestantes denuncian la interferencia estadounidense en asuntos internos de Colombia, la política exterior de Donald Trump en América Latina y las amenazas de intervención militar. La Embajada de EE.UU. emitió una alerta de seguridad advirtiendo a ciudadanos estadounidenses que eviten la zona debido al potencial de violencia.",
-    "status": "en_curso",
-    "lat": "4.6392",
-    "lng": "-74.0823",
-    "fuentes": [
-      {
-        "nombre": "U.S. Embassy Bogota - Planned Anti-U.S. Protests July 4 2026",
-        "url": "https://co.usembassy.gov/u-s-embassy-bogota-planned-anti-u-s-protests-on-july-4-2026-at-1pm/"
-      }
-    ],
-    "createdAt": "2026-07-04T20:07:42.000Z",
-    "updatedAt": "2026-07-04T23:37:38Z"
-  },
-  {
-    "id": 456,
-    "seccion": "protestas_int",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
-    "hora": "10:00",
-    "fecha": "2026-07-04",
-    "lugar": "Capitolio de EE.UU., Union Station, Eastern Market y National Mall, Washington D.C.",
-    "tipoAccion": "marcha",
-    "organizaciones": [
-      "Patriot Front (grupo supremacista blanco)",
-      "Nacionalistas blancos"
-    ],
-    "motivo": "Marcha del grupo supremacista blanco Patriot Front en Washington D.C. durante las celebraciones del 250 aniversario de la independencia de EE.UU. Cientos de miembros uniformados con máscaras portando banderas confederadas y estadounidenses invertidas marcharon desde Union Station/Eastern Market hacia el Capitolio coreando 'Reclaim America'. El grupo, considerado de odio por el SPLC, ADL y GWU Program on Extremism, realizó la manifestación mientras la policía monitoreaba. La marcha se produce en paralelo a las protestas anti-Trump y los eventos oficiales del Freedom 250.",
-    "status": "en_curso",
-    "lat": "38.8899",
-    "lng": "-77.0091",
-    "fuentes": [
-      {
-        "nombre": "NYT - White Nationalists March in Washington July 4 2026",
-        "url": "https://www.nytimes.com/2026/07/04/us/white-nationalists-march-in-washington-amid-250th-anniversary-celebrations.html"
-      },
-      {
-        "nombre": "The Guardian - Neo-fascist group Patriot Front parades in DC July 4",
-        "url": "https://www.theguardian.com/us-news/2026/jul/04/neo-fascist-patriot-front-washington-dc"
-      },
-      {
-        "nombre": "USA Today - What is Patriot Front? White supremacist group July 4 DC",
-        "url": "https://www.usatoday.com/story/news/nation/2026/07/04/patriot-front-july-4-washington-dc/90802673007/"
-      },
-      {
-        "nombre": "Politico - White supremacist protest Capitol July 4 2026",
-        "url": "https://www.politico.com/news/2026/07/04/patriot-front-white-supremacist-protests-july-4-00987020"
-      },
-      {
-        "nombre": "Spectrum News - White supremacist group marches on Capitol July 4",
-        "url": "https://spectrumlocalnews.com/us/snplus/politics/2026/07/04/patriot-front-july-4-march"
-      }
-    ],
-    "createdAt": "2026-07-04T20:07:42.000Z",
-    "updatedAt": "2026-07-04T23:37:38Z"
-  },
-  {
-    "id": 457,
-    "seccion": "protestas_int",
-    "pais": "Japón",
-    "bandera": "🇯🇵",
-    "hora": "00:00",
-    "fecha": "2026-07-04",
-    "lugar": "Nago y Henoko, Okinawa (frente a la Base Aérea Futenma y zona de relleno en Henoko)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Gobierno de la Prefectura de Okinawa",
-      "Asamblea Prefectural de Okinawa",
-      "Ciudadanos de Okinawa",
-      "Movimiento contra bases militares de EE.UU."
-    ],
-    "motivo": "Masiva protesta en Okinawa contra la construcción de una nueva base militar estadounidense en Henoko (relleno sanitario) y la presencia militar de EE.UU. en la isla. Los manifestantes exigen el cierre definitivo de la Base Aérea Futenma, el fin de los accidentes militares (como el aterrizaje forzoso de un helicóptero Marine UH-1Y Venom en Nago en marzo de 2026 que interrumpió un partido de béisbol juvenil) y la reducción de la presencia militar estadounidense en Okinawa. La protesta se da en medio del continuo conflicto por el traslado de Futenma a Henoko.",
-    "status": "en_curso",
-    "lat": "26.5024",
-    "lng": "127.9423",
-    "fuentes": [
-      {
-        "nombre": "Ryukyu Shimpo - Okinawa holds mass protest rally against US base July 4 2026",
-        "url": "https://english.ryukyushimpo.jp/special-feature-okinawa-holds-mass-protest-rally-against-us-base/"
-      },
-      {
-        "nombre": "Stars and Stripes - Okinawa Assembly protests Marine helicopter landing March 2026",
-        "url": "https://www.stripes.com/branches/marine_corps/2026-03-30/okinawa-protest-marine-helicopter-baseball-21224800.html"
-      },
-      {
-        "nombre": "Japan Times - Fresh land reclamation work begins at Henoko June 2026",
-        "url": "https://www.japantimes.co.jp/news/2026/06/17/japan/landfill-start-henoko-transfer/"
-      }
-    ],
-    "createdAt": "2026-07-04T20:07:42.000Z",
-    "updatedAt": "2026-07-04T23:37:38Z"
-  },
-  {
-    "id": 461,
-    "seccion": "protestas_int",
-    "pais": "Venezuela",
-    "bandera": "🇻🇪",
-    "hora": "10:00",
-    "fecha": "2026-07-04",
-    "lugar": "Vía de acceso principal a Caraballeda, La Guaira, Venezuela",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Vecinos damnificados por el doble terremoto del 24 de junio"
-    ],
-    "motivo": "Damnificados por el doble terremoto de 7,2 y 7,5 del 24 de junio bloquearon la vía principal de acceso a Caraballeda, La Guaira, para exigir al gobierno su reubicación tras 10 días durmiendo en la calle junto a los edificios derruidos. Las autoridades calcularon que 15.000 personas se quedaron sin techo. Tras la protesta, cuatro camiones policiales trasladaron a las familias a un refugio temporal en el complejo hotelero Las Caracas.",
-    "status": "finalizada",
-    "lat": "10.6069",
-    "lng": "-66.8524",
-    "fuentes": [
-      {
-        "nombre": "LaPatilla - Protestas damnificados terremoto La Guaira 4 julio 2026",
-        "url": "https://lapatilla.com/2026/07/04/tension-y-protestas-en-la-guaira-entre-los-desalojados-por-los-terremotos-de-venezuela-fotos/"
-      },
-      {
-        "nombre": "LatinUS - Damnificados por doble sismo protestan 4 julio 2026",
-        "url": "https://latinus.us/latam/2026/7/4/damnificados-por-doble-sismo-en-venezuela-protestan-tras-10-dias-durmiendo-en-la-calle-177977.html"
-      }
-    ],
-    "createdAt": "2026-07-04T21:26:29.000Z",
-    "updatedAt": "2026-07-04T23:37:38Z"
-  },
-  {
-    "id": 462,
-    "seccion": "protestas_int",
-    "pais": "Bangladesh",
-    "bandera": "🇧🇩",
-    "hora": "00:00",
-    "fecha": "2026-07-04",
-    "lugar": "Todos los distritos y ciudades principales de Bangladesh (excluyendo Daca)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Alianza de 11 partidos liderada por Jamaat-e-Islami",
-      "Jatiya Nagorik Party (NCP)",
-      "Bangladesh Khilafat Majlish",
-      "AB Party",
-      "Jatiya Ganatantrik Party"
-    ],
-    "motivo": "Protestas y marchas nacionales en todos los distritos de Bangladesh convocadas por la alianza de 11 partidos liderada por Jamaat-e-Islami, exigiendo la implementación de la 'Carta de Julio', el veredicto del referéndum, democracia, justicia, buen gobierno y reducción de precios. Las manifestaciones se realizaron simultáneamente en todas las ciudades y distritos fuera de la capital Daca, con participación de múltiples partidos políticos y organizaciones civiles, en el marco del segundo aniversario del levantamiento de julio de 2024.",
-    "status": "en_curso",
-    "lat": "23.8103",
-    "lng": "90.4125",
-    "fuentes": [
-      {
-        "nombre": "Daily Amardesh - Protestas 11-partido alianza 4 julio 2026",
-        "url": "https://www.dailyamardesh.com/bangladesh/amdjda0e8msw2"
-      },
-      {
-        "nombre": "The Business Standard - 11-party alliance announces nationwide protest July 4",
-        "url": "https://www.tbsnews.net/bangladesh/11-party-alliance-announces-rally-als-founding-anniversary-1469646"
-      },
-      {
-        "nombre": "The Daily Star - Jamaat-led alliance calls Dhaka rally",
-        "url": "https://www.thedailystar.net/news/politics/news/jamaat-led-alliance-calls-dhaka-rally-awami-league-anniversary-tomorrow-4205271"
-      }
-    ],
-    "createdAt": "2026-07-04T21:26:29.000Z",
-    "updatedAt": "2026-07-04T23:37:38Z"
-  },
-  {
-    "id": 463,
-    "seccion": "protestas_int",
-    "pais": "Polonia",
-    "bandera": "🇵🇱",
-    "hora": "15:00",
-    "fecha": "2026-07-04",
-    "lugar": "Plaza de las Tres Cruces (Plac Trzech Krzyży) a la Tumba del Soldado Desconocido, Varsovia",
-    "tipoAccion": "marcha",
-    "organizaciones": [
-      "Fundación We Remember Volhynia (Fundacja Wołyń Pamiętamy)",
-      "Katarzyna Sokołowska (organizadora)"
-    ],
-    "motivo": "Marcha anual 'Marcha de la Memoria y Oposición al Banderismo' organizada por la fundación ultranacionalista We Remember Volhynia en Varsovia, conmemorando a las víctimas polacas de la masacre de Volhynia (1943-1945). Los manifestantes portaron pancartas con 'genocidio ucraniano del pueblo polaco' y camisetas con 'Bandera nunca será mi hermano'. Analistas de seguridad señalan que la marcha sirve a los intereses rusos de dividir a Polonia y Ucrania, desviando la atención de los crímenes de guerra rusos actuales. Exigen exhumar víctimas polacas, prohibir la propaganda del banderismo en Polonia y nombrar un lugar en Varsovia en homenaje a los polacos asesinados por ucranianos entre 1939-1947.",
-    "status": "en_curso",
-    "lat": "52.2297",
-    "lng": "21.0122",
-    "fuentes": [
-      {
-        "nombre": "24 Brussels - Polish right-wing anti-Ukrainian march July 4",
-        "url": "https://24brussels.online/politics/polish-right-wing-foundation-plans-anti-ukrainian-march-in-warsaw-analysts-see-russian-influence/"
-      },
-      {
-        "nombre": "Pravda Ukraine - Poland vs Ukraine marches Volyn massacre July 4",
-        "url": "https://ua.news-pravda.com/en/world/2026/07/04/105217.html"
-      },
-      {
-        "nombre": "Polska Głos - 4 lipca Marsz Pamięci i sprzeciwu wobec banderyzmu",
-        "url": "https://polskaglos.pl/4-lipca-marsz-pamieci-i-sprzeciwu-wobec-banderyzmu.html"
-      }
-    ],
-    "createdAt": "2026-07-04T21:26:29.000Z",
-    "updatedAt": "2026-07-04T23:37:38Z"
-  },
-  {
-    "id": 458,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "14:00",
-    "fecha": "2026-07-04",
-    "lugar": "Acceso a Cacharí, cruce Ruta Nacional 3 y Av. San Martín, Cacharí, Partido de Azul, Buenos Aires",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Vecinos autoconvocados de Cacharí",
-      "Delegación Municipal de Cacharí"
-    ],
-    "motivo": "Vecinos de Cacharí realizaron una jornada de protesta sobre la Ruta Nacional 3 contra la instalación de una nueva cabina de peaje en el km 290, entre Cacharí y Azul, en el marco del nuevo esquema de concesión de rutas nacionales. La comunidad rechaza el impacto económico y social que generaría el peaje, que obligaría a los residentes a pagar para trasladarse a su ciudad cabecera. Incluyó volanteada, feria comunitaria y participación de artistas locales. Exigen que se reconsidere la ubicación o se implemente un \"pase verde\" para residentes.",
-    "status": "en_curso",
-    "lat": "-36.3783",
-    "lng": "-59.6042",
-    "fuentes": [
-      {
-        "nombre": "Edición Séptima - Vecinos de Cacharí protestaron contra el peaje en Ruta 3",
-        "url": "https://edicionseptima.com.ar/nota/28052/vecinos-de-cachari-protestaron-nuevamente-contra-el-peaje-en-la-ruta-3/"
-      }
-    ],
-    "createdAt": "2026-07-04T20:09:53.000Z",
-    "updatedAt": "2026-07-04T23:37:38Z"
-  },
-  {
-    "id": 459,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "10:00",
-    "fecha": "2026-07-04",
-    "lugar": "Casa de Gobierno de Catamarca, San Fernando del Valle de Catamarca",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Extrabajadores de NEBA (fábrica de heladeras y freezers)",
-      "UOM (Unión Obrera Metalúrgica)"
-    ],
-    "motivo": "Extrabajadores de la fábrica NEBA (cerrada en febrero de 2026) se manifestaron frente a la Casa de Gobierno de Catamarca para reclamar el pago del 50% restante de las indemnizaciones adeudadas por la empresa y el gobierno provincial. Los trabajadores denuncian que la DIL (Dirección de Inspección Laboral) y el gremio no cumplieron con lo acordado. Seis meses después del despido, continúan sin cobrar la totalidad de la indemnización y muchos no consiguen nuevo empleo en un contexto de crisis industrial.",
-    "status": "en_curso",
-    "lat": "-28.4696",
-    "lng": "-65.7854",
-    "fuentes": [
-      {
-        "nombre": "El Ancasti - Extrabajadores de NEBA protestaron en Casa de Gobierno",
-        "url": "https://www.elancasti.com.ar/edicion-impresa/extrabajadores-neba-protestaron-casa-gobierno-n616444"
-      }
-    ],
-    "createdAt": "2026-07-04T20:09:53.000Z",
-    "updatedAt": "2026-07-04T23:37:38Z"
-  },
-  {
-    "id": 460,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "11:00",
-    "fecha": "2026-07-04",
-    "lugar": "Iglesia San Cayetano, La Matanza, provincia de Buenos Aires",
-    "tipoAccion": "marcha",
-    "organizaciones": [
-      "CTA Autónoma",
-      "CCC (Corriente Clasista y Combativa)",
-      "Barrios de Pie",
-      "Sindicato de Canillitas",
-      "UTEP",
-      "ATE La Matanza"
-    ],
-    "motivo": "Marcha y olla popular bajo el lema \"Sin trabajo solo hay hambre\" convocada por la Multisectorial de La Matanza en el marco de la Jornada Nacional de Lucha de la CTA y organizaciones sociales. Los manifestantes marcharon hasta la iglesia San Cayetano para visibilizar la crisis social generada por las políticas de ajuste del gobierno de Javier Milei. Exigen aumento salarial, reincorporación de despedidos, devolución de fondos a las provincias y políticas contra el hambre. Denuncian el deterioro de los comedores populares y la falta de asistencia social.",
-    "status": "en_curso",
-    "lat": "-34.7100",
-    "lng": "-58.6200",
-    "fuentes": [
-      {
-        "nombre": "CTA Autónoma PBA - La Matanza: Sin trabajo solo hay hambre",
-        "url": "https://ctabuenosaires.org.ar/nota/9417/la-matanza-sin-trabajo-solo-hay-hambre/"
-      }
-    ],
-    "createdAt": "2026-07-04T20:09:53.000Z",
-    "updatedAt": "2026-07-04T23:37:38Z"
+    "updatedAt": "2026-07-05T02:58:08Z"
   }
 ]
