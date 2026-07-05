@@ -1,5 +1,189 @@
 [
   {
+    "id": 390,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "00:00",
+    "fecha": "2026-07-05",
+    "lugar": "Yacimientos petroleros en Río Grande y cruce Cholila, Tierra del Fuego",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "Sindicato de Petróleo y Gas Privado de Tierra del Fuego"
+    ],
+    "motivo": "Continúa el paro por tiempo indeterminado contra las operadoras Velitec y Terra Ignis por incumplimiento del acuerdo de incorporación de 260 trabajadores tras la salida de YPF de Tierra del Fuego. Solo 43 de los 260 trabajadores comprometidos fueron incorporados. Exigen la reincorporación de los 217 trabajadores restantes, el pago de salarios y aguinaldos adeudados, y garantías de operación normal de los yacimientos. La planta San Sebastián está al borde del colapso con una sola turbina operativa. El gremio ratificó que la medida de fuerza continuará hasta que se cumplan los acuerdos.",
+    "status": "en_curso",
+    "lat": "-53.7860",
+    "lng": "-67.6995",
+    "fuentes": [
+      {
+        "nombre": "Boca de Pozo - Conflicto petrolero en TDF: Paro total (2 julio 2026)",
+        "url": "https://bocadepozo.com.ar/2026/07/02/conflicto-petrolero-en-tdf-paro-total-graves-acusaciones-de-castillo-al-gremio-derrames-de-petroleo-y-riesgo-en-el-suministro-de-gas/"
+      },
+      {
+        "nombre": "TDF News - Petroleros ratificó un paro por tiempo indeterminado (2 julio 2026)",
+        "url": "https://tdfnews.com.ar/petroleros-ratifico-un-paro-por-tiempo-indeterminado-y-exige-la-incorporacion-de-217-trabajadores/"
+      },
+      {
+        "nombre": "Provincia 23 - Sosa denunció que Velitec incorporó solo 43 de 260 trabajadores (2 julio 2026)",
+        "url": "https://www.provincia23.com.ar/2026/07/02/sosa-denuncio-que-velitec-solo-incorporo-a-43-de-los-260-trabajadores-comprometidos/"
+      },
+      {
+        "nombre": "Boca de Pozo - Exclusivo TDF: Paro petrolero indefinido (1 julio 2026)",
+        "url": "https://bocadepozo.com.ar/2026/07/01/exclusivo-tdf-paro-petrolero-indefinido-en-por-los-incumplimientos-de-terra-ignis-y-velitec-que-solo-incorporaron-43-de-los-260-trabajadores/"
+      },
+      {
+        "nombre": "Gremiales del Sur - Petroleros TDF con medidas de fuerza (2 julio 2026)",
+        "url": "https://www.gremialesdelsur.com.ar/"
+      }
+    ],
+    "createdAt": "2026-07-02T16:07:18.000Z",
+    "updatedAt": "2026-07-05T17:43:01Z"
+  },
+  {
+    "id": 422,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "12:00",
+    "fecha": "2026-07-05",
+    "lugar": "Centro Atómico Bariloche, Av. Bustillo km 9,5, Bariloche, Río Negro (y sedes CNEA en CABA, San Rafael, Trelew y Córdoba)",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "ATE (Asociación de Trabajadores del Estado)"
+    ],
+    "motivo": "Continúan las protestas de trabajadores de la Comisión Nacional de Energía Atómica (CNEA) nucleados en ATE contra el despido de 170 trabajadores contratados en todo el país (62 solo en Bariloche) y la reducción de la estructura de 645 a 272 cargos. Denuncian un plan de vaciamiento y privatización del organismo nuclear argentino. Exigen la reincorporación de todos los despedidos, el pago de salarios adeudados y la continuidad de proyectos estratégicos como el reactor CAREM. Las protestas incluyen cortes intermitentes de tránsito en la Av. Bustillo. Réplicas en CABA, San Rafael (Mendoza), Trelew y Córdoba. Los trabajadores declararon estado de alerta, asamblea y movilización permanente. ATE analiza convocar a un paro nacional.",
+    "status": "en_curso",
+    "lat": "-41.1331",
+    "lng": "-71.3103",
+    "fuentes": [
+      {
+        "nombre": "Infoestación - Conflicto CNEA: despidos y protestas vigentes (3 julio 2026)",
+        "url": "https://www.infoestacion.com.ar/conflicto-en-la-cnea-despidos-y-protestas-enfrentan-al-gobierno-y-trabajadore/"
+      },
+      {
+        "nombre": "Bache3000 - Sigue la protesta de trabajadores cesanteados CNEA (3 julio 2026)",
+        "url": "https://baribache3000.com.ar/nota/5182/sigue-la-protesta-de-trabajadores-cesanteados-en-la-cnea/"
+      },
+      {
+        "nombre": "ANBariloche - Continúan protestas Centro Atómico despidos CNEA (2 julio 2026)",
+        "url": "https://www.anbariloche.com.ar/noticias/2026/07/02/110170-continuan-las-protestas-en-el-centro-atomico-por-los-despidos-en-la-cnea"
+      },
+      {
+        "nombre": "Página12 - Para los científicos, más ajuste y represión (2 julio 2026)",
+        "url": "https://www.pagina12.com.ar/2026/07/02/para-los-cientificos-mas-ajuste-y-represion-2/"
+      },
+      {
+        "nombre": "El Destape - Protesta CNEA CABA despidos (1 julio 2026)",
+        "url": "https://www.eldestapeweb.com/politica/maxima-tension-golpes-empujones-policia-no-permitio-avanzar-protesta-trabajadores-conicet-202671142927"
+      },
+      {
+        "nombre": "Radio 10 - ATE protesta CNEA avanza posible paro nacional (1 julio 2026)",
+        "url": "https://radio10mardelplata.com.ar/ate-con-aguiar-al-frente-endurece-su-pulseada-protesta-en-la-cnea-y-avanza-un-posible-paro-nacional-por-despidos/"
+      },
+      {
+        "nombre": "NODAL - Fuerzas de Seguridad reprimen protesta CONICET y CNEA (2 julio 2026)",
+        "url": "https://www.nodal.am/2026/07/argentina-las-fuerzas-de-seguridad-reprimieron-una-protesta-de-cientificos-e-investigadores/"
+      },
+      {
+        "nombre": "InfoBariloche - CNEA Bariloche alerta y movilización permanente (1 julio 2026)",
+        "url": "https://infobariloche.com.ar/sociedad/19-bariloche/36097-trabajadores-de-la-cnea-bariloche-declaran-estado-de-alerta-y-movilizacion-permanente.html"
+      }
+    ],
+    "createdAt": "2026-07-03T15:57:09.000Z",
+    "updatedAt": "2026-07-05T17:43:01Z"
+  },
+  {
+    "id": 476,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "17:00",
+    "fecha": "2026-07-05",
+    "lugar": "Ruta Nacional 5, cruce con calle Evangelista, La Pampa",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Autovía Ya Ruta 5"
+    ],
+    "motivo": "Manifestación del grupo Autovía Ya Ruta 5 exigiendo la construcción de la autovía sobre la Ruta Nacional 5. Denuncian que la nueva concesión del 'Tramo Pampa' (Corredor Vial 5 S.A.U.) solo contempla mantenimiento y nuevos peajes, sin incluir la obra de autovía. Reclaman también banquinas seguras y travesías urbanas en accesos a pueblos linderos. El grupo anunció la creación de una Asociación Civil para darle mayor fuerza institucional al reclamo. La protesta se da luego de que el gobierno de Javier Milei firmara los contratos de concesión que excluyen nuevas obras.",
+    "status": "en_curso",
+    "lat": "-36.6203",
+    "lng": "-64.2903",
+    "fuentes": [
+      {
+        "nombre": "La Arena - Convocan a nuevo reclamo por la Autovía sobre la RN5 (4 julio 2026)",
+        "url": "https://www.laarena.com.ar/la-pampa/convocan-a-nuevo-reclamo-por-la-autovia-sobre-la-ruta-nacional-5-20267415560"
+      },
+      {
+        "nombre": "Infoecos - Manifestación Autovía Ya Ruta 5 domingo 5 julio 2026",
+        "url": "https://infoecos.com.ar/index.php/con-la-pampa-sola-no-alcanza-nueva-manifestacion-este-domingo-a-las-5-de-la-tarde-sobre-la-ruta-5-convocada-por-el-grupo-autovia-ya-en-santa-rosa/"
+      }
+    ],
+    "createdAt": "2026-07-05T11:29:58.000Z",
+    "updatedAt": "2026-07-05T17:43:01Z"
+  },
+  {
+    "id": 480,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "13:00",
+    "fecha": "2026-07-05",
+    "lugar": "Rotonda del Parque Industrial, Gualeguaychú, Entre Ríos",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Sindicato del Personal de Industrias Químicas y Petroquímicas",
+      "Trabajadores de Unionbat"
+    ],
+    "motivo": "Jornada de protesta de trabajadores de Unionbat S.A. contra el despido de aproximadamente 100 empleados. La empresa cerró su planta en Gualeguaychú y despidió a todo el personal. A pesar de que la Secretaría de Trabajo de Entre Ríos dictó la conciliación obligatoria ordenando la reincorporación inmediata, Unionbat incumplió la medida e impidió el ingreso de los trabajadores, profundizando el conflicto. Exigen la reincorporación de todos los despedidos, el pago de salarios adeudados y la continuidad de la fuente laboral en la ciudad.",
+    "status": "en_curso",
+    "lat": "-33.0089",
+    "lng": "-58.5142",
+    "fuentes": [
+      {
+        "nombre": "Blanca Ciudad Noticias - Unionbat protesta Gualeguaychú 5 julio 2026",
+        "url": "https://blancaciudadnoticias.com.ar/2026/07/conflicto-laboral-trabajadores-de-unionbat-realizaran-una-jornada-de-protesta-en-gualeguaychu/"
+      },
+      {
+        "nombre": "Diario El Argentino - Convocan protesta despidos Unionbat 5 julio 2026",
+        "url": "https://diarioelargentino.com/gualeguaychu/crece-la-tension-en-el-parque-industrial-convocan-a-una-protesta-por-los-despidos-en-unionbat.htm"
+      },
+      {
+        "nombre": "APFDigital - Convocan protesta Unionbat Gualeguaychú 4 julio 2026",
+        "url": "https://www.apfdigital.com.ar/noticias/2026/07/04/462187-convocan-a-una-protesta-en-gualeguaychu-por-el-conflicto-en-unionbat-y-el-despido-de-un-centenar-de-trabajadores"
+      }
+    ],
+    "createdAt": "2026-07-05T14:44:04.000Z",
+    "updatedAt": "2026-07-05T17:43:01Z"
+  },
+  {
+    "id": 485,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "10:00",
+    "fecha": "2026-07-05",
+    "lugar": "Patricias Mendocinas 1765, Ciudad de Mendoza, Mendoza",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Asamblea por Necesidad y Urgencia",
+      "Agrupación de Presxs Políticxs por Defender el Agua (PPPDA)",
+      "Asamblea Mendocina por el Agua Pura (AMPAP)"
+    ],
+    "motivo": "Festival 'Protestar NO es delito' en apoyo a defensores ambientales detenidos en Mendoza que protestan contra la megaminería y el proyecto Minera San Jorge. La jornada incluye música, baile y comida popular para recaudar fondos para la defensa legal de activistas. Denuncian criminalización de la protesta: más de 40 detenciones en los últimos 14 meses, torturas, hostigamiento laboral y fianzas usurarias por parte del gobierno de Alfredo Cornejo. Exigen el desprocesamiento inmediato de más de veinte personas imputadas por participar en protestas contra la megaminería en defensa del agua.",
+    "status": "en_curso",
+    "lat": "-32.8908",
+    "lng": "-68.8272",
+    "fuentes": [
+      {
+        "nombre": "EXPLÍCITO - Festival 'Protestar no es delito' Mendoza 5 julio 2026",
+        "url": "https://explicitoonline.com/protestar-no-es-delito-invitan-a-un-festival-para-colaborar-con-los-defensores-ambientales-detenidos-en-mendoza/"
+      }
+    ],
+    "createdAt": "2026-07-05T17:37:57.000Z",
+    "updatedAt": "2026-07-05T17:43:01Z"
+  },
+  {
     "id": 391,
     "seccion": "protestas_int",
     "pais": "Albania",
@@ -44,7 +228,7 @@
       }
     ],
     "createdAt": "2026-07-02T18:12:47.000Z",
-    "updatedAt": "2026-07-05T16:10:29Z"
+    "updatedAt": "2026-07-05T17:43:01Z"
   },
   {
     "id": 439,
@@ -100,7 +284,7 @@
       }
     ],
     "createdAt": "2026-07-04T01:07:21.000Z",
-    "updatedAt": "2026-07-05T16:10:29Z"
+    "updatedAt": "2026-07-05T17:43:01Z"
   },
   {
     "id": 444,
@@ -140,7 +324,7 @@
       }
     ],
     "createdAt": "2026-07-04T10:31:43.000Z",
-    "updatedAt": "2026-07-05T16:10:29Z"
+    "updatedAt": "2026-07-05T17:43:01Z"
   },
   {
     "id": 446,
@@ -191,7 +375,7 @@
       }
     ],
     "createdAt": "2026-07-04T10:31:43.000Z",
-    "updatedAt": "2026-07-05T16:10:29Z"
+    "updatedAt": "2026-07-05T17:43:01Z"
   },
   {
     "id": 449,
@@ -227,7 +411,7 @@
       }
     ],
     "createdAt": "2026-07-02T18:12:47.000Z",
-    "updatedAt": "2026-07-05T16:10:29Z"
+    "updatedAt": "2026-07-05T17:43:01Z"
   },
   {
     "id": 464,
@@ -271,7 +455,7 @@
       }
     ],
     "createdAt": "2026-07-05T02:50:38.000Z",
-    "updatedAt": "2026-07-05T16:10:29Z"
+    "updatedAt": "2026-07-05T17:43:01Z"
   },
   {
     "id": 465,
@@ -306,7 +490,7 @@
       }
     ],
     "createdAt": "2026-07-05T02:50:38.000Z",
-    "updatedAt": "2026-07-05T16:10:29Z"
+    "updatedAt": "2026-07-05T17:43:01Z"
   },
   {
     "id": 466,
@@ -332,7 +516,7 @@
       }
     ],
     "createdAt": "2026-07-05T02:50:38.000Z",
-    "updatedAt": "2026-07-05T16:10:29Z"
+    "updatedAt": "2026-07-05T17:43:01Z"
   },
   {
     "id": 467,
@@ -358,7 +542,7 @@
       }
     ],
     "createdAt": "2026-07-05T02:50:38.000Z",
-    "updatedAt": "2026-07-05T16:10:29Z"
+    "updatedAt": "2026-07-05T17:43:01Z"
   },
   {
     "id": 468,
@@ -388,7 +572,7 @@
       }
     ],
     "createdAt": "2026-07-05T02:50:38.000Z",
-    "updatedAt": "2026-07-05T16:10:29Z"
+    "updatedAt": "2026-07-05T17:43:01Z"
   },
   {
     "id": 469,
@@ -430,7 +614,7 @@
       }
     ],
     "createdAt": "2026-07-05T02:50:38.000Z",
-    "updatedAt": "2026-07-05T16:10:29Z"
+    "updatedAt": "2026-07-05T17:43:01Z"
   },
   {
     "id": 471,
@@ -455,7 +639,7 @@
       }
     ],
     "createdAt": "2026-07-05T02:50:38.000Z",
-    "updatedAt": "2026-07-05T16:10:29Z"
+    "updatedAt": "2026-07-05T17:43:01Z"
   },
   {
     "id": 472,
@@ -485,7 +669,7 @@
       }
     ],
     "createdAt": "2026-07-05T06:39:05.000Z",
-    "updatedAt": "2026-07-05T16:10:29Z"
+    "updatedAt": "2026-07-05T17:43:01Z"
   },
   {
     "id": 473,
@@ -511,7 +695,7 @@
       }
     ],
     "createdAt": "2026-07-05T06:39:05.000Z",
-    "updatedAt": "2026-07-05T16:10:29Z"
+    "updatedAt": "2026-07-05T17:43:01Z"
   },
   {
     "id": 474,
@@ -549,7 +733,7 @@
       }
     ],
     "createdAt": "2026-07-05T09:40:18.000Z",
-    "updatedAt": "2026-07-05T16:10:29Z"
+    "updatedAt": "2026-07-05T17:43:01Z"
   },
   {
     "id": 475,
@@ -579,7 +763,7 @@
       }
     ],
     "createdAt": "2026-07-05T09:40:18.000Z",
-    "updatedAt": "2026-07-05T16:10:29Z"
+    "updatedAt": "2026-07-05T17:43:01Z"
   },
   {
     "id": 477,
@@ -609,7 +793,7 @@
       }
     ],
     "createdAt": "2026-07-05T14:40:27.000Z",
-    "updatedAt": "2026-07-05T16:10:29Z"
+    "updatedAt": "2026-07-05T17:43:01Z"
   },
   {
     "id": 478,
@@ -635,7 +819,7 @@
       }
     ],
     "createdAt": "2026-07-05T14:40:27.000Z",
-    "updatedAt": "2026-07-05T16:10:29Z"
+    "updatedAt": "2026-07-05T17:43:01Z"
   },
   {
     "id": 479,
@@ -661,7 +845,7 @@
       }
     ],
     "createdAt": "2026-07-05T14:40:27.000Z",
-    "updatedAt": "2026-07-05T16:10:29Z"
+    "updatedAt": "2026-07-05T17:43:01Z"
   },
   {
     "id": 481,
@@ -696,163 +880,94 @@
       }
     ],
     "createdAt": "2026-07-05T16:05:41.000Z",
-    "updatedAt": "2026-07-05T16:10:29Z"
+    "updatedAt": "2026-07-05T17:43:01Z"
   },
   {
-    "id": 390,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
+    "id": 482,
+    "seccion": "protestas_int",
+    "pais": "Alemania",
+    "bandera": "🇩🇪",
     "hora": "00:00",
     "fecha": "2026-07-05",
-    "lugar": "Yacimientos petroleros en Río Grande y cruce Cholila, Tierra del Fuego",
+    "lugar": "Múltiples plantas de Mercedes-Benz: Sindelfingen, Bremen, Rastatt, Hamburgo",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "IG Metall",
+      "Trabajadores de Mercedes-Benz",
+      "Consejo de Empresa de Mercedes-Benz"
+    ],
+    "motivo": "Protestas masivas en plantas de Mercedes-Benz en toda Alemania contra el plan de la directiva de aumentar la jornada laboral de 35 a 40 horas semanales sin compensación salarial. 33.000 trabajadores según IG Metall (16.000 según la empresa) se manifestaron en Sindelfingen (20.000), Bremen (4.000), Rastatt (2.000) y Hamburgo (300). La empresa busca reducir costes de producción un 10% para 2027 como parte de un plan de ahorro. El consejo de vigilancia respalda el plan. IG Metall anuncia más protestas para el 9 de julio en Stuttgart y advierte de un 'verano caliente' de movilizaciones.",
+    "status": "en_curso",
+    "lat": "48.7100",
+    "lng": "9.0100",
+    "fuentes": [
+      {
+        "nombre": "ad-hoc-news - Mercedes-Protest: 33.000 Beschäftigte gegen Erhöhung auf 40-Stunden-Woche 5 July 2026",
+        "url": "https://www.ad-hoc-news.de/wirtschaft/mercedes-protest-33-000-beschaeftigte-gegen-erhoehung-auf/69695091"
+      },
+      {
+        "nombre": "Hürriyet - Mercedes İşçilerinden Tasarruf Planlarına Tepki 5 July 2026",
+        "url": "https://www.hurriyet.com.tr/avrupa/mercedes-iscilerinden-tasarruf-planlarina-tepki-bu-daha-baslangic-43229377"
+      }
+    ],
+    "createdAt": "2026-07-05T17:35:28.000Z",
+    "updatedAt": "2026-07-05T17:43:01Z"
+  },
+  {
+    "id": 483,
+    "seccion": "protestas_int",
+    "pais": "Japón",
+    "bandera": "🇯🇵",
+    "hora": "00:00",
+    "fecha": "2026-07-05",
+    "lugar": "Embajada de China, Moto-Azabu, Tokio",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Comunidad tibetana exiliada en Japón",
+      "Kalden Obara (representante comunitario)",
+      "Tsering Dorjee (organizador)"
+    ],
+    "motivo": "Protesta de la comunidad tibetana exiliada en Japón frente a la Embajada de China en Tokio contra la Ley de Promoción de la Unidad y el Progreso Nacional (民族団結進歩促進法) promulgada el 1 de julio de 2026. Los manifestantes denuncian que la ley impone el idioma chino estándar (mandarín) como lengua nacional obligatoria, eliminando las lenguas minoritarias y amenazando la cultura, lengua e identidad tibetana. La protesta también rindió homenaje a Loga Rangzen, un exiliado tibetano de 42 años que se inmoló el 2 de julio de 2026 frente a la sede de la ONU en Nueva York para protestar contra las políticas de asimilación china en el Tíbet.",
+    "status": "finalizada",
+    "lat": "35.6600",
+    "lng": "139.7300",
+    "fuentes": [
+      {
+        "nombre": "Central News Agency Taiwan - Tibetan group protests at Chinese embassy in Tokyo July 5 2026",
+        "url": "https://www.cna.com.tw/news/aopl/202607050178.aspx"
+      }
+    ],
+    "createdAt": "2026-07-05T17:35:28.000Z",
+    "updatedAt": "2026-07-05T17:43:01Z"
+  },
+  {
+    "id": 484,
+    "seccion": "protestas_int",
+    "pais": "India",
+    "bandera": "🇮🇳",
+    "hora": "00:00",
+    "fecha": "2026-07-05",
+    "lugar": "Visakhapatnam, Vizianagaram, Srikakulam, Andhra Pradesh",
     "tipoAccion": "huelga",
     "organizaciones": [
-      "Sindicato de Petróleo y Gas Privado de Tierra del Fuego"
+      "Conductores de Uber, Ola y Rapido",
+      "Uniones de transporte de Andhra Pradesh"
     ],
-    "motivo": "Continúa el paro por tiempo indeterminado contra las operadoras Velitec y Terra Ignis por incumplimiento del acuerdo de incorporación de 260 trabajadores tras la salida de YPF de Tierra del Fuego. Solo 43 de los 260 trabajadores comprometidos fueron incorporados. Exigen la reincorporación de los 217 trabajadores restantes, el pago de salarios y aguinaldos adeudados, y garantías de operación normal de los yacimientos. La planta San Sebastián está al borde del colapso con una sola turbina operativa. El gremio ratificó que la medida de fuerza continuará hasta que se cumplan los acuerdos.",
+    "motivo": "Día 5 de huelga de conductores de plataformas de transporte Uber, Ola y Rapido en Andhra Pradesh. Exigen revisión de tarifas y retiro de la función 'Radar' que reduce sus ingresos. Denuncian que las plataformas han reducido las tarifas por viaje a pesar del aumento del precio del combustible y los costos operativos. El paro ha afectado severamente el transporte de pasajeros, especialmente en el Aeropuerto de Visakhapatnam. Unos 4.500 conductores están afiliados a estas plataformas en la región.",
     "status": "en_curso",
-    "lat": "-53.7860",
-    "lng": "-67.6995",
+    "lat": "17.7300",
+    "lng": "83.3000",
     "fuentes": [
       {
-        "nombre": "Boca de Pozo - Conflicto petrolero en TDF: Paro total (2 julio 2026)",
-        "url": "https://bocadepozo.com.ar/2026/07/02/conflicto-petrolero-en-tdf-paro-total-graves-acusaciones-de-castillo-al-gremio-derrames-de-petroleo-y-riesgo-en-el-suministro-de-gas/"
+        "nombre": "The Coastal Times - App-Based Cab Strike Enters Fifth Day Disrupts Airport Travel July 5 2026",
+        "url": "https://thecoastaltimes.in/app-based-cab-strike-enters-fifth-day-disrupts-airport-travel/"
       },
       {
-        "nombre": "TDF News - Petroleros ratificó un paro por tiempo indeterminado (2 julio 2026)",
-        "url": "https://tdfnews.com.ar/petroleros-ratifico-un-paro-por-tiempo-indeterminado-y-exige-la-incorporacion-de-217-trabajadores/"
-      },
-      {
-        "nombre": "Provincia 23 - Sosa denunció que Velitec incorporó solo 43 de 260 trabajadores (2 julio 2026)",
-        "url": "https://www.provincia23.com.ar/2026/07/02/sosa-denuncio-que-velitec-solo-incorporo-a-43-de-los-260-trabajadores-comprometidos/"
-      },
-      {
-        "nombre": "Boca de Pozo - Exclusivo TDF: Paro petrolero indefinido (1 julio 2026)",
-        "url": "https://bocadepozo.com.ar/2026/07/01/exclusivo-tdf-paro-petrolero-indefinido-en-por-los-incumplimientos-de-terra-ignis-y-velitec-que-solo-incorporaron-43-de-los-260-trabajadores/"
-      },
-      {
-        "nombre": "Gremiales del Sur - Petroleros TDF con medidas de fuerza (2 julio 2026)",
-        "url": "https://www.gremialesdelsur.com.ar/"
+        "nombre": "The Hindu - Cab drivers protest enters fifth day app-based taxi services disrupted July 5 2026",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/cab-drivers-protest-enters-fifth-day-app-based-taxi-services-disrupted/article71185910.ece"
       }
     ],
-    "createdAt": "2026-07-02T16:07:18.000Z",
-    "updatedAt": "2026-07-05T16:10:29Z"
-  },
-  {
-    "id": 422,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "12:00",
-    "fecha": "2026-07-05",
-    "lugar": "Centro Atómico Bariloche, Av. Bustillo km 9,5, Bariloche, Río Negro (y sedes CNEA en CABA, San Rafael, Trelew y Córdoba)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "ATE (Asociación de Trabajadores del Estado)"
-    ],
-    "motivo": "Continúan las protestas de trabajadores de la Comisión Nacional de Energía Atómica (CNEA) nucleados en ATE contra el despido de 170 trabajadores contratados en todo el país (62 solo en Bariloche) y la reducción de la estructura de 645 a 272 cargos. Denuncian un plan de vaciamiento y privatización del organismo nuclear argentino. Exigen la reincorporación de todos los despedidos, el pago de salarios adeudados y la continuidad de proyectos estratégicos como el reactor CAREM. Las protestas incluyen cortes intermitentes de tránsito en la Av. Bustillo. Réplicas en CABA, San Rafael (Mendoza), Trelew y Córdoba. Los trabajadores declararon estado de alerta, asamblea y movilización permanente. ATE analiza convocar a un paro nacional.",
-    "status": "en_curso",
-    "lat": "-41.1331",
-    "lng": "-71.3103",
-    "fuentes": [
-      {
-        "nombre": "Infoestación - Conflicto CNEA: despidos y protestas vigentes (3 julio 2026)",
-        "url": "https://www.infoestacion.com.ar/conflicto-en-la-cnea-despidos-y-protestas-enfrentan-al-gobierno-y-trabajadore/"
-      },
-      {
-        "nombre": "Bache3000 - Sigue la protesta de trabajadores cesanteados CNEA (3 julio 2026)",
-        "url": "https://baribache3000.com.ar/nota/5182/sigue-la-protesta-de-trabajadores-cesanteados-en-la-cnea/"
-      },
-      {
-        "nombre": "ANBariloche - Continúan protestas Centro Atómico despidos CNEA (2 julio 2026)",
-        "url": "https://www.anbariloche.com.ar/noticias/2026/07/02/110170-continuan-las-protestas-en-el-centro-atomico-por-los-despidos-en-la-cnea"
-      },
-      {
-        "nombre": "Página12 - Para los científicos, más ajuste y represión (2 julio 2026)",
-        "url": "https://www.pagina12.com.ar/2026/07/02/para-los-cientificos-mas-ajuste-y-represion-2/"
-      },
-      {
-        "nombre": "El Destape - Protesta CNEA CABA despidos (1 julio 2026)",
-        "url": "https://www.eldestapeweb.com/politica/maxima-tension-golpes-empujones-policia-no-permitio-avanzar-protesta-trabajadores-conicet-202671142927"
-      },
-      {
-        "nombre": "Radio 10 - ATE protesta CNEA avanza posible paro nacional (1 julio 2026)",
-        "url": "https://radio10mardelplata.com.ar/ate-con-aguiar-al-frente-endurece-su-pulseada-protesta-en-la-cnea-y-avanza-un-posible-paro-nacional-por-despidos/"
-      },
-      {
-        "nombre": "NODAL - Fuerzas de Seguridad reprimen protesta CONICET y CNEA (2 julio 2026)",
-        "url": "https://www.nodal.am/2026/07/argentina-las-fuerzas-de-seguridad-reprimieron-una-protesta-de-cientificos-e-investigadores/"
-      },
-      {
-        "nombre": "InfoBariloche - CNEA Bariloche alerta y movilización permanente (1 julio 2026)",
-        "url": "https://infobariloche.com.ar/sociedad/19-bariloche/36097-trabajadores-de-la-cnea-bariloche-declaran-estado-de-alerta-y-movilizacion-permanente.html"
-      }
-    ],
-    "createdAt": "2026-07-03T15:57:09.000Z",
-    "updatedAt": "2026-07-05T16:10:29Z"
-  },
-  {
-    "id": 476,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "17:00",
-    "fecha": "2026-07-05",
-    "lugar": "Ruta Nacional 5, cruce con calle Evangelista, La Pampa",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Autovía Ya Ruta 5"
-    ],
-    "motivo": "Manifestación del grupo Autovía Ya Ruta 5 exigiendo la construcción de la autovía sobre la Ruta Nacional 5. Denuncian que la nueva concesión del 'Tramo Pampa' (Corredor Vial 5 S.A.U.) solo contempla mantenimiento y nuevos peajes, sin incluir la obra de autovía. Reclaman también banquinas seguras y travesías urbanas en accesos a pueblos linderos. El grupo anunció la creación de una Asociación Civil para darle mayor fuerza institucional al reclamo. La protesta se da luego de que el gobierno de Javier Milei firmara los contratos de concesión que excluyen nuevas obras.",
-    "status": "convocada",
-    "lat": "-36.6203",
-    "lng": "-64.2903",
-    "fuentes": [
-      {
-        "nombre": "La Arena - Convocan a nuevo reclamo por la Autovía sobre la RN5 (4 julio 2026)",
-        "url": "https://www.laarena.com.ar/la-pampa/convocan-a-nuevo-reclamo-por-la-autovia-sobre-la-ruta-nacional-5-20267415560"
-      },
-      {
-        "nombre": "Infoecos - Manifestación Autovía Ya Ruta 5 domingo 5 julio 2026",
-        "url": "https://infoecos.com.ar/index.php/con-la-pampa-sola-no-alcanza-nueva-manifestacion-este-domingo-a-las-5-de-la-tarde-sobre-la-ruta-5-convocada-por-el-grupo-autovia-ya-en-santa-rosa/"
-      }
-    ],
-    "createdAt": "2026-07-05T11:29:58.000Z",
-    "updatedAt": "2026-07-05T16:10:29Z"
-  },
-  {
-    "id": 480,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "13:00",
-    "fecha": "2026-07-05",
-    "lugar": "Rotonda del Parque Industrial, Gualeguaychú, Entre Ríos",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Sindicato del Personal de Industrias Químicas y Petroquímicas",
-      "Trabajadores de Unionbat"
-    ],
-    "motivo": "Jornada de protesta de trabajadores de Unionbat S.A. contra el despido de aproximadamente 100 empleados. La empresa cerró su planta en Gualeguaychú y despidió a todo el personal. A pesar de que la Secretaría de Trabajo de Entre Ríos dictó la conciliación obligatoria ordenando la reincorporación inmediata, Unionbat incumplió la medida e impidió el ingreso de los trabajadores, profundizando el conflicto. Exigen la reincorporación de todos los despedidos, el pago de salarios adeudados y la continuidad de la fuente laboral en la ciudad.",
-    "status": "en_curso",
-    "lat": "-33.0089",
-    "lng": "-58.5142",
-    "fuentes": [
-      {
-        "nombre": "Blanca Ciudad Noticias - Unionbat protesta Gualeguaychú 5 julio 2026",
-        "url": "https://blancaciudadnoticias.com.ar/2026/07/conflicto-laboral-trabajadores-de-unionbat-realizaran-una-jornada-de-protesta-en-gualeguaychu/"
-      },
-      {
-        "nombre": "Diario El Argentino - Convocan protesta despidos Unionbat 5 julio 2026",
-        "url": "https://diarioelargentino.com/gualeguaychu/crece-la-tension-en-el-parque-industrial-convocan-a-una-protesta-por-los-despidos-en-unionbat.htm"
-      },
-      {
-        "nombre": "APFDigital - Convocan protesta Unionbat Gualeguaychú 4 julio 2026",
-        "url": "https://www.apfdigital.com.ar/noticias/2026/07/04/462187-convocan-a-una-protesta-en-gualeguaychu-por-el-conflicto-en-unionbat-y-el-despido-de-un-centenar-de-trabajadores"
-      }
-    ],
-    "createdAt": "2026-07-05T14:44:04.000Z",
-    "updatedAt": "2026-07-05T16:10:29Z"
+    "createdAt": "2026-07-05T17:35:28.000Z",
+    "updatedAt": "2026-07-05T17:43:01Z"
   }
 ]
