@@ -13,7 +13,7 @@
       "Ciudadanos albaneses",
       "Activistas ambientales"
     ],
-    "motivo": "Día 36 consecutivo de protestas de la 'Revolución Flamenco' contra el complejo turístico de lujo vinculado a Jared Kushner en la laguna de Narta, Zvernec. Las protestas se han convertido en un movimiento antigubernamental más amplio que exige la renuncia del primer ministro Edi Rama por corrupción. Manifestaciones nocturnas cada día a las 19:00 con concentraciones en Plaza Skanderbeg y marchas hacia la Oficina del Primer Ministro. El 4 de julio (día 35) fue la protesta más grande desde que comenzó el movimiento, con decenas de miles de manifestantes y participación masiva de la diáspora albanesa. Grupos de manifestantes marcharon a la estación de policía para exigir la liberación de 19 detenidos; rompieron ventanas y la policía respondió con cañones de agua pasada la medianoche. Día 36 de protesta continua.",
+    "motivo": "Día 36 consecutivo de protestas de la 'Revolución Flamenco' contra el complejo turístico de lujo vinculado a Jared Kushner en la laguna de Narta, Zvernec. Las protestas se han convertido en un movimiento antigubernamental más amplio que exige la renuncia del primer ministro Edi Rama por corrupción. Manifestaciones nocturnas cada día a las 19:00 con concentraciones en Plaza Skanderbeg y marchas hacia la Oficina del Primer Ministro. El 4 de julio (día 35) fue la protesta más grande desde que comenzó el movimiento, con decenas de miles de manifestantes y participación masiva de la diáspora albanesa. Grupos de manifestantes marcharon a la estación de policía para exigir la liberación de 19 detenidos; rompieron ventanas y la policía respondió con cañones de agua pasada la medianoche. El 5 de julio continúa la protesta nocturna (día 36).",
     "status": "en_curso",
     "lat": "41.3275",
     "lng": "19.8187",
@@ -37,30 +37,43 @@
       {
         "nombre": "Albanian Daily News - Thousands Join Flamingo Revolution July 4",
         "url": "https://albaniandailynews.com/news/thousands-join-flamingo-revolution-protest-in-tirana-calling-for-albanian-pm-s-resignation"
+      },
+      {
+        "nombre": "AP News - Albanians protest 35th night in a row July 4",
+        "url": "https://apnews.com/article/resort-prime-minister-rama-kushner-flamingos-resort-9e2cbb682d9445f2e2d946c44ea2fecd"
       }
     ],
     "createdAt": "2026-07-02T18:12:47.000Z",
-    "updatedAt": "2026-07-05T12:54:37Z"
+    "updatedAt": "2026-07-05T14:49:11Z"
   },
   {
     "id": 439,
     "seccion": "protestas_int",
     "pais": "Turquía y Europa (múltiples países)",
     "bandera": "🇪🇺",
-    "hora": "00:00",
+    "hora": "19:00",
     "fecha": "2026-07-05",
-    "lugar": "Estambul, Izmir, Antalya, Adana, Çanakkale, Samsun (Turquía); Bruselas (Bélgica), París (Francia), Londres (Reino Unido), Atenas (Grecia), Viena (Austria), Zúrich (Suiza), Fráncfort (Alemania), Colonia (Alemania), Hamburgo (Alemania)",
+    "lugar": "Estambul (Kadıköy), Izmir, Antalya, Adana, Çanakkale, Samsun (Turquía); Bruselas (Bélgica), París (Francia), Londres (Reino Unido), Atenas (Grecia), Viena (Austria), Zúrich (Suiza), Fráncfort (Alemania), Colonia (Alemania), Hamburgo (Alemania)",
     "tipoAccion": "protesta",
     "organizaciones": [
+      "NATO'ya Hayır Koordinasyonu (Coordinación No a la OTAN)",
       "TKP (Partido Comunista de Turquía)",
       "Plataforma Contra la OTAN y la Guerra Imperialista (PAN-IW)",
       "Coalición de organizaciones revolucionarias y democráticas"
     ],
-    "motivo": "Continúa la semana de acción Anti-OTAN (4-12 de julio) en vísperas de la Cumbre de la OTAN en Ankara (7-8 de julio). El TKP convocó marchas el 5 de julio en 6 ciudades turcas: Estambul, Izmir, Antalya, Adana, Çanakkale y Samsun, bajo el lema 'Por nuestro país y nuestro honor, marchamos contra la OTAN'. Manifestaciones también en Bruselas, París, Londres, Atenas, Viena, Zúrich, Fráncfort, Colonia y Hamburgo. Denuncian el aumento del gasto militar al 5% del PIB, las guerras en Ucrania y Medio Oriente, y exigen el desmantelamiento de la OTAN.",
+    "motivo": "Semana de acción Anti-OTAN (4-12 de julio) en vísperas de la Cumbre de la OTAN en Ankara (7-8 de julio). El 5 de julio la Coordinación 'No a la OTAN' convocó una marcha en Kadıköy (Estambul) a las 19:00 bajo el lema 'No os queremos, marchamos contra la OTAN'. El TKP convocó marchas simultáneas en Izmir, Antalya, Adana, Çanakkale y Samsun. Manifestaciones también en Bruselas, París, Londres, Atenas, Viena, Zúrich, Fráncfort, Colonia y Hamburgo. Denuncian el aumento del gasto militar al 5% del PIB, las guerras en Ucrania y Medio Oriente, y exigen el desmantelamiento de la OTAN. Ese mismo día, decenas de personas (periodistas, abogados, académicos) fueron detenidas en redadas simultáneas en toda Turquía antes de la cumbre.",
     "status": "en_curso",
     "lat": "41.0082",
     "lng": "28.9784",
     "fuentes": [
+      {
+        "nombre": "Cumhuriyet - NATO'ya Hayır Kadıköy'de eylem çağrısı July 5",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/nato-ya-hayir-koordinasyonu-ndan-kadikoy-de-eylem-cagris-2518192"
+      },
+      {
+        "nombre": "BirGün - İstanbul'da NATO karşıtı yürüyüş çağrısı July 5",
+        "url": "https://www.birgun.net/haber/istanbul-da-nato-karsiti-yuruyus-cagrisi-722329"
+      },
       {
         "nombre": "AIL Red - PAN-IW calls for demonstrations July 4 2026",
         "url": "https://ail-red.com/the-nato-and-antiimperialist-war-platform-of-which-ail-is-a-member-has-called-for-a-demonstration-on-4-july/"
@@ -80,10 +93,14 @@
       {
         "nombre": "Info Libertaire - Renforçons la lutte contre le sommet de l'OTAN 4 juillet",
         "url": "https://www.infolibertaire.net/renforcons-la-lutte-contre-le-sommet-de-lotan-a-ankara-les-7-et-8-juillet/"
+      },
+      {
+        "nombre": "BBC Türkçe - Gazeteci, avukat ve akademisyenler gözaltında July 5",
+        "url": "https://www.bbc.com/turkce/articles/c6211mnvlz5o"
       }
     ],
     "createdAt": "2026-07-04T01:07:21.000Z",
-    "updatedAt": "2026-07-05T12:54:37Z"
+    "updatedAt": "2026-07-05T14:49:11Z"
   },
   {
     "id": 444,
@@ -100,7 +117,7 @@
       "Gewerkschaften",
       "Initiativen und Bündnisse"
     ],
-    "motivo": "Continúan las masivas protestas contra el congreso federal de la ultraderechista Alternativa para Alemania (AfD) en Erfurt (4-5 de julio). El 4 de julio 31.000 personas según policía (50.000 según organizadores) bloquearon la autopista A71 y accesos a la ciudad. Activistas se pegaron a rieles de tranvía y barrieron accesos al recinto. El congreso reeligió a Alice Weidel y Tino Chrupalla. El 5 de julio el congreso finaliza mientras las protestas continúan. Los manifestantes denuncian las políticas racistas y de 'remigración' de la AfD. La fecha coincide con el centenario de una conferencia nazi en Weimar.",
+    "motivo": "Finaliza el congreso federal de la ultraderechista Alternativa para Alemania (AfD) en Erfurt, mientras continúan las protestas masivas. El 4 de julio 31.000 personas según policía (50.000 según organizadores) bloquearon la autopista A71 y accesos a la ciudad. Activistas se pegaron a rieles de tranvía y barrieron accesos al recinto. El congreso reeligió a Alice Weidel y Tino Chrupalla. El 5 de julio las protestas acompañan la clausura del congreso. Los manifestantes denuncian las políticas racistas y de 'remigración' de la AfD. La fecha coincide con el centenario de una conferencia nazi en Weimar.",
     "status": "en_curso",
     "lat": "50.9787",
     "lng": "11.0328",
@@ -123,7 +140,7 @@
       }
     ],
     "createdAt": "2026-07-04T10:31:43.000Z",
-    "updatedAt": "2026-07-05T12:54:37Z"
+    "updatedAt": "2026-07-05T14:49:11Z"
   },
   {
     "id": 446,
@@ -139,11 +156,23 @@
       "Partido del Poder Popular (oposición)",
       "Asociación de Elecciones Limpias"
     ],
-    "motivo": "Cumple un mes la protesta ciudadana contra la escasez de papeletas electorales que afectó las elecciones locales del 3 de junio. Los manifestantes bloquean el acceso al gimnasio Olímpico que alberga urnas y votos (380 urnas, 2,47 millones de votos), exigiendo una repetición electoral. El 2 de julio, tras 27 días de bloqueo, una comisión parlamentaria ingresó con protección policial. La protesta continúa exigiendo una investigación independiente con fiscales especiales y nuevas elecciones. El perfil demográfico de los manifestantes está envejeciendo a medida que aumentan las cancelaciones y los costos. El 4 de julio la policía reportó 2.000 efectivos desplegados.",
+    "motivo": "Cumple un mes la protesta ciudadana contra la escasez de papeletas electorales que afectó las elecciones locales del 3 de junio. Los manifestantes bloquean el acceso al gimnasio Olímpico que alberga urnas y votos (380 urnas, 2,47 millones de votos), exigiendo una repetición electoral. El 2 de julio, tras 27 días de bloqueo, una comisión parlamentaria ingresó con protección policial. La protesta continúa exigiendo una investigación independiente con fiscales especiales y nuevas elecciones. El perfil demográfico de los manifestantes está envejeciendo a medida que aumentan las cancelaciones y los costos. El 4 de julio la policía reportó 2.000 efectivos desplegados. El 5 de julio el diputado Yoon Sang-hyun propuso un recuento público de los 2,47 millones de votos. Se encontraron pruebas de que la comisión electoral fue advertida de la posible escasez pero no actuó.",
     "status": "en_curso",
     "lat": "37.5153",
     "lng": "127.1074",
     "fuentes": [
+      {
+        "nombre": "Aju Press - One Month into Olympic Park Ballot Protest July 5",
+        "url": "https://m.ajupress.com/amp/20260705160070538"
+      },
+      {
+        "nombre": "Herald Business - Yoon pushes public recount 2.47 million ballots July 5",
+        "url": "https://biz.heraldcorp.com/article/10798495"
+      },
+      {
+        "nombre": "Asia Business Daily - Evidence ballot shortage warning ignored July 5",
+        "url": "https://www.asiae.co.kr/en/article/2026070519270208802"
+      },
       {
         "nombre": "ChosunBiz - Olympic Park protests shift older July 4 2026",
         "url": "https://biz.chosun.com/en/en-society/2026/07/04/RCILHQV5CJAZJIRHUGMEQTCC5U/"
@@ -162,7 +191,7 @@
       }
     ],
     "createdAt": "2026-07-04T10:31:43.000Z",
-    "updatedAt": "2026-07-05T12:54:37Z"
+    "updatedAt": "2026-07-05T14:49:11Z"
   },
   {
     "id": 449,
@@ -179,11 +208,15 @@
       "All India Students' Association (AISA)",
       "Samyukt Kisan Morcha (SKM)"
     ],
-    "motivo": "Día 17 de la protesta del Cockroach Janta Party (CJP) en Jantar Mantar, Delhi. El día 15 (4 de julio) el activista Sonam Wangchuk continuaba en huelga de hambre por séptimo día consecutivo, habiendo perdido 5 kg con salud deteriorada bajo supervisión médica. Seis estudiantes de AISA también en huelga de hambre. El Samyukt Kisan Morcha (SKM) anunció que una delegación se uniría a la protesta el 5 de julio. El movimiento exige la renuncia del Ministro de Educación Dharmendra Pradhan por irregularidades en exámenes nacionales (filtración del examen NEET), rendición de cuentas, transparencia en el sistema educativo y reformas institucionales.",
+    "motivo": "Día 17 de la protesta del Cockroach Janta Party (CJP) en Jantar Mantar, Delhi. El día 16 (5 de julio) el activista Sonam Wangchuk continuaba en huelga de hambre por octavo día consecutivo, habiendo perdido 6 kg. Seis estudiantes de AISA también en huelga de hambre. El Samyukt Kisan Morcha (SKM) se unió a la protesta el 5 de julio. El movimiento exige la renuncia del Ministro de Educación Dharmendra Pradhan por irregularidades en exámenes nacionales (filtración del examen NEET), rendición de cuentas, transparencia en el sistema educativo y reformas institucionales.",
     "status": "en_curso",
     "lat": "28.6278",
     "lng": "77.2167",
     "fuentes": [
+      {
+        "nombre": "ETV Bharat - Day 16 Of CJP Protest: Wangchuk Loses 6 Kg As Fast Enters 8th Day July 5 2026",
+        "url": "https://www.etvbharat.com/en/bharat/day-16-of-cjp-protest-wangchuk-loses-6-kg-as-fast-enters-8th-day-enn26070502864"
+      },
       {
         "nombre": "ETV Bharat - CJP protest Day 15 July 4 2026",
         "url": "https://www.etvbharat.com/en/bharat/cjp-protest-to-highlight-upsc-aspirants-challenges-on-15th-day-sonam-wangchuks-hunger-strike-continues-into-seventh-day-enn26070402264"
@@ -191,14 +224,10 @@
       {
         "nombre": "New Indian Express - Wangchuk day 7 hunger strike July 4 2026",
         "url": "https://www.newindianexpress.com/india/2026/Jul/04/wangchuk-enters-7th-day-of-hunger-strike-cjp-says-activist-has-lost-5kg-as-health-deteriorates"
-      },
-      {
-        "nombre": "ETV Bharat - Day 16 Of CJP Protest: Wangchuk Loses 6 Kg As Fast Enters 8th Day July 5 2026",
-        "url": "https://www.etvbharat.com/en/bharat/day-16-of-cjp-protest-wangchuk-loses-6-kg-as-fast-enters-8th-day-enn26070502864"
       }
     ],
     "createdAt": "2026-07-02T18:12:47.000Z",
-    "updatedAt": "2026-07-05T12:54:37Z"
+    "updatedAt": "2026-07-05T14:49:11Z"
   },
   {
     "id": 464,
@@ -215,11 +244,19 @@
       "Jammu Kashmir Joint Awami Action Committee (JKAMMC)",
       "Diáspora cachemira global"
     ],
-    "motivo": "Jornada de protestas masivas convocadas por JAAC en Cachemira bajo ocupación pakistaní (PoK) contra la brutal represión del gobierno pakistaní, que ha dejado decenas de muertos. El movimiento, que cumple 26 días, exige el fin de la represión, el levantamiento del bloqueo y el toque de queda, y 38 demandas clave que incluyen derechos humanos básicos. Sardar Amman Khan llamó a la diáspora global a sumarse. Pakistán designó al JAAC como 'organización terrorista'. La movilización del 4 de julio en Rawalakot congregó a más de 80.000 personas. Los líderes advierten que si no se cumplen las demandas, el movimiento evolucionará hacia un llamado a la retirada total de Pakistán de la región.",
+    "motivo": "Jornada de protestas masivas del JAAC en Cachemira bajo ocupación pakistaní (PoK) contra la brutal represión del gobierno pakistaní, que ha dejado decenas de muertos. El movimiento cumple 26 días. El 5 de julio las fuerzas de seguridad paquistaníes abrieron fuego contra manifestantes, causando al menos 1 muerto y varios heridos. Más de 600 activistas han sido arrestados. Pakistán designó al JAAC como 'organización terrorista'. La movilización del 4 de julio en Rawalakot congregó a más de 80.000 personas. Los líderes advierten que si no se cumplen las 38 demandas clave, el movimiento evolucionará hacia un llamado a la retirada total de Pakistán de la región.",
     "status": "en_curso",
     "lat": "33.6000",
     "lng": "73.6000",
     "fuentes": [
+      {
+        "nombre": "News18 - Anti-Pakistan Protests Rock PoK: 1 Killed July 5",
+        "url": "https://www.news18.com/world/pakistan-occupied-kashmir-protests-intensify-1-killed-several-injured-as-security-forces-open-fire-exclusive-ws-l-10191743.html"
+      },
+      {
+        "nombre": "Firstpost - Massive Anti-Pakistan Protests Begin in PoJK July 5",
+        "url": "https://www.firstpost.com/world/mass-protests-erupt-across-pojk-following-crackdown-arrest-of-over-600-civil-rights-activists-14029030.html"
+      },
       {
         "nombre": "Times Now - PoK erupts again worldwide protest July 5",
         "url": "https://www.timesnownews.com/world/asia/pok-protests-july-5-pakistan-crackdown-jaac-call-for-demonstrations-article-154944953"
@@ -234,14 +271,14 @@
       }
     ],
     "createdAt": "2026-07-05T02:50:38.000Z",
-    "updatedAt": "2026-07-05T12:54:37Z"
+    "updatedAt": "2026-07-05T14:49:11Z"
   },
   {
     "id": 465,
     "seccion": "protestas_int",
     "pais": "España",
     "bandera": "🇪🇸",
-    "hora": "12:00",
+    "hora": "11:00",
     "fecha": "2026-07-05",
     "lugar": "Playa Es Trenc, Mallorca, Islas Baleares",
     "tipoAccion": "protesta",
@@ -250,18 +287,26 @@
       "Terraferida",
       "Menys Turisme, Més Vida (Menos Turismo, Más Vida)"
     ],
-    "motivo": "Cadena humana en la playa de Es Trenc contra la reducción del nivel de protección del Parque Natural de Es Trenc-Es Salobrar. Los ecologistas denuncian que el Govern Balear pretende desproteger el parque mediante una ley ómnibus que permitiría modificar el plan de gestión por decreto sin debate parlamentario. La protesta se realiza bajo el lema 'Ni antes, ni ahora, ni nunca'. El Govern de Marga Prohens niega tener intención de desproteger el espacio natural. Es Trenc es uno de los humedales y playas vírgenes más importantes de Mallorca.",
-    "status": "en_curso",
+    "motivo": "Cadena humana de 3 kilómetros en la playa de Es Trenc con 10.000 participantes contra la reducción del nivel de protección del Parque Natural de Es Trenc-Es Salobrar. Los ecologistas denuncian que el Govern Balear pretende desproteger el parque mediante una ley ómnibus que permitiría modificar el plan de gestión por decreto sin debate parlamentario. La protesta se realizó bajo el lema 'Ni antes, ni ahora, ni nunca'. El Govern de Marga Prohens niega tener intención de desproteger el espacio natural. Es Trenc es uno de los humedales y playas vírgenes más importantes de Mallorca.",
+    "status": "finalizada",
     "lat": "39.3500",
     "lng": "2.9833",
     "fuentes": [
+      {
+        "nombre": "Deia - Miles de personas cadena humana 3 km es Trenc July 5",
+        "url": "https://www.deia.eus/actualidad/sociedad/2026/07/05/miles-personas-cadena-humana-espacios-naturales-mallorca-11287228.html"
+      },
+      {
+        "nombre": "El Periódico - Miles cadena humana es Trenc July 5",
+        "url": "https://www.elperiodico.com/es/sociedad/20260705/miles-personas-forman-cadena-humana-protesta-desproteccion-parque-natural-es-trenc-mallorca-132142107"
+      },
       {
         "nombre": "Majorca Daily Bulletin - Human chain protest Es Trenc July 5",
         "url": "https://www.majorcadailybulletin.com/news/local/2026/07/04/143755/the-human-chain-protest-protect-one-mallorca-most-important-natural-spaces.html"
       }
     ],
     "createdAt": "2026-07-05T02:50:38.000Z",
-    "updatedAt": "2026-07-05T12:54:37Z"
+    "updatedAt": "2026-07-05T14:49:11Z"
   },
   {
     "id": 466,
@@ -276,7 +321,7 @@
       "Dénia Animal Save",
       "Colectivos antiespecistas"
     ],
-    "motivo": "Manifestación anual contra los 'Bous a la Mar' de Dénia, tradición taurina que consiste en lanzar toros y vaquillas al mar. Los activistas exigen la abolición inmediata de esta y todas las celebraciones que usan animales. Denuncian tortura, sufrimiento animal y gasto público. El rapero alicantino Arkano entregó casi 70.000 firmas al Ayuntamiento pidiendo el fin de los 'Bous a la Mar'. El gobierno local redujo las sesiones a la mitad pero los activistas consideran la medida insuficiente. El nuevo alcalde Rafa Carrió (Compromís) es instado a abolir los festejos taurinos.",
+    "motivo": "Manifestación anual contra los 'Bous a la Mar' de Dénia, tradición taurina que consiste en lanzar toros y vaquillas al mar. Los activistas exigen la abolición inmediata de esta y todas las celebraciones que usan animales. Denuncian tortura, sufrimiento animal y gasto público. El rapero alicantino Arkano entregó casi 70.000 firmas al Ayuntamiento pidiendo el fin de los 'Bous a la Mar'. El gobierno local redujo las sesiones a la mitad pero los activistas consideran la medida insuficiente.",
     "status": "en_curso",
     "lat": "38.8400",
     "lng": "0.1100",
@@ -287,7 +332,7 @@
       }
     ],
     "createdAt": "2026-07-05T02:50:38.000Z",
-    "updatedAt": "2026-07-05T12:54:37Z"
+    "updatedAt": "2026-07-05T14:49:11Z"
   },
   {
     "id": 467,
@@ -313,7 +358,7 @@
       }
     ],
     "createdAt": "2026-07-05T02:50:38.000Z",
-    "updatedAt": "2026-07-05T12:54:37Z"
+    "updatedAt": "2026-07-05T14:49:11Z"
   },
   {
     "id": 468,
@@ -343,7 +388,7 @@
       }
     ],
     "createdAt": "2026-07-05T02:50:38.000Z",
-    "updatedAt": "2026-07-05T12:54:37Z"
+    "updatedAt": "2026-07-05T14:49:11Z"
   },
   {
     "id": 469,
@@ -385,7 +430,7 @@
       }
     ],
     "createdAt": "2026-07-05T02:50:38.000Z",
-    "updatedAt": "2026-07-05T12:54:37Z"
+    "updatedAt": "2026-07-05T14:49:11Z"
   },
   {
     "id": 471,
@@ -410,7 +455,7 @@
       }
     ],
     "createdAt": "2026-07-05T02:50:38.000Z",
-    "updatedAt": "2026-07-05T12:54:37Z"
+    "updatedAt": "2026-07-05T14:49:11Z"
   },
   {
     "id": 472,
@@ -440,7 +485,7 @@
       }
     ],
     "createdAt": "2026-07-05T06:39:05.000Z",
-    "updatedAt": "2026-07-05T12:54:37Z"
+    "updatedAt": "2026-07-05T14:49:11Z"
   },
   {
     "id": 473,
@@ -466,7 +511,7 @@
       }
     ],
     "createdAt": "2026-07-05T06:39:05.000Z",
-    "updatedAt": "2026-07-05T12:54:37Z"
+    "updatedAt": "2026-07-05T14:49:11Z"
   },
   {
     "id": 474,
@@ -481,11 +526,15 @@
       "Team Bharat against Ethanol scam",
       "Tehseen Poonawalla"
     ],
-    "motivo": "Primera protesta callejera contra la política gubernamental de mezcla obligatoria de etanol al 20% (E20) en la gasolina, una iniciativa emblemática del primer ministro Narendra Modi. Los manifestantes denuncian menor eficiencia de combustible, mayores costos de mantenimiento, corrosión del motor y falta de opción para los consumidores. La protesta fue convocada por 'Team Bharat against Ethanol scam' y liderada por el empresario Tehseen Poonawalla. La policía de Delhi impuso un límite de 200 asistentes, pero los organizadores lo rechazaron y amenazaron con protestar frente a la residencia del ministro Nitin Gadkari.",
-    "status": "convocada",
+    "motivo": "Protesta contra la política gubernamental de mezcla obligatoria de etanol al 20% (E20) en la gasolina, una iniciativa emblemática del primer ministro Narendra Modi. Los manifestantes denuncian menor eficiencia de combustible, mayores costos de mantenimiento, corrosión del motor y falta de opción para los consumidores. La protesta fue convocada por 'Team Bharat against Ethanol scam' y liderada por el empresario Tehseen Poonawalla. La policía de Delhi impuso un límite de 200 asistentes, pero los organizadores lo rechazaron y amenazaron con protestar frente a la residencia del ministro Nitin Gadkari. La protesta se realizó el 5 de julio a las 14:00 en Jantar Mantar.",
+    "status": "en_curso",
     "lat": "28.6278",
     "lng": "77.2167",
     "fuentes": [
+      {
+        "nombre": "NewsBytes - Limited to 200 people Delhi Police on ethanol protest July 5",
+        "url": "https://www.newsbytesapp.com/news/india/protesters-challenge-limits-at-e20-demonstration/story"
+      },
       {
         "nombre": "Hindustan Times - E20 opponents sit-in Jantar Mantar July 5",
         "url": "https://www.hindustantimes.com/india-news/e20-opponents-to-begin-sit-in-at-jantar-mantar-on-sunday-against-govt-ethanol-blending-mandate-nitin-gadkari-modi-101783178190495.html"
@@ -500,7 +549,7 @@
       }
     ],
     "createdAt": "2026-07-05T09:40:18.000Z",
-    "updatedAt": "2026-07-05T12:54:37Z"
+    "updatedAt": "2026-07-05T14:49:11Z"
   },
   {
     "id": 475,
@@ -516,7 +565,7 @@
       "Uddhav Thackeray"
     ],
     "motivo": "Protesta 'Ram Raksha' lanzada por el partido Shiv Sena (UBT) liderado por Uddhav Thackeray contra la supuesta malversación de fondos, donaciones y ofrendas del Templo Ram en Ayodhya. Los manifestantes recitaron el Ram Raksha Stotra, Hanuman Stotra y Hanuman Chalisa frente al Templo Hanuman en Dadar. Thackeray acusó al BJP de no garantizar la transparencia en la gestión de los fondos donados por los devotos. La protesta marca el inicio de una agitación a nivel estatal.",
-    "status": "convocada",
+    "status": "en_curso",
     "lat": "19.0210",
     "lng": "72.8410",
     "fuentes": [
@@ -530,7 +579,89 @@
       }
     ],
     "createdAt": "2026-07-05T09:40:18.000Z",
-    "updatedAt": "2026-07-05T12:54:37Z"
+    "updatedAt": "2026-07-05T14:49:11Z"
+  },
+  {
+    "id": 477,
+    "seccion": "protestas_int",
+    "pais": "Reino Unido",
+    "bandera": "🇬🇧",
+    "hora": "14:00",
+    "fecha": "2026-07-05",
+    "lugar": "New Scotland Yard (Metropolitan Police HQ), Londres",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Defend Our Juries",
+      "Palestine Action"
+    ],
+    "motivo": "Protesta frente a Scotland Yard al cumplirse un año de la proscripción de Palestine Action como organización terrorista en Reino Unido. Los manifestantes portaron una pancarta con el lema 'Saving Lives is Not Terrorism'. Al menos 14 manifestantes fueron arrestados bajo la sección 12 de la Ley Antiterrorista, incluyendo a la Reverend Sue Parfitt, de 84 años, exmonja anglicana. Los activistas exigen el fin de la complicidad británica con Israel y el cese del suministro de armas a Israel.",
+    "status": "finalizada",
+    "lat": "51.4995",
+    "lng": "-0.1245",
+    "fuentes": [
+      {
+        "nombre": "The Standard - Retired priest arrested Palestine Action protest July 5",
+        "url": "https://www.standard.co.uk/news/uk/london-metropolitan-police-yvette-cooper-bristol-british-b1288825.html"
+      },
+      {
+        "nombre": "The Independent - Retired priest 84 arrested Palestine Action protest July 5",
+        "url": "https://www.independent.co.uk/news/uk/home-news/protesters-juries-london-metropolitan-police-anglican-b3009251.html"
+      }
+    ],
+    "createdAt": "2026-07-05T14:40:27.000Z",
+    "updatedAt": "2026-07-05T14:49:11Z"
+  },
+  {
+    "id": 478,
+    "seccion": "protestas_int",
+    "pais": "Francia",
+    "bandera": "🇫🇷",
+    "hora": "16:00",
+    "fecha": "2026-07-05",
+    "lugar": "Porte d'Aix, Marsella",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "International Solidarity Movement (ISM)-Francia",
+      "Colectivos propalestinos de Marsella"
+    ],
+    "motivo": "Manifestación semanal en solidaridad con Palestina en Marsella, convocada todos los domingos desde hace 33 meses consecutivos. Los manifestantes exigen el fin del genocidio en Gaza, el alto el fuego inmediato y la descolonización de Palestina. La protesta se enmarca en las movilizaciones globales de solidaridad con Palestina.",
+    "status": "en_curso",
+    "lat": "43.2965",
+    "lng": "5.3698",
+    "fuentes": [
+      {
+        "nombre": "ISM-France - Manifestation Palestine Marseille dimanche 5 juillet 16h Porte d'Aix",
+        "url": "https://ismfrance.org/index.php/2026/07/03/manifestation-palestine-marseille-dimanche-5-juillet-16h-porte-daix/"
+      }
+    ],
+    "createdAt": "2026-07-05T14:40:27.000Z",
+    "updatedAt": "2026-07-05T14:49:11Z"
+  },
+  {
+    "id": 479,
+    "seccion": "protestas_int",
+    "pais": "Francia",
+    "bandera": "🇫🇷",
+    "hora": "10:00",
+    "fecha": "2026-07-05",
+    "lugar": "Narbona (Narbonne), Occitania",
+    "tipoAccion": "marcha blanca",
+    "organizaciones": [
+      "Familiares de Louis",
+      "Colectivos ciudadanos de Narbona"
+    ],
+    "motivo": "Marcha blanca en memoria de Louis, adolescente de 17 años asesinado a golpes en Narbona. Su madre encabezó la marcha exigiendo justicia y el fin de la 'excusa de minoridad' en el código penal francés. Centenares de asistentes marcharon por las calles de Narbona. La movilización se da en un contexto de creciente politización del caso por parte de la extrema derecha, que busca capitalizar la indignación. El fiscal aclaró que el crimen no tuvo motivación racial.",
+    "status": "finalizada",
+    "lat": "43.1833",
+    "lng": "3.0000",
+    "fuentes": [
+      {
+        "nombre": "BFMTV - Marche blanche pour Louis Narbonne July 5",
+        "url": "https://www.bfmtv.com/police-justice/me-battre-pour-que-justice-te-soit-rendue-a-la-marche-blanche-pour-louis-sa-mere-plaide-pour-la-fin-de-l-excuse-de-minorite_AV-202607050210.html"
+      }
+    ],
+    "createdAt": "2026-07-05T14:40:27.000Z",
+    "updatedAt": "2026-07-05T14:49:11Z"
   },
   {
     "id": 390,
@@ -571,7 +702,7 @@
       }
     ],
     "createdAt": "2026-07-02T16:07:18.000Z",
-    "updatedAt": "2026-07-05T12:54:37Z"
+    "updatedAt": "2026-07-05T14:49:11Z"
   },
   {
     "id": 422,
@@ -624,7 +755,7 @@
       }
     ],
     "createdAt": "2026-07-03T15:57:09.000Z",
-    "updatedAt": "2026-07-05T12:54:37Z"
+    "updatedAt": "2026-07-05T14:49:11Z"
   },
   {
     "id": 476,
@@ -649,6 +780,40 @@
       }
     ],
     "createdAt": "2026-07-05T11:29:58.000Z",
-    "updatedAt": "2026-07-05T12:54:37Z"
+    "updatedAt": "2026-07-05T14:49:11Z"
+  },
+  {
+    "id": 480,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "13:00",
+    "fecha": "2026-07-05",
+    "lugar": "Rotonda del Parque Industrial, Gualeguaychú, Entre Ríos",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Sindicato del Personal de Industrias Químicas y Petroquímicas",
+      "Trabajadores de Unionbat"
+    ],
+    "motivo": "Jornada de protesta de trabajadores de Unionbat S.A. contra el despido de aproximadamente 100 empleados. La empresa cerró su planta en Gualeguaychú y despidió a todo el personal. A pesar de que la Secretaría de Trabajo de Entre Ríos dictó la conciliación obligatoria ordenando la reincorporación inmediata, Unionbat incumplió la medida e impidió el ingreso de los trabajadores, profundizando el conflicto. Exigen la reincorporación de todos los despedidos, el pago de salarios adeudados y la continuidad de la fuente laboral en la ciudad.",
+    "status": "en_curso",
+    "lat": "-33.0089",
+    "lng": "-58.5142",
+    "fuentes": [
+      {
+        "nombre": "Blanca Ciudad Noticias - Unionbat protesta Gualeguaychú 5 julio 2026",
+        "url": "https://blancaciudadnoticias.com.ar/2026/07/conflicto-laboral-trabajadores-de-unionbat-realizaran-una-jornada-de-protesta-en-gualeguaychu/"
+      },
+      {
+        "nombre": "Diario El Argentino - Convocan protesta despidos Unionbat 5 julio 2026",
+        "url": "https://diarioelargentino.com/gualeguaychu/crece-la-tension-en-el-parque-industrial-convocan-a-una-protesta-por-los-despidos-en-unionbat.htm"
+      },
+      {
+        "nombre": "APFDigital - Convocan protesta Unionbat Gualeguaychú 4 julio 2026",
+        "url": "https://www.apfdigital.com.ar/noticias/2026/07/04/462187-convocan-a-una-protesta-en-gualeguaychu-por-el-conflicto-en-unionbat-y-el-despido-de-un-centenar-de-trabajadores"
+      }
+    ],
+    "createdAt": "2026-07-05T14:44:04.000Z",
+    "updatedAt": "2026-07-05T14:49:11Z"
   }
 ]
