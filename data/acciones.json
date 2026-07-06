@@ -52,7 +52,7 @@
       }
     ],
     "createdAt": "2026-07-02T18:12:47.000Z",
-    "updatedAt": "2026-07-06T05:57:58Z"
+    "updatedAt": "2026-07-06T10:19:21Z"
   },
   {
     "id": 446,
@@ -99,7 +99,7 @@
       }
     ],
     "createdAt": "2026-07-04T10:31:43.000Z",
-    "updatedAt": "2026-07-06T05:57:58Z"
+    "updatedAt": "2026-07-06T10:19:21Z"
   },
   {
     "id": 449,
@@ -147,7 +147,7 @@
       }
     ],
     "createdAt": "2026-07-02T18:12:47.000Z",
-    "updatedAt": "2026-07-06T05:57:58Z"
+    "updatedAt": "2026-07-06T10:19:21Z"
   },
   {
     "id": 464,
@@ -207,7 +207,7 @@
       }
     ],
     "createdAt": "2026-07-05T02:50:38.000Z",
-    "updatedAt": "2026-07-06T05:57:58Z"
+    "updatedAt": "2026-07-06T10:19:21Z"
   },
   {
     "id": 473,
@@ -233,7 +233,7 @@
       }
     ],
     "createdAt": "2026-07-05T06:39:05.000Z",
-    "updatedAt": "2026-07-06T05:57:58Z"
+    "updatedAt": "2026-07-06T10:19:21Z"
   },
   {
     "id": 484,
@@ -263,7 +263,7 @@
       }
     ],
     "createdAt": "2026-07-05T17:35:28.000Z",
-    "updatedAt": "2026-07-06T05:57:58Z"
+    "updatedAt": "2026-07-06T10:19:21Z"
   },
   {
     "id": 487,
@@ -301,7 +301,7 @@
       }
     ],
     "createdAt": "2026-07-05T23:10:21.000Z",
-    "updatedAt": "2026-07-06T05:57:58Z"
+    "updatedAt": "2026-07-06T10:19:21Z"
   },
   {
     "id": 488,
@@ -331,7 +331,7 @@
       }
     ],
     "createdAt": "2026-07-06T01:14:05.000Z",
-    "updatedAt": "2026-07-06T05:57:58Z"
+    "updatedAt": "2026-07-06T10:19:21Z"
   },
   {
     "id": 489,
@@ -364,7 +364,7 @@
       }
     ],
     "createdAt": "2026-07-06T01:14:05.000Z",
-    "updatedAt": "2026-07-06T05:57:58Z"
+    "updatedAt": "2026-07-06T10:19:21Z"
   },
   {
     "id": 490,
@@ -389,7 +389,67 @@
       }
     ],
     "createdAt": "2026-07-06T01:14:05.000Z",
-    "updatedAt": "2026-07-06T05:57:58Z"
+    "updatedAt": "2026-07-06T10:19:21Z"
+  },
+  {
+    "id": 493,
+    "seccion": "protestas_int",
+    "pais": "Reino Unido",
+    "bandera": "🇬🇧",
+    "hora": "00:00",
+    "fecha": "2026-07-06",
+    "lugar": "Institute of Cancer Research, Sutton y Chelsea, Londres",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "Unite the Union",
+      "Personal del ICR (Investigación Científica, Soporte de Laboratorio, Gestión de Sitio)"
+    ],
+    "motivo": "Huelga de personal del Institute of Cancer Research (ICR) en Londres, la primera en 117 años de historia de la institución. Exigen un aumento salarial justo tras seis años de incrementos por debajo de la inflación que han resultado en un recorte salarial efectivo del 16%, mientras el CEO gana más de £457,000 al año y el instituto tiene reservas de más de £100 millones. La huelga continuará del 29 de junio al 10 de julio.",
+    "status": "en_curso",
+    "lat": "51.3500",
+    "lng": "-0.2000",
+    "fuentes": [
+      {
+        "nombre": "Unite the Union - Further London strikes at world-leading ICR June 24 2026",
+        "url": "https://www.unitetheunion.org/news-events/news/2026/june/further-london-strikes-at-world-leading-institute-of-cancer-research"
+      },
+      {
+        "nombre": "UK Strike Calendar - ICR Industrial Action July 6 2026",
+        "url": "https://www.strikecalendar.co.uk/union/unite/instituteofcancerresearchunite"
+      }
+    ],
+    "createdAt": "2026-07-06T10:14:30.000Z",
+    "updatedAt": "2026-07-06T10:19:21Z"
+  },
+  {
+    "id": 494,
+    "seccion": "protestas_int",
+    "pais": "Reino Unido",
+    "bandera": "🇬🇧",
+    "hora": "00:00",
+    "fecha": "2026-07-06",
+    "lugar": "GKN Aerospace, Filton, Bristol",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "Unite the Union",
+      "Trabajadores de GKN Aerospace"
+    ],
+    "motivo": "Huelga de trabajadores de GKN Aerospace en Bristol por un conflicto salarial. Los trabajadores realizan paros los días 29-30 de junio, 1 de julio y 6-8 de julio de 2026, con un veto de horas extras vigente. Exigen mejoras salariales ante el aumento del costo de vida.",
+    "status": "en_curso",
+    "lat": "51.5000",
+    "lng": "-2.5800",
+    "fuentes": [
+      {
+        "nombre": "Unite the Union - Further strike action at GKN in Bristol June 25 2026",
+        "url": "https://www.unitetheunion.org/news-events/news/2026/june/further-strike-action-at-gkn-in-bristol-to-cause-chaos-for-customers"
+      },
+      {
+        "nombre": "CAPA - GKN Aerospace workers schedule Jun/Jul 2026 strike action",
+        "url": "https://centreforaviation.com/news/gkn-aerospace-workers-in-bristol-schedule-junjul-2026-strike-action-1364171"
+      }
+    ],
+    "createdAt": "2026-07-06T10:14:30.000Z",
+    "updatedAt": "2026-07-06T10:19:21Z"
   },
   {
     "id": 390,
@@ -430,7 +490,7 @@
       }
     ],
     "createdAt": "2026-07-02T16:07:18.000Z",
-    "updatedAt": "2026-07-06T05:57:58Z"
+    "updatedAt": "2026-07-06T10:19:21Z"
   },
   {
     "id": 422,
@@ -444,7 +504,7 @@
     "organizaciones": [
       "ATE (Asociación de Trabajadores del Estado)"
     ],
-    "motivo": "Continúan las protestas de trabajadores de la Comisión Nacional de Energía Atómica (CNEA) nucleados en ATE contra el despido de 170 trabajadores contratados en todo el país y la reducción de la estructura de 645 a 272 cargos. Denuncian un plan de vaciamiento y privatización del organismo nuclear argentino. Exigen la reincorporación de todos los despedidos, el pago de salarios adeudados y la continuidad de proyectos estratégicos como el reactor CAREM. Este lunes 6 de julio a las 10 hs hay una concentración en el ingreso al Centro Atómico Bariloche con movilización sobre la avenida Bustillo. Réplicas en CABA, San Rafael (Mendoza), Trelew y Córdoba.",
+    "motivo": "Continúan las protestas de trabajadores de la Comisión Nacional de Energía Atómica (CNEA) nucleados en ATE contra el despido de 170 trabajadores contratados en todo el país y la reducción de la estructura de 645 a 272 cargos. Denuncian un plan de vaciamiento y privatización del organismo nuclear argentino. Exigen la reincorporación de todos los despedidos, el pago de salarios adeudados y la continuidad de proyectos estratégicos como el reactor CAREM. Este lunes 6 de julio a las 10 hs hay una concentración en el ingreso al Centro Atómico Bariloche con movilización sobre la avenida Bustillo, y a las 12:00 un Abrazo simbólico a la CNEA con olla popular. Réplicas en CABA, San Rafael (Mendoza), Trelew y Córdoba.",
     "status": "en_curso",
     "lat": "-41.1331",
     "lng": "-71.3103",
@@ -468,10 +528,14 @@
       {
         "nombre": "NODAL - Fuerzas de Seguridad reprimen protesta CONICET y CNEA (2 julio 2026)",
         "url": "https://www.nodal.am/2026/07/argentina-las-fuerzas-de-seguridad-reprimieron-una-protesta-de-cientificos-e-investigadores/"
+      },
+      {
+        "nombre": "infobariloche - Abrazo simbólico y olla popular Centro Atómico Bariloche (6 julio 2026)",
+        "url": "https://infobariloche.com.ar/sociedad/19-bariloche/36190-convocan-a-un-abrazo-simbolico-y-una-olla-popular-en-el-centro-atomico-bariloche.html"
       }
     ],
     "createdAt": "2026-07-03T15:57:09.000Z",
-    "updatedAt": "2026-07-06T05:57:58Z"
+    "updatedAt": "2026-07-06T10:19:21Z"
   },
   {
     "id": 486,
@@ -506,7 +570,7 @@
       }
     ],
     "createdAt": "2026-07-05T22:00:50.000Z",
-    "updatedAt": "2026-07-06T05:57:58Z"
+    "updatedAt": "2026-07-06T10:19:21Z"
   },
   {
     "id": 491,
@@ -528,10 +592,14 @@
       {
         "nombre": "OPI Santa Cruz - ADOSAC paro de 72 horas antes del receso (5 julio 2026)",
         "url": "https://www.opisantacruz.com.ar/2026/07/05/adosac-paro-de-72-horas-antes-del-receso/"
+      },
+      {
+        "nombre": "Voces y Apuntes - ADOSAC paro 72 horas profundiza conflicto Santa Cruz (6 julio 2026)",
+        "url": "https://vocesyapuntes.com/adosac-convoco-a-un-paro-de-72-horas-y-profundiza-el-conflicto-en-santa-cruz/"
       }
     ],
     "createdAt": "2026-07-06T01:17:27.000Z",
-    "updatedAt": "2026-07-06T05:57:58Z"
+    "updatedAt": "2026-07-06T10:19:21Z"
   },
   {
     "id": 492,
@@ -563,9 +631,17 @@
       {
         "nombre": "Ahora Entre Ríos - Conflicto laboral Unionbat protesta lunes 6 (4 julio 2026)",
         "url": "https://ahora.com.ar/gualeguaychu/conflicto-laboral-trabajadores-de-unionbat-realizaran-una-jornada-de-protesta-en-gualeguaychu"
+      },
+      {
+        "nombre": "Entre Ríos Ya - Despidos Unionbat jornada protesta lunes 6 (5 julio 2026)",
+        "url": "https://entreriosya.com.ar/despidos-en-unionbat-realizaran-una-jornada-de-protesta-en-gualeguaychu/"
+      },
+      {
+        "nombre": "Máxima Online - Este lunes se movilizan frente al Parque Industrial despedidos UnionBat (4 julio 2026)",
+        "url": "https://maximaonline.com.ar/guale/este-lunes-se-movilizan-frente-al-parque-industrial-los-despedidos-de-unionbat.htm"
       }
     ],
     "createdAt": "2026-07-06T01:17:27.000Z",
-    "updatedAt": "2026-07-06T05:57:58Z"
+    "updatedAt": "2026-07-06T10:19:21Z"
   }
 ]
