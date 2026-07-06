@@ -1,5 +1,46 @@
 [
   {
+    "id": 390,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "00:00",
+    "fecha": "2026-07-06",
+    "lugar": "Yacimientos petroleros en Río Grande y cruce Cholila, Tierra del Fuego",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "Sindicato de Petróleo y Gas Privado de Tierra del Fuego"
+    ],
+    "motivo": "Continúa el paro por tiempo indeterminado contra las operadoras Velitec y Terra Ignis por incumplimiento del acuerdo de incorporación de 260 trabajadores tras la salida de YPF de Tierra del Fuego. Solo 43 de los 260 trabajadores comprometidos fueron incorporados. Exigen la reincorporación de los 217 trabajadores restantes, el pago de salarios y aguinaldos adeudados, y garantías de operación normal de los yacimientos. La planta San Sebastián está al borde del colapso con una sola turbina operativa. El gremio ratificó que la medida continuará hasta que se cumplan los acuerdos y el 5 de julio rompió negociaciones con la ministra Castillo ante el estancamiento de las reincorporaciones.",
+    "status": "en_curso",
+    "lat": "-53.7860",
+    "lng": "-67.6995",
+    "fuentes": [
+      {
+        "nombre": "OPI Santa Cruz - Gremio petrolero rompe negociaciones con ministra Castillo por despidos (5 julio 2026)",
+        "url": "https://www.opisantacruz.com.ar/2026/07/05/gremio-petrolero-rompe-negociaciones-con-ministra-castillo-por-despidos/"
+      },
+      {
+        "nombre": "Boca de Pozo - Conflicto petrolero en TDF: Paro total (2 julio 2026)",
+        "url": "https://bocadepozo.com.ar/2026/07/02/conflicto-petrolero-en-tdf-paro-total-graves-acusaciones-de-castillo-al-gremio-derrames-de-petroleo-y-riesgo-en-el-suministro-de-gas/"
+      },
+      {
+        "nombre": "TDF News - Petroleros ratificó un paro por tiempo indeterminado (2 julio 2026)",
+        "url": "https://tdfnews.com.ar/petroleros-ratifico-un-paro-por-tiempo-indeterminado-y-exige-la-incorporacion-de-217-trabajadores/"
+      },
+      {
+        "nombre": "Provincia 23 - Sosa denunció que Velitec incorporó solo 43 de 260 trabajadores (2 julio 2026)",
+        "url": "https://www.provincia23.com.ar/2026/07/02/sosa-denuncio-que-velitec-solo-incorporo-a-43-de-los-260-trabajadores-comprometidos/"
+      },
+      {
+        "nombre": "Boca de Pozo - Exclusivo TDF: Paro petrolero indefinido (1 julio 2026)",
+        "url": "https://bocadepozo.com.ar/2026/07/01/exclusivo-tdf-paro-petrolero-indefinido-en-por-los-incumplimientos-de-terra-ignis-y-velitec-que-solo-incorporaron-43-de-los-260-trabajadores/"
+      }
+    ],
+    "createdAt": "2026-07-02T16:07:18.000Z",
+    "updatedAt": "2026-07-06T14:09:55Z"
+  },
+  {
     "id": 391,
     "seccion": "protestas_int",
     "pais": "Albania",
@@ -52,7 +93,52 @@
       }
     ],
     "createdAt": "2026-07-02T18:12:47.000Z",
-    "updatedAt": "2026-07-06T10:19:21Z"
+    "updatedAt": "2026-07-06T14:09:55Z"
+  },
+  {
+    "id": 422,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "10:00",
+    "fecha": "2026-07-06",
+    "lugar": "Centro Atómico Bariloche, Av. Bustillo km 9,5, Bariloche, Río Negro (y sedes CNEA en CABA, San Rafael, Trelew y Córdoba)",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "ATE (Asociación de Trabajadores del Estado)"
+    ],
+    "motivo": "Continúan las protestas de trabajadores de la Comisión Nacional de Energía Atómica (CNEA) nucleados en ATE contra el despido de 170 trabajadores contratados en todo el país y la reducción de la estructura de 645 a 272 cargos. Denuncian un plan de vaciamiento y privatización del organismo nuclear argentino. Exigen la reincorporación de todos los despedidos, el pago de salarios adeudados y la continuidad de proyectos estratégicos como el reactor CAREM. Este lunes 6 de julio a las 10 hs hay una concentración en el ingreso al Centro Atómico Bariloche con movilización sobre la avenida Bustillo, y a las 12:00 un Abrazo simbólico a la CNEA con olla popular. Réplicas en CABA, San Rafael (Mendoza), Trelew y Córdoba.",
+    "status": "en_curso",
+    "lat": "-41.1331",
+    "lng": "-71.3103",
+    "fuentes": [
+      {
+        "nombre": "ANBariloche - Trabajadores CNEA vuelven a movilizar contra despidos lunes 6 julio (5 julio 2026)",
+        "url": "https://www.anbariloche.com.ar/noticias/2026/07/05/110362-trabajadores-de-la-cnea-vuelven-a-movilizar-contra-los-despidos-y-el-desmantelamiento-del-sector-cientifico"
+      },
+      {
+        "nombre": "Infoestación - Conflicto CNEA: despidos y protestas vigentes (3 julio 2026)",
+        "url": "https://www.infoestacion.com.ar/conflicto-en-la-cnea-despidos-y-protestas-enfrentan-al-gobierno-y-trabajadore/"
+      },
+      {
+        "nombre": "ANBariloche - Continúan protestas Centro Atómico despidos CNEA (2 julio 2026)",
+        "url": "https://www.anbariloche.com.ar/noticias/2026/07/02/110170-continuan-las-protestas-en-el-centro-atomico-por-los-despidos-en-la-cnea"
+      },
+      {
+        "nombre": "Página12 - Para los científicos, más ajuste y represión (2 julio 2026)",
+        "url": "https://www.pagina12.com.ar/2026/07/02/para-los-cientificos-mas-ajuste-y-represion-2/"
+      },
+      {
+        "nombre": "NODAL - Fuerzas de Seguridad reprimen protesta CONICET y CNEA (2 julio 2026)",
+        "url": "https://www.nodal.am/2026/07/argentina-las-fuerzas-de-seguridad-reprimieron-una-protesta-de-cientificos-e-investigadores/"
+      },
+      {
+        "nombre": "infobariloche - Abrazo simbólico y olla popular Centro Atómico Bariloche (6 julio 2026)",
+        "url": "https://infobariloche.com.ar/sociedad/19-bariloche/36190-convocan-a-un-abrazo-simbolico-y-una-olla-popular-en-el-centro-atomico-bariloche.html"
+      }
+    ],
+    "createdAt": "2026-07-03T15:57:09.000Z",
+    "updatedAt": "2026-07-06T14:09:55Z"
   },
   {
     "id": 446,
@@ -99,7 +185,7 @@
       }
     ],
     "createdAt": "2026-07-04T10:31:43.000Z",
-    "updatedAt": "2026-07-06T10:19:21Z"
+    "updatedAt": "2026-07-06T14:09:55Z"
   },
   {
     "id": 449,
@@ -147,7 +233,7 @@
       }
     ],
     "createdAt": "2026-07-02T18:12:47.000Z",
-    "updatedAt": "2026-07-06T10:19:21Z"
+    "updatedAt": "2026-07-06T14:09:55Z"
   },
   {
     "id": 464,
@@ -207,7 +293,7 @@
       }
     ],
     "createdAt": "2026-07-05T02:50:38.000Z",
-    "updatedAt": "2026-07-06T10:19:21Z"
+    "updatedAt": "2026-07-06T14:09:55Z"
   },
   {
     "id": 473,
@@ -233,7 +319,7 @@
       }
     ],
     "createdAt": "2026-07-05T06:39:05.000Z",
-    "updatedAt": "2026-07-06T10:19:21Z"
+    "updatedAt": "2026-07-06T14:09:55Z"
   },
   {
     "id": 484,
@@ -263,7 +349,42 @@
       }
     ],
     "createdAt": "2026-07-05T17:35:28.000Z",
-    "updatedAt": "2026-07-06T10:19:21Z"
+    "updatedAt": "2026-07-06T14:09:55Z"
+  },
+  {
+    "id": 486,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "00:00",
+    "fecha": "2026-07-06",
+    "lugar": "Casa de Gobierno, Río Gallegos, Santa Cruz (y múltiples localidades de la provincia)",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Mesa de Unidad Policial y Penitenciaria (MUPP)",
+      "Policías autoconvocados de Santa Cruz",
+      "Servicio Penitenciario Provincial"
+    ],
+    "motivo": "Continúa el acampe y trabajo a reglamento de efectivos policiales y penitenciarios en Santa Cruz por reclamo salarial, que ya supera el mes de duración. Exigen un salario inicial de $2.200.000. Solo el 10% del personal está operativo. El gobierno provincial realizó 11 ofertas rechazadas. El gobierno nacional amenazó con denuncias penales si no se levanta la medida. Denuncian que jefes de comisaría deben hacer Uber o delivery para complementar ingresos.",
+    "status": "en_curso",
+    "lat": "-51.6230",
+    "lng": "-69.2168",
+    "fuentes": [
+      {
+        "nombre": "El Cronista - Policías y maestros con changas: caída de recursos dispara conflictos sociales (5 julio 2026)",
+        "url": "https://www.cronista.com/economia-politica/policias-y-maestros-con-changas-la-caida-de-recursos-dispara-conflictos-sociales-en-las-provincias/"
+      },
+      {
+        "nombre": "El Destape - Policía Santa Cruz denuncia acciones intimidatorias de Milei y Vidal (3 julio 2026)",
+        "url": "https://www.eldestapeweb.com/politica/acuerdo-salarial-policia-santa-cruz-denuncia-acciones-intimidatorias-milei-vidal-202673162341"
+      },
+      {
+        "nombre": "La Arena - Policías de Santa Cruz están acuartelados hace un mes (1 julio 2026)",
+        "url": "https://www.laarena.com.ar/el-pais/policias-de-santa-cruz-estan-acuartelados-hace-un-mes-y-reclaman-mejoras-salariales-2026719500"
+      }
+    ],
+    "createdAt": "2026-07-05T22:00:50.000Z",
+    "updatedAt": "2026-07-06T14:09:55Z"
   },
   {
     "id": 487,
@@ -301,7 +422,7 @@
       }
     ],
     "createdAt": "2026-07-05T23:10:21.000Z",
-    "updatedAt": "2026-07-06T10:19:21Z"
+    "updatedAt": "2026-07-06T14:09:55Z"
   },
   {
     "id": 488,
@@ -331,7 +452,7 @@
       }
     ],
     "createdAt": "2026-07-06T01:14:05.000Z",
-    "updatedAt": "2026-07-06T10:19:21Z"
+    "updatedAt": "2026-07-06T14:09:55Z"
   },
   {
     "id": 489,
@@ -364,7 +485,7 @@
       }
     ],
     "createdAt": "2026-07-06T01:14:05.000Z",
-    "updatedAt": "2026-07-06T10:19:21Z"
+    "updatedAt": "2026-07-06T14:09:55Z"
   },
   {
     "id": 490,
@@ -389,188 +510,7 @@
       }
     ],
     "createdAt": "2026-07-06T01:14:05.000Z",
-    "updatedAt": "2026-07-06T10:19:21Z"
-  },
-  {
-    "id": 493,
-    "seccion": "protestas_int",
-    "pais": "Reino Unido",
-    "bandera": "🇬🇧",
-    "hora": "00:00",
-    "fecha": "2026-07-06",
-    "lugar": "Institute of Cancer Research, Sutton y Chelsea, Londres",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "Unite the Union",
-      "Personal del ICR (Investigación Científica, Soporte de Laboratorio, Gestión de Sitio)"
-    ],
-    "motivo": "Huelga de personal del Institute of Cancer Research (ICR) en Londres, la primera en 117 años de historia de la institución. Exigen un aumento salarial justo tras seis años de incrementos por debajo de la inflación que han resultado en un recorte salarial efectivo del 16%, mientras el CEO gana más de £457,000 al año y el instituto tiene reservas de más de £100 millones. La huelga continuará del 29 de junio al 10 de julio.",
-    "status": "en_curso",
-    "lat": "51.3500",
-    "lng": "-0.2000",
-    "fuentes": [
-      {
-        "nombre": "Unite the Union - Further London strikes at world-leading ICR June 24 2026",
-        "url": "https://www.unitetheunion.org/news-events/news/2026/june/further-london-strikes-at-world-leading-institute-of-cancer-research"
-      },
-      {
-        "nombre": "UK Strike Calendar - ICR Industrial Action July 6 2026",
-        "url": "https://www.strikecalendar.co.uk/union/unite/instituteofcancerresearchunite"
-      }
-    ],
-    "createdAt": "2026-07-06T10:14:30.000Z",
-    "updatedAt": "2026-07-06T10:19:21Z"
-  },
-  {
-    "id": 494,
-    "seccion": "protestas_int",
-    "pais": "Reino Unido",
-    "bandera": "🇬🇧",
-    "hora": "00:00",
-    "fecha": "2026-07-06",
-    "lugar": "GKN Aerospace, Filton, Bristol",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "Unite the Union",
-      "Trabajadores de GKN Aerospace"
-    ],
-    "motivo": "Huelga de trabajadores de GKN Aerospace en Bristol por un conflicto salarial. Los trabajadores realizan paros los días 29-30 de junio, 1 de julio y 6-8 de julio de 2026, con un veto de horas extras vigente. Exigen mejoras salariales ante el aumento del costo de vida.",
-    "status": "en_curso",
-    "lat": "51.5000",
-    "lng": "-2.5800",
-    "fuentes": [
-      {
-        "nombre": "Unite the Union - Further strike action at GKN in Bristol June 25 2026",
-        "url": "https://www.unitetheunion.org/news-events/news/2026/june/further-strike-action-at-gkn-in-bristol-to-cause-chaos-for-customers"
-      },
-      {
-        "nombre": "CAPA - GKN Aerospace workers schedule Jun/Jul 2026 strike action",
-        "url": "https://centreforaviation.com/news/gkn-aerospace-workers-in-bristol-schedule-junjul-2026-strike-action-1364171"
-      }
-    ],
-    "createdAt": "2026-07-06T10:14:30.000Z",
-    "updatedAt": "2026-07-06T10:19:21Z"
-  },
-  {
-    "id": 390,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "00:00",
-    "fecha": "2026-07-06",
-    "lugar": "Yacimientos petroleros en Río Grande y cruce Cholila, Tierra del Fuego",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "Sindicato de Petróleo y Gas Privado de Tierra del Fuego"
-    ],
-    "motivo": "Continúa el paro por tiempo indeterminado contra las operadoras Velitec y Terra Ignis por incumplimiento del acuerdo de incorporación de 260 trabajadores tras la salida de YPF de Tierra del Fuego. Solo 43 de los 260 trabajadores comprometidos fueron incorporados. Exigen la reincorporación de los 217 trabajadores restantes, el pago de salarios y aguinaldos adeudados, y garantías de operación normal de los yacimientos. La planta San Sebastián está al borde del colapso con una sola turbina operativa. El gremio ratificó que la medida continuará hasta que se cumplan los acuerdos y el 5 de julio rompió negociaciones con la ministra Castillo ante el estancamiento de las reincorporaciones.",
-    "status": "en_curso",
-    "lat": "-53.7860",
-    "lng": "-67.6995",
-    "fuentes": [
-      {
-        "nombre": "OPI Santa Cruz - Gremio petrolero rompe negociaciones con ministra Castillo por despidos (5 julio 2026)",
-        "url": "https://www.opisantacruz.com.ar/2026/07/05/gremio-petrolero-rompe-negociaciones-con-ministra-castillo-por-despidos/"
-      },
-      {
-        "nombre": "Boca de Pozo - Conflicto petrolero en TDF: Paro total (2 julio 2026)",
-        "url": "https://bocadepozo.com.ar/2026/07/02/conflicto-petrolero-en-tdf-paro-total-graves-acusaciones-de-castillo-al-gremio-derrames-de-petroleo-y-riesgo-en-el-suministro-de-gas/"
-      },
-      {
-        "nombre": "TDF News - Petroleros ratificó un paro por tiempo indeterminado (2 julio 2026)",
-        "url": "https://tdfnews.com.ar/petroleros-ratifico-un-paro-por-tiempo-indeterminado-y-exige-la-incorporacion-de-217-trabajadores/"
-      },
-      {
-        "nombre": "Provincia 23 - Sosa denunció que Velitec incorporó solo 43 de 260 trabajadores (2 julio 2026)",
-        "url": "https://www.provincia23.com.ar/2026/07/02/sosa-denuncio-que-velitec-solo-incorporo-a-43-de-los-260-trabajadores-comprometidos/"
-      },
-      {
-        "nombre": "Boca de Pozo - Exclusivo TDF: Paro petrolero indefinido (1 julio 2026)",
-        "url": "https://bocadepozo.com.ar/2026/07/01/exclusivo-tdf-paro-petrolero-indefinido-en-por-los-incumplimientos-de-terra-ignis-y-velitec-que-solo-incorporaron-43-de-los-260-trabajadores/"
-      }
-    ],
-    "createdAt": "2026-07-02T16:07:18.000Z",
-    "updatedAt": "2026-07-06T10:19:21Z"
-  },
-  {
-    "id": 422,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "10:00",
-    "fecha": "2026-07-06",
-    "lugar": "Centro Atómico Bariloche, Av. Bustillo km 9,5, Bariloche, Río Negro (y sedes CNEA en CABA, San Rafael, Trelew y Córdoba)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "ATE (Asociación de Trabajadores del Estado)"
-    ],
-    "motivo": "Continúan las protestas de trabajadores de la Comisión Nacional de Energía Atómica (CNEA) nucleados en ATE contra el despido de 170 trabajadores contratados en todo el país y la reducción de la estructura de 645 a 272 cargos. Denuncian un plan de vaciamiento y privatización del organismo nuclear argentino. Exigen la reincorporación de todos los despedidos, el pago de salarios adeudados y la continuidad de proyectos estratégicos como el reactor CAREM. Este lunes 6 de julio a las 10 hs hay una concentración en el ingreso al Centro Atómico Bariloche con movilización sobre la avenida Bustillo, y a las 12:00 un Abrazo simbólico a la CNEA con olla popular. Réplicas en CABA, San Rafael (Mendoza), Trelew y Córdoba.",
-    "status": "en_curso",
-    "lat": "-41.1331",
-    "lng": "-71.3103",
-    "fuentes": [
-      {
-        "nombre": "ANBariloche - Trabajadores CNEA vuelven a movilizar contra despidos lunes 6 julio (5 julio 2026)",
-        "url": "https://www.anbariloche.com.ar/noticias/2026/07/05/110362-trabajadores-de-la-cnea-vuelven-a-movilizar-contra-los-despidos-y-el-desmantelamiento-del-sector-cientifico"
-      },
-      {
-        "nombre": "Infoestación - Conflicto CNEA: despidos y protestas vigentes (3 julio 2026)",
-        "url": "https://www.infoestacion.com.ar/conflicto-en-la-cnea-despidos-y-protestas-enfrentan-al-gobierno-y-trabajadore/"
-      },
-      {
-        "nombre": "ANBariloche - Continúan protestas Centro Atómico despidos CNEA (2 julio 2026)",
-        "url": "https://www.anbariloche.com.ar/noticias/2026/07/02/110170-continuan-las-protestas-en-el-centro-atomico-por-los-despidos-en-la-cnea"
-      },
-      {
-        "nombre": "Página12 - Para los científicos, más ajuste y represión (2 julio 2026)",
-        "url": "https://www.pagina12.com.ar/2026/07/02/para-los-cientificos-mas-ajuste-y-represion-2/"
-      },
-      {
-        "nombre": "NODAL - Fuerzas de Seguridad reprimen protesta CONICET y CNEA (2 julio 2026)",
-        "url": "https://www.nodal.am/2026/07/argentina-las-fuerzas-de-seguridad-reprimieron-una-protesta-de-cientificos-e-investigadores/"
-      },
-      {
-        "nombre": "infobariloche - Abrazo simbólico y olla popular Centro Atómico Bariloche (6 julio 2026)",
-        "url": "https://infobariloche.com.ar/sociedad/19-bariloche/36190-convocan-a-un-abrazo-simbolico-y-una-olla-popular-en-el-centro-atomico-bariloche.html"
-      }
-    ],
-    "createdAt": "2026-07-03T15:57:09.000Z",
-    "updatedAt": "2026-07-06T10:19:21Z"
-  },
-  {
-    "id": 486,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "00:00",
-    "fecha": "2026-07-06",
-    "lugar": "Casa de Gobierno, Río Gallegos, Santa Cruz (y múltiples localidades de la provincia)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Mesa de Unidad Policial y Penitenciaria (MUPP)",
-      "Policías autoconvocados de Santa Cruz",
-      "Servicio Penitenciario Provincial"
-    ],
-    "motivo": "Continúa el acampe y trabajo a reglamento de efectivos policiales y penitenciarios en Santa Cruz por reclamo salarial, que ya supera el mes de duración. Exigen un salario inicial de $2.200.000. Solo el 10% del personal está operativo. El gobierno provincial realizó 11 ofertas rechazadas. El gobierno nacional amenazó con denuncias penales si no se levanta la medida. Denuncian que jefes de comisaría deben hacer Uber o delivery para complementar ingresos.",
-    "status": "en_curso",
-    "lat": "-51.6230",
-    "lng": "-69.2168",
-    "fuentes": [
-      {
-        "nombre": "El Cronista - Policías y maestros con changas: caída de recursos dispara conflictos sociales (5 julio 2026)",
-        "url": "https://www.cronista.com/economia-politica/policias-y-maestros-con-changas-la-caida-de-recursos-dispara-conflictos-sociales-en-las-provincias/"
-      },
-      {
-        "nombre": "El Destape - Policía Santa Cruz denuncia acciones intimidatorias de Milei y Vidal (3 julio 2026)",
-        "url": "https://www.eldestapeweb.com/politica/acuerdo-salarial-policia-santa-cruz-denuncia-acciones-intimidatorias-milei-vidal-202673162341"
-      },
-      {
-        "nombre": "La Arena - Policías de Santa Cruz están acuartelados hace un mes (1 julio 2026)",
-        "url": "https://www.laarena.com.ar/el-pais/policias-de-santa-cruz-estan-acuartelados-hace-un-mes-y-reclaman-mejoras-salariales-2026719500"
-      }
-    ],
-    "createdAt": "2026-07-05T22:00:50.000Z",
-    "updatedAt": "2026-07-06T10:19:21Z"
+    "updatedAt": "2026-07-06T14:09:55Z"
   },
   {
     "id": 491,
@@ -599,7 +539,7 @@
       }
     ],
     "createdAt": "2026-07-06T01:17:27.000Z",
-    "updatedAt": "2026-07-06T10:19:21Z"
+    "updatedAt": "2026-07-06T14:09:55Z"
   },
   {
     "id": 492,
@@ -642,6 +582,92 @@
       }
     ],
     "createdAt": "2026-07-06T01:17:27.000Z",
-    "updatedAt": "2026-07-06T10:19:21Z"
+    "updatedAt": "2026-07-06T14:09:55Z"
+  },
+  {
+    "id": 493,
+    "seccion": "protestas_int",
+    "pais": "Reino Unido",
+    "bandera": "🇬🇧",
+    "hora": "00:00",
+    "fecha": "2026-07-06",
+    "lugar": "Institute of Cancer Research, Sutton y Chelsea, Londres",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "Unite the Union",
+      "Personal del ICR (Investigación Científica, Soporte de Laboratorio, Gestión de Sitio)"
+    ],
+    "motivo": "Huelga de personal del Institute of Cancer Research (ICR) en Londres, la primera en 117 años de historia de la institución. Exigen un aumento salarial justo tras seis años de incrementos por debajo de la inflación que han resultado en un recorte salarial efectivo del 16%, mientras el CEO gana más de £457,000 al año y el instituto tiene reservas de más de £100 millones. La huelga continuará del 29 de junio al 10 de julio.",
+    "status": "en_curso",
+    "lat": "51.3500",
+    "lng": "-0.2000",
+    "fuentes": [
+      {
+        "nombre": "Unite the Union - Further London strikes at world-leading ICR June 24 2026",
+        "url": "https://www.unitetheunion.org/news-events/news/2026/june/further-london-strikes-at-world-leading-institute-of-cancer-research"
+      },
+      {
+        "nombre": "UK Strike Calendar - ICR Industrial Action July 6 2026",
+        "url": "https://www.strikecalendar.co.uk/union/unite/instituteofcancerresearchunite"
+      }
+    ],
+    "createdAt": "2026-07-06T10:14:30.000Z",
+    "updatedAt": "2026-07-06T14:09:55Z"
+  },
+  {
+    "id": 494,
+    "seccion": "protestas_int",
+    "pais": "Reino Unido",
+    "bandera": "🇬🇧",
+    "hora": "00:00",
+    "fecha": "2026-07-06",
+    "lugar": "GKN Aerospace, Filton, Bristol",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "Unite the Union",
+      "Trabajadores de GKN Aerospace"
+    ],
+    "motivo": "Huelga de trabajadores de GKN Aerospace en Bristol por un conflicto salarial. Los trabajadores realizan paros los días 29-30 de junio, 1 de julio y 6-8 de julio de 2026, con un veto de horas extras vigente. Exigen mejoras salariales ante el aumento del costo de vida.",
+    "status": "en_curso",
+    "lat": "51.5000",
+    "lng": "-2.5800",
+    "fuentes": [
+      {
+        "nombre": "Unite the Union - Further strike action at GKN in Bristol June 25 2026",
+        "url": "https://www.unitetheunion.org/news-events/news/2026/june/further-strike-action-at-gkn-in-bristol-to-cause-chaos-for-customers"
+      },
+      {
+        "nombre": "CAPA - GKN Aerospace workers schedule Jun/Jul 2026 strike action",
+        "url": "https://centreforaviation.com/news/gkn-aerospace-workers-in-bristol-schedule-junjul-2026-strike-action-1364171"
+      }
+    ],
+    "createdAt": "2026-07-06T10:14:30.000Z",
+    "updatedAt": "2026-07-06T14:09:55Z"
+  },
+  {
+    "id": 495,
+    "seccion": "protestas_int",
+    "pais": "Kenia",
+    "bandera": "🇰🇪",
+    "hora": "00:00",
+    "fecha": "2026-07-06",
+    "lugar": "Nairobi y principales ciudades de Kenia (nacional)",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "Operadores de matatus (transporte público)",
+      "Asociación de Transporte Público de Kenia"
+    ],
+    "motivo": "Huelga nacional de operadores de matatus (transporte público) en protesta por el aumento del precio del combustible. Los operadores exigen una reversión de los aumentos de precios del combustible y denuncian que el gobierno está generando intencionalmente disturbios al fabricar provocadores. La huelga ha paralizado el transporte público en todo el país, afectando gravemente la movilidad de millones de kenianos.",
+    "status": "en_curso",
+    "lat": "-1.2921",
+    "lng": "36.8219",
+    "fuentes": [
+      {
+        "nombre": "The Online Kenyan - Nationwide Matatu Strike Escalates Over Fuel Prices July 6 2026",
+        "url": "https://www.theonlinekenyan.com/daily/2026-07-06/nationwide-matatu-strike-escalates-over-fuel-prices"
+      }
+    ],
+    "createdAt": "2026-07-06T14:05:44.000Z",
+    "updatedAt": "2026-07-06T14:09:55Z"
   }
 ]
