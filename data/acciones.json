@@ -1,196 +1,11 @@
 [
   {
-    "id": 390,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "00:00",
-    "fecha": "2026-07-05",
-    "lugar": "Yacimientos petroleros en Río Grande y cruce Cholila, Tierra del Fuego",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "Sindicato de Petróleo y Gas Privado de Tierra del Fuego"
-    ],
-    "motivo": "Continúa el paro por tiempo indeterminado contra las operadoras Velitec y Terra Ignis por incumplimiento del acuerdo de incorporación de 260 trabajadores tras la salida de YPF de Tierra del Fuego. Solo 43 de los 260 trabajadores comprometidos fueron incorporados. Exigen la reincorporación de los 217 trabajadores restantes, el pago de salarios y aguinaldos adeudados, y garantías de operación normal de los yacimientos. La planta San Sebastián está al borde del colapso con una sola turbina operativa. El gremio ratificó que la medida de fuerza continuará hasta que se cumplan los acuerdos.",
-    "status": "en_curso",
-    "lat": "-53.7860",
-    "lng": "-67.6995",
-    "fuentes": [
-      {
-        "nombre": "Boca de Pozo - Conflicto petrolero en TDF: Paro total (2 julio 2026)",
-        "url": "https://bocadepozo.com.ar/2026/07/02/conflicto-petrolero-en-tdf-paro-total-graves-acusaciones-de-castillo-al-gremio-derrames-de-petroleo-y-riesgo-en-el-suministro-de-gas/"
-      },
-      {
-        "nombre": "TDF News - Petroleros ratificó un paro por tiempo indeterminado (2 julio 2026)",
-        "url": "https://tdfnews.com.ar/petroleros-ratifico-un-paro-por-tiempo-indeterminado-y-exige-la-incorporacion-de-217-trabajadores/"
-      },
-      {
-        "nombre": "Provincia 23 - Sosa denunció que Velitec incorporó solo 43 de 260 trabajadores (2 julio 2026)",
-        "url": "https://www.provincia23.com.ar/2026/07/02/sosa-denuncio-que-velitec-solo-incorporo-a-43-de-los-260-trabajadores-comprometidos/"
-      },
-      {
-        "nombre": "Boca de Pozo - Exclusivo TDF: Paro petrolero indefinido (1 julio 2026)",
-        "url": "https://bocadepozo.com.ar/2026/07/01/exclusivo-tdf-paro-petrolero-indefinido-en-por-los-incumplimientos-de-terra-ignis-y-velitec-que-solo-incorporaron-43-de-los-260-trabajadores/"
-      },
-      {
-        "nombre": "Gremiales del Sur - Petroleros TDF con medidas de fuerza (2 julio 2026)",
-        "url": "https://www.gremialesdelsur.com.ar/"
-      }
-    ],
-    "createdAt": "2026-07-02T16:07:18.000Z",
-    "updatedAt": "2026-07-05T23:15:29Z"
-  },
-  {
-    "id": 422,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "12:00",
-    "fecha": "2026-07-05",
-    "lugar": "Centro Atómico Bariloche, Av. Bustillo km 9,5, Bariloche, Río Negro (y sedes CNEA en CABA, San Rafael, Trelew y Córdoba)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "ATE (Asociación de Trabajadores del Estado)"
-    ],
-    "motivo": "Continúan las protestas de trabajadores de la Comisión Nacional de Energía Atómica (CNEA) nucleados en ATE contra el despido de 170 trabajadores contratados en todo el país (62 solo en Bariloche) y la reducción de la estructura de 645 a 272 cargos. Denuncian un plan de vaciamiento y privatización del organismo nuclear argentino. Exigen la reincorporación de todos los despedidos, el pago de salarios adeudados y la continuidad de proyectos estratégicos como el reactor CAREM. Las protestas incluyen cortes intermitentes de tránsito en la Av. Bustillo. Réplicas en CABA, San Rafael (Mendoza), Trelew y Córdoba. Los trabajadores declararon estado de alerta, asamblea y movilización permanente. ATE analiza convocar a un paro nacional.",
-    "status": "en_curso",
-    "lat": "-41.1331",
-    "lng": "-71.3103",
-    "fuentes": [
-      {
-        "nombre": "Infoestación - Conflicto CNEA: despidos y protestas vigentes (3 julio 2026)",
-        "url": "https://www.infoestacion.com.ar/conflicto-en-la-cnea-despidos-y-protestas-enfrentan-al-gobierno-y-trabajadore/"
-      },
-      {
-        "nombre": "Bache3000 - Sigue la protesta de trabajadores cesanteados CNEA (3 julio 2026)",
-        "url": "https://baribache3000.com.ar/nota/5182/sigue-la-protesta-de-trabajadores-cesanteados-en-la-cnea/"
-      },
-      {
-        "nombre": "ANBariloche - Continúan protestas Centro Atómico despidos CNEA (2 julio 2026)",
-        "url": "https://www.anbariloche.com.ar/noticias/2026/07/02/110170-continuan-las-protestas-en-el-centro-atomico-por-los-despidos-en-la-cnea"
-      },
-      {
-        "nombre": "Página12 - Para los científicos, más ajuste y represión (2 julio 2026)",
-        "url": "https://www.pagina12.com.ar/2026/07/02/para-los-cientificos-mas-ajuste-y-represion-2/"
-      },
-      {
-        "nombre": "El Destape - Protesta CNEA CABA despidos (1 julio 2026)",
-        "url": "https://www.eldestapeweb.com/politica/maxima-tension-golpes-empujones-policia-no-permitio-avanzar-protesta-trabajadores-conicet-202671142927"
-      },
-      {
-        "nombre": "Radio 10 - ATE protesta CNEA avanza posible paro nacional (1 julio 2026)",
-        "url": "https://radio10mardelplata.com.ar/ate-con-aguiar-al-frente-endurece-su-pulseada-protesta-en-la-cnea-y-avanza-un-posible-paro-nacional-por-despidos/"
-      },
-      {
-        "nombre": "NODAL - Fuerzas de Seguridad reprimen protesta CONICET y CNEA (2 julio 2026)",
-        "url": "https://www.nodal.am/2026/07/argentina-las-fuerzas-de-seguridad-reprimieron-una-protesta-de-cientificos-e-investigadores/"
-      },
-      {
-        "nombre": "InfoBariloche - CNEA Bariloche alerta y movilización permanente (1 julio 2026)",
-        "url": "https://infobariloche.com.ar/sociedad/19-bariloche/36097-trabajadores-de-la-cnea-bariloche-declaran-estado-de-alerta-y-movilizacion-permanente.html"
-      }
-    ],
-    "createdAt": "2026-07-03T15:57:09.000Z",
-    "updatedAt": "2026-07-05T23:15:29Z"
-  },
-  {
-    "id": 476,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "17:00",
-    "fecha": "2026-07-05",
-    "lugar": "Ruta Nacional 5, cruce con calle Evangelista, La Pampa",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Autovía Ya Ruta 5"
-    ],
-    "motivo": "Manifestación del grupo Autovía Ya Ruta 5 exigiendo la construcción de la autovía sobre la Ruta Nacional 5. Denuncian que la nueva concesión del 'Tramo Pampa' (Corredor Vial 5 S.A.U.) solo contempla mantenimiento y nuevos peajes, sin incluir la obra de autovía. Reclaman también banquinas seguras y travesías urbanas en accesos a pueblos linderos. El grupo anunció la creación de una Asociación Civil para darle mayor fuerza institucional al reclamo. La protesta se da luego de que el gobierno de Javier Milei firmara los contratos de concesión que excluyen nuevas obras.",
-    "status": "en_curso",
-    "lat": "-36.6203",
-    "lng": "-64.2903",
-    "fuentes": [
-      {
-        "nombre": "La Arena - Convocan a nuevo reclamo por la Autovía sobre la RN5 (4 julio 2026)",
-        "url": "https://www.laarena.com.ar/la-pampa/convocan-a-nuevo-reclamo-por-la-autovia-sobre-la-ruta-nacional-5-20267415560"
-      },
-      {
-        "nombre": "Infoecos - Manifestación Autovía Ya Ruta 5 domingo 5 julio 2026",
-        "url": "https://infoecos.com.ar/index.php/con-la-pampa-sola-no-alcanza-nueva-manifestacion-este-domingo-a-las-5-de-la-tarde-sobre-la-ruta-5-convocada-por-el-grupo-autovia-ya-en-santa-rosa/"
-      }
-    ],
-    "createdAt": "2026-07-05T11:29:58.000Z",
-    "updatedAt": "2026-07-05T23:15:29Z"
-  },
-  {
-    "id": 485,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "10:00",
-    "fecha": "2026-07-05",
-    "lugar": "Patricias Mendocinas 1765, Ciudad de Mendoza, Mendoza",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Asamblea por Necesidad y Urgencia",
-      "Agrupación de Presxs Políticxs por Defender el Agua (PPPDA)",
-      "Asamblea Mendocina por el Agua Pura (AMPAP)"
-    ],
-    "motivo": "Festival 'Protestar NO es delito' en apoyo a defensores ambientales detenidos en Mendoza que protestan contra la megaminería y el proyecto Minera San Jorge. La jornada incluye música, baile y comida popular para recaudar fondos para la defensa legal de activistas. Denuncian criminalización de la protesta: más de 40 detenciones en los últimos 14 meses, torturas, hostigamiento laboral y fianzas usurarias por parte del gobierno de Alfredo Cornejo. Exigen el desprocesamiento inmediato de más de veinte personas imputadas por participar en protestas contra la megaminería en defensa del agua.",
-    "status": "en_curso",
-    "lat": "-32.8908",
-    "lng": "-68.8272",
-    "fuentes": [
-      {
-        "nombre": "EXPLÍCITO - Festival 'Protestar no es delito' Mendoza 5 julio 2026",
-        "url": "https://explicitoonline.com/protestar-no-es-delito-invitan-a-un-festival-para-colaborar-con-los-defensores-ambientales-detenidos-en-mendoza/"
-      }
-    ],
-    "createdAt": "2026-07-05T17:37:57.000Z",
-    "updatedAt": "2026-07-05T23:15:29Z"
-  },
-  {
-    "id": 486,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "00:00",
-    "fecha": "2026-07-05",
-    "lugar": "Casa de Gobierno, Río Gallegos, Santa Cruz (y múltiples localidades de la provincia)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Mesa de Unidad Policial y Penitenciaria (MUPP)",
-      "Policías autoconvocados de Santa Cruz",
-      "Servicio Penitenciario Provincial"
-    ],
-    "motivo": "Cumple un mes el acampe y trabajo a reglamento de efectivos policiales y penitenciarios en Santa Cruz por reclamo salarial. Exigen un salario inicial de $2.200.000. Solo el 10% del personal está operativo. El gobierno provincial realizó 11 ofertas rechazadas. El gobernador Claudio Vidal recibió un adelanto de $20.000 millones de coparticipación para destrabar el conflicto. Denuncian que jefes de comisaría deben hacer Uber o delivery para complementar ingresos.",
-    "status": "en_curso",
-    "lat": "-51.6230",
-    "lng": "-69.2168",
-    "fuentes": [
-      {
-        "nombre": "El Cronista - Policías y maestros con changas: la caída de recursos dispara conflictos sociales (5 julio 2026)",
-        "url": "https://www.cronista.com/economia-politica/policias-y-maestros-con-changas-la-caida-de-recursos-dispara-conflictos-sociales-en-las-provincias/"
-      },
-      {
-        "nombre": "La Arena - Policías de Santa Cruz están acuartelados hace un mes (1 julio 2026)",
-        "url": "https://www.laarena.com.ar/el-pais/policias-de-santa-cruz-estan-acuartelados-hace-un-mes-y-reclaman-mejoras-salariales-2026719500"
-      },
-      {
-        "nombre": "El Destape - Policía Santa Cruz denuncia acciones intimidatorias de Milei y Vidal (3 julio 2026)",
-        "url": "https://www.eldestapeweb.com/politica/acuerdo-salarial-policia-santa-cruz-denuncia-acciones-intimidatorias-milei-vidal-202673162341"
-      }
-    ],
-    "createdAt": "2026-07-05T22:00:50.000Z",
-    "updatedAt": "2026-07-05T23:15:29Z"
-  },
-  {
     "id": 391,
     "seccion": "protestas_int",
     "pais": "Albania",
     "bandera": "🇦🇱",
     "hora": "19:00",
-    "fecha": "2026-07-05",
+    "fecha": "2026-07-06",
     "lugar": "Plaza Skanderbeg, frente a la Oficina del Primer Ministro y el Parlamento, Tirana",
     "tipoAccion": "protesta",
     "organizaciones": [
@@ -198,138 +13,46 @@
       "Ciudadanos albaneses",
       "Activistas ambientales"
     ],
-    "motivo": "Día 36 consecutivo de protestas de la 'Revolución Flamenco' contra el complejo turístico de lujo vinculado a Jared Kushner en la laguna de Narta, Zvernec. Las protestas se han convertido en un movimiento antigubernamental más amplio que exige la renuncia del primer ministro Edi Rama por corrupción. Manifestaciones nocturnas cada día a las 19:00 con concentraciones en Plaza Skanderbeg y marchas hacia la Oficina del Primer Ministro. El 4 de julio (día 35) fue la protesta más grande desde que comenzó el movimiento, con decenas de miles de manifestantes y participación masiva de la diáspora albanesa. Grupos de manifestantes marcharon a la estación de policía para exigir la liberación de 19 detenidos; rompieron ventanas y la policía respondió con cañones de agua pasada la medianoche. El 5 de julio continúa la protesta nocturna (día 36).",
+    "motivo": "Día 37 consecutivo de protestas de la 'Revolución Flamenco' contra el complejo turístico de lujo vinculado a Jared Kushner en la laguna de Narta, Zvernec. Las protestas se han convertido en un movimiento antigubernamental más amplio que exige la renuncia del primer ministro Edi Rama por corrupción. Manifestaciones nocturnas cada día a las 19:00 con concentraciones en Plaza Skanderbeg y marchas hacia la Oficina del Primer Ministro. El 5 de julio (día 36) continuaron las protestas. El 4 de julio (día 35) fue la protesta más grande desde que comenzó el movimiento, con decenas de miles de manifestantes. Un tribunal albanés liberó el 5 de julio a 19 manifestantes detenidos tras las protestas violentas del 2 de julio. Grupos de manifestantes continúan exigiendo la liberación de detenidos, mientras el movimiento mantiene presión sobre el gobierno.",
     "status": "en_curso",
     "lat": "41.3275",
     "lng": "19.8187",
     "fuentes": [
       {
+        "nombre": "Euronews - Thousands swarm Tirana Pink Flamingo protests July 5 2026",
+        "url": "https://www.euronews.com/my-europe/2026/07/05/thousands-swarm-the-streets-of-tirana-in-major-pink-flamingo-anti-government-protests"
+      },
+      {
         "nombre": "BBC - Thousands of Albanians demand PM resignation 4 July 2026",
         "url": "https://www.bbc.com/news/articles/c8925jnl0z3o"
+      },
+      {
+        "nombre": "Al Jazeera - Albanian court frees protesters who rallied against Kushner-linked resort July 5 2026",
+        "url": "https://1-e8259.azureedge.net/news/2026/7/5/albanian-court-frees-protesters-who-rallied-against-kushner-linked-resort"
       },
       {
         "nombre": "AP News - Albanian anti-government protest turns violent July 2",
         "url": "https://apnews.com/article/albania-kushner-trump-development-protest-tourism-clashes-063288405ee82156e32e6bde500d0569"
       },
       {
-        "nombre": "Politico - Albania PM denounces Flamingo Revolution July 2",
-        "url": "https://www.politico.eu/article/18-arrested-9-police-injured-protests-albania-escalate/"
+        "nombre": "AP News - Albanians protest 35th night in a row July 4",
+        "url": "https://apnews.com/article/resort-prime-minister-rama-kushner-flamingos-resort-9e2cbb682d9445f2e2d946c44ea2fecd"
       },
       {
-        "nombre": "Anadolu Ajansı - Albania protest Zvernec project enters second month July 4",
-        "url": "https://www.aa.com.tr/en/vg/video-gallery/albania-protest-over-zvernec-project-enters-second-month/151456"
+        "nombre": "Politico - Albania PM denounces Flamingo Revolution July 2",
+        "url": "https://www.politico.eu/article/18-arrested-9-police-injured-protests-albania-escalate/"
       },
       {
         "nombre": "Albanian Daily News - Thousands Join Flamingo Revolution July 4",
         "url": "https://albaniandailynews.com/news/thousands-join-flamingo-revolution-protest-in-tirana-calling-for-albanian-pm-s-resignation"
       },
       {
-        "nombre": "AP News - Albanians protest 35th night in a row July 4",
-        "url": "https://apnews.com/article/resort-prime-minister-rama-kushner-flamingos-resort-9e2cbb682d9445f2e2d946c44ea2fecd"
+        "nombre": "Albanian court frees 19 protesters July 5 2026",
+        "url": "https://www.hashtag.al/en/index.php/2026/07/05/revolucioni-i-flamingove-perhapet-ndersa-mijera-kerkojne-doreheqjen-e-kryeministrit-shqiptar/"
       }
     ],
     "createdAt": "2026-07-02T18:12:47.000Z",
-    "updatedAt": "2026-07-05T23:15:29Z"
-  },
-  {
-    "id": 439,
-    "seccion": "protestas_int",
-    "pais": "Turquía y Europa (múltiples países)",
-    "bandera": "🇪🇺",
-    "hora": "19:00",
-    "fecha": "2026-07-05",
-    "lugar": "Estambul (Kadıköy), Izmir, Antalya, Adana, Çanakkale, Samsun (Turquía); Bruselas (Bélgica), París (Francia), Londres (Reino Unido), Atenas (Grecia), Viena (Austria), Zúrich (Suiza), Fráncfort (Alemania), Colonia (Alemania), Hamburgo (Alemania)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "NATO'ya Hayır Koordinasyonu (Coordinación No a la OTAN)",
-      "TKP (Partido Comunista de Turquía)",
-      "Plataforma Contra la OTAN y la Guerra Imperialista (PAN-IW)",
-      "Coalición de organizaciones revolucionarias y democráticas"
-    ],
-    "motivo": "Semana de acción Anti-OTAN (4-12 de julio) en vísperas de la Cumbre de la OTAN en Ankara (7-8 de julio). El 5 de julio la Coordinación 'No a la OTAN' convocó una marcha en Kadıköy (Estambul) a las 19:00 bajo el lema 'No os queremos, marchamos contra la OTAN'. El TKP convocó marchas simultáneas en Izmir, Antalya, Adana, Çanakkale y Samsun. Manifestaciones también en Bruselas, París, Londres, Atenas, Viena, Zúrich, Fráncfort, Colonia y Hamburgo. En Ankara, más de 100 manifestantes fueron detenidos ese mismo domingo por participar en una protesta contra la OTAN en la plaza Kizilay, desafiando la prohibición gubernamental de manifestaciones impuesta desde el 28 de junio. Denuncian el aumento del gasto militar al 5% del PIB, las guerras en Ucrania y Medio Oriente, y exigen el desmantelamiento de la OTAN. Decenas de personas (periodistas, abogados, académicos) fueron detenidas en redadas simultáneas en toda Turquía antes de la cumbre.",
-    "status": "en_curso",
-    "lat": "41.0082",
-    "lng": "28.9784",
-    "fuentes": [
-      {
-        "nombre": "Cumhuriyet - NATO'ya Hayır Kadıköy'de eylem çağrısı July 5",
-        "url": "https://www.cumhuriyet.com.tr/turkiye/nato-ya-hayir-koordinasyonu-ndan-kadikoy-de-eylem-cagris-2518192"
-      },
-      {
-        "nombre": "BirGün - İstanbul'da NATO karşıtı yürüyüş çağrısı July 5",
-        "url": "https://www.birgun.net/haber/istanbul-da-nato-karsiti-yuruyus-cagrisi-722329"
-      },
-      {
-        "nombre": "AIL Red - PAN-IW calls for demonstrations July 4 2026",
-        "url": "https://ail-red.com/the-nato-and-antiimperialist-war-platform-of-which-ail-is-a-member-has-called-for-a-demonstration-on-4-july/"
-      },
-      {
-        "nombre": "No To NATO - Istanbul Anti-Imperialist Peace Summit July 4",
-        "url": "https://notonato2026.org/en/event/istanbul-uluslararasi-anti-emperyalist-baris-zirvesi-2026-07-04-14"
-      },
-      {
-        "nombre": "TKP - Anti-NATO rally July 4 2026 / Marches July 5 2026",
-        "url": "https://www.tkp.org.tr/en/agenda/tkp-calls-for-mass-anti-nato-rally-ahead-of-nato-summit-in-ankara/"
-      },
-      {
-        "nombre": "ICP - TKP announces International Anti-NATO Summit July 5",
-        "url": "https://icp.org.tr/news/tkp-announces-international-anti-nato-summit"
-      },
-      {
-        "nombre": "Info Libertaire - Renforçons la lutte contre le sommet de l'OTAN 4 juillet",
-        "url": "https://www.infolibertaire.net/renforcons-la-lutte-contre-le-sommet-de-lotan-a-ankara-les-7-et-8-juillet/"
-      },
-      {
-        "nombre": "BBC Türkçe - Gazeteci, avukat ve akademisyenler gözaltında July 5",
-        "url": "https://www.bbc.com/turkce/articles/c6211mnvlz5o"
-      },
-      {
-        "nombre": "RTVE - Más de 100 detenidos en protesta contra la OTAN en Ankara 5 julio 2026",
-        "url": "https://www.rtve.es/noticias/20260705/mas-100-detenidos-protesta-contra-otan-ankara/17144573.shtml"
-      }
-    ],
-    "createdAt": "2026-07-04T01:07:21.000Z",
-    "updatedAt": "2026-07-05T23:15:29Z"
-  },
-  {
-    "id": 444,
-    "seccion": "protestas_int",
-    "pais": "Alemania",
-    "bandera": "🇩🇪",
-    "hora": "08:00",
-    "fecha": "2026-07-05",
-    "lugar": "Messe Erfurt, Erfurt, Turingia (con bloqueos en autopista A71 y accesos a la ciudad)",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Bündnis Widersetzen",
-      "Antifaschistische Gruppen",
-      "Gewerkschaften",
-      "Initiativen und Bündnisse"
-    ],
-    "motivo": "Finaliza el congreso federal de la ultraderechista Alternativa para Alemania (AfD) en Erfurt, mientras continúan las protestas masivas. El 4 de julio 31.000 personas según policía (50.000 según organizadores) bloquearon la autopista A71 y accesos a la ciudad. Activistas se pegaron a rieles de tranvía y barrieron accesos al recinto. El congreso reeligió a Alice Weidel y Tino Chrupalla. El 5 de julio las protestas acompañan la clausura del congreso. Los manifestantes denuncian las políticas racistas y de 'remigración' de la AfD. La fecha coincide con el centenario de una conferencia nazi en Weimar.",
-    "status": "en_curso",
-    "lat": "50.9787",
-    "lng": "11.0328",
-    "fuentes": [
-      {
-        "nombre": "Reuters - Thousands protest in Germany against far-right AfD July 4",
-        "url": "https://www.usnews.com/news/world/articles/2026-07-04/thousands-protest-in-germany-against-far-right-afd"
-      },
-      {
-        "nombre": "DW - AfD conference kicks off amid massive protests July 4",
-        "url": "https://www.dw.com/en/germany-news-afd-kicks-off-conference-amid-massive-protests/live-77830605"
-      },
-      {
-        "nombre": "Handelsblatt - AfD-Parteitag endet - Protestbündnis zieht positive Bilanz July 5",
-        "url": "https://www.handelsblatt.com/politik/deutschland/erfurt-afd-parteitag-endet-protestbuendnis-zieht-positive-bilanz/100237965.html"
-      },
-      {
-        "nombre": "Süddeutsche - 20.000 Menschen bei Protesten gegen AfD in Erfurt",
-        "url": "https://www.sueddeutsche.de/politik/demonstrationen-in-erfurt-polizei-bislang-20-000-menschen-bei-protesten-gegen-afd-dpa.urn-newsml-dpa-com-20090101-260704-930-332416"
-      }
-    ],
-    "createdAt": "2026-07-04T10:31:43.000Z",
-    "updatedAt": "2026-07-05T23:15:29Z"
+    "updatedAt": "2026-07-06T01:21:07Z"
   },
   {
     "id": 446,
@@ -337,7 +60,7 @@
     "pais": "Corea del Sur",
     "bandera": "🇰🇷",
     "hora": "00:00",
-    "fecha": "2026-07-05",
+    "fecha": "2026-07-06",
     "lugar": "Olympic Park Handball Gymnasium, Songpa-gu, Seúl",
     "tipoAccion": "protesta",
     "organizaciones": [
@@ -345,7 +68,7 @@
       "Partido del Poder Popular (oposición)",
       "Asociación de Elecciones Limpias"
     ],
-    "motivo": "Cumple un mes la protesta ciudadana contra la escasez de papeletas electorales que afectó las elecciones locales del 3 de junio. Los manifestantes bloquean el acceso al gimnasio Olímpico que alberga urnas y votos (380 urnas, 2,47 millones de votos), exigiendo una repetición electoral. El 2 de julio, tras 27 días de bloqueo, una comisión parlamentaria ingresó con protección policial. La protesta continúa exigiendo una investigación independiente con fiscales especiales y nuevas elecciones. El perfil demográfico de los manifestantes está envejeciendo a medida que aumentan las cancelaciones y los costos. El 4 de julio la policía reportó 2.000 efectivos desplegados. El 5 de julio el diputado Yoon Sang-hyun propuso un recuento público de los 2,47 millones de votos. Se encontraron pruebas de que la comisión electoral fue advertida de la posible escasez pero no actuó.",
+    "motivo": "Continúa la protesta ciudadana contra la escasez de papeletas electorales que afectó las elecciones locales del 3 de junio. Los manifestantes mantienen el bloqueo al gimnasio Olímpico que alberga urnas y votos (380 urnas, 2,47 millones de votos), exigiendo una repetición electoral. La participación ha disminuido de un pico de 33.000 a aproximadamente 1.000 manifestantes. Persisten divisiones internas entre grupos. El 5 de julio el diputado Yoon Sang-hyun propuso un recuento público de los 2,47 millones de votos. Se encontraron pruebas de que la comisión electoral fue advertida de la posible escasez pero no actuó.",
     "status": "en_curso",
     "lat": "37.5153",
     "lng": "127.1074",
@@ -371,16 +94,12 @@
         "url": "https://en.yna.co.kr/view/AEN20260702004700315"
       },
       {
-        "nombre": "Korea JoongAng Daily - Lawmakers enter vote-counting center after blockade",
-        "url": "https://www.koreajoongangdaily.com/korea/lawmakers-finally-inspect-seoul-votecounting-center-after-27day-blockade/12752608"
-      },
-      {
-        "nombre": "Money Today - Jamsil protest blockade one month July 5",
-        "url": "https://www.mt.co.kr/society/2026/07/05/2026070307502054206"
+        "nombre": "Korea Herald - Parliamentary committee enters blockaded ballot counting site July 2",
+        "url": "https://www.koreaherald.com/article/10796123"
       }
     ],
     "createdAt": "2026-07-04T10:31:43.000Z",
-    "updatedAt": "2026-07-05T23:15:29Z"
+    "updatedAt": "2026-07-06T01:21:07Z"
   },
   {
     "id": 449,
@@ -388,7 +107,7 @@
     "pais": "India",
     "bandera": "🇮🇳",
     "hora": "00:00",
-    "fecha": "2026-07-05",
+    "fecha": "2026-07-06",
     "lugar": "Jantar Mantar, Nueva Delhi",
     "tipoAccion": "protesta",
     "organizaciones": [
@@ -397,7 +116,7 @@
       "All India Students' Association (AISA)",
       "Samyukt Kisan Morcha (SKM)"
     ],
-    "motivo": "Día 17 de la protesta del Cockroach Janta Party (CJP) en Jantar Mantar, Delhi. El día 17 (5 de julio) el activista Sonam Wangchuk continuaba en huelga de hambre por octavo día consecutivo, habiendo perdido 6 kg. Seis estudiantes de AISA también en huelga de hambre. El Samyukt Kisan Morcha (SKM) se unió a la protesta el 5 de julio. El movimiento exige la renuncia del Ministro de Educación Dharmendra Pradhan por irregularidades en exámenes nacionales (filtración del examen NEET), rendición de cuentas, transparencia en el sistema educativo y reformas institucionales.",
+    "motivo": "Día 17 de la protesta del Cockroach Janta Party (CJP) en Jantar Mantar, Delhi. El activista Sonam Wangchuk continúa en huelga de hambre por noveno día consecutivo, habiendo perdido más de 6 kg. Seis estudiantes de AISA también en huelga de hambre. El Samyukt Kisan Morcha (SKM) anunció que enviará una delegación a Jantar Mantar el 7 de julio. El movimiento exige la renuncia del Ministro de Educación Dharmendra Pradhan por irregularidades en exámenes nacionales (filtración del examen NEET), rendición de cuentas, transparencia en el sistema educativo y reformas institucionales.",
     "status": "en_curso",
     "lat": "28.6278",
     "lng": "77.2167",
@@ -407,16 +126,24 @@
         "url": "https://www.etvbharat.com/en/bharat/day-16-of-cjp-protest-wangchuk-loses-6-kg-as-fast-enters-8th-day-enn26070502864"
       },
       {
+        "nombre": "New Indian Express - CJP protest Day 16 Wangchuk loses 6kg July 5 2026",
+        "url": "https://www.newindianexpress.com/states/delhi/2026/Jul/05/cjp-protest-against-pradhan-continues-into-day-16-as-wangchuk-loses-6-kg-on-eighth-day-of-fast"
+      },
+      {
         "nombre": "ETV Bharat - CJP protest Day 15 July 4 2026",
         "url": "https://www.etvbharat.com/en/bharat/cjp-protest-to-highlight-upsc-aspirants-challenges-on-15th-day-sonam-wangchuks-hunger-strike-continues-into-seventh-day-enn26070402264"
       },
       {
         "nombre": "New Indian Express - Wangchuk day 7 hunger strike July 4 2026",
         "url": "https://www.newindianexpress.com/india/2026/Jul/04/wangchuk-enters-7th-day-of-hunger-strike-cjp-says-activist-has-lost-5kg-as-health-deteriorates"
+      },
+      {
+        "nombre": "The Print - CJP urges PM Modi to break silence July 4 2026",
+        "url": "https://theprint.in/politics/cjp-urges-pm-modi-to-break-silence-over-jantar-mantar-protest/2977679/"
       }
     ],
     "createdAt": "2026-07-02T18:12:47.000Z",
-    "updatedAt": "2026-07-05T23:15:29Z"
+    "updatedAt": "2026-07-06T01:21:07Z"
   },
   {
     "id": 464,
@@ -424,7 +151,7 @@
     "pais": "Cachemira bajo ocupación pakistaní (PoK)",
     "bandera": "🇮🇳",
     "hora": "00:00",
-    "fecha": "2026-07-05",
+    "fecha": "2026-07-06",
     "lugar": "Múltiples localidades en PoK: Rawalakot, Muzaffarabad, Mirpur, Kotli y otras ciudades; así como manifestaciones globales de la diáspora cachemira",
     "tipoAccion": "protesta",
     "organizaciones": [
@@ -433,11 +160,19 @@
       "Jammu Kashmir Joint Awami Action Committee (JKAMMC)",
       "Diáspora cachemira global"
     ],
-    "motivo": "Jornada de protestas masivas del JAAC en Cachemira bajo ocupación pakistaní (PoK) contra la brutal represión del gobierno pakistaní, que ha dejado decenas de muertos. El movimiento cumple 26 días. El 5 de julio las fuerzas de seguridad paquistaníes abrieron fuego contra manifestantes en Amb (Dudial), causando al menos 1 muerto y varios heridos. Más de 600 activistas han sido arrestados. Pakistán designó al JAAC como 'organización terrorista'. Manifestaciones de la diáspora cachemira en Londres (frente a la Alta Comisión Pakistaní) y Auckland (Nueva Zelanda). Los líderes advierten que si no se cumplen las 38 demandas clave, el movimiento evolucionará hacia un llamado a la retirada total de Pakistán de la región.",
+    "motivo": "Continúan las protestas masivas del JAAC en Cachemira bajo ocupación pakistaní (PoK) contra la brutal represión del gobierno pakistaní, que ha dejado decenas de muertos. El movimiento cumple 27 días. El 5 de julio las fuerzas de seguridad paquistaníes abrieron fuego contra manifestantes en Amb (Dudial), causando al menos 1 muerto y varios heridos, mientras 40.000 personas se congregaban en el Sardar Ghulam Hussain Khan Sports Stadium en Abbaspor. Más de 600 activistas han sido arrestados. Pakistán designó al JAAC como 'organización terrorista'. Manifestaciones de la diáspora cachemira continúan en Londres y Auckland. Los líderes advierten que si no se cumplen las 38 demandas clave, el movimiento evolucionará hacia un llamado a la retirada total de Pakistán de la región.",
     "status": "en_curso",
     "lat": "33.6000",
     "lng": "73.6000",
     "fuentes": [
+      {
+        "nombre": "Times Now - PoJK Protest Turns Deadly: 1 Dead, Over 600 Arrested July 6 2026",
+        "url": "https://www.timesnownews.com/world/asia/pok-protests-deaths-pakistan-rangers-arrests-jaac-pakistan-tehreek-e-insaf-article-154948343"
+      },
+      {
+        "nombre": "NewsX - Anti-Pakistan protest by Kashmiris draws thousands in London July 6 2026",
+        "url": "https://world.newsx.com/world/anti-pakistan-protest-by-kashmiris-draws-thousands-in-london20260706014741-200409/"
+      },
       {
         "nombre": "News18 - Anti-Pakistan Protests Rock PoK: 1 Killed July 5",
         "url": "https://www.news18.com/world/pakistan-occupied-kashmir-protests-intensify-1-killed-several-injured-as-security-forces-open-fire-exclusive-ws-l-10191743.html"
@@ -447,12 +182,12 @@
         "url": "https://www.firstpost.com/world/mass-protests-erupt-across-pojk-following-crackdown-arrest-of-over-600-civil-rights-activists-14029030.html"
       },
       {
-        "nombre": "Times Now - PoK erupts again worldwide protest July 5",
-        "url": "https://www.timesnownews.com/world/asia/pok-protests-july-5-pakistan-crackdown-jaac-call-for-demonstrations-article-154944953"
+        "nombre": "India Today - PoK 1 killed Pakistan Rangers fire July 5 2026",
+        "url": "https://www.indiatoday.in/world/story/pok-protests-pakistan-rangers-firing-one-killed-many-injured-jaac-rallies-spread-2941230-2026-07-05"
       },
       {
-        "nombre": "IANS - Civil society group PoK plans July 5 protests",
-        "url": "https://ianslive.in/civil-society-group-in-pok-plans-july-5-protests-amid-mounting-unrest--20260703123821"
+        "nombre": "The Economic Times - Pakistani forces open fire on protest rally PoJK July 5",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/pakistani-forces-open-fire-on-protest-rally-as-massive-anti-islamabad-uprising-grips-pojk/articleshow/132195732.cms"
       },
       {
         "nombre": "Times of India - PoJK leader seeks support July 5 protest",
@@ -461,228 +196,10 @@
       {
         "nombre": "Times of India - Massive anti-Pakistan protests London July 5 2026",
         "url": "https://timesofindia.indiatimes.com/world/uk/massive-anti-pakistan-protests-erupt-in-london-over-crackdown-on-pok-activists-watch/articleshow/132197583.cms"
-      },
-      {
-        "nombre": "India Today - PoK 1 killed Pakistan Rangers fire July 5 2026",
-        "url": "https://www.indiatoday.in/world/story/pok-protests-pakistan-rangers-firing-one-killed-many-injured-jaac-rallies-spread-2941230-2026-07-05"
       }
     ],
     "createdAt": "2026-07-05T02:50:38.000Z",
-    "updatedAt": "2026-07-05T23:15:29Z"
-  },
-  {
-    "id": 465,
-    "seccion": "protestas_int",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "11:00",
-    "fecha": "2026-07-05",
-    "lugar": "Playa Es Trenc, Mallorca, Islas Baleares",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "GOB (Grupo de Ornitología Balear)",
-      "Terraferida",
-      "Menys Turisme, Més Vida (Menos Turismo, Más Vida)"
-    ],
-    "motivo": "Cadena humana de 3 kilómetros en la playa de Es Trenc con 10.000 participantes contra la reducción del nivel de protección del Parque Natural de Es Trenc-Es Salobrar. Los ecologistas denuncian que el Govern Balear pretende desproteger el parque mediante una ley ómnibus que permitiría modificar el plan de gestión por decreto sin debate parlamentario. La protesta se realizó bajo el lema 'Ni antes, ni ahora, ni nunca'. El Govern de Marga Prohens niega tener intención de desproteger el espacio natural. Es Trenc es uno de los humedales y playas vírgenes más importantes de Mallorca.",
-    "status": "finalizada",
-    "lat": "39.3500",
-    "lng": "2.9833",
-    "fuentes": [
-      {
-        "nombre": "Deia - Miles de personas cadena humana 3 km es Trenc July 5",
-        "url": "https://www.deia.eus/actualidad/sociedad/2026/07/05/miles-personas-cadena-humana-espacios-naturales-mallorca-11287228.html"
-      },
-      {
-        "nombre": "El Periódico - Miles cadena humana es Trenc July 5",
-        "url": "https://www.elperiodico.com/es/sociedad/20260705/miles-personas-forman-cadena-humana-protesta-desproteccion-parque-natural-es-trenc-mallorca-132142107"
-      },
-      {
-        "nombre": "Majorca Daily Bulletin - Human chain protest Es Trenc July 5",
-        "url": "https://www.majorcadailybulletin.com/news/local/2026/07/04/143755/the-human-chain-protest-protect-one-mallorca-most-important-natural-spaces.html"
-      }
-    ],
-    "createdAt": "2026-07-05T02:50:38.000Z",
-    "updatedAt": "2026-07-05T23:15:29Z"
-  },
-  {
-    "id": 466,
-    "seccion": "protestas_int",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "17:00",
-    "fecha": "2026-07-05",
-    "lugar": "Ayuntamiento de Dénia, Alicante, Comunidad Valenciana",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Dénia Animal Save",
-      "Colectivos antiespecistas"
-    ],
-    "motivo": "Manifestación anual contra los 'Bous a la Mar' de Dénia, tradición taurina que consiste en lanzar toros y vaquillas al mar. Los activistas exigen la abolición inmediata de esta y todas las celebraciones que usan animales. Denuncian tortura, sufrimiento animal y gasto público. El rapero alicantino Arkano entregó casi 70.000 firmas al Ayuntamiento pidiendo el fin de los 'Bous a la Mar'. El gobierno local redujo las sesiones a la mitad pero los activistas consideran la medida insuficiente.",
-    "status": "en_curso",
-    "lat": "38.8400",
-    "lng": "0.1100",
-    "fuentes": [
-      {
-        "nombre": "La Protesta - Manifestación contra Bous a la Mar Dénia 5 julio",
-        "url": "https://laprotesta.es/2026/07/05/convocan-una-nueva-manifestacion-contra-los-bous-a-la-mar-de-denia/"
-      }
-    ],
-    "createdAt": "2026-07-05T02:50:38.000Z",
-    "updatedAt": "2026-07-05T23:15:29Z"
-  },
-  {
-    "id": 467,
-    "seccion": "protestas_int",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "11:00",
-    "fecha": "2026-07-05",
-    "lugar": "Plaza Consistorial (frente al Ayuntamiento), Pamplona, Navarra",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "AnimaNaturalis",
-      "PETA"
-    ],
-    "motivo": "Concentración antitaurina en la víspera del primer encierro de San Fermín bajo el lema 'Tauromaquia es Pecado'. Más de un centenar de activistas denuncian que la Casa de la Misericordia, fundación religiosa que gestiona la Plaza de Toros de Pamplona, se lucra con el sufrimiento animal. Exigen el fin de las corridas de toros y de la financiación pública de la tauromaquia en Navarra. Critican que una institución católica dedicada a la beneficencia sea responsable de organizar espectáculos basados en la muerte de animales.",
-    "status": "en_curso",
-    "lat": "42.8167",
-    "lng": "-1.6500",
-    "fuentes": [
-      {
-        "nombre": "La Protesta - Antitaurinos San Fermín 5 julio 2026",
-        "url": "https://laprotesta.es/2026/07/05/antitaurinos-denuncian-que-la-tauromaquia-es-pecado-en-visperas-de-las-fiestas-de-san-fermin-en-pamplona-y-acusan-a-la-iglesia-de-hacer-caja-con-el-sufrimiento-animal/"
-      }
-    ],
-    "createdAt": "2026-07-05T02:50:38.000Z",
-    "updatedAt": "2026-07-05T23:15:29Z"
-  },
-  {
-    "id": 468,
-    "seccion": "protestas_int",
-    "pais": "Chile",
-    "bandera": "🇨🇱",
-    "hora": "12:00",
-    "fecha": "2026-07-05",
-    "lugar": "Plaza Baquedano (Plaza Dignidad), Santiago (y 9 ciudades más: Copiapó, La Serena, Viña del Mar, Rancagua, Concepción, Talca, Temuco, Valdivia, Puerto Montt)",
-    "tipoAccion": "marcha",
-    "organizaciones": [
-      "ARMY Chile (comunidad de seguidores de BTS)",
-      "Alianza de fanbases locales"
-    ],
-    "motivo": "Marcha nacional 'BTS al Nacional' convocada por la comunidad ARMY Chile en 10 ciudades del país para exigir transparencia respecto a la gestión y viabilidad técnica de un eventual concierto de BTS en el Estadio Nacional de Santiago. Los fans denuncian falta de información por parte de las productoras y exigen respuestas. La protesta en Santiago parte desde Plaza Baquedano (Plaza Dignidad) hacia La Moneda a las 12:30. Réplicas en Copiapó, La Serena, Viña del Mar, Rancagua, Concepción, Talca, Temuco, Valdivia y Puerto Montt. Las movilizaciones se declaran estrictamente pacíficas.",
-    "status": "en_curso",
-    "lat": "-33.4378",
-    "lng": "-70.6504",
-    "fuentes": [
-      {
-        "nombre": "24horas - ARMY Chile marcha nacional 5 julio 2026",
-        "url": "https://www.24horas.cl/actualidad/nacional/fanaticos-bts-army-convocan-marcha-nacional-domingo-5-julio"
-      },
-      {
-        "nombre": "T13 - Fanáticos BTS convocan marcha nacional 5 julio",
-        "url": "https://www.t13.cl/amp/noticia/nacional/fanaticos-bts-convocan-marcha-nacional-este-domingo-revisa-las-ciudades-horario-4-7-2026"
-      }
-    ],
-    "createdAt": "2026-07-05T02:50:38.000Z",
-    "updatedAt": "2026-07-05T23:15:29Z"
-  },
-  {
-    "id": 469,
-    "seccion": "protestas_int",
-    "pais": "Italia",
-    "bandera": "🇮🇹",
-    "hora": "00:00",
-    "fecha": "2026-07-05",
-    "lugar": "Aeropuertos de toda Italia: Milán Malpensa, Roma Fiumicino, Roma Ciampino, Catania Fontanarossa y otros",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "CUB Trasporti",
-      "FILT-CGIL",
-      "FIT-CISL",
-      "UILTRASPORTI",
-      "ENAV (controladores aéreos)",
-      "ADR Security"
-    ],
-    "motivo": "Huelga nacional de 24 horas en el sector del transporte aéreo en Italia que afecta a tripulaciones de easyJet, personal de handling, controladores aéreos (ENAV en Malpensa) y seguridad aeroportuaria (ADR en Roma). Jornada de máxima afectación con cancelaciones y retrasos en toda la red. Franjas protegidas de 07:00-10:00 y 18:00-21:00. La huelga es convocada por CUB Trasporti y respaldada por múltiples sindicatos del sector. Se esperan graves perturbaciones en vuelos nacionales e internacionales.",
-    "status": "en_curso",
-    "lat": "41.8003",
-    "lng": "12.2389",
-    "fuentes": [
-      {
-        "nombre": "FIRSTonline - Airline strike July 5 Italy",
-        "url": "https://www.firstonline.info/en/Airline-strike-July-5--2026-at-risk-flights-throughout-Italy--easyJet-among-the-hardest-hit.-Here-are-the-guaranteed-times-and-slots./"
-      },
-      {
-        "nombre": "AirHelp - Italy 5 July flight strikes",
-        "url": "https://www.airhelp.com/en/flight-disruptions/italy-airport-strikes-malpensa-rome-catania-05072026/"
-      },
-      {
-        "nombre": "StrikeTracker - Italy CUB Trasporti strike July 5 2026",
-        "url": "https://striketracker.app/strikes-in-italy/transport-strike-italy-5-july-2026"
-      },
-      {
-        "nombre": "InTrieste - Nationwide aviation strikes Italy July 5",
-        "url": "https://intrieste.com/2026/07/04/nationwide-aviation-strikes-expected-to-disrupt-air-travel-across-italy-on-july-5/"
-      }
-    ],
-    "createdAt": "2026-07-05T02:50:38.000Z",
-    "updatedAt": "2026-07-05T23:15:29Z"
-  },
-  {
-    "id": 471,
-    "seccion": "protestas_int",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
-    "hora": "11:00",
-    "fecha": "2026-07-05",
-    "lugar": "West 80th Ave. & Wadsworth Blvd., Arvada, Colorado",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Indivisible"
-    ],
-    "motivo": "Protesta semanal 'Ice Out for Good' del grupo Indivisible en Arvada, Colorado, contra las políticas migratorias del presidente Donald Trump y las redadas del ICE. Manifestación semanal cada domingo exigiendo el fin de las deportaciones masivas y la protección de las comunidades inmigrantes. Forma parte de las movilizaciones continuas contra las políticas del gobierno de Trump en todo Estados Unidos.",
-    "status": "en_curso",
-    "lat": "39.8000",
-    "lng": "-105.0800",
-    "fuentes": [
-      {
-        "nombre": "Colorado Times Recorder - Indivisible Ice Out for Good July 5",
-        "url": "https://coloradotimesrecorder.com/2026/07/in-the-streets-we-are-america-and-other-political-events/80039/"
-      }
-    ],
-    "createdAt": "2026-07-05T02:50:38.000Z",
-    "updatedAt": "2026-07-05T23:15:29Z"
-  },
-  {
-    "id": 472,
-    "seccion": "protestas_int",
-    "pais": "Reino Unido",
-    "bandera": "🇬🇧",
-    "hora": "11:00",
-    "fecha": "2026-07-05",
-    "lugar": "Battersea Park, Londres",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Forgotten Women",
-      "Comunidad palestina y solidaria en Reino Unido"
-    ],
-    "motivo": "Caminata infantil por Gaza en Battersea Park, Londres, convocada por la organización Forgotten Women. Evento familiar para visibilizar la crisis humanitaria en Gaza y exigir el fin del genocidio, un alto el fuego inmediato y el fin de la complicidad del Reino Unido con Israel. Los participantes caminan en solidaridad con los niños y niñas de Gaza que sufren la hambruna, los bombardeos y el desplazamiento forzado.",
-    "status": "en_curso",
-    "lat": "51.4800",
-    "lng": "-0.1550",
-    "fuentes": [
-      {
-        "nombre": "Eventbrite - Children's Walk for Gaza London Battersea Park July 5 2026",
-        "url": "https://www.eventbrite.co.uk/e/childrens-walk-for-gaza-in-london-battersea-park-tickets-1991185297827"
-      },
-      {
-        "nombre": "Find A Protest - Children's Walk for Gaza July 5 2026",
-        "url": "https://www.findaprotest.info/event/london/sqip9vyijuCbSWJjokqGwj"
-      }
-    ],
-    "createdAt": "2026-07-05T06:39:05.000Z",
-    "updatedAt": "2026-07-05T23:15:29Z"
+    "updatedAt": "2026-07-06T01:21:07Z"
   },
   {
     "id": 473,
@@ -690,7 +207,7 @@
     "pais": "Australia",
     "bandera": "🇦🇺",
     "hora": "15:00",
-    "fecha": "2026-07-05",
+    "fecha": "2026-07-06",
     "lugar": "U.S. Consulate General, Suite 2, 50 Miller Street, North Sydney, Nueva Gales del Sur",
     "tipoAccion": "protesta",
     "organizaciones": [
@@ -708,250 +225,7 @@
       }
     ],
     "createdAt": "2026-07-05T06:39:05.000Z",
-    "updatedAt": "2026-07-05T23:15:29Z"
-  },
-  {
-    "id": 474,
-    "seccion": "protestas_int",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "14:00",
-    "fecha": "2026-07-05",
-    "lugar": "Jantar Mantar, Nueva Delhi",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Team Bharat against Ethanol scam",
-      "Tehseen Poonawalla"
-    ],
-    "motivo": "Protesta contra la política gubernamental de mezcla obligatoria de etanol al 20% (E20) en la gasolina, una iniciativa emblemática del primer ministro Narendra Modi. Los manifestantes denuncian menor eficiencia de combustible, mayores costos de mantenimiento, corrosión del motor y falta de opción para los consumidores. La protesta fue convocada por 'Team Bharat against Ethanol scam' y liderada por el empresario Tehseen Poonawalla. La policía de Delhi impuso un límite de 200 asistentes, pero los organizadores lo rechazaron y amenazaron con protestar frente a la residencia del ministro Nitin Gadkari. La protesta se realizó el 5 de julio a las 14:00 en Jantar Mantar.",
-    "status": "en_curso",
-    "lat": "28.6278",
-    "lng": "77.2167",
-    "fuentes": [
-      {
-        "nombre": "NewsBytes - Limited to 200 people Delhi Police on ethanol protest July 5",
-        "url": "https://www.newsbytesapp.com/news/india/protesters-challenge-limits-at-e20-demonstration/story"
-      },
-      {
-        "nombre": "Hindustan Times - E20 opponents sit-in Jantar Mantar July 5",
-        "url": "https://www.hindustantimes.com/india-news/e20-opponents-to-begin-sit-in-at-jantar-mantar-on-sunday-against-govt-ethanol-blending-mandate-nitin-gadkari-modi-101783178190495.html"
-      },
-      {
-        "nombre": "Business Times - Modi biofuel push protest July 5 2026",
-        "url": "https://www.businesstimes.com.sg/international/modis-biofuel-push-comes-under-pressure-indias-motorists-protest"
-      },
-      {
-        "nombre": "India Today - E20 protest Delhi police limit July 4 2026",
-        "url": "https://www.indiatoday.in/india/story/e20-protest-in-delhi-sunday-police-permission-limit-auto-experts-press-conference-tehseen-poonwalla-reaction-2940765-2026-07-04"
-      }
-    ],
-    "createdAt": "2026-07-05T09:40:18.000Z",
-    "updatedAt": "2026-07-05T23:15:29Z"
-  },
-  {
-    "id": 475,
-    "seccion": "protestas_int",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "16:00",
-    "fecha": "2026-07-05",
-    "lugar": "Templo Hanuman, Dadar Kabutarkhana, Mumbai",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Shiv Sena (UBT)",
-      "Uddhav Thackeray"
-    ],
-    "motivo": "Protesta 'Ram Raksha' lanzada por el partido Shiv Sena (UBT) liderado por Uddhav Thackeray contra la supuesta malversación de fondos, donaciones y ofrendas del Templo Ram en Ayodhya. Los manifestantes recitaron el Ram Raksha Stotra, Hanuman Stotra y Hanuman Chalisa frente al Templo Hanuman en Dadar. Thackeray acusó al BJP de no garantizar la transparencia en la gestión de los fondos donados por los devotos. La protesta marca el inicio de una agitación a nivel estatal.",
-    "status": "en_curso",
-    "lat": "19.0210",
-    "lng": "72.8410",
-    "fuentes": [
-      {
-        "nombre": "IANS - Shiv Sena UBT Ram Raksha protest Mumbai July 5 2026",
-        "url": "https://indianews.com.au/shiv-sena-ubt-to-hold-ram-raksha-protest-in-mumbai-today-over-ram-temple-funds-embezzlement-row/"
-      },
-      {
-        "nombre": "News Street Live - Shiv Sena UBT Ram Raksha protest July 5",
-        "url": "https://newsstreetlive.com/shiv-sena-ubt-to-hold-ram-raksha-protest-in-mumbai-today-over-ram-temple-funds-embezzlement-row/"
-      }
-    ],
-    "createdAt": "2026-07-05T09:40:18.000Z",
-    "updatedAt": "2026-07-05T23:15:29Z"
-  },
-  {
-    "id": 477,
-    "seccion": "protestas_int",
-    "pais": "Reino Unido",
-    "bandera": "🇬🇧",
-    "hora": "14:00",
-    "fecha": "2026-07-05",
-    "lugar": "New Scotland Yard (Metropolitan Police HQ), Londres",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Defend Our Juries",
-      "Palestine Action"
-    ],
-    "motivo": "Protesta frente a Scotland Yard al cumplirse un año de la proscripción de Palestine Action como organización terrorista en Reino Unido. Los manifestantes portaron una pancarta con el lema 'Saving Lives is Not Terrorism'. Al menos 14 manifestantes fueron arrestados bajo la sección 12 de la Ley Antiterrorista, incluyendo a la Reverend Sue Parfitt, de 84 años, exmonja anglicana. Los activistas exigen el fin de la complicidad británica con Israel y el cese del suministro de armas a Israel.",
-    "status": "finalizada",
-    "lat": "51.4995",
-    "lng": "-0.1245",
-    "fuentes": [
-      {
-        "nombre": "The Standard - Retired priest arrested Palestine Action protest July 5",
-        "url": "https://www.standard.co.uk/news/uk/london-metropolitan-police-yvette-cooper-bristol-british-b1288825.html"
-      },
-      {
-        "nombre": "The Independent - Retired priest 84 arrested Palestine Action protest July 5",
-        "url": "https://www.independent.co.uk/news/uk/home-news/protesters-juries-london-metropolitan-police-anglican-b3009251.html"
-      }
-    ],
-    "createdAt": "2026-07-05T14:40:27.000Z",
-    "updatedAt": "2026-07-05T23:15:29Z"
-  },
-  {
-    "id": 478,
-    "seccion": "protestas_int",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "16:00",
-    "fecha": "2026-07-05",
-    "lugar": "Porte d'Aix, Marsella",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "International Solidarity Movement (ISM)-Francia",
-      "Colectivos propalestinos de Marsella"
-    ],
-    "motivo": "Manifestación semanal en solidaridad con Palestina en Marsella, convocada todos los domingos desde hace 33 meses consecutivos. Los manifestantes exigen el fin del genocidio en Gaza, el alto el fuego inmediato y la descolonización de Palestina. La protesta se enmarca en las movilizaciones globales de solidaridad con Palestina.",
-    "status": "en_curso",
-    "lat": "43.2965",
-    "lng": "5.3698",
-    "fuentes": [
-      {
-        "nombre": "ISM-France - Manifestation Palestine Marseille dimanche 5 juillet 16h Porte d'Aix",
-        "url": "https://ismfrance.org/index.php/2026/07/03/manifestation-palestine-marseille-dimanche-5-juillet-16h-porte-daix/"
-      }
-    ],
-    "createdAt": "2026-07-05T14:40:27.000Z",
-    "updatedAt": "2026-07-05T23:15:29Z"
-  },
-  {
-    "id": 479,
-    "seccion": "protestas_int",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "10:00",
-    "fecha": "2026-07-05",
-    "lugar": "Narbona (Narbonne), Occitania",
-    "tipoAccion": "marcha blanca",
-    "organizaciones": [
-      "Familiares de Louis",
-      "Colectivos ciudadanos de Narbona"
-    ],
-    "motivo": "Marcha blanca en memoria de Louis, adolescente de 17 años asesinado a golpes en Narbona. Su madre encabezó la marcha exigiendo justicia y el fin de la 'excusa de minoridad' en el código penal francés. Centenares de asistentes marcharon por las calles de Narbona. La movilización se da en un contexto de creciente politización del caso por parte de la extrema derecha, que busca capitalizar la indignación. El fiscal aclaró que el crimen no tuvo motivación racial.",
-    "status": "finalizada",
-    "lat": "43.1833",
-    "lng": "3.0000",
-    "fuentes": [
-      {
-        "nombre": "BFMTV - Marche blanche pour Louis Narbonne July 5",
-        "url": "https://www.bfmtv.com/police-justice/me-battre-pour-que-justice-te-soit-rendue-a-la-marche-blanche-pour-louis-sa-mere-plaide-pour-la-fin-de-l-excuse-de-minorite_AV-202607050210.html"
-      }
-    ],
-    "createdAt": "2026-07-05T14:40:27.000Z",
-    "updatedAt": "2026-07-05T23:15:29Z"
-  },
-  {
-    "id": 481,
-    "seccion": "protestas_int",
-    "pais": "México",
-    "bandera": "🇲🇽",
-    "hora": "09:00",
-    "fecha": "2026-07-05",
-    "lugar": "Múltiples puntos de la Ciudad de México: Estela de Luz, Ángel de la Independencia, Glorieta del Ahuehuete, Paseo de la Reforma, Periférico Sur, Xochimilco, Tlalpan, San Cosme, Zacatenco",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Colectivo Buscando a Olin Hernando Vargas Ojeda",
-      "Familias Buscadoras del Ajusco",
-      "Asamblea Antimundialista",
-      "Colectivo Glorieta de las y los Desaparecidos",
-      "Diversas Bandas Punk",
-      "Comunidad Estudiantil ESIME Zacatenco",
-      "Amigos del Refugio Franciscano"
-    ],
-    "motivo": "Jornada de múltiples protestas en la Ciudad de México durante el partido de octavos de final del Mundial 2026 (México vs. Inglaterra). Colectivos de búsqueda de desaparecidos marchan desde la Estela de Luz hacia la Glorieta del Ahuehuete exigiendo acciones contra la crisis de desapariciones. La Asamblea Antimundialista realiza protestas en Xochimilco y Tlalpan bajo el lema '¡Fucho sí, Facho no!' y 'Gol gana vs. la FIFA', denunciando gentrificación, desalojos y gasto público en el Mundial. Bandas punk realizan concierto-protesta contra desapariciones y feminicidios. Estudiantes del IPN protestan por demandas educativas. Activistas exigen la devolución de animales retirados en operativo.",
-    "status": "en_curso",
-    "lat": "19.4326",
-    "lng": "-99.1332",
-    "fuentes": [
-      {
-        "nombre": "La Razón de México - Marchas y bloqueos CDMX 5 julio 2026",
-        "url": "https://www.razon.com.mx/ciudad/2026/07/05/marchas-y-bloqueos-en-cdmx-hoy-5-de-julio-que-manifestaciones-hay-y-que-calles-estan-cerradas/"
-      },
-      {
-        "nombre": "Yahoo Noticias / El Economista - Manifestaciones CDMX 5 julio 2026",
-        "url": "https://es-us.noticias.yahoo.com/manifestaciones-cdmx-5-julio-protestas-133435459.html"
-      }
-    ],
-    "createdAt": "2026-07-05T16:05:41.000Z",
-    "updatedAt": "2026-07-05T23:15:29Z"
-  },
-  {
-    "id": 482,
-    "seccion": "protestas_int",
-    "pais": "Alemania",
-    "bandera": "🇩🇪",
-    "hora": "00:00",
-    "fecha": "2026-07-05",
-    "lugar": "Múltiples plantas de Mercedes-Benz: Sindelfingen, Bremen, Rastatt, Hamburgo",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "IG Metall",
-      "Trabajadores de Mercedes-Benz",
-      "Consejo de Empresa de Mercedes-Benz"
-    ],
-    "motivo": "Protestas masivas en plantas de Mercedes-Benz en toda Alemania contra el plan de la directiva de aumentar la jornada laboral de 35 a 40 horas semanales sin compensación salarial. 33.000 trabajadores según IG Metall (16.000 según la empresa) se manifestaron en Sindelfingen (20.000), Bremen (4.000), Rastatt (2.000) y Hamburgo (300). La empresa busca reducir costes de producción un 10% para 2027 como parte de un plan de ahorro. El consejo de vigilancia respalda el plan. IG Metall anuncia más protestas para el 9 de julio en Stuttgart y advierte de un 'verano caliente' de movilizaciones.",
-    "status": "en_curso",
-    "lat": "48.7100",
-    "lng": "9.0100",
-    "fuentes": [
-      {
-        "nombre": "ad-hoc-news - Mercedes-Protest: 33.000 Beschäftigte gegen Erhöhung auf 40-Stunden-Woche 5 July 2026",
-        "url": "https://www.ad-hoc-news.de/wirtschaft/mercedes-protest-33-000-beschaeftigte-gegen-erhoehung-auf/69695091"
-      },
-      {
-        "nombre": "Hürriyet - Mercedes İşçilerinden Tasarruf Planlarına Tepki 5 July 2026",
-        "url": "https://www.hurriyet.com.tr/avrupa/mercedes-iscilerinden-tasarruf-planlarina-tepki-bu-daha-baslangic-43229377"
-      }
-    ],
-    "createdAt": "2026-07-05T17:35:28.000Z",
-    "updatedAt": "2026-07-05T23:15:29Z"
-  },
-  {
-    "id": 483,
-    "seccion": "protestas_int",
-    "pais": "Japón",
-    "bandera": "🇯🇵",
-    "hora": "00:00",
-    "fecha": "2026-07-05",
-    "lugar": "Embajada de China, Moto-Azabu, Tokio",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Comunidad tibetana exiliada en Japón",
-      "Kalden Obara (representante comunitario)",
-      "Tsering Dorjee (organizador)"
-    ],
-    "motivo": "Protesta de la comunidad tibetana exiliada en Japón frente a la Embajada de China en Tokio contra la Ley de Promoción de la Unidad y el Progreso Nacional (民族団結進歩促進法) promulgada el 1 de julio de 2026. Los manifestantes denuncian que la ley impone el idioma chino estándar (mandarín) como lengua nacional obligatoria, eliminando las lenguas minoritarias y amenazando la cultura, lengua e identidad tibetana. La protesta también rindió homenaje a Loga Rangzen, un exiliado tibetano de 42 años que se inmoló el 2 de julio de 2026 frente a la sede de la ONU en Nueva York para protestar contra las políticas de asimilación china en el Tíbet.",
-    "status": "finalizada",
-    "lat": "35.6600",
-    "lng": "139.7300",
-    "fuentes": [
-      {
-        "nombre": "Central News Agency Taiwan - Tibetan group protests at Chinese embassy in Tokyo July 5 2026",
-        "url": "https://www.cna.com.tw/news/aopl/202607050178.aspx"
-      }
-    ],
-    "createdAt": "2026-07-05T17:35:28.000Z",
-    "updatedAt": "2026-07-05T23:15:29Z"
+    "updatedAt": "2026-07-06T01:21:07Z"
   },
   {
     "id": 484,
@@ -959,14 +233,14 @@
     "pais": "India",
     "bandera": "🇮🇳",
     "hora": "00:00",
-    "fecha": "2026-07-05",
+    "fecha": "2026-07-06",
     "lugar": "Visakhapatnam, Vizianagaram, Srikakulam, Andhra Pradesh",
     "tipoAccion": "huelga",
     "organizaciones": [
       "Conductores de Uber, Ola y Rapido",
       "Uniones de transporte de Andhra Pradesh"
     ],
-    "motivo": "Día 5 de huelga de conductores de plataformas de transporte Uber, Ola y Rapido en Andhra Pradesh. Exigen revisión de tarifas y retiro de la función 'Radar' que reduce sus ingresos. Denuncian que las plataformas han reducido las tarifas por viaje a pesar del aumento del precio del combustible y los costos operativos. El paro ha afectado severamente el transporte de pasajeros, especialmente en el Aeropuerto de Visakhapatnam. Unos 4.500 conductores están afiliados a estas plataformas en la región.",
+    "motivo": "Día 6 de huelga de conductores de plataformas de transporte Uber, Ola y Rapido en Andhra Pradesh. Exigen revisión de tarifas y retiro de la función 'Radar' que reduce sus ingresos. Denuncian que las plataformas han reducido las tarifas por viaje a pesar del aumento del precio del combustible y los costos operativos. El paro ha afectado severamente el transporte de pasajeros, especialmente en el Aeropuerto de Visakhapatnam. Unos 4.500 conductores están afiliados a estas plataformas en la región.",
     "status": "en_curso",
     "lat": "17.7300",
     "lng": "83.3000",
@@ -981,7 +255,7 @@
       }
     ],
     "createdAt": "2026-07-05T17:35:28.000Z",
-    "updatedAt": "2026-07-05T23:15:29Z"
+    "updatedAt": "2026-07-06T01:21:07Z"
   },
   {
     "id": 487,
@@ -989,14 +263,14 @@
     "pais": "Estados Unidos",
     "bandera": "🇺🇸",
     "hora": "00:00",
-    "fecha": "2026-07-05",
+    "fecha": "2026-07-06",
     "lugar": "Múltiples instalaciones de PECO: Berwyn Yard (Tredyffrin Township), Oregon Avenue (Filadelfia), y otras plantas en Pensilvania",
     "tipoAccion": "huelga",
     "organizaciones": [
       "IBEW Local 614 (International Brotherhood of Electrical Workers)",
       "United Association Local 855"
     ],
-    "motivo": "Huelga histórica de 1.600 trabajadores sindicalizados de PECO, la principal empresa eléctrica y de gas de Filadelfia y sus suburbios, por primera vez en sus 145 años de historia. El paro comenzó a la medianoche del 4 de julio tras el colapso de las negociaciones contractuales. Los trabajadores (linieros, técnicos de gas, mecánicos, operarios de call center) exigen salarios acordes a la industria —ganan un 30% menos que sus pares en empresas comparables— y mejores beneficios de pensión y salud para 600 empleados contratados después de 2021. La huelga continuó el 5 de julio con piquetes en varias instalaciones, en medio de una ola de calor. Sindicatos de servicios públicos de Pensilvania, Nueva Jersey, Delaware, Maryland, Virginia y Georgia se niegan a cruzar la línea de piquete. Se reportaron tres agresiones a trabajadores en huelga.",
+    "motivo": "Continúa la huelga histórica de 1.600 trabajadores sindicalizados de PECO, la principal empresa eléctrica y de gas de Filadelfia y sus suburbios, por primera vez en sus 145 años de historia. El paro comenzó a la medianoche del 4 de julio tras el colapso de las negociaciones contractuales. Los trabajadores (linieros, técnicos de gas, mecánicos, operarios de call center) exigen salarios acordes a la industria —ganan un 30% menos que sus pares en empresas comparables— y mejores beneficios de pensión y salud para 600 empleados contratados después de 2021. Las negociaciones continúan. Sindicatos de servicios públicos de Pensilvania, Nueva Jersey, Delaware, Maryland, Virginia y Georgia se niegan a cruzar la línea de piquete. Se reportaron tres agresiones a trabajadores en huelga.",
     "status": "en_curso",
     "lat": "40.0000",
     "lng": "-75.1500",
@@ -1012,9 +286,278 @@
       {
         "nombre": "CBS Philadelphia - PECO union strike negotiations resume Sunday July 5 2026",
         "url": "https://www.cbsnews.com/philadelphia/video/negotiations-to-resume-sunday-between-peco-union-workers-as-strike-continues/"
+      },
+      {
+        "nombre": "6abc Philadelphia - PECO strike IBEW picket line heat wave July 4 2026",
+        "url": "https://6abc.com/post/peco-union-continue-contract-talks-july-4th-strike-deadline-looms/19437191/"
       }
     ],
     "createdAt": "2026-07-05T23:10:21.000Z",
-    "updatedAt": "2026-07-05T23:15:29Z"
+    "updatedAt": "2026-07-06T01:21:07Z"
+  },
+  {
+    "id": 488,
+    "seccion": "protestas_int",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "07:00",
+    "fecha": "2026-07-06",
+    "lugar": "Ascension Saint Agnes Hospital, 900 S. Caton Ave., Baltimore, Maryland",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "National Nurses Organizing Committee (NNOC)",
+      "National Nurses United (NNU)"
+    ],
+    "motivo": "Huelga de un día de enfermeras registradas del Ascension Saint Agnes Hospital en Baltimore contra la negativa de la administración a abordar las preocupaciones sobre seguridad del paciente y retención de personal. La protesta cuenta con un mitin a las 9:00 a.m. con la participación del congresista Kweisi Mfume. Es la segunda huelga en la historia del hospital (la primera fue en julio de 2025). Exigen un contrato justo que aborde las condiciones de seguridad del paciente y la retención de personal de enfermería.",
+    "status": "en_curso",
+    "lat": "39.2833",
+    "lng": "-76.6667",
+    "fuentes": [
+      {
+        "nombre": "National Nurses United - Baltimore nurses one-day strike July 6 2026",
+        "url": "https://www.nationalnursesunited.org/press/baltimore-nurses-to-hold-one-day-strike-for-patient-safety-and-staff-retention"
+      },
+      {
+        "nombre": "USA Works - Nurses at Ascension Saint Agnes Hospital plan strike over safety issues July 6",
+        "url": "https://usa-works.org/union-news/nurses-at-ascension-saint-agnes-hospital-plan-strike-over-safety-issues/"
+      }
+    ],
+    "createdAt": "2026-07-06T01:14:05.000Z",
+    "updatedAt": "2026-07-06T01:21:07Z"
+  },
+  {
+    "id": 489,
+    "seccion": "protestas_int",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "07:00",
+    "fecha": "2026-07-06",
+    "lugar": "Ascension Via Christi Hospitals: St. Francis (Wichita) y St. Joseph (Wichita), Kansas",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "National Nurses United (NNU)"
+    ],
+    "motivo": "Huelga de un día de enfermeras de los hospitales Ascension Via Christi St. Francis y St. Joseph en Wichita, Kansas, contra la negativa de la administración a abordar preocupaciones sobre seguridad del paciente y del personal tras incidentes de seguridad, incluyendo un tiroteo fatal y amenazas en el hospital. Exigen un contrato justo que garantice condiciones seguras para pacientes y personal de enfermería.",
+    "status": "en_curso",
+    "lat": "37.6872",
+    "lng": "-97.3301",
+    "fuentes": [
+      {
+        "nombre": "National Nurses United - Wichita nurses one-day strike July 6 2026",
+        "url": "https://www.nationalnursesunited.org/press/wichita-nurses-to-hold-one-day-strike-for-patient-and-staff-safety"
+      },
+      {
+        "nombre": "Wichita Business Journal - Via Christi nurses to strike July 6 after security incidents",
+        "url": "https://www.bizjournals.com/wichita/news/2026/06/25/st-francis-st-joseph-ascension-via-christi-nurses.html"
+      },
+      {
+        "nombre": "Ascension - NNU Strike Via Christi Contingency Plan Update July 6 2026",
+        "url": "https://about.ascension.org/news/2026/06/nnu-strike-via-christi-contingency-plan-update"
+      }
+    ],
+    "createdAt": "2026-07-06T01:14:05.000Z",
+    "updatedAt": "2026-07-06T01:21:07Z"
+  },
+  {
+    "id": 490,
+    "seccion": "protestas_int",
+    "pais": "Canadá",
+    "bandera": "🇨🇦",
+    "hora": "08:30",
+    "fecha": "2026-07-06",
+    "lugar": "Oficina del Primer Ministro, esquina Wellington Street y Elgin Street, Ottawa, Ontario",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Canadian Association of Professional Employees (CAPE)"
+    ],
+    "motivo": "Protesta de miembros del sindicato CAPE frente a la Oficina del Primer Ministro en Ottawa contra la política de retorno a la oficina (RTO4) del gobierno de Carney, que exige 4 días presenciales a la semana a partir del 6 de julio. Los manifestantes entregarán una factura gigante dirigida a Carney y los grandes bancos, denunciando que la política RTO es un rescate encubierto de $10 mil millones para los bancos con exposición en bienes raíces comerciales de riesgo. Exigen transparencia y la revocación de la medida. La protesta incluye una campaña digital simultánea.",
+    "status": "en_curso",
+    "lat": "45.4215",
+    "lng": "-75.6972",
+    "fuentes": [
+      {
+        "nombre": "CAPE - July 6 RTO Event at PMO's Office and Online Day of Action",
+        "url": "https://www.acep-cape.ca/en/events/july-6-rto-event-pmos-office-and-online-day-action"
+      }
+    ],
+    "createdAt": "2026-07-06T01:14:05.000Z",
+    "updatedAt": "2026-07-06T01:21:07Z"
+  },
+  {
+    "id": 390,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "00:00",
+    "fecha": "2026-07-06",
+    "lugar": "Yacimientos petroleros en Río Grande y cruce Cholila, Tierra del Fuego",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "Sindicato de Petróleo y Gas Privado de Tierra del Fuego"
+    ],
+    "motivo": "Continúa el paro por tiempo indeterminado contra las operadoras Velitec y Terra Ignis por incumplimiento del acuerdo de incorporación de 260 trabajadores tras la salida de YPF de Tierra del Fuego. Solo 43 de los 260 trabajadores comprometidos fueron incorporados. Exigen la reincorporación de los 217 trabajadores restantes, el pago de salarios y aguinaldos adeudados, y garantías de operación normal de los yacimientos. La planta San Sebastián está al borde del colapso con una sola turbina operativa. El gremio ratificó que la medida continuará hasta que se cumplan los acuerdos y el 5 de julio rompió negociaciones con la ministra Castillo ante el estancamiento de las reincorporaciones.",
+    "status": "en_curso",
+    "lat": "-53.7860",
+    "lng": "-67.6995",
+    "fuentes": [
+      {
+        "nombre": "OPI Santa Cruz - Gremio petrolero rompe negociaciones con ministra Castillo por despidos (5 julio 2026)",
+        "url": "https://www.opisantacruz.com.ar/2026/07/05/gremio-petrolero-rompe-negociaciones-con-ministra-castillo-por-despidos/"
+      },
+      {
+        "nombre": "Boca de Pozo - Conflicto petrolero en TDF: Paro total (2 julio 2026)",
+        "url": "https://bocadepozo.com.ar/2026/07/02/conflicto-petrolero-en-tdf-paro-total-graves-acusaciones-de-castillo-al-gremio-derrames-de-petroleo-y-riesgo-en-el-suministro-de-gas/"
+      },
+      {
+        "nombre": "TDF News - Petroleros ratificó un paro por tiempo indeterminado (2 julio 2026)",
+        "url": "https://tdfnews.com.ar/petroleros-ratifico-un-paro-por-tiempo-indeterminado-y-exige-la-incorporacion-de-217-trabajadores/"
+      },
+      {
+        "nombre": "Provincia 23 - Sosa denunció que Velitec incorporó solo 43 de 260 trabajadores (2 julio 2026)",
+        "url": "https://www.provincia23.com.ar/2026/07/02/sosa-denuncio-que-velitec-solo-incorporo-a-43-de-los-260-trabajadores-comprometidos/"
+      },
+      {
+        "nombre": "Boca de Pozo - Exclusivo TDF: Paro petrolero indefinido (1 julio 2026)",
+        "url": "https://bocadepozo.com.ar/2026/07/01/exclusivo-tdf-paro-petrolero-indefinido-en-por-los-incumplimientos-de-terra-ignis-y-velitec-que-solo-incorporaron-43-de-los-260-trabajadores/"
+      }
+    ],
+    "createdAt": "2026-07-02T16:07:18.000Z",
+    "updatedAt": "2026-07-06T01:21:07Z"
+  },
+  {
+    "id": 422,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "10:00",
+    "fecha": "2026-07-06",
+    "lugar": "Centro Atómico Bariloche, Av. Bustillo km 9,5, Bariloche, Río Negro (y sedes CNEA en CABA, San Rafael, Trelew y Córdoba)",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "ATE (Asociación de Trabajadores del Estado)"
+    ],
+    "motivo": "Continúan las protestas de trabajadores de la Comisión Nacional de Energía Atómica (CNEA) nucleados en ATE contra el despido de 170 trabajadores contratados en todo el país y la reducción de la estructura de 645 a 272 cargos. Denuncian un plan de vaciamiento y privatización del organismo nuclear argentino. Exigen la reincorporación de todos los despedidos, el pago de salarios adeudados y la continuidad de proyectos estratégicos como el reactor CAREM. Este lunes 6 de julio a las 10 hs hay una concentración en el ingreso al Centro Atómico Bariloche con movilización sobre la avenida Bustillo. Réplicas en CABA, San Rafael (Mendoza), Trelew y Córdoba.",
+    "status": "en_curso",
+    "lat": "-41.1331",
+    "lng": "-71.3103",
+    "fuentes": [
+      {
+        "nombre": "ANBariloche - Trabajadores CNEA vuelven a movilizar contra despidos lunes 6 julio (5 julio 2026)",
+        "url": "https://www.anbariloche.com.ar/noticias/2026/07/05/110362-trabajadores-de-la-cnea-vuelven-a-movilizar-contra-los-despidos-y-el-desmantelamiento-del-sector-cientifico"
+      },
+      {
+        "nombre": "Infoestación - Conflicto CNEA: despidos y protestas vigentes (3 julio 2026)",
+        "url": "https://www.infoestacion.com.ar/conflicto-en-la-cnea-despidos-y-protestas-enfrentan-al-gobierno-y-trabajadore/"
+      },
+      {
+        "nombre": "ANBariloche - Continúan protestas Centro Atómico despidos CNEA (2 julio 2026)",
+        "url": "https://www.anbariloche.com.ar/noticias/2026/07/02/110170-continuan-las-protestas-en-el-centro-atomico-por-los-despidos-en-la-cnea"
+      },
+      {
+        "nombre": "Página12 - Para los científicos, más ajuste y represión (2 julio 2026)",
+        "url": "https://www.pagina12.com.ar/2026/07/02/para-los-cientificos-mas-ajuste-y-represion-2/"
+      },
+      {
+        "nombre": "NODAL - Fuerzas de Seguridad reprimen protesta CONICET y CNEA (2 julio 2026)",
+        "url": "https://www.nodal.am/2026/07/argentina-las-fuerzas-de-seguridad-reprimieron-una-protesta-de-cientificos-e-investigadores/"
+      }
+    ],
+    "createdAt": "2026-07-03T15:57:09.000Z",
+    "updatedAt": "2026-07-06T01:21:07Z"
+  },
+  {
+    "id": 486,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "00:00",
+    "fecha": "2026-07-06",
+    "lugar": "Casa de Gobierno, Río Gallegos, Santa Cruz (y múltiples localidades de la provincia)",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Mesa de Unidad Policial y Penitenciaria (MUPP)",
+      "Policías autoconvocados de Santa Cruz",
+      "Servicio Penitenciario Provincial"
+    ],
+    "motivo": "Continúa el acampe y trabajo a reglamento de efectivos policiales y penitenciarios en Santa Cruz por reclamo salarial, que ya supera el mes de duración. Exigen un salario inicial de $2.200.000. Solo el 10% del personal está operativo. El gobierno provincial realizó 11 ofertas rechazadas. El gobierno nacional amenazó con denuncias penales si no se levanta la medida. Denuncian que jefes de comisaría deben hacer Uber o delivery para complementar ingresos.",
+    "status": "en_curso",
+    "lat": "-51.6230",
+    "lng": "-69.2168",
+    "fuentes": [
+      {
+        "nombre": "El Cronista - Policías y maestros con changas: caída de recursos dispara conflictos sociales (5 julio 2026)",
+        "url": "https://www.cronista.com/economia-politica/policias-y-maestros-con-changas-la-caida-de-recursos-dispara-conflictos-sociales-en-las-provincias/"
+      },
+      {
+        "nombre": "El Destape - Policía Santa Cruz denuncia acciones intimidatorias de Milei y Vidal (3 julio 2026)",
+        "url": "https://www.eldestapeweb.com/politica/acuerdo-salarial-policia-santa-cruz-denuncia-acciones-intimidatorias-milei-vidal-202673162341"
+      },
+      {
+        "nombre": "La Arena - Policías de Santa Cruz están acuartelados hace un mes (1 julio 2026)",
+        "url": "https://www.laarena.com.ar/el-pais/policias-de-santa-cruz-estan-acuartelados-hace-un-mes-y-reclaman-mejoras-salariales-2026719500"
+      }
+    ],
+    "createdAt": "2026-07-05T22:00:50.000Z",
+    "updatedAt": "2026-07-06T01:21:07Z"
+  },
+  {
+    "id": 491,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "00:00",
+    "fecha": "2026-07-06",
+    "lugar": "Toda la provincia de Santa Cruz (escuelas y establecimientos educativos en Río Gallegos, Caleta Olivia, Pico Truncado, El Calafate y demás localidades)",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "ADOSAC (Asociación de Docentes de Santa Cruz)"
+    ],
+    "motivo": "Paro total de actividades por 72 horas (lunes 6, martes 7 y miércoles 8 de julio) en todo el sistema educativo de Santa Cruz. Exigen que el salario alcance la canasta básica de $1.900.000, la implementación de una cláusula gatillo permanente, y la devolución íntegra de los descuentos salariales aplicados por huelgas desde diciembre de 2025. Denuncian estancamiento en las negociaciones paritarias con el gobierno de Claudio Vidal y advierten que peligra el inicio de clases tras el receso invernal.",
+    "status": "en_curso",
+    "lat": "-51.6230",
+    "lng": "-69.2168",
+    "fuentes": [
+      {
+        "nombre": "OPI Santa Cruz - ADOSAC paro de 72 horas antes del receso (5 julio 2026)",
+        "url": "https://www.opisantacruz.com.ar/2026/07/05/adosac-paro-de-72-horas-antes-del-receso/"
+      }
+    ],
+    "createdAt": "2026-07-06T01:17:27.000Z",
+    "updatedAt": "2026-07-06T01:21:07Z"
+  },
+  {
+    "id": 492,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "13:00",
+    "fecha": "2026-07-06",
+    "lugar": "Rotonda del acceso sur Luis Jeannot Sueyro, frente al Parque Industrial, Gualeguaychú, Entre Ríos",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Sindicato del Personal de Industrias Químicas y Petroquímicas",
+      "Trabajadores despedidos de Unionbat",
+      "CGT Gualeguaychú"
+    ],
+    "motivo": "Protesta de trabajadores despedidos de la fábrica de baterías Unionbat S.A. y del Laboratorio Pyam, tras el despido de alrededor de 100 empleados el 26 de junio. La empresa incumplió la conciliación obligatoria dictada por la Secretaría de Trabajo de Entre Ríos que ordenaba la reincorporación inmediata. Exigen la reincorporación de todos los despedidos y el cumplimiento de la conciliación obligatoria. Es la primera de tres movilizaciones previstas durante la semana.",
+    "status": "en_curso",
+    "lat": "-33.0100",
+    "lng": "-58.5140",
+    "fuentes": [
+      {
+        "nombre": "APFDigital - Convocan a protesta en Gualeguaychú por Unionbat (4 julio 2026)",
+        "url": "https://www.apfdigital.com.ar/noticias/2026/07/04/462187-convocan-a-una-protesta-en-gualeguaychu-por-el-conflicto-en-unionbat-y-el-despido-de-un-centenar-de-trabajadores"
+      },
+      {
+        "nombre": "Elonce - Protesta trabajadores despedidos anuncian tres movilizaciones (4 julio 2026)",
+        "url": "https://www.elonce.com/sociedad/protesta-de-trabajadores-despedidos-en-gualeguaychu-anunciaron-tres-movilizaciones-durante-la-semana.htm"
+      },
+      {
+        "nombre": "Ahora Entre Ríos - Conflicto laboral Unionbat protesta lunes 6 (4 julio 2026)",
+        "url": "https://ahora.com.ar/gualeguaychu/conflicto-laboral-trabajadores-de-unionbat-realizaran-una-jornada-de-protesta-en-gualeguaychu"
+      }
+    ],
+    "createdAt": "2026-07-06T01:17:27.000Z",
+    "updatedAt": "2026-07-06T01:21:07Z"
   }
 ]
