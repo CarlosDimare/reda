@@ -60,7 +60,7 @@
       }
     ],
     "createdAt": "2026-07-02T18:12:47.000Z",
-    "updatedAt": "2026-07-08T10:03:11Z"
+    "updatedAt": "2026-07-08T11:52:40Z"
   },
   {
     "id": 493,
@@ -90,7 +90,7 @@
       }
     ],
     "createdAt": "2026-07-06T10:14:30.000Z",
-    "updatedAt": "2026-07-08T10:03:11Z"
+    "updatedAt": "2026-07-08T11:52:40Z"
   },
   {
     "id": 494,
@@ -120,7 +120,7 @@
       }
     ],
     "createdAt": "2026-07-06T10:14:30.000Z",
-    "updatedAt": "2026-07-08T10:03:11Z"
+    "updatedAt": "2026-07-08T11:52:40Z"
   },
   {
     "id": 495,
@@ -150,7 +150,7 @@
       }
     ],
     "createdAt": "2026-07-06T14:05:44.000Z",
-    "updatedAt": "2026-07-08T10:03:11Z"
+    "updatedAt": "2026-07-08T11:52:40Z"
   },
   {
     "id": 505,
@@ -177,7 +177,7 @@
       }
     ],
     "createdAt": "2026-07-06T19:14:33.000Z",
-    "updatedAt": "2026-07-08T10:03:11Z"
+    "updatedAt": "2026-07-08T11:52:40Z"
   },
   {
     "id": 527,
@@ -207,7 +207,7 @@
       }
     ],
     "createdAt": "2026-07-07T20:48:00.000Z",
-    "updatedAt": "2026-07-08T10:03:11Z"
+    "updatedAt": "2026-07-08T11:52:40Z"
   },
   {
     "id": 528,
@@ -237,7 +237,7 @@
       }
     ],
     "createdAt": "2026-07-07T20:48:00.000Z",
-    "updatedAt": "2026-07-08T10:03:11Z"
+    "updatedAt": "2026-07-08T11:52:40Z"
   },
   {
     "id": 529,
@@ -272,7 +272,7 @@
       }
     ],
     "createdAt": "2026-07-07T20:48:00.000Z",
-    "updatedAt": "2026-07-08T10:03:11Z"
+    "updatedAt": "2026-07-08T11:52:40Z"
   },
   {
     "id": 533,
@@ -303,7 +303,7 @@
       }
     ],
     "createdAt": "2026-07-07T23:28:57.000Z",
-    "updatedAt": "2026-07-08T10:03:11Z"
+    "updatedAt": "2026-07-08T11:52:40Z"
   },
   {
     "id": 534,
@@ -338,7 +338,7 @@
       }
     ],
     "createdAt": "2026-07-08T01:02:38.000Z",
-    "updatedAt": "2026-07-08T10:03:11Z"
+    "updatedAt": "2026-07-08T11:52:40Z"
   },
   {
     "id": 535,
@@ -352,8 +352,8 @@
     "organizaciones": [
       "ADOSAC (Asociación de Docentes de Santa Cruz)"
     ],
-    "motivo": "Día 3 del paro total de actividades por 72 horas (lunes 6, martes 7 y miércoles 8 de julio) en todo el sistema educativo de Santa Cruz. Exigen que el salario alcance la canasta básica de $1.900.000, la implementación de una cláusula gatillo permanente, y la devolución íntegra de los descuentos salariales aplicados por huelgas desde diciembre de 2025. Denuncian estancamiento en las negociaciones paritarias con el gobierno de Claudio Vidal y advierten que peligra el inicio de clases tras el receso invernal. ADOSAC fue notificada de una nueva conciliación obligatoria, que calificó como \"muy burda\". El gremio exige una mejora sustancial en los porcentajes salariales, la implementación de cláusula gatillo permanente, la devolución en un solo pago de los descuentos desde diciembre de 2025, la creación de cargos de pareja pedagógica en nivel inicial y primario, y la convocatoria a una comisión técnica para abordar otros aspectos laborales. El conflicto docente se inscribe en una crisis financiera provincial con un déficit proyectado de 350 mil millones de pesos.",
-    "status": "en_curso",
+    "motivo": "Día 3 y último del paro total de actividades por 72 horas (lunes 6, martes 7 y miércoles 8 de julio) en todo el sistema educativo de Santa Cruz. Exigen que el salario alcance la canasta básica de $1.900.000, la implementación de una cláusula gatillo permanente, y la devolución íntegra de los descuentos salariales aplicados por huelgas desde diciembre de 2025. Denuncian estancamiento en las negociaciones paritarias con el gobierno de Claudio Vidal y advierten que peligra el inicio de clases tras el receso invernal. ADOSAC fue notificada de una nueva conciliación obligatoria, que calificó como \"muy burda\". El gremio exige una mejora sustancial en los porcentajes salariales, la implementación de cláusula gatillo permanente, la devolución en un solo pago de los descuentos desde diciembre de 2025, la creación de cargos de pareja pedagógica en nivel inicial y primario, y la convocatoria a una comisión técnica para abordar otros aspectos laborales. El conflicto docente se inscribe en una crisis financiera provincial con un déficit proyectado de 350 mil millones de pesos. Al cierre del paro de 72 horas, el gremio evalúa nuevas medidas ante la falta de avances en paritarias.",
+    "status": "finalizada",
     "lat": "-51.6230",
     "lng": "-69.2168",
     "fuentes": [
@@ -376,10 +376,18 @@
       {
         "nombre": "Diario Nuevo Día - ADOSAC ratifica paro pese a conciliación y continúa el conflicto (7 julio 2026)",
         "url": "https://www.eldiarionuevodia.com.ar/locales/adosac-ratifica-el-paro-pese-a-la-conciliacion-dictada-por-el-ministerio-de-trabajo/"
+      },
+      {
+        "nombre": "La Opinión Austral - ADOSAC convocó a un paro de 72 horas y profundiza el conflicto en Santa Cruz (4 julio 2026)",
+        "url": "https://laopinionaustral.com.ar/politica-y-economia/adosac-convoco-a-un-paro-de-72-horas-y-profundiza-el-conflicto-en-santa-cruz-679070.html"
+      },
+      {
+        "nombre": "InfoGremiales - Conflicto docente en Santa Cruz: ADOSAC inicia un paro de 72 horas (7 julio 2026)",
+        "url": "https://www.infogremiales.com.ar/conflicto-docente-en-santa-cruz-adosac-inicia-un-paro-de-72-horas"
       }
     ],
     "createdAt": "2026-07-06T01:17:27.000Z",
-    "updatedAt": "2026-07-08T10:03:11Z"
+    "updatedAt": "2026-07-08T11:52:40Z"
   },
   {
     "id": 536,
@@ -394,7 +402,7 @@
       "ATE (Asociación Trabajadores del Estado)",
       "Rodolfo Aguiar (secretario general de ATE)"
     ],
-    "motivo": "Paro nacional de actividades y caravana de protesta contra los despidos y el vaciamiento de la Comisión Nacional de Energía Atómica (CNEA). Rechazan la desvinculación de casi 100 trabajadores estratégicos y el recorte del 55% del presupuesto del organismo. Denuncian que el gobierno de Javier Milei está desmantelando el sistema nuclear argentino mientras todos los países desarrollados invierten en ciencia y tecnología nuclear. Exigen la reincorporación de los despedidos y la reapertura del diálogo con la conducción del organismo, cuyo titular Martín Porro se niega a recibir a los representantes gremiales.",
+    "motivo": "Paro nacional de actividades y caravana de protesta contra los despidos y el vaciamiento de la Comisión Nacional de Energía Atómica (CNEA). Rechazan la desvinculación de casi 100 trabajadores estratégicos y el recorte del 55% del presupuesto del organismo. Denuncian que el gobierno de Javier Milei está desmantelando el sistema nuclear argentino mientras todos los países desarrollados invierten en ciencia y tecnología nuclear. Exigen la reincorporación de los despedidos y la reapertura del diálogo con la conducción del organismo, cuyo titular Martín Porro se niega a recibir a los representantes gremiales. La protesta incluyó una caravana hacia el Centro Atómico Constituyentes.",
     "status": "en_curso",
     "lat": "-34.6037",
     "lng": "-58.4629",
@@ -420,12 +428,16 @@
         "url": "https://www.conclusion.com.ar/gremiales/ate-definio-un-paro-con-movilizacion-en-rechazo-a-los-100-despidos-en-la-comision-de-energia-atomica/07/2026/"
       },
       {
-        "nombre": "El Territorio - Paro de ATE en la CNEA: convocan a huelga y caravana contra despidos (8 julio 2026)",
-        "url": "https://www.elterritorio.com.ar/noticias/2026/07/08/898069-paro-de-ate-en-la-cnea-convocan-a-huelga-y-caravana-contra-despidos"
+        "nombre": "MendoVoz - ATE para y se moviliza en rechazo a un centenar de despidos en la Comisión de Energía Atómica (8 julio 2026)",
+        "url": "https://www.mendovoz.com/actualidad/nacionales/2026/7/8/ate-para-se-moviliza-en-rechazo-un-centenar-de-despidos-en-la-comision-de-energia-atomica-173875.html"
       },
       {
-        "nombre": "ATE - Aguiar encabezó la protesta por despidos en la CNEA (8 julio 2026)",
-        "url": "https://ate.org.ar/260701-cnea-protesta"
+        "nombre": "Mundo Poder - ATE convocó a un paro nacional en la CNEA por los despidos (7 julio 2026)",
+        "url": "https://www.mundopoder.com/2026/07/07/ate-convoco-a-un-paro-nacional-en-la-cnea-por-los-despidos-y-denuncio-el-vaciamiento-del-sector-nuclear-en-argentina"
+      },
+      {
+        "nombre": "El Territorio - Paro de ATE en la CNEA: convocan a huelga y caravana contra despidos (8 julio 2026)",
+        "url": "https://www.elterritorio.com.ar/noticias/2026/07/08/898018-paro-de-ate-en-la-cnea-convocan-a-huelga-y-caravana-contra-despidos"
       },
       {
         "nombre": "Nota al Pie - ATE convocó a un paro y una caravana en defensa de la CNEA (7 julio 2026)",
@@ -433,7 +445,7 @@
       }
     ],
     "createdAt": "2026-07-08T01:05:17.000Z",
-    "updatedAt": "2026-07-08T10:03:11Z"
+    "updatedAt": "2026-07-08T11:52:40Z"
   },
   {
     "id": 537,
@@ -479,7 +491,7 @@
       }
     ],
     "createdAt": "2026-07-08T01:05:17.000Z",
-    "updatedAt": "2026-07-08T10:03:11Z"
+    "updatedAt": "2026-07-08T11:52:40Z"
   },
   {
     "id": 543,
@@ -504,7 +516,7 @@
       }
     ],
     "createdAt": "2026-07-08T09:58:26.000Z",
-    "updatedAt": "2026-07-08T10:03:11Z"
+    "updatedAt": "2026-07-08T11:52:40Z"
   },
   {
     "id": 538,
@@ -538,7 +550,7 @@
       }
     ],
     "createdAt": "2026-07-08T07:26:20.000Z",
-    "updatedAt": "2026-07-08T10:03:11Z"
+    "updatedAt": "2026-07-08T11:52:40Z"
   },
   {
     "id": 539,
@@ -568,7 +580,7 @@
       }
     ],
     "createdAt": "2026-07-08T07:26:20.000Z",
-    "updatedAt": "2026-07-08T10:03:11Z"
+    "updatedAt": "2026-07-08T11:52:40Z"
   },
   {
     "id": 540,
@@ -601,7 +613,7 @@
       }
     ],
     "createdAt": "2026-07-08T09:54:51.000Z",
-    "updatedAt": "2026-07-08T10:03:11Z"
+    "updatedAt": "2026-07-08T11:52:40Z"
   },
   {
     "id": 542,
@@ -630,6 +642,58 @@
       }
     ],
     "createdAt": "2026-07-08T09:54:51.000Z",
-    "updatedAt": "2026-07-08T10:03:11Z"
+    "updatedAt": "2026-07-08T11:52:40Z"
+  },
+  {
+    "id": 544,
+    "seccion": "protestas_int",
+    "pais": "España",
+    "bandera": "🇪🇸",
+    "hora": "00:00",
+    "fecha": "2026-07-08",
+    "lugar": "Fábrica de Prysmian, Maliaño, Camargo, Cantabria",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "Comité de empresa de Prysmian (CCOO)",
+      "Trabajadores de Prysmian"
+    ],
+    "motivo": "Décimo día de huelga en la fábrica de cables de fibra óptica Prysmian en Maliaño, Cantabria, por el bloqueo de la negociación del convenio colectivo. Los trabajadores exigen incrementos salariales que mantengan el poder adquisitivo y la actualización de los pluses de turnicidad y nocturnidad. La empresa se niega a actualizar los pluses y propone congelación salarial. La huelga comenzó en junio de 2026 y ha paralizado completamente la producción en múltiples jornadas de paro.",
+    "status": "en_curso",
+    "lat": "43.4210",
+    "lng": "-3.9530",
+    "fuentes": [
+      {
+        "nombre": "Europa Press - El décimo día de huelga en Prysmian vuelve a paralizar la fábrica de Maliaño (8 julio 2026)",
+        "url": "https://www.europapress.es/cantabria/noticia-decimo-dia-huelga-prysmian-vuelve-paralizar-fabrica-maliano-comite-20260708105517.html"
+      }
+    ],
+    "createdAt": "2026-07-08T11:45:14.000Z",
+    "updatedAt": "2026-07-08T11:52:40Z"
+  },
+  {
+    "id": 545,
+    "seccion": "protestas_int",
+    "pais": "Cuba",
+    "bandera": "🇨🇺",
+    "hora": "00:00",
+    "fecha": "2026-07-08",
+    "lugar": "Guanabacoa, La Habana",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Residentes de Guanabacoa",
+      "Ciudadanos cubanos"
+    ],
+    "motivo": "Cacerolazo de residentes en albergues de Guanabacoa, La Habana, durante el apagón nacional que dejó a toda la isla sin electricidad. La protesta se suma a la ola de manifestaciones que atraviesa Cuba, en rechazo a los prolongados cortes eléctricos que superan las 30 horas en La Habana y hasta 70 horas en zonas rurales, producto de la crisis energética y el bloqueo petrolero de Estados Unidos. Las protestas callejeras en Cuba alcanzaron un récord en junio con 107 manifestaciones.",
+    "status": "en_curso",
+    "lat": "23.1170",
+    "lng": "-82.2500",
+    "fuentes": [
+      {
+        "nombre": "CubaHeadlines - Protests Erupt in Alamar: Residents Burn Garbage in Streets Over Regime-Induced Blackouts (8 July 2026)",
+        "url": "https://www.cubaheadlines.com/articles/334484"
+      }
+    ],
+    "createdAt": "2026-07-08T11:45:14.000Z",
+    "updatedAt": "2026-07-08T11:52:40Z"
   }
 ]
