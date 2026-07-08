@@ -64,7 +64,7 @@
       }
     ],
     "createdAt": "2026-07-02T18:12:47.000Z",
-    "updatedAt": "2026-07-08T18:05:18Z"
+    "updatedAt": "2026-07-08T19:50:02Z"
   },
   {
     "id": 493,
@@ -94,7 +94,7 @@
       }
     ],
     "createdAt": "2026-07-06T10:14:30.000Z",
-    "updatedAt": "2026-07-08T18:05:18Z"
+    "updatedAt": "2026-07-08T19:50:02Z"
   },
   {
     "id": 494,
@@ -124,7 +124,7 @@
       }
     ],
     "createdAt": "2026-07-06T10:14:30.000Z",
-    "updatedAt": "2026-07-08T18:05:18Z"
+    "updatedAt": "2026-07-08T19:50:02Z"
   },
   {
     "id": 528,
@@ -154,7 +154,7 @@
       }
     ],
     "createdAt": "2026-07-07T20:48:00.000Z",
-    "updatedAt": "2026-07-08T18:05:18Z"
+    "updatedAt": "2026-07-08T19:50:02Z"
   },
   {
     "id": 534,
@@ -197,7 +197,7 @@
       }
     ],
     "createdAt": "2026-07-08T01:02:38.000Z",
-    "updatedAt": "2026-07-08T18:05:18Z"
+    "updatedAt": "2026-07-08T19:50:02Z"
   },
   {
     "id": 538,
@@ -231,7 +231,7 @@
       }
     ],
     "createdAt": "2026-07-08T07:26:20.000Z",
-    "updatedAt": "2026-07-08T18:05:18Z"
+    "updatedAt": "2026-07-08T19:50:02Z"
   },
   {
     "id": 539,
@@ -261,7 +261,7 @@
       }
     ],
     "createdAt": "2026-07-08T07:26:20.000Z",
-    "updatedAt": "2026-07-08T18:05:18Z"
+    "updatedAt": "2026-07-08T19:50:02Z"
   },
   {
     "id": 540,
@@ -294,7 +294,7 @@
       }
     ],
     "createdAt": "2026-07-08T09:54:51.000Z",
-    "updatedAt": "2026-07-08T18:05:18Z"
+    "updatedAt": "2026-07-08T19:50:02Z"
   },
   {
     "id": 542,
@@ -323,7 +323,7 @@
       }
     ],
     "createdAt": "2026-07-08T09:54:51.000Z",
-    "updatedAt": "2026-07-08T18:05:18Z"
+    "updatedAt": "2026-07-08T19:50:02Z"
   },
   {
     "id": 544,
@@ -349,7 +349,7 @@
       }
     ],
     "createdAt": "2026-07-08T11:45:14.000Z",
-    "updatedAt": "2026-07-08T18:05:18Z"
+    "updatedAt": "2026-07-08T19:50:02Z"
   },
   {
     "id": 545,
@@ -375,7 +375,7 @@
       }
     ],
     "createdAt": "2026-07-08T11:45:14.000Z",
-    "updatedAt": "2026-07-08T18:05:18Z"
+    "updatedAt": "2026-07-08T19:50:02Z"
   },
   {
     "id": 547,
@@ -405,7 +405,7 @@
       }
     ],
     "createdAt": "2026-07-08T16:04:20.000Z",
-    "updatedAt": "2026-07-08T18:05:18Z"
+    "updatedAt": "2026-07-08T19:50:02Z"
   },
   {
     "id": 549,
@@ -440,7 +440,7 @@
       }
     ],
     "createdAt": "2026-07-08T17:58:36.000Z",
-    "updatedAt": "2026-07-08T18:05:18Z"
+    "updatedAt": "2026-07-08T19:50:02Z"
   },
   {
     "id": 550,
@@ -471,7 +471,88 @@
       }
     ],
     "createdAt": "2026-07-08T17:58:36.000Z",
-    "updatedAt": "2026-07-08T18:05:18Z"
+    "updatedAt": "2026-07-08T19:50:02Z"
+  },
+  {
+    "id": 551,
+    "seccion": "protestas_int",
+    "pais": "Sudáfrica",
+    "bandera": "🇿🇦",
+    "hora": "12:00",
+    "fecha": "2026-07-08",
+    "lugar": "Department of Home Affairs y municipal offices, Bellville, Ciudad del Cabo",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Comerciantes informales sudafricanos",
+      "Grupos anti-inmigración ilegal"
+    ],
+    "motivo": "Protesta de comerciantes informales sudafricanos en Bellville, Ciudad del Cabo, exigiendo acciones más duras contra extranjeros indocumentados y aplicación más rigurosa de las leyes de comercio informal. Marcharon hacia el Departamento de Asuntos del Interior y las oficinas municipales. Denuncian que la inmigración ilegal les cuesta empleos y oportunidades de negocio. La protesta se enmarca en una ola de manifestaciones anti-inmigración en Sudáfrica que comenzaron en junio de 2026.",
+    "status": "en_curso",
+    "lat": "-33.8961",
+    "lng": "18.6270",
+    "fuentes": [
+      {
+        "nombre": "EWN - Protesters gather in Bellville to demand crackdown on undocumented foreign nationals (8 July 2026)",
+        "url": "https://www.ewn.co.za/2026/07/08/protesters-gather-in-bellville-to-demand-crackdown-on-undocumented-foreign-nationals"
+      }
+    ],
+    "createdAt": "2026-07-08T19:48:05.000Z",
+    "updatedAt": "2026-07-08T19:50:02Z"
+  },
+  {
+    "id": 552,
+    "seccion": "protestas_int",
+    "pais": "México",
+    "bandera": "🇲🇽",
+    "hora": "10:00",
+    "fecha": "2026-07-08",
+    "lugar": "Múltiples puntos de la CDMX: Secretaría de Gobierno, Eje Central y Fray Servando, Embajada de Alemania, alcaldías Cuauhtémoc, Miguel Hidalgo, GAM, Cuajimalpa",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Ex trabajadores de Ruta 100",
+      "Asamblea General de Trabajadores",
+      "Colectivo ambientalista 'Aquí ¡No!'",
+      "Colectivo 'LLECA Escuchando la Calle'",
+      "Vecinos y padres de familia"
+    ],
+    "motivo": "Jornada de múltiples protestas en la Ciudad de México con 8 concentraciones previstas por la SSC. Ex trabajadores de Ruta 100 exigen pago de finiquito; Asamblea General de Trabajadores exige mejoras laborales y nuevo tabulador salarial; colectivo ambientalista 'Aquí ¡No!' protesta frente a Embajada de Alemania contra planta de amoniaco en Sinaloa; colectivo 'LLECA Escuchando la Calle' exige Ley Integral Trans frente a Secretaría de Gobernación; vecinos y padres de familia demandan mejoras de infraestructura y destitución de funcionarios.",
+    "status": "en_curso",
+    "lat": "19.4326",
+    "lng": "-99.1332",
+    "fuentes": [
+      {
+        "nombre": "Capital México - Movilizaciones CDMX hoy 8 de julio de 2026",
+        "url": "https://www.capitalmexico.com.mx/cdmx/movilizaciones-cdmx-hoy-8-julio-2026-protestas-bloqueos/"
+      }
+    ],
+    "createdAt": "2026-07-08T19:48:05.000Z",
+    "updatedAt": "2026-07-08T19:50:02Z"
+  },
+  {
+    "id": 553,
+    "seccion": "protestas_int",
+    "pais": "Australia",
+    "bandera": "🇦🇺",
+    "hora": "17:00",
+    "fecha": "2026-07-08",
+    "lugar": "U.S. Consulate General, 50 Miller Street, North Sydney",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Activistas propalestinos",
+      "Manifestantes por el Medio Oriente"
+    ],
+    "motivo": "Protesta frente al Consulado General de EE.UU. en Sídney en relación con los acontecimientos en curso en el Medio Oriente. La manifestación forma parte de una serie de protestas diarias programadas del 5 al 10 de julio de 2026. El Consulado de EE.UU. emitió alerta de seguridad para estas fechas advirtiendo posible escalada de tensión.",
+    "status": "en_curso",
+    "lat": "-33.8385",
+    "lng": "151.2060",
+    "fuentes": [
+      {
+        "nombre": "U.S. Embassy Australia - Demonstration Alert Sydney July 5-10 2026",
+        "url": "https://au.usembassy.gov/demonstration-alert-u-s-consulate-general-sydney-july-5-july-10-2026/"
+      }
+    ],
+    "createdAt": "2026-07-08T19:48:05.000Z",
+    "updatedAt": "2026-07-08T19:50:02Z"
   },
   {
     "id": 535,
@@ -520,7 +601,7 @@
       }
     ],
     "createdAt": "2026-07-06T01:17:27.000Z",
-    "updatedAt": "2026-07-08T18:05:18Z"
+    "updatedAt": "2026-07-08T19:50:02Z"
   },
   {
     "id": 536,
@@ -578,7 +659,7 @@
       }
     ],
     "createdAt": "2026-07-08T01:05:17.000Z",
-    "updatedAt": "2026-07-08T18:05:18Z"
+    "updatedAt": "2026-07-08T19:50:02Z"
   },
   {
     "id": 537,
@@ -624,7 +705,7 @@
       }
     ],
     "createdAt": "2026-07-08T01:05:17.000Z",
-    "updatedAt": "2026-07-08T18:05:18Z"
+    "updatedAt": "2026-07-08T19:50:02Z"
   },
   {
     "id": 543,
@@ -649,7 +730,7 @@
       }
     ],
     "createdAt": "2026-07-08T09:58:26.000Z",
-    "updatedAt": "2026-07-08T18:05:18Z"
+    "updatedAt": "2026-07-08T19:50:02Z"
   },
   {
     "id": 546,
@@ -685,7 +766,7 @@
       }
     ],
     "createdAt": "2026-07-08T14:01:53.000Z",
-    "updatedAt": "2026-07-08T18:05:18Z"
+    "updatedAt": "2026-07-08T19:50:02Z"
   },
   {
     "id": 548,
@@ -711,6 +792,34 @@
       }
     ],
     "createdAt": "2026-07-08T16:09:41.000Z",
-    "updatedAt": "2026-07-08T18:05:18Z"
+    "updatedAt": "2026-07-08T19:50:02Z"
+  },
+  {
+    "id": 554,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "13:00",
+    "fecha": "2026-07-08",
+    "lugar": "Ministerio de Salud (Av. 9 de Julio y Moreno) → Plaza de Mayo, CABA, y réplicas en todo el país",
+    "tipoAccion": "movilización",
+    "organizaciones": [
+      "Trabajadores de la salud",
+      "ATE (Asociación Trabajadores del Estado)",
+      "Foro por el Derecho a la Salud",
+      "Sindicatos y organizaciones sociales"
+    ],
+    "motivo": "Marcha Federal de la Salud contra el desfinanciamiento del sistema sanitario público bajo el gobierno de Javier Milei. Denuncian recorte del 40% del presupuesto del Ministerio de Salud, desmantelamiento del programa Remediar (de 79 a solo 3 medicamentos gratuitos), recorte del 40% del presupuesto del PAMI, desfinanciamiento de hospitales públicos y falta de vacunas y medicamentos oncológicos. Exigen restitución de programas sanitarios, financiamiento urgente y apertura de mesa federal de salud con Nación, provincias y municipios. Las columnas partieron del Ministerio de Salud hacia Plaza de Mayo al mediodía, con réplicas en todo el país bajo el lema 'La salud no puede esperar'.",
+    "status": "en_curso",
+    "lat": "-34.6083",
+    "lng": "-58.3712",
+    "fuentes": [
+      {
+        "nombre": "El Delivery TDF - La Marcha Federal de la Salud denunció el impacto del ajuste en hospitales públicos (8 julio 2026)",
+        "url": "https://www.eldelivery.com.ar/nota/2559/la-marcha-federal-de-la-salud-denuncio-el-impacto-del-ajuste-en-hospitales-publicos/"
+      }
+    ],
+    "createdAt": "2026-07-08T19:48:05.000Z",
+    "updatedAt": "2026-07-08T19:50:02Z"
   }
 ]
