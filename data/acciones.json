@@ -40,7 +40,7 @@
       }
     ],
     "createdAt": "2026-07-02T18:12:47.000Z",
-    "updatedAt": "2026-07-10T00:06:28Z"
+    "updatedAt": "2026-07-10T04:38:02Z"
   },
   {
     "id": 493,
@@ -70,7 +70,7 @@
       }
     ],
     "createdAt": "2026-07-06T10:14:30.000Z",
-    "updatedAt": "2026-07-10T00:06:28Z"
+    "updatedAt": "2026-07-10T04:38:02Z"
   },
   {
     "id": 528,
@@ -100,7 +100,7 @@
       }
     ],
     "createdAt": "2026-07-07T20:48:00.000Z",
-    "updatedAt": "2026-07-10T00:06:28Z"
+    "updatedAt": "2026-07-10T04:38:02Z"
   },
   {
     "id": 553,
@@ -126,7 +126,7 @@
       }
     ],
     "createdAt": "2026-07-08T19:48:05.000Z",
-    "updatedAt": "2026-07-10T00:06:28Z"
+    "updatedAt": "2026-07-10T04:38:02Z"
   },
   {
     "id": 558,
@@ -165,7 +165,7 @@
       }
     ],
     "createdAt": "2026-07-08T21:04:17.000Z",
-    "updatedAt": "2026-07-10T00:06:28Z"
+    "updatedAt": "2026-07-10T04:38:02Z"
   },
   {
     "id": 561,
@@ -192,7 +192,7 @@
       }
     ],
     "createdAt": "2026-07-08T22:31:59.000Z",
-    "updatedAt": "2026-07-10T00:06:28Z"
+    "updatedAt": "2026-07-10T04:38:02Z"
   },
   {
     "id": 567,
@@ -231,7 +231,7 @@
       }
     ],
     "createdAt": "2026-07-09T04:29:15.000Z",
-    "updatedAt": "2026-07-10T00:06:28Z"
+    "updatedAt": "2026-07-10T04:38:02Z"
   },
   {
     "id": 568,
@@ -268,7 +268,7 @@
       }
     ],
     "createdAt": "2026-07-09T04:29:15.000Z",
-    "updatedAt": "2026-07-10T00:06:28Z"
+    "updatedAt": "2026-07-10T04:38:02Z"
   },
   {
     "id": 570,
@@ -313,7 +313,7 @@
       }
     ],
     "createdAt": "2026-07-09T04:29:15.000Z",
-    "updatedAt": "2026-07-10T00:06:28Z"
+    "updatedAt": "2026-07-10T04:38:02Z"
   },
   {
     "id": 575,
@@ -348,7 +348,7 @@
       }
     ],
     "createdAt": "2026-07-09T08:02:32.000Z",
-    "updatedAt": "2026-07-10T00:06:28Z"
+    "updatedAt": "2026-07-10T04:38:02Z"
   },
   {
     "id": 593,
@@ -383,7 +383,7 @@
       }
     ],
     "createdAt": "2026-07-10T00:02:04.000Z",
-    "updatedAt": "2026-07-10T00:06:28Z"
+    "updatedAt": "2026-07-10T04:38:02Z"
   },
   {
     "id": 594,
@@ -415,7 +415,7 @@
       }
     ],
     "createdAt": "2026-07-10T00:02:04.000Z",
-    "updatedAt": "2026-07-10T00:06:28Z"
+    "updatedAt": "2026-07-10T04:38:02Z"
   },
   {
     "id": 595,
@@ -441,7 +441,7 @@
       }
     ],
     "createdAt": "2026-07-10T00:02:04.000Z",
-    "updatedAt": "2026-07-10T00:06:28Z"
+    "updatedAt": "2026-07-10T04:38:02Z"
   },
   {
     "id": 596,
@@ -477,7 +477,7 @@
       }
     ],
     "createdAt": "2026-07-10T00:02:04.000Z",
-    "updatedAt": "2026-07-10T00:06:28Z"
+    "updatedAt": "2026-07-10T04:38:02Z"
   },
   {
     "id": 597,
@@ -512,7 +512,7 @@
       }
     ],
     "createdAt": "2026-07-10T00:02:04.000Z",
-    "updatedAt": "2026-07-10T00:06:28Z"
+    "updatedAt": "2026-07-10T04:38:02Z"
   },
   {
     "id": 598,
@@ -543,7 +543,7 @@
       }
     ],
     "createdAt": "2026-07-10T00:02:04.000Z",
-    "updatedAt": "2026-07-10T00:06:28Z"
+    "updatedAt": "2026-07-10T04:38:02Z"
   },
   {
     "id": 599,
@@ -569,7 +569,7 @@
       }
     ],
     "createdAt": "2026-07-10T00:02:04.000Z",
-    "updatedAt": "2026-07-10T00:06:28Z"
+    "updatedAt": "2026-07-10T04:38:02Z"
   },
   {
     "id": 600,
@@ -595,6 +595,36 @@
       }
     ],
     "createdAt": "2026-07-10T00:02:04.000Z",
-    "updatedAt": "2026-07-10T00:06:28Z"
+    "updatedAt": "2026-07-10T04:38:02Z"
+  },
+  {
+    "id": 601,
+    "seccion": "protestas_int",
+    "pais": "Italia",
+    "bandera": "🇮🇹",
+    "hora": "00:00",
+    "fecha": "2026-07-10",
+    "lugar": "Provincia de Bari, Puglia (servicios de transporte público local de STP Bari)",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "STP Bari",
+      "Trabajadores del transporte público local de Bari"
+    ],
+    "motivo": "Huelga general de 24 horas en el transporte público local de la provincia de Bari, Puglia. Los trabajadores de STP Bari exigen mejoras salariales y condiciones laborales. La huelga afecta a servicios de autobuses y otros transportes locales en toda la provincia durante toda la jornada.",
+    "status": "en_curso",
+    "lat": "41.1171",
+    "lng": "16.8719",
+    "fuentes": [
+      {
+        "nombre": "MIT Italy - Scioperi: Bari transport strike July 10 2026",
+        "url": "https://scioperi.mit.gov.it/mit2/public/scioperi"
+      },
+      {
+        "nombre": "Dolcevia.com - Italy Travel Alerts: Bari local public transport strike July 10 2026",
+        "url": "https://www.dolcevia.com/en/italy-travel-alerts"
+      }
+    ],
+    "createdAt": "2026-07-10T04:32:29.000Z",
+    "updatedAt": "2026-07-10T04:38:02Z"
   }
 ]
