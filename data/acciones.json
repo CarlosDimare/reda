@@ -27,12 +27,12 @@
         "url": "https://www.turkiyetoday.com/region/albanians-march-for-42nd-night-against-trump-resort-and-kanye-west-concert-3223727"
       },
       {
-        "nombre": "VoxNews - The 41st protest begins, activist: Don't fall into the trap of those who want to turn the protest into a matter of numbers (10 July 2026)",
-        "url": "https://www.voxnews.al/english/aktualitet/nis-protesta-e-41-te-aktivisti-mos-bini-ne-kurthin-e-atyre-qe-duan-ta-i120404"
+        "nombre": "TAG24 - Trump-tied luxury project faces mounting backlash as protests erupt (11 July 2026)",
+        "url": "https://www.tag24.com/en/topic/world/trump-tied-luxury-project-faces-mounting-backlash-as-protests-erupt-3515360"
       },
       {
-        "nombre": "Democracy Now - Albania's Flamingo Revolution could bring down gov't (9 July 2026)",
-        "url": "https://www.democracynow.org/2026/7/9/albania_protests"
+        "nombre": "Anadolu Agency - Thousands of Albanians march against Trump-linked resort (11 July 2026)",
+        "url": "https://www.anews.com.tr/world/2026/07/11/thousands-of-albanians-march-against-trump-linked-resort"
       },
       {
         "nombre": "Wikipedia - Flamingo Revolution (ongoing since 23 May 2026)",
@@ -40,7 +40,7 @@
       }
     ],
     "createdAt": "2026-07-02T18:12:47.000Z",
-    "updatedAt": "2026-07-12T04:57:19Z"
+    "updatedAt": "2026-07-12T07:34:42Z"
   },
   {
     "id": 652,
@@ -70,7 +70,7 @@
       }
     ],
     "createdAt": "2026-07-11T23:25:55.000Z",
-    "updatedAt": "2026-07-12T04:57:19Z"
+    "updatedAt": "2026-07-12T07:34:42Z"
   },
   {
     "id": 655,
@@ -109,39 +109,191 @@
       }
     ],
     "createdAt": "2026-07-12T01:03:26.000Z",
-    "updatedAt": "2026-07-12T04:57:19Z"
+    "updatedAt": "2026-07-12T07:34:42Z"
   },
   {
-    "id": 657,
+    "id": 658,
     "seccion": "protestas_int",
-    "pais": "Marruecos",
-    "bandera": "🇲🇦",
-    "hora": "11:00",
+    "pais": "Reino Unido",
+    "bandera": "🇬🇧",
+    "hora": "12:00",
     "fecha": "2026-07-12",
-    "lugar": "Casablanca, Marruecos (marcha nacional sindical)",
-    "tipoAccion": "manifestacion",
+    "lugar": "London Underground (líneas Piccadilly, Circle, Metropolitan y Central), Londres",
+    "tipoAccion": "paro",
     "organizaciones": [
-      "Confédération Démocratique du Travail (CDT)",
-      "Union Marocaine du Travail (UMT)",
-      "Fédération Nationale du Travail (FNT)",
-      "Organización Democrática del Trabajo (ODT)"
+      "RMT Union (Rail, Maritime and Transport)"
     ],
-    "motivo": "Marcha nacional convocada por los sindicatos marroquíes CDT, UMT, FNT y ODT en Casablanca contra la reforma de pensiones y las políticas del gobierno. Los sindicatos denuncian la precarización laboral, el debilitamiento de la seguridad social y el aumento del costo de vida. Esta marcha forma parte de una serie de movilizaciones sostenidas en todo el país contra las reformas laborales del gobierno de Aziz Akhannouch.",
+    "motivo": "Huelga de 24 horas del sindicato RMT contra la propuesta de Transport for London de implementar jornadas comprimidas de 4 días (turnos diarios más largos que generan fatiga y riesgos de seguridad). Afecta múltiples líneas del metro de Londres con interrupciones significativas.",
     "status": "en_curso",
-    "lat": "33.5731",
-    "lng": "-7.5898",
+    "lat": "51.5074",
+    "lng": "-0.1278",
     "fuentes": [
       {
-        "nombre": "IndustriALL - Moroccan unions march against pension reform (11 julio 2026)",
-        "url": "https://www.industriall-union.org/moroccan-unions-march-against-pension-reform"
-      },
-      {
-        "nombre": "Morocco World News - Morocco's CDT Calls for National Protest March in Casablanca on July 12 (2026)",
-        "url": "https://www.moroccoworldnews.com/2026/06/352000/cdt-calls-national-protest-march-casanca-july-12"
+        "nombre": "Busydoholandii - London Underground strikes: disruption and impact of 24-hour walkout by tube drivers",
+        "url": "https://busydoholandii.org/article/london-underground-strikes-disruption-and-impact-of-24-hour-walkout-by-tube-drivers"
       }
     ],
-    "createdAt": "2026-07-12T04:50:46.000Z",
-    "updatedAt": "2026-07-12T04:57:19Z"
+    "createdAt": "2026-07-12T07:26:44.000Z",
+    "updatedAt": "2026-07-12T07:34:42Z"
+  },
+  {
+    "id": 659,
+    "seccion": "protestas_int",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "10:00",
+    "fecha": "2026-07-12",
+    "lugar": "Brigham and Women's Hospital (75 Francis St) + MGB HQ (Assembly Row, Somerville), Boston, Massachusetts",
+    "tipoAccion": "paro",
+    "organizaciones": [
+      "Massachusetts Nurses Association (MNA)"
+    ],
+    "motivo": "Día 6 de huelga de 7 días. La mayor huelga de enfermeras en la historia de Massachusetts. Aproximadamente 4.450 enfermeras y 450 clínicos de MGB Home Care exigen mejores ratios de dotación de personal, estándares de atención al paciente, salarios y costos de seguro. Piqueteo de 10:00 a 15:00 del domingo.",
+    "status": "en_curso",
+    "lat": "42.3373",
+    "lng": "-71.1065",
+    "fuentes": [
+      {
+        "nombre": "PR Newswire/MNA - Brigham nurses prepare for end of lockout on Monday with solidarity walk-in",
+        "url": "https://usanewshour.com/mna-brigham-nurses-prepare-for-end-of-lockout-on-monday-with-solidarity-walk-in-as-mgb-home-care-clinicians-demonstrate-power-with-ongoing-mgb-hq-strike-picketing/364251/"
+      },
+      {
+        "nombre": "SimpleScheduleAI - July 2026 nurse strikes staffing",
+        "url": "https://simplescheduleai.com/articles/july-2026-nurse-strikes-staffing"
+      }
+    ],
+    "createdAt": "2026-07-12T07:26:44.000Z",
+    "updatedAt": "2026-07-12T07:34:42Z"
+  },
+  {
+    "id": 660,
+    "seccion": "protestas_int",
+    "pais": "Bulgaria",
+    "bandera": "🇧🇬",
+    "hora": "19:00",
+    "fecha": "2026-07-12",
+    "lugar": "Orlov Most (Puente del Águila), Plaza Independencia, Rectorado de la Universidad de Sofía, y bloqueos de carreteras (Stara Zagora), Sofía + ciudades nacionales",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Отровното трио (The Poisonous Trio: Nikolai Hadzhigenov, Arman Babikyan, Velislav Minekov)",
+      "BOETS",
+      "Izpravi se.BG (Maya Manolova)"
+    ],
+    "motivo": "Día 41 de protestas continuas anticovernmentales. Exigen la renuncia del gobierno, la renuncia del fiscal jefe, fin del estado paralelo oligárquico (Ahmed Dogan, Delyan Peevski), votación electrónica y asamblea constitucional amplia. Miles de personas se congregan en Sofía con bloqueos de carreteras en múltiples ciudades.",
+    "status": "en_curso",
+    "lat": "42.6977",
+    "lng": "23.3219",
+    "fuentes": [
+      {
+        "nombre": "Novini247 - Protestas anticovernmentales continúan en el día 41 (12 julio 2026)",
+        "url": "https://novini247.com/novini/s-palna-para-prodaljavat-antipravitelstvenite-protesti-v-41-iya-den-ot_2726142.html"
+      }
+    ],
+    "createdAt": "2026-07-12T07:26:44.000Z",
+    "updatedAt": "2026-07-12T07:34:42Z"
+  },
+  {
+    "id": 662,
+    "seccion": "protestas_int",
+    "pais": "Australia",
+    "bandera": "🇦🇺",
+    "hora": "09:30",
+    "fecha": "2026-07-12",
+    "lugar": "King George Square → marcha por el centro de la ciudad → Queens Gardens, Brisbane, Queensland",
+    "tipoAccion": "contramanifestacion",
+    "organizaciones": [
+      "Gay Skate Brisbane",
+      "Comunidad trans/queer de Brisbane",
+      "Sindicatos australianos"
+    ],
+    "motivo": "Contramanifestación masiva contra el rally anti-trans 'Fix the Sex Discrimination Act' apoyado por Pauline Hanson y One Nation. Aproximadamente 1.000 contramanifestantes defendieron los derechos trans y la Equality Act frente a apenas 30-40 manifestantes anti-trans. Gran participación de sindicatos y trabajadores solidarios.",
+    "status": "completada",
+    "lat": "-27.4689",
+    "lng": "153.0235",
+    "fuentes": [
+      {
+        "nombre": "Star Observer - Incredible turn-out at Brisbane counter-protest to anti-trans rally (12 julio 2026)",
+        "url": "https://www.starobserver.com.au/news/incredible-turn-out-at-brisbane-counter-protest-to-anti-trans-rally/242646"
+      }
+    ],
+    "createdAt": "2026-07-12T07:26:44.000Z",
+    "updatedAt": "2026-07-12T07:34:42Z"
+  },
+  {
+    "id": 663,
+    "seccion": "protestas_int",
+    "pais": "Alemania",
+    "bandera": "🇩🇪",
+    "hora": "14:00",
+    "fecha": "2026-07-12",
+    "lugar": "Pariser Platz → Bundeskanzleramt (Cancillería), Berlín",
+    "tipoAccion": "entrega_de_peticion",
+    "organizaciones": [
+      "Movimiento ciudadano por petición"
+    ],
+    "motivo": "Entrega formal de petición con 460.000 firmas y 238.000 comentarios personales exigiendo la renuncia del Canciller Friedrich Merz por falta de justicia social y política de paz. El acto se realiza en la Pariser Platz con marcha hacia la Cancillería.",
+    "status": "programada",
+    "lat": "52.5186",
+    "lng": "13.3777",
+    "fuentes": [
+      {
+        "nombre": "Pravda Deutschland - Rücktritt von Friedrich Merz (11 julio 2026)",
+        "url": "https://germany.news-pravda.com/germany/2026/07/11/296822.html"
+      }
+    ],
+    "createdAt": "2026-07-12T07:26:44.000Z",
+    "updatedAt": "2026-07-12T07:34:42Z"
+  },
+  {
+    "id": 664,
+    "seccion": "protestas_int",
+    "pais": "Países Bajos",
+    "bandera": "🇳🇱",
+    "hora": "14:00",
+    "fecha": "2026-07-12",
+    "lugar": "Haarlem, Países Bajos",
+    "tipoAccion": "manifestacion",
+    "organizaciones": [
+      "Breed Platform Palestina",
+      "Vrouwen in het Verzet"
+    ],
+    "motivo": "Manifestación semanal contra las acciones de Israel en Gaza y Palestina. Convocada por el Breed Platform Palestina y Vrouwen in het Verzet como parte de las movilizaciones regulares de solidaridad palestina en los Países Bajos.",
+    "status": "programada",
+    "lat": "52.3876",
+    "lng": "4.6462",
+    "fuentes": [
+      {
+        "nombre": "The Rights Forum - Agenda (12 julio 2026)",
+        "url": "https://rightsforum.org/agenda/"
+      }
+    ],
+    "createdAt": "2026-07-12T07:26:44.000Z",
+    "updatedAt": "2026-07-12T07:34:42Z"
+  },
+  {
+    "id": 665,
+    "seccion": "protestas_int",
+    "pais": "Francia (La Réunion)",
+    "bandera": "🇫🇷",
+    "hora": "14:00",
+    "fecha": "2026-07-12",
+    "lugar": "Le Tampon, La Réunion (Océano Índico)",
+    "tipoAccion": "marcha",
+    "organizaciones": [
+      "Kaz Mazikrok"
+    ],
+    "motivo": "Primera marcha de visibilidad LGBT+ en Le Tampon organizada por Kaz Mazikrok. Programa: aldea comunitaria de 9:30 a 12:30; marcha a las 14:00. Evento histórico para la comunidad LGBT+ en la ciudad.",
+    "status": "completada",
+    "lat": "-21.2731",
+    "lng": "55.5150",
+    "fuentes": [
+      {
+        "nombre": "Le Quotidien de La Réunion - Marche des visibilités au Tampon (11 julio 2026)",
+        "url": "https://www.lequotidien.re/article/societe/2026/07/11/marche-des-visibilites-au-tampon-cette-ville-est-la-ville-de-tout-le-monde"
+      }
+    ],
+    "createdAt": "2026-07-12T07:26:44.000Z",
+    "updatedAt": "2026-07-12T07:34:42Z"
   },
   {
     "id": 656,
@@ -188,6 +340,6 @@
       }
     ],
     "createdAt": "2026-07-12T01:06:37.000Z",
-    "updatedAt": "2026-07-12T04:57:19Z"
+    "updatedAt": "2026-07-12T07:34:42Z"
   }
 ]
