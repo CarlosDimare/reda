@@ -44,7 +44,7 @@
       }
     ],
     "createdAt": "2026-07-02T18:12:47.000Z",
-    "updatedAt": "2026-07-12T10:59:49Z"
+    "updatedAt": "2026-07-12T12:04:14Z"
   },
   {
     "id": 652,
@@ -74,7 +74,7 @@
       }
     ],
     "createdAt": "2026-07-11T23:25:55.000Z",
-    "updatedAt": "2026-07-12T10:59:49Z"
+    "updatedAt": "2026-07-12T12:04:14Z"
   },
   {
     "id": 655,
@@ -113,7 +113,7 @@
       }
     ],
     "createdAt": "2026-07-12T01:03:26.000Z",
-    "updatedAt": "2026-07-12T10:59:49Z"
+    "updatedAt": "2026-07-12T12:04:14Z"
   },
   {
     "id": 658,
@@ -138,7 +138,7 @@
       }
     ],
     "createdAt": "2026-07-12T07:26:44.000Z",
-    "updatedAt": "2026-07-12T10:59:49Z"
+    "updatedAt": "2026-07-12T12:04:14Z"
   },
   {
     "id": 659,
@@ -167,7 +167,7 @@
       }
     ],
     "createdAt": "2026-07-12T07:26:44.000Z",
-    "updatedAt": "2026-07-12T10:59:49Z"
+    "updatedAt": "2026-07-12T12:04:14Z"
   },
   {
     "id": 660,
@@ -194,7 +194,7 @@
       }
     ],
     "createdAt": "2026-07-12T07:26:44.000Z",
-    "updatedAt": "2026-07-12T10:59:49Z"
+    "updatedAt": "2026-07-12T12:04:14Z"
   },
   {
     "id": 662,
@@ -221,7 +221,7 @@
       }
     ],
     "createdAt": "2026-07-12T07:26:44.000Z",
-    "updatedAt": "2026-07-12T10:59:49Z"
+    "updatedAt": "2026-07-12T12:04:14Z"
   },
   {
     "id": 663,
@@ -246,7 +246,7 @@
       }
     ],
     "createdAt": "2026-07-12T07:26:44.000Z",
-    "updatedAt": "2026-07-12T10:59:49Z"
+    "updatedAt": "2026-07-12T12:04:14Z"
   },
   {
     "id": 664,
@@ -272,7 +272,7 @@
       }
     ],
     "createdAt": "2026-07-12T07:26:44.000Z",
-    "updatedAt": "2026-07-12T10:59:49Z"
+    "updatedAt": "2026-07-12T12:04:14Z"
   },
   {
     "id": 671,
@@ -298,7 +298,7 @@
       }
     ],
     "createdAt": "2026-07-12T10:53:49.000Z",
-    "updatedAt": "2026-07-12T10:59:49Z"
+    "updatedAt": "2026-07-12T12:04:14Z"
   },
   {
     "id": 672,
@@ -324,7 +324,79 @@
       }
     ],
     "createdAt": "2026-07-12T10:53:49.000Z",
-    "updatedAt": "2026-07-12T10:59:49Z"
+    "updatedAt": "2026-07-12T12:04:14Z"
+  },
+  {
+    "id": 673,
+    "seccion": "protestas_int",
+    "pais": "India",
+    "bandera": "🇮🇳",
+    "hora": "10:00",
+    "fecha": "2026-07-12",
+    "lugar": "Jantar Mantar, Nueva Delhi",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Cockroach Janta Party (CJP)",
+      "All India Students' Association (AISA)",
+      "Activistas por la educación"
+    ],
+    "motivo": "Día 23 de protesta continua en Jantar Mantar por presuntas irregularidades en exámenes nacionales. El activista climático y educador Sonam Wangchuk lleva 15 días en huelga de hambre indefinida; su salud se deterioró con presión arterial de 104/66 mmHg y pérdida de 7,8 kg. Líderes políticos e intelectuales visitan el sitio en solidaridad, incluyendo exministros de Kerala y un diputado del Samajwadi Party. La CJP exige la renuncia del Ministro de Educación Dharmendra Pradhan y 1 crore de rupias de compensación para las familias de estudiantes que se suicidaron por las irregularidades. Se anunció una marcha pacífica al Parlamento para el 20 de julio, día de apertura de la Sesión del Monzono.",
+    "status": "en_curso",
+    "lat": "28.6271",
+    "lng": "77.2166",
+    "fuentes": [
+      {
+        "nombre": "The Hindu - CJP protest day 23: Wangchuk's health worsens as fast enters 15th day (12 July 2026)",
+        "url": "https://www.thehindu.com/news/national/cockroach-janta-party-protest-sonam-wangchuk-hunger-strike-july-12-2026/article71213482.ece"
+      },
+      {
+        "nombre": "Hindustan Times - Sonam Wangchuk calls for Parliament march on July 20 (9 July 2026)",
+        "url": "https://www.hindustantimes.com/india-news/cjp-protest-sonam-wangchuk-says-do-a-littile-more-calls-for-parliament-march-on-july-20-101783528910816.html"
+      }
+    ],
+    "createdAt": "2026-07-12T11:57:19.000Z",
+    "updatedAt": "2026-07-12T12:04:14Z"
+  },
+  {
+    "id": 674,
+    "seccion": "protestas_int",
+    "pais": "Francia",
+    "bandera": "🇫🇷",
+    "hora": "14:00",
+    "fecha": "2026-07-12",
+    "lugar": "Zona de Oisy-le-Verger / Cambrai, Pas-de-Calais, Hauts-de-France",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Soulèvements de la Terre",
+      "Alliance Écologique et Sociale (AES)",
+      "Collectif contre le Canal Seine-Nord Europe",
+      "NPA (Nouveau Parti anticapitaliste)",
+      "Solidaires"
+    ],
+    "motivo": "Último día de la gran movilización nacional (9-12 julio) contra el Canal Seine-Nord Europe, un megaproyecto fluvial de 107 km que artificializaría 3.200 hectáreas de tierras agrícolas y naturales, amenazaría a más de 300 especies protegidas y costaría al menos 10.000 millones de euros de dinero público. La mega manifestación del sábado 11 reunió a más de 2.000 personas en Oisy-le-Verger. El domingo 12 es el día de cierre del 'village militant' con actividades, debates, conciertos y cierre de la movilización. Los opositores denuncian que el proyecto, destinado a facilitar el transporte marítimo de las multinacionales de Amberes y Róterdam, no tiene financiación completa (más de la mitad sin cubrir), solo el 1% de las obras está realizado, y bombearía 35 millones de m³ de agua del Oise incluyendo una megabassine 22 veces más grande que la de Sainte-Soline.",
+    "status": "en_curso",
+    "lat": "50.2436",
+    "lng": "3.2394",
+    "fuentes": [
+      {
+        "nombre": "Les Soulèvements de la Terre - Méga Canal prend l'eau: mobilisation 9-12 juillet 2026",
+        "url": "https://lessoulevementsdelaterre.org/blog/le-mega-canal-prend-leau-enterrons-le-du-9-au-12-juillet-2026-rejoignez-la-mobilisation-nationale-contre-le-canal-seine-nord-europe"
+      },
+      {
+        "nombre": "Solidaires - Méga Canal Seine-Nord Europe: mobilisation du 9 au 12 juillet (12 julio 2026)",
+        "url": "https://solidaires.org/sinformer-et-agir/actualites-et-mobilisations/nationales/mega-canal-seine-nord-europe-mobilisation-du-9-au-12-juillet/"
+      },
+      {
+        "nombre": "France 3 / Le Monde - La manifestation autorisée par les préfectures (10-11 julio 2026)",
+        "url": "https://www.lemonde.fr/planete/article/2026/07/10/la-manifestation-contre-le-canal-seine-nord-europe-finalement-autorisee-par-les-prefectures-du-nord-et-du-pas-de-calais_6722455_3244.html"
+      },
+      {
+        "nombre": "NPA - Mobilisation nationale contre le canal Seine-Nord Europe (26 junio 2026)",
+        "url": "https://npa-lanticapitaliste.org/communique/mobilisation-nationale-contre-le-canal-seine-nord-europe"
+      }
+    ],
+    "createdAt": "2026-07-12T11:57:19.000Z",
+    "updatedAt": "2026-07-12T12:04:14Z"
   },
   {
     "id": 656,
@@ -363,6 +435,6 @@
       }
     ],
     "createdAt": "2026-07-12T01:06:37.000Z",
-    "updatedAt": "2026-07-12T10:59:49Z"
+    "updatedAt": "2026-07-12T12:04:14Z"
   }
 ]
