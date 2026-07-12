@@ -44,7 +44,7 @@
       }
     ],
     "createdAt": "2026-07-02T18:12:47.000Z",
-    "updatedAt": "2026-07-12T17:07:23Z"
+    "updatedAt": "2026-07-12T18:37:32Z"
   },
   {
     "id": 652,
@@ -74,7 +74,7 @@
       }
     ],
     "createdAt": "2026-07-11T23:25:55.000Z",
-    "updatedAt": "2026-07-12T17:07:23Z"
+    "updatedAt": "2026-07-12T18:37:32Z"
   },
   {
     "id": 655,
@@ -113,343 +113,7 @@
       }
     ],
     "createdAt": "2026-07-12T01:03:26.000Z",
-    "updatedAt": "2026-07-12T17:07:23Z"
-  },
-  {
-    "id": 659,
-    "seccion": "protestas_int",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
-    "hora": "10:00",
-    "fecha": "2026-07-12",
-    "lugar": "Brigham and Women's Hospital (75 Francis St) + MGB HQ (Assembly Row, Somerville), Boston, Massachusetts",
-    "tipoAccion": "paro",
-    "organizaciones": [
-      "Massachusetts Nurses Association (MNA)"
-    ],
-    "motivo": "Día 6 de huelga de 7 días. La mayor huelga de enfermeras en la historia de Massachusetts. Aproximadamente 4.450 enfermeras y 450 clínicos de MGB Home Care exigen mejores ratios de dotación de personal, estándares de atención al paciente, salarios y costos de seguro. Piqueteo de 10:00 a 15:00 del domingo. El lunes 13 las enfermeras volverán al hospital con una 'Solidarity Walk-In' masiva para marcar el fin del lockout.",
-    "status": "en_curso",
-    "lat": "42.3373",
-    "lng": "-71.1065",
-    "fuentes": [
-      {
-        "nombre": "PR Newswire/MNA - Brigham nurses prepare for end of lockout on Monday with solidarity walk-in (11 July 2026)",
-        "url": "https://lifestyle.washingtonguardian.com/story/770095/mna-brigham-nurses-prepare-for-end-of-lockout-on-monday-with-solidarity-walk-in-as-mgb-home-care-clinicians-demonstrate-power-with-ongoing-mgb-hq-strike-picketing/"
-      },
-      {
-        "nombre": "SimpleScheduleAI - July 2026 nurse strikes staffing",
-        "url": "https://simplescheduleai.com/articles/july-2026-nurse-strikes-staffing"
-      }
-    ],
-    "createdAt": "2026-07-12T07:26:44.000Z",
-    "updatedAt": "2026-07-12T17:07:23Z"
-  },
-  {
-    "id": 662,
-    "seccion": "protestas_int",
-    "pais": "Australia",
-    "bandera": "🇦🇺",
-    "hora": "09:30",
-    "fecha": "2026-07-12",
-    "lugar": "King George Square → marcha por el centro de la ciudad → Queens Gardens, Brisbane, Queensland",
-    "tipoAccion": "contramanifestacion",
-    "organizaciones": [
-      "Gay Skate Brisbane",
-      "Comunidad trans/queer de Brisbane",
-      "Sindicatos australianos"
-    ],
-    "motivo": "Contramanifestación masiva contra el rally anti-trans 'Fix the Sex Discrimination Act' apoyado por Pauline Hanson y One Nation. Aproximadamente 1.000 contramanifestantes defendieron los derechos trans y la Equality Act frente a apenas 30-40 manifestantes anti-trans. Gran participación de sindicatos y trabajadores solidarios. La marcha fue redirigida por la policía para evitar conflicto entre ambos grupos.",
-    "status": "completada",
-    "lat": "-27.4689",
-    "lng": "153.0235",
-    "fuentes": [
-      {
-        "nombre": "Star Observer - Incredible turn-out at Brisbane counter-protest to anti-trans rally (12 julio 2026)",
-        "url": "https://www.starobserver.com.au/news/incredible-turn-out-at-brisbane-counter-protest-to-anti-trans-rally/242646"
-      }
-    ],
-    "createdAt": "2026-07-12T07:26:44.000Z",
-    "updatedAt": "2026-07-12T17:07:23Z"
-  },
-  {
-    "id": 663,
-    "seccion": "protestas_int",
-    "pais": "Alemania",
-    "bandera": "🇩🇪",
-    "hora": "14:00",
-    "fecha": "2026-07-12",
-    "lugar": "Pariser Platz → Bundeskanzleramt (Cancillería), Berlín",
-    "tipoAccion": "entrega_de_peticion",
-    "organizaciones": [
-      "Movimiento ciudadano por petición"
-    ],
-    "motivo": "Entrega formal de petición con 460.000 firmas y 238.000 comentarios personales exigiendo la renuncia del Canciller Friedrich Merz por falta de justicia social y política de paz. El acto se realiza en la Pariser Platz con marcha hacia la Cancillería.",
-    "status": "programada",
-    "lat": "52.5186",
-    "lng": "13.3777",
-    "fuentes": [
-      {
-        "nombre": "Pravda Deutschland - Rücktritt von Friedrich Merz (11 julio 2026)",
-        "url": "https://germany.news-pravda.com/germany/2026/07/11/296822.html"
-      }
-    ],
-    "createdAt": "2026-07-12T07:26:44.000Z",
-    "updatedAt": "2026-07-12T17:07:23Z"
-  },
-  {
-    "id": 664,
-    "seccion": "protestas_int",
-    "pais": "Países Bajos",
-    "bandera": "🇳🇱",
-    "hora": "14:00",
-    "fecha": "2026-07-12",
-    "lugar": "Haarlem, Países Bajos",
-    "tipoAccion": "manifestacion",
-    "organizaciones": [
-      "Breed Platform Palestina",
-      "Vrouwen in het Verzet"
-    ],
-    "motivo": "Manifestación semanal contra las acciones de Israel en Gaza y Palestina. Convocada por el Breed Platform Palestina y Vrouwen in het Verzet como parte de las movilizaciones regulares de solidaridad palestina en los Países Bajos.",
-    "status": "programada",
-    "lat": "52.3876",
-    "lng": "4.6462",
-    "fuentes": [
-      {
-        "nombre": "The Rights Forum - Agenda (12 julio 2026)",
-        "url": "https://rightsforum.org/agenda/"
-      }
-    ],
-    "createdAt": "2026-07-12T07:26:44.000Z",
-    "updatedAt": "2026-07-12T17:07:23Z"
-  },
-  {
-    "id": 672,
-    "seccion": "protestas_int",
-    "pais": "Alemania",
-    "bandera": "🇩🇪",
-    "hora": "16:00",
-    "fecha": "2026-07-12",
-    "lugar": "Mariannenplatz, Kreuzberg, Berlín",
-    "tipoAccion": "marcha",
-    "organizaciones": [
-      "Internationalist Trans Pride",
-      "Colectivos queer antisionistas de Berlín"
-    ],
-    "motivo": "Marcha del Internationalist Trans Pride en Berlín. La demo convoca a la comunidad trans e internacionalista en Mariannenplatz a las 16:00. Los organizadores reivindican las raíces de los movimientos de orgullo como actos de resistencia y solidaridad internacionalista, condenando el sionismo y exigiendo derechos trans plenos. La marcha se realiza en el barrio de Kreuzberg, históricamente vinculado a los movimientos sociales berlinenses.",
-    "status": "programada",
-    "lat": "52.5014",
-    "lng": "13.4139",
-    "fuentes": [
-      {
-        "nombre": "F_AJOC Berlin - 12.07.2026, Internationalist Trans Pride – Demo, Mariannenplatz",
-        "url": "https://fantifacharlottenburg.noblogs.org/12-07-2026-internationalist-trans-pride-mariannenplatz/"
-      }
-    ],
-    "createdAt": "2026-07-12T10:53:49.000Z",
-    "updatedAt": "2026-07-12T17:07:23Z"
-  },
-  {
-    "id": 673,
-    "seccion": "protestas_int",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "10:00",
-    "fecha": "2026-07-12",
-    "lugar": "Jantar Mantar, Nueva Delhi",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Cockroach Janta Party (CJP)",
-      "All India Students' Association (AISA)",
-      "Activistas por la educación"
-    ],
-    "motivo": "Día 23 de protesta continua en Jantar Mantar por presuntas irregularidades en exámenes nacionales. El activista climático y educador Sonam Wangchuk lleva 15 días en huelga de hambre indefinida; su salud se deterioró con presión arterial de 104/66 mmHg y pérdida de 7,8 kg. Líderes políticos e intelectuales visitan el sitio en solidaridad, incluyendo exministros de Kerala y un diputado del Samajwadi Party. La CJP exige la renuncia del Ministro de Educación Dharmendra Pradhan y 1 crore de rupias de compensación para las familias de estudiantes que se suicidaron por las irregularidades. Se anunció una marcha pacífica al Parlamento para el 20 de julio, día de apertura de la Sesión del Monzono.",
-    "status": "en_curso",
-    "lat": "28.6271",
-    "lng": "77.2166",
-    "fuentes": [
-      {
-        "nombre": "The Hindu - CJP protest day 23: Wangchuk's health worsens as fast enters 15th day (12 July 2026)",
-        "url": "https://www.thehindu.com/news/national/cockroach-janta-party-protest-sonam-wangchuk-hunger-strike-july-12-2026/article71213482.ece"
-      },
-      {
-        "nombre": "Hindustan Times - Sonam Wangchuk calls for Parliament march on July 20 (9 July 2026)",
-        "url": "https://www.hindustantimes.com/india-news/cjp-protest-sonam-wangchuk-says-do-a-littile-more-calls-for-parliament-march-on-july-20-101783528910816.html"
-      }
-    ],
-    "createdAt": "2026-07-12T11:57:19.000Z",
-    "updatedAt": "2026-07-12T17:07:23Z"
-  },
-  {
-    "id": 674,
-    "seccion": "protestas_int",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "14:00",
-    "fecha": "2026-07-12",
-    "lugar": "Zona de Oisy-le-Verger / Cambrai, Pas-de-Calais, Hauts-de-France",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Soulèvements de la Terre",
-      "Alliance Écologique et Sociale (AES)",
-      "Collectif contre le Canal Seine-Nord Europe",
-      "NPA (Nouveau Parti anticapitaliste)",
-      "Solidaires"
-    ],
-    "motivo": "Último día de la gran movilización nacional (9-12 julio) contra el Canal Seine-Nord Europe, un megaproyecto fluvial de 107 km que artificializaría 3.200 hectáreas de tierras agrícolas y naturales, amenazaría a más de 300 especies protegidas y costaría al menos 10.000 millones de euros de dinero público. La mega manifestación del sábado 11 reunió a más de 2.000 personas en Oisy-le-Verger. El domingo 12 es el día de cierre del 'village militant' con actividades, debates, conciertos y cierre de la movilización. Los opositores denuncian que el proyecto, destinado a facilitar el transporte marítimo de las multinacionales de Amberes y Róterdam, no tiene financiación completa (más de la mitad sin cubrir), solo el 1% de las obras está realizado, y bombearía 35 millones de m³ de agua del Oise incluyendo una megabassine 22 veces más grande que la de Sainte-Soline.",
-    "status": "en_curso",
-    "lat": "50.2436",
-    "lng": "3.2394",
-    "fuentes": [
-      {
-        "nombre": "Les Soulèvements de la Terre - Méga Canal prend l'eau: mobilisation 9-12 juillet 2026",
-        "url": "https://lessoulevementsdelaterre.org/blog/le-mega-canal-prend-leau-enterrons-le-du-9-au-12-juillet-2026-rejoignez-la-mobilisation-nationale-contre-le-canal-seine-nord-europe"
-      },
-      {
-        "nombre": "Solidaires - Méga Canal Seine-Nord Europe: mobilisation du 9 au 12 juillet (12 julio 2026)",
-        "url": "https://solidaires.org/sinformer-et-agir/actualites-et-mobilisations/nationales/mega-canal-seine-nord-europe-mobilisation-du-9-au-12-juillet/"
-      },
-      {
-        "nombre": "France 3 / Le Monde - La manifestation autorisée par les préfectures (10-11 julio 2026)",
-        "url": "https://www.lemonde.fr/planete/article/2026/07/10/la-manifestation-contre-le-canal-seine-nord-europe-finalement-autorisee-par-les-prefectures-du-nord-et-du-pas-de-calais_6722455_3244.html"
-      },
-      {
-        "nombre": "NPA - Mobilisation nationale contre le canal Seine-Nord Europe (26 junio 2026)",
-        "url": "https://npa-lanticapitaliste.org/communique/mobilisation-nationale-contre-le-canal-seine-nord-europe"
-      }
-    ],
-    "createdAt": "2026-07-12T11:57:19.000Z",
-    "updatedAt": "2026-07-12T17:07:23Z"
-  },
-  {
-    "id": 675,
-    "seccion": "protestas_int",
-    "pais": "Nigeria",
-    "bandera": "🇳🇬",
-    "hora": "11:00",
-    "fecha": "2026-07-12",
-    "lugar": "Post Office area, Maiduguri, Borno State",
-    "tipoAccion": "manifestacion",
-    "organizaciones": [
-      "Youth and Students Forum in Borno State",
-      "Student groups and youth organisations from across Borno"
-    ],
-    "motivo": "Protesta bajo el lema #UniteAgainstTerror contra la inseguridad en Borno State. Cientos de jóvenes y estudiantes se congregaron en el Post Office area de Maiduguri, la capital del estado, para exigir unidad nacional contra el terrorismo y la criminalidad. Los manifestantes pidieron al gobierno federal que intensifique los esfuerzos para liberar a todos los secuestrados en Borno, que invierta más en seguridad y que proporcione empleo y oportunidades para reducir la criminalidad. La protesta surgió tras el rescate exitoso de estudiantes secuestrados en Oyo State, y los organizadores pidieron replicar esa operación en Borno, Kaduna y Kwara. Llevan pancartas con inscripciones como 'Unidad es nuestra arma contra el terrorismo', 'No a la colaboración con terroristas' y 'Juntos defendemos contra el terrorismo y la criminalidad'.",
-    "status": "completada",
-    "lat": "11.8464",
-    "lng": "13.1603",
-    "fuentes": [
-      {
-        "nombre": "Punch Nigeria - Borno youths protest against insecurity, demand action (12 July 2026)",
-        "url": "https://punchng.com/borno-youths-protest-against-insecurity/"
-      },
-      {
-        "nombre": "Punch Nigeria - Northerners to FG: Replicate Oyo rescue operation in Kaduna, Borno, Kwara (12 July 2026)",
-        "url": "https://punchng.com/northerners-to-fg-replicate-oyo-rescue-operation-in-kaduna-borno-kwara/"
-      }
-    ],
-    "createdAt": "2026-07-12T13:26:51.000Z",
-    "updatedAt": "2026-07-12T17:07:23Z"
-  },
-  {
-    "id": 676,
-    "seccion": "protestas_int",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "00:00",
-    "fecha": "2026-07-12",
-    "lugar": "Bajo el puente del río Barana, Chhatarpur, Madhya Pradesh",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Familias tribales de Chhatarpur",
-      "Activistas por los derechos de los pueblos tribales"
-    ],
-    "motivo": "Día 9 de la protesta continua conocida como 'Chita Andolan' (protesta de la pira funeraria) contra el proyecto de enlace fluvial Ken-Betwa. Familias tribales del distrito de Chhatarpur en Madhya Pradesh protestan bajo el puente del río Barana exigiendo compensación por su desplazamiento forzado. Los manifestantes acusan a la administración local de ignorar sus preocupaciones y suprimir protestas anteriores con 'falsas garantías'. El proyecto Ken-Betwa incluye la construcción de la presa Daudhan de 77 metros de altura y 2,13 km de largo, que inundará parte de la Reserva del Tigre de Panna. Los manifestantes advirtieron que podrían tomar medidas extremas si no se satisfacen sus demandas de compensación adecuada y rehabilitación.",
-    "status": "en_curso",
-    "lat": "25.2677",
-    "lng": "79.5526",
-    "fuentes": [
-      {
-        "nombre": "The News Mill - Tribal families protest Ken-Betwa project in Chhatarpur for nine days (12 July 2026)",
-        "url": "https://thenewsmill.com/2026/07/tribal-families-protest-ken-betwa-project-in-chhatarpur-for-nine-days/"
-      }
-    ],
-    "createdAt": "2026-07-12T13:26:51.000Z",
-    "updatedAt": "2026-07-12T17:07:23Z"
-  },
-  {
-    "id": 677,
-    "seccion": "protestas_int",
-    "pais": "Nigeria",
-    "bandera": "🇳🇬",
-    "hora": "11:00",
-    "fecha": "2026-07-12",
-    "lugar": "Och'Idoma Palace, Otukpo, Benue State",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Juventudes y residentes de Otukpo",
-      "Comunidades de Benue State"
-    ],
-    "motivo": "Manifestantes irrumpieron en el palacio del Och'Idoma (rey tradicional idoma) en Otukpo con los cadáveres de víctimas de un ataque de presuntos pastores armados. Al menos 10 personas fueron asesinadas en ataques a las comunidades de Ugboju y Otukpo Nobi en el estado de Benue. Los manifestantes, incluidos jóvenes y residentes, marcharon al palacio tradicional portando los cuerpos para expresar su frustración ante la situación de inseguridad creciente y exigir intervención gubernamental urgente. El gobernador del estado, Hyacinth Alia, condenó los ataques. La protesta se produce en un contexto de violencia persistente entre agricultores y pastores armados que ha desplazado a comunidades enteras en Benue State durante más de una década.",
-    "status": "completada",
-    "lat": "7.3333",
-    "lng": "8.1333",
-    "fuentes": [
-      {
-        "nombre": "Daily Post Nigeria - Benue: Protesters storm Och'Idoma's palace with corpses after fresh herdsmen attack (12 July 2026)",
-        "url": "https://dailypost.ng/2026/07/12/benue-protesters-storm-ochidomas-palace-with-corpses-after-fresh-herdsmen-attack-video/"
-      },
-      {
-        "nombre": "Leadership NG - Protesters Storm Och'Idoma Palace With Corpses As Gunmen Kill 10 In Benue (12 July 2026)",
-        "url": "https://leadership.ng/just-in-protesters-storm-ochidoma-palace-with-corpses-as-gunmen-kill-10-in-benue/"
-      },
-      {
-        "nombre": "TVCNews - Alia condemns fresh Benue killings as suspected herdsmen attack Otukpo communities (12 July 2026)",
-        "url": "https://www.tvcnews.tv/alia-condemns-fresh-benue-killings-as-suspected-herdsmen-attack-otukpo-communities/"
-      },
-      {
-        "nombre": "Idoma Voice Newspaper - Bloody Weekend in Benue South (12 July 2026)",
-        "url": "https://idomavoice.com/bloody-weekend-in-benue-south-many-killed-as-suspected-herdsmen-attack-ugboju-otukpo-nobi-communities/"
-      }
-    ],
-    "createdAt": "2026-07-12T14:41:00.000Z",
-    "updatedAt": "2026-07-12T17:07:23Z"
-  },
-  {
-    "id": 678,
-    "seccion": "protestas_int",
-    "pais": "México",
-    "bandera": "🇲🇽",
-    "hora": "16:30",
-    "fecha": "2026-07-12",
-    "lugar": "CCH Insurgentes Sur → Torre de Rectoría, UNAM + Palacio de Justicia Federal + múltiples puntos, Ciudad de México",
-    "tipoAccion": "marcha",
-    "organizaciones": [
-      "Coordinadora Común Contra el Porrismo y la Represión",
-      "Va Por Todos MX",
-      "Movimiento de Indígenas Artesanos de la CDMX",
-      "Frente Popular Francisco Villa (FPFV)",
-      "Colectivos y Organizaciones Antitaurinas"
-    ],
-    "motivo": "Múltiples marchas y concentraciones en la Ciudad de México este domingo. La marcha principal de la Coordinadora Común Contra el Porrismo y la Represión partió del CCH (Av. Insurgentes Sur 3000) hacia la Torre de Rectoría de la UNAM a las 16:30 contra la represión policial y el porrismo. Va Por Todos MX se concentró en el Palacio de Justicia Federal en defensa del Poder Judicial frente a la reforma que busca elegir ministros por voto ciudadano. El Movimiento de Indígenas Artesanos se manifestó ante la Dirección de Programas de Alcaldías exigiendo incorporación a programas de vivienda y espacios en la vía pública. El Frente Popular Francisco Villa demandó pago con descuento para adquisición de vivienda en el INVI. Los colectivos antitaurinas recolectaron firmas en Bellas Artes contra las corridas de toros.",
-    "status": "completada",
-    "lat": "19.3321",
-    "lng": "-99.1870",
-    "fuentes": [
-      {
-        "nombre": "La Prensa - 9 concentraciones en la CDMX el 12 de julio (12 julio 2026)",
-        "url": "https://oem.com.mx/la-prensa/metropoli/este-viernes-12-de-julio-se-preven-9-concentraciones-en-la-cdmx-13085601"
-      },
-      {
-        "nombre": "El Economista - Marchas y concentraciones HOY 12 de julio en CDMX (12 julio 2026)",
-        "url": "https://mx.headtopics.com/news/marchas-y-concentraciones-hoy-12-de-julio-en-cdmx-estas-85498561"
-      },
-      {
-        "nombre": "Excelsior - Marchas y concentraciones que afectan la CDMX (12 julio 2026)",
-        "url": "https://www.excelsior.com.mx/ciudad-de-mexico/sal-con-tiempo-son-marchas-y-concentraciones-que-afectan-cdmx"
-      }
-    ],
-    "createdAt": "2026-07-12T14:41:00.000Z",
-    "updatedAt": "2026-07-12T17:07:23Z"
+    "updatedAt": "2026-07-12T18:37:32Z"
   },
   {
     "id": 656,
@@ -492,6 +156,391 @@
       }
     ],
     "createdAt": "2026-07-12T01:06:37.000Z",
-    "updatedAt": "2026-07-12T17:07:23Z"
+    "updatedAt": "2026-07-12T18:37:32Z"
+  },
+  {
+    "id": 659,
+    "seccion": "protestas_int",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "10:00",
+    "fecha": "2026-07-12",
+    "lugar": "Brigham and Women's Hospital (75 Francis St) + MGB HQ (Assembly Row, Somerville), Boston, Massachusetts",
+    "tipoAccion": "paro",
+    "organizaciones": [
+      "Massachusetts Nurses Association (MNA)"
+    ],
+    "motivo": "Día 6 de huelga de 7 días. La mayor huelga de enfermeras en la historia de Massachusetts. Aproximadamente 4.450 enfermeras y 450 clínicos de MGB Home Care exigen mejores ratios de dotación de personal, estándares de atención al paciente, salarios y costos de seguro. Piqueteo de 10:00 a 15:00 del domingo. El lunes 13 las enfermeras volverán al hospital con una 'Solidarity Walk-In' masiva para marcar el fin del lockout.",
+    "status": "en_curso",
+    "lat": "42.3373",
+    "lng": "-71.1065",
+    "fuentes": [
+      {
+        "nombre": "PR Newswire/MNA - Brigham nurses prepare for end of lockout on Monday with solidarity walk-in (11 July 2026)",
+        "url": "https://lifestyle.washingtonguardian.com/story/770095/mna-brigham-nurses-prepare-for-end-of-lockout-on-monday-with-solidarity-walk-in-as-mgb-home-care-clinicians-demonstrate-power-with-ongoing-mgb-hq-strike-picketing/"
+      },
+      {
+        "nombre": "SimpleScheduleAI - July 2026 nurse strikes staffing",
+        "url": "https://simplescheduleai.com/articles/july-2026-nurse-strikes-staffing"
+      }
+    ],
+    "createdAt": "2026-07-12T07:26:44.000Z",
+    "updatedAt": "2026-07-12T18:37:32Z"
+  },
+  {
+    "id": 662,
+    "seccion": "protestas_int",
+    "pais": "Australia",
+    "bandera": "🇦🇺",
+    "hora": "09:30",
+    "fecha": "2026-07-12",
+    "lugar": "King George Square → marcha por el centro de la ciudad → Queens Gardens, Brisbane, Queensland",
+    "tipoAccion": "contramanifestacion",
+    "organizaciones": [
+      "Gay Skate Brisbane",
+      "Comunidad trans/queer de Brisbane",
+      "Sindicatos australianos"
+    ],
+    "motivo": "Contramanifestación masiva contra el rally anti-trans 'Fix the Sex Discrimination Act' apoyado por Pauline Hanson y One Nation. Aproximadamente 1.000 contramanifestantes defendieron los derechos trans y la Equality Act frente a apenas 30-40 manifestantes anti-trans. Gran participación de sindicatos y trabajadores solidarios. La marcha fue redirigida por la policía para evitar conflicto entre ambos grupos.",
+    "status": "completada",
+    "lat": "-27.4689",
+    "lng": "153.0235",
+    "fuentes": [
+      {
+        "nombre": "Star Observer - Incredible turn-out at Brisbane counter-protest to anti-trans rally (12 julio 2026)",
+        "url": "https://www.starobserver.com.au/news/incredible-turn-out-at-brisbane-counter-protest-to-anti-trans-rally/242646"
+      }
+    ],
+    "createdAt": "2026-07-12T07:26:44.000Z",
+    "updatedAt": "2026-07-12T18:37:32Z"
+  },
+  {
+    "id": 663,
+    "seccion": "protestas_int",
+    "pais": "Alemania",
+    "bandera": "🇩🇪",
+    "hora": "14:00",
+    "fecha": "2026-07-12",
+    "lugar": "Pariser Platz → Bundeskanzleramt (Cancillería), Berlín",
+    "tipoAccion": "entrega_de_peticion",
+    "organizaciones": [
+      "Movimiento ciudadano por petición"
+    ],
+    "motivo": "Entrega formal de petición con 460.000 firmas y 238.000 comentarios personales exigiendo la renuncia del Canciller Friedrich Merz por falta de justicia social y política de paz. El acto se realiza en la Pariser Platz con marcha hacia la Cancillería.",
+    "status": "programada",
+    "lat": "52.5186",
+    "lng": "13.3777",
+    "fuentes": [
+      {
+        "nombre": "Pravda Deutschland - Rücktritt von Friedrich Merz (11 julio 2026)",
+        "url": "https://germany.news-pravda.com/germany/2026/07/11/296822.html"
+      }
+    ],
+    "createdAt": "2026-07-12T07:26:44.000Z",
+    "updatedAt": "2026-07-12T18:37:32Z"
+  },
+  {
+    "id": 664,
+    "seccion": "protestas_int",
+    "pais": "Países Bajos",
+    "bandera": "🇳🇱",
+    "hora": "14:00",
+    "fecha": "2026-07-12",
+    "lugar": "Haarlem, Países Bajos",
+    "tipoAccion": "manifestacion",
+    "organizaciones": [
+      "Breed Platform Palestina",
+      "Vrouwen in het Verzet"
+    ],
+    "motivo": "Manifestación semanal contra las acciones de Israel en Gaza y Palestina. Convocada por el Breed Platform Palestina y Vrouwen in het Verzet como parte de las movilizaciones regulares de solidaridad palestina en los Países Bajos.",
+    "status": "programada",
+    "lat": "52.3876",
+    "lng": "4.6462",
+    "fuentes": [
+      {
+        "nombre": "The Rights Forum - Agenda (12 julio 2026)",
+        "url": "https://rightsforum.org/agenda/"
+      }
+    ],
+    "createdAt": "2026-07-12T07:26:44.000Z",
+    "updatedAt": "2026-07-12T18:37:32Z"
+  },
+  {
+    "id": 672,
+    "seccion": "protestas_int",
+    "pais": "Alemania",
+    "bandera": "🇩🇪",
+    "hora": "16:00",
+    "fecha": "2026-07-12",
+    "lugar": "Mariannenplatz, Kreuzberg, Berlín",
+    "tipoAccion": "marcha",
+    "organizaciones": [
+      "Internationalist Trans Pride",
+      "Colectivos queer antisionistas de Berlín"
+    ],
+    "motivo": "Marcha del Internationalist Trans Pride en Berlín. La demo convoca a la comunidad trans e internacionalista en Mariannenplatz a las 16:00. Los organizadores reivindican las raíces de los movimientos de orgullo como actos de resistencia y solidaridad internacionalista, condenando el sionismo y exigiendo derechos trans plenos. La marcha se realiza en el barrio de Kreuzberg, históricamente vinculado a los movimientos sociales berlinenses.",
+    "status": "programada",
+    "lat": "52.5014",
+    "lng": "13.4139",
+    "fuentes": [
+      {
+        "nombre": "F_AJOC Berlin - 12.07.2026, Internationalist Trans Pride – Demo, Mariannenplatz",
+        "url": "https://fantifacharlottenburg.noblogs.org/12-07-2026-internationalist-trans-pride-mariannenplatz/"
+      }
+    ],
+    "createdAt": "2026-07-12T10:53:49.000Z",
+    "updatedAt": "2026-07-12T18:37:32Z"
+  },
+  {
+    "id": 673,
+    "seccion": "protestas_int",
+    "pais": "India",
+    "bandera": "🇮🇳",
+    "hora": "10:00",
+    "fecha": "2026-07-12",
+    "lugar": "Jantar Mantar, Nueva Delhi",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Cockroach Janta Party (CJP)",
+      "All India Students' Association (AISA)",
+      "Activistas por la educación"
+    ],
+    "motivo": "Día 23 de protesta continua en Jantar Mantar por presuntas irregularidades en exámenes nacionales. El activista climático y educador Sonam Wangchuk lleva 15 días en huelga de hambre indefinida; su salud se deterioró con presión arterial de 104/66 mmHg y pérdida de 7,8 kg. Líderes políticos e intelectuales visitan el sitio en solidaridad, incluyendo exministros de Kerala y un diputado del Samajwadi Party. La CJP exige la renuncia del Ministro de Educación Dharmendra Pradhan y 1 crore de rupias de compensación para las familias de estudiantes que se suicidaron por las irregularidades. Se anunció una marcha pacífica al Parlamento para el 20 de julio, día de apertura de la Sesión del Monzono.",
+    "status": "en_curso",
+    "lat": "28.6271",
+    "lng": "77.2166",
+    "fuentes": [
+      {
+        "nombre": "The Hindu - CJP protest day 23: Wangchuk's health worsens as fast enters 15th day (12 July 2026)",
+        "url": "https://www.thehindu.com/news/national/cockroach-janta-party-protest-sonam-wangchuk-hunger-strike-july-12-2026/article71213482.ece"
+      },
+      {
+        "nombre": "Hindustan Times - Sonam Wangchuk calls for Parliament march on July 20 (9 July 2026)",
+        "url": "https://www.hindustantimes.com/india-news/cjp-protest-sonam-wangchuk-says-do-a-littile-more-calls-for-parliament-march-on-july-20-101783528910816.html"
+      }
+    ],
+    "createdAt": "2026-07-12T11:57:19.000Z",
+    "updatedAt": "2026-07-12T18:37:32Z"
+  },
+  {
+    "id": 674,
+    "seccion": "protestas_int",
+    "pais": "Francia",
+    "bandera": "🇫🇷",
+    "hora": "14:00",
+    "fecha": "2026-07-12",
+    "lugar": "Zona de Oisy-le-Verger / Cambrai, Pas-de-Calais, Hauts-de-France",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Soulèvements de la Terre",
+      "Alliance Écologique et Sociale (AES)",
+      "Collectif contre le Canal Seine-Nord Europe",
+      "NPA (Nouveau Parti anticapitaliste)",
+      "Solidaires"
+    ],
+    "motivo": "Último día de la gran movilización nacional (9-12 julio) contra el Canal Seine-Nord Europe, un megaproyecto fluvial de 107 km que artificializaría 3.200 hectáreas de tierras agrícolas y naturales, amenazaría a más de 300 especies protegidas y costaría al menos 10.000 millones de euros de dinero público. La mega manifestación del sábado 11 reunió a más de 2.000 personas en Oisy-le-Verger. El domingo 12 es el día de cierre del 'village militant' con actividades, debates, conciertos y cierre de la movilización. Los opositores denuncian que el proyecto, destinado a facilitar el transporte marítimo de las multinacionales de Amberes y Róterdam, no tiene financiación completa (más de la mitad sin cubrir), solo el 1% de las obras está realizado, y bombearía 35 millones de m³ de agua del Oise incluyendo una megabassine 22 veces más grande que la de Sainte-Soline.",
+    "status": "en_curso",
+    "lat": "50.2436",
+    "lng": "3.2394",
+    "fuentes": [
+      {
+        "nombre": "Les Soulèvements de la Terre - Méga Canal prend l'eau: mobilisation 9-12 juillet 2026",
+        "url": "https://lessoulevementsdelaterre.org/blog/le-mega-canal-prend-leau-enterrons-le-du-9-au-12-juillet-2026-rejoignez-la-mobilisation-nationale-contre-le-canal-seine-nord-europe"
+      },
+      {
+        "nombre": "Solidaires - Méga Canal Seine-Nord Europe: mobilisation du 9 au 12 juillet (12 julio 2026)",
+        "url": "https://solidaires.org/sinformer-et-agir/actualites-et-mobilisations/nationales/mega-canal-seine-nord-europe-mobilisation-du-9-au-12-juillet/"
+      },
+      {
+        "nombre": "France 3 / Le Monde - La manifestation autorisée par les préfectures (10-11 julio 2026)",
+        "url": "https://www.lemonde.fr/planete/article/2026/07/10/la-manifestation-contre-le-canal-seine-nord-europe-finalement-autorisee-par-les-prefectures-du-nord-et-du-pas-de-calais_6722455_3244.html"
+      },
+      {
+        "nombre": "NPA - Mobilisation nationale contre le canal Seine-Nord Europe (26 junio 2026)",
+        "url": "https://npa-lanticapitaliste.org/communique/mobilisation-nationale-contre-le-canal-seine-nord-europe"
+      }
+    ],
+    "createdAt": "2026-07-12T11:57:19.000Z",
+    "updatedAt": "2026-07-12T18:37:32Z"
+  },
+  {
+    "id": 675,
+    "seccion": "protestas_int",
+    "pais": "Nigeria",
+    "bandera": "🇳🇬",
+    "hora": "11:00",
+    "fecha": "2026-07-12",
+    "lugar": "Post Office area, Maiduguri, Borno State",
+    "tipoAccion": "manifestacion",
+    "organizaciones": [
+      "Youth and Students Forum in Borno State",
+      "Student groups and youth organisations from across Borno"
+    ],
+    "motivo": "Protesta bajo el lema #UniteAgainstTerror contra la inseguridad en Borno State. Cientos de jóvenes y estudiantes se congregaron en el Post Office area de Maiduguri, la capital del estado, para exigir unidad nacional contra el terrorismo y la criminalidad. Los manifestantes pidieron al gobierno federal que intensifique los esfuerzos para liberar a todos los secuestrados en Borno, que invierta más en seguridad y que proporcione empleo y oportunidades para reducir la criminalidad. La protesta surgió tras el rescate exitoso de estudiantes secuestrados en Oyo State, y los organizadores pidieron replicar esa operación en Borno, Kaduna y Kwara. Llevan pancartas con inscripciones como 'Unidad es nuestra arma contra el terrorismo', 'No a la colaboración con terroristas' y 'Juntos defendemos contra el terrorismo y la criminalidad'.",
+    "status": "completada",
+    "lat": "11.8464",
+    "lng": "13.1603",
+    "fuentes": [
+      {
+        "nombre": "Punch Nigeria - Borno youths protest against insecurity, demand action (12 July 2026)",
+        "url": "https://punchng.com/borno-youths-protest-against-insecurity/"
+      },
+      {
+        "nombre": "Punch Nigeria - Northerners to FG: Replicate Oyo rescue operation in Kaduna, Borno, Kwara (12 July 2026)",
+        "url": "https://punchng.com/northerners-to-fg-replicate-oyo-rescue-operation-in-kaduna-borno-kwara/"
+      }
+    ],
+    "createdAt": "2026-07-12T13:26:51.000Z",
+    "updatedAt": "2026-07-12T18:37:32Z"
+  },
+  {
+    "id": 676,
+    "seccion": "protestas_int",
+    "pais": "India",
+    "bandera": "🇮🇳",
+    "hora": "00:00",
+    "fecha": "2026-07-12",
+    "lugar": "Bajo el puente del río Barana, Chhatarpur, Madhya Pradesh",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Familias tribales de Chhatarpur",
+      "Activistas por los derechos de los pueblos tribales"
+    ],
+    "motivo": "Día 9 de la protesta continua conocida como 'Chita Andolan' (protesta de la pira funeraria) contra el proyecto de enlace fluvial Ken-Betwa. Familias tribales del distrito de Chhatarpur en Madhya Pradesh protestan bajo el puente del río Barana exigiendo compensación por su desplazamiento forzado. Los manifestantes acusan a la administración local de ignorar sus preocupaciones y suprimir protestas anteriores con 'falsas garantías'. El proyecto Ken-Betwa incluye la construcción de la presa Daudhan de 77 metros de altura y 2,13 km de largo, que inundará parte de la Reserva del Tigre de Panna. Los manifestantes advirtieron que podrían tomar medidas extremas si no se satisfacen sus demandas de compensación adecuada y rehabilitación.",
+    "status": "en_curso",
+    "lat": "25.2677",
+    "lng": "79.5526",
+    "fuentes": [
+      {
+        "nombre": "The News Mill - Tribal families protest Ken-Betwa project in Chhatarpur for nine days (12 July 2026)",
+        "url": "https://thenewsmill.com/2026/07/tribal-families-protest-ken-betwa-project-in-chhatarpur-for-nine-days/"
+      }
+    ],
+    "createdAt": "2026-07-12T13:26:51.000Z",
+    "updatedAt": "2026-07-12T18:37:32Z"
+  },
+  {
+    "id": 677,
+    "seccion": "protestas_int",
+    "pais": "Nigeria",
+    "bandera": "🇳🇬",
+    "hora": "11:00",
+    "fecha": "2026-07-12",
+    "lugar": "Och'Idoma Palace, Otukpo, Benue State",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Juventudes y residentes de Otukpo",
+      "Comunidades de Benue State"
+    ],
+    "motivo": "Manifestantes irrumpieron en el palacio del Och'Idoma (rey tradicional idoma) en Otukpo con los cadáveres de víctimas de un ataque de presuntos pastores armados. Al menos 10 personas fueron asesinadas en ataques a las comunidades de Ugboju y Otukpo Nobi en el estado de Benue. Los manifestantes, incluidos jóvenes y residentes, marcharon al palacio tradicional portando los cuerpos para expresar su frustración ante la situación de inseguridad creciente y exigir intervención gubernamental urgente. El gobernador del estado, Hyacinth Alia, condenó los ataques. La protesta se produce en un contexto de violencia persistente entre agricultores y pastores armados que ha desplazado a comunidades enteras en Benue State durante más de una década.",
+    "status": "completada",
+    "lat": "7.3333",
+    "lng": "8.1333",
+    "fuentes": [
+      {
+        "nombre": "Daily Post Nigeria - Benue: Protesters storm Och'Idoma's palace with corpses after fresh herdsmen attack (12 July 2026)",
+        "url": "https://dailypost.ng/2026/07/12/benue-protesters-storm-ochidomas-palace-with-corpses-after-fresh-herdsmen-attack-video/"
+      },
+      {
+        "nombre": "Leadership NG - Protesters Storm Och'Idoma Palace With Corpses As Gunmen Kill 10 In Benue (12 July 2026)",
+        "url": "https://leadership.ng/just-in-protesters-storm-ochidoma-palace-with-corpses-as-gunmen-kill-10-in-benue/"
+      },
+      {
+        "nombre": "TVCNews - Alia condemns fresh Benue killings as suspected herdsmen attack Otukpo communities (12 July 2026)",
+        "url": "https://www.tvcnews.tv/alia-condemns-fresh-benue-killings-as-suspected-herdsmen-attack-otukpo-communities/"
+      },
+      {
+        "nombre": "Idoma Voice Newspaper - Bloody Weekend in Benue South (12 July 2026)",
+        "url": "https://idomavoice.com/bloody-weekend-in-benue-south-many-killed-as-suspected-herdsmen-attack-ugboju-otukpo-nobi-communities/"
+      }
+    ],
+    "createdAt": "2026-07-12T14:41:00.000Z",
+    "updatedAt": "2026-07-12T18:37:32Z"
+  },
+  {
+    "id": 679,
+    "seccion": "protestas_int",
+    "pais": "Cuba",
+    "bandera": "🇨🇺",
+    "hora": "12:00",
+    "fecha": "2026-07-12",
+    "lugar": "El Vedado, La Habana (esquina de 13 y M, zona Focsa, Tribuna Antimperialista) + Old Havana + Guanabacoa (Reparto Nalón)",
+    "tipoAccion": "cacerolazo",
+    "organizaciones": [
+      "Vecinos de El Vedado",
+      "Vecinos de Old Havana",
+      "Vecinos de Reparto Nalón, Guanabacoa"
+    ],
+    "motivo": "Cacerolazos diurnos en múltiples barrios de La Habana en el quinto aniversario del 11J (11 de julio de 2021). En El Vedado, vecinos salieron a las calles de día golpeando ollas y sartenes tras más de 33 horas consecutivas de apagón, en lo que constituye una escalada respecto a las protestas nocturnas habituales. En Old Havana, una protesta similar con cánticos contra los líderes del régimen fue recibida con un despliegue masivo de policías y paramilitares en la sede municipal del PCC. En Reparto Nalón, Guanabacoa, residentes realizaron un fuerte cacerolazo tras el mismo corte de energía. La protesta diurna tiene un significado especial en Cuba porque implica asumir un riesgo mayor de represión al renunciar al anonimato de la noche. Las protestas reflejan la crisis energética extrema: apagones de hasta 72 horas consecutivas, el dólar informal a 670 pesos, y un PIB en contracción del 6,5% al 15%. En junio de 2026 se registraron 107 protestas callejeras, récord histórico. Cuba tiene entre 1.260 y 1.306 presos políticos, el número más alto documentado.",
+    "status": "completada",
+    "lat": "23.1426",
+    "lng": "-82.3881",
+    "fuentes": [
+      {
+        "nombre": "CiberCuba - Casseroles clank in broad daylight in Vedado (12 July 2026)",
+        "url": "https://en.cibercuba.com/noticias/2026-07-12-u1-e208574-s27061-nid334908-suenan-cacerolas-plena-luz-dia-vedado"
+      },
+      {
+        "nombre": "CubaHeadlines - Pots and Pans Echo Through Vedado in Daytime Protest (12 July 2026)",
+        "url": "https://www.cubaheadlines.com/articles/334908"
+      },
+      {
+        "nombre": "CiberCuba - Protest in Old Havana on the anniversary of 11J: regime deploys forces (12 July 2026)",
+        "url": "https://en.cibercuba.com/noticias/2026-07-12-u1-e208512-s27061-nid334871-protesta-habana-vieja-aniversario-11j-regimen"
+      },
+      {
+        "nombre": "CiberCuba - Strong pot-banging protest in Guanabacoa on the anniversary of July 11th (12 July 2026)",
+        "url": "https://en.cibercuba.com/noticias/2026-07-12-u1-e208512-s27061-nid334869-fuerte-cacerolazo-guanabacoa-aniversario-11j"
+      },
+      {
+        "nombre": "EFE - Cuba Five Years After 11J: Severe Crisis and Ongoing Unrest (12 July 2026)",
+        "url": "https://efe.com/english/latest-news/2026-07-12/severe-crisis-daily-protests-and-political-prisoners-cuba-five-years-after-11j/"
+      }
+    ],
+    "createdAt": "2026-07-12T18:28:51.000Z",
+    "updatedAt": "2026-07-12T18:37:32Z"
+  },
+  {
+    "id": 680,
+    "seccion": "protestas_int",
+    "pais": "Nepal",
+    "bandera": "🇳🇵",
+    "hora": "10:00",
+    "fecha": "2026-07-12",
+    "lugar": "Maitighar Mandal, Kathmandu",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "United National Landless Settlers' Front Nepal",
+      "Landless Settlers' Central Joint Struggle Committee",
+      "Estudiantes y activistas Gen Z"
+    ],
+    "motivo": "Manifestación masiva en Maitighar encabezada por el Frente Unificado Nacional de Asentamientos Irregulares contra el desalojo forzado de familias sin tierra por parte del gobierno del Primer Ministro Balendra Shah (Balen). La protesta fue provocada por la inundación del centro de acogida de Kirtipur la madrugada del sábado 11 de julio, que dejó a familias desplazadas de nuevo sin hogar, y por el arresto del activista Gen Z Majid Ansari mientras intentaba asistir a los afectados. Las familias habían sido reubicadas forzosamente desde sus asentamientos ribereños en el Valle de Katmandú a partir de abril mediante operaciones de demolición con bulldozer. El gobierno les había prometido seguridad temporal, pero el centro de acogida resultó igualmente vulnerable durante el monzón. Los manifestantes exigen compensación por las viviendas demolidas, identificación formal para rehabilitación permanente y cese de los desalojos arbitrarios. Se reportaron 26 detenciones en Biratnagar durante protestas solidarias la noche anterior.",
+    "status": "completada",
+    "lat": "27.6966",
+    "lng": "85.3188",
+    "fuentes": [
+      {
+        "nombre": "Nepal News - Landless settlers protest at Maitighar (12 July 2026)",
+        "url": "https://english.nepalnews.com/s/capital/landless-settlers-protest-at-maitighar-photo-feature/"
+      },
+      {
+        "nombre": "OnlineKhabar - Landless squatters protest in Kathmandu, demand rehabilitation and release of detainees (12 July 2026)",
+        "url": "https://english.onlinekhabar.com/landless-squatters-protest-in-kathmandu-demand-rehabilitation-and-release-of-detainees-photos.html"
+      },
+      {
+        "nombre": "The Business Standard - Gen-Z protests erupt in Nepal as youth-backed Balen Shah government faces first major challenge (12 July 2026)",
+        "url": "https://www.tbsnews.net/world/south-asia/gen-z-protests-erupt-nepal-youth-backed-balen-shah-government-faces-first-major"
+      },
+      {
+        "nombre": "Nepal Press - Govt urged to address issues of landless citizens (12 July 2026)",
+        "url": "https://english.nepalpress.com/2026/07/12/govt-urged-to-address-issues-of-landless-citizens/"
+      },
+      {
+        "nombre": "Kathmandu Post - Floods at Kirtipur holding centre expose flaws in government's squatter relocation plan (12 July 2026)",
+        "url": "https://kathmandupost.com/national/2026/07/12/floods-at-kirtipur-holding-centre-expose-flaws-in-government-s-squatter-relocation-plan"
+      }
+    ],
+    "createdAt": "2026-07-12T18:28:51.000Z",
+    "updatedAt": "2026-07-12T18:37:32Z"
   }
 ]
