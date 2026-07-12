@@ -23,7 +23,7 @@
         "url": "https://www.firstpost.com/world/thousands-in-albania-march-against-trump-linked-resort-call-for-resignation-of-countrys-pm-14030723.html"
       },
       {
-        "nombre": "Türkiye Today - Albanians march for 42nd night against Trump resort and Kanye West concert (11 July 2026)",
+        "nombre": "Türkiye Today - Albanians march for 42nd night against Trump resort and Kanye West concert (12 July 2026)",
         "url": "https://www.turkiyetoday.com/region/albanians-march-for-42nd-night-against-trump-resort-and-kanye-west-concert-3223727"
       },
       {
@@ -40,7 +40,7 @@
       }
     ],
     "createdAt": "2026-07-02T18:12:47.000Z",
-    "updatedAt": "2026-07-12T01:09:34Z"
+    "updatedAt": "2026-07-12T04:57:19Z"
   },
   {
     "id": 652,
@@ -55,7 +55,7 @@
       "Palestine Solidarity Campaign (PSC)",
       "Organizaciones pro-Palestina del Reino Unido"
     ],
-    "motivo": "Segundo día de protesta durante las finales de Wimbledon 2026 bajo el lema 'Love Wimbledon, Boycott Barclays'. Los manifestantes denuncian la inversión de Barclays en empresas conectadas con la ocupación israelí y exigen el boicot. Barclays es described como 'primary dealer' de bonos del gobierno israelí y proveedor de miles de millones en préstamos a empresas que proveen armamento a Israel. La acción se realiza en la puerta del Centre Court (Gate 4), Church Road, SW19, de 14:00 a 16:00. Esta es la segunda jornada de protesta durante las finales del torneo, tras la acción del sábado 11 de julio.",
+    "motivo": "Segundo día de protesta durante las finales de Wimbledon 2026 bajo el lema 'Love Wimbledon, Boycott Barclays'. Los manifestantes denuncian la inversión de Barclays en empresas conectadas con la ocupación israelí y exigen el boicot. Barclays es descrito como 'primary dealer' de bonos del gobierno israelí y proveedor de miles de millones en préstamos a empresas que proveen armamento a Israel. La acción se realiza en la puerta del Centre Court (Gate 4), Church Road, SW19, de 14:00 a 16:00. Esta es la segunda jornada de protesta durante las finales del torneo, tras la acción del sábado 11 de julio.",
     "status": "en_curso",
     "lat": "51.4340",
     "lng": "-0.2137",
@@ -70,7 +70,7 @@
       }
     ],
     "createdAt": "2026-07-11T23:25:55.000Z",
-    "updatedAt": "2026-07-12T01:09:34Z"
+    "updatedAt": "2026-07-12T04:57:19Z"
   },
   {
     "id": 655,
@@ -109,7 +109,39 @@
       }
     ],
     "createdAt": "2026-07-12T01:03:26.000Z",
-    "updatedAt": "2026-07-12T01:09:34Z"
+    "updatedAt": "2026-07-12T04:57:19Z"
+  },
+  {
+    "id": 657,
+    "seccion": "protestas_int",
+    "pais": "Marruecos",
+    "bandera": "🇲🇦",
+    "hora": "11:00",
+    "fecha": "2026-07-12",
+    "lugar": "Casablanca, Marruecos (marcha nacional sindical)",
+    "tipoAccion": "manifestacion",
+    "organizaciones": [
+      "Confédération Démocratique du Travail (CDT)",
+      "Union Marocaine du Travail (UMT)",
+      "Fédération Nationale du Travail (FNT)",
+      "Organización Democrática del Trabajo (ODT)"
+    ],
+    "motivo": "Marcha nacional convocada por los sindicatos marroquíes CDT, UMT, FNT y ODT en Casablanca contra la reforma de pensiones y las políticas del gobierno. Los sindicatos denuncian la precarización laboral, el debilitamiento de la seguridad social y el aumento del costo de vida. Esta marcha forma parte de una serie de movilizaciones sostenidas en todo el país contra las reformas laborales del gobierno de Aziz Akhannouch.",
+    "status": "en_curso",
+    "lat": "33.5731",
+    "lng": "-7.5898",
+    "fuentes": [
+      {
+        "nombre": "IndustriALL - Moroccan unions march against pension reform (11 julio 2026)",
+        "url": "https://www.industriall-union.org/moroccan-unions-march-against-pension-reform"
+      },
+      {
+        "nombre": "Morocco World News - Morocco's CDT Calls for National Protest March in Casablanca on July 12 (2026)",
+        "url": "https://www.moroccoworldnews.com/2026/06/352000/cdt-calls-national-protest-march-casanca-july-12"
+      }
+    ],
+    "createdAt": "2026-07-12T04:50:46.000Z",
+    "updatedAt": "2026-07-12T04:57:19Z"
   },
   {
     "id": 656,
@@ -145,9 +177,17 @@
       {
         "nombre": "Mundo Gremial - Paritaria estatal: Kicillof ofreció un 7% de aumento y los gremios analizarán la propuesta (7 julio 2026)",
         "url": "https://mundogremial.com/paritaria-estatal-kicillof-ofrecio-un-7-de-aumento-y-los-gremios-analizaran-la-propuesta-antes-de-responder/"
+      },
+      {
+        "nombre": "ATE - ATE y otros gremios estatales ratifican el paro del 12 de julio (2026)",
+        "url": "https://ate.org.ar/ate-y-otros-gremios-estatales-ratifican-el-paro-del-12-de-julio"
+      },
+      {
+        "nombre": "Página|12 - Bienvenida la lucha anuncian los gremios (12 julio 2026)",
+        "url": "https://www.pagina12.com.ar/2026/07/12/bienvenida-la-lucha-anuncian-los-gremios/"
       }
     ],
     "createdAt": "2026-07-12T01:06:37.000Z",
-    "updatedAt": "2026-07-12T01:09:34Z"
+    "updatedAt": "2026-07-12T04:57:19Z"
   }
 ]
