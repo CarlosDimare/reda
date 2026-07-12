@@ -44,7 +44,7 @@
       }
     ],
     "createdAt": "2026-07-02T18:12:47.000Z",
-    "updatedAt": "2026-07-12T12:04:14Z"
+    "updatedAt": "2026-07-12T13:37:45Z"
   },
   {
     "id": 652,
@@ -74,7 +74,7 @@
       }
     ],
     "createdAt": "2026-07-11T23:25:55.000Z",
-    "updatedAt": "2026-07-12T12:04:14Z"
+    "updatedAt": "2026-07-12T13:37:45Z"
   },
   {
     "id": 655,
@@ -113,32 +113,7 @@
       }
     ],
     "createdAt": "2026-07-12T01:03:26.000Z",
-    "updatedAt": "2026-07-12T12:04:14Z"
-  },
-  {
-    "id": 658,
-    "seccion": "protestas_int",
-    "pais": "Reino Unido",
-    "bandera": "🇬🇧",
-    "hora": "12:00",
-    "fecha": "2026-07-12",
-    "lugar": "London Underground (líneas Piccadilly, Circle, Metropolitan y Central), Londres",
-    "tipoAccion": "paro",
-    "organizaciones": [
-      "RMT Union (Rail, Maritime and Transport)"
-    ],
-    "motivo": "Huelga de 24 horas del sindicato RMT contra la propuesta de Transport for London de implementar jornadas comprimidas de 4 días (turnos diarios más largos que generan fatiga y riesgos de seguridad). Afecta múltiples líneas del metro de Londres con interrupciones significativas.",
-    "status": "en_curso",
-    "lat": "51.5074",
-    "lng": "-0.1278",
-    "fuentes": [
-      {
-        "nombre": "Busydoholandii - London Underground strikes: disruption and impact of 24-hour walkout by tube drivers",
-        "url": "https://busydoholandii.org/article/london-underground-strikes-disruption-and-impact-of-24-hour-walkout-by-tube-drivers"
-      }
-    ],
-    "createdAt": "2026-07-12T07:26:44.000Z",
-    "updatedAt": "2026-07-12T12:04:14Z"
+    "updatedAt": "2026-07-12T13:37:45Z"
   },
   {
     "id": 659,
@@ -167,7 +142,7 @@
       }
     ],
     "createdAt": "2026-07-12T07:26:44.000Z",
-    "updatedAt": "2026-07-12T12:04:14Z"
+    "updatedAt": "2026-07-12T13:37:45Z"
   },
   {
     "id": 660,
@@ -194,7 +169,7 @@
       }
     ],
     "createdAt": "2026-07-12T07:26:44.000Z",
-    "updatedAt": "2026-07-12T12:04:14Z"
+    "updatedAt": "2026-07-12T13:37:45Z"
   },
   {
     "id": 662,
@@ -221,7 +196,7 @@
       }
     ],
     "createdAt": "2026-07-12T07:26:44.000Z",
-    "updatedAt": "2026-07-12T12:04:14Z"
+    "updatedAt": "2026-07-12T13:37:45Z"
   },
   {
     "id": 663,
@@ -246,7 +221,7 @@
       }
     ],
     "createdAt": "2026-07-12T07:26:44.000Z",
-    "updatedAt": "2026-07-12T12:04:14Z"
+    "updatedAt": "2026-07-12T13:37:45Z"
   },
   {
     "id": 664,
@@ -272,7 +247,7 @@
       }
     ],
     "createdAt": "2026-07-12T07:26:44.000Z",
-    "updatedAt": "2026-07-12T12:04:14Z"
+    "updatedAt": "2026-07-12T13:37:45Z"
   },
   {
     "id": 671,
@@ -298,7 +273,7 @@
       }
     ],
     "createdAt": "2026-07-12T10:53:49.000Z",
-    "updatedAt": "2026-07-12T12:04:14Z"
+    "updatedAt": "2026-07-12T13:37:45Z"
   },
   {
     "id": 672,
@@ -324,7 +299,7 @@
       }
     ],
     "createdAt": "2026-07-12T10:53:49.000Z",
-    "updatedAt": "2026-07-12T12:04:14Z"
+    "updatedAt": "2026-07-12T13:37:45Z"
   },
   {
     "id": 673,
@@ -355,7 +330,7 @@
       }
     ],
     "createdAt": "2026-07-12T11:57:19.000Z",
-    "updatedAt": "2026-07-12T12:04:14Z"
+    "updatedAt": "2026-07-12T13:37:45Z"
   },
   {
     "id": 674,
@@ -396,7 +371,63 @@
       }
     ],
     "createdAt": "2026-07-12T11:57:19.000Z",
-    "updatedAt": "2026-07-12T12:04:14Z"
+    "updatedAt": "2026-07-12T13:37:45Z"
+  },
+  {
+    "id": 675,
+    "seccion": "protestas_int",
+    "pais": "Nigeria",
+    "bandera": "🇳🇬",
+    "hora": "11:00",
+    "fecha": "2026-07-12",
+    "lugar": "Post Office area, Maiduguri, Borno State",
+    "tipoAccion": "manifestacion",
+    "organizaciones": [
+      "Youth and Students Forum in Borno State",
+      "Student groups and youth organisations from across Borno"
+    ],
+    "motivo": "Protesta bajo el lema #UniteAgainstTerror contra la inseguridad en Borno State. Cientos de jóvenes y estudiantes se congregaron en el Post Office area de Maiduguri, la capital del estado, para exigir unidad nacional contra el terrorismo y la criminalidad. Los manifestantes pidieron al gobierno federal que intensifique los esfuerzos para liberar a todos los secuestrados en Borno, que invierta más en seguridad y que proporcione empleo y oportunidades para reducir la criminalidad. La protesta surgió tras el rescate exitoso de estudiantes secuestrados en Oyo State, y los organizadores pidieron replicar esa operación en Borno, Kaduna y Kwara. Llevan pancartas con inscripciones como 'Unidad es nuestra arma contra el terrorismo', 'No a la colaboración con terroristas' y 'Juntos defendemos contra el terrorismo y la criminalidad'.",
+    "status": "completada",
+    "lat": "11.8464",
+    "lng": "13.1603",
+    "fuentes": [
+      {
+        "nombre": "Punch Nigeria - Borno youths protest against insecurity, demand action (12 July 2026)",
+        "url": "https://punchng.com/borno-youths-protest-against-insecurity/"
+      },
+      {
+        "nombre": "Punch Nigeria - Northerners to FG: Replicate Oyo rescue operation in Kaduna, Borno, Kwara (12 July 2026)",
+        "url": "https://punchng.com/northerners-to-fg-replicate-oyo-rescue-operation-in-kaduna-borno-kwara/"
+      }
+    ],
+    "createdAt": "2026-07-12T13:26:51.000Z",
+    "updatedAt": "2026-07-12T13:37:45Z"
+  },
+  {
+    "id": 676,
+    "seccion": "protestas_int",
+    "pais": "India",
+    "bandera": "🇮🇳",
+    "hora": "00:00",
+    "fecha": "2026-07-12",
+    "lugar": "Bajo el puente del río Barana, Chhatarpur, Madhya Pradesh",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Familias tribales de Chhatarpur",
+      "Activistas por los derechos de los pueblos tribales"
+    ],
+    "motivo": "Día 9 de la protesta continua conocida como 'Chita Andolan' (protesta de la pira funeraria) contra el proyecto de enlace fluvial Ken-Betwa. Familias tribales del distrito de Chhatarpur en Madhya Pradesh protestan bajo el puente del río Barana exigiendo compensación por su desplazamiento forzado. Los manifestantes acusan a la administración local de ignorar sus preocupaciones y suprimir protestas anteriores con 'falsas garantías'. El proyecto Ken-Betwa incluye la construcción de la presa Daudhan de 77 metros de altura y 2,13 km de largo, que inundará parte de la Reserva del Tigre de Panna. Los manifestantes advirtieron que podrían tomar medidas extremas si no se satisfacen sus demandas de compensación adecuada y rehabilitación.",
+    "status": "en_curso",
+    "lat": "25.2677",
+    "lng": "79.5526",
+    "fuentes": [
+      {
+        "nombre": "The News Mill - Tribal families protest Ken-Betwa project in Chhatarpur for nine days (12 July 2026)",
+        "url": "https://thenewsmill.com/2026/07/tribal-families-protest-ken-betwa-project-in-chhatarpur-for-nine-days/"
+      }
+    ],
+    "createdAt": "2026-07-12T13:26:51.000Z",
+    "updatedAt": "2026-07-12T13:37:45Z"
   },
   {
     "id": 656,
@@ -435,6 +466,6 @@
       }
     ],
     "createdAt": "2026-07-12T01:06:37.000Z",
-    "updatedAt": "2026-07-12T12:04:14Z"
+    "updatedAt": "2026-07-12T13:37:45Z"
   }
 ]
