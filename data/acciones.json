@@ -40,7 +40,7 @@
       }
     ],
     "createdAt": "2026-07-02T18:12:47.000Z",
-    "updatedAt": "2026-07-13T06:21:52Z"
+    "updatedAt": "2026-07-13T10:03:36Z"
   },
   {
     "id": 655,
@@ -79,7 +79,7 @@
       }
     ],
     "createdAt": "2026-07-12T01:03:26.000Z",
-    "updatedAt": "2026-07-13T06:21:52Z"
+    "updatedAt": "2026-07-13T10:03:36Z"
   },
   {
     "id": 659,
@@ -108,7 +108,7 @@
       }
     ],
     "createdAt": "2026-07-12T07:26:44.000Z",
-    "updatedAt": "2026-07-13T06:21:52Z"
+    "updatedAt": "2026-07-13T10:03:36Z"
   },
   {
     "id": 673,
@@ -143,7 +143,7 @@
       }
     ],
     "createdAt": "2026-07-12T11:57:19.000Z",
-    "updatedAt": "2026-07-13T06:21:52Z"
+    "updatedAt": "2026-07-13T10:03:36Z"
   },
   {
     "id": 676,
@@ -169,107 +169,7 @@
       }
     ],
     "createdAt": "2026-07-12T13:26:51.000Z",
-    "updatedAt": "2026-07-13T06:21:52Z"
-  },
-  {
-    "id": 680,
-    "seccion": "protestas_int",
-    "pais": "Nepal",
-    "bandera": "🇳🇵",
-    "hora": "10:00",
-    "fecha": "2026-07-13",
-    "lugar": "Maitighar Mandal, Kathmandu",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "United National Landless Settlers' Front Nepal",
-      "Landless Settlers' Central Joint Struggle Committee",
-      "Estudiantes y activistas Gen Z"
-    ],
-    "motivo": "Las protestas contra el desalojo forzado de familias sin tierra por parte del gobierno del Primer Ministro Balendra Shah (Balen) continúan y se intensifican. La protesta fue provocada por la inundación del centro de acogida de Kirtipur la madrugada del sábado 11 de julio, que dejó a familias desplazadas de nuevo sin hogar, y por el arresto del activista Gen Z Majid Ansari mientras intentaba asistir a los afectados. Las familias habían sido reubicadas forzosamente desde sus asentamientos ribereños en el Valle de Katmandú a partir de abril mediante operaciones de demolición con bulldozer. El gobierno les había prometido seguridad temporal, pero el centro de acogida resultó igualmente vulnerable durante el monzón. Se reportaron 26 detenciones en Biratnagar durante protestas solidarias la noche anterior. Las protestas han evolucionado hacia un movimiento anti-gobierno más amplio con auto-inmolación de un joven de 25 años y arrestos masivos de activistas, periodistas y líderes estudiantiles.",
-    "status": "en_curso",
-    "lat": "27.6966",
-    "lng": "85.3188",
-    "fuentes": [
-      {
-        "nombre": "The Daily Jagran - Nepal Gen-Z Protests Reignite: Year After Backing PM Balen Shah (13 July 2026)",
-        "url": "https://www.thedailyjagran.com/world/nepal-genz-protests-reignite-year-after-backing-pm-balen-shah-nepals-genz-is-back-on-streets-heres-why-10320325"
-      },
-      {
-        "nombre": "Times of India - Youth-backed protests sweep Nepal as evictions, self-immolation stir public outrage (12 July 2026)",
-        "url": "https://timesofindia.indiatimes.com/world/south-asia/youth-backed-protests-sweep-nepal-as-evictions-self-immolation-stir-public-outrage/articleshow/132348226.cms"
-      },
-      {
-        "nombre": "Nepal News - Landless settlers protest at Maitighar (12 July 2026)",
-        "url": "https://english.nepalnews.com/s/capital/landless-settlers-protest-at-maitighar-photo-feature/"
-      },
-      {
-        "nombre": "OnlineKhabar - Landless squatters protest in Kathmandu, demand rehabilitation and release of detainees (12 July 2026)",
-        "url": "https://english.onlinekhabar.com/landless-squatters-protest-in-kathmandu-demand-rehabilitation-and-release-of-detainees-photos.html"
-      }
-    ],
-    "createdAt": "2026-07-12T18:28:51.000Z",
-    "updatedAt": "2026-07-13T06:21:52Z"
-  },
-  {
-    "id": 683,
-    "seccion": "protestas_int",
-    "pais": "Colombia",
-    "bandera": "🇨🇴",
-    "hora": "07:00",
-    "fecha": "2026-07-13",
-    "lugar": "Bogotá — Teusaquillo, Los Mártires, Engativá, Suba, Santa Fe, La Candelaria, San Cristóbal",
-    "tipoAccion": "manifestacion",
-    "organizaciones": [
-      "Colectivos ciudadanos de Bogotá",
-      "Organizaciones sociales"
-    ],
-    "motivo": "Múltiples marchas, plantones y movilizaciones en diversas localidades de Bogotá. Incluye un plantón permanente en defensa de la constituyente, iniciado el 7 de julio y continuando hasta el 13 de julio. Diversas demandas sociales se expresan en la jornada dominical.",
-    "status": "en_curso",
-    "lat": "4.6097",
-    "lng": "-74.0817",
-    "fuentes": [
-      {
-        "nombre": "Bogotá Gov - Conoce las marchas y manifestaciones en Bogotá 7 al 13 de julio 2026",
-        "url": "https://bogota.gov.co/mi-ciudad/gobierno/conoce-las-marchas-y-manifestaciones-en-bogota-7-al-13-de-julio-2026"
-      }
-    ],
-    "createdAt": "2026-07-12T19:37:45.000Z",
-    "updatedAt": "2026-07-13T06:21:52Z"
-  },
-  {
-    "id": 691,
-    "seccion": "protestas_int",
-    "pais": "Bulgaria",
-    "bandera": "🇧🇬",
-    "hora": "08:00",
-    "fecha": "2026-07-13",
-    "lugar": "Autopista Trakia, cerca de Stara Zagora (bloqueo Chirpan-Nova Zagora) + Prohoda na Republikata + Sub-Balkan road, Gurkovo",
-    "tipoAccion": "bloqueo",
-    "organizaciones": [
-      "Confederación de Sindicatos Independientes de Bulgaria (CITU)",
-      "Sindicato CL 'Podkrepa' - Mini Maritsa East",
-      "Trabajadores energéticos y mineros del complejo Maritsa-East"
-    ],
-    "motivo": "Día 13 de bloqueo continuo de la autopista Trakia y carreteras clave en la región de Stara Zagora por mineros y trabajadores energéticos del complejo Maritsa-East. Los manifestantes exigen la retirada y renegociación de los Planos Territoriales para una Transición Justa adoptados por el gobierno y enviados a la UE, que amenazan con el cierre de minas de carbón y la pérdida de miles de empleos. Se realizó una asamblea general improvisada en la autopista donde se decidió iniciar la recolección de firmas para una huelga efectiva a partir del lunes 13. Se planea una protesta nacional para el jueves 15 de julio. Un manifestante fue detenido por intentar bloquear la carretera alternativa. Las carreteras Haskovo-Stara Zagora y Stara Zagora-Dimitrovgrad también permanecen cerradas.",
-    "status": "en_curso",
-    "lat": "42.4258",
-    "lng": "25.6345",
-    "fuentes": [
-      {
-        "nombre": "Novinite247 - Protesting miners remain on the blocked Trakia highway (12 July 2026)",
-        "url": "https://novini247.com/novini/an-arrest-has-been-made-at-the-protest-of-the_6911715.html"
-      },
-      {
-        "nombre": "Novinite247 - General assembly of the protesting miners and energy workers (12 July 2026)",
-        "url": "https://novini247.com/novini/a-kind-of-general-assembly-of-the-protesting-miners-and_6911712.html"
-      },
-      {
-        "nombre": "Novinite - Miners and Energy Workers continue to Blockade Key Roads for the 13th Day (12 July 2026)",
-        "url": "https://www.novinite.com/articles/221795/Bulgaria%3A+Miners+and+Energy+Workers+continue+to+Blockade+Key+Roads+in+the+Country+for+the+13th+Day+in+a+Row"
-      }
-    ],
-    "createdAt": "2026-07-12T23:51:10.000Z",
-    "updatedAt": "2026-07-13T06:21:52Z"
+    "updatedAt": "2026-07-13T10:03:36Z"
   },
   {
     "id": 693,
@@ -307,7 +207,7 @@
       }
     ],
     "createdAt": "2026-07-12T23:51:10.000Z",
-    "updatedAt": "2026-07-13T06:21:52Z"
+    "updatedAt": "2026-07-13T10:03:36Z"
   },
   {
     "id": 695,
@@ -345,7 +245,7 @@
       }
     ],
     "createdAt": "2026-07-12T23:51:10.000Z",
-    "updatedAt": "2026-07-13T06:21:52Z"
+    "updatedAt": "2026-07-13T10:03:36Z"
   },
   {
     "id": 701,
@@ -380,41 +280,118 @@
       }
     ],
     "createdAt": "2026-07-13T06:14:27.000Z",
-    "updatedAt": "2026-07-13T06:21:52Z"
+    "updatedAt": "2026-07-13T10:03:36Z"
   },
   {
-    "id": 703,
+    "id": 706,
     "seccion": "protestas_int",
-    "pais": "Serbia",
-    "bandera": "🇷🇸",
-    "hora": "18:00",
+    "pais": "Corea del Sur",
+    "bandera": "🇰🇷",
+    "hora": "07:00",
     "fecha": "2026-07-13",
-    "lugar": "Plaza Slavija, Belgrado",
-    "tipoAccion": "protesta",
+    "lugar": "Plantas de Hyundai Motor — Ulsan,蔚山 + Jeonju, Gwangju (centro I+D Namyang)",
+    "tipoAccion": "huelga",
     "organizaciones": [
-      "Movimiento estudiantil serbio",
-      "Ciudadanos anti-gobierno",
-      "Coalición opositora"
+      "Sindicato de Trabajadores de Hyundai Motor"
     ],
-    "motivo": "Protesta masiva convocada para el domingo 13 de julio en Belgrado, organizada por el movimiento estudiantil que lidera las manifestaciones anticorrupción desde noviembre de 2024. El movimiento exige elecciones anticipadas tras la renuncia del presidente Aleksandar Vucic el 27 de junio. Los manifestantes denuncian corrupción sistémica, nepotismo e incompetencia institucional. La protesta fue precedida por una manifestación de más de 180.000 personas el 23 de mayo. Pancartas de 'Bienvenidos' se desplegaron para los ciudadanos que regresan del extranjero a apoyar la causa. El gobierno ha respondido con gas lacrimógeno, detenciones masivas y restricciones a organizaciones de la sociedad civil.",
+    "motivo": "Huelga parcial de 3 días (13-15 de julio) de Hyundai Motor, la mayor automotriz de Corea del Sur. Los trabajadores reducen 4 horas diarias (2 horas turno diurno, 2 nocturno) tras el colapso de las negociaciones salariales (5ª ronda el 8 de julio). El sindicato exige aumento de 149.600 wones mensuales en el salario base, bono de rendimiento del 30% de ganancias netas del año anterior, bono del 800%, extensión de la edad de jubilación y reincorporación de trabajadores despedidos. La gestión ofreció 89.000 wones y bono del 350%. Se espera una pérdida de 200.000 millones de wones (US$132 millones) en producción. Líderes sindicales iniciaron una sentada nocturna de protesta. La acción también incluye a trabajadores de ventas, mantenimiento y el centro I+D de Namyang.",
     "status": "en_curso",
-    "lat": "44.7866",
-    "lng": "20.4489",
+    "lat": "35.5384",
+    "lng": "129.3114",
     "fuentes": [
       {
-        "nombre": "The Statesman - Student movement shaking Vucic's grip on power (24 May 2026)",
-        "url": "https://www.thestatesman.com/world/serbia-belgrade-protests-2026-aleksandar-vucic-early-elections-student-movement-1503597444.html"
-      },
-      {
-        "nombre": "IntInsight - 180,000+ flooded Belgrade (25 May 2026)",
-        "url": "https://intinsight.com/2026/05/serbia-protests-belgrade-students-eu-2026/"
-      },
-      {
-        "nombre": "Wikipedia - 2024-present Serbian anti-corruption protests",
-        "url": "https://en.wikipedia.org/wiki/2024%E2%80%93present_Serbian_anti-corruption_protests"
+        "nombre": "CNA - Hyundai Motor begins three-day strike after wage talks fail (13 July 2026)",
+        "url": "https://www.channelnewsasia.com/east-asia/hyundai-motor-begins-three-day-strike-after-wage-talks-fail-6250331"
       }
     ],
-    "createdAt": "2026-07-13T06:14:27.000Z",
-    "updatedAt": "2026-07-13T06:21:52Z"
+    "createdAt": "2026-07-13T09:53:00.000Z",
+    "updatedAt": "2026-07-13T10:03:36Z"
+  },
+  {
+    "id": 707,
+    "seccion": "protestas_int",
+    "pais": "India",
+    "bandera": "🇮🇳",
+    "hora": "11:00",
+    "fecha": "2026-07-13",
+    "lugar": "Sector 34, Chandigarh (caravana desde Nature Park, Mohali)",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Bharatiya Kisan Union (Rajewal)"
+    ],
+    "motivo": "Protesta de agricultores en Chandigarh contra el acuerdo comercial sin aranceles con Estados Unidos y la creciente escasez de agua subterránea en Punjab. La caravana parte desde Nature Park, Mohali hacia Sector 34. El sindicato entregará memorandos al primer ministro a través del ministro en jefe de Punjab y del gobernador. Se esperan alrededor de 500 personas pero las autoridades preparan contingentes mayores tras la protesta anterior que superó las 25.000 personas. La policía de tráfico advirtió de interrupciones mayores entre las 10:30 y las 15:00 en zonas clave como ISBT Sector 43, Piccadilly, Aroma, Dakshin Marg y Sarovar Path.",
+    "status": "en_curso",
+    "lat": "30.7333",
+    "lng": "76.7794",
+    "fuentes": [
+      {
+        "nombre": "NewsBytesApp - Bharatiya Kisan Union Rajewal holds Chandigarh protest Monday 11am (13 July 2026)",
+        "url": "https://www.newsbytesapp.com/news/india/bharatiya-kisan-union-rajewal-holds-chandigarh-protest-monday-11am/tldr"
+      }
+    ],
+    "createdAt": "2026-07-13T09:53:00.000Z",
+    "updatedAt": "2026-07-13T10:03:36Z"
+  },
+  {
+    "id": 709,
+    "seccion": "protestas_int",
+    "pais": "Indonesia",
+    "bandera": "🇮🇩",
+    "hora": "10:00",
+    "fecha": "2026-07-13",
+    "lugar": "Yakarta Pusat — Kantor Kelurahan Senen, Kantor Kecamatan Senen, Monas (Gambir)",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Forum Komunikasi Warga Kwini 8 Bersatu",
+      "Serikat Mahasiswa Muslim Indonesia (SMMI) Cabang Jakarta Pusat"
+    ],
+    "motivo": "Tres puntos de protesta simultáneos en Yakarta Central. A las 10:00 WIB, el Forum Komunikasi Warga Kwini 8 Bersatu realiza manifestaciones en las oficinas de Kelurahan y Kecamatan Senen. A las 13:00 WIB, la Serikat Mahasiswa Muslim Indonesia se concentra en Monas (Gambir). 619 efectivos policiales desplegados para garantizar la seguridad. La policía implementa ingeniería de tráfico situacional y recomienda rutas alternativas. Las protestas provienen de elementos ciudadanos y estudiantiles.",
+    "status": "en_curso",
+    "lat": "-6.1751",
+    "lng": "106.8650",
+    "fuentes": [
+      {
+        "nombre": "Tribunbekasi - 3 Titik Demo Jakarta Hari Ini 13 Juli 2026 (13 July 2026)",
+        "url": "https://bekasi.tribunnews.com/news/62525/3-titik-demo-jakarta-hari-ini-13-juli-2026-awas-terjebak-macet-cari-jalur-alternatif"
+      },
+      {
+        "nombre": "TribunStyle - Jakarta 'Digoyang' Demo Jam 10 dan Jam 13 Hari Ini Senin 13 Juli 2026 (13 July 2026)",
+        "url": "https://style.tribunnews.com/news/376067/jakarta-digoyang-demo-jam-10-dan-jam-13-hari-ini-senin-13-juli-2026-peta-kemacetan-rute-lain"
+      }
+    ],
+    "createdAt": "2026-07-13T09:53:00.000Z",
+    "updatedAt": "2026-07-13T10:03:36Z"
+  },
+  {
+    "id": 711,
+    "seccion": "protestas_int",
+    "pais": "India",
+    "bandera": "🇮🇳",
+    "hora": "04:30",
+    "fecha": "2026-07-13",
+    "lugar": "Naqshband Sahib Shrine, Srinagar, Jammu y Cachemira",
+    "tipoAccion": "desobediencia_civil",
+    "organizaciones": [
+      "National Conference (NC)",
+      "Partido Democrático del Pueblo (PDP)",
+      "Líderes regionales de Jammu y Cachemira",
+      "Ciudadanos de Srinagar"
+    ],
+    "motivo": "Conmemoración del Día de los Mártires (13 de julio de 1931) en Srinagar, cuando 22 civiles fueron abatidos por el ejército Dogra frente a la cárcel central. La administración del Teniente Gobernador impuso restricciones masivas: sellado de barricadas de alambre de púas, láminas GI y barreras plásticas en una zona de 1 km alrededor del cementerio de Naqshband Sahib, y despliegue pesado de policía y paramilitares. La ministra de Educación Sakina Itoo intentó llegar a las 4:30 am pero fue bloqueada por las fuerzas de seguridad. El expresidente Farooq Abdullah llegó en auto-rickshaw y el primer ministro Omar Abdullah escaló la cerca principal para ofrecer fateha, repitiendo la acción del año anterior. La PDP colocó a Mehbooba Mufti e Iltija Mufti bajo arresto domiciliario. La fecha fue eliminada del calendario oficial de festivos tras la revocación del artículo 370 en 2019.",
+    "status": "en_curso",
+    "lat": "34.0837",
+    "lng": "74.7973",
+    "fuentes": [
+      {
+        "nombre": "ThePrint/PTI - Heavy security cover around Naqshband Sahib graveyard in Srinagar (13 July 2026)",
+        "url": "https://theprint.in/india/heavy-security-cover-around-naqshband-sahib-graveyard-in-srinagar-access-curtained/2984793/"
+      },
+      {
+        "nombre": "The Hindu - Barricades come up in Srinagar on eve of 1931 revolt anniversary (12 July 2026)",
+        "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/barricades-come-up-in-srinagar-on-eve-of-1931-revolt-anniversary/article71214791.ece"
+      }
+    ],
+    "createdAt": "2026-07-13T09:53:00.000Z",
+    "updatedAt": "2026-07-13T10:03:36Z"
   }
 ]
