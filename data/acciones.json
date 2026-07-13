@@ -40,7 +40,7 @@
       }
     ],
     "createdAt": "2026-07-02T18:12:47.000Z",
-    "updatedAt": "2026-07-13T10:03:36Z"
+    "updatedAt": "2026-07-13T12:37:05Z"
   },
   {
     "id": 655,
@@ -79,7 +79,7 @@
       }
     ],
     "createdAt": "2026-07-12T01:03:26.000Z",
-    "updatedAt": "2026-07-13T10:03:36Z"
+    "updatedAt": "2026-07-13T12:37:05Z"
   },
   {
     "id": 659,
@@ -108,7 +108,7 @@
       }
     ],
     "createdAt": "2026-07-12T07:26:44.000Z",
-    "updatedAt": "2026-07-13T10:03:36Z"
+    "updatedAt": "2026-07-13T12:37:05Z"
   },
   {
     "id": 673,
@@ -143,7 +143,7 @@
       }
     ],
     "createdAt": "2026-07-12T11:57:19.000Z",
-    "updatedAt": "2026-07-13T10:03:36Z"
+    "updatedAt": "2026-07-13T12:37:05Z"
   },
   {
     "id": 676,
@@ -169,7 +169,7 @@
       }
     ],
     "createdAt": "2026-07-12T13:26:51.000Z",
-    "updatedAt": "2026-07-13T10:03:36Z"
+    "updatedAt": "2026-07-13T12:37:05Z"
   },
   {
     "id": 693,
@@ -207,7 +207,7 @@
       }
     ],
     "createdAt": "2026-07-12T23:51:10.000Z",
-    "updatedAt": "2026-07-13T10:03:36Z"
+    "updatedAt": "2026-07-13T12:37:05Z"
   },
   {
     "id": 695,
@@ -245,7 +245,7 @@
       }
     ],
     "createdAt": "2026-07-12T23:51:10.000Z",
-    "updatedAt": "2026-07-13T10:03:36Z"
+    "updatedAt": "2026-07-13T12:37:05Z"
   },
   {
     "id": 701,
@@ -280,7 +280,7 @@
       }
     ],
     "createdAt": "2026-07-13T06:14:27.000Z",
-    "updatedAt": "2026-07-13T10:03:36Z"
+    "updatedAt": "2026-07-13T12:37:05Z"
   },
   {
     "id": 706,
@@ -289,7 +289,7 @@
     "bandera": "🇰🇷",
     "hora": "07:00",
     "fecha": "2026-07-13",
-    "lugar": "Plantas de Hyundai Motor — Ulsan,蔚山 + Jeonju, Gwangju (centro I+D Namyang)",
+    "lugar": "Plantas de Hyundai Motor — Ulsan + Jeonju, Gwangju (centro I+D Namyang)",
     "tipoAccion": "huelga",
     "organizaciones": [
       "Sindicato de Trabajadores de Hyundai Motor"
@@ -305,7 +305,7 @@
       }
     ],
     "createdAt": "2026-07-13T09:53:00.000Z",
-    "updatedAt": "2026-07-13T10:03:36Z"
+    "updatedAt": "2026-07-13T12:37:05Z"
   },
   {
     "id": 707,
@@ -330,7 +330,7 @@
       }
     ],
     "createdAt": "2026-07-13T09:53:00.000Z",
-    "updatedAt": "2026-07-13T10:03:36Z"
+    "updatedAt": "2026-07-13T12:37:05Z"
   },
   {
     "id": 709,
@@ -360,7 +360,7 @@
       }
     ],
     "createdAt": "2026-07-13T09:53:00.000Z",
-    "updatedAt": "2026-07-13T10:03:36Z"
+    "updatedAt": "2026-07-13T12:37:05Z"
   },
   {
     "id": 711,
@@ -392,6 +392,33 @@
       }
     ],
     "createdAt": "2026-07-13T09:53:00.000Z",
-    "updatedAt": "2026-07-13T10:03:36Z"
+    "updatedAt": "2026-07-13T12:37:05Z"
+  },
+  {
+    "id": 712,
+    "seccion": "protestas_int",
+    "pais": "Serbia",
+    "bandera": "🇷🇸",
+    "hora": "12:00",
+    "fecha": "2026-07-13",
+    "lugar": "Užice, Serbia (carretera hacia Zlatibor)",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Movimiento estudiantil serbio",
+      "Ciudadanos de Užice",
+      "Manifestantes de todo el país"
+    ],
+    "motivo": "Miles de personas se reunieron en Užice bajo el lema 'Serbia, Užice te llama', continuando las protestas estudiantiles anticorrupción que exigen elecciones anticipadas y el fin del gobierno de más de una década del presidente Aleksandar Vučić. La protesta, que fue pacífica, incluyó un discurso del rector de la Universidad de Belgrado, Đokić, y bloqueó la carretera hacia Zlatibor por segunda vez en varios días. A diferencia de manifestaciones anteriores donde la policía intervino con gas lacrimógeno y arrestos, en esta ocasión las fuerzas de seguridad no intervinieron. La protesta forma parte del movimiento más amplio que comenzó en noviembre de 2024 tras el colapso del techo de la estación de tren de Novi Sad que mató a 16 personas, y que ha crecido para exigir rendición de cuentas por corrupción y la celebración de elecciones anticipadas.",
+    "status": "en_curso",
+    "lat": "43.8558",
+    "lng": "19.8428",
+    "fuentes": [
+      {
+        "nombre": "Wikipedia - 2024–present Serbian anti-corruption protests (13 July 2026 entry)",
+        "url": "https://en.wikipedia.org/wiki/2024%E2%80%93present_Serbian_anti-corruption_protests"
+      }
+    ],
+    "createdAt": "2026-07-13T12:29:14.000Z",
+    "updatedAt": "2026-07-13T12:37:05Z"
   }
 ]
