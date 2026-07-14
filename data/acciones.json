@@ -36,7 +36,7 @@
       }
     ],
     "createdAt": "2026-07-12T01:03:26.000Z",
-    "updatedAt": "2026-07-14T04:04:43Z"
+    "updatedAt": "2026-07-14T06:18:46Z"
   },
   {
     "id": 693,
@@ -66,7 +66,7 @@
       }
     ],
     "createdAt": "2026-07-12T23:51:10.000Z",
-    "updatedAt": "2026-07-14T04:04:43Z"
+    "updatedAt": "2026-07-14T06:18:46Z"
   },
   {
     "id": 701,
@@ -97,7 +97,7 @@
       }
     ],
     "createdAt": "2026-07-13T06:14:27.000Z",
-    "updatedAt": "2026-07-14T04:04:43Z"
+    "updatedAt": "2026-07-14T06:18:46Z"
   },
   {
     "id": 706,
@@ -127,10 +127,18 @@
       {
         "nombre": "Yonhap News - Hyundai Motor workers begin three-day partial strike over pay dispute (13 July 2026)",
         "url": "https://en.yna.co.kr/view/AEN20260713009700320"
+      },
+      {
+        "nombre": "Chosun - Hyundai Motor Union Threatens Strike Escalation Without Proposals (14 July 2026)",
+        "url": "https://www.chosun.com/english/industry-en/2026/07/14/7BXUMT46HBDNLHKNFOHGXUQW5E/"
+      },
+      {
+        "nombre": "Briefs - South Korea's Hyundai Workers Strike for Higher Wages and Job Security Amid Robot Fears (13 July 2026)",
+        "url": "https://www.briefs.co/news/south-koreas-hyundai-workers-strike-for-higher-wages-and-job-security-amid-robot-fears/"
       }
     ],
     "createdAt": "2026-07-13T09:53:00.000Z",
-    "updatedAt": "2026-07-14T04:04:43Z"
+    "updatedAt": "2026-07-14T06:18:46Z"
   },
   {
     "id": 713,
@@ -162,7 +170,7 @@
       }
     ],
     "createdAt": "2026-07-13T15:25:19.000Z",
-    "updatedAt": "2026-07-14T04:04:43Z"
+    "updatedAt": "2026-07-14T06:18:46Z"
   },
   {
     "id": 715,
@@ -194,7 +202,7 @@
       }
     ],
     "createdAt": "2026-07-13T15:25:19.000Z",
-    "updatedAt": "2026-07-14T04:04:43Z"
+    "updatedAt": "2026-07-14T06:18:46Z"
   },
   {
     "id": 719,
@@ -225,7 +233,7 @@
       }
     ],
     "createdAt": "2026-07-13T17:29:04.000Z",
-    "updatedAt": "2026-07-14T04:04:43Z"
+    "updatedAt": "2026-07-14T06:18:46Z"
   },
   {
     "id": 720,
@@ -254,38 +262,7 @@
       }
     ],
     "createdAt": "2026-07-13T17:29:04.000Z",
-    "updatedAt": "2026-07-14T04:04:43Z"
-  },
-  {
-    "id": 721,
-    "seccion": "protestas_int",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
-    "hora": "17:00",
-    "fecha": "2026-07-14",
-    "lugar": "Magnolia Park / East End, Houston, Texas",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "LULAC (League of United Latin American Citizens)",
-      "Comunidad hispana de Houston",
-      "Familia de Lorenzo Salgado Araujo"
-    ],
-    "motivo": "Continuación de las protestas en Houston tras el asesinato del padre mexicano Lorenzo Salgado Araujo, de 52 años, quien fue baleado por agentes de ICE el 7 de julio durante una parada de tráfico por error de identidad. Cientos de personas marchan en el vecindario Magnolia Park exigiendo justicia y el fin de la presencia de ICE en la ciudad. Se recaudaron más de 400.000 dólares para la familia a través de GoFundMe.",
-    "status": "en_curso",
-    "lat": "29.7369",
-    "lng": "-95.3130",
-    "fuentes": [
-      {
-        "nombre": "Democracy Now! - Headlines for July 13, 2026",
-        "url": "https://www.democracynow.org/2026/7/13/headlines"
-      },
-      {
-        "nombre": "Houston Public Media - Hundreds march in protest of fatal ICE shooting (9 July 2026)",
-        "url": "https://www.houstonpublicmedia.org/articles/civil-rights/protests/2026/07/09/556600/protest-houston-ice-shooting-lorenzo-salgado-araujo/"
-      }
-    ],
-    "createdAt": "2026-07-13T17:29:04.000Z",
-    "updatedAt": "2026-07-14T04:04:43Z"
+    "updatedAt": "2026-07-14T06:18:46Z"
   },
   {
     "id": 727,
@@ -316,7 +293,7 @@
       }
     ],
     "createdAt": "2026-07-13T18:56:58.000Z",
-    "updatedAt": "2026-07-14T04:04:43Z"
+    "updatedAt": "2026-07-14T06:18:46Z"
   },
   {
     "id": 728,
@@ -345,42 +322,7 @@
       }
     ],
     "createdAt": "2026-07-13T18:56:58.000Z",
-    "updatedAt": "2026-07-14T04:04:43Z"
-  },
-  {
-    "id": 732,
-    "seccion": "protestas_int",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
-    "hora": "12:00",
-    "fecha": "2026-07-14",
-    "lugar": "Mechanics Park, Biddeford, Maine",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Biddeford Saco for Racial Justice",
-      "Project Relief",
-      "Coalición de derechos de inmigrantes de Maine"
-    ],
-    "motivo": "Continuación de protestas contra ICE en Biddeford, Maine, tras el tiroteo fatal de un hombre joven por parte de agentes de ICE. Los manifestantes se reunieron en Mechanics Park exigiendo justicia e investigación independiente. El gobernador Janet Mills y el senador Angus King pidieron una investigación completa. El FBI también investiga el incidente.",
-    "status": "en_curso",
-    "lat": "43.4960",
-    "lng": "-70.4629",
-    "fuentes": [
-      {
-        "nombre": "Maine Morning Star - Hundreds protest fatal ICE shooting in Biddeford (13 July 2026)",
-        "url": "https://mainemorningstar.com/2026/07/13/hundreds-protest-fatal-ice-shooting-in-biddeford/"
-      },
-      {
-        "nombre": "AP News - Maine Sen. Angus King says an ICE agent fatally shot a driver in Maine (13 July 2026)",
-        "url": "https://apnews.com/article/ice-shooting-maine-immigration-dhs-f26f8c2256aa6f0748582ea4adbb515c"
-      },
-      {
-        "nombre": "Spectrum News - Fatal shooting involving ICE in Biddeford, official says (13 July 2026)",
-        "url": "https://spectrumlocalnews.com/me/maine/public-safety/2026/07/13/fatal-shooting"
-      }
-    ],
-    "createdAt": "2026-07-13T20:16:24.000Z",
-    "updatedAt": "2026-07-14T04:04:43Z"
+    "updatedAt": "2026-07-14T06:18:46Z"
   },
   {
     "id": 734,
@@ -410,37 +352,7 @@
       }
     ],
     "createdAt": "2026-07-13T21:28:15.000Z",
-    "updatedAt": "2026-07-14T04:04:43Z"
-  },
-  {
-    "id": 736,
-    "seccion": "protestas_int",
-    "pais": "Irak",
-    "bandera": "🇮🇶",
-    "hora": "10:00",
-    "fecha": "2026-07-14",
-    "lugar": "Consulado de Kuwait, Basora",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Pobladores de Basora",
-      "Familia del pescador Najm"
-    ],
-    "motivo": "Continuación de protestas frente al Consulado de Kuwait en Basora tras la muerte del pescado iraquí Najm por disparos de la Guardia Costera kuwaití en el canal de Khor Abdullah. La policía federal desplegó barricadas de hormigón para contener a los manifestantes. El primer ministro al-Zaidi ordenó una respuesta diplomática agresiva. El incidente reavivó tensiones históricas entre Irak y Kuwait por las aguas territoriales del Golfo.",
-    "status": "en_curso",
-    "lat": "30.5085",
-    "lng": "47.7804",
-    "fuentes": [
-      {
-        "nombre": "Al Sumaria - Protestas frente al Consulado de Kuwait en Basora por muerte de pescado iraquí (13 July 2026)",
-        "url": "https://alsumaria.tv/news/iraq/protests-kuwait-consulate-basra"
-      },
-      {
-        "nombre": "Shafaq News - Hundreds protest outside Kuwaiti consulate in Basra (12 July 2026)",
-        "url": "https://shafaqnews.com/en/iraq/protests-kuwait-consulate-basra"
-      }
-    ],
-    "createdAt": "2026-07-13T21:28:15.000Z",
-    "updatedAt": "2026-07-14T04:04:43Z"
+    "updatedAt": "2026-07-14T06:18:46Z"
   },
   {
     "id": 740,
@@ -466,37 +378,7 @@
       }
     ],
     "createdAt": "2026-07-13T22:29:29.000Z",
-    "updatedAt": "2026-07-14T04:04:43Z"
-  },
-  {
-    "id": 741,
-    "seccion": "protestas_int",
-    "pais": "Ghana",
-    "bandera": "🇬🇭",
-    "hora": "10:00",
-    "fecha": "2026-07-14",
-    "lugar": "Sede de la Oficina Económica y de Crimen Organizado (EOCO), Acra",
-    "tipoAccion": "marcha",
-    "organizaciones": [
-      "New Patriotic Party (NPP)",
-      "Simpatizantes de Dennis Miracles Aboagye"
-    ],
-    "motivo": "El partido de oposición NPP continuó su movilización en la sede de EOCO para exigir la liberación de Dennis Edward Aboagye (conocido como 'Miracles'), ex Secretario Ejecutivo del Comité Interministerial de Descentralización (IMCCoD), arrestado por presuntas irregularidades financieras de aproximadamente GH¢55 millones. Los manifestantes exigieron claridad sobre las circunstancias del arresto, calificándolo de intimidación contra la oposición.",
-    "status": "en_curso",
-    "lat": "5.6037",
-    "lng": "-0.1870",
-    "fuentes": [
-      {
-        "nombre": "MyJoyOnline - Security forces deployed to EOCO headquarters as supporters protest (13 July 2026)",
-        "url": "https://www.myjoyonline.com/security-forces-deployed-to-eoco-headquarters-as-supporters-protest-dennis-miracles-aboagyes-arrest/"
-      },
-      {
-        "nombre": "CitiNewsRoom - NPP to march to EOCO today over Miracles Aboagye's arrest (13 July 2026)",
-        "url": "https://www.citinewsroom.com/2026/07/npp-to-march-to-eoco-today-over-miracles-aboagyes-arrest/"
-      }
-    ],
-    "createdAt": "2026-07-13T22:29:29.000Z",
-    "updatedAt": "2026-07-14T04:04:43Z"
+    "updatedAt": "2026-07-14T06:18:46Z"
   },
   {
     "id": 744,
@@ -523,7 +405,7 @@
       }
     ],
     "createdAt": "2026-07-13T22:29:29.000Z",
-    "updatedAt": "2026-07-14T04:04:43Z"
+    "updatedAt": "2026-07-14T06:18:46Z"
   },
   {
     "id": 745,
@@ -553,12 +435,12 @@
         "url": "https://timesofindia.indiatimes.com/world/europe/trump-linked-4-6-billion-project-sparks-42nd-night-of-protests-in-albania/articleshow/132340095.cms"
       },
       {
-        "nombre": "Euronews - Albanian police fire water cannon as protests against Trump-linked luxury resort continue (2 July 2026)",
-        "url": "https://www.euronews.com/my-europe/2026/07/02/albanian-police-fire-water-cannon-as-protests-against-trump-linked-luxury-resort-continue"
+        "nombre": "Panorama - Day 19 of the protest against the government, activists from London and Sweden (14 July 2026)",
+        "url": "https://en.panorama.com.al/revolta-ka-arritur-kulmin-e-saj-dita-e-19-te-e-protestes-kunder-qeverise-flasin-dy-aktivistet-nga-londra-dhe-suedia-te-rinjte-duhet-te-marrin-drejtimin-e-vendit/"
       }
     ],
     "createdAt": "2026-07-14T03:55:04.000Z",
-    "updatedAt": "2026-07-14T04:04:43Z"
+    "updatedAt": "2026-07-14T06:18:46Z"
   },
   {
     "id": 746,
@@ -591,7 +473,7 @@
       }
     ],
     "createdAt": "2026-07-14T03:55:04.000Z",
-    "updatedAt": "2026-07-14T04:04:43Z"
+    "updatedAt": "2026-07-14T06:18:46Z"
   },
   {
     "id": 747,
@@ -624,7 +506,7 @@
       }
     ],
     "createdAt": "2026-07-14T03:55:04.000Z",
-    "updatedAt": "2026-07-14T04:04:43Z"
+    "updatedAt": "2026-07-14T06:18:46Z"
   },
   {
     "id": 748,
@@ -658,7 +540,42 @@
       }
     ],
     "createdAt": "2026-07-14T03:55:04.000Z",
-    "updatedAt": "2026-07-14T04:04:43Z"
+    "updatedAt": "2026-07-14T06:18:46Z"
+  },
+  {
+    "id": 750,
+    "seccion": "protestas_int",
+    "pais": "Yemen",
+    "bandera": "🇾🇪",
+    "hora": "10:00",
+    "fecha": "2026-07-14",
+    "lugar": "Al-Sabeen Square, Sana'a + múltiples locations en 14+ provincias bajo control hutí",
+    "tipoAccion": "manifestación",
+    "organizaciones": [
+      "Residentes de Sana'a",
+      "Partidarios del movimiento Ansar Allah (hutíes)",
+      "Comités populares de múltiples provincias"
+    ],
+    "motivo": "Manifestaciones masivas en Sana'a y más de 14 provincias controladas por hutíes contra los ataques aéreos saudíes contra el Aeropuerto Internacional de Sana'a. Los manifestantes dieron un mandato al liderazgo hutí para responder al ataque saudí que destruyó la pista de aterrizaje para impedir el aterrizaje de un avión iraní con delegación hutí y pacientes. Los manifestantes expresaron apoyo a Irán y advirtieron a Arabia Saudita contra nuevas violaciones del espacio aéreo yemení. El portavoz hutí Yahya Saree advirtió a todas las aerolíneas que no vuelen sobre el espacio aéreo saudí. Tensiones escaladas tras el ataque del gobierno yemení respaldado por Arabia Saudita y los misiles hutíes contra el aeropuerto Abha en el sur de Arabia Saudita.",
+    "status": "en_curso",
+    "lat": "15.3694",
+    "lng": "44.1910",
+    "fuentes": [
+      {
+        "nombre": "ABP News - Massive Protests Erupt in Sana'a Against Reported Saudi Strikes (14 July 2026)",
+        "url": "https://news.abplive.com/videos/news/world-breaking-news-massive-protests-erupt-in-sana-a-against-reported-saudi-strikes-1856327"
+      },
+      {
+        "nombre": "ABNA English - Massive Rally in Sanaa Gives Leadership Mandate to Respond to Saudi Airport Strike (14 July 2026)",
+        "url": "https://en.abna24.com/news/1839919/Massive-Rally-in-Sanaa-Gives-Leadership-Mandate-to-Respond-to"
+      },
+      {
+        "nombre": "Al Jazeera - Tension rising as Yemen gov't attacks Sanaa airport, Houthis fire missiles (13 July 2026)",
+        "url": "https://www.aljazeera.com/news/2026/7/13/yemen-govt-says-its-forces-attacked-sanaa-airport"
+      }
+    ],
+    "createdAt": "2026-07-14T06:08:45.000Z",
+    "updatedAt": "2026-07-14T06:18:46Z"
   },
   {
     "id": 724,
@@ -688,7 +605,7 @@
       }
     ],
     "createdAt": "2026-07-13T17:35:38.000Z",
-    "updatedAt": "2026-07-14T04:04:43Z"
+    "updatedAt": "2026-07-14T06:18:46Z"
   },
   {
     "id": 749,
@@ -727,6 +644,6 @@
       }
     ],
     "createdAt": "2026-07-14T03:59:40.000Z",
-    "updatedAt": "2026-07-14T04:04:43Z"
+    "updatedAt": "2026-07-14T06:18:46Z"
   }
 ]
