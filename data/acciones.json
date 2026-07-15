@@ -41,7 +41,7 @@
       }
     ],
     "createdAt": "2026-07-15T02:10:35.000Z",
-    "updatedAt": "2026-07-15T05:21:52Z"
+    "updatedAt": "2026-07-15T07:37:15Z"
   },
   {
     "id": 801,
@@ -78,7 +78,7 @@
       }
     ],
     "createdAt": "2026-07-15T02:10:35.000Z",
-    "updatedAt": "2026-07-15T05:21:52Z"
+    "updatedAt": "2026-07-15T07:37:15Z"
   },
   {
     "id": 802,
@@ -113,7 +113,7 @@
       }
     ],
     "createdAt": "2026-07-15T02:10:35.000Z",
-    "updatedAt": "2026-07-15T05:21:52Z"
+    "updatedAt": "2026-07-15T07:37:15Z"
   },
   {
     "id": 803,
@@ -144,7 +144,7 @@
       }
     ],
     "createdAt": "2026-07-15T02:10:35.000Z",
-    "updatedAt": "2026-07-15T05:21:52Z"
+    "updatedAt": "2026-07-15T07:37:15Z"
   },
   {
     "id": 804,
@@ -178,7 +178,7 @@
       }
     ],
     "createdAt": "2026-07-15T02:10:35.000Z",
-    "updatedAt": "2026-07-15T05:21:52Z"
+    "updatedAt": "2026-07-15T07:37:15Z"
   },
   {
     "id": 805,
@@ -208,7 +208,7 @@
       }
     ],
     "createdAt": "2026-07-15T02:10:35.000Z",
-    "updatedAt": "2026-07-15T05:21:52Z"
+    "updatedAt": "2026-07-15T07:37:15Z"
   },
   {
     "id": 806,
@@ -237,7 +237,7 @@
       }
     ],
     "createdAt": "2026-07-15T02:10:35.000Z",
-    "updatedAt": "2026-07-15T05:21:52Z"
+    "updatedAt": "2026-07-15T07:37:15Z"
   },
   {
     "id": 807,
@@ -268,7 +268,7 @@
       }
     ],
     "createdAt": "2026-07-15T02:10:35.000Z",
-    "updatedAt": "2026-07-15T05:21:52Z"
+    "updatedAt": "2026-07-15T07:37:15Z"
   },
   {
     "id": 808,
@@ -294,7 +294,7 @@
       }
     ],
     "createdAt": "2026-07-15T02:10:35.000Z",
-    "updatedAt": "2026-07-15T05:21:52Z"
+    "updatedAt": "2026-07-15T07:37:15Z"
   },
   {
     "id": 809,
@@ -321,7 +321,7 @@
       }
     ],
     "createdAt": "2026-07-15T02:10:35.000Z",
-    "updatedAt": "2026-07-15T05:21:52Z"
+    "updatedAt": "2026-07-15T07:37:15Z"
   },
   {
     "id": 811,
@@ -355,7 +355,81 @@
       }
     ],
     "createdAt": "2026-07-15T05:13:42.000Z",
-    "updatedAt": "2026-07-15T05:21:52Z"
+    "updatedAt": "2026-07-15T07:37:15Z"
+  },
+  {
+    "id": 813,
+    "seccion": "protestas_int",
+    "pais": "Albania",
+    "bandera": "🇦🇱",
+    "hora": "19:30",
+    "fecha": "2026-07-15",
+    "lugar": "Skanderbeg Square, Tirana — marcha por Dëshmorët e Kombit Boulevard hasta la oficina del Primer Ministro",
+    "tipoAccion": "manifestación",
+    "organizaciones": [
+      "Lëvizja Bashkë",
+      "Ciudadanos de Tirana y otras ciudades",
+      "Colectivos estudiantiles",
+      "Diáspora albanesa"
+    ],
+    "motivo": "Día 46 de la 'Revolución de los Flamencos' (Flamingo Revolution), la protesta continuada más grande en Albania desde la caída del comunismo. Manifestantes diarios se reúnen en la Plaza Skanderbeg a las 19:30 para exigir la renuncia del Primer Ministro Edi Rama y la cancelación del proyecto de resort de lujo vinculado a Jared Kushner e Ivanka Trump en la isla de Sazan y la laguna de Narta. Lo que comenzó como protesta ambiental contra la construcción en áreas protegidas se ha convertido en un movimiento anti-gobierno masivo contra la corrupción, la captura estatal y el deterioro democrático. Las protestas se han extendido a Vlorë, Durrës, Korçë y ciudades del extranjero. Policía ha recurrido a gases lacrimógenos y cañones de agua en enfrentamientos anteriores, especialmente el 2 de julio frente al Parlamento.",
+    "status": "en_curso",
+    "lat": "41.3275",
+    "lng": "19.8187",
+    "fuentes": [
+      {
+        "nombre": "Oculus News - Tirana Protest Enters Day 40 as Demonstrators Demand Edi Rama's Resignation (9 July 2026)",
+        "url": "https://www.ocnal.com/2026/07/tirana-protest-enters-day-40-as.html"
+      },
+      {
+        "nombre": "bne IntelliNews - Protesters demand a better Albania on 41st day of 'Flamingo Revolution' (11 July 2026)",
+        "url": "https://www.intellinews.com/protesters-demand-a-better-albania-on-41st-day-of-flamingo-revolution-454032/"
+      },
+      {
+        "nombre": "Democracy Now - Albania's Flamingo Revolution: Protests Against Kushner-Trump Luxury Resort Could Bring Down Gov't (9 July 2026)",
+        "url": "https://www.democracynow.org/2026/7/9/albania_protests"
+      },
+      {
+        "nombre": "ACLED - Europe and Central Asia Overview: July 2026 (6 July 2026)",
+        "url": "https://acleddata.com/update/europe-and-central-asia-overview-july-2026"
+      }
+    ],
+    "createdAt": "2026-07-15T07:28:10.000Z",
+    "updatedAt": "2026-07-15T07:37:15Z"
+  },
+  {
+    "id": 814,
+    "seccion": "protestas_int",
+    "pais": "Francia",
+    "bandera": "🇫🇷",
+    "hora": "00:00",
+    "fecha": "2026-07-15",
+    "lugar": "Red de transporte Lignes d'Azur — Nice y Métropole Nice Côte d'Azur",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "Sud-Solidaires",
+      "CFTC-Unsa"
+    ],
+    "motivo": "Huelga de 24 horas en el transporte público de Nice (buses y tranvías de Lignes d'Azur) convocada por los sindicatos Sud-Solidaires y CFTC-Unsa, que representan aproximadamente un tercio de los efectivos, en el marco de las negociaciones anuales obligatorias (NAO). Los sindicatos rechazan la oferta de un aumento salarial del 1,5% y una prima de 400 euros propuesta por la dirección. La CGT, sindicato mayoritario, no se suma al paro. El preaviso fue depositado el 11 de julio. El presidente de Lignes d'Azur, Bertrand Gasiglia, declaró que busca continuar las negociaciones. Los servicios se redujeron a horarios de domingo en múltiples líneas.",
+    "status": "en_curso",
+    "lat": "43.7102",
+    "lng": "7.2620",
+    "fuentes": [
+      {
+        "nombre": "Nice Matin - Un préavis de grève déposé à Lignes d'Azur, trams et bus perturbés la semaine prochaine dans la Métropole de Nice (11 July 2026)",
+        "url": "https://www.nicematin.com/societe/transports/un-preavis-de-greve-depose-a-lignes-d-azur-trams-et-bus-perturbes-la-semaine-prochaine-dans-la-metropole-de-nice-10688916"
+      },
+      {
+        "nombre": "ICI - Une grève des transports dans la métropole de Nice ce mercredi 15 juillet (15 July 2026)",
+        "url": "https://www.ici.fr/provence-alpes-cote-d-azur/alpes-maritimes-06/nice/une-greve-des-transports-dans-la-metropole-de-nice-ce-mercredi-15-juillet-7861061"
+      },
+      {
+        "nombre": "MSN - Une grève ce mercredi 15 juillet pour les bus et tramways de Nice (14 July 2026)",
+        "url": "https://www.msn.com/fr-fr/actualite/france/une-gr%C3%A8ve-ce-mercredi-15-juillet-pour-les-bus-et-tramways-de-nice/ar-AA27UniW"
+      }
+    ],
+    "createdAt": "2026-07-15T07:28:10.000Z",
+    "updatedAt": "2026-07-15T07:37:15Z"
   },
   {
     "id": 749,
@@ -397,7 +471,7 @@
       }
     ],
     "createdAt": "2026-07-14T03:59:40.000Z",
-    "updatedAt": "2026-07-15T05:21:52Z"
+    "updatedAt": "2026-07-15T07:37:15Z"
   },
   {
     "id": 810,
@@ -440,7 +514,7 @@
       }
     ],
     "createdAt": "2026-07-15T02:14:26.000Z",
-    "updatedAt": "2026-07-15T05:21:52Z"
+    "updatedAt": "2026-07-15T07:37:15Z"
   },
   {
     "id": 812,
@@ -469,6 +543,77 @@
       }
     ],
     "createdAt": "2026-07-15T05:17:30.000Z",
-    "updatedAt": "2026-07-15T05:21:52Z"
+    "updatedAt": "2026-07-15T07:37:15Z"
+  },
+  {
+    "id": 815,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "12:00",
+    "fecha": "2026-07-15",
+    "lugar": "Ciudad Autónoma de Buenos Aires — movilización desde Diagonal Norte y Esmeralda hasta el Ministerio de Economía (Hipólito Yrigoyen 250)",
+    "tipoAccion": "paro",
+    "organizaciones": [
+      "Asociación Trabajadores del Estado (ATE)",
+      "CTA Autónoma",
+      "CTA de los Trabajadores"
+    ],
+    "motivo": "Paro nacional de 24 horas de ATE con movilización al Ministerio de Economía en apoyo a la expresidenta Cristina Fernández de Kirchner, tras la confirmación de la condena en el caso Vialidad. ATE exige juicio político a la Corte Suprema por considerar que el fallo constituye una 'proscripción electoral'. La medida afecta la administración pública nacional, provincias y municipios, y también impacta en el funcionamiento de escuelas por la adhesión de auxiliares (cocineros y porteros). Rodolfo Aguiar, secretario general de ATE, calificó a la Corte como 'usurpada' y 'arbitraria'. La movilización se suma a la convocatoria del Partido Justicialista y coincide con la notificación judicial a la ex presidenta. Las CTA (Autónoma y de los Trabajadores) también adhirieron con cese de actividades.",
+    "status": "en_curso",
+    "lat": "-34.6037",
+    "lng": "-58.3816",
+    "fuentes": [
+      {
+        "nombre": "Olavarría Hoy - Un sector de los estatales para en apoyo a Cristina y complica el dictado de clases (14 julio 2026)",
+        "url": "https://olavarriahoy.com.ar/nota/20622/un-sector-de-los-estatales-para-en-apoyo-a-cristina-y-complica-el-dictado-de-clases/"
+      },
+      {
+        "nombre": "Cadena 3 - ATE anuncia paro de 24 horas y marcha a Comodoro Py por condena a Cristina Kirchner",
+        "url": "https://www.cadena3.com/noticia/politica-y-economia/ate-anuncia-paro-de-24-horas-y-marcha-a-comodoro-py-por-condena-a-cristina-kirchner_432826"
+      },
+      {
+        "nombre": "Degremiales - ATE convoca a un paro nacional y se suma a la movilización del 18 de junio en apoyo a Cristina Kirchner",
+        "url": "https://www.degremiales.com/ATE-convoca-a-un-paro-nacional-y-se-suma-a-la-movilizacion-del-18-de-junio-en-apoyo-a-Cristina-Kirchner-3428"
+      }
+    ],
+    "createdAt": "2026-07-15T07:32:19.000Z",
+    "updatedAt": "2026-07-15T07:37:15Z"
+  },
+  {
+    "id": 816,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "10:00",
+    "fecha": "2026-07-15",
+    "lugar": "Ciudad Autónoma de Buenos Aires — Sede Central de CONICET (Godoy Cruz 2290), con réplicas en INTI, INTA y CNEA en todo el país",
+    "tipoAccion": "movilización",
+    "organizaciones": [
+      "ATE-CONICET",
+      "Becarios despedidos del CONICET",
+      "Asamblea Multisectorial del INTI",
+      "Trabajadores de la ciencia y la tecnología"
+    ],
+    "motivo": "Jornada de lucha de trabajadores de ciencia y tecnología contra cientos de despidos ejecutados por el gobierno de Javier Milei en el sistema público científico. En CONICET se confirmaron 400 despidos inminentes y el vencimiento de becas posdoctorales de investigadores con 8 años de formación sin renovación. En la CNEA se produjeron casi 100 cesantías de trabajadores con funciones clave en el área nuclear, con un recorte del 55% del presupuesto. En INTI, la Asamblea Multisectorial denuncia sucesivos 'lock out libertarios' y un plan de 781 despidos frenado por una medida cautelar judicial. En INTA se perdieron alrededor de 2.000 trabajadores desde la asunción de Milei, con el cierre de la Estación Experimental Agropecuaria AMBA. Los manifestantes realizaron un 'picadito por la ciencia' en la sede de CONICET con asambleas y charlas abiertas.",
+    "status": "en_curso",
+    "lat": "-34.5346",
+    "lng": "-58.4431",
+    "fuentes": [
+      {
+        "nombre": "Tiempo Argentino - Trabajadores de la ciencia y la tecnología marchan contra cientos de despidos y el vaciamiento (14 julio 2026)",
+        "url": "https://www.tiempoar.com.ar/ta_article/trabajadores-de-la-ciencia-y-la-tecnologia-marchan-contra-cientos-de-despidos-y-el-vaciamiento/"
+      },
+      {
+        "nombre": "Canal 26 - Confirmaron paro de ATE en rechazo a los despidos en la CNEA (7 julio 2026)",
+        "url": "https://www.canal26.com/politica/2026/07/07/confirmaron-paro-de-ate-en-rechazo-a-los-despidos-en-la-cnea-a-que-sectores-afecta-la-medida-y-que-pasara-con-los-servicios/"
+      },
+      {
+        "nombre": "ATE - ATE definió un paro con caravana a la Comisión Nacional de Energía Atómica (7 julio 2026)",
+        "url": "https://ate.org.ar/260707-cnea-caravana/"
+      }
+    ],
+    "createdAt": "2026-07-15T07:32:19.000Z",
+    "updatedAt": "2026-07-15T07:37:15Z"
   }
 ]
