@@ -41,7 +41,7 @@
       }
     ],
     "createdAt": "2026-07-15T02:10:35.000Z",
-    "updatedAt": "2026-07-15T02:19:28Z"
+    "updatedAt": "2026-07-15T05:21:52Z"
   },
   {
     "id": 801,
@@ -78,7 +78,7 @@
       }
     ],
     "createdAt": "2026-07-15T02:10:35.000Z",
-    "updatedAt": "2026-07-15T02:19:28Z"
+    "updatedAt": "2026-07-15T05:21:52Z"
   },
   {
     "id": 802,
@@ -113,7 +113,7 @@
       }
     ],
     "createdAt": "2026-07-15T02:10:35.000Z",
-    "updatedAt": "2026-07-15T02:19:28Z"
+    "updatedAt": "2026-07-15T05:21:52Z"
   },
   {
     "id": 803,
@@ -144,7 +144,7 @@
       }
     ],
     "createdAt": "2026-07-15T02:10:35.000Z",
-    "updatedAt": "2026-07-15T02:19:28Z"
+    "updatedAt": "2026-07-15T05:21:52Z"
   },
   {
     "id": 804,
@@ -178,7 +178,7 @@
       }
     ],
     "createdAt": "2026-07-15T02:10:35.000Z",
-    "updatedAt": "2026-07-15T02:19:28Z"
+    "updatedAt": "2026-07-15T05:21:52Z"
   },
   {
     "id": 805,
@@ -208,7 +208,7 @@
       }
     ],
     "createdAt": "2026-07-15T02:10:35.000Z",
-    "updatedAt": "2026-07-15T02:19:28Z"
+    "updatedAt": "2026-07-15T05:21:52Z"
   },
   {
     "id": 806,
@@ -237,7 +237,7 @@
       }
     ],
     "createdAt": "2026-07-15T02:10:35.000Z",
-    "updatedAt": "2026-07-15T02:19:28Z"
+    "updatedAt": "2026-07-15T05:21:52Z"
   },
   {
     "id": 807,
@@ -268,7 +268,7 @@
       }
     ],
     "createdAt": "2026-07-15T02:10:35.000Z",
-    "updatedAt": "2026-07-15T02:19:28Z"
+    "updatedAt": "2026-07-15T05:21:52Z"
   },
   {
     "id": 808,
@@ -294,7 +294,7 @@
       }
     ],
     "createdAt": "2026-07-15T02:10:35.000Z",
-    "updatedAt": "2026-07-15T02:19:28Z"
+    "updatedAt": "2026-07-15T05:21:52Z"
   },
   {
     "id": 809,
@@ -321,7 +321,41 @@
       }
     ],
     "createdAt": "2026-07-15T02:10:35.000Z",
-    "updatedAt": "2026-07-15T02:19:28Z"
+    "updatedAt": "2026-07-15T05:21:52Z"
+  },
+  {
+    "id": 811,
+    "seccion": "protestas_int",
+    "pais": "España",
+    "bandera": "🇪🇸",
+    "hora": "00:00",
+    "fecha": "2026-07-15",
+    "lugar": "Supermercados de Euskadi y Navarra (País Vasco y Navarra) — Hego Euskal Herria",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "Euskal Langile Alkartasuna (ELA)",
+      "Langile Abertzaleen Batzordeak (LAB)"
+    ],
+    "motivo": "Huelga de 24 horas en el sector del comercio de alimentación de Euskadi y Navarra contra la estatalización de los convenios laborales. Los sindicatos ELA y LAB convocaron el paro para frenar el intento de la patronal ASEDAS y grandes cadenas (Mercadona, Lidl, Dia, Grupo Uvesco) de imponer un marco de negociación estatal que, según denuncian, vaciaría de contenido los convenios provinciales propios y debilitaría las condiciones laborales. La movilización coincide con una reunión de la mesa negociadora en Madrid. Se prevén afectaciones en el abastecimiento de productos frescos y en las cajas de los supermercados durante todo el día.",
+    "status": "en_curso",
+    "lat": "43.2630",
+    "lng": "-2.9350",
+    "fuentes": [
+      {
+        "nombre": "Orain EITB - ELA y LAB convocan huelga el 15 de julio en los supermercados de Hego Euskal Herria contra la estatalización (7 July 2026)",
+        "url": "https://orain.eus/es/actualidad/economia/2026/07/07/ela-lab-convocan-huelga-el-15-julio-en-los-supermercados-hego-euskal-herria-contra-la-estatalizacion"
+      },
+      {
+        "nombre": "Merca2 - ELA y LAB convocan huelga en supermercados de Euskadi el 15 de julio contra la estatalización de convenios (8 July 2026)",
+        "url": "https://www.merca2.es/2026/07/08/huelga-supermercados-euskadi-julio-2413318"
+      },
+      {
+        "nombre": "Economía Digital - Huelga en los supermercados de Euskadi el 15 de julio (9 July 2026)",
+        "url": "https://www.economiadigital.es/empresas/huelga-supermercados-euskadi-15-julio-ela-lab.html"
+      }
+    ],
+    "createdAt": "2026-07-15T05:13:42.000Z",
+    "updatedAt": "2026-07-15T05:21:52Z"
   },
   {
     "id": 749,
@@ -363,7 +397,7 @@
       }
     ],
     "createdAt": "2026-07-14T03:59:40.000Z",
-    "updatedAt": "2026-07-15T02:19:28Z"
+    "updatedAt": "2026-07-15T05:21:52Z"
   },
   {
     "id": 810,
@@ -375,19 +409,66 @@
     "lugar": "Paraná, Entre Ríos — movilización contra la reforma previsional",
     "tipoAccion": "huelga",
     "organizaciones": [
-      "Multisectorial en Defensa del Sistema Previsional"
+      "Multisectorial en Defensa del Sistema Previsional",
+      "Agmer Entre Ríos",
+      "ATE Entre Ríos"
     ],
-    "motivo": "Huelga y movilización en rechazo al proyecto de reforma de la Caja de Jubilaciones de Entre Ríos que avanza en el Senado provincial. La Multisectorial en Defensa del Sistema Previsional rechaza la declaración de emergencia económica con facultades especiales para el gobernador, el aumento de la edad jubilatoria y de los aportes, y modificaciones en el cálculo de los haberes que afectarían el 82% móvil. También cuestionan lo que denominan una 'armonización encubierta' con el régimen nacional y cambios que impactarían sobre las jubilaciones por invalidez y las pensiones. La Multisectorial convocó a los senadores provinciales a votar en contra del proyecto y advirtió que 'ha llegado la hora de definir de qué lado están'. La movilización se perfila como una prueba de fuerza para medir el peso real de la oposición a la reforma, mientras el proyecto sigue su curso legislativo en el Senado provincial.",
+    "motivo": "Huelga y movilización en rechazo al proyecto de reforma de la Caja de Jubilaciones de Entre Ríos que avanza en el Senado provincial. La Multisectorial en Defensa del Sistema Previsional rechaza la declaración de emergencia económica con facultades especiales para el gobernador, el aumento de la edad jubilatoria y de los aportes, y modificaciones en el cálculo de los haberes que afectarían el 82% móvil. También cuestionan lo que denominan una 'armonización encubierta' con el régimen nacional y cambios que impactarían sobre las jubilaciones por invalidez y las pensiones. La Multisectorial convocó a los senadores provinciales a votar en contra del proyecto y advirtió que 'ha llegado la hora de definir de qué lado están'. La movilización se perfila como una prueba de fuerza para medir el peso real de la oposición a la reforma, mientras el proyecto sigue su curso legislativo en el Senado provincial. Agmer y ATE confirmaron adhesión sumando reclamos de recomposición salarial.",
     "status": "en_curso",
     "lat": "-31.7333",
     "lng": "-59.0333",
     "fuentes": [
       {
+        "nombre": "Uno Entre Ríos - Reforma previsional: habrá nuevo paro y marcha de la multisectorial (11 julio 2026)",
+        "url": "https://www.unoentrerios.com.ar/la-provincia/reforma-previsional-habra-nuevo-paro-y-marcha-la-multisectorial-n10269114.html"
+      },
+      {
+        "nombre": "Diario Concordia - Miércoles 15: la Gran Huelga contra la Reforma Previsional (11 julio 2026)",
+        "url": "https://www.diarioconcordia.com.ar/2026/07/miercoles-15-la-gran-huelga-contra-la.html"
+      },
+      {
         "nombre": "El Diario Paraná - Huelga y marcha el 15 de julio contra la reforma previsional en Entre Ríos (11 julio 2026)",
         "url": "https://www.eldiario.com.ar/2026/07/11/huelga-y-marcha-el-15-de-julio-contra-la-reforma-previsional-en-entre-rios/"
+      },
+      {
+        "nombre": "Hora Digital - La Multisectorial en Defensa de la Caja convoca a paro y movilización provincial este miércoles (13 julio 2026)",
+        "url": "https://horadigital.com.ar/la-multisectorial-en-defensa-de-la-caja-convoca-a-paro-y-movilizacion-provincial-este-miercoles/"
+      },
+      {
+        "nombre": "Orilla y Media - Multisectorial convoca un paro para el 15 de julio (9 julio 2026)",
+        "url": "https://www.orillaymedia.com/la-multisectorial-confirmo-un-paro-provincial-para-la-semana-proxima/"
       }
     ],
     "createdAt": "2026-07-15T02:14:26.000Z",
-    "updatedAt": "2026-07-15T02:19:28Z"
+    "updatedAt": "2026-07-15T05:21:52Z"
+  },
+  {
+    "id": 812,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "19:00",
+    "fecha": "2026-07-15",
+    "lugar": "La Plata — esquina 7 y 50 (centro), con previa movilización a Plaza de los dos Congresos, Buenos Aires",
+    "tipoAccion": "cacerolazo",
+    "organizaciones": [
+      "Asamblea La Plata"
+    ],
+    "motivo": "Cacerolazo en respaldo al paro general convocado por el movimiento obrero sindicalizado y los movimientos sociales, en rechazo a la Ley Omnibus y el DNU masivo del Gobierno nacional. La Asamblea La Plata convocó desde las 19 horas en la esquina de 7 y 50, bajo la consigna 'Estado de alerta permanente'. Previo a la concentración local, manifestantes se trasladaron en el Tren Roca desde la Estación de Tresnes hacia Plaza de los dos Congresos en Buenos Aires para sumarse al acto convocado por la CGT, la CTA y las organizaciones sociales, regresando a La Plata antes del cese del servicio de ferrocarriles.",
+    "status": "en_curso",
+    "lat": "-34.9211",
+    "lng": "-57.9546",
+    "fuentes": [
+      {
+        "nombre": "Info360 - Habrá cacerolazo en La Plata en respaldo al Paro General (15 julio 2026)",
+        "url": "https://www.info360.net/nota/18300/habra-cacerolazo-en-la-plata-en-respaldo-al-paro-general/"
+      },
+      {
+        "nombre": "Política y Medios - Paro general: en La Plata hubo un cacerolazo en respaldo a las medidas de fuerza (15 julio 2026)",
+        "url": "https://politicaymedios.com.ar/nota/19956/paro-general-en-la-plata-hubo-un-cacerolazo-en-respaldo-a-las-medidas-de-fuerza/"
+      }
+    ],
+    "createdAt": "2026-07-15T05:17:30.000Z",
+    "updatedAt": "2026-07-15T05:21:52Z"
   }
 ]
