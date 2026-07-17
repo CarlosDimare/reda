@@ -52,7 +52,7 @@
       }
     ],
     "createdAt": "2026-07-17T02:48:18.000Z",
-    "updatedAt": "2026-07-17T13:31:37Z"
+    "updatedAt": "2026-07-17T15:11:03Z"
   },
   {
     "id": 879,
@@ -110,7 +110,7 @@
       }
     ],
     "createdAt": "2026-07-17T02:44:59.000Z",
-    "updatedAt": "2026-07-17T13:31:37Z"
+    "updatedAt": "2026-07-17T15:11:03Z"
   },
   {
     "id": 882,
@@ -152,7 +152,7 @@
       }
     ],
     "createdAt": "2026-07-17T05:40:17.000Z",
-    "updatedAt": "2026-07-17T13:31:37Z"
+    "updatedAt": "2026-07-17T15:11:03Z"
   },
   {
     "id": 885,
@@ -199,7 +199,7 @@
       }
     ],
     "createdAt": "2026-07-17T10:17:18.000Z",
-    "updatedAt": "2026-07-17T13:31:37Z"
+    "updatedAt": "2026-07-17T15:11:03Z"
   },
   {
     "id": 888,
@@ -244,7 +244,7 @@
       }
     ],
     "createdAt": "2026-07-17T11:51:10.000Z",
-    "updatedAt": "2026-07-17T13:31:37Z"
+    "updatedAt": "2026-07-17T15:11:03Z"
   },
   {
     "id": 889,
@@ -293,7 +293,7 @@
       }
     ],
     "createdAt": "2026-07-17T11:51:10.000Z",
-    "updatedAt": "2026-07-17T13:31:37Z"
+    "updatedAt": "2026-07-17T15:11:03Z"
   },
   {
     "id": 891,
@@ -337,7 +337,7 @@
       }
     ],
     "createdAt": "2026-07-17T11:51:10.000Z",
-    "updatedAt": "2026-07-17T13:31:37Z"
+    "updatedAt": "2026-07-17T15:11:03Z"
   },
   {
     "id": 892,
@@ -364,7 +364,7 @@
       }
     ],
     "createdAt": "2026-07-17T11:51:10.000Z",
-    "updatedAt": "2026-07-17T13:31:37Z"
+    "updatedAt": "2026-07-17T15:11:03Z"
   },
   {
     "id": 893,
@@ -415,6 +415,160 @@
       }
     ],
     "createdAt": "2026-07-17T13:22:02.000Z",
-    "updatedAt": "2026-07-17T13:31:37Z"
+    "updatedAt": "2026-07-17T15:11:03Z"
+  },
+  {
+    "id": 894,
+    "seccion": "protestas_internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "09:00",
+    "fecha": "2026-07-17",
+    "lugar": "Googleplex, 1600 Amphitheatre Parkway, Mountain View, California",
+    "tipoAccion": "rally de trabajadores tech por seguridad laboral",
+    "organizaciones": [
+      "Alphabet Workers Union (AWU-CWA Local 9009)"
+    ],
+    "motivo": "Más de 100 trabajadores de Google se reunieron frente a la sede Mountain View para exigir protección contra despidos. La AWU entregó un petitorio con más de 4.500 firmas dirigido al CEO Sundar Pichai y tres ejecutivos senior. Demandas: garantía de indemnización por despido (no menor a la pagada en enero 2023), ofertas de salida voluntaria antes de despidos forzosos, eliminación del sistema de calificación de desempeño forzado (GRAD quotas) que evalúa contra una curva fija, y opción de tomar la indemnización como licencia pagada extendida para trabajadores con visa. El sindicato, que cuenta con 1.400 miembros, lanzó la campaña 'Googlers for Job Security' en enero 2025. Google ha ofrecido paquetes de salida voluntaria a más de 70.000 trabajadores desde entonces. El rally refleja la ansiedad generalizada en la industria tech tras recortes masivos de empleo en Meta, Amazon y Microsoft desde 2022.",
+    "status": "en_curso",
+    "lat": "37.4220",
+    "lng": "-122.0841",
+    "fuentes": [
+      {
+        "nombre": "Business Insider - Google Workers Rally for Job Security at Mountain View HQ (17 July 2026)",
+        "url": "https://www.businessinsider.com/google-workers-rally-for-job-security-at-mountain-view-hq-2026-7"
+      },
+      {
+        "nombre": "ABC7 San Francisco - 4,500 Google employees sign petition demanding layoff protections (17 July 2026)",
+        "url": "https://abc7news.com/post/4500-google-employees-sign-petition-demanding-layoff-protections/19522280/"
+      },
+      {
+        "nombre": "Quartz - Google workers rally at HQ demanding layoff protections (17 July 2026)",
+        "url": "https://qz.com/google-workers-rally-layoff-protections-headquarters-071726"
+      },
+      {
+        "nombre": "The Verge - Google workers are delivering a petition to top execs pushing for job security protections (16 July 2026)",
+        "url": "https://www.theverge.com/tech/966598/google-workers-are-delivering-a-petition-to-top-execs-pushing-for-job-security-protections"
+      },
+      {
+        "nombre": "The Next Web - Google workers rally at Mountain View HQ, demanding a floor under their jobs (17 July 2026)",
+        "url": "https://thenextweb.com/news/google-workers-rally-job-security"
+      }
+    ],
+    "createdAt": "2026-07-17T14:57:08.000Z",
+    "updatedAt": "2026-07-17T15:11:03Z"
+  },
+  {
+    "id": 896,
+    "seccion": "protestas_internacionales",
+    "pais": "México",
+    "bandera": "🇲🇽",
+    "hora": "08:00",
+    "fecha": "2026-07-17",
+    "lugar": "Dirección de Formación e Innovación Educativa del IPN, Av. Wilfrido Massieu 326, Col. Nueva Industrial Vallejo, Ciudad de México",
+    "tipoAccion": "bloqueo estudiantil y mesa de diálogo",
+    "organizaciones": [
+      "Estudiantes en paro del IPN",
+      "Escuela Nacional de Ciencias Biológicas (ENCB)",
+      "Unidad Profesional Interdisciplinaria en Ingeniería y Tecnologías Avanzadas (UPIITA)",
+      "Escuela Superior de Economía (ESE)",
+      "Escuela Superior de Medicina (ESM)"
+    ],
+    "motivo": "Estudiantes del Instituto Politécnico Nacional (IPN) realizaron un bloqueo en la Av. Wilfrido Massieu 326 como parte de la segunda mesa de trabajo con autoridades del IPN para dar seguimiento a su pliego petitorio, casi tres meses después de haber tomado las instalaciones de Canal Once el 22 de mayo. Entre las demandas: democratización del IPN, mayor transparencia financiera de la institución, acceso a información sobre denuncias por corrupción contra exfuncionarios, destitución del director general Arturo Reyes Sandoval, auditorías al Patronato Corazón Guinda y Blanco, y eliminación de cuerpos de seguridad privada. Las mesas temáticas abordan temas jurídicos/de seguridad, financieros/de infraestructura, democratización/descentralización y docencia. Las autoridades de la SEP, IPN y estudiantes acordaron cuatro mesas de trabajo.",
+    "status": "en_curso",
+    "lat": "19.5191",
+    "lng": "-99.1532",
+    "fuentes": [
+      {
+        "nombre": "N+ - ¿Qué Calles de la CDMX Están Cerradas por Bloqueo del IPN Hoy? (17 July 2026)",
+        "url": "https://www.nmas.com.mx/ciudad-de-mexico/movilidad/que-calles-cdmx-estan-cerradas-bloqueo-ipn-hoy-17-de-julio-2026-evita-zona-afectaciones/"
+      },
+      {
+        "nombre": "La Jornada - Estudiantes del IPN aceptan diálogo, pero exigen presencia de SG, SHCP y Presidencia (13 July 2026)",
+        "url": "https://www.jornada.com.mx/noticia/2026/07/13/sociedad/estudiantes-del-ipn-aceptan-dialogo-pero-exigen-presencia-de-sg-shcp-y-presidencia"
+      },
+      {
+        "nombre": "El Universal - IPN y estudiantes instalan ruta de negociación con la SEP; acuerdan cuatro mesas de trabajo para atender demandas (15 July 2026)",
+        "url": "https://www.eluniversal.com.mx/nacion/ipn-y-estudiantes-instalan-ruta-de-negociacion-con-la-sep-acuerdan-cuatro-mesas-de-trabajo-para-atender-demandas/"
+      },
+      {
+        "nombre": "Infobae - A dos meses de la toma de Canal Once, estudiantes del IPN y la SEP acuerdan mesas de trabajo (15 July 2026)",
+        "url": "https://www.infobae.com/mexico/2026/07/15/a-dos-meses-de-la-toma-de-canal-once-estudiantes-del-ipn-y-la-sep-acuerdan-mesas-de-trabajo/"
+      }
+    ],
+    "createdAt": "2026-07-17T14:57:08.000Z",
+    "updatedAt": "2026-07-17T15:11:03Z"
+  },
+  {
+    "id": 897,
+    "seccion": "protestas_internacionales",
+    "pais": "México",
+    "bandera": "🇲🇽",
+    "hora": "09:00",
+    "fecha": "2026-07-17",
+    "lugar": "Hospital Psiquiátrico Infantil 'Dr. Juan N. Navarro', Av. San Fernando 86, Col. Belisario Domínguez — marcha a Plaza de la Constitución 1, Centro Tlalpan, Ciudad de México",
+    "tipoAccion": "marcha de padres, madres y trabajadores hospitalarios",
+    "organizaciones": [
+      "Padres y madres de pacientes del Hospital Psiquiátrico Infantil",
+      "Trabajadores del Hospital Psiquiátrico Infantil 'Dr. Juan N. Navarro'",
+      "Sindicato Nacional de Trabajadores de la Secretaría de Salud (SNTSA)"
+    ],
+    "motivo": "Padres, madres y trabajadores del Hospital Psiquiátrico Infantil 'Dr. Juan N. Navarro' marcharon en la alcaldía Tlalpan para exigir la suspensión definitiva de un proyecto que pretende reducir el área verde del hospital para construir un estacionamiento y albergue. También exigen información oficial, diálogo con autoridades y que se respete el espacio del hospital, dedicado a la salud mental infantil (ansiedad, depresión, TDAH, autismo y conductas suicidas). El hospital atiende a miles de pacientes menores de edad provenientes de la Ciudad de México y otras entidades. La protesta se suma a denuncias previas de trabajadores sobre desabasto de alimentos e insumos para pacientes.",
+    "status": "en_curso",
+    "lat": "19.2900",
+    "lng": "-99.1700",
+    "fuentes": [
+      {
+        "nombre": "N+ - Marcha Hoy por Hospital Infantil en CDMX: Ruta y Zona Afectada por Manifestación (17 July 2026)",
+        "url": "https://www.nmas.com.mx/ciudad-de-mexico/movilidad/marchas/marcha-hoy-por-hospital-infantil-en-cdmx-ruta-y-zona-afectada-por-manifestacion/"
+      },
+      {
+        "nombre": "López-Dóriga - Padres y trabajadores de hospital marcharán hoy en CDMX; se esperan otras 5 concentraciones (17 July 2026)",
+        "url": "https://lopezdoriga.com/nacional/padres-y-trabajadores-de-hospital-marcharan-hoy-en-cdmx-se-esperan-otras-5-concentraciones/"
+      },
+      {
+        "nombre": "XEU Noticias - Protestan trabajadores de hospitales psiquiátricos en CDMX. Esto denuncian (17 June 2026)",
+        "url": "https://xeu.mx/nacional/1422403/protestan-trabajadores-de-hospitales-psiquiatricos-en-cdmx-esto-denuncian"
+      }
+    ],
+    "createdAt": "2026-07-17T14:57:08.000Z",
+    "updatedAt": "2026-07-17T15:11:03Z"
+  },
+  {
+    "id": 898,
+    "seccion": "protestas_internacionales",
+    "pais": "España",
+    "bandera": "🇪🇸",
+    "hora": "07:00",
+    "fecha": "2026-07-17",
+    "lugar": "Arco de la Victoria (Arco de Moncloa), distrito de Moncloa, Madrid — cerca de la sede de la Presidencia del Gobierno",
+    "tipoAccion": "acción directa contra energía nuclear",
+    "organizaciones": [
+      "Greenpeace España"
+    ],
+    "motivo": "9 activistas de Greenpeace se descolgaron del Arco de la Victoria de Moncloa (monumento de 49 metros de altura) para desplegar una pancarta gigante con el mensaje 'Pedro, cumple tu palabra. Di no a las nucleares' sobre una foto del presidente Pedro Sánchez. La acción se produce un día después de que el Consejo de Seguridad Nuclear (CSN) avalara la prórroga de actividad de la central nuclear de Almaraz (Cáceres) hasta junio de 2030. Greenpeace exige al Gobierno que respete el calendario de desnuclearización acordado con las eléctricas en 2019 y que inicie el cierre de Almaraz en 2027, conforme a la Orden Ministerial TED/773/2020. Los activistas fueron detenidos por la Policía Nacional tras la protesta. Greenpeace advierte que la prórroga costará más de 3.800 millones de euros a la ciudadanía y frenará la transición energética.",
+    "status": "finalizada",
+    "lat": "40.4367",
+    "lng": "-3.7210",
+    "fuentes": [
+      {
+        "nombre": "Infobae/EFE - Greenpeace cuelga una pancarta en Madrid pidiendo a Sánchez que diga 'no a las nucleares' (17 July 2026)",
+        "url": "https://www.infobae.com/espana/agencias/2026/07/17/greenpeace-cuelga-una-pancarta-en-madrid-pidiendo-a-sanchez-que-diga-no-a-las-nucleares/"
+      },
+      {
+        "nombre": "Europa Press - Detenidos activistas de Greenpeace por colgar una pancarta en el Arco de Moncloa contra la prórroga (17 July 2026)",
+        "url": "https://www.infobae.com/america/agencias/2026/07/17/detenidos-activistas-de-greenpeace-por-colgar-una-pancarta-en-el-arco-de-moncloa-contra-la-prorroga/"
+      },
+      {
+        "nombre": "COPE - Activistas de Greenpeace se cuelgan del Arco de Moncloa para reclamar el cierre de Almaraz (17 July 2026)",
+        "url": "https://www.cope.es/emisoras/extremadura/noticias/activistas-greenpeace-cuelgan-arco-moncloa-reclamar-cierre-almaraz-pedro-cumple-palabra-20260717_3406574.html"
+      },
+      {
+        "nombre": "No蒂merica - Detenidos activistas de Greenpeace por colgar una pancarta en el Arco de Moncloa contra la prórroga (17 July 2026)",
+        "url": "https://www.notimerica.com/sociedad/noticia-detenidos-activistas-greenpeace-colgar-pancarta-arco-moncloa-contra-prorroga-20260717141445.html"
+      }
+    ],
+    "createdAt": "2026-07-17T14:57:08.000Z",
+    "updatedAt": "2026-07-17T15:11:03Z"
   }
 ]
