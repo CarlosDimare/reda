@@ -40,7 +40,7 @@
       }
     ],
     "createdAt": "2026-07-17T02:48:18.000Z",
-    "updatedAt": "2026-07-17T02:50:53Z"
+    "updatedAt": "2026-07-17T05:45:53Z"
   },
   {
     "id": 878,
@@ -82,10 +82,18 @@
       {
         "nombre": "Stratfor/RANE - The Implications of Serbia and Albania's Massive Protest Waves (7 July 2026)",
         "url": "https://worldview.stratfor.com/article/implications-serbia-and-albanias-massive-protest-waves"
+      },
+      {
+        "nombre": "Shqiperi.org - Flamingo Revolution official site (daily gatherings confirmed)",
+        "url": "https://www.shqiperi.org/"
+      },
+      {
+        "nombre": "CGFoE Protest Monitor - Albania political crisis tracked as ongoing (9 July 2026)",
+        "url": "https://globalfreedomofexpression.columbia.edu/protest-monitor/"
       }
     ],
     "createdAt": "2026-07-17T02:44:59.000Z",
-    "updatedAt": "2026-07-17T02:50:53Z"
+    "updatedAt": "2026-07-17T05:45:53Z"
   },
   {
     "id": 879,
@@ -105,9 +113,10 @@
       "Third Act Movement",
       "Transformative Justice Coalition",
       "Voters of Tomorrow",
-      "Democrats Abroad"
+      "Democrats Abroad",
+      "AAUW"
     ],
-    "motivo": "Inicio del fin de semana 'Good Trouble Lives On' (17-19 de julio) en honor al legado del congresista John Lewis (fallecido el 17 de julio de 2020). Jornada nacional no violenta y no partidista contra los ataques a derechos civiles y al derecho al voto bajo la administración Trump. Incluye teach-ins, educación cívica, servicios de fe, registración de votantes y movilizaciones masivas. El sábado 18 se realizará la concentración principal en Atlanta. Centenares de eventos registrados en todo el país.",
+    "motivo": "Inicio del fin de semana 'Good Trouble Lives On' (17-19 de julio) en honor al legado del congresista John Lewis (fallecido el 17 de julio de 2020). Jornada nacional no violenta y no partidista contra los ataques a derechos civiles y al derecho al voto bajo la administración Trump. Tema 2026: 'Teach! Reach! Preach!' — enseñar a la comunidad sobre derechos de voto, llegar a vecinos con recursos cívicos y predicar la urgencia de proteger la democracia. Incluye teach-ins, educación cívica, servicios de fe, registración de votantes y movilizaciones masivas. El sábado 18 se realizará la concentración principal en Atlanta (Freedom Summer Rally). Centenares de eventos registrados en todo el país, incluyendo conferencias de prensa, marchas y fiestas comunitarias.",
     "status": "en_curso",
     "lat": "38.9072",
     "lng": "-77.0369",
@@ -125,12 +134,20 @@
         "url": "https://www.mobilize.us/john-lewis-actions/map/"
       },
       {
-        "nombre": "Wikipedia - Good Trouble Lives On protest",
-        "url": "https://en.wikipedia.org/wiki/Good_Trouble_Lives_On_protest"
+        "nombre": "Indivisible Charlotte - Good Trouble Lives On July 17-19 (local events)",
+        "url": "https://indivisibleclt.org/events/2026/7/17/teach-reach-and-preach"
+      },
+      {
+        "nombre": "AAUW - Make Good Trouble: National Weekend of Action July 17-19, 2026",
+        "url": "https://www.aauw.org/app/uploads/2026/06/Good-Trouble-Lives-On-2026.pdf"
+      },
+      {
+        "nombre": "MetaFilter - Good Trouble Lives On (July 17-19): Reach! Teach! Preach! (10 July 2026)",
+        "url": "https://www.metafilter.com/213786/Good-Trouble-Lives-On-July-17-19-Reach-Teach-Preach"
       }
     ],
     "createdAt": "2026-07-17T02:44:59.000Z",
-    "updatedAt": "2026-07-17T02:50:53Z"
+    "updatedAt": "2026-07-17T05:45:53Z"
   },
   {
     "id": 880,
@@ -161,15 +178,105 @@
         "url": "https://en.wikipedia.org/wiki/2024%E2%80%93present_Serbian_anti-corruption_protests"
       },
       {
-        "nombre": "Al Jazeera - Thousands rally in Serbia as students continue fight against corruption (18 Jan 2026)",
-        "url": "https://www.aljazeera.com/news/2026/1/18/thousands-rally-in-serbia-as-students-continue-fight-against-corruption"
+        "nombre": "US News - Serbians Keep Up Protest After President Vucic Says He Will Step Down (28 June 2026)",
+        "url": "https://www.usnews.com/news/world/articles/2026-06-28/serbians-to-keep-up-protest-after-president-vucic-says-he-will-step-down"
       },
       {
         "nombre": "AFP/AP - Tens of thousands rally in Belgrade against crackdown on student-led protests (23 May 2026)",
         "url": "https://www.nampa.org/text/22933880"
+      },
+      {
+        "nombre": "Cross-border Talks - Protests in Belgrade tag (12 July 2026)",
+        "url": "https://www.crossbordertalks.eu/tag/protests-in-belgrade"
       }
     ],
     "createdAt": "2026-07-17T02:44:59.000Z",
-    "updatedAt": "2026-07-17T02:50:53Z"
+    "updatedAt": "2026-07-17T05:45:53Z"
+  },
+  {
+    "id": 881,
+    "seccion": "protestas_internacionales",
+    "pais": "Sudáfrica",
+    "bandera": "🇿🇦",
+    "hora": "varias",
+    "fecha": "2026-07-17",
+    "lugar": "Johannesburg, Durban, Pretoria, Ciudad del Cabo y otras ciudades — marchas simultáneas en múltiples provincias",
+    "tipoAccion": "marchas semanales anti-inmigración",
+    "organizaciones": [
+      "March and March",
+      "Operation Dudula",
+      "Progressive Forces",
+      "Coalición de Ciudadanos Concernidos y Votantes de Sudáfrica"
+    ],
+    "motivo": "Marchas semanales de los jueves convocadas por March and March contra la inmigración irregular en Sudáfrica. Las protestas continuas se iniciaron tras el plazo no oficial del 30 de junio para que los migrantes indocumentados abandonen el país. Los manifestantes realizan campañas 'puerta a puerta' buscando migrantes, exigen que el gobierno cumpla con la deportación masiva, y denuncian el impacto del crimen, las drogas y el desempleo. El movimiento se intensificó tras los disturbios del 30 de junio con más de 900 arrestos y al menos 4 muertos. March and March anunció que las protestas continuará todos los jueves hasta que las demandas sean atendidas por el gobierno.",
+    "status": "en_curso",
+    "lat": "-26.2041",
+    "lng": "28.0473",
+    "fuentes": [
+      {
+        "nombre": "SABC News - March and March Movement plans nationwide marches for Thursday (9 July 2026)",
+        "url": "https://www.sabcnews.com/sabcnews/march-and-march-movement-vows-to-continue-marching-today/"
+      },
+      {
+        "nombre": "Sunday Times - Intimidation and confrontation as March and March's Thursday protests kick off (12 July 2026)",
+        "url": "https://www.sundaytimes.timeslive.co.za/news/2026-07-11-intimidation-and-confrontation-as-march-and-marchs-thursday-protests-kick-off"
+      },
+      {
+        "nombre": "Reuters - South African protesters go door-to-door forcing immigrants from homes (9 July 2026)",
+        "url": "https://www.reuters.com/world/africa/south-african-protesters-go-door-to-door-forcing-immigrants-their-homes-2026-07-09/"
+      },
+      {
+        "nombre": "EWN - Ngobese-Zuma: March and March will protest every Thursday (1 July 2026)",
+        "url": "https://www.ewn.co.za/ngobese-zuma-march-and-march-will-protest-every-thursday-until-demands-taken-seriously/"
+      },
+      {
+        "nombre": "MSN - Jacinta Ngobese-Zuma announces starting points for second wave of protests (July 2026)",
+        "url": "https://www.msn.com/en-za/news/other/jacinta-ngobese-zuma-announces-starting-points-for-second-wave-of-anti-illegal-immigration-protests/ar-AA27thAt"
+      }
+    ],
+    "createdAt": "2026-07-17T05:40:17.000Z",
+    "updatedAt": "2026-07-17T05:45:53Z"
+  },
+  {
+    "id": 882,
+    "seccion": "protestas_internacionales",
+    "pais": "Alemania",
+    "bandera": "🇩🇪",
+    "hora": "varias",
+    "fecha": "2026-07-17",
+    "lugar": "Dresde, Brühl, Erlangen, Berlín, Betzdorf, Bielefeld y otras ciudades — manifestaciones simultáneas en todo el país",
+    "tipoAccion": "manifestaciones contra el extremismo de derecha",
+    "organizaciones": [
+      "Alianza 'Resistance'",
+      "Sindicatos (DGB)",
+      "Grupos de sociedad civil",
+      "Partidos de izquierda",
+      "Iniciativas ciudadanas locales",
+      "Omas gegen Rechts"
+    ],
+    "motivo": "Manifestaciones regulares contra el extremismo de derecha y la política de la AfD (Alternativa para Alemania) en múltiples ciudades. Las protestas se intensificaron tras el congreso de la AfD en Erfurt (4 de julio) donde se reeligió a Alice Weidel y Tino Chrupalla. Los manifestantes exigen la prohibición de la AfD, defensa de la democracia y rechazo de las políticas de deportación masiva promovidas por el partido. Convocatorias del 17 de julio confirmadas en Dresde, Brühl, Erlangen, Berlín, Betzdorf y Bielefeld. Las protestas contra el extremismo de derecha continúan desde enero de 2024 como el movimiento civil más grande de la posguerra en Alemania.",
+    "status": "en_curso",
+    "lat": "52.5200",
+    "lng": "13.4050",
+    "fuentes": [
+      {
+        "nombre": "News.de - Demo-Termine heute, 17. Juli 2026: Demos gegen AfD y Rechtsruck",
+        "url": "https://www.news.de/politik/859715628/demos-gegen-rechtsextremismus-gegen-afd-heute-freitag-17-juli-2026-demonstrationen-dresden-bruehl-erlangen-berlin-betzdorf-bielefeld/1/"
+      },
+      {
+        "nombre": "France24 - Thousands protest against Germany's far right as AfD party re-elects leadership (4 July 2026)",
+        "url": "https://www.france24.com/en/europe/20260704-thousands-protest-against-the-far-right-in-germany-as-afd-party-meets"
+      },
+      {
+        "nombre": "Reuters - Thousands protest in Germany as far-right AfD sets sights on power (4 July 2026)",
+        "url": "https://www.reuters.com/world/europe/thousands-protest-germany-against-far-right-afd-sets-sights-power-2026-07-04/"
+      },
+      {
+        "nombre": "MSN Demo-Termine aktuell im Juli 2026",
+        "url": "https://www.msn.com/de-de/finanzen/top-stories/demo-termine-aktuell-im-juli-2026-in-welchen-st%C3%A4dten-gibts-ab-17-demos-gegen-afd-menschenhass-und-rechtsruck/ar-AA26ljMG"
+      }
+    ],
+    "createdAt": "2026-07-17T05:40:17.000Z",
+    "updatedAt": "2026-07-17T05:45:53Z"
   }
 ]
