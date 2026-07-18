@@ -51,100 +51,7 @@
       }
     ],
     "createdAt": "2026-07-17T02:44:59.000Z",
-    "updatedAt": "2026-07-18T01:07:47Z"
-  },
-  {
-    "id": 889,
-    "seccion": "protestas_internacionales",
-    "pais": "Ucrania",
-    "bandera": "🇺🇦",
-    "hora": "09:00",
-    "fecha": "2026-07-18",
-    "lugar": "Plaza Iván Franko frente a la Oficina Presidencial, Kyiv — también Mykolaiv, Lutsk y otras ciudades",
-    "tipoAccion": "manifestación cívica contra destitución de ministro",
-    "organizaciones": [
-      "Sociedad civil ucraniana",
-      "Veteranos de guerra",
-      "Artistas y periodistas",
-      "Trabajadores de United24",
-      "Unión de Trabajadores de Alphabet"
-    ],
-    "motivo": "Día 3 de protestas nacionales contra la destitución del Ministro de Defensa Mykhailo Fedorov por parte del presidente Zelensky. Los manifestantes exigieron la reincorporación de Fedorov y la renuncia del comandante en jefe Oleksandr Syrskyi. Las protestas comenzaron el 16 de julio tras el anuncio del despacho de Fedorov, acreditado por su impulso a la guerra de drones y reformas militares. Cientos de personas se reunieron en Kyiv, Mykolaiv y Lutsk con carteles como 'Traer de vuelta a Fedorov' y 'Devolver a Syrskyi'. El comandante adjunto de la Fuerza Aérea, Pavlo Yelizarov, renunció en protesta. Los manifestantes se comprometieron a volver a concentrarse el viernes 18 de julio.",
-    "status": "en_curso",
-    "lat": "50.4480",
-    "lng": "30.5220",
-    "fuentes": [
-      {
-        "nombre": "UA.News - Protests in support of Fedorov continuing for a second day in several cities across Ukraine (17 July 2026)",
-        "url": "https://ua.news/en/ukraine/u-kilkokh-mistakh-ukrayini-drugii-den-trivaiut-aktsiyi-na-pidtrimku-fedorova"
-      },
-      {
-        "nombre": "Euromaidan Press - Russo-Ukrainian war, day 1604: Protests fill Ukraine's streets over Fedorov's firing (17 July 2026)",
-        "url": "https://euromaidanpress.com/2026/07/17/russo-ukrainian-war-day-1604/"
-      },
-      {
-        "nombre": "BBC - Zelensky's removal of popular defence minister sparks protests in Ukraine (16 July 2026)",
-        "url": "https://www.bbc.com/news/articles/cdx76069n3do"
-      },
-      {
-        "nombre": "Al Jazeera - Hundreds protest in Kyiv over Zelenskyy's dismissal of defence minister (16 July 2026)",
-        "url": "https://www.aljazeera.com/news/2026/7/16/hundreds-protest-in-kyiv-over-zelenskyys-dismissal-of-defence-minister"
-      },
-      {
-        "nombre": "Kyiv Independent - Thousands rally in Kyiv, other cities against Defense Minister Fedorov's dismissal (16 July 2026)",
-        "url": "https://kyivindependent.com/thousands-rally-in-kyiv-other-cities-against-defense-minister-fedorovs-dismissal-demand-reappointment/"
-      },
-      {
-        "nombre": "112.ua - Dismissal of Defense Minister Fedorov triggers mass protests in Ukraine (17 July 2026)",
-        "url": "https://112.ua/en/zvilnenna-ministra-oboroni-fedorova-spricinilo-masovi-protesti-v-ukraini-175722"
-      }
-    ],
-    "createdAt": "2026-07-17T11:51:10.000Z",
-    "updatedAt": "2026-07-18T01:07:47Z"
-  },
-  {
-    "id": 891,
-    "seccion": "protestas_internacionales",
-    "pais": "Pakistán (Cashmir administrado por Pakistán)",
-    "bandera": "🇵🇰",
-    "hora": "varias",
-    "fecha": "2026-07-18",
-    "lugar": "Rawalakot, Poonch — Azad Kashmir; marcha hacia Muzaffarabad prevista para el 21 de julio",
-    "tipoAccion": "rebelión civil masiva contra ocupación militar",
-    "organizaciones": [
-      "Joint Awami Action Committee (JAAC)",
-      "Líderes tribales de Poonch",
-      "Comités de resistencia locales",
-      "Mujeres y niños de la región"
-    ],
-    "motivo": "Día 43 de la rebelión civil más grande en la historia de Cashmir administrado por Pakistán. Decenas de miles de manifestantes se reunieron en Eidgah Ground, Rawalakot, desafiando al establecimiento militar pakistaní. Los manifestantes denuncian la muerte de al menos 73 ciudadanos desde el 5 de junio, la confiscación de 56 cuerpos por parte del ejército, y el secuestro de 219 heridos directamente de camas de hospital. El líder Sardar Aman Khan declaró que la región es 'territorio ocupado, no disputado' y emitió un ultimátum al gobierno pakistaní. La JAAC pausó la marcha hacia Muzaffarabad como gesto de buena voluntad; la marcha está prevista para el 21 de julio. La Unión Europea pidió una investigación independiente antes de las elecciones regionales del 27 de julio.",
-    "status": "en_curso",
-    "lat": "33.8697",
-    "lng": "73.7665",
-    "fuentes": [
-      {
-        "nombre": "ABP Live - 'No General Is Bigger Than Public': Protesters Escalate Challenge To Pakistan Military In PoK (17 July 2026)",
-        "url": "https://news.abplive.com/news/world/pok-protests-no-general-is-bigger-than-public-protesters-escalate-challenge-to-pakistan-military-1856902"
-      },
-      {
-        "nombre": "Al Jazeera - Protest in Pakistan's Kashmir stalls after nine killed in clashes (15 July 2026)",
-        "url": "https://www.aljazeera.com/news/2026/7/15/protest-in-pakistans-kashmir-stalls-after-nine-killed-in-clashes"
-      },
-      {
-        "nombre": "NDTV - Pakistan-Occupied Kashmir PoK Neither 'Azad' Nor 'Disputed' But 'Occupied': Local Leader At Rally (15 July 2026)",
-        "url": "https://www.ndtv.com/world-news/pakistan-occupied-kashmir-pok-neither-azad-nor-disputed-but-occupied-local-leader-at-rally-11775772"
-      },
-      {
-        "nombre": "Business Today - PoK Protests: 1.5 Lakh March Towards Muzaffarabad (16 July 2026)",
-        "url": "https://www.businesstoday.in/bt-tv/whats-hot/video/pok-protests-1-5-lakh-march-towards-muzaffarabad-as-anger-against-pakistan-grows-543342-2026-07-16"
-      },
-      {
-        "nombre": "Yes Punjab News - PoK unrest: JAAC pauses long march till July 21, gives Pakistan final warning (16 July 2026)",
-        "url": "https://yespunjab.com/pok-unrest-jaac-pauses-long-march-till-july-21-gives-pakistan-final-warning/"
-      }
-    ],
-    "createdAt": "2026-07-17T11:51:10.000Z",
-    "updatedAt": "2026-07-18T01:07:47Z"
+    "updatedAt": "2026-07-18T04:00:52Z"
   },
   {
     "id": 893,
@@ -195,7 +102,7 @@
       }
     ],
     "createdAt": "2026-07-17T13:22:02.000Z",
-    "updatedAt": "2026-07-18T01:07:47Z"
+    "updatedAt": "2026-07-18T04:00:52Z"
   },
   {
     "id": 901,
@@ -237,7 +144,7 @@
       }
     ],
     "createdAt": "2026-07-17T17:36:49.000Z",
-    "updatedAt": "2026-07-18T01:07:47Z"
+    "updatedAt": "2026-07-18T04:00:52Z"
   },
   {
     "id": 903,
@@ -283,94 +190,7 @@
       }
     ],
     "createdAt": "2026-07-17T19:03:16.000Z",
-    "updatedAt": "2026-07-18T01:07:47Z"
-  },
-  {
-    "id": 905,
-    "seccion": "protestas_internacionales",
-    "pais": "Cuba",
-    "bandera": "🇨🇺",
-    "hora": "varias",
-    "fecha": "2026-07-18",
-    "lugar": "El Vedado, La Habana — también otros barrios de La Habana (Centro Habana, Santos Suárez, San Miguel del Padrón)",
-    "tipoAccion": "cacerolazo contra apagones",
-    "organizaciones": [
-      "Vecinos de El Vedado",
-      "Movimiento San Isidro",
-      "Colectivos de artistas y escritores",
-      "Opositores civiles",
-      "Familiares de presos políticos del 11J"
-    ],
-    "motivo": "Cacerolazos nocturnos y diurnos en El Vedado y otros barrios de La Habana contra la crisis energética sin precedentes en Cuba. Los vecinos de El Vedado, a pocas cuadras de la Plaza de la Revolución, golpearon calderos y salieron a las calles para protestar contra apagones de 20 a 30+ horas diarias en el quinto apagón total del año. Los manifestantes corean 'Libertad', 'Patria y Vida' y '¡Corriente y comida!'. Cuba prevé déficits de generación superiores a 2.000 MW. La termoeléctrica Antonio Guiteras acumula 15 averías en lo que va de año. Cuba lleva sin crudo venezolano desde noviembre de 2025, sin petróleo ruso desde finales de abril de 2026, y México suspendió sus envíos en enero de 2026. El Observatorio Cubano de Conflictos registró 1.133 protestas en abril de 2026, un 29,5% más que en abril de 2025.",
-    "status": "en_curso",
-    "lat": "23.1350",
-    "lng": "-82.3590",
-    "fuentes": [
-      {
-        "nombre": "CiberCuba - Cacerolazo en El Vedado tras más de 30 horas sin electricidad (17 July 2026)",
-        "url": "https://www.cibercuba.com/noticias/2026-07-17-u1-e199894-s27061-nid335332-cacerolazo-vedado-tras-30-horas-electricidad"
-      },
-      {
-        "nombre": "Cubanet - Vecinos vuelven a las calles en varios puntos de La Habana (17 July 2026)",
-        "url": "https://www.cubanet.org/cuatro-dias-sin-luz-vecinos-vuelven-a-las-calles-en-varios-puntos-de-la-habana/"
-      },
-      {
-        "nombre": "CubaHeadlines - Residents Protest in El Vedado After Enduring Over 30 Hours Without Power (17 July 2026)",
-        "url": "https://www.cubaheadlines.com/articles/335332"
-      },
-      {
-        "nombre": "CiberCuba - Cacerolazo en El Vedado a pleno día: vecinos salen a la calle tras tres días sin luz (3 June 2026)",
-        "url": "https://www.cibercuba.com/noticias/2026-06-03-u1-e135253-s27061-nid331036-cacerolazo-vedado-pleno-dia-vecinos-salen-calle-tras"
-      }
-    ],
-    "createdAt": "2026-07-17T20:26:29.000Z",
-    "updatedAt": "2026-07-18T01:07:47Z"
-  },
-  {
-    "id": 906,
-    "seccion": "protestas_internacionales",
-    "pais": "Irán",
-    "bandera": "🇮🇷",
-    "hora": "varias",
-    "fecha": "2026-07-18",
-    "lugar": "Tehran, Tabriz, Kermanshah, Shush, Ahvaz, Dezful, Rasht y otras ciudades — manifestaciones simultáneas en todo el país",
-    "tipoAccion": "huelgas y manifestaciones de trabajadores contra la guerra y la crisis económica",
-    "organizaciones": [
-      "Trabajadores de la fábrica de papel Chooka (Gilan)",
-      "Camioneros de Tabriz",
-      "Trabajadores de Tabriz Machine Manufacturing Company",
-      "Personal del Centro de Salud Islam-Abad-e Gharb",
-      "Obreros industriales de múltiples provincias",
-      "Colectivos de trabajadores"
-    ],
-    "motivo": "Huelgas y manifestaciones de trabajadores se extienden por múltiples provincias de Irán en el día 7 de los bombardeos estadounidenses contra infraestructura civil iraní (estaciones de ferrocarril, puentes, redes eléctricas). Los manifestantes vinculan sus demandas económicas con una crítica política más amplia, rechazando la narrativa belicista del régimen. El 15 de julio, trabajadores de la fábrica de papel Chooka en la provincia de Gilan obligaron al director ejecutivo a abandonar las instalaciones. El 12 de julio se reportaron al menos 15 concentraciones en Kermanshah, Shush, Ahvaz, Dezful, Tehran, Rasht y Tabriz. Los camioneros de Tabriz protestaron contra la explotación de las empresas de transporte y resistieron la intervención de fuerzas de seguridad con gas lacrimógeno. Los manifestantes corean 'Basta de belicismo — nuestras mesas están vacías' e 'Inflación y precios altos; no a la guerra y la destrucción'.",
-    "status": "en_curso",
-    "lat": "35.6892",
-    "lng": "51.3890",
-    "fuentes": [
-      {
-        "nombre": "Iran News Update - Protests Spread Across Iran as Workers Reject the Regime's War Narrative (16 July 2026)",
-        "url": "https://irannewsupdate.com/news/insider/protests-spread-across-iran-as-workers-reject-the-regimes-war-narrative/"
-      },
-      {
-        "nombre": "ACLED - Asia-Pacific Overview: July 2026 - Iran worker protests continue amid US strikes",
-        "url": "https://acleddata.com/update/asia-pacific-overview-july-2026"
-      },
-      {
-        "nombre": "The Guardian - Iran 17 July 2026: US hits civilian infrastructure as it expands strikes against Iran (17 July 2026)",
-        "url": "https://www.theguardian.com/world/iran"
-      },
-      {
-        "nombre": "GlobalSecurity.org - Iran War 2026 — Day 140 Update — 17 July 2026",
-        "url": "https://www.globalsecurity.org/military/ops/iran-war-oprep.htm"
-      },
-      {
-        "nombre": "Democracy Now - Headlines July 17, 2026: Iran's government says at least eight people killed as US carried out sixth straight day of attacks",
-        "url": "https://www.democracynow.org/2026/7/17/headlines"
-      }
-    ],
-    "createdAt": "2026-07-17T21:21:14.000Z",
-    "updatedAt": "2026-07-18T01:07:47Z"
+    "updatedAt": "2026-07-18T04:00:52Z"
   },
   {
     "id": 909,
@@ -404,6 +224,92 @@
       }
     ],
     "createdAt": "2026-07-18T00:54:03.000Z",
-    "updatedAt": "2026-07-18T01:07:47Z"
+    "updatedAt": "2026-07-18T04:00:52Z"
+  },
+  {
+    "id": 911,
+    "seccion": "protestas_internacionales",
+    "pais": "Reino Unido",
+    "bandera": "🇬🇧",
+    "hora": "12:00",
+    "fecha": "2026-07-18",
+    "lugar": "Russell Square a Whitehall/Downing Street, Londres — con conexiones desde Manchester, Liverpool, Birmingham, Coventry, Nottingham y otras ciudades",
+    "tipoAccion": "marcha nacional pro-Palestina — 'Tell the New PM: Stop the Genocide'",
+    "organizaciones": [
+      "Palestine Solidarity Campaign (PSC)",
+      "Friends of Al-Aqsa",
+      "Stop the War Coalition",
+      "Muslim Association of Britain",
+      "Palestinian Forum in Britain",
+      "Campaign for Nuclear Disarmament (CND)"
+    ],
+    "motivo": "Marcha nacional masiva de solidaridad con Palestina en Londres convocada tras la renuncia del primer ministro Keir Starmer, en parte por su apoyo a Israel. Cientos de miles de manifestantes marcharon desde Russell Square hasta Whitehall/Downing Street para exigir al próximo primer ministro que rompa con la 'bancarrota moral', tome medidas concretas incluyendo sanciones contra Israel y termine con el genocidio en Gaza. La marcha, una de las más multitudinarias desde el inicio del conflicto, contó con autobuses desde al menos 7 ciudades del Reino Unido. La Policía Metropolitana estableció condiciones de marcha con route confirmada por Whitehall. Es la continuación de la 'Summer of Action for Gaza' que ha visto movilizaciones mensuales en Londres desde 2024.",
+    "status": "en_curso",
+    "lat": "51.5217",
+    "lng": "-0.1272",
+    "fuentes": [
+      {
+        "nombre": "Palestine Solidarity Campaign - National March for Palestine: Tell the New PM - End the Genocide (18 July 2026)",
+        "url": "https://palestinecampaign.org/events/national-march-for-palestine-tell-the-new-pm-end-the-genocide/"
+      },
+      {
+        "nombre": "CND UK - Tell the New PM: No to War / End the Genocide / Sanctions Now (8 July 2026)",
+        "url": "https://cnduk.org/events/tell-the-new-pm-no-to-war-end-the-genocide-sanctions-now-national-march-for-palestine"
+      },
+      {
+        "nombre": "Metropolitan Police - Conditions for National March for Palestine on Saturday, 18 July (17 July 2026)",
+        "url": "https://news.met.police.uk/news/conditions-for-national-march-for-palestine-on-saturday-18-july-511412"
+      },
+      {
+        "nombre": "Find a Protest - National March for Palestine, Russell Square, London (18 July 2026)",
+        "url": "https://www.findaprotest.info/event/london/h4Y7Mt9JBvhDb7QJfKy195"
+      },
+      {
+        "nombre": "Stop the War Coalition - National March for Palestine (18 July 2026)",
+        "url": "https://www.stopwar.org.uk/events/national-march-for-palestine-4/"
+      }
+    ],
+    "createdAt": "2026-07-18T03:52:51.000Z",
+    "updatedAt": "2026-07-18T04:00:52Z"
+  },
+  {
+    "id": 913,
+    "seccion": "protestas_internacionales",
+    "pais": "Global (Estados Unidos, Canadá, Alemania, otros)",
+    "bandera": "🌍",
+    "hora": "varias",
+    "fecha": "2026-07-18",
+    "lugar": "Decenas de ciudades en múltiples países — San José, Lyndhurst, Devon, Owings Mills, Dedham, Long Beach (EE.UU.), y más",
+    "tipoAccion": "jornada global de protestas contra Tesla y Elon Musk — #TeslaTakedown",
+    "organizaciones": [
+      "#TeslaTakedown",
+      "Coalición de colectivos locales anti-Musk",
+      "Defend Democracy",
+      "NO KINGS movement"
+    ],
+    "motivo": "Jornada global de protestas semanales en concesionarios y showrooms de Tesla contra Elon Musk y su influencia política. El movimiento #TeslaTakedown, presente en más de 100 ubicaciones en EE.UU. y varios países, exige la caída de Musk ('Musk Must Fall') denunciando su acumulación de poder político a través de su fortuna Tesla, su rol en la destrucción de la democracia, la captura de agencias gubernamentales y su vínculo con agendas autoritarias. Las protestas del 18 de julio incluyen eventos en San José (Defend Democracy), Lyndhurst OH, Devon PA, Owings Mills MD ('Take Down the Oligarchs'), Dedham MA ('In solidarity with NO KINGS! NO WAR! NO ICE!'), Long Beach CA, y decenas más. El movimiento se financia con la presión accionaria: 'Tesla shareholders just approved a trillion dollar package for Elon. But whether he gets it is up to all of us.'",
+    "status": "en_curso",
+    "lat": "37.3382",
+    "lng": "-121.8863",
+    "fuentes": [
+      {
+        "nombre": "Action Network - #TeslaTakedown: Find events near you (July 18, 2026)",
+        "url": "https://actionnetwork.org/event_campaigns/teslatakedown"
+      },
+      {
+        "nombre": "Global Protest Tracker - US Anti-ICE Community Resistance Movement",
+        "url": "https://globalprotesttracker.com/"
+      },
+      {
+        "nombre": "Newsweek - National Day of Protest Against Data Centers on July 18 (9 July 2026)",
+        "url": "https://www.newsweek.com/national-day-of-protest-against-data-centers-on-july-18map-list-of-cities-12150084"
+      },
+      {
+        "nombre": "USA Today - Data center protests planned: What to know (16 July 2026)",
+        "url": "https://www.usatoday.com/story/news/environment/2026/07/16/data-center-protests-planned-what-to-know-about-these-developments/90943926007/"
+      }
+    ],
+    "createdAt": "2026-07-18T03:52:51.000Z",
+    "updatedAt": "2026-07-18T04:00:52Z"
   }
 ]
