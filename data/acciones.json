@@ -51,7 +51,7 @@
       }
     ],
     "createdAt": "2026-07-17T02:44:59.000Z",
-    "updatedAt": "2026-07-18T14:10:45Z"
+    "updatedAt": "2026-07-18T15:06:57Z"
   },
   {
     "id": 901,
@@ -93,17 +93,17 @@
       }
     ],
     "createdAt": "2026-07-17T17:36:49.000Z",
-    "updatedAt": "2026-07-18T14:10:45Z"
+    "updatedAt": "2026-07-18T15:06:57Z"
   },
   {
     "id": 903,
     "seccion": "protestas_internacionales",
     "pais": "India",
     "bandera": "🇮🇳",
-    "hora": "10:00",
+    "hora": "07:00",
     "fecha": "2026-07-18",
-    "lugar": "Jantar Mantar, Nueva Delhi",
-    "tipoAccion": "protesta masiva con huelga de hambre, apoyo campesino y operativo policial — Día 21 de huelga de hambre",
+    "lugar": "Jantar Mantar, Nueva Delhi — también Jadavpur University (Calcuta) y sedes en West Bengal",
+    "tipoAccion": "protesta masiva tras desalojo policial — Día 21 de huelga de hambre, Wangchuk hospitalizado a la fuerza, Dipke inicia huelga propia",
     "organizaciones": [
       "Cockroach Janta Party (CJP)",
       "Bharatiya Kisan Union (BKU) — Rakesh Tikait",
@@ -115,38 +115,46 @@
       "AISA (All India Students Association)",
       "Partidarios de Sonam Wangchuk"
     ],
-    "motivo": "Día 21 de la huelga de hambre indefinida de Sonam Wangchuk en Jantar Mantar, Nueva Delhi. La madrugada del 18 de julio, policías de civil irrumpieron y trasladaron forzosamente a Wangchuk al Hospital Safdarjung; el fundador de CJP Abhijeet Dipke fue detenido brevemente y luego anunció su propia huelga de hambre indefinida. Grupos estudiantiles (AISF, SFI, AISA) formaron cadenas humanas; la policía cargó con lathis y cortó la electricidad en el sitio. Dipke escaló las demandas exigiendo la renuncia del Primer Ministro Modi. Wangchuk ha perdido más de 9 kg y su salud entra en etapa crítica. La CJP convocó una marcha pacífica al Parlamento para el 20 de julio.",
+    "motivo": "Escalada masiva en el día 21 de huelga de hambre. A las 7 de la madrugada del 18 de julio, entre 20 y 25 policías de civil irrumpieron en el escenario de Jantar Mantar, cubrieron a Wangchuk con sábanas blancas y lo trasladaron por la fuerza al Hospital Safdarjung. El fundador de CJP Abhijeet Dipke fue golpeado, detenido brevemente e impedido de regresar al sitio; tras ser liberado, anunció su propia huelga de hambre indefinida. Los grupos estudiantiles AISF, SFI y AISA formaron cadenas humanas para proteger a otros huelguistas (Neha Bora, Ameen Amitoj y Manish Kumar), quienes han perdido entre 7.5 y 10.5 kg. La policía desplegó efectivos RAF y CRS, bloqueó todas las vías de acceso a Jantar Mantar e instaló inhibidores de señal. Las demandas se ampliaron: ahora exigen la renuncia del Primer Ministro Modi además de la del Ministro de Educación Pradhan. La marcha al Parlamento prevista para el 20 de julio se mantiene. Fuentes como The Indian Express revelaron que la operación fue planificada en tres capas por el nuevo jefe de policía Anurag Kumar, quien reemplazó al comisionado anterior el 17 de julio.",
     "status": "en_curso",
     "lat": "28.6245",
     "lng": "77.2167",
     "fuentes": [
       {
-        "nombre": "Indian Express - Sonam Wangchuk removed from Jantar Mantar on Day 21, taken to hospital; chaos erupts (18 July 2026)",
-        "url": "https://indianexpress.com/article/cities/delhi/sonam-wangchuk-jantar-mantar-police-operation-cjp-protest-hunger-strike-abhijeet-dipke-cockroach-janta-party-10792180/"
+        "nombre": "The Hindu - Sonam Wangchuk shifted to Safdarjung Hospital on 21st day of hunger strike (18 July 2026)",
+        "url": "https://www.thehindu.com/news/national/sonam-wangchuk-shifted-to-hospital-hunger-strike-abhijeet-dipke-jantar-mantar-july-18-2026/article71236976.ece"
       },
       {
-        "nombre": "Times of India - Wangchuk removed from Jantar Mantar on day 21 of hunger strike, taken to hospital (18 July 2026)",
-        "url": "https://timesofindia.indiatimes.com/india/sonam-wangchuk-removed-from-jantar-mantar-on-day-21-of-hunger-strike-taken-to-hospital-chaos-erupts/articleshow/132472531.cms"
+        "nombre": "The Hindu - CJP protesters claim police crackdown, denied access to Wangchuk (18 July 2026)",
+        "url": "https://www.thehindu.com/news/cities/Delhi/cjp-protesters-claim-police-crackdown-say-they-are-denied-access-to-activist-sonam-wangchuk/article71237283.ece"
       },
       {
-        "nombre": "Hindustan Times - Wangchuk hunger strike Day 21 live updates (18 July 2026)",
-        "url": "https://www.hindustantimes.com/india-news/sonam-wangchuk-hunger-strike-day-21-live-updates-cjp-protest-at-jantar-mantar-environmentalist-wangchuk-health-latest-101784336634328.html"
+        "nombre": "Newslaundry - 'Like a kidnapping': How Delhi Police forced Sonam Wangchuk out (18 July 2026)",
+        "url": "https://www.thenewsminute.com/news/like-a-kidnapping-how-delhi-police-forced-sonam-wangchuk-out-of-jantar-mantar"
       },
       {
-        "nombre": "New Indian Express - Police action against Wangchuk, Dipke sparks student protests (18 July 2026)",
-        "url": "https://www.newindianexpress.com/india/2026/Jul/18/police-action-against-wangchuk-dipke-sparks-student-protests-draws-opposition-criticism"
+        "nombre": "Scroll.in - CJP protest: Police force Sonam Wangchuk into hospital, Dipke begins hunger strike (18 July 2026)",
+        "url": "https://scroll.in/latest/1094360/delhi-police-says-sonam-wangchuk-shifted-to-hospital-under-hc-order-cjp-alleges-he-was-detained"
       },
       {
-        "nombre": "The Hindu - 'I will stay alive till July 20 at any cost': Wangchuk as fast enters Day 20 (17 July 2026)",
-        "url": "https://www.thehindu.com/news/national/i-will-stay-alive-till-july-20-at-any-cost-wangchuk-as-fast-enters-day-20/article71232868.ece"
+        "nombre": "AP News - Indian police forcibly hospitalize a prominent Cockroach Party activist (18 July 2026)",
+        "url": "https://www.click2houston.com/news/world/2026/07/18/indian-police-hospitalize-an-activist-whos-on-a-hunger-strike-for-education-reform/"
       },
       {
-        "nombre": "Times of India - 500 farmers join CJP protest at Jantar Mantar (17 July 2026)",
-        "url": "https://timesofindia.indiatimes.com/india/500-farmers-join-cjp-protest-sonam-wangchuk-gets-support-from-rakesh-tikait-kejriwal-at-packed-jantar-mantar/articleshow/132442721.cms"
+        "nombre": "New Indian Express - Delhi Police's first major action under new chief: Three-layer operation (18 July 2026)",
+        "url": "https://www.newindianexpress.com/states/delhi/2026/Jul/18/delhi-polices-first-major-action-under-new-chief-three-layer-operation-to-shift-wangchuk-from-jantar-mantar"
+      },
+      {
+        "nombre": "Times of India - Abhijeet Dipke breaks down, takes over hunger strike (18 July 2026)",
+        "url": "https://timesofindia.indiatimes.com/city/delhi/i-am-not-a-national-security-threat-abhijeet-dipke-breaks-down-takes-over-hunger-strike-as-sonam-wangchuk-is-shifted-to-hospital/articleshow/132475268.cms"
+      },
+      {
+        "nombre": "The Wire - Jantar Mantar Resonates With Anger (18 July 2026)",
+        "url": "https://m.thewire.in/article/rights/jantar-mantar-sonam-wangchuk-forcibly-moved-angry-protesters"
       }
     ],
     "createdAt": "2026-07-17T19:03:16.000Z",
-    "updatedAt": "2026-07-18T14:10:45Z"
+    "updatedAt": "2026-07-18T15:06:57Z"
   },
   {
     "id": 909,
@@ -167,8 +175,8 @@
     "lng": "-85.6206",
     "fuentes": [
       {
-        "nombre": "Reuters/The Star - U.S. data center protests go national as backlash grows, 125+ locations (18 July 2026)",
-        "url": "https://www.thestar.com.my/tech/tech-news/2026/07/18/us-data-center-protests-go-national-as-backlash-grows-"
+        "nombre": "The Straits Times / Reuters - US data centre protests go national as backlash grows (18 July 2026)",
+        "url": "https://www.straitstimes.com/world/united-states/us-data-centre-protests-go-national-as-backlash-grows"
       },
       {
         "nombre": "Newsweek - National Day of Protest Against Data Centers on July 18 — Map & List (9 July 2026)",
@@ -192,7 +200,7 @@
       }
     ],
     "createdAt": "2026-07-18T00:54:03.000Z",
-    "updatedAt": "2026-07-18T14:10:45Z"
+    "updatedAt": "2026-07-18T15:06:57Z"
   },
   {
     "id": 911,
@@ -238,7 +246,7 @@
       }
     ],
     "createdAt": "2026-07-18T03:52:51.000Z",
-    "updatedAt": "2026-07-18T14:10:45Z"
+    "updatedAt": "2026-07-18T15:06:57Z"
   },
   {
     "id": 913,
@@ -270,7 +278,7 @@
       }
     ],
     "createdAt": "2026-07-18T03:52:51.000Z",
-    "updatedAt": "2026-07-18T14:10:45Z"
+    "updatedAt": "2026-07-18T15:06:57Z"
   },
   {
     "id": 914,
@@ -285,7 +293,7 @@
       "Colectivos activistas de Venecia (mismos que protestaron la boda de Bezos)",
       "Stella Morion (organizadora)"
     ],
-    "motivo": "Cientos de manifestantes se concentraron en la cuenca de San Marcos contra la llegada del yate 'Boardwalk' de $450M del embajador de EE.UU. Tilman Fertitta, parte de su gira 'Coastal Diplomacy 250'. Los manifestantes chocaron brevemente con policías antidisturbios, lanzando pelotas de playa y juguetes inflables. Las pancartas leían 'Venezia non si USA' (Venecia no se usa) y 'Make America Read Again'. También se opusieron a los bombardeos estadounidenses sobre Irán y el aumento de precios de energía resultante. La protesta continúa la ola de movilizaciones en Venecia contra la captura turística y corporativa de la ciudad.",
+    "motivo": "Cientos de manifestantes se concentraron en la cuenca de San Marcos contra la llegada del yate 'Boardwalk' de $450M del embajador de EE.UU. Tilman Fertitta, parte de su gira 'Coastal Diplomacy 250'. Los manifestantes chocaron brevemente con policías antidisturbios, lanzando pelotas de playa y juguetes inflables. Las pancartas leían 'Venezia non si USA' (Venecia no se usa) y 'Make America Read Again'. También se opusieron a los bombardeos estadounidenses sobre Irán y el aumento de precios de energía resultante. La protesta continúa la ola de movilizaciones en Venecia contra la captura turística y corporativa de la ciudad. El diputado Angelo Bonelli (AVS) anunció que exigirá explicaciones al gobierno Meloni por el uso de medios públicos para escoltar el yate privado.",
     "status": "en_curso",
     "lat": "45.4371",
     "lng": "12.3358",
@@ -295,8 +303,12 @@
         "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/venice-protesters-rally-against-us-ambassadors-superyacht-tour"
       },
       {
-        "nombre": "Newser - Venetians Protest US Ambassador's Superyacht Tour",
-        "url": "https://www.newser.com/story/393062/venetians-protest-us-ambassadors-superyacht-tour.html"
+        "nombre": "El País - Protestas en Italia contra el crucero de lujo del embajador de EE UU (18 julio 2026)",
+        "url": "https://elpais.com/internacional/2026-07-18/protestas-en-italia-contra-el-crucero-de-lujo-del-embajador-de-ee-uu-para-celebrar-el-250-aniversario-de-su-pais.html"
+      },
+      {
+        "nombre": "CNN en Español - Venecia se prepara para protestas por la llegada del embajador de EE.UU. en un superyate (17 julio 2026)",
+        "url": "https://cnnespanol.cnn.com/2026/07/17/mundo/venecia-protestas-embajador-eeuu-superyate-reux"
       },
       {
         "nombre": "Eastern Herald - Fertitta 'Boardwalk' Venice Italy protests (18 July 2026)",
@@ -304,7 +316,7 @@
       }
     ],
     "createdAt": "2026-07-18T06:02:32.000Z",
-    "updatedAt": "2026-07-18T14:10:45Z"
+    "updatedAt": "2026-07-18T15:06:57Z"
   },
   {
     "id": 916,
@@ -346,7 +358,7 @@
       }
     ],
     "createdAt": "2026-07-18T06:02:32.000Z",
-    "updatedAt": "2026-07-18T14:10:45Z"
+    "updatedAt": "2026-07-18T15:06:57Z"
   },
   {
     "id": 918,
@@ -372,7 +384,7 @@
       }
     ],
     "createdAt": "2026-07-18T06:02:32.000Z",
-    "updatedAt": "2026-07-18T14:10:45Z"
+    "updatedAt": "2026-07-18T15:06:57Z"
   },
   {
     "id": 922,
@@ -412,7 +424,7 @@
       }
     ],
     "createdAt": "2026-07-18T08:17:52.000Z",
-    "updatedAt": "2026-07-18T14:10:45Z"
+    "updatedAt": "2026-07-18T15:06:57Z"
   },
   {
     "id": 926,
@@ -460,7 +472,7 @@
       }
     ],
     "createdAt": "2026-07-18T12:11:07.000Z",
-    "updatedAt": "2026-07-18T14:10:45Z"
+    "updatedAt": "2026-07-18T15:06:57Z"
   },
   {
     "id": 923,
@@ -504,7 +516,7 @@
       }
     ],
     "createdAt": "2026-07-18T09:54:55.000Z",
-    "updatedAt": "2026-07-18T14:10:45Z"
+    "updatedAt": "2026-07-18T15:06:57Z"
   },
   {
     "id": 925,
@@ -550,43 +562,129 @@
       }
     ],
     "createdAt": "2026-07-18T11:01:49.000Z",
-    "updatedAt": "2026-07-18T14:10:45Z"
+    "updatedAt": "2026-07-18T15:06:57Z"
   },
   {
-    "id": 924,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "tarde",
+    "id": 927,
+    "seccion": "protestas_internacionales",
+    "pais": "India (Dharamshala)",
+    "bandera": "🇮🇳",
+    "hora": "11:00",
     "fecha": "2026-07-18",
-    "lugar": "Polo Científico y Tecnológico, calle Godoy Cruz, Palermo, Ciudad Autónoma de Buenos Aires — frente al Ministerio de Ciencia y Tecnología",
-    "tipoAccion": "concentración masiva de investigadores y científicos — 'No al Cientificidio'",
+    "lugar": "Tsuglagkhang (Templo Tibetano) hasta Police Ground, Dharamshala, Himachal Pradesh, India",
+    "tipoAccion": "marcha de protesta masiva contra China — ~3.000 participantes",
     "organizaciones": [
-      "CONICET (autoconvocados)",
-      "Facultad de Ciencias Exactas y Naturales — UBA",
-      "Facultad de Ciencias Sociales — UBA",
-      "Facultad de Veterinaria — UBA",
-      "CNEA (Comisión Nacional de Energía Atómica)",
-      "INTA",
-      "ARSAT",
-      "Universidades nacionales",
-      "Organizaciones sociales"
+      "Tibetan Youth Congress",
+      "Tibetan Women's Association",
+      "Gu-Chu-Sum Movement of Tibet",
+      "National Democratic Party of Tibet",
+      "Students for a Free Tibet - India",
+      "International Tibet Network"
     ],
-    "motivo": "Miles de investigadores, científicos y becarios del CONICET se congregaron en el Polo Científico y Tecnológico de Palermo para protestar por el recorte presupuestario, los salarios atrasados, la falta de recursos para investigaciones y la reducción de becas. Manifestantes con estética de El Eternauta denunciaron que la Función Ciencia y Tecnología del Presupuesto Nacional cayó a 0.153% del PBI (debía ser 0.45% según la Ley de Financiamiento), los créditos para salarios caen 28.4% interanual y los de becas 22.7%. Exigieron el fin del desmantelamiento del CONICET, INTA y ARSAT, la entrega de subsidios y el diálogo con las autoridades nacionales.",
-    "status": "finalizada",
-    "lat": "-34.5833",
-    "lng": "-58.4200",
+    "motivo": "Unos 3.000 tibetanos exiliados celebraron una marcha de protesta en Dharamshala contra las políticas de China, organizada por seis grandes ONG tibetanas. La marcha rindió homenaje al mártir Lobga Rangzen, quien se inmoló frente a la sede de la ONU en Nueva York en protesta por la 'Ley de Unidad Étnica y Progreso' de China, que los tibetanos consideran un ataque a su identidad, idioma y cultura. Los participantes pidieron a la ONU y a la comunidad internacional que reconozcan el sacrificio de Rangzen, aborden la crisis de derechos humanos en Tíbet, rechacen la asimilación forzada de China y apoyen el derecho del pueblo tibetano a la libertad.",
+    "status": "en_curso",
+    "lat": "32.2196",
+    "lng": "76.3234",
     "fuentes": [
       {
-        "nombre": "Argentina Online - 'No al Cientificidio': el reclamo de miles de científicos del Conicet ante el recorte de presupuesto (18 julio 2026)",
-        "url": "https://argentinaonline.com.ar/nota/25989/no-al-cientificidio--el-reclamo-de-miles-de-cientificos-del-conicet-ante-el-recorte-de-presupuesto/"
+        "nombre": "Asianet Newsable - Tibetans in Dharamshala hold massive protest march against China (18 July 2026)",
+        "url": "https://newsable.asianetnews.com/world/tibetans-in-dharamshala-hold-massive-protest-march-against-china-articleshow-mzlozy9"
       },
       {
-        "nombre": "Infobae - La trinchera de los científicos: Unión por la Patria busca capitalizar la bronca del CONICET (18 julio 2026)",
-        "url": "https://visionpolitica.com.ar/nota/7972/la-trinchera-de-los-cientificos-union-por-la-patria-busca-capitalizar-la-bronca-del-conicet/"
+        "nombre": "NewKerala - Dharamshala Tibetans Rally Against China's Ethnic Unity Law (18 July 2026)",
+        "url": "https://www.newkerala.com/news/a/himachal-pradesh-tibetans-dharamshala-hold-protest-rally-against-910.htm"
       }
     ],
-    "createdAt": "2026-07-18T09:59:16.000Z",
-    "updatedAt": "2026-07-18T14:10:45Z"
+    "createdAt": "2026-07-18T14:52:01.000Z",
+    "updatedAt": "2026-07-18T15:06:57Z"
+  },
+  {
+    "id": 928,
+    "seccion": "protestas_internacionales",
+    "pais": "Etiopía",
+    "bandera": "🇪🇹",
+    "hora": "varias",
+    "fecha": "2026-07-18",
+    "lugar": "Meskel Square, Addis Ababa",
+    "tipoAccion": "concentración masiva pacífica contra reclutamiento forzado del TPLF en Tigray",
+    "organizaciones": [
+      "Tigray Peace and Change Council",
+      "Semret Party",
+      "Party Woledo Tigray",
+      "Arena Tigray for Democracy and Sovereignty",
+      "Enderta Seba"
+    ],
+    "motivo": "Miles de manifestantes se reunieron en Meskel Square en Addis Ababa para denunciar al Frente de Liberación del Pueblo Tigrino (TPLF) por reclutamiento forzado, movilización masiva, violencia y represión en la región de Tigray. Organizada por el Tigray Peace and Change Council (creado en mayo de 2026), la manifestación pacífica se realizó pese a la lluvia y el frío. Los participantes exigieron el fin inmediato del reclutamiento militar forzado de jóvenes, solicitaron al gobierno federal que aplique el Acuerdo de Paz de Pretoria, y denunciaron la represión continua. La marcha fue organizada por prominentes políticos tigrinos incluyendo al ex Jefe de Estado Mayor Tsadkan Gebretensae y Getachew Reda. El TPLF calificó la protesta como una iniciativa al servicio del gobierno federal.",
+    "status": "en_curso",
+    "lat": "9.0192",
+    "lng": "38.7525",
+    "fuentes": [
+      {
+        "nombre": "Fana Media Corporation - Mass Rally in Addis Ababa Denounces Defunct TPLF Group Over Forced Recruitment (18 July 2026)",
+        "url": "https://www.fanamc.com/english/%f0%9f%87%aa%f0%9f%87%b9-mass-rally-in-addis-ababa-denounces-defunct-tplf-group-over-forced-recruitment-violence-in-tigray-region/"
+      },
+      {
+        "nombre": "The Reporter Ethiopia - TPLF Slams Planned Addis Protest, Accuses Organizers Of Serving Federal Agenda (18 July 2026)",
+        "url": "https://www.thereporterethiopia.com/51929/"
+      }
+    ],
+    "createdAt": "2026-07-18T14:52:01.000Z",
+    "updatedAt": "2026-07-18T15:06:57Z"
+  },
+  {
+    "id": 929,
+    "seccion": "protestas_internacionales",
+    "pais": "Bangladesh",
+    "bandera": "🇧🇩",
+    "hora": "varias",
+    "fecha": "2026-07-18",
+    "lugar": "National Press Club, Dhaka",
+    "tipoAccion": "manifestación de comunidades minoritarias contra arresto de líder hindú",
+    "organizaciones": [
+      "Bangladesh Hindu-Buddhist-Christian Unity Council"
+    ],
+    "motivo": "Comunidades minoritarias de Bangladesh (hindúes, budistas y cristianos) se manifestaron masivamente frente al National Press Club en Dhaka para condenar el arresto de Haridas Chandra Tarani Das, un joven hindú detenido bajo cargos de lavado de dinero que los organizadores califican de fabricados para detener la construcción de una estatua de 81 pies del dios Ram en el distrito de Gaibandha. Líderes de las tres comunidades religiosas acusaron a las autoridades de apuntar selectivamente a minorías religiosas, citando más de 3.000 incidentes de violencia contra minorías en el último año, incluyendo 66 asesinatos y ataques a templos. India también elevó su preocupación instando a Dhaka a actuar contra elementos extremistas. Los organizadores amenazaron con movilizaciones a escala nacional si no se produce la liberación inmediata de Das.",
+    "status": "en_curso",
+    "lat": "23.7337",
+    "lng": "90.3934",
+    "fuentes": [
+      {
+        "nombre": "Times of India - Protests rock Dhaka as minority leaders condemn arrest of Hindu man building 81-ft Lord Ram statue (18 July 2026)",
+        "url": "https://timesofindia.indiatimes.com/world/south-asia/protests-rock-dhaka-as-minority-leaders-condemn-arrest-of-hindu-man-building-81-ft-lord-ram-statue/articleshow/132476371.cms"
+      },
+      {
+        "nombre": "Devdiscourse - Uproar in Dhaka: Minority Communities Protest Arrest of Hindu Leader (18 July 2026)",
+        "url": "https://www.devdiscourse.com/article/international/3952283-uproar-in-dhaka-minority-communities-protest-arrest-of-hindu-leader"
+      }
+    ],
+    "createdAt": "2026-07-18T14:52:01.000Z",
+    "updatedAt": "2026-07-18T15:06:57Z"
+  },
+  {
+    "id": 930,
+    "seccion": "protestas_internacionales",
+    "pais": "Yemen",
+    "bandera": "🇾🇪",
+    "hora": "varias",
+    "fecha": "2026-07-18",
+    "lugar": "Al-Sabeen Square, Sanaa — y cientos de plazas públicas en múltiples provincias",
+    "tipoAccion": "manifestaciones masivas en todo el país tras escalada militar con Arabia Saudita",
+    "organizaciones": [
+      "Ansar Allah (Houthis)",
+      "Supreme Political Council de Yemen",
+      "Yemeni Scholars Association"
+    ],
+    "motivo": "Manifestaciones masivas en todo Yemen siguiendo la escalada militar con Arabia Saudita. Miles se congregaron en la Plaza Al-Sabeen en la capital Sanaa, con manifestaciones similares en cientos de plazas públicas de múltiples provincias. Las protestas se producen días después de un ataque saudí contra el Aeropuerto Internacional de Sanaa, seguido de una operación de las Fuerzas Armadas yemeníes contra el Aeropuerto Abha dentro de Arabia Saudita. El presidente del Consejo Político Supremo, Mahdi al-Mashat, instó a los seguidores a responder a cualquier advertencia del líder de Ansar Allah, Abdul Malik al-Houthi. El jefe de la Asociación de Eruditos Yemeníes anunció que Yemen autorizó a al-Houthi a tomar las decisiones necesarias para defender al país y llamó a elevar el nivel de respuesta militar. Yemen también advirtió a todas las aerolíneas que eviten el espacio aéreo saudí mientras no se levante el bloqueo al Aeropuerto de Sanaa.",
+    "status": "en_curso",
+    "lat": "15.3694",
+    "lng": "44.1910",
+    "fuentes": [
+      {
+        "nombre": "Islam Times - Mass Demonstrations Held Across Yemen Following Escalation With Saudi Arabia (18 July 2026)",
+        "url": "https://www.islamtimes.com/en/news/1293071/mass-demonstrations-held-across-yemen-following-escalation-with-saudi-arabia"
+      }
+    ],
+    "createdAt": "2026-07-18T14:52:01.000Z",
+    "updatedAt": "2026-07-18T15:06:57Z"
   }
 ]
