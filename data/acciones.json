@@ -1,76 +1,185 @@
 [
   {
-    "id": 939,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "11:00",
+    "id": 941,
+    "seccion": "protestas_internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "12:00",
     "fecha": "2026-07-18",
-    "lugar": "Polo Científico y Tecnológico, calle Godoy Cruz, Palermo, Ciudad Autónoma de Buenos Aires",
-    "tipoAccion": "movilización de trabajadores y científicos del CONICET contra recortes presupuestarios y corte de becas",
+    "lugar": "Nueva sede del ICE en Washington D.C. y al menos 68 ciudades de Estados Unidos",
+    "tipoAccion": "Jornada Nacional de Acción 'ICE Out' contra agresiones y asesinatos cometidos por agentes de Inmigración y Control de Aduanas (ICE)",
     "organizaciones": [
-      "ATE CONICET",
-      "Junta Interna ATE CONICET",
-      "CCT Córdoba (defensa de CNEA)",
-      "Unión por la Patria (diputados nacionales)"
+      "Answer Coalition",
+      "50501",
+      "Valley Defense",
+      "coalición de organizaciones progresistas nacionales"
     ],
-    "motivo": "Trabajadores del CONICET nucleados en ATE se movilizaron frente al Polo Científico Tecnológico para exigir la prórroga de 379 becas posdoctorales vinculadas al ingreso a la Carrera del Investigador Científico (CIC) y la Carrera del Personal de Apoyo (CPA), y una recomposición salarial para el sector. Los investigadores denuncian una caída histórica del presupuesto de ciencia y tecnología al 0,14% del PBI, pérdida salarial del 40%, 2.400 profesionales que abandonaron el sistema científico, y el desmantelamiento de organismos como CONICET, CNEA, INTA e INTA. La movilización coincidió con la sesión del Directorio del CONICET, donde la mayoría (5 contra 3, con abstención del presidente Daniel Salamone) respaldó la continuidad de los 379 becarios, aunque la decisión final depende de la Jefatura de Gabinete de Diego Santilli. CCT Córdoba emitió un pronunciamiento en defensa de la CNEA tras los despidos de más de 60 trabajadores especializados.",
-    "status": "finalizada",
-    "lat": "-34.5766",
-    "lng": "-58.4340",
+    "motivo": "Más de 70 movilizaciones en al menos 68 ciudades de EE.UU. para exigir justicia por Lorenzo Salgado Araujo y Johan Sebastián Durán Guerrero, dos inmigrantes hispanos asesinados a tiros por agentes del ICE en la misma semana. Los manifestantes exigieron el fin del 'terror de ICE', la detención y enjuiciamiento de los agentes responsables, y el retiro de las fuerzas federales de las calles. Las protestas, parte de un Día Nacional de Acción, se realizaron frente a sedes del ICE, incluyendo la inauguración de la nueva sede en Washington D.C., con decenas de personas concentradas. Las movilizaciones se sumaron a meses de creciente oposición a las redadas y operativos de ICE, que han cobrado la vida de al menos 11 personas desde el inicio del segundo mandato de Trump.",
+    "status": "en curso",
+    "lat": "38.8977",
+    "lng": "-77.0365",
     "fuentes": [
       {
-        "nombre": "Argentina Online - 'No al Cientificidio': el reclamo de miles de científicos del Conicet ante el recorte de presupuesto (18 julio 2026)",
-        "url": "https://argentinaonline.com.ar/nota/25989/no-al-cientificidio--el-reclamo-de-miles-de-cientificos-del-conicet-ante-el-recorte-de-presupuesto/"
+        "nombre": "The Guardian - Thousands in US expected to protest against ICE, datacenters and voter suppression this weekend (18 julio 2026)",
+        "url": "https://www.theguardian.com/us-news/2026/jul/18/protests-this-weekend-ice-datacenters-voter-suppression"
       },
       {
-        "nombre": "El Sindicato - El Directorio del CONICET respaldó la continuidad de casi 400 becarios y crece el rechazo a los recortes en ciencia (18 julio 2026)",
-        "url": "https://elsindicato.com.ar/El-Directorio-del-CONICET-respaldo-la-continuidad-de-casi-400-becarios-y-crece-el-rechazo-a-los-recortes-en-ciencia-3985"
+        "nombre": "Univision - Movilizaciones contra ICE: siga en vivo las marchas y protestas de este sábado 18 de julio 2026",
+        "url": "https://www.univision.com/noticias/estados-unidos/ultimas-noticias-movilizaciones-contra-ice-siga-en-vivo-las-marchas-y-protestas-de-este-sabado-18-de-julio-2026"
       },
       {
-        "nombre": "Visión Política - La trinchera de los científicos: Unión por la Patria busca capitalizar la bronca del CONICET (18 julio 2026)",
-        "url": "https://visionpolitica.com.ar/nota/7972/la-trinchera-de-los-cientificos-union-por-la-patria-busca-capitalizar-la-bronca-del-conicet/"
-      },
-      {
-        "nombre": "APFDigital - Conicet: Con la abstención del presidente, autoridades del organismo respaldaron a 379 becarios y rechazaron despidos (17 julio 2026)",
-        "url": "https://www.apfdigital.com.ar/noticias/2026/07/17/463471-conicet-con-la-abstencion-del-presidente-autoridades-del-organismo-respaldaron-a-379-becarios-y-rechazaron-despidos"
+        "nombre": "Reuters - US data center protests go national as backlash grows (18 julio 2026) [menciona las protestas anti-ICE",
+        "url": "https://www.reuters.com/business/retail-consumer/us-data-center-protests-go-national-backlash-grows-2026-07-18/"
       }
     ],
-    "createdAt": "2026-07-18T19:02:08.000Z",
-    "updatedAt": "2026-07-18T20:14:27Z"
+    "createdAt": "2026-07-18T21:21:32.000Z",
+    "updatedAt": "2026-07-18T21:28:56Z"
   },
   {
-    "id": 940,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "17:00",
+    "id": 942,
+    "seccion": "protestas_internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "10:00",
     "fecha": "2026-07-18",
-    "lugar": "Plaza de Mayo, frente a la Casa Rosada, Ciudad Autónoma de Buenos Aires",
-    "tipoAccion": "acto y movilización de la Mesa Ecuménica y centrales sindicales contra el ajuste",
+    "lugar": "Al menos 125 ubicaciones en 40 estados de Estados Unidos, incluyendo Virginia, Texas, Georgia, California y Florida",
+    "tipoAccion": "Día Nacional de Protesta contra la expansión desregulada de centros de datos de inteligencia artificial",
     "organizaciones": [
-      "Mesa Ecuménica",
-      "CTA Autónoma",
-      "CTA de los Trabajadores",
-      "Servicio de Paz y Justicia",
-      "Movimiento Ecuménico por los Derechos Humanos (MEDH)",
-      "Adolfo Pérez Esquivel"
+      "Humans First",
+      "más de 140 grupos locales conservadores en 24 estados"
     ],
-    "motivo": "Jornada de cierre de la semana de 'Ayuno y Oración para despertar las conciencias' convocada por la Mesa Ecuménica. Cientos de personas se concentraron en Plaza de Mayo para exigir una gran Marcha Federal y un Paro Nacional para 'derrotar las políticas de Milei y los grupos económicos'. El acto tuvo discursos de Adolfo Pérez Esquivel, el secretario general de la CTA Hugo 'Cachorro' Godoy y el secretario general de la CTA Autónoma bonaerense Oscar de Isasi. Denunciaron el 'vaciamiento del Estado' y la crisis social, y pidieron soberanía, trabajo digno y justicia social. La jornada concluyó con una celebración religiosa y la distribución de alimentos producidos por la Unión de Trabajadores de la Tierra.",
-    "status": "finalizada",
-    "lat": "-34.6037",
-    "lng": "-58.3816",
+    "motivo": "Primera protesta nacional coordinada contra la expansión de centros de datos de IA en Estados Unidos, convocada por el movimiento conservador Humans First. Al menos 125 eventos en 40 estados denuncian el uso excesivo de agua, contaminación ambiental, aumento de costos de servicios públicos, pérdida de control comunitario sobre el desarrollo local, y riesgos de seguridad nacional asociados a la infraestructura de IA. Una encuesta de Gallup (mayo 2026) mostró que el 70% de los estadounidenses se opone a la construcción de centros de datos de IA en sus comunidades. Según Data Center Watch, al menos 75 proyectos de centros de datos valorados en más de 130 mil millones de dólares fueron bloqueados o retrasados en el primer trimestre de 2026.",
+    "status": "en curso",
+    "lat": "39.1157",
+    "lng": "-77.5636",
     "fuentes": [
       {
-        "nombre": "CTA Autónoma Provincia Buenos Aires - Movilización y acto en Plaza de Mayo junto a la Mesa Ecuménica (18 julio 2026)",
-        "url": "https://ctabuenosaires.org.ar/nota/9655/movilizacion-y-acto-en-plaza-de-mayo-junto-a-la-mesa-ecumenica-nbsp/"
+        "nombre": "Reuters - US data center protests go national as backlash grows (18 julio 2026)",
+        "url": "https://www.reuters.com/business/retail-consumer/us-data-center-protests-go-national-backlash-grows-2026-07-18/"
       },
       {
-        "nombre": "La Letra Chica - Una Plaza de Mayo colmada denunció el 'plan de asfixia' y la reivindicación de genocidas (18 julio 2026)",
-        "url": "https://laletrachica.com.ar/nota/24986/una-plaza-de-mayo-colmada-denuncio-el-plan-de-asfixia-y-la-reivindicacion-de-genocidas/"
+        "nombre": "Humans First - National Day of Data Center Protests (18 julio 2026)",
+        "url": "https://www.humansfirst.com/july-18-datacenters"
+      },
+      {
+        "nombre": "Crypto Briefing - Humans First plans nationwide protest against AI data centers on July 18 (18 junio 2026)",
+        "url": "https://cryptobriefing.com/humans-first-ai-data-center-protest-july"
+      },
+      {
+        "nombre": "Washington Examiner - What to know about upcoming national day of protest against data centers (12 julio 2026)",
+        "url": "https://www.washingtonexaminer.com/policy/technology/4642232/national-protest-data-center-humans-first-artificial-intelligence"
       }
     ],
-    "createdAt": "2026-07-18T20:11:07.000Z",
-    "updatedAt": "2026-07-18T20:14:27Z"
+    "createdAt": "2026-07-18T21:21:32.000Z",
+    "updatedAt": "2026-07-18T21:28:56Z"
+  },
+  {
+    "id": 943,
+    "seccion": "protestas_internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "12:00",
+    "fecha": "2026-07-18",
+    "lugar": "501 Pulliam St SW, Atlanta, Georgia (sede principal) y cientos de ubicaciones en casi todos los estados de EE.UU.",
+    "tipoAccion": "Rally 'Freedom Summer Atlanta' como evento insignia del fin de semana de acción 'Good Trouble Lives On' por derechos civiles y de voto",
+    "organizaciones": [
+      "Declaration for American Democracy",
+      "Transformative Justice Coalition",
+      "Indivisible",
+      "Black Voters Matter",
+      "National Urban League",
+      "Third Act Movement",
+      "American Constitution Society",
+      "Voters of Tomorrow"
+    ],
+    "motivo": "Evento insignia del fin de semana de acción 'Good Trouble Lives On' (17-19 de julio), en honor al legado del difunto congresista John Lewis. Casi 700 eventos en tres días incluyen teach-ins, registros masivos de votantes, fiestas comunitarias y sermones enfocados en participación cívica y derechos de voto. La movilización ocurre en un momento de crisis para los derechos de voto, marcado por una sentencia de la Corte Suprema que debilitó la Ley de Derecho al Voto y proyectos de ley que buscan prohibir el voto por correo e imponer nuevas exigencias de identificación. Organizadores estiman alcanzar a un cuarto de millón de personas a través de esfuerzos de educación y registro de votantes.",
+    "status": "en curso",
+    "lat": "33.7490",
+    "lng": "-84.3810",
+    "fuentes": [
+      {
+        "nombre": "Good Trouble Lives On - Sitio oficial del fin de semana de acción (17-19 julio 2026)",
+        "url": "https://www.goodtroubleliveson.org/"
+      },
+      {
+        "nombre": "USA Today - 'Good Trouble' rallies return to protest Trump policies (17 julio 2026)",
+        "url": "https://www.usatoday.com/story/news/politics/2026/07/17/good-trouble-rallies-return-to-protest-trump-policies/90935774007/"
+      },
+      {
+        "nombre": "The Guardian - Thousands in US expected to protest against ICE, datacenters and voter suppression this weekend (18 julio 2026)",
+        "url": "https://www.theguardian.com/us-news/2026/jul/18/protests-this-weekend-ice-datacenters-voter-suppression"
+      },
+      {
+        "nombre": "West Virginia Daily News - Local Group Joins National John Lewis Day of Action (9 julio 2026)",
+        "url": "https://wvdn.com/199941"
+      }
+    ],
+    "createdAt": "2026-07-18T21:21:32.000Z",
+    "updatedAt": "2026-07-18T21:28:56Z"
+  },
+  {
+    "id": 944,
+    "seccion": "protestas_internacionales",
+    "pais": "Israel",
+    "bandera": "🇮🇱",
+    "hora": "20:00",
+    "fecha": "2026-07-18",
+    "lugar": "Frente a la residencia del Primer Ministro, Jerusalén Occidental",
+    "tipoAccion": "Manifestación semanal contra el gobierno de Benjamin Netanyahu exigiendo el fin de la guerra en Gaza y elecciones anticipadas",
+    "organizaciones": [
+      "Movimiento de protesta liderado por Shikma Bressler",
+      "Brothers in Arms",
+      "organizaciones de la sociedad civil israelí"
+    ],
+    "motivo": "Manifestación del sábado por la noche en Jerusalén contra el gobierno de Benjamin Netanyahu, parte de una serie de protestas semanales que exigen el fin de la guerra en Gaza y Líbano, la liberación de rehenes, la renuncia de Netanyahu por cargos de corrupción, la anulación de la reforma judicial y el fin de las exenciones militares para ultraortodoxos. La líder de la protesta Shikma Bressler declaró que Netanyahu busca una 'monarquía eterna' y que perderá las próximas elecciones. Cientos de manifestantes portaron banderas israelíes y pancartas contra el gobierno frente a la residencia oficial del primer ministro.",
+    "status": "en curso",
+    "lat": "31.7683",
+    "lng": "35.2137",
+    "fuentes": [
+      {
+        "nombre": "Times of Israel - Protest leader Bressler tells Jerusalem demo that Netanyahu seeks 'eternal kingship,' will lose election (18 julio 2026)",
+        "url": "https://www.timesofisrael.com/liveblog_entry/protest-leader-bressler-tells-jerusalem-demo-that-netanyahu-seeks-eternal-kingship-will-lose-election/"
+      },
+      {
+        "nombre": "Alamy - 18 July 2026, Jerusalem: People hold placards and flags during a protest against Israeli Prime Minister Benjamin Netanyahu (18 julio 2026)",
+        "url": "https://www.alamy.com/18-july-2026-jerusalem-people-hold-placards-and-flags-during-a-protest-against-israeli-prime-minister-benjamin-netanyahu-and-his-government-near-the-prime-ministers-residence-in-jerusalem-photo-jamal-awaddpa-image741630310.html"
+      },
+      {
+        "nombre": "Reuters Connect - Protest against the Israeli government in West Jerusalem (18 julio 2026)",
+        "url": "https://www.reutersconnect.com/item/protest-against-the-israeli-government-in-west-jerusalem/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwQkpQUzZZ"
+      },
+      {
+        "nombre": "Haaretz - Hundreds of Israelis Protest Against the Netanyahu Government Across the Country (4 julio 2026)",
+        "url": "https://www.haaretz.com/israel-news/israel-politics/2026-07-04/ty-article/.premium/israelis-set-to-protest-across-the-country-against-netanyahu-govt/0000019f-2db1-d0b9-a3bf-bdbd25360000"
+      }
+    ],
+    "createdAt": "2026-07-18T21:21:32.000Z",
+    "updatedAt": "2026-07-18T21:28:56Z"
+  },
+  {
+    "id": 945,
+    "seccion": "protestas_internacionales",
+    "pais": "Reino Unido",
+    "bandera": "🇬🇧",
+    "hora": "12:00",
+    "fecha": "2026-07-18",
+    "lugar": "Russell Square, Londres",
+    "tipoAccion": "Marcha Nacional por Palestina exigiendo al nuevo primer ministro que ponga fin al genocidio en Gaza",
+    "organizaciones": [
+      "Palestine Solidarity Campaign (PSC)",
+      "coalición de organizaciones pro-palestinas del Reino Unido"
+    ],
+    "motivo": "Marcha nacional convocada por la Palestine Solidarity Campaign desde Russell Square hasta el centro de Londres, dirigida al nuevo primer ministro británico Andy Burnham (declarado líder del Partido Laborista el 17 de julio). Los manifestantes exigen que el gobierno ponga fin al genocidio en Gaza, suspenda las exportaciones de armas a Israel y reconozca el Estado palestino. La marcha se produce en un contexto de creciente presión internacional sobre el Reino Unido para actuar ante la crisis humanitaria en Gaza.",
+    "status": "en curso",
+    "lat": "51.5219",
+    "lng": "-0.1270",
+    "fuentes": [
+      {
+        "nombre": "Palestine Solidarity Campaign - National March for Palestine: Tell the new PM - End the genocide (18 julio 2026)",
+        "url": "https://palestinecampaign.org/events/national-march-for-palestine-tell-the-new-pm-end-the-genocide/"
+      }
+    ],
+    "createdAt": "2026-07-18T21:21:32.000Z",
+    "updatedAt": "2026-07-18T21:28:56Z"
   }
 ]
