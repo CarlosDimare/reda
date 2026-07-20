@@ -57,7 +57,7 @@
       }
     ],
     "createdAt": "2026-07-20T01:06:11.000Z",
-    "updatedAt": "2026-07-20T20:31:10Z"
+    "updatedAt": "2026-07-20T21:48:52Z"
   },
   {
     "id": 1002,
@@ -98,7 +98,7 @@
       }
     ],
     "createdAt": "2026-07-20T01:06:11.000Z",
-    "updatedAt": "2026-07-20T20:31:10Z"
+    "updatedAt": "2026-07-20T21:48:52Z"
   },
   {
     "id": 1003,
@@ -136,7 +136,7 @@
       }
     ],
     "createdAt": "2026-07-20T01:06:11.000Z",
-    "updatedAt": "2026-07-20T20:31:10Z"
+    "updatedAt": "2026-07-20T21:48:52Z"
   },
   {
     "id": 1005,
@@ -166,13 +166,10 @@
       }
     ],
     "createdAt": "2026-07-20T05:03:45.000Z",
-    "updatedAt": "2026-07-20T20:31:10Z"
+    "updatedAt": "2026-07-20T21:48:52Z"
   },
   {
     "id": 1006,
-    "version": 2,
-    "createdAt": "2026-07-03T05:08:52.000Z",
-    "updatedAt": "2026-07-20T20:31:10Z",
     "seccion": "protestas_internacionales",
     "pais": "Italia",
     "bandera": "🇮🇹",
@@ -184,7 +181,7 @@
       "RSA FAISA-CISAL"
     ],
     "motivo": "Huelga de cuatro horas de autobuses urbanos en Florencia por el sindicato RSA FAISA-CISAL en Autolinee Toscane. El paro está previsto entre las 19:00 y 23:00 h, pudiendo afectar y/o reducir el servicio del transporte público en ese horario.",
-    "status": "programada",
+    "status": "en curso",
     "lat": "43.7696",
     "lng": "11.2558",
     "fuentes": [
@@ -192,7 +189,9 @@
         "nombre": "Strike Tracker - Florence local public transport strike",
         "url": "https://striketracker.app/strikes-in-italy/transport-strike-florence-20-jul-2026"
       }
-    ]
+    ],
+    "createdAt": "2026-07-20T21:41:26.000Z",
+    "updatedAt": "2026-07-20T21:48:52Z"
   },
   {
     "id": 1007,
@@ -235,7 +234,7 @@
       }
     ],
     "createdAt": "2026-07-20T15:27:33.000Z",
-    "updatedAt": "2026-07-20T20:31:10Z"
+    "updatedAt": "2026-07-20T21:48:52Z"
   },
   {
     "id": 1008,
@@ -274,7 +273,7 @@
       }
     ],
     "createdAt": "2026-07-20T18:55:11.000Z",
-    "updatedAt": "2026-07-20T20:31:10Z"
+    "updatedAt": "2026-07-20T21:48:52Z"
   },
   {
     "id": 1009,
@@ -292,7 +291,7 @@
       "Masi Nayem (abogado)",
       "ciudadanos de Kyiv, Lviv, Kharkiv, Odesa, Dnipro y otras ciudades"
     ],
-    "motivo": "Las protestas continúan por quinto día consecutivo tras el despido del Ministro de Defensa Mykhailo Fedorov el 15 de julio por parte del presidente Volodymyr Zelensky. Los manifestantes exigen la reversión de la decisión, la destitución del Comandante en Jefe Oleksandr Syrskyi y la continuación de las reformas militares basadas en tecnología y drones. Fedorov acusó a Syrskyi de obstruir reformas y mantener un sistema de mando soviético. Los protestantes dieron un ultimátum al presidente hasta el24 de julio para tomar decisiones de personal, amenazando con una protesta indefinida si no se cumplen sus demandas. Las manifestaciones se han extendido a más de 15 ciudades ucranianas y solidaridad en Londres, Praga, Viena, Bruselas y Sídney.",
+    "motivo": "Las protestas continúan por quinto día consecutivo tras el despido del Ministro de Defensa Mykhailo Fedorov el 15 de julio por parte del presidente Volodymyr Zelensky. Los manifestantes exigen la reversión de la decisión, la destitución del Comandante en Jefe Oleksandr Syrskyi y la continuación de las reformas militares basadas en tecnología y drones. Fedorov acusó a Syrskyi de obstruir reformas y mantener un sistema de mando soviético. Los protestantes dieron un ultimátum al presidente hasta el 24 de julio para tomar decisiones de personal, amenazando con una protesta indefinida si no se cumplen sus demandas. Las manifestaciones se han extendido a más de 15 ciudades ucranianas y solidaridad en Londres, Praga, Viena, Bruselas y Sídney.",
     "status": "en curso",
     "lat": "50.4501",
     "lng": "30.5234",
@@ -319,6 +318,6 @@
       }
     ],
     "createdAt": "2026-07-20T20:18:43.000Z",
-    "updatedAt": "2026-07-20T20:31:10Z"
+    "updatedAt": "2026-07-20T21:48:52Z"
   }
 ]
