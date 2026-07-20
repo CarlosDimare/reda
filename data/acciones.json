@@ -57,7 +57,7 @@
       }
     ],
     "createdAt": "2026-07-20T01:06:11.000Z",
-    "updatedAt": "2026-07-20T17:07:00Z"
+    "updatedAt": "2026-07-20T19:01:13Z"
   },
   {
     "id": 1002,
@@ -98,7 +98,7 @@
       }
     ],
     "createdAt": "2026-07-20T01:06:11.000Z",
-    "updatedAt": "2026-07-20T17:07:00Z"
+    "updatedAt": "2026-07-20T19:01:13Z"
   },
   {
     "id": 1003,
@@ -136,7 +136,7 @@
       }
     ],
     "createdAt": "2026-07-20T01:06:11.000Z",
-    "updatedAt": "2026-07-20T17:07:00Z"
+    "updatedAt": "2026-07-20T19:01:13Z"
   },
   {
     "id": 1005,
@@ -166,13 +166,13 @@
       }
     ],
     "createdAt": "2026-07-20T05:03:45.000Z",
-    "updatedAt": "2026-07-20T17:07:00Z"
+    "updatedAt": "2026-07-20T19:01:13Z"
   },
   {
     "id": 1006,
     "version": 2,
     "createdAt": "2026-07-03T05:08:52.000Z",
-    "updatedAt": "2026-07-20T17:07:00Z",
+    "updatedAt": "2026-07-20T19:01:13Z",
     "seccion": "protestas_internacionales",
     "pais": "Italia",
     "bandera": "🇮🇹",
@@ -235,6 +235,45 @@
       }
     ],
     "createdAt": "2026-07-20T15:27:33.000Z",
-    "updatedAt": "2026-07-20T17:07:00Z"
+    "updatedAt": "2026-07-20T19:01:13Z"
+  },
+  {
+    "id": 1008,
+    "seccion": "protestas_internacionales",
+    "pais": "Indonesia",
+    "bandera": "🇮🇩",
+    "hora": "08:00",
+    "fecha": "2026-07-20",
+    "lugar": "Múltiples puntos de Yakarta Pusat, Indonesia (Kejaksaan Agung, Kantor OJK, Gambir)",
+    "tipoAccion": "Dos manifestaciones simultáneas en Yakarta Central como parte del movimiento 'Mosi Tidak Percaya' (Moci de Desconfianza) contra el gobierno Prabowo-Gibran",
+    "organizaciones": [
+      "BEM SI (Badan Eksekutif Mahasiswa Seluruh Indonesia)",
+      "consejos estudiantiles universitarios",
+      "organizaciones de la sociedad civil"
+    ],
+    "motivo": "Continuación de las protestas masivas iniciadas el 17 de julio bajo el movimiento 'Mosi Tidak Percaya' (Moci de Desconfianza) contra la dupla Prabowo Subianto-Gibran Rakabuming Raka. Dos puntos de manifestación en Yakarta Central: frente a la Fiscalía General (Kejaksaan Agung) y la Oficina de Servicios Financieros (OJK). La policía desplegó 706 efectivos y preparó ingeniería de tráfico. Las demandas incluyen: restaurar la soberanía de la sociedad civil, reformar completamente el sistema estatal y salvar la educación indonesia. Las protestas son impulsadas por la frustración pública con la dirección del liderazgo nacional, la desigualdad social, la erosión de la soberanía civil y la crisis económica. El gobierno de Prabowo enfrenta críticas por el programa de comidas gratuitas, el aumento de precios de combustible y el debilitamiento de la rupia.",
+    "status": "en curso",
+    "lat": "-6.1751",
+    "lng": "106.8650",
+    "fuentes": [
+      {
+        "nombre": "WartaKota - 2 Titik Demo di Jakarta Pusat, 20 Juli, Polisi Kerahkan 706 Personel",
+        "url": "https://wartakota.tribunnews.com/news/895734/2-titik-demo-di-jakarta-pusat-senin-20-juli-polisi-kerahkan-706-personel"
+      },
+      {
+        "nombre": "Tirto.id - Titik Aksi Demo Jakarta Hari Ini: Kejaksaan dan Kantor OJK",
+        "url": "https://tirto.id/titik-aksi-demo-jakarta-hari-ini-20-juli-hzWQ"
+      },
+      {
+        "nombre": "Tribun News - Awas Macet! Ada Demo Hari Ini 20 Juli 2026 di Gambir Jakarta Pusat",
+        "url": "https://style.tribunnews.com/news/376936/awas-macet-ada-demo-hari-ini-20-juli-2026-di-gambir-jakarta-pusat-cek-jalur-alternatifnya"
+      },
+      {
+        "nombre": "Wikipedia - 2025-2026 Indonesian protests",
+        "url": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Indonesian_protests"
+      }
+    ],
+    "createdAt": "2026-07-20T18:55:11.000Z",
+    "updatedAt": "2026-07-20T19:01:13Z"
   }
 ]
