@@ -57,7 +57,7 @@
       }
     ],
     "createdAt": "2026-07-20T01:06:11.000Z",
-    "updatedAt": "2026-07-20T19:01:13Z"
+    "updatedAt": "2026-07-20T20:31:10Z"
   },
   {
     "id": 1002,
@@ -98,7 +98,7 @@
       }
     ],
     "createdAt": "2026-07-20T01:06:11.000Z",
-    "updatedAt": "2026-07-20T19:01:13Z"
+    "updatedAt": "2026-07-20T20:31:10Z"
   },
   {
     "id": 1003,
@@ -136,7 +136,7 @@
       }
     ],
     "createdAt": "2026-07-20T01:06:11.000Z",
-    "updatedAt": "2026-07-20T19:01:13Z"
+    "updatedAt": "2026-07-20T20:31:10Z"
   },
   {
     "id": 1005,
@@ -166,13 +166,13 @@
       }
     ],
     "createdAt": "2026-07-20T05:03:45.000Z",
-    "updatedAt": "2026-07-20T19:01:13Z"
+    "updatedAt": "2026-07-20T20:31:10Z"
   },
   {
     "id": 1006,
     "version": 2,
     "createdAt": "2026-07-03T05:08:52.000Z",
-    "updatedAt": "2026-07-20T19:01:13Z",
+    "updatedAt": "2026-07-20T20:31:10Z",
     "seccion": "protestas_internacionales",
     "pais": "Italia",
     "bandera": "🇮🇹",
@@ -235,7 +235,7 @@
       }
     ],
     "createdAt": "2026-07-20T15:27:33.000Z",
-    "updatedAt": "2026-07-20T19:01:13Z"
+    "updatedAt": "2026-07-20T20:31:10Z"
   },
   {
     "id": 1008,
@@ -274,6 +274,51 @@
       }
     ],
     "createdAt": "2026-07-20T18:55:11.000Z",
-    "updatedAt": "2026-07-20T19:01:13Z"
+    "updatedAt": "2026-07-20T20:31:10Z"
+  },
+  {
+    "id": 1009,
+    "seccion": "protestas_internacionales",
+    "pais": "Ucrania",
+    "bandera": "🇺🇦",
+    "hora": "09:00",
+    "fecha": "2026-07-20",
+    "lugar": "Plaza Ivan Franko frente al Teatro Académico Nacional, Kyiv, Ucrania",
+    "tipoAccion": "Quinto día consecutivo de protestas masivas exigiendo la reversión del despido del Ministro de Defensa Mykhailo Fedorov y la destitución del Comandante en Jefe Oleksandr Syrskyi",
+    "organizaciones": [
+      "veteranos de las Fuerzas Armadas de Ucrania",
+      "activistas cívicos",
+      "Dmytro Koziatynskyi (ex paramédico de combate)",
+      "Masi Nayem (abogado)",
+      "ciudadanos de Kyiv, Lviv, Kharkiv, Odesa, Dnipro y otras ciudades"
+    ],
+    "motivo": "Las protestas continúan por quinto día consecutivo tras el despido del Ministro de Defensa Mykhailo Fedorov el 15 de julio por parte del presidente Volodymyr Zelensky. Los manifestantes exigen la reversión de la decisión, la destitución del Comandante en Jefe Oleksandr Syrskyi y la continuación de las reformas militares basadas en tecnología y drones. Fedorov acusó a Syrskyi de obstruir reformas y mantener un sistema de mando soviético. Los protestantes dieron un ultimátum al presidente hasta el24 de julio para tomar decisiones de personal, amenazando con una protesta indefinida si no se cumplen sus demandas. Las manifestaciones se han extendido a más de 15 ciudades ucranianas y solidaridad en Londres, Praga, Viena, Bruselas y Sídney.",
+    "status": "en curso",
+    "lat": "50.4501",
+    "lng": "30.5234",
+    "fuentes": [
+      {
+        "nombre": "Kyiv Post - IN PHOTOS: What Are Ukrainians Saying About Fedorov's Dismissal?",
+        "url": "https://www.kyivpost.com/post/80699"
+      },
+      {
+        "nombre": "Mezha.net - Protesters in Kyiv demand removal of Commander Syrsky and appointment of Mykhailo Fedorov by July 24",
+        "url": "https://mezha.net/eng/bukvy/db8f56f3_protesters_in_kyiv"
+      },
+      {
+        "nombre": "NBC News - Ukraine protests force Zelenskyy to choose between Fedorov, Syrskyi in Russia war",
+        "url": "https://www.nbcnews.com/world/ukraine/ukraine-protests-zelenskyy-fedorov-syrskyi-russia-war-military-rcna588322"
+      },
+      {
+        "nombre": "UPI - Amid grinding war, protesting Ukrainians still want their voices heard",
+        "url": "https://www.upi.com/Voices/2026/07/20/ukraine-amid-war-protestesting-Ukrainians-voices-heard/8101784556273/"
+      },
+      {
+        "nombre": "NV.ua - Ukraine protests enter fourth day over Fedorov's dismissal, Syrskyi's command",
+        "url": "https://english.nv.ua/nation/ukraine-protests-enter-fourth-day-over-fedorov-s-dismissal-syrskyi-s-command-50625658.html"
+      }
+    ],
+    "createdAt": "2026-07-20T20:18:43.000Z",
+    "updatedAt": "2026-07-20T20:31:10Z"
   }
 ]
