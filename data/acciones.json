@@ -49,7 +49,7 @@
       }
     ],
     "createdAt": "2026-07-20T01:06:11.000Z",
-    "updatedAt": "2026-07-20T05:11:46Z"
+    "updatedAt": "2026-07-20T08:28:12Z"
   },
   {
     "id": 1002,
@@ -99,7 +99,7 @@
       }
     ],
     "createdAt": "2026-07-20T01:06:11.000Z",
-    "updatedAt": "2026-07-20T05:11:46Z"
+    "updatedAt": "2026-07-20T08:28:12Z"
   },
   {
     "id": 1003,
@@ -141,7 +141,7 @@
       }
     ],
     "createdAt": "2026-07-20T01:06:11.000Z",
-    "updatedAt": "2026-07-20T05:11:46Z"
+    "updatedAt": "2026-07-20T08:28:12Z"
   },
   {
     "id": 1005,
@@ -171,6 +171,31 @@
       }
     ],
     "createdAt": "2026-07-20T05:03:45.000Z",
-    "updatedAt": "2026-07-20T05:11:46Z"
+    "updatedAt": "2026-07-20T08:28:12Z"
+  },
+  {
+    "id": 1006,
+    "seccion": "protestas_internacionales",
+    "pais": "Italia",
+    "bandera": "🇮🇹",
+    "hora": "19:00",
+    "fecha": "2026-07-20",
+    "lugar": "Florencia (Toscana), Italia",
+    "tipoAccion": "Huelga de autoubuses urbanos de Autolinee Toscane en Florencia (19:00-23:00)",
+    "organizaciones": [
+      "RSA FAISA-CISAL (Autolinee Toscane)"
+    ],
+    "motivo": "Huelga de cuatro horas en el transporte urbano por autobús en Florencia convocada por el sindicato RSA FAISA-CISAL dentro de la empresa Autolinee Toscane. El paro afecta la red de autobuses urbanos de la ciudad entre las 19:00 y las 23:00, pudiendo reducir o retrasar los servicios de transporte público de la tarde/noche. Registrada en el registro de huelgas del Ministerio de Transporte de Italia.",
+    "status": "programada",
+    "lat": "43.7696",
+    "lng": "11.2558",
+    "fuentes": [
+      {
+        "nombre": "Strike Tracker - Florence local public transport strike on 20 July 2026 (8 julio 2026)",
+        "url": "https://striketracker.app/strikes-in-italy/transport-strike-florence-20-jul-2026"
+      }
+    ],
+    "createdAt": "2026-07-20T08:23:33.000Z",
+    "updatedAt": "2026-07-20T08:28:12Z"
   }
 ]
