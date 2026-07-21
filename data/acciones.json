@@ -39,7 +39,7 @@
       }
     ],
     "createdAt": "2026-07-21T00:00:22.000Z",
-    "updatedAt": "2026-07-21T17:03:27Z"
+    "updatedAt": "2026-07-21T18:21:15Z"
   },
   {
     "id": 2002,
@@ -66,7 +66,7 @@
       }
     ],
     "createdAt": "2026-07-21T00:00:22.000Z",
-    "updatedAt": "2026-07-21T17:03:27Z"
+    "updatedAt": "2026-07-21T18:21:15Z"
   },
   {
     "id": 2004,
@@ -92,7 +92,7 @@
       }
     ],
     "createdAt": "2026-07-21T00:00:22.000Z",
-    "updatedAt": "2026-07-21T17:03:27Z"
+    "updatedAt": "2026-07-21T18:21:15Z"
   },
   {
     "id": 2005,
@@ -128,7 +128,7 @@
       }
     ],
     "createdAt": "2026-07-21T00:00:22.000Z",
-    "updatedAt": "2026-07-21T17:03:27Z"
+    "updatedAt": "2026-07-21T18:21:15Z"
   },
   {
     "id": 2006,
@@ -153,7 +153,7 @@
       }
     ],
     "createdAt": "2026-07-21T00:00:22.000Z",
-    "updatedAt": "2026-07-21T17:03:27Z"
+    "updatedAt": "2026-07-21T18:21:15Z"
   },
   {
     "id": 2007,
@@ -191,7 +191,7 @@
       }
     ],
     "createdAt": "2026-07-21T11:22:07.000Z",
-    "updatedAt": "2026-07-21T17:03:27Z"
+    "updatedAt": "2026-07-21T18:21:15Z"
   },
   {
     "id": 2008,
@@ -225,7 +225,7 @@
       }
     ],
     "createdAt": "2026-07-21T12:51:49.000Z",
-    "updatedAt": "2026-07-21T17:03:27Z"
+    "updatedAt": "2026-07-21T18:21:15Z"
   },
   {
     "id": 2009,
@@ -265,7 +265,7 @@
       }
     ],
     "createdAt": "2026-07-21T15:01:37.000Z",
-    "updatedAt": "2026-07-21T17:03:27Z"
+    "updatedAt": "2026-07-21T18:21:15Z"
   },
   {
     "id": 2010,
@@ -304,7 +304,7 @@
       }
     ],
     "createdAt": "2026-07-21T15:01:37.000Z",
-    "updatedAt": "2026-07-21T17:03:27Z"
+    "updatedAt": "2026-07-21T18:21:15Z"
   },
   {
     "id": 2011,
@@ -329,7 +329,7 @@
       }
     ],
     "createdAt": "2026-07-21T15:01:37.000Z",
-    "updatedAt": "2026-07-21T17:03:27Z"
+    "updatedAt": "2026-07-21T18:21:15Z"
   },
   {
     "id": 2012,
@@ -357,7 +357,7 @@
       }
     ],
     "createdAt": "2026-07-21T15:01:37.000Z",
-    "updatedAt": "2026-07-21T17:03:27Z"
+    "updatedAt": "2026-07-21T18:21:15Z"
   },
   {
     "id": 2013,
@@ -382,6 +382,32 @@
       }
     ],
     "createdAt": "2026-07-21T15:01:37.000Z",
-    "updatedAt": "2026-07-21T17:03:27Z"
+    "updatedAt": "2026-07-21T18:21:15Z"
+  },
+  {
+    "id": 2014,
+    "seccion": "protestas_internacionales",
+    "pais": "Israel",
+    "bandera": "🇮🇱",
+    "hora": "00:29",
+    "fecha": "2026-07-21",
+    "lugar": "Jerusalem (Bar-Ilan St, Haim Bar-Lev Blvd) y Beit Shemesh (Yehuda Hanasi Blvd), Israel",
+    "tipoAccion": "Protestas ultraortodoxas contra el reclutamiento militar: bloqueo de calles en Jerusalén y Beit Shemesh, y concentración frente a la casa del fiscal general en Tel Aviv",
+    "organizaciones": [
+      "comunidad jaredí",
+      "Hasidut Gur"
+    ],
+    "motivo": "Manifestantes bloquearon calles, lanzaron objetos y se negaron a cumplir órdenes de dispersión durante una ola de protestas contra el arresto de un yeshivá por evasión del servicio militar. Miembros de Gur también se reunieron frente a la casa del fiscal general.",
+    "status": "en curso",
+    "lat": "31.7683",
+    "lng": "35.2137",
+    "fuentes": [
+      {
+        "nombre": "Jerusalem Post - Haredi protests block Jerusalem roads, gather outside A-G's residence",
+        "url": "https://www.jpost.com/israel-news/article-903120"
+      }
+    ],
+    "createdAt": "2026-07-21T18:14:18.000Z",
+    "updatedAt": "2026-07-21T18:21:15Z"
   }
 ]
