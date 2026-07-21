@@ -40,10 +40,14 @@
       {
         "nombre": "Al Jazeera - Police attack Cockroach activists as thousands march on Indian parliament",
         "url": "https://www.aljazeera.com/news/2026/7/20/police-attack-cockroach-activists-as-thousands-march-on-indian-parliament"
+      },
+      {
+        "nombre": "Al Jazeera - India's cockroach protest movement halts marches after police violence",
+        "url": "https://www.aljazeera.com/news/2026/7/21/indias-cockroach-protest-movement-halts-marches-after-police-violence"
       }
     ],
     "createdAt": "2026-07-21T00:00:22.000Z",
-    "updatedAt": "2026-07-21T11:27:28Z"
+    "updatedAt": "2026-07-21T12:59:19Z"
   },
   {
     "id": 2002,
@@ -70,7 +74,7 @@
       }
     ],
     "createdAt": "2026-07-21T00:00:22.000Z",
-    "updatedAt": "2026-07-21T11:27:28Z"
+    "updatedAt": "2026-07-21T12:59:19Z"
   },
   {
     "id": 2004,
@@ -96,7 +100,7 @@
       }
     ],
     "createdAt": "2026-07-21T00:00:22.000Z",
-    "updatedAt": "2026-07-21T11:27:28Z"
+    "updatedAt": "2026-07-21T12:59:19Z"
   },
   {
     "id": 2005,
@@ -137,10 +141,14 @@
       {
         "nombre": "Albeu.com - 51 Days of Revolt: Citizens in front of Parliament",
         "url": "https://albeu.com/english/mps-dont-represent-us-51-days-of-revolt-for-ramas-resignation-citizens-protest-today-in-front-of-parliament/934142/"
+      },
+      {
+        "nombre": "Shteg.org - The day when Albanian anger took over Tirana",
+        "url": "https://shteg.org/en/the-day-when-albanian-anger-took-over-tirana/"
       }
     ],
     "createdAt": "2026-07-21T00:00:22.000Z",
-    "updatedAt": "2026-07-21T11:27:28Z"
+    "updatedAt": "2026-07-21T12:59:19Z"
   },
   {
     "id": 2006,
@@ -173,7 +181,7 @@
       }
     ],
     "createdAt": "2026-07-21T00:00:22.000Z",
-    "updatedAt": "2026-07-21T11:27:28Z"
+    "updatedAt": "2026-07-21T12:59:19Z"
   },
   {
     "id": 2007,
@@ -212,6 +220,57 @@
       }
     ],
     "createdAt": "2026-07-21T11:22:07.000Z",
-    "updatedAt": "2026-07-21T11:27:28Z"
+    "updatedAt": "2026-07-21T12:59:19Z"
+  },
+  {
+    "id": 2008,
+    "seccion": "protestas_internacionales",
+    "pais": "India",
+    "bandera": "🇮🇳",
+    "hora": "10:00",
+    "fecha": "2026-07-21",
+    "lugar": "Kisan Ghat, Delhi, India (con bloqueos en frontera Shambhu Punjab-Haryana)",
+    "tipoAccion": "Mahapanchayat masiva de agricultores contra el acuerdo comercial India-EEUU: miles de agricultores de 10 estados marchan hacia Delhi, enfrentan sellado de frontera Shambhu",
+    "organizaciones": [
+      "Desh Bachao Morcha",
+      "Kisan Mazdoor Sangharsh Committee (KMSC)",
+      "Bharatiya Kisan Union (BKU Charuni)",
+      "BKU Ekta Sangharsh",
+      "Kisan Mazdoor Morcha Punjab",
+      "Azaad Kisan Morcha",
+      "550 sindicatos agrícolas de toda India"
+    ],
+    "motivo": "Miles de agricultores de Punjab, Haryana, Himachal Pradesh, Rajasthan, Delhi, Uttar Pradesh, Uttarakhand, Madhya Pradesh, Maharashtra y Odisha se congregan en Kisan Ghat para exigir la cancelación del acuerdo comercial bilateral India-EEUU. Los agricultores temen que el acuerdo permita importaciones agrícolas subsidiadas estadounidenses que destruirían los medios de vida de los pequeños cultivadores. La policía de Haryana selló la frontera Shambhu con barricadas de hormigón y alambre de púas, impidiendo el paso de cientos de agricultores de Punjab. El líder Gurnam Singh Charuni fue detenido en Kurukshetra. Al menos 4 agricultores fueron detenidos en la frontera Singhu por la policía de Delhi. Los organizadores advirtieron que la movilización se intensificará si el gobierno no retira el acuerdo.",
+    "status": "en curso",
+    "lat": "28.6139",
+    "lng": "77.2090",
+    "fuentes": [
+      {
+        "nombre": "India Today - Punjab farmers head to Delhi for July 21 Mahapanchayat against India-US trade deal",
+        "url": "https://www.indiatoday.in/india/story/punjab-farmers-head-delhi-july-21-mahapanchayat-protest-india-us-trade-deal-2951952-2026-07-20"
+      },
+      {
+        "nombre": "News24 - Punjab Farmers' Mahapanchayat in Delhi Today: Shambhu border closed",
+        "url": "https://news24online.com/india/punjab-farmers-mahapanchayat-in-delhi-today-demand-india-us-trade-deal-be-scrapped/889411/"
+      },
+      {
+        "nombre": "RTV Online - Farmers' Delhi March Stopped at Shambhu Border over India-US Trade Deal",
+        "url": "https://rtvonline.com/english/amp/international/275586"
+      },
+      {
+        "nombre": "Business Upturn - Farmers march towards Delhi against proposed India-US trade deal, Shambhu border sealed",
+        "url": "https://businessupturn.com/nation/farmers-march-towards-delhi-against-proposed-india-us-trade-deal-shambhu-border-sealed/"
+      },
+      {
+        "nombre": "Swadesi News - Kisan Mahapanchayat: Punjab farmers stopped on way to Delhi as Haryana Police seals Shambhu border",
+        "url": "https://swadesi.com/news/kisan-mahapanchayat-punjab-farmers-stopped-on-way-to-delhi-as-haryana-mrueom7u"
+      },
+      {
+        "nombre": "News18 - Kisan Mahapanchayat: Delhi Police detain four Haryana farmers at Singhu border",
+        "url": "https://www.news18.com/agency-feeds/kisan-mahapanchayat-delhi-police-detain-four-haryana-farmers-at-singhu-border-10224966.html"
+      }
+    ],
+    "createdAt": "2026-07-21T12:51:49.000Z",
+    "updatedAt": "2026-07-21T12:59:19Z"
   }
 ]
