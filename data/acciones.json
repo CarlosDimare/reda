@@ -1,221 +1,164 @@
 [
   {
-    "id": 1001,
+    "id": 2001,
     "seccion": "protestas_internacionales",
     "pais": "India",
     "bandera": "🇮🇳",
-    "hora": "09:00",
-    "fecha": "2026-07-20",
-    "lugar": "Jantar Mantar hacia el Parlamento, Nueva Delhi, India",
-    "tipoAccion": "Marcha masiva 'Chalo Sansad' del CJP desde Jantar Mantar al Parlamento en el primer día de la Sesión Monzónica",
+    "hora": "06:00",
+    "fecha": "2026-07-21",
+    "lugar": "Jantar Mantar, Nueva Delhi, India",
+    "tipoAccion": "Día 2 de protesta tras la marcha violenta al Parlamento: CJP reocupó Jantar Mantar tras ser desalojado, sentada indefinida exigiendo renuncia del Ministro de Educación Dharmendra Pradhan",
     "organizaciones": [
       "Cockroach Janata Party (CJP)",
       "All India Students Federation (AISF)",
       "Students' Federation of India (SFI)",
       "All India Students' Association (AISA)",
       "Swaraj India",
-      "National Conference (NC)",
-      "Shiv Sena (UBT)",
       "partidos de oposición (Congress, AAP, TMC, CPI-M, SP)"
     ],
-    "motivo": "El CJP convoca la marcha 'Chalo Sansad' (Marcha al Parlamento) desde Jantar Mantar hasta el Parlamento de India, coincidiendo con el primer día de la Sesión Monzónica. Más de 50,000 personas se congregaron en Jantar Mantar pese a la lluvia intensa y al bloqueo policial. La Policía de Delhi utilizó gas lacrimógeno, lathicharge (cargas con bastones) y cerró 5 estaciones de metro. Se suspendió el servicio de internet móvil en zonas del centro de Delhi. Los manifestantes intentaron avanzar hacia el Parlamento pero fueron detenidos en múltiples barricadas. El fundador del CJP Abhijeet Dipke puso fin a su huelga de hambre a pedido de Sonam Wangchuk. Representantes del CJP se reunieron con el Ministro de Salud JP Nadda. El CJP exige la renuncia del Ministro de Educación Dharmendra Pradhan y reformas educativas amplias. Wangchuk, desde el hospital Safdarjung, escribió una carta manuscrita estableciendo condiciones para su huelga de hambre.",
+    "motivo": "Tras la marcha violenta del 20 de julio al Parlamento donde más de 118 policías resultaron heridos y 70 manifestantes fueron detenidos, los manifestantes de CJP reocuparon Jantar Mantar a medianoche. Abhijeet Dipke, Saurav Das, Ashutosh Ranka y Gitanjali Angmo continúan la sentada frente a Kerala House. El gobierno inició diálogos a través del Ministro JP Nadda, pero sin compromisos concretos. Sonam Wangchuk continúa en huelga de hambre (día 23) en el Hospital Safdarjung. Las demandas incluyen: renuncia de Pradhan, liberación de Wangchuk y compensación de 1 crore por cada estudiante que se suicidó. Las protestas de solidaridad se extendieron a Mumbai, Goa, Shillong, Guwahati, Dimapur y ciudades de Uttar Pradesh.",
     "status": "en curso",
     "lat": "28.6246",
     "lng": "77.2167",
     "fuentes": [
       {
-        "nombre": "BBC - CJP's parliament march: Thousands take to Delhi streets",
-        "url": "https://www.bbc.com/news/articles/cvg9w9dxd7lo"
+        "nombre": "Times Now - Janta Wins the Day as CJP Protesters Regroup at Jantar Mantar at Midnight",
+        "url": "https://www.timesnownews.com/india/cockroach-janata-party-janatar-mantar-protest-latest-updates-abhijeet-dipke-parliament-march-sonam-wangchuk-article-155143027"
       },
       {
-        "nombre": "The Wire - Internet Shut Near Jantar Mantar, Police Use Extraordinary Force",
-        "url": "https://m.thewire.in/article/rights/new-delhi-jantar-mantar-parliament-day-one-fast-hunger-strike-updates"
+        "nombre": "Rediff - Over 100 cops hurt, 70 protesters held as CJP's Parl march turns violent",
+        "url": "https://www.rediff.com/news/report/over-100-cops-hurt-70-protesters-held-as-cjps-parl-march-turns-violent/20260721.htm"
       },
       {
-        "nombre": "Times of India - Tear gas fired, protesters lathicharged",
-        "url": "https://timesofindia.indiatimes.com/india/tear-gas-fired-protesters-lathicharged-videos-capture-chaotic-scenes-from-cjps-sansad-chalo-march/articleshow/132512971.cms"
+        "nombre": "ThePrint - CJP alleges police excesses after crackdown, continues sit-in near Kerala House",
+        "url": "https://theprint.in/india/cjp-alleges-police-excesses-after-crackdown-continues-sit-in-near-kerala-house/2991590/"
       },
       {
-        "nombre": "Indian Express - Sonam Wangchuk's letter, teargas, talks with Centre",
-        "url": "https://indianexpress.com/article/india/sonam-wangchuk-hunger-strike-cjp-centre-sansad-chalo-march-today-updates-10794799/"
+        "nombre": "Scroll - CJP protest: From Shillong to Mumbai, solidarity demonstrations held across India",
+        "url": "https://scroll.in/latest/1094407/cjp-protest-from-shillong-to-mumbai-solidarity-demonstrations-held-across-india"
       },
       {
-        "nombre": "ABP News - Delhi Police Lob Tear Gas Shells As CJP Protestors Reach Parliament",
-        "url": "https://news.abplive.com/cities/cjp-protest-delhi-police-log-tear-gas-shells-as-protestors-reach-parliament-house-sonam-wangchuk-hunger-strike-1857503"
-      },
-      {
-        "nombre": "Zee News - CJP protestors near Parliament; Tear gas, additional security",
-        "url": "https://zeenews.india.com/india/cjp-protestors-reach-near-parliament-tear-gas-additional-security-forces-and-lathicharge-sansad-chalo-march-swells-3062037.html"
-      },
-      {
-        "nombre": "The Hindu - CJP protest in Delhi LIVE",
-        "url": "https://www.thehindu.com/news/national/cjp-protest-july-20-2026-cockroach-janata-party-jantar-mantar-parliament-march-sonam-wangchuk/article71242448.ece"
-      },
-      {
-        "nombre": "NBC News - India's Cockroach Janta Party movement grows",
-        "url": "https://www.nbcnews.com/video/india-s-cockroach-janta-party-movement-grows-as-thousands-of-protesters-gather-266938437968"
-      },
-      {
-        "nombre": "The Guardian - Tens of thousands of Cockroach movement protesters defy police with Delhi march",
-        "url": "https://www.theguardian.com/world/2026/jul/20/cockroach-janta-party-protest-march-sonam-wangchuk-india-parliament"
-      },
-      {
-        "nombre": "AFP/NAMPA - Indian police baton charge protesters marching to parliament",
-        "url": "https://www.nampa.org/text/22971296"
+        "nombre": "Al Jazeera - Police attack Cockroach activists as thousands march on Indian parliament",
+        "url": "https://www.aljazeera.com/news/2026/7/20/police-attack-cockroach-activists-as-thousands-march-on-indian-parliament"
       }
     ],
-    "createdAt": "2026-07-20T01:06:11.000Z",
-    "updatedAt": "2026-07-20T23:05:39Z"
+    "createdAt": "2026-07-21T00:00:22.000Z",
+    "updatedAt": "2026-07-21T00:05:43Z"
   },
   {
-    "id": 1002,
-    "seccion": "protestas_internacionales",
-    "pais": "Colombia",
-    "bandera": "🇨🇴",
-    "hora": "09:00",
-    "fecha": "2026-07-20",
-    "lugar": "Múltiples puntos de Bogotá, Colombia (destino: Plaza de Bolívar)",
-    "tipoAccion": "Múltiples marchas y plantones por el Día de la Independencia en apoyo a la defensa de reformas sociales y en oposición al gobierno entrante de Abelardo de la Espriella",
-    "organizaciones": [
-      "Pacto Histórico",
-      "Alianza por la Vida - Pacto Popular por la Defensa de Colombia",
-      "Movimiento M-19",
-      "Federación Colombiana de Educadores (Fecode)",
-      "CUT (Central Unitaria de Trabajadores)"
-    ],
-    "motivo": "Jornada de movilizaciones en el Día de la Independencia con siete actividades programadas, incluyendo marchas y plantones. El presidente Gustavo Petro conmemoró su despedida del cargo y convocó la defensa de las reformas sociales; el senador Iván Cepeda lideró el llamado a desobediencia civil. Una de las marchas culminó en la célebre Plaza de Bolívar. Las manifestaciones coincidieron con la instalación del Congreso y el desfile militar.",
-    "status": "en curso",
-    "lat": "4.6097",
-    "lng": "-74.0817",
-    "fuentes": [
-      {
-        "nombre": "Bogota.gov.co - Manifestaciones en Bogotá 20 de julio",
-        "url": "https://bogota.gov.co/mi-ciudad/gobierno/conoce-las-marchas-y-manifestaciones-en-bogota-lunes-20-de-julio-2026"
-      },
-      {
-        "nombre": "RCN Radio - Protestas y marchas en Bogotá del 15 al 20 de julio",
-        "url": "https://newsroom.rcnradio.com/colombia/protestas-y-manifestaciones-hoy-en-bogota-del-14-al-20-de-julio-estos-son-los-puntos-donde-habra-manifestaciones-y-posibles-afectaciones-viales"
-      },
-      {
-        "nombre": "El Espectador - Manifestaciones civiles, 20 de julio en Bogotá",
-        "url": "https://www.elespectador.com/bogota/manifestaciones-civiles-desfile-y-otras-novedades-en-la-agenda-del-20-de-julio-en-bogota/"
-      },
-      {
-        "nombre": "U.S. Embassy Colombia - Demonstration Alert: Nationwide (17 julio)",
-        "url": "https://co.usembassy.gov/demonstration-alert-nationwide-celebrations-and-possible-protests-july-15-2026/"
-      }
-    ],
-    "createdAt": "2026-07-20T01:06:11.000Z",
-    "updatedAt": "2026-07-20T23:05:39Z"
-  },
-  {
-    "id": 1003,
-    "seccion": "protestas_internacionales",
-    "pais": "Australia",
-    "bandera": "🇦🇺",
-    "hora": "09:00",
-    "fecha": "2026-07-20",
-    "lugar": "Mparntwe (Alice Springs), Territorio del Norte, Australia",
-    "tipoAccion": "Día final de la Convergencia Close Pine Gap - Sacred Land Back 2026",
-    "organizaciones": [
-      "AMAN - Anti Militarism Action Network",
-      "Arrernte Custodians",
-      "Mparntwe for Falastin",
-      "Free Palestine Melbourne",
-      "Australian Nuclear Free Alliance (ANFA)",
-      "Intervention Rollback Action Group"
-    ],
-    "motivo": "Tercer y último día de la Convergencia Close Pine Gap - Sacred Land Back (18-20 de julio). Centenares de activistas indígenas y antimilitaristas en tierras Arrernte de Alice Springs en contra de la base militar de inteligencia Pine Gap. Exigen el cierre de la base, ruptura de la alianza militar Australia-EEUU y el retorno de las tierras sagradas.",
-    "status": "en curso",
-    "lat": "-23.7000",
-    "lng": "133.8833",
-    "fuentes": [
-      {
-        "nombre": "Close Pine Gap - Sitio oficial",
-        "url": "https://closepinegap.org.au/info/"
-      },
-      {
-        "nombre": "Green Left - Close Pine Gap: Sacred Land Back Convergence",
-        "url": "https://www.greenleft.org.au/2026-07/event/close-pine-gap-sacred-land-back-convergence-2026"
-      },
-      {
-        "nombre": "8CCC Radio - Close This Base",
-        "url": "https://www.8ccc.com.au/news/make-the-world-a-more-peaceful-and-safe-place-its-time-we-closed-this-base/"
-      }
-    ],
-    "createdAt": "2026-07-20T01:06:11.000Z",
-    "updatedAt": "2026-07-20T23:05:39Z"
-  },
-  {
-    "id": 1005,
+    "id": 2002,
     "seccion": "protestas_internacionales",
     "pais": "India",
     "bandera": "🇮🇳",
-    "hora": "10:00",
-    "fecha": "2026-07-20",
-    "lugar": "Jantar Mantar, Nueva Delhi, India",
-    "tipoAccion": "Protesta del National Conference (NC) exigiendo la restauración del estado pleno de Jammu y Cachemira",
+    "hora": "11:00",
+    "fecha": "2026-07-21",
+    "lugar": "Koppal, Karnataka, India (fábrica de acero propuesta)",
+    "tipoAccion": "Convención masiva de agricultores (Mahapanchayat) contra la planta de acero privada propuesta y contaminación industrial",
     "organizaciones": [
-      "National Conference (NC)",
-      "partidos de oposición invitados transversalmente"
+      "Karnataka Rajya Raitha Sangha (KRRS)",
+      "Koppal District Bachao Andolana Samiti",
+      "Environment Protection Forum"
     ],
-    "motivo": "El National Conference organiza una protesta para exigir al gobierno central el cumplimiento de su promesa de restaurar el estado pleno de Jammu y Cachemira tras la abrogación del Artículo 370 en 2019. El viceprimer ministro Surinder Kumar Choudhary había confirmado la reunión del 20 de julio para recordar al Primer Ministro y Ministro del Interior la promesa incumplida.",
-    "status": "en curso",
-    "lat": "28.6246",
-    "lng": "77.2167",
+    "motivo": "Convención de agricultores convocada para marcar el 46º aniversario del histórico levantamiento campesino de Naragund-Navalgund. Exigen la cancelación de la planta de acero privada propuesta en Koppal, que pondría en peligro a 150,000 residentes de Koppal y Bhagyanagar. Más de 22 aldeas afectadas por contaminación de polvo llevan protestando desde febrero de 2025. También exigen la restauración del lago Basapur, ilegalmente entregado a la empresa de acero por 33 lakh de rupias.",
+    "status": "programado",
+    "lat": "15.3350",
+    "lng": "76.4600",
     "fuentes": [
       {
-        "nombre": "The News Mill - NC to hold July 20 protest",
-        "url": "https://thenewsmill.com/2026/07/nc-to-hold-july-20-protest-to-press-centre-on-jammu-and-kashmir-statehood-promise"
+        "nombre": "Times of India - July 21 Koppal farmers' convention to target steel plant",
+        "url": "https://timesofindia.indiatimes.com/city/hubballi/july-21-koppal-farmers-convention-to-target-steel-plant/articleshow/132421568.cms"
+      }
+    ],
+    "createdAt": "2026-07-21T00:00:22.000Z",
+    "updatedAt": "2026-07-21T00:05:43Z"
+  },
+  {
+    "id": 2003,
+    "seccion": "protestas_internacionales",
+    "pais": "Ucrania",
+    "bandera": "🇺🇦",
+    "hora": "20:00",
+    "fecha": "2026-07-21",
+    "lugar": "Plaza Ivan Franko frente al Teatro Académico Nacional, Kyiv, Ucrania + múltiples ciudades",
+    "tipoAccion": "Sexto día consecutivo de protestas exigiendo la reversión del despido del Ministro de Defensa Mykhailo Fedorov y la destitución del Comandante en Jefe Oleksandr Syrskyi",
+    "organizaciones": [
+      "veteranos de las Fuerzas Armadas de Ucrania",
+      "activistas cívicos",
+      "Dmytro Koziatynskyi (ex paramédico de combate)",
+      "Masi Nayem (abogado)",
+      "ciudadanos de Kyiv, Lviv, Kharkiv, Odesa, Dnipro, Ivano-Frankivsk, Mykolaiv, Cherkasy, Lutsk y otras ciudades"
+    ],
+    "motivo": "Las protestas continúan por sexto día consecutivo tras el despido del Ministro de Defensa Mykhailo Fedorov el 15 de julio. Los manifestantes exigen la reversión de la decisión, la destitución del Comandante en Jefe Syrskyi y la continuación de las reformas militares basadas en tecnología y drones. Los organizadores anunciaron una pausa de 3 días tras la protesta del 20 de julio, con un ultimátum al presidente hasta el 24 de julio para tomar decisiones de personal, amenazando con una protesta indefinida si no se cumplen sus demandas. Las manifestaciones se han extendido a más de 15 ciudades ucranianas y solidaridad en Londres, Praga, Viena, Bruselas y Sídney.",
+    "status": "en curso",
+    "lat": "50.4501",
+    "lng": "30.5234",
+    "fuentes": [
+      {
+        "nombre": "Kyiv Independent - Protesters give Zelensky until Friday as he weighs Syrskyi's dismissal",
+        "url": "https://kyivindependent.com/zelensky-weighing-syrskyi-dismissal-as-protesters-plan-final-rally-before-3-day-pause/"
       },
       {
-        "nombre": "The Hindu - CJP protest in Delhi LIVE",
-        "url": "https://www.thehindu.com/news/national/cjp-protest-jul-20-2026-cockroach-janata-party-jantar-mantar-parliament-march-sonam-wangchuk/article71242448.ece"
+        "nombre": "Censor.NET - Ukraine protests demand Fedorov's reinstatement, Syrskyi's ouster (Day 5 report)",
+        "url": "https://censor.net/en/news/4014513/ukraine-protests-demand-fedorov-s-reinstatement-syrskyi-s-ouster"
+      },
+      {
+        "nombre": "NBC News - Ukraine protests force Zelenskyy to choose between Fedorov, Syrsky",
+        "url": "https://www.nbcnews.com/world/ukraine/ukraine-protests-zelenskyy-fedorov-syrskyi-russia-war-military-rcna588322"
+      },
+      {
+        "nombre": "UNITED24 Media - Ukrainians Rally Nationwide for Fourth Day",
+        "url": "https://united24media.com/life-in-ukraine/ukrainians-rally-nationwide-for-fourth-day-demanding-fedorovs-return-and-army-reform-20889"
+      },
+      {
+        "nombre": "UPI - Amid grinding war, protesting Ukrainians still want their voices heard",
+        "url": "https://www.upi.com/Voices/2026/07/20/ukraine-amid-war-protestesting-Ukrainians-voices-heard/8101784556273/"
       }
     ],
-    "createdAt": "2026-07-20T05:03:45.000Z",
-    "updatedAt": "2026-07-20T23:05:39Z"
+    "createdAt": "2026-07-21T00:00:22.000Z",
+    "updatedAt": "2026-07-21T00:05:43Z"
   },
   {
-    "id": 1006,
+    "id": 2004,
     "seccion": "protestas_internacionales",
-    "pais": "Italia",
-    "bandera": "🇮🇹",
-    "hora": "19:00",
-    "fecha": "2026-07-20",
-    "lugar": "Florencia (Toscana), Italia",
-    "tipoAccion": "Huelga de autobuses urbanos de Autolinee Toscane (19:00-23:00)",
+    "pais": "Indonesia",
+    "bandera": "🇮🇩",
+    "hora": "09:00",
+    "fecha": "2026-07-21",
+    "lugar": "Kantor BPN Jakarta Pusat y kawasan Gambir, Yakarta Central, Indonesia",
+    "tipoAccion": "Manifestación de Forum Komunikasi Warga KWINI 8 Bersatu en la oficina de BPN Jakarta Pusat con traslado a Gambir",
     "organizaciones": [
-      "RSA FAISA-CISAL"
+      "Forum Komunikasi Warga KWINI 8 Bersatu",
+      "elementos de la sociedad civil"
     ],
-    "motivo": "Huelga de cuatro horas de autobuses urbanos en Florencia por el sindicato RSA FAISA-CISAL en Autolinee Toscane. El paro está previsto entre las 19:00 y 23:00 h, pudiendo afectar y/o reducir el servicio del transporte público en ese horario.",
-    "status": "en curso",
-    "lat": "43.7696",
-    "lng": "11.2558",
+    "motivo": "Acción de protesta programada para las 09:00 WIB frente a la oficina de BPN Jakarta Pusat, con traslado a la zona de Gambir alrededor de las 11:00 WIB. Es parte de las protestas continuas contra el gobierno Prabowo-Gibran que incluyen el movimiento 'Mosi Tidak Percaya' (Moci de Desconfianza). La policía desplegó efectivos adicionales y preparó ingeniería de tráfico para manejar la situación.",
+    "status": "programado",
+    "lat": "-6.1751",
+    "lng": "106.8650",
     "fuentes": [
       {
-        "nombre": "Strike Tracker - Florence local public transport strike",
-        "url": "https://striketracker.app/strikes-in-italy/transport-strike-florence-20-jul-2026"
+        "nombre": "TribunStyle - Jakarta Pusat Digoyang Aksi Demo Selasa 21 Juli 2026",
+        "url": "https://style.tribunnews.com/news/377046/jauhi-gambir-bpn-jakarta-pusat-digoyang-aksi-demo-selasa-21-juli-2026-jam-11-ikuti-rute-aman-ini"
       }
     ],
-    "createdAt": "2026-07-20T21:41:26.000Z",
-    "updatedAt": "2026-07-20T23:05:39Z"
+    "createdAt": "2026-07-21T00:00:22.000Z",
+    "updatedAt": "2026-07-21T00:05:43Z"
   },
   {
-    "id": 1007,
+    "id": 2005,
     "seccion": "protestas_internacionales",
     "pais": "Albania",
     "bandera": "🇦🇱",
-    "hora": "12:00",
-    "fecha": "2026-07-20",
-    "lugar": "Frente al Parlamento de Albania, Tirana, Albania",
-    "tipoAccion": "Día 51 de protestas consecutivas: concentración frente al Parlamento durante la sesión plenaria",
+    "hora": "18:00",
+    "fecha": "2026-07-21",
+    "lugar": "Frente a la Oficina del Primer Ministro, Tirana, Albania",
+    "tipoAccion": "Día 52 de protestas consecutivas de la Revolución Flamingo: marcha nocturna exigiendo renuncia del Primer Ministro Edi Rama",
     "organizaciones": [
       "movimiento ciudadano 'Revolución Flamingo'",
       "colectivos de la sociedad civil albanesa",
-      "activistas medioambientales (contra proyecto Zvërnec)"
+      "activistas medioambientales (contra proyecto Zvërnec)",
+      "diáspora albanesa"
     ],
-    "motivo": "la resistencia civil entra en su día 51 consecutivo. Miles de ciudadanos albaneses se reúnen durante la especial sesión, frente al Parlamento, para presentar su demanda a los diputados: la renuncia del Primer Ministro Edi Rama. Las protestas comenzaron en contra de un proyecto turístico vinculado a la familia Trump, pero se expandieron para exigir cambios políticos profundos.",
+    "motivo": "La resistencia civil entra en su día 52 consecutivo. Miles de ciudadanos albaneses se reúnen cada noche desde el 23 de mayo para marchar por Dëshmorët e Kombit Boulevard hacia la oficina del Primer Ministro. Las protestas comenzaron contra un proyecto turístico vinculado a Jared Kushner e Ivanka Trump en la laguna de Narta, pero se expandieron para exigir la renuncia de Rama, reformas políticas profundas y medidas contra la corrupción. El 20 de junio, más de 250,000 personas participaron en la mayor movilización hasta la fecha. El proyecto turístico ha sido suspendido temporalmente por presión de la UE.",
     "status": "en curso",
     "lat": "41.3275",
     "lng": "19.8187",
@@ -225,255 +168,56 @@
         "url": "https://albeu.com/english/mps-dont-represent-us-51-days-of-revolt-for-ramas-resignation-citizens-protest-today-in-front-of-parliament/934142/"
       },
       {
-        "nombre": "Albeu.com - 51 Days of Revolt: Albanians Demand Edi Rama's Resignation",
-        "url": "https://albeu.com/english/51-days-of-revolt-albanians-demand-edi-ramas-resignation-down-with-patronage-albania-demands-revolution/934138/"
+        "nombre": "Foreign Policy - Albania's Flamingo Revolution Against Billionaires and Autocrats",
+        "url": "https://foreignpolicy.com/2026/07/20/albania-flamingo-revolution-jared-kushner-sazan-island-resort/"
       },
       {
-        "nombre": "Albeu.com - Dutch newspaper on Tirana movement",
-        "url": "https://albeu.com/english/citizen-revolt-in-tirana-dutch-newspaper-reports-on-movement-seeking-edi-ramas-resignation/934415/"
+        "nombre": "Wikipedia - Flamingo Revolution",
+        "url": "https://en.wikipedia.org/wiki/Flamingo_Revolution"
       },
       {
-        "nombre": "Balkan Insight - Albanian protesters celebrate PM backtrack",
-        "url": "https://balkaninsight.com/2026/07/15/albanian-protesters-celebrate-as-pm-backtracks-on-controversial-environment-laws/"
+        "nombre": "Roya News - Thousands protest in Albania for 42nd night",
+        "url": "https://en.royanews.tv/news/71626"
       },
       {
-        "nombre": "ATA - Anti-Zvërnec 47th rally",
-        "url": "https://en.ata.gov.al/2026/07/16/anti-zvernec-project-protesters-stage-47th-consecutive-rally-in-tirana/"
+        "nombre": "Eurasia Review - Albania's Flamingo Revolution Tests The New Western Order",
+        "url": "https://www.eurasiareview.com/17072026-albanias-flamingo-revolution-tests-the-new-western-order-analysis/"
       }
     ],
-    "createdAt": "2026-07-20T15:27:33.000Z",
-    "updatedAt": "2026-07-20T23:05:39Z"
+    "createdAt": "2026-07-21T00:00:22.000Z",
+    "updatedAt": "2026-07-21T00:05:43Z"
   },
   {
-    "id": 1008,
+    "id": 2006,
     "seccion": "protestas_internacionales",
-    "pais": "Indonesia",
-    "bandera": "🇮🇩",
-    "hora": "08:00",
-    "fecha": "2026-07-20",
-    "lugar": "Múltiples puntos de Yakarta Pusat, Indonesia (Kejaksaan Agung, Kantor OJK, Gambir)",
-    "tipoAccion": "Dos manifestaciones simultáneas en Yakarta Central como parte del movimiento 'Mosi Tidak Percaya' (Moci de Desconfianza) contra el gobierno Prabowo-Gibran",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "00:00",
+    "fecha": "2026-07-21",
+    "lugar": "Múltiples ciudades de EE.UU. (Los Ángeles, San Francisco, San Diego, Austin, Boston, Cleveland, Las Vegas, Pittsburgh, Denver, Baltimore)",
+    "tipoAccion": "Huelga nacional de conductores de plataformas de transporte (Rideshare) y boicot de pasajeros contra Uber y Lyft",
     "organizaciones": [
-      "BEM SI (Badan Eksekutif Mahasiswa Seluruh Indonesia)",
-      "consejos estudiantiles universitarios",
-      "organizaciones de la sociedad civil"
+      "Rideshare Drivers United"
     ],
-    "motivo": "Continuación de las protestas masivas iniciadas el 17 de julio bajo el movimiento 'Mosi Tidak Percaya' (Moci de Desconfianza) contra la dupla Prabowo Subianto-Gibran Rakabuming Raka. Dos puntos de manifestación en Yakarta Central: frente a la Fiscalía General (Kejaksaan Agung) y la Oficina de Servicios Financieros (OJK). La policía desplegó 706 efectivos y preparó ingeniería de tráfico. Las demandas incluyen: restaurar la soberanía de la sociedad civil, reformar completamente el sistema estatal y salvar la educación indonesia. Las protestas son impulsadas por la frustración pública con la dirección del liderazgo nacional, la desigualdad social, la erosión de la soberanía civil y la crisis económica. El gobierno de Prabowo enfrenta críticas por el programa de comidas gratuitas, el aumento de precios de combustible y el debilitamiento de la rupia.",
+    "motivo": "Huelga nacional de 24 horas (de medianoche a medianoche) convocada por Rideshare Drivers United en 11 ciudades. Los conductores apagan sus aplicaciones y los pasajeros boicotean los servicios de Uber y Lyft. En Los Ángeles, la manifestación incluye reunión en Airplane Landing View Park, rally con oradores, marcha a LAXit y piquete. Las demandas incluyen regulación de las tarifas de la plataforma, reducción de comisiones y mejores condiciones laborales para los trabajadores de aplicaciones.",
     "status": "en curso",
-    "lat": "-6.1751",
-    "lng": "106.8650",
+    "lat": "34.0522",
+    "lng": "-118.2437",
     "fuentes": [
       {
-        "nombre": "WartaKota - 2 Titik Demo di Jakarta Pusat, 20 Juli, Polisi Kerahkan 706 Personel",
-        "url": "https://wartakota.tribunnews.com/news/895734/2-titik-demo-di-jakarta-pusat-senin-20-juli-polisi-kerahkan-706-personel"
+        "nombre": "Rideshare Drivers United - July 21st Rideshare Strike",
+        "url": "https://www.drivers-united.org/strike"
       },
       {
-        "nombre": "Tirto.id - Titik Aksi Demo Jakarta Hari Ini: Kejaksaan dan Kantor OJK",
-        "url": "https://tirto.id/titik-aksi-demo-jakarta-hari-ini-20-juli-hzWQ"
+        "nombre": "Rideshare Drivers United - Los Angeles July 21st Strike",
+        "url": "https://www.drivers-united.org/los-angeles-july-21st-strike"
       },
       {
-        "nombre": "Tribun News - Awas Macet! Ada Demo Hari Ini 20 Juli 2026 di Gambir Jakarta Pusat",
-        "url": "https://style.tribunnews.com/news/376936/awas-macet-ada-demo-hari-ini-20-juli-2026-di-gambir-jakarta-pusat-cek-jalur-alternatifnya"
-      },
-      {
-        "nombre": "Wikipedia - 2025-2026 Indonesian protests",
-        "url": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Indonesian_protests"
+        "nombre": "Rideshare Drivers United - Pittsburgh July 21 Strike",
+        "url": "https://www.drivers-united.org/pittsburg-july-21-strike"
       }
     ],
-    "createdAt": "2026-07-20T18:55:11.000Z",
-    "updatedAt": "2026-07-20T23:05:39Z"
-  },
-  {
-    "id": 1009,
-    "seccion": "protestas_internacionales",
-    "pais": "Ucrania",
-    "bandera": "🇺🇦",
-    "hora": "09:00",
-    "fecha": "2026-07-20",
-    "lugar": "Plaza Ivan Franko frente al Teatro Académico Nacional, Kyiv, Ucrania",
-    "tipoAccion": "Quinto día consecutivo de protestas masivas exigiendo la reversión del despido del Ministro de Defensa Mykhailo Fedorov y la destitución del Comandante en Jefe Oleksandr Syrskyi",
-    "organizaciones": [
-      "veteranos de las Fuerzas Armadas de Ucrania",
-      "activistas cívicos",
-      "Dmytro Koziatynskyi (ex paramédico de combate)",
-      "Masi Nayem (abogado)",
-      "ciudadanos de Kyiv, Lviv, Kharkiv, Odesa, Dnipro y otras ciudades"
-    ],
-    "motivo": "Las protestas continúan por quinto día consecutivo tras el despido del Ministro de Defensa Mykhailo Fedorov el 15 de julio por parte del presidente Volodymyr Zelensky. Los manifestantes exigen la reversión de la decisión, la destitución del Comandante en Jefe Oleksandr Syrskyi y la continuación de las reformas militares basadas en tecnología y drones. Fedorov acusó a Syrskyi de obstruir reformas y mantener un sistema de mando soviético. Los protestantes dieron un ultimátum al presidente hasta el 24 de julio para tomar decisiones de personal, amenazando con una protesta indefinida si no se cumplen sus demandas. Las manifestaciones se han extendido a más de 15 ciudades ucranianas y solidaridad en Londres, Praga, Viena, Bruselas y Sídney.",
-    "status": "en curso",
-    "lat": "50.4501",
-    "lng": "30.5234",
-    "fuentes": [
-      {
-        "nombre": "Kyiv Post - IN PHOTOS: What Are Ukrainians Saying About Fedorov's Dismissal?",
-        "url": "https://www.kyivpost.com/post/80699"
-      },
-      {
-        "nombre": "Mezha.net - Protesters in Kyiv demand removal of Commander Syrsky and appointment of Mykhailo Fedorov by July 24",
-        "url": "https://mezha.net/eng/bukvy/db8f56f3_protesters_in_kyiv"
-      },
-      {
-        "nombre": "NBC News - Ukraine protests force Zelenskyy to choose between Fedorov, Syrskyi in Russia war",
-        "url": "https://www.nbcnews.com/world/ukraine/ukraine-protests-zelenskyy-fedorov-syrskyi-russia-war-military-rcna588322"
-      },
-      {
-        "nombre": "UPI - Amid grinding war, protesting Ukrainians still want their voices heard",
-        "url": "https://www.upi.com/Voices/2026/07/20/ukraine-amid-war-protestesting-Ukrainians-voices-heard/8101784556273/"
-      },
-      {
-        "nombre": "NV.ua - Ukraine protests enter fourth day over Fedorov's dismissal, Syrskyi's command",
-        "url": "https://english.nv.ua/nation/ukraine-protests-enter-fourth-day-over-fedorovs-dismissal-syrskyis-command-50625658.html"
-      }
-    ],
-    "createdAt": "2026-07-20T20:18:43.000Z",
-    "updatedAt": "2026-07-20T23:05:39Z"
-  },
-  {
-    "id": 1010,
-    "seccion": "protestas_internacionales",
-    "pais": "México",
-    "bandera": "🇲🇽",
-    "hora": "16:00",
-    "fecha": "2026-07-20",
-    "lugar": "Alcaldía Cuauhtémoc, Ciudad de México, México (Secretaría de Gobernación, Abraham González 48, Col. Juárez)",
-    "tipoAccion": "Mitin del Congreso Nacional Indígena y el Movimiento de Regeneración Sindical en la Secretaría de Gobernación, con bloqueos y 12 plantones activos en el centro de la ciudad",
-    "organizaciones": [
-      "Congreso Nacional Indígena (CNI)",
-      "Movimiento de Regeneración Sindical",
-      "Concejo Indígena y Popular de Guerrero 'Emiliano Zapata' (CIPOG-EZ)",
-      "Asamblea Nacional por el Agua y la Vida",
-      "El Tekpatl",
-      "Radio Zapote"
-    ],
-    "motivo": "El Congreso Nacional Indígena y el Movimiento de Regeneración Sindical realizan un mitin en la Secretaría de Gobernación para exigir: cese de la criminalización, persecución y hostigamiento contra personas defensoras de derechos humanos y pueblos indígenas; liberación inmediata de un integrante del Concejo Indígena y Popular–Emiliano Zapata detenido en un retén militar en la carretera Acapulco–Pinotepa Nacional (municipio de San Marcos, Guerrero) el 17 de julio. La SSC-CDMX reportó para esta jornada 1 marcha, 6 concentraciones y 12 plantones activos. También se registró un bloqueo de transportistas en la autopista México-Puebla que fue liberado tras acuerdo.",
-    "status": "en curso",
-    "lat": "19.4285",
-    "lng": "-99.1335",
-    "fuentes": [
-      {
-        "nombre": "N+ - Bloqueo en CDMX Hoy: Zona Afectada por Manifestación de Congreso Indígena",
-        "url": "https://www.nmas.com.mx/ciudad-de-mexico/movilidad/bloqueos-hoy-cdmx-manifestacion-de-congreso-indigena-20-julio-2026-calles-cerradas/"
-      },
-      {
-        "nombre": "Milenio - Manifestaciones CdMx HOY 20 julio EN VIVO",
-        "url": "https://www.milenio.com/comunidad/bloqueos-manifestaciones-cdmx-en-vivo-hoy-20-julio-2026"
-      },
-      {
-        "nombre": "La Razón - Marchas y bloqueos en CDMX HOY 20 de julio",
-        "url": "https://www.razon.com.mx/ciudad/2026/07/20/marchas-y-bloqueos-en-cdmx-hoy-20-de-julio-que-manifestaciones-hay-y-que-calles-estan-cerradas/"
-      },
-      {
-        "nombre": "Sin Embargo - Caos vial en CdMx por marchas hoy lunes 20 de julio",
-        "url": "https://www.sinembargo.mx/4840875/alerta-vial-en-cdmx-20-de-julio-marcha-de-operadores-de-videojuegos-y-protestas/"
-      }
-    ],
-    "createdAt": "2026-07-20T22:57:52.000Z",
-    "updatedAt": "2026-07-20T23:05:39Z"
-  },
-  {
-    "id": 1011,
-    "seccion": "protestas_internacionales",
-    "pais": "Israel",
-    "bandera": "🇮🇱",
-    "hora": "18:00",
-    "fecha": "2026-07-20",
-    "lugar": "Frente a la Prisión Militar, Kfar Yona, centro de Israel",
-    "tipoAccion": "Protesta masiva de unas 25,000 personas de la comunidad jasídica Gerrer frente a la prisión militar tras el encarcelamiento de un estudiante de yeshivá por no presentarse al servicio militar",
-    "organizaciones": [
-      "Comunidad jasídica Gerrer (Gur)",
-      "Degel Hatorah - facción del partido UTJ",
-      "组织aciones ultraortodoxas"
-    ],
-    "motivo": "Unas 25,000 personas de la comunidad jasídica Gerrer se concentraron frente a la Prisión Militar cerca de Kfar Yona para protestar por el encarcelamiento de un estudiante de yeshivá que fue detenido y encarcelado tras no acudir a una citación de reclutamiento del IDF. Autobuses llegaron desde todo el país para transportar a los manifestantes. La protesta se produce en medio de una crisis creciente entre el gobierno israelí y la comunidad ultraortodoxa por el tema del reclutamiento militar obligatorio. El líder jasídico del faction Degel Hatorah del partido UTJ criticó a los religiosos sionistas por luchar en lo que calificó como 'guerras de asesinato' de Israel, lo que provocó una condena del Primer Ministro Netanyahu.",
-    "status": "en curso",
-    "lat": "32.3112",
-    "lng": "34.9149",
-    "fuentes": [
-      {
-        "nombre": "The Jerusalem Post - Hundreds of haredim protest outside military prison following draft dodger arrest",
-        "url": "https://www.jpost.com/israel-news"
-      },
-      {
-        "nombre": "The Yeshiva World - 25,000 Gerrer Chassidim protest outside Prison 10",
-        "url": "https://www.theyeshivaworld.com/news/general/2337804/live-blog-real-time-updates-from-the-us-israel-around-the-world.html"
-      },
-      {
-        "nombre": "Times of Israel - Liveblog July 20 2026",
-        "url": "https://www.timesofisrael.com/liveblog-july-20-2026/"
-      }
-    ],
-    "createdAt": "2026-07-20T22:57:52.000Z",
-    "updatedAt": "2026-07-20T23:05:39Z"
-  },
-  {
-    "id": 1012,
-    "seccion": "protestas_internacionales",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "08:00",
-    "fecha": "2026-07-20",
-    "lugar": "Fábricas de Airbus en España (Getafe, Illescas, Puerto Real, San Pablo de los Montes, Alfajarín, Ribadesella, Illescas, Barajas)",
-    "tipoAccion": "Día 20 de huelga histórica de Airbus en España; sindicatos y empresa se reúnen este lunes para negociar",
-    "organizaciones": [
-      "SIPA (Sindicato Independiente de Profesionales Aeronáuticos)",
-      "UGT",
-      "CCOO",
-      "CGT"
-    ],
-    "motivo": "Los 14,000 trabajadores de las plantas españolas de Airbus continúan su huelga histórica, en el día 20 de un paro que comenzó el 1 de julio y se extenderá hasta el 31 de julio. Los trabajadores protestan contra la reducción del teletrabajo, el recorte de complementos sociales y la pérdida de poder adquisitivo. La huelga ha logrado un seguimiento del 80%. Este lunes 20 de julio, Airbus y los sindicatos en huelga se reúnen para negociar, mientras CCOO votará un preacuerdo alcanzado. La acción laboral afecta a las principales plantas de producción de Airbus en España.",
-    "status": "en curso",
-    "lat": "40.3000",
-    "lng": "-3.7333",
-    "fuentes": [
-      {
-        "nombre": "Europapress - Airbus y los sindicatos en huelga se reúnen este lunes",
-        "url": "https://www.europapress.es/economia/transportes-00343/noticia-airbus-sindicatos-huelga-reunen-lunes-mientras-ccoo-votara-jueves-preacuerdo-alcanzado-20260720132829.html"
-      },
-      {
-        "nombre": "Qué.es - Huelga histórica en Airbus 2026",
-        "url": "https://www.que.es/2026/07/11/huelga-airbus-2026-protestas-teletrabajo"
-      }
-    ],
-    "createdAt": "2026-07-20T22:57:52.000Z",
-    "updatedAt": "2026-07-20T23:05:39Z"
-  },
-  {
-    "id": 1013,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "08:00",
-    "fecha": "2026-07-20",
-    "lugar": "Paraná, Entre Ríos, Argentina (marcha desde Caja de Jubilaciones hasta Casa de Gobierno)",
-    "tipoAccion": "Paro docente de 24 horas con movilización al centro de Paraná",
-    "organizaciones": [
-      "AGMER (Asociación Gremial del Magisterio de Entre Ríos)",
-      "AMET (Asociación del Magisterio de Entre Ríos - Técnica)",
-      "Multisectorial en Defensa de la Caja de Jubilaciones"
-    ],
-    "motivo": "Paro provincial docente en reclamo de recomposición salarial y en rechazo al proyecto de reforma previsional del gobierno provincial. Los docentes denuncian que el Gobierno de Rogelio Frigerio hizo fracasar por tercera vez la paritaria salarial al aplicar su propuesta por decreto. El salario docente se ubica entre la indigencia y la pobreza, con una pérdida acumulada de 14-16% en el primer semestre. Adhesión del 80-85% según relevamiento de AGMER. El paro marcó el no inicio del ciclo lectivo tras el receso invernal.",
-    "status": "en curso",
-    "lat": "-31.7333",
-    "lng": "-59.6500",
-    "fuentes": [
-      {
-        "nombre": "AIM Digital - Agmer convocó a un paro para el 20 de julio",
-        "url": "https://www.aimdigital.com.ar/provinciales/agmer-convoc-a-un-paro-para-el-20-de-julio-y-no-comenzar-el-ciclo-lectivo-tras-el-receso-invernal.htm"
-      },
-      {
-        "nombre": "Plaza Web - El salario docente está entre la indigencia y la pobreza",
-        "url": "https://plazaweb.com.ar/el-salario-docente-esta-entre-la-indigencia-y-la-pobreza-dijo-el-titular-de-agmer-parana/"
-      },
-      {
-        "nombre": "AIM Digital - Agmer destacó el alcance del paro docente (85% adhesión)",
-        "url": "https://www.aimdigital.com.ar/politica/agmer-destac-el-alcance-del-paro-docente-se-registr-un-ldquocontundente-acatamientordquo.htm"
-      },
-      {
-        "nombre": "Plaza Web - Agmer definió un paro para el próximo lunes",
-        "url": "https://plazaweb.com.ar/agmer-definio-un-paro-para-el-proximo-lunes-y-las-clases-no-vuelven-con-normalidad-tras-el-receso/"
-      }
-    ],
-    "createdAt": "2026-07-20T23:02:07.000Z",
-    "updatedAt": "2026-07-20T23:05:39Z"
+    "createdAt": "2026-07-21T00:00:22.000Z",
+    "updatedAt": "2026-07-21T00:05:43Z"
   }
 ]
