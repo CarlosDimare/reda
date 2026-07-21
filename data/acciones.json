@@ -30,16 +30,20 @@
         "url": "https://www.business-standard.com/india-news/protesters-continue-sit-in-at-jantar-mantar-cjp-vows-to-continue-agitation-126072100236_1.html"
       },
       {
-        "nombre": "BBC - CJP's parliament march from Jantar Mantar",
-        "url": "https://www.bbc.com/news/articles/cvg9w9dxd7lo"
-      },
-      {
         "nombre": "Al Jazeera - India's cockroach protest movement halts marches after police violence",
         "url": "https://www.aljazeera.com/news/2026/7/21/indias-cockroach-protest-movement-halts-marches-after-police-violence"
+      },
+      {
+        "nombre": "Reuters - India student protests give opposition a rare opening against Modi",
+        "url": "https://www.reuters.com/world/india/india-student-protests-give-opposition-rare-opening-against-modi-2026-07-21/"
+      },
+      {
+        "nombre": "Democracy Now - Youth-led protesters rally against Modi's right-wing government",
+        "url": "https://www.democracynow.org/2026/7/21/headlines/youth_led_protesters_rally_against_modis_right_wing_government"
       }
     ],
     "createdAt": "2026-07-21T00:00:22.000Z",
-    "updatedAt": "2026-07-21T20:17:06Z"
+    "updatedAt": "2026-07-21T21:32:10Z"
   },
   {
     "id": 2002,
@@ -66,7 +70,48 @@
       }
     ],
     "createdAt": "2026-07-21T00:00:22.000Z",
-    "updatedAt": "2026-07-21T20:17:06Z"
+    "updatedAt": "2026-07-21T21:32:10Z"
+  },
+  {
+    "id": 2016,
+    "seccion": "protestas_internacionales",
+    "pais": "India",
+    "bandera": "🇮🇳",
+    "hora": "15:00",
+    "fecha": "2026-07-21",
+    "lugar": "Lok Kalyan Marg (residencia del PM), Nueva Delhi, India",
+    "tipoAccion": "Sentada de protesta del Partido del Congreso y líderes de la oposición INDIA bloc frente a la residencia del PM Modi, seguida de detención masiva",
+    "organizaciones": [
+      "Indian National Congress (INC)",
+      "INDIA bloc (oposición unida)",
+      "Rahul Gandhi (LoP)",
+      "Priyanka Gandhi Vadra",
+      "Akhilesh Yadav (SP)"
+    ],
+    "motivo": "Rahul Gandhi, Priyanka Gandhi, Akhilesh Yadav y más de 100 parlamentarios de la oposición fueron detenidos por la policía de Delhi durante una sentada frente a la residencia del PM Modi. Exigen la renuncia del Ministro de Educación Dharmendra Pradhan y responsabilidad por la brutalidad policial contra estudiantes que protestaban por la filtración del examen NEET-UG 2026. Los detenidos fueron llevados al estadio Chhatrasal y luego liberados.",
+    "status": "finalizado",
+    "lat": "28.5963",
+    "lng": "77.1836",
+    "fuentes": [
+      {
+        "nombre": "Reuters - India's Rahul, Priyanka Gandhi protest outside Modi's house",
+        "url": "https://www.reuters.com/world/india/indias-rahul-priyanka-gandhi-protest-outside-modis-house-2026-07-21/"
+      },
+      {
+        "nombre": "Al Jazeera - Police detain Indian opposition leader Gandhi as protests continue",
+        "url": "https://www.aljazeera.com/news/2026/7/21/police-arrest-indian-opposition-leader-gandhi-as-protests-continue-to-grow"
+      },
+      {
+        "nombre": "ANI - Rahul Gandhi, Priyanka Gandhi Vadra detained by Delhi Police",
+        "url": "https://www.aninews.in/news/national/politics/rahul-gandhi-priyanka-gandhi-vadra-detained-by-delhi-police-amid-protest-near-pm-residence20260721192430"
+      },
+      {
+        "nombre": "Economic Times - Rahul Gandhi, Akhilesh Yadav detained after protest near PM's residence",
+        "url": "https://economictimes.indiatimes.com/news/politics-and-nation/rahul-gandhi-akhilesh-yadav-detained-after-protest-near-pms-residence/articleshow/132537914.cms"
+      }
+    ],
+    "createdAt": "2026-07-21T21:19:50.000Z",
+    "updatedAt": "2026-07-21T21:32:10Z"
   },
   {
     "id": 2004,
@@ -92,7 +137,7 @@
       }
     ],
     "createdAt": "2026-07-21T00:00:22.000Z",
-    "updatedAt": "2026-07-21T20:17:06Z"
+    "updatedAt": "2026-07-21T21:32:10Z"
   },
   {
     "id": 2006,
@@ -117,7 +162,7 @@
       }
     ],
     "createdAt": "2026-07-21T00:00:22.000Z",
-    "updatedAt": "2026-07-21T20:17:06Z"
+    "updatedAt": "2026-07-21T21:32:10Z"
   },
   {
     "id": 2007,
@@ -155,7 +200,7 @@
       }
     ],
     "createdAt": "2026-07-21T11:22:07.000Z",
-    "updatedAt": "2026-07-21T20:17:06Z"
+    "updatedAt": "2026-07-21T21:32:10Z"
   },
   {
     "id": 2008,
@@ -193,7 +238,7 @@
       }
     ],
     "createdAt": "2026-07-21T12:51:49.000Z",
-    "updatedAt": "2026-07-21T20:17:06Z"
+    "updatedAt": "2026-07-21T21:32:10Z"
   },
   {
     "id": 2009,
@@ -210,7 +255,7 @@
       "activistas cívicos",
       "organización juvenil 'Kult Derzhavy'"
     ],
-    "motivo": "Miles de ucranianos protestan por sexto día consecutivo exigiendo la restitución de Fedorov como Ministro de Defensa y la destitución del Comandante en Jefe Oleksandr Syrskyi. Los manifestantes fijaron un plazo hasta el 24 de julio para que se tomen decisiones, tras el cual iniciarían manifestaciones indefinidas nocturnas. Zelensky se reunió nuevamente con Fedorov sin做出 compromisos públicos.",
+    "motivo": "Miles de ucranianos protestan por sexto día consecutivo exigiendo la restitución de Fedorov como Ministro de Defensa y la destitución del Comandante en Jefe Oleksandr Syrskyi. Los manifestantes fijaron un plazo hasta el 24 de julio para que se tomen decisiones, tras el cual iniciarían manifestaciones indefinidas nocturnas. Zelensky reunió con Fedorov y evaluó candidatos para reemplazar a Syrskyi. Encuesta Gradus: 61% de ucranianos se opone al cese de Fedorov.",
     "status": "en curso",
     "lat": "50.4501",
     "lng": "30.5234",
@@ -228,12 +273,12 @@
         "url": "https://euromaidanpress.com/2026/07/20/ukraine-fedorov-protests-24-july-ultimatum/"
       },
       {
-        "nombre": "Ukrainska Pravda - Protests against Fedorov's dismissal continue",
-        "url": "https://www.pravda.com.ua/eng/news/2026/07/18/8044739/"
+        "nombre": "Infobae - Las protestas por la destitución de Mijailo Fedórov cumplen cinco días",
+        "url": "https://www.infobae.com/america/mundo/2026/07/20/las-protestas-por-la-destitucion-de-mijailo-fedorov-cumplen-cinco-dias-y-presionan-al-gobierno-de-volodimir-zelensky/"
       }
     ],
     "createdAt": "2026-07-21T15:01:37.000Z",
-    "updatedAt": "2026-07-21T20:17:06Z"
+    "updatedAt": "2026-07-21T21:32:10Z"
   },
   {
     "id": 2010,
@@ -272,7 +317,7 @@
       }
     ],
     "createdAt": "2026-07-21T15:01:37.000Z",
-    "updatedAt": "2026-07-21T20:17:06Z"
+    "updatedAt": "2026-07-21T21:32:10Z"
   },
   {
     "id": 2011,
@@ -297,7 +342,7 @@
       }
     ],
     "createdAt": "2026-07-21T15:01:37.000Z",
-    "updatedAt": "2026-07-21T20:17:06Z"
+    "updatedAt": "2026-07-21T21:32:10Z"
   },
   {
     "id": 2012,
@@ -322,10 +367,18 @@
       {
         "nombre": "UnoTV - Mototaxistas encabezan protestas CDMX 21 julio",
         "url": "https://www.unotv.com/estados/ciudad-de-mexico/mototaxistas-encabezan-protestas-y-actividades-en-cdmx-este-21-de-julio/"
+      },
+      {
+        "nombre": "El Financiero - Transportistas marchan HOY en CDMX",
+        "url": "https://www.elfinanciero.com.mx/cdmx/2026/07/21/transportistas-marchan-hoy-en-cdmx-que-calles-cerraran-este-martes-21-de-julio/"
+      },
+      {
+        "nombre": "Heraldo de México - Marchas, bloqueos y concentraciones HOY martes 21 de julio",
+        "url": "https://heraldodemexico.com.mx/nacional/2026/7/21/marchas-bloqueos-concentraciones-hoy-martes-21-de-julio-vialidades-afectadas-853767.html"
       }
     ],
     "createdAt": "2026-07-21T15:01:37.000Z",
-    "updatedAt": "2026-07-21T20:17:06Z"
+    "updatedAt": "2026-07-21T21:32:10Z"
   },
   {
     "id": 2013,
@@ -350,7 +403,7 @@
       }
     ],
     "createdAt": "2026-07-21T15:01:37.000Z",
-    "updatedAt": "2026-07-21T20:17:06Z"
+    "updatedAt": "2026-07-21T21:32:10Z"
   },
   {
     "id": 2014,
@@ -376,7 +429,7 @@
       }
     ],
     "createdAt": "2026-07-21T18:14:18.000Z",
-    "updatedAt": "2026-07-21T20:17:06Z"
+    "updatedAt": "2026-07-21T21:32:10Z"
   },
   {
     "id": 2015,
@@ -410,6 +463,45 @@
       }
     ],
     "createdAt": "2026-07-21T19:59:11.000Z",
-    "updatedAt": "2026-07-21T20:17:06Z"
+    "updatedAt": "2026-07-21T21:32:10Z"
+  },
+  {
+    "id": 2017,
+    "seccion": "protestas_internacionales",
+    "pais": "Sudáfrica",
+    "bandera": "🇿🇦",
+    "hora": "08:00",
+    "fecha": "2026-07-21",
+    "lugar": "Johannesburgo, Pretoria, Durban, Ciudad del Cabo y múltiples ciudades de Sudáfrica",
+    "tipoAccion": "Protestas anti-inmigrantes semanales del movimiento 'March and March' contra extranjeros indocumentados",
+    "organizaciones": [
+      "March and March (fundado por Jacinta Ngobese-Zuma)",
+      "Operation Dudula",
+      "Concerned Citizens and Voters of South Africa"
+    ],
+    "motivo": "Protestas xenófobas en curso desde marzo 2026. El movimiento March and March ha convocado manifestaciones semanales hasta las elecciones locales de noviembre. Más de 160,000 extranjeros han huido de Sudáfrica en dos meses. Al menos 4 migrantes muertos en violencia. Zimbabue repatrió 108,366 ciudadanos; Malaui 46,890. Grupos vigilantes atribuyen a migrantes el aumento de criminalidad y la pérdida de empleos para locales. Países africanos han iniciado repatriaciones coordinadas.",
+    "status": "en curso",
+    "lat": "-26.2041",
+    "lng": "28.0473",
+    "fuentes": [
+      {
+        "nombre": "RFI - South Africa's anti-migrant unrest led over 160,000 to flee",
+        "url": "https://www.rfi.fr/en/international-news/20260721-south-africa-s-anti-migrant-unrest-led-over-160-000-to-flee"
+      },
+      {
+        "nombre": "France24 - South Africa's anti-migrant unrest led over 160,000 to flee",
+        "url": "https://www.france24.com/en/live-news/20260721-south-africa-s-anti-migrant-unrest-led-over-160-000-to-flee"
+      },
+      {
+        "nombre": "BBC - South Africa's anti-migrant protests: Fear as deadline looms",
+        "url": "https://www.bbc.com/news/articles/cg740l2jpr0o"
+      },
+      {
+        "nombre": "Al Jazeera - Nigeria sees no sign that anti-immigrant violence is waning",
+        "url": "https://www.aljazeera.com/news/2026/7/6/nigeria-sees-no-sign-that-anti-immigrant-violence-is-waning-in-south-africa"
+      }
+    ],
+    "createdAt": "2026-07-21T21:19:50.000Z",
+    "updatedAt": "2026-07-21T21:32:10Z"
   }
 ]
