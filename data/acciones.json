@@ -43,7 +43,7 @@
       }
     ],
     "createdAt": "2026-07-21T00:00:22.000Z",
-    "updatedAt": "2026-07-21T21:32:10Z"
+    "updatedAt": "2026-07-21T22:41:58Z"
   },
   {
     "id": 2002,
@@ -70,7 +70,7 @@
       }
     ],
     "createdAt": "2026-07-21T00:00:22.000Z",
-    "updatedAt": "2026-07-21T21:32:10Z"
+    "updatedAt": "2026-07-21T22:41:58Z"
   },
   {
     "id": 2016,
@@ -111,7 +111,7 @@
       }
     ],
     "createdAt": "2026-07-21T21:19:50.000Z",
-    "updatedAt": "2026-07-21T21:32:10Z"
+    "updatedAt": "2026-07-21T22:41:58Z"
   },
   {
     "id": 2004,
@@ -137,7 +137,7 @@
       }
     ],
     "createdAt": "2026-07-21T00:00:22.000Z",
-    "updatedAt": "2026-07-21T21:32:10Z"
+    "updatedAt": "2026-07-21T22:41:58Z"
   },
   {
     "id": 2006,
@@ -162,7 +162,7 @@
       }
     ],
     "createdAt": "2026-07-21T00:00:22.000Z",
-    "updatedAt": "2026-07-21T21:32:10Z"
+    "updatedAt": "2026-07-21T22:41:58Z"
   },
   {
     "id": 2007,
@@ -200,7 +200,7 @@
       }
     ],
     "createdAt": "2026-07-21T11:22:07.000Z",
-    "updatedAt": "2026-07-21T21:32:10Z"
+    "updatedAt": "2026-07-21T22:41:58Z"
   },
   {
     "id": 2008,
@@ -238,7 +238,7 @@
       }
     ],
     "createdAt": "2026-07-21T12:51:49.000Z",
-    "updatedAt": "2026-07-21T21:32:10Z"
+    "updatedAt": "2026-07-21T22:41:58Z"
   },
   {
     "id": 2009,
@@ -278,7 +278,7 @@
       }
     ],
     "createdAt": "2026-07-21T15:01:37.000Z",
-    "updatedAt": "2026-07-21T21:32:10Z"
+    "updatedAt": "2026-07-21T22:41:58Z"
   },
   {
     "id": 2010,
@@ -317,32 +317,7 @@
       }
     ],
     "createdAt": "2026-07-21T15:01:37.000Z",
-    "updatedAt": "2026-07-21T21:32:10Z"
-  },
-  {
-    "id": 2011,
-    "seccion": "protestas_internacionales",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "12:00",
-    "fecha": "2026-07-21",
-    "lugar": "Almería, España",
-    "tipoAccion": "Protesta de la Mesa del Tren por servicio ferroviario digno",
-    "organizaciones": [
-      "Mesa en Defensa del Ferrocarril de la Provincia de Almería"
-    ],
-    "motivo": "La Mesa del Tren convocó protestas el 21 y 28 de julio para exigir un servicio ferroviario digno en la provincia de Almería.",
-    "status": "programado",
-    "lat": "36.8340",
-    "lng": "-2.4637",
-    "fuentes": [
-      {
-        "nombre": "Europa Press - Almería Mesa del Tren convoca protestas 21 y 28 julio",
-        "url": "https://fotos.europapress.es/fotonoticia/f7668656"
-      }
-    ],
-    "createdAt": "2026-07-21T15:01:37.000Z",
-    "updatedAt": "2026-07-21T21:32:10Z"
+    "updatedAt": "2026-07-21T22:41:58Z"
   },
   {
     "id": 2012,
@@ -378,7 +353,7 @@
       }
     ],
     "createdAt": "2026-07-21T15:01:37.000Z",
-    "updatedAt": "2026-07-21T21:32:10Z"
+    "updatedAt": "2026-07-21T22:41:58Z"
   },
   {
     "id": 2013,
@@ -403,7 +378,7 @@
       }
     ],
     "createdAt": "2026-07-21T15:01:37.000Z",
-    "updatedAt": "2026-07-21T21:32:10Z"
+    "updatedAt": "2026-07-21T22:41:58Z"
   },
   {
     "id": 2014,
@@ -429,7 +404,7 @@
       }
     ],
     "createdAt": "2026-07-21T18:14:18.000Z",
-    "updatedAt": "2026-07-21T21:32:10Z"
+    "updatedAt": "2026-07-21T22:41:58Z"
   },
   {
     "id": 2015,
@@ -463,7 +438,7 @@
       }
     ],
     "createdAt": "2026-07-21T19:59:11.000Z",
-    "updatedAt": "2026-07-21T21:32:10Z"
+    "updatedAt": "2026-07-21T22:41:58Z"
   },
   {
     "id": 2017,
@@ -502,6 +477,43 @@
       }
     ],
     "createdAt": "2026-07-21T21:19:50.000Z",
-    "updatedAt": "2026-07-21T21:32:10Z"
+    "updatedAt": "2026-07-21T22:41:58Z"
+  },
+  {
+    "id": 2018,
+    "seccion": "protestas_internacionales",
+    "pais": "Albania",
+    "bandera": "🇦🇱",
+    "hora": "18:00",
+    "fecha": "2026-07-21",
+    "lugar": "Skanderbeg Square, Dëshmorët e Kombit Boulevard, Tirana, Albania",
+    "tipoAccion": "52ª noche consecutiva de protestas de la Revolución Flamingo contra el proyecto resort Kushner-Trump en el lago Narta",
+    "organizaciones": [
+      "movimiento ciudadano Revolución Flamingo",
+      "activistas medioambientales",
+      "colectivos juveniles Gen Z",
+      "sociedad civil albanesa",
+      "diáspora albanesa"
+    ],
+    "motivo": "Quincuagésimo segundo día consecutivo de protestas nocturnas en Tirana. El movimiento exige cancelación del proyecto turístico de lujo vinculado a Jared Kushner en la Laguna Narta y la Isla de Sazan (área protegida), renuncia del PM Edi Rama, fin de la corrupción gubernamental y derogación de la Ley 21/2024 sobre áreas protegidas. El movimiento ha expandido su alcance a reclamos más amplios: mejora de educación, salud, empleo y transparencia. Las protestas son las más grandes en Albania desde la caída del comunismo en 1991.",
+    "status": "en curso",
+    "lat": "41.3289",
+    "lng": "19.8186",
+    "fuentes": [
+      {
+        "nombre": "Wikipedia - Flamingo Revolution",
+        "url": "https://en.wikipedia.org/wiki/Flamingo_Revolution"
+      },
+      {
+        "nombre": "Foreign Policy - Albania's Flamingo Revolution Against Billionaires and Autocrats",
+        "url": "https://foreignpolicy.com/2026/07/20/albania-flamingo-revolution-jared-kushner-sazan-island-resort/"
+      },
+      {
+        "nombre": "BBC - Thousands of Albanians demand prime minister's resignation",
+        "url": "https://www.bbc.com/news/articles/c8925jnl0z3o"
+      }
+    ],
+    "createdAt": "2026-07-21T22:26:09.000Z",
+    "updatedAt": "2026-07-21T22:41:58Z"
   }
 ]
