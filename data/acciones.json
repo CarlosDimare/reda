@@ -43,7 +43,7 @@
       }
     ],
     "createdAt": "2026-07-21T00:00:22.000Z",
-    "updatedAt": "2026-07-21T09:19:24Z"
+    "updatedAt": "2026-07-21T11:27:28Z"
   },
   {
     "id": 2002,
@@ -70,7 +70,7 @@
       }
     ],
     "createdAt": "2026-07-21T00:00:22.000Z",
-    "updatedAt": "2026-07-21T09:19:24Z"
+    "updatedAt": "2026-07-21T11:27:28Z"
   },
   {
     "id": 2004,
@@ -96,7 +96,7 @@
       }
     ],
     "createdAt": "2026-07-21T00:00:22.000Z",
-    "updatedAt": "2026-07-21T09:19:24Z"
+    "updatedAt": "2026-07-21T11:27:28Z"
   },
   {
     "id": 2005,
@@ -140,7 +140,7 @@
       }
     ],
     "createdAt": "2026-07-21T00:00:22.000Z",
-    "updatedAt": "2026-07-21T09:19:24Z"
+    "updatedAt": "2026-07-21T11:27:28Z"
   },
   {
     "id": 2006,
@@ -173,6 +173,45 @@
       }
     ],
     "createdAt": "2026-07-21T00:00:22.000Z",
-    "updatedAt": "2026-07-21T09:19:24Z"
+    "updatedAt": "2026-07-21T11:27:28Z"
+  },
+  {
+    "id": 2007,
+    "seccion": "protestas_internacionales",
+    "pais": "Italia",
+    "bandera": "🇮🇹",
+    "hora": "00:00",
+    "fecha": "2026-07-21",
+    "lugar": "Múltiples aeropuertos de Italia (Milan Malpensa, Lamezia Terme, Nápoles, Salerno, Olbia, Alghero)",
+    "tipoAccion": "Huelga nacional de aviación: tripulaciones de easyJet y DAT, y personal de handling en múltiples aeropuertos",
+    "organizaciones": [
+      "USB Lavoro Privato",
+      "CUB Trasporti",
+      "tripulaciones de easyJet",
+      "tripulaciones de UAB DAT LT",
+      "personal de ALHA y MLE-BCUBE (Milan Malpensa)",
+      "personal de FedEx (Milan Malpensa)",
+      "personal de SACAL GH (Lamezia Terme)"
+    ],
+    "motivo": "Huelga de 24 horas convocada por los sindicatos USB Lavoro Privato y CUB Trasporti que afecta a tripulaciones de easyJet en toda Italia, personal de handling en Milan Malpensa (ALHA, MLE-BCUBE, FedEx), y personal en aeropuertos de Lamezia Terme, Nápoles, Salerno, Olbia y Alghero. Las demandas incluyen mejores salarios y condiciones laborales para los trabajadores del sector aéreo. El personal de handling de Malpensa opera el equipaje, el check-in y la preparación de aeronaves, por lo que la huelga genera demoras en aerolíneas no directamente involucradas. Ventanas de protección garantizada: 07:00-10:00 y 18:00-21:00 hora italiana.",
+    "status": "en curso",
+    "lat": "45.6306",
+    "lng": "8.7281",
+    "fuentes": [
+      {
+        "nombre": "Wanted in Rome - Italy faces air travel strikes on 21 July",
+        "url": "https://www.wantedinrome.com/news/italy-faces-air-travel-strikes-on-21-july.html"
+      },
+      {
+        "nombre": "Strike Tracker - Italy easyJet cabin crew strike on 21 July 2026",
+        "url": "https://striketracker.app/strikes-in-italy/italy-easyjet-cabin-crew-strike-21-jul-2026"
+      },
+      {
+        "nombre": "Travel Tourister - Milan Malpensa Strike Confirmed July 21",
+        "url": "https://www.traveltourister.com/news/italy-milan-malpensa-strike-july-21-2026-ground-handling-alha-mle-bcube-lamezia-terme"
+      }
+    ],
+    "createdAt": "2026-07-21T11:22:07.000Z",
+    "updatedAt": "2026-07-21T11:27:28Z"
   }
 ]
