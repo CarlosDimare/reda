@@ -36,7 +36,7 @@
       }
     ],
     "createdAt": "2026-07-22T00:57:23.000Z",
-    "updatedAt": "2026-07-22T04:28:57Z"
+    "updatedAt": "2026-07-22T17:26:13Z"
   },
   {
     "id": 2021,
@@ -45,7 +45,7 @@
     "bandera": "🇦🇷",
     "hora": "15:00",
     "fecha": "2026-07-22",
-    "lugar": "Avenida Rivadavia y Rodríguez Peña, Ciudad de Buenos Aires, hacia el Congreso Nacional",
+    "lugar": "Avenida Rivadavia y Rodríguez Peña, Ciudad de Buenos Aires, hacia el Congreso Nacional; sedes regionales en Rosario (PAMI San Lorenzo 926 a ANSES), Córdoba (Catedral a Colón y General Paz), Mendoza, Tucumán y Mar del Plata (PAMI, 16h)",
     "tipoAccion": "Marcha de la CGT, las dos CTA, la UTEP, ATE y organizaciones de jubilados contra las políticas económicas del gobierno de Javier Milei",
     "organizaciones": [
       "CGT (Confederación General del Trabajo)",
@@ -56,36 +56,46 @@
       "organizaciones de jubilados",
       "movimientos sociales",
       "Movimiento Derecho al Futuro (MDF)",
-      "Frente de Izquierda (FIT)"
+      "Frente de Izquierda (FIT)",
+      "UOM",
+      "Intersindical Rosario"
     ],
-    "motivo": "La CGT, las dos CTA, la UTEP y ATE encabezan una movilización conjunta junto a los jubilados frente al Congreso, marcando el inicio de una nueva etapa del plan de lucha contra las políticas económicas de Milei. Los manifestantes reclaman la recomposición de los haberes previsionales, la defensa del sistema de seguridad social, la restitución de la cobertura de medicamentos del PAMI, y rechazan la política de endeudamiento. La protesta se realiza bajo la consigna 'La seguridad social es un derecho: marchamos junto a las y los jubilados'. La CGT no descarta un paro general si el Gobierno no ofrece respuestas. La marcha suma adhesiones provinciales en Rosario, Córdoba, Mendoza, Tucumán y Mar del Plata. Próxima marcha confirmada: 7 de agosto (Día de San Cayetano).",
+    "motivo": "La CGT, las dos CTA, la UTEP y ATE encabezan una movilización conjunta junto a los jubilados frente al Congreso, marcando el inicio de una nueva etapa del plan de lucha contra las políticas económicas de Milei. Los manifestantes reclaman la recomposición de los haberes previsionales (jubilación mínima $411.989 vs canasta básica $1.824.682), la defensa del sistema de seguridad social, la restitución de la cobertura de medicamentos del PAMI, y rechazan la política de endeudamiento. La protesta se realiza bajo la consigna 'La seguridad social es un derecho: marchamos junto a las y los jubilados'. En Córdoba, la CGT local confluó con la protesta habitual de jubilados desde la Catedral hacia Colón y General Paz; el secretario general Andrés Colazo afirmó que 'están dadas las condiciones para un paro general'. La marcha tiene réplicas en Rosario, Mendoza, Tucumán y Mar del Plata. Próxima marcha confirmada: 7 de agosto (Día de San Cayetano).",
     "status": "en curso",
     "lat": "-34.6037",
     "lng": "-58.3816",
     "fuentes": [
       {
-        "nombre": "La Nueva - CGT, CTA y movimientos sociales marchan mañana al Congreso junto a los jubilados",
-        "url": "https://www.lanueva.com/nota/2026-7-21-10-58-0-cgt-cta-y-movimientos-sociales-marchan-manana-al-congreso-junto-a-los-jubilados"
+        "nombre": "Infobae - Protestas de la CGT en vivo: la Infantería intenta despejar un piquete en Avellaneda",
+        "url": "https://www.infobae.com/politica/2026/07/22/protestas-de-la-cgt-en-vivo-las-ultimas-noticias-sobre-los-cortes-y-acciones-hoy-22-de-julio/"
       },
       {
-        "nombre": "La Gaceta - La CGT confirmó la movilización del 22 de julio: nueva etapa del plan de lucha",
-        "url": "https://www.lagaceta.com.ar/nota/1145914/politica/cgt-confirmo-movilizacion-22-julio-nueva-etapa-plan-lucha-contra-gobierno-nacional.html"
+        "nombre": "Perfil - Tensión en los ingresos a CABA: cortes de manifestantes cara a cara con la Policía",
+        "url": "https://www.perfil.com/noticias/politica/tension-en-el-puente-pueyrredon-los-manifestantes-intentan-cortar-y-avanza-la-gendarmeria.phtml"
       },
       {
-        "nombre": "El Destape - La movilización de la CGT y las CTA con los jubilados suma volumen político",
-        "url": "https://www.eldestapeweb.com/politica/movilizacion-cgt-cta-jubilados-suma-volumen-politico-202672120580"
+        "nombre": "La Nación - Violento enfrentamiento entre piqueteros y las fuerzas de seguridad",
+        "url": "https://www.lanacion.com.ar/politica/violento-enfrentamiento-entre-piqueteros-y-las-fuerzas-de-seguridad-en-protestas-contra-el-gobierno-nid22072026/"
       },
       {
-        "nombre": "El Ciudadano - Organizaciones sociales convocan a jornada nacional de protesta con cortes y movilización en Rosario",
-        "url": "https://elciudadanoweb.com/organizaciones-sociales-convocan-a-una-jornada-nacional-de-protesta-con-cortes-y-movilizacion-en-rosario/"
+        "nombre": "La Voz - Marcha de la CGT en Córdoba capital: hora y recorrido",
+        "url": "https://www.lavoz.com.ar/politica/marcha-cgt-cordoba-capital-hora-arranca-recorrido_0_j7I6bkYYzk.html"
       },
       {
-        "nombre": "El retrato de Hoy - Centrales sindicales se movilizan ante el PAMI en apoyo a jubilados",
-        "url": "https://elretratodehoy.com.ar/2026/07/21/las-centrales-sindicales-se-movilizan-ante-el-pami-en-apoyo-a-jubilados-y-pensionados/"
+        "nombre": "El Destape - A qué hora y dónde es la marcha de la CGT al Congreso junto a jubilados",
+        "url": "https://www.eldestapeweb.com/sociedad/hora-donde-marcha-cgt-congreso-junto-jubilados-2026722135929"
+      },
+      {
+        "nombre": "TN - La CGT, la CTA y movimientos sociales marchan este miércoles al Congreso junto a los jubilados",
+        "url": "https://tn.com.ar/politica/2026/07/22/la-cgt-la-cta-y-movimientos-sociales-marchan-este-miercoles-al-congreso-junto-a-los-jubilados/"
+      },
+      {
+        "nombre": "Comercio y Justicia - Movilización de la CGT este miércoles en Córdoba y en todo el país",
+        "url": "https://comercioyjusticia.info/lo-ultimo/movilizacion-de-la-cgt-este-miercoles-en-cordoba-y-en-todo-el-pais/"
       }
     ],
     "createdAt": "2026-07-22T01:00:35.000Z",
-    "updatedAt": "2026-07-22T04:28:57Z"
+    "updatedAt": "2026-07-22T17:26:13Z"
   },
   {
     "id": 2036,
@@ -94,43 +104,85 @@
     "bandera": "🇦🇷",
     "hora": "09:00",
     "fecha": "2026-07-22",
-    "lugar": "Nacional - más de 80 puntos de cortes de ruta, puentes y accesos en todo el país; epicentros en Rosario (Circunvalación y Godoy), La Plata, Mar del Plata (PAMI, 16h), y accesos a la Ciudad de Buenos Aires (Puentes Saavedra, Pueyrredón, General Paz, Panamericana)",
+    "lugar": "Nacional - más de 80 puntos de cortes de ruta, puentes y accesos en todo el país; epicentros en Rosario (Circunvalación, autopista a Buenos Aires desalojada por Gendarmería), La Plata (bajada autopista, 120 y 32), Mar del Plata, y accesos a la Ciudad de Buenos Aires (Puente Pueyrredón con gas lacrimógeno, Puente Saavedra, Ciudadela/Liners, Puente La Noria)",
     "tipoAccion": "Jornada Nacional de Lucha: cortes de ruta, piquetes, asambleas y movilizaciones en defensa del programa Volver al Trabajo",
     "organizaciones": [
       "UTEP (Unión de Trabajadores y Trabajadoras de la Economía Popular)",
       "Frente de Lucha Piquetero",
       "Territorios en Lucha",
       "movimientos sociales y territoriales",
-      "organizaciones campesinas y sindicales de base"
+      "organizaciones campesinas y sindicales de base",
+      "Polo Obrero",
+      "MST (Movimiento Socialista de los Trabajadores)",
+      "MTE (Movimiento de Trabajadores Excluidos)"
     ],
-    "motivo": "Rechazo a la decisión judicial de la Cámara Federal de San Martín que revocó la cautelar que mantenía el programa Volver al Trabajo, habilitando al Gobierno a dar de baja a más de 930.000 beneficiarios que perciben $78.000 mensuales. Bajo el lema 'Trabajo sin salario es esclavitud', las organizaciones realizan más de 80 cortes de ruta, puentes y accesos en todo el país. Exigen la continuidad del programa, abastecimiento de alimentos para comedores comunitarios, un ingreso para trabajadores desocupados y la convocatoria a un paro nacional. El Ministerio de Capital Humano anunció la aplicación del protocolo antipiquetes y amenazó con desalojar los bloqueos.",
+    "motivo": "Rechazo a la decisión judicial de la Cámara Federal de San Martín que revocó la cautelar que mantenía el programa Volver al Trabajo, habilitando al Gobierno a dar de baja a más de 930.000 beneficiarios que perciben $78.000 mensuales. Bajo el lema 'Trabajo sin salario es esclavitud', las organizaciones realizan más de 80 cortes de ruta, puentes y accesos en todo el país. En Avellaneda, la Infantería de la Policía Federal y Prefectura avanzó sobre la Av. Hipólito Yrigoyen con gases lacrimógenos para intentar despejar el Puente Pueyrredón; se registraron neumáticos en llamas y un camión hidrante. En Rosario, la Gendarmería desalojó cortes en la autopista a Buenos Aires sin incidentes graves. Exigen la continuidad del programa, abastecimiento de alimentos para comedores comunitarios, un ingreso para trabajadores desocupados y la convocatoria a un paro nacional. El Ministerio de Capital Humano anunció la aplicación del protocolo antipiquetes y amenazó con desalojar los bloqueos.",
     "status": "en curso",
     "lat": "-34.6037",
     "lng": "-58.3816",
     "fuentes": [
       {
-        "nombre": "Infobae - Marchas y piquetes: los movimientos sociales cortarán accesos en rechazo a la baja del programa Volver al Trabajo",
-        "url": "https://www.infobae.com/politica/2026/07/21/marchas-y-piquetes-los-movimientos-sociales-cortaran-accesos-en-rechazo-a-la-baja-del-programa-volver-al-trabajo/"
+        "nombre": "La Nación - Violento enfrentamiento entre piqueteros y las fuerzas de seguridad en protestas contra el Gobierno",
+        "url": "https://www.lanacion.com.ar/politica/violento-enfrentamiento-entre-piqueteros-y-las-fuerzas-de-seguridad-en-protestas-contra-el-gobierno-nid22072026/"
       },
       {
-        "nombre": "El Ciudadano - Organizaciones sociales convocan a una jornada nacional de protesta con cortes y movilización en Rosario",
-        "url": "https://elciudadanoweb.com/organizaciones-sociales-convocan-a-una-jornada-nacional-de-protesta-con-cortes-y-movilizacion-en-rosario/"
+        "nombre": "Infobae - Protestas de la CGT en vivo: la Infantería intenta despejar un piquete en Avellaneda",
+        "url": "https://www.infobae.com/politica/2026/07/22/protestas-de-la-cgt-en-vivo-las-ultimas-noticias-sobre-los-cortes-y-acciones-hoy-22-de-julio/"
+      },
+      {
+        "nombre": "Perfil - Tensión en los ingresos a CABA: cortes de manifestantes cara a cara con la Policía",
+        "url": "https://www.perfil.com/noticias/politica/tension-en-el-puente-pueyrredon-los-manifestantes-intentan-cortar-y-avanza-la-gendarmeria.phtml"
+      },
+      {
+        "nombre": "TN - Los movimientos sociales intentan cortar Puente Pueyrredón y están frente a frente con la policía",
+        "url": "https://tn.com.ar/videos/politica/2026/07/22/los-movimientos-sociales-intentan-cortar-puente-pueyrredon-y-estan-frente-a-frente-con-la-policia/"
+      },
+      {
+        "nombre": "Conclusión - Miércoles de protesta en Rosario y el país",
+        "url": "https://www.conclusion.com.ar/la-ciudad/miercoles-de-protesta-en-rosario-y-el-pais-habra-movilizaciones-en-defensa-de-jubilados-y-del-programa-volver-al-trabajo/07/2026/"
+      },
+      {
+        "nombre": "La Plata 1 - Corte en la bajada de la Autopista La Plata - Buenos Aires por una protesta de la CGT",
+        "url": "https://www.laplata1.com/2026-07-22/corte-en-la-bajada-de-la-autopista-la-plata-buenos-aires-por-una-protesta-de-la-cgt-124961/"
       },
       {
         "nombre": "EconoBlog - Cortes para el miércoles 22 de julio en reclamo de Volver al Trabajo",
         "url": "https://www.econoblog.com.ar/157746/cortes-para-el-miercoles-22-de-julio-en-reclamo-de-volver-al-trabajo/"
-      },
-      {
-        "nombre": "Prensa Obrera - El 22 de julio habrá cortes de ruta y marchas en todo el país contra la baja del Volver al Trabajo",
-        "url": "https://prensaobrera.com/movimiento-piquetero/el-22-de-julio-habra-cortes-de-ruta-y-marchas-en-todo-el-pais-contra-la-baja-del-volver-al-trabajo"
-      },
-      {
-        "nombre": "Capital24 - Organizaciones sociales volverán a reclamar en la ciudad por el Volver al Trabajo",
-        "url": "https://capital24.com.ar/contenido/14581/organizaciones-sociales-volveran-a-reclamar-en-la-ciudad-por-el-volver-al-trabaj"
       }
     ],
     "createdAt": "2026-07-22T04:23:03.000Z",
-    "updatedAt": "2026-07-22T04:28:57Z"
+    "updatedAt": "2026-07-22T17:26:13Z"
+  },
+  {
+    "id": 2039,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "16:00",
+    "fecha": "2026-07-22",
+    "lugar": "Sede del PAMI, avenida Independencia y Luro, Mar del Plata, Provincia de Buenos Aires",
+    "tipoAccion": "Movilización de las tres centrales sindicales de Mar del Plata en respaldo a jubilados y pensionados",
+    "organizaciones": [
+      "CGT Mar del Plata",
+      "CTA Autónoma Mar del Plata",
+      "CTA de los Trabajadores Mar del Plata"
+    ],
+    "motivo": "Las tres centrales sindicales de Mar del Plata convocaron a una Jornada Nacional de Lucha en respaldo al reclamo de jubilados y pensionados. La movilización parte de la sede del PAMI (Independencia y Luro) para exigir respuestas del Gobierno nacional frente al deterioro del poder adquisitivo de los adultos mayores. Reclaman recomposición inmediata de jubilaciones y pensiones, restitución plena de la cobertura de medicamentos y programas sociales del PAMI, y un plan de lucha conjunto del movimiento obrero y las organizaciones sociales.",
+    "status": "planeada",
+    "lat": "-38.0055",
+    "lng": "-57.5426",
+    "fuentes": [
+      {
+        "nombre": "El retrato de Hoy - Centrales sindicales se movilizan ante el PAMI en apoyo a jubilados",
+        "url": "https://elretratodehoy.com.ar/2026/07/21/las-centrales-sindicales-se-movilizan-ante-el-pami-en-apoyo-a-jubilados-y-pensionados/"
+      },
+      {
+        "nombre": "Perfil - Tensión en los ingresos a CABA: cortes en ciudades como Mar del Plata",
+        "url": "https://www.perfil.com/noticias/politica/tension-en-el-puente-pueyrredon-los-manifestantes-intentan-cortar-y-avanza-la-gendarmeria.phtml"
+      }
+    ],
+    "createdAt": "2026-07-22T17:19:53.000Z",
+    "updatedAt": "2026-07-22T17:26:13Z"
   },
   {
     "id": 2023,
@@ -161,7 +213,7 @@
       }
     ],
     "createdAt": "2026-07-22T04:19:17.000Z",
-    "updatedAt": "2026-07-22T04:28:57Z"
+    "updatedAt": "2026-07-22T17:26:13Z"
   },
   {
     "id": 2024,
@@ -192,7 +244,7 @@
       }
     ],
     "createdAt": "2026-07-22T04:19:17.000Z",
-    "updatedAt": "2026-07-22T04:28:57Z"
+    "updatedAt": "2026-07-22T17:26:13Z"
   },
   {
     "id": 2025,
@@ -221,7 +273,7 @@
       }
     ],
     "createdAt": "2026-07-22T04:19:17.000Z",
-    "updatedAt": "2026-07-22T04:28:57Z"
+    "updatedAt": "2026-07-22T17:26:13Z"
   },
   {
     "id": 2026,
@@ -246,7 +298,7 @@
       }
     ],
     "createdAt": "2026-07-22T04:19:17.000Z",
-    "updatedAt": "2026-07-22T04:28:57Z"
+    "updatedAt": "2026-07-22T17:26:13Z"
   },
   {
     "id": 2029,
@@ -271,7 +323,7 @@
       }
     ],
     "createdAt": "2026-07-22T04:19:17.000Z",
-    "updatedAt": "2026-07-22T04:28:57Z"
+    "updatedAt": "2026-07-22T17:26:13Z"
   },
   {
     "id": 2030,
@@ -296,7 +348,7 @@
       }
     ],
     "createdAt": "2026-07-22T04:19:17.000Z",
-    "updatedAt": "2026-07-22T04:28:57Z"
+    "updatedAt": "2026-07-22T17:26:13Z"
   },
   {
     "id": 2031,
@@ -322,7 +374,7 @@
       }
     ],
     "createdAt": "2026-07-22T04:19:17.000Z",
-    "updatedAt": "2026-07-22T04:28:57Z"
+    "updatedAt": "2026-07-22T17:26:13Z"
   },
   {
     "id": 2032,
@@ -353,7 +405,7 @@
       }
     ],
     "createdAt": "2026-07-22T04:19:17.000Z",
-    "updatedAt": "2026-07-22T04:28:57Z"
+    "updatedAt": "2026-07-22T17:26:13Z"
   },
   {
     "id": 2033,
@@ -378,7 +430,7 @@
       }
     ],
     "createdAt": "2026-07-22T04:19:17.000Z",
-    "updatedAt": "2026-07-22T04:28:57Z"
+    "updatedAt": "2026-07-22T17:26:13Z"
   },
   {
     "id": 2035,
@@ -403,6 +455,73 @@
       }
     ],
     "createdAt": "2026-07-22T04:19:17.000Z",
-    "updatedAt": "2026-07-22T04:28:57Z"
+    "updatedAt": "2026-07-22T17:26:13Z"
+  },
+  {
+    "id": 2037,
+    "seccion": "protestas_internacionales",
+    "pais": "Albania",
+    "bandera": "🇦🇱",
+    "hora": "19:30",
+    "fecha": "2026-07-22",
+    "lugar": "Skanderbeg Square y Dëshmorët e Kombit Boulevard, Tirana",
+    "tipoAccion": "Manifestación diaria de la 'Revolución de los Flamencos' (día 53 consecutivo)",
+    "organizaciones": [
+      "Lëvizja Bashkë",
+      "coalición de 45+ grupos cívicos",
+      "movimiento de la sociedad civil albanesa",
+      "diáspora albanesa"
+    ],
+    "motivo": "53º día consecutivo de protestas masivas contra el proyecto de resort de lujo vinculado a Jared Kushner e Ivanka Trump en la isla de Sazan y la laguna protegida de Vjosa-Narta. Los manifestantes exigen la renuncia del Primer Ministro Edi Rama, transparencia en las inversiones, protección del medio ambiente y justicia contra la corrupción. El movimiento, conocido como 'Revolución de los Flamencos', es la mayor protesta ciudadana en Albania desde la caída del comunismo hace 30 años. Las protestas diarias se extienden a otras ciudades del país y a comunidades de la diáspora.",
+    "status": "en curso",
+    "lat": "41.3275",
+    "lng": "19.8187",
+    "fuentes": [
+      {
+        "nombre": "AP News - Albanians protest against the government and corruption for a 35th night in a row",
+        "url": "https://apnews.com/article/resort-prime-minister-rama-kushner-flamingos-resort-9e2cbb682d9445f2e2d946c44ea2fecd"
+      },
+      {
+        "nombre": "Democracy Now - Albania's Flamingo Revolution: Protests Against Kushner-Trump Luxury Resort Could Bring Down Gov't",
+        "url": "https://www.democracynow.org/2026/7/9/albania_protests"
+      },
+      {
+        "nombre": "Oculus News - Tirana Protest Enters Day 51 as Demonstrators March Through Capital",
+        "url": "https://www.ocnal.com/2026/07/tirana-protest-day-51-march-political-change-albania.html"
+      },
+      {
+        "nombre": "The Balkan Guide - Albania Protests Travel Update",
+        "url": "https://www.thebalkanguide.com/news/2026-07-19-albania-flamingo-revolution-protests-tirana"
+      }
+    ],
+    "createdAt": "2026-07-22T17:15:13.000Z",
+    "updatedAt": "2026-07-22T17:26:13Z"
+  },
+  {
+    "id": 2038,
+    "seccion": "protestas_internacionales",
+    "pais": "India",
+    "bandera": "🇮🇳",
+    "hora": "06:00",
+    "fecha": "2026-07-22",
+    "lugar": "Telangana - estado, Hyderabad (Philcoa, centros de huelga), India",
+    "tipoAccion": "Huelga estatal de trabajadores gig y de plataformas 'Breakdown Flash Strike'",
+    "organizaciones": [
+      "Telangana App-Based Drivers Forum (TADF)",
+      "Telangana Gig and Platform Workers Union (TGPWU)",
+      "CITU (Centro de Sindicatos de la India)"
+    ],
+    "motivo": "Huelga statewide contra los aumentos de precios de combustible, la falta de implementación de aumentos de tarifas por parte del gobierno, y demandas de tarifa base mínima justa, notificación de reglas para trabajadores gig, constitución de una junta de bienestar y implementación de tarifas mínimas bajo las Directrices de Agregadores de Vehículos a Motor 2025. Afecta a conductores de apps, autos, transporte de carga y reparto. Los sindicatos advierten que si el gobierno ignora sus demandas, lanzarán una huelga indefinida a partir del 8 de agosto.",
+    "status": "en curso",
+    "lat": "17.3850",
+    "lng": "78.4867",
+    "fuentes": [
+      {
+        "nombre": "Siasat - Trade unions support Telangana gig workers' July 22 strike",
+        "url": "https://www.siasat.com/trade-unions-support-telangana-gig-workers-july-22-strike-3510185"
+      }
+    ],
+    "createdAt": "2026-07-22T17:15:13.000Z",
+    "updatedAt": "2026-07-22T17:26:13Z"
   }
 ]
