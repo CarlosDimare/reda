@@ -36,7 +36,7 @@
       }
     ],
     "createdAt": "2026-07-22T00:57:23.000Z",
-    "updatedAt": "2026-07-22T01:04:39Z"
+    "updatedAt": "2026-07-22T04:28:57Z"
   },
   {
     "id": 2021,
@@ -46,16 +46,19 @@
     "hora": "15:00",
     "fecha": "2026-07-22",
     "lugar": "Avenida Rivadavia y Rodríguez Peña, Ciudad de Buenos Aires, hacia el Congreso Nacional",
-    "tipoAccion": "Marcha de la CGT, las dos CTA, la UTEP y organizaciones de jubilados contra las políticas económicas del gobierno de Javier Milei",
+    "tipoAccion": "Marcha de la CGT, las dos CTA, la UTEP, ATE y organizaciones de jubilados contra las políticas económicas del gobierno de Javier Milei",
     "organizaciones": [
       "CGT (Confederación General del Trabajo)",
       "CTA Autónoma",
       "CTA de los Trabajadores",
       "UTEP (Unión de Trabajadores y Trabajadoras de la Economía Popular)",
+      "ATE (Asociación Trabajadores del Estado)",
       "organizaciones de jubilados",
-      "movimientos sociales"
+      "movimientos sociales",
+      "Movimiento Derecho al Futuro (MDF)",
+      "Frente de Izquierda (FIT)"
     ],
-    "motivo": "La CGT, las dos CTA y la UTEP encabezan una movilización conjunta junto a los jubilados frente al Congreso, marcando el inicio de una nueva etapa del plan de lucha contra las políticas económicas de Milei. Los manifestantes reclaman la recomposición de los haberes previsionales, la defensa del sistema de seguridad social y rechazan la política de endeudamiento. La protesta se realiza bajo la consigna 'La seguridad social es un derecho: marchamos junto a las y los jubilados'. La CGT no descarta un paro general si el Gobierno no ofrece respuestas. Próxima marcha confirmada: 7 de agosto (Día de San Cayetano).",
+    "motivo": "La CGT, las dos CTA, la UTEP y ATE encabezan una movilización conjunta junto a los jubilados frente al Congreso, marcando el inicio de una nueva etapa del plan de lucha contra las políticas económicas de Milei. Los manifestantes reclaman la recomposición de los haberes previsionales, la defensa del sistema de seguridad social, la restitución de la cobertura de medicamentos del PAMI, y rechazan la política de endeudamiento. La protesta se realiza bajo la consigna 'La seguridad social es un derecho: marchamos junto a las y los jubilados'. La CGT no descarta un paro general si el Gobierno no ofrece respuestas. La marcha suma adhesiones provinciales en Rosario, Córdoba, Mendoza, Tucumán y Mar del Plata. Próxima marcha confirmada: 7 de agosto (Día de San Cayetano).",
     "status": "en curso",
     "lat": "-34.6037",
     "lng": "-58.3816",
@@ -69,15 +72,337 @@
         "url": "https://www.lagaceta.com.ar/nota/1145914/politica/cgt-confirmo-movilizacion-22-julio-nueva-etapa-plan-lucha-contra-gobierno-nacional.html"
       },
       {
-        "nombre": "El Cactus - La CGT volverá a movilizarse contra el Gobierno tras el Mundial y evalúa un nuevo paro general",
-        "url": "https://elcactus.com.ar/2026/07/la-cgt-volvera-a-movilizarse-contra-el-gobierno-tras-el-mundial-y-evalua-un-nuevo-paro-general/"
+        "nombre": "El Destape - La movilización de la CGT y las CTA con los jubilados suma volumen político",
+        "url": "https://www.eldestapeweb.com/politica/movilizacion-cgt-cta-jubilados-suma-volumen-politico-202672120580"
       },
       {
-        "nombre": "Tercera Información - Argentina: CGT volverá a las calles contra plan económico de Milei",
-        "url": "https://www.tercerainformacion.es/articulo/internacional/20/07/2026/argentina-cgt-volvera-a-las-calles-contra-plan-economico-de-milei/"
+        "nombre": "El Ciudadano - Organizaciones sociales convocan a jornada nacional de protesta con cortes y movilización en Rosario",
+        "url": "https://elciudadanoweb.com/organizaciones-sociales-convocan-a-una-jornada-nacional-de-protesta-con-cortes-y-movilizacion-en-rosario/"
+      },
+      {
+        "nombre": "El retrato de Hoy - Centrales sindicales se movilizan ante el PAMI en apoyo a jubilados",
+        "url": "https://elretratodehoy.com.ar/2026/07/21/las-centrales-sindicales-se-movilizan-ante-el-pami-en-apoyo-a-jubilados-y-pensionados/"
       }
     ],
     "createdAt": "2026-07-22T01:00:35.000Z",
-    "updatedAt": "2026-07-22T01:04:39Z"
+    "updatedAt": "2026-07-22T04:28:57Z"
+  },
+  {
+    "id": 2036,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "09:00",
+    "fecha": "2026-07-22",
+    "lugar": "Nacional - más de 80 puntos de cortes de ruta, puentes y accesos en todo el país; epicentros en Rosario (Circunvalación y Godoy), La Plata, Mar del Plata (PAMI, 16h), y accesos a la Ciudad de Buenos Aires (Puentes Saavedra, Pueyrredón, General Paz, Panamericana)",
+    "tipoAccion": "Jornada Nacional de Lucha: cortes de ruta, piquetes, asambleas y movilizaciones en defensa del programa Volver al Trabajo",
+    "organizaciones": [
+      "UTEP (Unión de Trabajadores y Trabajadoras de la Economía Popular)",
+      "Frente de Lucha Piquetero",
+      "Territorios en Lucha",
+      "movimientos sociales y territoriales",
+      "organizaciones campesinas y sindicales de base"
+    ],
+    "motivo": "Rechazo a la decisión judicial de la Cámara Federal de San Martín que revocó la cautelar que mantenía el programa Volver al Trabajo, habilitando al Gobierno a dar de baja a más de 930.000 beneficiarios que perciben $78.000 mensuales. Bajo el lema 'Trabajo sin salario es esclavitud', las organizaciones realizan más de 80 cortes de ruta, puentes y accesos en todo el país. Exigen la continuidad del programa, abastecimiento de alimentos para comedores comunitarios, un ingreso para trabajadores desocupados y la convocatoria a un paro nacional. El Ministerio de Capital Humano anunció la aplicación del protocolo antipiquetes y amenazó con desalojar los bloqueos.",
+    "status": "en curso",
+    "lat": "-34.6037",
+    "lng": "-58.3816",
+    "fuentes": [
+      {
+        "nombre": "Infobae - Marchas y piquetes: los movimientos sociales cortarán accesos en rechazo a la baja del programa Volver al Trabajo",
+        "url": "https://www.infobae.com/politica/2026/07/21/marchas-y-piquetes-los-movimientos-sociales-cortaran-accesos-en-rechazo-a-la-baja-del-programa-volver-al-trabajo/"
+      },
+      {
+        "nombre": "El Ciudadano - Organizaciones sociales convocan a una jornada nacional de protesta con cortes y movilización en Rosario",
+        "url": "https://elciudadanoweb.com/organizaciones-sociales-convocan-a-una-jornada-nacional-de-protesta-con-cortes-y-movilizacion-en-rosario/"
+      },
+      {
+        "nombre": "EconoBlog - Cortes para el miércoles 22 de julio en reclamo de Volver al Trabajo",
+        "url": "https://www.econoblog.com.ar/157746/cortes-para-el-miercoles-22-de-julio-en-reclamo-de-volver-al-trabajo/"
+      },
+      {
+        "nombre": "Prensa Obrera - El 22 de julio habrá cortes de ruta y marchas en todo el país contra la baja del Volver al Trabajo",
+        "url": "https://prensaobrera.com/movimiento-piquetero/el-22-de-julio-habra-cortes-de-ruta-y-marchas-en-todo-el-pais-contra-la-baja-del-volver-al-trabajo"
+      },
+      {
+        "nombre": "Capital24 - Organizaciones sociales volverán a reclamar en la ciudad por el Volver al Trabajo",
+        "url": "https://capital24.com.ar/contenido/14581/organizaciones-sociales-volveran-a-reclamar-en-la-ciudad-por-el-volver-al-trabaj"
+      }
+    ],
+    "createdAt": "2026-07-22T04:23:03.000Z",
+    "updatedAt": "2026-07-22T04:28:57Z"
+  },
+  {
+    "id": 2023,
+    "seccion": "protestas_internacionales",
+    "pais": "India",
+    "bandera": "🇮🇳",
+    "hora": "10:00",
+    "fecha": "2026-07-22",
+    "lugar": "Jantar Mantar, Nueva Delhi",
+    "tipoAccion": "Sentada continua (día ~25) contra filtración de exámenes NEET",
+    "organizaciones": [
+      "Cockroach Janta Party (CJP)",
+      "partidarios de Sonam Wangchuk",
+      "sindicatos estudiantiles"
+    ],
+    "motivo": "Exigen la renuncia del Ministro de Educación Dharmendra Pradhan por las filtraciones del examen NEET que afectan a 2,2 millones de estudiantes. Más de 12 estudiantes se suicidaron como consecuencia. La protesta demanda reformas educativas profundas. Miles se reagruparon tras un operativo policial; cientos ordenan comida para el sitio.",
+    "status": "en curso",
+    "lat": "28.6270",
+    "lng": "77.2167",
+    "fuentes": [
+      {
+        "nombre": "The Hindu - CJP Jantar Mantar protest live updates",
+        "url": "https://www.thehindu.com/news/national/cjp-jantar-mantar-protest-live-updates-rahul-gandhi-news-abhijeet-dipke-sonam-wangchuk-saurav-das-parliament-session/article71251952.ece"
+      },
+      {
+        "nombre": "BBC - CJP protest live updates",
+        "url": "https://www.bbc.com/news/articles/c98v349r9lro"
+      }
+    ],
+    "createdAt": "2026-07-22T04:19:17.000Z",
+    "updatedAt": "2026-07-22T04:28:57Z"
+  },
+  {
+    "id": 2024,
+    "seccion": "protestas_internacionales",
+    "pais": "India",
+    "bandera": "🇮🇳",
+    "hora": "10:00",
+    "fecha": "2026-07-22",
+    "lugar": "Exterior de la residencia del Primer Ministro, Lok Kalyan Marg, Nueva Delhi",
+    "tipoAccion": "Sentada del partido Congreso Nacional y aliados",
+    "organizaciones": [
+      "Indian National Congress (Rahul Gandhi, Priyanka Gandhi Vadra, Mallikarjun Kharge)",
+      "Samajwadi Party",
+      "NCP (Sharad Pawar)"
+    ],
+    "motivo": "Protesta contra la brutalidad policial contra estudiantes manifestantes. Exigen disculpas del Primer Ministro, renuncia del Ministro del Interior Shah y del Ministro de Educación Pradhan, y la retirada de cargos contra los estudiantes. Rahul Gandhi y Priyanka fueron detenidos el 21 de julio y liberados a las 21:00. Se reportaron enfrentamientos en Connaught Place durante la noche.",
+    "status": "en curso",
+    "lat": "28.6200",
+    "lng": "77.2090",
+    "fuentes": [
+      {
+        "nombre": "NDTV - Rahul Gandhi detained, protest NEET paper leak",
+        "url": "https://www.ndtv.com/india-news/cjp-protest-jantar-mantar-rahul-gandhi-parliament-after-dharna-and-detention-rahul-gandhis-five-demands-to-the-centre-11803945"
+      },
+      {
+        "nombre": "Azat TV - Rahul Gandhi detained protest NEET paper leak",
+        "url": "https://azat.tv/en/rahul-gandhi-detained-protest-neet-paper-leak/"
+      }
+    ],
+    "createdAt": "2026-07-22T04:19:17.000Z",
+    "updatedAt": "2026-07-22T04:28:57Z"
+  },
+  {
+    "id": 2025,
+    "seccion": "protestas_internacionales",
+    "pais": "Filipinas",
+    "bandera": "🇵🇭",
+    "hora": "05:00",
+    "fecha": "2026-07-22",
+    "lugar": "Filipinas - nacional, centro de huelga en Philcoa, Quezon City, Manila",
+    "tipoAccion": "Huelga de transporte nacional de dos días (22-23 de julio)",
+    "organizaciones": [
+      "MANIBELA (organización de transporte, liderada por Mar Valbuena)"
+    ],
+    "motivo": "Huelga contra la serie de aumentos de precios de combustible, la falta de implementación del aumento de tarifas de jeepney por parte del gobierno, y demandas de aumento mínimo de P2 en tarifas y eliminación de impuestos excise/IVA al combustible. Se esperan aproximadamente 100.000 vehículos de utilidad pública. Clases suspendidas en algunas zonas.",
+    "status": "en curso",
+    "lat": "14.6537",
+    "lng": "121.0686",
+    "fuentes": [
+      {
+        "nombre": "GMA News - Manibela starts 2-day transport strike",
+        "url": "https://www.gmanetwork.com/news/topstories/nation/995704/manibela-starts-2-day-transport-strike-vs-mega-oil-price-hike/story/"
+      },
+      {
+        "nombre": "ABS-CBN - Manibela announces two-day nationwide transport strike",
+        "url": "https://www.abs-cbn.com/news/nation/2026/7/21/manibela-announces-two-day-nationwide-transport-strike-1557"
+      }
+    ],
+    "createdAt": "2026-07-22T04:19:17.000Z",
+    "updatedAt": "2026-07-22T04:28:57Z"
+  },
+  {
+    "id": 2026,
+    "seccion": "protestas_internacionales",
+    "pais": "Pakistán",
+    "bandera": "🇵🇰",
+    "hora": "00:00",
+    "fecha": "2026-07-22",
+    "lugar": "Nacional - estaciones de servicio en todo Pakistán, Islamabad",
+    "tipoAccion": "Huelga indefinida de estaciones de servicio de combustible",
+    "organizaciones": [
+      "All Pakistan Petroleum Dealers Association"
+    ],
+    "motivo": "Exigen aumento de los márgenes de ganancia de los distribuidores y se oponen al mecanismo propuesto por el gobierno de ajuste diario de precios de combustible. La huelga comenzó a medianoche del 22 de julio tras el fracaso de las negociaciones con el Ministro Federal de Petróleo. Todas las estaciones de servicio cerradas en todo el país.",
+    "status": "en curso",
+    "lat": "33.6941",
+    "lng": "73.0479",
+    "fuentes": [
+      {
+        "nombre": "Pakistan Times - Petrol pump owners announce indefinite nationwide strike from July 22",
+        "url": "https://www.pakistantimes.com/petrol-pump-owners-announce-indefinite-nationwide-strike-from-july-22-midnight-13699/"
+      }
+    ],
+    "createdAt": "2026-07-22T04:19:17.000Z",
+    "updatedAt": "2026-07-22T04:28:57Z"
+  },
+  {
+    "id": 2029,
+    "seccion": "protestas_internacionales",
+    "pais": "Francia",
+    "bandera": "🇫🇷",
+    "hora": "06:00",
+    "fecha": "2026-07-22",
+    "lugar": "Nice, red de transporte Lignes d'Azur",
+    "tipoAccion": "Huelga de la red de transporte público Lignes d'Azur",
+    "organizaciones": [
+      "trabajadores de Lignes d'Azur"
+    ],
+    "motivo": "Segunda huelga en una semana (la primera fue el 15 de julio) por aumentos salariales insuficientes. La mayoría de líneas operan en horario domingo/feriado; líneas 36, 37 y Cadam Este sin servicio. Centro de huelga operativo.",
+    "status": "en curso",
+    "lat": "43.7102",
+    "lng": "7.2620",
+    "fuentes": [
+      {
+        "nombre": "Nice Premium - Strike on Lignes d'Azur network",
+        "url": "https://www.nice-premium.com/strike-new-social-movement-this-wednesday-july-22-on-the-lignes-d-azur-network/"
+      }
+    ],
+    "createdAt": "2026-07-22T04:19:17.000Z",
+    "updatedAt": "2026-07-22T04:28:57Z"
+  },
+  {
+    "id": 2030,
+    "seccion": "protestas_internacionales",
+    "pais": "Cuba",
+    "bandera": "🇨🇺",
+    "hora": "20:00",
+    "fecha": "2026-07-22",
+    "lugar": "La Habana (Calzada del Cerro, La Cumbre, Colón, Lawton, El Vedado) y Santiago de Cuba (Chicharrones)",
+    "tipoAccion": "Cacerolazos, barricadas callejeras y fogatas",
+    "organizaciones": [
+      "acción civil espontánea (sin organización formal)"
+    ],
+    "motivo": "Cortes masivos de electricidad de más de 20 horas diarias en muchas provincias. Crisis energética con más de 26 días consecutivos sin suministro eléctrico en algunas zonas. Protestas reportadas el 21-22 de julio en múltiples barrios de La Habana y extendiéndose a Santiago de Cuba.",
+    "status": "en curso",
+    "lat": "23.1136",
+    "lng": "-82.3666",
+    "fuentes": [
+      {
+        "nombre": "CubaHeadlines - Pot-banging protests in Cuba",
+        "url": "https://www.cubaheadlines.com/articles/335809"
+      }
+    ],
+    "createdAt": "2026-07-22T04:19:17.000Z",
+    "updatedAt": "2026-07-22T04:28:57Z"
+  },
+  {
+    "id": 2031,
+    "seccion": "protestas_internacionales",
+    "pais": "Yemen",
+    "bandera": "🇾🇪",
+    "hora": "09:00",
+    "fecha": "2026-07-22",
+    "lugar": "Adén, Mukalla, Dhale, Abyan y Shabwa, gobernaciones del sur de Yemen",
+    "tipoAccion": "Manifestaciones masivas en ciudades del sur",
+    "organizaciones": [
+      "sociedad civil del Yemen del sur",
+      "movimientos políticos regionales del sur"
+    ],
+    "motivo": "Rechazo a cualquier acuerdo político que otorgue a los hutíes influencia sobre el sur de Yemen o sus recursos. Respuesta a declaraciones de Rashad al-Alimi, presidente del Consejo de Liderazgo Presidencial. Cientos reunidos en Adén, Mukalla, Dhale, Abyan y Shabwa. Se izan banderas del Yemen del Sur.",
+    "status": "en curso",
+    "lat": "12.7855",
+    "lng": "45.0187",
+    "fuentes": [
+      {
+        "nombre": "Voice of Emirates - Mass demonstrations in southern Yemen",
+        "url": "https://www.voiceofemirates.com/en/news/2026/07/22/anger-in-southern-yemen-mass-demonstrations-reject-any-settlement-that-grants-the-houthis-influence/"
+      }
+    ],
+    "createdAt": "2026-07-22T04:19:17.000Z",
+    "updatedAt": "2026-07-22T04:28:57Z"
+  },
+  {
+    "id": 2032,
+    "seccion": "protestas_internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "08:00",
+    "fecha": "2026-07-22",
+    "lugar": "Federal Courthouse, Baxter St & Worth St, Manhattan, Nueva York",
+    "tipoAccion": "Rally 'Free Maduro'",
+    "organizaciones": [
+      "Brooklyn Against War",
+      "Anti-War Action Network",
+      "Workers World Party",
+      "International Action Center",
+      "Palaver Collective",
+      "Black Alliance for Peace",
+      "International League of People's Struggle"
+    ],
+    "motivo": "Exigen la cancelación del enjuiciamiento de EE.UU. contra el presidente venezolano Maduro y la primera dama Cilia Flores. Solidaridad antiimperialista.",
+    "status": "planeada",
+    "lat": "40.7153",
+    "lng": "-74.0003",
+    "fuentes": [
+      {
+        "nombre": "Before It's News - July 22 NYC protest to demand Free President Maduro",
+        "url": "https://beforeitsnews.com/opinion-liberal/2026/07/july-22-nyc-protest-to-demand-free-president-maduro-and-first-lady-flores-2630899.html"
+      }
+    ],
+    "createdAt": "2026-07-22T04:19:17.000Z",
+    "updatedAt": "2026-07-22T04:28:57Z"
+  },
+  {
+    "id": 2033,
+    "seccion": "protestas_internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "12:00",
+    "fecha": "2026-07-22",
+    "lugar": "200 North High Street, Columbus, Ohio",
+    "tipoAccion": "Manifestación contra los senadores Husted y Moreno",
+    "organizaciones": [
+      "Indivisible Central Ohio"
+    ],
+    "motivo": "Oposición a los senadores Bernie Moreno y John Husted por su apoyo a lo que los organizadores describen como 'toma fascista de la democracia'.",
+    "status": "planeada",
+    "lat": "39.9612",
+    "lng": "-83.0007",
+    "fuentes": [
+      {
+        "nombre": "Indivisible Central Ohio - Events",
+        "url": "https://indivisiblecentralohio.org/events"
+      }
+    ],
+    "createdAt": "2026-07-22T04:19:17.000Z",
+    "updatedAt": "2026-07-22T04:28:57Z"
+  },
+  {
+    "id": 2035,
+    "seccion": "protestas_internacionales",
+    "pais": "Corea del Sur",
+    "bandera": "🇰🇷",
+    "hora": "12:00",
+    "fecha": "2026-07-22",
+    "lugar": "Embajada de Israel, Jongno District, Seúl",
+    "tipoAccion": "Protesta diaria de una persona por Palestina (~día 693)",
+    "organizaciones": [
+      "Coalición de 352 grupos cívicos incluyendo Palestine Peace Solidarity"
+    ],
+    "motivo": "Protesta diaria en relay de una persona contra la campaña militar de Israel en Gaza y la complicidad de empresas coreanas (HD Hyundai, Korea National Oil Corp.). Cerca del día 700 de protesta consecutiva.",
+    "status": "en curso",
+    "lat": "37.5726",
+    "lng": "126.9770",
+    "fuentes": [
+      {
+        "nombre": "Korea Times - Meet the pro-Palestinian activists nearing 700th day of protest",
+        "url": "https://www.koreatimes.co.kr/southkorea/society/20260721/meet-the-pro-palestinian-activists-in-korea-nearing-their-700th-day-of-protest"
+      }
+    ],
+    "createdAt": "2026-07-22T04:19:17.000Z",
+    "updatedAt": "2026-07-22T04:28:57Z"
   }
 ]
