@@ -1,482 +1,83 @@
 [
   {
-    "id": 2001,
-    "seccion": "protestas_internacionales",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "06:00",
-    "fecha": "2026-07-21",
-    "lugar": "Jantar Mantar, Nueva Delhi, India",
-    "tipoAccion": "Día 25 de sentada indefinida del CJP en Jantar Mantar: tras la marcha violenta del 20 de julio al Parlamento y el desmantelamiento del sitio, los manifestantes regresaron y continúan exigiendo renuncia del Ministro de Educación Dharmendra Pradhan y del PM Modi",
-    "organizaciones": [
-      "Cockroach Janata Party (CJP)",
-      "All India Students Federation (AISF)",
-      "Students' Federation of India (SFI)",
-      "All India Students' Association (AISA)",
-      "Swaraj India",
-      "partidos de oposición (Congress, AAP, TMC, CPI-M, SP)"
-    ],
-    "motivo": "La protesta continúa su día 25. El 20 de julio, la marcha al Parlamento dejó más de 118 policías heridos y 70 manifestantes detenidos. El sitio fue desmantelado pero los manifestantes regresaron por la noche. No hubo avance en las negociaciones con el gobierno tras la reunión con el ministro Nadda. El CJP exige ahora también la renuncia de Modi. Sonam Wangchuk continúa huelga de hambre desde el hospital.",
-    "status": "en curso",
-    "lat": "28.6246",
-    "lng": "77.2167",
-    "fuentes": [
-      {
-        "nombre": "Indian Express - CJP's Jantar Mantar Protest Live Updates",
-        "url": "https://indianexpress.com/article/cities/delhi/cjp-protest-news-jantar-mantar-live-updates-security-abhijeet-dipke-sonam-wangchuk-hunger-strike-neet-paper-leak-dharmendra-pradhan-10795901/"
-      },
-      {
-        "nombre": "Business Standard - Protesters continue sit-in at Jantar Mantar",
-        "url": "https://www.business-standard.com/india-news/protesters-continue-sit-in-at-jantar-mantar-cjp-vows-to-continue-agitation-126072100236_1.html"
-      },
-      {
-        "nombre": "Al Jazeera - India's cockroach protest movement halts marches after police violence",
-        "url": "https://www.aljazeera.com/news/2026/7/21/indias-cockroach-protest-movement-halts-marches-after-police-violence"
-      },
-      {
-        "nombre": "Reuters - India student protests give opposition a rare opening against Modi",
-        "url": "https://www.reuters.com/world/india/india-student-protests-give-opposition-rare-opening-against-modi-2026-07-21/"
-      },
-      {
-        "nombre": "Democracy Now - Youth-led protesters rally against Modi's right-wing government",
-        "url": "https://www.democracynow.org/2026/7/21/headlines/youth_led_protesters_rally_against_modis_right_wing_government"
-      }
-    ],
-    "createdAt": "2026-07-21T00:00:22.000Z",
-    "updatedAt": "2026-07-21T23:35:42Z"
-  },
-  {
-    "id": 2002,
-    "seccion": "protestas_internacionales",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "11:00",
-    "fecha": "2026-07-21",
-    "lugar": "Koppal, Karnataka, India",
-    "tipoAccion": "Convención masiva de agricultores (Mahapanchayat) contra la planta de acero privada propuesta",
-    "organizaciones": [
-      "Karnataka Rajya Raitha Sangha (KRRS)",
-      "Koppal District Bachao Andolana Samiti",
-      "Environment Protection Forum"
-    ],
-    "motivo": "Convención de agricultores para marcar el 46º aniversario del levantamiento campesino de Naragund-Navalgund. Exigen cancelación de planta de acero que amenaza a 150,000 residentes.",
-    "status": "en curso",
-    "lat": "15.3350",
-    "lng": "76.4600",
-    "fuentes": [
-      {
-        "nombre": "Times of India - July 21 Koppal farmers' convention",
-        "url": "https://timesofindia.indiatimes.com/city/hubballi/july-21-koppal-farmers-convention-to-target-steel-plant/articleshow/132421568.cms"
-      }
-    ],
-    "createdAt": "2026-07-21T00:00:22.000Z",
-    "updatedAt": "2026-07-21T23:35:42Z"
-  },
-  {
-    "id": 2016,
-    "seccion": "protestas_internacionales",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "15:00",
-    "fecha": "2026-07-21",
-    "lugar": "Lok Kalyan Marg (residencia del PM), Nueva Delhi, India",
-    "tipoAccion": "Sentada de protesta del Partido del Congreso y líderes de la oposición INDIA bloc frente a la residencia del PM Modi, seguida de detención masiva",
-    "organizaciones": [
-      "Indian National Congress (INC)",
-      "INDIA bloc (oposición unida)",
-      "Rahul Gandhi (LoP)",
-      "Priyanka Gandhi Vadra",
-      "Akhilesh Yadav (SP)"
-    ],
-    "motivo": "Rahul Gandhi, Priyanka Gandhi, Akhilesh Yadav y más de 100 parlamentarios de la oposición fueron detenidos por la policía de Delhi durante una sentada frente a la residencia del PM Modi. Exigen la renuncia del Ministro de Educación Dharmendra Pradhan y responsabilidad por la brutalidad policial contra estudiantes que protestaban por la filtración del examen NEET-UG 2026. Los detenidos fueron llevados al estadio Chhatrasal y luego liberados.",
-    "status": "finalizado",
-    "lat": "28.5963",
-    "lng": "77.1836",
-    "fuentes": [
-      {
-        "nombre": "Reuters - India's Rahul, Priyanka Gandhi protest outside Modi's house",
-        "url": "https://www.reuters.com/world/india/indias-rahul-priyanka-gandhi-protest-outside-modis-house-2026-07-21/"
-      },
-      {
-        "nombre": "Al Jazeera - Police detain Indian opposition leader Gandhi as protests continue",
-        "url": "https://www.aljazeera.com/news/2026/7/21/police-arrest-indian-opposition-leader-gandhi-as-protests-continue-to-grow"
-      },
-      {
-        "nombre": "ANI - Rahul Gandhi, Priyanka Gandhi Vadra detained by Delhi Police",
-        "url": "https://www.aninews.in/news/national/politics/rahul-gandhi-priyanka-gandhi-vadra-detained-by-delhi-police-amid-protest-near-pm-residence20260721192430"
-      },
-      {
-        "nombre": "Economic Times - Rahul Gandhi, Akhilesh Yadav detained after protest near PM's residence",
-        "url": "https://economictimes.indiatimes.com/news/politics-and-nation/rahul-gandhi-akhilesh-yadav-detained-after-protest-near-pms-residence/articleshow/132537914.cms"
-      }
-    ],
-    "createdAt": "2026-07-21T21:19:50.000Z",
-    "updatedAt": "2026-07-21T23:35:42Z"
-  },
-  {
-    "id": 2004,
-    "seccion": "protestas_internacionales",
-    "pais": "Indonesia",
-    "bandera": "🇮🇩",
-    "hora": "09:00",
-    "fecha": "2026-07-21",
-    "lugar": "Kantor BPN Jakarta Pusat y kawasan Gambir, Yakarta Central",
-    "tipoAccion": "Manifestación de Forum Komunikasi Warga KWINI 8 Bersatu",
-    "organizaciones": [
-      "Forum Komunikasi Warga KWINI 8 Bersatu",
-      "elementos de la sociedad civil"
-    ],
-    "motivo": "Protesta contra el gobierno Prabowo-Gibran, parte del movimiento 'Mosi Tidak Percaya' (Moción de Desconfianza).",
-    "status": "programado",
-    "lat": "-6.1751",
-    "lng": "106.8650",
-    "fuentes": [
-      {
-        "nombre": "TribunStyle - Jakarta Pusat Digoyang Aksi Demo Selasa 21 Juli 2026",
-        "url": "https://style.tribunnews.com/news/377046/jauhi-gambir-bpn-jakarta-pusat-digoyang-aksi-demo-selasa-21-juli-2026-jam-11-ikuti-rute-aman-ini"
-      }
-    ],
-    "createdAt": "2026-07-21T00:00:22.000Z",
-    "updatedAt": "2026-07-21T23:35:42Z"
-  },
-  {
-    "id": 2006,
-    "seccion": "protestas_internacionales",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
-    "hora": "00:00",
-    "fecha": "2026-07-21",
-    "lugar": "Múltiples ciudades: Los Ángeles, San Francisco, San Diego, Austin, Boston, Cleveland, Las Vegas, Pittsburgh, Denver, Baltimore",
-    "tipoAccion": "Huelga nacional de 24h de conductores de plataformas (Rideshare) contra Uber y Lyft",
-    "organizaciones": [
-      "Rideshare Drivers United"
-    ],
-    "motivo": "Huelga nacional de 24 horas. Conductores apagan apps y pasajeros boicotean Uber/Lyft. Exigen regulación de tarifas, reducción de comisiones y mejores condiciones laborales.",
-    "status": "en curso",
-    "lat": "34.0522",
-    "lng": "-118.2437",
-    "fuentes": [
-      {
-        "nombre": "Rideshare Drivers United - July 21st Rideshare Strike",
-        "url": "https://www.drivers-united.org/strike"
-      }
-    ],
-    "createdAt": "2026-07-21T00:00:22.000Z",
-    "updatedAt": "2026-07-21T23:35:42Z"
-  },
-  {
-    "id": 2007,
+    "id": 2020,
     "seccion": "protestas_internacionales",
     "pais": "Italia",
     "bandera": "🇮🇹",
-    "hora": "00:00",
-    "fecha": "2026-07-21",
-    "lugar": "Múltiples aeropuertos: Milan Malpensa, Lamezia Terme, Nápoles, Salerno, Olbia, Alghero",
-    "tipoAccion": "Huelga nacional de aviación: tripulaciones easyJet/DAT y personal de handling",
+    "hora": "12:00",
+    "fecha": "2026-07-22",
+    "lugar": "Múltiples rutas marítimas: Génova-Palermo, Génova-Barcelona, Génova-Túnez, Civitavecchia-Palermo, Italia-Sardeña",
+    "tipoAccion": "Huelga nacional marítima de 24 horas de la compañía de ferris Grandi Navi Veloci (GNV)",
     "organizaciones": [
-      "USB Lavoro Privato",
-      "CUB Trasporti",
-      "tripulaciones easyJet",
-      "tripulaciones UAB DAT LT",
-      "personal ALHA, MLE-BCUBE, FedEx (Malpensa)",
-      "personal SACAL GH (Lamezia Terme)"
+      "ORSA Marittimi",
+      "CSLE",
+      "trabajadores y tripulaciones de Grandi Navi Veloci"
     ],
-    "motivo": "Huelga de 24 horas que afecta tripulaciones de easyJet y personal de handling en seis aeropuertos. Ventanas protegidas: 07:00-10:00 y 18:00-21:00.",
+    "motivo": "Huelga de 24 horas de los trabajadores de Grandi Navi Veloci, una de las principales compañías de ferris de larga distancia de Italia. La acción afecta a rutas clave del Mediterráneo incluyendo conexiones con Sicilia, Cerdeña, España y Túnez. Los trabajadores exigen mejores condiciones laborales y salariales. Las salidas programadas después del mediodía del 22 de julio y la mañana del 23 tienen mayor riesgo de cancelación.",
     "status": "en curso",
-    "lat": "45.6306",
-    "lng": "8.7281",
+    "lat": "44.4056",
+    "lng": "8.9463",
     "fuentes": [
       {
-        "nombre": "Wanted in Rome - Italy air travel strikes on 21 July",
-        "url": "https://www.wantedinrome.com/news/italy-faces-air-travel-strikes-on-21-july.html"
+        "nombre": "StrikeTracker - Italy GNV ferry strike 22-23 July",
+        "url": "https://striketracker.app/strikes-in-italy/italy-grandi-navi-veloci-ferry-strike-22-23-jul-2026"
       },
       {
-        "nombre": "Passport News - Six Airports Face Strikes on July 21",
-        "url": "https://passport.news/article/3207"
+        "nombre": "VisitWorld - Transportation Strikes Italy July 20-25",
+        "url": "https://visitworld.today/blog/4179/transportation-strikes-in-italy-july-20-25-2026-dates-and-possible-disruptions"
       },
       {
-        "nombre": "The Flight Club - Strike July 21 confirmed",
-        "url": "https://www.theflightclub.it/en/2026/07/the-strike-on-tuesday-july-21-has-been-confirmed-all-airports-and-airlines-involved-will-be-affected"
+        "nombre": "TravelPirates - Italy Strikes Delays July 2026",
+        "url": "https://www.travelpirates.com/captains-log/italy-strikes-delays-july-2026"
+      },
+      {
+        "nombre": "Cronache della Campania - Transport strikes July 21-24",
+        "url": "https://en.cronachedellacampania.it/2026/07/scioperi-nei-trasporti-settimana-nera-stop-ad-aerei-treni-e-navi-dal-21-al-24-luglio"
       }
     ],
-    "createdAt": "2026-07-21T11:22:07.000Z",
-    "updatedAt": "2026-07-21T23:35:42Z"
+    "createdAt": "2026-07-22T00:57:23.000Z",
+    "updatedAt": "2026-07-22T01:04:39Z"
   },
   {
-    "id": 2008,
-    "seccion": "protestas_internacionales",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "10:00",
-    "fecha": "2026-07-21",
-    "lugar": "Kisan Ghat, Delhi (con bloqueos frontera Shambhu Punjab-Haryana)",
-    "tipoAccion": "Mahapanchayat masiva de agricultores contra acuerdo comercial India-EEUU",
+    "id": 2021,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "15:00",
+    "fecha": "2026-07-22",
+    "lugar": "Avenida Rivadavia y Rodríguez Peña, Ciudad de Buenos Aires, hacia el Congreso Nacional",
+    "tipoAccion": "Marcha de la CGT, las dos CTA, la UTEP y organizaciones de jubilados contra las políticas económicas del gobierno de Javier Milei",
     "organizaciones": [
-      "Desh Bachao Morcha",
-      "Kisan Mazdoor Sangharsh Committee (KMSC)",
-      "Bharatiya Kisan Union (BKU Charuni)",
-      "BKU Ekta Sangharsh",
-      "Kisan Mazdoor Morcha Punjab",
-      "Azaad Kisan Morcha"
+      "CGT (Confederación General del Trabajo)",
+      "CTA Autónoma",
+      "CTA de los Trabajadores",
+      "UTEP (Unión de Trabajadores y Trabajadoras de la Economía Popular)",
+      "organizaciones de jubilados",
+      "movimientos sociales"
     ],
-    "motivo": "Agricultores de 10 estados y 550 sindicatos exigen cancelación del acuerdo comercial India-EEUU que permitiría importaciones agrícolas subsidiadas. Policía de Haryana selló frontera Shambhu y detuvo al líder Gurnam Singh Charuni. Convocación multitudinaria en Kisan Ghat.",
+    "motivo": "La CGT, las dos CTA y la UTEP encabezan una movilización conjunta junto a los jubilados frente al Congreso, marcando el inicio de una nueva etapa del plan de lucha contra las políticas económicas de Milei. Los manifestantes reclaman la recomposición de los haberes previsionales, la defensa del sistema de seguridad social y rechazan la política de endeudamiento. La protesta se realiza bajo la consigna 'La seguridad social es un derecho: marchamos junto a las y los jubilados'. La CGT no descarta un paro general si el Gobierno no ofrece respuestas. Próxima marcha confirmada: 7 de agosto (Día de San Cayetano).",
     "status": "en curso",
-    "lat": "28.6139",
-    "lng": "77.2090",
+    "lat": "-34.6037",
+    "lng": "-58.3816",
     "fuentes": [
       {
-        "nombre": "NewsX - 10 States, 550 Unions: Farmers Delhi March",
-        "url": "https://www.newsx.com/india/10-states-550-unions-why-are-farmers-planning-a-massive-delhi-march-again-everything-you-need-to-know-250600/"
+        "nombre": "La Nueva - CGT, CTA y movimientos sociales marchan mañana al Congreso junto a los jubilados",
+        "url": "https://www.lanueva.com/nota/2026-7-21-10-58-0-cgt-cta-y-movimientos-sociales-marchan-manana-al-congreso-junto-a-los-jubilados"
       },
       {
-        "nombre": "News24 - Punjab Farmers' Mahapanchayat in Delhi Today",
-        "url": "https://news24online.com/india/punjab-farmers-mahapanchayat-in-delhi-today-demand-india-us-trade-deal-be-scrapped/889411/"
+        "nombre": "La Gaceta - La CGT confirmó la movilización del 22 de julio: nueva etapa del plan de lucha",
+        "url": "https://www.lagaceta.com.ar/nota/1145914/politica/cgt-confirmo-movilizacion-22-julio-nueva-etapa-plan-lucha-contra-gobierno-nacional.html"
       },
       {
-        "nombre": "ThePrint - Gurnam Charuni detained ahead of farmers' mahapanchayat",
-        "url": "https://theprint.in/india/gurnam-charuni-detained-ahead-of-farmers-mahapanchayat-in-delhi/2991507/"
+        "nombre": "El Cactus - La CGT volverá a movilizarse contra el Gobierno tras el Mundial y evalúa un nuevo paro general",
+        "url": "https://elcactus.com.ar/2026/07/la-cgt-volvera-a-movilizarse-contra-el-gobierno-tras-el-mundial-y-evalua-un-nuevo-paro-general/"
+      },
+      {
+        "nombre": "Tercera Información - Argentina: CGT volverá a las calles contra plan económico de Milei",
+        "url": "https://www.tercerainformacion.es/articulo/internacional/20/07/2026/argentina-cgt-volvera-a-las-calles-contra-plan-economico-de-milei/"
       }
     ],
-    "createdAt": "2026-07-21T12:51:49.000Z",
-    "updatedAt": "2026-07-21T23:35:42Z"
-  },
-  {
-    "id": 2009,
-    "seccion": "protestas_internacionales",
-    "pais": "Ucrania",
-    "bandera": "🇺🇦",
-    "hora": "17:00",
-    "fecha": "2026-07-21",
-    "lugar": "Kyiv (Plaza Franko) y múltiples ciudades: Kharkiv, Ternopil, Mykolaiv, Chernivtsi, Dnipro, Odesa, Lviv, Vinnytsia, Lutsk, Ivano-Frankivsk",
-    "tipoAccion": "Sexto día consecutivo de protestas contra el despido del Ministro de Defensa Mykhailo Fedorov",
-    "organizaciones": [
-      "veteranos de guerra",
-      "sociedad civil ucraniana",
-      "activistas cívicos",
-      "organización juvenil 'Kult Derzhavy'"
-    ],
-    "motivo": "Miles de ucranianos protestan por sexto día consecutivo exigiendo la restitución de Fedorov como Ministro de Defensa y la destitución del Comandante en Jefe Oleksandr Syrskyi. Los manifestantes fijaron un plazo hasta el 24 de julio para que se tomen decisiones, tras el cual iniciarían manifestaciones indefinidas nocturnas. Zelensky reunió con Fedorov y evaluó candidatos para reemplazar a Syrskyi. Encuesta Gradus: 61% de ucranianos se opone al cese de Fedorov.",
-    "status": "en curso",
-    "lat": "50.4501",
-    "lng": "30.5234",
-    "fuentes": [
-      {
-        "nombre": "UNITED24 Media - Protests Continue Across Ukraine for Sixth Day",
-        "url": "https://united24media.com/life-in-ukraine/protests-supporting-former-defense-minister-fedorov-continue-across-ukraine-for-sixth-day-20962"
-      },
-      {
-        "nombre": "Mezha - Zelensky meets again with Fedorov as protests enter sixth day",
-        "url": "https://mezha.net/eng/bukvy/680e1d6e_zelensky_meets_again/"
-      },
-      {
-        "nombre": "Euromaidan Press - Ukraine's protesters set a 24 July deadline",
-        "url": "https://euromaidanpress.com/2026/07/20/ukraine-fedorov-protests-24-july-ultimatum/"
-      },
-      {
-        "nombre": "Infobae - Las protestas por la destitución de Mijailo Fedórov cumplen cinco días",
-        "url": "https://www.infobae.com/america/mundo/2026/07/20/las-protestas-por-la-destitucion-de-mijailo-fedorov-cumplen-cinco-dias-y-presionan-al-gobierno-de-volodimir-zelensky/"
-      }
-    ],
-    "createdAt": "2026-07-21T15:01:37.000Z",
-    "updatedAt": "2026-07-21T23:35:42Z"
-  },
-  {
-    "id": 2012,
-    "seccion": "protestas_internacionales",
-    "pais": "México",
-    "bandera": "🇲🇽",
-    "hora": "09:00",
-    "fecha": "2026-07-21",
-    "lugar": "Ciudad de México (Iztapalapa → Zócalo)",
-    "tipoAccion": "Caravana de mototaxistas por el reconocimiento del 'transporte de barrio'",
-    "organizaciones": [
-      "conductores de mototaxis",
-      "Colectiva Las Tonatzin",
-      "Plataforma 4:20",
-      "Colectivo Libertad para Mauricio"
-    ],
-    "motivo": "Segunda movilización 'Así se mueve el barrio' para reconocer y ordenar el transporte de barrio. Además, otras 20 protestas/actividades en CDMX incluyendo exigencia de justicia por abuso infantil, devolución de animales de refugio, difusión de derechos cannábicos y libertad de activista pro-Palestina.",
-    "status": "en curso",
-    "lat": "19.4326",
-    "lng": "-99.1332",
-    "fuentes": [
-      {
-        "nombre": "UnoTV - Mototaxistas encabezan protestas CDMX 21 julio",
-        "url": "https://www.unotv.com/estados/ciudad-de-mexico/mototaxistas-encabezan-protestas-y-actividades-en-cdmx-este-21-de-julio/"
-      },
-      {
-        "nombre": "El Financiero - Transportistas marchan HOY en CDMX",
-        "url": "https://www.elfinanciero.com.mx/cdmx/2026/07/21/transportistas-marchan-hoy-en-cdmx-que-calles-cerraran-este-martes-21-de-julio/"
-      },
-      {
-        "nombre": "Heraldo de México - Marchas, bloqueos y concentraciones HOY martes 21 de julio",
-        "url": "https://heraldodemexico.com.mx/nacional/2026/7/21/marchas-bloqueos-concentraciones-hoy-martes-21-de-julio-vialidades-afectadas-853767.html"
-      }
-    ],
-    "createdAt": "2026-07-21T15:01:37.000Z",
-    "updatedAt": "2026-07-21T23:35:42Z"
-  },
-  {
-    "id": 2013,
-    "seccion": "protestas_internacionales",
-    "pais": "Venezuela",
-    "bandera": "🇻🇪",
-    "hora": "10:00",
-    "fecha": "2026-07-21",
-    "lugar": "Arco de la Universidad Central de Venezuela (UCV), Caracas",
-    "tipoAccion": "Concentración pacífica por la liberación de presos políticos",
-    "organizaciones": [
-      "Alianza por la Libertad de los Presos Políticos"
-    ],
-    "motivo": "ONG convocó manifestación civil exigiendo excarcelación de detenidos por razones ideológicas y aplicación inmediata de beneficios de salud para presos con condiciones médicas severas. La situación carcelaria se agravó tras los terremotos de junio.",
-    "status": "programado",
-    "lat": "10.4906",
-    "lng": "-66.8898",
-    "fuentes": [
-      {
-        "nombre": "El Nacional - ONG convocó protesta por presos políticos en UCV",
-        "url": "https://www.elnacional.com/2026/07/ong-convoco-jornada-de-protesta-por-los-presos-politicos-en-la-ucv-para-el-21-de-julio/"
-      }
-    ],
-    "createdAt": "2026-07-21T15:01:37.000Z",
-    "updatedAt": "2026-07-21T23:35:42Z"
-  },
-  {
-    "id": 2014,
-    "seccion": "protestas_internacionales",
-    "pais": "Israel",
-    "bandera": "🇮🇱",
-    "hora": "00:29",
-    "fecha": "2026-07-21",
-    "lugar": "Jerusalem (Bar-Ilan St, Haim Bar-Lev Blvd) y Beit Shemesh (Yehuda Hanasi Blvd), Israel",
-    "tipoAccion": "Protestas ultraortodoxas contra el reclutamiento militar: bloqueo de calles en Jerusalén y Beit Shemesh, y concentración frente a la casa del fiscal general en Tel Aviv",
-    "organizaciones": [
-      "comunidad jaredí",
-      "Hasidut Gur"
-    ],
-    "motivo": "Manifestantes bloquearon calles, lanzaron objetos y se negaron a cumplir órdenes de dispersión durante una ola de protestas contra el arresto de un yeshivá por evasión del servicio militar. Miembros de Gur también se reunieron frente a la casa del fiscal general.",
-    "status": "en curso",
-    "lat": "31.7683",
-    "lng": "35.2137",
-    "fuentes": [
-      {
-        "nombre": "Jerusalem Post - Haredi protests block Jerusalem roads, gather outside A-G's residence",
-        "url": "https://www.jpost.com/israel-news/article-903120"
-      }
-    ],
-    "createdAt": "2026-07-21T18:14:18.000Z",
-    "updatedAt": "2026-07-21T23:35:42Z"
-  },
-  {
-    "id": 2015,
-    "seccion": "protestas_internacionales",
-    "pais": "Guatemala",
-    "bandera": "🇬🇹",
-    "hora": "07:03",
-    "fecha": "2026-07-21",
-    "lugar": "Calzada Roosevelt km 15, Molino de las Flores, Mixco, Guatemala",
-    "tipoAccion": "Bloqueo vial de taxistas contra aumento de precios de combustibles",
-    "organizaciones": [
-      "taxistas no autorizados",
-      "conductores de vehículos de Mixco"
-    ],
-    "motivo": "Taxistas bloquearon la Calzada Roosevelt en ambos sentidos desde las 7:03 hasta las 9:00 AM para protestar contra el alza de precios de combustibles tras el fin del subsidio gubernamental. El diésel alcanzó Q42.29 por galón. El bloqueo paralizó el acceso principal a la Ciudad de Guatemala con filas desde Santa Lucía Milpas Altas.",
-    "status": "finalizado",
-    "lat": "14.6350",
-    "lng": "-90.5560",
-    "fuentes": [
-      {
-        "nombre": "Infobae Guatemala - Taxistas bloquearon la calzada Roosevelt",
-        "url": "https://www.infobae.com/guatemala/2026/07/21/guatemala-taxistas-bloquearon-la-calzada-roosevelt-en-el-km-15-y-paralizaron-el-acceso-a-la-ciudad-capital/"
-      },
-      {
-        "nombre": "Chapin TV - Habilitan paso en calzada Roosevelt tras bloqueo",
-        "url": "https://www.chapintv.com/noticia/habilitan-paso-en-calzada-roosevelt-tras-bloqueo-de-taxistas/"
-      },
-      {
-        "nombre": "Emisoras Unidas - Manifestantes bloquean paso en calzada Roosevelt",
-        "url": "https://emisorasunidas.com/nacional/2026/07/21/manifestantes-bloquean-paso-calzada-roosevelt-trasito-combustibles/"
-      }
-    ],
-    "createdAt": "2026-07-21T19:59:11.000Z",
-    "updatedAt": "2026-07-21T23:35:42Z"
-  },
-  {
-    "id": 2018,
-    "seccion": "protestas_internacionales",
-    "pais": "Albania",
-    "bandera": "🇦🇱",
-    "hora": "18:00",
-    "fecha": "2026-07-21",
-    "lugar": "Skanderbeg Square, Dëshmorët e Kombit Boulevard, Tirana, Albania",
-    "tipoAccion": "52ª noche consecutiva de protestas de la Revolución Flamingo contra el proyecto resort Kushner-Trump en el lago Narta",
-    "organizaciones": [
-      "movimiento ciudadano Revolución Flamingo",
-      "activistas medioambientales",
-      "colectivos juveniles Gen Z",
-      "sociedad civil albanesa",
-      "diáspora albanesa"
-    ],
-    "motivo": "Quincuagésimo segundo día consecutivo de protestas nocturnas en Tirana. El movimiento exige cancelación del proyecto turístico de lujo vinculado a Jared Kushner en la Laguna Narta y la Isla de Sazan (área protegida), renuncia del PM Edi Rama, fin de la corrupción gubernamental y derogación de la Ley 21/2024 sobre áreas protegidas. El movimiento ha expandido su alcance a reclamos más amplios: mejora de educación, salud, empleo y transparencia. Las protestas son las más grandes en Albania desde la caída del comunismo en 1991.",
-    "status": "en curso",
-    "lat": "41.3289",
-    "lng": "19.8186",
-    "fuentes": [
-      {
-        "nombre": "Wikipedia - Flamingo Revolution",
-        "url": "https://en.wikipedia.org/wiki/Flamingo_Revolution"
-      },
-      {
-        "nombre": "Foreign Policy - Albania's Flamingo Revolution Against Billionaires and Autocrats",
-        "url": "https://foreignpolicy.com/2026/07/20/albania-flamingo-revolution-jared-kushner-sazan-island-resort/"
-      },
-      {
-        "nombre": "BBC - Thousands of Albanians demand prime minister's resignation",
-        "url": "https://www.bbc.com/news/articles/c8925jnl0z3o"
-      }
-    ],
-    "createdAt": "2026-07-21T22:26:09.000Z",
-    "updatedAt": "2026-07-21T23:35:42Z"
-  },
-  {
-    "id": 2019,
-    "seccion": "protestas_internacionales",
-    "pais": "Georgia",
-    "bandera": "🇬🇪",
-    "hora": "18:00",
-    "fecha": "2026-07-21",
-    "lugar": "Parlamento de Georgia, avenida Rustaveli, Tiflis, Georgia",
-    "tipoAccion": "Día 601 de protestas pro-europeas continuas frente al parlamento contra el gobierno de Georgian Dream",
-    "organizaciones": [
-      "sociedad civil georgiana",
-      "oposición pro-europea",
-      "colectivos juveniles",
-      "ONGs de derechos humanos",
-      "diáspora georgiana"
-    ],
-    "motivo": "Los manifestantes se congregaron por 601º día consecutivo frente al Parlamento en la avenida Rustaveli, exigiendo la liberación de presos políticos, la derogación de leyes represivas (Ley de Transparencia de Influencia Extranjera) y la restauración del camino de integración europea de Georgia. Las protestas continuas diarias persisten en Tiflis, Kutaisi, Zugdidi y Batumi. La Unión Europea congeló el proceso de adhesión de Georgia en diciembre de 2024. Un sondeo reciente muestra que el 71% de los georgianos sigue apoyando la adhesión a la UE.",
-    "status": "en curso",
-    "lat": "41.6976",
-    "lng": "44.7963",
-    "fuentes": [
-      {
-        "nombre": "Caucasian Knot - Pro-European protests at the parliament of Georgia continue for the 601st day",
-        "url": "https://www.eng.kavkaz-uzel.eu/articles/77108"
-      },
-      {
-        "nombre": "Eurasianet - Tbilisi protests pass 500 days with no end in sight",
-        "url": "https://eurasianet.org/tbilisi-protests-pass-500-days-with-no-end-in-sight-what-choice-do-we-have"
-      },
-      {
-        "nombre": "JAMnews - Protests in Tbilisi, Georgia",
-        "url": "https://jam-news.net/topic/protests-in-georgia/"
-      },
-      {
-        "nombre": "Wikipedia - 2024-2026 Georgian protests",
-        "url": "https://en.wikipedia.org/wiki/2024%E2%80%932026_Georgian_protests"
-      }
-    ],
-    "createdAt": "2026-07-21T23:28:32.000Z",
-    "updatedAt": "2026-07-21T23:35:42Z"
+    "createdAt": "2026-07-22T01:00:35.000Z",
+    "updatedAt": "2026-07-22T01:04:39Z"
   }
 ]
