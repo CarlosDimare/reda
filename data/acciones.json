@@ -1,19 +1,101 @@
 [
   {
-    "id": 2020,
+    "id": 2046,
+    "seccion": "protestas_internacionales",
+    "pais": "India",
+    "bandera": "🇮🇳",
+    "hora": "06:00",
+    "fecha": "2026-07-23",
+    "lugar": "Maharashtra - estado, Mumbai, Pune, Nagpur, Aurangabad y ciudades principales",
+    "tipoAccion": "Maharashtra Bandh: paro general estatal convocado por VBA en solidaridad con estudiantes CJP",
+    "organizaciones": [
+      "Vanchit Bahujan Aghadi (VBA)",
+      "Prakash Ambedkar (presidente Nacional VBA)",
+      "organizaciones estudiantiles",
+      "sindicatos",
+      "grupos civicos"
+    ],
+    "motivo": "La Vanchit Bahujan Aghadi (VBA), liderada por Prakash Ambedkar, convoco un bandh (paro general) estatal en todo Maharashtra en protesta contra la represion policial contra estudiantes que se manifestaban pacificamente en Delhi durante la marcha CJP (Cockroach Janta Party) en apoyo a las demandas de reformas educativas y renuncia del Ministro de Educacion Dharmendra Pradhan por las filtraciones del examen NEET. El bandh busca expresar solidaridad con los estudiantes y defender el derecho constitucional a la protesta pacifica. VBA pidio a partidos politicos, organizaciones estudiantiles, sindicatos y ciudadanos participar. Se esperan afectaciones al transporte publico, negocios y vida cotidiana en el estado.",
+    "status": "planeada",
+    "lat": "19.0760",
+    "lng": "72.8777",
+    "fuentes": [
+      {
+        "nombre": "WION - Maharashtra Bandh call on July 23",
+        "url": "https://www.wionews.com/india-news/maharashtra-bandh-call-on-july-23-what-all-you-need-to-know-1784733032064"
+      },
+      {
+        "nombre": "News18 - Maharashtra Bandh On July 23",
+        "url": "https://www.news18.com/india/maharashtra-bandh-on-july-23-prakash-ambedkar-urges-like-minded-parties-to-support-appeal-amid-delhi-protest-ws-l-10225701.html"
+      },
+      {
+        "nombre": "Mid-Day - VBA chief calls for Maharashtra bandh on July 23",
+        "url": "https://www.mid-day.com/mumbai/mumbai-news/article/cjp-protest-vba-chief-prakash-ambedkar-calls-for-maharashtra-bandh-on-july-23-over-education-policies-and-action-against-delhi-cjp-protest-23640930"
+      },
+      {
+        "nombre": "Pune Pulse - Maharashtra Bandh Called On July 23",
+        "url": "https://www.mypunepulse.com/maharashtra-bandh-called-on-july-23-know-why/"
+      },
+      {
+        "nombre": "CNBCTV18 - Maharashtra Bandh tomorrow",
+        "url": "https://www.cnbctv18.com/india/maharashtra-bandh-tomorrow-will-schools-colleges-trains-and-buses-remain-open-on-july-23-19951835.htm"
+      }
+    ],
+    "createdAt": "2026-07-23T00:09:06.000Z",
+    "updatedAt": "2026-07-23T00:18:46Z"
+  },
+  {
+    "id": 2047,
+    "seccion": "protestas_internacionales",
+    "pais": "Filipinas",
+    "bandera": "🇵🇭",
+    "hora": "05:00",
+    "fecha": "2026-07-23",
+    "lugar": "Filipinas - nacional, centro de huelga en Philcoa, Quezon City, Manila",
+    "tipoAccion": "Huelga de transporte nacional de MANIBELA - dia 2 de 2",
+    "organizaciones": [
+      "MANIBELA (organizacion de transporte, liderada por Mar Valbuena)"
+    ],
+    "motivo": "Segundo y ultimo dia de la huelga nacional de transporte de dos dias convocada por MANIBELA contra la serie de aumentos de precios de combustible (diesel +P10.68/litro, keroseno +P11.77/litro), la falta de implementacion del aumento de tarifas de jeepney por parte del gobierno, y demandas de aumento minimo de P2 en tarifas y eliminacion de impuestos al combustible. Se esperan aproximadamente 100.000 vehiculos de utilidad publica. El centro de huelga se establecio en la estacion Petron de Philcoa, Quezon City.",
+    "status": "en curso",
+    "lat": "14.6537",
+    "lng": "121.0686",
+    "fuentes": [
+      {
+        "nombre": "Inquirer - Manibela 2-day transport strike July 22-23",
+        "url": "https://newsinfo.inquirer.net/2267700/manibela-to-hold-2-day-transport-strike-on-july-22-23"
+      },
+      {
+        "nombre": "ABS-CBN - Manibela two-day nationwide transport strike",
+        "url": "https://www.abs-cbn.com/news/nation/2026/7/21/manibela-announces-two-day-nationwide-transport-strike-1557"
+      },
+      {
+        "nombre": "Manila Bulletin - Manibela begins 2-day strike",
+        "url": "https://mb.com.ph/2026/07/22/manibela-begins-2-day-strike-over-fuel-hikes-pushes-for-p2-fare-increase"
+      },
+      {
+        "nombre": "Philstar - Manibela sets strike, seeks P2 fare increase",
+        "url": "https://www.philstar.com/nation/2026/07/22/2543744/manibela-sets-strike-seeks-p2-fare-increase"
+      }
+    ],
+    "createdAt": "2026-07-23T00:09:06.000Z",
+    "updatedAt": "2026-07-23T00:18:46Z"
+  },
+  {
+    "id": 2048,
     "seccion": "protestas_internacionales",
     "pais": "Italia",
     "bandera": "🇮🇹",
-    "hora": "12:00",
-    "fecha": "2026-07-22",
-    "lugar": "Múltiples rutas marítimas: Génova-Palermo, Génova-Barcelona, Génova-Túnez, Civitavecchia-Palermo, Italia-Sardeña",
-    "tipoAccion": "Huelga nacional marítima de 24 horas de la compañía de ferris Grandi Navi Veloci (GNV)",
+    "hora": "00:00",
+    "fecha": "2026-07-23",
+    "lugar": "Multiples rutas maritimas: Genova-Palermo, Genova-Barcelona, Genova-Tunez, Civitavecchia-Palermo, Italia-Sardenia",
+    "tipoAccion": "Huelga nacional maritima de Grandi Navi Veloci (GNV) - dia 2, afectando la manana del 23 de julio",
     "organizaciones": [
       "ORSA Marittimi",
       "CSLE",
       "trabajadores y tripulaciones de Grandi Navi Veloci"
     ],
-    "motivo": "Huelga de 24 horas de los trabajadores de Grandi Navi Veloci, una de las principales compañías de ferris de larga distancia de Italia. La acción afecta a rutas clave del Mediterráneo incluyendo conexiones con Sicilia, Cerdeña, España y Túnez. Los trabajadores exigen mejores condiciones laborales y salariales. Las salidas programadas después del mediodía del 22 de julio y la mañana del 23 tienen mayor riesgo de cancelación.",
+    "motivo": "Segundo dia de la huelga de 24 horas de los trabajadores de Grandi Navi Veloci. La accion afecta rutas clave del Mediterraneo incluyendo conexiones con Sicilia, Sardenia, Espana y Tunez. Las salidas programadas despues del mediodia del 22 de julio y la manana del 23 tienen mayor riesgo de cancelacion. Los trabajadores exigen mejores condiciones laborales y salariales.",
     "status": "en curso",
     "lat": "44.4056",
     "lng": "8.9463",
@@ -27,771 +109,151 @@
         "url": "https://visitworld.today/blog/4179/transportation-strikes-in-italy-july-20-25-2026-dates-and-possible-disruptions"
       },
       {
-        "nombre": "TravelPirates - Italy Strikes Delays July 2026",
-        "url": "https://www.travelpirates.com/captains-log/italy-strikes-delays-july-2026"
-      },
-      {
         "nombre": "Cronache della Campania - Transport strikes July 21-24",
         "url": "https://en.cronachedellacampania.it/2026/07/scioperi-nei-trasporti-settimana-nera-stop-ad-aerei-treni-e-navi-dal-21-al-24-luglio"
       }
     ],
-    "createdAt": "2026-07-22T00:57:23.000Z",
-    "updatedAt": "2026-07-22T23:11:31Z"
+    "createdAt": "2026-07-23T00:09:06.000Z",
+    "updatedAt": "2026-07-23T00:18:46Z"
   },
   {
-    "id": 2021,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "15:00",
-    "fecha": "2026-07-22",
-    "lugar": "Avenida Rivadavia y Rodríguez Peña, Ciudad de Buenos Aires, hacia el Congreso Nacional; sedes regionales en Rosario (PAMI San Lorenzo 926 a ANSES), Córdoba (Catedral a Colón y General Paz), Mendoza, Tucumán, Mar del Plata (PAMI, 16h), Bahía Blanca, San Nicolás y Pergamino",
-    "tipoAccion": "Marcha de la CGT, las dos CTA, la UTEP, ATE y organizaciones de jubilados contra las políticas económicas del gobierno de Javier Milei",
-    "organizaciones": [
-      "CGT (Confederación General del Trabajo)",
-      "CTA Autónoma",
-      "CTA de los Trabajadores",
-      "UTEP (Unión de Trabajadores y Trabajadoras de la Economía Popular)",
-      "ATE (Asociación Trabajadores del Estado)",
-      "organizaciones de jubilados",
-      "movimientos sociales",
-      "Movimiento Derecho al Futuro (MDF)",
-      "Frente de Izquierda (FIT)",
-      "UOM",
-      "Intersindical Rosario"
-    ],
-    "motivo": "La CGT, las dos CTA, la UTEP y ATE encabezan una movilización conjunta junto a los jubilados frente al Congreso, marcando el inicio de una nueva etapa del plan de lucha contra las políticas económicas de Milei. Los manifestantes reclaman la recomposición de los haberes previsionales (jubilación mínima $411.989 vs canasta básica $1.824.682), la defensa del sistema de seguridad social, la restitución de la cobertura de medicamentos del PAMI, y rechazan la política de endeudamiento. La protesta se realizó bajo la consigna 'La seguridad social es un derecho: marchamos junto a las y los jubilados'. Es la primera movilización sindical post-Mundial 2026. En Córdoba, la CGT local confluó con la protesta habitual de jubilados desde la Catedral hacia Colón y General Paz; el secretario general Andrés Colazo afirmó que 'están dadas las condiciones para un paro general'. La marcha tuvo réplicas en Rosario, Córdoba, Mendoza, Tucumán, Mar del Plata, Bahía Blanca, San Nicolás y Pergamino. Próxima marcha confirmada: 7 de agosto (Día de San Cayetano).",
-    "status": "concluida",
-    "lat": "-34.6037",
-    "lng": "-58.3816",
-    "fuentes": [
-      {
-        "nombre": "Infobae - Protestas de la CGT, en vivo: hubo incidentes en Avellaneda y se espera una movilización hacia el Congreso",
-        "url": "https://www.infobae.com/politica/2026/07/22/protestas-de-la-cgt-en-vivo-las-ultimas-noticias-sobre-los-cortes-y-acciones-hoy-22-de-julio/"
-      },
-      {
-        "nombre": "TN - Marcha de la CGT junto a los jubilados: manifestantes cortan los accesos a CABA",
-        "url": "https://tn.com.ar/politica/2026/07/22/la-cgt-la-cta-y-movimientos-sociales-marchan-este-miercoles-al-congreso-junto-a-los-jubilados/"
-      },
-      {
-        "nombre": "La Nación - Violento enfrentamiento entre piqueteros y las fuerzas de seguridad",
-        "url": "https://www.lanacion.com.ar/politica/violento-enfrentamiento-entre-piqueteros-y-las-fuerzas-de-seguridad-en-protestas-contra-el-gobierno-nid22072026/"
-      },
-      {
-        "nombre": "EFE vía ABC Color - Centrales obreras argentinas vuelven a las calles por jubilados y contra ajustes de Milei",
-        "url": "https://www.abc.com.py/internacionales/2026/07/22/centrales-obreras-argentinas-vuelven-a-las-calles-por-jubilados-y-contra-ajustes-de-milei/"
-      },
-      {
-        "nombre": "APFDigital - La CGT marcha hoy junto a jubilados: La dignidad no se negocia",
-        "url": "https://www.apfdigital.com.ar/noticias/2026/07/22/463939-la-cgt-marcha-hoy-junto-a-jubilados-la-dignidad-no-se-negocia"
-      },
-      {
-        "nombre": "La Voz - Marcha de la CGT en Córdoba capital: hora y recorrido",
-        "url": "https://www.lavoz.com.ar/politica/marcha-cgt-cordoba-capital-hora-arranca-recorrido_0_j7I6bkYYzk.html"
-      },
-      {
-        "nombre": "Comercio y Justicia - Movilización de la CGT este miércoles en Córdoba y en todo el país",
-        "url": "https://comercioyjusticia.info/lo-ultimo/movilizacion-de-la-cgt-este-miercoles-en-cordoba-y-en-todo-el-pais/"
-      },
-      {
-        "nombre": "El Universal - Argentina vuelve a las calles: crece la presión contra los recortes de Milei",
-        "url": "https://www.eluniversal.com.co/mundo/2026/07/22/argentina-vuelve-a-las-calles-crece-la-presion-contra-los-recortes-de-javier-milei/"
-      },
-      {
-        "nombre": "Página 12 - La CGT pisa el acelerador frente a un Gobierno sordo y pone en marcha un plan de lucha contra Milei",
-        "url": "https://www.pagina12.com.ar/2026/07/22/la-cgt-pisa-el-acelerador-frente-a-un-gobierno-sordo-y-pone-en-marcha-un-plan-de-lucha-contra-milei/"
-      },
-      {
-        "nombre": "BorderPeriodismo - Tensión en los accesos a CABA y marcha al Congreso",
-        "url": "https://www.borderperiodismo.com/actualidad/tension-en-los-accesos-a-caba-y-marcha-al-congreso-las-organizaciones-sociales-y-la-cgt-reactivan-las-protestas-tras-el-receso-mundialista/"
-      },
-      {
-        "nombre": "Diario Río Negro - Incidentes en CABA por una protesta de organizaciones de izquierda",
-        "url": "https://www.rionegro.com.ar/gremios/incidentes-en-caba-por-una-protesta-de-organizaciones-de-izquierda-hay-presencia-de-gendarmeria-y-policia-federal-4656736/"
-      }
-    ],
-    "createdAt": "2026-07-22T01:00:35.000Z",
-    "updatedAt": "2026-07-22T23:11:31Z"
-  },
-  {
-    "id": 2036,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "09:00",
-    "fecha": "2026-07-22",
-    "lugar": "Nacional - más de 80 puntos de cortes de ruta, puentes y accesos en todo el país; epicentros en Avellaneda/Puente Pueyrredón (gas pimienta, camión hidrante), Rosario (Circunvalación, autopista a Buenos Aires desalojada por Gendarmería), La Plata (bajada autopista, 120 y 32), Mar del Plata, y accesos a la Ciudad de Buenos Aires (Puente Saavedra, Ciudadela/Liners, Puente La Noria, Ruta 3 y General Paz, Rivadavia y General Paz en Liniers); también Bahía Blanca, San Nicolás, Pergamino",
-    "tipoAccion": "Jornada Nacional de Lucha: cortes de ruta, piquetes, asambleas y movilizaciones en defensa del programa Volver al Trabajo",
-    "organizaciones": [
-      "UTEP (Unión de Trabajadores y Trabajadoras de la Economía Popular)",
-      "Frente de Lucha Piquetero",
-      "Territorios en Lucha",
-      "movimientos sociales y territoriales",
-      "organizaciones campesinas y sindicales de base",
-      "Polo Obrero",
-      "MST (Movimiento Socialista de los Trabajadores)",
-      "MTE (Movimiento de Trabajadores Excluidos)",
-      "Movimiento Evita",
-      "Movimiento Teresa Rodríguez (MTR)",
-      "Libres del Sur",
-      "Organización Comunista Revolucionaria",
-      "Unidad Piquetera"
-    ],
-    "motivo": "Rechazo a la decisión judicial de la Cámara Federal de San Martín que revocó la cautelar que mantenía el programa Volver al Trabajo, habilitando al Gobierno a dar de baja a más de 930.000 beneficiarios que perciben $78.000 mensuales. Bajo el lema 'Trabajo sin salario es esclavitud', las organizaciones realizaron más de 80 cortes de ruta, puentes y accesos en todo el país desde las 9 de la mañana. En Avellaneda, la Infantería de la Policía Federal y Prefectura avanzó sobre la Av. Hipólito Yrigoyen con gas pimienta y camión hidrante para intentar despejar el Puente Pueyrredón; se registraron neumáticos en llamas y lanzamiento de piedras. En Rosario, la Gendarmería desalojó cortes en la autopista a Buenos Aires sin incidentes graves. Unidad Piquetera levantó los cortes tras 5 horas sin obtener respuesta del Ministerio de Desarrollo Social (Victoria Tolosa Paz). La ministra de Seguridad Alejandra Monteoliva defendió el uso del protocolo antipiquetes. Las organizaciones advirtieron que el plan de lucha es progresivo y continuará.",
-    "status": "concluida",
-    "lat": "-34.6037",
-    "lng": "-58.3816",
-    "fuentes": [
-      {
-        "nombre": "TN - Tensión en Avellaneda: la policía aplicó el protocolo antipiquetes y desalojó a los manifestantes",
-        "url": "https://tn.com.ar/politica/2026/07/22/la-cgt-la-cta-y-movimientos-sociales-marchan-este-miercoles-al-congreso-junto-a-los-jubilados/"
-      },
-      {
-        "nombre": "Infobae - Protestas de la CGT, en vivo: hubo incidentes en Avellaneda",
-        "url": "https://www.infobae.com/politica/2026/07/22/protestas-de-la-cgt-en-vivo-las-ultimas-noticias-sobre-los-cortes-y-acciones-hoy-22-de-julio/"
-      },
-      {
-        "nombre": "La Nación - Violento enfrentamiento entre piqueteros y las fuerzas de seguridad",
-        "url": "https://www.lanacion.com.ar/politica/violento-enfrentamiento-entre-piqueteros-y-las-fuerzas-de-seguridad-en-protestas-contra-el-gobierno-nid22072026/"
-      },
-      {
-        "nombre": "Clarín - Protesta en Avellaneda: la Policía Federal busca despejar un piquete en Puente Pueyrredón",
-        "url": "https://www.clarin.com/politica/protesta-avellaneda-policia-federal-busca-despejar-piquete-agrupaciones-sociales-puente-pueyrredon_0_uG9KnPMYt6.html"
-      },
-      {
-        "nombre": "El Argentino Diario - Tensión en el Puente Pueyrredón: fuerzas federales reprimieron el corte con gas pimienta e hidrantes",
-        "url": "https://elargentinodiario.com.ar/zona-destacada/22/07/2026/tension-en-el-puente-pueyrredon-fuerzas-federales-reprimieron-el-corte-con-gas-pimienta-e-hidrantes/"
-      },
-      {
-        "nombre": "Crónica - Tensión en Puente Pueyrredón: cortan Yrigoyen",
-        "url": "https://www.cronica.com.ar/politica/tension-en-puente-pueyrredon-integrantes-de-organizaciones-sociales-y-partidos-politicos-cortan-yrigoyen-2938/"
-      },
-      {
-        "nombre": "El Diario Sur - Corte total en Pavón e incidentes en Avellaneda por protesta del Polo Obrero",
-        "url": "https://www.eldiariosur.com/nacionales/2026/7/22/corte-total-en-pavon-incidentes-en-avellaneda-por-protesta-del-polo-obrero-81850.html"
-      },
-      {
-        "nombre": "Dos Líneas - Unidad Piquetera levantó los cortes de los accesos a CABA",
-        "url": "https://doslineas.com.ar/nota/18005/unidad_piquetera_levanto_los_cortes_de_los_accesos_a_caba/"
-      },
-      {
-        "nombre": "Diario Río Negro - Incidentes en CABA por una protesta de organizaciones de izquierda",
-        "url": "https://www.rionegro.com.ar/gremios/incidentes-en-caba-por-una-protesta-de-organizaciones-de-izquierda-hay-presencia-de-gendarmeria-y-policia-federal-4656736/"
-      },
-      {
-        "nombre": "MendoVoz - Habrá cortes de ruta y movilizaciones en todo el país contra la baja de programas sociales",
-        "url": "https://www.mendovoz.com/actualidad/provinciales/2026/7/21/habra-cortes-de-ruta-movilizaciones-en-todo-el-pais-contra-la-baja-de-programas-sociales-174317.html"
-      },
-      {
-        "nombre": "Gestión Sindical - Miércoles de piquetes en todo el país contra la quita de 930.000 planes sociales",
-        "url": "https://gestionsindical.com/miercoles-piquetes-todo-pais-quita-930-000-planes-sociales/"
-      },
-      {
-        "nombre": "Infobae - Marchas y piquetes: los movimientos sociales cortarán accesos en rechazo a la baja del programa Volver al Trabajo",
-        "url": "https://www.infobae.com/politica/2026/07/21/marchas-y-piquetes-los-movimientos-sociales-cortaran-accesos-en-rechazo-a-la-baja-del-programa-volver-al-trabajo/"
-      }
-    ],
-    "createdAt": "2026-07-22T04:23:03.000Z",
-    "updatedAt": "2026-07-22T23:11:31Z"
-  },
-  {
-    "id": 2039,
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "16:00",
-    "fecha": "2026-07-22",
-    "lugar": "Sede del PAMI, avenida Independencia y Luro, Mar del Plata, Provincia de Buenos Aires",
-    "tipoAccion": "Movilización de las tres centrales sindicales de Mar del Plata en respaldo a jubilados y pensionados",
-    "organizaciones": [
-      "CGT Mar del Plata",
-      "CTA Autónoma Mar del Plata",
-      "CTA de los Trabajadores Mar del Plata",
-      "UTEP Mar del Plata-Batán",
-      "Multisectorial de Jubilados y Pensionados"
-    ],
-    "motivo": "Las tres centrales sindicales de Mar del Plata convocaron a una Jornada Nacional de Lucha en respaldo al reclamo de jubilados y pensionados. La movilización parte de la sede del PAMI (Independencia y Luro) hacia la Municipalidad, donde realizaron merienda popular y corte de calle. Reclaman recomposición inmediata de jubilaciones y pensiones, restitución plena de la cobertura de medicamentos y programas sociales del PAMI, y rechazo a la caída del salario social complementario del programa Volver al Trabajo cuya reducción comenzará a regir en agosto. Hubo cortes en la Ruta 2 y en calles del centro de la ciudad.",
-    "status": "concluida",
-    "lat": "-38.0055",
-    "lng": "-57.5426",
-    "fuentes": [
-      {
-        "nombre": "El retrato de Hoy - Centrales sindicales se movilizan ante el PAMI en apoyo a jubilados",
-        "url": "https://elretratodehoy.com.ar/2026/07/21/las-centrales-sindicales-se-movilizan-ante-el-pami-en-apoyo-a-jubilados-y-pensionados/"
-      },
-      {
-        "nombre": "TN - Tensión en Avellaneda: hay cortes en rutas de Córdoba, Tucumán, Mar del Plata y Rosario",
-        "url": "https://tn.com.ar/politica/2026/07/22/la-cgt-la-cta-y-movimientos-sociales-marchan-este-miercoles-al-congreso-junto-a-los-jubilados/"
-      },
-      {
-        "nombre": "Infobae - Protestas de la CGT: se registran concentraciones en Mar del Plata",
-        "url": "https://www.infobae.com/politica/2026/07/22/protestas-de-la-cgt-en-vivo-las-ultimas-noticias-sobre-los-cortes-y-acciones-hoy-22-de-julio/"
-      },
-      {
-        "nombre": "La Tecla Mar del Plata - La protesta gana la calle en 'La Feliz'",
-        "url": "https://www.lateclamardelplata.com.ar/"
-      },
-      {
-        "nombre": "0223.com.ar - Jubilados vuelven a las calles con el respaldo de las tres centrales sindicales",
-        "url": "https://www.0223.com.ar/nota/2026-7-22-11-11-0-jubilados-vuelven-a-las-calles-con-el-respaldo-de-las-tres-centrales-sindicales"
-      },
-      {
-        "nombre": "Clarín - Organizaciones sociales y sindicales realizan jornada de protesta en Mar del Plata",
-        "url": "https://www.clarin.com/politica/protesta-avellaneda-policia-federal-busca-despejar-piquete-agrupaciones-sociales-puente-pueyrredon_0_uG9KnPMYt6.html"
-      }
-    ],
-    "createdAt": "2026-07-22T17:19:53.000Z",
-    "updatedAt": "2026-07-22T23:11:31Z"
-  },
-  {
-    "id": 2023,
+    "id": 2049,
     "seccion": "protestas_internacionales",
     "pais": "India",
     "bandera": "🇮🇳",
     "hora": "10:00",
-    "fecha": "2026-07-22",
-    "lugar": "Jantar Mantar, Nueva Delhi",
-    "tipoAccion": "Sentada continua (día ~25) contra filtración de exámenes NEET",
+    "fecha": "2026-07-23",
+    "lugar": "Jantar Mantar, Nueva Delhi; alrededores del Parlamento; metro cerrado en Janpath, Rajiv Chowk, Patel Chowk y Central Secretariat",
+    "tipoAccion": "Sentada continua CJP (Cockroach Janta Party) - dia ~34 de protesta en Jantar Mantar",
     "organizaciones": [
       "Cockroach Janta Party (CJP)",
+      "Abhijeet Dipke (fundador)",
       "partidarios de Sonam Wangchuk",
-      "sindicatos estudiantiles"
+      "sindicatos estudiantiles",
+      "AISA (All India Students Association)",
+      "congreso de oposicion (Rahul Gandhi, Priyanka Gandhi)"
     ],
-    "motivo": "Exigen la renuncia del Ministro de Educación Dharmendra Pradhan por las filtraciones del examen NEET que afectan a 2,2 millones de estudiantes. Más de 12 estudiantes se suicidaron como consecuencia. La protesta demanda reformas educativas profundas. Miles se reagruparon tras un operativo policial; cientos ordenan comida para el sitio. Día clave: oposición con ropa negra en parlamento, CJP rechaza negociaciones sin renuncia previa, 16 estaciones de metro cerradas en Delhi.",
+    "motivo": "Continua la sentada masiva en Jantar Mantar, ahora en su ~34 dia consecutivo. Los manifestantes exigen la renuncia del Ministro de Educacion Dharmendra Pradhan por las filtraciones del examen NEET que afectan a 2.2 millones de estudiantes (mas de 12 suicidios). El conflicto escalo el 20 de julio con la marcha Chalo Sansad hacia el Parlamento, donde la policia uso gases lacrimogenos y lathis. Sonam Wangchuk continua en huelga de hambre desde el 28 de junio, hospitalizado en Medanta Hospital. El Congreso y la oposicion vistieron negro en el Parlamento. PM Modi califico las filtraciones de ghor paap (pecado grave).",
     "status": "en curso",
     "lat": "28.6270",
     "lng": "77.2167",
     "fuentes": [
       {
+        "nombre": "NDTV - CJP Protest LIVE Updates Jul 22",
+        "url": "https://www.ndtv.com/india-news/cjp-protest-in-delhi-live-cockroach-janta-party-parliament-protest-abhijeet-dipke-jantar-mantar-sonam-wangchuk-parliament-monsoon-session-saurav-das-11794314"
+      },
+      {
+        "nombre": "CNN - India CJP protests Gen-Z political fury",
+        "url": "https://edition.cnn.com/2026/07/22/india/india-cockroach-party-protest-anger-intl-hnk"
+      },
+      {
         "nombre": "The Hindu - CJP Jantar Mantar protest live updates",
         "url": "https://www.thehindu.com/news/national/cjp-jantar-mantar-protest-live-updates-rahul-gandhi-news-abhijeet-dipke-sonam-wangchuk-saurav-das-parliament-session/article71251952.ece"
-      },
-      {
-        "nombre": "BBC - CJP protest live updates",
-        "url": "https://www.bbc.com/news/articles/c98v349r9lro"
-      },
-      {
-        "nombre": "Al Jazeera - India opposition leader Gandhi freed after detention",
-        "url": "https://www.aljazeera.com/news/2026/7/22/india-opposition-leader-gandhi-freed-after-detention-at-student-led-protest"
-      },
-      {
-        "nombre": "RTL Today - Cockroach movement keeps up pressure on Modi",
-        "url": "https://today.rtl.lu/news/world/india-student-protests-keep-up-pressure-on-modi-government-1131662604"
-      },
-      {
-        "nombre": "Globe and Mail - India's Cockroach protests force parliament suspension",
-        "url": "https://www.theglobeandmail.com/world/article-india-protests-cockroach-janta-party-modi/"
-      },
-      {
-        "nombre": "The Independent - Cockroach protest swells in number as youth lock down central Delhi",
-        "url": "https://www.independent.co.uk/asia/india/india-cjp-protest-cockroach-movement-delhi-modi-rahul-gandhi-b3019194.html"
       }
     ],
-    "createdAt": "2026-07-22T04:19:17.000Z",
-    "updatedAt": "2026-07-22T23:11:31Z"
+    "createdAt": "2026-07-23T00:09:06.000Z",
+    "updatedAt": "2026-07-23T00:18:46Z"
   },
   {
-    "id": 2025,
-    "seccion": "protestas_internacionales",
-    "pais": "Filipinas",
-    "bandera": "🇵🇭",
-    "hora": "05:00",
-    "fecha": "2026-07-22",
-    "lugar": "Filipinas - nacional, centro de huelga en Philcoa, Quezon City, Manila",
-    "tipoAccion": "Huelga de transporte nacional de dos días (22-23 de julio)",
-    "organizaciones": [
-      "MANIBELA (organización de transporte, liderada por Mar Valbuena)"
-    ],
-    "motivo": "Huelga contra la serie de aumentos de precios de combustible, la falta de implementación del aumento de tarifas de jeepney por parte del gobierno, y demandas de aumento mínimo de P2 en tarifas y eliminación de impuestos excise/IVA al combustible. Se esperan aproximadamente 100.000 vehículos de utilidad pública. Clases suspendidas en algunas zonas. El Secretario de Transporte ordenó a LTFRB iniciar consultas sobre aumentos de tarifas.",
-    "status": "en curso",
-    "lat": "14.6537",
-    "lng": "121.0686",
-    "fuentes": [
-      {
-        "nombre": "GMA News - Manibela starts 2-day transport strike",
-        "url": "https://www.gmanetwork.com/news/topstories/nation/995704/manibela-starts-2-day-transport-strike-vs-mega-oil-price-hike/story/"
-      },
-      {
-        "nombre": "ABS-CBN - Manibela announces two-day nationwide transport strike",
-        "url": "https://www.abs-cbn.com/news/nation/2026/7/21/manibela-announces-two-day-nationwide-transport-strike-1557"
-      },
-      {
-        "nombre": "Manila Bulletin - Manibela begins 2-day strike over fuel hikes",
-        "url": "https://mb.com.ph/2026/07/22/manibela-begins-2-day-strike-over-fuel-hikes-pushes-for-p2-fare-increase"
-      },
-      {
-        "nombre": "ABS-CBN - Manibela kicks off two-day transport strike; some commuters affected",
-        "url": "https://www.abs-cbn.com/news/nation/2026/7/22/manibela-kicks-off-two-day-transport-strike-some-commuters-affected-1102"
-      }
-    ],
-    "createdAt": "2026-07-22T04:19:17.000Z",
-    "updatedAt": "2026-07-22T23:11:31Z"
-  },
-  {
-    "id": 2026,
-    "seccion": "protestas_internacionales",
-    "pais": "Pakistán",
-    "bandera": "🇵🇰",
-    "hora": "00:00",
-    "fecha": "2026-07-22",
-    "lugar": "Nacional - estaciones de servicio en todo Pakistán, Islamabad",
-    "tipoAccion": "Huelga indefinida de estaciones de servicio de combustible (anunciada, aplazada tras negociaciones)",
-    "organizaciones": [
-      "All Pakistan Petroleum Dealers Association (APPDA)",
-      "All Pakistan Petroleum Pump Owners Association (APPPOA)"
-    ],
-    "motivo": "La APPPOA anunció una huelga indefinida a partir de medianoche del 22 de julio tras el fracaso de las negociaciones con el Ministro Federal de Petróleo, exigiendo aumento de márgenes de ganancia y oposición al mecanismo de ajuste diario de precios. Sin embargo, tras nuevas negociaciones durante el día 22, el Ministro de Petróleo Ali Pervaiz Malik anunció que la huelga fue aplazada por dos semanas tras compromisos del gobierno de abordar las demandas. El gobierno subió precios de petróleo Rs 4.93/litro y diésel Rs 7.15/litro el 22 de julio.",
-    "status": "aplazada",
-    "lat": "33.6941",
-    "lng": "73.0479",
-    "fuentes": [
-      {
-        "nombre": "Pakistan Times - Petrol pump owners announce indefinite nationwide strike from July 22",
-        "url": "https://www.pakistantimes.com/petrol-pump-owners-announce-indefinite-nationwide-strike-from-july-22-midnight-13699/"
-      },
-      {
-        "nombre": "Business Recorder - Petrol pump owners defer strike call after talks with govt",
-        "url": "https://www.brecorder.com/news/40431284"
-      },
-      {
-        "nombre": "Nation - Fuel crisis looms as petrol pump owners announce strike",
-        "url": "https://www.nation.com.pk/22-Jul-2026/fuel-crisis-looms-petrol-pump-owners-announce-strike"
-      },
-      {
-        "nombre": "Tribune - Govt raises POL prices as pump strike looms",
-        "url": "https://tribune.com.pk/story/2619580/govt-raises-pol-prices-as-pump-strike-looms"
-      }
-    ],
-    "createdAt": "2026-07-22T04:19:17.000Z",
-    "updatedAt": "2026-07-22T23:11:31Z"
-  },
-  {
-    "id": 2029,
-    "seccion": "protestas_internacionales",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "06:00",
-    "fecha": "2026-07-22",
-    "lugar": "Nice, red de transporte Lignes d'Azur",
-    "tipoAccion": "Huelga de la red de transporte público Lignes d'Azur",
-    "organizaciones": [
-      "trabajadores de Lignes d'Azur"
-    ],
-    "motivo": "Segunda huelga en una semana (la primera fue el 15 de julio) por aumentos salariales insuficientes. La mayoría de líneas operan en horario domingo/feriado; líneas 36, 37 y Cadam Este sin servicio. Centro de huelga operativo. Se mantiene servicio reforzado al estadio por concierto de The Weeknd.",
-    "status": "en curso",
-    "lat": "43.7102",
-    "lng": "7.2620",
-    "fuentes": [
-      {
-        "nombre": "Nice Premium - Strike on Lignes d'Azur network",
-        "url": "https://www.nice-premium.com/strike-new-social-movement-this-wednesday-july-22-on-the-lignes-d-azur-network/"
-      },
-      {
-        "nombre": "Datasurfr - Public transport disruptions announced across Nice on Wednesday (22 July)",
-        "url": "https://datasurfr.ai/news/public-transport-disruptions-announced-across-nice-on-wednesday-22-july/"
-      }
-    ],
-    "createdAt": "2026-07-22T04:19:17.000Z",
-    "updatedAt": "2026-07-22T23:11:31Z"
-  },
-  {
-    "id": 2031,
-    "seccion": "protestas_internacionales",
-    "pais": "Yemen",
-    "bandera": "🇾🇪",
-    "hora": "09:00",
-    "fecha": "2026-07-22",
-    "lugar": "Adén, Mukalla, Dhale, Abyan y Shabwa, gobernaciones del sur de Yemen",
-    "tipoAccion": "Manifestaciones masivas en ciudades del sur",
-    "organizaciones": [
-      "sociedad civil del Yemen del sur",
-      "movimientos políticos regionales del sur",
-      "Mandelas del Consejo de Transición del Sur (STC)"
-    ],
-    "motivo": "Rechazo a cualquier acuerdo político que otorgue a los hutíes influencia sobre el sur de Yemen o sus recursos. Respuesta a declaraciones de Rashad al-Alimi, presidente del Consejo de Liderazgo Presidencial. Miles reunidos en Adén, Mukalla, Dhale, Abyan y Shabwa. Se izan banderas del Yemen del Sur. En Mukalla, fuerzas de seguridad respaldadas por Arabia Saudí dispararon contra manifestantes para dispersarlos.",
-    "status": "en curso",
-    "lat": "12.7855",
-    "lng": "45.0187",
-    "fuentes": [
-      {
-        "nombre": "Voice of Emirates - Mass demonstrations in southern Yemen",
-        "url": "https://www.voiceofemirates.com/en/news/2026/07/22/anger-in-southern-yemen-mass-demonstrations-reject-any-settlement-that-grants-the-houthis-influence/"
-      },
-      {
-        "nombre": "Yemen Online - Southern Protests Reject Houthi Empowerment",
-        "url": "https://www.yemenonline.info/special-reports/13175"
-      },
-      {
-        "nombre": "Yemen Press Agency - Saudi-backed forces open fire to disperse STC supporters in Mukalla",
-        "url": "https://en.ypagency.net/399749"
-      }
-    ],
-    "createdAt": "2026-07-22T04:19:17.000Z",
-    "updatedAt": "2026-07-22T23:11:31Z"
-  },
-  {
-    "id": 2032,
-    "seccion": "protestas_internacionales",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
-    "hora": "08:00",
-    "fecha": "2026-07-22",
-    "lugar": "Federal Courthouse, Baxter St & Worth St, Manhattan, Nueva York",
-    "tipoAccion": "Rally 'Free Maduro'",
-    "organizaciones": [
-      "Brooklyn Against War",
-      "Anti-War Action Network",
-      "Workers World Party",
-      "International Action Center",
-      "Palaver Collective",
-      "Black Alliance for Peace",
-      "International League of People's Struggle"
-    ],
-    "motivo": "Exigen la cancelación del enjuiciamiento de EE.UU. contra el presidente venezolano Maduro y la primera dama Cilia Flores. Solidaridad antiimperialista. El rally coincide con la audiencia judicial de Maduro en la corte federal de Manhattan.",
-    "status": "planeada",
-    "lat": "40.7153",
-    "lng": "-74.0003",
-    "fuentes": [
-      {
-        "nombre": "Before It's News - July 22 NYC protest to demand Free President Maduro",
-        "url": "https://beforeitsnews.com/opinion-liberal/2026/07/july-22-nyc-protest-to-demand-free-president-maduro-and-first-lady-flores-2630899.html"
-      },
-      {
-        "nombre": "A-FSA - Support kidnapped Venezuelan Pres Maduro & Cilia Flores at Fed Court, NYC",
-        "url": "https://www.a-fsa.de/events/4091-20260722.htm"
-      }
-    ],
-    "createdAt": "2026-07-22T04:19:17.000Z",
-    "updatedAt": "2026-07-22T23:11:31Z"
-  },
-  {
-    "id": 2033,
-    "seccion": "protestas_internacionales",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
-    "hora": "12:00",
-    "fecha": "2026-07-22",
-    "lugar": "200 North High Street, Columbus, Ohio",
-    "tipoAccion": "Manifestación contra los senadores Husted y Moreno",
-    "organizaciones": [
-      "Indivisible Central Ohio"
-    ],
-    "motivo": "Oposición a los senadores Bernie Moreno y John Husted por su apoyo a lo que los organizadores describen como 'toma fascista de la democracia'.",
-    "status": "planeada",
-    "lat": "39.9612",
-    "lng": "-83.0007",
-    "fuentes": [
-      {
-        "nombre": "Indivisible Central Ohio - Events",
-        "url": "https://indivisiblecentralohio.org/events"
-      }
-    ],
-    "createdAt": "2026-07-22T04:19:17.000Z",
-    "updatedAt": "2026-07-22T23:11:31Z"
-  },
-  {
-    "id": 2035,
-    "seccion": "protestas_internacionales",
-    "pais": "Corea del Sur",
-    "bandera": "🇰🇷",
-    "hora": "12:00",
-    "fecha": "2026-07-22",
-    "lugar": "Embajada de Israel, Jongno District, Seúl",
-    "tipoAccion": "Protesta diaria de una persona por Palestina (~día 693)",
-    "organizaciones": [
-      "Coalición de 352 grupos cívicos incluyendo Palestine Peace Solidarity"
-    ],
-    "motivo": "Protesta diaria en relay de una persona contra la campaña militar de Israel en Gaza y la complicidad de empresas coreanas (HD Hyundai, Korea National Oil Corp.). Cerca del día 700 de protesta consecutiva. Un nuevo participante cada día: estudiantes, oficinistas, poetas, personas con discapacidad.",
-    "status": "en curso",
-    "lat": "37.5726",
-    "lng": "126.9770",
-    "fuentes": [
-      {
-        "nombre": "Korea Times - Meet the pro-Palestinian activists nearing 700th day of protest",
-        "url": "https://www.koreatimes.co.kr/southkorea/society/20260721/meet-the-pro-palestinian-activists-in-korea-nearing-their-700th-day-of-protest"
-      }
-    ],
-    "createdAt": "2026-07-22T04:19:17.000Z",
-    "updatedAt": "2026-07-22T23:11:31Z"
-  },
-  {
-    "id": 2037,
-    "seccion": "protestas_internacionales",
-    "pais": "Albania",
-    "bandera": "🇦🇱",
-    "hora": "19:30",
-    "fecha": "2026-07-22",
-    "lugar": "Skanderbeg Square y Dëshmorët e Kombit Boulevard, Tirana",
-    "tipoAccion": "Manifestación diaria de la 'Revolución de los Flamencos' (día 53 consecutivo)",
-    "organizaciones": [
-      "Lëvizja Bashkë",
-      "coalición de 45+ grupos cívicos",
-      "movimiento de la sociedad civil albanesa",
-      "diáspora albanesa"
-    ],
-    "motivo": "53º día consecutivo de protestas masivas contra el proyecto de resort de lujo vinculado a Jared Kushner e Ivanka Trump en la isla de Sazan y la laguna protegida de Vjosa-Narta. Los manifestantes exigen la renuncia del Primer Ministro Edi Rama, transparencia en las inversiones, protección del medio ambiente y justicia contra la corrupción. El movimiento es la mayor protesta ciudadana en Albania desde la caída del comunismo. Rama respondió con amenazas de acción legal. La revista Foreign Policy publicó un análisis extenso sobre el movimiento.",
-    "status": "en curso",
-    "lat": "41.3275",
-    "lng": "19.8187",
-    "fuentes": [
-      {
-        "nombre": "AP News - Albanians protest against the government and corruption for a 35th night in a row",
-        "url": "https://apnews.com/article/resort-prime-minister-rama-kushner-flamingos-resort-9e2cbb682d9445f2e2d946c44ea2fecd"
-      },
-      {
-        "nombre": "Democracy Now - Albania's Flamingo Revolution: Protests Against Kushner-Trump Luxury Resort Could Bring Down Gov't",
-        "url": "https://www.democracynow.org/2026/7/9/albania_protests"
-      },
-      {
-        "nombre": "BalkanWeb - Revolt on the 53rd day against the government",
-        "url": "https://balkanweb.com/en/The-revolt-against-the-Albanian-government-is-in-its-53rd-day.-The-Albanians-demand-the-non-negotiable-resignation-of-Rama.-We-will-not-retreat.-The-end-has-come./"
-      },
-      {
-        "nombre": "Foreign Policy - Albania's Flamingo Revolution Against Billionaires and Autocrats",
-        "url": "https://foreignpolicy.com/2026/07/20/albania-flamingo-revolution-jared-kushner-sazan-island-resort/"
-      }
-    ],
-    "createdAt": "2026-07-22T17:15:13.000Z",
-    "updatedAt": "2026-07-22T23:11:31Z"
-  },
-  {
-    "id": 2038,
-    "seccion": "protestas_internacionales",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "06:00",
-    "fecha": "2026-07-22",
-    "lugar": "Telangana - estado, Hyderabad, India",
-    "tipoAccion": "Huelga estatal de trabajadores gig y de plataformas 'Breakdown Flash Strike'",
-    "organizaciones": [
-      "Telangana App-Based Drivers Forum (TADF)",
-      "Telangana Gig and Platform Workers Union (TGPWU)",
-      "CITU (Centro de Sindicatos de la India)"
-    ],
-    "motivo": "Huelga statewide contra los aumentos de precios de combustible, la falta de implementación de aumentos de tarifas por parte del gobierno, y demandas de tarifa base mínima justa, notificación de reglas para trabajadores gig, constitución de una junta de bienestar y implementación de tarifas mínimas bajo las Directrices de Agregadores de Vehículos a Motor 2025. Afecta a conductores de apps (Ola, Uber, Rapido), autos, transporte de carga y reparto (Swiggy, Zomato, Zepto, Blinkit). ~390.000 trabajadores participaron. El aeropuerto de Hyderabad emitió alerta de viaje. Los sindicatos advierten huelga indefinida a partir del 8 de agosto.",
-    "status": "en curso",
-    "lat": "17.3850",
-    "lng": "78.4867",
-    "fuentes": [
-      {
-        "nombre": "Siasat - Trade unions support Telangana gig workers' July 22 strike",
-        "url": "https://www.siasat.com/trade-unions-support-telangana-gig-workers-july-22-strike-3510185"
-      },
-      {
-        "nombre": "The Hindu - Gig workers' strike cause partial disruption of services",
-        "url": "https://www.thehindu.com/news/national/telangana/gig-workers-strike-cause-partial-disruption-of-services/article71254375.ece"
-      },
-      {
-        "nombre": "The Hindu BusinessLine - Uber, Ola, Rapido services hit in Hyderabad as cab, auto drivers go on flash strike",
-        "url": "https://www.thehindubusinessline.com/news/national/uber-ola-rapido-services-hit-in-hyderabad-as-cab-auto-drivers-go-on-flash-strike/article71252668.ece"
-      }
-    ],
-    "createdAt": "2026-07-22T17:15:13.000Z",
-    "updatedAt": "2026-07-22T23:11:31Z"
-  },
-  {
-    "id": 2040,
+    "id": 2050,
     "seccion": "protestas_internacionales",
     "pais": "Kenia",
     "bandera": "🇰🇪",
     "hora": "08:00",
-    "fecha": "2026-07-22",
+    "fecha": "2026-07-23",
     "lugar": "Nairobi (Greenpark Terminus, Nairobi County Assembly, Council of Governors HQ) + 47 condados a nivel nacional",
-    "tipoAccion": "Huelga nacional de trabajadores de salud con manifestaciones diarias en las calles (día 3 de la huelga)",
+    "tipoAccion": "Huelga nacional de trabajadores de salud - dia 4, con manifestaciones diarias en las calles",
     "organizaciones": [
       "Kenya Union of Clinical Officers (KUCO)",
       "Health Unions Caucus",
       "Kenya National Union of Nurses",
       "KEHPHPU (Kenya Environmental Health and Public Health Practitioners Union)",
-      "sindicatos de farmacéuticos, ingenieros biomédicos, nutricionistas y oficiales de salud pública"
+      "sindicatos de farmaceuticos, ingenieros biomedicos, nutricionistas y oficiales de salud publica"
     ],
-    "motivo": "Tercer día de huelga nacional de trabajadores de salud, escalada a manifestaciones diarias en las calles bajo el lema 'Health Workers United for Dignity, Justice & Respect'. Exigen: 1) conversión inmediata de los trabajadores de cobertura sanitaria universal (UHC) de contratos a plazo permanente y con pensión, 2) inclusión en la nómina de julio 2026, 3) implementación del Convenio Colectivo de Trabajo 2026, y 4) firma de acuerdos de reconocimiento por parte de los gobiernos condados. El gobierno nacional ya asignó KES 8.900 millones para la transición, pero los gobiernos condados no ejecutan las órdenes judiciales. Miles de médicos marchan en Nairobi hacia la Asamblea del Condado y la sede del Consejo de Gobernadores. Manifestaciones paralelas en oficinas de gobernadores en los 47 condados.",
+    "motivo": "Cuarto dia de huelga nacional de trabajadores de salud con manifestaciones diarias en las calles bajo el lema Health Workers United for Dignity, Justice & Respect. Exigen: 1) conversion inmediata de trabajadores UHC a plazo permanente y con pension, 2) inclusion en la nomina de julio 2026, 3) implementacion del Convenio Colectivo de Trabajo 2026, y 4) firma de acuerdos de reconocimiento por parte de los gobiernos condados. Miles de medicos marchan en Nairobi hacia la Asamblea del Condado y la sede del Consejo de Gobernadores. Manifestaciones paralelas en los 47 condados.",
     "status": "en curso",
     "lat": "-1.2921",
     "lng": "36.8219",
     "fuentes": [
       {
-        "nombre": "Capital FM Kenya - Health Unions Begin Daily Protests as Nationwide Strike Enters Third Day",
+        "nombre": "Capital FM Kenya - Health Unions Daily Protests Day 3",
         "url": "https://capitalfm.africa/health-unions-begin-daily-protests-as-nationwide-strike-enters-third-day/"
       },
       {
-        "nombre": "Streamline Feed - Health Crisis Deepens as Medical Unions Launch Daily Street Protests",
-        "url": "https://streamlinefeed.co.ke/news/health-unions-begin-daily-protests-as-nationwide-strike-enters-third-day"
+        "nombre": "AllAfrica - Health Unions Begin Daily Protests Strike Third Day",
+        "url": "https://allafrica.com/stories/202607220163.html"
       },
       {
-        "nombre": "People Daily - Medical unions gather at Green Park Terminus ahead of planned march",
-        "url": "https://peopledaily.digital/news/medical-unions-gather-at-green-park-terminus-ahead-of-planned-march"
-      },
-      {
-        "nombre": "The Standard - Hospitals remain operational despite health workers' strike",
+        "nombre": "The Standard - Hospitals remain operational despite strike",
         "url": "https://www.standardmedia.co.ke/health/health-science/article/2001553424/hospitals-remain-operational-despite-health-workers-strike"
       }
     ],
-    "createdAt": "2026-07-22T18:39:58.000Z",
-    "updatedAt": "2026-07-22T23:11:31Z"
+    "createdAt": "2026-07-23T00:09:06.000Z",
+    "updatedAt": "2026-07-23T00:18:46Z"
   },
   {
-    "id": 2042,
+    "id": 2051,
     "seccion": "protestas_internacionales",
-    "pais": "Indonesia",
-    "bandera": "🇮🇩",
-    "hora": "14:00",
-    "fecha": "2026-07-22",
-    "lugar": "Jakarta - Sede de la Fiscalía General (Kejagung), Jl. Panglima Polim, Kebayoran Baru, Yakarta del Sur; también puntos en Yakarta Central",
-    "tipoAccion": "Manifestaciones estudiantiles masivas y corte de calles, incluyendo quema de neumáticos frente a la Fiscalía General",
+    "pais": "Albania",
+    "bandera": "🇦🇱",
+    "hora": "19:30",
+    "fecha": "2026-07-23",
+    "lugar": "Skanderbeg Square y Dshmoret e Kombit Boulevard, Tirana",
+    "tipoAccion": "Manifestacion diaria de la Revolucion de los Flamencos (dia ~62 consecutivo)",
     "organizaciones": [
-      "Jaringan Intelektual Hukum Nasional (JIHN)",
-      "BEM Persatuan Indonesia (Consejo Ejecutivo Estudiantil)",
-      "aliansi mahasiswa nasional",
-      "kelompok masyarakat sipil"
+      "Levizja Bashke",
+      "coalicion de 45+ grupos civicos",
+      "movimiento de la sociedad civil albanesa",
+      "diaspora albanesa"
     ],
-    "motivo": "Protestas contra la corrupción y la inacción de la Fiscalía General en el caso del ex Subfiscal de Delitos Especiales Febrie Adriansyah vinculado a la aseguradora estatal PT Asabri. Los manifestantes exigen la detención de Adriansyah y la independencia de la Fiscalía. En Yakarta del Sur, decenas de manifestantes de JIHN bloquearon la parada del bus CSW y quemaron carteles frente a la Kejagung, provocando enfrentamientos con la policía. Simultáneamente, la BEM Persatuan Indonesia realizó una manifestación que continuó hasta la noche, quemando neumáticos e instalando carpas frente a la puerta principal. 706 policías desplegados.",
+    "motivo": "Dia ~62 consecutivo de protestas masivas contra el proyecto de resort de lujo vinculado a Jared Kushner e Ivanka Trump en la isla de Sazan y la laguna protegida de Vjosa-Narta. Los manifestantes exigen la renuncia del Primer Ministro Edi Rama, transparencia en las inversiones, proteccion del medio ambiente y justicia contra la corrupcion. El movimiento es la mayor protesta ciudadana en Albania desde la caida del comunismo. Rama respondio con amenazas de accion legal.",
     "status": "en curso",
-    "lat": "-6.2459",
-    "lng": "106.8143",
+    "lat": "41.3275",
+    "lng": "19.8187",
     "fuentes": [
       {
-        "nombre": "ANTARA - Puluhan massa tutup jalur halte CSW arah Kota di depan Kejagung",
-        "url": "https://www.antaranews.com/berita/5660788/aksi-puluhan-massa-tutup-jalur-halte-csw-arah-kota-di-depan-kejagung"
+        "nombre": "AP News - Albanians protest government corruption 35th+ night",
+        "url": "https://apnews.com/article/resort-prime-minister-rama-kushner-flamingos-resort-9e2cbb682d9445f2e2d946c44ea2fecd"
       },
       {
-        "nombre": "Tempo - Chaos Erupts at Jakarta's AGO Protest Over Febrie Adriansyah Case",
-        "url": "https://en.tempo.co/read/2114940/chaos-erupts-at-jakartas-ago-protest-over-febrie-adriansyah-case"
+        "nombre": "Democracy Now - Albania Flamingo Revolution",
+        "url": "https://www.democracynow.org/2026/7/9/albania_protests"
       },
       {
-        "nombre": "iNews - Demo Mahasiswa di Kejagung Berlanjut hingga Malam, Massa Bakar Ban-Dirikan Tenda",
-        "url": "https://www.inews.id/news/megapolitan/demo-mahasiswa-di-kejagung-berlanjut-hingga-malam-massa-bakar-ban-dirikan-tenda"
+        "nombre": "Foreign Policy - Albania Flamingo Revolution",
+        "url": "https://foreignpolicy.com/2026/07/20/albania-flamingo-revolution-jared-kushner-sazan-island-resort/"
       },
       {
-        "nombre": "Otonity - Demo Mahasiswa Hari Ini 22 Juli 2026 Tutup Jalan Utama Jakarta",
-        "url": "https://www.otonity.com/read/63002/demo-mahasiswa-hari-ini-22-juli-2026-tutup-jalan-utama-jakarta-gelombang-protes-bikin-jalanan-sekitar-jabodetabek-macet"
+        "nombre": "Wikipedia - Flamingo Revolution",
+        "url": "https://en.wikipedia.org/wiki/Flamingo_Revolution"
       }
     ],
-    "createdAt": "2026-07-22T18:39:58.000Z",
-    "updatedAt": "2026-07-22T23:11:31Z"
+    "createdAt": "2026-07-23T00:09:06.000Z",
+    "updatedAt": "2026-07-23T00:18:46Z"
   },
   {
-    "id": 2043,
+    "id": 2052,
     "seccion": "protestas_internacionales",
-    "pais": "Siria",
-    "bandera": "🇸🇾",
-    "hora": "09:00",
-    "fecha": "2026-07-22",
-    "lugar": "Tel Tamer, gobernación de Hasakah, noreste de Siria - autopista M4 y carreteras principales",
-    "tipoAccion": "Bloqueo de carreteras y manifestación popular contra la obstrucción del convoy hacia la estación de agua de Alouk",
+    "pais": "Corea del Sur",
+    "bandera": "🇰🇷",
+    "hora": "12:00",
+    "fecha": "2026-07-23",
+    "lugar": "Embajada de Israel, Jongno District, Seul",
+    "tipoAccion": "Protesta diaria de una persona por Palestina (~dia 700)",
     "organizaciones": [
-      "sociedad civil de Tel Tamer",
-      "desplazados de Ras al-Ain / Serê Kaniyê"
+      "Coalicion de 352 grupos civicos incluyendo Palestine Peace Solidarity"
     ],
-    "motivo": "Los residentes de Tel Tamer y desplazados de Ras al-Ain bloquearon la autopista M4 y carreteras principales que conectan Hasakah, Qamishlo y Ras al-Ain, en protesta contra la obstrucción del convoy del gobernador de Hasakah que se dirigía a la ceremonia de apertura de la estación de agua de Alouk. La estación de Alouk es la principal fuente de agua potable para un millón de personas en la región y llevaba años fuera de servicio. Los manifestantes exigieron garantías de que el suministro de agua no será interrumpido. Colonos respaldados por Turquía intentaron bloquear el convoy desde Ras al-Ain.",
+    "motivo": "Protesta diaria en relay de una persona contra la campana militar de Israel en Gaza y la complicidad de empresas coreanas (HD Hyundai, Korea National Oil Corp.). Cerca del dia 700 de protesta consecutiva. Un nuevo participante cada dia: estudiantes, oficinistas, poetas, personas con discapacidad.",
     "status": "en curso",
-    "lat": "36.2981",
-    "lng": "40.9964",
+    "lat": "37.5726",
+    "lng": "126.9770",
     "fuentes": [
       {
-        "nombre": "ANHA - Main roads blocked in Tel Tamer in protest against obstruction of convoy heading to Alouk water station",
-        "url": "https://hawarnews.com/en/main-roads-blocked-in-tel-tamer-in-protest-against-obstruction-of-convoy-heading-to-alouk-water-station"
-      },
-      {
-        "nombre": "The Amargi - Water station test-run brings hope to one million Syrians",
-        "url": "https://theamargi.com/posts/water-station-test-run-brings-hope-to-one-million-syrians"
+        "nombre": "Korea Times - pro-Palestinian activists nearing 700th day",
+        "url": "https://www.koreatimes.co.kr/southkorea/society/20260721/meet-the-pro-palestinian-activists-in-korea-nearing-their-700th-day-of-protest"
       }
     ],
-    "createdAt": "2026-07-22T21:36:11.000Z",
-    "updatedAt": "2026-07-22T23:11:31Z"
-  },
-  {
-    "id": 2044,
-    "seccion": "protestas_internacionales",
-    "pais": "México",
-    "bandera": "🇲🇽",
-    "hora": "10:00",
-    "fecha": "2026-07-22",
-    "lugar": "Ciudad de México - Edificio de Gobierno (Plaza de la Constitución No. 2, Centro Histórico), sede de El Universal (Av. Bucareli No. 8), Televisión Azteca (Periférico Sur No. 4121), y otros puntos",
-    "tipoAccion": "Múltiples manifestaciones y concentraciones en la Ciudad de México: ex-trabajadores de Ruta 100, Movimiento Antorchista, colectivos de trabajo sexual, y Frente Antiimperialista",
-    "organizaciones": [
-      "ex-trabajadores de la Ruta 100",
-      "Movimiento Antorchista",
-      "Brigada Callejera de Apoyo a la Mujer 'Elisa Martínez'",
-      "Frente Antiimperialista y Antifascista Mexicano",
-      "Plataforma 4:20",
-      "Asamblea por el Común y contra la Guerra",
-      "Colectivo Nacional 'No Más Presos Inocentes'",
-      "Movimiento de Regeneración Sindical",
-      "Asamblea de Barrios",
-      "Resistencia Civil Pacífica Nacional",
-      "Unión Nacional de Trabajadores Agrícolas de Chimalhuacán"
-    ],
-    "motivo": "Jornada de múltiples manifestaciones en la CDMX. Los ex-trabajadores de la Ruta 100 exigieron en el Edificio de Gobierno el pago del finiquito del 28% de intereses, dividendos y utilidades del Fideicomiso F/100 (~120 personas). El Movimiento Antorchista protestó simultáneamente en las instalaciones de El Universal y Televisión Azteca para denunciar la falta de atención del Gobierno del Estado de México a demandas de infraestructura en municipios como Ixtapaluca, Atizapán y Naucalpan (~250 personas). La Brigada Callejera organizó el XXIX Encuentro de la Red Mexicana de Trabajo Sexual (~50 personas). El Frente Antiimperialista y Antifascista Mexicano se reunió frente a la embajada de EE.UU. para exigir la libertad del presidente venezolano Nicolás Maduro y el fin del bloqueo económico (~60 personas). La marcha 'Las Tonatzin' partió del Hospital San Ángel Inn Chapultepec exigindo justicia por negligencia médica (~30 personas). También hubo concentraciones de 'No Más Presos Inocentes' en el Tribunal Superior de Justicia, mesas de firmas del Movimiento de Regeneración Sindical, y protestas de la Asamblea de Barrios y Resistencia Civil Pacífica Nacional ante la Secretaría de Vivienda.",
-    "status": "en curso",
-    "lat": "19.4326",
-    "lng": "-99.1332",
-    "fuentes": [
-      {
-        "nombre": "SinEmbargo - Caos vial en CdMx este 22 de julio: Marcha en Chapultepec, protestas y bloqueos",
-        "url": "https://www.sinembargo.mx/4842029/caos-vial-en-cdmx-este-22-de-julio-marcha-en-chapultepec-protestas-y-bloqueos/"
-      },
-      {
-        "nombre": "Ámbito - Marchas y bloqueos en CDMX hoy, miércoles 22 de julio 2026",
-        "url": "https://www.ambito.com/mexico/informacion-general/marchas-y-bloqueos-cdmx-hoy-miercoles-22-julio-2026-calles-cerradas-rutas-y-concentraciones-n6302302"
-      },
-      {
-        "nombre": "N+ - Marchas HOY 22 de Julio de 2026 en CDMX: Manifestaciones y Concentraciones",
-        "url": "https://www.nmas.com.mx/ciudad-de-mexico/movilidad/marchas/marchas-hoy-22-de-julio-de-2026-en-cdmx-manifestaciones-y-concentraciones/"
-      },
-      {
-        "nombre": "El Gráfico - Marchas y bloqueos hoy en CDMX: conoce las calles afectadas, horarios y rutas alternas",
-        "url": "https://www.elgrafico.mx/al-dia/2026/07/22/marchas-y-bloqueos-hoy-en-cdmx-conoce-las-calles-afectadas-horarios-y-rutas-alternas/"
-      },
-      {
-        "nombre": "La Jornada - Activistas protestan por la liberación de Nicolás Maduro",
-        "url": "https://www.jornada.com.mx/2026/07/22/politica/013n3pol"
-      }
-    ],
-    "createdAt": "2026-07-22T22:59:47.000Z",
-    "updatedAt": "2026-07-22T23:11:31Z"
-  },
-  {
-    "id": 2045,
-    "seccion": "protestas_internacionales",
-    "pais": "Sudáfrica",
-    "bandera": "🇿🇦",
-    "hora": "09:00",
-    "fecha": "2026-07-22",
-    "lugar": "Nacional - múltiples ciudades incluyendo Johannesburgo, Durban, Pretoria, Ciudad del Cabo; punto específico: carretera N2 entre Mount Frere y Mount Ayliff, KwaZulu-Natal",
-    "tipoAccion": "Protestas semanales antinmigración del movimiento 'March and March' (semanal, todos los jueves)",
-    "organizaciones": [
-      "March and March (liderada por Jacinta Ngobese-Zuma)",
-      "Operation Dudula",
-      "Concerned Citizens and Voters of South Africa"
-    ],
-    "motivo": "Continuación de las protestas semanales del movimiento antiinmigración 'March and March', que exigen la deportación de inmigrantes indocumentados. La semana pasada, el movimiento inició redadas puerta a puerta en Alexentr, Soweto y Durban, forzando a inmigrantes a abandonar sus hogares y entregándolos a la policía. La marcha de hoy incluyó bloqueos en la carretera N2 entre Mount Frere y Mount Ayliff en KwaZulu-Natal. El movimiento, que comenzó con la fecha límite del 30 de junio para la auto-deportación de indocumentados, ha generado una crisis diplomática con Nigeria, Ghana, Mozambique, Malawi y Zimbabwe. El gobierno sudafricano desplegó miles de policías y puso al ejército en alerta. Más de 900 personas fueron arrestadas durante las protestas del 30 de junio, y el movimiento ha generado que más de 78.000 zimbabuenses regresen a su país.",
-    "status": "en curso",
-    "lat": "-29.8587",
-    "lng": "31.0218",
-    "fuentes": [
-      {
-        "nombre": "Daily Maverick - What's behind SA's latest wave of xenophobia?",
-        "url": "https://www.dailymaverick.co.za/article/2026-07-21-whats-behind-sas-latest-wave-of-xenophobia/"
-      },
-      {
-        "nombre": "AllAfrica - South Africa: Xenophobia - What the Government Should Have Done",
-        "url": "https://allafrica.com/stories/202607220058.html"
-      },
-      {
-        "nombre": "IOL - March and March launches weekly anti-migrant protests across South Africa",
-        "url": "https://iol.co.za/news/south-africa/2026-07-09-march-and-march-launches-weekly-anti-migrant-protests-across-south-africa"
-      },
-      {
-        "nombre": "YouTube - South Africa Today on 22 July 2026 (protestas en N2)",
-        "url": "https://www.youtube.com/watch?v=eyQ5_JlCOYI"
-      },
-      {
-        "nombre": "Pindula - 2026 Anti-Immigration Protests in South Africa",
-        "url": "https://www.pindula.co.zw/2026_Anti-Immigration_Protests_in_South_Africa"
-      }
-    ],
-    "createdAt": "2026-07-22T22:59:47.000Z",
-    "updatedAt": "2026-07-22T23:11:31Z"
+    "createdAt": "2026-07-23T00:09:06.000Z",
+    "updatedAt": "2026-07-23T00:18:46Z"
   }
 ]
