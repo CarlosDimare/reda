@@ -1,5 +1,42 @@
 [
   {
+    "id": 2057,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "10:00",
+    "fecha": "2026-07-23",
+    "lugar": "Buenos Aires - Congreso de la Nación, Avellaneda",
+    "tipoAccion": "Movilización de jubilados y trabajadores contra el ajuste del gobierno de Milei",
+    "organizaciones": [
+      "Confederación General del Trabajo (CGT)",
+      "jubilados",
+      "sindicatos",
+      "movimientos sociales",
+      "partidos de izquierda"
+    ],
+    "motivo": "Miles de personas participaron en una movilización en Buenos Aires para exigir mejoras en las pensiones, mayor acceso a medicamentos, la protección del empleo y la continuidad de programas sociales. La protesta fue encabezada por jubilados y respaldada por sindicatos, movimientos sociales y partidos de izquierda. Los manifestantes señalaron que el monto de las pensiones resulta insuficiente para cubrir las necesidades básicas: casi la mitad de los 7.8 millones de jubilados del país recibe la pensión mínima junto con un bono, lo que representa un ingreso equivalente a 324 dólares, cifra inferior a una tercera parte de la canasta básica del adulto mayor. La CGT anunció una mayor participación en las movilizaciones a partir de ahora. También se registraron enfrentamientos entre manifestantes y policías en Avellaneda, al sur de la capital argentina.",
+    "status": "en curso",
+    "lat": "-34.6037",
+    "lng": "-58.3816",
+    "fuentes": [
+      {
+        "nombre": "Peninsular Digital - Miles marcharon en las calles de Argentina",
+        "url": "https://peninsulardigital.com/2026/07/23/miles-marcharon-en-las-calles-de-argentina/"
+      },
+      {
+        "nombre": "DW - Vuelven las protestas en Argentina contra ajuste de Milei",
+        "url": "https://www.dw.com/es/vuelven-las-protestas-en-argentina-contra-ajuste-de-milei/a-78077827"
+      },
+      {
+        "nombre": "France24 - Centrales obreras reactivan las protestas contra Milei",
+        "url": "https://www.france24.com/es/am%C3%A9rica-latina/20260722-se-termin%C3%B3-el-veranito-mundialista-centrales-obreras-de-argentina-reactivan-las-protestas-contra-milei"
+      }
+    ],
+    "createdAt": "2026-07-23T09:11:42.000Z",
+    "updatedAt": "2026-07-23T09:16:51Z"
+  },
+  {
     "id": 2046,
     "seccion": "protestas_internacionales",
     "pais": "India",
@@ -42,7 +79,7 @@
       }
     ],
     "createdAt": "2026-07-23T00:09:06.000Z",
-    "updatedAt": "2026-07-23T04:00:13Z"
+    "updatedAt": "2026-07-23T09:16:51Z"
   },
   {
     "id": 2047,
@@ -79,7 +116,7 @@
       }
     ],
     "createdAt": "2026-07-23T00:09:06.000Z",
-    "updatedAt": "2026-07-23T04:00:13Z"
+    "updatedAt": "2026-07-23T09:16:51Z"
   },
   {
     "id": 2048,
@@ -114,7 +151,7 @@
       }
     ],
     "createdAt": "2026-07-23T00:09:06.000Z",
-    "updatedAt": "2026-07-23T04:00:13Z"
+    "updatedAt": "2026-07-23T09:16:51Z"
   },
   {
     "id": 2049,
@@ -156,7 +193,7 @@
       }
     ],
     "createdAt": "2026-07-23T00:09:06.000Z",
-    "updatedAt": "2026-07-23T04:00:13Z"
+    "updatedAt": "2026-07-23T09:16:51Z"
   },
   {
     "id": 2050,
@@ -193,7 +230,7 @@
       }
     ],
     "createdAt": "2026-07-23T00:09:06.000Z",
-    "updatedAt": "2026-07-23T04:00:13Z"
+    "updatedAt": "2026-07-23T09:16:51Z"
   },
   {
     "id": 2051,
@@ -233,7 +270,7 @@
       }
     ],
     "createdAt": "2026-07-23T00:09:06.000Z",
-    "updatedAt": "2026-07-23T04:00:13Z"
+    "updatedAt": "2026-07-23T09:16:51Z"
   },
   {
     "id": 2052,
@@ -258,7 +295,7 @@
       }
     ],
     "createdAt": "2026-07-23T00:09:06.000Z",
-    "updatedAt": "2026-07-23T04:00:13Z"
+    "updatedAt": "2026-07-23T09:16:51Z"
   },
   {
     "id": 2053,
@@ -293,7 +330,7 @@
       }
     ],
     "createdAt": "2026-07-23T03:53:01.000Z",
-    "updatedAt": "2026-07-23T04:00:13Z"
+    "updatedAt": "2026-07-23T09:16:51Z"
   },
   {
     "id": 2054,
@@ -310,7 +347,7 @@
       "comunidades locales de Muzaffarabad y Mirpur"
     ],
     "motivo": "La Joint Awami Action Committee (JAAC) convoco para el 23 de julio una jornada de protestas en todo Kashmir ocupado por Pakistan, describiendola como un dia de importancia capital. La movilizacion incluye paro voluntario, wheel-jam strike y manifestaciones masivas, especialmente en las divisiones de Muzaffarabad y Mirpur. JAAC exige el fin de la represion, la liberacion de lideres detenidos, justicia por las victimas de la agitacion (mas de 30 muertos desde junio) y la anulacion de la Ley de Antiterrorismo usada para prohibir a JAAC. El 27 de julio hay elecciones programadas en PoK y el grupo anuncio que hara un importante anuncio sobre el proceso democratico.",
-    "status": "programado",
+    "status": "en curso",
     "lat": "34.3510",
     "lng": "73.4695",
     "fuentes": [
@@ -324,6 +361,65 @@
       }
     ],
     "createdAt": "2026-07-23T03:53:01.000Z",
-    "updatedAt": "2026-07-23T04:00:13Z"
+    "updatedAt": "2026-07-23T09:16:51Z"
+  },
+  {
+    "id": 2055,
+    "seccion": "protestas_internacionales",
+    "pais": "Australia",
+    "bandera": "🇦🇺",
+    "hora": "08:00",
+    "fecha": "2026-07-23",
+    "lugar": "Melbourne CBD y ciudades regionales de Victoria (Wodonga, Mildura, Sale, Gippsland)",
+    "tipoAccion": "Huelga statewide de docentes y personal de apoyo de Victoria - segunda huelga mayor del anio",
+    "organizaciones": [
+      "Australian Education Union (AEU) - rama Victoria",
+      "docentes de escuelas estatales",
+      "personal de apoyo educativo"
+    ],
+    "motivo": "Decenas de miles de docentes y personal de apoyo educativo de escuelas estatales de Victoria salieron a las calles en la segunda huelga mayor del anio tras rechazar la oferta salarial del gobierno estatal. La policia estimo 20.000 asistentes solo en Melbourne, con cientos mas en comunidades regionales. El AEU rechazo una oferta que incluia un aumento del 28% en cuatro anios pero exigia reuniones obligatorias. El sindicato pide un acuerdo de tres anios y medidas para reducir la carga de trabajo docente. Los docentes no descartan nuevas acciones si sus reclamos son ignorados.",
+    "status": "en curso",
+    "lat": "-37.8136",
+    "lng": "144.9631",
+    "fuentes": [
+      {
+        "nombre": "ABC News Australia - Victorian teachers begin second major strike",
+        "url": "https://www.abc.net.au/news/2026-07-23/victorian-teachers-on-strike-today-as-offer-is-rejected/106946678"
+      }
+    ],
+    "createdAt": "2026-07-23T09:09:45.000Z",
+    "updatedAt": "2026-07-23T09:16:51Z"
+  },
+  {
+    "id": 2056,
+    "seccion": "protestas_internacionales",
+    "pais": "Italia",
+    "bandera": "🇮🇹",
+    "hora": "21:00",
+    "fecha": "2026-07-23",
+    "lugar": "Red ferroviaria nacional: Trenitalia, Trenord, Italo - estaciones principales en Roma, Milan, Napoles, Turin, Florencia",
+    "tipoAccion": "Huelga nacional ferroviaria de 24 horas - sindicatos base Cub Transport y Sgb",
+    "organizaciones": [
+      "Cub Transport",
+      "Sgb (Sindicato General de Base)",
+      "trabajadores de FS Italiane Group, Trenitalia, Trenord, Trenitalia Tper",
+      "personal de oficinas de boletos"
+    ],
+    "motivo": "Huelga nacional ferroviaria de 24 horas convocada por sindicatos base que afecta transporte de pasajeros y carga en toda Italia desde las 21:00 del 23 de julio hasta las 20:59 del 24 de julio. Los sindicatos protestan contra condiciones del convenio colectivo, aumento de carga laboral, recortes de personal y exigen mejores condiciones de seguridad y un contrato nacional unico para todos los trabajadores del sector. Se garantizan servicios minimos en horarios pico (6-9 y 18-21 en dias laborales). Afecta a Trenitalia, Italo, Trenord y multiples operadores regionales.",
+    "status": "programado",
+    "lat": "41.9028",
+    "lng": "12.4964",
+    "fuentes": [
+      {
+        "nombre": "italien.news - Rail Strike in Italy July 23-24",
+        "url": "https://italien.news/en/chronicle/rail-strike-in-italy-july-23-24-2026/"
+      },
+      {
+        "nombre": "Notizie.it - Rail strike July 23-24: Trenitalia and Trenord at risk",
+        "url": "https://www.notizie.it/en/Railway-strike-July-23-24%3A-Trenitalia-and-Trenord-at-risk.-Here-are-the-guaranteed-trains./"
+      }
+    ],
+    "createdAt": "2026-07-23T09:09:45.000Z",
+    "updatedAt": "2026-07-23T09:16:51Z"
   }
 ]
