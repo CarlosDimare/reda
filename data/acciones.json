@@ -1,1 +1,78 @@
-[]
+[
+  {
+    "id": "intl-001",
+    "seccion": "protestas_internacionales",
+    "pais": "Guatemala",
+    "bandera": "🇬🇹",
+    "hora": "07:00",
+    "fecha": "2026-07-24",
+    "lugar": "Ciudad de Guatemala",
+    "tipoAccion": "Bloqueo / Marcha vehicular",
+    "organizaciones": [
+      "Asociaciones de transportistas de Guatemala",
+      "Mototaxistas",
+      "Taxistas urbanos",
+      "Sociedad civil"
+    ],
+    "motivo": "Protesta contra el alza constante de precios de combustibles, que superan Q40. Transportistas anunciaron una megamarcha con 200 buses desde distintos puntos hacia el centro histórico.",
+    "status": "active",
+    "lat": 14.6349,
+    "lng": -90.5069,
+    "fuentes": [
+      "https://www.infobae.com/guatemala/2026/07/24/la-capital-de-guatemala-entra-en-alerta-por-las-protestas-de-transportistas-y-posibles-bloqueos-este-viernes-24-de-julio/",
+      "https://www.publinews.gt/noticias/2026/07/23/bloqueos-en-guatemala-este-viernes-confirman-3-puntos-donde-habra-manifestaciones/",
+      "https://www.prensalibre.com/guatemala/comunitario/protestas-en-guatemala-cuales-puntos-podrian-resultar-afectados-por-las-manifestaciones-del-24-de-julio/",
+      "https://www.soy502.com/articulo/anuncian-puntos-bloqueos-este-viernes-24-julio-102077"
+    ],
+    "createdAt": "2026-07-24T03:13:26.000Z",
+    "updatedAt": "2026-07-24T03:16:26Z"
+  },
+  {
+    "id": "intl-002",
+    "seccion": "protestas_internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "18:00",
+    "fecha": "2026-07-24",
+    "lugar": "Houston, Texas",
+    "tipoAccion": "Paro total / Marcha",
+    "organizaciones": [
+      "Coalición de más de 30 organizaciones comunitarias de Houston"
+    ],
+    "motivo": "Exigir justicia por la muerte de Lorenzo Salgado Araujo, inmigrante mexicano de 35 años de residencia en Houston, baleado mortalmente por agentes de ICE el 7 de julio en el barrio Magnolia Park. Exigen la revelación de los nombres de los agentes, investigación independiente y el fin de la violencia contra inmigrantes. Convocan a un paro de consumo y cierre de negocios bajo el lema 'No Business as Usual'.",
+    "status": "active",
+    "lat": 29.7545,
+    "lng": -95.3531,
+    "fuentes": [
+      "https://www.click2houston.com/news/local/2026/07/21/activists-demand-justice-for-lorenzo-salgado-araujo-plan-citywide-houston-shutdown-friday/",
+      "https://www.univision.com/local/houston-kxln/convocan-a-un-paro-total-de-actividades-en-houston-para-exigir-justicia-por-la-muerte-de-lorenzo-salgado-video",
+      "https://cw39.com/news/local/houston-ice-shooting-day-action/"
+    ],
+    "createdAt": "2026-07-24T03:13:26.000Z",
+    "updatedAt": "2026-07-24T03:16:26Z"
+  },
+  {
+    "id": "intl-003",
+    "seccion": "protestas_internacionales",
+    "pais": "Pakistán (Cachemira Occupada)",
+    "bandera": "🇵🇰",
+    "hora": "06:00",
+    "fecha": "2026-07-24",
+    "lugar": "Muzaffarabad, Cachemira ocupada por Pakistán",
+    "tipoAccion": "Paro general / Huelga vehicular",
+    "organizaciones": [
+      "Joint Awami Action Committee (JAAC)"
+    ],
+    "motivo": "Continuación del paro voluntario y huelga de ruedas convocada por la JAAC para exigir la implementación de sus demandas: subsidio a la harina y electricidad, y la abolición de 12 escaños de 'refugiados' en la Asamblea Legislativa. El movimiento, que ha dejado más de 24 muertos desde junio, se intensifica a tres días de las elecciones programadas para el 27 de julio.",
+    "status": "active",
+    "lat": 34.3717,
+    "lng": 73.3897,
+    "fuentes": [
+      "https://saachibaat.com/international-news/international-world-news-24-july-2026",
+      "https://www.thestar.com.my/news/world/2026/06/19/pakistani-kashmir-faces-shutdown-as-protests-leave-more-than-20-dead",
+      "https://www.telegraphindia.com/world/mass-shutdown-across-pok-amid-anti-pakistan-protests-over-refugee-seats-police-crackdown/cid/2164778"
+    ],
+    "createdAt": "2026-07-24T03:13:26.000Z",
+    "updatedAt": "2026-07-24T03:16:26Z"
+  }
+]
