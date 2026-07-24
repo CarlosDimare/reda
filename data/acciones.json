@@ -1,5 +1,28 @@
 [
   {
+    "id": "ar-001",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "15:30",
+    "fecha": "2026-07-24",
+    "lugar": "Plaza de Mayo, Ciudad de Buenos Aires",
+    "tipoAccion": "Marcha / Manifestación",
+    "organizaciones": [
+      "Asociación Madres de Plaza de Mayo"
+    ],
+    "motivo": "Marcha de los Jueves N° 2518. Las Madres de Plaza de Mayo realizan su marcha semanal en la Plaza de Mayo, consolidando 46 años de lucha por memoria, verdad y justicia. En una semana marcada por la victoria de la Selección Argentina sobre Inglaterra en la semifinal del Mundial 2026, las Madres continuaron con su tradición ininterrumpida de movilización.",
+    "status": "active",
+    "lat": -34.6037,
+    "lng": -58.3816,
+    "fuentes": [
+      "https://madres.org/marcha-n-2518-de-las-madres-de-plaza-de-mayo/",
+      "https://madres.org/"
+    ],
+    "createdAt": "2026-07-24T09:04:44.000Z",
+    "updatedAt": "2026-07-24T09:06:53Z"
+  },
+  {
     "id": "intl-001",
     "seccion": "protestas_internacionales",
     "pais": "Guatemala",
@@ -12,23 +35,25 @@
       "Asociación Sampedrana de Mototaxis (ASM)",
       "Asociación de Taxistas (ASOTAX)",
       "Asociación de Pilotos de Taxis de Guatemala (APTG)",
-      "Asociaciones de transportistas de Guatemala",
-      "Mototaxistas",
-      "Taxistas urbanos",
+      "Cámara de Transportistas Urbanos e Interurbanos de Guatemala (Catug)",
+      "Cámara de Movilidad Estratégica de Transporte (Cademet)",
+      "Asociación de Taxistas de Occidente",
       "Sociedad civil"
     ],
-    "motivo": "Protesta contra el alza constante de precios de combustibles, que superan Q40/Q43 por galón. Tres asociaciones del sector transporte notificaron a la Gobernación Departamental puntos de concentración y recorridos hacia el Congreso de la República. Las actividades inician a las 7:30 h desde Mixco y zona 8 hacia el Centro Cívico.",
+    "motivo": "Protesta contra el alza constante de precios de combustibles, que superan Q40/Q43 por galón. Tres asociaciones del sector transporte notificaron a la Gobernación Departamental puntos de concentración y recorridos hacia el Congreso de la República. Las actividades inician a las 7:30 h desde Mixco y zona 8 hacia el Centro Cívico. Se suman transportistas de la capital y Mixco con marcha de 200 unidades hacia Municipalidad, Palacio Nacional y Congreso.",
     "status": "active",
     "lat": 14.6349,
     "lng": -90.5069,
     "fuentes": [
       "https://lahora.gt/nacionales/kjordan/2026/07/23/bloqueos-hoy-manifestacion-por-alza-del-combustible-estos-son-los-puntos-donde-protestaran-este-viernes-24-de-julio-now/",
+      "https://www.chapintv.com/noticia/manifestaciones-en-guatemala-horarios-puntos-afectados-y-rutas-alternas-para-este-viernes-24-de-julio/",
       "https://www.prensalibre.com/guatemala/comunitario/protestas-en-guatemala-cuales-puntos-podrian-resultar-afectados-por-las-manifestaciones-del-24-de-julio",
       "https://www.infobae.com/guatemala/2026/07/24/la-capital-de-guatemala-entra-en-alerta-por-las-protestas-de-transportistas-y-posibles-bloqueos-este-viernes-24-de-julio/",
-      "https://www.soy502.com/articulo/anuncian-puntos-bloqueos-este-viernes-24-julio-102077"
+      "https://www.soy502.com/articulo/anuncian-puntos-bloqueos-este-viernes-24-julio-102077",
+      "https://www.chapintv.com/noticia/tres-movilizaciones-de-taxistas-se-tienen-previstas-en-la-capital-este-viernes-por-alza-de-combustibles/"
     ],
     "createdAt": "2026-07-24T03:13:26.000Z",
-    "updatedAt": "2026-07-24T06:13:47Z"
+    "updatedAt": "2026-07-24T09:06:53Z"
   },
   {
     "id": "intl-002",
@@ -52,7 +77,7 @@
       "https://cw39.com/news/local/houston-ice-shooting-day-action/"
     ],
     "createdAt": "2026-07-24T03:13:26.000Z",
-    "updatedAt": "2026-07-24T06:13:47Z"
+    "updatedAt": "2026-07-24T09:06:53Z"
   },
   {
     "id": "intl-003",
@@ -76,7 +101,7 @@
       "https://www.telegraphindia.com/world/mass-shutdown-across-pok-amid-anti-pakistan-protests-over-refugee-seats-police-crackdown/cid/2164778"
     ],
     "createdAt": "2026-07-24T03:13:26.000Z",
-    "updatedAt": "2026-07-24T06:13:47Z"
+    "updatedAt": "2026-07-24T09:06:53Z"
   },
   {
     "id": "intl-004",
@@ -91,20 +116,98 @@
       "Cockroach Janta Party (CJP)",
       "Colectivos estudiantiles de toda India",
       "Sociedad civil",
-      "Congreso Nacional (oposición)"
+      "Congreso Nacional (oposición)",
+      "SFI (Student Federation of India)",
+      "DYFI"
     ],
-    "motivo": "Continuación de la sentada indefinida en Jantar Mantar exigiendo la renuncia del Ministro de Educación Dharmendra Pradhan por el escándalo de filtración del examen NEET-UG 2026. La CJP convocó protestas simultáneas en cada distrito del país bajo el lema 'Every District. One Day. One Demand'. 17 estaciones de metro cerradas en Delhi, 3.000 efectivos de seguridad desplegados. El gobierno convocó negociaciones para las 12:30 h en el Constitution Club. Sonam Wangchuk rompió su huelga de hambre de 26 días tras acuerdos del gobierno.",
+    "motivo": "Continuación de la sentada indefinida en Jantar Mantar exigiendo la renuncia del Ministro de Educación Dharmendra Pradhan por el escándalo de filtración del examen NEET-UG 2026. La CJP convocó protestas simultáneas en cada distrito del país bajo el lema 'Every District. One Day. One Demand'. 17 estaciones de metro cerradas en Delhi, 3.000 efectivos de seguridad desplegados. Sonam Wangchuk rompió su huelga de hambre de 26 días tras acuerdos del gobierno. El gobierno convocó negociaciones para las 12:30 h en el Constitution Club. Manifestaciones también en Mumbai (150 detenidos), Bihar (enfrentamientos), Tamil Nadu, Kerala, Haryana y ciudades del noroeste.",
     "status": "active",
     "lat": 28.6246,
     "lng": 77.2132,
     "fuentes": [
+      "https://indianexpress.com/article/india/neet-paper-leak-nationwide-protests-10800902/",
+      "https://isp.netscape.com/news/world/story/0001/20260724/d226d142657cd297c3d4232716a8a626",
+      "https://www.livemint.com/news/india/cjp-protest-jantar-mantar-live-updates-sonam-wangchuk-ends-fast-jp-nadda-talks-pm-modi-shares-midnight-video-message-11784851835917.html",
       "https://www.newindianexpress.com/live/2026/Jul/24/cjp-protest-live-updates-24-july",
       "https://www.thehindu.com/news/national/cjp-jantar-mantar-protest-live-updates-abhijeet-dipke-saurav-das-sonam-wangchuk-hunger-strike-dharmendra-pradhan-resignation/article71256169.ece",
       "https://www.ndtv.com/india-news/cjp-protest-live-updates-delhi-jantar-mantar-sonam-wangchuk-hunger-strike-cockroach-janta-party-abhijeet-dipke-dharmendra-pradhan-neet-paper-leak-parl-11808852",
-      "https://www.deccanherald.com/amp/story/india/cjp-jantar-mantar-protests-live-updates-cockroach-janta-party-founder-abhijeet-dipke-sonam-wangchuk-ends-hunger-strike-delhi-students-strike-demand-dharmendra-pradhan-resignation-opposition-mps-police-brutality-breaking-news-jp-nadda-jitendra-singh-cjp-meet-saurav-das-ashutosh-ranka-neet-exam-paper-leak-rahul-gandhi-congress-4085420",
-      "https://industrywired.com/news/cjp-calls-nationwide-protest-on-july-24-against-police-brutality-12191588"
+      "https://www.thedailystar.net/news/asia/india/news/protesters-call-rallies-across-india-today-4231211"
     ],
     "createdAt": "2026-07-24T06:08:38.000Z",
-    "updatedAt": "2026-07-24T06:13:47Z"
+    "updatedAt": "2026-07-24T09:06:53Z"
+  },
+  {
+    "id": "intl-005",
+    "seccion": "protestas_internacionales",
+    "pais": "Irán",
+    "bandera": "🇮🇷",
+    "hora": "10:00",
+    "fecha": "2026-07-24",
+    "lugar": "Teherán, Isfahan, Shiraz, Mashhad, Lordegan, Marvdasht (Fars)",
+    "tipoAccion": "Manifestación / Paro de comercio / Cacerolazos",
+    "organizaciones": [
+      "Comerciantes del Gran Bazaar de Teherán",
+      "Estudiantes universitarios",
+      "Sociedad civil"
+    ],
+    "motivo": "Quinto día consecutivo de protestas masivas tras el colapso del rial iraní, que alcanzó un mínimo histórico de 1,42 millones por dólar. Las manifestaciones, las más grandes desde 2022 (muerte de Mahsa Amini), fueron iniciadas por comerciantes del Bazaar de Teherán y se expandieron a universitarios. Dos manifestantes muertos en Lordegan (Ahmad Jalil y Sajjad Valamanesh) según Hengaw. Un miembro de los Guardias Revolucionarios muerto en Kudasht. El presidente Pezeshkian ofreció escuchar 'demandas legítimas', mientras el fiscal general advirtió una respuesta 'contundente'. Escuelas, universidades e instituciones públicas cerradas.",
+    "status": "active",
+    "lat": 35.6892,
+    "lng": 51.389,
+    "fuentes": [
+      "https://eamar.org/article/iran-protests-escalate-two-killed-in-clashes-with-security-forces-over-cost-of-living-crisis",
+      "https://lesouleystecroix.com/article/iran-protests-explode-currency-collapse-inflation-and-public-outrage-explained"
+    ],
+    "createdAt": "2026-07-24T09:02:06.000Z",
+    "updatedAt": "2026-07-24T09:06:53Z"
+  },
+  {
+    "id": "intl-006",
+    "seccion": "protestas_internacionales",
+    "pais": "Albania",
+    "bandera": "🇦🇱",
+    "hora": "18:00",
+    "fecha": "2026-07-24",
+    "lugar": "Tirana (Skanderbeg Square → Sede del Primer Ministro)",
+    "tipoAccion": "Marcha diaria / Sentada",
+    "organizaciones": [
+      "Sociedad civil albanesa",
+      "Activistas por Zvërnec"
+    ],
+    "motivo": "Día 55 consecutivo de protestas contra el proyecto Zvërnec y el gobierno de Edi Rama. Los manifestantes marchan diariamente desde la Plaza Skanderbeg hasta la sede del Primer Ministro exigiendo: reforma de la ley electoral, cancelación de la ley de inversión estratégica y desarrollo montañoso, protección de reservas naturales y sitios culturales, y renuncia de Rama. Las protestas continuaron sin interrupción desde el 30 de mayo.",
+    "status": "active",
+    "lat": 41.3275,
+    "lng": 19.8187,
+    "fuentes": [
+      "https://en.ata.gov.al/2026/07/23/zvernec-protests-enter-54th-day/"
+    ],
+    "createdAt": "2026-07-24T09:02:06.000Z",
+    "updatedAt": "2026-07-24T09:06:53Z"
+  },
+  {
+    "id": "intl-007",
+    "seccion": "protestas_internacionales",
+    "pais": "España",
+    "bandera": "🇪🇸",
+    "hora": "19:00",
+    "fecha": "2026-07-24",
+    "lugar": "Las Palmas de Gran Canaria (Parque San Telmo → Plaza de la Feria)",
+    "tipoAccion": "Manifestación",
+    "organizaciones": [
+      "Red de Solidaridad Canario Cubana",
+      "Organizaciones sociales canarias",
+      "Sindicatos",
+      "Organizaciones políticas"
+    ],
+    "motivo": "Manifestación de solidaridad con Cuba bajo el lema 'Cuba no está sola' para denunciar el bloqueo económico, comercial y financiero de Estados Unidos contra Cuba, recrudecido en los últimos meses con nuevas medidas destinadas a estrangular la economía de la isla, incluyendo el suministro de combustible. Convocada por la Red de Solidaridad Canario Cubana.",
+    "status": "scheduled",
+    "lat": 28.1004,
+    "lng": -15.4302,
+    "fuentes": [
+      "https://www.cubainformacion.tv/solidaridad/20260716/123978/123978-manifestacion-en-las-palmas-de-gran-canaria-cuba-no-esta-sola-viernes-24-de-julio",
+      "https://www.presos.org.es/index.php/2026/07/22/manifestacion-de-solidaridad-con-cuba-en-las-palmas-inquilinos-acusan-al-gobierno-de-abrir-la-puerta-a-los-especuladores/"
+    ],
+    "createdAt": "2026-07-24T09:02:06.000Z",
+    "updatedAt": "2026-07-24T09:06:53Z"
   }
 ]
