@@ -4,28 +4,31 @@
     "seccion": "protestas_internacionales",
     "pais": "Guatemala",
     "bandera": "🇬🇹",
-    "hora": "07:00",
+    "hora": "07:30",
     "fecha": "2026-07-24",
-    "lugar": "Ciudad de Guatemala",
+    "lugar": "Ciudad de Guatemala / Mixco",
     "tipoAccion": "Bloqueo / Marcha vehicular",
     "organizaciones": [
+      "Asociación Sampedrana de Mototaxis (ASM)",
+      "Asociación de Taxistas (ASOTAX)",
+      "Asociación de Pilotos de Taxis de Guatemala (APTG)",
       "Asociaciones de transportistas de Guatemala",
       "Mototaxistas",
       "Taxistas urbanos",
       "Sociedad civil"
     ],
-    "motivo": "Protesta contra el alza constante de precios de combustibles, que superan Q40. Transportistas anunciaron una megamarcha con 200 buses desde distintos puntos hacia el centro histórico.",
+    "motivo": "Protesta contra el alza constante de precios de combustibles, que superan Q40/Q43 por galón. Tres asociaciones del sector transporte notificaron a la Gobernación Departamental puntos de concentración y recorridos hacia el Congreso de la República. Las actividades inician a las 7:30 h desde Mixco y zona 8 hacia el Centro Cívico.",
     "status": "active",
     "lat": 14.6349,
     "lng": -90.5069,
     "fuentes": [
+      "https://lahora.gt/nacionales/kjordan/2026/07/23/bloqueos-hoy-manifestacion-por-alza-del-combustible-estos-son-los-puntos-donde-protestaran-este-viernes-24-de-julio-now/",
+      "https://www.prensalibre.com/guatemala/comunitario/protestas-en-guatemala-cuales-puntos-podrian-resultar-afectados-por-las-manifestaciones-del-24-de-julio",
       "https://www.infobae.com/guatemala/2026/07/24/la-capital-de-guatemala-entra-en-alerta-por-las-protestas-de-transportistas-y-posibles-bloqueos-este-viernes-24-de-julio/",
-      "https://www.publinews.gt/noticias/2026/07/23/bloqueos-en-guatemala-este-viernes-confirman-3-puntos-donde-habra-manifestaciones/",
-      "https://www.prensalibre.com/guatemala/comunitario/protestas-en-guatemala-cuales-puntos-podrian-resultar-afectados-por-las-manifestaciones-del-24-de-julio/",
       "https://www.soy502.com/articulo/anuncian-puntos-bloqueos-este-viernes-24-julio-102077"
     ],
     "createdAt": "2026-07-24T03:13:26.000Z",
-    "updatedAt": "2026-07-24T03:16:26Z"
+    "updatedAt": "2026-07-24T06:13:47Z"
   },
   {
     "id": "intl-002",
@@ -49,7 +52,7 @@
       "https://cw39.com/news/local/houston-ice-shooting-day-action/"
     ],
     "createdAt": "2026-07-24T03:13:26.000Z",
-    "updatedAt": "2026-07-24T03:16:26Z"
+    "updatedAt": "2026-07-24T06:13:47Z"
   },
   {
     "id": "intl-003",
@@ -73,6 +76,35 @@
       "https://www.telegraphindia.com/world/mass-shutdown-across-pok-amid-anti-pakistan-protests-over-refugee-seats-police-crackdown/cid/2164778"
     ],
     "createdAt": "2026-07-24T03:13:26.000Z",
-    "updatedAt": "2026-07-24T03:16:26Z"
+    "updatedAt": "2026-07-24T06:13:47Z"
+  },
+  {
+    "id": "intl-004",
+    "seccion": "protestas_internacionales",
+    "pais": "India",
+    "bandera": "🇮🇳",
+    "hora": "07:30",
+    "fecha": "2026-07-24",
+    "lugar": "Nueva Delhi (Jantar Mantar) + sedes en todo el país",
+    "tipoAccion": "Sentada / Marcha / Paro nacional",
+    "organizaciones": [
+      "Cockroach Janta Party (CJP)",
+      "Colectivos estudiantiles de toda India",
+      "Sociedad civil",
+      "Congreso Nacional (oposición)"
+    ],
+    "motivo": "Continuación de la sentada indefinida en Jantar Mantar exigiendo la renuncia del Ministro de Educación Dharmendra Pradhan por el escándalo de filtración del examen NEET-UG 2026. La CJP convocó protestas simultáneas en cada distrito del país bajo el lema 'Every District. One Day. One Demand'. 17 estaciones de metro cerradas en Delhi, 3.000 efectivos de seguridad desplegados. El gobierno convocó negociaciones para las 12:30 h en el Constitution Club. Sonam Wangchuk rompió su huelga de hambre de 26 días tras acuerdos del gobierno.",
+    "status": "active",
+    "lat": 28.6246,
+    "lng": 77.2132,
+    "fuentes": [
+      "https://www.newindianexpress.com/live/2026/Jul/24/cjp-protest-live-updates-24-july",
+      "https://www.thehindu.com/news/national/cjp-jantar-mantar-protest-live-updates-abhijeet-dipke-saurav-das-sonam-wangchuk-hunger-strike-dharmendra-pradhan-resignation/article71256169.ece",
+      "https://www.ndtv.com/india-news/cjp-protest-live-updates-delhi-jantar-mantar-sonam-wangchuk-hunger-strike-cockroach-janta-party-abhijeet-dipke-dharmendra-pradhan-neet-paper-leak-parl-11808852",
+      "https://www.deccanherald.com/amp/story/india/cjp-jantar-mantar-protests-live-updates-cockroach-janta-party-founder-abhijeet-dipke-sonam-wangchuk-ends-hunger-strike-delhi-students-strike-demand-dharmendra-pradhan-resignation-opposition-mps-police-brutality-breaking-news-jp-nadda-jitendra-singh-cjp-meet-saurav-das-ashutosh-ranka-neet-exam-paper-leak-rahul-gandhi-congress-4085420",
+      "https://industrywired.com/news/cjp-calls-nationwide-protest-on-july-24-against-police-brutality-12191588"
+    ],
+    "createdAt": "2026-07-24T06:08:38.000Z",
+    "updatedAt": "2026-07-24T06:13:47Z"
   }
 ]
