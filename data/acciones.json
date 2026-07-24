@@ -1,32 +1,9 @@
 [
   {
-    "id": "ar-001",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "15:30",
-    "fecha": "2026-07-24",
-    "lugar": "Plaza de Mayo, Ciudad de Buenos Aires",
-    "tipoAccion": "Marcha / Manifestación",
-    "organizaciones": [
-      "Asociación Madres de Plaza de Mayo"
-    ],
-    "motivo": "Marcha de los Jueves N° 2518. Las Madres de Plaza de Mayo realizan su marcha semanal en la Plaza de Mayo, consolidando 46 años de lucha por memoria, verdad y justicia. En una semana marcada por la victoria de la Selección Argentina sobre Inglaterra en la semifinal del Mundial 2026, las Madres continuaron con su tradición ininterrumpida de movilización.",
-    "status": "active",
-    "lat": -34.6037,
-    "lng": -58.3816,
-    "fuentes": [
-      "https://madres.org/marcha-n-2518-de-las-madres-de-plaza-de-mayo/",
-      "https://madres.org/"
-    ],
-    "createdAt": "2026-07-24T09:04:44.000Z",
-    "updatedAt": "2026-07-24T09:06:53Z"
-  },
-  {
     "id": "intl-001",
     "seccion": "protestas_internacionales",
     "pais": "Guatemala",
-    "bandera": "🇬🇹",
+    "bandera": "🇬🇽",
     "hora": "07:30",
     "fecha": "2026-07-24",
     "lugar": "Ciudad de Guatemala / Mixco",
@@ -53,7 +30,7 @@
       "https://www.chapintv.com/noticia/tres-movilizaciones-de-taxistas-se-tienen-previstas-en-la-capital-este-viernes-por-alza-de-combustibles/"
     ],
     "createdAt": "2026-07-24T03:13:26.000Z",
-    "updatedAt": "2026-07-24T09:06:53Z"
+    "updatedAt": "2026-07-24T11:25:27Z"
   },
   {
     "id": "intl-002",
@@ -77,7 +54,7 @@
       "https://cw39.com/news/local/houston-ice-shooting-day-action/"
     ],
     "createdAt": "2026-07-24T03:13:26.000Z",
-    "updatedAt": "2026-07-24T09:06:53Z"
+    "updatedAt": "2026-07-24T11:25:27Z"
   },
   {
     "id": "intl-003",
@@ -101,7 +78,7 @@
       "https://www.telegraphindia.com/world/mass-shutdown-across-pok-amid-anti-pakistan-protests-over-refugee-seats-police-crackdown/cid/2164778"
     ],
     "createdAt": "2026-07-24T03:13:26.000Z",
-    "updatedAt": "2026-07-24T09:06:53Z"
+    "updatedAt": "2026-07-24T11:25:27Z"
   },
   {
     "id": "intl-004",
@@ -120,21 +97,20 @@
       "SFI (Student Federation of India)",
       "DYFI"
     ],
-    "motivo": "Continuación de la sentada indefinida en Jantar Mantar exigiendo la renuncia del Ministro de Educación Dharmendra Pradhan por el escándalo de filtración del examen NEET-UG 2026. La CJP convocó protestas simultáneas en cada distrito del país bajo el lema 'Every District. One Day. One Demand'. 17 estaciones de metro cerradas en Delhi, 3.000 efectivos de seguridad desplegados. Sonam Wangchuk rompió su huelga de hambre de 26 días tras acuerdos del gobierno. El gobierno convocó negociaciones para las 12:30 h en el Constitution Club. Manifestaciones también en Mumbai (150 detenidos), Bihar (enfrentamientos), Tamil Nadu, Kerala, Haryana y ciudades del noroeste.",
+    "motivo": "Continuación de la sentada indefinida en Jantar Mantar exigiendo la renuncia del Ministro de Educación Dharmendra Pradhan por el escándalo de filtración del examen NEET-UG 2026. La CJP convocó protestas simultáneas en cada distrito del país bajo el lema 'Every District. One Day. One Demand'. 18 estaciones de metro cerradas en Delhi, internet móvil suspendido en radio de 1,5 km, más de 200 personas en custodia preventiva. Sonam Wangchuk rompió su huelga de hambre de 26 días tras acuerdos del gobierno. CJP y ministros del gobierno se reunieron en el Constitution Club; el gobierno pidió tiempo hasta el sábado para responder a la demanda de renuncia de Pradhan. Manifestaciones masivas también en Hyderabad (500 estudiantes), Chennai (5to día de protesta), Mumbai, Patna, Kolkata, Bengaluru y decenas de ciudades. La oposición interrumpió el Parlamento por cuarto día consecutivo.",
     "status": "active",
     "lat": 28.6246,
     "lng": 77.2132,
     "fuentes": [
-      "https://indianexpress.com/article/india/neet-paper-leak-nationwide-protests-10800902/",
-      "https://isp.netscape.com/news/world/story/0001/20260724/d226d142657cd297c3d4232716a8a626",
-      "https://www.livemint.com/news/india/cjp-protest-jantar-mantar-live-updates-sonam-wangchuk-ends-fast-jp-nadda-talks-pm-modi-shares-midnight-video-message-11784851835917.html",
-      "https://www.newindianexpress.com/live/2026/Jul/24/cjp-protest-live-updates-24-july",
-      "https://www.thehindu.com/news/national/cjp-jantar-mantar-protest-live-updates-abhijeet-dipke-saurav-das-sonam-wangchuk-hunger-strike-dharmendra-pradhan-resignation/article71256169.ece",
-      "https://www.ndtv.com/india-news/cjp-protest-live-updates-delhi-jantar-mantar-sonam-wangchuk-hunger-strike-cockroach-janta-party-abhijeet-dipke-dharmendra-pradhan-neet-paper-leak-parl-11808852",
-      "https://www.thedailystar.net/news/asia/india/news/protesters-call-rallies-across-india-today-4231211"
+      "https://www.channelnewsasia.com/asia/india-sonam-wangchuk-hunger-strike-youth-protesters-6274891",
+      "https://www.thehindu.com/news/national/cjp-jantar-mantar-protest-live-updates-abhijeet-dipke-saurav-das-sonam-wangchuk-hunger-strike-dharmendra-pradhan-resignation/article71260680.ece",
+      "https://indianexpress.com/article/cities/delhi/cjp-jantar-mantar-protest-live-updates-cjp-nationwide-strike-today-sonam-wangchuk-abhijeet-dipke-dharmendra-pradhan-10801024/",
+      "https://www.aljazeera.com/news/2026/7/24/indias-cockroach-leaders-hold-talks-with-govt-as-protests-continue",
+      "https://timesofindia.indiatimes.com/city/delhi/cjp-jantar-mantar-protests-live-updates-sonam-wangchuk-ends-hunger-strike-abhijeet-dipke-jp-nadda-neet-paper-leak-dharmendra-pradhan-resignation-latest-news/liveblog/132594573.cms",
+      "https://www.thestar.com.my/news/world/2026/07/24/india-youth-protest-leaders-to-hold-talks-with-government-but-protests-will-continue"
     ],
     "createdAt": "2026-07-24T06:08:38.000Z",
-    "updatedAt": "2026-07-24T09:06:53Z"
+    "updatedAt": "2026-07-24T11:25:27Z"
   },
   {
     "id": "intl-005",
@@ -156,10 +132,11 @@
     "lng": 51.389,
     "fuentes": [
       "https://eamar.org/article/iran-protests-escalate-two-killed-in-clashes-with-security-forces-over-cost-of-living-crisis",
-      "https://lesouleystecroix.com/article/iran-protests-explode-currency-collapse-inflation-and-public-outrage-explained"
+      "https://lesouleystecroix.com/article/iran-protests-explode-currency-collapse-inflation-and-public-outrage-explained",
+      "https://gulfnews.com/world/mena/iran-ramps-up-executions-under-shadow-of-war-1.500618388"
     ],
     "createdAt": "2026-07-24T09:02:06.000Z",
-    "updatedAt": "2026-07-24T09:06:53Z"
+    "updatedAt": "2026-07-24T11:25:27Z"
   },
   {
     "id": "intl-006",
@@ -174,15 +151,16 @@
       "Sociedad civil albanesa",
       "Activistas por Zvërnec"
     ],
-    "motivo": "Día 55 consecutivo de protestas contra el proyecto Zvërnec y el gobierno de Edi Rama. Los manifestantes marchan diariamente desde la Plaza Skanderbeg hasta la sede del Primer Ministro exigiendo: reforma de la ley electoral, cancelación de la ley de inversión estratégica y desarrollo montañoso, protección de reservas naturales y sitios culturales, y renuncia de Rama. Las protestas continuaron sin interrupción desde el 30 de mayo.",
+    "motivo": "Día 56 consecutivo de protestas contra el proyecto Zvërnec y el gobierno de Edi Rama, bautizadas como 'Revolución de los Flamencos' por los medios internacionales. Los manifestantes marchan diariamente desde la Plaza Skanderbeg hasta la sede del Primer Ministro exigiendo: reforma de la ley electoral, cancelación de la ley de inversión estratégica y desarrollo montañoso, protección de reservas naturales y sitios culturales, y renuncia de Rama. Las protestas continuaron sin interrupción desde el 30 de mayo, con participación masiva de jóvenes y ciberactivistas.",
     "status": "active",
     "lat": 41.3275,
     "lng": 19.8187,
     "fuentes": [
-      "https://en.ata.gov.al/2026/07/23/zvernec-protests-enter-54th-day/"
+      "https://en.ata.gov.al/2026/07/23/zvernec-protests-enter-54th-day/",
+      "https://balkanweb.com/en/The-Flamingo-Revolution-shakes-Albania--the-revolt-over-Rama%27s-resignation--the-French-media--corruption--government-scandals-and-the-connection-with-the-mafia-have-brought-people-to-the-streets./"
     ],
     "createdAt": "2026-07-24T09:02:06.000Z",
-    "updatedAt": "2026-07-24T09:06:53Z"
+    "updatedAt": "2026-07-24T11:25:27Z"
   },
   {
     "id": "intl-007",
@@ -208,6 +186,65 @@
       "https://www.presos.org.es/index.php/2026/07/22/manifestacion-de-solidaridad-con-cuba-en-las-palmas-inquilinos-acusan-al-gobierno-de-abrir-la-puerta-a-los-especuladores/"
     ],
     "createdAt": "2026-07-24T09:02:06.000Z",
-    "updatedAt": "2026-07-24T09:06:53Z"
+    "updatedAt": "2026-07-24T11:25:27Z"
+  },
+  {
+    "id": "intl-008",
+    "seccion": "protestas_internacionales",
+    "pais": "Italia",
+    "bandera": "🇮🇹",
+    "hora": "19:00",
+    "fecha": "2026-07-24",
+    "lugar": "Bologna (Piazza del Nettuno)",
+    "tipoAccion": "Manifestación / Asamblea ciudadana",
+    "organizaciones": [
+      "Potere al Popolo",
+      "Unión Sindical de Base (USB)",
+      "Si Cobas",
+      "Comitato Popolare Pilastro",
+      "Plat (collectivos)",
+      "Sociedad civil"
+    ],
+    "motivo": "Manifestación 'Verità e giustizia per Fakir' en Piazza del Nettuno a las 19:00, convocada tras la muerte de Abderrahim Fakir, un hombre marorrí de 42 años que murió durante un control policial el 19 de julio en el barrio Pilastro de Bologna. Fakir fue retenido boca abajo por dos policías mientras pedía auxilio durante casi 6 minutos. La muerte, comparada con el caso George Floyd, desató protestas masivas en más de 10 ciudades italianas. Sindicatos declararon paro en el Interporto logístico de Bologna. Los organizadores califican el hecho de 'omicidio di Stato' y exigen la revocación del escudo penal a los agentes. El 22 de julio se realizó una asamblea en Piazza Lucio Dalla con 300+ asistentes y se anunció esta nueva movilización.",
+    "status": "scheduled",
+    "lat": 44.4949,
+    "lng": 11.3426,
+    "fuentes": [
+      "https://blazetrends.com/italian-protests-erupt-after-abderrahim-fakir-dies-in-police-custody-in-bologna/",
+      "https://www.aljazeera.com/news/2026/7/23/why-abderrahim-fakirs-death-reignited-italys-police-accountability-debate",
+      "https://www.bolognatoday.it/cronaca/caso-fakir-assemblea-piazza-lucio-dalla-verita-giustizia-bologna.html",
+      "https://www.bbc.com/news/articles/c86nwgw148xo",
+      "https://socialistworker.co.uk/international/protests-and-strikes-demand-justice-for-italys-george-floyd/"
+    ],
+    "createdAt": "2026-07-24T11:15:30.000Z",
+    "updatedAt": "2026-07-24T11:25:27Z"
+  },
+  {
+    "id": "intl-009",
+    "seccion": "protestas_internacionales",
+    "pais": "Indonesia",
+    "bandera": "🇮🇩",
+    "hora": "10:00",
+    "fecha": "2026-07-24",
+    "lugar": "Jakarta (Gambir, LBH DPN, Kemendikdasmen, OJK)",
+    "tipoAccion": "Manifestación / Unjuk rasa",
+    "organizaciones": [
+      "Aliansi Mahasiswa Peduli Hukum",
+      "Komite Mahasiswa dan Pemuda Reformasi (KMP Reformasi)",
+      "Cipayung Plus Jakarta Selatan (LMND, GMNI, PMKRI, HMI DIPO, PMII, IMM, KAMMI)",
+      "Aliansi Mahasiswa dan Pemuda DKI Jakarta"
+    ],
+    "motivo": "Cuatro protestas estudiantiles simultáneas en Jakarta Pusat contra la corrupción, el aumento del costo de vida y las demandas de transparencia en casos de corrupción de funcionarios. Las movilizaciones se extienden por Gambir (10:00), Kantor LBH DPN (10:00), Kemendikdasmen en Sudirman (13:00) y OJK en Lapangan Banteng (14:00). La policía desplegó 687 efectivos de la Polda Metro Jaya y Polres Metro Jakarta Pusat. Las protestas son parte de una ola de movilizaciones juveniles que se intensificaron desde junio de 2026, incluyendo acciones previas contra la Oficina del Fiscal General por el caso Febrie Adriansyah.",
+    "status": "active",
+    "lat": -6.1751,
+    "lng": 106.865,
+    "fuentes": [
+      "https://www.tribunnews.com/metropolitan/7858604/jadwal-dan-lokasi-unjuk-rasa-mahasiswa-hari-ini-di-jakarta",
+      "https://www.liputan6.com/news/read/8253561/ada-demo-di-4-titik-jakarta-687-polisi-disiagakan",
+      "https://jakarta.tribunnews.com/jakarta/439237/demo-di-jakarta-hari-ini-kelompok-mahasiswa-unjuk-rasa-di-empat-titik-687-personel-bersiaga",
+      "https://editorindonesia.com/unjuk-rasa-jakarta-pusat-687-personel-gabungan/"
+    ],
+    "createdAt": "2026-07-24T11:15:30.000Z",
+    "updatedAt": "2026-07-24T11:25:27Z"
   }
 ]
