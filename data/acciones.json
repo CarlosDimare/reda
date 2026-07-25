@@ -1,32 +1,5 @@
 [
   {
-    "id": "ar-001",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "17:00",
-    "fecha": "2026-07-25",
-    "lugar": "Buenos Aires (Obelisco, Av. 9 de Julio)",
-    "tipoAccion": "Concentración / Manifestación",
-    "organizaciones": [
-      "Hinchas de la Selección Argentina",
-      "Colectivos de fans organizados vía TikTok y redes sociales"
-    ],
-    "motivo": "Concentración de hinchas argentinos exigiendo a la FIFA la repetición de la final del Mundial 2026 contra España (derrota 1-0 en prórroga, 19 de julio en Nueva Jersey). La protesta, nacida en TikTok, reúne más de 88.000 firmas en Change.org. Los manifestantes denuncian supuesto fraude arbitral pese a que el técnico Scaloni reconoció la superioridad española y no existen pruebas de manipulación. Lema: 'El fútbol es nuestro, la verdad también'. Se registraron disturbios: policía antidisturbios utilizó balas de goma y chorros de agua para dispersar a los manifestantes.",
-    "status": "active",
-    "lat": -34.6037,
-    "lng": -58.3816,
-    "fuentes": [
-      "https://www.negocios.com/articulo/actualidad/convocan-obelisco-exigir-que-repita-final-mundial/20260724172754490969.html",
-      "https://www.cronica.com.mx/mundo/2026/07/24/manifestacion-para-que-repitan-la-final-del-mundial-hinchas-de-la-seleccion-argentina-tomaran-las-calles-de-buenos-aires/",
-      "https://www.nmas.com.mx/internacional/disturbios-en-el-obelisco-hinchas-argentinos-enfrentan-a-policia-tras-perder-final-del-mundial",
-      "https://www.publimetro.com.mx/deportes/2026/07/24/se-repetira-la-final-del-mundial-convocan-marcha-para-exigir-a-la-fifa-que-vuelva-a-jugarse/",
-      "https://as.com/futbol/internacional/los-aficionados-argentinos-convocan-una-manifestacion-para-repetir-la-final-no-nos-callamos-mas-f202607-n/"
-    ],
-    "createdAt": "2026-07-25T19:51:33.000Z",
-    "updatedAt": "2026-07-25T20:02:27Z"
-  },
-  {
     "id": "intl-004",
     "seccion": "protestas_internacionales",
     "pais": "India",
@@ -45,23 +18,22 @@
       "Shiv Sena (UBT)",
       "AISA (All India Students Association)"
     ],
-    "motivo": "El Ministro de Educación Dharmendra Pradhan RENUNCIÓ hoy 25 de julio tras 36 días de protestas estudiantiles. Victoria parcial de CJP que califica la renuncia como 'insuficiente' y exige compensación de Rs 1 crore a familias de víctimas y retiro de FIRs. Bihar bandh convocado con choques policiales — policía disparó en Siwan, 70.000 efectivos desplegados. Las protestas continúan en Jantar Mantar y se extienden a múltiples ciudades. El NTA despidió a 47 funcionarios. Sonam Wangchuk terminó su huelga de hambre de 26 días. 18 estaciones de metro de Delhi permanecen cerradas. Internet móvil restringido en la capital. CJP convoca marcha de velas nacional para el domingo 26.",
-    "status": "active",
+    "motivo": "VICTORIA: El Ministro de Educación Dharmendra Pradhan RENUNCIÓ hoy 25 de julio tras 36 días de protestas estudiantiles. El gobierno aceptó todas las demandas del CJP: renuncia del ministro, compensación a familias de víctimas, retiro de FIRs contra manifestantes y disculpa policial. CJP declaró la victoria y pidió la retirada pacífica. Bihar bandh con choques policiales — policía disparó en Siwan. El NTA despidió a 47 funcionarios. Sonam Wangchuk terminó su huelga de hambre de 26 días. Celebraciones masivas en Jantar Mantar: cantos patrióticos, bailes y reparto de dulces. CJP convoca marcha de velas nacional para el domingo 26.",
+    "status": "concluded",
     "lat": 28.6246,
     "lng": 77.2132,
     "fuentes": [
-      "https://www.thehindu.com/news/national/jantar-mantar-delhi-student-protest-cjp-government-talks-sonam-wangchuk-hunger-strike-live-updates-july-25-2026/article71265108.ece",
-      "https://www.cnbc.com/2026/07/25/indias-education-minister-resigns-in-win-for-indian-youth-protesters.html",
-      "https://indianexpress.com/article/india/cjp-protest-dharmendra-pradhan-resigns-education-minister-10803141/",
-      "https://www.abc.net.au/news/2026-07-25/india-gen-z-neet-government-protests-mumbai-delhi/106945216",
-      "https://scroll.in/latest/1094508/thousands-step-out-to-support-youth-protests-across-india-lathi-charge-in-kolkata-3-held-in-assam",
-      "https://www.newindianexpress.com/live/2026/Jul/25/cjp-protest-live-updates-july-25",
       "https://www.aljazeera.com/news/2026/7/25/indias-education-minister-resigns-after-weeks-of-cockroach-protests",
-      "https://www.thehindu.com/news/national/bihar/bihar-bandh-student-protests-police-security-updates/article71265552.ece",
-      "https://www.newindianexpress.com/states/bihar/2026/Jul/25/bihar-bandh-over-neet-row-turns-violent-police-open-fire-in-siwan-sp-among-injured"
+      "https://www.bbc.com/news/articles/cdx828gj5xko",
+      "https://www.channelnewsasia.com/asia/india-education-minister-resign-youth-protests-cockroach-party-dharmendra-pradhan-6277891",
+      "https://www.the-independent.com/asia/india/dharmendra-pradhan-resignation-cjp-cockroach-janta-party-protests-b3021395.html",
+      "https://theprint.in/india/cjp-marks-first-victory-after-pradhans-resignation-dipke-says-two-demands-remain/2996613/",
+      "https://www.business-standard.com/india-news/jantar-mantar-erupts-in-chants-dance-as-protesters-celebrate-pradhan-s-exit-126072500865_1.html",
+      "https://www.indiatoday.in/india/story/cockroach-janta-party-protest-live-updates-delhi-jantar-mantar-cjp-abhijeet-dipike-2955802-2026-07-25",
+      "https://www.thehindu.com/news/national/jantar-mantar-cjp-celebration-as-dharmendra-pradhan-tenders-resignation/article71265842.ece"
     ],
     "createdAt": "2026-07-24T06:08:38.000Z",
-    "updatedAt": "2026-07-25T20:02:27Z"
+    "updatedAt": "2026-07-25T21:09:49Z"
   },
   {
     "id": "intl-005",
@@ -89,33 +61,7 @@
       "https://diariodecompostela.elidealgallego.com/compostela/2026-07-23/25-julio-vuelve-tomar-calles-bng-centra-dia-galicia-manifestacion-santiago-869641.html"
     ],
     "createdAt": "2026-07-25T02:26:19.000Z",
-    "updatedAt": "2026-07-25T20:02:27Z"
-  },
-  {
-    "id": "intl-006",
-    "seccion": "protestas_internacionales",
-    "pais": "Albania",
-    "bandera": "🇦🇱",
-    "hora": "18:00",
-    "fecha": "2026-07-25",
-    "lugar": "Tirana (Skanderbeg Square → Sede del Primer Ministro)",
-    "tipoAccion": "Marcha diaria / Sentada",
-    "organizaciones": [
-      "Sociedad civil albanesa",
-      "Activistas por Zvërnec",
-      "Juventud Gen Z albanesa"
-    ],
-    "motivo": "Día 56-57 consecutivo de protestas contra el proyecto Zvërnec (resort de Jared Kushner e Ivanka Trump) y el gobierno de Edi Rama, bautizadas como 'Revolución de los Flamencos'. Le Monde publicó reportaje sobre la participación protagónica de Gen Z albanesa. Los manifestantes marchan diariamente desde la Plaza Skanderbeg hasta la sede del Primer Ministro exigiendo renuncia de Rama, reforma electoral, protección de reservas naturales y cancelación de la ley de inversión estratégica. Las protestas continúan a pesar de la represión policial con gases lacrimógenos, cañones de agua y espray de pimienta. Fiscalía investiga presunta falsificación de títulos de propiedad y lavado de dinero vinculados al proyecto Kushner.",
-    "status": "active",
-    "lat": 41.3275,
-    "lng": 19.8187,
-    "fuentes": [
-      "https://albeu.com/english/the-flamingo-revolution-gives-wings-to-the-young-albanians-revolt-against-rama-prestigious-french-le-monde-reports-gen-z-angry-at-corrupt-government/941239/",
-      "https://albeu.com/english/flamingo-revolution-shakes-albania-mass-protests-against-rama-over-corruption-scandals-and-mafia-ties/940795/",
-      "https://anews25.com/article/2026/07/24/protests-erupt-in-albania-amid-controversial-resort-project"
-    ],
-    "createdAt": "2026-07-24T09:02:06.000Z",
-    "updatedAt": "2026-07-25T20:02:27Z"
+    "updatedAt": "2026-07-25T21:09:49Z"
   },
   {
     "id": "intl-012",
@@ -143,7 +89,7 @@
       "https://commondreams.org/newswire/cnd-and-fairford-action-call-emergency-protest-at-raf-fairford-saturday-25-july-2026"
     ],
     "createdAt": "2026-07-25T02:26:19.000Z",
-    "updatedAt": "2026-07-25T20:02:27Z"
+    "updatedAt": "2026-07-25T21:09:49Z"
   },
   {
     "id": "intl-013",
@@ -168,7 +114,7 @@
       "https://www.plymouthherald.co.uk/news/plymouth-news/tamar-bridge-toll-protest-trigger-11071264"
     ],
     "createdAt": "2026-07-25T02:26:19.000Z",
-    "updatedAt": "2026-07-25T20:02:27Z"
+    "updatedAt": "2026-07-25T21:09:49Z"
   },
   {
     "id": "intl-014",
@@ -198,7 +144,7 @@
       "https://www.tercerainformacion.es/articulo/memoria-historica/07/07/2026/una-victoria-que-resuena-en-el-pulso-de-madrid-90o-aniversario-de-la-victoria-en-madrid-sobre-el-fascismo/"
     ],
     "createdAt": "2026-07-25T05:28:19.000Z",
-    "updatedAt": "2026-07-25T20:02:27Z"
+    "updatedAt": "2026-07-25T21:09:49Z"
   },
   {
     "id": "intl-016",
@@ -230,7 +176,7 @@
       "https://www.nd-aktuell.de/termine/93771.html"
     ],
     "createdAt": "2026-07-25T05:28:19.000Z",
-    "updatedAt": "2026-07-25T20:02:27Z"
+    "updatedAt": "2026-07-25T21:09:49Z"
   },
   {
     "id": "intl-017",
@@ -253,35 +199,7 @@
       "https://www.europapress.es/la-rioja/noticia-kirke-feministas-accion-convoca-concentracion-sabado-contra-violencia-machista-20260724102223.html"
     ],
     "createdAt": "2026-07-25T05:28:19.000Z",
-    "updatedAt": "2026-07-25T20:02:27Z"
-  },
-  {
-    "id": "intl-019",
-    "seccion": "protestas_internacionales",
-    "pais": "Ucrania",
-    "bandera": "🇺🇦",
-    "hora": "18:00",
-    "fecha": "2026-07-25",
-    "lugar": "Kiev (Ivan Franko Theater → Oficina Presidencial) + ciudades de todo el país",
-    "tipoAccion": "Manifestación / Sentada",
-    "organizaciones": [
-      "Sociedad civil ucraniana",
-      "Colectivos estudiantiles",
-      "Veteranos y soldados",
-      "Activistas por reformas militares"
-    ],
-    "motivo": "Día 10 consecutivo de protestas por la destitución del Ministro de Defensa Mykhailo Fedorov (16 de julio). Aunque el presidente Zelensky despidió al comandante en jefe Oleksandr Syrskyi el 21 de julio como respuesta a las movilizaciones, los manifestantes continúan exigiendo el regreso de Fedorov. Las protestas bautizadas como 'Maidan de Cartón' se extendieron a múltiples ciudades. El 61% de los ucranianos se opone a la destitución de Fedorov según encuesta Gradus.",
-    "status": "active",
-    "lat": 50.4501,
-    "lng": 30.5234,
-    "fuentes": [
-      "https://foreignpolicy.com/2026/07/24/protest-fedorov-zelensky-firing-ukraine/",
-      "https://mezha.net/eng/bukvy/919c4e24_protesters_gather_in",
-      "https://kyivindependent.com/ukraine-protests-to-continue-despite-syrskyis-firing-as-organizers-demand-fedorovs-return/",
-      "https://www.yahoo.com/news/politics/articles/ukrainians-resume-protests-demand-fedorovs-173010848.html"
-    ],
-    "createdAt": "2026-07-25T07:33:08.000Z",
-    "updatedAt": "2026-07-25T20:02:27Z"
+    "updatedAt": "2026-07-25T21:09:49Z"
   },
   {
     "id": "intl-020",
@@ -313,7 +231,7 @@
       "https://www.mobilize.us/disappearedinamerica/"
     ],
     "createdAt": "2026-07-25T09:43:27.000Z",
-    "updatedAt": "2026-07-25T20:02:27Z"
+    "updatedAt": "2026-07-25T21:09:49Z"
   },
   {
     "id": "intl-021",
@@ -341,7 +259,7 @@
       "https://www.initiative-communiste.fr/articles/international/ce-25-juillet-manifestons-a-paris-pour-nous-defendre-avec-cuba-paris-14h30-place-rueff-26julio/"
     ],
     "createdAt": "2026-07-25T11:06:54.000Z",
-    "updatedAt": "2026-07-25T20:02:27Z"
+    "updatedAt": "2026-07-25T21:09:49Z"
   },
   {
     "id": "intl-022",
@@ -369,7 +287,7 @@
       "https://www.northsomersettimes.co.uk/news/national/26292108.palestine-protesters-urge-andy-burnham-act-israel"
     ],
     "createdAt": "2026-07-25T11:06:54.000Z",
-    "updatedAt": "2026-07-25T20:02:27Z"
+    "updatedAt": "2026-07-25T21:09:49Z"
   },
   {
     "id": "intl-024",
@@ -396,7 +314,7 @@
       "https://torino.repubblica.it/cronaca/2026/07/25/video/no_tav_val_di_susa_tensioni_scontri_chiomonte-425492886/"
     ],
     "createdAt": "2026-07-25T14:35:34.000Z",
-    "updatedAt": "2026-07-25T20:02:27Z"
+    "updatedAt": "2026-07-25T21:09:49Z"
   },
   {
     "id": "intl-025",
@@ -418,7 +336,7 @@
       "https://www.terremarsicane.it/la-natura-e-sotto-attacco-il-25-luglio-a-laquila-il-sit-in-delle-associazioni-contro-il-ddl-caccia/"
     ],
     "createdAt": "2026-07-25T14:35:34.000Z",
-    "updatedAt": "2026-07-25T20:02:27Z"
+    "updatedAt": "2026-07-25T21:09:49Z"
   },
   {
     "id": "intl-026",
@@ -444,7 +362,7 @@
       "https://www.nmas.com.mx/ciudad-de-mexico/movilidad/marchas/marchas-hoy-25-de-julio-de-2026-en-cdmx-manifestaciones-y-concentraciones/"
     ],
     "createdAt": "2026-07-25T14:35:34.000Z",
-    "updatedAt": "2026-07-25T20:02:27Z"
+    "updatedAt": "2026-07-25T21:09:49Z"
   },
   {
     "id": "intl-028",
@@ -467,7 +385,7 @@
       "https://events.worldbeyondwar.org/event/weekly-demonstration-grief-walk/2026-07-25/"
     ],
     "createdAt": "2026-07-25T14:35:34.000Z",
-    "updatedAt": "2026-07-25T20:02:27Z"
+    "updatedAt": "2026-07-25T21:09:49Z"
   },
   {
     "id": "intl-029",
@@ -489,7 +407,7 @@
       "https://www.que.es/2026/07/11/huelga-playstation-formato-fisico-25-julio/"
     ],
     "createdAt": "2026-07-25T14:35:34.000Z",
-    "updatedAt": "2026-07-25T20:02:27Z"
+    "updatedAt": "2026-07-25T21:09:49Z"
   },
   {
     "id": "intl-030",
@@ -519,7 +437,7 @@
       "https://lahora.gt/nacionales/ralvarado/2026/07/23/habra-bloqueos-manana-viernes-24-de-julio/"
     ],
     "createdAt": "2026-07-25T16:02:07.000Z",
-    "updatedAt": "2026-07-25T20:02:27Z"
+    "updatedAt": "2026-07-25T21:09:49Z"
   },
   {
     "id": "intl-031",
@@ -541,7 +459,7 @@
       "https://publisher.tbsnews.net/bangladesh/tea-workers-block-highway-demanding-tk500-daily-wage-1497646"
     ],
     "createdAt": "2026-07-25T18:29:28.000Z",
-    "updatedAt": "2026-07-25T20:02:27Z"
+    "updatedAt": "2026-07-25T21:09:49Z"
   },
   {
     "id": "intl-032",
@@ -571,7 +489,7 @@
       "https://news.stv.tv/west-central/police-make-15-arrests-as-anti-immigration-rally-met-with-counter-protest-in-glasgow"
     ],
     "createdAt": "2026-07-25T18:29:28.000Z",
-    "updatedAt": "2026-07-25T20:02:27Z"
+    "updatedAt": "2026-07-25T21:09:49Z"
   },
   {
     "id": "intl-033",
@@ -594,7 +512,7 @@
       "https://www.naijanews.com/2026/07/25/protest-kwara-176-woro-victims-terrorists/"
     ],
     "createdAt": "2026-07-25T18:29:28.000Z",
-    "updatedAt": "2026-07-25T20:02:27Z"
+    "updatedAt": "2026-07-25T21:09:49Z"
   },
   {
     "id": "intl-034",
@@ -620,7 +538,7 @@
       "https://www.hamburgeranzeiger.de/Politik/709115-motto-haltung-ist-hot-hnderttausende-ziehen-bei-csd-kundgebung-durch-berlin.html"
     ],
     "createdAt": "2026-07-25T18:29:28.000Z",
-    "updatedAt": "2026-07-25T20:02:27Z"
+    "updatedAt": "2026-07-25T21:09:49Z"
   },
   {
     "id": "intl-035",
@@ -645,7 +563,7 @@
       "https://open.video/@times-now-world/v/anti-merz-protest-munich-protest-erupts-over-economy-russia-policy-and-debt-times-now-world"
     ],
     "createdAt": "2026-07-25T18:29:28.000Z",
-    "updatedAt": "2026-07-25T20:02:27Z"
+    "updatedAt": "2026-07-25T21:09:49Z"
   },
   {
     "id": "intl-036",
@@ -674,7 +592,7 @@
       "https://www.nachrichten-heute.net/1714253-demonstration-gegen-afd-infostand-in-goettingen-eskaliert.html"
     ],
     "createdAt": "2026-07-25T18:29:28.000Z",
-    "updatedAt": "2026-07-25T20:02:27Z"
+    "updatedAt": "2026-07-25T21:09:49Z"
   },
   {
     "id": "intl-037",
@@ -699,7 +617,7 @@
       "https://pakistanchronicle.com/israel-protests-2026-tel-aviv-rises-against-netanyahu/"
     ],
     "createdAt": "2026-07-25T18:29:28.000Z",
-    "updatedAt": "2026-07-25T20:02:27Z"
+    "updatedAt": "2026-07-25T21:09:49Z"
   },
   {
     "id": "intl-038",
@@ -724,7 +642,7 @@
       "https://www.canberratimes.com.au/story/9317448/raising-hell-queer-arts-crew-protest-church-eviction/"
     ],
     "createdAt": "2026-07-25T18:29:28.000Z",
-    "updatedAt": "2026-07-25T20:02:27Z"
+    "updatedAt": "2026-07-25T21:09:49Z"
   },
   {
     "id": "intl-039",
@@ -740,7 +658,7 @@
       "Taiwan People's Party (TPP)",
       "Coalición opositora"
     ],
-    "motivo": "Manifestación masiva de la coalición opositora KMT-TPP en Ketagalan Boulevard exigiendo rendición de cuentas por el escándalo de aceite de cocina contaminado de Central Union Oil (aceite de soya con 4 veces el límite legal de benzo[a]pireno carcinógeno encontrado en 1.300 toneladas). Exigen la renuncia del Primer Ministro Cho Jung-tai y una disculpa del Presidento Lai Ching-te. El KMT denuncia que el gobierno priorizó relaciones con EE.UU. sobre la seguridad alimentaria. Asistieron el presidente del KMT Cheng Li-wun, el legislador Han Kuo-yu y el alcalde de Taipei Chiang Wan-an.",
+    "motivo": "Manifestación masiva de la coalición opositora KMT-TPP en Ketagalan Boulevard exigiendo rendición de cuentas por el escándalo de aceite de cocina contaminado de Central Union Oil (aceite de soya con 4 veces el límite legal de benzo[a]pireno carcinógeno encontrado en 1.300 toneladas). Exigen la renuncia del Primer Ministro Cho Jung-tai y una disculpa del Presidente Lai Ching-te. El KMT denuncia que el gobierno priorizó relaciones con EE.UU. sobre la seguridad alimentaria. Asistieron el presidente del KMT Cheng Li-wun, el legislador Han Kuo-yu y el alcalde de Taipei Chiang Wan-an.",
     "status": "active",
     "lat": 25.0449,
     "lng": 121.5129,
@@ -751,7 +669,7 @@
       "https://www.taiwannews.com.tw/en/news/6408206"
     ],
     "createdAt": "2026-07-25T19:46:01.000Z",
-    "updatedAt": "2026-07-25T20:02:27Z"
+    "updatedAt": "2026-07-25T21:09:49Z"
   },
   {
     "id": "intl-040",
@@ -776,7 +694,7 @@
       "https://tribune.com.pk/story/2612017/ppp-to-hold-rally-at-minar-e-pakistan-on-july-25"
     ],
     "createdAt": "2026-07-25T19:46:01.000Z",
-    "updatedAt": "2026-07-25T20:02:27Z"
+    "updatedAt": "2026-07-25T21:09:49Z"
   },
   {
     "id": "intl-041",
@@ -800,6 +718,58 @@
       "https://www.summerinitaly.com/traveltips/transport-strikes-in-italy"
     ],
     "createdAt": "2026-07-25T19:46:01.000Z",
-    "updatedAt": "2026-07-25T20:02:27Z"
+    "updatedAt": "2026-07-25T21:09:49Z"
+  },
+  {
+    "id": "intl-043",
+    "seccion": "protestas_internacionales",
+    "pais": "Japón",
+    "bandera": "🇯🇵",
+    "hora": "19:00",
+    "fecha": "2026-07-25",
+    "lugar": "Tokio (edificio de la Dieta Nacional, distrito de Nagatachō)",
+    "tipoAccion": "Manifestación / Rally político",
+    "organizaciones": [
+      "WE WANT OUR FUTURE (colectivo ciudadano)",
+      "Colectivos de jóvenes de 20 a 40 años"
+    ],
+    "motivo": "Manifestación de emergencia convocada tras el cierre de la sesión parlamentaria especial. Alrededor de 1.000 personas se concentraron frente al edificio de la Dieta Nacional bajo el lema 'Acción frente a la Dieta — Protesta contra la política desastrosa'. Los manifestantes, principalmente jóvenes de 20 a 40 años, portaron carteles con leyendas como 'Hagan política para los ciudadanos' y 'NO WAR', denunciando lo que calificaron de 'desprecio por el parlamento' por parte del gobierno de la Primera Ministra Sanae Takaichi. Criticaron el uso de la mayoría parlamentaria para aprobar legislación de forma apresurada (incluyendo enmiendas a la Ley de la Casa Imperial y la Ley de Penalización de Daño a Símbolos Nacionales) y la evasión de rendición de cuentas por parte de Takaichi. Los organizadores indicaron que es parte de una campaña continua de movilización ciudadana.",
+    "status": "active",
+    "lat": 35.6764,
+    "lng": 139.65,
+    "fuentes": [
+      "https://tokyotribune.com/young-activists-hold-emergency-diet-protest-denouncing-takaichi-governments-parliamentary-disregard/",
+      "https://www.asahi.com/articles/ASV7T3T75V7TUTIL004M.html"
+    ],
+    "createdAt": "2026-07-25T20:48:34.000Z",
+    "updatedAt": "2026-07-25T21:09:49Z"
+  },
+  {
+    "id": "intl-044",
+    "seccion": "protestas_internacionales",
+    "pais": "Venezuela",
+    "bandera": "🇻🇪",
+    "hora": "15:00",
+    "fecha": "2026-07-25",
+    "lugar": "Caracas (Plaza Simón Bolívar, centro)",
+    "tipoAccion": "Concentración / Quema de banderas",
+    "organizaciones": [
+      "PSUV (Partido Socialista Unido de Venezuela)",
+      "Sectores radicales del chavismo",
+      "Diputados de la Asamblea Nacional chavista"
+    ],
+    "motivo": "Concentración de cerca de un centenar de simpatizantes del chavismo radical en la Plaza Simón Bolívar de Caracas, quemando banderas de Estados Unidos e Israel y pisando fotos de Donald Trump y Benjamín Netanyahu. Los manifestantes corearon '¡Gringos, go home!' y '¡Fuera yanqui, asesino de Venezuela!' en rechazo a la presencia estadounidense e israelí tras la captura de Nicolás Maduro en enero. La diputada Iris Varela rechazó las negociaciones previstas para el 1 de agosto, calificándolas de 'falsedad'. El evento reveló fisuras internas dentro del chavismo entre un sector favor al diálogo y el ala radical que exige confrontación. La manifestación coincidió con la conmemoración del natalicio de Simón Bolívar.",
+    "status": "active",
+    "lat": 10.4806,
+    "lng": -66.9036,
+    "fuentes": [
+      "https://www.noticiasrcn.com/internacional/chavistas-protestaron-por-la-captura-de-maduro-en-caracas-1043842",
+      "https://en.didpress.com/34819/",
+      "https://cactus24.com.ve/2026/07/25/chavistas-queman-y-pisan-banderas-de-israel-y-estados-unidos-en-caracas/",
+      "https://tenemosnoticias.com/politica/efectococuyo-com/chavistas-radicales-protestan-y-rechazan-dialogo-convocado-para-el-1-de-agosto-efecto-cocuyo/",
+      "https://www.elnacional.com/2026/07/chavistas-quemaron-las-bandera-de-ee-uu-e-israel-en-caracas/"
+    ],
+    "createdAt": "2026-07-25T20:48:34.000Z",
+    "updatedAt": "2026-07-25T21:09:49Z"
   }
 ]
