@@ -1,5 +1,28 @@
 [
   {
+    "id": "ar-001",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "16:00",
+    "fecha": "2026-07-26",
+    "lugar": "Buenos Aires (Obelisco - Av. 9 de Julio y Av. Corrientes)",
+    "tipoAccion": "Concentración",
+    "organizaciones": [
+      "Autoconvocados"
+    ],
+    "motivo": "Concentración autoconvocada en el Obelisco para exigir a la FIFA que repita la final del Mundial 2026. Los hinchas argentinos reclaman que la final contra España fue injusta y demandan transparencia en el arbitraje. Continuación de las manifestaciones iniciadas el 24 de julio. Petición en Change.org supera las 80.000 firmas.",
+    "status": "scheduled",
+    "lat": -34.6037,
+    "lng": -58.3817,
+    "fuentes": [
+      "https://www.alertastransito.com/p/pronostico-de-piquetes.html",
+      "https://www.cronica.com.mx/mundo/2026/07/24/manifestacion-para-que-repitan-la-final-del-mundial-hinchas-de-la-seleccion-argentina-tomaran-las-calles-de-buenos-aires/"
+    ],
+    "createdAt": "2026-07-26T14:11:13.000Z",
+    "updatedAt": "2026-07-26T14:16:17Z"
+  },
+  {
     "id": "intl-048",
     "seccion": "protestas_internacionales",
     "pais": "España",
@@ -25,7 +48,7 @@
       "https://do.basspistol.org/event/manifestacio-26j"
     ],
     "createdAt": "2026-07-26T06:33:33.000Z",
-    "updatedAt": "2026-07-26T12:12:47Z"
+    "updatedAt": "2026-07-26T14:16:17Z"
   },
   {
     "id": "intl-049",
@@ -51,7 +74,7 @@
       "https://frenteantiimperialista.org/rompamos-el-bloqueo-cuba-necesita-energia-manifestacion-en-madrid/"
     ],
     "createdAt": "2026-07-26T06:33:33.000Z",
-    "updatedAt": "2026-07-26T12:12:47Z"
+    "updatedAt": "2026-07-26T14:16:17Z"
   },
   {
     "id": "intl-050",
@@ -77,7 +100,7 @@
       "https://newsable.asianetnews.com/india/thackeray-brothers-unite-at-shivaji-park-for-neet-ug-protest-rally-articleshow-6wpqy1l"
     ],
     "createdAt": "2026-07-26T06:33:33.000Z",
-    "updatedAt": "2026-07-26T12:12:47Z"
+    "updatedAt": "2026-07-26T14:16:17Z"
   },
   {
     "id": "intl-053",
@@ -99,7 +122,7 @@
       "https://www.hindusforhumanrights.org/events-list/bot3a5eao1mdq0knn6si19yxu05gyv"
     ],
     "createdAt": "2026-07-26T06:33:33.000Z",
-    "updatedAt": "2026-07-26T12:12:47Z"
+    "updatedAt": "2026-07-26T14:16:17Z"
   },
   {
     "id": "intl-054",
@@ -122,7 +145,7 @@
       "https://www.hindusforhumanrights.org/events-list/row23kt8dm1sb8imbie1edkp68od4t"
     ],
     "createdAt": "2026-07-26T06:33:33.000Z",
-    "updatedAt": "2026-07-26T12:12:47Z"
+    "updatedAt": "2026-07-26T14:16:17Z"
   },
   {
     "id": "intl-055",
@@ -144,7 +167,7 @@
       "https://oazis.app/en/event/compassionate-resistance-against-policies-of-ice-and-maga-sacramento-2026-07-26"
     ],
     "createdAt": "2026-07-26T06:33:33.000Z",
-    "updatedAt": "2026-07-26T12:12:47Z"
+    "updatedAt": "2026-07-26T14:16:17Z"
   },
   {
     "id": "intl-056",
@@ -168,7 +191,7 @@
       "https://www.europesays.com/canada/142022/"
     ],
     "createdAt": "2026-07-26T06:33:33.000Z",
-    "updatedAt": "2026-07-26T12:12:47Z"
+    "updatedAt": "2026-07-26T14:16:17Z"
   },
   {
     "id": "intl-057",
@@ -191,33 +214,7 @@
       "https://ph.usembassy.gov/demonstration-alert-state-of-the-nation-address-sona-protests-on-july-27/"
     ],
     "createdAt": "2026-07-26T12:07:03.000Z",
-    "updatedAt": "2026-07-26T12:12:47Z"
-  },
-  {
-    "id": "intl-058",
-    "seccion": "protestas_internacionales",
-    "pais": "Georgia",
-    "bandera": "🇬🇪",
-    "hora": "18:00",
-    "fecha": "2026-07-26",
-    "lugar": "Tbilisi (Ilia Chavchavadze Avenue → Parlamento)",
-    "tipoAccion": "Manifestación continua / Marcha pro-UE",
-    "organizaciones": [
-      "Oposición pro-europea",
-      "Sociedad civil georgiana",
-      "Movimiento de protesta diaria"
-    ],
-    "motivo": "Día 606 de protestas continuas contra el gobierno de Georgian Dream. Exigen retomar el proceso de adhesión a la UE, liberación de presos políticos (90 según Transparency International Georgia), fin de la represión policial y nuevas elecciones libres. Las protestas continuas diarias en Tbilisi y otras ciudades se mantienen desde noviembre de 2024.",
-    "status": "active",
-    "lat": 41.7151,
-    "lng": 44.8271,
-    "fuentes": [
-      "https://jam-news.net/topic/protests-in-georgia/",
-      "https://www.alamy.com/tbilisi-georgia-25th-july-2026-protesters-carry-georgian-flags-as-they-mark-the-605th-day-of-anti-government-rally-in-tbilisi-georgia-on-july-25-2026-photo-by-moe-zoyarisipa-usa-credit-sipa-usaalamy-live-news-image742433982.html",
-      "https://eurasianet.org/tbilisi-protests-pass-500-days-with-no-end-in-sight-what-choice-do-we-have"
-    ],
-    "createdAt": "2026-07-26T12:07:03.000Z",
-    "updatedAt": "2026-07-26T12:12:47Z"
+    "updatedAt": "2026-07-26T14:16:17Z"
   },
   {
     "id": "intl-059",
@@ -240,7 +237,7 @@
       "https://www.rappler.com/philippines/list-sona-2026-protests-activities/"
     ],
     "createdAt": "2026-07-26T12:07:03.000Z",
-    "updatedAt": "2026-07-26T12:12:47Z"
+    "updatedAt": "2026-07-26T14:16:17Z"
   },
   {
     "id": "intl-060",
@@ -262,6 +259,56 @@
       "https://www.rappler.com/philippines/list-sona-2026-protests-activities/"
     ],
     "createdAt": "2026-07-26T12:07:03.000Z",
-    "updatedAt": "2026-07-26T12:12:47Z"
+    "updatedAt": "2026-07-26T14:16:17Z"
+  },
+  {
+    "id": "intl-061",
+    "seccion": "protestas_internacionales",
+    "pais": "México",
+    "bandera": "🇲🇽",
+    "hora": "11:00",
+    "fecha": "2026-07-26",
+    "lugar": "Ciudad de México (Sede de la Alcaldía Cuauhtémoc → Jardín Tabacalera → Embajada de EE.UU.)",
+    "tipoAccion": "Marcha / Mitin de solidaridad",
+    "organizaciones": [
+      "Partido Comunista de México (PCM)",
+      "Frente de la Juventud Comunista (FJC)",
+      "Coordinadora Democrática de la CDMX"
+    ],
+    "motivo": "Movilización en solidaridad con Cuba conmemorando el 72 aniversario de los asaltos a los cuarteles Moncada y Céspedes (26 de julio de 1953). Exigen el fin del bloqueo estadounidense contra Cuba. Mitines en el Jardín Tabacalera (12:00) y frente a la embajada estadounidense (13:00). Aforo estimado: 200 personas.",
+    "status": "scheduled",
+    "lat": 19.4326,
+    "lng": -99.1332,
+    "fuentes": [
+      "https://www.ejecentral.com.mx/nuestro-eje/manifestaciones-hoy-sabado-26-de-julio-en-cdmx-donde-y-a-que-hora-habra-marchas-y-bloqueos",
+      "https://www.infobae.com/mexico/2026/07/26/en-vivo-bloqueos-en-carreteras-accidentes-y-manifestaciones-hoy-domingo-26-de-julio/"
+    ],
+    "createdAt": "2026-07-26T14:07:18.000Z",
+    "updatedAt": "2026-07-26T14:16:17Z"
+  },
+  {
+    "id": "intl-062",
+    "seccion": "protestas_internacionales",
+    "pais": "México",
+    "bandera": "🇲🇽",
+    "hora": "16:00",
+    "fecha": "2026-07-26",
+    "lugar": "Ciudad de México (Ángel de la Independencia → Hemiciclo a Juárez)",
+    "tipoAccion": "Marcha por justicia",
+    "organizaciones": [
+      "Familiares de los 43 estudiantes de Ayotzinapa",
+      "Normal Rural de Ayotzinapa",
+      "Colectivos solidarios"
+    ],
+    "motivo": "142ª Acción Global por Ayotzinapa y México. Madres y padres de los 43 estudiantes desaparecidos de la Escuela Normal Rural de Ayotzinapa marchan exigiendo verdad, justicia y castigo para los responsables de la desaparición. Aforo estimado: 300 personas. Posible arribo de autobuses y participación de grupos anarquistas.",
+    "status": "scheduled",
+    "lat": 19.4326,
+    "lng": -99.1332,
+    "fuentes": [
+      "https://www.nmas.com.mx/movilidad/marchas/marcha-caso-ayotzinapa-colapsara-cdmx-julio-2026-cuando-habra-mega-bloqueo-fecha/",
+      "https://www.ejecentral.com.mx/nuestro-eje/manifestaciones-hoy-sabado-26-de-julio-en-cdmx-donde-y-a-que-hora-habra-marchas-y-bloqueos"
+    ],
+    "createdAt": "2026-07-26T14:07:18.000Z",
+    "updatedAt": "2026-07-26T14:16:17Z"
   }
 ]
