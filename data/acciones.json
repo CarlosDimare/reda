@@ -22,7 +22,7 @@
       "https://allafrica.com/stories/202607280008.html"
     ],
     "createdAt": "2026-07-28T00:06:48.000Z",
-    "updatedAt": "2026-07-29T01:09:04Z"
+    "updatedAt": "2026-07-29T04:51:57Z"
   },
   {
     "id": "intl-211",
@@ -48,7 +48,7 @@
       "https://valahia.news/hospitals-romania-general-nationwide-strike/"
     ],
     "createdAt": "2026-07-28T16:17:14.000Z",
-    "updatedAt": "2026-07-29T01:09:04Z"
+    "updatedAt": "2026-07-29T04:51:57Z"
   },
   {
     "id": "intl-213",
@@ -76,7 +76,7 @@
       "https://www.ndtv.com/world-news/filled-with-dead-bodies-20-killed-in-brutal-pok-crackdown-by-pakistan-forces-11832478"
     ],
     "createdAt": "2026-07-28T17:51:49.000Z",
-    "updatedAt": "2026-07-29T01:09:04Z"
+    "updatedAt": "2026-07-29T04:51:57Z"
   },
   {
     "id": "intl-216",
@@ -102,7 +102,7 @@
       "https://libyareview.com/67160/protests-against-dbaibas-government-threaten-libya-power-supply/"
     ],
     "createdAt": "2026-07-28T19:18:40.000Z",
-    "updatedAt": "2026-07-29T01:09:04Z"
+    "updatedAt": "2026-07-29T04:51:57Z"
   },
   {
     "id": "intl-219",
@@ -127,30 +127,7 @@
       "https://www.balkanweb.com/en/Nothing-stops-the-revolt.-Anti-government-protests-enter-their-59th-day-today.-Citizens-call-on-Rama-to-resign./"
     ],
     "createdAt": "2026-07-28T20:41:54.000Z",
-    "updatedAt": "2026-07-29T01:09:04Z"
-  },
-  {
-    "id": "intl-225",
-    "seccion": "protestas_internacionales",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
-    "hora": "12:00",
-    "fecha": "2026-07-29",
-    "lugar": "State College, Pensilvania (Teamsters Local 8 Union Hall y Mount Nittany Medical Center)",
-    "tipoAccion": "Huelga de 5 días + concentración de apoyo comunitaria",
-    "organizaciones": [
-      "SEIU Healthcare Pennsylvania",
-      "Teamsters Local 8"
-    ],
-    "motivo": "Más de 900 trabajadores sindicalizados del Mount Nittany Medical Center continúan en huelga de 5 días (día 3). Exigen mejores salarios, condiciones laborales y seguridad. La huelga comenzó el 27 de julio con piquetes en Hospital Drive. Próxima ronda de negociación el 3 de agosto.",
-    "status": "en_curso",
-    "lat": 40.7934,
-    "lng": -77.86,
-    "fuentes": [
-      "https://www.centredaily.com/news/local/article316673707.html"
-    ],
-    "createdAt": "2026-07-28T23:28:57.000Z",
-    "updatedAt": "2026-07-29T01:09:04Z"
+    "updatedAt": "2026-07-29T04:51:57Z"
   },
   {
     "id": "intl-226",
@@ -172,7 +149,7 @@
       "https://www.just-food.com/news/german-union-lines-up-strike-action-at-two-intersnack-sites/"
     ],
     "createdAt": "2026-07-28T23:28:57.000Z",
-    "updatedAt": "2026-07-29T01:09:04Z"
+    "updatedAt": "2026-07-29T04:51:57Z"
   },
   {
     "id": "intl-229",
@@ -196,7 +173,7 @@
       "https://dawan.africa/knunm-calls-for-nationwide-nurses-strike-from-29-july-2026/"
     ],
     "createdAt": "2026-07-29T01:00:36.000Z",
-    "updatedAt": "2026-07-29T01:09:04Z"
+    "updatedAt": "2026-07-29T04:51:57Z"
   },
   {
     "id": "intl-230",
@@ -211,7 +188,7 @@
       "Public and Commercial Services Union (PCS)"
     ],
     "motivo": "Huelga del personal del Ministerio de Relaciones Exteriores (FCDO) en Londres y otras sedes del Reino Unido, convocada por el sindicato PCS, en reclamo de mejoras salariales, condiciones laborales y equiparación con otros departamentos gubernamentales. Piquetes de 8:00 a 10:00 en King Charles Street. Es la octava huelga del personal del FCDO en lo que va del año.",
-    "status": "anunciada",
+    "status": "en_curso",
     "lat": 51.5014,
     "lng": -0.1276,
     "fuentes": [
@@ -220,7 +197,55 @@
       "https://strikecalendar.co.uk/"
     ],
     "createdAt": "2026-07-29T01:00:36.000Z",
-    "updatedAt": "2026-07-29T01:09:04Z"
+    "updatedAt": "2026-07-29T04:51:57Z"
+  },
+  {
+    "id": "intl-231",
+    "seccion": "protestas_internacionales",
+    "pais": "Bulgaria",
+    "bandera": "🇧🇬",
+    "hora": "19:00",
+    "fecha": "2026-07-29",
+    "lugar": "Sofía (Plaza Independencia / Consejo de Ministros) y más de 25 ciudades en todo el país",
+    "tipoAccion": "Protesta masiva nacional (día 21)",
+    "organizaciones": [
+      "We Continue the Change - Democratic Bulgaria (WCC-DB)",
+      "Ciudadanos autoconvocados"
+    ],
+    "motivo": "Protesta masiva nacional en Sofía y más de 25 ciudades búlgaras contra el proyecto de Presupuesto 2026, que aumenta impuestos y contribuciones sociales. Exigen la renuncia del gobierno, la destitución de Delyan Peevski y Boyko Borissov. El gobierno retiró el proyecto de presupuesto tras las protestas. Manifestantes acampan frente al Consejo de Ministros con carpas, mantas y víveres. Se estiman entre 25,000 y 40,000 manifestantes solo en Sofía. Es el día 21 de protestas consecutivas.",
+    "status": "en_curso",
+    "lat": 42.6977,
+    "lng": 23.3219,
+    "fuentes": [
+      "https://www.novinite.com/articles/205488/Protests+in+Bulgaria%3A+Nationwide+Rally+in+Sofia+Today+%28July+29%29"
+    ],
+    "createdAt": "2026-07-29T04:44:23.000Z",
+    "updatedAt": "2026-07-29T04:51:57Z"
+  },
+  {
+    "id": "intl-232",
+    "seccion": "protestas_internacionales",
+    "pais": "India",
+    "bandera": "🇮🇳",
+    "hora": "00:00",
+    "fecha": "2026-07-29",
+    "lugar": "Bhopal, Madhya Pradesh (Autopista Hoshangabad, residencia del CM)",
+    "tipoAccion": "Marcha masiva y acampada",
+    "organizaciones": [
+      "Samyukt Kisan Morcha (SKM)",
+      "Krantikari Kisan Mazdoor Sangathan"
+    ],
+    "motivo": "Unos 2,000 agricultores de 19 organizaciones marchan hacia Bhopal y acampan en la carretera Hoshangabad exigiendo la compra gubernamental del 100% del cultivo de moong al Precio Mínimo de Sostenimiento (MSP), la abolición del sistema de e-tokens para la venta de cosechas y la distribución de fertilizantes según registros de tierras. Rompieron barricadas policiales en múltiples puntos. Llevan consigo alimentos y mantas para una protesta prolongada. La protesta continuará hasta que el gobierno acepte sus demandas.",
+    "status": "en_curso",
+    "lat": 23.2599,
+    "lng": 77.4126,
+    "fuentes": [
+      "https://www.freepressjournal.in/bhopal/over-2k-farmers-march-towards-cms-residence-in-bhopal-traffic-hit-videos-show-farmers-cooking-on-roads",
+      "https://indianexpress.com/article/india/madhya-pradesh-farmers-protest-bhopal-moong-msp-demand-10808073/",
+      "https://www.indiatvnews.com/madhya-pradesh/why-are-thousands-of-farmers-holding-protest-in-bhopal-what-are-their-demands-all-you-need-to-know-2026-07-29-1049711"
+    ],
+    "createdAt": "2026-07-29T04:44:23.000Z",
+    "updatedAt": "2026-07-29T04:51:57Z"
   },
   {
     "id": "ar-013",
@@ -245,7 +270,7 @@
       "https://www.cronista.com/economia-politica/paro-de-colectivos-confirmado-cuando-sera-la-medida-de-fuerza-de-la-uta-y-que-lineas-quedaran-afectadas/"
     ],
     "createdAt": "2026-07-29T01:04:31.000Z",
-    "updatedAt": "2026-07-29T01:09:04Z"
+    "updatedAt": "2026-07-29T04:51:57Z"
   },
   {
     "id": "ar-014",
@@ -275,6 +300,32 @@
       "https://www.diarioelargentino.com/provincia/upcn-convoco-a-un-paro-activo-provincial-para-el-29-de-julio-tras-el-fracaso-de-la-paritaria-salarial.htm"
     ],
     "createdAt": "2026-07-29T01:04:31.000Z",
-    "updatedAt": "2026-07-29T01:09:04Z"
+    "updatedAt": "2026-07-29T04:51:57Z"
+  },
+  {
+    "id": "ar-015",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "10:00",
+    "fecha": "2026-07-29",
+    "lugar": "Polo Científico Tecnológico, Godoy Cruz 2300, CABA (Palermo)",
+    "tipoAccion": "Concentración y conferencia de prensa",
+    "organizaciones": [
+      "Colectivo de Becarias y Becarios Posdoctorales Autoconvocados del CONICET",
+      "ATE CONICET"
+    ],
+    "motivo": "Concentración en el Polo Científico Tecnológico para exigir la prórroga inmediata de las becas de 400 investigadores posdoctorales del CONICET a punto de vencer. Riesgo de pérdida de 400 líneas de investigación. Exigen una partida presupuestaria adicional de entre 2.000 y 3.000 millones de pesos que debe autorizar la Jefatura de Gabinete a cargo de Diego Santilli, a quien enviaron una carta abierta. El reclamo cuenta con respaldo del Directorio del CONICET (5 de 8 miembros), más de 100 institutos de investigación, universidades, asociaciones científicas nacionales e internacionales y legisladores opositores. La protesta coincide con una reunión del Directorio del organismo.",
+    "status": "en_curso",
+    "lat": -34.58,
+    "lng": -58.41,
+    "fuentes": [
+      "https://www.primeraedicion.com.ar/nota/101127028/investigadores-del-conicet-encaran-una-nueva-protesta-bajo-una-posible-ola-de-despidos/",
+      "https://www.tiempoar.com.ar/ta_article/nueva-convocatoria-en-el-polo-cientifico-no-permitamos-una-nueva-fuga-de-cerebros/",
+      "https://radio3cadenapatagonia.com.ar/advierten-que-400-cientificos-podrian-quedar-fuera-del-sistema-de-investigacion/",
+      "https://www.mendovoz.com/actualidad/nacionales/2026/7/28/investigadores-del-conicet-protestan-ante-una-posible-ola-de-despidos-174597.html"
+    ],
+    "createdAt": "2026-07-29T04:46:24.000Z",
+    "updatedAt": "2026-07-29T04:51:57Z"
   }
 ]
