@@ -1,695 +1,124 @@
 [
   {
-    "id": "intl-203",
+    "id": "intl-266",
     "seccion": "protestas_internacionales",
-    "pais": "Nigeria",
-    "bandera": "🇳🇬",
-    "hora": "06:00",
-    "fecha": "2026-07-30",
-    "lugar": "Akure, Estado de Ondo (FUTA Teaching Hospital)",
-    "tipoAccion": "Paro laboral indefinido",
+    "pais": "Zimbabwe",
+    "bandera": "🇿🇼",
+    "hora": "10:00",
+    "fecha": "2026-07-31",
+    "lugar": "Harare (Africa Unity Square, Central Business District)",
+    "tipoAccion": "Protesta pacífica",
     "organizaciones": [
-      "Nigeria Labour Congress (NLC)",
-      "Trade Union Congress (TUC)"
+      "Zimbabwe African People's Union (ZAPU)"
     ],
-    "motivo": "Huelga indefinida en el Hospital de Enseñanza de la Universidad Federal de Tecnología de Akure (FUTA Teaching Hospital), declarada por el NLC y TUC desde la medianoche del 26 de julio. Quinto día consecutivo del paro. La medida responde al incumplimiento de un Memorandum de Entendimiento sobre inscripción en el sistema de nómina IPPIS y derechos laborales del personal. Piquete pacífico continuo frente al hospital.",
+    "motivo": "Protesta pacífica convocada por ZAPU contra la recién aprobada Enmienda (N.º 3) a la Constitución de Zimbabue. El partido argumenta que la enmienda debió someterse a referéndum nacional según el Artículo 328 de la Constitución y que socava derechos constitucionales, incluidos los derechos políticos protegidos por la Sección 67. La concentración fue notificada formalmente a la Policía de la República de Zimbabue según la Ley de Mantenimiento del Orden y la Paz (MOPA). El gobierno de Mnangagwa advirtió contra las protestas y desplegó fuerzas de seguridad.",
     "status": "en_curso",
-    "lat": 7.25,
-    "lng": 5.195,
+    "lat": -17.8252,
+    "lng": 31.0335,
     "fuentes": [
-      "https://www.premiumtimesng.com/news/top-news/898359-labour-shuts-down-futa-teaching-hospital-over-non-implementation-of-agreement.html",
-      "https://tribuneonlineng.com/nlc-tuc-declare-indefinite-strike-at-futa-teaching-hospital/",
-      "https://allafrica.com/stories/202607280008.html"
+      "https://news.pindula.co.zw/2026/07/25/zapu-to-stage-31-july-peaceful-protest-at-africa-unity-square/",
+      "https://apanews.net/zimbabwe-warns-against-july-31-term-extension-protests/",
+      "https://www.zimlive.com/zanu-pf-panics-soldiers-and-police-deployed-to-crush-july-31-protests/"
     ],
-    "createdAt": "2026-07-28T00:06:48.000Z",
-    "updatedAt": "2026-07-30T23:09:04Z"
+    "createdAt": "2026-07-31T01:02:54.000Z",
+    "updatedAt": "2026-07-31T01:06:43Z"
   },
   {
-    "id": "intl-211",
+    "id": "intl-267",
     "seccion": "protestas_internacionales",
-    "pais": "Rumania",
-    "bandera": "🇷🇴",
-    "hora": "09:00",
-    "fecha": "2026-07-30",
-    "lugar": "A nivel nacional en más de 500 hospitales (Bucarest: Hospital Floreasca; Timișoara; Suceava; Drobeta-Turnu Severin)",
-    "tipoAccion": "Huelga general indefinida",
+    "pais": "Ucrania",
+    "bandera": "🇺🇦",
+    "hora": "19:00",
+    "fecha": "2026-07-31",
+    "lugar": "Kyiv (Shevchenko Park, monumento a Shevchenko; marcha hacia Ivan Franko Square)",
+    "tipoAccion": "Marcha de protesta",
     "organizaciones": [
-      "Federación SANITAS (100.000 trabajadores de la salud)"
+      "Activistas pro-Fedorov",
+      "Dmytro Koziatynskyi (convocante, exmédico de combate del batallón Wolves of Da Vinci)"
     ],
-    "motivo": "Huelga general indefinida de trabajadores de la salud en toda Rumania, la primera en una década. Médicos, enfermeras y personal sanitario de más de 500 hospitales mantienen la paralización de actividades no urgentes en protesta por la nueva Ley de Salarios del sector público, que congela contrataciones, recorta derechos salariales (peligrosidad, fines de semana, comidas) y perpetúa desigualdades. Exigen la eliminación de disposiciones lesivas, modificación de coeficientes salariales y descongelamiento de puestos. Solo se garantiza atención de emergencias con un tercio del personal. La huelga pone en riesgo fondos EU del PNRR por 770 millones de euros. El gobierno desbloqueó 6.850 puestos en el sistema de salud pública, pero el sindicato SANITAS continúa la huelga al no recibir garantías sobre la ley salarial. Día 3 de la huelga. El primer ministro interino Bolojan acusó al sindicato de basar la huelga en 'desinformación y mentiras'.",
+    "motivo": "Marcha de protesta en apoyo al exministro de Defensa Mykhailo Fedorov, destituido por el presidente Zelensky en una reorganización del gabinete. Los manifestantes exigen diálogo y reformas en el sector defensa, y piden a Zelensky que revierta la destitución. La Administración de la Ciudad de Kyiv notificó a la policía sobre la marcha programada, pero advirtió que la ley marcial (extendida hasta el 2 de agosto de 2026) prohíbe concentraciones masivas. Es la continuación de las protestas que comenzaron el 16 de julio tras la destitución de Fedorov, considerado un modernizador clave en innovación de drones y reformas militares.",
     "status": "en_curso",
-    "lat": 44.4268,
-    "lng": 26.1025,
+    "lat": 50.4422,
+    "lng": 30.5136,
     "fuentes": [
-      "https://www.reuters.com/business/world-at-work/romanian-healthcare-workers-strike-over-wage-bill-needed-secure-eu-funds-2026-07-28/",
-      "https://www.bloomberg.com/news/articles/2026-07-28/romanian-health-workers-strike-builds-pressure-over-pay-reforms",
-      "https://www.romania-insider.com/sanitas-general-strike-hospitals-july-2026",
-      "https://universul.net/romanian-healthcare-workers-begin-nationwide-strike-over-pay-reform-cuts-to-health-system/",
-      "https://valahia.news/hospitals-romania-general-nationwide-strike/",
-      "https://www.rri.ro/en/news-and-current-affairs/today-in-the-news/strike-in-the-romanian-healtchare-system-id1043561.html",
-      "https://www.romania-insider.com/romanian-healthcare-sector-strike-third-day-2026"
+      "https://ua.news/en/all-news/kmda-poperedila-politsiiu-pro-namiri-provesti-khodu-za-fedorova",
+      "https://www.pravda.com.ua/eng/news/2026/07/28/8046236",
+      "https://kyivindependent.com/ukraine-protests-to-continue-despite-syrskyis-firing-as-organizers-demand-fedorovs-return/"
     ],
-    "createdAt": "2026-07-28T16:17:14.000Z",
-    "updatedAt": "2026-07-30T23:09:04Z"
+    "createdAt": "2026-07-31T01:02:54.000Z",
+    "updatedAt": "2026-07-31T01:06:43Z"
   },
   {
-    "id": "intl-213",
-    "seccion": "protestas_internacionales",
-    "pais": "Pakistán (Cachemira)",
-    "bandera": "🇵🇰",
-    "hora": "00:00",
-    "fecha": "2026-07-30",
-    "lugar": "Rawalakot (Maqbool Bhat Shaheed Chowk, Chandni Chowk), Mirpur, Kotli, Azad Cachemira; Islamabad (National Press Club); Birmingham (Reino Unido)",
-    "tipoAccion": "Marcha Long March + protestas masivas + represión armada con francotiradores",
-    "organizaciones": [
-      "Joint Awami Action Committee (JAAC)",
-      "Awami Huqooq Long March",
-      "Jammu Kashmir Joint Awami Action Committee (JKJAAC)"
-    ],
-    "motivo": "Escalada de violencia en la 'Awami Huqooq Long March' hacia Muzaffarabad. Manifestantes denuncian que francotiradores de las fuerzas de seguridad disparan contra manifestantes desarmados, realizando 'tiros en la cabeza' selectivos. El JAAC reporta al menos 37 manifestantes asesinados en los últimos días y 109 desde el inicio de las protestas hace 53 días. El 30 de julio, fuerzas paquistaníes abrieron fuego contra mujeres manifestantes en Kotli. Las protestas se extienden a Islamabad, donde estudiantes y abogados se manifiestan frente al National Press Club contra la represión gubernamental. La diáspora cachemira protestó frente al consulado de Pakistán en Birmingham (Reino Unido). Se denuncia un toque de queda en Mirpur. Amnesty International califica el uso de fuerza letal como 'disturbing' y exige investigación.",
-    "status": "en_curso",
-    "lat": 33.8578,
-    "lng": 73.7594,
-    "fuentes": [
-      "https://theprint.in/world/pok-protests-at-least-14-killed-24-injured-in-alleged-firing-by-police-in-rawalakot/2998670/",
-      "https://www.news18.com/world/tale-of-oppression-20-killed-in-poks-rawalakot-crackdown-pakistan-oppn-slams-open-terrorism-ws-l-10237193.html",
-      "https://www.moneycontrol.com/world/rawalakot-filled-with-dead-bodies-pakistan-s-crackdown-on-pok-election-protesters-leaves-at-least-20-dead-article-13985996.html",
-      "https://www.hindustantimes.com/world-news/14-killed-as-police-opens-fire-on-rawalakot-protesters-amid-pojk-march-eyewitnesses-claim-101785258591724.html",
-      "https://www.ndtv.com/world-news/filled-with-dead-bodies-20-killed-in-brutal-pok-crackdown-by-pakistan-forces-11832478",
-      "https://news.abplive.com/news/world/pakistan-pok-protest-violence-escalates-24-protesters-killed-in-48-hours-as-firing-grips-mirpur-rawalakot-1859183",
-      "https://www.firstpost.com/world/pok-election-violence-jaac-protests-pakistan-army-crackdown-internet-suspension-14034672.html",
-      "https://www.outlookindia.com/international/explained-why-are-protests-raging-in-pakistan-occupied-kashmir-and-what-triggered-the-deadly-unrest",
-      "https://www.moneycontrol.com/world/british-kashmiris-protest-outside-pakistan-consulate-in-birmingham-over-violence-in-pok-s-rawalakot-watch-article-13987388.html",
-      "https://www.aljazeera.com/news/2026/7/30/protest-group-says-30-dead-in-pakistan-administered-kashmir-vote",
-      "https://www.news18.com/world/snipers-target-unarmed-protesters-in-pok-as-35-dead-in-brutal-rawalakot-crackdown-exclusive-10242869.html",
-      "https://www.timesnownews.com/world/asia/pok-protests-wave-spreads-across-pakistan-students-lawyers-stage-demonstration-in-islamabad-against-crackdown-article-155215907",
-      "https://www.timesnownews.com/world/pojk-protests-turn-deadlier-fresh-firing-in-kotli-jaac-claims-109-killed-in-53-days-article-155219429",
-      "https://www.newkerala.com/news/a/pakistani-forces-open-fire-women-protesters-poks-kotli-178.htm"
-    ],
-    "createdAt": "2026-07-28T17:51:49.000Z",
-    "updatedAt": "2026-07-30T23:09:04Z"
-  },
-  {
-    "id": "intl-229",
-    "seccion": "protestas_internacionales",
-    "pais": "Kenia",
-    "bandera": "🇰🇪",
-    "hora": "00:01",
-    "fecha": "2026-07-30",
-    "lugar": "A nivel nacional (hospitales y centros de salud públicos en los 47 condados); Nairobi (Afya House)",
-    "tipoAccion": "Huelga nacional indefinida con protestas callejeras",
-    "organizaciones": [
-      "Kenya National Union of Nurses and Midwives (KNUNM)"
-    ],
-    "motivo": "Huelga nacional indefinida de enfermeras y parteras en todo Kenia, convocada por la KNUNM desde las 00:01 del 29 de julio. Segundo día consecutivo del paro. El 30 de julio, enfermeras realizaron una protesta masiva frente a Afya House en Nairobi, ondeando carteles, haciendo sonar silbatos y exigiendo la implementación del Acuerdo de Reconocimiento Colectivo (CRA) de 2021, mejores salarios, condiciones laborales y personal suficiente. También planeaban entregar una petición al Consejo de Gobernadores. El secretario general Maurice Opetu advirtió que las manifestaciones se extenderían a otras regiones.",
-    "status": "en_curso",
-    "lat": -1.2921,
-    "lng": 36.8219,
-    "fuentes": [
-      "https://hivileo.co.ke/knunm-declares-nationwide-nurses-strike-effective-29th-july-2026/",
-      "https://nyanzadaily.co.ke/knunm-calls-for-nationwide-strike-effective-29th-july-2026/",
-      "https://dawan.africa/knunm-calls-for-nationwide-strike-from-29-july-2026/",
-      "https://radiogeneration.co.ke/health-and-wellness/103770/nurses-declare-nationwide-strike-shut-down-services-over-unresolved-demands",
-      "https://www.the-star.co.ke/news/2026-07-30-photos-nurses-hit-streets-as-strike-begins"
-    ],
-    "createdAt": "2026-07-29T01:00:36.000Z",
-    "updatedAt": "2026-07-30T23:09:04Z"
-  },
-  {
-    "id": "intl-232",
+    "id": "intl-268",
     "seccion": "protestas_internacionales",
     "pais": "India",
     "bandera": "🇮🇳",
-    "hora": "00:00",
-    "fecha": "2026-07-30",
-    "lugar": "Bhopal, Madhya Pradesh (Autopista Hoshangabad, cerca del puente Veer Savarkar)",
-    "tipoAccion": "Marcha masiva y acampada",
-    "organizaciones": [
-      "Samyukt Kisan Morcha (SKM)",
-      "Krantikari Kisan Mazdoor Sangathan"
-    ],
-    "motivo": "Unos 2.000 agricultores de 19 organizaciones protestaron durante días en Bhopal exigiendo la compra gubernamental del 100% del cultivo de moong al Precio Mínimo de Sostenimiento (MSP), la abolición del sistema de e-tokens para la venta de cosechas y la distribución de fertilizantes según registros de tierras. El 30 de julio, el gobierno elevó la compra de moong al 60% y suspendió el sistema de e-tokens de fertilizantes, tras lo cual los agricultores levantaron la huelga y suspendieron la acampada en la autopista Hoshangabad.",
-    "status": "finalizada",
-    "lat": 23.2599,
-    "lng": 77.4126,
-    "fuentes": [
-      "https://www.freepressjournal.in/bhopal/over-2k-farmers-march-towards-cms-residence-in-bhopal-traffic-hit-videos-show-farmers-cooking-on-roads",
-      "https://indianexpress.com/article/india/madhya-pradesh-farmers-protest-bhopal-moong-msp-demand-10808073/",
-      "https://www.indiatvnews.com/madhya-pradesh/why-are-thousands-of-farmers-holding-protest-in-bhopal-what-are-their-demands-all-you-need-to-know-2026-07-29-1049711",
-      "https://www.latestly.com/agency-news/india-news/mp-farmers-continue-protest-stage-sit-in-on-bhopal-narmadapuram-highway-over-moong-procurement-vow-to-remain-until-demands-meet-7536549.html",
-      "https://www.hindustantimes.com/india-news/schools-shut-traffic-disrupted-farmers-march-to-bhopal-demanding-100-moong-procurement-at-msp-other-key-demands-mp-101785317750903.html",
-      "https://www.outlookindia.com/national/farmers-stage-highway-sit-in-in-bhopal-over-moong-procurement-vow-to-stay-until-demands-met",
-      "https://dailypioneer.com/news/moong-msp-protest-paralyses-bhopal-schools-shut-talks-fail-overnight",
-      "https://www.dailypioneer.com/2026/state-editions/mp--farmers-end-strike-as-govt-raises-moong-procurement-to-60--suspends-fertiliser-e-token-system.html",
-      "https://theprint.in/india/mp-farmers-end-strike-as-govt-raises-moong-procurement-to-60-pc-suspends-fertiliser-e-token-system/3000685/"
-    ],
-    "createdAt": "2026-07-29T04:44:23.000Z",
-    "updatedAt": "2026-07-30T23:09:04Z"
-  },
-  {
-    "id": "intl-240",
-    "seccion": "protestas_internacionales",
-    "pais": "Sudáfrica",
-    "bandera": "🇿🇦",
-    "hora": "00:00",
-    "fecha": "2026-07-30",
-    "lugar": "Johannesburg (oficinas políticas de la Ciudad de Johannesburgo, JC Bez Building, 34 Eloff Street)",
-    "tipoAccion": "Protesta sentada (sit-in) de 3 días (día 2)",
-    "organizaciones": [
-      "Democratic Municipal and Allied Workers Union of South Africa (DEMAWUSA)"
-    ],
-    "motivo": "Segundo día de la protesta sentada de tres días del sindicato DEMAWUSA en las oficinas políticas de la Ciudad de Johannesburgo. Exigen el fin de la tercerización laboral, mejor seguridad en el empleo y medidas contra despidos injustos. Denuncian injusticias sistémicas contra empleados del gobierno local y mala prestación de servicios municipales.",
-    "status": "en_curso",
-    "lat": -26.2041,
-    "lng": 28.0473,
-    "fuentes": [
-      "https://www.sabcnews.com/sabcnews/demawusa-starts-joburg-sit-in-demands-end-to-outsourcing/"
-    ],
-    "createdAt": "2026-07-29T10:35:47.000Z",
-    "updatedAt": "2026-07-30T23:09:04Z"
-  },
-  {
-    "id": "intl-248",
-    "seccion": "protestas_internacionales",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
-    "hora": "00:00",
-    "fecha": "2026-07-30",
-    "lugar": "Bronx, Nueva York (Bronx Defenders, 360 E 161st St)",
-    "tipoAccion": "Huelga laboral",
-    "organizaciones": [
-      "Bronx Defenders Union (ALAA-UAW Local 2325)"
-    ],
-    "motivo": "Unos 300 abogados, trabajadores sociales, investigadores y personal administrativo del Bronx Defenders mantienen la huelga iniciada el 27 de julio, convirtiéndose en el tercer gremio de defensores públicos en hacer huelga en NYC este mes. Exigen mejores salarios para los trabajadores peor pagados (investigadores, defensores, trabajadores sociales), que recibieron ofertas de aumento anual de solo 3%. El sindicato denuncia que la compensación insuficiente está provocando la fuga de abogados y trabajadores sociales experimentados, afectando la continuidad de la representación de unos 20.000 clientes anuales, la mayoría de los cuales no pueden pagar abogados privados.",
-    "status": "en_curso",
-    "lat": 40.824,
-    "lng": -73.919,
-    "fuentes": [
-      "https://www.abajournal.com/news/article/bronx-defenders-union-joins-ongoing-strike-with-other-ny-public-defenders",
-      "https://onlabor.org/july-29-2026/",
-      "https://www.amny.com/law/bronx-defenders-union-public-defender-strike-07272026/"
-    ],
-    "createdAt": "2026-07-29T20:52:34.000Z",
-    "updatedAt": "2026-07-30T23:09:04Z"
-  },
-  {
-    "id": "intl-249",
-    "seccion": "protestas_internacionales",
-    "pais": "Martinica (Francia)",
-    "bandera": "🇫🇷",
-    "hora": "00:00",
-    "fecha": "2026-07-30",
-    "lugar": "Martinica (EDF Martinique, toda la isla)",
-    "tipoAccion": "Huelga (preaviso de huelga hasta el 23 de septiembre)",
-    "organizaciones": [
-      "CSEM-CGTM (Chambre Syndicale de l'Énergie de la Martinique)"
-    ],
-    "motivo": "Preaviso de huelga presentado por la CSEM-CGTM en EDF Martinique desde el 29 de julio de 2026, con posibilidad de extenderse hasta el 23 de septiembre. Dos demandas principales: que el presidente de EDF SA se comprometa por escrito a no aplicar las recomendaciones del informe del Tribunal de Cuentas del 17 de julio de 2026 que afectarían las garantías colectivas de los trabajadores (incluyendo la tarifa preferencial de electricidad), y la reinstalación del comité de seguimiento QUATREM.",
-    "status": "en_curso",
-    "lat": 14.6415,
-    "lng": -61.0242,
-    "fuentes": [
-      "https://www.zayactu.org/martinique/preavis-de-greve-a-edf-martinique-des-ce-29-juillet-le-mouvement-pourrait-durer-jusqu-au-23-septembre"
-    ],
-    "createdAt": "2026-07-29T21:58:21.000Z",
-    "updatedAt": "2026-07-30T23:09:04Z"
-  },
-  {
-    "id": "intl-251",
-    "seccion": "protestas_internacionales",
-    "pais": "Sudáfrica",
-    "bandera": "🇿🇦",
-    "hora": "00:00",
-    "fecha": "2026-07-30",
-    "lugar": "Gqeberha, Eastern Cape (BAIC vehicle assembly plant, Coega Special Economic Zone)",
-    "tipoAccion": "Huelga laboral indefinida",
-    "organizaciones": [
-      "National Union of Metalworkers of South Africa (NUMSA)"
-    ],
-    "motivo": "Huelga indefinida de unos 350 trabajadores en la planta de ensamblaje de BAIC (Beijing Automotive Industry Corporation) en la Zona Económica Especial de Coega, cerca de Gqeberha, desde el 15 de junio. El sindicato NUMSA exige que BAIC se adhiera al Foro Nacional de Negociación y pague salarios equivalentes a los de otras empresas automotrices. BAIC no forma parte del foro y paga salarios muy inferiores. La producción está paralizada. El caso sienta un precedente para la política industrial sudafricana y la inversión extranjera en zonas económicas especiales.",
-    "status": "en_curso",
-    "lat": -33.85,
-    "lng": 25.6,
-    "fuentes": [
-      "https://www.dailymaverick.co.za/article/2026-07-29-strike-at-chinese-carmaker-baics-coega-plant-will-set-a-precedent-says-union/"
-    ],
-    "createdAt": "2026-07-29T23:03:01.000Z",
-    "updatedAt": "2026-07-30T23:09:04Z"
-  },
-  {
-    "id": "intl-253",
-    "seccion": "protestas_internacionales",
-    "pais": "Colombia",
-    "bandera": "🇨🇴",
-    "hora": "09:00",
-    "fecha": "2026-07-30",
-    "lugar": "Bogotá (Secretaría Distrital de Educación, Av. El Dorado 66-63, Localidad Teusaquillo)",
-    "tipoAccion": "Plantón",
-    "organizaciones": [
-      "SINTRASED (Sindicato de Trabajadores de la Secretaría de Educación de Bogotá)"
-    ],
-    "motivo": "Plantón convocado por SINTRASED bajo el lema '¡Nos movilizamos! Por nuestros derechos, por la educación pública'. Concentración frente a la Secretaría Distrital de Educación en Bogotá en defensa de la educación pública y los derechos laborales del sector educativo distrital.",
-    "status": "en_curso",
-    "lat": 4.6399,
-    "lng": -74.0797,
-    "fuentes": [
-      "https://www.gobiernobogota.gov.co/noticias/manifestaciones-bogota-29-31-julio"
-    ],
-    "createdAt": "2026-07-30T00:53:23.000Z",
-    "updatedAt": "2026-07-30T23:09:04Z"
-  },
-  {
-    "id": "intl-255",
-    "seccion": "protestas_internacionales",
-    "pais": "Australia",
-    "bandera": "🇦🇺",
     "hora": "10:00",
-    "fecha": "2026-07-30",
-    "lugar": "Melbourne, Victoria (8 municipios metropolitanos; concentración frente al Parlamento Victoriano, Spring St)",
-    "tipoAccion": "Paro parcial y concentración",
+    "fecha": "2026-07-31",
+    "lugar": "Mandya, Karnataka",
+    "tipoAccion": "Protesta masiva",
     "organizaciones": [
-      "Australian Services Union (ASU) Victoria"
+      "Bharatiya Janata Party (BJP) Karnataka",
+      "Líder de la Oposición R. Ashoka",
+      "Organizaciones de agricultores"
     ],
-    "motivo": "Paro de 4 horas (10:00-14:00) de trabajadores municipales de 8 concejos metropolitanos de Melbourne en lucha por un acuerdo multi-empleador. Concentración al mediodía frente al Parlamento Victoriano. Exigen que el gobierno estatal modifique el tope de tasas municipales para permitir aumentos salariales justos. Denuncian que los concejos se escudan en el tope de tasas para ofrecer salarios insuficientes frente al costo de vida.",
+    "motivo": "Protesta masiva convocada por el BJP de Karnataka en Mandya contra la decisión del gobierno estatal de liberar agua del río Cauvery a Tamil Nadu, siguiendo la directiva del Comité Regulador del Agua del Cauvery (CWRC) de liberar 3.500 cusecs diarios durante 15 días. El presidente del BJP Karnataka, B.Y. Vijayendra, acusó al gobierno de 'jugar con la vida de los agricultores' al liberar agua cuando los embalses tienen niveles críticamente bajos (17,39 tmcft en KRS, de los cuales solo 14,39 tmcft son utilizables). Agricultores de la cuenca del Cauvery enfrentan una severa sequía y no pueden irrigar sus cultivos.",
     "status": "en_curso",
-    "lat": -37.8136,
-    "lng": 144.9631,
+    "lat": 12.5244,
+    "lng": 76.8953,
     "fuentes": [
-      "https://disputesreport.substack.com/p/industrial-disputes-and-news-29-july",
-      "https://www.asuvictas.com.au/VICTAS/News/Snap_strike_and_rally_at_Parliament_House.aspx"
+      "https://www.newindianexpress.com/states/karnataka/2026/Jul/30/cauvery-row-bjp-to-protest-in-mandya-on-july-31",
+      "https://www.deccanherald.com/india/karnataka/mysuru/cauvery-water-row-bjp-to-hold-protest-in-mandya-on-july-31-4091333",
+      "https://www.thehindu.com/news/national/karnataka/bjp-to-stage-protest-in-mandya-on-cauvery-water-issue-by-vijayendra/article71280507.ece"
     ],
-    "createdAt": "2026-07-30T06:24:58.000Z",
-    "updatedAt": "2026-07-30T23:09:04Z"
+    "createdAt": "2026-07-31T01:02:54.000Z",
+    "updatedAt": "2026-07-31T01:06:43Z"
   },
   {
-    "id": "intl-256",
+    "id": "intl-269",
     "seccion": "protestas_internacionales",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
-    "hora": "07:00",
-    "fecha": "2026-07-30",
-    "lugar": "State College, Pensilvania (Mount Nittany Medical Center, Hospital Drive)",
-    "tipoAccion": "Huelga laboral de 5 días (día 4)",
-    "organizaciones": [
-      "SEIU Healthcare Pennsylvania"
-    ],
-    "motivo": "Cuarto día de la huelga de 5 días de unos 950 trabajadores del Mount Nittany Medical Center (enfermeras, técnicos, personal de limpieza, mantenimiento y cocina). Exigen aumentos salariales justos que reflejen la inflación (4,1%). El hospital ofrece 3% anual con bonos; el sindicato rechaza la oferta por considerarla insuficiente y desigual. Es la primera huelga en el centro desde 2004. La próxima reunión de negociación está programada para el 3 de agosto. El representante Ro Khanna se unió al piquete el 29 de julio.",
-    "status": "en_curso",
-    "lat": 40.7934,
-    "lng": -77.86,
-    "fuentes": [
-      "https://radio.wpsu.org/2026-07-27/five-day-strike-begins-at-mount-nittany-medical-center-as-workers-seek-bigger-pay-raises",
-      "https://www.centredaily.com/news/local/article316670479.html",
-      "https://mountnittany.org/2026-planned-strike",
-      "https://www.statecollege.com/articles/local-news/local-leaders-hundreds-of-community-members-rally-to-support-mount-nittany-workers-amid-strike/"
-    ],
-    "createdAt": "2026-07-30T06:24:58.000Z",
-    "updatedAt": "2026-07-30T23:09:04Z"
-  },
-  {
-    "id": "intl-257",
-    "seccion": "protestas_internacionales",
-    "pais": "India (Punjab)",
-    "bandera": "🇮🇳",
+    "pais": "España",
+    "bandera": "🇪🇸",
     "hora": "00:00",
-    "fecha": "2026-07-30",
-    "lugar": "A nivel estatal en Punjab (Barnala, Ludhiana, Chandigarh, Amritsar, Bathinda, Hoshiarpur, Fazilka, Kapurthala, Patiala, Pathankot, Gurdaspur y los 167 cuerpos municipales)",
-    "tipoAccion": "Bandh (huelga) estatal masivo con bloqueos",
+    "fecha": "2026-07-31",
+    "lugar": "A nivel nacional (red de Renfe en toda España; especialmente rutas Andalucía-resto del país)",
+    "tipoAccion": "Huelga laboral de 24 horas",
     "organizaciones": [
-      "Punjab State Safai Karamchari Union",
-      "Barnala Safai Sewak Union",
-      "Municipal Workers Federation",
-      "Comunidad Valmiki"
+      "Sindicato Ferroviario (SF-Intersindical)"
     ],
-    "motivo": "Bandh estatal en todo Punjab convocado por trabajadores de saneamiento y la comunidad Valmiki en protesta por el presunto lathicharge policial contra trabajadores de saneamiento en Barnala. Exigen la regularización de trabajadores contratados, aumento salarial, eliminación del límite de edad de 45 años para la regularización y restauración del antiguo sistema de pensiones. El bandh del 30 de julio tuvo impacto en nueve distritos, con mercados cerrados, bloqueos de puentes y protestas. En Amritsar, un policía ARP murió durante las protestas. La huelga de trabajadores de saneamiento continúa por cuarto día consecutivo, con acumulación de basura en las calles.",
+    "motivo": "Huelga nacional de 24 horas en Renfe convocada por el Sindicato Ferroviario por deficiencias en los sistemas de aire acondicionado de los trenes durante la ola de calor, que según el sindicato 'ponen en riesgo la salud de los trabajadores y pasajeros'. El Ministerio de Transportes fijó servicios mínimos del 75% en Cercanías en hora punta y 50% en hora valle, 65% en Media Distancia y 73% en Alta Velocidad y Larga Distancia. Hasta 322 trenes (94 AVE y 224 de Media Distancia) podrían verse afectados. Es la tercera huelga del año tras las del 29 de junio y 15 de julio por el mismo motivo.",
     "status": "en_curso",
-    "lat": 30.7333,
-    "lng": 76.7794,
+    "lat": 40.4168,
+    "lng": -3.7038,
     "fuentes": [
-      "https://www.tribuneindia.com/news/punjab/stir-over-job-issues-prolongs-sanitation-workers-reject-govt-package-call-20k-pay-meagre",
-      "https://www.babushahi.com/full-news.php?id=224446",
-      "https://www.newindianexpress.com/india/2026/Jul/29/punjab-sanitation-workers-strike-continues-as-union-rejects-welfare-package",
-      "https://thesaveratimes.com/punjab-sanitation-workers-july-30-bandh-regularisation-demand/",
-      "https://www.tribuneindia.com/news/ludhiana/safai-sewak-unions-punjab-bandh-disrupts-normal-life-garbage-piles-up-across-ludhiana-city/",
-      "https://www.punjabnewsline.com/news/punjab-shutdown-arp-constable-dies-in-amritsar-during-protest-duty",
-      "https://thechenabtimes.com/2026/07/30/punjab-towns-observe-bandh-over-police-action-on-sanitation-workers-in-barnala/"
+      "https://www.democrata.es/en/current-events/renfe-strike-july-31-trains-and-minimum-services/",
+      "https://ftnnews.com/travel-news/rail/spain-sets-minimum-rail-services-during-nationwide-renfe-strike-on-july-31/",
+      "https://www.theolivepress.es/spain-news/2026/07/23/train-strikes-called-across-spain-on-eve-of-august-getaway-after-failed-air-con-turns-trains-into-saunas/",
+      "https://euroweeklynews.com/2026/07/30/travelling-by-train-in-spain-tomorrow-renfe-strike-could-affect-322-services/"
     ],
-    "createdAt": "2026-07-30T09:12:19.000Z",
-    "updatedAt": "2026-07-30T23:09:04Z"
+    "createdAt": "2026-07-31T01:02:54.000Z",
+    "updatedAt": "2026-07-31T01:06:43Z"
   },
   {
-    "id": "intl-259",
-    "seccion": "protestas_internacionales",
-    "pais": "Libia",
-    "bandera": "🇱🇾",
-    "hora": "00:00",
-    "fecha": "2026-07-30",
-    "lugar": "Trípoli, Zawiya, Misrata y otras ciudades del oeste de Libia (Mellitah Oil & Gas Complex)",
-    "tipoAccion": "Protestas masivas antigubernamentales con toma de complejo energético",
-    "organizaciones": [
-      "Ciudadanos autoconvocados",
-      "Trabajadores del sector energético"
-    ],
-    "motivo": "Protestas masivas en el oeste de Libia contra los cortes de electricidad que llevan días afectando a la población. Los manifestantes tomaron el complejo Mellitah Oil & Gas (a 90 km al oeste de Trípoli) y cerraron gasoductos, provocando una grave crisis energética. Exigen la renuncia del primer ministro Abdul Hamid Dbeibah y la mejora del servicio eléctrico. El gobierno de unidad logró reabrir el complejo, pero las protestas continúan en Trípoli, Zawiya y Misrata exigiendo la caída del gobierno.",
-    "status": "en_curso",
-    "lat": 32.8752,
-    "lng": 13.1875,
-    "fuentes": [
-      "https://apnews.com/article/libya-electricity-protests-946df09420adc2729a9cc031bd272260",
-      "https://www.democracynow.org/2026/7/30/headlines/demonstrators_in_libya_storm_energy_complex_in_anti_govt_protests",
-      "https://www.usnews.com/news/world/articles/2026-07-28/protesters-storm-key-libya-energy-complex-as-blackout-fears-grow",
-      "https://www.newsday.com/news/nation/libya-electricity-protests-s34394"
-    ],
-    "createdAt": "2026-07-30T15:29:59.000Z",
-    "updatedAt": "2026-07-30T23:09:04Z"
-  },
-  {
-    "id": "intl-260",
-    "seccion": "protestas_internacionales",
-    "pais": "Reino Unido",
-    "bandera": "🇬🇧",
-    "hora": "10:00",
-    "fecha": "2026-07-30",
-    "lugar": "Londres (Westminster Magistrates Court, Parliament Square)",
-    "tipoAccion": "Protesta masiva con detenciones masivas",
-    "organizaciones": [
-      "Defend Our Juries",
-      "Palestine Action (organización proscrita)",
-      "Activistas propalestinos"
-    ],
-    "motivo": "Primera protesta en apoyo a Palestine Action desde que Andy Burnham asumió como primer ministro. Centenares de manifestantes se congregaron frente al Tribunal de Magistrados de Westminster para rechazar la proscripción de Palestine Action como organización 'terrorista' y apoyar a los acusados de expresar apoyo al grupo. La Policía Metropolitana arrestó a 77 personas por violar la Ley de Terrorismo de 2000, que penaliza hasta con 14 años de prisión el apoyo a Palestine Action. Los manifestantes ondearon banderas palestinas denunciando la complicidad del gobierno británico en el genocidio en Gaza. El Tribunal Supremo del Reino Unido aceptó escuchar una apelación contra la designación 'terrorista'.",
-    "status": "en_curso",
-    "lat": 51.4975,
-    "lng": -0.1272,
-    "fuentes": [
-      "https://www.aljazeera.com/news/2026/7/30/police-arrest-dozens-at-london-rally-supporting-palestine-action",
-      "https://www.democracynow.org/2026/7/30/headlines"
-    ],
-    "createdAt": "2026-07-30T15:29:59.000Z",
-    "updatedAt": "2026-07-30T23:09:04Z"
-  },
-  {
-    "id": "intl-261",
-    "seccion": "protestas_internacionales",
-    "pais": "Guyana",
-    "bandera": "🇬🇾",
-    "hora": "00:00",
-    "fecha": "2026-07-30",
-    "lugar": "Den Amstel, West Coast Demerara; Melanie Damishana, East Coast Demerara; Georgetown (Office of the President, Vlissengen Road)",
-    "tipoAccion": "Protestas masivas con plantones, piquetes y movilizaciones",
-    "organizaciones": [
-      "Familiares y simpatizantes de la tripulación del MV Barima",
-      "Amerindian Peoples Association (APA)",
-      "A Partnership for National Unity (APNU)",
-      "We Invest in Nationhood (WIN)",
-      "Oposición política"
-    ],
-    "motivo": "Protestas masivas en Guyana por la tragedia del ferry MV Barima, que naufragó el 18 de julio de 2026 con más de 70 muertos y 30 desaparecidos. El capitán Kevin Price y dos tripulantes fueron acusados de 72 cargos de homicidio. Manifestantes exigen justicia, la renuncia del Ministro de Obras Públicas Juan Edghill, el rescate del buque para investigar las causas, y denuncian que el gobierno busca chivos expiatorios. Concentraciones en Den Amstel y Melanie Damishana el jueves 30 de julio, y frente a la Oficina del Presidente en Georgetown, donde la comunidad indígena APA lideró una protesta con consignas como 'Indigenous Lives Matter' y 'Edghill and Indar Must Go'.",
-    "status": "en_curso",
-    "lat": 6.8058,
-    "lng": -58.1553,
-    "fuentes": [
-      "https://kaieteurnewsonline.com/2026/07/30/protests-spread-to-den-amstel-melanie-over-arrest-of-mv-barima-crew-members/",
-      "https://demerarawaves.com/2026/07/29/protests-against-murder-charge-for-mv-barima-captain-others-indigenous-amerindians-among-activists-picketing-presidents-office/",
-      "https://newsroom.gy/2026/07/29/apa-citizens-called-for-justice-improved-systems-after-mv-barima-tragedy/",
-      "https://kaieteurnewsonline.com/2026/07/30/indigenous-people-have-suffered-under-broken-transport-system-for-decades-apas-executive-director/"
-    ],
-    "createdAt": "2026-07-30T18:54:14.000Z",
-    "updatedAt": "2026-07-30T23:09:04Z"
-  },
-  {
-    "id": "intl-262",
-    "seccion": "protestas_internacionales",
-    "pais": "Corea del Sur",
-    "bandera": "🇰🇷",
-    "hora": "00:00",
-    "fecha": "2026-07-30",
-    "lugar": "Incheon (Aeropuerto Internacional de Incheon, Terminal 2)",
-    "tipoAccion": "Protesta activista",
-    "organizaciones": [
-      "2026 August 15 Independence and Peace March"
-    ],
-    "motivo": "Activistas surcoreanos protestaron en el Aeropuerto Internacional de Incheon contra la llegada de la nueva embajadora de Estados Unidos en Corea del Sur, Michelle Steel. Los manifestantes, pertenecientes al grupo 'Marcha por la Independencia y la Paz del 15 de Agosto de 2026', corearon consignas y portaron carteles de protesta cuando la embajadora arribó a la Terminal 2.",
-    "status": "finalizada",
-    "lat": 37.4602,
-    "lng": 126.4407,
-    "fuentes": [
-      "https://en.sedaily.com/society/2026/07/30/activists-protest-arrival-of-new-us-ambassador-michelle-20260730"
-    ],
-    "createdAt": "2026-07-30T18:54:14.000Z",
-    "updatedAt": "2026-07-30T23:09:04Z"
-  },
-  {
-    "id": "intl-263",
-    "seccion": "protestas_internacionales",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
-    "hora": "13:00",
-    "fecha": "2026-07-30",
-    "lugar": "Filadelfia, Pensilvania (Northeast High School, Cottman Avenue y Bustleton Avenue)",
-    "tipoAccion": "Walkout estudiantil",
-    "organizaciones": [
-      "Estudiantes de Northeast High School"
-    ],
-    "motivo": "Walkout de estudiantes de Northeast High School en protesta contra las prácticas del Servicio de Inmigración y Control de Aduanas de EE.UU. (ICE). Los estudiantes marcharon pacíficamente por Cottman Avenue portando carteles y coreando consignas contra las políticas migratorias del gobierno de Donald Trump. La protesta fue pacífica y sin incidentes, según informó la Policía de Filadelfia. El Distrito Escolar de Filadelfia declaró que apoya la libertad de expresión pero no puede alentar a los estudiantes a abandonar la instrucción académica.",
-    "status": "finalizada",
-    "lat": 40.0726,
-    "lng": -75.0155,
-    "fuentes": [
-      "https://northeasttimes.com/2026/07/30/northeast-high-students-walk-out-in-anti-ice-protest-along-cottman-avenue/"
-    ],
-    "createdAt": "2026-07-30T20:12:40.000Z",
-    "updatedAt": "2026-07-30T23:09:04Z"
-  },
-  {
-    "id": "intl-264",
-    "seccion": "protestas_internacionales",
-    "pais": "México",
-    "bandera": "🇲🇽",
-    "hora": "08:30",
-    "fecha": "2026-07-30",
-    "lugar": "Ciudad de México (Zócalo Capitalino, Paseo de la Reforma - Torre del Caballito, Monumento a la Revolución, Monumento a la Madre, Polanco, y otros puntos en alcaldías Cuauhtémoc, Miguel Hidalgo, Benito Juárez, Iztapalapa y Milpa Alta)",
-    "tipoAccion": "Jornada de múltiples protestas sindicales y sociales",
-    "organizaciones": [
-      "Cuerpos de Seguridad Auxiliares del Estado de México y Ciudadanos Uniformados A.C.",
-      "Movimiento Antorchista de Xochimilco",
-      "Plataforma 4:20",
-      "Colectiva Las Tonantzin",
-      "Servicios y Asesoría para la Paz A.C.",
-      "Amigos del Refugio Franciscano"
-    ],
-    "motivo": "Jornada con al menos 11 movilizaciones en la CDMX. Guardias de seguridad auxiliares se concentraron en el Zócalo desde las 08:30 exigiendo salarios dignos, regularización laboral y transparencia. Antorchistas de Xochimilco realizaron cadena humana en Paseo de la Reforma exigiendo obras de infraestructura, abastecimiento de agua y apoyos para familias afectadas por lluvias. Colectivos feministas exigieron justicia por víctimas de feminicidio en Santa Martha Acatitla. Organizaciones exigieron la búsqueda de un defensor ambiental desaparecido en Michoacán frente al Monumento a la Revolución. Plataforma 4:20 realizó jornada informativa sobre derechos cannábicos en el Monumento a la Madre. Activistas protestaron frente a la Junta de Asistencia Privada en Polanco contra el ataque armado al Refugio Franciscano.",
-    "status": "finalizada",
-    "lat": 19.4326,
-    "lng": -99.1332,
-    "fuentes": [
-      "https://www.ejecentral.com.mx/nuestro-eje/manifestaciones-hoy-jueves-30-de-julio-en-cdmx-donde-y-a-que-hora-habra-marchas-y-bloqueos",
-      "https://www.excelsior.com.mx/ciudad-de-mexico/manifestaciones-hoy-cdmx-horarios-y-rutas-cada-movilizacion",
-      "https://www.razon.com.mx/ciudad/2026/07/30/bloqueos-y-manifestaciones-cdmx-hoy-30-de-julio-que-calles-estan-cerradas/",
-      "https://www.nmas.com.mx/ciudad-de-mexico/movilidad/marchas/donde-hay-bloqueo-cdmx-hoy-30-julio-2026-manifestacion-guardias-seguridad-calles-cerradas/",
-      "https://www.nmas.com.mx/movilidad/marchas/reforma-cerrado-hoy-30-de-julio-2026-cdmx-hay-bloqueo-avenida-manifestacion-antorchistas/"
-    ],
-    "createdAt": "2026-07-30T23:03:20.000Z",
-    "updatedAt": "2026-07-30T23:09:04Z"
-  },
-  {
-    "id": "intl-265",
-    "seccion": "protestas_internacionales",
-    "pais": "Venezuela",
-    "bandera": "🇻🇪",
-    "hora": "10:00",
-    "fecha": "2026-07-30",
-    "lugar": "Caracas (este de Caracas, Centro Lido, Av. Francisco de Miranda); barrio 23 de Enero (oeste de Caracas); réplicas en todo el país",
-    "tipoAccion": "Concentraciones opositoras y chavistas",
-    "organizaciones": [
-      "Vente Venezuela",
-      "Comando ConVzla",
-      "Partido Socialista Unido de Venezuela (PSUV)",
-      "Coordinadora Simón Bolívar"
-    ],
-    "motivo": "Unos 300 seguidores de la líder opositora María Corina Machado se concentraron en el este de Caracas para exigir elecciones libres y el regreso de Machado al país, en el marco del segundo aniversario de las presidenciales de 2024 que la oposición denuncia como fraudulentas. Las protestas ocurren previo al inicio del diálogo político del 1 de agosto entre el gobierno interino de Delcy Rodríguez y un sector de la oposición respaldado por Washington. Paralelamente, centenares de chavistas se manifestaron en el barrio 23 de Enero contra la presencia militar estadounidense y el proceso de diálogo político, expresando rechazo a la negociación con Washington.",
-    "status": "finalizada",
-    "lat": 10.4806,
-    "lng": -66.9036,
-    "fuentes": [
-      "https://www.france24.com/es/minuto-a-minuto/20260730-venezuela-abre-un-di%C3%A1logo-pol%C3%ADtico-sin-la-presencia-de-la-mayor-l%C3%ADder-opositora",
-      "https://www.diariolibre.com/mundo/america-latina/2026/07/30/venezuela-abre-dialogo-politico-sin-lider-opositora/3614918",
-      "https://tenemosnoticias.com/politica/efectococuyo-com/dos-anos-del-28j-venezuela-es-escenario-de-movilizaciones-paralelas-efecto-cocuyo/"
-    ],
-    "createdAt": "2026-07-30T23:03:20.000Z",
-    "updatedAt": "2026-07-30T23:09:04Z"
-  },
-  {
-    "id": "ar-020",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "09:30",
-    "fecha": "2026-07-30",
-    "lugar": "Provincia de Santa Fe (Rosario, Santa Fe capital, Las Parejas, San Jorge, Coronda, Gálvez, San Lorenzo, Reconquista, y otros municipios)",
-    "tipoAccion": "Jornada provincial de protesta (radios abiertas, volanteadas, banderazos, conferencias de prensa)",
-    "organizaciones": [
-      "AMSAFE (Asociación del Magisterio de Santa Fe)"
-    ],
-    "motivo": "Jornada provincial de protesta en todo el territorio santafesino en defensa de la educación pública, contra el ajuste del gobierno provincial, por recomposición salarial y mejores condiciones laborales. Incluye radios abiertas, volanteadas, banderazos, conferencias de prensa y concentraciones en más de 15 departamentos de la provincia. La medida fue resuelta por Asamblea Provincial de AMSAFE ante el rechazo a la oferta salarial del gobierno de Santa Fe.",
-    "status": "en_curso",
-    "lat": -31.62,
-    "lng": -60.7,
-    "fuentes": [
-      "https://www.amsafe.org.ar/30-07-jornada-provincial-de-protesta-amsafe-se-moviliza-en-toda-la-provincia-en-defensa-de-la-educacion-publica/",
-      "https://www.paralelo28.com.ar/2026/07/29/amsafe-ratifico-la-jornada-provincial-de-protesta-sin-paro/"
-    ],
-    "createdAt": "2026-07-30T00:57:35.000Z",
-    "updatedAt": "2026-07-30T23:09:04Z"
-  },
-  {
-    "id": "ar-021",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "10:00",
-    "fecha": "2026-07-30",
-    "lugar": "Rosario y provincia de Santa Fe (Rosario: Bv. Oroño y Córdoba; otras ciudades de Santa Fe)",
-    "tipoAccion": "Paro de 24 horas con movilización, volanteada y bocinazos",
-    "organizaciones": [
-      "SIPRUS (Sindicato de Profesionales Universitarios de la Sanidad)"
-    ],
-    "motivo": "Paro de 24 horas sin asistencia a los lugares de trabajo (con garantía de guardias y emergencias) convocado por SIPRUS tras rechazar la oferta salarial del Gobierno de Santa Fe. Los profesionales de la salud denuncian que el aumento ofrecido es inferior al del resto de los estatales, no contempla equiparación para monotributistas ni política de jerarquización profesional. Advierten sobre el deterioro del sistema sanitario público, desfinanciamiento nacional y fuga de profesionales. Incluye volanteada, bocinazos y junta de firmas en Rosario y otras localidades.",
-    "status": "en_curso",
-    "lat": -32.9468,
-    "lng": -60.6393,
-    "fuentes": [
-      "https://www.conclusion.com.ar/gremiales/siprus-rechazo-la-oferta-salarial-de-la-provincia-y-paran-este-jueves-por-24-horas/07/2026/",
-      "https://www.pagina12.com.ar/2026/07/30/la-carpa-sanitaria-que-expresa-el-descontento/",
-      "https://www.elciudadanoweb.com/medicos-de-siprus-van-al-paro-este-jueves-tras-rechazar-la-oferta-salarial/",
-      "https://www.cadena3.com/noticia/radioinforme-3-rosario/profesionales-de-la-salud-paran-este-jueves-rechazamos-la-oferta-salarial-del-gobierno_578063",
-      "https://siprus.org.ar/importantes/jueves-30-7-paro/"
-    ],
-    "createdAt": "2026-07-30T03:56:53.000Z",
-    "updatedAt": "2026-07-30T23:09:04Z"
-  },
-  {
-    "id": "ar-022",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "18:00",
-    "fecha": "2026-07-30",
-    "lugar": "Rosario, Santa Fe (Facultad de Medicina - asamblea abierta)",
-    "tipoAccion": "Asamblea abierta e inicio de jornada de protesta contra la reforma de la Ley de Tierras",
-    "organizaciones": [
-      "CTA Autónoma",
-      "ATE (Asociación de Trabajadores del Estado)",
-      "Organizaciones gremiales y sociales"
-    ],
-    "motivo": "Asamblea abierta en la Facultad de Medicina de Rosario como inicio de una semana de protesta contra el proyecto de reforma de la Ley de Tierras Rurales impulsado por el Gobierno de Javier Milei. La iniciativa busca flexibilizar las restricciones a la compra de tierras por extranjeros, lo que según las organizaciones convocantes abre la puerta a la extranjerización del territorio, desalojos de familias y mayor intervención del mercado inmobiliario. Bajo la consigna 'La Celeste y Blanca', la protesta continuará hasta el 6 de agosto, cuando el Senado tratará la ley.",
-    "status": "en_curso",
-    "lat": -32.9488,
-    "lng": -60.6445,
-    "fuentes": [
-      "https://www.conclusion.com.ar/sin-categoria/la-cta-autonoma-y-organizaciones-gremiales-y-sociales-convocan-a-una-gran-protesta-en-rosario-contra-la-reforma-de-la-ley-de-tierras/07/2026/",
-      "https://www.pagina12.com.ar/2026/07/30/defender-a-toda-la-argentina/"
-    ],
-    "createdAt": "2026-07-30T03:56:53.000Z",
-    "updatedAt": "2026-07-30T23:09:04Z"
-  },
-  {
-    "id": "ar-023",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "00:00",
-    "fecha": "2026-07-30",
-    "lugar": "A nivel nacional (Ciudad Autónoma de Buenos Aires y todo el país)",
-    "tipoAccion": "Paro general nacional",
-    "organizaciones": [
-      "Confederación General del Trabajo (CGT)",
-      "CTERA",
-      "Asociación Bancaria",
-      "Camioneros",
-      "UTA",
-      "FAECyS",
-      "UTEDYC",
-      "Gastronómicos y hoteleros",
-      "Sindicato de Obreros y Empleados de Estaciones de Servicio"
-    ],
-    "motivo": "Paro general nacional convocado por la CGT con adhesión de múltiples sindicatos. Sin transporte (colectivos, subte, trenes, aeropuertos, puertos). Sin bancos, sin clases en escuelas públicas y universidades, sin recolección de residuos, sin reparto de mercadería ni combustible. Solo guardias mínimas en salud y emergencias. La medida responde al rechazo al plan económico del Gobierno de Javier Milei, el ajuste sobre salarios, los despidos en el Estado y el desfinanciamiento de la educación y la salud pública.",
-    "status": "en_curso",
-    "lat": -34.6037,
-    "lng": -58.3816,
-    "fuentes": [
-      "https://monitorgremial.com.ar/paro-general-en-argentina-como-quedaran-los-servicios-durante-este-jueves/"
-    ],
-    "createdAt": "2026-07-30T11:29:24.000Z",
-    "updatedAt": "2026-07-30T23:09:04Z"
-  },
-  {
-    "id": "ar-024",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "00:00",
-    "fecha": "2026-07-30",
-    "lugar": "Provincias de Catamarca y La Rioja (servicios urbanos e interurbanos)",
-    "tipoAccion": "Paro laboral por tiempo indeterminado (día 2)",
-    "organizaciones": [
-      "Unión Tranviarios Automotor (UTA)"
-    ],
-    "motivo": "Paro de colectivos por tiempo indeterminado en las provincias de Catamarca y La Rioja desde el 29 de julio. La UTA ratificó la medida debido a la falta de pago de las escalas salariales fijadas para los choferes por parte de las empresas de transporte. Las empresas no habrían reconocido los incrementos salariales establecidos desde enero. El paro continúa su segundo día sin fecha de finalización. Los Ministerios de Trabajo de ambas provincias evalúan dictar la conciliación obligatoria.",
-    "status": "en_curso",
-    "lat": -28.4696,
-    "lng": -65.7795,
-    "fuentes": [
-      "https://www.conclusion.com.ar/gremiales/un-paro-de-colectivos-de-la-uta-por-reclamos-salariales-afectara-a-dos-provincias/07/2026/"
-    ],
-    "createdAt": "2026-07-30T11:29:24.000Z",
-    "updatedAt": "2026-07-30T23:09:04Z"
-  },
-  {
-    "id": "ar-025",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "10:00",
-    "fecha": "2026-07-30",
-    "lugar": "Ciudad de Buenos Aires (Polo Científico Tecnológico, Godoy Cruz y Santa Fe, Palermo)",
-    "tipoAccion": "Concentración y conferencia de prensa",
-    "organizaciones": [
-      "CONICET (investigadores, becarios, trabajadores)",
-      "ATE Conicet"
-    ],
-    "motivo": "Nueva jornada de protesta de trabajadores, becarios e investigadores del CONICET en el Polo Científico Tecnológico exigiendo la prórroga de 400 becas posdoctorales cuyos contratos finalizan sin que se hayan publicado los resultados de la Convocatoria CICYT 2025. Denuncian que el gobierno de Javier Milei retiró la partida presupuestaria necesaria, lo que pone en riesgo 400 líneas de investigación y deja a investigadores altamente calificados sin ingresos ni continuidad laboral. La concentración coincide con la reunión del Directorio del CONICET.",
-    "status": "en_curso",
-    "lat": -34.5876,
-    "lng": -58.4236,
-    "fuentes": [
-      "https://www.eldia.com/politica-y-economia/jornada-de-protesta-de-cientificos-del-conicet-politica-y-economia_1785390064",
-      "https://laplatanoticias.com/2026/07/30/cientificos-del-conicet-realizaran-una-nueva-protesta-por-la-continuidad-de-400-becas-posdoctorales/",
-      "https://www.diariodemocracia.com/nacionales/342301-nuevo-dia-de-protesta-de-cientificos-del-conicet/"
-    ],
-    "createdAt": "2026-07-30T17:07:23.000Z",
-    "updatedAt": "2026-07-30T23:09:04Z"
-  },
-  {
-    "id": "ar-026",
+    "id": "ar-027",
     "seccion": "protestas_ar",
     "pais": "Argentina",
     "bandera": "🇦🇷",
     "hora": "13:00",
-    "fecha": "2026-07-30",
+    "fecha": "2026-07-31",
     "lugar": "Provincia de Córdoba (sucursales del Banco de Córdoba - Bancor): Córdoba Capital, Río Cuarto, Villa María, San Francisco, Marcos Juárez",
     "tipoAccion": "Asambleas gremiales sin atención al público (paro parcial en últimas 2 horas)",
     "organizaciones": [
       "Asociación Bancaria (Seccionales Córdoba, Río Cuarto, Villa María, San Francisco, Marcos Juárez)"
     ],
-    "motivo": "Asambleas gremiales en todas las sucursales del Banco de Córdoba (Bancor) durante las dos últimas horas de atención, convocadas por las cinco seccionales provinciales de la Asociación Bancaria. Denuncian falta de respuestas de las autoridades del banco, promesas incumplidas, maltrato hacia los trabajadores, corte del desarrollo profesional, imposición de cambios sin herramientas adecuadas, y falta de solución para trabajadores tercerizados. La medida continuará el viernes 31 de julio.",
+    "motivo": "Asambleas gremiales en todas las sucursales del Banco de Córdoba (Bancor) durante las dos últimas horas de atención, convocadas por las cinco seccionales provinciales de la Asociación Bancaria. Denuncian falta de respuestas de las autoridades del banco, promesas incumplidas, maltrato hacia los trabajadores, corte del desarrollo profesional, imposición de cambios sin herramientas adecuadas, y falta de solución para trabajadores tercerizados. Medida continua del jueves 30, ratificada para hoy viernes 31 de julio.",
     "status": "en_curso",
     "lat": -31.4201,
     "lng": -64.1888,
     "fuentes": [
       "https://www.carlospazvivo.com/asambleas-en-el-banco-de-cordoba-resienten-la-atencion-este-jueves-y-viernes/"
     ],
-    "createdAt": "2026-07-30T18:57:23.000Z",
-    "updatedAt": "2026-07-30T23:09:04Z"
+    "createdAt": "2026-07-31T01:05:11.000Z",
+    "updatedAt": "2026-07-31T01:06:43Z"
   }
 ]
