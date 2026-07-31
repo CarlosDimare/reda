@@ -18,10 +18,11 @@
     "fuentes": [
       "https://news.pindula.co.zw/2026/07/25/zapu-to-stage-31-july-peaceful-protest-at-africa-unity-square/",
       "https://apanews.net/zimbabwe-warns-against-july-31-term-extension-protests/",
-      "https://www.zimlive.com/zanu-pf-panics-soldiers-and-police-deployed-to-crush-july-31-protests/"
+      "https://www.zimlive.com/zanu-pf-panics-soldiers-and-police-deployed-to-crush-july-31-protests/",
+      "https://zambianobserver.com/zanu-pf-top-brass-sounds-alarm-over-planned-july-31-protests"
     ],
     "createdAt": "2026-07-31T01:02:54.000Z",
-    "updatedAt": "2026-07-31T01:06:43Z"
+    "updatedAt": "2026-07-31T05:03:04Z"
   },
   {
     "id": "intl-267",
@@ -41,12 +42,13 @@
     "lat": 50.4422,
     "lng": 30.5136,
     "fuentes": [
+      "https://ua.news/en/politika/koziatinskii-anonsuvav-protestnu-khodu-v-kiievi-31-lipnia",
       "https://ua.news/en/all-news/kmda-poperedila-politsiiu-pro-namiri-provesti-khodu-za-fedorova",
       "https://www.pravda.com.ua/eng/news/2026/07/28/8046236",
       "https://kyivindependent.com/ukraine-protests-to-continue-despite-syrskyis-firing-as-organizers-demand-fedorovs-return/"
     ],
     "createdAt": "2026-07-31T01:02:54.000Z",
-    "updatedAt": "2026-07-31T01:06:43Z"
+    "updatedAt": "2026-07-31T05:03:04Z"
   },
   {
     "id": "intl-268",
@@ -72,7 +74,7 @@
       "https://www.thehindu.com/news/national/karnataka/bjp-to-stage-protest-in-mandya-on-cauvery-water-issue-by-vijayendra/article71280507.ece"
     ],
     "createdAt": "2026-07-31T01:02:54.000Z",
-    "updatedAt": "2026-07-31T01:06:43Z"
+    "updatedAt": "2026-07-31T05:03:04Z"
   },
   {
     "id": "intl-269",
@@ -97,7 +99,55 @@
       "https://euroweeklynews.com/2026/07/30/travelling-by-train-in-spain-tomorrow-renfe-strike-could-affect-322-services/"
     ],
     "createdAt": "2026-07-31T01:02:54.000Z",
-    "updatedAt": "2026-07-31T01:06:43Z"
+    "updatedAt": "2026-07-31T05:03:04Z"
+  },
+  {
+    "id": "intl-270",
+    "seccion": "protestas_internacionales",
+    "pais": "Italia",
+    "bandera": "🇮🇹",
+    "hora": "14:00",
+    "fecha": "2026-07-31",
+    "lugar": "Milán (servicios educativos 0-6 del Comune di Milano: nidos y escuelas infantiles municipales)",
+    "tipoAccion": "Huelga laboral de 4 horas (14:00-18:00)",
+    "organizaciones": [
+      "UIL FP Milano-Lodi (Unione Italiana del Lavoro, Funzioni Pubbliche)"
+    ],
+    "motivo": "Huelga de 4 horas (14:00 a 18:00) del personal de los servicios educativos 0-6 (nidos y escuelas infantiles) del Comune di Milano, proclamada por la UIL FP Milano-Lodi. El sindicato denuncia semanas de reclamos y solicitudes sin respuestas concretas por parte de las autoridades municipales sobre las condiciones laborales y salariales del personal educativo. La medida se enmarca también en la protesta por las temperaturas extremas en los jardines ('asili bollenti'). Dadas las altas temperaturas previstas, el sindicato anunció que no organizará piquetes presenciales, pero confirmó el cese de actividad en el horario señalado. Registrada ante la Comisión de Garantía del Derecho de Huelga (cgsse.it) el 21 de julio.",
+    "status": "en_curso",
+    "lat": 45.4642,
+    "lng": 9.19,
+    "fuentes": [
+      "https://www.comune.milano.it/home/scioperi-e-assemblee",
+      "https://www.cgsse.it/calendario-scioperi/dettaglio-sciopero/380131",
+      "https://tuttolavoro24.it/2026/07/26/scioperi-dal-27-al-31-luglio-stop-a-trasporti-poste-sanita-servizi-calendario-ufficiale/",
+      "https://www.zazoom.it/2026-07-23/gli-asili-bollenti-scatta-lo-sciopero-e-la-argelati-appesa-al-vincolo-navigli/19491630/"
+    ],
+    "createdAt": "2026-07-31T04:56:51.000Z",
+    "updatedAt": "2026-07-31T05:03:04Z"
+  },
+  {
+    "id": "intl-271",
+    "seccion": "protestas_internacionales",
+    "pais": "Reino Unido",
+    "bandera": "🇬🇧",
+    "hora": "18:00",
+    "fecha": "2026-07-31",
+    "lugar": "Londres (Embajada de Israel, Kensington)",
+    "tipoAccion": "Piquete de protesta semanal",
+    "organizaciones": [
+      "International Jewish Anti-Zionist Network UK (IJAN-UK)"
+    ],
+    "motivo": "Piquete semanal de los viernes frente a la Embajada de Israel en Londres, convocado por IJAN-UK bajo la consigna 'All Out for Palestinian Prisoners' Day', en solidaridad con los presos palestinos, contra la guerra en Gaza y por el fin del apoyo británico a Israel. Tiene lugar en un contexto de fuerte represión a la solidaridad con Palestina en el Reino Unido: el jueves 30 de julio, en una protesta organizada por Defend Our Juries frente al Westminster Magistrates' Court en apoyo al proscrito grupo Palestine Action, la policía detuvo a 77 personas, y la Corte Suprema británica autorizó una nueva apelación contra la designación 'terrorista' del grupo.",
+    "status": "en_curso",
+    "lat": 51.5015,
+    "lng": -0.1924,
+    "fuentes": [
+      "https://www.findaprotest.info/uk/london",
+      "https://www.aljazeera.com/news/2026/7/30/police-arrest-dozens-at-london-rally-supporting-palestine-action"
+    ],
+    "createdAt": "2026-07-31T04:56:51.000Z",
+    "updatedAt": "2026-07-31T05:03:04Z"
   },
   {
     "id": "ar-027",
@@ -119,6 +169,31 @@
       "https://www.carlospazvivo.com/asambleas-en-el-banco-de-cordoba-resienten-la-atencion-este-jueves-y-viernes/"
     ],
     "createdAt": "2026-07-31T01:05:11.000Z",
-    "updatedAt": "2026-07-31T01:06:43Z"
+    "updatedAt": "2026-07-31T05:03:04Z"
+  },
+  {
+    "id": "ar-028",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "00:00",
+    "fecha": "2026-07-31",
+    "lugar": "Provincia de Córdoba (todas las sedes y fueros del Poder Judicial; Palacio de Tribunales I en Córdoba Capital)",
+    "tipoAccion": "Paro provincial de 24 horas",
+    "organizaciones": [
+      "Asociación Gremial de Empleados del Poder Judicial (AGEPJ)"
+    ],
+    "motivo": "Paro provincial de 24 horas desde las 00:00 hs en todos los tribunales y dependencias judiciales de la provincia de Córdoba, sin asistencia a los lugares de trabajo, convocado por AGEPJ por el estancamiento de las negociaciones paritarias, el incumplimiento de los acuerdos salariales vigentes y la falta de respuesta del Tribunal Superior de Justicia (TSJ) y el Ejecutivo provincial. Reclaman la incorporación inmediata en blanco de todos los tramos adeudados de la equiparación salarial con la Justicia Nacional, el adelanto de la tasa de permanencia y antigüedad, la devolución sin descuentos de los días de paro (el TSJ anunció descuentos en cuatro cuotas) y la derogación de la Ley de Equidad Previsional provincial. El conflicto lleva más de cinco meses, con dos paros previos de 60 horas y más de 30 días de huelga en el año. El plan de lucha continuará el lunes 3 de agosto con una movilización provincial a Tribunales I y el martes 4 con una Asamblea General Extraordinaria.",
+    "status": "en_curso",
+    "lat": -31.4155,
+    "lng": -64.186,
+    "fuentes": [
+      "https://www.carlospazvivo.com/judiciales-van-al-paro-este-viernes-por-demandas-salariales-y/",
+      "https://www.cba24n.com.ar/cordoba/judiciales-de-cordoba-anuncian-medidas-de-fuerza-y-dos-marchas-por-el-reclamo-salarial_a6a690f219ea7e6116e602d2a",
+      "https://www.lavoz.com.ar/politica/espera-propuesta-empleados-judiciales-retomaron-plan-lucha_0_y3fSS2E65Q.html",
+      "https://www.puntal.com.ar/judiciales/sin-dialogo-los-judiciales-inician-hoy-cinco-dias-protesta-tribunales-n262052"
+    ],
+    "createdAt": "2026-07-31T04:59:46.000Z",
+    "updatedAt": "2026-07-31T05:03:04Z"
   }
 ]
