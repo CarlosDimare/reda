@@ -1,29 +1,5 @@
 [
   {
-    "id": "ar-1",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "07:00",
-    "fecha": "2026-08-03",
-    "lugar": "Ruta Nacional 81, a la altura de Morillo (Coronel Juan Solá), Rivadavia Banda Norte, departamento Rivadavia, Salta",
-    "tipoAccion": "Corte de ruta (bloqueos de varias horas, modalidad endurecida)",
-    "organizaciones": [
-      "26 comunidades indígenas del Chaco salteño (Rivadavia Banda Norte)",
-      "72 referentes comunitarios (referente: Javier Ruiz, comunidad La Represa II)"
-    ],
-    "motivo": "Las comunidades indígenas de Morillo (26 comunidades y 72 referentes, cada uno representa a una comunidad de más de cien familias) endurecieron este lunes 3 de agosto su protesta sobre la Ruta Nacional 81 en el Chaco salteño: tras los cortes parciales del sábado 1 y domingo 2 de agosto (bloqueos de 20 minutos con paso habilitado entre cortes, de la mañana a las 19), desde este lunes pasaron a interrupciones de varias horas, según había advertido el referente Javier Ruiz ('Pero el lunes ya no serán minutos, sino horas'). Reclaman mejoras en la atención del hospital de Morillo y la provisión permanente de medicamentos, acceso a puestos de trabajo para integrantes de las comunidades (que denuncian haber sido reemplazados por trabajadores criollos), construcción de viviendas y obras públicas, perforación de pozos de agua y entrega de módulos alimentarios, demandas sin respuesta desde 2020-2021. Exigen como condición para levantar la medida una audiencia directa con el gobernador Gustavo Sáenz, y anticiparon que si no obtienen respuesta profundizarán los bloqueos también el martes 4 de agosto. En el lugar permanecen efectivos de Gendarmería Nacional y de la Policía de la Provincia de Salta.",
-    "status": "en_curso",
-    "lat": -23.4667,
-    "lng": -62.8833,
-    "fuentes": [
-      "https://www.eltribuno.com/municipios/2026-8-2-0-0-0-reclamo-indigenas-bloquean-la-ruta-81",
-      "https://elmonterizo.com/indigenas-de-morillo-cortan-la-ruta-81-y-amenazan-con-endurecer-la-protesta"
-    ],
-    "createdAt": "2026-08-02T07:32:51.000Z",
-    "updatedAt": "2026-08-03T05:13:08Z"
-  },
-  {
     "id": "ar-3",
     "seccion": "protestas_ar",
     "pais": "Argentina",
@@ -54,10 +30,13 @@
       "https://www.actualidadtdf.com.ar/ate-anuncio-un-paro-nacional-con-movilizacion-al-ministerio-de-economia-para-el-3-de-agosto/",
       "https://canalabierto.com.ar/2026/07/27/ate-anuncio-un-paro-nacional-con-movilizacion-para-el-3-de-agosto/",
       "https://www.clarin.com/politica/ate-convoco-paro-nacional-movilizacion-lunes-3-agosto-luego-vacaciones-invierno_0_V18oSV8zB7.html",
-      "https://www.tiemposur.com.ar/el-pa%C3%ADs/ate-convoco-a-un-paro-nacional-con-movilizacion-para-el-3-de-agosto"
+      "https://www.tiemposur.com.ar/el-pa%C3%ADs/ate-convoco-a-un-paro-nacional-con-movilizacion-para-el-3-de-agosto",
+      "https://www.cronista.com/informacion-gral/confirmado-habra-paro-nacional-el-lunes-3-de-agosto-y-estos-servicios-quedaran-suspendidos/",
+      "https://www.eldestapeweb.com/sociedad/paro-nacional-servicios-no-funcionan-3-agosto-argentina-2026729234342",
+      "https://www.elterritorio.com.ar/noticias/2026/07/29/902753-la-cgt-profundizan-el-plan-de-lucha-y-misiones-define-como-acompanara-la-jornada-nacional-del-3-de-agosto"
     ],
     "createdAt": "2026-08-03T01:13:15.000Z",
-    "updatedAt": "2026-08-03T05:13:08Z"
+    "updatedAt": "2026-08-03T08:58:17Z"
   },
   {
     "id": "ar-4",
@@ -88,10 +67,16 @@
       "https://www.perfil.com/noticias/sociedad/paro-nacional-docente-el-lunes-3-de-agosto-no-habra-clases-en-todo-el-pais-tras-el-receso-invernal.phtml",
       "https://www.lu22.com.ar/2026/07/29/ctera-convoco-a-un-paro-nacional-docente-para-el-3-de-agosto-no-habra-clases-en-escuelas-publicas",
       "https://elargentinodiario.com.ar/politica/educacion-2/29/07/2026/ctera-convoco-a-un-paro-nacional-docente-para-el-lunes-3-de-agosto-no-habra-clases-en-escuelas-publicas/",
-      "https://tn.com.ar/sociedad/2026/08/02/paro-docente-en-que-colegios-no-habra-clases-este-lunes-3-de-agosto-y-quienes-adhieren/"
+      "https://tn.com.ar/sociedad/2026/08/02/paro-docente-en-que-colegios-no-habra-clases-este-lunes-3-de-agosto-y-quienes-adhieren/",
+      "https://www.ambito.com/informacion-general/habra-clases-este-lunes-3-agosto-que-pasara-el-paro-docente-convocado-ctera-n6306212",
+      "https://www.cronista.com/informacion-gral/confirman-paro-docente-y-no-habra-clases-el-lunes-3-de-agosto-en-todas-estas-escuelas-cuales-son-las-provincias-afectadas/",
+      "https://noticiasargentinas.com/sociedad/paro-docente-del-lunes-3-y-martes-4-de-agosto--donde-afecta-y-que-escuelas-podrian-no-abrir_a6a6fcad642fd28baea55e569",
+      "https://www.infobae.com/politica/2026/07/31/paro-docente-el-gobierno-dijo-que-los-gremios-deben-garantizar-el-75-de-actividad-por-la-reforma-laboral/",
+      "https://www.lavozdejujuy.com/tendencias/gremios-docentes-y-universitarios-de-jujuy-adhieren-al-paro-nacional-del-3-de-agosto",
+      "https://codigodocente.com.ar/2026/07/30/paro-nacional-docente-3-agosto-ctera-udap/"
     ],
     "createdAt": "2026-08-03T01:13:15.000Z",
-    "updatedAt": "2026-08-03T05:13:08Z"
+    "updatedAt": "2026-08-03T08:58:17Z"
   },
   {
     "id": "col-1",
@@ -116,7 +101,7 @@
       "https://bucaramanga.alerta.com.co/quejodromo/anuncian-bloqueo-en-la-via-bucaramanga-bogota-por-emergencia-247443"
     ],
     "createdAt": "2026-08-03T05:01:48.000Z",
-    "updatedAt": "2026-08-03T05:13:08Z"
+    "updatedAt": "2026-08-03T08:58:17Z"
   },
   {
     "id": "can-1",
@@ -131,7 +116,7 @@
       "Canadian Union of Public Employees (CUPE) Local 8125",
       "Alrededor de 4.400 tripulantes de cabina de WestJet"
     ],
-    "motivo": "Segundo día de la huelga de los tripulantes de cabina de WestJet, que comenzó la madrugada del domingo 2 de agosto cuando venció el plazo de la negociación y los cerca de 4.400 afiliados al CUPE 8125 abandonaron sus puestos. Los trabajadores, en piquetes en Calgary, Toronto Pearson y otros aeropuertos, reclaman un aumento salarial y, sobre todo, el pago del 'ground pay' (trabajo en tierra): denuncian que trabajan hasta 35 horas al mes sin remuneración por tareas previas al despegue y posteriores al aterrizaje. La huelga provocó la cancelación de más de 600 vuelos y afectó a unos 250.000 pasajeros en el feriado largo de agosto, mientras la aerolínea suspendió las ventas hasta el 5 de agosto y las negociaciones continúan en Calgary.",
+    "motivo": "Segundo día de la huelga de los tripulantes de cabina de WestJet, que comenzó la madrugada del domingo 2 de agosto cuando venció el plazo de la negociación y los cerca de 4.400 afiliados al CUPE 8125 abandonaron sus puestos. Este lunes 3 de agosto el paro continúa con las negociaciones estancadas y sin acuerdo: WestJet mantiene suspendidas las operaciones de sus flotas Boeing 737 y 787, con más de 600 vuelos cancelados y unos 250.000 pasajeros afectados en el feriado largo de agosto. Los trabajadores, en piquetes en Calgary, Toronto Pearson y otros aeropuertos, reclaman un aumento salarial y, sobre todo, el pago del 'ground pay' (trabajo en tierra): denuncian que trabajan hasta 35 horas al mes sin remuneración por tareas previas al despegue y posteriores al aterrizaje, y rechazaron la última oferta de la aerolínea (13% de aumento y un 'duty pay premium').",
     "status": "en_curso",
     "lat": 51.1302,
     "lng": -114.0113,
@@ -141,10 +126,11 @@
       "https://globalnews.ca/news/12006781/westjet-strike-underway/",
       "https://www.cp24.com/news/canada/2026/08/02/westjet-flight-attendants-go-on-strike-leaving-thousands-of-travellers-stranded/",
       "https://travelmole.com/news/canada-westjet-on-strike-despite-new-proposals-to-union",
-      "https://nationalpost.com/news/canada/striking-westjet-flight-attendants-pay-increase-duty-pay-premium"
+      "https://nationalpost.com/news/canada/striking-westjet-flight-attendants-pay-increase-duty-pay-premium",
+      "https://www.livemint.com/news/world/canadas-westjet-flight-attendants-go-on-strike-in-dispute-over-pay-flights-cancelled-250-000-flyers-impacted-11785718155573.html"
     ],
     "createdAt": "2026-08-03T05:01:48.000Z",
-    "updatedAt": "2026-08-03T05:13:08Z"
+    "updatedAt": "2026-08-03T08:58:17Z"
   },
   {
     "id": "usa-1",
@@ -167,7 +153,7 @@
       "https://www.nationalnursesunited.org/press/registered-nurses-to-protest-layoffs-at-17-commonspirit-health-hospitals-in-california"
     ],
     "createdAt": "2026-08-03T05:01:48.000Z",
-    "updatedAt": "2026-08-03T05:13:08Z"
+    "updatedAt": "2026-08-03T08:58:17Z"
   },
   {
     "id": "ind-1",
@@ -176,23 +162,124 @@
     "bandera": "🇮🇳",
     "hora": "10:00",
     "fecha": "2026-08-03",
-    "lugar": "Thanjavur, Tamil Nadu",
+    "lugar": "Thanjavur, Tamil Nadu (cerca del edificio Panagal)",
     "tipoAccion": "Demostración/manifestación de protesta",
     "organizaciones": [
       "DMK (Dravida Munnetra Kazhagam)",
       "Udhayanidhi Stalin, líder de la Oposición en la Asamblea de Tamil Nadu",
       "Asociaciones de agricultores"
     ],
-    "motivo": "El DMK, principal partido de la oposición en Tamil Nadu, realizó una demostración en Thanjavur para denunciar el 'enfoque indolente' del gobierno del Tamilaga Vettri Kazhagam (TVK) ante la disputa por las aguas del río Cauvery y la situación de los agricultores del delta. Liderada por el líder de la Oposición Udhayanidhi Stalin, la protesta exige al gobierno estatal que garantice la cuota de agua del Cauvery, que se oponga de manera efectiva a la construcción del embalse de equilibrio de Mekedatu por Karnataka, que cumpla la promesa de condonación de préstamos agrícolas y que atienda el retraso en la apertura de la presa de Mettur, que afecta el cultivo kuruvai.",
+    "motivo": "El DMK, principal partido de la oposición en Tamil Nadu, realizó este lunes 3 de agosto una demostración en Thanjavur (a las 10 de la mañana cerca del edificio Panagal) para denunciar el 'enfoque indolente' del gobierno del Tamilaga Vettri Kazhagam (TVK) ante la disputa por las aguas del río Cauvery y la situación de los agricultores del delta, en coincidencia con la visita del ministro jefe C. Joseph Vijay a Karnataka. Liderada por el líder de la Oposición Udhayanidhi Stalin, la protesta exige al gobierno estatal que garantice la cuota de agua del Cauvery, que se oponga de manera efectiva a la construcción del embalse de equilibrio de Mekedatu por Karnataka, que cumpla la promesa de condonación de préstamos agrícolas y que atienda el retraso en la apertura de la presa de Mettur, que afecta el cultivo kuruvai.",
     "status": "en_curso",
     "lat": 10.787,
     "lng": 79.1378,
     "fuentes": [
       "https://www.thehindu.com/news/national/tamil-nadu/dmk-to-stage-protest-in-thanjavur-on-august-3-over-cauvery-farmers-issues/article71284894.ece",
-      "https://thecsrjournal.in/dmk-to-launch-massive-farmers-rights-protest-in-thanjavur-on-august-3-mk-stalin/"
+      "https://thecsrjournal.in/dmk-to-launch-massive-farmers-rights-protest-in-thanjavur-on-august-3-mk-stalin/",
+      "https://timesofindia.indiatimes.com/city/chennai/dmk-announces-protest-on-august-3-as-cm-vijay-plans-karnataka-visit-amid-mekedatu-row/articleshow/132732869.cms",
+      "https://www.newindianexpress.com/states/tamil-nadu/2026/Jul/31/tvk-betraying-farmers-dmk-to-hold-stir-in-thanjavur-on-august-3-mk-stalin"
     ],
     "createdAt": "2026-08-03T05:01:48.000Z",
-    "updatedAt": "2026-08-03T05:13:08Z"
+    "updatedAt": "2026-08-03T08:58:17Z"
+  },
+  {
+    "id": "ind-2",
+    "seccion": "protestas_internacionales",
+    "pais": "India",
+    "bandera": "🇮🇳",
+    "hora": "10:00",
+    "fecha": "2026-08-03",
+    "lugar": "Complejo del Parlamento (cerca de Makar Dwar), Nueva Delhi",
+    "tipoAccion": "Protesta de legisladores de la oposición en el Parlamento",
+    "organizaciones": [
+      "Bloque INDIA (Congreso, SP, TMC, JMM, RSP y otros)",
+      "Priyanka Gandhi Vadra, secretaria general del Congreso"
+    ],
+    "motivo": "Diputados de la oposición, encabezados por la secretaria general del Congreso, Priyanka Gandhi Vadra, protestaron este lunes 3 de agosto en el complejo del Parlamento de Nueva Delhi en rechazo al supuesto robo de las donaciones del templo de Ram en Ayodhya (la polémica del 'chanda chori') y contra la actuación policial frente a los estudiantes que protestan por el filtrado de exámenes (NEET). Reunidos cerca de Makar Dwar, corearon consignas como 'chanda chor, gaddi chor' y 'Amit Shah sadan mein aao', colocaron cajas de donaciones simbólicas en el lugar y exhibieron una pancarta reclamando por la ausencia del ministro del Interior. El bloque INDIA advirtió que seguirá acorralando al Gobierno en el Parlamento por ambos temas.",
+    "status": "en_curso",
+    "lat": 28.6144,
+    "lng": 77.209,
+    "fuentes": [
+      "https://www.deccanherald.com/india/opposition-mps-protest-in-parliament-complex-on-chanda-chori-issue-police-action-against-students-4097094",
+      "https://thenorthlines.com/opposition-mps-protest-over-ram-temple-donation-row-police-action-against-students/"
+    ],
+    "createdAt": "2026-08-03T08:46:58.000Z",
+    "updatedAt": "2026-08-03T08:58:17Z"
+  },
+  {
+    "id": "ind-3",
+    "seccion": "protestas_internacionales",
+    "pais": "India",
+    "bandera": "🇮🇳",
+    "hora": "00:00",
+    "fecha": "2026-08-03",
+    "lugar": "Ranchi, Jharkhand (sentada en el estadio Jaipal Singh Munda y marcha con antorchas hacia Albert Ekka Chowk)",
+    "tipoAccion": "Protesta estudiantil (día 6 de sentada indefinida) con huelga de hambre",
+    "organizaciones": [
+      "Estudiantes y aspirantes a puestos públicos de Jharkhand (14º examen JPSC, JSSC-CGL)",
+      "Devendra Nath Mahto, dirigente estudiantil (huelga de hambre indefinida)",
+      "Cockroach Janta Party (CJP) - apoyo"
+    ],
+    "motivo": "Sexto día de la protesta estudiantil en Ranchi (Jharkhand) contra las irregularidades en los exámenes de reclutamiento estatal: el 14º examen preliminar combinado de la JPSC (del 19 de abril), el JSSC-CGL y otras pruebas. Cientos de estudiantes mantienen una sentada indefinida en el estadio Jaipal Singh Munda desde el 29 de julio, realizaron una marcha con antorchas y amenazaron con cercar la Asamblea estatal en los próximos días. Exigen la anulación del 14º examen preliminar de la JPSC, una investigación de la CBI y del ED sobre las irregularidades de los últimos siete años, la reforma de los organismos de reclutamiento y la renuncia del ministro jefe Hemant Soren; el dirigente estudiantil Devendra Nath Mahto lanzó una huelga de hambre indefinida en el lugar. El Cockroach Janta Party (CJP), protagonista de las protestas en Delhi por el filtrado del NEET, expresó su apoyo al movimiento.",
+    "status": "en_curso",
+    "lat": 23.3441,
+    "lng": 85.3096,
+    "fuentes": [
+      "https://www.indiatoday.in/india/story/jharkhand-student-protest-jpsc-jssc-exam-irregularities-cjp-support-2962082-2026-08-03",
+      "https://theprint.in/india/cjp-supports-students-protesting-exam-irregularities-in-jharkhand-agitator-launches-hunger-strike/3003880/",
+      "https://www.hindustantimes.com/india-news/another-paper-leak-protest-cjp-offers-support-why-are-students-on-hunger-strike-in-jharkhand-101785724571650.html"
+    ],
+    "createdAt": "2026-08-03T08:46:58.000Z",
+    "updatedAt": "2026-08-03T08:58:17Z"
+  },
+  {
+    "id": "ind-4",
+    "seccion": "protestas_internacionales",
+    "pais": "India",
+    "bandera": "🇮🇳",
+    "hora": "00:00",
+    "fecha": "2026-08-03",
+    "lugar": "Jaipur, Rajastán (llegada de la 'Savarn Jan Chetna Padayatra' y cerco a la residencia del jefe de Gobierno)",
+    "tipoAccion": "Marcha a pie ('padayatra') y cerco (gherao) a la residencia del ministro jefe",
+    "organizaciones": [
+      "Comunidad Rajput / Savarn Samaj (casta general)",
+      "Mahipal Singh Makrana, líder de la padayatra (en huelga de hambre desde hace una semana)",
+      "BP Singh Naruka, secretario general"
+    ],
+    "motivo": "La 'Savarn Jan Chetna Padayatra' (marcha a pie) de la comunidad Rajput, iniciada hace una semana desde el templo Karni Mata de Bikaner bajo el liderazgo de Mahipal Singh Makrana -que viene caminando sin comer desde hace una semana-, llega este lunes 3 de agosto a Jaipur, donde miles de miembros de la comunidad planean rodear (gherao) la residencia del jefe de Gobierno de Rajastán al grito de 'UGC Roll Back'. Rechazan la nueva ley universitaria (UGC Act) por considerarla una norma dirigida contra los estudiantes de la casta general en escuelas y colegios, que según denuncian puede dejar sin educación superior a los niños de esa comunidad mediante falsos juicios. El secretario general BP Singh Naruka convocó a mujeres, jóvenes y vecinos de las tehsiles de Bandikui, Baswa y Baijupada y de todo el estado a sumarse al cerco.",
+    "status": "en_curso",
+    "lat": 26.9124,
+    "lng": 75.7873,
+    "fuentes": [
+      "https://www.bhaskar.com/local/rajasthan/dausa/bandikui/news/rajput-community-to-march-to-jaipur-on-august-3-to-protest-against-ugc-act-dbp-138614675.html"
+    ],
+    "createdAt": "2026-08-03T08:46:58.000Z",
+    "updatedAt": "2026-08-03T08:58:17Z"
+  },
+  {
+    "id": "ita-1",
+    "seccion": "protestas_internacionales",
+    "pais": "Italia",
+    "bandera": "🇮🇹",
+    "hora": "07:00",
+    "fecha": "2026-08-03",
+    "lugar": "Taranto, Apulia: ex Ilva (Acciaierie d'Italia), bloqueo de la carretera estatal 7/100 frente a la dirección del establecimiento",
+    "tipoAccion": "Huelga de 8 horas y bloqueo de la carretera estatal",
+    "organizaciones": [
+      "FIM-CISL, FIOM-CGIL, UILM-UIL y USB",
+      "Trabajadores de ex Ilva (Acciaierie d'Italia) y ediles de la planta (CGIL, CISL, UIL)"
+    ],
+    "motivo": "Huelga de ocho horas en todos los establecimientos de la ex Ilva (Acciaierie d'Italia) convocada por FIM, FIOM, UILM y USB tras el decreto de la Corte de Apelaciones de Milán que dispone la cesación de las actividades del área a caldo en un plazo de 90 días. En Taranto los trabajadores celebraron una asamblea en el piazzale interno (7-9 h) seguida de 6 a 8 horas de huelga por turno y luego bloquearon la carretera estatal 7 (que hacia Massafra se convierte en la 100) frente a la dirección del establecimiento, para exigir al Gobierno respuestas sobre el futuro productivo y ocupacional del polo siderúrgico; también protestaron los trabajadores de la construcción (CGIL, CISL, UIL) que trabajan en la planta. Los sindicatos nacionales declararon una 'movilización nacional permanente' y piden un plan nacional extraordinario de relanzamiento y puesta en seguridad de la ex Ilva, mientras el ministro Adolfo Urso convocó a sindicatos y empresas siderúrgicas para una mesa el 4 de agosto.",
+    "status": "en_curso",
+    "lat": 40.4707,
+    "lng": 17.2336,
+    "fuentes": [
+      "https://bari.corriere.it/notizie/cronaca/26_agosto_03/ex-ilva-e-la-chiusura-dell-area-a-caldo-in-corso-l-assemblea-via-alla-giornata-di-sciopero-6a272264-45f3-42be-93ea-3941fec6axlk.shtml",
+      "https://www.ansa.it/puglia/notizie/2026/07/30/ex-ilva-a-taranto-lo-sciopero-di-8-ore-fissato-per-il-3-agosto_e8887717-377e-4bfc-ad9b-67232dd25611.html",
+      "https://www.italiaoggi.it/economia-e-politica/ex-ilva-urso-spinge-per-una-cordata-italiana-jmv70p36"
+    ],
+    "createdAt": "2026-08-03T08:46:58.000Z",
+    "updatedAt": "2026-08-03T08:58:17Z"
   },
   {
     "id": "alb-1",
@@ -213,12 +300,38 @@
     "lat": 41.3275,
     "lng": 19.8187,
     "fuentes": [
+      "https://albeu.com/english/albanians-refuse-to-give-in-65-days-of-uninterrupted-mass-protests-against-the-government-edi-ramas-resignation-demanded/955344/",
       "https://aktualitet.al/2026/08/03/day-64-protest-outside-prime-ministers-office-rama-resignation-technical-government/",
       "https://albeu.com/english/anti-government-protest-enters-64th-consecutive-day-as-civic-movement-continues-albanians-demand-ramas-unconditional-resignation/954180/",
       "https://www.cna.al/aktualitet/64-dite-proteste-qytetaret-thirrje-rames-jep-doreheqjen-i470832",
       "https://en.panorama.com.al/protesta-e-63-te-kunder-qeverise-dhe-kryeministrit-sot-ne-shesh-edhe-diaspora-ka-nisur-numerimi-mbrapsht-per-edi-ramen/"
     ],
     "createdAt": "2026-08-03T05:01:48.000Z",
-    "updatedAt": "2026-08-03T05:13:08Z"
+    "updatedAt": "2026-08-03T08:58:17Z"
+  },
+  {
+    "id": "pak-1",
+    "seccion": "protestas_internacionales",
+    "pais": "Pakistán",
+    "bandera": "🇵🇰",
+    "hora": "00:00",
+    "fecha": "2026-08-03",
+    "lugar": "Rawalakot, Azad Cachemira bajo administración paquistaní (PoK): sit-in en D-Chowk, con preparación de marcha hacia Muzaffarabad; sit-in de mujeres y niños en Dreak",
+    "tipoAccion": "Protesta/sentada (sit-in) y marcha popular continua con choques con fuerzas de seguridad",
+    "organizaciones": [
+      "Joint Awami Action Committee (JAAC)",
+      "Comunidades de Azad Cachemira (PoK)"
+    ],
+    "motivo": "Continúa en Rawalakot (Azad Cachemira bajo administración paquistaní, PoK) la movilización del Joint Awami Action Committee (JAAC), que mantiene una sentada (sit-in) en D-Chowk y advierte que una marcha pacífica hacia Muzaffarabad puede comenzar en cualquier momento. El movimiento, que comenzó el 9 de junio y se intensificó durante las elecciones locales, denuncia los precios de la electricidad, la falta de servicios de salud y educación y el incumplimiento del acuerdo firmado en octubre; el JAAC exige derechos fundamentales y la implementación de los compromisos asumidos por las autoridades. Las fuerzas de seguridad realizan disparos intermitentes en la zona y, en la madrugada de este lunes 3 de agosto, abrieron fuego contra manifestantes en Rawalakot (episodio reportado hacia la 1:30 a. m.), mientras mujeres y niños mantienen el sit-in en Dreak. El JAAC -prohibido en junio y calificado como grupo armado por las autoridades- denuncia la represión (más de 50 muertos en cuatro días según sus voceros) y reclama una investigación internacional independiente, mientras que el gobierno de PoK rechaza las acusaciones de fuego indiscriminado.",
+    "status": "en_curso",
+    "lat": 33.8499,
+    "lng": 73.7925,
+    "fuentes": [
+      "https://www.bbc.com/news/articles/c5yvqk69enko",
+      "https://ianslive.in/pok-protesters-accuse-pakistani-forces-of-assaulting-unarmed-civilians-call-for-un-intervention--20260803115425",
+      "https://www.timesnownews.com/videos/times-now/world/fresh-violence-erupts-in-pakistan-occupied-jammu-and-kashmir-protests-video-155235032"
+    ],
+    "createdAt": "2026-08-03T08:46:58.000Z",
+    "updatedAt": "2026-08-03T08:58:17Z"
   }
 ]
