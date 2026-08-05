@@ -1,125 +1,18 @@
 [
   {
-    "id": "ar-10",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "00:00",
-    "fecha": "2026-08-04",
-    "lugar": "Puertos de todo el país: Hidrovía Paraná-Paraguay, Río de la Plata, complejo portuario del Gran Rosario (San Lorenzo, Timbúes, Puerto General San Martín), Bahía Blanca y demás puertos marítimos y fluviales, de Ushuaia a la Hidrovía",
-    "tipoAccion": "Lock-out patronal y cese de actividades por tiempo indeterminado de prácticos, pilotos y baqueanos (paralización del ingreso y egreso de buques)",
-    "organizaciones": [
-      "Asociación Profesional de Capitanes y Baqueanos Fluviales de la Marina Mercante",
-      "Cámara de Practicaje",
-      "Asociación Civil de Prácticos y Pilotos",
-      "Prácticos, pilotos y baqueanos fluviales y marítimos de todo el país"
-    ],
-    "motivo": "Lock-out patronal y cese de actividades por tiempo indeterminado de los prácticos, pilotos y baqueanos de todo el país, en rechazo al Decreto 690/2026 firmado por el presidente Javier Milei y el ministro de Desregulación Federico Sturzenegger (publicado el 31 de julio en el Boletín Oficial), que desregula el servicio público de practicaje y pilotaje reemplazando el régimen vigente desde el Decreto 2694/91. La medida de fuerza, iniciada en la madrugada del sábado 1 de agosto y plenamente vigente este martes 4 de agosto, continúa paralizando el ingreso y egreso de buques en los puertos argentinos, dejó más de 20 buques fondeados en rada, detuvo el comercio exterior -la Hidrovía y el Río de la Plata son la puerta de salida de cerca del 80% de los embarques del país- y frenó las exportaciones de granos del complejo agroexportador del Gran Rosario, además de demorar operaciones vinculadas al proyecto Vaca Muerta Oil Sur (un buque de transporte pesado quedó detenido fuera del muelle sin práctico para ingresar). El sector califica la norma de 'abusiva e inconstitucional': denuncia que elimina los cupos de ingreso a la profesión, habilita la contratación directa y libre entre armadores y profesionales, permite que capitanes -nacionales o extranjeros- con viajes acreditados naveguen sin práctico obligatorio, faculta a la ANPYN a fijar tarifas máximas y, sobre todo, compromete la seguridad de la navegación, la preservación del ambiente y la continuidad de los puestos de trabajo. Frente a la medida, la Prefectura Naval Argentina comenzó a notificar cédulas de intimación individuales a los prácticos para que reanuden de inmediato la prestación (por considerar el practicaje un servicio público regulado por el art. 99 de la Ley 20.094), sin éxito hasta el momento, mientras las entidades del sector impulsan una Acción Declarativa de Certeza, un amparo ante la Justicia Federal y una denuncia penal contra los firmantes de la norma por presunta puesta en peligro de la seguridad de la navegación. El cese no alcanza a los buques petroleros y gaseros, que continúan operando por razones de seguridad y para evitar el desabastecimiento. Se trata del primer gran conflicto contra una desregulación del ministro Sturzenegger y, según el sector, se mantendrá hasta que el Poder Ejecutivo suspenda la aplicación del decreto, en un escenario de pérdidas millonarias diarias para exportadores, importadores, terminales portuarias y navieras. Al cierre del martes 4 de agosto, tras la intimación de la Prefectura Naval a más de 500 prácticos y la amenaza de denuncias penales e inhabilitación para ejercer el oficio, el Gobierno nacional suspendió el Decreto 690/2026 y acordó una rebaja del 20% en las tarifas del servicio y la conformación de una mesa de trabajo, por lo que los prácticos reanudaron la asistencia a la navegación y se restableció el tránsito de buques en las vías navegables.",
-    "status": "finalizado",
-    "lat": -32.9468,
-    "lng": -60.6393,
-    "fuentes": [
-      "https://www.eldiarioar.com/economia/decreto-milei-sturzenegger-practicos-paraliza-entrada-salida-buques-puertos-pais_1_13425794.html",
-      "https://www.infobae.com/economia/2026/08/03/se-frenaron-las-exportaciones-de-granos-y-un-barco-que-iba-a-vaca-muerta-por-una-protesta-portuaria-ante-un-decreto-desregulador/",
-      "https://www.infobae.com/politica/2026/08/03/inedito-boicot-a-un-decreto-para-bajar-costos-portuarios-el-gobierno-envio-intimaciones-con-prefectura/",
-      "https://redaccionrosario.com/2026/08/03/los-puertos-siguen-paralizados-por-medida-de-fuerza-de-practicos/",
-      "https://argenports.com/nota/comenzo-la-medida-de-fuerza-de-los-practicos-y-ya-afecta-la-operatoria-de-los-puertos-argentinos/",
-      "https://www.cronista.com/economia-politica/puertos-y-comercio-paralizados-los-practicos-detienen-sus-actividades-por-tiempo-indeterminado/",
-      "https://www.rosario3.com/informaciongeneral/confirman-el-despliegue-de-fuerzas-federales-este-lunes-en-circunvalacion-para-evitar-piquetes-20260803-0029.html",
-      "https://dinamicarg.com/protesta-practicos-desregulacion-del-sistema-complica-navegacion/",
-      "https://agendadelsur.com/index.php/2026/08/03/paro-nacional-en-todos-los-puertos-del-pais/",
-      "https://www.lanacion.com.ar/economia/el-paro-de-practicos-genera-un-caos-en-el-comercio-exterior-de-la-argentina-nid03082026/",
-      "https://www.ambito.com/economia/puertos-paralizados-decreto-del-gobierno-hay-mas-150-buques-detenidos-un-cese-actividades-n6306657",
-      "https://www.rionegro.com.ar/energia/la-protesta-por-el-nuevo-regimen-portuario-impacto-en-el-proyecto-vmos-una-flota-llego-a-bahia-blanca-pero-no-pudo-operar-4670244/",
-      "https://www.dataportuaria.com/es/argentina/actualidad/tras-el-decreto-690-2026-los-practicos-inician-un-lock-out-y-paralizan-las-terminales-portuarias",
-      "https://www.diariopopular.com.ar/politica/un-paro-todos-los-puertos-complica-al-comercio-exterior-argentino-n912912",
-      "https://comunidadnautica.com/paro-de-practicos-paraliza-la-operatoria-portuaria-y-abre-un-nuevo-conflicto-por-la-desregulacion-del-sector/",
-      "https://tn.com.ar/economia/2026/08/03/paro-portuario-140-barcos-permanecen-sin-operar-y-las-exportaciones-de-granos-estan-frenadas/",
-      "https://www.conclusion.com.ar/politica/puertos-de-todo-el-pais-permanecen-paralizados-en-rechazo-a-una-desregulacion-del-gobierno/08/2026/",
-      "https://www.lagaceta.com.ar/nota/1148249/economia/paro-portuario-se-frenaron-exportaciones-granos-quedo-bloqueado-buque-clave-para-vaca-muerta.html",
-      "https://www.minutouno.com/sociedad/paro-total-el-decreto-6902026-la-desregulacion-del-servicio-practicaje-n6306703",
-      "https://andigital.com.ar/nota/142597/paro-en-todos-los-puertos-del-pais-contra-un-decreto-del-gobierno-hay-150-buques-frenados/",
-      "https://www.cadena3.com/noticia/politica-y-economia/paro-en-todos-los-puertos-del-pais-por-un-decreto-de-milei-que-desregula-una-actividad-clave_580018",
-      "https://www.clarin.com/rural/paralizacion-barcos-puertos-prefectura-intimo-500-practicos-volver-trabajar_0_oziCKF96Ji.html",
-      "https://www.losandes.com.ar/politica/puertos-paralizados-profesionales-rechazan-el-decreto-milei-y-mantienen-la-protesta-n6000939",
-      "https://www.clarin.com/rural/mucha-preocupacion-practicos-dejaron-prestar-servicios-desregulacion-gobierno-150-barcos-paralizados_0_2dVxjgdblt.html",
-      "https://www.eldia.com/politica-y-economia/protestas-en-los-puertos-con-impacto-en-los-bonaerenses-politica-y-economia_1785818096",
-      "https://laotraverdad.ar/caos-en-el-comercio-exterior-paro-de-practicos-afecta-a-140-buques/",
-      "https://www.lanacion.com.ar/economia/paro-de-practicos-en-los-puertos-una-por-una-las-actividades-y-precios-de-la-economia-que-se-verian-nid04082026/",
-      "https://www.infobae.com/economia/2026/08/04/sigue-el-paro-portuario-estiman-perdidas-de-hasta-usd-100000-diarios-por-cada-uno-de-los-185-buques-varados-por-la-medida/",
-      "https://www.ambito.com/politica/el-gobierno-intimo-mas-500-practicos-levantar-el-paro-que-mantiene-mas-150-buques-detenidos-n6306730",
-      "https://noticiasdelsuronline.com/index.php/2026/08/04/paro-total-en-puertos-practicos-pilotos-y-baqueanos-paralizan-la-hidrovia-en-rechazo-a-un-decreto-de-desregulacion/",
-      "https://www.prensa-latina.cu/2026/08/04/gobierno-argentino-amenaza-al-gremio-de-cabotaje-por-huelga/",
-      "https://xpectrofm.com/huelga-maritima-en-argentina-paraliza-las-exportaciones-de-granos/",
-      "https://www.infobae.com/america/agencias/2026/08/04/el-gobierno-argentino-ordena-a-trabajadores-de-puertos-en-huelga-acabar-con-la-protesta/",
-      "https://www.lanacion.com.ar/economia/campo/puertos-paralizados-el-conflicto-con-los-practicos-afecta-a-45-buques-granarios-y-el-perjuicio-trepa-nid04082026/",
-      "https://www.cronista.com/economia-politica/paro-portuario-prefectura-intimo-a-536-practicos-y-amenaza-con-sanciones-por-el-conflicto-que-frena-el-comercio-exterior/",
-      "https://www.canal26.com/politica/2026/08/04/prefectura-naval-intimo-a-mas-de-500-trabajadores-para-levantar-el-paro-que-mantiene-frenada-la-actividad-en-los-puertos/",
-      "https://www.perfil.com/noticias/sociedad/prefectura-intimo-a-mas-de-500-trabajadores-para-que-vuelvan-a-desempenar-sus-tareas-y-los-amenazo-con-fuertes-sanciones.phtml",
-      "https://tn.com.ar/economia/2026/08/04/prefectura-naval-intimo-a-mas-de-500-trabajadores-a-levantar-el-paro-en-los-puertos-todavia-hay-140-buques-detenidos/",
-      "https://www.c5n.com/politica/prefectura-intimo-mas-500-trabajadores-retomar-el-servicio-medio-del-paro-portuario-n245257",
-      "https://www.cronista.com/economia-politica/paro-de-practicos-cual-es-el-millonario-costo-diario-de-tener-buques-y-puertos-frenados/",
-      "https://www.lagaceta.com.ar/nota/1148347/politica/protesta-practicos-paraliza-puertos-condiciona-traslado-granos-incluido-desde-tucuman.html",
-      "https://www.prensa-latina.cu/2026/08/04/gobierno-argentino-suspende-decreto-practicos-reanudan-labores/",
-      "https://www.prensa-latina.cu/2026/08/04/practicos-argentinos-en-huelga-por-dialogo-pero-sin-decreto/",
-      "https://www.diariodecuyo.com.ar/argentina/el-gobierno-intimo-mas-500-trabajadores-portuarios-levantar-el-paro-hay-140-buques-paralizados-n6579239",
-      "https://ciudadano.news/nacionales/paro-portuario-gobierno-intimacion-practicos-n120728",
-      "https://www.elpatagonico.com/tension-los-puertos-prefectura-intimo-mas-500-trabajadores-n6306816",
-      "https://argenports.com/nota/la-camara-de-puertos-privados-alerta-que-la-falta-de-practicaje-ya-amenaza-al-comercio-exterior-y-pide-aplicar-el-decreto-690/",
-      "https://argenports.com/nota/falta-de-practicaje-ciara-cec-advierte-que-ya-hay-mas-de-45-buques-afectados-y-reclama-una-solucion-urgente/"
-    ],
-    "createdAt": "2026-08-03T22:08:45.000Z",
-    "updatedAt": "2026-08-04T23:41:59Z"
-  },
-  {
-    "id": "ar-11",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "11:00",
-    "fecha": "2026-08-04",
-    "lugar": "Ciudad de Buenos Aires (movilización a la Jefatura de Gobierno porteña, Uspallata 3160, Parque Patricios, a las 11; escuelas públicas porteñas sin clases en el segundo día del paro)",
-    "tipoAccion": "Paro docente de 48 horas (2º día) y movilización",
-    "organizaciones": [
-      "Ademys (Asociación Gremial de Docentes de la Ciudad de Buenos Aires)",
-      "Agrupaciones estudiantiles y trabajadores no docentes de las escuelas porteñas"
-    ],
-    "motivo": "Segundo día del paro docente de 48 horas (lunes 3 y martes 4 de agosto) en la Ciudad de Buenos Aires convocado por Ademys, que impide el inicio del segundo cuatrimestre en las escuelas públicas porteñas. Este martes 4 de agosto la medida incluye una movilización a las 11 a la Jefatura de Gobierno porteña (Uspallata 3160, Parque Patricios), además de cortes de tránsito y transmisiones de radio en la vía pública. El conflicto apunta contra el Gobierno porteño de Jorge Macri por la modificación por decreto (Decreto 256/2026) de partes del Estatuto Docente –denunciada por el gremio como la introducción de la ‘reforma laboral esclavista’ en la docencia– y contra la implementación de la reforma ‘BA Aprende’, el nuevo sistema de licencias médicas, la estabilidad laboral y las modificaciones en educación especial. La medida fue resuelta en una multitudinaria asamblea el 30 de julio en el parque Rivadavia junto a agrupaciones estudiantiles y trabajadores no docentes, y la misma asamblea convocó además al paro del 6 de agosto contra la ley de extranjerización de tierras.",
-    "status": "en_curso",
-    "lat": -34.6348,
-    "lng": -58.4125,
-    "fuentes": [
-      "https://www.puraciudad.com.ar/ademys-extendio-a-48-horas-el-paro-docente-en-la-ciudad-y-suma-una-protesta-contra-la-reforma-del-estatuto/",
-      "https://www.clarin.com/informacion-general/paro-docente-3-4-agosto-pasa-hoy-sigue-protesta-martes_0_oXJpXnW0DU.html",
-      "https://aquilanoticia.com/este-lunes-paro-nacional-docente-por-salarios-y-contra-la-ley-educativa/",
-      "https://www.ademys.org.ar/v2/",
-      "https://www.perfil.com/noticias/sociedad/paro-docente-del-lunes-3-y-martes-4-de-agosto-donde-no-habra-clases-y-que-escuelas-podrian-no-abrir.phtml",
-      "https://www.noticias24.com.ar/2026/08/02/paro-docente-del-lunes-3-y-martes-4-de-agosto-donde-afecta-y-que-escuelas-podrian-no-abrir/",
-      "https://periodismodeizquierda.com/caba-la-comunidad-educativa-se-planta/",
-      "https://elargentinodiario.com.ar/politica/educacion-2/03/08/2026/paro-docente-que-escuelas-no-abren-el-lunes-y-donde-se-extiende-al-martes/",
-      "https://www.newsdigitales.com/nota/340977/paro-docente-de-48-horas-en-caba-1-000-000-en-juego-marcha-y-como-sigue/",
-      "https://www.cronica.com.ar/sociedad/paro-docente-hoy-tras-la-medida-de-fuerza-de-ctera-donde-no-habra-clases-este-martes-4-de-agosto/",
-      "https://www.canaln.pe/internacionales/argentina-huelga-maestros-y-trabajadores-estatales-n493905",
-      "https://www.pagina12.com.ar/2026/08/04/contundente-paro-docente-a-pesar-de-la-amenaza-del-gobierno/",
-      "https://www.prensa-latina.cu/2026/08/04/semana-de-movilizaciones-contra-el-gobierno-en-argentina"
-    ],
-    "createdAt": "2026-08-04T02:19:19.000Z",
-    "updatedAt": "2026-08-04T23:41:59Z"
-  },
-  {
     "id": "ar-12",
     "seccion": "protestas_ar",
     "pais": "Argentina",
     "bandera": "🇦🇷",
     "hora": "00:00",
-    "fecha": "2026-08-04",
+    "fecha": "2026-08-05",
     "lugar": "Provincia de Tierra del Fuego, Antártida e Islas del Atlántico Sur (escuelas públicas de Ushuaia, Río Grande y Tolhuin)",
-    "tipoAccion": "Paro docente provincial por tiempo indeterminado (2ª jornada)",
+    "tipoAccion": "Paro docente provincial por tiempo indeterminado (3ª jornada)",
     "organizaciones": [
       "Sindicato Unificado de Trabajadoras y Trabajadores de la Educación Fueguina (SUTEF)",
       "Horacio Catena, secretario general de SUTEF"
     ],
-    "motivo": "Segunda jornada del paro docente provincial por tiempo indeterminado en Tierra del Fuego iniciado el lunes 3 de agosto por SUTEF, que mantiene sin clases a las escuelas públicas de Ushuaia, Río Grande y Tolhuin. La medida, decidida en el Congreso Provincial de Delegadas y Delegados, responde a la falta de respuesta del Gobierno provincial de Gustavo Melella a los reclamos de la docencia: el sindicato denuncia que las pautas salariales fueron fijadas por decreto y exige una recomposición salarial que permita alcanzar el Salario Mínimo, Vital y Móvil, un plan de desendeudamiento familiar, el tratamiento de la Ley de Financiamiento Educativo y mejores condiciones edilicias de los establecimientos. El secretario general del gremio, Horacio Catena, advirtió que ‘la docencia fueguina no se va a acostumbrar a vivir en la pobreza’ y confirmó que las medidas continuarán pese a los descuentos salariales anunciados por el Ejecutivo provincial. Este martes 4 de agosto el gobernador Gustavo Melella recibió en Casa de Gobierno a la conducción del SUTEF, que ratificó que no volverá a las aulas ni aceptará descuentos mientras no haya una propuesta concreta de recomposición salarial; se acordó una mesa técnica para las 14 con el gobernador, los ministros de Economía y Educación y el presidente del BTF, mientras continúan las concentraciones en el acampe frente a la Casa de Gobierno (Ushuaia), el ingreso del Colegio Provincial Trejo Noel (Tolhuin) y la permanencia en el Ministerio de Educación (Río Grande).",
+    "motivo": "Tercera jornada del paro docente provincial por tiempo indeterminado en Tierra del Fuego, que mantiene este miércoles 5 de agosto sin clases a las escuelas públicas de Ushuaia, Río Grande y Tolhuin. La medida, iniciada el lunes 3 de agosto por SUTEF y decidida en el Congreso Provincial de Delegadas y Delegados, responde a la falta de respuesta del Gobierno provincial de Gustavo Melella a los reclamos de la docencia: el sindicato denuncia que las pautas salariales fueron fijadas por decreto y exige una recomposición salarial que permita alcanzar el Salario Mínimo, Vital y Móvil, un plan de desendeudamiento familiar, el tratamiento de la Ley de Financiamiento Educativo y mejores condiciones edilicias de los establecimientos. El secretario general del gremio, Horacio Catena, advirtió que “la docencia fueguina no se va a acostumbrar a vivir en la pobreza” y confirmó que las medidas continuarán pese a los descuentos salariales anunciados por el Ejecutivo provincial. El martes 4 de agosto el gobernador Melella recibió en Casa de Gobierno a la conducción del SUTEF, que ratificó que no volverá a las aulas ni aceptará descuentos mientras no haya una propuesta concreta de recomposición salarial, y se acordó una mesa técnica con el gobernador, los ministros de Economía y Educación y el presidente del BTF; sin avances, el paro continúa este miércoles con concentraciones en el acampe frente a la Casa de Gobierno (Ushuaia), el ingreso del Colegio Provincial Trejo Noel (Tolhuin) y la permanencia en el Ministerio de Educación (Río Grande).",
     "status": "en_curso",
     "lat": -54.8019,
     "lng": -68.303,
@@ -137,7 +30,7 @@
       "https://www.lalicuadoratdf.com.ar/2026/08/asesoria-juridica-de-sutef-confirma-la-inaplicabilidad-de-la-ley-27-802-en-tierra-del-fuego-aeias/"
     ],
     "createdAt": "2026-08-04T02:19:19.000Z",
-    "updatedAt": "2026-08-04T23:41:59Z"
+    "updatedAt": "2026-08-05T02:38:30Z"
   },
   {
     "id": "ind-3",
@@ -145,15 +38,15 @@
     "pais": "India",
     "bandera": "🇮🇳",
     "hora": "00:00",
-    "fecha": "2026-08-04",
+    "fecha": "2026-08-05",
     "lugar": "Ranchi, Jharkhand (sentada en el estadio Jaipal Singh Munda, con apoyo nacional y marcha prevista hacia la Asamblea estatal)",
-    "tipoAccion": "Protesta estudiantil (día 7 de sentada indefinida) con huelga de hambre",
+    "tipoAccion": "Protesta estudiantil (sentada indefinida) con huelga de hambre",
     "organizaciones": [
       "Estudiantes y aspirantes a puestos públicos de Jharkhand (14º examen JPSC, JSSC-CGL)",
       "Devendra Nath Mahto, dirigente estudiantil (huelga de hambre indefinida)",
       "Cockroach Janta Party (CJP) - apoyo"
     ],
-    "motivo": "Continúa este martes 4 de agosto la protesta estudiantil en Ranchi (Jharkhand) contra las irregularidades en los exámenes de reclutamiento estatal (el 14º examen preliminar combinado de la JPSC del 19 de abril, el JSSC-CGL y otras pruebas): la sentada indefinida en el estadio Jaipal Singh Munda cumple su día 11, según News18 y Nation Now. Los estudiantes realizaron una 'flash march' la noche del lunes 3 y anunciaron una marcha hacia la Asamblea de Jharkhand (Jharkhand Vidhan Sabha) para el viernes 7 de agosto. Reclaman la anulación del 14º examen preliminar de la JPSC, una investigación de la CBI y del ED sobre las irregularidades de los últimos siete años, la reforma de los organismos de reclutamiento y la renuncia del ministro jefe Hemant Soren; el dirigente estudiantil Devendra Nath Mahto mantiene una huelga de hambre indefinida en el lugar. El Cockroach Janta Party (CJP), protagonista de las protestas en Delhi por el filtrado del NEET, expresó su apoyo al movimiento, que crece con respaldo de estudiantes y organizaciones de otros estados.",
+    "motivo": "Continúa este miércoles 5 de agosto la protesta estudiantil en Ranchi (Jharkhand) contra las irregularidades en los exámenes de reclutamiento estatal (el 14º examen preliminar combinado de la JPSC del 19 de abril, el JSSC-CGL y otras pruebas): la sentada indefinida en el estadio Jaipal Singh Munda cumple su día 11, según News18 y Nation Now. Los estudiantes realizaron una 'flash march' la noche del lunes 3 y anunciaron una marcha hacia la Asamblea de Jharkhand (Jharkhand Vidhan Sabha) para el viernes 7 de agosto. Reclaman la anulación del 14º examen preliminar de la JPSC, una investigación de la CBI y del ED sobre las irregularidades de los últimos siete años, la reforma de los organismos de reclutamiento y la renuncia del ministro jefe Hemant Soren; el dirigente estudiantil Devendra Nath Mahto mantiene una huelga de hambre indefinida en el lugar. El Cockroach Janta Party (CJP), protagonista de las protestas en Delhi por el filtrado del NEET, expresó su apoyo al movimiento, que crece con respaldo de estudiantes y organizaciones de otros estados.",
     "status": "en_curso",
     "lat": 23.3441,
     "lng": 85.3096,
@@ -172,7 +65,7 @@
       "https://kathmandupost.com/world/2026/08/04/leaked-exams-dashed-dreams-why-india-s-cockroach-youth-turned-on-modi"
     ],
     "createdAt": "2026-08-03T08:46:58.000Z",
-    "updatedAt": "2026-08-04T23:41:59Z"
+    "updatedAt": "2026-08-05T02:38:30Z"
   },
   {
     "id": "alb-1",
@@ -180,15 +73,15 @@
     "pais": "Albania",
     "bandera": "🇦🇱",
     "hora": "19:00",
-    "fecha": "2026-08-04",
+    "fecha": "2026-08-05",
     "lugar": "Plaza Skënderbej y marcha por el bulevar Dëshmorët e Kombit hasta la sede de la Presidencia del Consejo de Ministros, Tirana",
-    "tipoAccion": "Protesta ciudadana diaria (día 66 de movilización) con marcha",
+    "tipoAccion": "Protesta ciudadana diaria (día 67 de movilización) con marcha",
     "organizaciones": [
       "Movimiento ciudadano de Tirana (organizadores de la protesta)",
       "Comunidad de la diáspora albanesa",
       "Sali Berisha / Partido Democrático (apoyo)"
     ],
-    "motivo": "Continúa la protesta ciudadana diaria en Tirana contra el primer ministro Edi Rama, que este martes 4 de agosto cumple su día 66 consecutivo de movilización: los manifestantes se concentran como cada noche a las 19:00 en la Plaza Skënderbej y marchan por el bulevar Dëshmorët e Kombit hasta la sede de la Presidencia del Consejo de Ministros. El movimiento, iniciado en mayo en rechazo al proyecto de desarrollo turístico de Zvërnec y la isla de Sazan vinculado a inversores cercanos a la familia Trump-Kushner y considerado la mayor revuelta antigubernamental desde la caída del comunismo, exige la renuncia del primer ministro, la formación de un gobierno técnico y el cambio de la ley electoral. Organizadores y oposición confirman que la resistencia continuará hasta que Rama firme su renuncia.",
+    "motivo": "Continúa la protesta ciudadana diaria en Tirana contra el primer ministro Edi Rama, que este miércoles 5 de agosto cumple su día 67 consecutivo de movilización: los manifestantes se concentran como cada noche a las 19:00 en la Plaza Skënderbej y marchan por el bulevar Dëshmorët e Kombit hasta la sede de la Presidencia del Consejo de Ministros. El movimiento, iniciado en mayo en rechazo al proyecto de desarrollo turístico de Zvërnec y la isla de Sazan vinculado a inversores cercanos a la familia Trump-Kushner y considerado la mayor revuelta antigubernamental desde la caída del comunismo, exige la renuncia del primer ministro, la formación de un gobierno técnico y el cambio de la ley electoral. Organizadores y oposición confirman que la resistencia continuará hasta que Rama firme su renuncia.",
     "status": "en_curso",
     "lat": 41.3275,
     "lng": 19.8187,
@@ -203,7 +96,7 @@
       "https://www.voxnews.al/english/politike/dita-e-66-protestuesit-kerkojne-kunder-propozimit-te-ps-per-shkrirjen-e-i121844"
     ],
     "createdAt": "2026-08-03T05:01:48.000Z",
-    "updatedAt": "2026-08-04T23:41:59Z"
+    "updatedAt": "2026-08-05T02:38:30Z"
   },
   {
     "id": "pak-1",
@@ -211,14 +104,14 @@
     "pais": "Pakistán",
     "bandera": "🇵🇰",
     "hora": "00:00",
-    "fecha": "2026-08-04",
+    "fecha": "2026-08-05",
     "lugar": "Rawalakot, Azad Cachemira bajo administración paquistaní (PoK): sit-in en D-Chowk, con preparación de marcha hacia Muzaffarabad; sit-in de mujeres y niños en Dreak; réplicas en Islamabad y Rawalpindi",
     "tipoAccion": "Protesta/sentada (sit-in) y marcha popular continua con choques con fuerzas de seguridad",
     "organizaciones": [
       "Joint Awami Action Committee (JAAC)",
       "Comunidades de Azad Cachemira (PoK)"
     ],
-    "motivo": "Continúa en Rawalakot (Azad Cachemira bajo administración paquistaní, PoK) la movilización del Joint Awami Action Committee (JAAC), que mantiene una sentada (sit-in) en D-Chowk y advierte que una marcha pacífica hacia Muzaffarabad puede comenzar en cualquier momento, mientras mujeres y niños sostienen un sit-in en Dreak que ya acumula cerca de 50 días. El movimiento, que comenzó el 9 de junio y se intensificó durante las elecciones regionales escalonadas, denuncia los precios de la electricidad y la harina, la falta de servicios de salud y educación y la exclusión de los escaños reservados para refugiados; exige derechos fundamentales, la implementación de los acuerdos firmados y una investigación internacional independiente de la represión (más de 40 muertos desde junio según recuentos de prensa). Las protestas del JAAC han alcanzado incluso Islamabad y Rawalpindi, mientras el movimiento sigue prohibido por las autoridades paquistaníes desde junio y el apagón de telecomunicaciones persiste de forma intermitente en Rawalakot y el distrito de Poonch.",
+    "motivo": "Continúa este miércoles 5 de agosto en Rawalakot (Azad Cachemira bajo administración paquistaní, PoK) la movilización del Joint Awami Action Committee (JAAC), que mantiene una sentada (sit-in) en D-Chowk y advierte que una marcha pacífica hacia Muzaffarabad puede comenzar en cualquier momento, mientras mujeres y niños sostienen un sit-in en Dreak que ya acumula cerca de 50 días. El movimiento, que comenzó el 9 de junio y se intensificó durante las elecciones regionales escalonadas, denuncia los precios de la electricidad y la harina, la falta de servicios de salud y educación y la exclusión de los escaños reservados para refugiados; exige derechos fundamentales, la implementación de los acuerdos firmados y una investigación internacional independiente de la represión (más de 40 muertos desde junio según recuentos de prensa). Las protestas del JAAC han alcanzado incluso Islamabad y Rawalpindi, mientras el movimiento sigue prohibido por las autoridades paquistaníes desde junio y el apagón de telecomunicaciones persiste de forma intermitente en Rawalakot y el distrito de Poonch. Este miércoles 5 de agosto, séptimo aniversario de la revocación del artículo 370 ('Black Day'), el JAAC y organizaciones de Cachemira y la diáspora convocan jornadas de protesta en la región y en el mundo, en un marco de alto alerta en Jammu y Cachemira.",
     "status": "en_curso",
     "lat": 33.8499,
     "lng": 73.7925,
@@ -231,10 +124,11 @@
       "https://www.bloomberg.com/news/articles/2026-08-04/deadly-protests-overshadow-pakistan-s-elections-in-kashmir",
       "https://www.tbsnews.net/world/south-asia/deadly-unrest-rawalakot-deepens-protesters-accuse-security-forces-of-excessive-force",
       "https://www.outlookindia.com/international/why-pakistan-occupied-kashmir-is-witnessing-its-biggest-protests-in-years",
-      "https://www.hindustantimes.com/world-news/teens-killed-we-are-not-terrorists-inside-pakistan-occupied-kashmir-pok-protests-rage-elections-rawalakot-101785778462816.html"
+      "https://www.hindustantimes.com/world-news/teens-killed-we-are-not-terrorists-inside-pakistan-occupied-kashmir-pok-protests-rage-elections-rawalakot-101785778462816.html",
+      "https://www.thehindu.com/news/national/jammu-and-kashmir/security-beefed-up-as-congress-pdp-nc-to-observe-august-5-as-black-day/article71307010.ece"
     ],
     "createdAt": "2026-08-03T08:46:58.000Z",
-    "updatedAt": "2026-08-04T23:41:59Z"
+    "updatedAt": "2026-08-05T02:38:30Z"
   },
   {
     "id": "ken-1",
@@ -242,15 +136,15 @@
     "pais": "Kenia",
     "bandera": "🇰🇪",
     "hora": "00:00",
-    "fecha": "2026-08-04",
+    "fecha": "2026-08-05",
     "lugar": "A nivel nacional (paro de enfermeras y matronas de los 47 condados; huelga en el Kenyatta National Hospital y otros hospitales de referencia; marcha prevista ante el Consejo de Gobernadores el jueves 6 de agosto)",
-    "tipoAccion": "Huelga nacional de enfermeras (día 7) con protestas callejeras",
+    "tipoAccion": "Huelga nacional de enfermeras (día 8) con protestas callejeras",
     "organizaciones": [
       "Kenya National Union of Nurses and Midwives (KNUNM)",
       "Secretario general: Seth Panyako",
       "Enfermeras de los 47 condados"
     ],
-    "motivo": "Séptimo día de la huelga nacional de enfermeras y matronas de Kenia (KNUNM), iniciada el 29 de julio y que afecta a la mayoría de los 47 condados del país: el paro continúa este martes 4 de agosto, en la semana decisiva de reuniones con la SRC (Comisión de Salarios y Remuneración) y el Consejo de Gobernadores (CoG) para destrabar el conflicto. El sindicato reclama la firma e implementación del Acuerdo Colectivo (CBA) 2025-2029 (que incluye el Acta de Retorno al Trabajo de 2017 y un subsidio de riesgo de Ksh10.000), la absorción de los trabajadores de la cobertura universal de salud (UHC) en términos permanentes y pensionables, la implementación de las directrices de progresión profesional y la reposición de las enfermeras despedidas por el condado de Kisii en 2021. La dirigencia del sindicato insiste en que no negociará a nivel de condado y solo pondrá fin a la medida cuando la SRC emita su carta de no objeción; anunció además una gran marcha el jueves 6 de agosto ante el Consejo de Gobernadores (CoG) en Nairobi. El conflicto se extiende a otros centros: la KNUN amenaza con iniciar un paro en el Mathari National Teaching and Referral Hospital por la continuidad laboral de casi un centenar de enfermeras contratadas en ciclos renovables de tres meses.",
+    "motivo": "Octavo día de la huelga nacional de enfermeras y matronas de Kenia (KNUNM), iniciada el 29 de julio y que afecta a la mayoría de los 47 condados del país: el paro continúa este miércoles 5 de agosto, en la semana decisiva de reuniones con la SRC (Comisión de Salarios y Remuneración) y el Consejo de Gobernadores (CoG) para destrabar el conflicto. El sindicato reclama la firma e implementación del Acuerdo Colectivo (CBA) 2025-2029 (que incluye el Acta de Retorno al Trabajo de 2017 y un subsidio de riesgo de Ksh10.000), la absorción de los trabajadores de la cobertura universal de salud (UHC) en términos permanentes y pensionables, la implementación de las directrices de progresión profesional y la reposición de las enfermeras despedidas por el condado de Kisii en 2021. La dirigencia del sindicato insiste en que no negociará a nivel de condado y solo pondrá fin a la medida cuando la SRC emita su carta de no objeción; anunció además una gran marcha el jueves 6 de agosto ante el Consejo de Gobernadores (CoG) en Nairobi. El conflicto se extiende a otros centros: la KNUN amenaza con iniciar un paro en el Mathari National Teaching and Referral Hospital por la continuidad laboral de casi un centenar de enfermeras contratadas en ciclos renovables de tres meses.",
     "status": "en_curso",
     "lat": -1.2864,
     "lng": 36.8172,
@@ -268,7 +162,7 @@
       "https://thehorizonwire.co.ke/article/kenyatta-hospital-nurses-join-nationwide-health-workers-strike"
     ],
     "createdAt": "2026-08-03T15:24:45.000Z",
-    "updatedAt": "2026-08-04T23:41:59Z"
+    "updatedAt": "2026-08-05T02:38:30Z"
   },
   {
     "id": "pak-3",
@@ -276,14 +170,14 @@
     "pais": "Pakistán",
     "bandera": "🇵🇰",
     "hora": "00:00",
-    "fecha": "2026-08-04",
+    "fecha": "2026-08-05",
     "lugar": "Jammu y Cachemira administrado por Pakistán (PoJK): elecciones escalonadas bajo apagón de internet y marchas populares en todo el territorio",
     "tipoAccion": "Protestas y marchas populares contra la exclusión de los escaños de refugiados (elecciones escalonadas bajo apagón de internet y boicot del JKJAAC)",
     "organizaciones": [
       "Joint Kashmir Jammu Awami Action Committee (JKJAAC)",
       "Comunidades de Jammu y Cachemira administrado por Pakistán"
     ],
-    "motivo": "Continúan este martes 4 de agosto las protestas en Jammu y Cachemira administrado por Pakistán (PoJK) contra el sistema de escaños reservados para refugiados en las elecciones regionales, celebradas de forma escalonada entre el 27 de julio y el 10 de agosto bajo un apagón de internet y llamados al boicot del Joint Kashmir Jammu Awami Action Committee (JKJAAC). El epicentro de la movilización sigue en Rawalakot (cabecera de la división de Poonch), donde los manifestantes mantienen sit-ins y marchas; la 'Long March' del 2 de agosto dejó un saldo de al menos 21 muertos y decenas de heridos tras el accionar de las fuerzas de seguridad, y la represión se ha extendido a la prensa que cubre la protesta. El movimiento denuncia la exclusión de los escaños reservados y el fraude electoral, exige elecciones libres y una investigación independiente de las muertes, mientras la India condena la represión y las autoridades de PoJK responsabilizan a los manifestantes.",
+    "motivo": "Continúan este miércoles 5 de agosto las protestas en Jammu y Cachemira administrado por Pakistán (PoJK) contra el sistema de escaños reservados para refugiados en las elecciones regionales, celebradas de forma escalonada entre el 27 de julio y el 10 de agosto bajo un apagón de internet y llamados al boicot del Joint Kashmir Jammu Awami Action Committee (JKJAAC). El epicentro de la movilización sigue en Rawalakot (cabecera de la división de Poonch), donde los manifestantes mantienen sit-ins y marchas; la 'Long March' del 2 de agosto dejó un saldo de al menos 21 muertos y decenas de heridos tras el accionar de las fuerzas de seguridad, y la represión se ha extendido a la prensa que cubre la protesta. El movimiento denuncia la exclusión de los escaños reservados y el fraude electoral, exige elecciones libres y una investigación independiente de las muertes, mientras la India condena la represión y las autoridades de PoJK responsabilizan a los manifestantes. La jornada de este miércoles 5 de agosto coincide con el séptimo aniversario del 'Black Day' por la revocación del artículo 370, con convocatorias de protesta en toda la región bajo alto alerta.",
     "status": "en_curso",
     "lat": 34.3706,
     "lng": 73.4749,
@@ -292,10 +186,11 @@
       "https://www.aljazeera.com/news/2026/8/3/pakistan-administered-kashmir-elections-and-protests-all-you-need-to-know",
       "https://organiser.org/2026/08/03/373217/world/pojk-protests-reach-islamabad-news-portals-banned-for-reporting-pakistan-atrocities-in-occupied-territory/",
       "https://www.bloomberg.com/news/articles/2026-08-04/deadly-protests-overshadow-pakistan-s-elections-in-kashmir",
-      "https://www.hindustantimes.com/world-news/teens-killed-we-are-not-terrorists-inside-pakistan-occupied-kashmir-pok-protests-rage-elections-rawalakot-101785778462816.html"
+      "https://www.hindustantimes.com/world-news/teens-killed-we-are-not-terrorists-inside-pakistan-occupied-kashmir-pok-protests-rage-elections-rawalakot-101785778462816.html",
+      "https://www.thehindu.com/news/national/jammu-and-kashmir/security-beefed-up-as-congress-pdp-nc-to-observe-august-5-as-black-day/article71307010.ece"
     ],
     "createdAt": "2026-08-03T17:24:26.000Z",
-    "updatedAt": "2026-08-04T23:41:59Z"
+    "updatedAt": "2026-08-05T02:38:30Z"
   },
   {
     "id": "ita-2",
@@ -303,14 +198,14 @@
     "pais": "Italia",
     "bandera": "🇮🇹",
     "hora": "12:00",
-    "fecha": "2026-08-04",
+    "fecha": "2026-08-05",
     "lugar": "Puerto de Livorno, Toscana (banquinas del puerto del Mar Tirreno Settentrionale; huelga diaria de 12:00 a 16:00, del 2 al 9 de agosto)",
-    "tipoAccion": "Huelga diaria de 4 horas por riesgo de calor (día 3 de la movilización de ocho días)",
+    "tipoAccion": "Huelga diaria de 4 horas por riesgo de calor (día 4 de la movilización de ocho días)",
     "organizaciones": [
       "USB Mare e Porti Livorno",
       "Trabajadores de las sociedades y cooperativas que operan en las banquinas del puerto de Livorno"
     ],
-    "motivo": "Huelga diaria de cuatro horas (de 12:00 a 16:00) activa este martes 4 de agosto -tercer día de la movilización iniciada el 2 y que se prolongará hasta el 9- convocada por USB Mare e Porti para los trabajadores de las sociedades y cooperativas que operan en las banquinas del puerto de Livorno, en rechazo a las condiciones de trabajo durante los picos de calor estival y por los retrasos en la adopción de medidas de prevención del riesgo térmico. El sindicato denuncia que, pese a las mesas de trabajo de los últimos meses y a la ordenanza de la Región de Toscana vigente desde fines de mayo, 15 de las 19 empresas portuarias no habían actualizado sus Documentos Únicos de Evaluación de Riesgos de Interferencia (DUVRI) sobre el riesgo calor; la Autoridad del Sistema Portuario del Mar Tirreno Settentrionale anunció inspecciones y controles, pero la medida es considerada tardía por el sindicato frente al prolongado período de exposición de los trabajadores. Las situaciones más críticas afectan a las tareas de mayor impacto físico (bodegas, cubiertas de los buques y trabajos a pleno sol), con una alta presencia de personal recién contratado, a término o discontinuo. USB pidió una reunión urgente con el presidente de la AdSP y exige que, cuando el calor supere el umbral de guardia, se suspendan las tareas de riesgo. La protesta se enmarca en un conflicto nacional más amplio: USB defiende el uso del 'paquete salvavida' de 16 horas nacionales con base en el artículo 2, párrafo 7, de la Ley 146/90, que deroga los preavisos en caso de riesgo para la incolumidad, y la decisión del Comité Europeo de Derechos Sociales (CEDS) del 13 de marzo de 2026 que criticó los límites al derecho de huelga de la legislación italiana.",
+    "motivo": "Huelga diaria de cuatro horas (de 12:00 a 16:00) activa este miércoles 5 de agosto -cuarto día de la movilización iniciada el 2 y que se prolongará hasta el 9- convocada por USB Mare e Porti para los trabajadores de las sociedades y cooperativas que operan en las banquinas del puerto de Livorno, en rechazo a las condiciones de trabajo durante los picos de calor estival y por los retrasos en la adopción de medidas de prevención del riesgo térmico. El sindicato denuncia que, pese a las mesas de trabajo de los últimos meses y a la ordenanza de la Región de Toscana vigente desde fines de mayo, 15 de las 19 empresas portuarias no habían actualizado sus Documentos Únicos de Evaluación de Riesgos de Interferencia (DUVRI) sobre el riesgo calor; la Autoridad del Sistema Portuario del Mar Tirreno Settentrionale anunció inspecciones y controles, pero la medida es considerada tardía por el sindicato frente al prolongado período de exposición de los trabajadores. Las situaciones más críticas afectan a las tareas de mayor impacto físico (bodegas, cubiertas de los buques y trabajos a pleno sol), con una alta presencia de personal recién contratado, a término o discontinuo. USB pidió una reunión urgente con el presidente de la AdSP y exige que, cuando el calor supere el umbral de guardia, se suspendan las tareas de riesgo. La protesta se enmarca en un conflicto nacional más amplio: USB defiende el uso del 'paquete salvavida' de 16 horas nacionales con base en el artículo 2, párrafo 7, de la Ley 146/90, que deroga los preavisos en caso de riesgo para la incolumidad, y la decisión del Comité Europeo de Derechos Sociales (CEDS) del 13 de marzo de 2026 que criticó los límites al derecho de huelga de la legislación italiana.",
     "status": "en_curso",
     "lat": 43.5528,
     "lng": 10.3073,
@@ -319,65 +214,11 @@
       "https://www.lagazzettamarittima.it/2026/08/03/caldo-choc-lusb-proclama-lo-sciopero-nel-porto-di-livorno/",
       "https://quifinanza.it/info-utili/scioperi/scioperi-3-9-agosto-2026/1010807/",
       "https://tuttolavoro24.it/2026/08/02/scioperi-dal-3-al-9-agosto-dai-metalmeccanici-ai-trasporti-stop-al-lavoro-per-caldo-e-salari/",
-      "https://www.zazoom.it/2026-08-03/scioperi-dal-3-al-9-agosto-porti-e-sanita-a-rischio-stop-il-calendario/19531805/"
+      "https://www.zazoom.it/2026-08-03/scioperi-dal-3-al-9-agosto-porti-e-sanita-a-rischio-stop-il-calendario/19531805/",
+      "https://www.iltirreno.it/livorno/cronaca/2026/08/04/news/porto-di-livorno-sciopero-contro-il-caldo-estremo-usb-chiede-piu-tutele-per-i-lavoratori-1.100902842"
     ],
     "createdAt": "2026-08-03T19:05:30.000Z",
-    "updatedAt": "2026-08-04T23:41:59Z"
-  },
-  {
-    "id": "ind-7",
-    "seccion": "protestas_internacionales",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "12:00",
-    "fecha": "2026-08-04",
-    "lugar": "Marcha desde la sede del AAP hasta la residencia oficial del primer ministro Narendra Modi (7, Lok Kalyan Marg), Nueva Delhi",
-    "tipoAccion": "Marcha de protesta con entrega de petición ciudadana",
-    "organizaciones": [
-      "Aam Aadmi Party (AAP)",
-      "Arvind Kejriwal, convocante nacional del AAP y exministro jefe de Delhi"
-    ],
-    "motivo": "El convocante nacional del Aam Aadmi Party (AAP), Arvind Kejriwal, lidera este martes 4 de agosto a las 12:00 una marcha con un centenar de simpatizantes desde la sede del partido hasta la residencia del primer ministro Narendra Modi (7, Lok Kalyan Marg) para entregar una petición firmada por más de dos lakh de personas contra la política nacional de nafta E20 (20% de etanol). Kejriwal exige que las estaciones de servicio ofrezcan al consumidor la opción entre E20 y nafta pura, que la E20 se venda a un precio inferior a la nafta común y que el precio general de la nafta baje de 84 rupias el litro; acusa al Gobierno de impulsar la mezcla bajo presión del presidente estadounidense Donald Trump y de esconder una 'agenda oculta'. La marcha se puso en marcha a las 12:00 a pesar de la advertencia policial, pero la Policía de Delhi la detuvo a mitad de camino hacia la residencia del primer ministro -Kejriwal reclamó 'no somos terroristas'- ya que no se otorgó permiso y rigen órdenes prohibitivas (artículo 163 del BNSS) en el distrito de Nueva Delhi por la sesión del Parlamento.",
-    "status": "en_curso",
-    "lat": 28.6021,
-    "lng": 77.2314,
-    "fuentes": [
-      "https://www.indiatoday.in/india/story/aap-arvind-kejriwal-e20-petrol-nitin-gadkari-protest-pm-modi-residence-2962860-2026-08-04",
-      "https://www.timesnownews.com/india/arvind-kejriwal-to-lead-e20-protest-march-with-100-people-to-pm-modis-residence-today-police-deny-permission-article-155243138",
-      "https://www.hindustantimes.com/india-news/arvind-kejriwal-aap-pm-narendra-modi-residence-march-e20-fuel-ethanol-petrol-controversy-blending-mileage-nitin-gadkari-101785596569359.html",
-      "https://www.rediff.com/news/report/kejriwal-to-march-to-pms-residence-on-aug-4-over-e20-issue/20260801.htm",
-      "https://www.ndtv.com/india-news/we-are-not-terrorists-arvind-kejriwals-march-to-pm-modis-home-stopped-11863222",
-      "https://timesofindia.indiatimes.com/india/aap-protest-e20-petrol-policy-kejriwal-sisodia-stage-sit-in-after-march-to-pm-modis-residence-stopped/articleshow/132851825.cms",
-      "https://www.latestly.com/agency-news/india-news-arvind-kejriwal-to-march-to-pm-modis-residence-against-e20-petrol-policy-today-7544774.html"
-    ],
-    "createdAt": "2026-08-04T02:13:18.000Z",
-    "updatedAt": "2026-08-04T23:41:59Z"
-  },
-  {
-    "id": "ind-8",
-    "seccion": "protestas_internacionales",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "00:00",
-    "fecha": "2026-08-04",
-    "lugar": "Marcha de transportistas hacia el Parlamento, Nueva Delhi",
-    "tipoAccion": "Marcha de protesta de transportistas",
-    "organizaciones": [
-      "Delhi Taxi and Tourist Transporters and Tour Operation Association",
-      "Sanjay Samrat, presidente de la asociación de transportistas"
-    ],
-    "motivo": "Las asociaciones de transportistas de Delhi (Delhi Taxi and Tourist Transporters and Tour Operation Association) realizan este martes 4 de agosto la marcha de protesta hacia el Parlamento convocada para hoy contra la implementación obligatoria de la nafta E20 (20% de etanol) que rige a nivel nacional, exigiendo que el combustible mezclado sea opcional para los consumidores y una revisión científica independiente de la política. Denuncian menor rendimiento de combustible, mayores costos de mantenimiento y problemas de rendimiento del motor, en especial en vehículos fabricados antes de 2015, así como el límite de 80 km/h impuesto a los vehículos turísticos comerciales. La movilización se suma a la ola de protestas contra el E20 en la India, que incluye la marcha del AAP a la residencia del primer ministro y las protestas del Youth Congress en Nagpur.",
-    "status": "en_curso",
-    "lat": 28.617,
-    "lng": 77.2083,
-    "fuentes": [
-      "https://www.theweek.in/news/india/2026/07/26/pradhan-gone-gadkari-next-delhi-taxi-unions-to-protest-ethanol-blended-petrol-on-august-4.html",
-      "https://economictimes.indiatimes.com/topic/government-ethanol-policies",
-      "https://economictimes.indiatimes.com/news/india/delhi-transport-unions-plan-e-20-protest-march-to-parliament-on-august-4/articleshow/132658941.cms",
-      "https://www.hindustantimes.com/cities/delhi-news/delhi-transport-body-announces-parliament-march-against-e20-on-august-4-101785229299420.html"
-    ],
-    "createdAt": "2026-08-04T02:13:18.000Z",
-    "updatedAt": "2026-08-04T23:41:59Z"
+    "updatedAt": "2026-08-05T02:38:30Z"
   },
   {
     "id": "esp-2",
@@ -385,14 +226,14 @@
     "pais": "España",
     "bandera": "🇪🇸",
     "hora": "00:00",
-    "fecha": "2026-08-04",
+    "fecha": "2026-08-05",
     "lugar": "Aeropuerto Josep Tarradellas Barcelona-El Prat (servicios de asistencia en tierra, facturación, embarque y coordinación de vuelos en T1 y T2)",
-    "tipoAccion": "Huelga indefinida (comienza a las 00:00 del 4 de agosto)",
+    "tipoAccion": "Huelga indefinida (en curso, 2ª jornada; comenzó a las 00:00 del 4 de agosto)",
     "organizaciones": [
       "Sección sindical CGT en Groundforce Barcelona",
       "Trabajadores de asistencia en tierra, facturación y embarque"
     ],
-    "motivo": "Huelga indefinida de los trabajadores de la empresa de handling Groundforce en el aeropuerto de Barcelona-El Prat, convocada por la sección sindical de CGT (mayoritaria en el comité de empresa), que comenzó a las 00:00 de este martes 4 de agosto en plena 'operación salida' de las vacaciones de verano. En el primer día de la huelga (este martes 4) se cancelaron entre 16 y 20 vuelos de llegadas y salidas y resultaron afectadas unas 1.179-1.200 personas de la plantilla de Groundforce; el Ministerio de Transportes estima que hasta 11.600 vuelos y 2,4 millones de pasajeros podrían verse afectados entre agosto y septiembre. El sindicato denuncia el deterioro de la prevención de riesgos y de las condiciones de salud laboral, las cargas de trabajo 'insostenibles', la alta rotación de personal, el uso habitual de horas extraordinarias, la falta de descansos suficientes y la escasa formación de las nuevas incorporaciones. La portavoz de CGT, Esther García, declaró que esperan que la empresa acepte dialogar pero que 'la fuerza laboral ya no puede soportar la situación'. El Ministerio de Transportes advirtió que unos 2 millones de pasajeros podrían verse afectados este verano. La protesta afecta a la asistencia en tierra de numerosas aerolíneas que operan en T1 y T2 (Air Europa, Lufthansa, Air France, KLM, Qatar Airways, Etihad, SAS, El Al, United Airlines, Finnair, entre otras), con unos 11.600 movimientos programados entre agosto y septiembre para las compañías atendidas por Groundforce.",
+    "motivo": "Huelga indefinida de los trabajadores de la empresa de handling Groundforce en el aeropuerto de Barcelona-El Prat, convocada por la sección sindical de CGT (mayoritaria en el comité de empresa), que comenzó a las 00:00 del martes 4 de agosto y continúa este miércoles 5 (segunda jornada) en plena 'operación salida' de las vacaciones de verano. En el primer día de la huelga (este martes 4) se cancelaron entre 16 y 20 vuelos de llegadas y salidas y resultaron afectadas unas 1.179-1.200 personas de la plantilla de Groundforce; el Ministerio de Transportes estima que hasta 11.600 vuelos y 2,4 millones de pasajeros podrían verse afectados entre agosto y septiembre. El sindicato denuncia el deterioro de la prevención de riesgos y de las condiciones de salud laboral, las cargas de trabajo 'insostenibles', la alta rotación de personal, el uso habitual de horas extraordinarias, la falta de descansos suficientes y la escasa formación de las nuevas incorporaciones. La portavoz de CGT, Esther García, declaró que esperan que la empresa acepte dialogar pero que 'la fuerza laboral ya no puede soportar la situación'. El Ministerio de Transportes advirtió que unos 2 millones de pasajeros podrían verse afectados este verano. La protesta afecta a la asistencia en tierra de numerosas aerolíneas que operan en T1 y T2 (Air Europa, Lufthansa, Air France, KLM, Qatar Airways, Etihad, SAS, El Al, United Airlines, Finnair, entre otras), con unos 11.600 movimientos programados entre agosto y septiembre para las compañías atendidas por Groundforce.",
     "status": "en_curso",
     "lat": 41.2974,
     "lng": 2.0833,
@@ -406,92 +247,11 @@
       "https://www.thelocal.es/20260804/barcelona-airport-strike-kicks-off-with-dozens-of-flights-cancelled",
       "https://www.cnews.fr/monde/2026-08-04/greve-laeroport-de-barcelone-quelles-sont-les-compagnies-affectees-1900577",
       "https://www.lindependant.fr/2026/08/04/greve-a-laeroport-de-barcelone-air-france-lufthansa-qatar-airways-quelles-sont-les-compagnies-les-plus-impactees-13496239.php",
-      "https://www.lasexta.com/noticias/sociedad/huelga-aeropuerto-barcelona-cancela-veintena-vuelos-esperan-mas-plenas-vacaciones_202608046a71c430a5690f047364be7f.html"
+      "https://www.lasexta.com/noticias/sociedad/huelga-aeropuerto-barcelona-cancela-veintena-vuelos-esperan-mas-plenas-vacaciones_202608046a71c430a5690f047364be7f.html",
+      "https://www.rtve.es/catalunya/noticies/20260804/vaga-indefinida-groundforce-prat-plena-temporada-alta-estiu/17177826.shtml"
     ],
     "createdAt": "2026-08-04T02:13:18.000Z",
-    "updatedAt": "2026-08-04T23:41:59Z"
-  },
-  {
-    "id": "kor-1",
-    "seccion": "protestas_internacionales",
-    "pais": "Corea del Sur",
-    "bandera": "🇰🇷",
-    "hora": "00:00",
-    "fecha": "2026-08-04",
-    "lugar": "Frente a la Embajada de Estados Unidos, Seúl",
-    "tipoAccion": "Concentración de protesta de activistas progresistas contra el ejercicio militar conjunto",
-    "organizaciones": [
-      "Solidaridad por la Paz, la Soberanía y la Reunificación (grupo cívico de activistas progresistas de Seúl)"
-    ],
-    "motivo": "Activistas progresistas de un grupo cívico de Seúl (Solidaridad por la Paz, la Soberanía y la Reunificación) se concentran este martes 4 de agosto frente a la Embajada de Estados Unidos para exigir la suspensión del ejercicio militar conjunto anual Ulchi Freedom Shield (UFS), lanzado por Corea del Sur y Estados Unidos para reforzar su postura de defensa combinada y previsto del 17 al 27 de agosto. La concentración, cubierta por la agencia Yonhap y por Reuters/EFE-EPA, forma parte de la oposición de sectores civiles y activistas antiguerra surcoreanos a la escalada militar en la península de Corea.",
-    "status": "en_curso",
-    "lat": 37.5665,
-    "lng": 126.978,
-    "fuentes": [
-      "https://en.yna.co.kr/view/PYH20260804055500315",
-      "https://www.reutersconnect.com/item/protesters-rally-against-us-south-korea-military-drills-in-seoul/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XRUZWQzU1MDIxMDY2MzQyMDAx",
-      "https://www.cna.org.cy/article/10693199/protest-against-south-korea-us-military-drill-in-seoul"
-    ],
-    "createdAt": "2026-08-04T05:29:49.000Z",
-    "updatedAt": "2026-08-04T23:41:59Z"
-  },
-  {
-    "id": "gbr-1",
-    "seccion": "protestas_internacionales",
-    "pais": "Reino Unido",
-    "bandera": "🇬🇧",
-    "hora": "00:00",
-    "fecha": "2026-08-04",
-    "lugar": "Glasgow Caledonian University (GCU), Glasgow, Escocia (huelga de un día coincidente con las ceremonias de graduación)",
-    "tipoAccion": "Huelga de un día del personal académico (4ª jornada de paro del conflicto)",
-    "organizaciones": [
-      "UCU Scotland",
-      "EIS University Lecturers' Association (EIS-ULA)",
-      "Personal docente de la Glasgow Caledonian University (GCU)"
-    ],
-    "motivo": "Huelga de un día de los docentes de la Glasgow Caledonian University (GCU) este martes 4 de agosto, tercera jornada del paro (29 de junio, 2 de julio y hoy) dentro de una disputa por el plan de la dirección de eliminar hasta 100 puestos de trabajo ante un déficit proyectado de unos 10 millones de libras, y por su negativa a descartar los despidos obligatorios (compulsory redundancies). Las fechas de huelga se eligieron para coincidir con los días de graduación de verano y maximizar el impacto; el sindicato EIS-ULA sostiene que la universidad cuenta con reservas de efectivo de aproximadamente 95 millones de libras con las que podría evitar los despidos, y denuncia que rechazó de plano un plan de ahorro alternativo costeado por los sindicatos. La afiliación votó el paro con amplio respaldo (79% en la primera votación y 95,9% en la segunda). Hay nuevas jornadas de huelga previstas el 7, 8 y 10 de septiembre si el conflicto no se resuelve.",
-    "status": "en_curso",
-    "lat": 55.8657,
-    "lng": -4.25,
-    "fuentes": [
-      "https://www.strikecalendar.co.uk/union/ucu/glasgowcaledonianuniversityucu",
-      "https://www.bbc.com/news/articles/cg4wed95y35o",
-      "https://www.eis.org.uk/ula/gcudispute",
-      "https://striketracker.app/strikes-in-united-kingdom/strike-glasgow-30-jun-4-aug-2026",
-      "https://www.heraldscotland.com/news/26434020.glasgow-caledonian-university-strike-amid-job-cuts-fears/"
-    ],
-    "createdAt": "2026-08-04T05:29:49.000Z",
-    "updatedAt": "2026-08-04T23:41:59Z"
-  },
-  {
-    "id": "ar-13",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "00:00",
-    "fecha": "2026-08-04",
-    "lugar": "Provincia de Buenos Aires (escuelas públicas de los distritos con adhesión de los gremios docentes disidentes: seccionales del SUTEBA Multicolor en La Matanza, Tigre, Mar del Plata, Bahía Blanca y otros partidos; convocatoria de la AMPBA en todo el territorio bonaerense)",
-    "tipoAccion": "Paro docente de 48 horas (2º día) convocado por gremios disidentes",
-    "organizaciones": [
-      "Asociación de Maestrxs de la Provincia de Buenos Aires (AMPBA)",
-      "SUTEBA Multicolor (seccionales opositoras de La Matanza, Tigre, Mar del Plata, Bahía Blanca y otros distritos)",
-      "Docentes en Marcha Bonaerense"
-    ],
-    "motivo": "Segundo día del paro docente de 48 horas (lunes 3 y martes 4 de agosto) en la Provincia de Buenos Aires, convocado por los gremios disidentes AMPBA (Asociación de Maestrxs de la Provincia de Buenos Aires) y las seccionales opositoras del SUTEBA Multicolor (La Matanza, Tigre, Mar del Plata, Bahía Blanca y otros distritos con representación de esa corriente interna), que mantiene la medida durante la jornada del martes 4 de agosto. La medida fue anunciada al inicio del receso invernal y coincide con el regreso a clases tras las vacaciones: los gremios denuncian que el aumento salarial otorgado por el Gobierno provincial de Axel Kicillof 'no llegó y no alcanza', reclaman un Salario Mínimo, Vital y Móvil Docente de $2.800.000 para salir de la indigencia y pobreza docente, la convocatoria a una paritaria nacional y mayor financiamiento educativo, y cuestionan tanto las políticas del Gobierno nacional de Javier Milei como la política salarial bonaerense (el Ejecutivo provincial había cerrado en julio una paritaria del 7% en dos tramos con el Frente de Unidad Docente Bonaerense -FUDB-, acuerdo rechazado por los disidentes). El paro se da en el marco de la jornada nacional de protesta iniciada el lunes por CTERA y ATE, y el miércoles 5 de agosto la AMPBA realizará una asamblea provincial para evaluar la continuidad de las medidas de fuerza.",
-    "status": "en_curso",
-    "lat": -34.9215,
-    "lng": -57.9545,
-    "fuentes": [
-      "https://www.econoblog.com.ar/157831/paro-docente-para-el-3-y-4-de-agosto-en-provincia-de-buenos-aires/",
-      "https://www.newsdigitales.com/nota/340927/paro-docente-en-buenos-aires-que-pasara-con-las-clases-el-3-y-4-de-agosto/",
-      "https://elargentinodiario.com.ar/politica/educacion-2/03/08/2026/paro-docente-que-escuelas-no-abren-el-lunes-y-donde-se-extiende-al-martes/",
-      "https://www.cadena3.com/noticia/sociedad/paro-docente-del-3-y-4-de-agosto-impacto-en-escuelas-de-buenos-aires-y-otras-provincias_579608",
-      "https://www.junindigital.com/provinciales/2026-7-21-9-47-0-paro-docente-de-48-horas-un-gremio-disidente-amenaza-con-afectar-el-inicio-de-clases-en-la-provincia",
-      "https://www.cronica.com.ar/sociedad/paro-docente-hoy-tras-la-medida-de-fuerza-de-ctera-donde-no-habra-clases-este-martes-4-de-agosto/",
-      "https://www.prensa-latina.cu/2026/08/04/semana-de-movilizaciones-contra-el-gobierno-en-argentina"
-    ],
-    "createdAt": "2026-08-04T05:33:41.000Z",
-    "updatedAt": "2026-08-04T23:41:59Z"
+    "updatedAt": "2026-08-05T02:38:30Z"
   },
   {
     "id": "gbr-2",
@@ -499,7 +259,7 @@
     "pais": "Reino Unido",
     "bandera": "🇬🇧",
     "hora": "00:00",
-    "fecha": "2026-08-04",
+    "fecha": "2026-08-05",
     "lugar": "Cwm Taf Morgannwg University Health Board (área de Rhondda Cynon Taf, Bridgend y Merthyr Tydfil), Gales del Sur",
     "tipoAccion": "Huelga continua de visitadores sanitarios (health visitors)",
     "organizaciones": [
@@ -507,7 +267,7 @@
       "Kerry Parry, health visitor y representante sindical de Unite en CTMUHB",
       "Paul Seppman, oficial regional de Unite en Gales"
     ],
-    "motivo": "Continúa la huelga continua de los visitadores sanitarios (health visitors) de la Cwm Taf Morgannwg University Health Board, en el sur de Gales, que este martes 4 de agosto supera los cinco meses de movilización (más de 120 días de huelga a fines de junio y cinco meses de salario perdido). Unos 100 health visitors afiliados a Unite, en su mayoría mujeres, exigen ser reclasificados de la banda 6 a la banda 7 del esquema Agenda for Change tras la actualización de los estándares de formación de la Nursing and Midwifery Council (NMC) de 2022 y de los perfiles nacionales de health visitor de 2025; el recorte les cuesta entre 8.000 y 9.000 libras al año. La junta del health board sostiene que la banda 6 es 'correcta' y las conversaciones en Acas fracasaron. El 13 de julio Unite notificó la extensión del paro por hasta 12 meses más allá del fin previsto del 17 de julio, tras un nuevo mandato de voto anual; los trabajadores realizaron marchas al Senedd (Parlamento galés) y entregaron una petición firmada por unas 3.500 personas pidiendo la renuncia del director de Recursos Humanos, Hywel Daniel. El paro, en marcha desde febrero, sigue afectando los controles de desarrollo infantil y los servicios de rutina para madres y niños, en el marco de la campaña de Unite por la reclasificación correcta de los Specialist Community Public Health Nurses (SCPHN) en todos los health boards de Gales.",
+    "motivo": "Continúa la huelga continua de los visitadores sanitarios (health visitors) de la Cwm Taf Morgannwg University Health Board, en el sur de Gales, que este miércoles 5 de agosto supera los cinco meses de movilización, dentro del bloque de huelga en curso del 3 al 7 de agosto (más de 120 días de huelga a fines de junio y cinco meses de salario perdido). Unos 100 health visitors afiliados a Unite, en su mayoría mujeres, exigen ser reclasificados de la banda 6 a la banda 7 del esquema Agenda for Change tras la actualización de los estándares de formación de la Nursing and Midwifery Council (NMC) de 2022 y de los perfiles nacionales de health visitor de 2025; el recorte les cuesta entre 8.000 y 9.000 libras al año. La junta del health board sostiene que la banda 6 es 'correcta' y las conversaciones en Acas fracasaron. El 13 de julio Unite notificó la extensión del paro por hasta 12 meses más allá del fin previsto del 17 de julio, tras un nuevo mandato de voto anual; los trabajadores realizaron marchas al Senedd (Parlamento galés) y entregaron una petición firmada por unas 3.500 personas pidiendo la renuncia del director de Recursos Humanos, Hywel Daniel. El paro, en marcha desde febrero, sigue afectando los controles de desarrollo infantil y los servicios de rutina para madres y niños, en el marco de la campaña de Unite por la reclasificación correcta de los Specialist Community Public Health Nurses (SCPHN) en todos los health boards de Gales.",
     "status": "en_curso",
     "lat": 51.6174,
     "lng": -3.3485,
@@ -517,38 +277,11 @@
       "https://morningstaronline.co.uk/article/striking-health-visitors-tell-plaid-keep-its-promise-end-dispute",
       "https://www.unitetheunion.org/news-events/news/2026/february/health-visitors-in-wales-to-strike-over-unfair-pay",
       "https://www.nursinginpractice.com/latest-news/health-visitors-in-wales-to-strike-for-four-weeks-over-pay-bands/",
-      "https://www.socialistparty.org.uk/articles/151898/24-06-2026/cwm-taf-morgannwg-health-visitors-pass-120-days-of-action/"
+      "https://www.socialistparty.org.uk/articles/151898/24-06-2026/cwm-taf-morgannwg-health-visitors-pass-120-days-of-action/",
+      "https://www.walesonline.co.uk/news/wales-news/tens-thousands-appointments-missed-health-34400116"
     ],
     "createdAt": "2026-08-04T11:02:50.000Z",
-    "updatedAt": "2026-08-04T23:41:59Z"
-  },
-  {
-    "id": "lbn-1",
-    "seccion": "protestas_internacionales",
-    "pais": "Líbano",
-    "bandera": "🇱🇧",
-    "hora": "16:00",
-    "fecha": "2026-08-04",
-    "lugar": "Puerto de Beirut (sentada anual a las 18:00 frente al puerto), Estación de Bomberos de Beirut y Plaza de los Mártires",
-    "tipoAccion": "Sentada (sit-in) anual conmemorativa y marcha por el 6º aniversario de la explosión del puerto",
-    "organizaciones": [
-      "Familias de las víctimas de la explosión del puerto de Beirut",
-      "Comité de familias de las víctimas de la explosión"
-    ],
-    "motivo": "Sexto aniversario de la explosión del puerto de Beirut (4 de agosto de 2020), que causó más de 220 muertos, 7.000 heridos y unos 300.000 desplazados. Las familias de las víctimas convocan a la sentada (sit-in) anual a las 18:00 frente al puerto de Beirut, precedida por dos concentraciones a las 16:00 en la Estación de Bomberos de la ciudad y en la Plaza de los Mártires, seguidas de una marcha por el centro de la capital para exigir verdad, justicia y rendición de cuentas. La conmemoración de este año llega con renovado optimismo tras años de bloqueos: el juez instructor Tarek Bitar completó en marzo su investigación y remitió el caso a la Fiscalía Pública, último paso procesal antes de una eventual acusación, y las familias esperan que los procesamientos se formalicen antes de fin de 2026 y que haya juicios públicos. El presidente Joseph Aoun respaldó la siguiente fase del proceso judicial, afirmando que el procesamiento es 'una necesidad que ya no admite más demoras' y que la fecha debe recordar 'el deber de verdad, justicia y rendición de cuentas'. La investigación estuvo bloqueada durante años por interferencias políticas y maniobras legales para destituir a Bitar.",
-    "status": "en_curso",
-    "lat": 33.9015,
-    "lng": 35.5194,
-    "fuentes": [
-      "https://today.lorientlejour.com/article/1543467/aug-4-beirut-blast-morning-commemorations-held-at-port-and-fire-station-live.html",
-      "https://www.reutersconnect.com/item/memorial-ceremony-held-in-lebanon-to-mark-sixth-anniversary-of-beirut-port-explosion/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwTlRIWVlW",
-      "https://yalibnan.com/2026/08/03/lebanon-hopes-justice-is-finally-within-reach-6-years-after-beirut-port-blast",
-      "https://www.newarab.com/news/beirut-port-blast-families-hope-justice-finally-within-reach",
-      "https://www.daytondailynews.com/nation-world/lebanon-port-blast-anniversary/image_419a8cd3-51a4-5cde-9668-2aaafc2048bc.html",
-      "https://anydayguide.com/calendar/4670"
-    ],
-    "createdAt": "2026-08-04T11:02:50.000Z",
-    "updatedAt": "2026-08-04T23:41:59Z"
+    "updatedAt": "2026-08-05T02:38:30Z"
   },
   {
     "id": "ar-14",
@@ -556,15 +289,15 @@
     "pais": "Argentina",
     "bandera": "🇦🇷",
     "hora": "00:00",
-    "fecha": "2026-08-04",
+    "fecha": "2026-08-05",
     "lugar": "Provincia de Jujuy: Plaza Belgrano frente a la Casa de Gobierno, San Salvador de Jujuy (carpa de lucha docente)",
-    "tipoAccion": "Ayuno docente por tiempo indeterminado (2ª jornada) frente a la Casa de Gobierno",
+    "tipoAccion": "Ayuno docente por tiempo indeterminado (3ª jornada) frente a la Casa de Gobierno y paro provincial de 48 horas de ADEP (2º día)",
     "organizaciones": [
       "CEDEMS (Centro de Docentes de Enseñanza Media y Superior)",
       "ADEP (Asociación de Educadores Provinciales)",
       "Ana Orieta, docente referente de la protesta"
     ],
-    "motivo": "Segunda jornada del ayuno docente por tiempo indeterminado que los gremios CEDEMS y ADEP mantienen frente a la Casa de Gobierno de Jujuy, en una carpa de lucha instalada en la Plaza Belgrano de San Salvador de Jujuy. La medida, iniciada este lunes 3 de agosto al cierre de la jornada de paro y movilización que reunió a docentes de nivel inicial, primario, secundario, superior y universitarios (ADIUNJu) junto a municipales del SEOM, estatales y organizaciones sociales, continuaba plenamente vigente este martes 4 de agosto, y los referentes advirtieron que no será levantada 'hasta que el Ejecutivo provincial convoque a negociar de verdad'. Los docentes denuncian haber perdido más del 110% de su poder adquisitivo entre febrero y julio frente al aumento de las tarifas de servicios públicos autorizado por la propia provincia (hasta un 148% en el período), mientras las ofertas salariales del Gobierno de Carlos Sadir oscilaron entre $15.000 y $35.000; CEDEMS reclama la reapertura de paritarias, rechaza el aumento unilateral del 4% y las advertencias de descuentos de haberes, y exige además un adicional extraordinario de $500.000, mientras ADEP demanda recuperar el FONID y los recursos para los comedores escolares. El conflicto suma además la denuncia opositora sobre unos $400.000 millones del Gobierno provincial en colocaciones financieras que el Ejecutivo no habría transparentado, en el marco de exportaciones mineras récord (US$676 millones entre enero y mayo). El Gobierno provincial informó un acatamiento del paro del lunes de entre el 12,4% y el 15,5% según los niveles, cifras cuestionadas por los gremios. En tanto, ADEP sumó este martes un paro provincial de 48 horas (martes y miércoles) con permanencias, ollas populares, cacerolazos y actividades territoriales, y denunció hostigamiento y persecución a los docentes que adhieren a las medidas, mientras el CEDEMS presentó notas formales ante la Secretaría de Trabajo para responsabilizar al Estado provincial por la falta de acuerdo paritario y por la continuidad de las medidas de fuerza.",
+    "motivo": "Tercera jornada del ayuno docente por tiempo indeterminado que los gremios CEDEMS y ADEP mantienen frente a la Casa de Gobierno de Jujuy, en una carpa de lucha instalada en la Plaza Belgrano de San Salvador de Jujuy, en el segundo día del paro provincial de 48 horas (miércoles 5 de agosto) de ADEP. La medida, iniciada el lunes 3 de agosto al cierre de la jornada de paro y movilización que reunió a docentes de nivel inicial, primario, secundario, superior y universitarios (ADIUNJu) junto a municipales del SEOM, estatales y organizaciones sociales, continúa plenamente vigente este miércoles 5 de agosto, y los referentes advirtieron que no será levantada “hasta que el Ejecutivo provincial convoque a negociar de verdad”. Los docentes denuncian haber perdido más del 110% de su poder adquisitivo entre febrero y julio frente al aumento de las tarifas de servicios públicos autorizado por la propia provincia (hasta un 148% en el período), mientras las ofertas salariales del Gobierno de Carlos Sadir oscilaron entre $15.000 y $35.000; CEDEMS reclama la reapertura de paritarias, rechaza el aumento unilateral del 4% y las advertencias de descuentos de haberes, y exige además un adicional extraordinario de $500.000, mientras ADEP demanda recuperar el FONID y los recursos para los comedores escolares. El conflicto suma además la denuncia opositora sobre unos $400.000 millones del Gobierno provincial en colocaciones financieras que el Ejecutivo no habría transparentado, en el marco de exportaciones mineras récord (US$676 millones entre enero y mayo). ADEP cumple este miércoles el segundo día de su paro de 48 horas con permanencias, ollas populares, cacerolazos y actividades territoriales, y denuncia hostigamiento y persecución a los docentes que adhieren a las medidas, mientras el CEDEMS presentó notas formales ante la Secretaría de Trabajo para responsabilizar al Estado provincial por la falta de acuerdo paritario y por la continuidad de las medidas de fuerza.",
     "status": "en_curso",
     "lat": -24.1858,
     "lng": -65.2995,
@@ -578,109 +311,32 @@
       "https://www.lavozdejujuy.com/vox-populi/ayuno-docente-paro-por-24-horas-y-movilizacion-asi-son-las-medidas-de-fuerzas-anunciadas-por-el-cedems-para-este-lunes"
     ],
     "createdAt": "2026-08-04T11:08:03.000Z",
-    "updatedAt": "2026-08-04T23:41:59Z"
+    "updatedAt": "2026-08-05T02:38:30Z"
   },
   {
     "id": "mex-1",
     "seccion": "protestas_internacionales",
     "pais": "México",
     "bandera": "🇲🇽",
-    "hora": "11:00",
-    "fecha": "2026-08-04",
-    "lugar": "Ciudad de México: concentraciones en la Suprema Corte de Justicia de la Nación (Av. José María Pino Suárez 2, Centro Histórico, alcaldía Cuauhtémoc) y en el Ágora de Tlatelolco (Manuel González y Lerdo, colonia Tlatelolco, alcaldía Cuauhtémoc, 11:00)",
-    "tipoAccion": "Concentraciones y manifestación de jubilados y pensionados con posibles bloqueos viales e instalación de plantón",
+    "hora": "07:30",
+    "fecha": "2026-08-05",
+    "lugar": "Ciudad de México: megaplantón frente a la Suprema Corte de Justicia de la Nación (Av. José María Pino Suárez 2, Centro Histórico, alcaldía Cuauhtémoc)",
+    "tipoAccion": "Megaplantón indefinido de jubilados y pensionados del IMSS frente a la SCJN",
     "organizaciones": [
       "Unión Nacional de Comités del Instituto Mexicano del Seguro Social (IMSS)",
       "Alianza por un Futuro Mejor, Jubilados y Pensionados de la Ciudad de México"
     ],
-    "motivo": "Jornada de protesta de jubilados y pensionados este martes 4 de agosto en la Ciudad de México, según la agenda de marchas y movilizaciones de la Secretaría de Seguridad Ciudadana (SSC). La Unión Nacional de Comités del IMSS se concentra ante la Suprema Corte de Justicia de la Nación para exigir que el Gobierno federal transparente el destino de los recursos de cesantía, vejez y cuota social de más de 130.000 afectados y que los ministros de la SCJN no continúen el presunto despojo mediante la aplicación de la jurisprudencia 185/2008 de la Segunda Sala; no se descarta el arribo de autobuses de manifestantes de otros estados y la instalación de un plantón. En paralelo, la Alianza por un Futuro Mejor, Jubilados y Pensionados de la CDMX convoca a las 11:00 en el Ágora de Tlatelolco para exigir una reunión informativa sobre la integración de las prestaciones para jubilados. Las autoridades capitalinas esperaban 10 concentraciones durante la jornada, con afectaciones a vialidades clave de la capital.",
+    "motivo": "Megaplantón de la Unión Nacional de Comités del IMSS frente a la Suprema Corte de Justicia de la Nación (SCJN) este miércoles 5 de agosto desde las 7:30, con delegaciones llegadas de 26 estados y más de 130.000 jubilados y pensionados afectados, para exigir que la Corte transparente el destino de los recursos de cesantía, vejez y cuota social y que los ministros no consumen el presunto despojo mediante la aplicación de la jurisprudencia 185/2008 de la Segunda Sala. La protesta se mantendrá de forma indefinida hasta que la SCJN resuelva los amparos 60-67/2025. Las autoridades capitalinas preveían afectaciones a vialidades clave del Centro Histórico durante la jornada.",
     "status": "en_curso",
     "lat": 19.4326,
     "lng": -99.1332,
     "fuentes": [
-      "https://www.nmas.com.mx/ciudad-de-mexico/movilidad/marchas/bloqueos-hoy-4-de-agosto-2026-cdmx-pensiones-jubilados-calles-cerradas-zona-afectada/"
+      "https://www.nmas.com.mx/ciudad-de-mexico/movilidad/marchas/bloqueos-hoy-4-de-agosto-2026-cdmx-pensiones-jubilados-calles-cerradas-zona-afectada/",
+      "https://eltiempomx.com/noticia/2026/jubilados-del-imss-protestaran-frente-a-scjn-el-5-de-agosto.html",
+      "https://www.jornada.com.mx/noticia/2026/08/04/politica/jubilados-del-imss-protestan-frente-scjn-contra-recorte-a-pensiones-doradas"
     ],
     "createdAt": "2026-08-04T13:14:49.000Z",
-    "updatedAt": "2026-08-04T23:41:59Z"
-  },
-  {
-    "id": "ita-3",
-    "seccion": "protestas_internacionales",
-    "pais": "Italia",
-    "bandera": "🇮🇹",
-    "hora": "00:00",
-    "fecha": "2026-08-04",
-    "lugar": "A nivel nacional: bases de Avincis Italia, mayor operador de helicópteros de emergencia (HEMS), búsqueda y rescate y transporte offshore, activo en 14 regiones",
-    "tipoAccion": "Huelga nacional de 24 horas (sciopero virtuale) de los pilotos de helicópteros de Avincis Italia",
-    "organizaciones": [
-      "FIT-CISL",
-      "UIL Trasporti (UILT-UIL)",
-      "UGL Trasporto Aereo",
-      "ANPAC (Asociación Nacional de Pilotos de Aviación Comercial)"
-    ],
-    "motivo": "Huelga nacional de 24 horas (de 00:00 a 23:59) de los pilotos de helicópteros de Avincis Italia, convocada para este martes 4 de agosto por FIT-CISL, UIL Trasporti, UGL Trasporto Aereo y ANPAC, en la modalidad de 'sciopero virtuale' según el calendario del Ministerio de Infraestructuras y Transportes (MIT) italiano. La medida, que se extiende a todo el territorio nacional y afecta a las bases del mayor operador italiano de helicópteros de servicios de emergencia médica (HEMS), búsqueda y rescate y transporte offshore, se enmarca en la disputa contractual de las tripulaciones de helicóptero, que denuncian condiciones de trabajo y de turnos desfavorables frente a las tripulaciones de ala fija. Al tratarse de una huelga 'virtual', la acción busca manifestar la protesta limitando el impacto directo sobre los servicios esenciales, con efectos operativos determinados por la gestión de la empresa.",
-    "status": "en_curso",
-    "lat": 41.9028,
-    "lng": 12.4964,
-    "fuentes": [
-      "https://sciopero.net/380160-elicotteri-nazionale-04-08-2026/",
-      "https://www.stranotizie.it/sciopero-nazionale-piloti-avincis-italia-ad-agosto-2026/",
-      "https://www.panorama.it/attualita/scioperi-agosto-2026-stop-tra-elicotteri-e-trasporto-merci-tutte-le-date-e-gli-orari",
-      "https://quifinanza.it/info-utili/scioperi/scioperi-3-9-agosto-2026/1010807/",
-      "https://www.torinocronaca.it/news/cronaca/674113/agosto-si-apre-con-le-proteste-sciopero-dei-piloti-di-elicottero-il-quattro-agosto.html"
-    ],
-    "createdAt": "2026-08-04T13:14:49.000Z",
-    "updatedAt": "2026-08-04T23:41:59Z"
-  },
-  {
-    "id": "ind-9",
-    "seccion": "protestas_internacionales",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "00:00",
-    "fecha": "2026-08-04",
-    "lugar": "Estado de Panyab: servicios de autobuses de PUNBUS y PRTC en toda la red estatal (ISBT de Ludhiana y demás terminales; protestas anunciadas en la estación de autobuses de Mohali y gherao de la residencia del ministro jefe)",
-    "tipoAccion": "Huelga de 72 horas (día 2) de empleados contractuales del transporte público de pasajeros",
-    "organizaciones": [
-      "Sindicatos de empleados contractuales de PUNBUS (Punjab Roadways) y PRTC (Punjab Road Transport Corporation)",
-      "Sindicatos del transporte estatal de Panyab (unos 17.000 a 18.000 empleados)"
-    ],
-    "motivo": "Segundo día de la huelga de 72 horas (del 3 al 5 de agosto) convocada por los sindicatos de empleados contractuales de las empresas estatales de autobuses PUNBUS y PRTC en el estado de Panyab, que este martes 4 de agosto mantiene interrumpidos los servicios de transporte público y deja varados a miles de pasajeros en el ISBT de Ludhiana. Los trabajadores exigen la regularización de los empleados contractuales, la implementación de las directivas del Tribunal Superior de Panyab y Haryana sobre 'igual paga por igual trabajo' y el retiro de la causa penal contra un empleado de PRTC del depósito de Sangrur tras una protesta contra el esquema de kilometraje. Pese a las conversaciones del lunes con el ministro de Transportes Harpal Singh Cheema en Chandigarh, la medida continuó al no obtenerse una garantía escrita del Gobierno, y el sindicato anunció que intensificará la protesta con movilizaciones en la estación de autobuses de Mohali y un gherao (cerco) de la residencia del ministro jefe si no hay respuesta.",
-    "status": "en_curso",
-    "lat": 30.901,
-    "lng": 75.8573,
-    "fuentes": [
-      "https://www.hindustantimes.com/cities/chandigarh-news/contractual-workers-stir-leaves-ludhiana-commuters-in-lurch-101785778842407.html"
-    ],
-    "createdAt": "2026-08-04T13:14:49.000Z",
-    "updatedAt": "2026-08-04T23:41:59Z"
-  },
-  {
-    "id": "ind-10",
-    "seccion": "protestas_internacionales",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "00:00",
-    "fecha": "2026-08-04",
-    "lugar": "Complejo del Parlamento, Nueva Delhi (junto a Makar Dwar)",
-    "tipoAccion": "Protesta de diputados de la oposición (bloque INDIA) en el recinto parlamentario",
-    "organizaciones": [
-      "Congreso Nacional Indio (Priyanka Gandhi Vadra, secretaria general)",
-      "Samajwadi Party (Dimple Yadav, Dharmendra Yadav)",
-      "Trinamool Congress (Sagarika Ghose)",
-      "Rashtriya Janata Dal (Sanjay Yadav, Manoj Jha)",
-      "Partido Socialista Revolucionario (NK Premchandran)",
-      "Bloque INDIA"
-    ],
-    "motivo": "Diputados de la oposición del bloque INDIA, encabezados por la secretaria general del Congreso, Priyanka Gandhi Vadra, protagonizaron este martes 4 de agosto una protesta dentro del complejo del Parlamento de Nueva Delhi, junto a Makar Dwar, contra el presunto robo de donaciones en el templo de Ram en Ayodhya ('chhanda chori') y contra lo que denuncian como excesos policiales contra los estudiantes movilizados durante las protestas de la semana pasada (el movimiento estudiantil 'Cockroach Janta Party' contra el filtrado de exámenes). Los manifestantes portaron pancartas y corearon consignas como 'Chhanda chor, gaddi chor' y 'Amit Shah jawaab do', colocaron cajas de donaciones en el lugar de la protesta para simbolizar el presunto robo de los fondos del templo y exigieron respuestas del ministro del Interior, Amit Shah, ausente de la sesión parlamentaria.",
-    "status": "en_curso",
-    "lat": 28.617,
-    "lng": 77.2083,
-    "fuentes": [
-      "https://thenorthlines.com/opposition-mps-protest-over-ram-temple-donations-police-action-against-students/"
-    ],
-    "createdAt": "2026-08-04T13:14:49.000Z",
-    "updatedAt": "2026-08-04T23:41:59Z"
+    "updatedAt": "2026-08-05T02:38:30Z"
   },
   {
     "id": "bra-1",
@@ -688,14 +344,14 @@
     "pais": "Brasil",
     "bandera": "🇧🇷",
     "hora": "00:00",
-    "fecha": "2026-08-04",
+    "fecha": "2026-08-05",
     "lugar": "São Paulo: trenes metropolitanos CPTM (líneas 11-Coral, 12-Safira y 13-Jade, incluido el Expresso Aeroporto hacia Guarulhos); estaciones de las líneas y Zona Leste de la capital y municipios del área metropolitana",
     "tipoAccion": "Huelga ferroviaria indefinida (greve por tempo indeterminado) desde las 00:00",
     "organizaciones": [
       "Sindicato dos Trabalhadores em Empresas Ferroviárias da Zona Central do Brasil (STEFZCB)",
       "Companhia Paulista de Trens Metropolitanos (CPTM) - trabajadores"
     ],
-    "motivo": "Huelga indefinida de los trabajadores ferroviarios de la CPTM que empezó a las 00:00 del martes 4 de agosto, paralizando las líneas 11-Coral, 12-Safira y 13-Jade (incluido el Expresso Aeroporto al Aeropuerto Internacional de Guarulhos). Los trabajadores exigen la reestatización definitiva de las tres líneas transferidas a la empresa privada Trivia Trens, la garantía de empleo para los 4.700 empleados de la CPTM y la aprobación del PL 730/2025 en la Asamblea Legislativa de São Paulo (que autorizaría la absorción de los trabajadores por otros órganos estatales). El sindicato denuncia que tras la reunión del 3 de agosto con el gobierno del gobernador Tarcísio de Freitas no hubo compromiso formal de preservación de los puestos de trabajo. La línea 13-Jade quedó completamente paralizada, mientras que las 11 y 12 funcionaron parcialmente. El TRT de la 2ª Región ordenó un mínimo de 80% de efectivo en horas pico y 60% en otros horarios, con multa diaria de R$400.000 en caso de incumplimiento. El gobierno de São Paulo suspendió el rodízio vehicular, activó el plan de contingencia Paese con 128 autobuses y adelantó la apertura del metro a las 4:00.",
+    "motivo": "Huelga indefinida de los trabajadores ferroviarios de la CPTM que empezó a las 00:00 del martes 4 de agosto y continúa este miércoles 5, paralizando las líneas 11-Coral, 12-Safira y 13-Jade (incluido el Expresso Aeroporto al Aeropuerto Internacional de Guarulhos). En asamblea realizada el martes 4, los trabajadores del STEFZCB ratificaron la continuidad de la medida, con operación parcial de las líneas 11 y 12 mediante autobuses puente y la 13-Jade fuera de servicio. Los trabajadores exigen la reestatización definitiva de las tres líneas transferidas a la empresa privada Trivia Trens, la garantía de empleo para los 4.700 empleados de la CPTM y la aprobación del PL 730/2025 en la Asamblea Legislativa de São Paulo (que autorizaría la absorción de los trabajadores por otros órganos estatales). El sindicato denuncia que tras la reunión del 3 de agosto con el gobierno del gobernador Tarcísio de Freitas no hubo compromiso formal de preservación de los puestos de trabajo. La línea 13-Jade quedó completamente paralizada, mientras que las 11 y 12 funcionaron parcialmente. El TRT de la 2ª Región ordenó un mínimo de 80% de efectivo en horas pico y 60% en otros horarios, con multa diaria de R$400.000 en caso de incumplimiento. El gobierno de São Paulo suspendió el rodízio vehicular, activó el plan de contingencia Paese con 128 autobuses y adelantó la apertura del metro a las 4:00.",
     "status": "en_curso",
     "lat": -23.5505,
     "lng": -46.6333,
@@ -707,70 +363,11 @@
       "https://www.terra.com.br/noticias/brasil/cidades/greve-da-cptm-afeta-tres-linhas-em-sp-rodizio-de-carros-e-suspenso-e-governo-adota-plano-de-contingencia,1680342bbe0bd8999699458762d6fec16wqh4zzf.html",
       "https://particle.news/story/rail-workers-start-indefinite-strike-halting-line-13-and-reducing-service-on-lines-11-and-12",
       "https://www1.folha.uol.com.br/cotidiano/2026/08/greve-afeta-linhas-11-coral-12-safira-e-13-jade-nesta-terca-4.shtml",
-      "https://valor.globo.com/brasil/noticia/2026/08/04/entenda-os-motivos-da-greve-da-cptm-desta-terca-feira.ghtml"
+      "https://valor.globo.com/brasil/noticia/2026/08/04/entenda-os-motivos-da-greve-da-cptm-desta-terca-feira.ghtml",
+      "https://www.metrocptm.com.br/greve-na-cptm-continua-nesta-quarta-5/"
     ],
     "createdAt": "2026-08-04T15:54:00.000Z",
-    "updatedAt": "2026-08-04T23:41:59Z"
-  },
-  {
-    "id": "ind-11",
-    "seccion": "protestas_internacionales",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "10:00",
-    "fecha": "2026-08-04",
-    "lugar": "Patna, Bihar: marcha desde Gandhi Maidan hacia la residencia del ministro jefe (Samrat Choudhary), dispersada por la policía con hidrantes en la rotonda Income Tax, a 2 km del destino",
-    "tipoAccion": "Protesta estudiantil con marcha y enfrentamientos con la policía (hidrantes)",
-    "organizaciones": [
-      "National Students' Union of India (NSUI)",
-      "All India Students' Federation (AISF)",
-      "Democratic Youth Federation of India (DYFI)",
-      "Independent Purnea MP Pappu Yadav",
-      "Bihar Congress president Rajesh Ram"
-    ],
-    "motivo": "Cientos de estudiantes y activistas juveniles marcharon en Patna este martes 4 de agosto desde Gandhi Maidan hacia la residencia del ministro jefe de Bihar, Samrat Choudhary, para exigir la liberación de todos los estudiantes detenidos durante las protestas por la filtración de exámenes NEET del mes pasado y la retirada de las causas penales registradas contra ellos. La policía usó hidrantes para dispersar la marcha cuando los manifestantes intentaron avanzar hacia la zona restringida. El gobierno del estado de Bihar había anunciado la retirada de casos y la liberación de detenidos tras negociaciones con la DGP Vinay Kumar, pero los manifestantes denuncian que la promesa no se cumplió: de las casi 600 personas detenidas durante el bandh de julio, aproximadamente la mitad fueron liberadas (al ser menores) y el resto encarcelado. El congresista estatal Rajesh Ram fue detenido por la policía tras el uso de hidrantes. Un activista de Siwan denunció que un policía disparó con un AK-47 contra estudiantes durante protestas anteriores.",
-    "status": "en_curso",
-    "lat": 25.6093,
-    "lng": 85.1376,
-    "fuentes": [
-      "https://timesofindia.indiatimes.com/india/many-friends-yet-to-return-patna-students-protest-against-neet-stir-crackdown/articleshow/132855592.cms",
-      "https://www.deccanherald.com/india/bihar/neet-protests-patna-police-use-water-cannons-to-disperse-students-who-took-to-streets-marching-towards-bihar-cms-residence-4098640",
-      "https://news.abplive.com/education/neet-ug-2026-fresh-student-protest-erupts-in-patna-over-crackdown-check-latest-updates-1860328",
-      "https://www.freepressjournal.in/india/bihar-students-resume-protest-over-neet-leak-cases-police-use-water-cannons-in-patna",
-      "https://www.thehindu.com/news/national/bihar/bihar-police-brutality-against-student-protesters-poses-grave-threat-to-democracy-kanhaiya-kumar/article71305362.ece",
-      "https://www.lokmattimes.com/national/patna-sees-fresh-student-protest-over-neet-leak-cases-police-use-water-cannons-video-a527/"
-    ],
-    "createdAt": "2026-08-04T15:54:00.000Z",
-    "updatedAt": "2026-08-04T23:41:59Z"
-  },
-  {
-    "id": "ind-12",
-    "seccion": "protestas_internacionales",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "08:00",
-    "fecha": "2026-08-04",
-    "lugar": "Thanjavur, Tiruchi y múltiples distritos de Tamil Nadu (callejeras y bloqueos viales); estación de policía Sengipatti (Thanjavur)",
-    "tipoAccion": "Protestas masivas del partido DMK, bloqueos viales y quema de efigies por la detención del líder opositor Udhayanidhi Stalin",
-    "organizaciones": [
-      "Dravida Munnetra Kazhagam (DMK)",
-      "Udhayanidhi Stalin, Líder de la Oposición y secretario de la juventud del DMK",
-      "M.K. Stalin, presidente del DMK y exministro jefe de Tamil Nadu"
-    ],
-    "motivo": "Protestas masivas en múltiples ciudades del centro de Tamil Nadu tras la detención este martes 4 de agosto de Udhayanidhi Stalin, Líder de la Oposición y secretario de la juventud del DMK, por la policía de Thanjavur. La detención se derivó de una denuncia por presuntos comentarios misóginos dirigidos a una actriz durante un mitin público del DMK sobre la disputa del agua del río Cauvery en Thanjavur el 3 de agosto. Los trabajadores del DMK arrojaron sandalias a la policía, quemaron efigies y bloquearon carreteras en Thanjavur, Tiruchi, Coimbatore y otros distritos. Cientos de militantes se congregaron en la estación de policía Sengipatti, donde se trasladó a Udhayanidhi para interrogarlo. El Tribunal Superior de Madras ordenó su liberación bajo fianza policial tras el interrogatorio. El expresidente M.K. Stalin calificó la detención como una 'táctica de desvío' del gobierno de TVK (Tamilaga Vettri Kazhagam) encabezado por el CM C. Joseph Vijay para distraer la atención del escándalo del agua del Cauvery.",
-    "status": "en_curso",
-    "lat": 10.787,
-    "lng": 79.1378,
-    "fuentes": [
-      "https://www.thehindu.com/news/national/tamil-nadu/udhayanidhi-stalin-arrest-trisha-comment-dmk-protests-tvk-vijay-tamil-nadu-politics-live-updates-august-4-2026/article71304357.ece",
-      "https://www.thehindu.com/news/national/tamil-nadu/udhayanidhi-stalin-arrested-in-connection-with-complaint-of-making-misogynist-remarks/article71304079.ece",
-      "https://indianexpress.com/article/cities/chennai/udhayanidhi-stalin-arrested-live-updates-tamil-nadu-dmk-protest-cm-vijay-tvk-10817114/",
-      "https://timesofindia.indiatimes.com/city/chennai/watch-slippers-hurled-effigy-burnt-as-dmk-protest-turns-dramatic-over-udhayanidhi-stalins-detention/articleshow/132852713.cms",
-      "https://thenewsmill.com/2026/08/several-dmk-cadres-detained-during-protests-over-udhayanidhi-stalin-arrest-in-tamil-nadu/",
-      "https://www.indianexpress.com/article/cities/chennai/udhayanidhi-stalin-arrested-live-updates-tamil-nadu-dmk-protest-cm-vijay-tvk-10817114/"
-    ],
-    "createdAt": "2026-08-04T15:54:00.000Z",
-    "updatedAt": "2026-08-04T23:41:59Z"
+    "updatedAt": "2026-08-05T02:38:30Z"
   },
   {
     "id": "gre-1",
@@ -778,7 +375,7 @@
     "pais": "Grecia",
     "bandera": "🇬🇷",
     "hora": "19:00",
-    "fecha": "2026-08-04",
+    "fecha": "2026-08-05",
     "lugar": "Heraklion, Creta: bloqueo de la carretera nacional Heraklion–Moires (a la altura de los Athanatoi, km 10), frente a las antiguas bodegas Skouloudis",
     "tipoAccion": "Bloqueo vial diario contra la construcción de un centro de recepción de migrantes",
     "organizaciones": [
@@ -787,7 +384,7 @@
       "Consejo Municipal de Heraklion",
       "Consejo de la Comunidad de Athanatoi"
     ],
-    "motivo": "Residentes de Athanatoi y áreas vecinas bloquearon la carretera nacional Heraklion–Moires en Creta para protestar contra la conversión de las antiguas bodegas Skouloudis (en el km 10 de la carretera) en un centro temporal de recepción de migrantes. El bloqueo, que comenzó el 3 de agosto y continuó el 4, se realizará diariamente a las 19:00 hasta las 22:00, con intención de prolongarse indefinidamente. En la última semana llegaron 524 migrantes a Creta y Gavdos, saturando las instalaciones temporales en el puerto de Heraklion. El Ministerio de Migración avanzó con la restauración del sitio Skouloudis (meta: finales de agosto), pero el consejo municipal y los residentes se oponen a esta ubicación específica y exigen una reunión con el ministro de Migración, Thanos Plevris, para explorar alternativas en terrenos públicos. Los manifestantes advierten que no aceptarán la instalación y recurrirán a todas las vías institucionales y legales.",
+    "motivo": "Residentes de Athanatoi y áreas vecinas bloquearon la carretera nacional Heraklion–Moires en Creta para protestar contra la conversión de las antiguas bodegas Skouloudis (en el km 10 de la carretera) en un centro temporal de recepción de migrantes. El bloqueo, que comenzó el 3 de agosto, continuó el 4 y se mantiene este miércoles 5, se realiza diariamente de las 19:00 a las 22:00, con intención de prolongarse indefinidamente. En la última semana llegaron 524 migrantes a Creta y Gavdos, saturando las instalaciones temporales en el puerto de Heraklion. El Ministerio de Migración avanzó con la restauración del sitio Skouloudis (meta: finales de agosto), pero el consejo municipal y los residentes se oponen a esta ubicación específica y exigen una reunión con el ministro de Migración, Thanos Plevris, para explorar alternativas en terrenos públicos. Los manifestantes advierten que no aceptarán la instalación y recurrirán a todas las vías institucionales y legales.",
     "status": "en_curso",
     "lat": 35.3387,
     "lng": 25.1442,
@@ -795,32 +392,11 @@
       "https://www.argophilia.com/news/athanatoi-protest-heraklion/251051/",
       "https://www.ekathimerini.com/news/1311452/crete-debates-reception-center-site-for-migrants-arriving-from-libya/",
       "https://cretatimes.gr/irakleio-neos-ksesikomos-stous-athanatous-gia-ti-domi-metanaston-zitoun-synantisi-me-ton-thano-plevri/",
-      "https://fonimaleviziou.gr/2026/08/03/irakleio-ekleisan-xana-ton-dromo-oi-katoikoi-stous-athanatous-ochi-sti-domi-metanaston-stis-apothikes-skouloudi/"
+      "https://fonimaleviziou.gr/2026/08/03/irakleio-ekleisan-xana-ton-dromo-oi-katoikoi-stous-athanatous-ochi-sti-domi-metanaston-stis-apothikes-skouloudi/",
+      "https://www.neakriti.gr/kriti/irakleio/2192977_irakleio-ekleisan-xana-ton-dromo-oi-katoikoi-stoys-athanatoys-ohi-sti-domi"
     ],
     "createdAt": "2026-08-04T15:54:00.000Z",
-    "updatedAt": "2026-08-04T23:41:59Z"
-  },
-  {
-    "id": "ar-15",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "16:00",
-    "fecha": "2026-08-04",
-    "lugar": "Mar del Plata, Provincia de Buenos Aires (esquina de San Martín y Mitre)",
-    "tipoAccion": "Concentración de protesta ambiental con música en vivo",
-    "organizaciones": [
-      "Asamblea por un Mar libre de petroleras"
-    ],
-    "motivo": "Concentración de la Asamblea por un Mar libre de petroleras este martes 4 de agosto a las 16:00 en la intersección de San Martín y Mitre, en Mar del Plata, como parte de una jornada de rechazo al nuevo permiso otorgado por el Gobierno Nacional al bloque CAN 200, ubicado a 350 km de Mar del Tuyú, sobre el límite marítimo con Uruguay. La asamblea ambientalista convoca a defender el mar, la tierra y los bienes comunes frente al avance petrolero, con música en vivo como parte de la actividad de protesta. La movilización se inscribe en un ciclo más amplio de acciones en defensa del territorio que incluye la resistencia a la extranjerización de tierras y la explotación de recursos naturales en el litoral marítimo bonaerense.",
-    "status": "en_curso",
-    "lat": -38.0004,
-    "lng": -57.5564,
-    "fuentes": [
-      "https://www.andaragencia.org/convocan-a-acciones-en-defensa-del-territorio-en-mar-del-plata/"
-    ],
-    "createdAt": "2026-08-04T15:58:56.000Z",
-    "updatedAt": "2026-08-04T23:41:59Z"
+    "updatedAt": "2026-08-05T02:38:30Z"
   },
   {
     "id": "ar-16",
@@ -828,14 +404,14 @@
     "pais": "Argentina",
     "bandera": "🇦🇷",
     "hora": "07:00",
-    "fecha": "2026-08-04",
+    "fecha": "2026-08-05",
     "lugar": "Ruta Nacional 81 a la altura de la localidad de Coronel Juan Solá (Morillo), departamento Rivadavia, Chaco salteño, provincia de Salta",
-    "tipoAccion": "Corte intermitente de ruta por tiempo indeterminado (3ª jornada), con amenaza de toma del municipio",
+    "tipoAccion": "Corte intermitente de ruta por tiempo indeterminado (5ª jornada), con amenaza de toma del municipio",
     "organizaciones": [
       "Comunidades indígenas wichí de Coronel Juan Solá-Morillo (representantes de unas 26 comunidades del Chaco salteño, con 72 referentes comunitarios)",
       "Javier Ruiz, referente de la comunidad La Represa II"
     ],
-    "motivo": "Tercer día consecutivo de corte de la Ruta Nacional 81 a la altura de Coronel Juan Solá-Morillo (departamento Rivadavia), donde comunidades indígenas wichí del Chaco salteño mantienen un corte parcial con interrupciones de 20 minutos y habilitación del tránsito durante otros 20, según la modalidad dispuesta por orden del juez federal y coordinada con Gendarmería Nacional (Escuadrón 52 Tartagal). El reclamo, iniciado el sábado 1 de agosto y encabezado por referentes de unas 26 comunidades (72 referentes comunitarios, cada uno representa a comunidades donde viven más de cien familias), exige respuestas del Gobierno provincial a demandas históricas: mejoras en la atención del hospital de Morillo y provisión permanente de medicamentos, acceso a puestos de trabajo, construcción de viviendas y ejecución de obras públicas, perforación de pozos de agua, entrega de módulos alimentarios y el cumplimiento de compromisos asumidos por funcionarios provinciales. Los referentes denuncian que reclaman desde 2020 y 2021 sin obtener audiencia con el gobernador Gustavo Sáenz (la única reunión fue con el intendente Ariel Arias, al que cuestionan por no pronunciarse sobre el conflicto) y fijan como única condición para levantar la protesta una audiencia directa con el gobernador. Hasta el mediodía del martes 4 de agosto el Ejecutivo provincial no había dado respuesta oficial, y el referente Javier Ruiz advirtió que, si no hay solución, además de continuar el corte la protesta podría endurecerse con la toma del municipio; se sumaron además representantes de otras comunidades (Los Baldes y Pluma de Pato) y el conflicto amenaza con coincidir con los festejos patronales de San Lorenzo del 8 de agosto.",
+    "motivo": "Quinto día consecutivo de corte de la Ruta Nacional 81 a la altura de Coronel Juan Solá-Morillo (departamento Rivadavia), donde comunidades indígenas wichí del Chaco salteño mantienen este miércoles 5 de agosto un corte parcial con interrupciones de 20 minutos y habilitación del tránsito durante otros 20, según la modalidad dispuesta por orden del juez federal y coordinada con Gendarmería Nacional (Escuadrón 52 Tartagal). El reclamo, iniciado el sábado 1 de agosto y encabezado por referentes de unas 26 comunidades (72 referentes comunitarios, cada uno representa a comunidades donde viven más de cien familias), exige respuestas del Gobierno provincial a demandas históricas: mejoras en la atención del hospital de Morillo y provisión permanente de medicamentos, acceso a puestos de trabajo, construcción de viviendas y ejecución de obras públicas, perforación de pozos de agua, entrega de módulos alimentarios y el cumplimiento de compromisos asumidos por funcionarios provinciales. Los referentes denuncian que reclaman desde 2020 y 2021 sin obtener audiencia con el gobernador Gustavo Sáenz (la única reunión fue con el intendente Ariel Arias, al que cuestionan por no pronunciarse sobre el conflicto) y fijan como única condición para levantar la protesta una audiencia directa con el gobernador. Sin respuesta oficial del Ejecutivo provincial hasta el cierre del martes 4, el referente Javier Ruiz advirtió que, si no hay solución, además de continuar el corte la protesta podría endurecerse con la toma del municipio; se sumaron además representantes de otras comunidades (Los Baldes y Pluma de Pato) y el conflicto amenaza con coincidir con los festejos patronales de San Lorenzo del 8 de agosto.",
     "status": "en_curso",
     "lat": -23.4667,
     "lng": -62.8833,
@@ -849,33 +425,7 @@
       "https://xn--fmchaar-8za.com.ar/sin-categoria/2026/07/24/comunidades-indigenas-de-morillo-advierten-con-cortar-la-ruta-81/"
     ],
     "createdAt": "2026-08-04T19:30:43.000Z",
-    "updatedAt": "2026-08-04T23:41:59Z"
-  },
-  {
-    "id": "kor-2",
-    "seccion": "protestas_internacionales",
-    "pais": "Corea del Sur",
-    "bandera": "🇰🇷",
-    "hora": "10:15",
-    "fecha": "2026-08-04",
-    "lugar": "Base Aérea de Osan (K-55), Pyeongtaek, a 60 km al sur de Seúl (puerta principal de la base)",
-    "tipoAccion": "Infiltración de base militar estadounidense por activistas estudiantiles, con detención de 8 personas",
-    "organizaciones": [
-      "Korean Progressive University Student Union (KPUSU)",
-      "Ocho activistas estudiantiles (6 ingresaron a la base, 2 detenidos en la entrada)"
-    ],
-    "motivo": "Ocho activistas estudiantiles del Korean Progressive University Student Union (KPUSU) intentaron entrar por la fuerza a la base aérea estadounidense de Osan (K-55) en Pyeongtaek, a las 10:15 del martes 4 de agosto. Seis lograron saltar la puerta principal y entraron al recinto entonando consignas anti-EE.UU. como 'Destruyamos la Fuerza Aérea 7 de Estados Unidos', mientras que los otros dos fueron detenidos en la entrada. Fueron retenidos por la Fuerza de Seguridad de EE.UU. (USFK) y entregados a la policía surcoreana. El KPUSU declaró que la protesta estaba vinculada a su denuncia de que las fuerzas estadounidenses obstaculizan el proyecto de manufactura de semiconductores planificado por Corea del Sur en la ciudad de Gwangju, y también citaron la reciente filtración de fósforo blanco en la propia base de Osan. Los 8 permanecen bajo custodia policial mientras se investigan posibles violaciones de la Ley de Protección de Instalaciones Militares.",
-    "status": "finalizado",
-    "lat": 36.9188,
-    "lng": 127.0293,
-    "fuentes": [
-      "https://en.yna.co.kr/view/AEN20260804005451315",
-      "https://www.aa.com.tr/en/asia-pacific/8-student-activists-detained-after-attempting-to-enter-us-air-base-in-south-korea/4017701",
-      "https://www.stripes.com/theaters/asia_pacific/2026-08-04/osan-south-korea-gate-security-police-air-force-22451545.html",
-      "https://www.koreatimes.co.kr/southkorea/20260804/8-student-activists-detained-after-trespassing-on-us-air-base-in-pyeongtaek"
-    ],
-    "createdAt": "2026-08-04T15:54:00.000Z",
-    "updatedAt": "2026-08-04T23:41:59Z"
+    "updatedAt": "2026-08-05T02:38:30Z"
   },
   {
     "id": "chl-1",
@@ -883,244 +433,24 @@
     "pais": "Chile",
     "bandera": "🇨🇱",
     "hora": "08:00",
-    "fecha": "2026-08-04",
-    "lugar": "Santiago, Región Metropolitana (Alameda, estación de Metro Universidad Católica; tomas en el Instituto Nacional, Liceo N°1 Javiera Carrera, Liceo Manuel Barros Borgoño y Liceo de Aplicación)",
-    "tipoAccion": "Movilización estudiantil de secundarios con tomas de establecimientos, suspensión de tránsito y cierre de estación de Metro",
+    "fecha": "2026-08-05",
+    "lugar": "Santiago, Región Metropolitana (marcha en la Alameda; tomas de liceos: Liceo N°1 Javiera Carrera, Instituto Nacional, Liceo Lastarria y Liceo Carmela Carvajal)",
+    "tipoAccion": "Movilización estudiantil de secundarios con marcha en la Alameda, tomas de establecimientos e incidentes",
     "organizaciones": [
       "Cordón Secundario (agrupación de estudiantes de liceos emblemáticos de la Región Metropolitana)",
       "Estudiantes del Liceo 1, Liceo Lastarria, Instituto Nacional, Liceo 4, Liceo de Aplicación y Liceo Carmela Carvajal"
     ],
-    "motivo": "Jornada de agitación convocada este martes 4 de agosto por el Cordón Secundario, que agrupa a estudiantes de liceos emblemáticos de la Región Metropolitana, como antesala de la movilización en la Alameda convocada para el día siguiente (miércoles 5). Los estudiantes tomaron en la mañana cuatro establecimientos (Instituto Nacional, Liceo N°1 Javiera Carrera, Liceo Manuel Barros Borgoño y Liceo de Aplicación), que luego fueron restituidos voluntariamente, y protagonizaron incidentes frente al Liceo Barros Borgoño; la movilización provocó la suspensión del tránsito en la Alameda entre Vicuña Mackenna y Diagonal Paraguay y el cierre de la estación de Metro Universidad Católica (L1). El movimiento rechaza el proyecto de 'Reconstrucción' del gobierno y advierte que 'el movimiento estudiantil no puede ni debe callar cuando un gobierno propone retroceder en derechos sociales' (educación, cultura, salud y dignidad).",
+    "motivo": "Movilización del Cordón Secundario este miércoles 5 de agosto en Santiago, segunda jornada del plan de agitación contra el proyecto de 'Reconstrucción' (megarreforma) del gobierno, aprobado por el Senado el martes 4, al que el movimiento considera un retroceso en derechos sociales. Los estudiantes tomaron en la mañana los liceos 1 Javiera Carrera, Instituto Nacional, Lastarria y Carmela Carvajal y marcharon por la Alameda, donde se registraron incidentes que dejaron al menos 13 detenidos (10 menores y 3 adultos) y daños, con corte del tránsito en el centro. El movimiento advierte que 'el movimiento estudiantil no puede ni debe callar cuando un gobierno propone retroceder en derechos sociales' (educación, cultura, salud y dignidad).",
     "status": "en_curso",
     "lat": -33.4489,
     "lng": -70.6693,
     "fuentes": [
       "https://www.emol.com/noticias/Nacional/2026/08/04/1207543/secundarios-movilizarse-incidentes-emblematicos.html",
-      "https://eldesconcierto.cl/actualidad/movilizacion-estudiantil-del-cordon-secundario-contra-megarreforma-kast-alameda-cortada-y-metro-cerrado-n5461030"
+      "https://eldesconcierto.cl/actualidad/movilizacion-estudiantil-del-cordon-secundario-contra-megarreforma-kast-alameda-cortada-y-metro-cerrado-n5461030",
+      "https://laregionhoy.cl/2026/08/05/manifestacion-de-secundarios-termino-con-13-detenidos-por-incidentes/"
     ],
     "createdAt": "2026-08-04T17:45:27.000Z",
-    "updatedAt": "2026-08-04T23:41:59Z"
-  },
-  {
-    "id": "fra-2",
-    "seccion": "protestas_internacionales",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "00:00",
-    "fecha": "2026-08-04",
-    "lugar": "Deux-Sèvres: Parthenay y Bressuire (frente a las dos subprefecturas del departamento)",
-    "tipoAccion": "Manifestación de agricultores frente a las subprefecturas",
-    "organizaciones": [
-      "FNSEA 79 (Federación Nacional de Sindicatos de Explotaciones Agrícolas)",
-      "Jeunes Agriculteurs 79 (Jóvenes Agricultores)"
-    ],
-    "motivo": "Miembros de la FNSEA 79 y de los Jóvenes Agricultores 79 manifestaron este martes 4 de agosto por la mañana frente a las dos subprefecturas de Parthenay y Bressuire (Deux-Sèvres), desplegando una gran pancarta con el lema 'La Francia mira morir a quienes la alimentan, ayudenos!' ('La France regarde mourir ceux qui la nourrissent, aidez-nous!'), para 'alertar a los poderes públicos sobre la gravedad de la situación agrícola' del departamento y reclamar medidas de urgencia ante el temor por el futuro de la actividad.",
-    "status": "en_curso",
-    "lat": 46.6493,
-    "lng": -0.2442,
-    "fuentes": [
-      "https://www.lanouvellerepublique.fr/bressuire/la-france-regarde-mourir-ceux-qui-la-nourrissent-la-fnsea-et-les-ja-se-mobilisent-une-nouvelle-fois-dans-les-deux-sevres-1785854904"
-    ],
-    "createdAt": "2026-08-04T17:45:27.000Z",
-    "updatedAt": "2026-08-04T23:41:59Z"
-  },
-  {
-    "id": "usa-1",
-    "seccion": "protestas_internacionales",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
-    "hora": "00:00",
-    "fecha": "2026-08-04",
-    "lugar": "Nueva York (frente al Ayuntamiento - City Hall - y el domicilio de la presidenta del Concejo Municipal Julie Menin, Upper East Side)",
-    "tipoAccion": "Huelga de hambre (día 8) de trabajadoras del cuidado a domicilio con protestas y sentadas",
-    "organizaciones": [
-      "Labor for No More 24 (campaña sindical)",
-      "Coalición Ain't I a Woman?!",
-      "Trabajadoras del cuidado a domicilio actuales y jubiladas (una docena en huelga de hambre)"
-    ],
-    "motivo": "Una docena de trabajadoras actuales y jubiladas del cuidado a domicilio de Nueva York cumplen este martes 4 de agosto su octavo día de huelga de hambre para presionar al Concejo Municipal y a su presidenta Julie Menin para que lleve a votación la 'No More 24 Act' (Int. 303), proyecto que prohíbe los turnos de 24 horas y limita las jornadas a 12 horas, además de capar la semana laboral en 56 horas. Durante la última semana las trabajadoras protestaron frente al Ayuntamiento y ante la casa de Menin; la medida se reactivó el 28 de julio después de que la votación prometida para abril nunca se concretara. Denuncian que, bajo la política estatal, solo se les paga 13 de las 24 horas del turno y comparan las jornadas de 24 horas con 'tortura'.",
-    "status": "en_curso",
-    "lat": 40.7128,
-    "lng": -74.006,
-    "fuentes": [
-      "https://www.democracynow.org/2026/8/4/headlines/home_care_workers_continue_hunger_strike_to_pressure_new_york_city_council_to_pass_ban_on_24_hour_shifts",
-      "https://gothamist.com/news/nyc-home-care-workers-urge-end-to-torture-of-24-hour-shifts",
-      "https://www.amny.com/politics/labor/hunger-strike-over-24-hour-workdays/",
-      "https://thechiefleader.com/stories/homecare-workers-calling-for-end-of-24-hour-workdays-launch-another-hunger-strike,57194"
-    ],
-    "createdAt": "2026-08-04T17:45:27.000Z",
-    "updatedAt": "2026-08-04T23:41:59Z"
-  },
-  {
-    "id": "isr-1",
-    "seccion": "protestas_internacionales",
-    "pais": "Israel",
-    "bandera": "🇮🇱",
-    "hora": "19:00",
-    "fecha": "2026-08-04",
-    "lugar": "Jerusalén (calle Jaffa, frente a la feria de orientación para reclutas ultraortodoxos haredim)",
-    "tipoAccion": "Manifestación de protesta frente al evento de reclutamiento haredí",
-    "organizaciones": [
-      "Facción de Jerusalén (Jerusalem Faction), sector ultraortodoxo haredí"
-    ],
-    "motivo": "Miembros de la Facción de Jerusalén, sector radical de la comunidad haredí, realizaron este martes 4 de agosto por la noche una manifestación frente a una feria de orientación para reclutas ultraortodoxos en la calle Jaffa de Jerusalén, en rechazo al servicio militar obligatorio de los haredim. Los manifestantes llegaron después de que el evento concluyera y gritaron consignas como 'Traidor' contra un soldado haredí y 'Incursor', 'No tienes perdón' y 'Hereje' contra el general de brigada (res.) Ofer Winter, que había hablado en la feria. Un amplio despliegue policial formó una barrera entre los manifestantes y los participantes para impedir el acercamiento.",
-    "status": "en_curso",
-    "lat": 31.7841,
-    "lng": 35.2124,
-    "fuentes": [
-      "https://www.israelnationalnews.com/news/431236"
-    ],
-    "createdAt": "2026-08-04T17:45:27.000Z",
-    "updatedAt": "2026-08-04T23:41:59Z"
-  },
-  {
-    "id": "gbr-3",
-    "seccion": "protestas_internacionales",
-    "pais": "Reino Unido",
-    "bandera": "🇬🇧",
-    "hora": "15:00",
-    "fecha": "2026-08-04",
-    "lugar": "Maidstone, Kent (County Hall, sede de la autoridad de bomberos de Kent y Medway)",
-    "tipoAccion": "Manifestación sindical de bomberos (rally) ante el recorte de estaciones y empleos",
-    "organizaciones": [
-      "Fire Brigades Union (FBU)",
-      "Helen Whately, diputada conservadora (apoyo)"
-    ],
-    "motivo": "Alrededor de 300 bomberos de Kent, afiliados al Fire Brigades Union (FBU), sus familias y simpatizantes protagonizaron este martes 4 de agosto por la tarde un ruidoso acto de protesta en el County Hall de Maidstone, con bocinas y banderas, contra los planes de la Kent and Medway Fire and Rescue Authority (KMRFA) de cerrar cuatro estaciones de bomberos (Wye, Chilham, Westerham y Cliffe) y recortar empleos. La movilización se realizó antes de la reunión decisiva del KMRFA del jueves; el sindicato advirtió que la huelga en Kent 'no está descartada' si se aprueba la consulta sobre el recorte de servicios.",
-    "status": "en_curso",
-    "lat": 51.2771,
-    "lng": 0.5198,
-    "fuentes": [
-      "https://www.kentonline.co.uk/kent/news/kent-is-a-stack-of-kindling-in-a-heatwave-don-t-shut-our-343535/"
-    ],
-    "createdAt": "2026-08-04T17:45:27.000Z",
-    "updatedAt": "2026-08-04T23:41:59Z"
-  },
-  {
-    "id": "tur-1",
-    "seccion": "protestas_internacionales",
-    "pais": "Turquía",
-    "bandera": "🇹🇷",
-    "hora": "11:00",
-    "fecha": "2026-08-04",
-    "lugar": "Ankara: marcha desde la Plaza Ulus (Monumento a Atatürk) hasta la Gran Asamblea Nacional de Turquía (TBMM)",
-    "tipoAccion": "Marcha de protesta de mineros por salarios y liquidaciones impagos",
-    "organizaciones": [
-      "Sindicato de Mineros Turcos (Maden-İş)",
-      "Talih Kocabıyık, presidente de la rama de Anatolia Central de Maden-İş",
-      "Unos 580 trabajadores de Doruk Mining (Eskişehir)"
-    ],
-    "motivo": "Unos 580 mineros de la empresa Doruk Mining de Eskişehir, que llevan meses sin cobrar salarios e indemnizaciones, marchan este martes 4 de agosto a las 11:00 desde el Monumento a Atatürk en la Plaza Ulus de Ankara hacia las puertas del Parlamento (TBMM), en una nueva etapa de la protesta por el derecho que mantienen desde hace días en la plaza con pancartas como 'Queremos nuestros derechos, no caridad' y 'Señor presidente, escuche nuestra voz'. El sindicato Maden-İş, que convocó la marcha junto a las familias de los trabajadores y otros mineros, advirtió que no darán un paso atrás 'hasta recibir sus derechos'.",
-    "status": "en_curso",
-    "lat": 39.9334,
-    "lng": 32.8597,
-    "fuentes": [
-      "https://rrn.com.tr/en/doruk-mining-workers-to-march-to-parliament-tomorrow/"
-    ],
-    "createdAt": "2026-08-04T17:45:27.000Z",
-    "updatedAt": "2026-08-04T23:41:59Z"
-  },
-  {
-    "id": "tur-2",
-    "seccion": "protestas_internacionales",
-    "pais": "Turquía",
-    "bandera": "🇹🇷",
-    "hora": "00:00",
-    "fecha": "2026-08-04",
-    "lugar": "Ankara (frente a la mezquita Melike Hatun)",
-    "tipoAccion": "Concentración de solidaridad con Gaza (recepción del convoy de Palestina)",
-    "organizaciones": [
-      "Palestine Convoy (activistas de 20 países procedentes de Bosnia y los Balcanes)",
-      "Comunidad y organizaciones de solidaridad de Ankara"
-    ],
-    "motivo": "Cientos de personas se congregaron este martes 4 de agosto frente a la mezquita Melike Hatun en Ankara para dar la bienvenida al 'Palestine Convoy', caravana de activistas de 20 países llegada desde Bosnia y los Balcanes con el objetivo de visibilizar la solidaridad mundial con Gaza y Cisjordania. La concentración forma parte de la movilización internacional de apoyo al pueblo palestino en plena crisis humanitaria y de los ataques israelíes en Gaza.",
-    "status": "en_curso",
-    "lat": 39.9208,
-    "lng": 32.8541,
-    "fuentes": [
-      "https://www.presstv.co.uk/Detail/2026/08/04/773694/Palestine-Convoy-arrives-in-Ankara,-voices-solidarity-with-Gaza"
-    ],
-    "createdAt": "2026-08-04T17:45:27.000Z",
-    "updatedAt": "2026-08-04T23:41:59Z"
-  },
-  {
-    "id": "ind-13",
-    "seccion": "protestas_internacionales",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "00:00",
-    "fecha": "2026-08-04",
-    "lugar": "Complejo del Parlamento, Nueva Delhi (junto a Makar Dwar)",
-    "tipoAccion": "Protesta de diputados del DMK en la sesión de Monzón del Parlamento",
-    "organizaciones": [
-      "Dravida Munnetra Kazhagam (DMK)",
-      "M.K. Stalin, presidente del DMK y exministro jefe de Tamil Nadu"
-    ],
-    "motivo": "Diputados del Dravida Munnetra Kazhagam (DMK) protagonizaron este martes 4 de agosto una protesta en Makar Dwar, en el complejo del Parlamento de Nueva Delhi, durante la sesión de Monzón, para exigir justicia por la disputa del agua del río Cauvery ante la negativa de Karnataka a liberar el agua a los agricultores de Tamil Nadu. El presidente del DMK, M.K. Stalin, criticó la pasividad del ministro jefe C. Joseph Vijay (TVK) respecto a Karnataka y al proyecto Mekedatu, y advirtió que las protestas del partido se intensificarán mientras no se cumplan las demandas de los agricultores del delta.",
-    "status": "en_curso",
-    "lat": 28.617,
-    "lng": 77.2083,
-    "fuentes": [
-      "https://www.republicworld.com/india/dmk-mps-protest-in-parliaments-monsoon-session-over-cauvery-water-dispute-stalin-slams-cm-vijay-on-mekedatu-2026-08-04-133953"
-    ],
-    "createdAt": "2026-08-04T17:45:27.000Z",
-    "updatedAt": "2026-08-04T23:41:59Z"
-  },
-  {
-    "id": "irn-1",
-    "seccion": "protestas_internacionales",
-    "pais": "Irán",
-    "bandera": "🇮🇷",
-    "hora": "00:00",
-    "fecha": "2026-08-04",
-    "lugar": "59 prisiones de todo el país (Teherán, Evin, Ghezel Hesar en Karaj y el resto de los centros participantes de la campaña)",
-    "tipoAccion": "Huelga de hambre colectiva semanal en prisiones (semana 132 de la campaña)",
-    "organizaciones": [
-      "Campaña 'No a las Ejecuciones los Martes' (No to Execution Tuesdays)",
-      "Prisioneros políticos y condenados a muerte de 59 prisiones de Irán",
-      "Prisioneros de la Unidad 2 de la prisión de Ghezel Hesar (huelga de hambre masiva desde el 13 de julio)"
-    ],
-    "motivo": "Prisioneros políticos y condenados a muerte de 59 prisiones de Irán realizan este martes 4 de agosto la huelga de hambre colectiva de la semana 132 de la campaña 'No a las Ejecuciones los Martes' (No to Execution Tuesdays), iniciada el 29 de enero de 2024 y sostenida cada martes, en protesta contra la ola de ejecuciones del régimen y en demanda de la abolición de la pena de muerte. En su comunicado semanal, la campaña denuncia que el régimen ha intensificado las ejecuciones como herramienta de represión tras los levantamientos de diciembre de 2025 y enero de 2026 -al menos 303 personas ejecutadas desde el inicio del año calendario iraní el 21 de marzo, según sus recuentos- y exige el cese inmediato de las sentencias de muerte, el fin del secreto sobre los lugares de entierro de los ejecutados y que se permita a las familias conocer el destino de sus seres queridos. La jornada coincide con la huelga de hambre que mantienen desde el 13 de julio unos 1.500 prisioneros de la Unidad 2 de la prisión de Ghezel Hesar (Karaj), que denuncian la transferencia de compañeros a aislamiento en previsión de su ejecución, con episodios de prisioneros que se han cosido los labios en señal de protesta según The Guardian. La campaña llamó a la comunidad internacional a amplificar la voz de los condenados a muerte y a impedir la continuación de las ejecuciones.",
-    "status": "en_curso",
-    "lat": 35.6892,
-    "lng": 51.389,
-    "fuentes": [
-      "https://www.ncr-iran.org/en/news/human-rights/hunger-strike-escalates-across-59-iranian-prisons-in-132nd-week-of-anti-execution-campaign/",
-      "https://english.mojahedin.org/news/irans-no-to-executions-tuesdays-campaign-marks-week-132-as-inmates-defy-regime-crackdown/",
-      "https://iran-hrm.com/2026/08/04/the-132nd-week-of-the-no-to-execution-tuesdays-campaign-in-59-prisons-across-iran/",
-      "https://iranfreedom.org/en/human-rights/2026/08/irans-no-to-execution-tuesdays-campaign-reaches-week-132-as-hunger-strike-continues-in-59-prisons/89017/",
-      "https://iranfocus.com/human-rights/58542-the-132nd-week-of-the-no-to-execution-tuesdays-campaign-across-59-prisons/"
-    ],
-    "createdAt": "2026-08-04T19:27:44.000Z",
-    "updatedAt": "2026-08-04T23:41:59Z"
-  },
-  {
-    "id": "esp-3",
-    "seccion": "protestas_internacionales",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "07:00",
-    "fecha": "2026-08-04",
-    "lugar": "Aeropuerto de Palma de Mallorca (Son Sant Joan), Islas Baleares (servicios de asistencia en tierra -handling- de Swissport; paros de 07:00 a 12:00 y de 19:00 a 22:00)",
-    "tipoAccion": "Huelga indefinida de trabajadores de handling de Swissport (comienza el 4 de agosto)",
-    "organizaciones": [
-      "UGT (sindicato mayoritario en el comité de empresa de Swissport Palma)",
-      "CCOO (convocó jornadas parciales de huelga el 28 de julio y el 1, 4 y 8 de agosto)",
-      "Cerca de 600 trabajadores de Swissport en el aeropuerto de Palma"
-    ],
-    "motivo": "Comienza este martes 4 de agosto la huelga indefinida convocada por el comité de empresa de la compañía de handling Swissport en el aeropuerto de Palma de Mallorca (Son Sant Joan), donde el sindicato UGT tiene la mayoría de la representación, tras el fracaso de las negociaciones por las condiciones laborales de los cerca de 600 trabajadores. La medida afecta a las operaciones de las aerolíneas Condor, Sunclass, Grupo TUI, Air Canada, Etihad Airways, Alba Star y TAP Air Portugal, en plena 'operación salida' de las vacaciones de verano. Los representantes denuncian precariedad laboral y reclaman la ampliación de la jornada a 40 horas para los empleados con contratos parciales que acumulan exceso de horas extraordinarias de obligado cumplimiento, la negociación de las jornadas irregulares (en especial para los trabajadores de mayor edad), un incentivo por sobrecarga de trabajo y estrés laboral, dos días consecutivos de descanso semanal para favorecer 'un descanso real' y la dotación de aire acondicionado en todos los vehículos de la plantilla. La huelga indefinida de UGT se suma a las jornadas parciales de paro (de 07:00 a 12:00 y de 19:00 a 22:00) que CCOO había convocado para el 28 de julio y el 1, 4 y 8 de agosto por medidas de prevención del riesgo de calor, personal y organización del trabajo, por lo que este martes la asistencia en tierra del aeropuerto balear queda afectada por ambas convocatorias.",
-    "status": "en_curso",
-    "lat": 39.5517,
-    "lng": 2.7389,
-    "fuentes": [
-      "https://www.diariodemallorca.es/mallorca/2026/07/30/huelga-indefinida-aeropuerto-palma-handling-132950796.html",
-      "https://www.ultimahora.es/noticias/local/2026/07/29/2679501/huelga-indefinida-swissport-aeropuerto-palma-fechas-previstas-mejoras-contra-precariedad-del-handling.html",
-      "https://www.infobae.com/espana/agencias/2026/07/29/ugt-convoca-una-huelga-indefinida-en-swissport-en-aeropuerto-de-palma-desde-el-4-de-agosto/",
-      "https://www.hosteltur.com/177758_huelga-indefinida-en-swissport-en-el-aeropuerto-de-palma-desde-el-4-de-agosto.html",
-      "https://striketracker.app/strikes-in-spain/palma-de-mallorca-swissport-airport-handling-strike-28-jul-8-aug-2026"
-    ],
-    "createdAt": "2026-08-04T22:08:48.000Z",
-    "updatedAt": "2026-08-04T23:41:59Z"
+    "updatedAt": "2026-08-05T02:38:30Z"
   },
   {
     "id": "esp-4",
@@ -1128,7 +458,7 @@
     "pais": "España",
     "bandera": "🇪🇸",
     "hora": "00:00",
-    "fecha": "2026-08-04",
+    "fecha": "2026-08-05",
     "lugar": "Torres de control operadas por Saerco en España: Madrid–Cuatro Vientos, Sevilla, Jerez de la Frontera, Vigo, A Coruña, Lanzarote, Fuerteventura, La Palma y El Hierro",
     "tipoAccion": "Huelga indefinida de controladores aéreos (en curso desde el 17 de abril, bajo servicios mínimos)",
     "organizaciones": [
@@ -1136,7 +466,7 @@
       "CCOO",
       "Controladores de las torres de control gestionadas por Saerco"
     ],
-    "motivo": "Continúa activa este martes 4 de agosto la huelga indefinida convocada por USCA y CCOO en las torres de control operadas por el proveedor privado Saerco en España, iniciada a las 00:00 del 17 de abril de 2026 y que se mantiene bajo los servicios mínimos impuestos por el Ministerio de Transportes, a los que los sindicatos califican de abusivos por fijarlos en el 100% de la plantilla y dejar la huelga 'sin efecto' operativo en los aeropuertos afectados. La medida protesta contra la reducción de plantilla de hasta el 33%, el incumplimiento de los períodos de descanso reglamentarios y los riesgos para la seguridad operacional, y afecta a las torres de Madrid–Cuatro Vientos, Sevilla, Jerez de la Frontera, Vigo, A Coruña, Lanzarote, Fuerteventura, La Palma y El Hierro. El Ministerio mantiene la resolución de servicios mínimos al menos hasta el 31 de agosto de 2026, sin que existan anuncios de suspensión o desconvocatoria de la medida.",
+    "motivo": "Continúa activa este miércoles 5 de agosto (día 111 de la medida) la huelga indefinida convocada por USCA y CCOO en las torres de control operadas por el proveedor privado Saerco en España, iniciada a las 00:00 del 17 de abril de 2026 y que se mantiene bajo los servicios mínimos impuestos por el Ministerio de Transportes, a los que los sindicatos califican de abusivos por fijarlos en el 100% de la plantilla y dejar la huelga 'sin efecto' operativo en los aeropuertos afectados. La medida protesta contra la reducción de plantilla de hasta el 33%, el incumplimiento de los períodos de descanso reglamentarios y los riesgos para la seguridad operacional, y afecta a las torres de Madrid–Cuatro Vientos, Sevilla, Jerez de la Frontera, Vigo, A Coruña, Lanzarote, Fuerteventura, La Palma y El Hierro. El Ministerio mantiene la resolución de servicios mínimos al menos hasta el 31 de agosto de 2026, sin que existan anuncios de suspensión o desconvocatoria de la medida.",
     "status": "en_curso",
     "lat": 40.4168,
     "lng": -3.7038,
@@ -1149,7 +479,7 @@
       "https://striketracker.app/strikes-in-spain/airport-strike-jerez-de-la-frontera-17-april-2026"
     ],
     "createdAt": "2026-08-04T22:08:48.000Z",
-    "updatedAt": "2026-08-04T23:41:59Z"
+    "updatedAt": "2026-08-05T02:38:30Z"
   },
   {
     "id": "usa-2",
@@ -1157,15 +487,15 @@
     "pais": "Estados Unidos",
     "bandera": "🇺🇸",
     "hora": "00:00",
-    "fecha": "2026-08-04",
+    "fecha": "2026-08-05",
     "lugar": "Nueva York: Bronx Defenders (El Bronx) y Neighborhood Defender Service de Harlem (Manhattan); piquetes en los tribunales del Bronx y Manhattan",
-    "tipoAccion": "Huelga de abogados, trabajadores sociales y personal de apoyo de defensorías públicas (segunda semana; día 9 en Bronx Defenders y día 12 en NDS Harlem)",
+    "tipoAccion": "Huelga de abogados, trabajadores sociales y personal de apoyo de defensorías públicas (segunda semana; día 10 en Bronx Defenders y día 13 en NDS Harlem)",
     "organizaciones": [
       "Association of Legal Aid Attorneys (ALAA)-UAW Local 2325",
       "Bronx Defenders Union",
       "Neighborhood Defender Service of Harlem union"
     ],
-    "motivo": "Entra en su segunda semana la huelga de los trabajadores de las defensorías públicas de Nueva York: los sindicalizados de Bronx Defenders (ALAA-UAW Local 2325) llevan nueve días de paro (desde el 27 de julio) y los del Neighborhood Defender Service de Harlem doce días (desde el 24 de julio), tras la huelga ya resuelta de Brooklyn Defender Services a fines de julio. Más de 400 abogados, trabajadores sociales y personal de apoyo están ausentes de los tribunales del Bronx y Manhattan, dejando en vilo causas penales, de familia, de inmigración y de vivienda de clientes de bajos ingresos. El sindicato reclama subas salariales para los puestos peor pagados (investigadores, defensores comunitarios y trabajadores sociales, a los que se ofrecía un incremento de apenas 3%), el mantenimiento del seguro de salud gratuito -que la dirección de Neighborhood Defender amenaza con eliminar, suspendiendo además la cobertura de los huelguistas- y mejores condiciones frente al costo de vida. El conflicto se produce pese al refuerzo de unos 32 millones de dólares aprobado por el Concejo Municipal para las organizaciones de defensa pública (un aumento del 12,5%), que el sindicato considera más que suficiente para financiar sus demandas. Un mediador federal fue asignado para destrabar la negociación.",
+    "motivo": "Entra en su segunda semana la huelga de los trabajadores de las defensorías públicas de Nueva York: los sindicalizados de Bronx Defenders (ALAA-UAW Local 2325) llevan diez días de paro (desde el 27 de julio) y los del Neighborhood Defender Service de Harlem trece días (desde el 24 de julio), tras la huelga ya resuelta de Brooklyn Defender Services a fines de julio. Más de 400 abogados, trabajadores sociales y personal de apoyo están ausentes de los tribunales del Bronx y Manhattan, dejando en vilo causas penales, de familia, de inmigración y de vivienda de clientes de bajos ingresos. El sindicato reclama subas salariales para los puestos peor pagados (investigadores, defensores comunitarios y trabajadores sociales, a los que se ofrecía un incremento de apenas 3%), el mantenimiento del seguro de salud gratuito -que la dirección de Neighborhood Defender amenaza con eliminar, suspendiendo además la cobertura de los huelguistas- y mejores condiciones frente al costo de vida. El conflicto se produce pese al refuerzo de unos 32 millones de dólares aprobado por el Concejo Municipal para las organizaciones de defensa pública (un aumento del 12,5%), que el sindicato considera más que suficiente para financiar sus demandas. Un mediador federal fue asignado para destrabar la negociación.",
     "status": "en_curso",
     "lat": 40.8282,
     "lng": -73.9207,
@@ -1177,46 +507,17 @@
       "https://onlabor.org/july-29-2026/"
     ],
     "createdAt": "2026-08-04T22:08:48.000Z",
-    "updatedAt": "2026-08-04T23:41:59Z"
-  },
-  {
-    "id": "pse-1",
-    "seccion": "protestas_internacionales",
-    "pais": "Palestina",
-    "bandera": "🇵🇸",
-    "hora": "00:00",
-    "fecha": "2026-08-04",
-    "lugar": "Franja de Gaza: ciudad de Gaza, barrio de Al-Sabra (entierro de los restos en un cementerio cercano a las ruinas del bloque residencial destruido)",
-    "tipoAccion": "Funeral masivo de 112 palestinos recuperados de los escombros (el mayor entierro de la guerra) con oraciones y cortejo multitudinario",
-    "organizaciones": [
-      "Familias Hassayna y Abu Sharia",
-      "Defensa Civil de Gaza",
-      "Comunidad palestina de la ciudad de Gaza"
-    ],
-    "motivo": "Palestinos de la Franja de Gaza celebraron este martes 4 de agosto un funeral masivo en la ciudad de Gaza por los 112 cuerpos -entre ellos unos 40 niños- de miembros de las familias Hassayna y Abu Sharia recuperados de los escombros del bloque residencial del barrio de Al-Sabra, destruido por un ataque aéreo israelí el 22 de noviembre de 2023 que mató a más de 300 personas en una de las masacres más letales de la guerra. El cese al fuego vigente permitió a los equipos de Defensa Civil excavar durante el fin de semana y recuperar los restos; las autoridades describieron la ceremonia como el mayor funeral de toda la guerra. Cientos de personas asistieron a las oraciones fúnebres con los cuerpos envueltos en banderas palestinas y tendidos en hileras sobre el terreno antes de su entierro en un cementerio cercano, mientras todavía faltan por hallar 157 cuerpos. El entierro se produce cuando el saldo confirmado por el Ministerio de Salud de Gaza supera los 73.377 muertos desde el inicio de la ofensiva israelí tras el ataque de Hamás del 7 de octubre de 2023.",
-    "status": "en_curso",
-    "lat": 31.5017,
-    "lng": 34.4668,
-    "fuentes": [
-      "https://www.aljazeera.com/news/2026/8/4/gaza-holds-mass-funeral-for-112-people-killed-in-israels-2023-sabra-attack",
-      "https://www.mcall.com/2026/08/04/gaza-mass-funeral",
-      "https://www.democracynow.org/2026/8/4/headlines/mass_funeral_held_for_112_palestinians_in_gaza",
-      "https://www.cbsnews.com/news/gaza-war-mass-funeral-extended-family/",
-      "https://www.commondreams.org/news/gaza-funeral",
-      "https://www.timesofisrael.com/hamas-holds-mass-funeral-for-112-people-killed-in-apparent-idf-strike-at-start-of-gaza-war/"
-    ],
-    "createdAt": "2026-08-04T22:08:48.000Z",
-    "updatedAt": "2026-08-04T23:41:59Z"
+    "updatedAt": "2026-08-05T02:38:30Z"
   },
   {
     "id": "ind-14",
     "seccion": "protestas_internacionales",
     "pais": "India",
     "bandera": "🇮🇳",
-    "hora": "06:00",
-    "fecha": "2026-08-04",
-    "lugar": "Estado de Maharashtra: hospitales públicos, municipales y privados en Mumbai (KEM, Sion, Nair y Cooper), Pune, Nagpur y el resto del estado (suspensión de servicios médicos rutinarios de las 06:00 del 4 a las 06:00 del 5 de agosto)",
-    "tipoAccion": "Huelga estatal de 24 horas de médicos y profesionales de la salud (suspensión de consultas externas y servicios rutinarios)",
+    "hora": "00:00",
+    "fecha": "2026-08-05",
+    "lugar": "Estado de Maharashtra: hospitales públicos, municipales y privados en Mumbai (KEM, Sion, Nair y Cooper), Pune, Nagpur y el resto del estado (suspensión de consultas externas y servicios rutinarios, con servicios de emergencia durante las primeras 24 horas)",
+    "tipoAccion": "Huelga estatal indefinida de médicos residentes (MARD), en escalada de la huelga de 24 horas de la IMA del 4 de agosto",
     "organizaciones": [
       "Indian Medical Association (IMA) capítulo Maharashtra",
       "Maharashtra Association of Resident Doctors (MARD)",
@@ -1224,7 +525,7 @@
       "Association of State Medical Interns (ASMI)",
       "Más de 2 lakh de médicos alópatas"
     ],
-    "motivo": "Huelga estatal de 24 horas (de las 06:00 del martes 4 a las 06:00 del miércoles 5 de agosto) de la Indian Medical Association (IMA) en Maharashtra, con el apoyo de la Maharashtra Association of Resident Doctors (MARD), BMC MARD, ASMI y asociaciones de médicos especialistas, contra la decisión del Gobierno estatal (Resolución Gubernamental del 3 de agosto) de iniciar el registro en el Maharashtra Medical Council (MMC) de los practicantes homeópatas BHMS que completaron el Certificate Course in Modern Pharmacology (CCMP), en un registro separado. Los médicos denuncian la 'crosspathy' (permiso para que profesionales de un sistema ejerzan la medicina moderna), el deterioro de los estándares educativos y los riesgos para la seguridad de los pacientes. Más de 2 lakh de médicos alópatas participaron en la medida, que suspendió las consultas ambulatorias (OPD) en hospitales públicos, municipales y privados de todo el estado, mientras los servicios de emergencia, terapia intensiva, salas de parto y urgencias continúan funcionando. La IMA advirtió que, si el proceso de registro avanza, la huelga se extenderá de forma indefinida, incluidos los servicios de emergencia. El Tribunal Superior de Bombay tiene previsto pronunciarse a mediados de agosto sobre el asunto, y el Gobierno creó un comité de seis miembros para definir el marco regulatorio.",
+    "motivo": "Huelga estatal indefinida de los médicos residentes de Maharashtra (MARD) iniciada a la medianoche del martes 4 al miércoles 5 de agosto, en escalada de la huelga de 24 horas realizada el 4 de agosto por la Indian Medical Association (IMA) contra la decisión del Gobierno estatal (Resolución Gubernamental del 3 de agosto) de iniciar el registro en el Maharashtra Medical Council (MMC) de los homeópatas BHMS que completaron el Certificate Course in Modern Pharmacology (CCMP). Los médicos denuncian la 'crosspathy' (permiso para que profesionales de un sistema ejerzan la medicina moderna), el deterioro de los estándares educativos y los riesgos para la seguridad de los pacientes. La medida suspende las consultas ambulatorias (OPD) y los servicios rutinarios en hospitales de todo el estado; los servicios de emergencia funcionarán durante las primeras 24 horas y, si el conflicto no se resuelve, los médicos retirarán por completo los servicios a partir del 6 de agosto. El Tribunal Superior de Bombay tiene previsto pronunciarse a mediados de agosto sobre el asunto, y el Gobierno creó un comité de seis miembros para definir el marco regulatorio.",
     "status": "en_curso",
     "lat": 19.076,
     "lng": 72.8777,
@@ -1233,10 +534,11 @@
       "https://timesofindia.indiatimes.com/city/mumbai/maharashtra-doctors-announce-boycott-after-gr-nod-to-homeopaths-regn/articleshow/132850440.cms",
       "https://www.wionews.com/india-news/explained-why-over-2-lakh-doctors-are-on-strike-in-maharashtra-and-what-the-row-over-crosspathy-is-about-1785845033919",
       "https://zeenews.india.com/india/ma-maharashtra-24-hour-strike-bhms-ccmp-registration-protest-3064646.html",
-      "https://www.freepressjournal.in/mumbai/maharashtra-resident-doctors-to-suspend-routine-opds-from-august-5-over-ccmp-registration-row"
+      "https://www.freepressjournal.in/mumbai/maharashtra-resident-doctors-to-suspend-routine-opds-from-august-5-over-ccmp-registration-row",
+      "https://www.ndtvprofit.com/india/no-opd-emergency-services-from-aug-5-maharashtra-doctors-to-start-indefinite-strike-over-bhms-certification-11865576"
     ],
     "createdAt": "2026-08-04T23:32:23.000Z",
-    "updatedAt": "2026-08-04T23:41:59Z"
+    "updatedAt": "2026-08-05T02:38:30Z"
   },
   {
     "id": "col-1",
@@ -1244,13 +546,13 @@
     "pais": "Colombia",
     "bandera": "🇨🇴",
     "hora": "05:00",
-    "fecha": "2026-08-04",
+    "fecha": "2026-08-05",
     "lugar": "Centro de Bogotá: frente a la Corte Constitucional y el Palacio de Justicia (calle 12 con carrera 7)",
     "tipoAccion": "Protesta y plantón de recicladores de oficio",
     "organizaciones": [
       "Recicladores de oficio de Bogotá (Asociación Nacional de Recicladores, Asociación de Recicladores de Bogotá -ARB-, Ecoalianza y otras organizaciones del gremio)"
     ],
-    "motivo": "Cientos de recicladores de oficio llegaron desde las 5 de la mañana de este martes 4 de agosto frente a las instalaciones de la Corte Constitucional y del Palacio de Justicia, en el centro de Bogotá, para manifestar su rechazo al nuevo marco tarifario del servicio de aseo elaborado por la Comisión de Regulación de Agua Potable y Saneamiento Básico (CRA), que según el gremio se expidió sin tener en cuenta sus observaciones (más de 57.000) y pone en riesgo la permanencia de los recicladores en la actividad y su remuneración. Los manifestantes exigen el acompañamiento de un magistrado de la Corte Constitucional para que escuche las inconformidades del gremio con la nueva medida y advirtieron que permanecerán frente al tribunal 'hasta que alguien escuche sus reclamos' y se cambien los marcos tarifarios. La protesta se enmarca en el seguimiento de la Corte a la Sentencia T-724 de 2003, que declaró a los recicladores de oficio sujetos de especial protección constitucional.",
+    "motivo": "Cientos de recicladores de oficio llegaron desde las 5 de la mañana del martes 4 de agosto frente a las instalaciones de la Corte Constitucional y del Palacio de Justicia, en el centro de Bogotá, para manifestar su rechazo al nuevo marco tarifario del servicio de aseo elaborado por la Comisión de Regulación de Agua Potable y Saneamiento Básico (CRA), que según el gremio se expidió sin tener en cuenta sus observaciones (más de 57.000) y pone en riesgo la permanencia de los recicladores en la actividad y su remuneración. Los manifestantes exigen el acompañamiento de un magistrado de la Corte Constitucional para que escuche las inconformidades del gremio con la nueva medida y advirtieron que permanecerán frente al tribunal 'hasta que alguien escuche sus reclamos' y se cambien los marcos tarifarios. La protesta se enmarca en el seguimiento de la Corte a la Sentencia T-724 de 2003, que declaró a los recicladores de oficio sujetos de especial protección constitucional. El plantón se mantiene este miércoles 5 de agosto, tras la decisión de la Corte de convocar una mesa técnica para evaluar el impacto del nuevo marco tarifario en los recicladores.",
     "status": "en_curso",
     "lat": 4.5969,
     "lng": -74.0755,
@@ -1259,35 +561,7 @@
       "https://www.eltiempo.com/justicia/cortes/corte-constitucional-convoca-mesa-tecnica-para-evaluar-nuevo-marco-tarifario-del-aseo-y-su-impacto-en-los-recicladores-3569740"
     ],
     "createdAt": "2026-08-04T23:32:23.000Z",
-    "updatedAt": "2026-08-04T23:41:59Z"
-  },
-  {
-    "id": "pri-1",
-    "seccion": "protestas_internacionales",
-    "pais": "Puerto Rico",
-    "bandera": "🇵🇷",
-    "hora": "06:30",
-    "fecha": "2026-08-04",
-    "lugar": "San Juan: concentración en el Parque Sixto Escobar (Puerta de Tierra, junto al Hotel El Normandie) y marcha hasta el puente Dos Hermanos por la avenida Luis Muñoz Rivera",
-    "tipoAccion": "Marcha de protesta de comunidades por la crisis del servicio de agua potable",
-    "organizaciones": [
-      "Coalición Exigimos Agua",
-      "Comunidades de San Juan y otros municipios (Cupey, Ocean Park, Santa Teresita, San Jorge, Machuchal, Monte Flores, residencial Luis Lloréns Torres, Las Casas, Las Margaritas, Isla Verde y áreas de Loíza)",
-      "Alfredo Cuellar, líder comunitario de la coalición"
-    ],
-    "motivo": "Cientos de residentes de comunidades afectadas por la crisis del agua potable, agrupados en la Coalición Exigimos Agua, se manifestaron desde las 6:30 de la mañana de este martes 4 de agosto en el Parque Sixto Escobar de San Juan y marcharon hasta el puente Dos Hermanos para reclamar a la gobernadora Jenniffer González y a la Autoridad de Acueductos y Alcantarillados (AAA) una administración eficiente y soluciones concretas ante las constantes interrupciones del servicio. Líderes denunciaron que algunas comunidades llevan hasta 13 meses sin agua (más de 120 días en varios edificios de adultos mayores), mientras la sequía agrava la situación del embalse Carraízo. Las autoridades cerraron el tránsito en la avenida Luis Muñoz Rivera entre el puente Dos Hermanos y el Capitolio. La manifestación se produce días después de que la gobernadora declarara el estado de emergencia por la sequía en toda la isla.",
-    "status": "en_curso",
-    "lat": 18.4655,
-    "lng": -66.1057,
-    "fuentes": [
-      "https://www.elnuevodia.com/noticias/locales/notas/no-podemos-seguir-exigen-cambios-en-la-aaa-ante-la-crisis-en-el-servicio-de-agua/",
-      "https://www.elvocero.com/actualidad/comunidades-afectadas-por-falta-de-agua-se-manifiestan-en-san-juan/article_ae503bae-b160-438a-9046-a6411f68333f.html",
-      "https://teleonce.com/noticias/locales/si-no-saben-gobernar-que-se-quiten-residentes-protestan-por-las-fallas-de-agua-en-san-juan/",
-      "https://www.telemundopr.com/noticias/puerto-rico/se-tiran-a-la-calle-ciudadanos-se-manifiestan-ante-la-situacion-del-agua/2833417/",
-      "https://www.metro.pr/noticias/2026/07/28/residentes-de-san-juan-convocan-manifestacion-para-exigir-mejor-servicio-de-agua-potable/"
-    ],
-    "createdAt": "2026-08-04T23:32:23.000Z",
-    "updatedAt": "2026-08-04T23:41:59Z"
+    "updatedAt": "2026-08-05T02:38:30Z"
   },
   {
     "id": "mex-2",
@@ -1295,14 +569,14 @@
     "pais": "México",
     "bandera": "🇲🇽",
     "hora": "11:00",
-    "fecha": "2026-08-04",
+    "fecha": "2026-08-05",
     "lugar": "Ciudad de México: instalaciones de Canal Once (calle Manuel Carpio 475, Casco de Santo Tomás, alcaldía Miguel Hidalgo) y Escuela Nacional de Ciencias Biológicas del IPN (Manuel Carpio y Plan de Ayala)",
     "tipoAccion": "Concentración y plantón de estudiantes en paro del IPN con mesa de diálogo ante la SEP",
     "organizaciones": [
       "Movimiento Estudiantil del IPN",
       "Estudiantes en paro de la Escuela Nacional de Ciencias Biológicas (ENCB) y otras escuelas del Instituto Politécnico Nacional"
     ],
-    "motivo": "Estudiantes del Instituto Politécnico Nacional (IPN) que mantienen el paro y ocuparon Canal Once desde el 21 de mayo -desalojados el domingo 2 de agosto- se concentraron este martes 4 de agosto a las 11:00 frente a las instalaciones de la televisora (Canal Once, Manuel Carpio 475) y sostuvieron al mediodía una mesa de diálogo con autoridades de la Secretaría de Educación Pública (SEP) y del IPN en la Escuela Nacional de Ciencias Biológicas para abordar el presupuesto del Instituto, los recursos extraordinarios y el retorno de los recursos autogenerados. Los estudiantes rechazaron haber causado daños a la videoteca e instalaciones de Canal Once durante su recuperación, denunciaron que el desalojo no fue pacífico y exigieron un peritaje independiente, un inventario con cadena de custodia y el acta de no represalias. El paro, que afecta a más de 5.000 alumnos solo en la ENCB, reclama además la salida del director general del IPN, Arturo Reyes Sandoval, y la eliminación de la Coordinación de Prevención y Seguridad del instituto.",
+    "motivo": "Estudiantes del Instituto Politécnico Nacional (IPN) que mantienen el paro y ocuparon Canal Once desde el 21 de mayo -desalojados el domingo 2 de agosto- se concentraron este martes 4 de agosto a las 11:00 frente a las instalaciones de la televisora (Canal Once, Manuel Carpio 475) y sostuvieron al mediodía una mesa de diálogo con autoridades de la Secretaría de Educación Pública (SEP) y del IPN en la Escuela Nacional de Ciencias Biológicas; el paro continúa este miércoles 5 de agosto para abordar el presupuesto del Instituto, los recursos extraordinarios y el retorno de los recursos autogenerados. Los estudiantes rechazaron haber causado daños a la videoteca e instalaciones de Canal Once durante su recuperación, denunciaron que el desalojo no fue pacífico y exigieron un peritaje independiente, un inventario con cadena de custodia y el acta de no represalias. El paro, que afecta a más de 5.000 alumnos solo en la ENCB, reclama además la salida del director general del IPN, Arturo Reyes Sandoval, y la eliminación de la Coordinación de Prevención y Seguridad del instituto.",
     "status": "en_curso",
     "lat": 19.4512,
     "lng": -99.1689,
@@ -1310,31 +584,138 @@
       "https://www.jornada.com.mx/noticia/2026/08/04/politica/estudiantes-en-paro-del-ipn-se-deslindan-de-danos-a-la-videoteca-e-instalaciones-de-canal-once",
       "https://www.eluniversal.com.mx/tendencias/chocan-versiones-sobre-desalojo-de-planton-en-canal-once-jovenes-del-ipn-relatan-como-presuntos-trabajadores-los-quitaron-a-la-fuerza/",
       "https://www.ejecentral.com.mx/nuestro-eje/que-paso-en-canal-once-estudiantes-del-ipn-niegan-danos-tras-desalojo-y-exigen-peritaje",
-      "https://www.nmas.com.mx/ciudad-de-mexico/movilidad/marchas/estudiantes-sostienen-mesa-de-negociacion-con-autoridades-del-politecnico-nacional/"
+      "https://www.nmas.com.mx/ciudad-de-mexico/movilidad/marchas/estudiantes-sostienen-mesa-de-negociacion-con-autoridades-del-politecnico-nacional/",
+      "https://www.sdpnoticias.com/mexico/estudiantes-en-paro-niegan-haber-danado-el-acervo-de-canal-once/"
     ],
     "createdAt": "2026-08-04T23:32:23.000Z",
-    "updatedAt": "2026-08-04T23:41:59Z"
+    "updatedAt": "2026-08-05T02:38:30Z"
   },
   {
-    "id": "mex-3",
+    "id": "nga-1",
     "seccion": "protestas_internacionales",
-    "pais": "México",
-    "bandera": "🇲🇽",
-    "hora": "12:00",
-    "fecha": "2026-08-04",
-    "lugar": "Ciudad Universitaria: Rectoría de la UNAM y bloqueo del cruce de Insurgentes Sur con Avenida Copilco",
-    "tipoAccion": "Protesta de aspirantes seleccionados contra la nueva prueba de control de admisión",
+    "pais": "Nigeria",
+    "bandera": "🇳🇬",
+    "hora": "08:00",
+    "fecha": "2026-08-05",
+    "lugar": "A nivel nacional: Abuja, Lagos, Benin City, Ibadan, Ilorin, Maiduguri, Minna y Bosso (puntos de concentración del 'Festival of the Oppressed')",
+    "tipoAccion": "Protesta nacional ('Festival de los Oprimidos') con marchas y concentraciones",
     "organizaciones": [
-      "Aspirantes seleccionados de la UNAM y sus familias"
+      "Take-It-Back Movement",
+      "LIDD (Legal Initiative for Democratic Development) - asesoría legal"
     ],
-    "motivo": "Alrededor de un centenar de aspirantes seleccionados de la UNAM, acompañados por sus familias, protestaron este martes 4 de agosto desde el mediodía en la Rectoría de Ciudad Universitaria contra la aplicación de un examen de control con el que la universidad verificará los resultados de la prueba de admisión ante las anomalías detectadas por los altos puntajes, exigiendo que se respeten los lugares ya ganados ('mi lugar ya fue ganado') y que no se les obligue a presentar una segunda evaluación. Los jóvenes se movilizaron luego hacia el cruce de Insurgentes Sur con Avenida Copilco, donde bloquearon la circulación vehicular durante aproximadamente una hora y media, lo que afectó a la Línea 1 del Metrobús; pasadas las 16:00 regresaron a Rectoría para intentar entregar un pliego petitorio, que finalmente fue recibido por el personal. También participaron estudiantes cuyo examen fue cancelado a media prueba por alertas de prácticas indebidas que aseguran no cometieron, y que exigen ser considerados en el examen de control.",
+    "motivo": "Protesta nacional convocada por el Take-It-Back Movement para este miércoles 5 de agosto desde las 8:00 en Abuja, Lagos, Benin City, Ibadan, Ilorin, Maiduguri, Minna y Bosso, bajo la consigna 'Festival of the Oppressed', contra el gobierno del presidente Bola Tinubu y la crisis del costo de vida, la pobreza, la inseguridad y las políticas económicas. Los organizadores notificaron formalmente a la policía la realización de la protesta y cuentan con equipos de abogados de LIDD en el terreno ante el despliegue de seguridad previsto.",
     "status": "en_curso",
-    "lat": 19.3326,
-    "lng": -99.1865,
+    "lat": 9.0765,
+    "lng": 7.3986,
     "fuentes": [
-      "https://www.razon.com.mx/mexico/2026/08/04/aspirantes-de-la-unam-rechazan-nuevo-examen/"
+      "https://guardian.ng/news/group-mobilises-nigerians-for-august-5-protest-take-it-back-movement/",
+      "https://vanguardngr.com/2026/07/take-it-back-movement-fixes-august-5-protest-over-tinubu-administration/",
+      "https://www.thesourceng.com/2026/08/04/police-formally-notified-lidd-lawyers-on-ground-for-august-5-protest/"
     ],
-    "createdAt": "2026-08-04T23:32:23.000Z",
-    "updatedAt": "2026-08-04T23:41:59Z"
+    "createdAt": "2026-08-05T02:12:30.000Z",
+    "updatedAt": "2026-08-05T02:38:30Z"
+  },
+  {
+    "id": "ury-1",
+    "seccion": "protestas_internacionales",
+    "pais": "Uruguay",
+    "bandera": "🇺🇾",
+    "hora": "12:00",
+    "fecha": "2026-08-05",
+    "lugar": "Montevideo: concentración en el Rosedal del Prado, movilización hasta la Torre Ejecutiva y marcha final al Palacio Legislativo",
+    "tipoAccion": "Movilización nacional de vecinos y productores contra la represa de Casupá",
+    "organizaciones": [
+      "Vecinos y productores afectados por la represa de Casupá (Florida)",
+      "Federación Rural del Uruguay (apoyo)"
+    ],
+    "motivo": "Movilización convocada para este miércoles 5 de agosto en Montevideo por los vecinos de Casupá (departamento de Florida) y las zonas afectadas por el proyecto de la represa de Casupá, que partió a las 12:00 desde el Rosedal del Prado, pasó por la Torre Ejecutiva para entregar una carta al presidente Yamandú Orsi y culminó hacia las 15:30 en el Palacio Legislativo con la lectura de una proclama, con el apoyo de la Federación Rural y otras organizaciones del interior. Reclaman la cancelación del proyecto, que inundaría tierras productivas y afectaría a cientos de familias de la zona.",
+    "status": "en_curso",
+    "lat": -34.9011,
+    "lng": -56.1645,
+    "fuentes": [
+      "https://www.carasycaretas.com.uy/sociedad/federacion-rural-convoca-movilizacion-contra-la-construccion-represa-casupa-n98025",
+      "https://cw54emisoradeleste.com.uy/2026/08/04/la-historia-de-vecinos-del-casupa-y-la-movilizacion-de-este-miercoles/"
+    ],
+    "createdAt": "2026-08-05T02:12:30.000Z",
+    "updatedAt": "2026-08-05T02:38:30Z"
+  },
+  {
+    "id": "ar-17",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "13:00",
+    "fecha": "2026-08-05",
+    "lugar": "Río Grande, Tierra del Fuego (parque industrial y plantas metalúrgicas, entre ellas la planta de BGH de ensamble de aires acondicionados)",
+    "tipoAccion": "Paro de 4 horas (13 a 17) y movilización por el parque industrial",
+    "organizaciones": [
+      "UOM (Unión Obrera Metalúrgica) Seccional Río Grande",
+      "Oscar 'Zurdo' Martínez, secretario general de la UOM Seccional Río Grande",
+      "ASIMRA (supervisores afectados)"
+    ],
+    "motivo": "Paro con movilización de la UOM Seccional Río Grande este miércoles 5 de agosto, de 13 a 17 horas con movilización desde las 13 por el parque industrial, ante la posible finalización de los procesos productivos de ensamble de componentes de aires acondicionados de la planta de BGH en Río Grande (Tierra del Fuego), que pondría en riesgo unos 200 puestos de trabajo y, según el sindicato, hasta el 57-60% del empleo del sector (cerca de 900 puestos). La medida, resuelta por unanimidad en el Congreso de Delegados de la UOM, rechaza el desmantelamiento del ensamble de aires acondicionados y la apertura de importaciones ante el fin de la protección antidumping, en un contexto de crisis industrial fueguina agravado por los 24 despidos que BGH concretó el 31 de julio en su planta de Río Grande. El gremio, encabezado por Oscar 'Zurdo' Martínez y con respaldo del secretario nacional Abel Furlán, pidió el respaldo de la Legislatura fueguina para defender la industria y advirtió que la medida también podría afectar a los supervisores nucleados en ASIMRA.",
+    "status": "en_curso",
+    "lat": -53.7878,
+    "lng": -67.7093,
+    "fuentes": [
+      "https://fmfuego.com.ar/gremiales/la-uom-anuncio-un-paro-y-movilizacion-para-el-miercoles-5-de-agosto-por-los-200-puestos-de-trabajo-en-riesgo.htm",
+      "https://red23noticias.com.ar/nota/19489/la-uom-anuncio-un-paro-con-movilizacion-por-el-riesgo-de-200-despidos/",
+      "https://www.actualidadtdf.com.ar/la-uom-rio-grande-anuncio-un-paro-con-movilizacion-ante-el-riesgo-de-perdida-de-200-puestos-de-trabajo/",
+      "https://cuestionentrerriana.com.ar/crisis-industrial-en-tierra-del-fuego-bgh-despidio-a-24-operarios-y-la-uom-rio-grande-va-al-paro/",
+      "https://mundogremial.com/alerta-en-la-industria-fueguina-24-despidos-en-bgh-profundizan-la-crisis-en-la-previa-del-paro-de-la-uom/",
+      "https://correodiario.com.ar/la-uom-pidio-el-respaldo-de-la-legislatura-para-defender-la-industria-fueguina-y-ratifico-el-paro-del-miercoles/"
+    ],
+    "createdAt": "2026-08-05T02:26:09.000Z",
+    "updatedAt": "2026-08-05T02:38:30Z"
+  },
+  {
+    "id": "ar-18",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "00:00",
+    "fecha": "2026-08-05",
+    "lugar": "Viedma, Río Negro (frente a la Legislatura provincial)",
+    "tipoAccion": "Movilización y acampe con vigilia frente a la Legislatura",
+    "organizaciones": [
+      "ATE Río Negro (Asociación Trabajadores del Estado)",
+      "Rodrigo Vicente, secretario general de ATE Río Negro",
+      "Rodolfo Aguiar, secretario general nacional de ATE"
+    ],
+    "motivo": "ATE Río Negro se moviliza este miércoles 5 de agosto a la Legislatura provincial en Viedma y monta un acampe con vigilia para respaldar el proyecto de ley de pase a planta permanente de 4.200 trabajadoras y trabajadores estatales (con corte de ingreso hasta el 31 de diciembre de 2025), que se trataría en la sesión del jueves 6 de agosto. El sindicato califica como 'avance histórico' el acuerdo alcanzado con el Gobierno provincial de Alberto Weretilneck y exige a todos los bloques parlamentarios que voten afirmativamente el proyecto y lo conviertan en ley, en un contexto de ajuste del Gobierno nacional de Javier Milei.",
+    "status": "en_curso",
+    "lat": -40.8135,
+    "lng": -62.9967,
+    "fuentes": [
+      "https://ate.org.ar/260804-pases-rionegro/",
+      "https://www.noticiasnet.com.ar/noticias/2026/08/04/216331-ate-acampara-en-la-legislatura-para-defender-el-pase-a-planta-permanente",
+      "https://www.diariolapalabra.com.ar/noticia/152959/ate-prepara-un-acampe-frente-a-la-legislatura",
+      "https://www.letrap.com.ar/politica/rio-negro-el-pase-planta-4200-estatales-pone-prueba-la-mayoria-weretilneck-la-legislatura-n5425528"
+    ],
+    "createdAt": "2026-08-05T02:26:09.000Z",
+    "updatedAt": "2026-08-05T02:38:30Z"
+  },
+  {
+    "id": "ar-19",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "00:00",
+    "fecha": "2026-08-05",
+    "lugar": "Buenos Aires (Plaza del Congreso de la Nación)",
+    "tipoAccion": "Marcha semanal de jubilados (Marcha de la Dignidad)",
+    "organizaciones": [
+      "Jubilados y pensionados (organizaciones convocantes de la Marcha de la Dignidad)",
+      "Sindicatos y organizaciones sociales adherentes"
+    ],
+    "motivo": "Como cada miércoles, los jubilados realizan la Marcha de la Dignidad frente al Congreso de la Nación, movilización que se repite desde enero de 2025 y que este miércoles 5 de agosto exige un aumento de las jubilaciones, la reanudación y prórroga de la moratoria previsional (cuya última extensión general venció formalmente el 23 de marzo de 2025 tras los vetos presidenciales de Javier Milei) y rechaza enérgicamente su eliminación definitiva. La marcha, con acompañamiento de sindicatos y organizaciones sociales, se enmarca en una semana de acrecentada conflictividad social contra el Gobierno nacional.",
+    "status": "en_curso",
+    "lat": -34.6098,
+    "lng": -58.3923,
+    "fuentes": [
+      "https://www.prensa-latina.cu/2026/08/04/semana-de-movilizaciones-contra-el-gobierno-en-argentina"
+    ],
+    "createdAt": "2026-08-05T02:26:09.000Z",
+    "updatedAt": "2026-08-05T02:38:30Z"
   }
 ]
