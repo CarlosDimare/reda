@@ -34,7 +34,7 @@
       "https://todosalta.com/contenido/90319/ex-combatientes-de-malvinas-salen-a-las-calles-para-reclamar-sobre-los-derechos-"
     ],
     "createdAt": "2026-08-08T01:55:19.000Z",
-    "updatedAt": "2026-08-09T12:06:52Z"
+    "updatedAt": "2026-08-09T12:57:00Z"
   },
   {
     "id": "ar-4",
@@ -67,7 +67,7 @@
       "https://ushuaia24.com.ar/contenido/28231/sutef-rechazo-la-convocatoria-de-melella-y-ratifico-el-paro-por-tiempo-indeterminado"
     ],
     "createdAt": "2026-08-08T04:38:04.000Z",
-    "updatedAt": "2026-08-09T12:06:52Z"
+    "updatedAt": "2026-08-09T12:57:00Z"
   },
   {
     "id": "ar-5",
@@ -97,7 +97,7 @@
       "https://www.movimientoalternativa.com.ar/l/noticias-po/comienza-la-segunda-caminata-de-warmis-en-defensa-de-la-pachamama/"
     ],
     "createdAt": "2026-08-08T08:40:33.000Z",
-    "updatedAt": "2026-08-09T12:06:52Z"
+    "updatedAt": "2026-08-09T12:57:00Z"
   },
   {
     "id": "ar-6",
@@ -122,7 +122,7 @@
       "https://airesnuevosnqn.com/portada/2026/07/16/dia-lucha-vecinos-autoconvocados-las-coloradas-9-agosto-2026"
     ],
     "createdAt": "2026-08-09T05:45:58.000Z",
-    "updatedAt": "2026-08-09T12:06:52Z"
+    "updatedAt": "2026-08-09T12:57:00Z"
   },
   {
     "id": "ar-7",
@@ -148,7 +148,7 @@
       "https://fmalpha.com.ar/nuevo-banderazo-por-la-autovia-de-la-ruta-3-vecinos-cuestionan-la-ubicacion-del-futuro-peaje/"
     ],
     "createdAt": "2026-08-09T07:55:42.000Z",
-    "updatedAt": "2026-08-09T12:06:52Z"
+    "updatedAt": "2026-08-09T12:57:00Z"
   },
   {
     "id": "ar-8",
@@ -177,7 +177,7 @@
       "https://www.infocanuelas.com/informacion-general/vecinos-se-movilizan-para-pedir-el-regreso-del-tren-canuelas-lobos"
     ],
     "createdAt": "2026-08-09T07:55:42.000Z",
-    "updatedAt": "2026-08-09T12:06:52Z"
+    "updatedAt": "2026-08-09T12:57:00Z"
   },
   {
     "id": "int-6",
@@ -203,7 +203,7 @@
       "https://www.ambito.com/uruguay/terminal-cuenca-del-plata-paraliza-la-atencion-camiones-el-fin-semana-y-el-conflicto-seguira-abierto-el-lunes-n6308447"
     ],
     "createdAt": "2026-08-09T01:26:03.000Z",
-    "updatedAt": "2026-08-09T12:06:52Z"
+    "updatedAt": "2026-08-09T12:57:00Z"
   },
   {
     "id": "int-7",
@@ -215,10 +215,11 @@
     "lugar": "Ceuta, Plaza de la Constitución",
     "tipoAccion": "Concentración ciudadana",
     "organizaciones": [
-      "Comunidades religiosas de Ceuta (cuatro confesiones)",
-      "UGT Ceuta"
+      "Comunidades religiosas de Ceuta (cristiana, musulmana, hebrea e hindú)",
+      "UGT Ceuta",
+      "CCOO Ceuta"
     ],
-    "motivo": "Concentración ciudadana convocada para este domingo 9 de agosto de 2026 a las 20:00 horas en la Plaza de la Constitución de Ceuta bajo el lema '¡Basta ya! Ceuta no se rinde', impulsada por representantes de las cuatro comunidades religiosas de la ciudad ante la situación excepcional que atraviesa la ciudad. El sindicato UGT Ceuta anunció su adhesión a la movilización y reclama más recursos para que Ceuta recupere la normalidad, el refuerzo de los servicios públicos, la seguridad y el respeto a los derechos humanos, apelando a la unidad y la convivencia entre los ceutíes.",
+    "motivo": "Concentración ciudadana convocada para este domingo 9 de agosto de 2026 a las 20:00 horas en la Plaza de la Constitución de Ceuta bajo el lema '¡Basta ya! Ceuta no se rinde', impulsada por representantes de las cuatro comunidades religiosas de la ciudad (cristiana, musulmana, hebrea e hindú) ante la situación excepcional que atraviesa la ciudad por la reciente crisis migratoria, en la que más de 72.000 personas cruzaron de forma irregular la frontera entre Castillejos (Marruecos) y Ceuta, con 141 muertes registradas y miles de migrantes aún en la ciudad. Durante el acto se dará lectura a un manifiesto conjunto de las cuatro confesiones con las reivindicaciones del pueblo ceutí. El Gobierno de la ciudad, cuyo presidente Juan Vivas hizo un llamamiento a la participación al margen de los partidos políticos, defiende la movilización como un mensaje de unidad, convivencia y defensa de Ceuta, mientras los sindicatos UGT Ceuta y CCOO anunciaron su adhesión y reclaman más recursos, el refuerzo de los servicios públicos, la seguridad y el respeto a los derechos humanos.",
     "status": "en_curso",
     "lat": 35.8894,
     "lng": -5.3211,
@@ -226,33 +227,11 @@
       "https://www.laverdaddeceuta.com/home/noticias/sociedad/noticias-generales/ugt-se-suma-a-la-concentracion-del-domingo-y-reclama-mas-recursos-para-que-ceuta-recupere-la-normalidad",
       "https://www.infobae.com/espana/agencias/2026/08/08/hoy-sera-noticia-domingo-9-de-agosto/",
       "https://elfarodeceuta.es/cuatro-culturas-convocan-concentracion-lema-basta-ya-ceuta-no-se-rinde/",
-      "https://www.religiondigital.org/diocesis/comunidades-religiosas-ceuta-concentraran-lema_1_1462989.html"
+      "https://www.religiondigital.org/diocesis/comunidades-religiosas-ceuta-concentraran-lema_1_1462989.html",
+      "https://www.rtve.es/noticias/20260809/manifestacion-ceuta-comunidades-religiosas/17184921.shtml"
     ],
     "createdAt": "2026-08-09T01:26:03.000Z",
-    "updatedAt": "2026-08-09T12:06:52Z"
-  },
-  {
-    "id": "int-8",
-    "seccion": "internacionales",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "22:00",
-    "fecha": "2026-08-09",
-    "lugar": "Formentera, Islas Baleares",
-    "tipoAccion": "Huelga de servicios de recogida de residuos, limpieza viaria y jardinería",
-    "organizaciones": [
-      "UGT (Unión General de Trabajadores)"
-    ],
-    "motivo": "Comienza este domingo 9 de agosto de 2026 a las 22:00 horas la huelga convocada por UGT en los servicios de recogida de residuos, limpieza viaria, jardinería y punto verde de la isla de Formentera, aprobada por unanimidad por la plantilla ante el bloqueo de la negociación del convenio y el incumplimiento de los acuerdos de 2024. El calendario de paros es intermitente hasta el 31 de agosto (9 al 11, 13 al 16, 19 al 23 y 26 al 31), concentrándose en fines de semana y jornadas de máxima actividad turística. UGT denuncia la propuesta de la empresa PreZero de subida salarial del 0% entre 2026 y 2030 y la deuda del Consell Insular de Formentera con las partidas comprometidas para 2024 y 2025, que según el sindicato impediría a la empresa asumir mejoras salariales y podría derivar en una reducción salarial del 8,5%, afectando a más de 55 familias.",
-    "status": "en_curso",
-    "lat": 38.7064,
-    "lng": 1.4424,
-    "fuentes": [
-      "https://www.noudiari.es/local-ibiza/formentera-sin-recogida-de-basura-en-pleno-agosto-por-un-conflicto-salarial/",
-      "https://www.diariodeibiza.es/formentera/2026/07/29/formentera-huelga-basuras-limpieza-comenzara-132909261.html"
-    ],
-    "createdAt": "2026-08-09T01:26:03.000Z",
-    "updatedAt": "2026-08-09T12:06:52Z"
+    "updatedAt": "2026-08-09T12:57:00Z"
   },
   {
     "id": "int-9",
@@ -274,7 +253,7 @@
       "https://www.ambienteweb.org/2026/08/05/aviano-pn-9-agosto-via-le-bombe-nucleari-dalla-base-usaf-manifestazione/"
     ],
     "createdAt": "2026-08-09T01:26:03.000Z",
-    "updatedAt": "2026-08-09T12:06:52Z"
+    "updatedAt": "2026-08-09T12:57:00Z"
   },
   {
     "id": "int-10",
@@ -300,7 +279,7 @@
       "https://meridadigital.mx/2026/08/02/comunidades-mayas-de-yucatan-convocan-a-marcha-este-9-de-agosto-para-defender-sus-territorios/"
     ],
     "createdAt": "2026-08-09T01:26:03.000Z",
-    "updatedAt": "2026-08-09T12:06:52Z"
+    "updatedAt": "2026-08-09T12:57:00Z"
   },
   {
     "id": "int-11",
@@ -326,7 +305,7 @@
       "https://www.instagram.com/iranians4peacejustice/p/Dbgh7Okz8zw/"
     ],
     "createdAt": "2026-08-09T01:26:03.000Z",
-    "updatedAt": "2026-08-09T12:06:52Z"
+    "updatedAt": "2026-08-09T12:57:00Z"
   },
   {
     "id": "int-12",
@@ -348,7 +327,7 @@
       "https://allevents.in/palmerston-north/palmerston-north-rally-for-palestine/200030516811852"
     ],
     "createdAt": "2026-08-09T01:26:03.000Z",
-    "updatedAt": "2026-08-09T12:06:52Z"
+    "updatedAt": "2026-08-09T12:57:00Z"
   },
   {
     "id": "int-13",
@@ -370,7 +349,7 @@
       "https://www.jamestownpress.com/articles/peace-organization-to-host-protest-against-nuclear-weapons-sunday/"
     ],
     "createdAt": "2026-08-09T01:26:03.000Z",
-    "updatedAt": "2026-08-09T12:06:52Z"
+    "updatedAt": "2026-08-09T12:57:00Z"
   },
   {
     "id": "int-14",
@@ -392,7 +371,7 @@
       "https://www.indivisible-roseville-ca.org/new-events/folsom-ice-protest-1-k39d4-xgyhc-s7yt9-rkedb-eyk5x-wp3sc-wbm9e-e7t58-mcrcm-byr8r-p6mwb-kw8wl-f4mb7-66lrc-s2r2z-bkrkk-wbmzp-sap7p-j5et2-s6f82-bhatm"
     ],
     "createdAt": "2026-08-09T01:26:03.000Z",
-    "updatedAt": "2026-08-09T12:06:52Z"
+    "updatedAt": "2026-08-09T12:57:00Z"
   },
   {
     "id": "int-15",
@@ -414,7 +393,7 @@
       "https://animalrightscalendar.com/events/wtf-vienna-austria-ban-horse-drawn-carriage-august-9th-2026-6a57badaa9d79495487399d0"
     ],
     "createdAt": "2026-08-09T01:26:03.000Z",
-    "updatedAt": "2026-08-09T12:06:52Z"
+    "updatedAt": "2026-08-09T12:57:00Z"
   },
   {
     "id": "int-16",
@@ -431,7 +410,7 @@
       "All India Students' Association (AISA)",
       "All India Students' Federation (AISF)"
     ],
-    "motivo": "Este domingo 9 de agosto de 2026 continúa por 16º día consecutivo en Ranchi (Jharkhand) la protesta estudiantil contra las presuntas irregularidades en los exámenes de reclutamiento de la JPSC (Comisión de Servicio Público de Jharkhand) y la JSSC. Los manifestantes, concentrados en el estadio Jaipal Singh Munda con varios estudiantes en huelga de hambre indefinida, exigen la anulación del 14º examen preliminar de la JPSC y de las pruebas de la TDPL, una investigación independiente (CBI o un panel de jueces retirados de tribunales superiores ajenos al estado) y reformas integrales de ambas comisiones. Este domingo 9 de agosto se celebró la sexta ronda de conversaciones entre los estudiantes y el Gobierno en el Ranchi state guest house, sin avances concretos, y los manifestantes mantienen la amenaza de una marcha y 'gherao' (asedio) de la Asamblea Legislativa para el lunes 10 de agosto.",
+    "motivo": "Este domingo 9 de agosto de 2026 continúa por 16º día consecutivo en Ranchi (Jharkhand) la protesta estudiantil contra las presuntas irregularidades en los exámenes de reclutamiento de la JPSC (Comisión de Servicio Público de Jharkhand) y la JSSC. Los manifestantes, concentrados en el estadio Jaipal Singh Munda con varios estudiantes en huelga de hambre indefinida, exigen la anulación del 14º examen preliminar de la JPSC y de las pruebas de la TDPL, una investigación independiente (CBI o un panel de jueces retirados de tribunales superiores ajenos al estado) y reformas integrales de ambas comisiones. Este domingo 9 de agosto se celebró una nueva ronda de conversaciones entre la delegación estudiantil y el Gobierno (prevista para las 12:00 en la guest house de Ranchi), sin avances concretos; el actor y cantante Piyush Mishra se sumó a la agitación para apoyar a los manifestantes, y los aspirantes mantienen la amenaza de una marcha y 'gherao' (asedio) de la Asamblea Legislativa para el lunes 10 de agosto si sus demandas no son atendidas.",
     "status": "en_curso",
     "lat": 23.3441,
     "lng": 85.3096,
@@ -444,10 +423,11 @@
       "https://www.newindianexpress.com/india/2026/Aug/07/no-breakthrough-in-first-talks-jharkhand-students-continue-jpsc-protest",
       "https://www.france24.com/en/live-news/20260808-india-s-cockroach-protest-movement-keeps-heat-on-modi",
       "https://indianexpress.com/article/india/today-india-breaking-news-live-updates-9-august-2026-maharashtra-milk-price-hike-jharkhand-protest-upi-fee-h1b-10824519/",
-      "https://www.thehindu.com/news/national/jharkhand/jharkhand-student-protest-jpsc-jssc-aspirants-demonstration-jmm-hemant-soren-ranchi-live-updates-august-9-2026/article71323953.ece"
+      "https://www.thehindu.com/news/national/jharkhand/jharkhand-student-protest-jpsc-jssc-aspirants-demonstration-jmm-hemant-soren-ranchi-live-updates-august-9-2026/article71323953.ece",
+      "https://www.outlookindia.com/art-entertainment/jharkhand-jpsc-jssc-protest-piyush-mishra-extends-his-support-to-job-aspirants-sings-aarambh-hai-prachand"
     ],
     "createdAt": "2026-08-09T03:15:52.000Z",
-    "updatedAt": "2026-08-09T12:06:52Z"
+    "updatedAt": "2026-08-09T12:57:00Z"
   },
   {
     "id": "int-17",
@@ -477,7 +457,7 @@
       "https://www.newindianexpress.com/states/karnataka/2026/Aug/08/bidadi-township-plan-unconstitutional-gbda-unlawful-justice-gopala-gowda-panel"
     ],
     "createdAt": "2026-08-09T03:15:52.000Z",
-    "updatedAt": "2026-08-09T12:06:52Z"
+    "updatedAt": "2026-08-09T12:57:00Z"
   },
   {
     "id": "int-19",
@@ -499,7 +479,7 @@
       "https://greenvilledemocrats.com/event/mauldin-gateway-bridge-protest/2026-08-09/"
     ],
     "createdAt": "2026-08-09T03:15:52.000Z",
-    "updatedAt": "2026-08-09T12:06:52Z"
+    "updatedAt": "2026-08-09T12:57:00Z"
   },
   {
     "id": "int-20",
@@ -522,7 +502,7 @@
       "https://lwvspa.org/event/vigil-for-immigrant-justice-3/2026-08-09/"
     ],
     "createdAt": "2026-08-09T03:15:52.000Z",
-    "updatedAt": "2026-08-09T12:06:52Z"
+    "updatedAt": "2026-08-09T12:57:00Z"
   },
   {
     "id": "int-21",
@@ -544,7 +524,7 @@
       "https://animalrightscalendar.com/events/protest-horseracing-deaths-at-laurel-park-6a68f128a9d794954848ed8b"
     ],
     "createdAt": "2026-08-09T03:15:52.000Z",
-    "updatedAt": "2026-08-09T12:06:52Z"
+    "updatedAt": "2026-08-09T12:57:00Z"
   },
   {
     "id": "int-23",
@@ -569,7 +549,7 @@
       "https://rachelcorriefoundation.org/event/a-mass-gathering-stand-with-life-and-against-nuclear-weapons-in-puget-sound"
     ],
     "createdAt": "2026-08-09T03:15:52.000Z",
-    "updatedAt": "2026-08-09T12:06:52Z"
+    "updatedAt": "2026-08-09T12:57:00Z"
   },
   {
     "id": "int-24",
@@ -593,7 +573,7 @@
       "https://happeningnext.com/event/community-rally-for-a-data-centre-moratorium-eid3a0dwbi39x"
     ],
     "createdAt": "2026-08-09T03:15:52.000Z",
-    "updatedAt": "2026-08-09T12:06:52Z"
+    "updatedAt": "2026-08-09T12:57:00Z"
   },
   {
     "id": "int-25",
@@ -615,7 +595,7 @@
       "https://allevents.in/osaka/cube-of-truth-osaka-august-9th-16-30/200030487026024"
     ],
     "createdAt": "2026-08-09T03:15:52.000Z",
-    "updatedAt": "2026-08-09T12:06:52Z"
+    "updatedAt": "2026-08-09T12:57:00Z"
   },
   {
     "id": "int-27",
@@ -641,7 +621,7 @@
       "https://x.com/INCRakeshMulund/status/2085567012361900234"
     ],
     "createdAt": "2026-08-09T04:45:41.000Z",
-    "updatedAt": "2026-08-09T12:06:52Z"
+    "updatedAt": "2026-08-09T12:57:00Z"
   },
   {
     "id": "int-28",
@@ -667,7 +647,7 @@
       "https://www.bbc.com/news/articles/czxekn33d5wo"
     ],
     "createdAt": "2026-08-09T05:43:56.000Z",
-    "updatedAt": "2026-08-09T12:06:52Z"
+    "updatedAt": "2026-08-09T12:57:00Z"
   },
   {
     "id": "int-29",
@@ -689,7 +669,7 @@
       "https://www.scottishpsc.org.uk/event/festival-of-resistance/"
     ],
     "createdAt": "2026-08-09T05:43:56.000Z",
-    "updatedAt": "2026-08-09T12:06:52Z"
+    "updatedAt": "2026-08-09T12:57:00Z"
   },
   {
     "id": "int-31",
@@ -712,7 +692,7 @@
       "https://www.nippon.com/en/news/yjj2026080900094/"
     ],
     "createdAt": "2026-08-09T06:51:46.000Z",
-    "updatedAt": "2026-08-09T12:06:52Z"
+    "updatedAt": "2026-08-09T12:57:00Z"
   },
   {
     "id": "int-32",
@@ -737,31 +717,7 @@
       "https://www.londoncnd.org/events/2026/8/9/nagasaki-day-2026"
     ],
     "createdAt": "2026-08-09T06:51:46.000Z",
-    "updatedAt": "2026-08-09T12:06:52Z"
-  },
-  {
-    "id": "int-33",
-    "seccion": "internacionales",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "00:00",
-    "fecha": "2026-08-09",
-    "lugar": "Francia: bases de EasyJet en París (Orly y Charles de Gaulle), Lyon y Niza",
-    "tipoAccion": "Huelga de tripulantes de cabina de EasyJet en Francia (del 7 de agosto al 2 de septiembre)",
-    "organizaciones": [
-      "SNPNC-FO",
-      "UNAC-CFE-CGC",
-      "UNPNC-CFDT"
-    ],
-    "motivo": "Continúa este domingo 9 de agosto de 2026 la huelga de los tripulantes de cabina de EasyJet en Francia, convocada por los sindicatos SNPNC-FO, UNAC-CFE-CGC y UNPNC-CFDT del 7 de agosto al 2 de septiembre (27 días, el paro encadenado más largo de la aerolínea en Francia en cinco años) por la degradación continua de las condiciones laborales: denuncian inestabilidad crónica de horarios, cambios de última hora y rotaciones penalizantes sin respuesta de la dirección. El paro, en plena temporada alta, amenaza con retrasos y cancelaciones en las rutas que conectan Francia con España (Barcelona, Madrid, Palma, Málaga, Alicante) y afecta a las bases de París, Lyon y Niza, mientras la empresa no ha detallado servicios mínimos.",
-    "status": "en_curso",
-    "lat": 48.8566,
-    "lng": 2.3522,
-    "fuentes": [
-      "https://www.merca2.es/2026/08/06/huelga-easyjet-agosto-francia-2431619/"
-    ],
-    "createdAt": "2026-08-09T06:51:46.000Z",
-    "updatedAt": "2026-08-09T12:06:52Z"
+    "updatedAt": "2026-08-09T12:57:00Z"
   },
   {
     "id": "int-35",
@@ -787,7 +743,7 @@
       "https://www.europapress.es/asturias/noticia-manifestacion-antitaurina-recorrera-calles-gijon-16-agosto-coincidiendo-feria-begona-20260713202939.html"
     ],
     "createdAt": "2026-08-09T07:51:50.000Z",
-    "updatedAt": "2026-08-09T12:06:52Z"
+    "updatedAt": "2026-08-09T12:57:00Z"
   },
   {
     "id": "int-36",
@@ -817,7 +773,7 @@
       "https://sc-janus.de/koelner-queer-march/"
     ],
     "createdAt": "2026-08-09T07:51:50.000Z",
-    "updatedAt": "2026-08-09T12:06:52Z"
+    "updatedAt": "2026-08-09T12:57:00Z"
   },
   {
     "id": "int-37",
@@ -843,7 +799,7 @@
       "https://www.abendblatt.de/schleswig-holstein/pinneberg/article412779126/81-jahre-nach-hiroshima-friedenswerkstatt-wedel-ruft-zur-mahnwache-auf.html"
     ],
     "createdAt": "2026-08-09T07:51:50.000Z",
-    "updatedAt": "2026-08-09T12:06:52Z"
+    "updatedAt": "2026-08-09T12:57:00Z"
   },
   {
     "id": "int-38",
@@ -868,7 +824,7 @@
       "https://rp-online.de/nrw/staedte/nettetal/hiroshima-gedenken-in-nettetal-breyell-am-9-august_aid-152269643"
     ],
     "createdAt": "2026-08-09T07:51:50.000Z",
-    "updatedAt": "2026-08-09T12:06:52Z"
+    "updatedAt": "2026-08-09T12:57:00Z"
   },
   {
     "id": "int-39",
@@ -892,7 +848,7 @@
       "https://evanstonroundtable.com/2026/08/02/chicago-area-peace-action-to-screen-an-ordinary-insanity-at-evanston-public-library-on-aug-9/"
     ],
     "createdAt": "2026-08-09T07:51:50.000Z",
-    "updatedAt": "2026-08-09T12:06:52Z"
+    "updatedAt": "2026-08-09T12:57:00Z"
   },
   {
     "id": "int-40",
@@ -915,7 +871,7 @@
       "https://www.meetup.com/portland-changemakers-the-humane-league/"
     ],
     "createdAt": "2026-08-09T07:51:50.000Z",
-    "updatedAt": "2026-08-09T12:06:52Z"
+    "updatedAt": "2026-08-09T12:57:00Z"
   },
   {
     "id": "int-41",
@@ -938,7 +894,7 @@
       "https://commonstreet.org/event/standout-for-peace/2026-08-09/"
     ],
     "createdAt": "2026-08-09T07:51:50.000Z",
-    "updatedAt": "2026-08-09T12:06:52Z"
+    "updatedAt": "2026-08-09T12:57:00Z"
   },
   {
     "id": "int-42",
@@ -960,7 +916,7 @@
       "https://www.eventbrite.co.uk/e/childrens-walk-for-gaza-in-newham-west-ham-park-tickets-1993452729777"
     ],
     "createdAt": "2026-08-09T07:51:50.000Z",
-    "updatedAt": "2026-08-09T12:06:52Z"
+    "updatedAt": "2026-08-09T12:57:00Z"
   },
   {
     "id": "int-43",
@@ -984,7 +940,7 @@
       "https://www.timesofisrael.com/slain-hostages-parents-urge-public-only-back-parties-vowing-state-oct-7-probe/"
     ],
     "createdAt": "2026-08-09T08:38:34.000Z",
-    "updatedAt": "2026-08-09T12:06:52Z"
+    "updatedAt": "2026-08-09T12:57:00Z"
   },
   {
     "id": "int-44",
@@ -1008,7 +964,7 @@
       "https://www.city.nagasaki.lg.jp/page/81947.html"
     ],
     "createdAt": "2026-08-09T08:38:34.000Z",
-    "updatedAt": "2026-08-09T12:06:52Z"
+    "updatedAt": "2026-08-09T12:57:00Z"
   },
   {
     "id": "int-45",
@@ -1031,7 +987,7 @@
       "https://www.mobilize.us/collindemocrats/event/825071/"
     ],
     "createdAt": "2026-08-09T08:38:34.000Z",
-    "updatedAt": "2026-08-09T12:06:52Z"
+    "updatedAt": "2026-08-09T12:57:00Z"
   },
   {
     "id": "int-46",
@@ -1053,7 +1009,7 @@
       "https://oazis.app/de/event/compassionate-resistance-against-policies-of-ice-and-maga-sacramento-2026-08-09"
     ],
     "createdAt": "2026-08-09T08:38:34.000Z",
-    "updatedAt": "2026-08-09T12:06:52Z"
+    "updatedAt": "2026-08-09T12:57:00Z"
   },
   {
     "id": "int-47",
@@ -1075,7 +1031,7 @@
       "https://coloradotimesrecorder.com/2026/08/in-the-streets-peoples-hearing-on-the-hudson-ice-detention-center-and-other-political-events/80800/"
     ],
     "createdAt": "2026-08-09T08:38:34.000Z",
-    "updatedAt": "2026-08-09T12:06:52Z"
+    "updatedAt": "2026-08-09T12:57:00Z"
   },
   {
     "id": "int-48",
@@ -1103,7 +1059,7 @@
       "https://theazb.com/transporters-strike-400000-vehicles-pakistan-supply-chain/"
     ],
     "createdAt": "2026-08-09T10:31:02.000Z",
-    "updatedAt": "2026-08-09T12:06:52Z"
+    "updatedAt": "2026-08-09T12:57:00Z"
   },
   {
     "id": "int-49",
@@ -1131,7 +1087,7 @@
       "https://www.thetraveler.org/strike-chaos-sees-thousands-of-flight-delays-across-europe/"
     ],
     "createdAt": "2026-08-09T10:31:02.000Z",
-    "updatedAt": "2026-08-09T12:06:52Z"
+    "updatedAt": "2026-08-09T12:57:00Z"
   },
   {
     "id": "int-50",
@@ -1153,7 +1109,7 @@
       "https://www.ouest-france.fr/normandie/granville-50400/le-jeune-contre-la-bombe-h-prendra-fin-dimanche-9-aout-au-bariole-de-granville-bf5cd436-9262-11f1-8cd4-b1e73f23a235"
     ],
     "createdAt": "2026-08-09T10:31:02.000Z",
-    "updatedAt": "2026-08-09T12:06:52Z"
+    "updatedAt": "2026-08-09T12:57:00Z"
   },
   {
     "id": "int-51",
@@ -1175,7 +1131,7 @@
       "https://cnduk.org/events/hiroshima-and-nagasaki-remembered-nottingham-nagasaki-day/"
     ],
     "createdAt": "2026-08-09T11:25:51.000Z",
-    "updatedAt": "2026-08-09T12:06:52Z"
+    "updatedAt": "2026-08-09T12:57:00Z"
   },
   {
     "id": "int-52",
@@ -1201,6 +1157,86 @@
       "https://www.theonlinekenyan.com/daily/2026-08-07/nurses-continue-strike-despite-court-order-as-health-workers-protest"
     ],
     "createdAt": "2026-08-09T11:54:51.000Z",
-    "updatedAt": "2026-08-09T12:06:52Z"
+    "updatedAt": "2026-08-09T12:57:00Z"
+  },
+  {
+    "id": "int-53",
+    "seccion": "internacionales",
+    "pais": "India",
+    "bandera": "🇮🇳",
+    "hora": "09:00",
+    "fecha": "2026-08-09",
+    "lugar": "Maharashtra: ruta nacional Pune-Nashik en Chakan (Talegaon Chowk), Narayangaon (Bus Stand Chowk) y Gonde Phata (Sinnar)",
+    "tipoAccion": "Rasta roko / chakka jam (bloqueo de rutas) multipartidario en el Kranti Din, con choques con la policía y detenciones",
+    "organizaciones": [
+      "Sinnar Taluka Railway Action Committee (Baban Waje, presidente)",
+      "MLC Satyajeet Tambe (líder de la agitación)",
+      "MLA Babaji Kale (Khed)",
+      "MP Rajabhau Waje",
+      "Líderes y organizaciones de todos los partidos de Pune y Nashik"
+    ],
+    "motivo": "Miles de manifestantes bloquearon este domingo 9 de agosto de 2026, con motivo del Kranti Din (aniversario del Movimiento Quit India de 1942), la ruta nacional Pune-Nashik en Chakan, Narayangaon y Gonde Phata para exigir la restauración del trazado original del proyecto de tren semirrápido Pune-Nashik (Pune, Chakan, Rajgurunagar, Manchar, Narayangaon, Ale Phata, Sangamner, Sinnar y Nashik), que el Ministerio de Ferrocarriles modificó para desviarlo por Ahilyanagar y Shirdi ante las supuestas interferencias con el radiotelescopio GMRT de Narayangaon. En Chakan se produjeron forcejeos entre la policía y los manifestantes que intentaron entrar en la autopista, con varios activistas detenidos, y en Gonde Phata el MLC Satyajeet Tambe y el MP Rajabhau Waje lideraron el bloqueo y fueron detenidos brevemente. Los manifestantes reclaman que la comisión de expertos presidida por Anil Kakodkar se pronuncie en un plazo de 60 días y rechazan cualquier modificación del trazado, al que consideran clave para el desarrollo y la conectividad de la región.",
+    "status": "en_curso",
+    "lat": 18.7594,
+    "lng": 73.8581,
+    "fuentes": [
+      "https://www.freepressjournal.in/pune/restore-original-route-thousands-hit-streets-across-pune-nashik-police-detain-protesters",
+      "https://punemirror.com/news/chaos-on-pune-nashik-highway-as-chakka-jam-protest-turns-tense-police-and-protesters-clash/",
+      "https://swadesi.com/news/traffic-on-nashik-pune-highway-disrupted-amid-protests-against-revised-mslpmfc8",
+      "https://www.freepressjournal.in/pune/nashik-august-9-rasta-roko-planned-to-press-for-direct-nashikpune-railway-line"
+    ],
+    "createdAt": "2026-08-09T12:42:56.000Z",
+    "updatedAt": "2026-08-09T12:57:00Z"
+  },
+  {
+    "id": "int-54",
+    "seccion": "internacionales",
+    "pais": "España",
+    "bandera": "🇪🇸",
+    "hora": "00:00",
+    "fecha": "2026-08-09",
+    "lugar": "Barcelona: zonas azul, verde y reservada del estacionamiento regulado (sistema AREA, gestionado por Barcelona Serveis Municipals - BSM)",
+    "tipoAccion": "Huelga de los trabajadores del estacionamiento regulado (AREA) todos los sábados y domingos, desde el 8 de agosto hasta el 16 de enero de 2027",
+    "organizaciones": [
+      "CCOO (Comisiones Obreras) - Sección Sindical en BSM"
+    ],
+    "motivo": "Huelga convocada por la sección sindical de CCOO en BSM que afecta al personal de la Unidad del AREA (estacionamiento regulado) de Barcelona, en vigor durante las 24 horas de todos los sábados y domingos desde el 8 de agosto de 2026 hasta el 16 de enero de 2027, por lo que alcanza también a este domingo 9 de agosto. El paro cubre las plazas de zona azul, zona verde, residentes, carga y descarga, motos y autocares. CCOO denuncia que la empresa no ha devuelto los descuentos salariales aplicados a trabajadores que participaron en huelgas anteriores convocadas en domingos y festivos, tras una sentencia judicial que declaró injustificada la modificación de condiciones de trabajo impuesta en 2023, y no suscribió el nuevo convenio colectivo 2026-2029 aprobado por otros sindicatos (UGT, SIA y CGT, que representan a alrededor del 70% de la plantilla), acusando a la dirección de 'mala fe negociadora'. Durante la huelga no se emiten tiques ni se sanciona en las zonas afectadas.",
+    "status": "en_curso",
+    "lat": 41.3874,
+    "lng": 2.1686,
+    "fuentes": [
+      "https://www.elperiodico.com/es/barcelona/20260808/ccoo-convoca-huelga-personal-servicio-aparcamiento-barcelona-133065096",
+      "https://es.ccoo.cat/fsc/noticies/ccoo-convoca-vaga-a-lestacionament-regulat-tots-els-dissabtes-des-del-8-dagost/",
+      "https://diaricatalunya.cat/es/barcelones/general/huelga-en-la-zona-azul-y-verde-de-barcelona",
+      "https://laciutat.cat/es/laciutatdebarcelona/aparcamiento-regulado-gratis-fin-semana-en-barcelona-trabajadores-bsm-inician-huelga-8-agosto_897928_102.html",
+      "https://www.larazon.es/cataluna/control-zona-verde-azul-aparcamiento-barcelona-todos-sabados-enero-2027-hoy-empieza-huelga-vigilantes_202608086a76a9d9a046ad6ebca4ffc5.html"
+    ],
+    "createdAt": "2026-08-09T12:42:56.000Z",
+    "updatedAt": "2026-08-09T12:57:00Z"
+  },
+  {
+    "id": "int-55",
+    "seccion": "internacionales",
+    "pais": "México",
+    "bandera": "🇲🇽",
+    "hora": "09:00",
+    "fecha": "2026-08-09",
+    "lugar": "Ciudad de México: del Ángel de la Independencia por Paseo de la Reforma, Avenida Juárez, Eje Central y Venustiano Carranza hasta la Suprema Corte de Justicia de la Nación",
+    "tipoAccion": "Marcha-protesta de pueblos indígenas (17ª Megacalenda) por el Día Internacional de los Pueblos Indígenas",
+    "organizaciones": [
+      "Movimiento de Pueblos, Comunidades y Organizaciones Indígenas de la CDMX (MPCOI)",
+      "Contingentes purépechas, triquis, nahuas, mixtecos, mixes, zapotecos, mazatecos, mazahuas, otomíes, tlapanecos y totonacos"
+    ],
+    "motivo": "En el marco del Día Internacional de los Pueblos Indígenas, el Movimiento de Pueblos, Comunidades y Organizaciones Indígenas (MPCOI) realiza este domingo 9 de agosto de 2026 la 17ª edición de la Megacalenda, una marcha que parte a las 09:00 horas del Ángel de la Independencia y avanza por Paseo de la Reforma, Avenida Juárez, Eje Central y Venustiano Carranza hasta la Suprema Corte de Justicia de la Nación, con música, danza, poesía y trajes tradicionales. Los organizadores subrayan que la Megacalenda es 'no de fiesta, sino de protesta': exigen vivienda digna con pertinencia cultural para los pueblos indígenas residentes en la ciudad, el pago inmediato de los adeudos a los traductores indígenas por parte de la Fiscalía General de Justicia de la CDMX y un mayor presupuesto anual para los sujetos de derecho indígenas, además de visibilizar su presencia en la capital.",
+    "status": "en_curso",
+    "lat": 19.4326,
+    "lng": -99.1332,
+    "fuentes": [
+      "https://comunicadores.mx/2026/08/05/megacalenda-indigena-llegara-a-la-cdmx-con-musica-danza-y-exigencias-sociales/",
+      "https://informativodequeretaro.com/pluralismo-juridico-interculturalidad-y-protesta-seran-tambien-objetivos-de-la-megalenda-numero-17-en-la-cdmx/",
+      "https://www.nmas.com.mx/ciudad-de-mexico/sociedad/que-evento-hay-zocalo-cdmx-hoy-sabado-8-domingo-9-de-agosto-2026-horario-actividades/"
+    ],
+    "createdAt": "2026-08-09T12:42:56.000Z",
+    "updatedAt": "2026-08-09T12:57:00Z"
   }
 ]
