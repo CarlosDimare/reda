@@ -23,7 +23,7 @@
       "https://www.infofueguina.com/tu-ciudad/2026/8/12/empleados-judiciales-profundizan-plan-de-lucha-con-un-paro-de-36-horas-en-la-provincia-89336.html"
     ],
     "createdAt": "2026-08-12T05:56:56.000Z",
-    "updatedAt": "2026-08-13T14:48:18Z"
+    "updatedAt": "2026-08-13T16:05:32Z"
   },
   {
     "id": "ar-4",
@@ -57,7 +57,7 @@
       "https://sutef.org/13-08-continua-el-paro-docente-por-tiempo-indeterminado-en-tierra-del-fuego-aeias/"
     ],
     "createdAt": "2026-08-08T04:38:04.000Z",
-    "updatedAt": "2026-08-13T14:48:18Z"
+    "updatedAt": "2026-08-13T16:05:32Z"
   },
   {
     "id": "ar-11",
@@ -85,7 +85,7 @@
       "https://www.diariocontexto.com.ar/universidades-y-cientificos-unifican-el-reclamo-con-paros-y-movilizaciones-en-todo-el-pais/"
     ],
     "createdAt": "2026-08-13T03:09:28.000Z",
-    "updatedAt": "2026-08-13T14:48:18Z"
+    "updatedAt": "2026-08-13T16:05:32Z"
   },
   {
     "id": "ar-12",
@@ -108,7 +108,31 @@
       "https://grupolaprovincia.com/amp/600554/paro-marcha-y-asambleas-dos-sectores-docentes-sostienen-la-protesta-en-la-provincia/"
     ],
     "createdAt": "2026-08-13T11:02:24.000Z",
-    "updatedAt": "2026-08-13T14:48:18Z"
+    "updatedAt": "2026-08-13T16:05:32Z"
+  },
+  {
+    "id": "ar-13",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "10:00",
+    "fecha": "2026-08-13",
+    "lugar": "Río Gallegos (Santa Cruz): movilización de los trabajadores municipales por el centro de la ciudad, con entrega de tres petitorios ante el Tribunal Superior de Justicia, la Casa de Gobierno (Poder Ejecutivo provincial) y la Cámara de Diputados",
+    "tipoAccion": "Movilización de los trabajadores municipales de Río Gallegos, encabezada por el intendente Pablo Grasso, en defensa de los recursos y de la autonomía municipal frente a la retención de fondos de coparticipación por el Gobierno provincial",
+    "organizaciones": [
+      "Trabajadores municipales de Río Gallegos",
+      "Municipalidad de Río Gallegos (intendente Pablo Grasso)"
+    ],
+    "motivo": "Este jueves 13 de agosto de 2026, en horas de la mañana, los trabajadores municipales de Río Gallegos protagonizan una movilización multitudinaria encabezada por el intendente Pablo Grasso contra la decisión del Gobierno provincial de Claudio Vidal de avanzar sobre la coparticipación que corresponde a la ciudad, en el marco del conflicto político iniciado cuando el intendente se negó a acompañar el endeudamiento en dólares impulsado por el gobernador. Durante la jornada se presentan tres petitorios ante los distintos poderes del Estado provincial: al Tribunal Superior de Justicia, para que determine si es constitucional que la Provincia retenga fondos de la coparticipación municipal; al Poder Ejecutivo en la Casa de Gobierno, para reclamar que no se avance sobre los recursos de Río Gallegos; y a la Cámara de Diputados, para que cese el descuento del 20% de la coparticipación destinado al Fondo de Sustentabilidad de la Caja de Previsión. El Municipio adelantó que no habrá ningún tipo de servicio municipal durante la jornada.",
+    "status": "en_curso",
+    "lat": -51.623,
+    "lng": -69.2168,
+    "fuentes": [
+      "https://labisagranoticias.com/delgado-la-movilizacion-de-manana-es-un-freno-al-odio-del-gobernador-contra-rio-gallegos/",
+      "https://www.tiemposur.com.ar/politica/coparticipacion-grasso-reunio-a-su-equipo-y-llevara-el-reclamo-a-los-trabajadores-municipales"
+    ],
+    "createdAt": "2026-08-13T15:58:47.000Z",
+    "updatedAt": "2026-08-13T16:05:32Z"
   },
   {
     "id": "int-114",
@@ -134,7 +158,7 @@
       "https://www.sindsef-sp.org.br/"
     ],
     "createdAt": "2026-08-11T07:01:54.000Z",
-    "updatedAt": "2026-08-13T14:48:18Z"
+    "updatedAt": "2026-08-13T16:05:32Z"
   },
   {
     "id": "int-126",
@@ -160,7 +184,7 @@
       "https://www.citinewsroom.com/wp-content/uploads/2026/08/Press-Release-Latest-GAUA.pdf"
     ],
     "createdAt": "2026-08-11T09:33:06.000Z",
-    "updatedAt": "2026-08-13T14:48:18Z"
+    "updatedAt": "2026-08-13T16:05:32Z"
   },
   {
     "id": "int-128",
@@ -183,10 +207,11 @@
     "fuentes": [
       "https://www.rfi.fr/fr/france/20260810-france-en-gr%C3%A8ve-les-salari%C3%A9s-du-samu-social-d%C3%A9noncent-des-coupes-drastiques-dans-les-h%C3%A9bergements-d-urgence",
       "https://france3-regions.franceinfo.fr/",
-      "https://www.lemonde.fr/societe/article/2026/08/12/greve-au-samusocial-de-paris-la-prefecture-demande-l-evacuation-du-parvis-apres-cinquante-jours-de-conflit_6745096_3224.html"
+      "https://www.lemonde.fr/societe/article/2026/08/12/greve-au-samusocial-de-paris-la-prefecture-demande-l-evacuation-du-parvis-apres-cinquante-jours-de-conflit_6745096_3224.html",
+      "https://www.leparisien.fr/paris-75/greve-au-samu-social-la-prefecture-demande-levacuation-du-campement-la-cgt-et-utopia-56-sinsurgent-12-08-2026-2NXGP7WFJNE7ZPF32MXODN2NNY.php"
     ],
     "createdAt": "2026-08-11T09:33:06.000Z",
-    "updatedAt": "2026-08-13T14:48:18Z"
+    "updatedAt": "2026-08-13T16:05:32Z"
   },
   {
     "id": "int-146",
@@ -216,7 +241,7 @@
       "https://www.infobae.com/peru/2026/08/12/diesel-llego-a-s24-por-galon-continuan-los-bloqueos-y-paros-de-transporte-en-ucayali-arequipa-y-tacna/"
     ],
     "createdAt": "2026-08-11T18:25:07.000Z",
-    "updatedAt": "2026-08-13T14:48:18Z"
+    "updatedAt": "2026-08-13T16:05:32Z"
   },
   {
     "id": "int-155",
@@ -244,7 +269,7 @@
       "https://www.turkishminute.com/2026/08/10/scores-of-miners-detained-while-protesting-unpaid-wages-outside-turkeys-energy-ministry/"
     ],
     "createdAt": "2026-08-11T20:39:41.000Z",
-    "updatedAt": "2026-08-13T14:48:18Z"
+    "updatedAt": "2026-08-13T16:05:32Z"
   },
   {
     "id": "int-168",
@@ -266,10 +291,11 @@
       "https://en.yna.co.kr/view/AEN20260811008200320",
       "https://en.sedaily.com/society/2026/08/11/hyundai-motor-union-calls-more-strikes-losses-top-18",
       "https://www.chosun.com/english/industry-en/2026/08/11/7ELKS2G7KNEWVK3CLRMWLJCJGA/",
-      "https://www.koreatimes.co.kr/business/companies/20260811/hyundai-motor-workers-to-stage-4-day-partial-strikes-amid-wage-dispute"
+      "https://www.koreatimes.co.kr/business/companies/20260811/hyundai-motor-workers-to-stage-4-day-partial-strikes-amid-wage-dispute",
+      "https://www.koreaherald.com/article/10838879"
     ],
     "createdAt": "2026-08-12T01:42:42.000Z",
-    "updatedAt": "2026-08-13T14:48:18Z"
+    "updatedAt": "2026-08-13T16:05:32Z"
   },
   {
     "id": "int-182",
@@ -292,7 +318,7 @@
       "https://www.counterfire.org/event/london-unite-institute-of-cancer-research-strike-2/"
     ],
     "createdAt": "2026-08-12T04:04:27.000Z",
-    "updatedAt": "2026-08-13T14:48:18Z"
+    "updatedAt": "2026-08-13T16:05:32Z"
   },
   {
     "id": "int-185",
@@ -317,7 +343,7 @@
       "https://elamerica.cl/2026/08/04/por-amplia-mayoria-trabajadores-contratistas-nexxo-que-opera-en-codelco-y-alto-norte-iniciarian-huelga-legal/"
     ],
     "createdAt": "2026-08-12T05:53:49.000Z",
-    "updatedAt": "2026-08-13T14:48:18Z"
+    "updatedAt": "2026-08-13T16:05:32Z"
   },
   {
     "id": "int-192",
@@ -341,7 +367,7 @@
       "https://www.hindustantimes.com/cities/gurugram-news/gurugram-fire-staff-join-mcg-workers-strike-threaten-indefinite-agitation-101786471806267.html"
     ],
     "createdAt": "2026-08-12T22:12:31.000Z",
-    "updatedAt": "2026-08-13T14:48:18Z"
+    "updatedAt": "2026-08-13T16:05:32Z"
   },
   {
     "id": "int-194",
@@ -365,7 +391,7 @@
       "https://www.wsws.org/en/articles/2026/08/08/algq-a08.html"
     ],
     "createdAt": "2026-08-12T23:09:40.000Z",
-    "updatedAt": "2026-08-13T14:48:18Z"
+    "updatedAt": "2026-08-13T16:05:32Z"
   },
   {
     "id": "int-20",
@@ -388,7 +414,7 @@
       "https://www.duic.nl/"
     ],
     "createdAt": "2026-08-10T02:26:10.000Z",
-    "updatedAt": "2026-08-13T14:48:18Z"
+    "updatedAt": "2026-08-13T16:05:32Z"
   },
   {
     "id": "int-21",
@@ -415,7 +441,7 @@
       "https://www.headtopics.com/es/groundforce-barcelona-huelga-indefinida-53283277"
     ],
     "createdAt": "2026-08-10T02:26:10.000Z",
-    "updatedAt": "2026-08-13T14:48:18Z"
+    "updatedAt": "2026-08-13T16:05:32Z"
   },
   {
     "id": "int-23",
@@ -440,10 +466,11 @@
       "https://www.indianexpress.com/article/india/jharkhand-protests-live-updates-jpsc-aspirants-vidhan-sabha-march-ranchi-hemant-soren-10825732/",
       "https://en.wikipedia.org/wiki/2026_Jharkhand_student_protests",
       "https://www.thehindu.com/news/national/jharkhand/jharkhand-protest-live-updates-august-11-2026/article71330994.ece",
-      "https://www.aljazeera.com/news/2026/8/10/protesters-rally-in-indias-jharkhand-over-alleged-exam-irregularities"
+      "https://www.aljazeera.com/news/2026/8/10/protesters-rally-in-indias-jharkhand-over-alleged-exam-irregularities",
+      "https://www.tribuneindia.com/news/india/jharkhand-students-protest-over-job-exam-anomalies-enters-20th-day/"
     ],
     "createdAt": "2026-08-10T04:12:29.000Z",
-    "updatedAt": "2026-08-13T14:48:18Z"
+    "updatedAt": "2026-08-13T16:05:32Z"
   },
   {
     "id": "int-27",
@@ -466,10 +493,11 @@
       "https://www.strikecalendar.co.uk/",
       "https://www.unitetheunion.org/news-events/news/2026/july/thousands-of-child-health-appointments-in-wales-being-missed-as-health-worker-strikes-continue",
       "https://www.nursingtimes.net/workforce/angry-health-visitors-vote-for-another-year-of-strikes-15-07-2026/",
-      "https://www.wsws.org/en/articles/2026/08/06/xwhq-a06.html"
+      "https://www.wsws.org/en/articles/2026/08/06/xwhq-a06.html",
+      "https://www.walesonline.co.uk/news/wales-news/tens-thousands-appointments-missed-health-34400116"
     ],
     "createdAt": "2026-08-10T04:12:29.000Z",
-    "updatedAt": "2026-08-13T14:48:18Z"
+    "updatedAt": "2026-08-13T16:05:32Z"
   },
   {
     "id": "int-44",
@@ -493,7 +521,7 @@
       "https://www.lecourrier.ch/2026/08/10/la-greve-des-services-publics-prend-son-elan/"
     ],
     "createdAt": "2026-08-10T10:19:37.000Z",
-    "updatedAt": "2026-08-13T14:48:18Z"
+    "updatedAt": "2026-08-13T16:05:32Z"
   },
   {
     "id": "int-48",
@@ -518,7 +546,7 @@
       "https://www.virgilio.it/motori/info-utili/scioperi/sciopero-trasporti-10-agosto-2026/341356/"
     ],
     "createdAt": "2026-08-10T11:29:36.000Z",
-    "updatedAt": "2026-08-13T14:48:18Z"
+    "updatedAt": "2026-08-13T16:05:32Z"
   },
   {
     "id": "int-49",
@@ -546,10 +574,11 @@
       "https://www.energyupdate.com.pk/2026/08/11/goods-oil-transporters-strike-continues-as-talks-remain-deadlocked/",
       "https://tribune.com.pk/story/2623381/",
       "https://propakistani.pk/2026/08/07/goods-transporters-announce-nationwide-strike/",
-      "https://www.brecorder.com/news/40434063"
+      "https://www.brecorder.com/news/40434063",
+      "https://tribune.com.pk/story/2623686/petrol-dealers-announce-indefinite-strike-nationwide-from-aug-15-after-talks-with-govt-fail"
     ],
     "createdAt": "2026-08-10T11:29:36.000Z",
-    "updatedAt": "2026-08-13T14:48:18Z"
+    "updatedAt": "2026-08-13T16:05:32Z"
   },
   {
     "id": "int-76",
@@ -573,7 +602,7 @@
       "https://www.ostdeutsche-zeitung.de/berlin/politik/berlin-demonstrationen-mahnwachen-rki-falun-gong-10-august-2026-5409"
     ],
     "createdAt": "2026-08-10T17:51:01.000Z",
-    "updatedAt": "2026-08-13T14:48:18Z"
+    "updatedAt": "2026-08-13T16:05:32Z"
   },
   {
     "id": "int-77",
@@ -596,32 +625,7 @@
       "https://www.readingvigil.net/"
     ],
     "createdAt": "2026-08-10T17:51:01.000Z",
-    "updatedAt": "2026-08-13T14:48:18Z"
-  },
-  {
-    "id": "int-98",
-    "seccion": "internacionales",
-    "pais": "Togo",
-    "bandera": "🇹🇬",
-    "hora": "05:00",
-    "fecha": "2026-08-13",
-    "lugar": "Puerto Autónomo de Lomé",
-    "tipoAccion": "Huelga de 72 horas de los agentes del Puerto Autónomo de Lomé en curso (3.er y último día; del 11 a las 05:00 al 13 de agosto a las 23:59)",
-    "organizaciones": [
-      "SYAPAL (Syndicat des Agents du Port Autonome de Lomé)"
-    ],
-    "motivo": "Este jueves 13 de agosto de 2026, tercer y último día, continúa la huelga de 72 horas convocada por el SYAPAL en el Puerto Autónomo de Lomé, que se extiende del 11 de agosto a las 05:00 hasta el jueves 13 a las 23:59 e interrumpe la actividad del principal puerto de Togo. El sindicato denuncia un 'simulacro de diálogo social' por parte de la dirección general y la falta de respuesta oficial a sus 12 puntos de reivindicaciones, y anunció acciones judiciales por la violación del estatuto particular del personal de 1976.",
-    "status": "en_curso",
-    "lat": 6.1329,
-    "lng": 1.2175,
-    "fuentes": [
-      "https://actu-togo.tg/2026/07/30/togo-port-autonome-de-lome-le-syapal-annonce-une-nouvelle-greve-du-11-au-13-aout/",
-      "https://beninwebtv.com/en/togo-a-72-hour-strike-disrupts-activities-at-the-autonomous-port-of-lome/",
-      "https://icilome.com/2026/07/togo-le-syapal-annonce-une-nouvelle-greve-de-72-heures/",
-      "https://www.lechiquier.info/le-syapal-depose-un-preavis-de-greve-de-72-heures-et-annonce-une-action-en-justice"
-    ],
-    "createdAt": "2026-08-11T05:51:28.000Z",
-    "updatedAt": "2026-08-13T14:48:18Z"
+    "updatedAt": "2026-08-13T16:05:32Z"
   },
   {
     "id": "int-201",
@@ -647,7 +651,7 @@
       "https://www.facebook.com/Tromepe/posts/atenci%C3%B3nla-cgtp-saldr%C3%A1-a-las-calles-este-jueves-13-de-agosto-para-pedir-l%C3%ADmites-"
     ],
     "createdAt": "2026-08-13T00:06:15.000Z",
-    "updatedAt": "2026-08-13T14:48:18Z"
+    "updatedAt": "2026-08-13T16:05:32Z"
   },
   {
     "id": "int-202",
@@ -671,10 +675,12 @@
       "https://www.lunion.fr/id821878/article/2026-08-10/pourquoi-les-pompiers-appellent-la-greve-ce-jeudi-13-aout",
       "https://www.cnews.fr/france/2026-08-13/moyens-recrutements-mis-rude-epreuve-avec-les-incendies-les-pompiers-appeles",
       "https://actu.fr/societe/l-etat-nous-abandonne-greve-des-pompiers-ce-jeudi-13-aout-un-avertissement-et-un-detonateur-face-au-ras-le-bol_64654280.html",
-      "https://www.ouest-france.fr/societe/pompiers/une-colere-generalisee-les-syndicats-de-pompiers-appellent-a-la-greve-jeudi-13-aout-1690d5bc-9598-11f1-94bc-dfc0bf6dce3d"
+      "https://www.ouest-france.fr/societe/pompiers/une-colere-generalisee-les-syndicats-de-pompiers-appellent-a-la-greve-jeudi-13-aout-1690d5bc-9598-11f1-94bc-dfc0bf6dce3d",
+      "https://www.cfdtsdis.fr/greve-nationale-sdis-13-aout-2026/",
+      "https://www.lefigaro.fr/actualite-france/on-nous-demande-l-impossible-au-coeur-d-un-ete-tragique-les-sapeurs-pompiers-professionnels-se-mobilisent-pour-reclamer-des-moyens-20260812"
     ],
     "createdAt": "2026-08-13T00:06:15.000Z",
-    "updatedAt": "2026-08-13T14:48:18Z"
+    "updatedAt": "2026-08-13T16:05:32Z"
   },
   {
     "id": "int-203",
@@ -696,7 +702,7 @@
       "https://scioperi.mit.gov.it/mit2/public/scioperi"
     ],
     "createdAt": "2026-08-13T00:06:15.000Z",
-    "updatedAt": "2026-08-13T14:48:18Z"
+    "updatedAt": "2026-08-13T16:05:32Z"
   },
   {
     "id": "int-204",
@@ -720,7 +726,7 @@
       "https://quifinanza.it/info-utili/scioperi/scioperi-10-16-agosto-2026/1011522/"
     ],
     "createdAt": "2026-08-13T00:06:15.000Z",
-    "updatedAt": "2026-08-13T14:48:18Z"
+    "updatedAt": "2026-08-13T16:05:32Z"
   },
   {
     "id": "int-205",
@@ -742,7 +748,7 @@
       "https://www.cgtp.pt/accao-e-luta/22715-enfermeiros-do-montepio-rainha-dona-leonor-caldas-da-rainha-em-greve"
     ],
     "createdAt": "2026-08-13T00:06:15.000Z",
-    "updatedAt": "2026-08-13T14:48:18Z"
+    "updatedAt": "2026-08-13T16:05:32Z"
   },
   {
     "id": "int-207",
@@ -764,7 +770,7 @@
       "https://www.rightsforum.org/nl/agenda/"
     ],
     "createdAt": "2026-08-13T00:06:15.000Z",
-    "updatedAt": "2026-08-13T14:48:18Z"
+    "updatedAt": "2026-08-13T16:05:32Z"
   },
   {
     "id": "int-208",
@@ -787,10 +793,12 @@
       "https://www.thehindu.com/news/national/karnataka/karnataka-bandh-august-13-2026-cauvery-water-dispute-what-is-open-what-services-are-closed-check-full-list/article71335357.ece",
       "https://www.deccanherald.com/india/karnataka/karnataka-bandh-on-august-13-will-go-ahead-asserts-kannada-activist-vatal-nagraj-4106332",
       "https://timesofindia.indiatimes.com/city/bengaluru/karnataka-bandh-2026-whats-open-and-whats-closed-on-august-13/articleshow/132866936.cms",
-      "https://www.news18.com/cities/bengaluru-news/karnataka-bandh-on-august-13-what-will-shut-what-will-stay-open-check-details-ws-l-10266410.html"
+      "https://www.news18.com/cities/bengaluru-news/karnataka-bandh-on-august-13-what-will-shut-what-will-stay-open-check-details-ws-l-10266410.html",
+      "https://www.newindianexpress.com/states/karnataka/2026/Aug/13/karnataka-bandh-today-over-cauvery-water-release-mekedatu-and-mahadayi-projects",
+      "https://www.hindustantimes.com/india-news/today-karnataka-bandh-whats-open-whats-closed-holiday-bangalore-schools-banks-hospitals-cauvery-row-august-13-101786586711599.html"
     ],
     "createdAt": "2026-08-13T00:06:15.000Z",
-    "updatedAt": "2026-08-13T14:48:18Z"
+    "updatedAt": "2026-08-13T16:05:32Z"
   },
   {
     "id": "int-210",
@@ -811,10 +819,12 @@
     "fuentes": [
       "https://www.greenleft.org.au/2026-08/event/students-say-no-hanson-nationwide-day-protest-gadigal-country-sydney",
       "https://www.greenleft.org.au/events",
-      "https://www.theguardian.com/australia-news/2026/aug/13/australia-student-rally-anti-hanson-protests-sydney-brisbane-melbourne-ntwnfb"
+      "https://www.theguardian.com/australia-news/2026/aug/13/australia-student-rally-anti-hanson-protests-sydney-brisbane-melbourne-ntwnfb",
+      "https://www.canberratimes.com.au/story/9329386/students-undeterred-by-calls-to-skip-anti-hanson-rally/",
+      "https://www.theage.com.au/national/australia-news-live-thousands-of-students-expected-to-walk-out-of-class-in-protest-of-one-nation-white-house-press-secretary-karoline-leavitt-to-step-down-20260813-p60nvn.html"
     ],
     "createdAt": "2026-08-13T00:06:15.000Z",
-    "updatedAt": "2026-08-13T14:48:18Z"
+    "updatedAt": "2026-08-13T16:05:32Z"
   },
   {
     "id": "int-211",
@@ -838,7 +848,7 @@
       "https://www.ndarinfo.com/Sante-And-Gueusseum-decrete-une-greve-totale-les-13-et-14-aout_a46114.html"
     ],
     "createdAt": "2026-08-13T00:06:15.000Z",
-    "updatedAt": "2026-08-13T14:48:18Z"
+    "updatedAt": "2026-08-13T16:05:32Z"
   },
   {
     "id": "int-213",
@@ -863,7 +873,7 @@
       "https://coloradosun.com/2026/08/04/cargill-workers-in-fort-morgan-reject-tentative-contract-to-end-lockout/"
     ],
     "createdAt": "2026-08-13T00:06:15.000Z",
-    "updatedAt": "2026-08-13T14:48:18Z"
+    "updatedAt": "2026-08-13T16:05:32Z"
   },
   {
     "id": "int-214",
@@ -885,7 +895,7 @@
       "https://region9a.uaw.org/news/newsletter080726"
     ],
     "createdAt": "2026-08-13T00:06:15.000Z",
-    "updatedAt": "2026-08-13T14:48:18Z"
+    "updatedAt": "2026-08-13T16:05:32Z"
   },
   {
     "id": "int-215",
@@ -907,7 +917,7 @@
       "https://turnpurple2blue.org/event/justice-4-all-thursdays-9/2026-08-13/"
     ],
     "createdAt": "2026-08-13T00:06:15.000Z",
-    "updatedAt": "2026-08-13T14:48:18Z"
+    "updatedAt": "2026-08-13T16:05:32Z"
   },
   {
     "id": "int-216",
@@ -929,7 +939,7 @@
       "https://siliconvalleydsa.org/event/ice-watch/2026-08-13/"
     ],
     "createdAt": "2026-08-13T00:06:15.000Z",
-    "updatedAt": "2026-08-13T14:48:18Z"
+    "updatedAt": "2026-08-13T16:05:32Z"
   },
   {
     "id": "int-217",
@@ -954,7 +964,7 @@
       "https://www.lapresse.ca/affaires/entreprises/2026-08-01/contrecoeur/les-300-travailleurs-d-arcelormittal-declenchent-une-greve-illimitee.php"
     ],
     "createdAt": "2026-08-13T00:06:15.000Z",
-    "updatedAt": "2026-08-13T14:48:18Z"
+    "updatedAt": "2026-08-13T16:05:32Z"
   },
   {
     "id": "int-218",
@@ -977,10 +987,11 @@
     "fuentes": [
       "https://lahora.gt/nacionales/kjordan/2026/08/12/steg-de-joviel-acevedo-manifestara-por-plazas-inseguridad-y-alzas-pese-a-prohibicion-por-emplazamiento-now/",
       "https://crnnoticias.com/steg-convoca-a-manifestacion-nacional-para-exigir-mejoras-laborales-y-mayor-inversion-educativa/",
-      "https://www.soy502.com/articulo/posibles-vias-tomaran-manifestantes-este-jueves-102123"
+      "https://www.soy502.com/articulo/posibles-vias-tomaran-manifestantes-este-jueves-102123",
+      "https://www.prensalibre.com/guatemala/comunitario/steg-vuelve-a-las-calles-y-eleva-presion-contra-reformas-al-magisterio-que-discute-el-congreso/"
     ],
     "createdAt": "2026-08-13T03:06:46.000Z",
-    "updatedAt": "2026-08-13T14:48:18Z"
+    "updatedAt": "2026-08-13T16:05:32Z"
   },
   {
     "id": "int-219",
@@ -1003,10 +1014,11 @@
       "https://amexi.com.mx/voz-laboral/seccion-22-cnte-volvera-cdmx-reunirse-sheinbaum/",
       "https://latitud23noticias.com/2026/08/03/cnte-exige-a-sheinbaum-acuerdos-definitivos-en-reunion-del-13-de-agosto/",
       "https://digitalmex.mx/nacional-e-internacional/story/69566/tras-protestas-sheinbaum-acepta-reunirse-cnte-oaxaca",
-      "https://meganoticias.mx/nacional/cnte-seccion-22-encabeza-marcha-palacio-nacional-reunion-sheinbaum"
+      "https://meganoticias.mx/nacional/cnte-seccion-22-encabeza-marcha-palacio-nacional-reunion-sheinbaum",
+      "https://www.nmas.com.mx/ciudad-de-mexico/movilidad/a-que-hora-inicia-bloqueo-cnte-hoy-13-de-agosto-2026-cdmx-asi-sera-manifestacion/"
     ],
     "createdAt": "2026-08-13T03:06:46.000Z",
-    "updatedAt": "2026-08-13T14:48:18Z"
+    "updatedAt": "2026-08-13T16:05:32Z"
   },
   {
     "id": "int-220",
@@ -1030,7 +1042,7 @@
       "https://www.tvperu.gob.pe/noticias/nacionales/transportistas-de-ucayali-y-tacna-acatan-paro-por-alza-del-precio-de-combustibles"
     ],
     "createdAt": "2026-08-13T03:06:46.000Z",
-    "updatedAt": "2026-08-13T14:48:18Z"
+    "updatedAt": "2026-08-13T16:05:32Z"
   },
   {
     "id": "int-221",
@@ -1055,10 +1067,11 @@
       "https://www.ici.fr/provence-alpes-cote-d-azur/bouches-du-rhone-13/marseille/sixieme-semaine-de-greve-les-salaries-d-haribo-a-marseille-ne-baissent-pas-les-bras-1525702",
       "https://www.ici.fr/provence-alpes-cote-d-azur/bouches-du-rhone-13/marseille/les-salaries-de-l-usine-haribo-a-marseille-en-greve-depuis-plus-de-trois-semaines-pour-de-meilleurs-salaires-1315399",
       "https://laclepublique.fr/bouches-du-rhone/articles/2026/2026-08-06-haribo-greve-six-semaines",
-      "https://jeunessedumonde.fr/2026/08/07/les-salaries-de-haribo-poursuivent-une-greve-entamee-depuis-six-semaines"
+      "https://jeunessedumonde.fr/2026/08/07/les-salaries-de-haribo-poursuivent-une-greve-entamee-depuis-six-semaines",
+      "https://www.lamarseillaise.fr/social/entretien-sofia-calabria-cgt-l-attitude-de-la-direction-d-haribo-est-scandaleuse-DP20586544"
     ],
     "createdAt": "2026-08-13T05:16:40.000Z",
-    "updatedAt": "2026-08-13T14:48:18Z"
+    "updatedAt": "2026-08-13T16:05:32Z"
   },
   {
     "id": "int-222",
@@ -1083,7 +1096,7 @@
       "https://sintrajud.org.br/conteudo/16289/com-sessoes-do-congresso-previstas-para-agosto-paralisacao-do-dia-13-ganha-peso-pela-derrubada-do-veto-45"
     ],
     "createdAt": "2026-08-13T06:55:30.000Z",
-    "updatedAt": "2026-08-13T14:48:18Z"
+    "updatedAt": "2026-08-13T16:05:32Z"
   },
   {
     "id": "int-223",
@@ -1107,7 +1120,7 @@
       "https://sindcefetmg.org.br/sindcefet-mg-convoca-categoria-para-o-dia-de-luta-em-defesa-de-cuba-e-da-soberania-dos-povos-neste-13-de-agosto/"
     ],
     "createdAt": "2026-08-13T06:55:30.000Z",
-    "updatedAt": "2026-08-13T14:48:18Z"
+    "updatedAt": "2026-08-13T16:05:32Z"
   },
   {
     "id": "int-224",
@@ -1130,7 +1143,7 @@
       "https://www.mobilize.us/indivisiblecentralohio/event/844791/"
     ],
     "createdAt": "2026-08-13T10:58:54.000Z",
-    "updatedAt": "2026-08-13T14:48:18Z"
+    "updatedAt": "2026-08-13T16:05:32Z"
   },
   {
     "id": "int-225",
@@ -1155,7 +1168,7 @@
       "https://www.jornada.com.mx/noticia/2026/07/27/politica/asedio-de-eu-a-cuba-provoca-aumento-en-la-solidaridad-con-la-isla-miles-marchan-en-la-cdmx"
     ],
     "createdAt": "2026-08-13T14:36:01.000Z",
-    "updatedAt": "2026-08-13T14:48:18Z"
+    "updatedAt": "2026-08-13T16:05:32Z"
   },
   {
     "id": "int-226",
@@ -1177,7 +1190,7 @@
       "https://www.scottishpsc.org.uk/event/edinburgh-royal-air-force-recruitment-office-demo-recurr/2026-08-13/"
     ],
     "createdAt": "2026-08-13T14:36:01.000Z",
-    "updatedAt": "2026-08-13T14:48:18Z"
+    "updatedAt": "2026-08-13T16:05:32Z"
   },
   {
     "id": "int-227",
@@ -1201,7 +1214,7 @@
       "https://www.centralfm.co.uk/news1/news/local-news/protest-against-larbert-ai-data-centre/"
     ],
     "createdAt": "2026-08-13T14:36:01.000Z",
-    "updatedAt": "2026-08-13T14:48:18Z"
+    "updatedAt": "2026-08-13T16:05:32Z"
   },
   {
     "id": "int-228",
@@ -1226,7 +1239,7 @@
       "https://phayul.com/solidarity-actions-sweep-dharamshala-to-honour-late-martyr-lobga-rangzen/"
     ],
     "createdAt": "2026-08-13T14:36:01.000Z",
-    "updatedAt": "2026-08-13T14:48:18Z"
+    "updatedAt": "2026-08-13T16:05:32Z"
   },
   {
     "id": "int-229",
@@ -1251,7 +1264,7 @@
       "https://www.grainsa.co.za/news-headlines/press-releases/grain-sa-deeply-disappointed-by-jse-decision-to-reject-soybean-multiple-reference-point-model"
     ],
     "createdAt": "2026-08-13T14:36:01.000Z",
-    "updatedAt": "2026-08-13T14:48:18Z"
+    "updatedAt": "2026-08-13T16:05:32Z"
   },
   {
     "id": "int-230",
@@ -1276,7 +1289,7 @@
       "https://biz.heraldcorp.com/article/10838575"
     ],
     "createdAt": "2026-08-13T14:36:01.000Z",
-    "updatedAt": "2026-08-13T14:48:18Z"
+    "updatedAt": "2026-08-13T16:05:32Z"
   },
   {
     "id": "int-231",
@@ -1298,6 +1311,72 @@
       "https://www.indybay.org/newsitems/2026/08/11/18887946.php"
     ],
     "createdAt": "2026-08-13T14:36:01.000Z",
-    "updatedAt": "2026-08-13T14:48:18Z"
+    "updatedAt": "2026-08-13T16:05:32Z"
+  },
+  {
+    "id": "int-232",
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "08:15",
+    "fecha": "2026-08-13",
+    "lugar": "Santa Cruz, California: Hilton Santa Cruz/Scotts Valley (6001 La Madrona Drive), antes de la reunión de la California Coastal Commission sobre el fracking en la Plataforma Gilda",
+    "tipoAccion": "Concentración y marcha comunitaria contra el fracking marino en la costa californiana, frente a la votación de la California Coastal Commission",
+    "organizaciones": [
+      "Organizaciones ambientalistas y comunidades de la costa de California"
+    ],
+    "motivo": "Este jueves 13 de agosto de 2026 a las 08:15, organizaciones ambientalistas y vecinos se concentran en la intersección de La Madrona Drive y Mt. Hermon Road, frente al Hilton Santa Cruz/Scotts Valley, antes de la reunión de las 09:00 de la California Coastal Commission, para exigir que el organismo rechace la solicitud de DCOR, LLC de realizar fracking en múltiples pozos de la Plataforma Gilda, frente a la costa de Ventura, la primera propuesta de fracking marino en California en más de una década. Los manifestantes llevan pancartas con el lema 'Don't Frack California's Ocean' para denunciar los riesgos ambientales de la fracturación hidráulica en el océano.",
+    "status": "en_curso",
+    "lat": 37.0208,
+    "lng": -122.0396,
+    "fuentes": [
+      "https://www.independent.com/2026/08/12/community-to-rally-against-offshore-fracking-thursday-at-coastal-commission-meeting/"
+    ],
+    "createdAt": "2026-08-13T15:56:30.000Z",
+    "updatedAt": "2026-08-13T16:05:32Z"
+  },
+  {
+    "id": "int-233",
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "10:00-11:30",
+    "fecha": "2026-08-13",
+    "lugar": "Concord, California: frente al tribunal federal de inmigración (Federal Immigration Court), 1855 Gateway Blvd. #850",
+    "tipoAccion": "Presencia comunitaria no disruptiva frente al tribunal federal de inmigración para disuadir arrestos de ICE y apoyar a los inmigrantes",
+    "organizaciones": [
+      "Commit to Democracy (CTD) y comunidad de Concord"
+    ],
+    "motivo": "Este jueves 13 de agosto de 2026, de 10:00 a 11:30, voluntarios de Commit to Democracy se reúnen frente al tribunal federal de inmigración de Concord, California, para servir como una presencia comunitaria acogedora y no disruptiva que disuada la presencia de ICE, brinde apoyo a los inmigrantes que concurren a sus audiencias y actúe como respuesta rápida ante posibles arrestos, portando carteles pacíficos y documentando la actividad de las autoridades migratorias.",
+    "status": "en_curso",
+    "lat": 37.9765,
+    "lng": -122.0288,
+    "fuentes": [
+      "https://www.commit2democracy.com/fed_court_presence_concord_20260108_20260813"
+    ],
+    "createdAt": "2026-08-13T15:56:30.000Z",
+    "updatedAt": "2026-08-13T16:05:32Z"
+  },
+  {
+    "id": "int-234",
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "16:30-18:00",
+    "fecha": "2026-08-13",
+    "lugar": "Oakland, California: pasarela de Adams Street sobre la I-580",
+    "tipoAccion": "Acción de visibilización 'Overpass Visibility Brigade' sobre la autopista I-580 de Oakland contra la administración Trump",
+    "organizaciones": [
+      "Indivisible East Bay (IEB)"
+    ],
+    "motivo": "Este jueves 13 de agosto de 2026, de 16:30 a 18:00, activistas de Indivisible East Bay despliegan letras gigantes sobre la pasarela de Adams Street en la I-580 de Oakland con un mensaje dirigido a los conductores en hora pico, alcanzando a más de 10.000 autos, para dar la bienvenida a la resistencia, mostrar que los vecinos no están solos en su preocupación por la situación política y alentar el apoyo de la comunidad.",
+    "status": "en_curso",
+    "lat": 37.8044,
+    "lng": -122.2711,
+    "fuentes": [
+      "https://indivisibleeb.org/event/overpass-visibility-brigade-action-adams-st-on-i-580-oakland-7/2026-08-13/"
+    ],
+    "createdAt": "2026-08-13T15:56:30.000Z",
+    "updatedAt": "2026-08-13T16:05:32Z"
   }
 ]
