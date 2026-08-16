@@ -35,7 +35,7 @@
       "https://www.instagram.com/p/DbL4enzlTVB"
     ],
     "createdAt": "2026-08-15T07:57:44.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "ar-4",
@@ -87,7 +87,7 @@
       "https://sutef.org/catena-cruzo-al-gobierno-por-las-paritarias-y-rechazo-que-la-lucha-docente-le-haga-el-juego-a-la-derecha/"
     ],
     "createdAt": "2026-08-08T04:38:04.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "ar-20",
@@ -112,7 +112,31 @@
       "https://neuquenweb.com/chos-malal-conmemora-10-anos-del-no-a-la-megamineria-en-caycayen/"
     ],
     "createdAt": "2026-08-16T02:44:40.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
+  },
+  {
+    "id": "ar-21",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "Acampe permanente (turnos rotativos y ollas populares)",
+    "fecha": "2026-08-16",
+    "lugar": "Pilar (Buenos Aires): frente a las instalaciones de la planta de porcelanatos ILVA",
+    "tipoAccion": "Acampe permanente de los 302 trabajadores despedidos de la planta ILVA (a más de 100 días del cierre), con turnos rotativos, ollas populares y fondo de lucha, en reclamo de la reincorporación o el pago íntegro de las indemnizaciones",
+    "organizaciones": [
+      "Trabajadores despedidos de la planta de porcelanatos ILVA (302 exoperarios)",
+      "CGT (respaldo al conflicto)",
+      "Secretaría de Trabajo (audiencias conciliatorias)"
+    ],
+    "motivo": "Continúa este domingo 16 de agosto de 2026 el acampe permanente que los 302 trabajadores despedidos de la planta de porcelanatos ILVA sostienen frente a las instalaciones de la fábrica en Pilar, Buenos Aires, a más de cien días del cierre, con turnos rotativos, ollas populares y un fondo de lucha. Los exoperarios reclaman la reincorporación o el pago íntegro de las indemnizaciones, y denuncian haber sido desvinculados sin cobrar lo que marca la ley y que el cierre provocó alrededor de 1.500 cesantías indirectas en la ciudad, entre empleos tercerizados, comercios y servicios asociados. Los trabajadores cuestionan la versión empresarial que atribuye el cierre a la caída de ventas y la apertura de importaciones: afirman que hubo una decisión tomada (una semana antes del cierre la empresa instaló una prensa nueva traída de Italia) y denuncian que la firma propuso en sede judicial reabrir la planta con solo 40 empleados bajo un nuevo esquema de contratación, mientras buscaba eliminar beneficios del convenio como el transporte, el comedor y la cobertura médica. Mientras continúan las audiencias conciliatorias en la Secretaría de Trabajo, el acampe recibió el respaldo de la CGT, que intenta destrabar el conflicto; a la entrada del campamento, cruces improvisadas y remeras con nombres y años de antigüedad forman lo que los despedidos llaman un «cementerio obrero».",
+    "status": "en_curso",
+    "lat": -34.4585,
+    "lng": -58.9142,
+    "fuentes": [
+      "https://elsindicato.com.ar/A-100-dias-del-acampe-los-despedidos-de-ILVA-continuan-reclamando-trabajo-o-una-indemnizacion-justa-3231"
+    ],
+    "createdAt": "2026-08-16T14:51:29.000Z",
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-126",
@@ -141,7 +165,7 @@
       "https://www.myjoyonline.com/uew-hospital-suspends-opd-services-over-gaua-strike/"
     ],
     "createdAt": "2026-08-11T09:33:06.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-194",
@@ -166,7 +190,7 @@
       "https://www.cbc.ca/news/canada/hamilton/national-steel-car-hamilton-9.7304490"
     ],
     "createdAt": "2026-08-12T23:09:40.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-21",
@@ -195,7 +219,7 @@
       "https://www.que.es/2026/08/14/reclamar-maleta-retrasada-huelga-groundforce/"
     ],
     "createdAt": "2026-08-10T02:26:10.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-213",
@@ -220,7 +244,7 @@
       "https://coloradosun.com/2026/08/04/cargill-workers-in-fort-morgan-reject-tentative-contract-to-end-lockout/"
     ],
     "createdAt": "2026-08-13T00:06:15.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-217",
@@ -245,36 +269,7 @@
       "https://www.lapresse.ca/affaires/entreprises/2026-08-01/contrecoeur/les-300-travailleurs-d-arcelormittal-declenchent-une-greve-illimitee.php"
     ],
     "createdAt": "2026-08-13T00:06:15.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
-  },
-  {
-    "id": "int-221",
-    "seccion": "internacionales",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "00:00",
-    "fecha": "2026-08-16",
-    "lugar": "Marsella: planta de Haribo en el barrio de los Arnavaux (67 boulevard du Capitaine-Gèze, 14e arrondissement)",
-    "tipoAccion": "Huelga indefinida en curso (7.ª semana) con débrayajes diarios de dos horas y piquete frente a la fábrica",
-    "organizaciones": [
-      "CGT (delegados Sofia Calabria y Jean-Pierre Martins)",
-      "FO (delegado central Thierry Cambola)",
-      "Salariados de la planta de Haribo de Marsella (producción reducida de ~300 a ~30 palets diarios)"
-    ],
-    "motivo": "Este domingo 16 de agosto de 2026 continúa la huelga indefinida de los salariados de la planta Haribo de Marsella, iniciada el 26 de junio tras el fracaso de las negociaciones anuales obligatorias (NAO), con débrayajes diarios de dos horas y piquete permanente frente a la fábrica de los Arnavaux, en su séptima semana de conflicto. Los trabajadores reclaman un aumento general uniforme de 100 euros brutos mensuales y la revalorización de la prima de antigüedad del 15% al 18%, y rechazan la última oferta de la dirección (1,5% de aumento, unos 18 euros brutos mensuales, en parte condicionada a objetivos de producción). El movimiento, sostenido con el lema 'Pas de ronds, pas de bonbons', mantiene la producción del sitio reducida de unas 300 a unas 30 palets diarios, y los sindicatos ratifican que proseguirán los débrayajes mientras no haya un acuerdo más favorable.",
-    "status": "en_curso",
-    "lat": 43.328,
-    "lng": 5.381,
-    "fuentes": [
-      "https://www.20minutes.fr/societe/greve/4238119-20260806-marseille-salaries-haribo-entament-6e-semaine-greve",
-      "https://www.ici.fr/provence-alpes-cote-d-azur/bouches-du-rhone-13/marseille/sixieme-semaine-de-greve-les-salaries-d-haribo-a-marseille-ne-baissent-pas-les-bras-1525702",
-      "https://www.ici.fr/provence-alpes-cote-d-azur/bouches-du-rhone-13/marseille/les-salaries-de-l-usine-haribo-a-marseille-en-greve-depuis-plus-de-trois-semaines-pour-de-meilleurs-salaires-1315399",
-      "https://laclepublique.fr/bouches-du-rhone/articles/2026/2026-08-06-haribo-greve-six-semaines",
-      "https://jeunessedumonde.fr/2026/08/07/les-salaries-de-haribo-poursuivent-une-greve-entamee-depuis-six-semaines",
-      "https://www.lamarseillaise.fr/social/entretien-sofia-calabria-cgt-l-attitude-de-la-direction-d-haribo-est-scandaleuse-DP20586544"
-    ],
-    "createdAt": "2026-08-13T05:16:40.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-228",
@@ -299,7 +294,7 @@
       "https://phayul.com/solidarity-actions-sweep-dharamshala-to-honour-late-martyr-lobga-rangzen/"
     ],
     "createdAt": "2026-08-13T14:36:01.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-235",
@@ -325,7 +320,7 @@
       "https://reinadelaselva.pe/amazonas-paro-en-el-iv-eje-vial-continua-mientras-comunidades-awajun-exigen-obras-y-aclaran-que-no-hubo-retencion-de-autoridades/"
     ],
     "createdAt": "2026-08-13T17:55:31.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-238",
@@ -353,7 +348,7 @@
       "https://www.newkerala.com/news/a/pojk-jkaac-alleges-continued-firing-rawalakot-warns-march-705.htm"
     ],
     "createdAt": "2026-08-13T17:55:31.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-241",
@@ -383,7 +378,7 @@
       "https://thehorizonwire.co.ke/article/homa-bay-nurses-strike-over-unimplemented-cba-and-welfare-concerns"
     ],
     "createdAt": "2026-08-13T18:59:52.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-255",
@@ -412,7 +407,7 @@
       "https://en.panorama.com.al/protesta-hyn-ne-diten-e-76-te-ne-shesh-sot-zbret-edhe-diaspora-pritet-nje-pjesemarrje-e-jashtezakonshme-thirrjet-e-qytetareve-rama-jep-doreheqjen/"
     ],
     "createdAt": "2026-08-13T22:38:00.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-275",
@@ -441,7 +436,7 @@
       "https://www.infobae.com/espana/agencias/2026/08/14/temas-del-dia-de-efe-espana-del-sabado-15-de-agosto-de-2026/"
     ],
     "createdAt": "2026-08-14T08:43:09.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-301",
@@ -471,7 +466,7 @@
       "https://www.connexionfrance.com/news/strikes-and-heavy-traffic-make-for-a-difficult-weekend-for-travel-in-france/807870"
     ],
     "createdAt": "2026-08-14T15:21:07.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-342",
@@ -495,7 +490,7 @@
       "https://www.cbc.ca/news/canada/british-columbia/metro-vancouver-regional-parks-strike-9.7308283"
     ],
     "createdAt": "2026-08-14T23:46:34.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-351",
@@ -537,7 +532,7 @@
       "https://www.airhelp.com/en-int/blog/easyjet-cabin-crew-strike-in-france-15-16-august-2026-your-rights/"
     ],
     "createdAt": "2026-08-15T01:04:06.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-355",
@@ -568,7 +563,7 @@
       "https://www.abc.es/espana/galicia/supermercados-coruneses-huelga-proximo-martes-bloqueo-convenio-20260815110540-nt.html"
     ],
     "createdAt": "2026-08-15T02:31:16.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-369",
@@ -591,7 +586,7 @@
       "https://www.justice4workers.org/ottawa_2026_08_15_solidarity_bbq"
     ],
     "createdAt": "2026-08-15T06:32:30.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-373",
@@ -613,7 +608,7 @@
       "https://diariolaregion.com/pobladores-de-la-cuenca-del-nanay-anuncian-control-territorial-a-partir-del-15-de-agosto-de-2026/"
     ],
     "createdAt": "2026-08-15T06:32:30.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-375",
@@ -635,7 +630,7 @@
       "https://nosalpes.eu/fr/2026/08/14/geneve-greve-des-fonctionnaires-jusquau-18-aout-a-la-rentree-scolaire/"
     ],
     "createdAt": "2026-08-15T06:32:30.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-385",
@@ -659,54 +654,7 @@
       "https://viewsbangladesh.com/fatikchhari-tea-workers-launch-movement-with-fourpoint-demands/"
     ],
     "createdAt": "2026-08-15T08:54:24.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
-  },
-  {
-    "id": "int-76",
-    "seccion": "internacionales",
-    "pais": "Alemania",
-    "bandera": "🇩🇪",
-    "hora": "10:30",
-    "fecha": "2026-08-16",
-    "lugar": "Jannowitzbrücke, Berlín-Mitte",
-    "tipoAccion": "Protesta de seguidores de Falun Gong contra la persecución en China (10:30-13:00)",
-    "organizaciones": [
-      "Seguidores de Falun Gong / Falun Dafa"
-    ],
-    "motivo": "Este domingo 16 de agosto de 2026, de 10:30 a 13:00, seguidores de Falun Gong protestan en la Jannowitzbrücke de Berlín para exigir el fin de la persecución de los practicantes de Falun Dafa en China y justicia y reparación para los perseguidos por el Partido Comunista Chino. La acción, que se repite a diario en el mismo punto, está registrada ante la autoridad de reuniones de Berlín para todo 2026.",
-    "status": "en_curso",
-    "lat": 52.5156,
-    "lng": 13.4193,
-    "fuentes": [
-      "https://oazis.app/de/event/falun-dafa-ist-gut-wahrhaftigkeit-barmherzigkeit-nachsicht-2026-08-11",
-      "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-      "https://www.ostdeutsche-zeitung.de/berlin/politik/berlin-demonstrationen-mahnwachen-rki-falun-gong-10-august-2026-5409"
-    ],
-    "createdAt": "2026-08-10T17:51:01.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
-  },
-  {
-    "id": "int-77",
-    "seccion": "internacionales",
-    "pais": "Países Bajos",
-    "bandera": "🇳🇱",
-    "hora": "12:30",
-    "fecha": "2026-08-16",
-    "lugar": "Plaza De Dam, Ámsterdam (junto a la bandera palestina)",
-    "tipoAccion": "Vigilia de lectura diaria por Palestina (12:30-13:30)",
-    "organizaciones": [
-      "Reading Vigil for Palestine"
-    ],
-    "motivo": "Este domingo 16 de agosto de 2026, de 12:30 a 13:30, se celebra en la plaza De Dam de Ámsterdam la vigilia de lectura diaria por Palestina, en la que los participantes se reúnen junto a la bandera palestina para leer libros de autores palestinos o sobre Palestina, en solidaridad con el pueblo palestino y en rechazo al genocidio en Gaza y a la ocupación israelí de los territorios palestinos.",
-    "status": "en_curso",
-    "lat": 52.3731,
-    "lng": 4.8926,
-    "fuentes": [
-      "https://rightsforum.org/agenda",
-      "https://www.readingvigil.net/"
-    ],
-    "createdAt": "2026-08-10T17:51:01.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-394",
@@ -739,7 +687,7 @@
       "https://theazb.com/truckers-strike-karachi-port-congestion-grows-as-government-seeks-deal/"
     ],
     "createdAt": "2026-08-15T10:18:48.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-399",
@@ -762,7 +710,7 @@
       "https://guardian.ng/news/esut-lecturers-declare-two-week-strike/"
     ],
     "createdAt": "2026-08-15T11:17:06.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-407",
@@ -788,7 +736,7 @@
       "https://pirha.org/madencilerin-ankaradaki-eylemi-suruyor-haklarimizi-almadan-donmeyecegiz-524594.html/12/08/2026/"
     ],
     "createdAt": "2026-08-15T13:26:54.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-435",
@@ -812,7 +760,7 @@
       "https://larepublica.pe/sociedad/2026/08/14/paro-indefinido-en-yauyos-comuneros-bloquean-via-a-chupaca-en-quinto-dia-de-protesta-contra-minera-corona-1243158"
     ],
     "createdAt": "2026-08-15T17:17:41.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-444",
@@ -835,7 +783,7 @@
       "https://www.yonhapnewstv.co.kr/news/MYH20260815005100641"
     ],
     "createdAt": "2026-08-15T17:44:34.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-472",
@@ -861,7 +809,7 @@
       "https://www.enca.com/news/paying-room-no-window-student-grievance-spark-protest"
     ],
     "createdAt": "2026-08-15T21:17:39.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-500",
@@ -892,7 +840,7 @@
       "https://www.lokmattimes.com/national/jkhand-agitation-day-23-protesters-criticise-rahul-gandhi-over-hollow-assurances/"
     ],
     "createdAt": "2026-08-16T02:40:22.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-501",
@@ -920,7 +868,7 @@
       "https://www.ndtv.com/india-news/farmers-protests-kisan-bachao-padyatra-after-ambala-and-hansi-haryana-police-braces-for-khanauri-showdown-against-india-us-trade-deal-11916910"
     ],
     "createdAt": "2026-08-16T02:40:22.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-502",
@@ -950,7 +898,7 @@
       "https://mmnews.tv/ji-to-stage-countrywide-sit-ins-today-against-petroleum-levy/"
     ],
     "createdAt": "2026-08-16T02:40:22.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-503",
@@ -979,7 +927,7 @@
       "https://www.europapress.es/asturias/noticia-pacma-respalda-manifestacion-antitaurina-domingo-gijon-coincidiendo-feria-begona-20260812103003.html"
     ],
     "createdAt": "2026-08-16T02:40:22.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-504",
@@ -1003,7 +951,7 @@
       "https://atlpresscollective.com/2026/08/15/flock-week-of-action/"
     ],
     "createdAt": "2026-08-16T02:40:22.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-505",
@@ -1026,7 +974,7 @@
       "https://www.thenational.scot/news/26448793.palestine-festival-resistance-held-glasgows-kelvingrove-park/"
     ],
     "createdAt": "2026-08-16T02:40:22.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-506",
@@ -1049,7 +997,7 @@
       "https://www.chinimandi.com/bihar-a-kisan-mahapanchayat-grand-farmers-gathering-will-be-held-in-riga-sitamarhi-on-august-16-issues-such-as-sugarcane-prices-and-irrigation-will-be-discussed-in-hindi/"
     ],
     "createdAt": "2026-08-16T02:40:22.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-507",
@@ -1072,7 +1020,7 @@
       "https://www.mobilize.us/mobilize/event/894178/"
     ],
     "createdAt": "2026-08-16T03:44:36.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-508",
@@ -1096,7 +1044,7 @@
       "https://www.hindusforhumanrights.org/events-list/717m1srcwyeauokgw1q4qc76gxy7gv"
     ],
     "createdAt": "2026-08-16T03:44:36.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-509",
@@ -1126,7 +1074,7 @@
       "https://www.the-star.co.ke/news/2026-08-16-homa-bay-roads-barricaded-ahead-of-sifuna-rally"
     ],
     "createdAt": "2026-08-16T03:44:36.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-510",
@@ -1151,7 +1099,7 @@
       "https://www.infocostatropical.com/noticia.asp?id_noticia=121461"
     ],
     "createdAt": "2026-08-16T03:44:36.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-511",
@@ -1177,7 +1125,7 @@
       "https://www.the-independent.com/bulletin/news/piddington-aslyum-seekers-bicester-barracks-b3031752.html"
     ],
     "createdAt": "2026-08-16T03:44:36.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-513",
@@ -1200,7 +1148,7 @@
       "https://asiapacificreport.nz/2026/08/16/palestine-protesters-told-they-are-rainbow-people-of-hope-after-150-weeks-of-gaza-protest/"
     ],
     "createdAt": "2026-08-16T03:44:36.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-514",
@@ -1229,7 +1177,7 @@
       "https://www.wsws.org/en/articles/2026/08/13/awqr-a13.html"
     ],
     "createdAt": "2026-08-16T05:24:39.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-516",
@@ -1251,7 +1199,7 @@
       "https://greenvilledemocrats.com/event/mauldin-gateway-bridge-protest/2026-08-16/"
     ],
     "createdAt": "2026-08-16T05:24:39.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-517",
@@ -1274,7 +1222,7 @@
       "https://nationalcosh.org/news/events/fired-national-week-heat-action"
     ],
     "createdAt": "2026-08-16T05:24:39.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-518",
@@ -1300,7 +1248,7 @@
       "https://www.melbournefoe.org.au/palestine_events"
     ],
     "createdAt": "2026-08-16T05:52:44.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-519",
@@ -1324,7 +1272,7 @@
       "https://www.instagram.com/p/DbmrZAfHwy8/"
     ],
     "createdAt": "2026-08-16T05:52:44.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-520",
@@ -1347,7 +1295,7 @@
       "https://peaceandjustice.org/organizer/vigil4gaza/"
     ],
     "createdAt": "2026-08-16T05:52:44.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-523",
@@ -1370,7 +1318,7 @@
       "https://www.thehindu.com/news/national/kerala/train-passengers-to-stage-stand-up-protest-in-kozhikode-on-august-16/article71350147.ece"
     ],
     "createdAt": "2026-08-16T06:34:30.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-524",
@@ -1393,7 +1341,7 @@
       "https://raptorpersecutionuk.org/2026/08/14/reclaim-our-moors-protest-walk-against-grouse-shooting-peak-district-national-park-sunday-16-august-2026/"
     ],
     "createdAt": "2026-08-16T07:28:19.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-525",
@@ -1415,7 +1363,7 @@
       "https://www.ipsc.ie/event/solidarity-swim-for-gaza-dublin-2026"
     ],
     "createdAt": "2026-08-16T07:28:19.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-526",
@@ -1438,7 +1386,7 @@
       "https://groups.animalrebellion.nl/events/ea355bd7-f3d6-4b52-adea-97d197ff8292"
     ],
     "createdAt": "2026-08-16T07:28:19.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-527",
@@ -1460,7 +1408,7 @@
       "https://animalrightscalendar.com/events/konstanz-tiere-raus-aus-dem-zirkus-i-streetteam-demo-10-00-11-15-uhr-6a67aeb0a9d79495483f8565"
     ],
     "createdAt": "2026-08-16T07:28:19.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-528",
@@ -1482,7 +1430,7 @@
       "https://www.dolcevia.com/en/italy-travel-alerts"
     ],
     "createdAt": "2026-08-16T07:28:19.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-529",
@@ -1504,7 +1452,7 @@
       "https://happeningnext.com/event/57-politischer-sonntagspaziergang-andquotaufr%C3%BCstung-auf-unsere-kostenandquot-eid3a0dwoh60g"
     ],
     "createdAt": "2026-08-16T07:28:19.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-531",
@@ -1527,7 +1475,7 @@
       "https://commonstreet.org/event/standout-for-peace/2026-08-16/"
     ],
     "createdAt": "2026-08-16T07:28:19.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-532",
@@ -1560,7 +1508,7 @@
       "https://www.tercerainformacion.es/articulo/internacional/16/08/2026/tension-tras-los-disturbios-en-la-region-amazonica-peruana-de-ucayali/"
     ],
     "createdAt": "2026-08-16T07:54:51.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-534",
@@ -1584,7 +1532,7 @@
       "https://www.mobilize.us/mobilize/event/904427/"
     ],
     "createdAt": "2026-08-16T07:54:51.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-535",
@@ -1609,7 +1557,7 @@
       "https://www.abplive.com/states/bihar/pappu-yadav-purnia-mp-will-go-on-a-hunger-strike-in-patna-on-august-16-3175201"
     ],
     "createdAt": "2026-08-16T08:24:55.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-536",
@@ -1639,7 +1587,7 @@
       "https://www.alevihaberagi.com/69381-psakd-genel-baskani-cuma-erceden-kitlesel-katilim-cagrisi-16-agustosta-dergahimiza-kol-kola-yuruyoruz-video.html"
     ],
     "createdAt": "2026-08-16T08:24:55.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-538",
@@ -1665,7 +1613,7 @@
       "https://noticias.r7.com/eleicoes/2026/lula-volta-ao-abc-e-flavio-ocupa-copacabana-em-eventos-que-dao-a-largada-a-campanha-presidencial-15082026/"
     ],
     "createdAt": "2026-08-16T08:24:55.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-540",
@@ -1687,7 +1635,7 @@
       "https://animalrightscalendar.com/events/freedom-formation-teesside-middlesbrough-16-august-2026-6a68e4e6a9d7949548489925"
     ],
     "createdAt": "2026-08-16T08:56:10.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-541",
@@ -1709,7 +1657,7 @@
       "https://terminal.digital/events/kundgebung-zur-carolabruecke-wir-wollen-2-spuren-statt-4/"
     ],
     "createdAt": "2026-08-16T08:56:10.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-542",
@@ -1731,7 +1679,7 @@
       "https://www.meetup.com/animal-rights-florida/events/315704130/"
     ],
     "createdAt": "2026-08-16T08:56:10.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-544",
@@ -1754,7 +1702,7 @@
       "https://www.pressenza.com/de/2026/08/art-speaks-for-human-rights-berlin-setzt-am-brandenburger-tor-ein-zeichen-fuer-menschenrechte/"
     ],
     "createdAt": "2026-08-16T09:26:34.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-545",
@@ -1777,7 +1725,7 @@
       "https://dielinke.berlin/termine/detail/news/vonovia-pruefstand-jetzt-wehren/"
     ],
     "createdAt": "2026-08-16T09:26:34.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-546",
@@ -1799,7 +1747,7 @@
       "https://animalrightscalendar.com/events/cube-of-truth-frankfurt-16-august-14-00-uhr-69bace8d3772a293db5db360"
     ],
     "createdAt": "2026-08-16T09:26:34.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-547",
@@ -1827,7 +1775,7 @@
       "https://www.deutschlandfunk.de/klimagerechtigkeitsbewegung-trifft-sich-zum-system-change-camp-100.html"
     ],
     "createdAt": "2026-08-16T09:51:08.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-549",
@@ -1851,7 +1799,7 @@
       "https://www.acidadeon.com/ribeiraopreto/lazer-e-cultura/parada-lgbtqiapn-acontece-em-ribeirao-neste-domingo-veja-percurso-e-atracoes/"
     ],
     "createdAt": "2026-08-16T10:19:50.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-550",
@@ -1880,7 +1828,7 @@
       "https://news.theonlinecitizen.com/2026/08/05/sg-climate-rally-to-hold-hong-lim-park-gathering-over-forest-clearance-plans"
     ],
     "createdAt": "2026-08-16T10:47:51.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-551",
@@ -1908,7 +1856,7 @@
       "https://www.abc.net.au/news/2026-08-13/kimberley-and-pilbara-local-news-briefing/107031568"
     ],
     "createdAt": "2026-08-16T10:47:51.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-553",
@@ -1932,7 +1880,7 @@
       "https://lasillarota.com/hidalgo/estado/2026/8/14/convocan-a-marcha-en-tlanalapa-para-exigir-justicia-por-jose-ismael-524537.html"
     ],
     "createdAt": "2026-08-16T11:17:25.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-556",
@@ -1958,7 +1906,7 @@
       "https://iol.co.za/dailynews/news/2026-08-14-the-ongoing-quest-for-justice-remembering-the-marikana-massacre/"
     ],
     "createdAt": "2026-08-16T11:44:01.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-557",
@@ -1981,7 +1929,7 @@
       "https://sepelagos.org.br/2026/07/20/grande-ato-pelo-enquadramento-das-docentes-da-educacao-infantil-vai-ocupar-copacabana-no-dia-16-8/"
     ],
     "createdAt": "2026-08-16T11:44:01.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-558",
@@ -2004,7 +1952,7 @@
       "https://animalrightscalendar.com/events/boston-speak-up-for-sheep-used-for-wool-6a7cf93da9d7949548f4027a"
     ],
     "createdAt": "2026-08-16T11:44:01.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-559",
@@ -2027,7 +1975,7 @@
       "https://ncejn.org/event/rally-for-anas-al-sharif/"
     ],
     "createdAt": "2026-08-16T11:44:01.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-560",
@@ -2050,7 +1998,7 @@
       "https://indivisibleeb.org/event/overpass-visibility-brigade-bridge-of-solidarity-i-80-berkeley-2/2026-08-16/"
     ],
     "createdAt": "2026-08-16T11:44:01.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-561",
@@ -2073,7 +2021,7 @@
       "https://www.newindianexpress.com/cities/hyderabad/2026/Aug/16/telanganas-ayush-hunger-strike-enters-day-12"
     ],
     "createdAt": "2026-08-16T11:44:01.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-563",
@@ -2096,7 +2044,7 @@
       "https://www.thehindu.com/news/cities/chennai/ennore-fisherfolk-protest-over-mass-fish-kill-in-kosasthalaiyar-river/article71351987.ece"
     ],
     "createdAt": "2026-08-16T13:28:06.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-564",
@@ -2122,7 +2070,7 @@
       "https://region.com.au/refusing-to-back-down-cfmeu-dumps-litter-collection-duties-in-act-pay-dispute/988401/"
     ],
     "createdAt": "2026-08-16T13:28:06.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-565",
@@ -2148,7 +2096,7 @@
       "https://english.deshsanchar.com/protesters-from-madhes-sleep-on-kathmandu-streets-demanding-justice/"
     ],
     "createdAt": "2026-08-16T13:28:06.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-566",
@@ -2177,7 +2125,7 @@
       "https://www.quiverquant.com/news/Press+Release%3A+Maxine+Dexter%2C+Emily+Randall+Conduct+Unannounced+Visit+to+Northwest+Detention+Center"
     ],
     "createdAt": "2026-08-16T13:53:48.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-567",
@@ -2202,7 +2150,7 @@
       "https://nenow.in/north-east-news/manipur/manipur-census-protests-intensify-amid-nrc-and-immigrant-identification-demands.html"
     ],
     "createdAt": "2026-08-16T13:53:48.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-568",
@@ -2226,7 +2174,7 @@
       "https://www.bhaskarenglish.in/local/gujarat/surat/news/surat-embroidery-workers-protest-sunday-holiday-strike-138742547.html"
     ],
     "createdAt": "2026-08-16T14:18:54.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-569",
@@ -2252,7 +2200,7 @@
       "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553462443"
     ],
     "createdAt": "2026-08-16T14:18:54.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-570",
@@ -2275,7 +2223,7 @@
       "https://biz.heraldcorp.com/article/10842698"
     ],
     "createdAt": "2026-08-16T14:18:54.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-571",
@@ -2298,7 +2246,7 @@
       "https://caracol.com.co/2026/08/16/superservicios-pide-proteger-a-trabajadores-de-air-e-ante-protestas-en-la-guajira/"
     ],
     "createdAt": "2026-08-16T14:18:54.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
   },
   {
     "id": "int-572",
@@ -2323,6 +2271,81 @@
       "https://www.infobae.com/mexico/2026/08/16/en-vivo-bloqueos-accidentes-viales-y-manifestaciones-hoy-16-de-agosto/"
     ],
     "createdAt": "2026-08-16T14:18:54.000Z",
-    "updatedAt": "2026-08-16T14:34:04Z"
+    "updatedAt": "2026-08-16T14:58:36Z"
+  },
+  {
+    "id": "int-573",
+    "seccion": "internacionales",
+    "pais": "México",
+    "bandera": "🇲🇽",
+    "hora": "Desde temprana hora",
+    "fecha": "2026-08-16",
+    "lugar": "Nopala de Villagrán (Hidalgo): bloqueo de la carretera estatal Huichapan-Tula, en la localidad de El Jagüey (Jagüey Blanco)",
+    "tipoAccion": "Bloqueo carretero de pobladores y ejidatarios contra la construcción del nuevo tramo de la autopista Arco Norte (que conectaría con San Juan del Río, Querétaro); durante la jornada de protesta quemaron una patrulla municipal",
+    "organizaciones": [
+      "Habitantes y ejidatarios de El Jagüey (Jagüey Blanco)",
+      "Comunidades de Nopala de Villagrán",
+      "Opositores al proyecto de autopista Arco Norte"
+    ],
+    "motivo": "Este domingo 16 de agosto de 2026 continúa el bloqueo de la carretera estatal Huichapan-Tula por parte de habitantes de El Jagüey y otras comunidades de Nopala de Villagrán (Hidalgo), que desde muy temprana hora cortaron la vía para exigir el alto a las obras de construcción de un nuevo tramo de la autopista Arco Norte, que atravesaría terrenos ejidales y zonas de cultivo y recarga hídrica para conectar la región con San Juan del Río, Querétaro. El conflicto viene escalando desde el 12 de agosto, cuando los ejidatarios presentaron exigencias concretas (consulta previa e informada, publicación del estudio de impacto ambiental, revisión de las indemnizaciones y modificación del trazo), y este fin de semana la protesta se radicalizó: durante la jornada de movilización, los manifestantes incendiaron una patrulla de la Secretaría de Seguridad Pública municipal en la avenida principal de El Jagüey y mantienen bloqueados tramos de la carretera estatal que enlaza Huichapan y Tula. Denuncian falta de transparencia de autoridades federales y locales, temen que la obra divida comunidades y afecte su patrimonio, y señalan que invitaron a la presidenta municipal Diana Moreno a escucharlos sin obtener respuesta; hasta el momento ninguna autoridad ha entablado una mesa de diálogo con los inconformes.",
+    "status": "en_curso",
+    "lat": 20.2475,
+    "lng": -99.6461,
+    "fuentes": [
+      "https://criteriohidalgo.com/noticias/regiones/vecinos-de-nopala-queman-patrulla-como-protesta",
+      "https://www.nmas.com.mx/hidalgo/movilidad/protesta-contra-autopista-termina-con-patrulla-quemada-en-hidalgo",
+      "https://hidalgo.quadratin.com.mx/municipios/queman-patrulla-municipal-durante-protesta-contra-proyecto-carretero-en-nopala/",
+      "https://oem.com.mx/elsoldehidalgo/local/nopala-habitantes-rechazan-creacion-de-nueva-autopista-31597104",
+      "https://www.primeralinea.mx/2026/08/15/pobladores-de-nopala-de-villagran-protestan-contra-nuevo-tramo-de-la-autopista-arco-norte-e-incendian-patrulla/"
+    ],
+    "createdAt": "2026-08-16T14:47:57.000Z",
+    "updatedAt": "2026-08-16T14:58:36Z"
+  },
+  {
+    "id": "int-76",
+    "seccion": "internacionales",
+    "pais": "Alemania",
+    "bandera": "🇩🇪",
+    "hora": "10:30",
+    "fecha": "2026-08-16",
+    "lugar": "Jannowitzbrücke, Berlín-Mitte",
+    "tipoAccion": "Protesta de seguidores de Falun Gong contra la persecución en China (10:30-13:00)",
+    "organizaciones": [
+      "Seguidores de Falun Gong / Falun Dafa"
+    ],
+    "motivo": "Este domingo 16 de agosto de 2026, de 10:30 a 13:00, seguidores de Falun Gong protestan en la Jannowitzbrücke de Berlín para exigir el fin de la persecución de los practicantes de Falun Dafa en China y justicia y reparación para los perseguidos por el Partido Comunista Chino. La acción, que se repite a diario en el mismo punto, está registrada ante la autoridad de reuniones de Berlín para todo 2026.",
+    "status": "en_curso",
+    "lat": 52.5156,
+    "lng": 13.4193,
+    "fuentes": [
+      "https://oazis.app/de/event/falun-dafa-ist-gut-wahrhaftigkeit-barmherzigkeit-nachsicht-2026-08-11",
+      "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+      "https://www.ostdeutsche-zeitung.de/berlin/politik/berlin-demonstrationen-mahnwachen-rki-falun-gong-10-august-2026-5409"
+    ],
+    "createdAt": "2026-08-10T17:51:01.000Z",
+    "updatedAt": "2026-08-16T14:58:36Z"
+  },
+  {
+    "id": "int-77",
+    "seccion": "internacionales",
+    "pais": "Países Bajos",
+    "bandera": "🇳🇱",
+    "hora": "12:30",
+    "fecha": "2026-08-16",
+    "lugar": "Plaza De Dam, Ámsterdam (junto a la bandera palestina)",
+    "tipoAccion": "Vigilia de lectura diaria por Palestina (12:30-13:30)",
+    "organizaciones": [
+      "Reading Vigil for Palestine"
+    ],
+    "motivo": "Este domingo 16 de agosto de 2026, de 12:30 a 13:30, se celebra en la plaza De Dam de Ámsterdam la vigilia de lectura diaria por Palestina, en la que los participantes se reúnen junto a la bandera palestina para leer libros de autores palestinos o sobre Palestina, en solidaridad con el pueblo palestino y en rechazo al genocidio en Gaza y a la ocupación israelí de los territorios palestinos.",
+    "status": "en_curso",
+    "lat": 52.3731,
+    "lng": 4.8926,
+    "fuentes": [
+      "https://rightsforum.org/agenda",
+      "https://www.readingvigil.net/"
+    ],
+    "createdAt": "2026-08-10T17:51:01.000Z",
+    "updatedAt": "2026-08-16T14:58:36Z"
   }
 ]
