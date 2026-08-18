@@ -1,30 +1,5 @@
 [
   {
-    "id": "int-194",
-    "seccion": "internacionales",
-    "pais": "Canadá",
-    "bandera": "🇨🇦",
-    "hora": "00:00",
-    "fecha": "2026-08-18",
-    "lugar": "Hamilton, Ontario: planta de National Steel Car, 600 Kenilworth Avenue North (piquetes en la entrada principal)",
-    "tipoAccion": "Huelga de los aproximadamente 1.200 trabajadores de la fábrica de vagones de ferrocarril National Steel Car, en curso desde la medianoche del 12 de agosto (4.º día)",
-    "organizaciones": [
-      "USW Local 7135 (United Steelworkers)"
-    ],
-    "motivo": "Este domingo 16 de agosto de 2026 los aproximadamente 1.200 trabajadores de la planta de National Steel Car en Hamilton, Ontario (USW Local 7135), cumplen el quinto día de huelga tras rechazar por casi el 80% de los votos la última oferta contractual de la empresa. Los huelguistas exigen salarios justos que cubran la inflación y mejores condiciones de seguridad en el trabajo, y denuncian que el programa de incentivos (trabajo a destajo) representa cerca del 25% del pago con objetivos fijados por la empresa.",
-    "status": "en_curso",
-    "lat": 43.2555,
-    "lng": -79.798,
-    "fuentes": [
-      "https://www.chch.com/chch-news/workers-at-hamiltons-national-steel-car-strike-after-rejecting-contract/",
-      "https://www.thespec.com/business/national-steel-car-workers-reject-contract-vote-to-strike/article_08d3b31e-819e-5532-a704-2646aadd3a64.html",
-      "https://www.wsws.org/en/articles/2026/08/08/algq-a08.html",
-      "https://www.cbc.ca/news/canada/hamilton/national-steel-car-hamilton-9.7304490"
-    ],
-    "createdAt": "2026-08-12T23:09:40.000Z",
-    "updatedAt": "2026-08-18T03:51:26Z"
-  },
-  {
     "id": "int-21",
     "seccion": "internacionales",
     "pais": "España",
@@ -51,7 +26,79 @@
       "https://www.que.es/2026/08/14/reclamar-maleta-retrasada-huelga-groundforce/"
     ],
     "createdAt": "2026-08-10T02:26:10.000Z",
-    "updatedAt": "2026-08-18T03:51:26Z"
+    "updatedAt": "2026-08-18T04:47:15Z"
+  },
+  {
+    "id": "int-76",
+    "seccion": "internacionales",
+    "pais": "Alemania",
+    "bandera": "🇩🇪",
+    "hora": "10:30",
+    "fecha": "2026-08-18",
+    "lugar": "Jannowitzbrücke, Berlín-Mitte",
+    "tipoAccion": "Protesta de seguidores de Falun Gong contra la persecución en China (10:30-13:00)",
+    "organizaciones": [
+      "Seguidores de Falun Gong / Falun Dafa"
+    ],
+    "motivo": "Este domingo 16 de agosto de 2026, de 10:30 a 13:00, seguidores de Falun Gong protestan en la Jannowitzbrücke de Berlín para exigir el fin de la persecución de los practicantes de Falun Dafa en China y justicia y reparación para los perseguidos por el Partido Comunista Chino. La acción, que se repite a diario en el mismo punto, está registrada ante la autoridad de reuniones de Berlín para todo 2026.",
+    "status": "en_curso",
+    "lat": 52.5156,
+    "lng": 13.4193,
+    "fuentes": [
+      "https://oazis.app/de/event/falun-dafa-ist-gut-wahrhaftigkeit-barmherzigkeit-nachsicht-2026-08-11",
+      "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+      "https://www.ostdeutsche-zeitung.de/berlin/politik/berlin-demonstrationen-mahnwachen-rki-falun-gong-10-august-2026-5409"
+    ],
+    "createdAt": "2026-08-10T17:51:01.000Z",
+    "updatedAt": "2026-08-18T04:47:15Z"
+  },
+  {
+    "id": "int-77",
+    "seccion": "internacionales",
+    "pais": "Países Bajos",
+    "bandera": "🇳🇱",
+    "hora": "12:30",
+    "fecha": "2026-08-18",
+    "lugar": "Plaza De Dam, Ámsterdam (junto a la bandera palestina)",
+    "tipoAccion": "Vigilia de lectura diaria por Palestina (12:30-13:30)",
+    "organizaciones": [
+      "Reading Vigil for Palestine"
+    ],
+    "motivo": "Este domingo 16 de agosto de 2026, de 12:30 a 13:30, se celebra en la plaza De Dam de Ámsterdam la vigilia de lectura diaria por Palestina, en la que los participantes se reúnen junto a la bandera palestina para leer libros de autores palestinos o sobre Palestina, en solidaridad con el pueblo palestino y en rechazo al genocidio en Gaza y a la ocupación israelí de los territorios palestinos.",
+    "status": "en_curso",
+    "lat": 52.3731,
+    "lng": 4.8926,
+    "fuentes": [
+      "https://rightsforum.org/agenda",
+      "https://www.readingvigil.net/"
+    ],
+    "createdAt": "2026-08-10T17:51:01.000Z",
+    "updatedAt": "2026-08-18T04:47:15Z"
+  },
+  {
+    "id": "int-194",
+    "seccion": "internacionales",
+    "pais": "Canadá",
+    "bandera": "🇨🇦",
+    "hora": "00:00",
+    "fecha": "2026-08-18",
+    "lugar": "Hamilton, Ontario: planta de National Steel Car, 600 Kenilworth Avenue North (piquetes en la entrada principal)",
+    "tipoAccion": "Huelga de los aproximadamente 1.200 trabajadores de la fábrica de vagones de ferrocarril National Steel Car, en curso desde la medianoche del 12 de agosto (4.º día)",
+    "organizaciones": [
+      "USW Local 7135 (United Steelworkers)"
+    ],
+    "motivo": "Este domingo 16 de agosto de 2026 los aproximadamente 1.200 trabajadores de la planta de National Steel Car en Hamilton, Ontario (USW Local 7135), cumplen el quinto día de huelga tras rechazar por casi el 80% de los votos la última oferta contractual de la empresa. Los huelguistas exigen salarios justos que cubran la inflación y mejores condiciones de seguridad en el trabajo, y denuncian que el programa de incentivos (trabajo a destajo) representa cerca del 25% del pago con objetivos fijados por la empresa.",
+    "status": "en_curso",
+    "lat": 43.2555,
+    "lng": -79.798,
+    "fuentes": [
+      "https://www.chch.com/chch-news/workers-at-hamiltons-national-steel-car-strike-after-rejecting-contract/",
+      "https://www.thespec.com/business/national-steel-car-workers-reject-contract-vote-to-strike/article_08d3b31e-819e-5532-a704-2646aadd3a64.html",
+      "https://www.wsws.org/en/articles/2026/08/08/algq-a08.html",
+      "https://www.cbc.ca/news/canada/hamilton/national-steel-car-hamilton-9.7304490"
+    ],
+    "createdAt": "2026-08-12T23:09:40.000Z",
+    "updatedAt": "2026-08-18T04:47:15Z"
   },
   {
     "id": "int-217",
@@ -76,7 +123,7 @@
       "https://www.lapresse.ca/affaires/entreprises/2026-08-01/contrecoeur/les-300-travailleurs-d-arcelormittal-declenchent-une-greve-illimitee.php"
     ],
     "createdAt": "2026-08-13T00:06:15.000Z",
-    "updatedAt": "2026-08-18T03:51:26Z"
+    "updatedAt": "2026-08-18T04:47:15Z"
   },
   {
     "id": "int-228",
@@ -101,7 +148,7 @@
       "https://phayul.com/solidarity-actions-sweep-dharamshala-to-honour-late-martyr-lobga-rangzen/"
     ],
     "createdAt": "2026-08-13T14:36:01.000Z",
-    "updatedAt": "2026-08-18T03:51:26Z"
+    "updatedAt": "2026-08-18T04:47:15Z"
   },
   {
     "id": "int-235",
@@ -127,7 +174,7 @@
       "https://reinadelaselva.pe/amazonas-paro-en-el-iv-eje-vial-continua-mientras-comunidades-awajun-exigen-obras-y-aclaran-que-no-hubo-retencion-de-autoridades/"
     ],
     "createdAt": "2026-08-13T17:55:31.000Z",
-    "updatedAt": "2026-08-18T03:51:26Z"
+    "updatedAt": "2026-08-18T04:47:15Z"
   },
   {
     "id": "int-238",
@@ -155,7 +202,7 @@
       "https://www.newkerala.com/news/a/pojk-jkaac-alleges-continued-firing-rawalakot-warns-march-705.htm"
     ],
     "createdAt": "2026-08-13T17:55:31.000Z",
-    "updatedAt": "2026-08-18T03:51:26Z"
+    "updatedAt": "2026-08-18T04:47:15Z"
   },
   {
     "id": "int-241",
@@ -185,181 +232,7 @@
       "https://thehorizonwire.co.ke/article/homa-bay-nurses-strike-over-unimplemented-cba-and-welfare-concerns"
     ],
     "createdAt": "2026-08-13T18:59:52.000Z",
-    "updatedAt": "2026-08-18T03:51:26Z"
-  },
-  {
-    "id": "int-385",
-    "seccion": "internacionales",
-    "pais": "Bangladesh",
-    "bandera": "🇧🇩",
-    "hora": "00:00",
-    "fecha": "2026-08-18",
-    "lugar": "Fatikchhari (distrito de Chattogram): los 18 jardines de té de la upazila (entre ellos Karnaphuli, Neptune, Ramgarh, Udalia y New Dantmara)",
-    "tipoAccion": "Movimiento de los trabajadores del té de los 18 jardines de Fatikchhari iniciado este sábado 15 de agosto (paros de trabajo, cadenas humanas y protestas) por el aumento del salario diario a 500 takas, la anulación de la gaceta de 2023, las elecciones del sindicato y la propiedad permanente de la tierra de sus viviendas",
-    "organizaciones": [
-      "Bangladesh Tea Workers Federation",
-      "Trabajadores y trabajadoras de los 18 jardines de té de Fatikchhari (25.000 a 30.000 trabajadores)",
-      "Líderes de panchayat y de valle de los jardines de té"
-    ],
-    "motivo": "Este domingo 16 de agosto de 2026, los trabajadores de los 18 jardines de té de Fatikchhari (Chattogram), unos 25.000 a 30.000 empleados, continúan el movimiento con paros de trabajo, cadenas humanas y protestas en varios jardines (Karnaphuli, Neptune, Ramgarh, Udalia y New Dantmara) por cuatro demandas de la Federación de Trabajadores del Té de Bangladesh: el aumento del salario diario a 500 takas, la anulación de la gaceta de 2023 que consideran perjudicial para sus intereses, la realización de elecciones para el sindicato de trabajadores del té y la propiedad permanente de la tierra de sus viviendas dentro de las plantaciones. Los dirigentes sostienen que el salario actual ya no alcanza frente al encarecimiento de los productos básicos y que muchos trabajadores que viven desde hace generaciones en las fincas carecen de título legal sobre sus hogares. La administración de la upazila mantuvo una reunión de emergencia con los administradores de los jardines y prevé reunirse con los líderes del panchayat el martes 18 de agosto; los dirigentes advierten que, de no atenderse los reclamos, profundizarán las medidas en plena temporada alta de producción de té.",
-    "status": "en_curso",
-    "lat": 22.6936,
-    "lng": 91.8123,
-    "fuentes": [
-      "https://viewsbangladesh.com/fatikchhari-tea-workers-launch-movement-with-fourpoint-demands/"
-    ],
-    "createdAt": "2026-08-15T08:54:24.000Z",
-    "updatedAt": "2026-08-18T03:51:26Z"
-  },
-  {
-    "id": "int-399",
-    "seccion": "internacionales",
-    "pais": "Nigeria",
-    "bandera": "🇳🇬",
-    "hora": "00:00",
-    "fecha": "2026-08-18",
-    "lugar": "Enugu: campus de la Enugu State University of Science and Technology (ESUT) en Agbani y Enugu",
-    "tipoAccion": "Huelga de aviso de dos semanas del ASUU-ESUT (desde el 14 de agosto) por la no implementación del acuerdo FGN-ASUU 2025, con suspensión total de actividades académicas",
-    "organizaciones": [
-      "ASUU-ESUT (Academic Staff Union of Universities, rama ESUT)"
-    ],
-    "motivo": "El 14 de agosto de 2026, la rama ESUT del Sindicato de Docentes Universitarios (ASUU) declaró una huelga de aviso de dos semanas ante la nula implementación del Acuerdo Renegociado FGN-ASUU 2025, la deuda de asignaciones académicas devengadas (EAA) desde 2009 y más de 17 años de atrasos salariales. Este domingo 16 de agosto las actividades académicas siguen suspendidas en los campus de Agbani y Enugu, con un equipo de monitoreo de cumplimiento activo.",
-    "status": "en_curso",
-    "lat": 6.3071,
-    "lng": 7.54,
-    "fuentes": [
-      "https://leadership.ng/asuu-esut-declares-2-week-warning-strike/",
-      "https://guardian.ng/news/esut-lecturers-declare-two-week-strike/"
-    ],
-    "createdAt": "2026-08-15T11:17:06.000Z",
-    "updatedAt": "2026-08-18T03:51:26Z"
-  },
-  {
-    "id": "int-472",
-    "seccion": "internacionales",
-    "pais": "Sudáfrica",
-    "bandera": "🇿🇦",
-    "hora": "00:00",
-    "fecha": "2026-08-18",
-    "lugar": "Universidad de Fort Hare, campus de Alice (Eastern Cape): cierre del campus y suspensión de clases presenciales",
-    "tipoAccion": "Protestas estudiantiles en curso (desde el martes 11 de agosto) por el deterioro de las residencias estudiantiles, con dos estudiantes arrestados por violencia pública el viernes 14",
-    "organizaciones": [
-      "Estudiantes de la Universidad de Fort Hare",
-      "SRC (Consejo de Representantes Estudiantiles) de la Universidad de Fort Hare"
-    ],
-    "motivo": "Desde el martes 11 de agosto de 2026, los estudiantes de la Universidad de Fort Hare mantienen cerrado el campus de Alice (Eastern Cape) en protesta por el deterioro de las residencias estudiantiles, que arrastra problemas desde 2025: techos con filtraciones, saneamiento deficiente y malos olores, falta de luz y calefacción e incluso habitaciones sin ventanas por las que se paga más de 58.000 rands al año, además de una seguridad considerada inadecuada. El SRC denunció que las autoridades repiten las mismas promesas sin plazos reales, lo que incrementó la frustración, y la universidad suspendió las clases presenciales (trasladadas a modalidad online) hasta nuevo aviso. Este viernes 14 de agosto, dos estudiantes de 19 y 23 años fueron arrestados por violencia pública tras arrojar objetos contra vehículos en movimiento e intentar incendiar un vehículo policial en el cuarto día de protestas, mientras la policía de Eastern Cape advertía que tomará acciones adicionales si se repiten incidentes; ambos comparecerán ante el Tribunal de Magistrados de Alice el lunes. Las movilizaciones se mantienen activas este domingo 16 de agosto, en la tercera ronda de disturbios en Alice en 2026.",
-    "status": "en_curso",
-    "lat": -32.7881,
-    "lng": 26.838,
-    "fuentes": [
-      "https://www.sabcnews.com/sabcnews/protests-continue-at-fort-hare-university-despite-student-arrests/",
-      "https://iol.co.za/news/2026-08-14-fort-hare-protest-boils-over-two-students-arrested/",
-      "https://www.ewn.co.za/protesters-at-university-of-fort-hare-warned-against-lawlessness-following-violent-clashes/",
-      "https://www.enca.com/news/paying-room-no-window-student-grievance-spark-protest"
-    ],
-    "createdAt": "2026-08-15T21:17:39.000Z",
-    "updatedAt": "2026-08-18T03:51:26Z"
-  },
-  {
-    "id": "int-566",
-    "seccion": "internacionales",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
-    "hora": "00:00",
-    "fecha": "2026-08-18",
-    "lugar": "Northwest ICE Processing Center (NWIPC), 1623 East J Street, Tacoma, Washington",
-    "tipoAccion": "Huelga de hambre en curso de unos 140 detenidos en el centro de detención del ICE (operado por la empresa privada GEO Group) que desde el martes 11 de agosto rechazan las comidas, en protesta por la comida no comestible, los retrasos de tres a cinco horas en las raciones y la inadecuada atención médica; la huelga de hambre cumple este domingo su quinto día",
-    "organizaciones": [
-      "Detenidos del Northwest ICE Processing Center (NWIPC)",
-      "La Resistencia",
-      "Tsuru for Solidarity",
-      "GEO Group (operador privado del centro)"
-    ],
-    "motivo": "Este domingo 16 de agosto de 2026 continúa en Tacoma la huelga de hambre de unos 140 inmigrantes detenidos en el Northwest ICE Processing Center, iniciada el 11 de agosto, para denunciar las condiciones del centro: comida cruda o no comestible, una dieta repetitiva de arroz y frijoles, desayuno reducido a pan y manzana, reportes de heces de roedores en la comida, comidas retrasadas tres a cinco horas que provocaron desmayos a personas con diabetes e hipertensión, y detenidos con huesos rotos o dislocados sin recibir tratamiento. La activista Josefina Mora-Chung, de La Resistencia, indicó que la huelga es la número 20 del año en el centro. Las congresistas Emily Randall (D-WA) y Maxine Dexter (D-OR) realizaron el sábado una visita de supervisión no anunciada al centro, aunque se les negó el acceso a la unidad médica; reportaron que los funcionarios les mostraron solo registros de unidades que no participaban en la huelga, mientras un detenido en huelga relataba que su unidad fue enviada a confinamiento solitario por hablar con activistas. En apoyo, La Resistencia y Tsuru for Solidarity convocan protestas solidarias y exigen el cierre del centro.",
-    "status": "en_curso",
-    "lat": 47.2421,
-    "lng": -122.4214,
-    "fuentes": [
-      "https://www.thenewstribune.com/news/local/article316894540.html",
-      "https://www.seattletimes.com/seattle-news/politics/troubled-by-new-hunger-strike-congresswomen-inspect-tacoma-ice-center/",
-      "https://www.kiro7.com/news/local/us-representatives-investigate-hunger-strike-tacoma-ice-facility/GYAM7H5JFRHRTL23TOFDTSHB5U/",
-      "https://www.democracynow.org/2026/8/14/headlines/140_immigrants_hold_hunger_strike_at_for_profit_ice_jail_in_tacoma_washington",
-      "https://www.quiverquant.com/news/Press+Release%3A+Maxine+Dexter%2C+Emily+Randall+Conduct+Unannounced+Visit+to+Northwest+Detention+Center"
-    ],
-    "createdAt": "2026-08-16T13:53:48.000Z",
-    "updatedAt": "2026-08-18T03:51:26Z"
-  },
-  {
-    "id": "int-567",
-    "seccion": "internacionales",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "00:00",
-    "fecha": "2026-08-18",
-    "lugar": "Imphal (Manipur): marcha desde Wangkhei Angom Leikai (WAL Club) hacia el Lok Bhavan (cerca del Palace Compound Traffic Point); movimiento anticensal estatal en los distritos de Manipur",
-    "tipoAccion": "Movimiento anticensal estatal 'No NRC, No Census' de la Campaign for Just & Fair Delimitation (JFD), en curso desde el 10 de agosto, con manifestaciones callejeras, desobediencia civil y llamamiento a enumeradores y supervisores a boicotear los entrenamientos y las tareas del censo previsto para el 17 de agosto",
-    "organizaciones": [
-      "Campaign for Just & Fair Delimitation (JFD)",
-      "Jeetendra Ningomba (convocante del JFD)",
-      "Comunidades Meitei, Naga y Meitei Pangal de Manipur"
-    ],
-    "motivo": "Este domingo 16 de agosto de 2026 la Campaign for Just & Fair Delimitation (JFD) anunció que su movimiento anticensal estatal continuará en Manipur, después de que el Gobierno estatal no diera una garantía por escrito de posponer el censo previsto para el 17 de agosto. Una delegación de 15 miembros del JFD se reunió 90 minutos con el gobernador Ajay Kumar Bhalla en el Lok Bhavan de Imphal para exigir una actualización del Registro Nacional de Ciudadanos (NRC) y la rehabilitación de los desplazados internos antes del censo; el gobernador dijo que cualquier decisión formal de posponerlo requeriría una recomendación del Gobierno estatal al Centro. El convocante Jeetendra Ningomba afirmó que las manifestaciones callejeras y la desobediencia civil continuarán hasta que se atiendan las preocupaciones sobre el cambio demográfico y el estatus de los desplazados mediante medidas legales, y el JFD apeló a enumeradores y supervisores de los distritos a boicotear los entrenamientos y abstenerse de participar en tareas censales. La agitación anticensal, que comenzó el 10 de agosto bajo el lema 'No NRC, No Census', reúne a comunidades meitei, naga y meitei pangal; las fuerzas de seguridad detuvieron la marcha hacia las puertas del Lok Bhavan y permitieron el ingreso de solo 15 representantes para entregar el memorando.",
-    "status": "en_curso",
-    "lat": 24.817,
-    "lng": 93.936,
-    "fuentes": [
-      "https://nenow.in/north-east-news/manipur/manipur-jfd-to-continue-anti-census-movement-over-nrc-idp-demands.html",
-      "https://nenow.in/north-east-news/manipur/manipur-census-protests-intensify-amid-nrc-and-immigrant-identification-demands.html"
-    ],
-    "createdAt": "2026-08-16T13:53:48.000Z",
-    "updatedAt": "2026-08-18T03:51:26Z"
-  },
-  {
-    "id": "int-76",
-    "seccion": "internacionales",
-    "pais": "Alemania",
-    "bandera": "🇩🇪",
-    "hora": "10:30",
-    "fecha": "2026-08-18",
-    "lugar": "Jannowitzbrücke, Berlín-Mitte",
-    "tipoAccion": "Protesta de seguidores de Falun Gong contra la persecución en China (10:30-13:00)",
-    "organizaciones": [
-      "Seguidores de Falun Gong / Falun Dafa"
-    ],
-    "motivo": "Este domingo 16 de agosto de 2026, de 10:30 a 13:00, seguidores de Falun Gong protestan en la Jannowitzbrücke de Berlín para exigir el fin de la persecución de los practicantes de Falun Dafa en China y justicia y reparación para los perseguidos por el Partido Comunista Chino. La acción, que se repite a diario en el mismo punto, está registrada ante la autoridad de reuniones de Berlín para todo 2026.",
-    "status": "en_curso",
-    "lat": 52.5156,
-    "lng": 13.4193,
-    "fuentes": [
-      "https://oazis.app/de/event/falun-dafa-ist-gut-wahrhaftigkeit-barmherzigkeit-nachsicht-2026-08-11",
-      "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-      "https://www.ostdeutsche-zeitung.de/berlin/politik/berlin-demonstrationen-mahnwachen-rki-falun-gong-10-august-2026-5409"
-    ],
-    "createdAt": "2026-08-10T17:51:01.000Z",
-    "updatedAt": "2026-08-18T03:51:26Z"
-  },
-  {
-    "id": "int-77",
-    "seccion": "internacionales",
-    "pais": "Países Bajos",
-    "bandera": "🇳🇱",
-    "hora": "12:30",
-    "fecha": "2026-08-18",
-    "lugar": "Plaza De Dam, Ámsterdam (junto a la bandera palestina)",
-    "tipoAccion": "Vigilia de lectura diaria por Palestina (12:30-13:30)",
-    "organizaciones": [
-      "Reading Vigil for Palestine"
-    ],
-    "motivo": "Este domingo 16 de agosto de 2026, de 12:30 a 13:30, se celebra en la plaza De Dam de Ámsterdam la vigilia de lectura diaria por Palestina, en la que los participantes se reúnen junto a la bandera palestina para leer libros de autores palestinos o sobre Palestina, en solidaridad con el pueblo palestino y en rechazo al genocidio en Gaza y a la ocupación israelí de los territorios palestinos.",
-    "status": "en_curso",
-    "lat": 52.3731,
-    "lng": 4.8926,
-    "fuentes": [
-      "https://rightsforum.org/agenda",
-      "https://www.readingvigil.net/"
-    ],
-    "createdAt": "2026-08-10T17:51:01.000Z",
-    "updatedAt": "2026-08-18T03:51:26Z"
+    "updatedAt": "2026-08-18T04:47:15Z"
   },
   {
     "id": "int-255",
@@ -388,129 +261,80 @@
       "https://en.panorama.com.al/protesta-hyn-ne-diten-e-76-te-ne-shesh-sot-zbret-edhe-diaspora-pritet-nje-pjesemarrje-e-jashtezakonshme-thirrjet-e-qytetareve-rama-jep-doreheqjen/"
     ],
     "createdAt": "2026-08-13T22:38:00.000Z",
-    "updatedAt": "2026-08-18T03:51:26Z"
+    "updatedAt": "2026-08-18T04:47:15Z"
   },
   {
-    "id": "int-583",
+    "id": "int-385",
     "seccion": "internacionales",
-    "pais": "Colombia",
-    "bandera": "🇨🇴",
-    "hora": "Bloqueo en curso desde el sábado 15 de agosto a las 14:50 (continúa este domingo)",
+    "pais": "Bangladesh",
+    "bandera": "🇧🇩",
+    "hora": "00:00",
     "fecha": "2026-08-18",
-    "lugar": "Zona Bananera (Magdalena): Ruta Nacional 4518 (Troncal del Oriente), tramo entre Río Frío y Puente Aguja, que comunica a Fundación con la Ye de Ciénaga",
-    "tipoAccion": "Bloqueo comunitario total de la Troncal del Oriente en la Zona Bananera del Magdalena, protagonizado por habitantes del corregimiento de El Reposo, que paralizaron el tránsito vehicular en protesta por las constantes fallas del servicio de energía eléctrica",
+    "lugar": "Fatikchhari (distrito de Chattogram): los 18 jardines de té de la upazila (entre ellos Karnaphuli, Neptune, Ramgarh, Udalia y New Dantmara)",
+    "tipoAccion": "Movimiento de los trabajadores del té de los 18 jardines de Fatikchhari iniciado este sábado 15 de agosto (paros de trabajo, cadenas humanas y protestas) por el aumento del salario diario a 500 takas, la anulación de la gaceta de 2023, las elecciones del sindicato y la propiedad permanente de la tierra de sus viviendas",
     "organizaciones": [
-      "Habitantes del corregimiento de El Reposo (Zona Bananera, Magdalena)",
-      "Comunidades afectadas por las fallas del servicio eléctrico de la región Caribe"
+      "Bangladesh Tea Workers Federation",
+      "Trabajadores y trabajadoras de los 18 jardines de té de Fatikchhari (25.000 a 30.000 trabajadores)",
+      "Líderes de panchayat y de valle de los jardines de té"
     ],
-    "motivo": "Este domingo 16 de agosto de 2026 continúa el bloqueo comunitario que paraliza la Troncal del Oriente en el departamento del Magdalena, luego de que la comunidad del corregimiento de El Reposo, en la Zona Bananera, se tomara el tramo comprendido entre los municipios de Ciénaga y Fundación para protestar contra las fallas constantes del servicio de energía eléctrica. Según informó la concesión Ruta del Sol Sector 3, el bloqueo fue notificado a las 2:50 de la tarde del sábado 15 de agosto, afectando la Ruta Nacional 4518, entre Río Frío y Puente Aguja, vía clave para la región Caribe al conectar los departamentos del Cesar y Norte de Santander. El cierre total ha generado un efecto dominó en los municipios aledaños, con filas de vehículos represados por varios kilómetros hasta el sector de Pueblo Viejo y un agudo embotellamiento en la cabecera urbana de Ciénaga por el volumen de camiones, buses y vehículos particulares que intentan movilizarse desde Santa Marta y Barranquilla. Las autoridades recomiendan a los viajeros abstenerse de realizar desplazamientos innecesarios por este corredor vial mientras se mantiene la movilización.",
+    "motivo": "Este domingo 16 de agosto de 2026, los trabajadores de los 18 jardines de té de Fatikchhari (Chattogram), unos 25.000 a 30.000 empleados, continúan el movimiento con paros de trabajo, cadenas humanas y protestas en varios jardines (Karnaphuli, Neptune, Ramgarh, Udalia y New Dantmara) por cuatro demandas de la Federación de Trabajadores del Té de Bangladesh: el aumento del salario diario a 500 takas, la anulación de la gaceta de 2023 que consideran perjudicial para sus intereses, la realización de elecciones para el sindicato de trabajadores del té y la propiedad permanente de la tierra de sus viviendas dentro de las plantaciones. Los dirigentes sostienen que el salario actual ya no alcanza frente al encarecimiento de los productos básicos y que muchos trabajadores que viven desde hace generaciones en las fincas carecen de título legal sobre sus hogares. La administración de la upazila mantuvo una reunión de emergencia con los administradores de los jardines y prevé reunirse con los líderes del panchayat el martes 18 de agosto; los dirigentes advierten que, de no atenderse los reclamos, profundizarán las medidas en plena temporada alta de producción de té.",
     "status": "en_curso",
-    "lat": 10.6936,
-    "lng": -74.1531,
+    "lat": 22.6936,
+    "lng": 91.8123,
     "fuentes": [
-      "https://www.elheraldo.co/colombia/2026/08/16/bloqueo-comunitario-paraliza-la-troncal-del-oriente-en-el-magdalena/"
+      "https://viewsbangladesh.com/fatikchhari-tea-workers-launch-movement-with-fourpoint-demands/"
     ],
-    "createdAt": "2026-08-16T18:23:19.000Z",
-    "updatedAt": "2026-08-18T03:51:26Z"
+    "createdAt": "2026-08-15T08:54:24.000Z",
+    "updatedAt": "2026-08-18T04:47:15Z"
   },
   {
-    "id": "int-547",
-    "seccion": "internacionales",
-    "pais": "Alemania",
-    "bandera": "🇩🇪",
-    "hora": "Campamento en curso durante todo el día (desde el 13 de agosto)",
-    "fecha": "2026-08-18",
-    "lugar": "Karlsruhe (Baden-Württemberg): parque Günther-Klotz-Anlage, junto al río Alb, al sur del centro urbano",
-    "tipoAccion": "«System Change Camp 2026»: campamento de protesta y encuentro del movimiento por la justicia climática (del 13 al 25 de agosto) con talleres, debates, paneles y actividades culturales, registrado como 'Versammlung' ante la ciudad",
-    "organizaciones": [
-      "Bildungs- und Aktionsnetzwerk Wandel e. V. (organizador)",
-      "Movimiento por la justicia climática de Alemania (entre 1.000 y 2.000 participantes esperados)"
-    ],
-    "motivo": "Este domingo 16 de agosto de 2026 continúa en Karlsruhe el «System Change Camp 2026», el campamento anual del movimiento por la justicia climática que ocupa desde el jueves 13 de agosto la Günther-Klotz-Anlage, el gran parque junto al río Alb, con una expectativa de entre 1.000 y 2.000 participantes según la organización. La asamblea, registrada como reunión pública ('Versammlung') ante la ciudad y organizada por la red Bildungs- und Aktionsnetzwerk Wandel e. V., combina el campamento de protesta con una 'pequeña ciudad de tiendas de campaña' dedicada al intercambio político, la formación y la estrategia del movimiento: el programa de esta edición reúne 157 contribuciones seleccionadas distribuidas en 18 tiendas, con temas que van de la justicia climática y la crítica al capitalismo a los cuidados, la inclusión y la resistencia solidaria, bajo el lema «Hinter den Barrikaden – Care miteinander lernen» (Tras las barricadas: aprender los cuidados mutuamente). El campamento, abierto a visitantes entre las tiendas, llega a su quinta edición (tras Hamburgo, Erfurt y Frankfurt) en medio del debate interno por las acusaciones de antisemitismo de la edición anterior en Frankfurt, con un plan antidiscriminación reforzado y condenas explícitas al antisemitismo; la ciudad de Karlsruhe advirtió que las grandes áreas verdes del parque permanecen ocupadas hasta el final de la cita.",
-    "status": "en_curso",
-    "lat": 49.0016,
-    "lng": 8.3903,
-    "fuentes": [
-      "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/versammlung-system-change-camp-2026-in-der-guenther-klotz-anlage",
-      "https://www.system-change-camp.org/",
-      "https://www.system-change-camp.org/programm/programm-2026/",
-      "https://www.wochenblatt-reporter.de/karlsruhe/c-lokales/klimacamp-in-der-guenther-klotz-anlage-zwei-wochen-versammlung-mit-rund-1000-menschen_a849934",
-      "https://bnn.de/karlsruhe/karlsruhe-stadt/nach-antisemitismusvorwurf-system-change-camp-schlaegt-in-karlsruhe-seine-zelte-auf",
-      "https://www.deutschlandfunk.de/klimagerechtigkeitsbewegung-trifft-sich-zum-system-change-camp-100.html"
-    ],
-    "createdAt": "2026-08-16T09:51:08.000Z",
-    "updatedAt": "2026-08-18T03:51:26Z"
-  },
-  {
-    "id": "int-561",
-    "seccion": "internacionales",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "Durante el día (huelgas de hambre por turnos)",
-    "fecha": "2026-08-18",
-    "lugar": "Telangana: instituciones gubernamentales AYUSH (Hyderabad y otros centros del estado)",
-    "tipoAccion": "Huelga indefinida y huelgas de hambre por turnos (día 13) de los médicos internos ('house surgeons'), estudiantes y médicos de posgrado AYUSH por la revisión de los estipendios, pendiente desde hace casi una década",
-    "organizaciones": [
-      "Médicos 'house surgeons' y de posgrado AYUSH de Telangana",
-      "Asociaciones de médicos AYUSH de Telangana"
-    ],
-    "motivo": "Este domingo 16 de agosto de 2026 continúa en Telangana la huelga indefinida de los médicos internos ('house surgeons'), estudiantes y médicos de posgrado AYUSH, que entró el sábado en su día 12 y mantiene huelgas de hambre por turnos en las instituciones gubernamentales AYUSH del estado para presionar por la revisión de los estipendios, pendiente desde hace casi una década. Los manifestantes afirman que 'no darán un paso atrás' y que continuarán su lucha con huelgas de hambre por turnos hasta que el gobierno atienda sus demandas.",
-    "status": "en_curso",
-    "lat": 17.385,
-    "lng": 78.4867,
-    "fuentes": [
-      "https://www.newindianexpress.com/cities/hyderabad/2026/Aug/16/telanganas-ayush-hunger-strike-enters-day-12"
-    ],
-    "createdAt": "2026-08-16T11:44:01.000Z",
-    "updatedAt": "2026-08-18T03:51:26Z"
-  },
-  {
-    "id": "int-571",
-    "seccion": "internacionales",
-    "pais": "Colombia",
-    "bandera": "🇨🇴",
-    "hora": "Durante la jornada",
-    "fecha": "2026-08-18",
-    "lugar": "La Guajira (Riohacha y municipios del departamento)",
-    "tipoAccion": "Protestas y bloqueos de las comunidades de La Guajira contra Air-e por la calidad y continuidad del suministro eléctrico, con bloqueos, afectaciones a instalaciones eléctricas, actos de vandalismo y amenazas a los trabajadores",
-    "organizaciones": [
-      "Comunidades y ciudadanía de La Guajira",
-      "Air-e (empresa intervenida) y Superservicios (interlocutores)"
-    ],
-    "motivo": "Este domingo 16 de agosto de 2026 continúan en La Guajira las protestas de las comunidades contra la empresa de energía Air-e por la calidad y continuidad del suministro eléctrico en el departamento. Durante la última semana se han registrado bloqueos, ingresos y afectaciones a instalaciones eléctricas, actos de vandalismo y situaciones de agresión o amenaza contra trabajadores y personal encargado de la operación y seguridad de la compañía, por lo que la Superintendencia de Servicios Públicos Domiciliarios y Air-e hicieron un llamado a la comunidad para preservar el orden público y proteger a los trabajadores, comprendiendo las preocupaciones de la ciudadanía pero instando a proteger la integridad de los operarios, cuidar la infraestructura comunitaria y priorizar el diálogo social e institucional. La Superservicios acompaña mesas de trabajo para fortalecer la prestación del servicio y la infraestructura eléctrica, ha presentado alternativas al Ministerio de Energía, al DNP, al Ministerio de Hacienda y a la CREG para buscar mecanismos de estabilización tarifaria y mejorar las inversiones, y se articula una mesa técnica, financiera e institucional de alto nivel para revisar integralmente la situación de La Guajira y definir una hoja de ruta a corto, mediano y largo plazo.",
-    "status": "en_curso",
-    "lat": 11.5449,
-    "lng": -72.9072,
-    "fuentes": [
-      "https://caracol.com.co/2026/08/16/superservicios-pide-proteger-a-trabajadores-de-air-e-ante-protestas-en-la-guajira/"
-    ],
-    "createdAt": "2026-08-16T14:18:54.000Z",
-    "updatedAt": "2026-08-18T03:51:26Z"
-  },
-  {
-    "id": "int-585",
+    "id": "int-399",
     "seccion": "internacionales",
     "pais": "Nigeria",
     "bandera": "🇳🇬",
-    "hora": "En curso (huelga indefinida desde el martes 11 de agosto)",
+    "hora": "00:00",
     "fecha": "2026-08-18",
-    "lugar": "Abia State University (ABSU), campus de Uturu, estado de Abia",
-    "tipoAccion": "Huelga indefinida del personal académico de la Abia State University (ABSU), rama de Uturu de ASUU, por salarios impagos, prestaciones y la suspensión del profesor Nnamdi Nwaeze, con compromiso de sostener la medida hasta que sea reintegrado",
+    "lugar": "Enugu: campus de la Enugu State University of Science and Technology (ESUT) en Agbani y Enugu",
+    "tipoAccion": "Huelga de aviso de dos semanas del ASUU-ESUT (desde el 14 de agosto) por la no implementación del acuerdo FGN-ASUU 2025, con suspensión total de actividades académicas",
     "organizaciones": [
-      "ASUU (Academic Staff Union of Universities), rama ABSU Uturu",
-      "Académicos de la Abia State University"
+      "ASUU-ESUT (Academic Staff Union of Universities, rama ESUT)"
     ],
-    "motivo": "Este domingo 16 de agosto de 2026 continúa la huelga indefinida declarada el martes 11 de agosto por la rama de Uturu del Sindicato de Personal Académico de Universidades (ASUU) en la Abia State University (ABSU), tras rechazar la suspensión del profesor de Economía Nnamdi Nwaeze, acusado por la dirección por publicaciones en redes sociales sobre el bienestar del personal. El sindicato, cuyo dirigente Chidi Mbah ratificó que no se levantará la medida hasta que el docente sea reintegrado, exige además el pago de salarios omitidos, la colocación adecuada en los niveles salariales tras promociones, el pago de once meses de cuotas sindicales, la implementación de la estructura salarial CATA 2025 y de la Asignación Académica Devengada (EAA), la asignación de catedráticos y la remisión de unos 165 millones de nairas descontados de los salarios a la sociedad cooperativa de ASUU. El sindicato también denunció el impago de haberes por hasta 44 meses a algunos miembros y la falta de implementación de acuerdos previos con el gobierno estatal de Abia, tras celebrarse este viernes una reunión con el gobierno sin acuerdo. La rama informó que celebrará un congreso el martes para decidir si acepta la oferta gubernamental.",
+    "motivo": "El 14 de agosto de 2026, la rama ESUT del Sindicato de Docentes Universitarios (ASUU) declaró una huelga de aviso de dos semanas ante la nula implementación del Acuerdo Renegociado FGN-ASUU 2025, la deuda de asignaciones académicas devengadas (EAA) desde 2009 y más de 17 años de atrasos salariales. Este domingo 16 de agosto las actividades académicas siguen suspendidas en los campus de Agbani y Enugu, con un equipo de monitoreo de cumplimiento activo.",
     "status": "en_curso",
-    "lat": 5.8195,
-    "lng": 7.4216,
+    "lat": 6.3071,
+    "lng": 7.54,
     "fuentes": [
-      "https://www.vanguardngr.com/2026/08/asuu-rejects-absu-lecturers-suspension-vows-to-sustain-strike/",
-      "https://punchng.com/we-wont-end-strike-until-suspended-abia-varsity-professor-is-recalled-asuu-chair-mbah/",
-      "https://dailypost.ng/2026/08/11/asuu-declares-indefinite-strike-in-abia-state-university/"
+      "https://leadership.ng/asuu-esut-declares-2-week-warning-strike/",
+      "https://guardian.ng/news/esut-lecturers-declare-two-week-strike/"
     ],
-    "createdAt": "2026-08-16T18:23:19.000Z",
-    "updatedAt": "2026-08-18T03:51:26Z"
+    "createdAt": "2026-08-15T11:17:06.000Z",
+    "updatedAt": "2026-08-18T04:47:15Z"
+  },
+  {
+    "id": "int-472",
+    "seccion": "internacionales",
+    "pais": "Sudáfrica",
+    "bandera": "🇿🇦",
+    "hora": "00:00",
+    "fecha": "2026-08-18",
+    "lugar": "Universidad de Fort Hare, campus de Alice (Eastern Cape): cierre del campus y suspensión de clases presenciales",
+    "tipoAccion": "Protestas estudiantiles en curso (desde el martes 11 de agosto) por el deterioro de las residencias estudiantiles, con dos estudiantes arrestados por violencia pública el viernes 14",
+    "organizaciones": [
+      "Estudiantes de la Universidad de Fort Hare",
+      "SRC (Consejo de Representantes Estudiantiles) de la Universidad de Fort Hare"
+    ],
+    "motivo": "Desde el martes 11 de agosto de 2026, los estudiantes de la Universidad de Fort Hare mantienen cerrado el campus de Alice (Eastern Cape) en protesta por el deterioro de las residencias estudiantiles, que arrastra problemas desde 2025: techos con filtraciones, saneamiento deficiente y malos olores, falta de luz y calefacción e incluso habitaciones sin ventanas por las que se paga más de 58.000 rands al año, además de una seguridad considerada inadecuada. El SRC denunció que las autoridades repiten las mismas promesas sin plazos reales, lo que incrementó la frustración, y la universidad suspendió las clases presenciales (trasladadas a modalidad online) hasta nuevo aviso. Este viernes 14 de agosto, dos estudiantes de 19 y 23 años fueron arrestados por violencia pública tras arrojar objetos contra vehículos en movimiento e intentar incendiar un vehículo policial en el cuarto día de protestas, mientras la policía de Eastern Cape advertía que tomará acciones adicionales si se repiten incidentes; ambos comparecerán ante el Tribunal de Magistrados de Alice el lunes. Las movilizaciones se mantienen activas este domingo 16 de agosto, en la tercera ronda de disturbios en Alice en 2026.",
+    "status": "en_curso",
+    "lat": -32.7881,
+    "lng": 26.838,
+    "fuentes": [
+      "https://www.sabcnews.com/sabcnews/protests-continue-at-fort-hare-university-despite-student-arrests/",
+      "https://iol.co.za/news/2026-08-14-fort-hare-protest-boils-over-two-students-arrested/",
+      "https://www.ewn.co.za/protesters-at-university-of-fort-hare-warned-against-lawlessness-following-violent-clashes/",
+      "https://www.enca.com/news/paying-room-no-window-student-grievance-spark-protest"
+    ],
+    "createdAt": "2026-08-15T21:17:39.000Z",
+    "updatedAt": "2026-08-18T04:47:15Z"
   },
   {
     "id": "int-501",
@@ -541,7 +365,7 @@
       "https://www.theweek.in/news/india/2026/08/16/farmers-march-delhi-protest-punjab-haryana-border-tension-india-us-trade-deal.html"
     ],
     "createdAt": "2026-08-16T02:40:22.000Z",
-    "updatedAt": "2026-08-18T03:51:26Z"
+    "updatedAt": "2026-08-18T04:47:15Z"
   },
   {
     "id": "int-504",
@@ -565,7 +389,160 @@
       "https://atlpresscollective.com/2026/08/15/flock-week-of-action/"
     ],
     "createdAt": "2026-08-16T02:40:22.000Z",
-    "updatedAt": "2026-08-18T03:51:26Z"
+    "updatedAt": "2026-08-18T04:47:15Z"
+  },
+  {
+    "id": "int-547",
+    "seccion": "internacionales",
+    "pais": "Alemania",
+    "bandera": "🇩🇪",
+    "hora": "Campamento en curso durante todo el día (desde el 13 de agosto)",
+    "fecha": "2026-08-18",
+    "lugar": "Karlsruhe (Baden-Württemberg): parque Günther-Klotz-Anlage, junto al río Alb, al sur del centro urbano",
+    "tipoAccion": "«System Change Camp 2026»: campamento de protesta y encuentro del movimiento por la justicia climática (del 13 al 25 de agosto) con talleres, debates, paneles y actividades culturales, registrado como 'Versammlung' ante la ciudad",
+    "organizaciones": [
+      "Bildungs- und Aktionsnetzwerk Wandel e. V. (organizador)",
+      "Movimiento por la justicia climática de Alemania (entre 1.000 y 2.000 participantes esperados)"
+    ],
+    "motivo": "Este domingo 16 de agosto de 2026 continúa en Karlsruhe el «System Change Camp 2026», el campamento anual del movimiento por la justicia climática que ocupa desde el jueves 13 de agosto la Günther-Klotz-Anlage, el gran parque junto al río Alb, con una expectativa de entre 1.000 y 2.000 participantes según la organización. La asamblea, registrada como reunión pública ('Versammlung') ante la ciudad y organizada por la red Bildungs- und Aktionsnetzwerk Wandel e. V., combina el campamento de protesta con una 'pequeña ciudad de tiendas de campaña' dedicada al intercambio político, la formación y la estrategia del movimiento: el programa de esta edición reúne 157 contribuciones seleccionadas distribuidas en 18 tiendas, con temas que van de la justicia climática y la crítica al capitalismo a los cuidados, la inclusión y la resistencia solidaria, bajo el lema «Hinter den Barrikaden – Care miteinander lernen» (Tras las barricadas: aprender los cuidados mutuamente). El campamento, abierto a visitantes entre las tiendas, llega a su quinta edición (tras Hamburgo, Erfurt y Frankfurt) en medio del debate interno por las acusaciones de antisemitismo de la edición anterior en Frankfurt, con un plan antidiscriminación reforzado y condenas explícitas al antisemitismo; la ciudad de Karlsruhe advirtió que las grandes áreas verdes del parque permanecen ocupadas hasta el final de la cita.",
+    "status": "en_curso",
+    "lat": 49.0016,
+    "lng": 8.3903,
+    "fuentes": [
+      "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/versammlung-system-change-camp-2026-in-der-guenther-klotz-anlage",
+      "https://www.system-change-camp.org/",
+      "https://www.system-change-camp.org/programm/programm-2026/",
+      "https://www.wochenblatt-reporter.de/karlsruhe/c-lokales/klimacamp-in-der-guenther-klotz-anlage-zwei-wochen-versammlung-mit-rund-1000-menschen_a849934",
+      "https://bnn.de/karlsruhe/karlsruhe-stadt/nach-antisemitismusvorwurf-system-change-camp-schlaegt-in-karlsruhe-seine-zelte-auf",
+      "https://www.deutschlandfunk.de/klimagerechtigkeitsbewegung-trifft-sich-zum-system-change-camp-100.html"
+    ],
+    "createdAt": "2026-08-16T09:51:08.000Z",
+    "updatedAt": "2026-08-18T04:47:15Z"
+  },
+  {
+    "id": "int-561",
+    "seccion": "internacionales",
+    "pais": "India",
+    "bandera": "🇮🇳",
+    "hora": "Durante el día (huelgas de hambre por turnos)",
+    "fecha": "2026-08-18",
+    "lugar": "Telangana: instituciones gubernamentales AYUSH (Hyderabad y otros centros del estado)",
+    "tipoAccion": "Huelga indefinida y huelgas de hambre por turnos (día 13) de los médicos internos ('house surgeons'), estudiantes y médicos de posgrado AYUSH por la revisión de los estipendios, pendiente desde hace casi una década",
+    "organizaciones": [
+      "Médicos 'house surgeons' y de posgrado AYUSH de Telangana",
+      "Asociaciones de médicos AYUSH de Telangana"
+    ],
+    "motivo": "Este domingo 16 de agosto de 2026 continúa en Telangana la huelga indefinida de los médicos internos ('house surgeons'), estudiantes y médicos de posgrado AYUSH, que entró el sábado en su día 12 y mantiene huelgas de hambre por turnos en las instituciones gubernamentales AYUSH del estado para presionar por la revisión de los estipendios, pendiente desde hace casi una década. Los manifestantes afirman que 'no darán un paso atrás' y que continuarán su lucha con huelgas de hambre por turnos hasta que el gobierno atienda sus demandas.",
+    "status": "en_curso",
+    "lat": 17.385,
+    "lng": 78.4867,
+    "fuentes": [
+      "https://www.newindianexpress.com/cities/hyderabad/2026/Aug/16/telanganas-ayush-hunger-strike-enters-day-12"
+    ],
+    "createdAt": "2026-08-16T11:44:01.000Z",
+    "updatedAt": "2026-08-18T04:47:15Z"
+  },
+  {
+    "id": "int-566",
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "00:00",
+    "fecha": "2026-08-18",
+    "lugar": "Northwest ICE Processing Center (NWIPC), 1623 East J Street, Tacoma, Washington",
+    "tipoAccion": "Huelga de hambre en curso de unos 140 detenidos en el centro de detención del ICE (operado por la empresa privada GEO Group) que desde el martes 11 de agosto rechazan las comidas, en protesta por la comida no comestible, los retrasos de tres a cinco horas en las raciones y la inadecuada atención médica; la huelga de hambre cumple este domingo su quinto día",
+    "organizaciones": [
+      "Detenidos del Northwest ICE Processing Center (NWIPC)",
+      "La Resistencia",
+      "Tsuru for Solidarity",
+      "GEO Group (operador privado del centro)"
+    ],
+    "motivo": "Este domingo 16 de agosto de 2026 continúa en Tacoma la huelga de hambre de unos 140 inmigrantes detenidos en el Northwest ICE Processing Center, iniciada el 11 de agosto, para denunciar las condiciones del centro: comida cruda o no comestible, una dieta repetitiva de arroz y frijoles, desayuno reducido a pan y manzana, reportes de heces de roedores en la comida, comidas retrasadas tres a cinco horas que provocaron desmayos a personas con diabetes e hipertensión, y detenidos con huesos rotos o dislocados sin recibir tratamiento. La activista Josefina Mora-Chung, de La Resistencia, indicó que la huelga es la número 20 del año en el centro. Las congresistas Emily Randall (D-WA) y Maxine Dexter (D-OR) realizaron el sábado una visita de supervisión no anunciada al centro, aunque se les negó el acceso a la unidad médica; reportaron que los funcionarios les mostraron solo registros de unidades que no participaban en la huelga, mientras un detenido en huelga relataba que su unidad fue enviada a confinamiento solitario por hablar con activistas. En apoyo, La Resistencia y Tsuru for Solidarity convocan protestas solidarias y exigen el cierre del centro.",
+    "status": "en_curso",
+    "lat": 47.2421,
+    "lng": -122.4214,
+    "fuentes": [
+      "https://www.thenewstribune.com/news/local/article316894540.html",
+      "https://www.seattletimes.com/seattle-news/politics/troubled-by-new-hunger-strike-congresswomen-inspect-tacoma-ice-center/",
+      "https://www.kiro7.com/news/local/us-representatives-investigate-hunger-strike-tacoma-ice-facility/GYAM7H5JFRHRTL23TOFDTSHB5U/",
+      "https://www.democracynow.org/2026/8/14/headlines/140_immigrants_hold_hunger_strike_at_for_profit_ice_jail_in_tacoma_washington",
+      "https://www.quiverquant.com/news/Press+Release%3A+Maxine+Dexter%2C+Emily+Randall+Conduct+Unannounced+Visit+to+Northwest+Detention+Center"
+    ],
+    "createdAt": "2026-08-16T13:53:48.000Z",
+    "updatedAt": "2026-08-18T04:47:15Z"
+  },
+  {
+    "id": "int-567",
+    "seccion": "internacionales",
+    "pais": "India",
+    "bandera": "🇮🇳",
+    "hora": "00:00",
+    "fecha": "2026-08-18",
+    "lugar": "Imphal (Manipur): marcha desde Wangkhei Angom Leikai (WAL Club) hacia el Lok Bhavan (cerca del Palace Compound Traffic Point); movimiento anticensal estatal en los distritos de Manipur",
+    "tipoAccion": "Movimiento anticensal estatal 'No NRC, No Census' de la Campaign for Just & Fair Delimitation (JFD), en curso desde el 10 de agosto, con manifestaciones callejeras, desobediencia civil y llamamiento a enumeradores y supervisores a boicotear los entrenamientos y las tareas del censo previsto para el 17 de agosto",
+    "organizaciones": [
+      "Campaign for Just & Fair Delimitation (JFD)",
+      "Jeetendra Ningomba (convocante del JFD)",
+      "Comunidades Meitei, Naga y Meitei Pangal de Manipur"
+    ],
+    "motivo": "Este domingo 16 de agosto de 2026 la Campaign for Just & Fair Delimitation (JFD) anunció que su movimiento anticensal estatal continuará en Manipur, después de que el Gobierno estatal no diera una garantía por escrito de posponer el censo previsto para el 17 de agosto. Una delegación de 15 miembros del JFD se reunió 90 minutos con el gobernador Ajay Kumar Bhalla en el Lok Bhavan de Imphal para exigir una actualización del Registro Nacional de Ciudadanos (NRC) y la rehabilitación de los desplazados internos antes del censo; el gobernador dijo que cualquier decisión formal de posponerlo requeriría una recomendación del Gobierno estatal al Centro. El convocante Jeetendra Ningomba afirmó que las manifestaciones callejeras y la desobediencia civil continuarán hasta que se atiendan las preocupaciones sobre el cambio demográfico y el estatus de los desplazados mediante medidas legales, y el JFD apeló a enumeradores y supervisores de los distritos a boicotear los entrenamientos y abstenerse de participar en tareas censales. La agitación anticensal, que comenzó el 10 de agosto bajo el lema 'No NRC, No Census', reúne a comunidades meitei, naga y meitei pangal; las fuerzas de seguridad detuvieron la marcha hacia las puertas del Lok Bhavan y permitieron el ingreso de solo 15 representantes para entregar el memorando.",
+    "status": "en_curso",
+    "lat": 24.817,
+    "lng": 93.936,
+    "fuentes": [
+      "https://nenow.in/north-east-news/manipur/manipur-jfd-to-continue-anti-census-movement-over-nrc-idp-demands.html",
+      "https://nenow.in/north-east-news/manipur/manipur-census-protests-intensify-amid-nrc-and-immigrant-identification-demands.html"
+    ],
+    "createdAt": "2026-08-16T13:53:48.000Z",
+    "updatedAt": "2026-08-18T04:47:15Z"
+  },
+  {
+    "id": "int-571",
+    "seccion": "internacionales",
+    "pais": "Colombia",
+    "bandera": "🇨🇴",
+    "hora": "Durante la jornada",
+    "fecha": "2026-08-18",
+    "lugar": "La Guajira (Riohacha y municipios del departamento)",
+    "tipoAccion": "Protestas y bloqueos de las comunidades de La Guajira contra Air-e por la calidad y continuidad del suministro eléctrico, con bloqueos, afectaciones a instalaciones eléctricas, actos de vandalismo y amenazas a los trabajadores",
+    "organizaciones": [
+      "Comunidades y ciudadanía de La Guajira",
+      "Air-e (empresa intervenida) y Superservicios (interlocutores)"
+    ],
+    "motivo": "Desde hace una semana las comunidades de La Guajira protestan contra la empresa de energía Air-e por la calidad y continuidad del suministro eléctrico, con bloqueos, ingresos y afectaciones a instalaciones eléctricas, actos de vandalismo y amenazas a los trabajadores. La Superservicios ha presentado alternativas al Ministerio de Energía, el DNP, el Ministerio de Hacienda y la CREG para buscar mecanismos de estabilización tarifaria. Se articula una mesa técnica, financiera e institucional de alto nivel para revisar la situación.",
+    "status": "en_curso",
+    "lat": 11.5449,
+    "lng": -72.9072,
+    "fuentes": [
+      "https://caracol.com.co/2026/08/16/superservicios-pide-proteger-a-trabajadores-de-air-e-ante-protestas-en-la-guajira/"
+    ],
+    "createdAt": "2026-08-16T14:18:54.000Z",
+    "updatedAt": "2026-08-18T04:47:15Z"
+  },
+  {
+    "id": "int-585",
+    "seccion": "internacionales",
+    "pais": "Nigeria",
+    "bandera": "🇳🇬",
+    "hora": "En curso (huelga indefinida desde el martes 11 de agosto)",
+    "fecha": "2026-08-18",
+    "lugar": "Abia State University (ABSU), campus de Uturu, estado de Abia",
+    "tipoAccion": "Huelga indefinida del personal académico de la Abia State University (ABSU), rama de Uturu de ASUU, por salarios impagos, prestaciones y la suspensión del profesor Nnamdi Nwaeze",
+    "organizaciones": [
+      "ASUU (Academic Staff Union of Universities), rama ABSU Uturu",
+      "Académicos de la Abia State University"
+    ],
+    "motivo": "Huelga indefinida declarada el martes 11 de agosto por la rama de Uturu de ASUU en la Abia State University (ABSU), tras la suspensión del profesor de Economía Nnamdi Nwaeze por publicaciones en redes sociales sobre el bienestar del personal. El sindicato exige la reincorporación del docente, el pago de salarios impagos (hasta 44 meses para algunos miembros), la implementación de la estructura salarial CATA 2025 y otras mejoras laborales.",
+    "status": "en_curso",
+    "lat": 5.8195,
+    "lng": 7.4216,
+    "fuentes": [
+      "https://www.vanguardngr.com/2026/08/asuu-rejects-absu-lecturers-suspension-vows-to-sustain-strike/",
+      "https://punchng.com/we-wont-end-strike-until-suspended-abia-varsity-professor-is-recalled-asuu-chair-mbah/",
+      "https://dailypost.ng/2026/08/11/asuu-declares-indefinite-strike-in-abia-state-university/"
+    ],
+    "createdAt": "2026-08-16T18:23:19.000Z",
+    "updatedAt": "2026-08-18T04:47:15Z"
   },
   {
     "id": "int-607",
@@ -590,7 +567,7 @@
       "https://www.pravda.com.ua/eng/news/2026/08/16/8048910/"
     ],
     "createdAt": "2026-08-17T10:28:36.000Z",
-    "updatedAt": "2026-08-18T03:51:26Z"
+    "updatedAt": "2026-08-18T04:47:15Z"
   },
   {
     "id": "int-611",
@@ -612,7 +589,7 @@
       "https://www.thehindu.com/news/national/andhra-pradesh/junior-doctors-in-ap-to-withdraw-emergency-services-from-monday-demanding-stipend-hike/article71352771.ece"
     ],
     "createdAt": "2026-08-17T10:28:36.000Z",
-    "updatedAt": "2026-08-18T03:51:26Z"
+    "updatedAt": "2026-08-18T04:47:15Z"
   },
   {
     "id": "int-612",
@@ -634,7 +611,7 @@
       "https://www.newindianexpress.com/states/karnataka/2026/Aug/17/karnataka-shootout-hundreds-protest-at-hanur-police-station"
     ],
     "createdAt": "2026-08-17T10:28:36.000Z",
-    "updatedAt": "2026-08-18T03:51:26Z"
+    "updatedAt": "2026-08-18T04:47:15Z"
   },
   {
     "id": "int-614",
@@ -659,7 +636,7 @@
       "https://news.hellaz.eu/tax-inspectors-launch-10-day-strike-at-the-peak-of-tax-evasion-season-in-greece-603312.html"
     ],
     "createdAt": "2026-08-17T10:28:36.000Z",
-    "updatedAt": "2026-08-18T03:51:26Z"
+    "updatedAt": "2026-08-18T04:47:15Z"
   },
   {
     "id": "int-615",
@@ -685,7 +662,7 @@
       "https://www.grocerygazette.co.uk/2026/08/10/pilgrims-europes-workers-plan-strike-at-enniskillen-site/"
     ],
     "createdAt": "2026-08-17T10:28:36.000Z",
-    "updatedAt": "2026-08-18T03:51:26Z"
+    "updatedAt": "2026-08-18T04:47:15Z"
   },
   {
     "id": "int-616",
@@ -709,7 +686,7 @@
       "https://timesofindia.indiatimes.com/india/jharkhand-protest-cid-raids-jssc-office-as-talks-resume-6-protesters-on-hunger-strike-top-developments/articleshow/133292546.cms"
     ],
     "createdAt": "2026-08-17T10:28:36.000Z",
-    "updatedAt": "2026-08-18T03:51:26Z"
+    "updatedAt": "2026-08-18T04:47:15Z"
   },
   {
     "id": "int-630",
@@ -737,7 +714,7 @@
       "https://eurasianet.org/tbilisi-protests-pass-500-days-with-no-end-in-sight-what-choice-do-we-have"
     ],
     "createdAt": "2026-08-17T11:30:49.000Z",
-    "updatedAt": "2026-08-18T03:51:26Z"
+    "updatedAt": "2026-08-18T04:47:15Z"
   },
   {
     "id": "int-631",
@@ -764,7 +741,7 @@
       "https://hrnewscanada.com/metro-vancouver-transit-workers-plan-uniform-ban-starting-monday/"
     ],
     "createdAt": "2026-08-17T11:30:49.000Z",
-    "updatedAt": "2026-08-18T03:51:26Z"
+    "updatedAt": "2026-08-18T04:47:15Z"
   },
   {
     "id": "int-632",
@@ -792,7 +769,7 @@
       "https://elpais.com/espana/2026-08-17/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html"
     ],
     "createdAt": "2026-08-17T11:30:49.000Z",
-    "updatedAt": "2026-08-18T03:51:26Z"
+    "updatedAt": "2026-08-18T04:47:15Z"
   },
   {
     "id": "int-633",
@@ -817,7 +794,7 @@
       "https://striketracker.app/strikes-in-united-kingdom/east-midlands-east-midlands-railway-train-strike-1-15-aug-2026"
     ],
     "createdAt": "2026-08-17T11:30:49.000Z",
-    "updatedAt": "2026-08-18T03:51:26Z"
+    "updatedAt": "2026-08-18T04:47:15Z"
   },
   {
     "id": "int-634",
@@ -840,7 +817,7 @@
       "https://www.milenio.com/comunidad/regreso-a-clases-unam-2026-fcpys-pospone-actividades-academicas"
     ],
     "createdAt": "2026-08-17T11:30:49.000Z",
-    "updatedAt": "2026-08-18T03:51:26Z"
+    "updatedAt": "2026-08-18T04:47:15Z"
   },
   {
     "id": "int-649",
@@ -867,7 +844,7 @@
       "https://theactive.thaipbs.or.th/video/politics-20260817"
     ],
     "createdAt": "2026-08-17T17:23:24.000Z",
-    "updatedAt": "2026-08-18T03:51:26Z"
+    "updatedAt": "2026-08-18T04:47:15Z"
   },
   {
     "id": "int-650",
@@ -895,7 +872,7 @@
       "https://dailypioneer.com/news/one-arrested-in-killing-of-mcd-sanitation-worker-in-kalyanpuri"
     ],
     "createdAt": "2026-08-17T17:23:24.000Z",
-    "updatedAt": "2026-08-18T03:51:26Z"
+    "updatedAt": "2026-08-18T04:47:15Z"
   },
   {
     "id": "int-662",
@@ -918,7 +895,7 @@
       "https://www.wsws.org/en/articles/2026/08/17/sgdp-a17.html"
     ],
     "createdAt": "2026-08-17T20:22:38.000Z",
-    "updatedAt": "2026-08-18T03:51:26Z"
+    "updatedAt": "2026-08-18T04:47:15Z"
   },
   {
     "id": "int-667",
@@ -947,7 +924,7 @@
       "https://www.limfjordupdate.dk/aktivister-kraever-forbud-mod-eksport-af-ulovlige-pesticider-fra-cheminova/"
     ],
     "createdAt": "2026-08-17T21:22:40.000Z",
-    "updatedAt": "2026-08-18T03:51:26Z"
+    "updatedAt": "2026-08-18T04:47:15Z"
   },
   {
     "id": "int-668",
@@ -969,7 +946,7 @@
       "https://www.timeslive.co.za/news/2026-08-17-tsakane-residents-protest-over-days-without-electricity/"
     ],
     "createdAt": "2026-08-17T21:22:40.000Z",
-    "updatedAt": "2026-08-18T03:51:26Z"
+    "updatedAt": "2026-08-18T04:47:15Z"
   },
   {
     "id": "int-670",
@@ -995,304 +972,7 @@
       "https://www.engineeringnews.co.za/article/uasa-to-embark-on-protected-strike-in-sugar-industry-2026-08-14"
     ],
     "createdAt": "2026-08-17T21:49:33.000Z",
-    "updatedAt": "2026-08-18T03:51:26Z"
-  },
-  {
-    "id": "int-672",
-    "seccion": "internacionales",
-    "pais": "Reino Unido",
-    "bandera": "🇬🇧",
-    "hora": "Durante el día (retiro de cobertura de emergencia desde el 17 de agosto)",
-    "fecha": "2026-08-18",
-    "lugar": "Blackburn y Burnley, Lancashire, Inglaterra: Royal Blackburn Hospital y Burnley General Hospital (parte del servicio de patología East Lancashire)",
-    "tipoAccion": "Retiro de la cobertura de servicios de emergencia (análisis de sangre y transfusiones) por parte de científicos de sangre en huelga de Unite, tras el colapso de un acuerdo especial que mantenía los servicios críticos durante la acción industrial en curso desde junio",
-    "organizaciones": [
-      "Unite the Union",
-      "Científicos de sangre (blood scientists) del Royal Blackburn Hospital y Burnley General Hospital"
-    ],
-    "motivo": "Este lunes 17 de agosto de 2026, el sindicato Unite retiró la cobertura especial que permitía a algunos trabajadores en huelga continuar prestando servicios críticos incluyendo análisis de sangre de emergencia y transfusiones en el Royal Blackburn Hospital y el Burnley General Hospital de Lancashire, tras el colapso de un acuerdo especial con el confianza. Los científicos de sangre vienen en huelga desde junio en una disputa sobre el pago de vacaciones, y el servicio solo puede procesar entre el 50% y el 70% de las aproximadamente 3.000 pruebas de sangre rutinarias que los médicos de atención primaria solicitan diariamente. Unite afirmó que se retiró del acuerdo porque el confianza intentaba 'socavar' la huelga asignando trabajo rutinero a personal que aún trabajaba durante las jornadas de paro, en lugar de limitarse a la cobertura de 'vida y extremidades' que el acuerdo establece. La secretaria general de Unite, Sharon Graham, declaró que la disputa continuará escalando hasta que el confianza presente una oferta aceptable.",
-    "status": "en_curso",
-    "lat": 53.7496,
-    "lng": -2.4599,
-    "fuentes": [
-      "https://www.bbc.com/news/articles/c62emry1411o"
-    ],
-    "createdAt": "2026-08-17T21:49:33.000Z",
-    "updatedAt": "2026-08-18T03:51:26Z"
-  },
-  {
-    "id": "int-676",
-    "seccion": "internacionales",
-    "pais": "Italia",
-    "bandera": "🇮🇹",
-    "hora": "Presidio desde las 05:00 (todo el día)",
-    "fecha": "2026-08-18",
-    "lugar": "Reggio Emilia: Bosco Ospizio, Via Emilia (zona verde protegida frente a la obra de un supermercado Conad)",
-    "tipoAccion": "Presidio ambiental de unas 300 personas desde el amanecer para impedir la construcción de un supermercado Conad en zona verde protegida",
-    "organizaciones": [
-      "Colectivos ambientales y ciudadanos de Reggio Emilia",
-      "Comité ciudadano por la defensa del Bosco Ospizio"
-    ],
-    "motivo": "El lunes 17 de agosto de 2026, desde las 5:00 de la mañana, unas 300 personas establecieron un presidio permanente en el Bosco Ospizio de Reggio Emilia, una zona verde protegida junto a la Via Emilia, para oponerse a la construcción de un supermercado Conad en ese espacio natural. Los manifestantes exigen la suspensión inmediata de las obras y la protección del área verde, que constituye un pulmón para la ciudad y un hábitat de biodiversidad local. El presидio se mantiene activo durante todo el día con la presencia de families, ecologistas y vecinos.",
-    "status": "en_curso",
-    "lat": 44.7025,
-    "lng": 10.6342,
-    "fuentes": [
-      "https://www.zazoom.it/2026-08-17/presidio-al-bosco-ospizio-dallalba-in-300-contro-conad-in-difesa-dellarea-verde-si-sospendano-subito-i-lavori/19576407/"
-    ],
-    "createdAt": "2026-08-17T23:19:52.000Z",
-    "updatedAt": "2026-08-18T03:51:26Z"
-  },
-  {
-    "id": "int-677",
-    "seccion": "internacionales",
-    "pais": "Turquía",
-    "bandera": "🇹🇷",
-    "hora": "Sentada en curso (día 22)",
-    "fecha": "2026-08-18",
-    "lugar": "Ankara: Monumento de los Mineros (Madenci Anıtı), أمام el Ministerio de Energía",
-    "tipoAccion": "Sentada de mineros de Doruk Madencilik (Yıldızlar SSS Holding) en su día 22, exigiendo el pago de salarios, indemnizaciones y aportes jubilatorios adeudados",
-    "organizaciones": [
-      "Sindicato Türkiye Maden-İş (rama de Anatolia Central)",
-      "Trabajadores de Doruk Madencilik (filial de Yıldızlar SSS Holding)"
-    ],
-    "motivo": "El lunes 17 de agosto de 2026 continúa la sentada de mineros de la empresa Doruk Madencilik (perteneciente a Yıldızlar SSS Holding) frente al Monumento de los Mineros en Ankara, en su día 22 consecutivo. Los trabajadores exigen el pago de indemnizaciones por despido, vacaciones adeudadas y descuentos jubilatorios que la empresa no ha abonado. El sindicato Türkiye Maden-İş advirtió que, de no recibirse pago esta semana, la protesta se escalará con acciones más contundentes. La sentada se realiza en un contexto de creciente conflictividad laboral en el sector minero turco.",
-    "status": "en_curso",
-    "lat": 39.9283,
-    "lng": 32.8543,
-    "fuentes": [
-      "https://www.sondakika.com/guncel/haber-maden-iscilerinden-ankarada-eylem-bu-hafta-20152046/"
-    ],
-    "createdAt": "2026-08-17T23:19:52.000Z",
-    "updatedAt": "2026-08-18T03:51:26Z"
-  },
-  {
-    "id": "int-685",
-    "seccion": "internacionales",
-    "pais": "Colombia",
-    "bandera": "🇨🇴",
-    "hora": "Durante el día (protestas en curso desde la semana del 10 de agosto)",
-    "fecha": "2026-08-18",
-    "lugar": "Buenaventura (Valle del Cauca) y Quibdó (Chocó): barrios afectados por el terremoto del 10 de agosto",
-    "tipoAccion": "Protestas de damnificados por el terremoto del 10 de agosto en el epicentro del Chocó y en Buenaventura, exigiendo asistencia humanitaria y denunciando el olvido estatal",
-    "organizaciones": [
-      "Comunidades damnificadas por el terremoto",
-      "Organizaciones barriales de Buenaventura y Quibdó",
-      "Juntas de acción comunal"
-    ],
-    "motivo": "El lunes 17 de agosto de 2026 continúan las protestas de las comunidades damnificadas por el devastador terremoto del 10 de agosto en Colombia, cuyo epicentro se ubicó en el departamento del Chocó, con un saldo de al menos 289 muertos, 4.187 heridos y 143 desaparecidos a nivel nacional. En Buenaventura y Quibdó, los afectados denuncian el 'olvido estatal' y la falta de asistencia humanitaria: sin agua potable, sin alimentos, sin cobertura médica y con las calles cubiertas de escombros tras el colapso de carreteras que dejó a las comunidades aisladas. Los manifestantes bloquearon vías y exigen la declaración de emergencia humanitaria, la llegada de ayuda alimentaria y médica, y la reconstrucción urgente de la infraestructura destruida.",
-    "status": "en_curso",
-    "lat": 3.8801,
-    "lng": -77.0191,
-    "fuentes": [
-      "https://www.france24.com/es/am%C3%A9rica-latina/20260811-estamos-en-la-calle-desesperaci%C3%B3n-en-el-choc%C3%B3-epicentro-del-mort%C3%ADfero-terremoto-en-colombia",
-      "https://www.elheraldo.co/colombia/2026/08/17/en-vivo-terremoto-en-colombia-ultimo-balance-y-nuevas-replicas/",
-      "https://cambiocolombia.com/poder/articulo/2026/8/buenaventura-aislados-sin-agua-y-con-las-calles-cubiertas-de-escombros"
-    ],
-    "createdAt": "2026-08-17T23:19:52.000Z",
-    "updatedAt": "2026-08-18T03:51:26Z"
-  },
-  {
-    "id": "int-687",
-    "seccion": "internacionales",
-    "pais": "Reino Unido",
-    "bandera": "🇬🇧",
-    "hora": "00:00",
-    "fecha": "2026-08-18",
-    "lugar": "Reino Unido: red ferroviaria nacional (Network Rail) y 14 compañías operadoras de trenes",
-    "tipoAccion": "Huelga nacional ferroviaria de 3 días (18, 19 y 20 de agosto) convocada por RMT y TSSA con unos 40.000 trabajadores",
-    "organizaciones": [
-      "RMT (National Union of Rail, Maritime and Transport Workers)",
-      "TSSA (Transport Salaried Staffs' Association)"
-    ],
-    "motivo": "Huelga nacional ferroviaria de tres días que afecta a unos 40.000 trabajadores de Network Rail y 14 compañías operadoras de trenes, convocada por los sindicatos RMT y TSSA en disputa salarial y por condiciones laborales. Los sindicatos denuncian una oferta salarial insuficiente que no compensa la inflación acumulada, recortes en condiciones de jubilación y la falta de compromisos sobre la seguridad laboral frente a la automatización. Network Rail calificó la huelga de 'completamente innecesaria' y anunció servicios mínimos reducidos. Se esperan cancelaciones masivas y retrasos en toda la red ferroviaria británica durante los tres días de paro.",
-    "status": "en_curso",
-    "lat": 51.5074,
-    "lng": -0.1278,
-    "fuentes": [
-      "https://www.bbc.co.uk/news/articles/c978nx6e0npo",
-      "https://www.rmt.org.uk/news/rmt-announces-national-rail-strike/",
-      "https://www.theguardian.com/uk-news/2026/aug/18/rail-strike-three-day-rmt-tssa"
-    ],
-    "createdAt": "2026-08-18T01:03:47.000Z",
-    "updatedAt": "2026-08-18T03:51:26Z"
-  },
-  {
-    "id": "int-688",
-    "seccion": "internacionales",
-    "pais": "Alemania",
-    "bandera": "🇩🇪",
-    "hora": "06:00",
-    "fecha": "2026-08-18",
-    "lugar": "Bremerhaven: puertos de Bremen/Bremerhaven (BLG Logistics, Eurogate, GLT, BUKO, NTB, Eurogate Container Terminal)",
-    "tipoAccion": "Huelga de advertencia (warning strike) de 24 horas del sindicato Verdi en los puertos de Bremen y Bremerhaven",
-    "organizaciones": [
-      "Verdi (Vereinte Dienstleistungsgewerkschaft)"
-    ],
-    "motivo": "Huelga de advertencia de 24 horas convocada por el sindicato Verdi en los puertos de Bremen y Bremerhaven desde las 06:00 del lunes 18 de agosto, en el marco de la ronda 4 de negociaciones colectivas con la asociación patronal ZDS (Zentralverband der Deutschen Seeschifffahrt). La huelga afecta a los trabajadores portuarios de BLG Logistics, Eurogate, GLT, BUKO y NTB. Verdi exige un aumento salarial de 1,50 euros por hora para los aproximadamente 3.500 trabajadores portuarios, así como mejoras en las condiciones de trabajo para el personal de corte de bridas y un aumento del 2,5% para el personal de oficina. La anterior ronda de negociaciones en julio no alcanzó acuerdo, y Verdi advirtió de nuevas huelgas si la patronal no presenta una oferta seria.",
-    "status": "en_curso",
-    "lat": 53.5396,
-    "lng": 8.5809,
-    "fuentes": [
-      "https://www.verdi.de/verdi/aktuell/2026/26-08-18-warnstreik-bremen-bremerhaven",
-      "https://www.weser-kurier.de/bremen/bremerhaven-hafen-warnstreik-verdi-zds"
-    ],
-    "createdAt": "2026-08-18T01:03:47.000Z",
-    "updatedAt": "2026-08-18T03:51:26Z"
-  },
-  {
-    "id": "int-689",
-    "seccion": "internacionales",
-    "pais": "Brasil",
-    "bandera": "🇧🇷",
-    "hora": "00:00",
-    "fecha": "2026-08-18",
-    "lugar": "Brasil: acciones en múltiples estados (São Paulo, Brasilia, Río de Janeiro, Minas Gerais, Paraná, Rio Grande do Sul, Bahía, entre otros)",
-    "tipoAccion": "Jornada nacional de parálisis y manifestaciones del sector público contra la Reforma Administrativa (PEC 32/2019)",
-    "organizaciones": [
-      "CUT (Central Única dos Trabalhadores)",
-      "Confederação Nacional dos Servidores Públicos",
-      "FENASESP",
-      " sindicatos estatales y municipales de múltiples estados"
-    ],
-    "motivo": "Jornada nacional de parálisis del sector público convocada por la CUT y centrales sindicales aliadas el 18 de agosto de 2026, en oposición a la Reforma Administrativa (PEC 32/2019) que modifica el régimen jurídico de los funcionarios públicos. Los sindicatos denuncian que la reforma precariza el empleo público, facilita despidos sin justa causa, limita la estabilidad funcional y flexibiliza la contratación temporal. La CUT convocó paralizaciones en ministerios, agencias reguladoras, universidades federales, hospitales del SUS y otros órganos públicos en al menos 15 estados, con concentraciones principales en Brasilia (frente al Congreso Nacional) y São Paulo (Praça da Sé). Es la mayor acción de fuerza del sector público contra la reforma desde su aprobación legislativa.",
-    "status": "en_curso",
-    "lat": -15.7801,
-    "lng": -47.9292,
-    "fuentes": [
-      "https://www.cut.org.br/noticias/cut-convoca-paralizacao-nacional-do-setor-publico-para-18-de-agosto",
-      "https://www.metropoles.com/brasil/sector-publico-paraliza-em-18-de-agosto-contra-reforma-administrativa"
-    ],
-    "createdAt": "2026-08-18T01:03:47.000Z",
-    "updatedAt": "2026-08-18T03:51:26Z"
-  },
-  {
-    "id": "int-690",
-    "seccion": "internacionales",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "00:00",
-    "fecha": "2026-08-18",
-    "lugar": "Aragón: puntos de servicio de prevención y extinción de incendios forestales (INFOAR) en toda la comunidad autónoma",
-    "tipoAccion": "Inicio de huelga indefinida de los bomberos y bomberas forestales de Aragón (INFOAR) en servicios mínimos del 100%",
-    "organizaciones": [
-      "CGT",
-      "OSTA",
-      "UGT",
-      "CCOO",
-      "Comité Intercentros de SARGA",
-      "Comité de Huelga de Bomberos y Bomberas Forestales de Aragón"
-    ],
-    "motivo": "Inicio de la huelga indefinida de los bomberos y bomberas forestales de Aragón (INFOAR) el lunes 18 de agosto de 2026, tras el fracaso de la mediación en el SAMA entre el Comité de Huelga y la empresa pública SARGA. Los sindicatos CGT, OSTA, UGT y CCOO denuncian que el dispositivo autonómico de prevención y extinción de incendios forestales está 'estructuralmente infradimensionado'. Las principales reivindicaciones incluyen el aumento de entre 150 y 200 efectivos para reforzar las brigadas terrestres y helitransportadas durante todo el año, contrataciones por un mínimo de seis meses, mejora de los tiempos de descanso y condiciones laborales dignas. Los servicios mínimos están fijados en el 100%, por lo que la huelga no supone un abandono del servicio, pero las movilizaciones se realizarán exclusivamente en los días de descanso semanal. La huelga se produce en un verano en el que Aragón encadena varias semanas de alerta roja por incendios forestales, con el incendio de Las Peñas de Riglos (Huesca) que supera las 12.000 hectáreas.",
-    "status": "en_curso",
-    "lat": 41.6488,
-    "lng": -0.8891,
-    "fuentes": [
-      "https://www.elperiodicodearagon.com/aragon/2026/08/15/bomberos-forestales-aragon-dicen-combaten-fuego-limite-huelga-133393907.html",
-      "https://cadenaser.com/aragon/2026/08/14/los-bomberos-forestales-mantienen-la-huelga-indefinida-tras-fracasar-la-negociacion-con-sarga-radio-zaragoza/",
-      "https://www.hoyaragon.es/meteo/bomberos-forestales-aragon-acuerdo-gobierno-nos-jugamos-vida-sientan-negociar/20260814082650141897.html"
-    ],
-    "createdAt": "2026-08-18T01:03:47.000Z",
-    "updatedAt": "2026-08-18T03:51:26Z"
-  },
-  {
-    "id": "int-691",
-    "seccion": "internacionales",
-    "pais": "Canadá",
-    "bandera": "🇨🇦",
-    "hora": "11:00",
-    "fecha": "2026-08-18",
-    "lugar": "Sudbury, Ontario: Extendicare York Long Term Care Home, 1360 York Street (esquina de York y Frood Road)",
-    "tipoAccion": "Piquete informativo de CUPE 1182 en el cuidado de larga duración Extendicare York",
-    "organizaciones": [
-      "CUPE 1182 (Canadian Union of Public Employees)"
-    ],
-    "motivo": "Piquete informativo de unas 150 personas convocado por CUPE 1182 frente al Extendicare York Long Term Care Home en Sudbury, de 11:00 a 13:30 del martes 18 de agosto de 2026. Los trabajadores del cuidado de larga duración de Extendicare en Sudbury llevan más de 100 días sin contrato, denunciando salarios que 'no están a la altura' y condiciones laborales que obstaculizan la retención de personal en un sector con alta rotación. El sindicato también protestó por la falta de personal en la cocina del Extendicare York, que ha provocado que los residentes reciban comidas tardías o pequeñas. La protesta se suma a acciones similares en otros establecimientos de Extendicare en Ontario.",
-    "status": "en_curso",
-    "lat": 46.4917,
-    "lng": -80.993,
-    "fuentes": [
-      "https://www.sudbury.com/local-news/cupe-1182-picket-extendicare-york-sudbury-10884372",
-      "https://cupe.on.ca/cupe-1182-pickets-extendicare-york-in-sudbury/"
-    ],
-    "createdAt": "2026-08-18T01:03:47.000Z",
-    "updatedAt": "2026-08-18T03:51:26Z"
-  },
-  {
-    "id": "int-692",
-    "seccion": "internacionales",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "00:00",
-    "fecha": "2026-08-18",
-    "lugar": "Manipur: toda la región (Imphal, valley areas y hill districts) — huelga general de 48 horas convocada por Joint Forum for Integrity (JFI)",
-    "tipoAccion": "Huelga general de 48 horas (desde la medianoche del 17 de agosto) en Manipur contra la implementación del NRC en Assam y la celebración del Censo Nacional",
-    "organizaciones": [
-      "Joint Forum for Integrity (JFI)",
-      "colectivo de 27 organizaciones civiles y de la sociedad civil de Manipur"
-    ],
-    "motivo": "Huelga general de 48 horas en curso en Manipur, convocada por el Joint Forum for Integrity (JFI), una coalición de 27 organizaciones civiles y de la sociedad civil, que comenzó a medianoche del domingo 17 de agosto y se extiende durante todo el lunes 18. La huelga responde a la demanda 'No NRC, No Census' (No al NRC, No al Censo), oponiéndose firmemente a cualquier intento de implementar el Registro Nacional de Ciudadanos (NRC) en Manipur, siguiendo el precedente de lo ocurrido en Assam. Los manifestantes también denuncian la demora en la publicación del proceso de registro de la población (NPR) y reclaman al gobierno central que desista de implementar el NRC en la región. Se reportan cierres totales de negocios, oficinas y活动idadesno esenciales en Imphal y áreas del valle, con movilizaciones pacíficas en múltiples puntos.",
-    "status": "en_curso",
-    "lat": 24.817,
-    "lng": 93.9368,
-    "fuentes": [
-      "https://www.thesangaiexpress.com/stories/48-hr-manipur-jfi-strike-begins-midnight/",
-      "https://www.easternpanorama.com/news/manipur-jfi-strike-no-nrc-no-census-18-august"
-    ],
-    "createdAt": "2026-08-18T01:03:47.000Z",
-    "updatedAt": "2026-08-18T03:51:26Z"
-  },
-  {
-    "id": "int-693",
-    "seccion": "internacionales",
-    "pais": "Pakistán",
-    "bandera": "🇵🇰",
-    "hora": "Sentadas en curso (desde el 16 de agosto, día 3 el 18 de agosto)",
-    "fecha": "2026-08-18",
-    "lugar": "Lahore: Charing Cross/The Mall (frente a la Casa del Primer Ministro de Punjab); Karachi: frente a la Casa del Gobernador; Peshawar: frente a la Casa del Gobernador; Quetta",
-    "tipoAccion": "Sentadas coordinadas a nivel nacional del Jamaat-e-Islami (JI) contra el impuesto al petróleo (petroleum levy), los altos precios de la electricidad y los acuerdos con productores de energía independientes (IPPs), en su tercer día",
-    "organizaciones": [
-      "Jamaat-e-Islami (JI)",
-      "Hafiz Naeemur Rehman (emir del JI)"
-    ],
-    "motivo": "El lunes 18 de agosto de 2026, las sentadas coordinadas del Jamaat-e-Islami (JI) en las cuatro provincias de Pakistán continúan por tercer día consecutivo, con miles de manifestantes acampados en Lahore (Charing Cross/The Mall), Karachi (frente a la Casa del Gobernador), Peshawar y Quetta. El emir del JI, Hafiz Naeemur Rehman, exigió la eliminación del impuesto al petróleo (petroleum levy), la reducción del precio de la gasolina a 225 rupias por litro y tarifas de electricidad más baratas, calificando el impuesto como una 'extorsión'. Rehman advirtió que, si el gobierno no accede, el JI convertirá las sentadas en un movimiento nacional de desobediencia civil con un marcha sobre Islamabad. Anunció además que las mujeres se sumarán a las sentadas desde hoy martes. Los manifestantes denuncian que el gobierno ha recaudado más de 8 billones de rupias del impuesto al petróleo sin mejorar el sistema de refinación ni el almacenamiento de combustible, mientras los privilegios de la élite gobernante se mantienen intactos.",
-    "status": "en_curso",
-    "lat": 31.5204,
-    "lng": 74.3587,
-    "fuentes": [
-      "https://www.brecorder.com/news/40435267/ji-sit-ins-to-continue-until-demands-met-hafiz-naeem",
-      "https://www.dawn.com/news/2023527/ji-threatens-countrywide-shutdown-march-on-islamabad",
-      "https://www.geo.tv/latest/677987-ji-stages-nationwide-sit-ins-over-high-fuel-levy-inflation-for-second-straight-day",
-      "https://english.capitalnewspoint.com/2026/08/17/political-party-jamaat-e-islami-protests-against-petroleum-levy-continue-for-second-day-across-pakistan/"
-    ],
-    "createdAt": "2026-08-18T03:41:15.000Z",
-    "updatedAt": "2026-08-18T03:51:26Z"
-  },
-  {
-    "id": "int-694",
-    "seccion": "internacionales",
-    "pais": "Corea del Sur",
-    "bandera": "🇰🇷",
-    "hora": "Durante el día (ejercicios UFS del 17 al 27 de agosto; protestas en curso)",
-    "fecha": "2026-08-18",
-    "lugar": "Seúl: frente a la Embajada de Estados Unidos, Gwanghwamun (Jongno-gu)",
-    "tipoAccion": "Protestas de grupos pacifistas y de la sociedad civil contra los ejercicios militares conjuntos Ulchi Freedom Shield (UFS) 2026 de Corea del Sur y Estados Unidos, en curso desde el 17 de agosto",
-    "organizaciones": [
-      "Jajutongil Pyeonghwahwae Yeongunghoe (Coalición por la Paz y la Reunificación)",
-      "BAYAN (filipino, anti-guerra, como invitado internacional)",
-      "Colectivos pacifistas surcoreanos"
-    ],
-    "motivo": "Desde el 17 de agosto de 2026, mientras los ejercicios militares conjuntos Ulchi Freedom Shield (UFS) arrancan a nivel nacional en Corea del Sur con 18.000 soldados surcoreanos y miles de estadounidenses, grupos pacifistas y de la sociedad civil se concentraron frente a la Embajada de Estados Unidos en Gwanghwamun, Seúl, para exigir la suspensión inmediata de los ejercicios que califican de 'guerra ofensiva' contra Corea del Norte y de plataforma para el blindaje de China. Los manifestantes denuncian que el UFS 2026, pese a las declaraciones de Trump de reducirlo, mantiene su escala y está orientado a proyectar fuerza de combate hacia la Primera Cadena de Islas, convirtiendo la alianza surcoreano-estadounidense en un instrumento de estrategia regional de EE.UU. La protesta se produce en un contexto de tensa paradoja: mientras el presidente Lee Jae-myung propuso diálogos para terminar la guerra, el Pentágono mantiene la escala de los ejercicios, y Corea del Norte advirtió que responderá a cualquier provocación.",
-    "status": "en_curso",
-    "lat": 37.5711,
-    "lng": 126.9767,
-    "fuentes": [
-      "https://www.minplusnews.com/news/articleView.html?idxno=18236",
-      "https://www.globaltimes.cn/page/202608/1368412.shtml",
-      "https://en.yna.co.kr/view/PYH20260804055200315"
-    ],
-    "createdAt": "2026-08-18T03:41:15.000Z",
-    "updatedAt": "2026-08-18T03:51:26Z"
+    "updatedAt": "2026-08-18T04:47:15Z"
   },
   {
     "id": "ar-004",
@@ -1318,7 +998,81 @@
       "https://www.infogremiales.com.ar/pablo-gonzalez-el-rebelde-que-no-firmo-la-paritaria-de-la-uom-si-firmamos-este-acuerdo-le-hacemos-perder-a-nuestra-gente-entre-500-000-y-800-000-pesos-de-sueldo-bruto/"
     ],
     "createdAt": "2026-08-17T22:24:41.000Z",
-    "updatedAt": "2026-08-18T03:51:26Z"
+    "updatedAt": "2026-08-18T04:47:15Z"
+  },
+  {
+    "id": "int-676",
+    "seccion": "internacionales",
+    "pais": "Italia",
+    "bandera": "🇮🇹",
+    "hora": "Presidio desde las 05:00 (todo el día)",
+    "fecha": "2026-08-18",
+    "lugar": "Reggio Emilia: Bosco Ospizio, Via Emilia (zona verde protegida frente a la obra de un supermercado Conad)",
+    "tipoAccion": "Presidio ambiental de unas 300 personas desde el amanecer para impedir la construcción de un supermercado Conad en zona verde protegida",
+    "organizaciones": [
+      "Colectivos ambientales y ciudadanos de Reggio Emilia",
+      "Comité ciudadano por la defensa del Bosco Ospizio"
+    ],
+    "motivo": "El lunes 17 de agosto de 2026, desde las 5:00 de la mañana, unas 300 personas establecieron un presidio permanente en el Bosco Ospizio de Reggio Emilia, una zona verde protegida junto a la Via Emilia, para oponerse a la construcción de un supermercado Conad en ese espacio natural. Los manifestantes exigen la suspensión inmediata de las obras y la protección del área verde, que constituye un pulmón para la ciudad y un hábitat de biodiversidad local. El presидio se mantiene activo durante todo el día con la presencia de families, ecologistas y vecinos.",
+    "status": "en_curso",
+    "lat": 44.7025,
+    "lng": 10.6342,
+    "fuentes": [
+      "https://www.zazoom.it/2026-08-17/presidio-al-bosco-ospizio-dallalba-in-300-contro-conad-in-difesa-dellarea-verde-si-sospendano-subito-i-lavori/19576407/"
+    ],
+    "createdAt": "2026-08-17T23:19:52.000Z",
+    "updatedAt": "2026-08-18T04:47:15Z"
+  },
+  {
+    "id": "int-677",
+    "seccion": "internacionales",
+    "pais": "Turquía",
+    "bandera": "🇹🇷",
+    "hora": "Sentada en curso (día 22)",
+    "fecha": "2026-08-18",
+    "lugar": "Ankara: Monumento de los Mineros (Madenci Anıtı), أمام el Ministerio de Energía",
+    "tipoAccion": "Sentada de mineros de Doruk Madencilik (Yıldızlar SSS Holding) en su día 22, exigiendo el pago de salarios, indemnizaciones y aportes jubilatorios adeudados",
+    "organizaciones": [
+      "Sindicato Türkiye Maden-İş (rama de Anatolia Central)",
+      "Trabajadores de Doruk Madencilik (filial de Yıldızlar SSS Holding)"
+    ],
+    "motivo": "El lunes 17 de agosto de 2026 continúa la sentada de mineros de la empresa Doruk Madencilik (perteneciente a Yıldızlar SSS Holding) frente al Monumento de los Mineros en Ankara, en su día 22 consecutivo. Los trabajadores exigen el pago de indemnizaciones por despido, vacaciones adeudadas y descuentos jubilatorios que la empresa no ha abonado. El sindicato Türkiye Maden-İş advirtió que, de no recibirse pago esta semana, la protesta se escalará con acciones más contundentes. La sentada se realiza en un contexto de creciente conflictividad laboral en el sector minero turco.",
+    "status": "en_curso",
+    "lat": 39.9283,
+    "lng": 32.8543,
+    "fuentes": [
+      "https://www.sondakika.com/guncel/haber-maden-iscilerinden-ankarada-eylem-bu-hafta-20152046/"
+    ],
+    "createdAt": "2026-08-17T23:19:52.000Z",
+    "updatedAt": "2026-08-18T04:47:15Z"
+  },
+  {
+    "id": "int-690",
+    "seccion": "internacionales",
+    "pais": "España",
+    "bandera": "🇪🇸",
+    "hora": "00:00",
+    "fecha": "2026-08-18",
+    "lugar": "Aragón: puntos de servicio de prevención y extinción de incendios forestales (INFOAR) en toda la comunidad autónoma",
+    "tipoAccion": "Inicio de huelga indefinida de los bomberos y bomberas forestales de Aragón (INFOAR) en servicios mínimos del 100%",
+    "organizaciones": [
+      "CGT",
+      "OSTA",
+      "UGT",
+      "CCOO",
+      "Comité Intercentros de SARGA",
+      "Comité de Huelga de Bomberos y Bomberas Forestales de Aragón"
+    ],
+    "motivo": "Huelga indefinida de los bomberos y bomberas forestales de Aragón (INFOAR) a partir del 18 de agosto, tras el fracaso de la mediación en el SAMA entre el Comité de Huelga y la empresa pública SARGA. Los sindicatos denuncian que el dispositivo autonómico de prevención y extinción de incendios forestales está estructuralmente infradimensionado. Servicios mínimos al 100%.",
+    "status": "en_curso",
+    "lat": 41.6488,
+    "lng": -0.8891,
+    "fuentes": [
+      "https://cadenaser.com/aragon/2026/08/14/los-bomberos-forestales-mantienen-la-huelga-indefinida-tras-fracasar-la-negociacion-con-sarga-radio-zaragoza/",
+      "https://www.hoyaragon.es/meteo/bomberos-forestales-aragon-acuerdo-gobierno-nos-jugamos-vida-sientan-negociar/20260814082650141897.html"
+    ],
+    "createdAt": "2026-08-18T01:03:47.000Z",
+    "updatedAt": "2026-08-18T04:47:15Z"
   },
   {
     "id": "ar-005",
@@ -1347,6 +1101,31 @@
       "https://www.pagina12.com.ar/2026/08/18/docentes-van-a-la-huelga"
     ],
     "createdAt": "2026-08-18T02:36:14.000Z",
-    "updatedAt": "2026-08-18T03:51:26Z"
+    "updatedAt": "2026-08-18T04:47:15Z"
+  },
+  {
+    "id": "int-694",
+    "seccion": "internacionales",
+    "pais": "Corea del Sur",
+    "bandera": "🇰🇷",
+    "hora": "Durante el día (ejercicios UFS del 17 al 27 de agosto)",
+    "fecha": "2026-08-18",
+    "lugar": "Seúl: frente a la Embajada de Estados Unidos, Gwanghwamun (Jongno-gu)",
+    "tipoAccion": "Protestas de grupos pacifistas y de la sociedad civil contra los ejercicios militares conjuntos Ulchi Freedom Shield (UFS) 2026",
+    "organizaciones": [
+      "Coalición por la Paz y la Reunificación",
+      "BAYAN (filipino, anti-guerra)",
+      "Colectivos pacifistas surcoreanos"
+    ],
+    "motivo": "Protestas frente a la Embajada de Estados Unidos en Gwanghwamun, Seúl, contra los ejercicios militares conjuntos Ulchi Freedom Shield (UFS) 2026 que arrancan el 17 de agosto. Los manifestantes exigen la suspensión inmediata de los ejercicios que califican de guerra ofensiva contra Corea del Norte.",
+    "status": "en_curso",
+    "lat": 37.5711,
+    "lng": 126.9767,
+    "fuentes": [
+      "https://www.globaltimes.cn/page/202608/1368412.shtml",
+      "https://en.yna.co.kr/view/PYH20260804055200315"
+    ],
+    "createdAt": "2026-08-18T03:41:15.000Z",
+    "updatedAt": "2026-08-18T04:47:15Z"
   }
 ]
