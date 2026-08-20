@@ -1,307 +1,131 @@
 [
   {
-    "id": "ar-005",
+    "id": "ar-019",
     "seccion": "protestas_ar",
     "pais": "Argentina",
     "bandera": "🇦🇷",
-    "hora": "11:00 - jornada completa (día 2 de paro de 5 días: 18-22 de agosto; jornada de visibilización con abrazos simbólicos, carpas y movilización)",
-    "fecha": "2026-08-19",
-    "lugar": "Nivel nacional: universidades públicas de todo el país; jornada de visibilización con abrazos simbólicos a edificios universitarios, carpas frente al Palacio Pizzurno (Secretaría de Políticas Universitarias) y movilización al Palacio Sarmiento (Buenos Aires)",
-    "tipoAccion": "Jornada de visibilización y paro continuado del paro nacional universitario de 5 días (18-22 de agosto), con abrazos simbólicos a edificios universitarios, carpas por la Universidad y la Soberanía frente al Palacio Pizzurno, y movilización al Palacio Sarmiento en reclamo de cumplimiento de la Ley de Financiamiento Universitario",
-    "organizaciones": [
-      "Conadu Histórica (Federación Nacional de Docentes, Investigadores y Creadores Universitarios)",
-      "AGD UBA (Asociación Gremial de Docentes de la UBA)",
-      "FATUN (Federación Argentina del Trabajador de las Universidades Nacionales)",
-      "Frente Sindical de Universidades Nacionales",
-      "FUA (Federación Universitaria Argentina)"
-    ],
-    "motivo": "El miércoles 19 de agosto de 2026, segundo día del paro nacional universitario de 5 días (18-22 de agosto), es el epicentro de la medida de fuerza. La Conadu Histórica lleva a cabo la jornada de visibilización: abrazos simbólicos a edificios universitarios en todo el país, relanzamiento de las 'Carpas por la Universidad y la Soberanía' frente al Palacio Pizzurno, y una movilización al Palacio Sarmiento. La FUA convocó a una concentración a las 11:00 frente al Palacio Pizzurno. Se cumplen 300 días desde la sanción de la Ley de Financiamiento Universitario (Ley 27.795) que el gobierno de Javier Milei se niega a aplicar. Los docentes reclaman la actualización salarial (brecha acumulada del 28,5% al 38,7%), el pago de la deuda salarial retroactiva desde octubre de 2025 y la implementación efectiva de la ley. La Justicia reactivó una cautelar ordenando aplicar la ley tras el rechazo de la Corte Suprema a un recurso del Ejecutivo. AGD-UBA sostiene el reclamo de paro por tiempo indeterminado hasta que se cumpla la ley. El gobierno calificó la medida como 'ilegítima' y 'política'.",
-    "status": "en_curso",
-    "lat": -34.6037,
-    "lng": -58.3816,
-    "fuentes": [
-      "https://www.clarin.com/informacion-general/paro-nacional-universitario-empieza-dura-universidades-adhieren_0_nzw014j5FE.html",
-      "https://tn.com.ar/politica/2026/08/18/rige-el-paro-universitario-de-cinco-dias-los-gremios-exigen-al-gobierno-el-cumplimiento-de-la-ley-de-financiamiento/",
-      "https://www.canal26.com/politica/2026/08/18/universidades-en-alerta-paro-nacional-por-tiempo-indeterminado-y-un-fuerte-roce-con-el-gobierno/",
-      "https://www.ambito.com/politica/nuevo-paro-docente-universitario-cuanto-dura-y-quienes-adhieren-n6311668",
-      "https://www.eldestapeweb.com/sociedad/paro-universitario-agosto-2026-cuando-fechas-habra-tres-jornadas-202681281331",
-      "https://www.lanacion.com.ar/sociedad/paro-nacional-asi-es-la-medida-de-fuerza-universitaria-del-18-al-21-de-agosto-nid18082026",
-      "https://www.infobae.com/educacion/2026/08/18/las-universidades-iniciaron-otra-semana-de-conflicto-con-paros-y-un-banderazo-por-la-ley-de-financiamiento/",
-      "https://www.cronista.com/informacion-gral/comienza-la-suspension-de-clases-nuevo-paro-universitario-en-reclamo-por-la-ley-de-financiamiento-se-extendera-hasta-el-22-de-agosto/",
-      "https://www.pagina12.com.ar/2026/08/19/300-dias-sin-ley-paro-y-movilizacion/",
-      "https://www.elterritorio.com.ar/noticias/2026/08/19/907282-gremios-del-pais-preparan-diversas-protestas",
-      "https://www.lanacion.com.ar/sociedad/paro-nacional-universitario-cuanto-dura-y-cuales-son-las-universidades-que-adhieren-nid19082026/",
-      "https://www.perfil.com/noticias/politica/la-comunidad-universitaria-se-moviliza-frente-a-la-secretaria-de-educacion.phtml",
-      "https://comercioyjusticia.info/lo-ultimo/universidades-vuelven-al-paro-y-crece-la-tension-por-los-300-dias-sin-ley-de-financiamiento/",
-      "https://radio.unr.edu.ar/2026/08/18/joaquin-carvalhovamos-a-demostrar-que-no-podemos-naturalizar-que-un-gobierno-este-300-dias-al-margen-de-la-ley/",
-      "https://www.lasintesis.com.ar/2026/08/19/300-dias-sin-ley-paro-y-movilizacion",
-      "https://www.lanacion.com.ar/sociedad/paro-nacional-universitario-cuanto-dura-y-cuales-son-las-universidades-que-adhieren-nid19082026/"
-    ],
-    "createdAt": "2026-08-19T04:41:09.000Z",
-    "updatedAt": "2026-08-19T23:50:27Z"
-  },
-  {
-    "id": "ar-008",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "11:00",
-    "fecha": "2026-08-19",
-    "lugar": "Buenos Aires: Plaza Manzana 66 (av. Belgrano y Jujuy), Balvanera → estación Once",
-    "tipoAccion": "Marcha de trabajadores cartoneros y recicladores contra los cambios en el sistema de gestión de residuos secos que impulsa el Gobierno de la Ciudad de Buenos Aires en la próxima licitación",
-    "organizaciones": [
-      "FACCyR (Federación Argentina de Cartoneros, Carreros y Recicladores)",
-      "UTEP (Unión de Trabajadores y Trabajadoras de la Economía Popular)"
-    ],
-    "motivo": "El 19 de agosto de 2026, la FACCyR-UTEP convocó a una marcha de trabajadores cartoneros desde Plaza Manzana 66 (Belgrano y Jujuy) hasta el frente de la estación Once, para reclamar contra los cambios que el Gobierno de la Ciudad de Buenos Aires impulsa en el sistema de gestión de residuos secos, que serán implementados a partir de una nueva licitación. Las organizaciones sostienen que el nuevo esquema amenaza el sistema de reciclado con inclusión social construido durante más de 20 años y que involucra, según sus estimaciones, a unas 7.000 familias. La consigna de la marcha es '7.000 familias. 20 años de historia. Un trabajo que no se negocia'. Los manifestantes exigen preservar los derechos laborales de los trabajadores cartoneros frente al proceso administrativo previo a la licitación del servicio de recolección, traslado y procesamiento de residuos sólidos urbanos secos.",
-    "status": "finalizada",
-    "lat": -34.6056,
-    "lng": -58.4106,
-    "fuentes": [
-      "https://cemba.com.ar/balvanera-marcha-cartonera-de-la-manzana-66-hasta-el-frente-de-estacion-once/",
-      "https://www.tiempoar.com.ar/ta_article/cartoneros-en-alerta-por-el-nuevo-esquema-de-reciclado-en-caba/",
-      "https://kaosenlared.net/argentina-cartoneros-marchan-para-denunciar-que-el-gobierno-porteno-dejaria-en-la-calle-a-6500-trabajadores/",
-      "https://hormigasycigarras.com.ar/noticias/ciudad/economia/peligran-7-000-puestos-de-trabajo-en-las-cooperativas-de-recuperadores-urbanos/",
-      "https://grupoperiodismo.com/jorge-macri-avanza-con-una-licitacion-que-pone-en-alerta-a-12-cooperativas-y-mas-de-7-mil-familias-cartoneras-47723",
-      "https://www.laizquierdadiario.com/Organizaciones-cartoneras-marchan-cuestionado-la-nueva-licitacion-del-sistema-que-impulsa-Macri",
-      "https://www.pagina12.com.ar/2026/08/19/marcha-cartonera-en-la-ciudad-de-buenos-aires/",
-      "https://www.revistaelabasto.com.ar/balvanera-marcha-cartonera-de-la-manzana-66-hasta-el-frente-de-estacion-once/"
-    ],
-    "createdAt": "2026-08-19T06:00:01.000Z",
-    "updatedAt": "2026-08-19T23:50:27Z"
-  },
-  {
-    "id": "ar-009",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "18:00",
-    "fecha": "2026-08-19",
-    "lugar": "La Plata: Rectorado de la UNLP, calle 7 entre 47 y 48",
-    "tipoAccion": "Banderazo por la Universidad y la Soberanía frente al Rectorado de la UNLP, a 300 días de la sanción de la Ley de Financiamiento Universitario",
-    "organizaciones": [
-      "ADULP (Asociación de Docentes de la UNLP)",
-      "ATULP (Asociación de Trabajadores de la UNLP)",
-      "FULP (Federación Universitaria de La Plata)"
-    ],
-    "motivo": "El 19 de agosto de 2026 a las 18, docentes, nodocentes y estudiantes de la UNLP realizan un banderazo frente al Rectorado, a 300 días de la sanción de la Ley de Financiamiento Universitario (Ley 27.795) que el gobierno de Milei no cumple. La convocatoria es conjunta de ADULP, ATULP y FULP bajo el lema 'Banderazo por la Universidad y la Soberanía'. Los reclamos incluyen el cumplimiento efectivo de la ley con giro de fondos, reapertura de paritarias para recuperar poder adquisitivo, mayor presupuesto para universidades, ciencia, tecnología y becas. La medida se inscribe en el plan de lucha nacional que incluye un paro de 48 horas el 27 y 28 de agosto.",
-    "status": "finalizada",
-    "lat": -34.9133,
-    "lng": -57.9489,
-    "fuentes": [
-      "https://www.eldia.com/la-ciudad/la-protesta-universitaria-se-traslada-al-rectorado-la-ciudad_1787121920",
-      "https://www.infoplatense.com.ar/la-unlp-va-al-banderazo-este-miercoles-docentes-nodocentes-y-estudiantes-se-movilizan-frente-al-rectorado-por-fondos-y-salarios/",
-      "https://www.0221.com.ar/universidad/la-comunidad-la-unlp-realizara-un-banderazo-frente-al-rectorado-exigir-fondos-y-salarios-dignos-n132742"
-    ],
-    "createdAt": "2026-08-19T07:40:42.000Z",
-    "updatedAt": "2026-08-19T23:50:27Z"
-  },
-  {
-    "id": "ar-010",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "11:00",
-    "fecha": "2026-08-19",
-    "lugar": "Mar del Plata: Complejo Universitario Manuel Belgrano, Universidad Nacional de Mar del Plata (UNMdP)",
-    "tipoAccion": "Banderazo universitario en reclamo del cumplimiento de la Ley de Financiamiento Universitario, a 300 días de su sanción",
-    "organizaciones": [
-      "ADUM (Agremiación Docente Universitaria Marplatense)",
-      "APU (Asociación del Personal Universitario - UNMdP)",
-      "Federación Universitaria Marplatense"
-    ],
-    "motivo": "El 19 de agosto de 2026 a las 11, la comunidad universitaria de Mar del Plata realiza un banderazo en el Complejo Universitario Manuel Belgrano de la UNMdP bajo la consigna '300 días fuera de la Ley', exigiendo al gobierno de Javier Milei el cumplimiento de la Ley de Financiamiento Universitario (Ley 27.795). Docentes, trabajadores universitarios y estudiantes reclaman la recomposición salarial, el pago de la deuda acumulada del 28,5% y los fondos para hospitales universitarios y becas. La medida se enmarca en el paro nacional universitario de 5 días (18-22 agosto) convocado por Conadu Histórica.",
-    "status": "finalizada",
-    "lat": -38.0055,
-    "lng": -57.5426,
-    "fuentes": [
-      "https://elretratodehoy.com.ar/2026/08/18/banderazo-universitario-en-mar-del-plata-reclamando-por-la-ley-de-financiamiento/",
-      "https://puntonoticias.com/ley-de-financiamiento-la-comunidad-universitaria-marplatense-convoca-a-un-banderazo/"
-    ],
-    "createdAt": "2026-08-19T08:41:50.000Z",
-    "updatedAt": "2026-08-19T23:50:27Z"
-  },
-  {
-    "id": "ar-011",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "10:30",
-    "fecha": "2026-08-19",
-    "lugar": "Santa Fe: sede de APUL, 1 de Mayo 3164 → Rectorado de la Universidad Nacional del Litoral (UNL)",
-    "tipoAccion": "Abrazo simbólico al Rectorado de la UNL en reclamo de recomposición salarial y cumplimiento de la Ley de Financiamiento Universitario",
-    "organizaciones": [
-      "ADUL (Asociación de Docentes de la Universidad Nacional del Litoral)",
-      "APUL (Asociación del Personal Universitario del Litoral)"
-    ],
-    "motivo": "El 19 de agosto de 2026 a las 10:30, docentes y no docentes de la UNL realizan un abrazo simbólico al Rectorado partiendo desde la sede de APUL (1 de Mayo 3164). El reclamo apunta a la plena aplicación de la Ley de Financiamiento Universitario, la recomposición de salarios docentes (deuda acumulada del 28,5%), la restitución del FONID y fondos para capacitación. La medida se enmarca en el paro nacional de 5 días (18-22 agosto) convocado por Conadu Histórica y se da en un contexto de posiciones encontradas entre los gremios y el gobierno nacional.",
-    "status": "finalizada",
-    "lat": -31.6488,
-    "lng": -60.6989,
-    "fuentes": [
-      "https://rtsmedios.com.ar/adul-y-apul-convocan-a-un-abrazo-al-rectorado-de-la-unl-por-la-situacion-salaria/",
-      "https://www.airedesantafe.com.ar/santa-fe/la-unl-se-suma-al-paro-nacional-docente-reclamo-la-recomposicion-salarial-n667009"
-    ],
-    "createdAt": "2026-08-19T08:41:50.000Z",
-    "updatedAt": "2026-08-19T23:50:27Z"
-  },
-  {
-    "id": "ar-013",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "10:30",
-    "fecha": "2026-08-19",
-    "lugar": "Gualeguaychú, Entre Ríos: esquina Rocamora y Andrade, sede del PAMI",
-    "tipoAccion": "Volanteada pacífica de la Asamblea de Adultos Mayores en defensa de los derechos previsionales, denunciando falta de medicamentos y demoras en prestaciones",
-    "organizaciones": [
-      "Asamblea de Adultos Mayores (AAM) de Gualeguaychú"
-    ],
-    "motivo": "El 19 de agosto de 2026 a las 10:30, la Asamblea de Adultos Mayores de Gualeguaychú realiza una volanteada pacífica (sin corte de tránsito) frente a la delegación del PAMI en la esquina de Rocamora y Andrade, en el marco de la Jornada Nacional en defensa de los derechos previsionales. Los organizadores denuncian la 'grave situación asistencial' que atraviesan los afiliados, incluyendo la falta de medicamentos y demoras en prestaciones básicas.",
-    "status": "finalizada",
-    "lat": -33.0078,
-    "lng": -58.5172,
-    "fuentes": [
-      "https://www.r2820.com/noticias/2026/08/18/114244-adultos-mayores-se-movilizan-a-la-sede-del-pami-gualeguaychu"
-    ],
-    "createdAt": "2026-08-19T08:41:50.000Z",
-    "updatedAt": "2026-08-19T23:50:27Z"
-  },
-  {
-    "id": "ar-014",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "09:00",
-    "fecha": "2026-08-19",
-    "lugar": "Rosario, Santa Fe: Estación Fluvial, ribera central (frente a La Fluvial)",
-    "tipoAccion": "Protesta sindical de la Catt y organizaciones del sector fluvial contra la desregulación de la marina mercante y la pérdida de soberanía en la hidrovía Paraná-Paraguay",
-    "organizaciones": [
-      "Catt (Confederación Argentina de Trabajadores del Transporte) – delegación regional Rosario",
-      "Gremios y organizaciones del sector fluvial"
-    ],
-    "motivo": "El 19 de agosto de 2026 a las 09:00, gremios y organizaciones pertenecientes a la Catt se manifestaron frente a la Estación Fluvial de Rosario, en vísperas de la visita del presidente Milei a la Bolsa de Comercio de Rosario. El reclamo principal es contra el decreto de desregulación de los servicios de prácticos de marina mercante, suspendido dos semanas atrás tras un paro en puertos de todo el país. Edgardo Arrieta, titular de la Catt en Rosario, denunció que 'están perdiendo soberanía' y que los trabajadores corren riesgo de perder sus empleos sin poder participar de la discusión sobre la regulación de las actividades fluviales. La protesta incluyó reparto de volantes con un mensaje contra la política económica del gobierno nacional en torno a la hidrovía. Los organizadores señalaron que la marina mercante es 'estratégica para el desarrollo productivo' de Argentina.",
-    "status": "finalizada",
-    "lat": -32.9496,
-    "lng": -60.6608,
-    "fuentes": [
-      "https://www.lacapital.com.ar/economia/sindicatos-rosarinos-salieron-protestar-contra-la-desregulacion-la-marina-mercante-n10276097.html"
-    ],
-    "createdAt": "2026-08-19T14:43:14.000Z",
-    "updatedAt": "2026-08-19T23:50:27Z"
-  },
-  {
-    "id": "ar-015",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "14:00 volanteada; 15:00 marcha con jubilados",
-    "fecha": "2026-08-19",
-    "lugar": "Buenos Aires: Av. Rivadavia 1635, entre Montevideo y Rodríguez Peña → Congreso de la Nación",
-    "tipoAccion": "La CGT se suma a la marcha semanal de jubilados y pensionados frente al Congreso: gran volanteada desde las 14 y marcha conjunta desde las 15, en reclamo de recomposición de haberes previsionales y contra el ajuste del gobierno de Milei",
+    "hora": "14:00 - marcha desde dos puntos de concentración hasta el Ministerio de Economía",
+    "fecha": "2026-08-20",
+    "lugar": "Buenos Aires: Paseo Colón e Independencia y Av. Independencia y Paseo Colón → Ministerio de Economía, Hipólito Yrigoyen 250",
+    "tipoAccion": "Marcha de las centrales sindicales, movimientos sociales y colectivos autoconvocados al Ministerio de Economía contra el endeudamiento familiar masivo",
     "organizaciones": [
       "CGT (Confederación General del Trabajo)",
-      "Jubilados y pensionados autoconvocados",
-      "Movimientos sociales y sindicales"
+      "CTA de los Trabajadores",
+      "CTA Autónoma",
+      "UTEP (Unión de Trabajadores y Trabajadoras de la Economía Popular)",
+      "Endeudadxs Organizadxs",
+      "Ni Una Menos",
+      "Movimientos sociales y territoriales"
     ],
-    "motivo": "El 19 de agosto de 2026, la CGT se sumó oficialmente a la marcha semanal de jubilados y pensionados que se realiza todos los miércoles frente al Congreso de la Nación. La central sindical convocó a una gran volanteada desde las 14 para concientizar a la sociedad, y a partir de las 15 marchó junto a los jubilados desde Av. Rivadavia 1635 hasta el Congreso. El reclamo se centra en la recomposición urgente de los haberes previsionales, el acceso a medicamentos y la protección del sistema previsional frente a las políticas de ajuste del gobierno de Javier Milei. La convocatoria se enmarca en el plan de lucha conjunto de la CGT, las dos CTA y la UTEP, y se suma a las múltiples manifestaciones de la jornada por el cumplimiento de la Ley de Financiamiento Universitario.",
-    "status": "finalizada",
-    "lat": -34.6083,
-    "lng": -58.3719,
+    "motivo": "El jueves 20 de agosto de 2026, la CGT, las dos CTA, la UTEP y movimientos sociales marchan desde las 14 desde dos puntos de concentración (Paseo Colón e Independencia, e Independencia y Paseo Colón) hacia el Ministerio de Economía en Hipólito Yrigoyen 250, a metros de la Casa Rosada. El reclamo se centra en la crisis del endeudamiento familiar: más de 5,5 millones de familias (casi 6 millones de personas) registran créditos impagos o atrasos graves según datos del Banco Central. El 71,9% de esos hogares recurre a alguna forma de endeudamiento, formal o informal, para cubrir gastos de alimentación, medicamentos, alquileres y servicios básicos. La mora alcanzó el 17,5% en junio de 2026, multiplicándose 4,9 veces en 18 meses. El gobierno de Javier Milei descartó toda intervención estatal calificando la situación como 'asunto entre privados'. La movilización es parte del plan de lucha conjunto de centrales obreras y movimientos sociales.",
+    "status": "convocada",
+    "lat": -34.6144,
+    "lng": -58.3757,
     "fuentes": [
-      "https://www.eldestapeweb.com/politica/cgt-suma-marcha-jubilados-donde-sera-convocatoria-202681911203",
-      "https://www.cronica.com.ar/politica/en-vivo-tension-en-la-marcha-de-jubilados-y-trabajadores-de-la-salud/",
-      "https://www.laizquierdadiario.com/CGT-y-movimientos-sociales-marchan-al-Congreso-junto-a-los-jubilados",
-      "https://www.pagina12.com.ar/2026/08/19/la-cgt-se-sumo-a-la-marcha-de-jubilados-contra-el-ajuste"
+      "https://www.infobae.com/politica/2026/08/18/nueva-protesta-de-movimientos-sociales-y-sindicales-contra-el-gobierno-marcharan-por-el-endeudamiento-familiar/",
+      "https://www.a24.com/politica/marcha-contra-el-gobierno-cgt-cta-y-movimientos-sociales-protestaran-el-endeudamiento-las-familias-n1587050",
+      "https://www.mdzol.com/sociedad/marcha-los-endeudados-cuando-y-que-hora-es-la-movilizacion-al-ministerio-economia-n1589211",
+      "https://www.bigbangnews.com/politica/endeudados-pymes-sindicatos-universitarios-salen-calle-semana-incomoda-milei-n102852",
+      "https://www.diariojornada.com.ar/421981/economia/marcharan_al_ministerio_de_economia_por_el_endeudamiento_de_las_familias",
+      "https://www.politicargentina.com/notas/202608/75782-la-cgt-marchara-al-ministerio-de-economia-el-20-de-agosto-contra-el-endeudamiento.html"
     ],
-    "createdAt": "2026-08-19T16:01:27.000Z",
-    "updatedAt": "2026-08-19T23:50:27Z"
+    "createdAt": "2026-08-20T01:14:57.000Z",
+    "updatedAt": "2026-08-20T01:25:37Z"
   },
   {
-    "id": "ar-016",
+    "id": "ar-020",
     "seccion": "protestas_ar",
     "pais": "Argentina",
     "bandera": "🇦🇷",
-    "hora": "16:00 - jornada completa con semaforazos sobre Av. Hipólito Yrigoyen",
-    "fecha": "2026-08-19",
-    "lugar": "Lomas de Zamora, Buenos Aires: Plaza Grigera, frente al Municipio; y semaforazos sobre Av. Hipólito Yrigoyen",
-    "tipoAccion": "Marcha de jubilados y vecinos en la Plaza Grigera con semaforazos sobre Av. Hipólito Yrigoyen, en reclamo de jubilaciones dignas, restitución de medicamentos gratuitos del PAMI y mejoras en el sistema de salud",
+    "hora": "09:00 - concentración frente a la Casa Rosada",
+    "fecha": "2026-08-20",
+    "lugar": "Buenos Aires: Plaza de Mayo, frente a la Casa Rosada",
+    "tipoAccion": "Concentración de PyMEs y empresarios frente a la Casa Rosada para reclamar una Ley de Emergencia PyME ante el cierre de 26.000 pequeñas y medianas empresas durante la gestión de Milei",
     "organizaciones": [
-      "Jubilados y pensionados autoconvocados de Lomas de Zamora",
-      "Vecinos y organizaciones sociales del sur del conurbano bonaerense"
+      "ENAC (Asociación de Empresarios y Empresarias Nacionales para el Desarrollo Argentino)",
+      "APYME (Asamblea de Pequeños y Medianos Empresarios)",
+      "CIC (Cámara de la Industria del Calzado)",
+      "CIM (Cámara Industrial de la Manufactura del Cuero y Afines)",
+      "Fundación Pro Tejer",
+      "Central de Entidades de Empresas Nacionales",
+      "CES (Cámara Económica Sanmartinense)",
+      "PYME SUR",
+      "CGP (Confederación General de la Producción)",
+      "CAPYME (Cámara de Pequeñas y Medianas Empresas de San Martín)"
     ],
-    "motivo": "El 19 de agosto de 2026 a las 16, jubilados y vecinos de Lomas de Zamora marcharon en la Plaza Grigera, frente al municipio, y realizaron semaforazos sobre la avenida Hipólito Yrigoyen como parte de las movilizaciones semanales de los miércoles. La convocatoria se difundió bajo consignas como 'Ayudame a luchar. El próximo viejo sos vos' y 'Milei, pará la mano'. Los principales reclamos son la restitución de los medicamentos gratuitos para afiliados al PAMI, jubilaciones dignas y mejoras en el sistema de salud. La protesta se suma a las movilizaciones que jubilados y organizaciones realizan cada miércoles en distintos puntos del país.",
-    "status": "finalizada",
-    "lat": -34.765,
-    "lng": -58.3958,
+    "motivo": "El jueves 20 de agosto de 2026 desde las 9, representantes de más de diez cámaras y organizaciones de PyMEs se concentrarán frente a la Casa Rosada para reclamar la sanción de una Ley de Emergencia PyME. Según la ENAC, desde la asunción de Javier Milei cerraron 26.000 unidades productivas pequeñas y medianas, un proceso que las organizaciones califican de 'industricidio'. La convocatoria pide que el Congreso trate el proyecto de Ley de Emergencia PyME para frenar los cierres y despidos. La protesta se realiza en paralelo con la marcha de endeudados al Ministerio de Economía que se desarrollará por la tarde.",
+    "status": "convocada",
+    "lat": -34.6037,
+    "lng": -58.3712,
     "fuentes": [
-      "https://www.inforegion.com.ar/2026/08/19/jubilados-y-vecinos-de-lomas-de-zamora-marchan-en-la-plaza-grigera/",
-      "https://www.eldiariosur.com/lomas-de-zamora/2026/8/19/jubilados-de-lomas-de-zamora-reclamaron-en-plaza-grigera-por-los-ingresos-los-medicamentos-82471.html"
+      "https://gestionsindical.com/marcha-pymes-plaza-mayo-reclamar-ley-emergencia/",
+      "https://www.bigbangnews.com/politica/endeudados-pymes-sindicatos-universitarios-salen-calle-semana-incomoda-milei-n102852",
+      "https://chacodiapordia.com/en-semana-de-protestas-todos-salen-a-la-calle-centrales-obreras-endeudados-pymes-universitarios-y-jubilados/"
     ],
-    "createdAt": "2026-08-19T20:25:26.000Z",
-    "updatedAt": "2026-08-19T23:50:27Z"
+    "createdAt": "2026-08-20T01:14:57.000Z",
+    "updatedAt": "2026-08-20T01:25:37Z"
   },
   {
-    "id": "ar-017",
+    "id": "ar-021",
     "seccion": "protestas_ar",
     "pais": "Argentina",
     "bandera": "🇦🇷",
-    "hora": "11:00",
-    "fecha": "2026-08-19",
-    "lugar": "La Plata: Estancia Chica, predio de la Universidad Nacional de La Plata (UNLP)",
-    "tipoAccion": "Marcha de trabajadores de la UTEDYC (Unión de Trabajadores del Comercio y Afines) del sindicato de Gimnasia de La Plata contra los atrasos salariales acumulados",
+    "hora": "17:30 - concentración pacífica",
+    "fecha": "2026-08-20",
+    "lugar": "Buenos Aires: frente al Consulado General de España, calle Guido 1770 (entre Av. Callao y calle Rodríguez Peña)",
+    "tipoAccion": "Concentración de descendientes de españoles reclamando agilización en la tramitación de expedientes de nacionalidad bajo la Ley de Memoria Democrática",
     "organizaciones": [
-      "UTEDYC (Unión de Trabajadores del Comercio y Afines)",
-      "Seccional Gimnasia de La Plata"
+      "Asociaciones de descendientes de españoles en Argentina (autoconvocados)"
     ],
-    "motivo": "El 19 de agosto de 2026 a las 11:00, unos 30 trabajadores de la UTEDYC se movilizan en el predio de Estancia Chica de la Universidad Nacional de La Plata para reclamar contra los atrasos salariales acumulados. El sindicato denuncia la falta de pago de haberes adeudados al personal que presta servicios en la universidad platense. La marcha se realiza de forma pacífica dentro del predio universitario. Nota: La movilización mayor programada para las 19:00 fue suspendida tras el acuerdo entre Gimnasia de La Plata y UTEDYC, que incluyó la reincorporación de trabajadores despedidos y compromisos de pago.",
-    "status": "suspendida",
-    "lat": -34.9214,
-    "lng": -57.9547,
+    "motivo": "El jueves 20 de agosto de 2026 a las 17:30, descendientes de españoles en Argentina realizarán una concentración frente al Consulado General de España en Buenos Aires (Guido 1770) bajo el lema 'La sangre nos une'. Reclaman una mayor agilidad en la aplicación de la Ley de Memoria Democrática y denuncian retrasos en la tramitación de expedientes de nacionalidad. Es la tercera movilización de una serie de concentraciones organizadas en los últimos meses. Los convocantes señalan que Argentina concentra el mayor número de expedientes de nacionalidad al amparo de la Ley de Memoria Democrática y piden un refuerzo de los medios consulares antes de que finalice el plazo de vigencia de la norma.",
+    "status": "convocada",
+    "lat": -34.6002,
+    "lng": -58.3866,
     "fuentes": [
-      "https://www.0221.com.ar/gimnasia/utedyc-se-moviliza-estancia-chica-los-atrasos-salariales-gimnasia-n132772",
-      "https://www.infoblancosobrenegro.com/nota/114137/utedyc-la-plata-hara-una-movilizacion-a-estancia-chica-por-salarios-adeudados/",
-      "https://www.infogremiales.com.ar/crece-el-conflicto-entre-gimnasia-y-los-trabajadores-de-entidades-deportivas-habra-movilizacion-a-estancia-chica-por-aguinaldo-salarios-adeudados-y-despidos/",
-      "https://www.dobleamarilla.com.ar/rosca/gimnasia-reincorporo-a-trabajadores-despedidos-y-utedyc-suspendio-la-movilizacion-a-estancia-chica_a6a85bb8aea1c4d2be82327df",
-      "https://www.infocielo.com/deportes/utedyc-suspendio-la-movilizacion-a-estancia-chica-tras-la-promesa-de-reincorporacion-de-trabajadores-despedidos-en-gimnasia"
+      "https://www.laregion.es/lri/emigracion/descendientes-espanoles-convocan-nueva-movilizacion_1_20260803-4360217.html"
     ],
-    "createdAt": "2026-08-19T21:57:55.000Z",
-    "updatedAt": "2026-08-19T23:50:27Z"
+    "createdAt": "2026-08-20T01:14:57.000Z",
+    "updatedAt": "2026-08-20T01:25:37Z"
   },
   {
-    "id": "ar-018",
+    "id": "ar-022",
     "seccion": "protestas_ar",
     "pais": "Argentina",
     "bandera": "🇦🇷",
-    "hora": "mañana (movilización a pie y bloqueo del predio de colectivos desde la madrugada)",
-    "fecha": "2026-08-19",
-    "lugar": "Comodoro Rivadavia, Chubut: Ruta Nacional N° 3, desde el centro hasta Kilómetro 3; predio de colectivos en el puerto",
-    "tipoAccion": "Movilización a pie por la Ruta 3 y bloqueo del predio de colectivos en el puerto por trabajadores de Patagonia Argentina SRL contra la empresa saliente y el Municipio, reclamando pago de salarios adeudados y absorción laboral por parte de la nueva prestataria MR-Solbus",
+    "hora": "15:00 - jornada de visibilización (día 3 de paro de 5 días: 18-22 de agosto)",
+    "fecha": "2026-08-20",
+    "lugar": "Nacional: universidades públicas de todo el país; actividad destacada en Córdoba: Facultad de Lenguas (UNC), Ciudad Universitaria",
+    "tipoAccion": "Paro nacional universitario día 3 de 5 (18-22 agosto) con jornadas de visibilización; actividad de la UNC en Facultad de Lenguas a las 15",
     "organizaciones": [
-      "Trabajadores autoconvocados de Patagonia Argentina SRL",
-      "UTA Comodoro Rivadavia (Unión Tranviarios Automotor)"
+      "Conadu Histórica (Federación Nacional de Docentes, Investigadores y Creadores Universitarios)",
+      "ADIUC (Asociación de Docentes e Investigadores de la Universidad Nacional de Córdoba)",
+      "FATUN (Federación Argentina del Trabajador de las Universidades Nacionales)",
+      "AGD UBA (Asociación Gremial de Docentes de la UBA)",
+      "FUA (Federación Universitaria Argentina)"
     ],
-    "motivo": "El 19 de agosto de 2026, trabajadores de Patagonia Argentina SRL que aún no fueron incorporados por la nueva prestataria MR-Solbus y con salarios adeudados realizaron una movilización a pie por la Ruta Nacional N° 3 desde el centro de Comodoro Rivadavia hasta el domicilio del propietario de la concesionaria saliente, Atilio Rossi, en Kilómetro 3. La columna fue escoltada por la Policía del Chubut y generó importantes congestiones de tránsito. Paralelamente, choferes autoconvocados bloquearon el predio de colectivos en el puerto desde la madrugada, impidiendo la salida de unidades de Transporte Diadema y afectando el servicio de transporte público de pasajeros. Los manifestantes exigen el pago inmediato de los haberes adeudados y la incorporación de la totalidad del personal a la nueva empresa. El conflicto se da en un contexto de parálisis del transporte público en la ciudad petrolera.",
-    "status": "finalizada",
-    "lat": -45.8667,
-    "lng": -67.5,
+    "motivo": "El jueves 20 de agosto de 2026 es el tercer día del paro nacional universitario de 5 días (18-22 agosto) convocado por la Conadu Histórica en reclamo del cumplimiento de la Ley de Financiamiento Universitario (Ley 27.795), que lleva 300 días sin aplicarse. La protesta exige la recomposición salarial acumulada (entre 28,5% y 31,2%), el pago de retroactivos desde la entrada en vigencia de la ley y fondos para hospitales universitarios y becas estudiantiles. En la Universidad Nacional de Córdoba, la ADIUC programó una jornada de visibilización a las 15 en la Facultad de Lenguas. La Justicia convocó una audiencia clave para el viernes 21 de agosto en el marco de la cautelar vigente. El gobierno calificó la medida como 'ilegítima' y 'política'.",
+    "status": "en_curso",
+    "lat": -31.4172,
+    "lng": -64.1872,
     "fuentes": [
-      "https://www.elpatagonico.com/salarios-y-empleo-trabajadores-patagonia-marcharon-la-ruta-3-n6312274",
-      "https://cholilaonline.ar/2026/08/caos-de-transito-en-la-ruta-3-choferes-de-patagonia-argentina-marcharon-hacia-kilometro-3-escoltados-por-la-policia.html",
-      "https://delmardigital.net/rossi-intento-despejar-las-cubiertas-del-porton-pero-los-choferes-ratificaron-el-paro/"
+      "https://www.cronista.com/informacion-gral/nuevo-paro-docente-antes-de-septiembre-suspenden-las-clases-en-cordoba-el-proximo-jueves-y-viernes/",
+      "https://www.lanacion.com.ar/sociedad/paro-nacional-universitario-cuanto-dura-y-cuales-son-las-universidades-que-adhieren-nid19082026/",
+      "https://www.clarin.com/informacion-general/paro-nacional-universitario-empieza-dura-universidades-adhieren_0_nzw014j5FE.html",
+      "https://www.infobae.com/educacion/2026/08/18/las-universidades-iniciaron-otra-semana-de-conflicto-con-paros-y-un-banderazo-por-la-ley-de-financiamiento/",
+      "https://www.canal26.com/politica/2026/08/18/universidades-en-alerta-paro-nacional-por-tiempo-indeterminado-y-un-fuerte-roce-con-el-gobierno/"
     ],
-    "createdAt": "2026-08-19T22:50:38.000Z",
-    "updatedAt": "2026-08-19T23:50:27Z"
+    "createdAt": "2026-08-20T01:14:57.000Z",
+    "updatedAt": "2026-08-20T01:25:37Z"
   },
   {
-    "id": "int-690",
+    "id": "int-900",
     "seccion": "internacionales",
     "pais": "España",
     "bandera": "🇪🇸",
-    "hora": "Huelga indefinida en curso (día 2); servicios mínimos al 100%",
-    "fecha": "2026-08-19",
+    "hora": "Huelga indefinida en curso (día 3); servicios mínimos al 100%",
+    "fecha": "2026-08-20",
     "lugar": "Aragón: Zaragoza, Huesca — puntos de servicio de prevención y extinción de incendios forestales (INFOAR/SARGA) en toda la comunidad autónoma",
-    "tipoAccion": "Huelga indefinida de los bomberos y bomberas forestales de Aragón (INFOAR), en su segundo día, con servicios mínimos del 100% por riesgo de incendios forestales",
+    "tipoAccion": "Huelga indefinida de los bomberos y bomberas forestales de Aragón (INFOAR), en su tercer día, con servicios mínimos del 100% por riesgo de incendios forestales",
     "organizaciones": [
       "CGT",
       "OSTA",
@@ -310,7 +134,7 @@
       "Comité Intercentros de SARGA",
       "Comité de Huelga de Bomberos y Bomberas Forestales de Aragón"
     ],
-    "motivo": "El 19 de agosto de 2026, la huelga indefinida de los bomberos y bomberas forestales de Aragón (INFOAR/SARGA) entra en su segundo día, tras el fracaso de la mediación en el SAMA. Los sindicatos denuncian que el dispositivo autonómico de prevención y extinción de incendios forestales está estructuralmente infradimensionado, con jornadas de más de 20 horas sin descanso adecuado y personal insuficiente. Exigen 150-200 efectivos adicionales, cumplimiento legal de descansos y complementos de peligrosidad. Se mantienen servicios mínimos al 100% por el riesgo de incendios en plena época estival.",
+    "motivo": "El 20 de agosto de 2026, la huelga indefinida de los bomberos y bomberas forestales de Aragón (INFOAR/SARGA) entra en su tercer día, tras el fracaso de la mediación en el SAMA. Los sindicatos denuncian que el dispositivo autonómico de prevención y extinción de incendios forestales está estructuralmente infradimensionado, con jornadas de más de 20 horas sin descanso adecuado y personal insuficiente. Exigen 150-200 efectivos adicionales, cumplimiento legal de descansos y complementos de peligrosidad. Se mantienen servicios mínimos al 100% por el riesgo de incendios en plena época estival.",
     "status": "en_curso",
     "lat": 41.6488,
     "lng": -0.8891,
@@ -318,22 +142,22 @@
       "https://www.aragondigital.es/articulo/sociedad/arranca-huelga-indefinida-bomberos-forestales-aragon-operativo-infradimensionado/202608181037581002271.html",
       "https://cadenaser.com/aragon/2026/08/14/los-bomberos-forestales-mantienen-la-huelga-indefinida-tras-fracasar-la-negociacion-con-sarga-radio-zaragoza/"
     ],
-    "createdAt": "2026-08-18T01:03:47.000Z",
-    "updatedAt": "2026-08-19T23:50:27Z"
+    "createdAt": "2026-08-20T01:03:39.000Z",
+    "updatedAt": "2026-08-20T01:25:37Z"
   },
   {
-    "id": "int-614",
+    "id": "int-901",
     "seccion": "internacionales",
     "pais": "Grecia",
     "bandera": "🇬🇷",
-    "hora": "Huelga de 10 días (17-26 de agosto)",
-    "fecha": "2026-08-19",
+    "hora": "Huelga de 10 días (17-26 de agosto); día 4",
+    "fecha": "2026-08-20",
     "lugar": "Nivel nacional: oficinas de las Direcciones de Impuestos (DOU) dependientes de la AADE en todo el país",
-    "tipoAccion": "Huelga de inspectores y funcionarios de la POE DOU durante 10 días (17-26 de agosto), con abstención de realizar inspecciones fiscales preventivas, en plena temporada alta turística",
+    "tipoAccion": "Huelga de inspectores y funcionarios de la POE DOU durante 10 días (17-26 de agosto), cuarto día consecutivo, con abstención de realizar inspecciones fiscales preventivas en plena temporada alta turística",
     "organizaciones": [
       "POE DOU (Panhellenic Federation of Tax Employees)"
     ],
-    "motivo": "El 19 de agosto de 2026, la huelga de 10 días de la POE DOU de funcionarios de impuestos de Grecia continúa, retirando a sus miembros de las inspecciones fiscales preventivas en plena temporada turística alta. Los huelguistas denuncian subdotación crónica de personal (11.945 empleados de 16.120 puestos), falta de infraestructura, horas extras impagas y vehículos de servicio inadecuados. La medida afecta directamente la campaña anti-evasión fiscal de la AADE en destinos turísticos.",
+    "motivo": "El 20 de agosto de 2026, la huelga de 10 días de la POE DOU de funcionarios de impuestos de Grecia continúa en su cuarto día, retirando a sus miembros de las inspecciones fiscales preventivas en plena temporada turística alta. Los huelguistas denuncian subdotación crónica de personal (11.945 empleados de 16.120 puestos), falta de infraestructura, horas extras impagas y vehículos de servicio inadecuados. La medida afecta directamente la campaña anti-evasión fiscal de la AADE en destinos turísticos.",
     "status": "en_curso",
     "lat": 37.9838,
     "lng": 23.7275,
@@ -341,23 +165,23 @@
       "https://www.tovima.com/finance/greek-tax-officials-to-strike-during-peak-tourist-season/",
       "https://www.taxheaven.gr/news/74408/poe-doy-apergia-apoxh-apo-ton-prolhptiko-elegxo-apo-1708-ews-kai-2608"
     ],
-    "createdAt": "2026-08-17T10:28:36.000Z",
-    "updatedAt": "2026-08-19T23:50:27Z"
+    "createdAt": "2026-08-20T01:03:39.000Z",
+    "updatedAt": "2026-08-20T01:25:37Z"
   },
   {
-    "id": "int-615",
+    "id": "int-902",
     "seccion": "internacionales",
     "pais": "Reino Unido",
     "bandera": "🇬🇧",
-    "hora": "Huelga de dos semanas (17-29 de agosto)",
-    "fecha": "2026-08-19",
+    "hora": "Huelga de dos semanas (17-29 de agosto); día 4",
+    "fecha": "2026-08-20",
     "lugar": "Enniskillen, condado de Fermanagh, Irlanda del Norte: planta de Pilgrim's Europe",
-    "tipoAccion": "Huelga de dos semanas (17-29 agosto) de unos 130 trabajadores de Unite the Union en la planta de Pilgrim's Europe, por aumento salarial acorde a la inflación y eliminación de desigualdad en pago de descansos",
+    "tipoAccion": "Huelga de dos semanas (17-29 agosto) de unos 130 trabajadores de Unite the Union en la planta de Pilgrim's Europe, cuarto día; por aumento salarial acorde a la inflación y eliminación de desigualdad en pago de descansos",
     "organizaciones": [
       "Unite the Union",
       "Unos 130 trabajadores de Pilgrim's Europe en Enniskillen"
     ],
-    "motivo": "El 19 de agosto de 2026, la huelga de dos semanas de unos 130 trabajadores de Unite the Union en la planta de procesamiento de alimentos de Pilgrim's Europe (filial de JBS/Pilgrim's Pride) en Enniskillen, Irlanda del Norte, continúa. Los empleados exigen un aumento salarial que proteja contra la crisis del costo de vida y la eliminación de la desigualdad en el pago de los descansos. La empresa reportó ganancias de £128,4 millones (+21%) en 2024 y declara haber ofrecido un aumento 'por encima de la inflación'.",
+    "motivo": "El 20 de agosto de 2026, la huelga de dos semanas de unos 130 trabajadores de Unite the Union en la planta de procesamiento de alimentos de Pilgrim's Europe (filial de JBS/Pilgrim's Pride) en Enniskillen, Irlanda del Norte, continúa. Los empleados exigen un aumento salarial que proteja contra la crisis del costo de vida y la eliminación de la desigualdad en el pago de los descansos. La empresa reportó ganancias de £128,4 millones (+21%) en 2024 y declara haber ofrecido un aumento 'por encima de la inflación'.",
     "status": "en_curso",
     "lat": 54.3488,
     "lng": -7.6343,
@@ -365,23 +189,23 @@
       "https://unitetheunionireland.org/2026/08/09/pilgrims-europe-employees-in-enniskillen-will-strike-for-two-further-weeks-in-escalating-pay-dispute/",
       "https://www.belfasttelegraph.co.uk/business/enniskillen-factory-staff-to-strike-for-two-weeks-as-dispute-escalates/a/159936017.html"
     ],
-    "createdAt": "2026-08-17T10:28:36.000Z",
-    "updatedAt": "2026-08-19T23:50:27Z"
+    "createdAt": "2026-08-20T01:03:39.000Z",
+    "updatedAt": "2026-08-20T01:25:37Z"
   },
   {
-    "id": "int-547",
+    "id": "int-903",
     "seccion": "internacionales",
     "pais": "Alemania",
     "bandera": "🇩🇪",
-    "hora": "Campamento en curso durante todo el día (del 13 al 25 de agosto)",
-    "fecha": "2026-08-19",
+    "hora": "Campamento en curso durante todo el día (del 13 al 25 de agosto); día 8",
+    "fecha": "2026-08-20",
     "lugar": "Karlsruhe (Baden-Württemberg): parque Günther-Klotz-Anlage, junto al río Alb",
-    "tipoAccion": "«System Change Camp 2026»: campamento de protesta y encuentro del movimiento por la justicia climática (del 13 al 25 de agosto) con talleres, debates, paneles y actividades culturales",
+    "tipoAccion": "«System Change Camp 2026»: campamento de protesta y encuentro del movimiento por la justicia climática (día 8 de 13), con talleres, debates, paneles y actividades culturales",
     "organizaciones": [
       "Bildungs- und Aktionsnetzwerk Wandel e. V. (organizador)",
       "Movimiento por la justicia climática de Alemania"
     ],
-    "motivo": "El 19 de agosto de 2026 continúa en Karlsruhe el «System Change Camp 2026», el campamento anual del movimiento por la justicia climática en la Günther-Klotz-Anlage, con entre 1.000 y 2.000 participantes. La quinta edición (tras Hamburgo, Erfurt y Frankfurt) combina el campamento de protesta con 157 contribuciones en 18 tiendas, bajo el lema «Hinter den Barrikaden – Care miteinander lernen». El campamento incluye un plan antidiscriminación reforzado y condenas al antisemitismo.",
+    "motivo": "El 20 de agosto de 2026 continúa en Karlsruhe el «System Change Camp 2026», el campamento anual del movimiento por la justicia climática en la Günther-Klotz-Anlage, con entre 1.000 y 2.000 participantes. La quinta edición combina el campamento de protesta con 157 contribuciones en 18 tiendas, bajo el lema «Hinter den Barrikaden – Care miteinander lernen». El campamento incluye un plan antidiscriminación reforzado y condenas al antisemitismo.",
     "status": "en_curso",
     "lat": 49.0016,
     "lng": 8.3903,
@@ -390,420 +214,68 @@
       "https://www.system-change-camp.org/programm/programm-2026/",
       "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/versammlung-system-change-camp-2026-in-der-guenther-klotz-anlage"
     ],
-    "createdAt": "2026-08-16T09:51:08.000Z",
-    "updatedAt": "2026-08-19T23:50:27Z"
+    "createdAt": "2026-08-20T01:03:39.000Z",
+    "updatedAt": "2026-08-20T01:25:37Z"
   },
   {
-    "id": "int-743",
-    "seccion": "internacionales",
-    "pais": "Perú",
-    "bandera": "🇵🇪",
-    "hora": "Paro de 2 días (18-19 de agosto)",
-    "fecha": "2026-08-19",
-    "lugar": "Alto Amazonas (Loreto): Yurimaguas; también Ucayali (Pucallpa), Loreto (Iquitos), Tacna, Arequipa + 4 regiones más",
-    "tipoAccion": "Paro general de mototaxistas del FRUMAAY (último día) y paro de transportistas en múltiples regiones contra incremento de precios de combustibles",
-    "organizaciones": [
-      "Frente Único de Mototaxistas de Alto Amazonas (FRUMAAY)",
-      "Frente de Defensa de Ucayali (FREDEU)",
-      "Asociaciones de transportistas de múltiples regiones"
-    ],
-    "motivo": "El 19 de agosto de 2026, el último día del paro de dos días del FRUMAAY en Yurimaguas contra el incremento de precios de combustibles. El subsidio focalizado del 15%-20% anunciado por el gobierno el 14 de agosto enfrenta demoras de hasta tres semanas en la Amazonía. Simultáneamente, paros de transportistas continúan en Ucayali, Loreto, Tacna y Arequipa desde el 10 de agosto por la misma causa, con bloqueos de carreteras y afectación al abastecimiento de combustible (diésel de S/16 a S/24-27/galón).",
-    "status": "en_curso",
-    "lat": -5.89,
-    "lng": -76.08,
-    "fuentes": [
-      "https://diariovoces.com.pe/mototaxistas-de-alto-amazonas-convocan-a-paro-para-el-18-y-19-de-agosto/",
-      "https://es.wikipedia.org/wiki/Protestas_en_Per%C3%BA_de_agosto_de_2026",
-      "https://www.riotimesonline.com/peru-transport-strikes-fuel-prices-2026/"
-    ],
-    "createdAt": "2026-08-18T11:22:00.000Z",
-    "updatedAt": "2026-08-19T23:50:27Z"
-  },
-  {
-    "id": "int-762",
-    "seccion": "internacionales",
-    "pais": "Brasil",
-    "bandera": "🇧🇷",
-    "hora": "Huelga de 48 horas (18-19 de agosto); 92% de adhesión",
-    "fecha": "2026-08-19",
-    "lugar": "Juiz de Fora, Minas Gerais: sede de la Prefeitura Municipal (PJF), Avenida Brasil; escuelas de la red municipal",
-    "tipoAccion": "Huelga de 48 horas (18-19 agosto) de profesores de la red municipal de Juiz de Fora (Sinpro-JF) con 92% de adhesión, por irregularidades salariales y despidos",
-    "organizaciones": [
-      "Sindicato dos Professores Municipais de Juiz de Fora (Sinpro-JF)"
-    ],
-    "motivo": "El 19 de agosto de 2026, segundo y último día de la huelga de 48 horas de profesores de la red municipal de Juiz de Fora, Minas Gerais, convocada por Sinpro-JF con 92% de adhesión. Los docentes exigen la regularización de pagos pendientes desde enero (triennios, adicionales, liquidaciones), corrección de errores en la nómina, repaso del Plano Nacional de Educación y reversión del despido de 79 trabajadores de limpieza. Es la tercera movilización de los profesores este año; el sindicato advirtió asamblea permanente sin respuesta.",
-    "status": "en_curso",
-    "lat": -21.7587,
-    "lng": -43.3496,
-    "fuentes": [
-      "https://tribunademinas.com.br/noticias/cidade/18-08-2026/professores-da-rede-municipal-paralisam-atividades-e-protestam-em-frente-a-pjf.html",
-      "https://folhajf.com.br/professores-municipais-paralisacao-48-juiz-de-fora/"
-    ],
-    "createdAt": "2026-08-18T20:19:29.000Z",
-    "updatedAt": "2026-08-19T23:50:27Z"
-  },
-  {
-    "id": "int-776",
-    "seccion": "internacionales",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "Huelga de 2 días (18-19 de agosto)",
-    "fecha": "2026-08-19",
-    "lugar": "Ludhiana, Punjab: Mini Secretariat y oficinas gubernamentales del distrito",
-    "tipoAccion": "Huelga de 2 días del Punjab State Ministerial Services Union (PSMSU) exigiendo la revisión del subsidio de renta básica (DA) del 31% al 48%",
-    "organizaciones": [
-      "Punjab State Ministerial Services Union (PSMSU)"
-    ],
-    "motivo": "El 19 de agosto de 2026, segundo día de huelga del Punjab State Ministerial Services Union (PSMSU) en el Mini Secretariat y oficinas gubernamentales de Ludhiana, exigiendo la implementación de la revisión del DA del 31% al 48%, conforme a órdenes del Tribunal Superior de Punjab y Haryana. Los sindicatos denuncian que el gobierno estatal ha ignorado reiteradamente las directrices judiciales.",
-    "status": "en_curso",
-    "lat": 30.901,
-    "lng": 75.8573,
-    "fuentes": [
-      "https://www.hindustantimes.com/cities/chandigarh-news/ludhiana-govt-staff-begin-2-day-strike-over-da-revision-101786989104623.html"
-    ],
-    "createdAt": "2026-08-18T22:19:20.000Z",
-    "updatedAt": "2026-08-19T23:50:27Z"
-  },
-  {
-    "id": "int-794",
-    "seccion": "internacionales",
-    "pais": "Nigeria",
-    "bandera": "🇳🇬",
-    "hora": "Mañana (aprox. 8:00-12:00 WAT)",
-    "fecha": "2026-08-19",
-    "lugar": "Abuja: Ministerio de Defensa, Olusegun Obasanjo Way",
-    "tipoAccion": "Manifestación de jubilados militares nigerianos frente al Ministerio de Defensa, exigiendo el cumplimiento de ajustes de pensiones",
-    "organizaciones": [
-      "Retirados militares nigerianos (pensionistas)"
-    ],
-    "motivo": "El 19 de agosto de 2026, jubilados militares nigerianos se concentran frente al Ministerio de Defensa en Abuja para exigir el cumplimiento de compromisos de ajuste de pensiones. Los manifestantes denuncian que el gobierno no ha honrado las promesas de actualización de beneficios previamente acordados. La Embajada de Estados Unidos emitió una alerta a ciudadanos americanos sobre la protesta programada.",
-    "status": "nueva",
-    "lat": 9.0579,
-    "lng": 7.4951,
-    "fuentes": [
-      "https://ng.usembassy.gov/demonstration-alert-u-s-embassy-abuja-august-19-2026",
-      "https://nairametrics.com/2026/08/18/us-embassy-alerts-americans-in-abuja-over-august-19-military-retirees-protest/",
-      "https://saharareporters.com/2026/08/19/military-pensioners-protest-abuja-over-exclusion-pay-increase-demand-consequential",
-      "https://punchng.com/photos-police-soldiers-block-ex-servicemen-from-protesting-at-defence-ministry/"
-    ],
-    "createdAt": "2026-08-19T01:04:05.000Z",
-    "updatedAt": "2026-08-19T23:50:27Z"
-  },
-  {
-    "id": "int-795",
-    "seccion": "internacionales",
-    "pais": "Suiza",
-    "bandera": "🇨🇭",
-    "hora": "10:30-19:00 CEST",
-    "fecha": "2026-08-19",
-    "lugar": "Ginebra: marcha desde Palais Wilson hasta Palais des Nations (sede de la ONU)",
-    "tipoAccion": "Marcha de protesta y oración con velas de comunidades tibetanas de Europa contra la ley china de «Unidad Étnica y Progreso»",
-    "organizaciones": [
-      "Comunidades tibetanas de Europa",
-      "GSTF (Global Solidarity for Tibet Foundation)"
-    ],
-    "motivo": "El 19 de agosto de 2026, comunidades tibetanas de toda Europa marchan desde el Palais Wilson hasta el Palais des Nations en Ginebra, en solidaridad con el fallecido monje Lobga Rangzen y contra la Ley China de «Unidad Étnica y Progreso». Los manifestantes exigen el fin de la represión en el Tíbet, la liberación de presos políticos y la independencia del Tíbet. La marcha incluye una oración con velas frente a la sede de la ONU.",
-    "status": "nueva",
-    "lat": 46.225,
-    "lng": 6.139,
-    "fuentes": [
-      "https://gstf.org/fr/events/united-for-tibet/",
-      "https://www.sinoptic.ch/evenement/protest-march-candlelight-prayer-geneva/"
-    ],
-    "createdAt": "2026-08-19T01:04:05.000Z",
-    "updatedAt": "2026-08-19T23:50:27Z"
-  },
-  {
-    "id": "int-796",
-    "seccion": "internacionales",
-    "pais": "República Democrática del Congo",
-    "bandera": "🇨🇩",
-    "hora": "Mañana (marcha programada)",
-    "fecha": "2026-08-19",
-    "lugar": "Luozi, provincia de Kongo Central",
-    "tipoAccion": "Marcha pacífica de la Rassemblement des forces vives de Luozi exigiendo un nuevo bac motorizado al gobierno central",
-    "organizaciones": [
-      "Rassemblement des forces vives de Luozi"
-    ],
-    "motivo": "El 19 de agosto de 2026, residentes de Luozi, en la provincia de Kongo Central, realizan una marcha pacífica para exigir al gobierno central la provisión de un nuevo bac motorizado. El bac actual está averiado desde el 13 de agosto, dejando a la comunidad sin transporte fluvial. Los organizadores denuncian promesas incumplidas desde 2024 y la falta de respuesta del gobierno.",
-    "status": "nueva",
-    "lat": -5.5167,
-    "lng": 13.1833,
-    "fuentes": [
-      "https://www.gazetteducontinent.fr/province/luozi-marche-pacifique-le-mercredi-19-aout-2026-pour-exiger-un-nouveau-bac"
-    ],
-    "createdAt": "2026-08-19T01:04:05.000Z",
-    "updatedAt": "2026-08-19T23:50:27Z"
-  },
-  {
-    "id": "int-797",
-    "seccion": "internacionales",
-    "pais": "Reino Unido",
-    "bandera": "🇬🇧",
-    "hora": "10:30-12:30 BST",
-    "fecha": "2026-08-19",
-    "lugar": "Edinburgh: Barclays Bank, 10-15 Princes St",
-    "tipoAccion": "Manifestación de la Scottish Palestine Solidarity Campaign contra la complicidad financiera de Barclays en la situación de Gaza",
-    "organizaciones": [
-      "Scottish Palestine Solidarity Campaign",
-      "Movimiento BDS"
-    ],
-    "motivo": "El 19 de agosto de 2026, manifestantes de la Scottish Palestine Solidarity Campaign se concentran frente a la sucursal de Barclays Bank en Princes Street, Edimburgo, para protestar contra la complicidad financiera de Barclays en la acción israelí en Gaza, particularmente como dealer principal de bonos del gobierno israelí. Los manifestantes exigen a Barclays que termine su relación financiera con Israel.",
-    "status": "nueva",
-    "lat": 55.9525,
-    "lng": -3.1925,
-    "fuentes": [
-      "https://www.scottishpsc.org.uk/event/edinburgh-barclays-protest-wed/2026-08-19/"
-    ],
-    "createdAt": "2026-08-19T01:04:05.000Z",
-    "updatedAt": "2026-08-19T23:50:27Z"
-  },
-  {
-    "id": "int-798",
-    "seccion": "internacionales",
-    "pais": "Reino Unido",
-    "bandera": "🇬🇧",
-    "hora": "11:30-13:00 BST",
-    "fecha": "2026-08-19",
-    "lugar": "Glasgow: Armed Forces Careers Office, 82 Queen Street",
-    "tipoAccion": "Manifestación semanal de la Gaza Genocide Emergency Committee Glasgow frente a la oficina de reclutamiento militar",
-    "organizaciones": [
-      "Gaza Genocide Emergency Committee Glasgow"
-    ],
-    "motivo": "El 19 de agosto de 2026, manifestantes de la Gaza Genocide Emergency Committee Glasgow realizan su protesta semanal de los miércoles frente a la oficina de reclutamiento de las Fuerzas Armadas en Queen Street, denunciando la complicidad del Reino Unido en la acción militar contra palestinos en Gaza.",
-    "status": "nueva",
-    "lat": 55.8613,
-    "lng": -4.2484,
-    "fuentes": [
-      "https://www.scottishpsc.org.uk/event/glasgow-recruitment-2/2026-08-19/"
-    ],
-    "createdAt": "2026-08-19T01:04:05.000Z",
-    "updatedAt": "2026-08-19T23:50:27Z"
-  },
-  {
-    "id": "int-800",
+    "id": "int-904",
     "seccion": "internacionales",
     "pais": "Estados Unidos",
     "bandera": "🇺🇸",
-    "hora": "24/7 acampada permanente (en curso desde hace 3 semanas)",
-    "fecha": "2026-08-19",
+    "hora": "24/7 acampada permanente (en curso desde hace más de 3 semanas)",
+    "fecha": "2026-08-20",
     "lugar": "Lochiel, San Rafael Valley, Arizona (a 37 km de Nogales, frontera con México)",
     "tipoAccion": "Sentada y acampada permanente contra la construcción del muro fronterizo de CBP en el San Rafael Valley, protegiendo un alamo centenario ('la abuela')",
     "organizaciones": [
       "Madrean Archipelago Wildlife Center",
       "Activistas ambientales y comunidades locales (más de 100 personas)"
     ],
-    "motivo": "El 19 de agosto de 2026, la acampada de protesta en Lochiel, San Rafael Valley, Arizona, continúa en su tercera semana. Activistas ambientales y miembros de la comunidad protegen un alamo centenario ('the grandmother') de la tala para la construcción de un muro fronterizo de CBP que cruza el valle. El proyecto de US$334 millones amenaza el ecosistema del San Rafael Valley, uno de los corredores de biodiversidad más importantes de la frontera sur.",
+    "motivo": "El 20 de agosto de 2026, la acampada de protesta en Lochiel, San Rafael Valley, Arizona, continúa en su cuarta semana. Activistas ambientales y miembros de la comunidad protegen un alamo centenario ('the grandmother') de la tala para la construcción de un muro fronterizo de CBP que cruza el valle. El proyecto de US$334 millones amenaza el ecosistema del San Rafael Valley, uno de los corredores de biodiversidad más importantes de la frontera sur.",
     "status": "en_curso",
     "lat": 31.3461,
     "lng": -110.5953,
     "fuentes": [
       "https://www.kold.com/2026/08/18/protesters-stage-tree-sit-in-arizona-oppose-border-wall-construction/"
     ],
-    "createdAt": "2026-08-19T01:04:05.000Z",
-    "updatedAt": "2026-08-19T23:50:27Z"
+    "createdAt": "2026-08-20T01:03:39.000Z",
+    "updatedAt": "2026-08-20T01:25:37Z"
   },
   {
-    "id": "int-801",
-    "seccion": "internacionales",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "14:00 CEST",
-    "fecha": "2026-08-19",
-    "lugar": "Serverette (48700), Lozère: parking de la salle communale",
-    "tipoAccion": "Rassemblement contra el proyecto eólico de Volkswind en Les Laubies",
-    "organizaciones": [
-      "Association PEPLM",
-      "Colectivos locales medioambientales"
-    ],
-    "motivo": "El 19 de agosto de 2026, vecinos de Serverette en Lozère se concentran contra el proyecto eólico industrial de Volkswind en Les Laubies. Los manifestantes se oponen al desarrollo eólico a gran escala en una zona rural, denunciando impactos ambientales y paisajísticos.",
-    "status": "nueva",
-    "lat": 44.7034,
-    "lng": 3.39,
-    "fuentes": [
-      "https://toutesnosenergies.fr/index.php/2026/08/13/manifestation-a-serverette-48700-contre-volkswind/"
-    ],
-    "createdAt": "2026-08-19T01:04:05.000Z",
-    "updatedAt": "2026-08-19T23:50:27Z"
-  },
-  {
-    "id": "int-802",
-    "seccion": "internacionales",
-    "pais": "Brasil",
-    "bandera": "🇧🇷",
-    "hora": "14:00 BRT",
-    "fecha": "2026-08-19",
-    "lugar": "São Paulo: MP-SP (Ministério Público de São Paulo), Sé",
-    "tipoAccion": "Manifestación de organizadas del Corinthians pidiendo intervención judicial en el club",
-    "organizaciones": [
-      "Gaviões da Fiel",
-      "Camisa 12",
-      "Pavilhão 9",
-      "Estopim da Fiel",
-      "Coringão Chopp",
-      "Fiel Macabra"
-    ],
-    "motivo": "El 19 de agosto de 2026, las principales organizadas del Corinthians (Gaviões da Fiel, Camisa 12, Pavilhão 9, entre otras) se concentran frente al MP-SP en Sé para apoyar la intervención del Ministerio Público en la crisis política y administrativa del club. Los manifestantes exigen intervención judicial para resolver la parálisis institucional que afecta al equipo.",
-    "status": "nueva",
-    "lat": -23.5505,
-    "lng": -46.6333,
-    "fuentes": [
-      "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/08/18/organizadas-convocam-protestos-e-pedem-intervencao-no-corinthians.ghtm"
-    ],
-    "createdAt": "2026-08-19T01:04:05.000Z",
-    "updatedAt": "2026-08-19T23:50:27Z"
-  },
-  {
-    "id": "int-803",
+    "id": "int-905",
     "seccion": "internacionales",
     "pais": "India",
     "bandera": "🇮🇳",
-    "hora": "Huelga de hambre indefinida (día 2)",
-    "fecha": "2026-08-19",
+    "hora": "Huelga de hambre indefinida (día 3)",
+    "fecha": "2026-08-20",
     "lugar": "Mumbai (Maharashtra): Kennedy Bridge, Opera House",
-    "tipoAccion": "Huelga de hambre indefinida de trabajadores de BEST (Brihanmumbai Electric Supply and Transport) exigiendo acuerdos salariales pendientes",
+    "tipoAccion": "Huelga de hambre indefinida de trabajadores de BEST (Brihanmumbai Electric Supply and Transport), tercer día, exigiendo acuerdos salariales pendientes",
     "organizaciones": [
       "BEST Workers Union"
     ],
-    "motivo": "El 19 de agosto de 2026, la huelga de hambre indefinida de los trabajadores de BEST de Mumbai entra en su segundo día en Kennedy Bridge, Opera House. Los trabajadores exigen la implementación de acuerdos salariales pendientes (2016-21 y 2021-26), la aplicación del 7.º Comité de Remuneraciones, igualdad de pago para trabajadores de alquiler húmedo y la fusión del presupuesto con BMC. A pesar de la huelga, los servicios de autobuses de BEST continúan operando normalmente.",
+    "motivo": "El 20 de agosto de 2026, la huelga de hambre indefinida de los trabajadores de BEST de Mumbai entra en su tercer día en Kennedy Bridge, Opera House. Los trabajadores exigen la implementación de acuerdos salariales pendientes (2016-21 y 2021-26), la aplicación del 7.º Comité de Remuneraciones, igualdad de pago para trabajadores de alquiler húmedo y la fusión del presupuesto con BMC. A pesar de la huelga, los servicios de autobuses de BEST continúan operando normalmente.",
     "status": "en_curso",
     "lat": 18.9559,
     "lng": 72.8293,
     "fuentes": [
       "https://www.freepressjournal.in/mumbai/best-workers-hunger-strike-has-no-impact-on-mumbai-bus-services-union-says-agitation-will-continue"
     ],
-    "createdAt": "2026-08-19T01:04:05.000Z",
-    "updatedAt": "2026-08-19T23:50:27Z"
+    "createdAt": "2026-08-20T01:03:39.000Z",
+    "updatedAt": "2026-08-20T01:25:37Z"
   },
   {
-    "id": "int-805",
+    "id": "int-906",
     "seccion": "internacionales",
     "pais": "India",
     "bandera": "🇮🇳",
-    "hora": "Marcha programada",
-    "fecha": "2026-08-19",
-    "lugar": "Patna, Bihar",
-    "tipoAccion": "Marcha de protesta del RJD (Rashtriya Janata Dal) y la alianza Mahagathbandhan contra el manejo del gobierno de Bihar de las manifestaciones estudiantiles",
-    "organizaciones": [
-      "Rashtriya Janata Dal (RJD)",
-      "Alianza Mahagathbandhan"
-    ],
-    "motivo": "El 19 de agosto de 2026, el RJD y la alianza Mahagathbandhan convocan una marcha de protesta en Patna, Bihar, contra el manejo del gobierno estatal de las manifestaciones estudiantiles, incluyendo el incidente del 25 de julio en Siwan donde la policía disparó un AK-47 durante una protesta estudiantil. El líder de la oposición Tejashwi Yadav lideró la marcha y fue detenido por la policía con cañones de agua.",
-    "status": "finalizada",
-    "lat": 25.6093,
-    "lng": 85.1376,
-    "fuentes": [
-      "https://www.whalesbook.com/news/English/other/RJD-Calls-For-Patna-Protest-Over-Bihar-AK-47-Incident-On-Aug-19/6a845bbd041a92921606af29",
-      "https://www.hindustantimes.com/india-news/bihar-cops-use-water-cannons-on-march-led-by-tejashwi-yadav-over-paper-leak-unemployment-101787126226729.html"
-    ],
-    "createdAt": "2026-08-19T01:04:05.000Z",
-    "updatedAt": "2026-08-19T23:50:27Z"
-  },
-  {
-    "id": "int-806",
-    "seccion": "internacionales",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
-    "hora": "16:00-17:30 EDT",
-    "fecha": "2026-08-19",
-    "lugar": "Melbourne, Florida: intersección de Wickham Rd y Lake Washington Rd",
-    "tipoAccion": "Rally contra las cámaras de lectores de matrículas Flock Safety, parte de la Semana Nacional de Acción DeFlock",
-    "organizaciones": [
-      "Florida Digital Rights Association",
-      "Coalición DeFlock National Week of Action"
-    ],
-    "motivo": "El 19 de agosto de 2026, activistas de derechos digitales se concentran en la intersección de Wickham Road y Lake Washington Road en Melbourne, Florida, contra el despliegue de cámaras de lectores automáticos de matrículas (ALPR) de Flock Safety. La acción forma parte de la Semana Nacional de Acción DeFlock (16-22 de agosto), que incluye más de 400 eventos en casi todos los estados de EE.UU.",
-    "status": "nueva",
-    "lat": 28.1461,
-    "lng": -80.6898,
-    "fuentes": [
-      "https://fldigitalrights.org/rally-against-flock-cameras-in-melbourne-fl/"
-    ],
-    "createdAt": "2026-08-19T01:04:05.000Z",
-    "updatedAt": "2026-08-19T23:50:27Z"
-  },
-  {
-    "id": "int-808",
-    "seccion": "internacionales",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
-    "hora": "11:00-13:00 EDT",
-    "fecha": "2026-08-19",
-    "lugar": "Burlington, Massachusetts: ICE Facility, District Avenue",
-    "tipoAccion": "Protesta semanal y recolección de alimentos frente a la instalación de ICE en Burlington",
-    "organizaciones": [
-      "Bearing Witness",
-      "Turn Purple 2 Blue"
-    ],
-    "motivo": "El 19 de agosto de 2026, organizaciones pro-derechos de inmigrantes realizan su protesta semanal de los miércoles frente a la instalación de ICE en Burlington, Massachusetts, con una recolección de alimentos solidaria. Los manifestantes denuncian las políticas de deportación y detención de ICE.",
-    "status": "nueva",
-    "lat": 42.4875,
-    "lng": -71.1845,
-    "fuentes": [
-      "https://turnpurple2blue.org/event/bear-witness-protest-and-food-drive-wednesdays-at-ice-6/2026-08-19/"
-    ],
-    "createdAt": "2026-08-19T01:04:05.000Z",
-    "updatedAt": "2026-08-19T23:50:27Z"
-  },
-  {
-    "id": "int-809",
-    "seccion": "internacionales",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
-    "hora": "17:30-20:30 PDT",
-    "fecha": "2026-08-19",
-    "lugar": "Morgan Hill, California: Morgan Hill Council Chambers, 17575 Peak Avenue",
-    "tipoAccion": "Rally y comentario público en el Ayuntamiento de Morgan Hill contra la complacencia de la ciudad con ICE",
-    "organizaciones": [
-      "Silicon Valley DSA (Community Safety Working Group)",
-      "ICE OUT of Gilroy"
-    ],
-    "motivo": "El 19 de agosto de 2026, activistas de Silicon Valley DSA y ICE OUT of Gilroy se concentran en el Ayuntamiento de Morgan Hill para exigir que el consejo municipal se oponga a la presencia de ICE y la instalación de Vineyard Court. Los manifestantes denuncian la complacencia de la ciudad con las operaciones de deportación.",
-    "status": "nueva",
-    "lat": 37.1315,
-    "lng": -121.6493,
-    "fuentes": [
-      "https://siliconvalleydsa.org/event/morganhill/"
-    ],
-    "createdAt": "2026-08-19T01:04:05.000Z",
-    "updatedAt": "2026-08-19T23:50:27Z"
-  },
-  {
-    "id": "int-810",
-    "seccion": "internacionales",
-    "pais": "Canadá",
-    "bandera": "🇨🇦",
-    "hora": "Durante el día (acción simbólica en centros de trabajo)",
-    "fecha": "2026-08-19",
-    "lugar": "Centros de trabajo federales en todo Canadá",
-    "tipoAccion": "Día de solidaridad 'Vístete de negro' (Portez du noir) de la UCTE/PSAC en negociaciones contractuales con el Treasury Board",
-    "organizaciones": [
-      "Public Service Alliance of Canada (PSAC) / UCTE (Union canadienne des employés des transports)"
-    ],
-    "motivo": "El 19 de agosto de 2026, empleados federales de Canadá participan del día de solidaridad 'Vístete de negro' convocado por la UCTE/PSAC durante las negociaciones contractuales con el Treasury Board. La acción simbólica busca mostrar apoyo a los equipos de negociación y presionar por mejores condiciones laborales en el sector público federal.",
-    "status": "nueva",
-    "lat": 45.4215,
-    "lng": -75.6972,
-    "fuentes": [
-      "https://ucte-ucet.ca/fr/portez-du-noir-le-19-aout/"
-    ],
-    "createdAt": "2026-08-19T01:04:05.000Z",
-    "updatedAt": "2026-08-19T23:50:27Z"
-  },
-  {
-    "id": "int-813",
-    "seccion": "internacionales",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "Sentada permanente (continuación)",
-    "fecha": "2026-08-19",
+    "hora": "Sentada permanente (día 3); huelga de hambre indefinida",
+    "fecha": "2026-08-20",
     "lugar": "Patna (Bihar): Gardanibagh, sitio de protesta",
-    "tipoAccion": "Huelga de hambre indefinida de aspirantes a la convocatoria TRE-4 (Teacher Recruitment Examination), día 2, exigiendo liberación del aviso y renuncia del ministro de Educación",
+    "tipoAccion": "Huelga de hambre indefinida de aspirantes a la convocatoria TRE-4 (Teacher Recruitment Examination), día 3, exigiendo liberación del aviso y renuncia del ministro de Educación",
     "organizaciones": [
       "Bihar Students' Union",
       "Dilip Kumar (líder estudiantil)"
     ],
-    "motivo": "El 19 de agosto de 2026, la huelga de hambre indefinida de aspirantes a la convocatoria TRE-4 en Gardanibagh, Patna, entra en su segundo día. Los manifestantes exigen la liberación inmediata del aviso de la convocatoria TRE-4, la renuncia del ministro de Educación Mithilesh Tiwari y la implementación de un proceso de reclutamiento transparente. Se amenaza con marcha a la Asamblea Legislativa si no hay respuesta en 5 días.",
+    "motivo": "El 20 de agosto de 2026, la huelga de hambre indefinida de aspirantes a la convocatoria TRE-4 en Gardanibagh, Patna, entra en su tercer día. Los manifestantes exigen la liberación inmediata del aviso de la convocatoria TRE-4, la renuncia del ministro de Educación Mithilesh Tiwari y la implementación de un proceso de reclutamiento transparente. Se amenaza con marcha a la Asamblea Legislativa si no hay respuesta en 5 días.",
     "status": "en_curso",
     "lat": 25.6093,
     "lng": 85.1376,
@@ -811,98 +283,23 @@
       "https://timesofindia.indiatimes.com/city/patna/job-aspirants-to-stage-indefinite-protest-from-aug-18/articleshow/133244337.cms",
       "https://www.ndtv.com/education/bihar-students-to-go-on-hunger-strike-from-august-18-demand-education-ministers-resignation-11905893"
     ],
-    "createdAt": "2026-08-19T01:04:05.000Z",
-    "updatedAt": "2026-08-19T23:50:27Z"
+    "createdAt": "2026-08-20T01:03:39.000Z",
+    "updatedAt": "2026-08-20T01:25:37Z"
   },
   {
-    "id": "int-822",
-    "seccion": "internacionales",
-    "pais": "Filipinas",
-    "bandera": "🇵🇭",
-    "hora": "10:00-11:00 PHT",
-    "fecha": "2026-08-19",
-    "lugar": "Taguig City, Gran Manila: oficina de la Bases Conversion and Development Authority (BCDA), Bonifacio Technology Center",
-    "tipoAccion": "Manifestación relámpago de organizaciones juveniles contra el proyecto Pax Silica de la BCDA en New Clark City, Tarlac, con tensión entre manifestantes y marshals de seguridad",
-    "organizaciones": [
-      "League of Filipino Students (LFS)",
-      "Agham Youth",
-      "Gabriela Youth",
-      "Katribu Youth"
-    ],
-    "motivo": "El 19 de agosto de 2026, organizaciones juveniles filipinas realizaron una manifestación relámpago frente a la oficina de la BCDA en Bonifacio Technology Center, Taguig, para condenar la iniciativa Pax Silica. Los manifestantes denunciaron falta de transparencia, posibles daños ambientales y el impacto del proyecto de 1.600 hectáreas en New Clark City sobre el suministro de electricidad y agua, así como el desplazamiento de agricultores y comunidades indígenas Aeta. Tensiones estallaron cuando marshals intentaron dispersar a los manifestantes, resultando en empujones y discusiones acaloradas. Tras la confrontación, se acordó un permiso de 5 minutos para la protesta antes de la dispersión pacífica.",
-    "status": "nueva",
-    "lat": 14.5547,
-    "lng": 121.05,
-    "fuentes": [
-      "https://www.dzrh.com.ph/post/protest-vs-pax-silica-tensions-flare-as-marshals-move-to-disperse-rallyists-in-taguig",
-      "https://www.abs-cbn.com/news/2026/8/13/groups-protest-vs-pax-silica-1344",
-      "https://newsinfo.inquirer.net/2278938/groups-push-anti-pax-silica-drive-as-online-petitions-reach-over-500000"
-    ],
-    "createdAt": "2026-08-19T04:33:29.000Z",
-    "updatedAt": "2026-08-19T23:50:27Z"
-  },
-  {
-    "id": "int-823",
-    "seccion": "internacionales",
-    "pais": "Canadá",
-    "bandera": "🇨🇦",
-    "hora": "12:00 EDT",
-    "fecha": "2026-08-19",
-    "lugar": "Ottawa, Ontario: Queensway-Carleton Hospital, 3045 Baseline Road",
-    "tipoAccion": "Rally conjunto de CUPE, ONA y OPSEU contra el recorte de 101 puestos de trabajo en el Queensway-Carleton Hospital, en el marco de recortes de financiamiento provincial al sector hospitalario",
-    "organizaciones": [
-      "CUPE (Canadian Union of Public Employees)",
-      "ONA (Ontario Nurses Association)",
-      "OPSEU (Ontario Public Service Employees Union)"
-    ],
-    "motivo": "El 19 de agosto de 2026, los sindicatos CUPE, ONA y OPSEU organizaron un rally frente al Queensway-Carleton Hospital en Ottawa para exigir la reversión de 101 recortes de empleo. Los sindicatos también piden al gobierno provincial que aumente el financiamiento hospitalario para abordar problemas de personal y capacidad. La acción se enmarca en preocupaciones más amplias sobre el impacto de los recortes provinciales en la atención al paciente.",
-    "status": "nueva",
-    "lat": 45.3488,
-    "lng": -75.7481,
-    "fuentes": [
-      "https://ochu.on.ca/2026/08/17/cupe-ona-and-opseu-to-rally-against-101-job-cuts-at-the-queensway-carleton-hospital-in-ottawa-as-provincial-hospital-funding-cuts-hit-patient-care/"
-    ],
-    "createdAt": "2026-08-19T04:33:29.000Z",
-    "updatedAt": "2026-08-19T23:50:27Z"
-  },
-  {
-    "id": "int-830",
-    "seccion": "internacionales",
-    "pais": "Moldavia",
-    "bandera": "🇲🇩",
-    "hora": "09:00-11:30 (rally sindical)",
-    "fecha": "2026-08-19",
-    "lugar": "Chisináu: Piața Marii Adunări Naționale (Gran Plaza de la Asamblea Nacional), frente al edificio del Parlamento",
-    "tipoAccion": "Rally sindical de educación y ciencia contra la incumplimiento salarial del gobierno, con apoyo de la Confederación Nacional de Sindicatos (KNPM)",
-    "organizaciones": [
-      "Federatia Sindicală a Corpului Didactic și Științific (FPO)",
-      "Confederația Națională a Sindicatelor din Republica Moldova (KNPM)",
-      "Sindicatos sectoriales de educación y ciencia"
-    ],
-    "motivo": "El 19 de agosto de 2026, sindicatos de educación y ciencia de Moldavia realizan un rally en la Piața Marii Adunări Naționale de Chisináu para exigir al gobierno el cumplimiento del compromiso de aumentar salarios efectivo desde el 1 de septiembre de 2026. La KNPM y otros centros sindicales nacionales declararon su solidaridad con los trabajadores de educación y ciencia. Las negociaciones previas con el Ministerio de Educación no lograron un compromiso. Los sindicatos demandan una política de compensación efectiva para atraer y retener profesionales cualificados y el reconocimiento del rol estratégico de la educación.",
-    "status": "finalizada",
-    "lat": 47.0105,
-    "lng": 28.8638,
-    "fuentes": [
-      "https://logos-pres.md/en/news/the-national-confederation-of-trade-unions-will-join-the-protest-organized-by-education-unions/"
-    ],
-    "createdAt": "2026-08-19T05:56:00.000Z",
-    "updatedAt": "2026-08-19T23:50:27Z"
-  },
-  {
-    "id": "int-833",
+    "id": "int-907",
     "seccion": "internacionales",
     "pais": "Turquía",
     "bandera": "🇹🇷",
-    "hora": "04:45 (intervención policial); protesta en curso desde el 13 de julio (38 días)",
-    "fecha": "2026-08-19",
+    "hora": "Sentada permanente en curso (día 39, tras intervención policial del 19 de agosto)",
+    "fecha": "2026-08-20",
     "lugar": "Ankara: Güvenpark (junto al Parlamento), Kızılay",
-    "tipoAccion": "Intervención policial contra la sentada permanente de familiares de mártires y veteranos de guerra en Güvenpark, tras 38 días de protesta exigiendo derechos laborales iguales",
+    "tipoAccion": "Continuación de la sentada permanente de familiares de mártires y veteranos de guerra en Güvenpark tras la intervención policial del 19 de agosto, tras 39 días de protesta exigiendo derechos laborales iguales",
     "organizaciones": [
       "Asociación de Familias de Mártires y Veteranos (Şehit Aileleri ve Gaziler Derneği)",
       "Erdem Çerçioğlu (presidente de la asociación)"
     ],
-    "motivo": "El 19 de agosto de 2026 a las 04:45, la policía turca intervino en la sentada permanente que familiares de mártires y veteranos de guerra mantenían en Güvenpark, Ankara, desde hacía 38 días. Los manifestantes, provenientes de las 81 provincias de Turquía, exigían la mejora de sus derechos laborales (özlük hakları). Los equipos policiales trasladaron a los manifestantes en buses al centro de adaptación de veteranos y cerraron el parque con barreras. El presidente de la asociación, Erdem Çerçioğlu, declaró: 'Para vivir como ser humano en este país, parece que hay que ser terrorista y no veterano'. La protesta se inició el 13 de julio de 2026.",
+    "motivo": "El 20 de agosto de 2026, la sentada permanente que familiares de mártires y veteranos de guerra mantenían en Güvenpark, Ankara, entra en su día 39, tras la intervención policial de la madrugada del 19 de agosto en la que se trasladó a los manifestantes en buses al centro de adaptación de veteranos y se cerró el parque con barreras. Los manifestantes, provenientes de las 81 provincias de Turquía, exigían la mejora de sus derechos laborales (özlük hakları). El presidente de la asociación, Erdem Çerçioğlu, declaró: 'Para vivir como ser humano en este país, parece que hay que ser terrorista y no veterano'. La protesta se inició el 13 de julio de 2026.",
     "status": "en_curso",
     "lat": 39.9199,
     "lng": 32.8543,
@@ -911,182 +308,101 @@
       "https://www.haber3.com/guncel/guvenparkta-sehit-aileleri-ve-gazilere-sabaha-karsi-polis-mudahalesi-haberi-6262476",
       "https://www.cumhuriyet.com.tr/turkiye/gaziler-meclis-e-yurumek-istedi-polis-barikat-kurdu-2528007"
     ],
-    "createdAt": "2026-08-19T09:31:18.000Z",
-    "updatedAt": "2026-08-19T23:50:27Z"
+    "createdAt": "2026-08-20T01:03:39.000Z",
+    "updatedAt": "2026-08-20T01:25:37Z"
   },
   {
-    "id": "int-834",
+    "id": "int-908",
     "seccion": "internacionales",
     "pais": "India",
     "bandera": "🇮🇳",
-    "hora": "11:00 (marcha simbólica sin camisa hacia las barreras de Haryana)",
-    "fecha": "2026-08-19",
-    "lugar": "Khanauri-Data Singhwala, frontera Punjab-Haryana: barricadas levantadas por la policía de Haryana",
-    "tipoAccion": "Marcha simbólica sin camisa (shirtless/bare-chested) de 51 agricultores del SKM (No Político) hacia las barreras de Haryana, en el día 4 de la sentada en la frontera, exigiendo permiso para marchar a Delhi",
-    "organizaciones": [
-      "Samyukt Kisan Morcha (No Político)",
-      "Bhartiya Kisan Union (BKU) Ekta Sidhupur",
-      "Jagjit Singh Dallewal (líder campesino)"
-    ],
-    "motivo": "El 19 de agosto de 2026, 51 agricultores del Samyukt Kisan Morcha (No Político) realizaron una marcha simbólica sin camisa desde el puesto de protesta en Khanauri hasta las barricadas de la policía de Haryana, que bloquean su avance hacia Delhi. La protesta busca visibilizar las restricciones impuestas por las autoridades de Haryana que impiden la marcha pacífica de los agricultores. El líder Jagjit Singh Dallewal señaló que la manifestación es contra el acuerdo comercial India-EE.UU. y otras demandas agrícolas previamente aceptadas por el gobierno central. La policía de Haryana desplegó drones, alambre de púas, vehículos acuáticos y barricadas de concreto para impedir el paso. Los agricultores amenazaron con quemar efigies del gobierno central el 20 de agosto y organizar mahapanchayats en todos los estados si no obtienen respuesta antes del 29 de agosto.",
-    "status": "finalizada",
-    "lat": 29.8739,
-    "lng": 75.9782,
-    "fuentes": [
-      "https://www.hindustantimes.com/cities/chandigarh-news/punjab-farmers-to-hold-shirtless-march-at-khanauri-on-aug-19-101787079125117.html",
-      "https://timesofindia.indiatimes.com/city/chandigarh/51-farmers-stage-bare-chested-protest-at-khanauri-border-over-delhi-march/articleshow/133329964.cms",
-      "https://thesaveratimes.com/khanauri-farmers-bare-chested-protest-august-19/"
-    ],
-    "createdAt": "2026-08-19T09:31:18.000Z",
-    "updatedAt": "2026-08-19T23:50:27Z"
-  },
-  {
-    "id": "int-835",
-    "seccion": "internacionales",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "48 horas (medianoche 18 agosto a medianoche 19 agosto); día 2 de huelga general",
-    "fecha": "2026-08-19",
-    "lugar": "Manipur (estados del valle): Imphal East, Imphal West, Thoubal, Kakching, Bishnupur",
-    "tipoAccion": "Huelga general de 48 horas convocada por la Campaign for Just and Fair Delimitation (JFD) exigiendo la implementación del NRC (Registro Nacional de Ciudadanos) antes del Censo 2027",
-    "organizaciones": [
-      "Campaign for Just and Fair Delimitation (JFD)",
-      "Jeetendra Ningomba (coordinador de JFD)",
-      "Estudiantes universitarios de Manipur"
-    ],
-    "motivo": "El 19 de agosto de 2026, segundo y último día de la huelga general de 48 horas en Manipur convocada por la Campaign for Just and Fair Delimitation (JFD), que exige la implementación del Registro Nacional de Ciudadanos (NRC) antes de la realización del Censo 2027. La huelga paralizó el transporte, comercio y actividades diarias en los cinco distritos del valle (Imphal East, Imphal West, Thoubal, Kakching y Bishnupur). Los estudiantes bloquearon caminos con postes de bambú y piedras, y colgaron carteles con el lema 'No NRC No Census'. La medida se da tras la intervención policial del 16 de agosto contra estudiantes que protestaban frente a la Dirección de Operaciones del Censo en Imphal. El gobierno estatal afirmó que la Asamblea Legislativa de Manipur aprobó una resolución en 2022 exigiendo el NRC y que una delegación de legisladores viajará a Nueva Delhi para presentar la demanda al gobierno central.",
-    "status": "en_curso",
-    "lat": 24.817,
-    "lng": 93.9368,
-    "fuentes": [
-      "https://www.thehindu.com/news/national/manipur/normal-life-affected-in-valley-districts-on-second-day-of-strike-over-nrc-demand-in-manipur/article71363569.ece",
-      "https://indianexpress.com/article/india/manipur-nrc-2027-census-jfd-48-hour-general-strike-imphal-women-injured-security-clash-10839051/",
-      "https://www.awazthevoice.in/india-news/manipur-strike-enters-second-day-over-nrc-demand-66186.html"
-    ],
-    "createdAt": "2026-08-19T09:31:18.000Z",
-    "updatedAt": "2026-08-19T23:50:27Z"
-  },
-  {
-    "id": "int-836",
-    "seccion": "internacionales",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "Huelga estatal en curso (día 13); fase de expansión desde el 19 de agosto con protestas frente a domicilios y oficinas de legisladores",
-    "fecha": "2026-08-19",
-    "lugar": "Haryana (estado): Gurugram, Sonipat, Rohtak, Karnal, Ambala, Jhajjar, Bahadurgarh, Jind, Fatehabad, Yamunanagar, Narwana, Ratia — oficinas municipales y puntos de toda la región",
-    "tipoAccion": "Huelga estatal de trabajadores sanitarios y bomberos de Haryana (día 13, en curso desde el 6 de agosto), con nueva fase de protestas frente a domicilios y oficinas de legisladores y ministros del 19 al 25 de agosto; cierre de puertas de oficinas municipales, quema de efigies del ministro de Gobiernos Locales Vipul Goel",
+    "hora": "Huelga estatal en curso (día 14); fase de protestas frente a domicilios de legisladores (día 2 de 7)",
+    "fecha": "2026-08-20",
+    "lugar": "Haryana (estado): Gurugram, Sonipat, Rohtak, Karnal, Ambala, Jhajjar, Bahadurgarh, Jind, Fatehabad, Yamunanagar — oficinas municipales y puntos de toda la región",
+    "tipoAccion": "Huelga estatal de trabajadores sanitarios y bomberos de Haryana (día 14, en curso desde el 6 de agosto), segunda día de protestas frente a domicilios y oficinas de legisladores y ministros (19-25 de agosto)",
     "organizaciones": [
       "Haryana Municipal Employees Union (HMEU)",
       "Sarv Karamchari Sangh Haryana",
       "Nagarpalika Karamchari Sangh",
       "Agnishaman Vibhag Karamchari Union (sindicato de bomberos)"
     ],
-    "motivo": "El 19 de agosto de 2026, la huelga estatal de trabajadores sanitarios y bomberos de Haryana entra en su día 13, con una nueva fase de expansión anunciada: protestas frente a domicilios y oficinas de legisladores y ministros del 19 al 25 de agosto. Los trabajadores denuncian el incumplimiento por parte del gobierno estatal del acuerdo de 17 puntos firmado el 13 de mayo, que incluía la regularización de unos 13.000 empleados municipales para el 30 de junio. Las demandas incluyen el fin de la subcontratación de servicios de saneamiento, salarios mínimos de ₹15.220 para trabajadores de puerta a puerta, la reincorporación de 3.480 trabajadores despedidos en Gurugram, y una asignación de riesgo para el personal de bomberos. El 18 de agosto fue declarado 'Día de la Traición' y los manifestantes quemaron efigies del ministro en múltiples ciudades. La huelga ha dejado basura acumulada en calles y mercados, generando una crisis sanitaria en todo el estado.",
+    "motivo": "El 20 de agosto de 2026, la huelga estatal de trabajadores sanitarios y bomberos de Haryana entra en su día 14, con la segunda jornada de protestas frente a domicilios y oficinas de legisladores y ministros (programadas del 19 al 25 de agosto). Los trabajadores denuncian el incumplimiento por parte del gobierno estatal del acuerdo de 17 puntos firmado el 13 de mayo, que incluía la regularización de unos 13.000 empleados municipales para el 30 de junio. Las demandas incluyen el fin de la subcontratación de servicios de saneamiento, salarios mínimos de ₹15.220 para trabajadores de puerta a puerta, la reincorporación de 3.480 trabajadores despedidos en Gurugram, y una asignación de riesgo para el personal de bomberos. La huelga ha dejado basura acumulada en calles y mercados, generando una crisis sanitaria en todo el estado.",
     "status": "en_curso",
     "lat": 28.4595,
     "lng": 77.0266,
     "fuentes": [
       "https://timesofindia.indiatimes.com/city/chandigarh/sanitation-staff-strike-chokes-civic-services-across-haryana/articleshow/133331377.cms",
       "https://www.hindustantimes.com/cities/chandigarh-news/sanitation-workers-strike-leaves-haryana-choked-with-garbage-101787080026456.html",
-      "https://www.newsbytesapp.com/news/india/haryana-garbage-crisis-worsens-as-sanitation-strike-nears-2-weeks/tldr",
-      "https://timesofindia.indiatimes.com/city/gurgaon/safai-workers-extend-strike-in-gurgaon-by-3-days-warn-of-indefinite-stir/articleshow/133331879.cms",
-      "https://www.etvbharat.com/en/state/protesting-employee-leader-has-narrow-escape-during-burning-of-effigy-enn26081804331"
+      "https://timesofindia.indiatimes.com/city/gurgaon/safai-workers-extend-strike-in-gurgaon-by-3-days-warn-of-indefinite-stir/articleshow/133331879.cms"
     ],
-    "createdAt": "2026-08-19T11:01:46.000Z",
-    "updatedAt": "2026-08-19T23:50:27Z"
+    "createdAt": "2026-08-20T01:03:39.000Z",
+    "updatedAt": "2026-08-20T01:25:37Z"
   },
   {
-    "id": "int-837",
+    "id": "int-909",
     "seccion": "internacionales",
     "pais": "España",
     "bandera": "🇪🇸",
-    "hora": "Huelga de hambre en curso (desde el 17 de agosto); campamento permanente en la playa",
-    "fecha": "2026-08-19",
+    "hora": "Huelga de hambre en curso (día 4, desde el 17 de agosto); campamento permanente en la playa",
+    "fecha": "2026-08-20",
     "lugar": "Ceuta: playa del Trampolín, asentamiento informal de unos 1.000 migrantes (más de 80 refugios improvisados)",
-    "tipoAccion": "Huelga de hambre de más de 100 migrantes en la playa del Trampolín de Ceuta, exigiendo asilo en España y oponiéndose a su devolución a Marruecos; campamento permanente con cientos de personas en condiciones de precariedad",
+    "tipoAccion": "Huelga de hambre de más de 100 migrantes en la playa del Trampolín de Ceuta, cuarto día, exigiendo asilo en España y oponiéndose a su devolución a Marruecos",
     "organizaciones": [
       "Migrantes de nacionalidad marroquí y subsahariana (autororganizados)",
       "Elin Association (asistencia a migrantes en Ceuta)",
       "Cruz Roja (distribución de alimentos)"
     ],
-    "motivo": "El 19 de agosto de 2026, la huelga de hambre iniciada el 17 de agosto por más de 100 migrantes en la playa del Trampolín de Ceuta continúa. Los manifestantes, principalmente marroquíes, portan banderas españolas y pancartas con el lema 'Queremos asilo', oponiéndose a su devolución a Marruecos tras la crisis migratoria masiva del 30-31 de julio, cuando más de 72.000 personas cruzaron la frontera. Alrededor de 2.000 a 5.000 migrantes permanecen en Ceuta, con unos 1.000 en el asentamiento de Trampolín. El presidente de Ceuta, Juan Jesús Vivas, rechazó las demandas declarando 'no regularización, no asilo y no traslado a la Península'. El gobierno central anunció la provisión de 1.500 plazas temporales humanitarias extraordinarias. Las ONG denuncian condiciones de vida infrahumanas, con falta de alimentos, agua e higiene, y la Abogacía del Estado registra 15 casos de violación desde la crisis.",
+    "motivo": "El 20 de agosto de 2026, la huelga de hambre iniciada el 17 de agosto por más de 100 migrantes en la playa del Trampolín de Ceuta continúa en su cuarto día. Los manifestantes, principalmente marroquíes, portan banderas españolas y pancartas con el lema 'Queremos asilo', oponiéndose a su devolución a Marruecos. Alrededor de 2.000 a 5.000 migrantes permanecen en Ceuta, con unos 1.000 en el asentamiento de Trampolín. El presidente de Ceuta, Juan Jesús Vivas, rechazó las demandas. El gobierno central anunció la provisión de 1.500 plazas temporales humanitarias extraordinarias. Las ONG denuncian condiciones de vida infrahumanas.",
     "status": "en_curso",
     "lat": 35.8894,
     "lng": -5.3198,
     "fuentes": [
       "https://www.lasexta.com/noticias/sociedad/queremos-asilo-cientos-migrantes-inician-huelga-hambre-playa-trampolin-frenar-devolucion-marruecos_202608176a8311a271b42a0b5df45f1f.html",
       "https://www.france24.com/en/europe/20260818-ceuta-migrants-stranded-europes-gates-await-their-fate",
-      "https://www.democrata.es/en/current-events/the-trampolin-beach-enters-new-phase-hunger-strike-and-1500-new-places-in-ceuta/",
-      "https://www.hungarianconservative.com/articles/current/ceuta-hunger-strike-illegal-migrant-morocco-asylum-mainland-spain/",
-      "https://gaceta.es/espana/inmigrantes-ilegales-ubicados-en-la-playa-del-trampolin-inician-una-huelga-de-hambre-no-queremos-comida-queremos-asilo-20260818-1142/"
+      "https://www.democrata.es/en/current-events/the-trampolin-beach-enters-new-phase-hunger-strike-and-1500-new-places-in-ceuta/"
     ],
-    "createdAt": "2026-08-19T11:01:46.000Z",
-    "updatedAt": "2026-08-19T23:50:27Z"
+    "createdAt": "2026-08-20T01:03:39.000Z",
+    "updatedAt": "2026-08-20T01:25:37Z"
   },
   {
-    "id": "int-846",
-    "seccion": "internacionales",
-    "pais": "México",
-    "bandera": "🇲🇽",
-    "hora": "10:00",
-    "fecha": "2026-08-19",
-    "lugar": "Ciudad de México: Torre de Rectoría, Circuito Escolar, Ciudad Universitaria (Coyoacán) — UNAM",
-    "tipoAccion": "Concentración y posible bloqueo de vialidades del STUNAM (Sindicato de Trabajadores de la UNAM) en la Torre de Rectoría de la UNAM, exigiendo aumento salarial del 20%, revisión contractual y dignificación del trabajo universitario",
-    "organizaciones": [
-      "STUNAM (Sindicato de Trabajadores de la Universidad Nacional Autónoma de México)"
-    ],
-    "motivo": "El 19 de agosto de 2026 a las 10:00, alrededor de 2.500 trabajadores del STUNAM se concentran en la Torre de Rectoría de la UNAM en Ciudad Universitaria para exigir un aumento salarial del 20%, la revisión de las condiciones del contrato colectivo, el respeto a los derechos laborales de los trabajadores universitarios y la dignificación del trabajo que realizan dentro de la máxima casa de estudios del país. La SSC CDMX reportó la concentración como parte de la agenda de movilizaciones del día y no descartó un posible bloqueo sobre Avenida Insurgentes Sur a la altura de Rectoría.",
-    "status": "en_curso",
-    "lat": 19.326,
-    "lng": -99.176,
-    "fuentes": [
-      "https://www.nmas.com.mx/ciudad-de-mexico/movilidad/bloqueo-cdmx-trabajadores-unam-hoy-19-de-agosto-2026-zona-afectada-y-cierres-stunam/",
-      "https://www.nmas.com.mx/ciudad-de-mexico/movilidad/a-que-hora-inicia-bloqueo-de-trabajadores-unam-hoy-19-de-agosto-2026-cdmx/"
-    ],
-    "createdAt": "2026-08-19T13:40:54.000Z",
-    "updatedAt": "2026-08-19T23:50:27Z"
-  },
-  {
-    "id": "int-847",
+    "id": "int-911",
     "seccion": "internacionales",
     "pais": "India",
     "bandera": "🇮🇳",
-    "hora": "Huelga en curso (día 3, desde el 17 de agosto); volvió violenta el 19 de agosto",
-    "fecha": "2026-08-19",
+    "hora": "Huelga de conductores de apps de transporte en curso (día 4); continuation de protestas violentas",
+    "fecha": "2026-08-20",
     "lugar": "Bhubaneswar, Odisha: Mahatma Gandhi Marg, Master Canteen Square, Lower PMG — principales intersecciones de la ciudad",
-    "tipoAccion": "Huelga de conductores de aplicaciones de transporte (OLA, Uber, Rapido) en su tercer día, que devolvió violenta con lanzamiento de piedras y botellas contra la policía, vandalización de buses Ama y carga policial",
+    "tipoAccion": "Huelga de conductores de aplicaciones de transporte (OLA, Uber, Rapido) en su cuarto día, con bloqueos de carreteras y afectación total al transporte por app en la capital de Odisha",
     "organizaciones": [
       "All Odisha Gig Workers' Union",
       "Online Chalaka Mancha",
       "Odisha Online Chalaka Milita Mancha"
     ],
-    "motivo": "El 19 de agosto de 2026, la huelga de conductores de aplicaciones de transporte en Bhubaneswar entró en su tercer día y se volvió violenta. Manifestantes lanzaron piedras y botellas de vidrio contra policías en Master Canteen Square y Lower PMG, dañando buses municipales Ama. La policía recargó con carga (lathi-charge) para dispersar a los manifestantes. Detuvieron a más de 30 personas y requisaron vehículos. Alrededor de 30.000 conductores de apps de transporte en el estado participan de la huelga, exigiendo regulación de tarifas, compensación por tiempo de espera, pago completo por viajes cancelados y restricciones a la incorporación de nuevos vehículos. La huelga paralizó los servicios de transporte por app en toda la capital de Odisha, con tarifas fuera de las apps subiendo hasta tres veces la tarifa habitual.",
+    "motivo": "El 20 de agosto de 2026, la huelga de conductores de aplicaciones de transporte en Bhubaneswar entra en su cuarto día. Alrededor de 30.000 conductores de apps de transporte en el estado participan de la huelga, exigiendo regulación de tarifas, compensación por tiempo de espera, pago completo por viajes cancelados y restricciones a la incorporación de nuevos vehículos. La huelga paralizó los servicios de transporte por app en toda la capital de Odisha, con tarifas fuera de las apps subiendo hasta tres veces la tarifa habitual.",
     "status": "en_curso",
     "lat": 20.296,
     "lng": 85.824,
     "fuentes": [
       "https://timesofindia.indiatimes.com/city/bhubaneswar/protesters-hurl-stones-at-police-vandalise-buses-as-app-cab-bike-strike-turns-violent-in-bhubaneswar/articleshow/133343107.cms",
-      "https://pragativadi.com/stone-pelting-and-bottle-attacks-rock-bhubaneswar-as-cab-drivers-strike-turns-violent-police-resort-to-lathi-charge/",
-      "https://pragativadi.com/third-day-of-cab-auto-strike-in-bhubaneswar-commuters-struggle-amid-road-blockades/",
-      "https://www.newindianexpress.com/cities/bhubaneswar/2026/Aug/19/passengers-suffer-as-ride-app-drivers-strike-enters-day-two"
+      "https://pragativadi.com/stone-pelting-and-bottle-attacks-rock-bhubaneswar-as-cab-drivers-strike-turns-violent-police-resort-to-lathi-charge/"
     ],
-    "createdAt": "2026-08-19T13:40:54.000Z",
-    "updatedAt": "2026-08-19T23:50:27Z"
+    "createdAt": "2026-08-20T01:03:39.000Z",
+    "updatedAt": "2026-08-20T01:25:37Z"
   },
   {
-    "id": "int-848",
+    "id": "int-912",
     "seccion": "internacionales",
     "pais": "Ucrania",
     "bandera": "🇺🇦",
-    "hora": "Mañana (concentración frente al Parlamento durante la sesión plenaria); posteriormente en Ivan Franko Square a las 19:00",
-    "fecha": "2026-08-19",
-    "lugar": "Kiev: Hrushevskoho Street / Mariinsky Park (frente a la Verkhovna Rada), y posteriormente Ivan Franko Square",
-    "tipoAccion": "Manifestación de cientos de personas frente al Parlamento ucraniano (Verkhovna Rada) contra la designación de Yevhenii Khmara como Ministro de Defensa y a favor del regreso de Mykhailo Fedorov, con cánticos de 'Vergüenza' tras la votación",
+    "hora": "Manifestación convocada a las 19:00 en Ivan Franko Square (día 2 de protestas)",
+    "fecha": "2026-08-20",
+    "lugar": "Kiev: Ivan Franko Square; anteriormente frente a la Verkhovna Rada",
+    "tipoAccion": "Segundo día de manifestaciones contra la designación de Yevhenii Khmara como Ministro de Defensa y a favor del regreso de Mykhailo Fedorov, con concentración nocturna en Ivan Franko Square",
     "organizaciones": [
       "Manifestantes pro-Fedorov (ciudadanos activistas)",
       "Rede de solidaridad con Fedorov"
     ],
-    "motivo": "El 19 de agosto de 2026, cientos de manifestantes se concentran frente a la Verkhovna Rada en Kiev durante la sesión plenaria que confirmó a Yevhenii Khmara como nuevo Ministro de Defensa con 312 votos, en sustitución de Mykhailo Fedorov destituido en julio. Tras la noticia de la confirmación de Khmara, los manifestantes corearon '¡Vergüenza!' y golpearon tambores. Los activistas exigieron el regreso de Fedorov y denunciaron la falta de diálogo con el presidente Zelensky. Anteriormente, Fedorov publicó un video pidiendo elecciones durante la guerra, lo que intensificó la crisis política. Los manifestantes convocaron para continuar las protestas diarias a las 19:00 en Ivan Franko Square.",
+    "motivo": "El 20 de agosto de 2026, las manifestaciones contra la designación de Yevhenii Khmara como nuevo Ministro de Defensa (confirmado con 312 votos el 19 de agosto) continúan en Kiev. Los manifestantes, que se concentraron frente a la Verkhovna Rada el día anterior coreando '¡Vergüenza!', convocaron para continuar las protestas diarias a las 19:00 en Ivan Franko Square. Los activistas exigieron el regreso de Mykhailo Fedorov destituido y denunciaron la falta de diálogo con el presidente Zelensky. Fedorov publicó un video pidiendo elecciones durante la guerra, lo que intensificó la crisis política.",
     "status": "en_curso",
     "lat": 50.4486,
     "lng": 30.5417,
@@ -1094,27 +410,26 @@
       "https://www.pravda.com.ua/eng/news/2026/08/19/8049315/",
       "https://kyivindependent.com/parliament-votes-through-yevhen-khmara-to-succeed-fedorov-as-defense-minister/",
       "https://www.bbc.com/news/articles/cdew8n9erlwo",
-      "https://english.nv.ua/nation/protesters-rally-outside-rada-against-khmara-and-sybiha-nominations-50634048.html",
-      "https://www.rfi.fr/es/europa/20260819-ucrania-pese-a-la-guerra-manifestantes-se-suman-al-destituido-ministro-de-defensa-y-exigen-elecciones"
+      "https://english.nv.ua/nation/protesters-rally-outside-rada-against-khmara-and-sybiha-nominations-50634048.html"
     ],
-    "createdAt": "2026-08-19T13:40:54.000Z",
-    "updatedAt": "2026-08-19T23:50:27Z"
+    "createdAt": "2026-08-20T01:03:39.000Z",
+    "updatedAt": "2026-08-20T01:25:37Z"
   },
   {
-    "id": "int-849",
+    "id": "int-913",
     "seccion": "internacionales",
     "pais": "Pakistán",
     "bandera": "🇵🇰",
-    "hora": "Sentadas permanentes en curso (día 4, desde el 16 de agosto); Mall Road cerrado en Lahore",
-    "fecha": "2026-08-19",
+    "hora": "Sentadas permanentes en curso (día 5, desde el 16 de agosto); Mall Road cerrado en Lahore",
+    "fecha": "2026-08-20",
     "lugar": "Lahore: Mall Road/Faisal Chowk (frente a Chief Minister's House); Karachi: Governor House; Quetta y Peshawar: sedes de gobernadores",
-    "tipoAccion": "Sentadas nacionales de Jamaat-e-Islami (JI) contra el impuesto al petróleo (petroleum levy) y los acuerdos con productores independientes de energía (IPPs), cuarto día consecutivo; cierre de Mall Road en Lahore en ambos sentidos",
+    "tipoAccion": "Sentadas nacionales de Jamaat-e-Islami (JI) contra el impuesto al petróleo (petroleum levy) y los acuerdos con productores independientes de energía (IPPs), quinto día consecutivo",
     "organizaciones": [
       "Jamaat-e-Islami (JI)",
       "JI Lahore (liderazgo de Liaquat Baloch)",
       "JI Karachi (Emir Monim Zafar Khan)"
     ],
-    "motivo": "El 19 de agosto de 2026, las sentadas nacionales de Jamaat-e-Islami (JI) contra el impuesto al petróleo y los acuerdos con productores independientes de energía (IPPs) entran en su cuarto día consecutivo. Las protestas, que comenzaron el 16 de agosto, se extienden a Lahore (Faisal Chowk, Mall Road cerrado en ambos sentidos), Karachi (frente al Governor House, bloqueado con contenedores desde los cuatro costados), Quetta y Peshawar (frente a las sedes de los gobernadores). El líder Liaquat Baloch declaró que el gobierno federal ha fracasado tras más de dos años en el poder. El Emir de JI, Hafiz Naeem ur Rehman, afirmó que las sentadas pacíficas marcan el inicio de un movimiento de protesta y advirtió que se intensificarán. Los manifestantes exigen la eliminación del impuesto al petróleo, la auditoría forense de los IPPs y la reducción de precios de combustibles.",
+    "motivo": "El 20 de agosto de 2026, las sentadas nacionales de Jamaat-e-Islami (JI) contra el impuesto al petróleo y los acuerdos con productores independientes de energía (IPPs) entran en su quinto día consecutivo. Las protestas, que comenzaron el 16 de agosto, se extienden a Lahore (Faisal Chowk, Mall Road cerrado), Karachi (frente al Governor House, bloqueado con contenedores), Quetta y Peshawar. El Emir de JI, Hafiz Naeem ur Rehman, afirmó que las sentadas pacíficas marcan el inicio de un movimiento de protesta y advirtió que se intensificarán. Los manifestantes exigen la eliminación del impuesto al petróleo, la auditoría forense de los IPPs y la reducción de precios de combustibles.",
     "status": "en_curso",
     "lat": 31.5204,
     "lng": 74.3587,
@@ -1122,23 +437,23 @@
       "https://www.geo.tv/latest/678314-ji-sit-ins-against-petroleum-levy-continue-for-fourth-straight-day",
       "https://www.24newshd.tv/19-Aug-2026/ji-protest-petroleum-levy-ipp-agreements-enters-fourth-day"
     ],
-    "createdAt": "2026-08-19T14:29:45.000Z",
-    "updatedAt": "2026-08-19T23:50:27Z"
+    "createdAt": "2026-08-20T01:03:39.000Z",
+    "updatedAt": "2026-08-20T01:25:37Z"
   },
   {
-    "id": "int-850",
+    "id": "int-914",
     "seccion": "internacionales",
     "pais": "India",
     "bandera": "🇮🇳",
-    "hora": "16:00 (marcha en bicicleta con banderas negras por todo Shillong)",
-    "fecha": "2026-08-19",
-    "lugar": "Shillong, Meghalaya: recorrido desde KSU Office en Jaiaw, pasando por Seng Khasi College, Rhino, Malki, Dhankheti, Polo, Mawlai, concluyendo en Jaiaw",
-    "tipoAccion": "Marcha en bicicleta con banderas negras de la Khasi Students' Union (KSU) por las principales calles de Shillong, primera acción de un plan de agitación pro-indígena; quema de neumáticos en dos puntos de la ciudad la noche anterior",
+    "hora": "Agitación en curso (día 2); marcha en bicicleta programada",
+    "fecha": "2026-08-20",
+    "lugar": "Shillong, Meghalaya: recorrido desde KSU Office en Jaiaw, pasando por principales calles de la ciudad",
+    "tipoAccion": "Segundo día de agitación de la Khasi Students' Union (KSU) contra el gobierno estatal de Meghalaya, continuación del plan de agitación pro-indígena tras la marcha en bicicleta con banderas negras del 19 de agosto",
     "organizaciones": [
       "Khasi Students' Union (KSU)",
       "Reuben Najiar (secretario general de KSU)"
     ],
-    "motivo": "El 19 de agosto de 2026, la Khasi Students' Union (KSU) lanza su plan de agitación contra el gobierno estatal de Meghalaya con una marcha en bicicleta con banderas negras por Shillong, tras la expiración de un ultimátum de 15 días sin respuesta oficial. La noche anterior se quemaron neumáticos en dos puntos de la ciudad. El secretario general Reuben Najiar advirtió que la agitación se intensificará si el gobierno sigue ignorando su carta de cinco puntos que incluye: oposición al proyecto cementero Shree Centre en East Jaintia Hills, implementación de la Meghalaya Residents Safety and Security Act, reformas en reclutamiento gubernamental, reserva de empleos públicos para residentes de Meghalaya y aplicación de la Inner Line Permit. La KSU también amenazó con convocar un bandh (paro general) si la situación lo requiere, a pesar de que el Tribunal Superior ha prohibido los bandhs en el estado.",
+    "motivo": "El 20 de agosto de 2026, la Khasi Students' Union (KSU) continúa su plan de agitación contra el gobierno estatal de Meghalaya, tras la marcha en bicicleta con banderas negras por Shillong del día anterior. La KSU exige: oposición al proyecto cementero Shree Centre en East Jaintia Hills, implementación de la Meghalaya Residents Safety and Security Act, reformas en reclutamiento gubernamental, reserva de empleos públicos para residentes de Meghalaya y aplicación de la Inner Line Permit. Los organizadores advirtieron que la agitación se intensificará si el gobierno sigue ignorando sus demandas.",
     "status": "en_curso",
     "lat": 25.5788,
     "lng": 91.8933,
@@ -1146,70 +461,24 @@
       "https://theshillongtimes.com/2026/08/19/ksu-set-to-launch-black-flag-bike-rally-today-tyres-burnt-after-announcement/",
       "https://shillongtoday.com/ksu-protest-turns-violent-in-shillong-vehicles-vandalized-and-set-ablaze/"
     ],
-    "createdAt": "2026-08-19T14:29:45.000Z",
-    "updatedAt": "2026-08-19T23:50:27Z"
+    "createdAt": "2026-08-20T01:03:39.000Z",
+    "updatedAt": "2026-08-20T01:25:37Z"
   },
   {
-    "id": "int-851",
-    "seccion": "internacionales",
-    "pais": "Australia",
-    "bandera": "🇦🇺",
-    "hora": "Mañana (entrega de carta al Premier)",
-    "fecha": "2026-08-19",
-    "lugar": "Brisbane, Queensland: oficina del Premier David Crisafulli",
-    "tipoAccion": "Protesta de agricultores y vecinos de Queensland contra el State Development Bill que otorgaría poderes al gobierno para expropiar tierras y acelerar megaproyectos de desarrollo",
-    "organizaciones": [
-      "Agricultores y vecinos de Queensland (coalición local)"
-    ],
-    "motivo": "El 19 de agosto de 2026, agricultores y residentes de Queensland se reunieron frente a la oficina del Premier David Crisafulli para entregar una carta exigiendo la retirada del State Development Bill, que según los manifestantes otorgaría poderes al gobierno para expropiar propiedades privadas y acelerar grandes proyectos de desarrollo sin la debida consideración de las comunidades afectadas. Los opositores argumentan que la legislación comprometería los derechos de propiedad y los medios de vida de las comunidades rurales en beneficio de intereses corporativos.",
-    "status": "finalizada",
-    "lat": -27.4698,
-    "lng": 153.0251,
-    "fuentes": [
-      "https://www.indailyqld.com.au/news/just-in/2026/08/19/farmers-protest-development-bill-at-premiers-office"
-    ],
-    "createdAt": "2026-08-19T14:29:45.000Z",
-    "updatedAt": "2026-08-19T23:50:27Z"
-  },
-  {
-    "id": "int-853",
-    "seccion": "internacionales",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
-    "hora": "18:00-21:00 EDT",
-    "fecha": "2026-08-19",
-    "lugar": "Atlanta, Georgia (lugar por confirmar); parte de la Semana Nacional de Acción DeFlock",
-    "tipoAccion": "Rally masiva contra las cámaras de lectores automáticos de matrículas (ALPR) de Flock Safety, en el marco de la Semana Nacional de Acción DeFlock (16-22 de agosto)",
-    "organizaciones": [
-      "FlockOff",
-      "Black Alliance for Peace",
-      "Organizadores comunitarios de Atlanta"
-    ],
-    "motivo": "El 19 de agosto de 2026, activistas de Atlanta se concentran en una rally masiva contra el despliegue de cámaras de lectores automáticos de matrículas (ALPR) de Flock Safety, consideradas herramientas de vigilancia masiva que erosionan el derecho a la privacidad. Atlanta es la ciudad más vigilada de Estados Unidos y ha aumentado sus operaciones de vigilancia invirtiendo millones en contratos con Flock Safety mientras las comunidades carecen de financiamiento para vivienda, educación y salud. La acción forma parte de la Semana Nacional de Acción DeFlock (16-22 de agosto), con más de 400 eventos en casi todos los estados de EE.UU. Los organizadores denuncian la militarización de la vigilancia doméstica y la represión estatal permanente.",
-    "status": "programada",
-    "lat": 33.749,
-    "lng": -84.388,
-    "fuentes": [
-      "https://blackallianceforpeace.com/events/2026/8/19/no-alprs-week-of-action-rally-against-flock"
-    ],
-    "createdAt": "2026-08-19T14:29:45.000Z",
-    "updatedAt": "2026-08-19T23:50:27Z"
-  },
-  {
-    "id": "int-854",
+    "id": "int-915",
     "seccion": "internacionales",
     "pais": "Corea del Sur",
     "bandera": "🇰🇷",
-    "hora": "Parciales de 4 horas por turno (10:50-15:30, 19:30-00:10, 12:40-16:40, 13:00-17:00); huelga total de 8 horas el 21 de agosto",
-    "fecha": "2026-08-19",
-    "lugar": "Ulsan, Gwangju, Gumi: plantas de Hyundai Motor; Seúl: sede de Hyundai Motor Group en Yangjae-dong (protesta programada para el 21)",
-    "tipoAccion": "Huelga parcial de 4 horas por turno del sindicato de Hyundai Motor (rama de Korean Metal Workers' Union), primer día de una escalada de5 días de huelga; huelga total de 8 horas el 21 de agosto sería la primera huelga total en 10 años",
+    "hora": "Parciales de 4 horas por turno; huelga conjunta del sector automotor (día 2 de 5)",
+    "fecha": "2026-08-20",
+    "lugar": "Ulsan, Gwangju, Gumi: plantas de Hyundai Motor; Seúl: sede de Hyundai Motor Group en Yangjae-dong",
+    "tipoAccion": "Segundo día de huelgas parciales de 4 horas del sindicato de Hyundai Motor, con huelga conjunta del Korean Metal Workers' Union del sector automotor; huelga total de 8 horas programada para el 21 de agosto",
     "organizaciones": [
       "Hyundai Motor Branch of the Korean Metal Workers' Union (KMWU)",
       "Korean Confederation of Trade Unions (KCTU)",
       "Uniones de proveedores de autopartes"
     ],
-    "motivo": "El 19 de agosto de 2026, el sindicato de Hyundai Motor inicia una huelga parcial de 4 horas por turno, comienzo de una escalada de5 días de acción laboral (19-25 de agosto). El 21 de agosto está programada una huelga total de 8 horas, la primera desde 2016, con protesta frente a la sede de Hyundai Motor Group en Yangjae-dong, Seúl. Las demandas centrales son: extensión de la edad de jubilación sin sistema de wage-peak, aumento del 50% en bonificaciones (a 800% total) y reincorporación de trabajadores despedidos. Las negociaciones salariales se reiniciaron tras 41 días de receso pero se estancaron. La Korean Metal Workers' Union anunció una huelga conjunta del sector automotor el 20 y 21 de agosto que involucraría a unos 90.000 trabajadores, incluyendo proveedores de autopartes. Las pérdidas acumuladas de producción se estiman en 62.000 vehículos y 2,6 billones de wones (US$1.850 millones).",
+    "motivo": "El 20 de agosto de 2026, el sindicato de Hyundai Motor continúa con huelgas parciales de 4 horas por turno, segundo día de una escalada de 5 días de acción laboral (19-25 de agosto). La Korean Metal Workers' Union anunció una huelga conjunta del sector automotor el 20 y 21 de agosto que involucraría a unos 90.000 trabajadores, incluyendo proveedores de autopartes. El 21 de agosto está programada una huelga total de 8 horas, la primera desde 2016, con protesta frente a la sede de Hyundai Motor Group en Yangjae-dong, Seúl. Las demandas centrales son: extensión de la edad de jubilación sin sistema de wage-peak, aumento del 50% en bonificaciones (a 800% total) y reincorporación de trabajadores despedidos. Las pérdidas acumuladas de producción se estiman en 62.000 vehículos y 2,6 billones de wones (US$1.850 millones).",
     "status": "en_curso",
     "lat": 35.5384,
     "lng": 129.3114,
@@ -1217,54 +486,52 @@
       "https://en.yna.co.kr/view/AEN20260819006000320",
       "https://m.ajupress.com/view/20260819151952841",
       "https://en.nocutnews.co.kr/news/6564635",
-      "https://en.sedaily.com/society/2026/08/19/hyundai-union-broadens-strike-to-parts-suppliers-to",
       "https://www.koreajoongangdaily.com/business/hyundai-motor-union-plans-first-full-strike-in-10-years-as-wage-talks-hit-impasse/12831070"
     ],
-    "createdAt": "2026-08-19T15:56:42.000Z",
-    "updatedAt": "2026-08-19T23:50:27Z"
+    "createdAt": "2026-08-20T01:03:39.000Z",
+    "updatedAt": "2026-08-20T01:25:37Z"
   },
   {
-    "id": "int-855",
+    "id": "int-916",
     "seccion": "internacionales",
     "pais": "India",
     "bandera": "🇮🇳",
-    "hora": "Huelga día 10 (desde el 10 de agosto); rally en la playa; tercer día sin servicios de emergencia",
-    "fecha": "2026-08-19",
+    "hora": "Huelga día 11; rally en la playa; cuarto día sin servicios de emergencia",
+    "fecha": "2026-08-20",
     "lugar": "Andhra Pradesh: Visakhapatnam (playa), Vijayawada (GGH), todos los hospitales de enseñanza del estado",
-    "tipoAccion": "Huelga de residentes médicos (juniors) del APJUDA en su décimo día, con rally en la playa de Visakhapatnam y tercer día de suspensión total de servicios de emergencia en hospitales públicos del estado",
+    "tipoAccion": "Huelga de residentes médicos (juniors) del APJUDA en su undécimo día, cuarto día de suspensión total de servicios de emergencia en hospitales públicos del estado",
     "organizaciones": [
       "Andhra Pradesh Junior Doctors Association (APJUDA)",
       "Andhra Pradesh Government Doctors' Association",
       "Indian Medical Association (IMA) — Andhra Pradesh"
     ],
-    "motivo": "El 19 de agosto de 2026, la huelga de residentes médicos juniors de Andhra Pradesh entra en su décimo día. El APJUDA realizó un rally en la playa de Visakhapatnam para visibilizar sus demandas ante la ausencia de respuesta gubernamental. Es el tercer día desde que se suspendieron todos los servicios de emergencia, incluyendo UCI, quirófanos y atención materno-infantil, en todos los hospitales de enseñanza del estado. Las demandas incluyen: aumento del 15% en la beca (stipend) conforme al GO vigente (pendiente desde enero 2026), retiro de la propuesta de elevar la edad de jubilación de 62 a 65 años, y reclutamiento de candidatos MSc y PhD como profesores asistentes según normas NMC. El gobierno ofreció un aumento del 3-5%, que los médicos rechazaron como 'insulto'. Los hospitales están desplegando personal docente senior para cubrir las urgencias.",
+    "motivo": "El 20 de agosto de 2026, la huelga de residentes médicos juniors de Andhra Pradesh entra en su undécimo día. Es el cuarto día desde que se suspendieron todos los servicios de emergencia, incluyendo UCI, quirófanos y atención materno-infantil, en todos los hospitales de enseñanza del estado. Las demandas incluyen: aumento del 15% en la beca (stipend) conforme al GO vigente (pendiente desde enero 2026), retiro de la propuesta de elevar la edad de jubilación de 62 a 65 años, y reclutamiento de candidatos MSc y PhD como profesores asistentes según normas NMC. El gobierno ofreció un aumento del 3-5%, que los médicos rechazaron como 'insulto'.",
     "status": "en_curso",
     "lat": 17.6868,
     "lng": 83.2185,
     "fuentes": [
       "https://www.newindianexpress.com/cities/vijayawada/2026/Aug/19/andhra-junior-doctors-strike-enters-eighth-day-over-stipend-hike",
       "https://www.edexlive.com/news/andhra-pradesh-junior-doctors-stage-beach-protest-seek-govt-response",
-      "https://www.thehindu.com/news/national/andhra-pradesh/with-no-word-from-govt-on-talks-junior-doctors-continue-strike-in-andhra-pradesh/article71361581.ece",
-      "https://thenewsmill.com/2026/08/andhra-pradesh-junior-doctors-hold-beach-rally-on-10th-day-of-strike/"
+      "https://www.thehindu.com/news/national/andhra-pradesh/with-no-word-from-govt-on-talks-junior-doctors-continue-strike-in-andhra-pradesh/article71361581.ece"
     ],
-    "createdAt": "2026-08-19T15:56:42.000Z",
-    "updatedAt": "2026-08-19T23:50:27Z"
+    "createdAt": "2026-08-20T01:03:39.000Z",
+    "updatedAt": "2026-08-20T01:25:37Z"
   },
   {
-    "id": "int-856",
+    "id": "int-917",
     "seccion": "internacionales",
     "pais": "India",
     "bandera": "🇮🇳",
-    "hora": "Huelga desde medianoche del 18 de agosto; protesta en Board Office Square el 19",
-    "fecha": "2026-08-19",
+    "hora": "Huelga de taxis en curso (día 3); conversaciones con autoridades",
+    "fecha": "2026-08-20",
     "lugar": "Bhopal, Madhya Pradesh: Board Office Square (protesta); estación de tren y aeropuerto de Bhopal (afectados)",
-    "tipoAccion": "Huelga de taxis (app-based y tradicionales) en Bhopal, con protesta en Board Office Square y reunión con el Ministro de Transporte; ~3.500 taxis fuera de servicio",
+    "tipoAccion": "Huelga de taxis (app-based y tradicionales) en Bhopal, tercer día, con ~3.500 taxis fuera de servicio; reuniones con Ministro de Transporte en curso",
     "organizaciones": [
       "Bhopal Taxi Drivers' Association",
       "Taxi Union Welfare Committee (All India)",
       "Sanyukta Morcha (frente unido de taxistas)"
     ],
-    "motivo": "El 19 de agosto de 2026, la huelga de taxis de Bhopal entra en su segundo día. ~3.500 taxis permanecen fuera de servicio desde la medianoche del 18 de agosto. Los conductores realizaron una protesta en Board Office Square y se reunieron con el Ministro de Transporte Rao Uday Pratap Singh para negociar. Las demandas incluyen: estructura de tarifas fijada por el gobierno que contemple costos operativos crecientes (combustible, mantenimiento, seguro), regulación de empresas agregadoras (Ola, Uber), y prohibición del uso comercial de vehículos con placas privadas. La huelga paralizó los servicios de cab en la estación de tren y el aeropuerto de Bhopal. Las conversaciones con el ministro estaban en curso al cierre de la información; los sindicatos advirtieron que extenderán la huelga indefinidamente si no obtienen respuesta.",
+    "motivo": "El 20 de agosto de 2026, la huelga de taxis de Bhopal entra en su tercer día. ~3.500 taxis permanecen fuera de servicio desde la medianoche del 18 de agosto. Las conversaciones con el Ministro de Transporte Rao Uday Pratap Singh estaban en curso; las demandas incluyen estructura de tarifas fijada por el gobierno, regulación de empresas agregadoras (Ola, Uber), y prohibición del uso comercial de vehículos con placas privadas. Los sindicatos advirtieron que extenderán la huelga indefinidamente si no obtienen respuesta.",
     "status": "en_curso",
     "lat": 23.2599,
     "lng": 77.4126,
@@ -1273,51 +540,49 @@
       "https://english.dainikjagranmpcg.com/states/madhya-pradesh/bhopal-taxi-strike-unions-to-meet-transport-minister-today/article-26684",
       "https://www.freepressjournal.in/bhopal/3500-app-based-taxis-to-go-off-roads-for-two-days-from-august-18-in-bhopal"
     ],
-    "createdAt": "2026-08-19T15:56:42.000Z",
-    "updatedAt": "2026-08-19T23:50:27Z"
+    "createdAt": "2026-08-20T01:03:39.000Z",
+    "updatedAt": "2026-08-20T01:25:37Z"
   },
   {
-    "id": "int-857",
+    "id": "int-918",
     "seccion": "internacionales",
     "pais": "Albania",
     "bandera": "🇦🇱",
-    "hora": "Concentración en Skënderbej Square y marcha a la Oficina del Primer Ministro",
-    "fecha": "2026-08-19",
+    "hora": "Concentración en Skënderbej Square y marcha a la Oficina del Primer Ministro (día 82)",
+    "fecha": "2026-08-20",
     "lugar": "Tirana: Skënderbej Square → Dëshmorët e Kombit Boulevard → Oficina del Primer Ministro",
-    "tipoAccion": "Día 81 de la 'Revolución Flamenco' — protesta cívica anti-gobierno consecutiva exigiendo la renuncia del Primer Ministro Edi Rama",
+    "tipoAccion": "Día 82 de la 'Revolución Flamenco' — protesta cívica anti-gobierno consecutiva exigiendo la renuncia del Primer Ministro Edi Rama",
     "organizaciones": [
       "Movimiento cívico 'Revolución Flamenco' (Flamingo Revolution)",
       "Activistas de la diáspora albanesa",
       "Colectivos ciudadanos de Tirana"
     ],
-    "motivo": "El 19 de agosto de 2026, la protesta cívica conocida como 'Revolución Flamenco' entra en su día 81 consecutivo de manifestaciones en Tirana. Los manifestantes se concentran en la Skënderbej Square y marchan por el bulevar Dëshmorët e Kombit hasta la Oficina del Primer Ministro, exigiendo la renuncia inmediata de Edi Rama, quien está en el poder desde 2013. Las demandas incluyen: cambio de gobierno, reversión de cambios a la ley de áreas protegidas, reformas a la ley electoral y creación de un gobierno técnico. La protesta ha recibido impulso con la participación de miembros de la diáspora albanesa en Europa. Los organizadores advirtieron que 'septiembre será el mes del gran cambio y la tumba del régimen'.",
+    "motivo": "El 20 de agosto de 2026, la protesta cívica conocida como 'Revolución Flamenco' entra en su día 82 consecutivo de manifestaciones en Tirana. Los manifestantes se concentran en la Skënderbej Square y marchan por el bulevar Dëshmorët e Kombit hasta la Oficina del Primer Ministro, exigiendo la renuncia inmediata de Edi Rama, quien está en el poder desde 2013. Las demandas incluyen: cambio de gobierno, reversión de cambios a la ley de áreas protegidas, reformas a la ley electoral y creación de un gobierno técnico. Los organizadores advirtieron que 'septiembre será el mes del gran cambio y la tumba del régimen'.",
     "status": "en_curso",
     "lat": 41.3275,
     "lng": 19.8187,
     "fuentes": [
       "http://europeanwesternbalkans.com/2026/08/19/protesters-continue-to-repeat-demands-for-the-resignation-of-prime-minister-rama/",
-      "https://albeu.com/english/day-81-of-the-citizens-revolt-against-the-government-protesters-return-to-the-square-today-demand-ramas-resignation/977129/",
-      "http://en.ata.gov.al/2026/08/18/80th-zvernec-protest-held-in-tirana-demonstrators-reiterate-demands/",
-      "https://en.panorama.com.al/dita-e-81-te-e-revoltes-qytetare-kunder-qeverise-protestuesit-serish-sot-ne-shesh-kerkesa-e-tyre-kryesore-eshte-doreheqja-e-rames/"
+      "https://albeu.com/english/day-81-of-the-citizens-revolt-against-the-government-protesters-return-to-the-square-today-demand-ramas-resignation/977129/"
     ],
-    "createdAt": "2026-08-19T15:56:42.000Z",
-    "updatedAt": "2026-08-19T23:50:27Z"
+    "createdAt": "2026-08-20T01:03:39.000Z",
+    "updatedAt": "2026-08-20T01:25:37Z"
   },
   {
-    "id": "int-858",
+    "id": "int-919",
     "seccion": "internacionales",
     "pais": "Sudáfrica",
     "bandera": "🇿🇦",
-    "hora": "Cierre de todos los campus y evacuación de residencias; plazo de 24 horas (hasta el 19 de agosto a las 16:00)",
-    "fecha": "2026-08-19",
+    "hora": "Cierre de campus en curso; evacuación de residencias completada",
+    "fecha": "2026-08-20",
     "lugar": "Ciudad del Cabo: campus de Bellville y otros campus de la CPUT (Cape Peninsula University of Technology)",
-    "tipoAccion": "Cierre total de campus y evacuación forzada de residencias estudiantiles de la CPUT tras incendio provocado y protestas violentas por reglas de acreditación financiera 2027",
+    "tipoAccion": "Cierre total de campus de la CPUT en curso tras protestas estudiantiles por reglas de acreditación financiera 2027; campus permanecen cerrados hasta nuevo aviso",
     "organizaciones": [
       "Estudiantes de CPUT (Cape Peninsula University of Technology)",
       "South African Students Congress (SASCO) — CPUT",
       "Movimiento estudiantil por acceso a la educación"
     ],
-    "motivo": "El 19 de agosto de 2026, la CPUT (Cape Peninsula University of Technology) cerró todos sus campus y ordenó la evacuación de todas las residencias estudiantiles dentro de 24 horas (plazo: 19 de agosto a las 16:00), tras un ataque incendiario al Old Education Building en el campus de Bellville. La protesta estudiantil, en curso desde hace dos semanas, fue desencadenada por las nuevas reglas de acreditación financiera para 2027 que, según los estudiantes, harían inaccesible la educación superior para miles de personas con dificultades económicas. El NSC (National Student Financial Aid Scheme) fue hallado recientemente habiendo distribuido improperiamente R5.100 millones en fondos a 40.000 estudiantes. La universidad declaró su nivel más alto de alerta de crisis y prohibió el ingreso de personal no autorizado. Los campus permanecerán cerrados hasta nuevo aviso.",
+    "motivo": "El 20 de agosto de 2026, la CPUT (Cape Peninsula University of Technology) mantiene el cierre de todos sus campus tras el ataque incendiario al Old Education Building en el campus de Bellville y las protestas violentas por las nuevas reglas de acreditación financiera para 2027. La protesta estudiantil, en curso desde hace dos semanas, fue desencadenada por reglas que, según los estudiantes, harían inaccesible la educación superior para miles de personas con dificultades económicas. La universidad declaró su nivel más alto de alerta de crisis y prohibió el ingreso de personal no autorizado.",
     "status": "en_curso",
     "lat": -33.9321,
     "lng": 18.6396,
@@ -1325,96 +590,73 @@
       "https://iol.co.za/news/education/cput-campuses-shut-students-evacuated-as-protests-turn-violent/",
       "https://www.ewn.co.za/2026/08/18/cput-operations-halted-following-student-led-campus-and-residence-shutdown"
     ],
-    "createdAt": "2026-08-19T15:56:42.000Z",
-    "updatedAt": "2026-08-19T23:50:27Z"
+    "createdAt": "2026-08-20T01:03:39.000Z",
+    "updatedAt": "2026-08-20T01:25:37Z"
   },
   {
-    "id": "int-871",
+    "id": "int-920",
     "seccion": "internacionales",
     "pais": "Bangladés",
     "bandera": "🇧🇩",
-    "hora": "Desde las 11:00 (bloqueo vial en curso)",
-    "fecha": "2026-08-19",
+    "hora": "Bloqueo vial en curso (día 2)",
+    "fecha": "2026-08-20",
     "lugar": "Chittagong: Hamjarbag-Muradpur-Oxygen Road — principal arteria de la ciudad",
-    "tipoAccion": "Bloqueo de carretera por trabajadores textiles de Ityadi Garments exigiendo 120 días de salarios impagos y denuncia de venta de la fábrica",
+    "tipoAccion": "Bloqueo de carretera por trabajadores textiles de Ityadi Garments, segundo día, exigiendo 120 días de salarios impagos y denuncia de venta de la fábrica",
     "organizaciones": [
       "Trabajadores de Ityadi Garments",
       "Sindicato de trabajadores textiles de Chittagong"
     ],
-    "motivo": "El 19 de agosto de 2026 desde las 11:00, trabajadores textiles de Ityadi Garments bloquearon la carretera Hamjarbag-Muradpur-Oxygen en Chittagong tras rumores de que la fábrica sería vendida, lo que amenazaría sus empleos. Los trabajadores exigen el pago de 120 días (4 meses) de salarios adeudados bajo la ley laboral. Algunos trabajadores llevan entre 5 y 20 años en la empresa. Denuncian que el dueño cambió reiteradamente su versión sobre la venta de la fábrica. La policía desplegó refuerzos y solicitó a los trabajadores formar una delegación de 10-15 miembros para negociar. El bloqueo interrumpió el tráfico en la ruta principal. El dueño posteriormente informó que la fábrica no será vendida.",
+    "motivo": "El 20 de agosto de 2026, el bloqueo vial de trabajadores textiles de Ityadi Garments en Chittagong entra en su segundo día. Los trabajadores bloquearon la carretera Hamjarbag-Muradpur-Oxygen tras rumores de que la fábrica sería vendida. Exigen el pago de 120 días (4 meses) de salarios adeudados. El dueño posteriormente informó que la fábrica no será vendida, pero los trabajadores mantienen el bloqueo hasta asegurar el pago de salarios.",
     "status": "en_curso",
     "lat": 22.3569,
     "lng": 91.7832,
     "fuentes": [
       "https://www.tbsnews.net/bangladesh/ctg-garment-workers-block-road-over-alleged-factory-sale-demand-4-months-dues-1519301"
     ],
-    "createdAt": "2026-08-19T21:25:30.000Z",
-    "updatedAt": "2026-08-19T23:50:27Z"
+    "createdAt": "2026-08-20T01:03:39.000Z",
+    "updatedAt": "2026-08-20T01:25:37Z"
   },
   {
-    "id": "int-872",
-    "seccion": "internacionales",
-    "pais": "Chile",
-    "bandera": "🇨🇱",
-    "hora": "10:00",
-    "fecha": "2026-08-19",
-    "lugar": "Providencia, Santiago: avenida Providencia frente al Liceo José Victorino Lastarria",
-    "tipoAccion": "Encapuchados (presumiblemente estudiantes) encendieron barricadas en la vía pública frente al Liceo Lastarria, causando desvíos de tránsito; intervención policial de Carabineros",
-    "organizaciones": [
-      "Estudiantes (presumiblemente) del Liceo Lastarria"
-    ],
-    "motivo": "El 19 de agosto de 2026 a las 10:00, personas encapuchadas —presumiblemente estudiantes— encendieron barricadas frente al Liceo José Victorino Lastarria en avenida Providencia, Santiago. La directora del recinto denunció los hechos a Carabineros. Las barricadas provocaron desvíos temporales en el tránsito vehicular. A los pocos minutos, la intervención policial sofocó las barricadas y se restableció la normalidad en avenida Providencia hacia las 10:38. Carabineros informó que el procedimiento policial se completó sin mayores incidentes.",
-    "status": "finalizada",
-    "lat": -33.4425,
-    "lng": -70.653,
-    "fuentes": [
-      "https://www.lanacion.cl/encapuchados-encendieron-barricadas-afuera-del-liceo-lastarria-de-providencia/"
-    ],
-    "createdAt": "2026-08-19T21:25:30.000Z",
-    "updatedAt": "2026-08-19T23:50:27Z"
-  },
-  {
-    "id": "int-873",
+    "id": "int-921",
     "seccion": "internacionales",
     "pais": "Siria",
     "bandera": "🇸🇾",
-    "hora": "Durante el día (marcha y concentraciones)",
-    "fecha": "2026-08-19",
-    "lugar": "Aleppo (concentración principal); Damasco (protesta programada frente al Parlamento)",
-    "tipoAccion": "Manifestaciones multitudinarias en Aleppo y Damasco exigiendo justicia por la muerte de Mohammad Ghamira, exvoluntario de los Cascos Blancos, detenido y presuntamente golpeado por fuerzas de seguridad",
+    "hora": "Manifestaciones en curso (día 2); concentraciones programadas",
+    "fecha": "2026-08-20",
+    "lugar": "Aleppo (concentración principal); Damasco (protesta frente al Parlamento)",
+    "tipoAccion": "Manifestaciones continuas en Aleppo y Damasco exigiendo justicia por la muerte de Mohammad Ghamira, segundo día de protestas tras la revelación de golpes durante su detención",
     "organizaciones": [
       "Sociedad civil siria",
       "Familiares y amigos de Mohammad Ghamira",
       "Activistas por los derechos humanos"
     ],
-    "motivo": "El 19 de agosto de 2026, sirios se manifestaron en Aleppo y planearon concentraciones frente al Parlamento en Damasco, exigiendo justicia por la muerte de Mohammad Ghamira, un hombre de 29 años y padre de dos hijos, exvoluntario de los Cascos Blancos (White Helmets). Ghamira fue detenido en una comisaría de al-Haffah (provincia de Latakia) tras una acusación de robo y murió en un hospital el domingo 17 de agosto tras ser liberado, por hemorragias cerebrales e gastrointestinales provocadas por presuntos golpes durante su detención. La familia había advertido a la policía sobre su hemofilia. El caso ha generado una ola de indignación por el historial de tortura en detención del antiguo régimen de Assad. El Ministerio del Interior anunció una investigación y detuvo a siete miembros de las fuerzas de seguridad para interrogatorio. Los manifestantes corearon consignas como 'No repitan la misma opresión contra la que nos sublevamos'.",
+    "motivo": "El 20 de agosto de 2026, las manifestaciones en Siria por la muerte de Mohammad Ghamira, un hombre de 29 años y exvoluntario de los Cascos Blancos, continúan en su segundo día. Ghamira murió el 17 de agosto tras ser liberado de detención en al-Haffah por hemorragias cerebrales e gastrointestinales provocadas por presuntos golpes. El Ministerio del Interior anunció una investigación y detuvo a siete miembros de las fuerzas de seguridad. Los manifestantes corearon consignas como 'No repitan la misma opresión contra la que nos sublevamos'.",
     "status": "en_curso",
     "lat": 36.2021,
     "lng": 37.1343,
     "fuentes": [
       "https://www.theguardian.com/world/2026/aug/18/death-alleged-torture-man-detention-sparks-protests-syria",
       "https://barlamantoday.com/2026/08/19/syria-protests-erupt-over-death-of-man-allegedly-beaten-in-custody/",
-      "https://apnews.com/article/syria-detainee-death-hemophilia-mohammad-ghamira-fb4a02d367530197e81f1e0d8e561a32",
-      "https://www.democracynow.org/2026/8/19/headlines/syrians_protest_death_of_man_in_police_custody"
+      "https://apnews.com/article/syria-detainee-death-hemophilia-mohammad-ghamira-fb4a02d367530197e81f1e0d8e561a32"
     ],
-    "createdAt": "2026-08-19T23:19:24.000Z",
-    "updatedAt": "2026-08-19T23:50:27Z"
+    "createdAt": "2026-08-20T01:03:39.000Z",
+    "updatedAt": "2026-08-20T01:25:37Z"
   },
   {
-    "id": "int-874",
+    "id": "int-922",
     "seccion": "internacionales",
     "pais": "México",
     "bandera": "🇲🇽",
-    "hora": "Mañana (bloqueo en curso desde el 18 de agosto)",
-    "fecha": "2026-08-19",
+    "hora": "Bloqueo vial en curso (día 3)",
+    "fecha": "2026-08-20",
     "lugar": "Ciudad de México: Avenida Juárez y Eje Central Lázaro Cárdenas, frente a la Alameda Central, alcaldía Cuauhtémoc",
-    "tipoAccion": "Bloqueo vial de comerciantes ambulantes y mazahuas en avenida Juárez y Eje Central, exigiendo al gobierno de la Ciudad de México y a la alcaldía Cuauhtémoc la autorización de espacios de venta en la Alameda Central",
+    "tipoAccion": "Bloqueo vial de comerciantes ambulantes y mazahuas en avenida Juárez y Eje Central, tercer día, exigiendo al gobierno de la Ciudad de México la autorización de espacios de venta en la Alameda Central",
     "organizaciones": [
       "Comerciantes ambulantes del Centro Histórico",
       "Comerciantes mazahuas",
       "Organización Margarita García"
     ],
-    "motivo": "El 19 de agosto de 2026, comerciantes ambulantes del Centro Histórico de la Ciudad de México mantuvieron cerrada la circulación vehicular de avenida Juárez y Eje Central, exigiendo al gobierno central y a la alcaldía Cuauhtémoc que les autoricen espacios para vender sus productos. El bloqueo, que comenzó el 18 de agosto como respuesta a un operativo de reubicación realizado por el gobierno capitalino en la Alameda Central, generó 8 horas de afectaciones viales en Reforma, Bucareli, Balderas y avenida Juárez, según reportó el Centro de Orientación Vial (OVIAL) de la Secretaría de Seguridad Ciudadana de la CDMX. Los manifestantes demandan espacios dignos de trabajo tras ser retirados de la zona de la Alameda Central.",
+    "motivo": "El 20 de agosto de 2026, comerciantes ambulantes del Centro Histórico de la Ciudad de México mantienen el bloqueo vial de avenida Juárez y Eje Central en su tercer día, exigiendo al gobierno central y a la alcaldía Cuauhtémoc que les autoricen espacios para vender sus productos. El bloqueo, que comenzó el 18 de agosto como respuesta a un operativo de reubicación en la Alameda Central, generó 8 horas de afectaciones viales el primer día. Los manifestantes demandan espacios dignos de trabajo tras ser retirados de la zona de la Alameda Central.",
     "status": "en_curso",
     "lat": 19.4326,
     "lng": -99.1332,
@@ -1423,7 +665,7 @@
       "https://www.milenio.com/comunidad/bloqueos-manifestaciones-cdmx-edomex-en-vivo-hoy-19-agosto-2026",
       "https://www.nmas.com.mx/temas/manifestaciones/"
     ],
-    "createdAt": "2026-08-19T23:19:24.000Z",
-    "updatedAt": "2026-08-19T23:50:27Z"
+    "createdAt": "2026-08-20T01:03:39.000Z",
+    "updatedAt": "2026-08-20T01:25:37Z"
   }
 ]
