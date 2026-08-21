@@ -1,1 +1,53 @@
-[]
+[
+  {
+    "id": "ar-2026-08-21-paro-universitario-nacional",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "todo el día (turnos mañana y tarde)",
+    "fecha": "2026-08-21",
+    "lugar": "Universidades nacionales de todo el país (epicentro Ciudad Autónoma de Buenos Aires)",
+    "tipoAccion": "paro",
+    "organizaciones": [
+      "CONADU Histórica (Conaduh)"
+    ],
+    "motivo": "Cumplimiento de la Ley de Financiamiento Universitario (Ley 27.795), recomposición salarial docente y no docente, aumento de becas y presupuesto universitario, a 300 días de su sanción sin aplicación. Jornada 4 de 5 del paro iniciado el 18/8; hoy además se realiza una audiencia clave ante el juez Martín Cormick por la cautelar que ordena aplicar la ley.",
+    "status": "en_curso",
+    "lat": -34.5983,
+    "lng": -58.393,
+    "fuentes": [
+      "https://www.lanacion.com.ar/sociedad/paro-nacional-asi-es-la-medida-de-fuerza-universitaria-del-18-al-21-de-agosto-nid18082026/",
+      "https://www.clarin.com/informacion-general/paro-nacional-universitario-empieza-dura-universidades-adhieren_0_nzw014j5FE.html",
+      "https://www.infobae.com/educacion/2026/08/18/las-universidades-iniciaron-otra-semana-de-conflicto-con-paros-y-un-banderazo-por-la-ley-de-financiamiento/",
+      "https://www.ambito.com/politica/nuevo-paro-docente-universitario-cuanto-dura-y-quienes-adhieren-n6311668"
+    ],
+    "createdAt": "2026-08-21T02:43:00.000Z",
+    "updatedAt": "2026-08-21T02:45:01Z"
+  },
+  {
+    "id": "ar-2026-08-21-carpa-universitaria-pizzurno",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "jornada completa",
+    "fecha": "2026-08-21",
+    "lugar": "Frente al Palacio Pizzurno (ex Ministerio de Educación), Paraguay y Rodríguez Peña, Ciudad Autónoma de Buenos Aires",
+    "tipoAccion": "carpa",
+    "organizaciones": [
+      "CONADU",
+      "Frente Sindical de Universidades Nacionales (FSU)",
+      "Federación Universitaria Argentina (FUA)",
+      "Asociación Trabajadores del Estado (ATE)"
+    ],
+    "motivo": "Carpa \"Por la Universidad y la Soberanía\" por el cumplimiento de la Ley de Financiamiento Universitario, salarios dignos (reclamo FRESU de salario mínimo de ~3 millones de pesos), becas y presupuesto. Último día de la carpa instalada desde el 18/8.",
+    "status": "en_curso",
+    "lat": -34.598,
+    "lng": -58.3927,
+    "fuentes": [
+      "https://agencia.farco.org.ar/2026/08/19/carpa-universitaria-paro-docente-reclamo-fresu-salario-minimo/",
+      "https://agduba.org.ar/todos-a-pizzurno/"
+    ],
+    "createdAt": "2026-08-21T02:43:00.000Z",
+    "updatedAt": "2026-08-21T02:45:01Z"
+  }
+]
