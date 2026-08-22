@@ -48,7 +48,7 @@
       "https://www.agenciacomunas.com.ar/300-dias-sin-ley-paro-y-movilizacion/"
     ],
     "createdAt": "2026-08-21T02:43:00.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "ar-2026-08-22-marcha-palestina-plaza-de-mayo",
@@ -63,7 +63,7 @@
       "Comité Argentino de Solidaridad con el Pueblo Palestino"
     ],
     "motivo": "Nueva movilización sabatina por Palestina convocada por el Comité Argentino de Solidaridad con el Pueblo Palestino contra el genocidio en Gaza y Cisjordania, la agresión imperialista contra Irán y la complicidad del gobierno de Javier Milei con el eje Estados Unidos-Israel. Los manifestantes se concentran a las 15 en Av. Callao y Av. Corrientes para marchar hacia Plaza de Mayo, bajo las consignas de ruptura de relaciones diplomáticas con Israel y fin de la presencia de la empresa israelí Mekorot en el país ('Palestina libre, del río al mar'). El comunicado exige además la liberación del doctor Hussam Abu Safiya, director del hospital Kamal Adwan detenido por Israel desde fines de 2024 junto a otros 13 profesionales de la salud, y la libertad de las 9.600 personas palestinas presas en cárceles israelíes.",
-    "status": "programado",
+    "status": "en_curso",
     "lat": -34.6037,
     "lng": -58.3816,
     "fuentes": [
@@ -72,7 +72,72 @@
       "https://www.findaprotest.info/event/buenos-aires/evt-blk-7bb099f6f563f262"
     ],
     "createdAt": "2026-08-22T01:20:21.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
+  },
+  {
+    "id": "ar-2026-08-22-movilizacion-productores-frutihorticola-la-plata",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "desde las 9:30 (ART); concentraciones en cuatro puntos y acto central con misa al mediodía",
+    "fecha": "2026-08-22",
+    "lugar": "Cinturón flori-frutihortícola de La Plata: concentraciones en Ruta 36 y Calle 66, Calle 208 y Calle 44, Ruta 2 y Ruta 36 y Calle 179 y Calle 520; acto central en Ruta 36 y Calle 520 (zona El Peligro), partido de La Plata, provincia de Buenos Aires",
+    "tipoAccion": "movilización",
+    "organizaciones": [
+      "Productores y trabajadoras(es) del cordón flori-frutihortícola de La Plata, Berazategui y Florencio Varela",
+      "Organizaciones religiosas y sociales de la región (participan del acto central)"
+    ],
+    "motivo": "Movilización del cinturón frutihortícola platense bajo la consigna 'Tierra, Techo y Trabajo' para visibilizar la crisis que atraviesa el sector —caída del consumo y de las ventas, aumento de los costos de producción, servicios, alquileres de tierras e insumos dolarizados e impacto de las importaciones— y reclamar que el pedido de emergencia productiva avance en la Legislatura bonaerense como herramienta de asistencia para sostener a las familias que viven de la producción y evitar el cierre de quintas. Las columnas se concentran desde las 9:30 en cuatro puntos del cordón productivo (Ruta 36 y 66; calles 208 y 44; Ruta 2 y Ruta 36; calles 179 y 520) y confluyen hacia el acto central en Ruta 36 y 520, donde se celebrará una misa a cargo del arzobispo de La Plata, monseñor Gustavo Carrara.",
+    "status": "en_curso",
+    "lat": -34.913,
+    "lng": -57.956,
+    "fuentes": [
+      "https://www.puntocapitalnoticias.com/productores-del-cordon-frutihorticola-de-la-plata-reclaman-una-emergencia-productiva/",
+      "https://www.0221.com.ar/la-plata/productores-del-cinturon-frutihorticola-la-plata-se-movilizaran-medio-la-crisis-que-afronta-el-sector-n132869",
+      "https://www.infoblancosobrenegro.com/nota/114159/productores-de-la-region-advirtieron-sobre-la-situacion-critica-del-sector/",
+      "https://diariohoy.net/politica/nueva-protesta-de-productores-platenses-287126",
+      "https://www.datadiario.com/laplata/politica-y-economia/productores-frutihorticolas-de-la-plata-salen-a-la-calle-y-reclaman-medidas-ante-la-crisis-del-sector-20268209320",
+      "https://www.0221.com.ar/la-plata/productores-del-cordon-frutihorticola-peregrinan-ruta-36-y-reclaman-medidas-la-crisis-n132996",
+      "https://elmonterizo.com/caos-en-la-plata-productores-frutihorticolas-cortan-rutas-y-lanzan-un-reclamo-urgente",
+      "https://agrobonaerense.com.ar/nota/4062/productores-del-cordon-frutihorticola-de-la-plata-denuncian-una-situacion-critica/",
+      "https://www.eldia.com/la-ciudad/corte-y-caos-de-transito-en-diferentes-puntos-de-la-plata-productores-frutihorticolas-reclaman-ayuda-la-ciudad_1787407500",
+      "https://www.0221.com.ar/la-plata/productores-del-cordon-frutihorticola-peregrinan-ruta-36-y-reclaman-medidas-la-crisis-n132996"
+    ],
+    "createdAt": "2026-08-22T06:45:50.000Z",
+    "updatedAt": "2026-08-22T19:10:16Z"
+  },
+  {
+    "id": "ar-2026-08-22-supermarcha-inseguridad-mar-del-plata",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "11:00–12:00 (ART); concentraciones simultáneas en más de 20 puntos de la ciudad y Batán",
+    "fecha": "2026-08-22",
+    "lugar": "Múltiples puntos de Mar del Plata y Batán: calle 515 y Ruta 11 (zona sur), Alem y Peña (Playa Grande), avenida Jacinto Peralta Ramos y Tripulantes del Fournier (Fortunato de la Plaza, 12:00), Plaza San Martín, Mario Bravo y Edison, Mario Bravo y Centeno, plaza principal de Batán, Constitución y La Costa, Gandhi y Beltrán, Tejedor y Río Negro, rotonda Champagnat y Ruta 2, Libertad y La Costa, Independencia y Alvarado y rotondas de Luro-Champagnat y del Alfar, entre otros",
+    "tipoAccion": "marcha",
+    "organizaciones": [
+      "Vecinos autoconvocados de una veintena de barrios de Mar del Plata",
+      "42 asociaciones de fomento de Mar del Plata y Batán ('Todo Mar del Plata y Batán unidos por la seguridad')"
+    ],
+    "motivo": "'Supermarcha' contra la inseguridad: vecinos autoconvocados y vecinalistas salen este sábado a las principales avenidas y plazas de la ciudad para exigir mayor presencia policial, más controles y patrullaje y un plan de seguridad 'integral y duradero' que incluya el compromiso conjunto del Municipio de General Pueyrredon con los gobiernos provincial y nacional y la Justicia, tras una sucesión de hechos violentos registrados en distintos barrios. Entre los reclamos concretos figura que el municipio convoque una Mesa de Seguridad Integral y el uso de la 'Banca 25', herramienta de participación ciudadana para llevar formalmente el reclamo al Concejo Deliberante. Las convocatorias surgieron por redes sociales desde la zona sur (calle 515 y Ruta 11), los barrios Playa Grande, Los Troncos, San Carlos, Stella Maris y Playa Chica (bajo el lema 'Por más seguridad en nuestros barrios', en Alem y Peña) y Fortunato de la Plaza ('¡Basta de inseguridad!', en Peralta Ramos y Tripulantes del Fournier), y a ellas se sumaron las 42 asociaciones de fomento de la ciudad y Batán; los organizadores insisten en marchas pacíficas para que no se repitan los incidentes frente a la Departamental de comienzos de agosto. La cobertura de este sábado confirma que las columnas salieron a las calles en los más de 20 puntos convocados entre las 11 y las 12.",
+    "status": "finalizado",
+    "lat": -37.9955,
+    "lng": -57.542,
+    "fuentes": [
+      "https://www.0223.com.ar/nota/2026-8-20-12-35-0-supermarcha-contra-la-inseguridad-convocan-a-salir-a-protestar-a-las-principales-avenidas-de-mar-del-plata",
+      "https://www.lacapitalmdp.com/vecinos-de-distintos-barrios-de-mar-del-plata-marcharan-por-la-inseguridad/",
+      "https://www.mdphoy.com/convocan-a-una-super-marcha-contra-la-inseguridad-en-ruta-11-y-calle-515-el-sabado-las-11-00-396281/",
+      "https://datamardelplata.ar/los-vecinos-salen-a-la-calle-por-seguridad-habra-movilizaciones-en-18-puntos-en-mar-del-plata/",
+      "https://www.eleco.com.ar/la-region/preparan-una-megamarcha-en-mar-del-plata-para-reclamar-mas-seguridad",
+      "https://www.lanoticia1.com/noticia/vecinos-de-mar-del-plata-se-movilizan-contra-la-inseguridad-habra-concentraciones-en-distintos-puntos-de-la-ciudad",
+      "https://bacap.com.ar/2026/08/21/de-la-banca-25-a-las-calles-crece-el-reclamo-de-los-vecinos-por-la-inseguridad",
+      "https://elretratodehoy.com.ar/2026/08/20/la-inseguridad-moviliza-a-vecinos-de-distintos-barrios-de-mar-del-plata/",
+      "https://puntonoticias.com/la-inseguridad-vuelve-a-llevar-a-los-vecinos-a-las-calles-convocan-a-una-nueva-movilizacion/",
+      "https://lapampa24.com.ar/nacionales/mar-del-plata-vecinos-preparan-una-supermarcha-contra-la-inseguridad/",
+      "https://diputadosbsas.com.ar/mar-del-plata-vecinos-marcha-inseguridad/"
+    ],
+    "createdAt": "2026-08-22T11:09:30.000Z",
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "al-2026-08-22-protesta-diaria-zvernec-tirana",
@@ -101,7 +166,7 @@
       "https://www.voxnews.al/english/aktualitet/flotilja-pro-gazes-lundron-nga-italia-ne-shqiperi-ne-mbeshtetje-te-re-i122752"
     ],
     "createdAt": "2026-08-21T04:34:40.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "no-2026-08-22-huelga-controladores-aereos-noruega",
@@ -130,10 +195,11 @@
       "https://www.travelmarketreport.com/air/articles/air-traffic-controller-strike-triggers-flight-cancellations-and-delays-across-norway",
       "https://om.avinor.no/en/Articles/How-to-act-during-a-strike-at-the-airport/",
       "https://www.aviation24.be/air-traffic-control/oslo-airport-to-close-temporarily-on-sunday-due-to-norwegian-air-traffic-controllers-strike/",
-      "https://www.thelocal.no/20260821/how-norways-air-traffic-controller-strike-could-impact-your-travel-plans-this-weekend"
+      "https://www.thelocal.no/20260821/how-norways-air-traffic-controller-strike-could-impact-your-travel-plans-this-weekend",
+      "https://www.dailysweden.com/article/norwegian-air-traffic-strike-disrupts-flights-to-sweden"
     ],
     "createdAt": "2026-08-21T07:50:43.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "fr-2026-08-22-huelga-ilimitada-gher-reunion",
@@ -159,7 +225,7 @@
       "https://infooutremer.fr/gher-force-ouvriere-lance-une-greve-illimitee-contre-les-conditions-de-travail/"
     ],
     "createdAt": "2026-08-21T10:57:48.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "gr-2026-08-22-paro-auditores-fiscales-aade-grecia",
@@ -182,7 +248,7 @@
       "https://www.eleftheria.gr/oikonomia/eforiakoi-xekinise-i-apochi-apo-tous-proliptikous-elegchous-ti-katangelloun/"
     ],
     "createdAt": "2026-08-21T10:57:48.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "in-2026-08-22-huelga-basureros-gurugram",
@@ -212,7 +278,7 @@
       "https://www.hindustantimes.com/cities/chandigarh-news/civic-workers-strike-15-days-on-haryana-towns-stink-under-mounting-garbage-101787253028494.html"
     ],
     "createdAt": "2026-08-21T14:31:26.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "es-2026-08-22-huelga-indefinida-groundforce-el-prat-barcelona",
@@ -239,7 +305,7 @@
       "https://www.viaempresa.cat/es/empresa/huelga-groundforce-acumula-6000-maletas-270-vuelos-cancelados-en-dos-semanas_2239267_102.html"
     ],
     "createdAt": "2026-08-21T15:29:27.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "gb-2026-08-22-huelga-indefinida-icr-londres",
@@ -263,7 +329,7 @@
       "https://wrp.org.uk/news/cancer-research-strikers-meet-up-at-sutton/"
     ],
     "createdAt": "2026-08-21T15:29:27.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "ke-2026-08-22-huelga-personal-salud-north-rift",
@@ -290,7 +356,7 @@
       "https://www.breakingkenyanews.com/2026/08/20/striking-nurses-clinical-officers-reject-fresh-negotiations-with-governors-to-help-end-ongoing-work-boycott/"
     ],
     "createdAt": "2026-08-21T17:00:01.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "in-2026-08-22-bloqueo-jorabat-carretera-guwahati-shillong",
@@ -318,7 +384,7 @@
       "https://english.hindusthansamachar.in/Encyc/2026/8/22/Jorabat-Protest-Continues-for-.php"
     ],
     "createdAt": "2026-08-21T21:21:09.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "ke-2026-08-22-huelga-nacional-trabajadores-salud-caucus",
@@ -350,7 +416,7 @@
       "https://citizen.digital/article/nurses-vow-to-continue-strike-reject-court-return-to-work-orders-n388808"
     ],
     "createdAt": "2026-08-21T21:21:09.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "tr-2026-08-22-sitin-mineros-ministerio-energia-ankara",
@@ -380,7 +446,7 @@
       "https://www.infobae.com/america/agencias/2026/08/20/detienen-en-turquia-a-100-mineros-que-protestaban-para-reivindicar-el-pago-de-sus-salarios/"
     ],
     "createdAt": "2026-08-21T21:21:09.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "za-2026-08-22-huelga-municipal-samwu-msunduzi",
@@ -405,7 +471,7 @@
       "https://southafricatoday.net/south-africa-news/kwazulu-natal/pietermaritzburg-municipal-workers-strike-escalates-rubbish-piles-up-as-samwu-protesters-clash-with-police/"
     ],
     "createdAt": "2026-08-21T22:20:14.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "us-2026-08-22-vigilia-semanal-palestina-ocean-beach-san-diego",
@@ -429,7 +495,7 @@
       "https://www.codepink.org/sdvigil"
     ],
     "createdAt": "2026-08-22T01:03:35.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "us-2026-08-22-protesta-semanal-deland-florida",
@@ -452,7 +518,7 @@
       "https://linktr.ee/50501Volusia"
     ],
     "createdAt": "2026-08-22T01:03:35.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "ca-2026-08-22-caminata-duelo-palestina-kitchener",
@@ -474,7 +540,7 @@
       "https://events.worldbeyondwar.org/event/weekly-demonstration-grief-walk/2026-08-22/"
     ],
     "createdAt": "2026-08-22T01:03:35.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "ge-2026-08-22-protesta-diaria-proeuropea-parlamento-tbilisi",
@@ -500,7 +566,7 @@
       "https://jam-news.net/when-the-state-serves-an-oligarch-people-leave/"
     ],
     "createdAt": "2026-08-22T01:03:35.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "gb-2026-08-22-marcha-nacional-derechos-animales-londres",
@@ -528,7 +594,7 @@
       "https://veganfests.com/festivals/official-animal-rights-march-london-2026"
     ],
     "createdAt": "2026-08-22T02:33:18.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "au-2026-08-22-vigilia-semanal-gaza-wonthaggi",
@@ -550,7 +616,7 @@
       "https://www.greenleft.org.au/2026-08/event/gather-4-gaza-wonthaggi-mine-whistle"
     ],
     "createdAt": "2026-08-22T02:33:18.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "au-2026-08-22-protesta-crianza-delfines-seaworld-gold-coast",
@@ -578,7 +644,7 @@
       "https://www.greenleft.org.au/2026-08/event/ban-dolphin-breeding-protest-stand-captive-dolphins"
     ],
     "createdAt": "2026-08-22T02:33:18.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "cl-2026-08-22-marcha-nacional-neurodivergencia",
@@ -601,7 +667,7 @@
       "https://wazu.cl/nacional/2026/08/18/mas-de-70-organizaciones-convocan-a-marcha-en-defensa-de-los-derechos-de-las-personas-neurodivergentes/"
     ],
     "createdAt": "2026-08-22T03:38:34.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "es-2026-08-22-manifestacion-biometano-macrovertedero-villanueva-serena",
@@ -624,7 +690,7 @@
       "https://www.semanariovegasaltas.es/2026/08/19/salvemos-la-coronada-sale-a-la-calle-en-villanueva-contra-la-planta-de-biometano-y-para-exigir-el-cierre-del-macrovertedero/"
     ],
     "createdAt": "2026-08-22T03:38:34.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "fr-2026-08-22-manifestation-30ans-sans-papiers-paris",
@@ -652,7 +718,7 @@
       "https://www.antiracisme-solidarite.org/"
     ],
     "createdAt": "2026-08-22T03:38:34.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "fr-2026-08-22-rassemblement-sans-papiers-lille",
@@ -676,7 +742,7 @@
       "https://ujfp.org/evenements/23-aout-1996-23-aout-2026-30-ans-de-luttes-des-sans-papiers/"
     ],
     "createdAt": "2026-08-22T03:38:34.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "fr-2026-08-22-rassemblement-ucraine-vannes",
@@ -698,7 +764,7 @@
       "https://www.ouest-france.fr/bretagne/vannes-56000/a-vannes-lukraine-a-lhonneur-ce-samedi-pour-celebrer-son-independance-c2aa4098-9ba3-11f1-bac9-b701f4b3457c"
     ],
     "createdAt": "2026-08-22T03:38:34.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "fr-2026-08-22-convoi-agricole-porcherie-du-lac-peyrat-le-chateau",
@@ -721,7 +787,7 @@
       "https://nonalaporcheriedulac.substack.com/p/convoi-agricole-et-rassemblement"
     ],
     "createdAt": "2026-08-22T03:38:34.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "uk-2026-08-22-demo-elbit-shenstone",
@@ -745,7 +811,7 @@
       "https://palestinecampaign.org/events/protest-at-elbit-systems-in-shenstone/"
     ],
     "createdAt": "2026-08-22T03:38:34.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "uk-2026-08-22-protesta-semanal-barclays-glasgow-edimburgo",
@@ -769,7 +835,7 @@
       "https://www.scottishpsc.org.uk/event/edinburgh-barclays-protest-2-2/2026-08-22/"
     ],
     "createdAt": "2026-08-22T03:38:34.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "us-2026-08-22-marcha-independencia-ucrania-dc",
@@ -792,7 +858,7 @@
       "https://usukrainianactivists.org/2026/06/25/celebrating-ukraines-independence-day-in-washington-d-c/"
     ],
     "createdAt": "2026-08-22T03:38:34.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "us-2026-08-22-marcha-gotopless-filadelfia",
@@ -814,7 +880,7 @@
       "https://www.ourphilly.org/events/gotopless-day-civil-rights-march-1786377345888-7hbm?date=2026-08-22"
     ],
     "createdAt": "2026-08-22T03:38:34.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "us-2026-08-22-protesta-palestina-fort-collins",
@@ -836,7 +902,7 @@
       "https://ncalf.org/event/corner-protest-for-palestine/2026-08-22/"
     ],
     "createdAt": "2026-08-22T03:38:34.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "us-2026-08-22-rally-democracia-brookline",
@@ -861,7 +927,7 @@
       "https://turnpurple2blue.org/event/brookline-rally-for-democracy-august-2026/2026-08-22/"
     ],
     "createdAt": "2026-08-22T03:38:34.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "ca-2026-08-22-marcha-orgullo-obrero-edmonton",
@@ -884,7 +950,7 @@
       "https://fightbacknow.civicdeeds.com/actions/edmonton-march-with-worker-pride-in-edmonton-2026-08-22"
     ],
     "createdAt": "2026-08-22T03:38:34.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "us-2026-08-22-protesta-peta-petco-riverside",
@@ -906,7 +972,7 @@
       "https://allevents.in/riverside/riverside-protest-violent-bird-deaths-at-breeder-tied-to-petco/200030526475343"
     ],
     "createdAt": "2026-08-22T03:38:34.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "cl-2026-08-22-marcha-nacional-medioambiente-animales",
@@ -930,7 +996,7 @@
       "https://www.elciudadano.com/medio-ambiente/no-podemos-quedarnos-en-silencio-convocan-marcha-nacional-por-la-defensa-ambiental-ante-graves-retrocesos-del-gobierno-de-kast/08/14/"
     ],
     "createdAt": "2026-08-22T05:19:56.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "es-2026-08-22-concentracion-save-europe-act-contraprotesta-barcelona",
@@ -958,7 +1024,7 @@
       "https://www.lasexta.com/noticias/nacional/polemica-barcelona-manifestacion-grupo-ultra-save-europe-act-inmigracion_202608216a88349b71b42a0b5dfc763a.html"
     ],
     "createdAt": "2026-08-22T05:19:56.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "it-2026-08-22-presidio-palestina-piazza-garibaldino-varese",
@@ -980,7 +1046,7 @@
       "https://www.varesenews.it/2026/08/in-piazza-del-garibaldino-a-varese-nuovo-presidio-per-la-palestina-sabato-22-agosto/2660899/"
     ],
     "createdAt": "2026-08-22T05:19:56.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "us-2026-08-22-standout-inmigrantes-no-fear-burlington",
@@ -1003,7 +1069,7 @@
       "https://www.nofearstreettheater.com/"
     ],
     "createdAt": "2026-08-22T05:19:56.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "us-2026-08-22-rally-democracia-ipswich",
@@ -1025,7 +1091,7 @@
       "https://turnpurple2blue.org/event/rally-for-democracy/2026-08-22/"
     ],
     "createdAt": "2026-08-22T05:19:56.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "us-2026-08-22-standout-semanal-salem-riley-plaza",
@@ -1047,7 +1113,7 @@
       "https://turnpurple2blue.org/event/weekly-hook-wave-standout-rally/2026-08-22/"
     ],
     "createdAt": "2026-08-22T05:19:56.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "us-2026-08-22-standout-democracia-malden",
@@ -1069,7 +1135,7 @@
       "https://turnpurple2blue.org/event/malden-democrats-stand-out-for-democracy/2026-08-22/"
     ],
     "createdAt": "2026-08-22T05:19:56.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "de-2026-08-22-demo-sozialstaat-wiesbaden",
@@ -1104,7 +1170,7 @@
       "https://events.rheinmain.social/event/hande-weg-von-unserem-sozialstaat"
     ],
     "createdAt": "2026-08-22T06:34:22.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "de-2026-08-22-sozialprotest-ludwigshafen-rote-karte",
@@ -1129,7 +1195,7 @@
       "https://landau.igmetall.de/aktuelles/2026/2026-08-13-demo-ludwigshafen"
     ],
     "createdAt": "2026-08-22T06:34:22.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "de-2026-08-22-aktionstag-antimilitarista-frieden-mainz",
@@ -1152,7 +1218,7 @@
       "https://www.friedenskooperative.de/termine/den-frieden-gewinnen-nicht-den-krieg-22"
     ],
     "createdAt": "2026-08-22T06:34:22.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "us-2026-08-22-protesta-wang-wang-union-square-san-francisco",
@@ -1175,7 +1241,7 @@
       "https://www.meetup.com/sfvegansociety/events/315984888/"
     ],
     "createdAt": "2026-08-22T06:34:22.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "us-2026-08-22-protesta-stop-the-slop-data-centers-jamestown",
@@ -1197,37 +1263,7 @@
       "https://mychq.org/event/stop-the-slop-anti-ai-data-centers-protests/2026-08-22/"
     ],
     "createdAt": "2026-08-22T06:34:22.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
-  },
-  {
-    "id": "ar-2026-08-22-movilizacion-productores-frutihorticola-la-plata",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "desde las 9:30 (ART); concentraciones en cuatro puntos y acto central con misa al mediodía",
-    "fecha": "2026-08-22",
-    "lugar": "Cinturón flori-frutihortícola de La Plata: concentraciones en Ruta 36 y Calle 66, Calle 208 y Calle 44, Ruta 2 y Ruta 36 y Calle 179 y Calle 520; acto central en Ruta 36 y Calle 520 (zona El Peligro), partido de La Plata, provincia de Buenos Aires",
-    "tipoAccion": "movilización",
-    "organizaciones": [
-      "Productores y trabajadoras(es) del cordón flori-frutihortícola de La Plata, Berazategui y Florencio Varela",
-      "Organizaciones religiosas y sociales de la región (participan del acto central)"
-    ],
-    "motivo": "Movilización del cinturón frutihortícola platense bajo la consigna 'Tierra, Techo y Trabajo' para visibilizar la crisis que atraviesa el sector —caída del consumo y de las ventas, aumento de los costos de producción, servicios, alquileres de tierras e insumos dolarizados e impacto de las importaciones— y reclamar que el pedido de emergencia productiva avance en la Legislatura bonaerense como herramienta de asistencia para sostener a las familias que viven de la producción y evitar el cierre de quintas. Las columnas se concentran desde las 9:30 en cuatro puntos del cordón productivo (Ruta 36 y 66; calles 208 y 44; Ruta 2 y Ruta 36; calles 179 y 520) y confluyen hacia el acto central en Ruta 36 y 520, donde se celebrará una misa a cargo del arzobispo de La Plata, monseñor Gustavo Carrara.",
-    "status": "en_curso",
-    "lat": -34.913,
-    "lng": -57.956,
-    "fuentes": [
-      "https://www.puntocapitalnoticias.com/productores-del-cordon-frutihorticola-de-la-plata-reclaman-una-emergencia-productiva/",
-      "https://www.0221.com.ar/la-plata/productores-del-cinturon-frutihorticola-la-plata-se-movilizaran-medio-la-crisis-que-afronta-el-sector-n132869",
-      "https://www.infoblancosobrenegro.com/nota/114159/productores-de-la-region-advirtieron-sobre-la-situacion-critica-del-sector/",
-      "https://diariohoy.net/politica/nueva-protesta-de-productores-platenses-287126",
-      "https://www.datadiario.com/laplata/politica-y-economia/productores-frutihorticolas-de-la-plata-salen-a-la-calle-y-reclaman-medidas-ante-la-crisis-del-sector-20268209320",
-      "https://www.0221.com.ar/la-plata/productores-del-cordon-frutihorticola-peregrinan-ruta-36-y-reclaman-medidas-la-crisis-n132996",
-      "https://elmonterizo.com/caos-en-la-plata-productores-frutihorticolas-cortan-rutas-y-lanzan-un-reclamo-urgente",
-      "https://agrobonaerense.com.ar/nota/4062/productores-del-cordon-frutihorticola-de-la-plata-denuncian-una-situacion-critica/"
-    ],
-    "createdAt": "2026-08-22T06:45:50.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "ph-2026-08-22-huelga-dhl-supply-chain-muntinlupa",
@@ -1252,7 +1288,7 @@
       "https://tribune.net.ph/2026/08/21/akbayan-youth-protest"
     ],
     "createdAt": "2026-08-22T07:28:47.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "es-2026-08-22-manifestacion-palestina-mundial-waterpolo-puerto-de-la-cruz",
@@ -1276,7 +1312,7 @@
       "https://www.facebook.com/tenerifexpalestina/posts/pfbid0SjR2nuU3n8x5oBgWvKKfqrYeQr5Q3PxbaGQTpw9PjUE8hgB7G3rT2gg6YKMPki5wl"
     ],
     "createdAt": "2026-08-22T07:28:47.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "ng-2026-08-22-protesta-one-chance-port-harcourt",
@@ -1298,7 +1334,7 @@
       "https://elanhub.net/rivers-residents-to-protest-one-chance-activities-in-port-harcourt/"
     ],
     "createdAt": "2026-08-22T09:22:06.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "in-2026-08-22-marcha-lok-bhavan-bill-minero-ranchi",
@@ -1320,7 +1356,7 @@
       "https://timesofindia.indiatimes.com/city/ranchi/mahagathbandhan-announces-protest-march-against-mines-bill-in-ranchi/articleshow/133276219.cms"
     ],
     "createdAt": "2026-08-22T09:22:06.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "in-2026-08-22-protesta-cpm-jefe-administracion-tamil-nadu",
@@ -1342,7 +1378,7 @@
       "https://www.dtnext.in/news/tamilnadu/cpm-to-hold-protests-across-tamil-nadu-on-august-22-seeking-action-against-chief-secretary"
     ],
     "createdAt": "2026-08-22T09:22:06.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "in-2026-08-22-marcha-politecnicos-chalo-hyderabad",
@@ -1367,7 +1403,7 @@
       "https://www.newindianexpress.com/states/telangana/2026/Aug/20/polytechnic-students-announce-chalo-hyderabad-on-august-22"
     ],
     "createdAt": "2026-08-22T09:22:06.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "in-2026-08-22-protesta-sikh-residencia-gandhi-nueva-delhi",
@@ -1390,7 +1426,7 @@
       "https://economictimes.indiatimes.com/news/politics-and-nation/sikh-groups-protest-outside-rahul-gandhis-home-seek-apology-over-sajjan-kumar-remarks/articleshow/133420759.cms"
     ],
     "createdAt": "2026-08-22T09:22:06.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "us-2026-08-22-protesta-semanal-howe-arden-sacramento",
@@ -1412,7 +1448,7 @@
       "https://oazis.app/en/event/howe-arden-resists-ice-out-for-good-sacramento-2026-08-22"
     ],
     "createdAt": "2026-08-22T09:22:06.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "in-2026-08-22-agitacion-nrc-boicot-oficinas-manipur",
@@ -1441,7 +1477,7 @@
       "https://www.thesangaiexpress.com/Encyc/2026/8/21/by-our-staff-reporter-imphal-aug-20-a-large-number-of-college-and-school-students-staged-a-protest-demonstrati.html"
     ],
     "createdAt": "2026-08-22T10:55:21.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "id-2026-08-22-protesta-ampb-dpr-jakarta",
@@ -1463,7 +1499,7 @@
       "https://www.idntimes.com/news/indonesia/dukung-aksi-di-dpr-warga-jakarta-salurkan-bantuan-logistik-00-jkxzp-mx9z96"
     ],
     "createdAt": "2026-08-22T10:55:21.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "es-2026-08-22-movilizacion-rollan-guardia-civil-abandono-rural",
@@ -1486,7 +1522,7 @@
       "https://www.salamanca24horas.com/provincia/ledesma-campo-charro/rollan-moviliza-abandono-rural-exigir-permanencia-guardia-civil"
     ],
     "createdAt": "2026-08-22T10:55:21.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "ro-2026-08-22-protest-piata-operei-timisoara-fritz-ani",
@@ -1512,7 +1548,7 @@
       "https://expressdebanat.ro/timisoara-in-strada-pentru-fritz-sute-de-oameni-au-scandat-in-piata-operei-dupa-decizia-ccr/"
     ],
     "createdAt": "2026-08-22T10:55:21.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "no-2026-08-22-demo-palestina-sanciones-israel-oslo",
@@ -1538,7 +1574,7 @@
       "https://allevents.in/oslo/demonstrasjon-ingen-flere-tomme-pulter-sanksjoner-israel/200030556273158"
     ],
     "createdAt": "2026-08-22T10:55:21.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "ie-2026-08-22-concentracion-registro-referendum-dail-dublin",
@@ -1560,7 +1596,7 @@
       "https://allevents.in/dublin/register-to-force-a-referendum/200030486285956"
     ],
     "createdAt": "2026-08-22T10:55:21.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "au-2026-08-22-huelga-tripulaciones-citycat-brisbane",
@@ -1586,40 +1622,7 @@
       "https://www.watoday.com.au/national/queensland/ferry-workers-to-strike-during-friday-peak-hours-20260730-p60k01.html"
     ],
     "createdAt": "2026-08-22T14:47:46.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
-  },
-  {
-    "id": "ar-2026-08-22-supermarcha-inseguridad-mar-del-plata",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "11:00–12:00 (ART); concentraciones simultáneas en más de 20 puntos de la ciudad y Batán",
-    "fecha": "2026-08-22",
-    "lugar": "Múltiples puntos de Mar del Plata y Batán: calle 515 y Ruta 11 (zona sur), Alem y Peña (Playa Grande), avenida Jacinto Peralta Ramos y Tripulantes del Fournier (Fortunato de la Plaza, 12:00), Plaza San Martín, Mario Bravo y Edison, Mario Bravo y Centeno, plaza principal de Batán, Constitución y La Costa, Gandhi y Beltrán, Tejedor y Río Negro, rotonda Champagnat y Ruta 2, Libertad y La Costa, Independencia y Alvarado y rotondas de Luro-Champagnat y del Alfar, entre otros",
-    "tipoAccion": "marcha",
-    "organizaciones": [
-      "Vecinos autoconvocados de una veintena de barrios de Mar del Plata",
-      "42 asociaciones de fomento de Mar del Plata y Batán ('Todo Mar del Plata y Batán unidos por la seguridad')"
-    ],
-    "motivo": "'Supermarcha' contra la inseguridad: vecinos autoconvocados y vecinalistas salen este sábado a las principales avenidas y plazas de la ciudad para exigir mayor presencia policial, más controles y patrullaje y un plan de seguridad 'integral y duradero' que incluya el compromiso conjunto del Municipio de General Pueyrredon con los gobiernos provincial y nacional y la Justicia, tras una sucesión de hechos violentos registrados en distintos barrios. Entre los reclamos concretos figura que el municipio convoque una Mesa de Seguridad Integral y el uso de la 'Banca 25', herramienta de participación ciudadana para llevar formalmente el reclamo al Concejo Deliberante. Las convocatorias surgieron por redes sociales desde la zona sur (calle 515 y Ruta 11), los barrios Playa Grande, Los Troncos, San Carlos, Stella Maris y Playa Chica (bajo el lema 'Por más seguridad en nuestros barrios', en Alem y Peña) y Fortunato de la Plaza ('¡Basta de inseguridad!', en Peralta Ramos y Tripulantes del Fournier), y a ellas se sumaron las 42 asociaciones de fomento de la ciudad y Batán; los organizadores insisten en marchas pacíficas para que no se repitan los incidentes frente a la Departamental de comienzos de agosto. La cobertura de este sábado confirma que las columnas salieron a las calles en los más de 20 puntos convocados entre las 11 y las 12.",
-    "status": "finalizado",
-    "lat": -37.9955,
-    "lng": -57.542,
-    "fuentes": [
-      "https://www.0223.com.ar/nota/2026-8-20-12-35-0-supermarcha-contra-la-inseguridad-convocan-a-salir-a-protestar-a-las-principales-avenidas-de-mar-del-plata",
-      "https://www.lacapitalmdp.com/vecinos-de-distintos-barrios-de-mar-del-plata-marcharan-por-la-inseguridad/",
-      "https://www.mdphoy.com/convocan-a-una-super-marcha-contra-la-inseguridad-en-ruta-11-y-calle-515-el-sabado-las-11-00-396281/",
-      "https://datamardelplata.ar/los-vecinos-salen-a-la-calle-por-seguridad-habra-movilizaciones-en-18-puntos-en-mar-del-plata/",
-      "https://www.eleco.com.ar/la-region/preparan-una-megamarcha-en-mar-del-plata-para-reclamar-mas-seguridad",
-      "https://www.lanoticia1.com/noticia/vecinos-de-mar-del-plata-se-movilizan-contra-la-inseguridad-habra-concentraciones-en-distintos-puntos-de-la-ciudad",
-      "https://bacap.com.ar/2026/08/21/de-la-banca-25-a-las-calles-crece-el-reclamo-de-los-vecinos-por-la-inseguridad",
-      "https://elretratodehoy.com.ar/2026/08/20/la-inseguridad-moviliza-a-vecinos-de-distintos-barrios-de-mar-del-plata/",
-      "https://puntonoticias.com/la-inseguridad-vuelve-a-llevar-a-los-vecinos-a-las-calles-convocan-a-una-nueva-movilizacion/",
-      "https://lapampa24.com.ar/nacionales/mar-del-plata-vecinos-preparan-una-supermarcha-contra-la-inseguridad/",
-      "https://diputadosbsas.com.ar/mar-del-plata-vecinos-marcha-inseguridad/"
-    ],
-    "createdAt": "2026-08-22T11:09:30.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "in-2026-08-22-huelga-basureros-faridabad",
@@ -1641,7 +1644,7 @@
       "https://impressivetimes.com/latest/faridabad-sanitation-workers-strike-sharda-rathore/"
     ],
     "createdAt": "2026-08-22T16:28:24.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "in-2026-08-22-marcha-investigadores-lok-bhavan-patna",
@@ -1663,7 +1666,7 @@
       "https://www.freepressjournal.in/india/bihar-researchers-protest-enters-day-17-march-to-lok-bhavan-on-aug-22"
     ],
     "createdAt": "2026-08-22T16:28:24.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "us-2026-08-22-huelga-teamsters-ikea-joliet",
@@ -1687,7 +1690,7 @@
       "https://www.prnewswire.com/news-releases/ikea-teamsters-forced-to-strike-302849830.html"
     ],
     "createdAt": "2026-08-22T16:28:24.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "kr-2026-08-22-rally-independencia-ucrania-seul",
@@ -1711,7 +1714,7 @@
       "https://euromaidanpress.com/2026/08/22/ukrainians-rally-11-cities-frozen-russian-assets/"
     ],
     "createdAt": "2026-08-22T16:28:24.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "de-2026-08-22-csd-demo-magdeburg",
@@ -1733,7 +1736,7 @@
       "https://csdmagdeburg.de/event/?id=29718"
     ],
     "createdAt": "2026-08-22T16:28:24.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "de-2026-08-22-demo-contra-afd-elmshorn",
@@ -1756,7 +1759,7 @@
       "https://bewegung-hh.nadir.org/events/2026-08-22-entschlossen-gegen-den-rechtsruck-den-faschisten-die-strasse-nehmen"
     ],
     "createdAt": "2026-08-22T16:28:24.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "de-2026-08-22-kundgebung-aachen-bpe",
@@ -1778,7 +1781,7 @@
       "https://bpe-paxeuropa.de/events/kundgebung-aachen/"
     ],
     "createdAt": "2026-08-22T16:28:24.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "fr-2026-08-22-rassemblement-3r-strasbourg",
@@ -1800,7 +1803,7 @@
       "https://www.jds.fr/strasbourg/manifestations/stop-a-l-ingerence-interieure-des-europeistes-bellicistes-liberticides-1698635_A"
     ],
     "createdAt": "2026-08-22T16:28:24.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
   },
   {
     "id": "fr-2026-08-22-marche-blanche-plancher-bas",
@@ -1824,6 +1827,32 @@
       "https://www.lesaffichesdelahautesaone.fr/plancher-bas-deux-de-leurs-jeunes-filles-abusees-une-marche-blanche-organisee-samedi-22-aout/"
     ],
     "createdAt": "2026-08-22T16:28:24.000Z",
-    "updatedAt": "2026-08-22T17:24:40Z"
+    "updatedAt": "2026-08-22T19:10:16Z"
+  },
+  {
+    "id": "mx-2026-08-22-movilizaciones-cdmx",
+    "seccion": "protestas_internacionales",
+    "pais": "México",
+    "bandera": "🇲🇽",
+    "hora": "09:00–17:00 (varias convocatorias)",
+    "fecha": "2026-08-22",
+    "lugar": "Ciudad de México: Ángel de la Independencia, Parque México, Palacio de Bellas Artes y Centro Cultural Bella Época",
+    "tipoAccion": "marcha",
+    "organizaciones": [
+      "Bloque Urbano Popular (BUP)",
+      "Colectivo ¡Aquí No!",
+      "Aquelarre Feminista",
+      "Novísimxs de Poetas (colectivo LGBTTTIQ+)"
+    ],
+    "motivo": "Cuatro movilizaciones convocadas para este sábado en la capital mexicana: el Bloque Urbano Popular marcha a las 09:00 desde el Ángel de la Independencia; el colectivo ¡Aquí No! se concentra a las 11:00 en el Parque México en contra de la planta de amoníaco de Topolobampo (Sinaloa); el Aquelarre Feminista parte a las 13:00 del Palacio de Bellas Artes; y el colectivo Novísimxs de Poetas realiza una manifestación LGBTTTIQ+ a las 17:00 frente al Centro Cultural Bella Época. La Secretaría de Seguridad Ciudadana de la CDMX despliega un operativo vial y de seguridad por las cuatro jornadas.",
+    "status": "en_curso",
+    "lat": 19.4326,
+    "lng": -99.1332,
+    "fuentes": [
+      "https://www.ejecentral.com.mx/marchas-y-movilizaciones-en-cdmx-hoy-sabado-22-de-agosto-de-2026/",
+      "https://x.com/SSC_CDMX/status/2009298337968644232"
+    ],
+    "createdAt": "2026-08-22T18:18:15.000Z",
+    "updatedAt": "2026-08-22T19:10:16Z"
   }
 ]
