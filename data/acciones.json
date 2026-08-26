@@ -1,110 +1,37 @@
 [
   {
-    "id": "ar-2026-08-25-movilizacion-docente-suteba-multicolor-la-plata",
+    "id": "ar-2026-08-26-sutef-paro-indefinido-tierra-del-fuego",
     "seccion": "protestas_ar",
     "pais": "Argentina",
     "bandera": "🇦🇷",
-    "hora": "11:00 (ART); marcha por las calles de La Plata con constancia gremial",
-    "fecha": "2026-08-25",
-    "lugar": "La Plata, provincia de Buenos Aires (puntos de salida desde distintos distritos bonaerenses, destino: centro de La Plata)",
-    "tipoAccion": "movilización",
-    "organizaciones": [
-      "SUTEBA Multicolor (lista opositora a la conducción del Sindicato Unificado de Trabajadores de la Educación de la Provincia de Buenos Aires)",
-      "Docentes de 36 distritos bonaerenses"
-    ],
-    "motivo": "Movilización de docentes bonaerenses nucleados en la lista Multicolor de SUTEBA hacia la capital provincial, como primera jornada de un plan de lucha de 48 horas (movilización el 25 y paro de 24 horas el 26 de agosto). La protesta, convocada tras una reunión de trabajadores de la educación de 36 distritos bonaerenses, exige la reapertura de las paritarias salariales, una recomposición salarial que eleve el salario inicial a $1.600.000, la devolución de los descuentos aplicados por medidas de fuerza anteriores y una mejora general de las condiciones laborales. Desde La Matanza, las columnas saldrán desde distintos puntos del distrito a partir de las 8:00 con constancia gremial. La medida afectará principalmente escuelas de La Plata, Berisso, Ensenada, Bahía Blanca, Marcos Paz, La Matanza y Tigre, aunque el alcance depende del nivel de adhesión de cada docente. La marcha se produce en un contexto de paro docente nacional convocado por CONADU para el 27 y 28 de agosto por el cumplimiento de la Ley de Financiamiento Universitario.",
-    "status": "finalizada",
-    "lat": -34.9214,
-    "lng": -57.9544,
-    "fuentes": [
-      "https://diariohoy.net/politica/docentes-confirmaron-paro-con-movilizacion-en-la-plata-287162",
-      "https://inforbano.com.ar/2026/08/21/suteba-multicolor-anuncio-un-paro-docente-de-24-horas-y-una-movilizacion-en-la-plata/",
-      "https://www.eldia.com/la-ciudad/sin-clases-la-proxima-semana-en-la-plata-lunes-perfeccionamiento-en-colegios-privados-martes-de-marcha-y-miercoles-paro-de-un-gremio-la-ciudad_1787327160",
-      "https://periodismodeizquierda.com/docentes-bonaerenses-martes-25-movilizacion-a-la-plata-y-miercoles-26-paro-provincial/",
-      "https://www.0221.com.ar/provincia/se-viene-un-nuevo-paro-docente-24-horas-una-movilizacion-previa-la-plata-n132950",
-      "https://www.eldia.com/la-ciudad/semana-con-clases-afectadas-en-la-region-la-ciudad_1787547338",
-      "https://www.laizquierdadiario.com/Crece-la-bronca-movilizacion-y-paro-docente-el-25-y-26-de-agosto-contra-el-ajuste",
-      "https://www.newsdigitales.com/nota/342967/docentes-bonaerenses-anunciaron-una-movilizacion-a-la-plata-y-un-paro-provincial/",
-      "https://www.diagonales.com/provincia/suteba-multicolor-convoco-a-un-paro-docente-en-la-pba-para-exigir-la-reapertura-de-la-paritaria_a6a8879ad48f452581e57eb62",
-      "https://lu32.com.ar/educacion/jornada-de-lucha-y-paro-docente-este-martes-y-miercoles_a6a8d572a500df67b2d5ba50f",
-      "https://www.eldia.com/la-ciudad/en-la-previa-del-paro-los-docentes-macharon-en-la-plata-por-mejor-salario-y-mas-presupuesto-la-ciudad_1787672160",
-      "https://gestionsindical.com/grupo-disidente-docentes-suteba-arranco-paro-48-horas-provincia-buenos-aires/",
-      "https://www.laizquierdadiario.com/Contra-el-ajuste-de-Kicillof-miles-de-docentes-marchan-a-La-Plata-previo-al-paro-convocado-por-la",
-      "https://www.newsdigitales.com/nota/343101/las-razones-detras-del-conflicto-por-que-marcha-hoy-la-docencia-multicolor-en-la-plata/"
-    ],
-    "createdAt": "2026-08-25T04:37:53.000Z",
-    "updatedAt": "2026-08-25T23:59:12Z"
-  },
-  {
-    "id": "ar-2026-08-25-marcha-sutef-legislatura-ushuaia",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "11:00 (ART); concentración en el acampe de Casa de Gobierno y marcha hacia la Legislatura provincial",
-    "fecha": "2026-08-25",
-    "lugar": "Ushuaia, Tierra del Fuego: acampe frente a Casa de Gobierno → Legislatura Provincial",
-    "tipoAccion": "marcha",
+    "hora": "paro activo de 48 horas (26-27 agosto) en el marco del paro por tiempo indeterminado; acampes permanentes en Ushuaia, Río Grande y Tolhuin",
+    "fecha": "2026-08-26",
+    "lugar": "Ushuaia, Río Grande y Tolhuin, Tierra del Fuego: acampes frente a Casa de Gobierno y sedes del Ministerio de Educación",
+    "tipoAccion": "paro / acampe",
     "organizaciones": [
       "SUTEF (Sindicato Unificado de Trabajadoras y Trabajadores de la Educación Fueguina)"
     ],
-    "motivo": "Jornada de lucha en el marco del paro docente por tiempo indeterminado (día 23) en Tierra del Fuego: los docentes se concentran a las 11:00 en el acampe frente a Casa de Gobierno en Ushuaia y marchan hacia la Legislatura Provincial para acompañar la reunión agendada con legisladores. El SUTEF rechazó la última propuesta salarial del gobierno de Gustavo Melella (una recomposición de $59.000 escalonada en cuatro cuotas entre agosto y noviembre, sin ofrecer nada para diciembre, enero ni febrero, en equivalencia a la canasta básica patagónica, el fin de los descuentos por días de huelga, la devolución de salarios adeudados de 2025 y la sanción de la Ley de Financiamiento Educativo. Tras el rechazo mayoritario de la propuesta en asamblea (99% contra, 1% a favor), se votó un paro de 48 horas para el martes 26 y miércoles 27 de agosto con movilización en Ushuaia, Río Grande y Tolhuin. El conflicto, iniciado el 3 de agosto, acumula más de tres semanas con acatamiento superior al 80% y acampes permanentes frente a Casa de Gobierno y en sedes del Ministerio de Educación en Río Grande y Tolhuin.",
+    "motivo": "Paro activo de 48 horas (martes 26 y miércoles 27 de agosto) en el marco del paro docente por tiempo indeterminado (día 24) en Tierra del Fuego. El SUTEF rechazó la última propuesta salarial del gobierno de Gustavo Melella (una recomposición de $59.000 escalonada en cuatro cuotas entre agosto y noviembre) y exige el fin de los descuentos por días de huelga, la devolución de salarios adeudados de 2025 y la sanción de la Ley de Financiamiento Educativo. Tras el rechazo mayoritario en asamblea (99% contra), se resolvió el paro de 48 horas con movilización en las tres ciudades. El conflicto, iniciado el 3 de agosto, acumula más de tres semanas con acatamiento superior al 80% y acampes permanentes.",
     "status": "en_curso",
     "lat": -54.8072,
     "lng": -68.305,
     "fuentes": [
       "https://sutef.org/sutef-fue-convocado-a-reunion-con-el-ministerio-de-educacion-2/",
       "https://red23noticias.com.ar/nota/14622/sutef-resolvio-paro-docente-para-martes-y-miercoles/",
-      "https://sutef.org/20-08-18-a-jornada-de-lucha-en-el-paro-docente-por-tiempo-indeterminado/",
-      "https://www.infofueguina.com/tu-ciudad/ushuaia/2026/8/23/el-sutef-el-gobierno-se-reunen-este-lunes-conforme-anuncian-el-paro-sigue-acompanado-de-medidas-89496.html",
       "https://sonidogremial.com.ar/sutef-mantiene-el-paro-docente-por-tiempo-indeterminado-y-convoca-a-marchas-provinciales-en-ushuaia/",
       "https://ushuaia24.com.ar/contenido/28244/sigue-el-paro-docente-en-tierra-del-fuego-y-habra-nuevas-marchas-en-ushuaia",
-      "https://19640noticias.com/contenido/100477/docencia-fueguina-paro-indefinido-no-inicio-clases-sutef-2026",
       "https://fmfuego.com.ar/gremiales/el-ministerio-de-educacion-convoco-a-sutef-en-la-cuarta-semana-de-paro-docente.htm"
     ],
     "createdAt": "2026-08-25T04:37:53.000Z",
-    "updatedAt": "2026-08-25T23:59:12Z"
+    "updatedAt": "2026-08-26T01:36:22Z"
   },
   {
-    "id": "ar-2026-08-25-acampe-conflicto-tierras-san-pedro-misiones",
+    "id": "ar-2026-08-26-acampe-ioma-la-plata",
     "seccion": "protestas_ar",
     "pais": "Argentina",
     "bandera": "🇦🇷",
-    "hora": "acampe permanente (por tiempo indeterminado, día y noche frente a la comuna; séptima jornada consecutiva)",
-    "fecha": "2026-08-25",
-    "lugar": "Frente a la Municipalidad de San Pedro, departamento San Pedro, provincia de Misiones",
-    "tipoAccion": "acampe",
-    "organizaciones": [
-      "Familias campesinas de las colonias Puerto Argentino 1, 2 y 3, La Chacrita, Palmera Boca y San Juan Bosco (Colonias Unidas)",
-      "CTA Autónoma",
-      "ATE",
-      "Multisectorial por la Soberanía",
-      "SUOR y FeTARA",
-      "Movimiento Evita"
-    ],
-    "motivo": "Séptima jornada del acampe por tiempo indeterminado de unas 123 familias campesinas —con estimaciones de las organizaciones que llegan a 300 grupos familiares y más de mil personas— para exigir la intervención del Gobierno provincial de Misiones en el conflicto por la tenencia de tierras con la multinacional forestal Arauco (Alto Paraná S.A., grupo Angelini), que reclama unas 2.500 hectáreas ocupadas y trabajadas por las familias. Los manifestantes denuncian operativos violentos sin orden judicial: detenciones arbitrarias y golpizas (el productor Saúl Lindao fue reducido hasta perder el conocimiento por policías y personal identificado con Arauco), al menos seis viviendas incendiadas, animales muertos o desaparecidos y secuestro de herramientas y motocicletas. El reclamo central es la conformación de una mesa de diálogo con el gobierno provincial, la Dirección de Tierras y Arauco, la exhibición de los títulos que acrediten la titularidad de los lotes y el cese inmediato de los procedimientos violentos. El acampe, iniciado el 19 de agosto, continúa sin respuestas del gobierno provincial a esta fecha.",
-    "status": "en_curso",
-    "lat": -26.2205,
-    "lng": -53.8617,
-    "fuentes": [
-      "https://infoterritorial.com.ar/misiones-campesinos-denuncian-golpizas-amenazas-y-una-escalada-de-violencia-en-tierras-disputadas-por-arauco/",
-      "https://www.elterritorio.com.ar/noticias/2026/08/19/907531-san-pedro-familias-acampan-frente-a-la-municipalidad-por-el-conflicto-de-tierras",
-      "https://www.noticiasdelacalle.com.ar/noticias/2026/08/21/189397-familias-rurales-iniciaron-un-acampe-en-san-pedro-por-el-conflicto-de-tierras-y-reclaman-una-mesa-de-dialogo",
-      "https://www.lavozdemisiones.com/provinciales/piden-mesa-de-dialogo-con-la-provincia-por-conflicto-territorial-en-san-pedro/",
-      "https://www.misionesopina.com.ar/tenemos-miedo-que-nuestros-hijos-mueran-quemados-campesinos-denuncian-violencia-de-arauco/",
-      "https://www.lavozdemisiones.com/opinion/campesinos-denuncian-amenazas-y-escalada-de-violencia-en-tierras-disputadas-por-arauco/",
-      "https://reporte24.com.ar/2026/08/24/san-pedro-campesinos-denuncian-golpizas-amenazas-y-una-escalada-de-violencia-en-tierras-disputadas-por-arauco/",
-      "https://www.tiempoar.com.ar/ta_article/san-pedro-campesinos-denuncian-golpizas-amenazas-y-una-escalada-de-violencia-en-tierras-disputadas-por-arauco/"
-    ],
-    "createdAt": "2026-08-25T04:37:53.000Z",
-    "updatedAt": "2026-08-25T23:59:12Z"
-  },
-  {
-    "id": "ar-2026-08-25-acampe-ioma-la-plata",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "11:00 (ART); concentración frente a IOMA y acampe por tiempo indefinido",
-    "fecha": "2026-08-25",
+    "hora": "acampe por tiempo indefinido frente a IOMA (día 2)",
+    "fecha": "2026-08-26",
     "lugar": "La Plata, provincia de Buenos Aires: calle 46 entre 12 y 13, frente a la sede central de IOMA",
     "tipoAccion": "acampe",
     "organizaciones": [
@@ -112,7 +39,7 @@
       "Prestadores médicos de distintos puntos de la provincia de Buenos Aires",
       "Afiliados de IOMA"
     ],
-    "motivo": "Acampe por tiempo indefinido de afiliados, prestadores y familiares de personas con discapacidad del Instituto de Obra Médico Asistencial (IOMA) frente a la sede central del organismo en La Plata, en reclamo por las deudas acumuladas y las demoras en los pagos a prestadores que alcanzan hasta ocho meses de antigüedad. Los manifestantes denuncian la interrupción de tratamientos oncológicos, la falta de insumos esenciales para cirugías y una crisis prestacional generalizada que afecta a miles de beneficiarios de la obra social bonaerense. La convocatoria contempla una movilización pacífica sin ingreso al edificio, con el objetivo de visibilizar públicamente la situación. Prestadores de Mar del Plata, Bahía Blanca y otros distritos bonaerenses viajan a La Plata para sumarse al acampe, que se extenderá hasta obtener respuestas concretas del gobierno provincial. La protesta se suma al reclamo más amplio de docentes y trabajadores estatales bonaerenses que cuestionan la gestión de IOMA bajo la conducción de Homero Giles.",
+    "motivo": "Segundo día del acampe por tiempo indefinido de afiliados, prestadores y familiares de personas con discapacidad del Instituto de Obra Médico Asistencial (IOMA) frente a la sede central del organismo en La Plata, en reclamo por las deudas acumuladas y las demoras en los pagos a prestadores que alcanzan hasta ocho meses de antigüedad. Los manifestantes denuncian la interrupción de tratamientos oncológicos, la falta de insumos esenciales para cirugías y una crisis prestacional generalizada. El acampe, iniciado el 25 de agosto, se extiende hasta obtener respuestas concretas del gobierno provincial.",
     "status": "en_curso",
     "lat": -34.9133,
     "lng": -57.9588,
@@ -120,116 +47,158 @@
       "https://www.radiodelvolga.com.ar/actualidad/ioma-prestadores-y-afiliados-se-movilizan-el-25-de-agosto-en-la-plata-19-08-2026",
       "https://www.newsdigitales.com/nota/342954/ioma-sabe-todo-de-mar-del-plata-y-bahia-blanca-a-la-plata-asi-sera-el-historico-acampe/",
       "https://www.laplata1.com/2026-08-19/prestadores-y-afiliados-de-ioma-preparan-una-protesta-con-acampe-por-tiempo-indefinido-en-la-plata-125607/",
-      "https://www.puntocapitalnoticias.com/ioma-afiliados-y-prestadores-preparan-un-acampe-en-la-plata-por-las-demoras-en-pagos-y-prestaciones/",
-      "https://www.alvearya.com.ar/nota-prestadores-y-afiliados-profundizan-el-reclamo-contra-ioma-y-anuncian-un-acampe-204978",
-      "https://www.infoplatense.com.ar/ioma-acampe-la-plata-deuda-prestadores-agosto-2026/",
-      "https://www.larazondechivilcoy.com.ar/argentina/2026/8/25/protesta-frente-ioma-por-las-prestaciones-de-discapacidad-198611.html",
       "https://www.0221.com.ar/la-plata/decenas-familias-preparan-un-acampe-frente-ioma-reclamar-las-prestaciones-discapacidad-n133098"
     ],
     "createdAt": "2026-08-25T05:33:20.000Z",
-    "updatedAt": "2026-08-25T23:59:12Z"
+    "updatedAt": "2026-08-26T01:36:22Z"
   },
   {
-    "id": "ar-2026-08-25-amsafe-docentes-reconquista-ocampo-iapos-jubilaciones",
+    "id": "ar-2026-08-26-paro-docente-suteba-multicolor-buenos-aires",
     "seccion": "protestas_ar",
     "pais": "Argentina",
     "bandera": "🇦🇷",
-    "hora": "10:00-12:30 (ART); volanteadas y firmas de petitorios en Reconquista y concentración en Villa Ocampo",
-    "fecha": "2026-08-25",
-    "lugar": "Reconquista (esq. Gral. Obligado y Alvear, 11:00-12:30) y Villa Ocampo (Plaza San Martín, 10:00-12:00), departamento General Obligado, provincia de Santa Fe",
-    "tipoAccion": "jornada de protesta / volanteadas / firma de petitorios",
+    "hora": "paro docente de 24 horas (segunda jornada del plan de lucha de 48 horas)",
+    "fecha": "2026-08-26",
+    "lugar": "Provincia de Buenos Aires (escuelas de La Plata, Berisso, Ensenada, Bahía Blanca, Marcos Paz, La Matanza, Tigre y otros distritos)",
+    "tipoAccion": "paro",
     "organizaciones": [
-      "AMSAFE (Asociación del Magisterio de Santa Fe) - Delegación General Obligado"
+      "SUTEBA Multicolor (lista opositora a la conducción del Sindicato Unificado de Trabajadores de la Educación de la Provincia de Buenos Aires)",
+      "Docentes de 36 distritos bonaerenses"
     ],
-    "motivo": "Jornada provincial de protesta de AMSAFE en el departamento General Obligado por reclamos vinculados a la obra social (IAPOS) y jubilaciones docentes. Los docentes denuncian los crecientes costos para acceder a la atención médica (plus, bonos, consultas particulares), las demoras en la obtención de turnos con especialistas por cupos limitados para afiliados de IAPOS, y la falta de pagos oportunos a prestadores médicos. En Reconquista se realizarán volanteadas y firma de petitorios de 11:00 a 12:30 en la esquina de General Obligado y Alvear; en Villa Ocampo, los docentes se concentran en la Plaza San Martín de 10:00 a 12:00. La protesta es parte del plan de lucha provincial de AMSAFE contra la reforma previsional santafesina, el 'aporte solidario' a jubilados, la pérdida del 82% móvil y el desfasaje en los aumentos salariales entre activos y pasivos.",
-    "status": "finalizada",
-    "lat": -29.1917,
-    "lng": -59.3958,
-    "fuentes": [
-      "https://avellaneda24.com/docentes-de-reconquista-y-villa-ocampo-se-movilizan-por-reclamos-vinculados-a-iapos-y-jubilaciones/",
-      "https://www.radioeme.com/2026/08/la-situacion-no-da-para-mas-amsafe-volvio-a-las-calles-y-endurecio-su-reclamo-contra-la-reforma-previsional/",
-      "https://www.amsafe.org.ar/multitudinaria-concentracion-frente-a-la-caja-de-jubilaciones/"
-    ],
-    "createdAt": "2026-08-25T12:45:23.000Z",
-    "updatedAt": "2026-08-25T23:59:12Z"
-  },
-  {
-    "id": "ar-2026-08-25-madres-padres-dolor-plaza-belgrano-jujuy",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "09:30 (ART); concentración y marcha alrededor de Plaza Belgrano",
-    "fecha": "2026-08-25",
-    "lugar": "Plaza Belgrano, San Salvador de Jujuy, provincia de Jujuy",
-    "tipoAccion": "concentración / marcha",
-    "organizaciones": [
-      "Madres y Padres del Dolor",
-      "Familias de víctimas de femicidios y homicidios de Jujuy"
-    ],
-    "motivo": "Marcha semanal de Madres y Padres del Dolor en Plaza Belgrano, convocada para este martes 25 de agosto a las 09:30, en rechazo a la solicitud de prisión domiciliaria presentada por la defensa de José Nicolás Romero, condenado a prisión perpetua por el femicidio de Natividad Cañizares. La agrupación advierte sobre los riesgos de otorgar flexibilizaciones de pena a condenados por delitos graves y busca visibilizar reclamos de justicia por diversas causas penales en la provincia, incluyendo los casos de Iara Rueda, Angelina González y Paola Vargas. La marcha, que se realiza todos los martes, incluye la rondó por las inmediaciones de Plaza Belgrano y Casa de Gobierno.",
+    "motivo": "Paro docente de 24 horas en la provincia de Buenos Aires, convocado por la lista Multicolor de SUTEBA como segunda jornada de un plan de lucha de 48 horas (movilización el 25 y paro el 26 de agosto). Los docentes exigen la reapertura de las paritarias salariales, una recomposición salarial que eleve el salario inicial a $1.600.000, la devolución de los descuentos aplicados por medidas de fuerza anteriores y una mejora general de las condiciones laborales. El paro fue decidido en una reunión de docentes de 36 distritos bonaerenses. La medida afecta principalmente escuelas públicas donde la Multicolor tiene representación sindical.",
     "status": "en_curso",
-    "lat": -23.7931,
-    "lng": -65.7007,
+    "lat": -34.9214,
+    "lng": -57.9544,
     "fuentes": [
-      "https://www.jujuyalmomento.com/padres-del-dolor/padres-del-dolor-marchan-contra-la-prision-domiciliaria-del-femicida-natividad-canizares-n206296"
+      "https://periodismodeizquierda.com/docentes-bonaerenses-martes-25-movilizacion-a-la-plata-y-miercoles-26-paro-provincial/",
+      "https://www.eldiariosur.com/esteban-echeverria/2026/8/24/suteba-multicolor-convoca-un-paro-docente-este-miercoles-impacto-limitado-en-la-region-82558.html",
+      "https://www.diagonales.com/provincia/suteba-multicolor-convoco-a-un-paro-docente-en-la-pba-para-exigir-la-reapertura-de-la-paritaria_a6a8879ad48f452581e57eb62",
+      "https://www.todoprovincial.com/la-multicolor-desafia-a-la-provincia-y-vuelve-a-lanzar-un-paro-docente-de-24-horas/",
+      "https://diariodelujan.com/paro-docente-suteba-multicolor/",
+      "https://elcactus.com.ar/2026/08/docentes-bonaerenses-convocan-a-un-nuevo-paro-provincial-para-este-miercoles-26/",
+      "https://infobonaerenses.com.ar/nota/44262/docentes-bonaerenses-anunciaron-una-marcha-y-un-paro-para-el-26-de-agosto/"
     ],
-    "createdAt": "2026-08-25T18:00:54.000Z",
-    "updatedAt": "2026-08-25T23:59:12Z"
+    "createdAt": "2026-08-26T01:16:56.000Z",
+    "updatedAt": "2026-08-26T01:36:22Z"
   },
   {
-    "id": "ar-2026-08-25-acampe-ioma-bahia-blanca",
+    "id": "ar-2026-08-26-marcha-sutna-fate-plaza-de-mayo",
     "seccion": "protestas_ar",
     "pais": "Argentina",
     "bandera": "🇦🇷",
-    "hora": "10:00 (ART); jornada de protesta frente a la sede de IOMA en Bahía Blanca",
-    "fecha": "2026-08-25",
-    "lugar": "Zelarrayán 640, Bahía Blanca, provincia de Buenos Aires: sede de IOMA Bahía Blanca",
-    "tipoAccion": "jornada de protesta / acampe",
+    "hora": "14:00 (ART); movilización a Plaza de Mayo con shows en vivo de Horcas y Las Manos de Filippi",
+    "fecha": "2026-08-26",
+    "lugar": "Plaza de Mayo, Ciudad Autónoma de Buenos Aires",
+    "tipoAccion": "movilización",
     "organizaciones": [
-      "Familias de personas con discapacidad afiliadas a IOMA",
-      "Afiliados y prestadores de IOMA en Bahía Blanca"
+      "SUTNA (Sindicato Único de Trabajadores del Neumático Argentino)",
+      "CTA Autónoma",
+      "ATE",
+      "Camioneros",
+      "Aceiteros",
+      "APLA",
+      "Partido Obrero",
+      "PTS"
     ],
-    "motivo": "Jornada de protesta frente a la sede de IOMA en Bahía Blanca, en el marco de una jornada de lucha de 48 horas. Los manifestantes reclaman la defensa de IOMA, cuestionan su 'vaciamiento', la falta de prestaciones y la regularización de pagos y servicios. Exigen respuestas y soluciones concretas para las familias de personas con discapacidad que dependen de la obra social bonaerense. La acción se complementa con el acampe que se desarrolla simultáneamente en La Plata frente a la sede central de IOMA.",
-    "status": "finalizada",
-    "lat": -38.7167,
-    "lng": -62.2833,
+    "motivo": "Movilización a Plaza de Mayo convocada por el SUTNA a las 14:00 bajo la consigna 'FATE no se cierra, fin del lockout', al cumplirse seis meses del cierre de la planta de neumáticos FATE en San Fernando (18 de febrero). 920 trabajadores quedaron sin empleo. El sindicato denuncia que la fábrica no quebró (tiene balances positivos, máquinas y materia prima) y que se trata de un lockout patronal. La Cámara de Casación rechazó el desalojo y la Cámara de Apelaciones ordenó el pago de las quincenas adeudadas (entre 6 y 9 quincenas). La marcha contará con el respaldo de las dos CTA y múltiples gremios, y tendrá shows en vivo de las bandas Horcas y Las Manos de Filippi.",
+    "status": "en_curso",
+    "lat": -34.6037,
+    "lng": -58.3816,
     "fuentes": [
-      "https://www.delabahia.com.ar/convocan-a-una-jornada-de-protesta-frente-a-ioma-en-bahia-blanca/"
+      "https://www.lanacion.com.ar/politica/se-cumplieron-seis-meses-del-cierre-de-fate-y-el-gremio-llamo-a-una-marcha-a-plaza-de-mayo-nid18082026/",
+      "https://www.inforegion.com.ar/2026/08/24/el-sutna-moviliza-a-plaza-mayo-contra-el-lock-out-en-fate/",
+      "https://redeco.com.ar/nacional/77420-movilizacion-a-plaza-de-mayo-bajo-la-consigna-fate-no-se-cierra",
+      "https://www.puraciudad.com.ar/trabajadores-de-fate-marcharan-a-plaza-de-mayo-tocaran-horcas-y-las-manos-de-filippi/",
+      "https://mundogremial.com/trabajadores-de-fate-lanzan-una-movilizacion-a-plaza-de-mayo-contra-el-lockout-y-en-defensa-del-empleo/",
+      "https://www.canal12misiones.com/nacionales/trabajadores-fate-movilizaran"
     ],
-    "createdAt": "2026-08-25T20:01:30.000Z",
-    "updatedAt": "2026-08-25T23:59:12Z"
+    "createdAt": "2026-08-26T01:16:56.000Z",
+    "updatedAt": "2026-08-26T01:36:22Z"
   },
   {
-    "id": "ar-2026-08-25-acompanantes-terapeuticos-chivilcoy-paro",
+    "id": "ar-2026-08-26-marcha-libertad-milton-eneas-congreso",
     "seccion": "protestas_ar",
     "pais": "Argentina",
     "bandera": "🇦🇷",
-    "hora": "paro activo de 48 horas (24-25 agosto); manifestación en la Plaza Seca",
-    "fecha": "2026-08-25",
-    "lugar": "Plaza Seca de 9 de Julio e Hipólito Yrigoyen, Chivilcoy, provincia de Buenos Aires",
+    "hora": "16:00 (ART); concentración en Casa de Madres de Plaza de Mayo y marcha al Obelisco (conferencia de prensa); confluye con marcha de jubilados en Congreso",
+    "fecha": "2026-08-26",
+    "lugar": "Casa de Madres de Plaza de Mayo (Hipólito Yrigoyen 1584) → Obelisco / Plaza de los Dos Congresos, Ciudad Autónoma de Buenos Aires",
+    "tipoAccion": "marcha / manifestación",
+    "organizaciones": [
+      "Coordinadora por la Libertad de lxs Presxs Políticxs",
+      "Partido Revolucionario de los Trabajadores (PRT)",
+      "Frente de Izquierda Unidad (FIT-U)",
+      "Movimientos sociales y de derechos humanos"
+    ],
+    "motivo": "Movilización en defensa de las libertades democráticas por la libertad de Milton Tolomeo y Eneas Gallo, dos trabajadores precarizados detenidos con prisión preventiva en el penal de Marcos Paz por participar de las jornadas del 11 de febrero de 2026 contra la reforma laboral del gobierno de Milei. Tolomeo (masajista y fundador de la Asamblea Popular de Vecinos de Lanús) fue detenido el 15 de febrero y Gallo (trabajador de Pedidos Ya e integrante de la Asamblea de General Rodríguez) el 18 de marzo. La consigna es 'Luchar no es delito'. La marcha parte a las 16:00 desde Casa de Madres de Plaza de Mayo hacia el Obelisco, donde se realizará una conferencia de prensa. Confluirá con la habitual movilización de jubilados/as en Congreso.",
+    "status": "en_curso",
+    "lat": -34.6053,
+    "lng": -58.3821,
+    "fuentes": [
+      "https://prtarg.com.ar/2026/08/20/el-26-de-agosto-todos-al-congreso/",
+      "https://argentina.indymedia.org/2026/08/23/luchar-no-es-delito-por-la-libertad-de-milton-y-eneas/",
+      "https://www.resumenlatinoamericano.org/2026/08/15/argentina-presos-politicos-criminalizacion-de-la-protesta-la-campana-por-la-libertad-para-milton-y-eneas-vuelve-a-las-calles/",
+      "https://agendadelsur.com/index.php/2026/08/14/por-la-libertad-de-los-presos-politicos-milton-tolomeo-y-eneas-gallo/"
+    ],
+    "createdAt": "2026-08-26T01:16:56.000Z",
+    "updatedAt": "2026-08-26T01:36:22Z"
+  },
+  {
+    "id": "ar-2026-08-26-paro-ate-nacional-estatales",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "paro nacional de 24 horas (iniciado 25/8 12:00); concentración en Obelisco y marcha al Ministerio de Desregulación",
+    "fecha": "2026-08-26",
+    "lugar": "Obelisco → Ministerio de Desregulación, Ciudad Autónoma de Buenos Aires (sede principal); simultáneamente: casas de gobierno en todo el país",
     "tipoAccion": "paro / movilización",
     "organizaciones": [
-      "Acompañantes terapéuticos y cuidadores domiciliarios de Chivilcoy"
+      "ATE (Asociación Trabajadores del Estado)"
     ],
-    "motivo": "Paro activo de 48 horas (lunes 24 y martes 25 de agosto) de acompañantes terapéuticos y cuidadores domiciliarios en Chivilcoy, en reclamo por el atraso y los bajos valores de los honorarios. Los manifestantes denuncian que no cobran desde mayo —y algunos desde antes—, que las obras sociales (especialmente IOMA) demoran los pagos y que las facturas tardan en procesarse porque pasan por múltiples instancias antes de llegar a la obra social. Exigen el reconocimiento de su tarea y condiciones dignas para ejercer una actividad fundamental para muchas familias. La medida se suma a la protesta nacional contra la crisis de las obras sociales. En la provincia de Buenos Aires, más de 1.000 centros dejaron de prestar servicios a IOMA, afectando prestaciones a personas con discapacidad.",
+    "motivo": "Continuación del paro nacional de ATE contra la amenaza del Gobierno de miles de despidos a fin de mes, con más del 90% de adhesión registrado. El secretario general Rodolfo Aguiar afirmó: 'En este momento el Gobierno se debilita. Por primera vez le empiezan a entrar las balas y tenemos que acelerar'. El paro, iniciado el martes 25 a las 12:00, incluye cese de tareas en ministerios, retiro de lugares de trabajo y movilización al Obelisco. Durante la jornada se garantizan guardias mínimas en hospitales y atención reducida en organismos esenciales. La medida se replica en todo el país con cortes de rutas y movilizaciones a casas de gobierno.",
     "status": "en_curso",
-    "lat": -34.8534,
-    "lng": -59.0308,
+    "lat": -34.6035,
+    "lng": -58.3813,
     "fuentes": [
-      "https://www.larazondechivilcoy.com.ar/locales/2026/8/25/acompanantes-terapeuticos-cuidadores-realizan-un-paro-movilizacion-198594.html",
-      "https://dechivilcoy.com.ar/paro-y-movilizacion-de-acompanantes-terapeuticos-en-chivilcoy/",
-      "https://periodicosinlimites.com.ar/mas-reclamos-contra-ioma-prestadores-enfermeros-y-acompanantes-terapeuticos-denuncian-sueldos-adeudados/"
+      "https://monitorgremial.com.ar/mas-de-90-de-adhesion-registra-ate-en-su-paro-de-estatales-a-nivel-nacional/",
+      "https://monitorgremial.com.ar/gremios-estatales-y-de-transporte-enfrentan-a-milei-y-escalonan-72-horas-de-medidas-de-fuerza/"
     ],
-    "createdAt": "2026-08-25T21:30:30.000Z",
-    "updatedAt": "2026-08-25T23:59:12Z"
+    "createdAt": "2026-08-25T15:00:00.000Z",
+    "updatedAt": "2026-08-26T01:36:22Z"
   },
   {
-    "id": "int-2026-08-25-india-delhi-iit-student-protest",
+    "id": "ar-2026-08-26-paro-transporte-nacional-mesa-del-transporte",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "paro nacional de transporte de 24 horas; paralización de trenes (La Fraternidad), puertos (FEMPINRA) y carga",
+    "fecha": "2026-08-26",
+    "lugar": "Nacional: estaciones de trenes en todo el país, puertos, y principales ciudades",
+    "tipoAccion": "paro de transporte",
+    "organizaciones": [
+      "La Fraternidad (sindicato de conductores de trenes)",
+      "Mesa Nacional del Transporte",
+      "FEMPINRA (Federación Marítima Portuaria y de la Industria Naval)",
+      "SUTEBA, UDOCBA, FEB (docentes que adhieren a la medida)"
+    ],
+    "motivo": "Paro nacional de transporte de 24 horas convocado por la Mesa del Transporte. La Fraternidad (conductores de trenes) ratificó el paro tras fracasar las negociaciones paritarias con el Ministerio de Trabajo, reclamando una mejora del 32% y una suma adicional para 3.000 maquinistas. La medida afecta todos los servicios urbanos de las cinco líneas de Trenes Argentinos y servicios de cargas. FEMPINRA anunció afectaciones en embarque, movimiento de contenedores y suministro de combustible portuario. Gremios docentes (SUTEBA, UDOCBA, FEB) y la CTERA adhirieron a la huelga. La acción incluye 500 cortes de calles con asambleas y ollas populares en todo el país.",
+    "status": "en_curso",
+    "lat": -34.6037,
+    "lng": -58.3816,
+    "fuentes": [
+      "https://www.lanoticiawebciudad.com.ar/sociedad/habra-paro-de-trenes-el-proximo-miercoles/",
+      "https://www.notinett.com.ar/el-gobierno-apunto-contra-los-gremios-por-el-paro-de-transporte-adhieren-los-privilegiados-los-argentinos-de-bien-no-tienen-esa-posibilidad/"
+    ],
+    "createdAt": "2026-08-26T01:16:56.000Z",
+    "updatedAt": "2026-08-26T01:36:22Z"
+  },
+  {
+    "id": "int-2026-08-26-india-delhi-iit-student-protest",
     "seccion": "protestas_int",
     "pais": "India",
     "bandera": "🇮🇳",
-    "hora": "jornada continua; protesta estudiantil desde el 24 de agosto, reanudada el 25 de agosto en Lecture Hall Complex y oficina del director",
-    "fecha": "2026-08-25",
+    "hora": "jornada continua; protesta estudiantil en cuarto día consecutivo en el campus del IIT Delhi",
+    "fecha": "2026-08-26",
     "lugar": "Nueva Delhi, India: campus del IIT Delhi, Lecture Hall Complex y oficina del director Rangan Banerjee",
     "tipoAccion": "protesta estudiantil / sentada",
     "organizaciones": [
@@ -237,7 +206,7 @@
       "Jawaharlal Nehru University Students' Union (JNUSU)",
       "All India Students' Association (AISA)"
     ],
-    "motivo": "Continuación de la protesta estudiantil en IIT Delhi tras la muerte de Rishikesh Kumar, estudiante de MSc Física de 31 años, quien murió el 22 de agosto tras caer del sexto piso del Lecture Hall Complex. Cientos de estudiantes se presentaron ante la oficina del director Rangan Banerjee exigiendo responsabilidad administrativa. Las demandas principales incluyen: investigación independiente sobre las fallas administrativas que contribuyeron a la muerte de Kumar, renuncia del decano y subdecanos de bienestar estudiantil, compensación de 1 crore de rupias para la familia, y transparencia en los protocolos de salud mental del instituto. Los estudiantes denuncian que Kumar fue negado alojamiento en el campus y proyectos de investigación, lo que lo llevó a vivir fuera del campus en condiciones de estrés financiero. Kumar es el octavo estudiante de IIT Delhi en morir por suicidio en los últimos 30 meses. Las clases fueron suspendidas el 24 de agosto y los estudiantes continuaron protestando el 25 de agosto. El instituto constituyó un comité de investigación externo de 5 miembros, pero los estudiantes insisten en que las renuncias son indispensables.",
+    "motivo": "Cuarto día consecutivo de la protesta estudiantil en IIT Delhi tras la muerte de Rishikesh Kumar, estudiante de MSc Física de 31 años, quien murió el 22 de agosto tras caer del sexto piso del Lecture Hall Complex. Cientos de estudiantes continúan reunidos en la oficina del director Rangan Banerjee exigiendo responsabilidad administrativa. Las demandas principales incluyen: investigación independiente sobre las fallas administrativas que contribuyeron a la muerte de Kumar, renuncia del decano y subdecanos de bienestar estudiantil, compensación de 1 crore de rupias para la familia, y transparencia en los protocolos de salud mental del instituto. Los estudiantes denuncian que Kumar fue negado alojamiento en el campus y proyectos de investigación, lo que lo llevó a vivir fuera del campus en condiciones de estrés financiero. Kumar es el octavo estudiante de IIT Delhi en morir por suicidio en los últimos 30 meses. Las clases permanecen suspendidas desde el 24 de agosto. El instituto constituyó un comité de investigación externo de 5 miembros, pero los estudiantes insisten en que las renuncias son indispensables.",
     "status": "en_curso",
     "lat": 28.5451,
     "lng": 77.1929,
@@ -247,108 +216,26 @@
       "https://www.thehindu.com/news/cities/Delhi/iit-delhi-students-protest-after-student-death-allege-institutional-negligence/article71384550.ece",
       "https://www.newindianexpress.com/cities/delhi/2026/Aug/25/iit-students-seek-action-after-msc-students-death-by-suicide",
       "https://www.outlookindia.com/national/protestors-in-iit-delhi-demand-accountability-1-crore-compensation-over-msc-students-death",
-      "https://indianexpress.com/article/india/today-india-breaking-news-live-updates-25-august-2026-nia-cyber-terrorism-operation-sindoor-delhi-waterlogging-iit-protest-10848136/"
+      "https://indianexpress.com/article/cities/delhi/fresh-protests-erupt-at-iit-delhi-after-students-death-by-suicide-10849423/"
     ],
     "createdAt": "2026-08-25T07:50:12.000Z",
-    "updatedAt": "2026-08-25T23:59:12Z"
+    "updatedAt": "2026-08-26T01:36:22Z"
   },
   {
-    "id": "int-2026-08-25-cuba-havana-water-electricity-protest",
-    "seccion": "protestas_int",
-    "pais": "Cuba",
-    "bandera": "🇨🇺",
-    "hora": "jornada continua; manifestantes bloquearon la calle Monserrate en la Habana Vieja",
-    "fecha": "2026-08-25",
-    "lugar": "La Habana Vieja, Cuba: intersección de calles Monserrate y Obrapía",
-    "tipoAccion": "protesta callejera / bloqueo de vía",
-    "organizaciones": [
-      "Residentes del barrio de Monserrate y Obrapía, La Habana Vieja"
-    ],
-    "motivo": "Vecinos de Monserrate y Obrapía en La Habana Vieja tomaron las calles para exigir el restablecimiento del agua potable y la electricidad, bloqueando la vía con objetos. La policía llegó al lugar y retiró los objetos con los que los manifestantes bloqueaban la calle, tras lo cual las autoridades prometieron restablecer ambos servicios sin ofrecer plazos concretos. La protesta se enmarca en una crisis estructural de servicios básicos: el lunes previo, Aguas de La Habana reportó una avería grave en la infraestructura hidráulica de la Cuenca Sur (rotura de un tubo de 78 pulgadas y tres fugas adicionales), dejando sin agua a seis municipios de La Habana. En todo agosto, Cuba solo ha podido satisfacer entre el 32% y el 35% de la demanda eléctrica en horas pico, con cortes que superan las 20 horas diarias en algunas zonas. El 87% de los sistemas de agua dependen de bombas eléctricas, por lo que cada apagón también interrumpe el suministro de agua. En julio de 2026, el Observatorio Cubano de Conflictos registró un récord histórico de 1.415 protestas, denuncias y expresiones críticas en un solo mes.",
-    "status": "en_curso",
-    "lat": 23.1373,
-    "lng": -82.3566,
-    "fuentes": [
-      "https://en.cibercuba.com/noticias/2026-08-25-u1-e197721-s27061-nid338659-cubanos-protestan-agua-electricidad-habana-vieja",
-      "https://www.cubaheadlines.com/articles/338659",
-      "https://www.cubaheadlines.com/articles/338497",
-      "https://en.cibercuba.com/noticias/2026-08-23-u1-e208512-s27061-nid338497-protesta-habana-vieja-vecinos-cierran-calle-villegas",
-      "https://apnews.com/article/cuba-blackout-trump-oil-energy-crisis-6a2cb180636bec4636bca045e8516c14",
-      "https://www.nbcnews.com/world/cuba/blackouts-stretch-days-life-cuba-revolves-small-bursts-electricity-rcna591333"
-    ],
-    "createdAt": "2026-08-25T07:50:12.000Z",
-    "updatedAt": "2026-08-25T23:59:12Z"
-  },
-  {
-    "id": "int-2026-08-25-usa-united-by-parks-day-of-action",
-    "seccion": "protestas_int",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
-    "hora": "jornada de acción nacional; eventos en más de 20 estados y Washington D.C.",
-    "fecha": "2026-08-25",
-    "lugar": "Washington D.C. (entrega de peticiones al Departamento del Interior) y más de 30 eventos simultáneos en 20 estados: Yosemite, Muir Woods (California), Rocky Mountain (Colorado), Acadia (Maine), Big Bend (Texas), entre otros parques nacionales",
-    "tipoAccion": "jornada de acción / manifestaciones",
-    "organizaciones": [
-      "National Parks Conservation Association (NPCA)",
-      "Indivisible",
-      "Coalición de defensores de parques nacionales y voluntarios"
-    ],
-    "motivo": "\"United by Parks Day of Action\" — jornada nacional de protesta contra las políticas del presidente Donald Trump en materia de parques nacionales. Los manifestantes exigen la protección y mayor inversión en el personal del Servicio Nacional de Parques, que ha perdido casi una cuarta parte de su fuerza laboral permanente desde enero de 2025 (más de 1.000 empleados de prueba despedidos en febrero de 2025, plus renuncias incentivadas). Denuncian que la falta de personal ha obligado a reducir programas educativos, debilitado la investigación científica y el trabajo de conservación, y puesto en riesgo las respuestas de emergencia y la seguridad de los visitantes. Protestan también por las tarifas diferenciadas para visitantes internacionales ($250 vs $80 para residentes), la colocación de la imagen de Trump en los pases anuales, y las órdenes de eliminar material interpretativo considerado 'divisivo' de sitios históricos federales. El 25 de agosto marca el 110° aniversario del Servicio Nacional de Parques. La acción incluye peticiones directas al Secretario del Interior Doug Burgum.",
-    "status": "en_curso",
-    "lat": 38.8977,
-    "lng": -77.0365,
-    "fuentes": [
-      "https://www.newsweek.com/national-parks-advocates-plan-day-of-protest-against-donald-trump-12343857",
-      "https://www.npca.org/campaigns/day-of-action-2026",
-      "https://www.sfgate.com/national-parks/article/national-park-protest-day-22401465.php",
-      "https://maineinsights.com/2026/08/22/national-park-supporters-across-the-will-come-together-online-and-in-person-to-speak-out-to-protect-public-parks/",
-      "https://indivisible.org/events/united-by-parks-day-of-action/",
-      "https://www.restore.org/maineenvironews/2026/8/21/national-parks-advocates-plan-day-of-protest-against-donald-trump"
-    ],
-    "createdAt": "2026-08-25T08:37:56.000Z",
-    "updatedAt": "2026-08-25T23:59:12Z"
-  },
-  {
-    "id": "int-2026-08-25-germany-wismar-anti-afd-buergerfest",
-    "seccion": "protestas_int",
-    "pais": "Alemania",
-    "bandera": "🇩🇪",
-    "hora": "14:30 (CEST); concentración en Platz des Friedens, Wismar",
-    "fecha": "2026-08-25",
-    "lugar": "Wismar, Mecklenburg-Vorpommern, Alemania: Platz des Friedens (frente al Bürgerfest de la AfD)",
-    "tipoAccion": "contramanifestación / concentración",
-    "organizaciones": [
-      "Bündnis 'Bürgerfest der AfD? Nicht mit uns!'",
-      "OAT (Offenes Antifaschistisches Treffen) Wismar",
-      "Iniciativas ciudadanas locales contra el extremismo de derecha"
-    ],
-    "motivo": "Contramanifestación contra el Bürgerfest (festival ciudadano) de la AfD en Wismar, en el marco de la campaña de protestas contra Rechtsextremismus en toda Alemania antes de las elecciones estatales de septiembre de 2026 en Sachsen-Anhalt y Mecklenburg-Vorpommern. Los manifestantes denuncian la politica de la AfD como 'humano- y democracia-hostil' y se oponen a la normalización del extremismo de derecha. La convocatoria es parte de un movimiento nacional más amplio de demos contra AfD, Hass y Derechtsruck que incluye acciones simultáneas en Bremen (19:00, Offenes Plenum Studis Gegen Rechts), Kassel (19:00, Kassel gegen Rechts), Hannover (18:30, Offenes Antifa Treffen), Oldenburg (20:00, Planungstreffen) y otras ciudades alemanas.",
-    "status": "en_curso",
-    "lat": 53.8917,
-    "lng": 11.455,
-    "fuentes": [
-      "https://www.demokrateam.org/aktionen/buergerfest-der-afd-nicht-mit-uns/",
-      "https://www.news.de/politik/859841025/anti-afd-demos-gegen-rechtsextremismus-heute-dienstag-25-08-2026-demonstrationen-wismar-betzdorf-oldenburg-bonn-leipzig-koeln-karlsruhe/1/",
-      "https://www.instagram.com/p/DcZbCQzim9h/"
-    ],
-    "createdAt": "2026-08-25T08:37:56.000Z",
-    "updatedAt": "2026-08-25T23:59:12Z"
-  },
-  {
-    "id": "int-2026-08-25-india-patna-bpsc-student-protest",
+    "id": "int-2026-08-26-india-patna-bpsc-student-protest",
     "seccion": "protestas_int",
     "pais": "India",
     "bandera": "🇮🇳",
-    "hora": "10:00 (IST); marcha desde Gandhi Maidan hacia la residencia del CM y Raj Bhavan",
-    "fecha": "2026-08-25",
-    "lugar": "Patna, Bihar, India: Gandhi Maidan → Dak Bungalow Chowk → residencia del CM Samrat Choudhary / Raj Bhavan",
-    "tipoAccion": "manifestación estudiantil / marcha",
+    "hora": "jornada de manifestación; continuación de protestas en Gandhi Maidan y otras zonas de Patna",
+    "fecha": "2026-08-26",
+    "lugar": "Patna, Bihar, India: Gandhi Maidan y alrededores",
+    "tipoAccion": "manifestación estudiantil / sentada",
     "organizaciones": [
       "Chhatra-Yuva Sangharsh Morcha",
       "Estudiantes aspirantes a BPSC-TRE 4",
       "Estudiantes de universidades de Bihar"
     ],
-    "motivo": "Manifestación masiva de estudiantes en Patna exigiendo la cancelación del 70° examen de la Bihar Public Service Commission (BPSC) por denuncias de filtración de preguntas (paper leak) e irregularidades. Los manifestantes marcharon desde Gandhi Maidan hacia la residencia del CM Samrat Choudhary, rompieron los barricadas policiales en Dak Bungalow Chowk y se enfrentaron con efectivos que usaron gases lacrimógenos y cañones de agua para dispersarlos. Las demandas incluyen: cancelación del examen BPSC n.°70, un solo examen de etapa única para el TRE-4 (sin marcado negativo), mayor transparencia en los procesos de selección, contratación a través de la BSSC, igualdad de oportunidades para candidatos de habla hindi y la publicación de un calendario anual de exámenes. Los estudiantes llevaban banderas tricolores y varios resultaron detenidos. La protesta, que lleva varias semanas en el sitio de Gardanibagh, se intensificó el 25 de agosto con la marcha a gran escala. El gobierno de Bihar constituyó un comité de investigación pero los manifestantes exigen diálogo directo con el CM.",
+    "motivo": "Continuación de las protestas estudiantiles en Patna contra el 70° examen de la Bihar Public Service Commission (BPSC) por denuncias de filtración de preguntas (paper leak) e irregularidades. Tras la marcha masiva del 25 de agosto que terminó con enfrentamientos con la policía, gas lacrimógeno y detenciones, los estudiantes continúan exigiendo: cancelación del examen BPSC n.°70, un solo examen de etapa única para el TRE-4 (sin marcado negativo), mayor transparencia en los procesos de selección, contratación a través de la BSSC, igualdad de oportunidades para candidatos de habla hindi y la publicación de un calendario anual de exámenes. El gobierno de Bihar constituyó un comité de investigación pero los manifestantes exigen diálogo directo con el CM Samrat Choudhary. La protesta, que lleva varias semanas en el sitio de Gardanibagh, se intensificó el 25 de agosto con la marcha a gran escala y continúa en el día de hoy.",
     "status": "en_curso",
     "lat": 25.6093,
     "lng": 85.1376,
@@ -360,24 +247,24 @@
       "https://www.thestatesman.com/india/bpsc-protest-intensifies-in-patna-as-students-breach-barricades-demand-70th-exam-cancellation-1503630931.html"
     ],
     "createdAt": "2026-08-25T10:28:42.000Z",
-    "updatedAt": "2026-08-25T23:59:12Z"
+    "updatedAt": "2026-08-26T01:36:22Z"
   },
   {
-    "id": "int-2026-08-25-paraguay-asuncion-medicos-huelga-medanos",
+    "id": "int-2026-08-26-paraguay-asuncion-medicos-huelga-medanos",
     "seccion": "protestas_int",
     "pais": "Paraguay",
     "bandera": "🇵🇾",
-    "hora": "06:00 (PYT, UTC-4); concentración en Seminario Metropolitano, marcha a Ministerio de Salud y Ministerio de Economía",
-    "fecha": "2026-08-25",
-    "lugar": "Asunción, Paraguay: Seminario Metropolitano → Ministerio de Salud Pública → Ministerio de Economía y Finanzas; parallelmente: Panteón de los Héroes y plazas del Congreso",
-    "tipoAccion": "huelga / marcha / manifestación",
+    "hora": "07:00 (PYT, UTC-4); concentración frente al Congreso Nacional; negociaciones con legisladores",
+    "fecha": "2026-08-26",
+    "lugar": "Asunción, Paraguay: Congreso Nacional; simultáneamente: Ministerio de Salud Pública y plazas del Congreso",
+    "tipoAccion": "huelga / manifestación / negociación",
     "organizaciones": [
       "Sindicato Nacional de Médicos (Sinamed)",
       "Estudiantes de Medicina de la Universidad Nacional de Asunción (UNA)",
       "Activistas ambientales por Médanos del Chaco",
       "Movilización del Bajo Chaco por personas en situación de adicción"
     ],
-    "motivo": "Segunda jornada de la huelga nacional de médicos del sector público en Paraguay (24-28 de agosto), con movilización en Asunción. Se estima que entre 3.000 y 5.000 trabajadores de salud participan. Los médicos reclaman: reajuste salarial que no reciben desde 2012 (actualmente ganan ~G. 5.000.000 por vínculo, equivalente a solo 1,5 salarios mínimos cuando en 2012 equivalían a 2,8), pago doble por feriados trabajados, desprecarización laboral mediante nombramientos formales (de 11.000 médicos, 9.000 son contratados), y mejora de condiciones de trabajo e insumos en hospitales. En paralelo, activistas ambientales protestan contra un proyecto de ley que habilitaría la explotación de hidrocarburos en el Parque Nacional Médanos del Chaco, y manifestantes del Bajo Chaco reclaman medidas para personas en situación de adicción. La huelga suspende consultas ambulatorias y cirugías programadas, manteniendo urgencias y servicios esenciales.",
+    "motivo": "Tercera jornada de la huelga nacional de médicos del sector público en Paraguay (24-28 de agosto), con concentración frente al Congreso Nacional y negociaciones con legisladores. Los médicos reclaman: reajuste salarial que no reciben desde 2012 (actualmente ganan ~G. 5.000.000 por vínculo, equivalente a solo 1,5 salarios mínimos cuando en 2012 equivalían a 2,8), pago doble por feriados trabajados, desprecarización laboral mediante nombramientos formales (de 11.000 médicos, 9.000 son contratados), y mejora de condiciones de trabajo e insumos en hospitales. En paralelo, activistas ambientales protestan contra un proyecto de ley que habilitaría la explotación de hidrocarburos en el Parque Nacional Médanos del Chaco. La huelga suspende consultas ambulatorias y cirugías programadas, manteniendo urgencias y servicios esenciales.",
     "status": "en_curso",
     "lat": -25.2637,
     "lng": -57.5759,
@@ -388,179 +275,43 @@
       "https://www.paraguainews.com.br/noticia/medicos-convocam-mobilizacao-nacional-para-reivindicar-melhorias-laborais-e-salariais"
     ],
     "createdAt": "2026-08-25T11:00:58.000Z",
-    "updatedAt": "2026-08-25T23:59:12Z"
+    "updatedAt": "2026-08-26T01:36:22Z"
   },
   {
-    "id": "int-2026-08-25-india-karnataka-farmers-bidadi-vidhana-soudha",
-    "seccion": "protestas_int",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "jornada de movilización; marcha desde Freedom Park hacia Vidhana Soudha, Bengaluru",
-    "fecha": "2026-08-25",
-    "lugar": "Bengaluru, Karnataka, India: Freedom Park → Vidhana Soudha (sede del gobierno estatal)",
-    "tipoAccion": "manifestación / marcha",
-    "organizaciones": [
-      "Karnataka Rajya Raitha Sangha (KRRS)",
-      "Hasiru Sene",
-      "Samyukta Horata Karnataka",
-      "Bairamangala–Kanchugarana Halli Horata Samithi",
-      "Karnataka Prantha Raitha Sangha (KPRS)"
-    ],
-    "motivo": "Marcha masiva de agricultores de todo Karnataka a Bengaluru ('Vidhana Soudha Chalo') para exigir la cancelación del proyecto de township de Bidadi y la paralización inmediata de los procesos de adquisición de tierras agrícolas. Los agricultores de Bidadi llevan más de 540 días en protesta indefinida contra la adquisición de tierras fértiles de regadío para desarrollo inmobiliario. El CM DK Shivakumar anunció el 14 de julio un comité de revisión y el 9 de agosto un comité de cuatro miembros presidido por un exjuez del Tribunal Superior, pero no se ha emitido orden oficial. Los agricultores denuncian que los tres partidos mayoritarios (Congreso, BJP, JD(S)) han politizado el problema. Tras la marcha a Freedom Park, el CM invitó a 25 representantes de los agricultores a reunirse en Vidhana Soudha. La delegación incluye a los líderes Badagalapura Nagendra, Chukki Nanjundaswamy y al diputado Melukote Darshan Puttannaiah.",
-    "status": "en_curso",
-    "lat": 12.9716,
-    "lng": 77.5946,
-    "fuentes": [
-      "https://www.thehindu.com/news/cities/bangalore/after-540-days-of-protests-karnataka-cm-invites-those-opposing-bidadi-township-for-talks/article71388195.ece",
-      "https://timesofindia.indiatimes.com/city/mysuru/farmers-announce-vidhana-soudha-chalo-protest-on-aug-25/articleshow/133410350.cms",
-      "https://www.deccanherald.com/india/karnataka/bengaluru/bidadi-row-farmer-groups-plan-vidhana-soudha-chalo-on-august-25-4120054",
-      "https://indmedia.in/farmers-announce-vidhana-soudha-chalo-protest-on-aug-25-mysuru-news/"
-    ],
-    "createdAt": "2026-08-25T11:00:58.000Z",
-    "updatedAt": "2026-08-25T23:59:12Z"
-  },
-  {
-    "id": "int-2026-08-25-india-odisha-mmdr-act-resistance-day",
-    "seccion": "protestas_int",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "jornada de resistencia estatal; manifestaciones y procesiones en múltiples ciudades de Odisha",
-    "fecha": "2026-08-25",
-    "lugar": "Bhubaneswar y múltiples ciudades de Odisha, India",
-    "tipoAccion": "manifestación / día de resistencia",
-    "organizaciones": [
-      "Bloque INDIA (Congress, CPI(M), CPI, CPI(ML), Forward Bloc)",
-      "Congreso de Odisha",
-      "CPI(M) de Odisha",
-      "CPI de Odisha"
-    ],
-    "motivo": "Día estatal de 'Resistencia' convocado por el Bloque INDIA en todo Odisha contra la Ley de Enmienda de Minerales y Minas (MMDR Act-2026), que los partidos de oposición denuncian que socava los derechos económicos y constitucionales del estado sobre sus recursos minerales. La protesta incluye una procesión con antorchas realizada en Bhubaneswar el 24 de agosto como acto previo, seguida de manifestaciones estatales el 25 de agosto. Los líderes del Bloque INDIA afirman que la enmienda facilita un mayor control central sobre los recursos minerales de Odisha, podría afectar los intereses de ingresos del estado, debilitar la estructura federal y socavar los derechos de las personas que viven en áreas afectadas por la minería. El Bloque exige la revocación inmediata de la legislación y pide a la gente que se un a un movimiento unido contra lo que describen como un asalto a los derechos económicos y federales del estado.",
-    "status": "en_curso",
-    "lat": 20.2961,
-    "lng": 85.8245,
-    "fuentes": [
-      "http://www.uniindia.com/news/east/politics-odisha-india-bloc-mmdr-act-with-ca9/3953537.html"
-    ],
-    "createdAt": "2026-08-25T12:41:17.000Z",
-    "updatedAt": "2026-08-25T23:59:12Z"
-  },
-  {
-    "id": "int-2026-08-25-israel-kerem-shalom-isf-protest",
-    "seccion": "protestas_int",
-    "pais": "Israel",
-    "bandera": "🇮🇱",
-    "hora": "jornada de protesta; bloqueo de carretera en Kerem Shalom",
-    "fecha": "2026-08-25",
-    "lugar": "Kerem Shalom, frontera Israel-Gaza: campamento Amitai y cruce fronterizo",
-    "tipoAccion": "protesta / bloqueo de carretera",
-    "organizaciones": [
-      "Otef Israel Forum",
-      "Tzav 9",
-      "Israel Envelope Organization",
-      "Residentes de comunidades del envelope de Gaza"
-    ],
-    "motivo": "Protesta de residentes del envelope de Gaza y activistas contra el despliegue de la Fuerza de Estabilización Internacional (ISF) en Gaza. Los manifestantes bloquearon la carretera en el cruce de Kerem Shalom impidiendo el paso de camiones de ayuda humanitaria dirigidos a la ISF. Exigen que la ISF no ingrese a Gaza hasta que Hamás sea completamente desarmado y desmilitarizado. Los protestantes, incluidos sobrevivientes del 7 de octubre, portaron banderas israelíes y consignas como 'Detengan la rehabilitación de Hamás' y 'Solo las FDI pueden protegernos'. La protesta se produce en un contexto de creciente tensión política interna sobre la presencia de fuerzas extranjeras en Gaza y la continuación de los ataques con cometas incendiarias desde Gaza hacia Israel.",
-    "status": "en_curso",
-    "lat": 31.2289,
-    "lng": 34.2908,
-    "fuentes": [
-      "https://www.jpost.com/israel-news/article-906509",
-      "https://www.israelnationalnews.com/news/432204",
-      "https://www.ynetnews.com/article/dujk8kvly"
-    ],
-    "createdAt": "2026-08-25T13:46:51.000Z",
-    "updatedAt": "2026-08-25T23:59:12Z"
-  },
-  {
-    "id": "int-2026-08-25-bangladesh-coxs-bazar-rohingya-protest",
-    "seccion": "protestas_int",
-    "pais": "Bangladés",
-    "bandera": "🇧🇩",
-    "hora": "jornada de movilización masiva en los campamentos de Cox's Bazar",
-    "fecha": "2026-08-25",
-    "lugar": "Cox's Bazar, Bangladés: campamentos de refugiados rohingya (el asentamiento de refugiados más grande del mundo)",
-    "tipoAccion": "manifestación / rally",
-    "organizaciones": [
-      "United Council of Rohingya (UCR)",
-      "Refugiados rohingya en campamentos de Cox's Bazar",
-      "Organizaciones humanitarias (Oxfam, Save the Children, IRC)"
-    ],
-    "motivo": "Manifestación masiva de decenas de miles de refugiados rohingya en los campamentos de Cox's Bazar, marcando el noveno aniversario del éxodo masivo desde Myanmar (agosto 2017). Los manifestantes exigieron justicia, dignidad y condiciones de retorno seguras, portando pancartas con consignas como 'Justicia para los rohingya, la esperanza es el hogar' y 'La justicia a tiempo es nuestro derecho'. Más de 1,2 millones de rohingya viven en aproximadamente 30 campamentos superpoblados. La protesta se produce en un contexto de deterioro de las condiciones humanitarias por recortes de ayuda, raciones limitadas y reducción de servicios. Save the Children advirtió que uno de cada tres refugiados enfrentará niveles de hambre 'críticos' entre septiembre y diciembre. En Myanmar, el conflicto sigue escalando en el estado de Rakhine.",
-    "status": "en_curso",
-    "lat": 21.4406,
-    "lng": 92.0066,
-    "fuentes": [
-      "https://www.aljazeera.com/news/2026/8/25/rohingya-refugees-demand-justice-dignity-at-coxs-bazar-protest",
-      "https://today.rtl.lu/news/world/rohingya-refugees-protest-dire-conditions-in-bangladesh-camps-1963188824",
-      "https://ca.news.yahoo.com/rohingya-refugees-demand-justice-dignity-121519533.html"
-    ],
-    "createdAt": "2026-08-25T13:46:51.000Z",
-    "updatedAt": "2026-08-25T23:59:12Z"
-  },
-  {
-    "id": "int-2026-08-25-bolivia-yapacani-diesel-blockade",
-    "seccion": "protestas_int",
-    "pais": "Bolivia",
-    "bandera": "🇧🇴",
-    "hora": "10:00 (BOT, UTC-4); bloqueo carretero en el puente de Yapacaní; contingente policial y militar desplegado desde las 5:00",
-    "fecha": "2026-08-25",
-    "lugar": "Yapacaní, departamento de Santa Cruz, Bolivia: carretera Santa Cruz–Cochabamba, sector del puente de Yapacaní",
-    "tipoAccion": "bloqueo carretero / movilización",
-    "organizaciones": [
-      "Productores interculturales de Yapacaní",
-      "Productores de las cuatro provincias del Norte Integrado de Santa Cruz",
-      "Productores de la provincia Ichilo"
-    ],
-    "motivo": "Bloqueo carretero en el puente de Yapacaní, anunciado desde las 10:00 del martes 25 de agosto, en rechazo al Decreto Supremo 5676 que establece un precio referencial de Bs 18 por litro de diésel para grandes consumidores (casi un 100% de aumento respecto al precio anterior de Bs 9,80). Los productores denuncian que la medida agrava una crisis ya existente por escasez de combustible, que redujo el abastecimiento en un 50% y limitó la dotación mensual a solo 120 litros por mes, insuficiente para el ritmo productivo. La situación se ve agravada por inundaciones que afectaron más de 4.000 hectáreas de soya, arroz y otros cultivos en la zona. Un fuerte contingente de la Policía y el Ejército fue desplazado desde la madrugada desde Santa Cruz para mantener la vía despejada, en cumplimiento del estado de excepción vigente. Productores de otras provincias anunciaron bloqueos escalonados si no se abroga la normativa, y advirtieron con pedir la renuncia del presidente.",
-    "status": "en_curso",
-    "lat": -17.3333,
-    "lng": -63.6667,
-    "fuentes": [
-      "https://eju.tv/2026/08/despliegan-contingente-policial-a-yapacani-ante-anuncio-de-bloqueo-por-el-precio-del-diesel/",
-      "https://eldeber.com.bo/santa-cruz/movilizan-contingente-militar-policial-yapacani-anuncio-bloqueo_1787662335",
-      "https://eldeber.com.bo/santa-cruz/yapacani-productores-anuncian-movilizaciones-diesel-no-descartan-bloqueos-este-martes_1787601205",
-      "https://www.reduno.com.bo/noticias/despliegan-contingente-policial-a-yapacani-ante-anuncio-de-bloqueo-por-el-precio-del-diesel-20268256360",
-      "https://www.resumenlatinoamericano.org/2026/08/21/bolivia-campesinos-advierten-de-bloqueos-en-carreteras-si-no-se-anula-aumento-del-diesel/"
-    ],
-    "createdAt": "2026-08-25T14:56:59.000Z",
-    "updatedAt": "2026-08-25T23:59:12Z"
-  },
-  {
-    "id": "int-2026-08-25-pakistan-ji-lahore-sit-in-petroleum-levy",
+    "id": "int-2026-08-26-pakistan-ji-lahore-sit-in-petroleum-levy",
     "seccion": "protestas_int",
     "pais": "Pakistán",
     "bandera": "🇵🇰",
-    "hora": "jornada continua; acampada en Faisal Chowk, Mall Road, Lahore (décimo día consecutivo); expansión a campamentos en Islamabad y otras ciudades",
-    "fecha": "2026-08-25",
-    "lugar": "Lahore, Pakistán: Faisal Chowk, Mall Road; simultáneamente: Peshawar, Karachi, Hyderabad y campamento en Sector G-7/3, Islamabad",
-    "tipoAccion": "acampada / sentada / expansión nacional",
+    "hora": "jornada continua; acamada en Faisal Chowk, Mall Road, Lahore (décimo día consecutivo); paro nacional shutter-down",
+    "fecha": "2026-08-26",
+    "lugar": "Lahore, Pakistán: Faisal Chowk, Mall Road; simultáneamente: Peshawar, Karachi, Hyderabad, Quetta y campamento en Sector G-7/3, Islamabad",
+    "tipoAccion": "acampada / paro nacional / sentada",
     "organizaciones": [
       "Jamaat-e-Islami (JI)",
       "Hafiz Naeemur Rehman (Emir de JI)",
-      "Trabajadores y simpatizantes de JI en Lahore, Karachi, Peshawar e Islamabad"
+      "Trabajadores y simpatizantes de JI en Lahore, Karachi, Peshawar, Quetta e Islamabad"
     ],
-    "motivo": "Noveno día consecutivo de la acampada de Jamaat-e-Islami en Faisal Chowk, Lahore, contra el impuesto petrolero (petroleum levy) y la inflación. El Emir Hafiz Naeemur Rehman anunció la expansión del movimiento a otras ciudades (Hyderabad, Quetta) y la apertura de un nuevo campamento de protesta en el Sector G-7/3 de Islamabad el 25 de agosto. JI exige la abolición total del petroleum levy, que ha encarecido la gasolina a Rs341,59/litro y el diésel a Rs368,29/litro. Rechazó una invitación del gobierno para negociar en Islamabad, exigiendo que las conversaciones se realicen en el lugar de la protesta. Anunció un shutter-down strike para el 13 de Rabiul Awwal y un futuro marcha masiva hacia Islamabad. La protesta es la movilización callejera más grande de Lahore este año, con participación creciente incluyendo mujeres. Los sit-ins en Karachi y Peshawar también continúan por octavo día consecutivo.",
+    "motivo": "Décimo día consecutivo de la acampada de Jamaat-e-Islami en Faisal Chowk, Lahore, contra el impuesto petrolero (petroleum levy) y la inflación. JI también convocó un paro nacional shutter-down para este día. El Emir Hafiz Naeemur Rehman anunció la expansión del movimiento a otras ciudades y la apertura de un campamento de protesta en el Sector G-7/3 de Islamabad. JI exige la abolición total del petroleum levy, que ha encarecido la gasolina a Rs341,59/litro y el diésel a Rs368,29/litro. Rechazó una invitación del gobierno para negociar en Islamabad, exigiendo que las conversaciones se realicen en el lugar de la protesta. Anunció un shutter-down strike para el 13 de Rabiul Awwal y una futura marcha masiva hacia Islamabad. La protesta es la movilización callejera más grande de Lahore este año, con participación creciente incluyendo mujeres. Los sit-ins en Karachi y Peshawar también continúan.",
     "status": "en_curso",
     "lat": 31.5204,
     "lng": 74.3587,
     "fuentes": [
+      "https://www.brecorder.com/news/40436514/ji-sit-in-enters-10th-day-as-hafiz-naeem-steps-up-pressure-on-govt",
       "https://dunyanews.tv/en/Pakistan/969559-ji-announces-extending-sitin-against-petroleum-levy",
-      "https://dunyanews.tv/en/Pakistan/969559-ji-announces-expanding-sitins-to-other-cities-against-petroleum-levy",
       "https://www.thenews.pk/story/1433778-ji-sit-ins-against-high-petroleum-levy-continue-nationwide",
       "https://tribune.com.pk/story/2625407/ji-chief-announces-nationwide-strike-long-march-towards-islamabad-after-12-rabiul-awwal",
-      "https://www.lhrtimes.com/2026/08/24/ji-hardens-lahore-sit-in-into-three-stage-campaign-ties-end-of-protest-to-withdrawal-of-petroleum-levy/",
-      "https://en.emranews.com/165776/"
+      "https://www.lhrtimes.com/2026/08/24/ji-hardens-lahore-sit-in-into-three-stage-campaign-ties-end-of-protest-to-withdrawal-of-petroleum-levy/"
     ],
     "createdAt": "2026-08-25T14:56:59.000Z",
-    "updatedAt": "2026-08-25T23:59:12Z"
+    "updatedAt": "2026-08-26T01:36:22Z"
   },
   {
-    "id": "int-2026-08-25-albania-tirana-87th-anti-rama-protest",
+    "id": "int-2026-08-26-albania-tirana-88th-anti-rama-protest",
     "seccion": "protestas_int",
     "pais": "Albania",
     "bandera": "🇦🇱",
     "hora": "tarde; concentración frente a la Oficina del Primer Ministro en Tirana y marcha por la ciudad",
-    "fecha": "2026-08-25",
+    "fecha": "2026-08-26",
     "lugar": "Tirana, Albania: Boulevard frente a la Oficina del Primer Ministro → calles de Tirana",
     "tipoAccion": "manifestación / marcha",
     "organizaciones": [
@@ -568,7 +319,7 @@
       "Activistas y jóvenes albaneses",
       "Ciudadanos auto-organizados"
     ],
-    "motivo": "87ª protesta ciudadana consecutiva contra el gobierno del Primer Ministro Edi Rama, en una acción que se extiende por casi tres meses. Los manifestantes se concentran frente a la Oficina del Primer Ministro exigiendo la renuncia de Rama, la creación de un gobierno técnico con mandato de 12 meses y la derogación de leyes consideradas contrarias al interés público. Las protestas incluyen marchas nocturnas por las calles de Tirana, con consignas como '¡Rama, renuncia!', '¡Se acabó!' y 'Albania busca revolución'. Los manifestantes también exigen a la institución SPAK (Fiscalía Especial Anticorrupción) que investigue casos de corrupción no resueltos. El Primer Ministro Rama, tras una reunión de 9 horas en Pogradec, reconoció que la protesta 'ha desafiado' al Partido Socialista pero no anunció medidas concretas. Los organizadores advirtieron que si el gobierno no responde, pasarán a la desobediencia civil.",
+    "motivo": "88ª protesta ciudadana consecutiva contra el gobierno del Primer Ministro Edi Rama, en una acción que se extiende por casi tres meses. Los manifestantes se concentran frente a la Oficina del Primer Ministro exigiendo la renuncia de Rama, la creación de un gobierno técnico con mandato de 12 meses y la derogación de leyes consideradas contrarias al interés público. Las protestas incluyen marchas nocturnas por las calles de Tirana, con consignas como '¡Rama, renuncia!', '¡Se acabó!' y 'Albania busca revolución'. Los manifestantes también exigen a la institución SPAK (Fiscalía Especial Anticorrupción) que investigue casos de corrupción no resueltos. El Primer Ministro Rama reconoció que la protesta 'ha desafiado' al Partido Socialista pero no anunció medidas concretas. Los organizadores advirtieron que si el gobierno no responde, pasarán a la desobediencia civil.",
     "status": "en_curso",
     "lat": 41.3275,
     "lng": 19.8187,
@@ -576,42 +327,18 @@
       "https://albeu.com/english/87th-protest-to-be-held-today-citizens-resolute-we-will-stay-in-the-square-until-rama-resigns/983961/",
       "https://en.panorama.com.al/gati-tre-muaj-revolte-dhe-rezistence-sot-mbahet-protesta-e-87-te-qytetaret-te-vendosur-ne-shesh-derisa-rama-te-jape-doreheqjen/",
       "https://aktualitet.al/2026/08/25/rama-after-9-hour-meeting-in-pogradec-protest-challenged-us-promises-better-governance/",
-      "https://en.panorama.com.al/qeveria-e-krimit-ju-erdhi-fundit-protestuesit-marshojne-rrugeve-te-tiranes-shqiperia-e-rinise-jo-e-partise-rama-jepe-doreheqjen/"
+      "https://www.botasot.info/shqiperia/2520754/protesta-e-87-te-qytetaret-marshojne-drejt-kryeministrise-ikni-nga-politika/"
     ],
     "createdAt": "2026-08-25T14:56:59.000Z",
-    "updatedAt": "2026-08-25T23:59:12Z"
+    "updatedAt": "2026-08-26T01:36:22Z"
   },
   {
-    "id": "int-2026-08-25-mexico-cdmx-ujrm-protest",
-    "seccion": "protestas_int",
-    "pais": "México",
-    "bandera": "🇲🇽",
-    "hora": "11:00 (CST, UTC-6); concentración frente a la Secretaría de Gobernación (Segob)",
-    "fecha": "2026-08-25",
-    "lugar": "Ciudad de México: Secretaría de Gobernación, calle Abraham González 48, colonia Juárez, alcaldía Cuauhtémoc",
-    "tipoAccion": "manifestación / bloqueo",
-    "organizaciones": [
-      "Unión de la Juventud Revolucionaria de México (UJRM)",
-      "Frente Popular Revolucionario",
-      "Unión Revolucionaria de Trabajadores del Arte"
-    ],
-    "motivo": "Manifestación de la Unión de la Juventud Revolucionaria de México (UJRM) frente a la Secretaría de Gobernación para exigir justicia por sus compañeros asesinados y criminalizados por defender el derecho al trabajo, la tierra y las causas sociales, y para denunciar las agresiones contra integrantes del Frente Popular Revolucionario. La protesta se enmarca en un contexto de creciente conflictividad social en México, con múltiples movilizaciones en semanas previas por desapariciones forzadas, inseguridad y reclamos laborales, que incluyeron un plantón de la CNTE en el Zócalo capitalino. La Secretaría de Seguridad Ciudadana de la CDMX alertó sobre posibles afectaciones a las vialidades de la zona centro durante el desarrollo de la actividad.",
-    "status": "en_curso",
-    "lat": 19.427,
-    "lng": -99.157,
-    "fuentes": [
-      "https://www.nmas.com.mx/ciudad-de-mexico/movilidad/bloqueo-cdmx-hoy-25-de-agosto-2026-afectara-zona-centro-calles-cerradas-horarios/"
-    ],
-    "createdAt": "2026-08-25T15:38:52.000Z",
-    "updatedAt": "2026-08-25T23:59:12Z"
-  },
-  {
-    "id": "int-2026-08-25-spain-airbus-indefinite-strike",
+    "id": "int-2026-08-26-spain-airbus-indefinite-strike",
     "seccion": "protestas_int",
     "pais": "España",
     "bandera": "🇪🇸",
-    "hora": "jornada de huelga indefinida; piquetes en las seis plantas de Airbus en España desde la mañana",
-    "fecha": "2026-08-25",
+    "hora": "jornada de huelga indefinida; piquetes en las seis plantas de Airbus en España desde la mañana; negociaciones en SIMA",
+    "fecha": "2026-08-26",
     "lugar": "Getafe (Madrid), Illescas (Toledo), Puerto Real (Cádiz), San Pablo (Sevilla), El Puerto de Santa María (Cádiz) y Albacete — seis plantas de Airbus en España",
     "tipoAccion": "huelga indefinida",
     "organizaciones": [
@@ -619,7 +346,7 @@
       "CGT (Confederación General del Trabajadores)",
       "ÚTIL (sindicato profesional)"
     ],
-    "motivo": "Inicio de la huelga indefinida de los aproximadamente 14.000 trabajadores de Airbus en España en las seis plantas de la compañía. Los sindicatos UGT, CGT y ÚTIL convocaron la medida tras el rechazo en referéndum de la plantilla al preacuerdo alcanzado por CCOO, SIPA y ATP con la dirección de la compañía (51,13% en contra, 48,87% a favor). Los trabajadores exigen la vinculación del incremento salarial anual a la evolución real del IPC y el acortamiento de los plazos para recuperar el poder adquisitivo perdido durante los años de alta inflación. La protesta se produce después de que Airbus solicitara mediación ante el SIMA (Servicio Interconfederal de Mediación y Arbitraje), a la que solo acudieron los sindicatos que apoyaron el preacuerdo, no los convocantes de la huelga. El conflicto también incluye la protección del teletrabajo y los complementos salariales durante bajas por incapacidad temporal.",
+    "motivo": "Segundo día de la huelga indefinida de los aproximadamente 14.000 trabajadores de Airbus en España en las seis plantas de la compañía. Los sindicatos UGT, CGT y ÚTIL convocaron la medida tras el rechazo en referéndum de la plantilla al preacuerdo alcanzado por CCOO, SIPA y ATP con la dirección de la compañía (51,13% en contra, 48,87% a favor). Los trabajadores exigen la vinculación del incremento salarial anual a la evolución real del IPC y el acortamiento de los plazos para recuperar el poder adquisitivo perdido durante los años de alta inflación. La negociación continúa en el SIMA (Servicio Interconfederal de Mediación y Arbitraje). La protesta se produce en un contexto de tensión negociadora tras el rechazo mayoritario al preacuerdo. El conflicto también incluye la protección del teletrabajo y los complementos salariales durante bajas por incapacidad temporal.",
     "status": "en_curso",
     "lat": 40.3167,
     "lng": -3.7333,
@@ -627,20 +354,20 @@
       "https://elpais.com/economia/2026-08-25/comienza-la-huelga-indefinida-de-los-trabajadores-de-airbus-pedimos-lo-que-merecemos.html",
       "https://www.abc.es/economia/huelga-indefinida-airbus-espana-20260825124241-nt.html",
       "https://cadenaser.com/cmadrid/2026/08/25/la-plantilla-de-airbus-decide-continuar-con-la-huelga-indefinida-ser-madrid-sur/",
+      "https://efe.com/economia/2026-08-25/huelga-airbus-negociacion-poner-fin-conflicto/",
       "https://www.infodefensa.com/texto-diario/mostrar/5971952/plantilla-airbus-decide-retomar-huelga-esta-vez-indefinida-partir-24-agosto",
-      "https://cincodias.elpais.com/companias/2026-08-24/la-plantilla-de-airbus-ratifica-la-huelga-indefinida-en-las-primeras-votaciones-de-la-manana.html",
-      "https://larepublica.es/2026/08/21/divide-y-venceras-la-estrategia-de-airbus-para-desactivar-la-huelga-del-25-de-agosto/"
+      "https://cincodias.elpais.com/companias/2026-08-24/la-plantilla-de-airbus-ratifica-la-huelga-indefinida-en-las-primeras-votaciones-de-la-manana.html"
     ],
     "createdAt": "2026-08-25T16:33:28.000Z",
-    "updatedAt": "2026-08-25T23:59:12Z"
+    "updatedAt": "2026-08-26T01:36:22Z"
   },
   {
-    "id": "int-2026-08-25-jharkhand-left-parties-mmdr-protest",
+    "id": "int-2026-08-26-india-jharkhand-left-parties-mmdr-protest",
     "seccion": "protestas_int",
     "pais": "India",
     "bandera": "🇮🇳",
-    "hora": "jornada de agitación; quema de copias del proyecto de ley y manifestaciones en múltiples ciudades de Jharkhand",
-    "fecha": "2026-08-25",
+    "hora": "jornada de agitación; continuación de protestas en múltiples ciudades de Jharkhand (semana de agitación 25-31 agosto)",
+    "fecha": "2026-08-26",
     "lugar": "Ranchi (frente a Lok Bhavan) y múltiples distritos, bloques y municipalidades de Jharkhand, India",
     "tipoAccion": "agitación / manifestación / quema de documentos",
     "organizaciones": [
@@ -650,7 +377,7 @@
       "SUCI(C) (Unidad Socialista de la India – Comunista)",
       "Forward Bloc"
     ],
-    "motivo": "Inicio de una semana de agitación estatal en Jharkhand (25-31 de agosto) contra la Ley de Enmienda de Minerales y Minas (MMDR Act-2026), aprobada por el Parlamento el 13 de agosto. Los partidos de izquierda denuncian que la ley socava los derechos de los estados sobre sus recursos minerales al restringir su poder de gravar derechos mineros y tierras con minerales, y que provocará pérdidas de ingresos estimadas en ₹13.000 crore anuales para Jharkhand, un estado rico en minerales. Las protestas incluyen la quema de copias del proyecto de ley en todos los distritos, bloques y municipalidades del estado, campañas de concienciación en aldeas, reuniones en la esquina de calles y una manifestación frente a Lok Bhavan en Ranchi con la entrega de un memorándum al presidente a través del gobernador. Los partidos advirtieron que, si el gobierno central no revierte la ley, recurrirán al bloqueo económico, paro de Jharkhand y bloqueo de carreteras, incluyendo la paralización del transporte de minerales y carbón desde el estado.",
+    "motivo": "Segundo día de la semana de agitación estatal en Jharkhand (25-31 de agosto) contra la Ley de Enmienda de Minerales y Minas (MMDR Act-2026), aprobada por el Parlamento el 13 de agosto. Los partidos de izquierda denuncian que la ley socava los derechos de los estados sobre sus recursos minerales al restringir su poder de gravar derechos mineros y tierras con minerales, y que provocará pérdidas de ingresos estimadas en ₹13.000 crore anuales para Jharkhand, un estado rico en minerales. Las protestas incluyen la quema de copias del proyecto de ley en todos los distritos, bloques y municipalidades del estado, campañas de concienciación en aldeas, reuniones en la esquina de calles y una manifestación frente a Lok Bhavan en Ranchi con la entrega de un memorándum al presidente a través del gobernador. Los partidos advirtieron que, si el gobierno central no revierte la ley, recurrirán al bloqueo económico, paro de Jharkhand y bloqueo de carreteras.",
     "status": "en_curso",
     "lat": 23.3441,
     "lng": 85.3096,
@@ -662,73 +389,22 @@
       "https://www.timesnowhindi.com/cities/left-parties-to-launch-week-long-protest-against-mmdr-amendment-bill-in-jharkhand-article-155889723"
     ],
     "createdAt": "2026-08-25T17:28:21.000Z",
-    "updatedAt": "2026-08-25T23:59:12Z"
+    "updatedAt": "2026-08-26T01:36:22Z"
   },
   {
-    "id": "int-2026-08-25-usa-nyc-kashmiri-times-square-protest",
-    "seccion": "protestas_int",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
-    "hora": "jornada de manifestación en Times Square, Manhattan",
-    "fecha": "2026-08-25",
-    "lugar": "Times Square, Manhattan, Nueva York, Estados Unidos",
-    "tipoAccion": "manifestación / rally",
-    "organizaciones": [
-      "Diaspora kashmirí en Estados Unidos",
-      "Organizaciones comunitarias kashmiríes del área metropolitana de Nueva York"
-    ],
-    "motivo": "Manifestación de miembros de la diáspora kashmirí en Times Square contra el supuesto asesinato de civiles inocentes por parte de las fuerzas pakistaníes en Azad Kashmir (PoK). Los manifestantes corearon consignas contra las fuerzas pakistaníes, expresaron solidaridad con el pueblo del territorio ocupado y pidieron el fin de las brutalidades. Portaron pancartas con lemas como 'Por cada vida perdida exigimos justicia', 'Paren de matar kashmiríes' y 'Nuestro derecho, nuestra voz, nuestro futuro'. La protesta se produce en un contexto de manifestaciones crecientes de la diáspora kashmirí en todo el mundo, exigiendo intervención internacional por lo que describen como una represión brutal de las autoridades pakistaníes en PoK. La semana anterior, más de 70 parlamentarios británicos escribieron al secretario general de la ONU, António Guterres, pidiendo intervención por la situación en PoK.",
-    "status": "en_curso",
-    "lat": 40.758,
-    "lng": -73.9855,
-    "fuentes": [
-      "https://ianslive.in/pakistan-severely-condemned-for-killing-kashmiris-in-pok-as-global-protests-reach-new-york--20260825210430"
-    ],
-    "createdAt": "2026-08-25T17:57:34.000Z",
-    "updatedAt": "2026-08-25T23:59:12Z"
-  },
-  {
-    "id": "int-2026-08-25-peru-iquitos-cgtp-loreto-paro-combustible",
-    "seccion": "protestas_int",
-    "pais": "Perú",
-    "bandera": "🇵🇪",
-    "hora": "00:00 (PET, UTC-5); paro regional de 48 horas con piquetes desde la medianoche y bloqueo de la carretera Iquitos-Nauta",
-    "fecha": "2026-08-25",
-    "lugar": "Iquitos, región Loreto, Perú: carretera Iquitos-Nauta, plaza 28 de Julio y múltiples sectores de la ciudad",
-    "tipoAccion": "paro regional / bloqueo carretero / movilización",
-    "organizaciones": [
-      "CGTP Loreto (Confederación General de Trabajadores del Perú – Base Loreto)",
-      "Sindicato de choferes de Iquitos",
-      "Gremios de construcción civil",
-      "Organizaciones de transportistas de Loreto"
-    ],
-    "motivo": "Paro regional de 48 horas convocado por la CGTP Loreto en Iquitos contra el incremento del precio del combustible, la crisis del servicio eléctrico y el avance de la minería ilegal. Los manifestantes bloquearon la carretera Iquitos-Nauta desde la medianoche y establecieron piquetes en múltiples puntos de la ciudad. La CGTP cuestiona que el subsidio al combustible propuesto por el Gobierno sea focalizado y solo alcance al 10% de los usuarios, exigiendo que se canalice a través de los grifos para beneficiar a toda la población. También reclaman la interconexión de Iquitos al Sistema Eléctrico Interconectado Nacional (SEIN) y acciones contundentes contra la minería ilegal en el río Nanay. La medida involucra a unos 60 sindicatos de la CGTP, además de transportistas y otras organizaciones. El secretario general Reynaldo Tuanama advirtió que, si no obtienen respuestas del Gobierno, evaluarán radicalizar la protesta más allá de las 48 horas.",
-    "status": "en_curso",
-    "lat": -3.748,
-    "lng": -73.247,
-    "fuentes": [
-      "https://larepublica.pe/sociedad/2026/08/25/paro-de-48-horas-por-alza-de-combustible-cgtp-loreto-inicia-movilizacion-y-exige-subsidio-general-1835200",
-      "https://gestion.pe/peru/paro-en-iquitos-gremios-inician-paro-de-48-horas-por-alza-de-precios-del-combustible-noticia/",
-      "https://www.apnoticias.pe/index.php/cgtp-loreto-inicia-paro-de-48-horas-y-exige-al-gobierno-subsidio-general-para-reducir-precio-del-combustible-1513237",
-      "https://diariolaregion.com/cgtp-loreto-inicia-este-martes-paro-regional-de-48-horas-por-combustible-inseguridad-y-demandas-laborales/"
-    ],
-    "createdAt": "2026-08-25T18:43:08.000Z",
-    "updatedAt": "2026-08-25T23:59:12Z"
-  },
-  {
-    "id": "int-2026-08-25-uk-london-arriva-bus-drivers-strike-heat",
+    "id": "int-2026-08-26-uk-london-arriva-bus-drivers-strike-heat",
     "seccion": "protestas_int",
     "pais": "Reino Unido",
     "bandera": "🇬🇧",
     "hora": "04:00 (BST); huelga de 4 días (25-28 agosto); piquetes en 8 cocheras de Arriva North London",
-    "fecha": "2026-08-25",
+    "fecha": "2026-08-26",
     "lugar": "Norte de Londres y Essex, Reino Unido: cocheras de Barking, Edmonton, Enfield, Grays, Palmers Green, Stamford Hill, Tottenham y Wood Green",
     "tipoAccion": "huelga laboral",
     "organizaciones": [
       "Unite the Union (sindicato de trabajadores)",
       "Arriva North London (empresa de autobuses)"
     ],
-    "motivo": "Huelga de 4 días de aproximadamente 1.500 conductores de autobuses de Arriva North London en reclamo por las condiciones laborales extremas de calor. Los conductores denuncian que las cabinas alcanzan temperaturas superiores a 40°C durante las olas de calor del verano, provocando casos de golpe de calor, deshidratación y fatiga que ponen en riesgo su seguridad y la de los pasajeros. La mayoría de los autobuses de Arriva cuentan con sistemas de enfriamiento por aire en lugar de aire acondicionado completo, que solo reducen la temperatura entre 2 y 3 grados. Unite rechazó una propuesta de Arriva argumentando que no va lo suficientemente lejos para resolver los problemas de trabajo en clima extremo. La acción industrial afecta a más de 40 rutas de autobús en el norte de Londres, con retrasos y cancelaciones en las líneas Central, Circle, Victoria y Piccadilly del Metro de Londres. Unite programó 16 días adicionales de huelga entre septiembre y octubre si el conflicto no se resuelve.",
+    "motivo": "Segundo día de la huelga de 4 días de aproximadamente 1.500 conductores de autobuses de Arriva North London en reclamo por las condiciones laborales extremas de calor. Los conductores denuncian que las cabinas alcanzan temperaturas superiores a 40°C durante las olas de calor del verano, provocando casos de golpe de calor, deshidratación y fatiga que ponen en riesgo su seguridad y la de los pasajeros. La mayoría de los autobuses de Arriva cuentan con sistemas de enfriamiento por aire en lugar de aire acondicionado completo, que solo reducen la temperatura entre 2 y 3 grados. Unite rechazó una propuesta de Arriva argumentando que no va lo suficientemente lejos. La acción industrial afecta a más de 40 rutas de autobús en el norte de Londres. Unite programó 16 días adicionales de huelga entre septiembre y octubre si el conflicto no se resuelve.",
     "status": "en_curso",
     "lat": 51.589,
     "lng": -0.118,
@@ -739,94 +415,42 @@
       "https://www.upday.com/uk/uknews/1500-bus-drivers-walk-out-over-40degreec-cab-temperatures-four-day-strike-hits-42/lvtbq16"
     ],
     "createdAt": "2026-08-25T18:43:08.000Z",
-    "updatedAt": "2026-08-25T23:59:12Z"
+    "updatedAt": "2026-08-26T01:36:22Z"
   },
   {
-    "id": "int-2026-08-25-spain-ceuta-migration-protest",
-    "seccion": "protestas_int",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "tarde; manifestación ciudadana improvisada por el centro de Ceuta hacia Plaza de los Reyes",
-    "fecha": "2026-08-25",
-    "lugar": "Ceuta, ciudad autónoma española: centro urbano → Plaza de los Reyes",
-    "tipoAccion": "manifestación ciudadana",
-    "organizaciones": [
-      "Vecinos de Ceuta auto-organizados",
-      "Colectivos ciudadanos locales"
-    ],
-    "motivo": "Manifestación multitudinaria e improvisada de aproximadamente 2.000 vecinos de Ceuta en el centro de la ciudad autónoma, en protesta por la crisis migratoria que afecta a la ciudad desde la entrada masiva de más de 72.000 personas desde Marruecos el 30 de julio. Los manifestantes, portando banderas de España, recorrieron las calles del centro hacia la Plaza de los Reyes exigiendo la expulsión de los migrantes irregulares y denunciando el abandono del Gobierno central. La protesta se produce tras 27 días de crisis sin respuestas concretas del ejecutivo de Pedro Sánchez. Los vecinos denuncian que la actividad diaria de la ciudad ha quedado profundamente alterada, afectando playas, parques, restaurantes y negocios. Portavoces de la protesta advirtieron que Ceuta está 'a una chispa de un levantamiento social importante'. La manifestación transcurrió de forma pacífica con algunos altercados puntuales, y contó con el aplauso de los vecinos a los militares desplegados en la ciudad.",
-    "status": "en_curso",
-    "lat": 35.889,
-    "lng": -5.32,
-    "fuentes": [
-      "https://www.abc.es/espana/vecinos-ceuta-tratan-entrar-hotel-delegado-gobierno-20260825185122-nt.html",
-      "https://www.cope.es/programas/la-linterna/audios/multitudinaria-manifestacion-ceuta-todos-mirando-grupo-migrantes-cortes-mangas-les-diciendo-vayan-pacifica-muestra-enfado-ciudad-20260825_3424820.html",
-      "https://www.diariodesevilla.es/videos/video-protesta-vecinal-ceuta-ubicacion-centros_8_2007790823.html"
-    ],
-    "createdAt": "2026-08-25T18:43:08.000Z",
-    "updatedAt": "2026-08-25T23:59:12Z"
-  },
-  {
-    "id": "int-2026-08-25-tunisia-ben-gherdane-migrant-boat-protests",
-    "seccion": "protestas_int",
-    "pais": "Túnez",
-    "bandera": "🇹🇳",
-    "hora": "jornada de protestas por segunda noche consecutiva en Ben Guerdane; bloqueo de carreteras y quema de neumáticos",
-    "fecha": "2026-08-25",
-    "lugar": "Ben Guerdane, sureste de Túnez; también Zarzis, costa suroriental",
-    "tipoAccion": "protesta callejera / bloqueo de vía",
-    "organizaciones": [
-      "Residentes de Ben Guerdane auto-organizados",
-      "Familias de víctimas del naufragio del 21 de agosto"
-    ],
-    "motivo": "Segunda noche consecutiva de protestas violentas en Ben Guerdane tras el naufragio de un barco migrante que partió el 21 de agosto entre Zarzis y Ben Guerdane con 15 personas a bordo (14 de Ben Guerdane y 1 de Zarzis), de las cuales al menos 12 murieron ahogadas. Un sobreviviente fue rescatado tras 48 horas a la deriva y 2 personas siguen desaparecidas. Los manifestantes bloquearon carreteras y quemaron neumáticos exigiendo mejores condiciones de vida y desarrollo económico, denunciando la marginación sistemática de la región. La policía respondió con gas lacrimógeno. Un hospital de Ben Guerdane recibió al menos 19 cadáveres de migrantes recuperados del mar en las últimas 48 horas. Algunos tunecinos pidieron un día nacional de luto. La tragedia ocurre en un contexto de crisis migratoria crónica: el Mediterráneo central es la ruta migratoria más mortífera del mundo, con al menos 821 muertos o desaparecidos en lo que va del año, más del doble que en el mismo período del año anterior.",
-    "status": "en_curso",
-    "lat": 33.3786,
-    "lng": 11.1126,
-    "fuentes": [
-      "https://www.aljazeera.com/news/2026/8/25/search-continues-in-tunisia-after-migrant-boat-sinking-sparks-protests",
-      "https://gulfnews.com/world/mena/tunisia-migrant-boat-tragedy-sparks-clashes-as-death-toll-rises-to-11-1.500650662",
-      "https://worldnews.whatfinger.com/2026/08/25/protests-in-tunisia-following-sinking-of-migrant-boat-that-killed-at-least-11/",
-      "https://mediatalkafrica.com/299574/protests-erupt-in-tunisia-after-migrant-boat-sinks/",
-      "https://zezaptv.com/search-efforts-persist-in-tunisia-following-protests-triggered-by-a-migrant-boat-sinking-incident/"
-    ],
-    "createdAt": "2026-08-25T19:56:15.000Z",
-    "updatedAt": "2026-08-25T23:59:12Z"
-  },
-  {
-    "id": "int-2026-08-25-kenya-nairobi-nurses-strike-procession",
+    "id": "int-2026-08-26-kenya-nairobi-nurses-strike-procession",
     "seccion": "protestas_int",
     "pais": "Kenia",
     "bandera": "🇰🇪",
-    "hora": "10:00 (EAT); procesión desde Green Park hasta Delta Plaza, sede del Consejo de Gobernadores",
-    "fecha": "2026-08-25",
+    "hora": "10:00 (EAT); continuación de huelga nacional de enfermeras (día 29)",
+    "fecha": "2026-08-26",
     "lugar": "Nairobi, Kenia: Green Park → Uhuru Highway → Waiyaki Way → Delta Plaza (Consejo de Gobernadores, Chiromo Road)",
     "tipoAccion": "huelga / procesión / manifestación",
     "organizaciones": [
       "Kenya National Union of Nurses and Midwives (KNUNM)",
       "Enfermeras y parteras de los 47 condados de Kenia"
     ],
-    "motivo": "Día 28 de la huelga nacional de enfermeras y parteras de Kenia, con una procesión masiva programada hacia la sede del Consejo de Gobernadores en Nairobi. La KNUNM exige: implementación del Convenio Colectivo de Trabajo (CBA), implementación de las directrices profesionales para enfermeras y parteras, resolución de la controversia de nómina del programa de Cobertura Universal de Salud (UHC), reincorporación de 46 enfermeras despedidas en el condado de Kisii, y cumplimiento de la Fórmula de Retorno al Trabajo de 2017. La huelga, iniciada el 29 de julio, ha paralizado los servicios de salud en múltiples condados del país. El sindicato advirtió que, si el SRC (Comisión de Salarios y Remuneración) no resuelve el dispute en 7 días, la huelga se ampliará a los hospitales nacionales de referencia. La secretaria general Seth Panyako aseguró que la huelga no se levantará hasta que se implementen todos los acuerdos pendientes.",
+    "motivo": "Día 29 de la huelga nacional de enfermeras y parteras de Kenia. La KNUNM exige: implementación del Convenio Colectivo de Trabajo (CBA), implementación de las directrices profesionales para enfermeras y parteras, resolución de la controversia de nómina del programa de Cobertura Universal de Salud (UHC), reincorporación de 46 enfermeras despedidas en el condado de Kisii, y cumplimiento de la Fórmula de Retorno al Trabajo de 2017. La huelga, iniciada el 29 de julio, ha paralizado los servicios de salud en múltiples condados del país. El sindicato advirtió que, si el SRC (Comisión de Salarios y Remuneración) no resuelve la disputa en 7 días, la huelga se ampliará a los hospitales nacionales de referencia. La secretaria general Seth Panyako aseguró que la huelga no se levantará hasta que se implementen todos los acuerdos pendientes. Las enfermeras rechazaron órdenes judiciales de regresar al trabajo.",
     "status": "en_curso",
     "lat": -1.2864,
     "lng": 36.8172,
     "fuentes": [
       "https://www.aljazeera.com/video/newsfeed/2026/8/25/enough-is-enough-kenya-nurses-strike-over-pay-and-working-conditions",
-      "https://k24.digital/news/thika-superhighway-and-other-nairobi-roads-striking-nurses-plan-to-use-during-protests",
+      "https://citizen.digital/article/nurses-vow-to-continue-strike-reject-court-return-to-work-orders-n388808",
       "https://www.standardmedia.co.ke/national/article/2001556150/nurses-strike-enters-28th-day-as-unions-report-gains-in-county-talks",
       "https://peopledaily.digital/news/nurses-strike-knun-issues-5-demands-ahead-of-planned-protests-in-nairobi",
       "https://www.kenyans.co.ke/news/126423-src-given-7-days-resolve-nurses-dispute-or-face-national-hospital-strike"
     ],
     "createdAt": "2026-08-25T19:56:15.000Z",
-    "updatedAt": "2026-08-25T23:59:12Z"
+    "updatedAt": "2026-08-26T01:36:22Z"
   },
   {
-    "id": "int-2026-08-25-turkey-ankara-miners-energy-ministry",
+    "id": "int-2026-08-26-turkey-ankara-miners-energy-ministry",
     "seccion": "protestas_int",
     "pais": "Turquía",
     "bandera": "🇹🇷",
-    "hora": "jornada continua; acampe frente al Ministerio de Energía y Recursos Naturales en Ankara (día 16); multihuelga laboral de 29 días",
-    "fecha": "2026-08-25",
+    "hora": "jornada continua; acampe frente al Ministerio de Energía y Recursos Naturales en Ankara (día 17); multihuelga laboral de 30 días",
+    "fecha": "2026-08-26",
     "lugar": "Ankara, Turquía: Ministerio de Energía y Recursos Naturales; simultáneamente: sede de Yıldızlar SSS Holding",
     "tipoAccion": "acampe / huelga laboral / manifestación",
     "organizaciones": [
@@ -834,7 +458,7 @@
       "Türkiye Maden-İş (Sindicato de Mineros de Turquía)",
       "Trabajadores de Doruk Madencilik y Eti Gümüş (filiales de Yıldızlar SSS Holding)"
     ],
-    "motivo": "Décimo sexto día de la acampe de mineros frente al Ministerio de Energía en Ankara, exigiendo el pago de salarios, indemnizaciones por antigüedad y derechos laborales adeudados por Yıldızlar SSS Holding y sus filiales Doruk Madencilik y Eti Gümüş. El sindicato Bağımsız Maden-İş advirtió que si el Ministerio no cumple sus promesas y asume responsabilidad antes del martes 26 de agosto, los mineros marcharán colectivamente al Palacio Presidencial el miércoles 27. La protesta más amplia lleva 130 días desde Beypazarı. La acción incluye un novedoso componente de huelga laboral de 29 días por parte de Türkiye Maden-İş frente a la sede del holding. Una delegación de 4 mineros, un abogado y un dirigente sindical fue recibida por primera vez por el Subsecretario de Energía Abdullah Tarcan. El lunes 25, líderes del CHP Özgür Özel y del TİP Erkan Baş visitaron el campamento en señal de solidaridad. Los mineros conmemoraron en silencio la muerte del compañero Erdi Kahveci en un accidente minero en Beypazarı durante el fin de semana.",
+    "motivo": "Décimo séptimo día de la acampe de mineros frente al Ministerio de Energía en Ankara, exigiendo el pago de salarios, indemnizaciones por antigüedad y derechos laborales adeudados por Yıldızlar SSS Holding y sus filiales Doruk Madencilik y Eti Gümüş. El sindicato Bağımsız Maden-İş advirtió que si el Ministerio no cumple sus promesas y asume responsabilidad antes del martes 26 de agosto, los mineros marcharán colectivamente al Palacio Presidencial el miércoles 27. La protesta más amplia lleva más de 130 días desde Beypazarı. La acción incluye un novedoso componente de huelga laboral de 30 días por parte de Türkiye Maden-İş frente a la sede del holding. Líderes del CHP Özgür Özel y del TİP Erkan Baş visitaron el campamento en señal de solidaridad.",
     "status": "en_curso",
     "lat": 39.9334,
     "lng": 32.8597,
@@ -844,41 +468,18 @@
       "https://www.cumhuriyet.com.tr/turkiye/madencilerin-eylemi-16-nci-gununde-ozgur-ozel-de-alanda-2532171",
       "https://distantnews.com/article/protesting-miners-announce-next-phase-if-the-ministry-doesn--6vc7kq5e",
       "https://turkeyunfolding.com/despite-mass-detentions-unpaid-turkish-miners-press-on-with-ankara-protest/",
-      "https://sonhaber.ch/madencilerden-bakanliga-sure-alacaklar-odenmezse-cumhurbaskanligina-yuruyecekler/"
+      "https://www.birgun.net/haber/madencilerin-eylemi-16-nci-gununde-ozgur-ozel-de-direnise-destek-verdi-731024"
     ],
     "createdAt": "2026-08-25T19:56:15.000Z",
-    "updatedAt": "2026-08-25T23:59:12Z"
+    "updatedAt": "2026-08-26T01:36:22Z"
   },
   {
-    "id": "int-2026-08-25-kenya-nairobi-kilimani-demolitions-protest",
-    "seccion": "protestas_int",
-    "pais": "Kenia",
-    "bandera": "🇰🇪",
-    "hora": "jornada de protesta; manifestantes bloquearon la Argwings Kodhek Road en Kilimani",
-    "fecha": "2026-08-25",
-    "lugar": "Nairobi, Kenia: Argwings Kodhek Road, barrio de Kilimani",
-    "tipoAccion": "protesta callejera / bloqueo de vía",
-    "organizaciones": [
-      "Comerciantes de estructuras temporales de Kilimani",
-      "Residents auto-organizados de Argwings Kodhek Road"
-    ],
-    "motivo": "Protesta espontánea de comerciantes y residentes en Kilimani tras la demolición de estructuras temporales por parte de funcionarios del Nairobi City Council a lo largo de la Argwings Kodhek Road. Los manifestantes denuncian que los funcionarios destruyeron sus puestos de trabajo con sus propias manos y herramientas como machetes y barras metálicas, dejando a los comerciantes sin livelihoods y causando el cierre de la vía con consecuencias en el tránsito motorizado. La protesta se produce en un contexto de tensiones crecientes por demoliciones urbanas en Nairobi que afectan a comerciantes informales.",
-    "status": "en_curso",
-    "lat": -1.2921,
-    "lng": 36.7886,
-    "fuentes": [
-      "https://kwetucollections.co.ke/2026/08/25/nairobi-demolitions-spark-protests-in-kilimani/"
-    ],
-    "createdAt": "2026-08-25T20:28:25.000Z",
-    "updatedAt": "2026-08-25T23:59:12Z"
-  },
-  {
-    "id": "int-2026-08-25-india-haryana-sanitation-strike",
+    "id": "int-2026-08-26-india-haryana-sanitation-strike",
     "seccion": "protestas_int",
     "pais": "India",
     "bandera": "🇮🇳",
-    "hora": "huelga indefinida día 19; enfrentamientos con policía durante operativos de limpieza",
-    "fecha": "2026-08-25",
+    "hora": "huelga indefinida día 20; enfrentamientos con policía durante operativos de limpieza",
+    "fecha": "2026-08-26",
     "lugar": "Karnal, Yamunanagar, Hisar, Bhiwani, Kurukshetra y múltiples ciudades de Haryana, India",
     "tipoAccion": "huelga laboral / enfrentamiento",
     "organizaciones": [
@@ -886,7 +487,7 @@
       "Trabajadores municipales de limpieza",
       "Trabajadores de emergencias (bomberos)"
     ],
-    "motivo": "Décimo noveno día de huelga indefinida de trabajadores sanitarios municipales en el estado de Haryana, India. Los manifestantes denuncian condiciones laborales precarias y exigen la regularización de su empleo. El gobierno estatal aceptó 13 de las 14 demandas principales, pero se niega a la regularización masiva de personal ad-hoc por razones legales y constitucionales. Durante el fin de semana, las autoridades municipales intentaron realizar operativos de limpieza con maquinaria pesada (JCB, camiones), lo que provocó enfrentamientos con los huelguistas que intentaron bloquear los trabajos. La policía detuvo a trabajadores en Hisar, Charkhi Dadri, Yamunanagar y Dabwali. Se acumularon aproximadamente 700 toneladas métricas de basura sin recolectar. El ministro Vipul Goel pidió a los trabajadores retomar las labores y ofreció concesiones financieras sustanciales para compensar la falta de regularización, pero el sindicato mantiene su postura.",
+    "motivo": "Décimo vigésimo día de huelga indefinida de trabajadores sanitarios municipales en el estado de Haryana, India. Los manifestantes denuncian condiciones laborales precarias y exigen la regularización de su empleo. El gobierno estatal aceptó 13 de las 14 demandas principales, pero se niega a la regularización masiva de personal ad-hoc por razones legales y constitucionales. Durante el fin de semana, las autoridades municipales intentaron realizar operativos de limpieza con maquinaria pesada (JCB, camiones), lo que provocó enfrentamientos con los huelguistas que intentaron bloquear los trabajos. La policía detuvo a trabajadores en varias ciudades. Se acumularon aproximadamente 700 toneladas métricas de basura sin recolectar. El ministro Vipul Goel pidió a los trabajadores retomar las labores y ofreció concesiones financieras sustanciales, pero el sindicato mantiene su postura de regularización.",
     "status": "en_curso",
     "lat": 29.6857,
     "lng": 76.9905,
@@ -896,15 +497,15 @@
       "https://www.newsbytesapp.com/news/india/haryana-municipal-teams-resume-waste-clearing-after-13-demands-accepted/tldr"
     ],
     "createdAt": "2026-08-25T20:56:35.000Z",
-    "updatedAt": "2026-08-25T23:59:12Z"
+    "updatedAt": "2026-08-26T01:36:22Z"
   },
   {
-    "id": "int-2026-08-25-india-jharkhand-bpsc-student-protest",
+    "id": "int-2026-08-26-india-jharkhand-bpsc-student-protest",
     "seccion": "protestas_int",
     "pais": "India",
     "bandera": "🇮🇳",
-    "hora": "jornada de manifestación; marcha desde Gandhi Maidan hacia la residencia del gobernador en Ranchi",
-    "fecha": "2026-08-25",
+    "hora": "jornada de manifestación; continuación de protestas en Gandhi Maidan y Ranchi",
+    "fecha": "2026-08-26",
     "lugar": "Ranchi, Jharkhand, India: Gandhi Maidan → residencia del gobernador; también Giridih y Hazaribag",
     "tipoAccion": "manifestación estudiantil / marcha",
     "organizaciones": [
@@ -912,7 +513,7 @@
       "Estudiantes aspirantes a reclutamiento estatal de Jharkhand",
       "All Bihar Students' Union"
     ],
-    "motivo": "Manifestación masiva de estudiantes en Ranchi y otras ciudades de Jharkhand contra las irregularidades en exámenes de reclutamiento gubernamental (JPSC y JSSC-CGL), exigiendo la cancelación de exámenes sospechosos de filtración de preguntas (paper leak), una investigación del CBI en lugar de la CID estatal, y mayor transparencia en el proceso de selección. Los manifestantes marcharon desde Gandhi Maidan hacia la residencia del gobernador, enfrentándose con la policía que usó gases lacrimógenos y cañones de agua. La policía detuvo a docenas de manifestantes. La protesta se intensificó tras la publicación de nuevos FIRs contra más de 900 personas no identificadas por incidentes del 21 de agosto en Hazaribag y Giridih, donde los manifestantes intentaron quemar efigies del CM Hemant Soren. La CID-SIT ha interrogado a más de 100 candidatos hasta la fecha. El movimiento estudiantil lleva más de un mes en curso, habiendo comenzado el 25 de julio.",
+    "motivo": "Continuación de las manifestaciones masivas de estudiantes en Ranchi y otras ciudades de Jharkhand contra las irregularidades en exámenes de reclutamiento gubernamental (JPSC y JSSC-CGL), exigiendo la cancelación de exámenes sospechosos de filtración de preguntas (paper leak), una investigación del CBI en lugar de la CID estatal, y mayor transparencia en el proceso de selección. La protesta se intensificó tras la publicación de nuevos FIRs contra más de 900 personas no identificadas por incidentes del 21 de agosto en Hazaribag y Giridih. La CID-SIT ha interrogado a más de 100 candidatos hasta la fecha. El movimiento estudiantil lleva más de un mes en curso, habiendo comenzado el 25 de julio.",
     "status": "en_curso",
     "lat": 23.3441,
     "lng": 85.3096,
@@ -924,62 +525,31 @@
       "https://vividhbharathi.com/jharkhand-exam-irregularities-over-100-candidates-questioned-as-cid-sit-expands-probe/"
     ],
     "createdAt": "2026-08-25T22:23:23.000Z",
-    "updatedAt": "2026-08-25T23:59:12Z"
+    "updatedAt": "2026-08-26T01:36:22Z"
   },
   {
-    "id": "int-2026-08-25-colombia-bogota-patio-bonito-transmilenio-protest",
+    "id": "int-2026-08-26-mexico-cdmx-marcha-ayotzinapa",
     "seccion": "protestas_int",
-    "pais": "Colombia",
-    "bandera": "🇨🇴",
-    "hora": "jornada continua de bloqueo; manifestantes bloquean la Av. Ciudad de Cali con calle 40B Sur desde el 24 de agosto, continuando el 25 de agosto",
-    "fecha": "2026-08-25",
-    "lugar": "Bogotá, Colombia: avenida Ciudad de Cali con calle 40B Sur, suroccidente de Bogotá; estaciones de TransMilenio afectadas: Tibanica-Primavera, Laureles, Islandia, Portal de las Américas y Biblioteca Tintal",
-    "tipoAccion": "bloqueo vial / manifestación ciudadana",
+    "pais": "México",
+    "bandera": "🇲🇽",
+    "hora": "16:00 (CST, UTC-6); marcha desde el Ángel de la Independencia hasta el Hemiciclo a Juárez en la Alameda Central",
+    "fecha": "2026-08-26",
+    "lugar": "Ciudad de México: Ángel de la Independencia → Paseo de la Reforma → Hemiciclo a Juárez, Alameda Central",
+    "tipoAccion": "marcha nacional",
     "organizaciones": [
-      "Habitantes de los barrios Patio Bonito y El Tintal",
-      "Líderes comunitarios del suroccidente de Bogotá"
+      "CNTE (Coordinadora Nacional de Trabajadores de la Educación)",
+      "Movimiento por la Paz con Justicia y Dignidad",
+      "Familiares de los 43 normalistas de Ayotzinapa",
+      "Colectivos de víctimas y movimientos sociales"
     ],
-    "motivo": "Bloqueo de la avenida Ciudad de Cali con calle 40B Sur en el suroccidente de Bogotá, iniciado el lunes 24 de agosto y continuando el martes 25 de agosto, en reclamo por la demora en la apertura de la estación Patio Bonito de TransMilenio. Los manifestantes denuncian que la obra lleva años postergada y que la falta de acceso directo obliga a miles de usuarios a recorrer largas distancias. La medida paralizó el tránsito en una de las principales vías del suroccidente de la capital y obligó a cerrar temporalmente cinco estaciones de TransMilenio (Tibanica-Primavera, Laureles, Islandia, Portal de las Américas y Biblioteca Tintal), afectando a más de 20.000 usuarios según reportes de TransMilenio. El director del IDU, Orlando Molano, indicó que la estación Patio Bonito será entregada en octubre de 2026 como parte del grupo 3 de la troncal de la avenida Ciudad de Cali. La Unidad Nacional de Diálogo y Mantenimiento del Orden (UNDMO) se hizo presente en el sector.",
+    "motivo": "Marcha Nacional por Ayotzinapa convocada para el 26 de agosto de 2026, que parte desde el Ángel de la Independencia a las 16:00 con destino al Hemiciclo a Juárez en la Alameda Central. La marcha se realiza en el marco del undécimo aniversario de la desaparición forzada de los 43 estudiantes normalistas de Ayotzinapa (26 de septiembre de 2014) y exige justicia, verdad y reparación para las víctimas. Los manifestantes denuncian la falta de avances en la investigación, la protección de testigos y la impunidad generalizada. La marcha reúne a familiares de las víctimas, colectivos de derechos humanos, organizaciones de la sociedad civil y movimientos sociales que demandan que el Estado mexicano cumpla con sus compromisos de esclarecer el caso y sancionar a los responsables.",
     "status": "en_curso",
-    "lat": 4.6083,
-    "lng": -74.1792,
+    "lat": 19.4326,
+    "lng": -99.1332,
     "fuentes": [
-      "https://redmas.com.co/manifestaciones-en-bogota-hoy--protestas-afectan-transmilenio-este-martes-25-de-agosto-bloqueos-y-mas-reportes-lb202608250002.html",
-      "https://www.infobae.com/colombia/2026/08/24/por-protestas-hay-caos-en-el-transito-en-el-sur-de-bogota-cerrado-el-portal-de-las-americas-de-transmilenio-y-al-menos-cuatro-estaciones-mas/",
-      "https://caracol.com.co/2026/08/24/en-vivo-bloqueos-en-transmilenio-al-suroccidente-de-bogota-usuarios-afectados-desvios-y-mas/",
-      "https://citytv.eltiempo.com/noticias/movilidad/protesta-en-patio-bonito-bloquea-la-avenida-ciudad-de-cali-y-afecta-transmilenio_94546",
-      "https://www.colombia.com/actualidad/nacionales/protestas-paralizan-transmilenio-en-el-sur-de-bogota-estas-estaciones-estan-cerradas-597383",
-      "https://www.noticiasrcn.com/colombia/marchas-y-manifestaciones-bogota-24-al-30-de-agosto-1053939"
+      "https://www.nmas.com.mx/ciudad-de-mexico/movilidad/marchas/marcha-nacional-ayotzinapa-2026-a-que-hora-es-protesta-26-de-agosto-2026-cdmx/"
     ],
-    "createdAt": "2026-08-25T23:22:24.000Z",
-    "updatedAt": "2026-08-25T23:59:12Z"
-  },
-  {
-    "id": "int-2026-08-25-romania-bucharest-ministry-labour-minimum-wage-protest",
-    "seccion": "protestas_int",
-    "pais": "Rumanía",
-    "bandera": "🇷🇴",
-    "hora": "11:00–13:00 (EEST); protesta frente al Ministerio del Trabajo en Bucarest",
-    "fecha": "2026-08-25",
-    "lugar": "Bucarest, Rumanía: sede del Ministerio del Trabajo, Familia, Juventud y Solidaridad Social",
-    "tipoAccion": "protesta sindical",
-    "organizaciones": [
-      "Cartel Alfa (federación sindical)",
-      "Federación de Sindicatos del Comercio",
-      "Federación Nacional de Sindicatos de la Industria, Tecnología de la Información, Comunicaciones e Industria Financiera",
-      "Múltiples sindicatos sectoriales de Rumanía"
-    ],
-    "motivo": "Protesta de dos horas convocada por múltiples federaciones sindicales frente al Ministerio del Trabajo en Bucarest, exigiendo el aumento del salario mínimo nacional a partir del 1 de enero de 2027 y la reanudación de las negociaciones colectivas sectoriales y nacionales, que llevan bloqueadas. Los sindicatos argumentan que un salario mínimo adecuado no puede determinarse únicamente a nivel central sin considerar las realidades de cada sector productivo. La protesta fue autorizada para 150 personas y tuvo lugar en un contexto de creciente tensión laboral en el sector público rumano, donde la Ley de Salarios aprobada en junio generó rechazo entre trabajadores de la salud, finanzas y justicia.",
-    "status": "finalizada",
-    "lat": 44.4323,
-    "lng": 26.0998,
-    "fuentes": [
-      "https://www.romania-insider.com/unions-minimum-wage-hike-demand-august-2026",
-      "https://informat.ro/en/current-affairs/the-unions-are-protesting-for-an-increase-in-the-minimum-wage-and-the-unlocking-of-negotiations-136211",
-      "https://www.rri.ro/en/news-and-current-affairs/newsflash/august-25-2026-id1053713.html",
-      "https://agerpres.ro/english/2026/08/25/trade-unions-protest-against-blockage-in-collective-bargaining-in-private-sector--1587582"
-    ],
-    "createdAt": "2026-08-25T23:48:14.000Z",
-    "updatedAt": "2026-08-25T23:59:12Z"
+    "createdAt": "2026-08-26T01:07:55.000Z",
+    "updatedAt": "2026-08-26T01:36:22Z"
   }
 ]
