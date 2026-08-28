@@ -35,7 +35,7 @@
       "https://www.infobae.com/sociedad/2026/08/23/docentes-de-universidades-pararan-por-48-horas-ante-la-falta-de-cumplimento-de-la-ley-de-financiamiento-univeristario/"
     ],
     "createdAt": "2026-08-27T00:29:03.000Z",
-    "updatedAt": "2026-08-28T05:10:04Z"
+    "updatedAt": "2026-08-28T17:45:00Z"
   },
   {
     "id": "ar-2026-08-28-sutef-paro-48h-tierra-del-fuego",
@@ -65,7 +65,7 @@
       "https://fmfuego.com.ar/gremiales/el-ministerio-de-educacion-convoco-a-sutef-en-la-cuarta-semana-de-paro-docente.htm"
     ],
     "createdAt": "2026-08-25T04:37:53.000Z",
-    "updatedAt": "2026-08-28T05:10:04Z"
+    "updatedAt": "2026-08-28T17:45:00Z"
   },
   {
     "id": "ar-2026-08-28-acampe-ioma-la-plata",
@@ -98,36 +98,36 @@
       "https://laplataherald.com/nota/2439/acampe-frente-a-ioma-que-reclaman-las-familias-por-las-prestaciones-de-discapacidad/"
     ],
     "createdAt": "2026-08-25T05:33:20.000Z",
-    "updatedAt": "2026-08-28T05:10:04Z"
+    "updatedAt": "2026-08-28T17:45:00Z"
   },
   {
-    "id": "int-2026-08-28-india-delhi-iit-student-protest",
-    "seccion": "protestas_int",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "jornada continua; protesta estudiantil en cuarto día consecutivo en el campus del IIT Delhi",
+    "id": "ar-2026-08-28-cgt-cta-movilizacion-salario-minimo",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "movilización programada frente a la Secretaría de Trabajo en coincidencia con la reunión del Consejo del Salario (12:30); modalidad presencial reclamada y rechazada por el Gobierno (reunión virtual)",
     "fecha": "2026-08-28",
-    "lugar": "Nueva Delhi, India: campus del IIT Delhi, Lecture Hall Complex y oficina del director Rangan Banerjee",
-    "tipoAccion": "protesta estudiantil / sentada",
+    "lugar": "Ciudad de Buenos Aires: Av. Leandro N. Alem 650, frente a la Secretaría de Trabajo de la Nación",
+    "tipoAccion": "movilización / manifestación",
     "organizaciones": [
-      "Estudiantes de IIT Delhi",
-      "Jawaharlal Nehru University Students' Union (JNUSU)",
-      "All India Students' Association (AISA)"
+      "CGT (Confederación General del Trabajo)",
+      "CTA Autónoma",
+      "CTA de los Trabajadores"
     ],
-    "motivo": "Cuarto día consecutivo de la protesta estudiantil en IIT Delhi tras la muerte de Rishikesh Kumar, estudiante de MSc Física de 31 años, quien murió el 22 de agosto tras caer del sexto piso del Lecture Hall Complex. Cientos de estudiantes continúan reunidos en la oficina del director Rangan Banerjee exigiendo responsabilidad administrativa. Las demandas principales incluyen: investigación independiente sobre las fallas administrativas que contribuyeron a la muerte de Kumar, renuncia del decano y subdecanos de bienestar estudiantil, compensación de 1 crore de rupias para la familia, y transparencia en los protocolos de salud mental del instituto. Los estudiantes denuncian que Kumar fue negado alojamiento en el campus y proyectos de investigación, lo que lo llevó a vivir fuera del campus en condiciones de estrés financiero. Kumar es el octavo estudiante de IIT Delhi en morir por suicidio en los últimos 30 meses. Las clases permanecen suspendidas desde el 24 de agosto. El instituto constituyó un comité de investigación externo de 5 miembros, pero los estudiantes insisten en que las renuncias son indispensables.",
+    "motivo": "La CGT y las dos CTA convocaron a una movilización frente a la Secretaría de Trabajo el viernes 28 de agosto en reclamo de una fuerte recomposición del Salario Mínimo, Vital y Móvil (SMVM), cuyo valor actual es de $376.600, frente a una canasta básica familiar de más de $1,5 millones. Las centrales obreras reclamaron que la reunión del Consejo del Salario se realizara de forma presencial, pedido que el Gobierno rechazó al mantener la modalidad virtual. CGT y CTA exigen un piso salarial que cubra la canasta básica y denuncian la pérdida sostenida del poder adquisitivo, la destrucción de empleo registrado y la precarización laboral.",
     "status": "en_curso",
-    "lat": 28.5451,
-    "lng": 77.1929,
+    "lat": -34.6037,
+    "lng": -58.3758,
     "fuentes": [
-      "https://theprint.in/feature/iit-delhi-student-protest-suicides-resignation-rishikesh-kumar/3024125/",
-      "https://timesofindia.indiatimes.com/city/delhi/system-needs-to-take-a-pause-protest-erupts-at-iit-delhi-days-after-students-death/articleshow/133475319.cms",
-      "https://www.thehindu.com/news/cities/Delhi/iit-delhi-students-protest-after-student-death-allege-institutional-negligence/article71384550.ece",
-      "https://www.newindianexpress.com/cities/delhi/2026/Aug/25/iit-students-seek-action-after-msc-students-death-by-suicide",
-      "https://www.outlookindia.com/national/protestors-in-iit-delhi-demand-accountability-1-crore-compensation-over-msc-students-death",
-      "https://indianexpress.com/article/cities/delhi/fresh-protests-erupt-at-iit-delhi-after-students-death-by-suicide-10849423/"
+      "https://www.infobae.com/politica/2026/08/24/la-cgt-y-las-cta-analizan-movilizarse-este-viernes-ante-trabajo-en-reclamo-de-un-fuerte-aumento-del-salario-minimo/",
+      "https://mundogremial.com/el-gobierno-ratifico-la-virtualidad-del-consejo-del-salario-y-la-cgt-junto-a-las-cta-planean-movilizar-a-trabajo/",
+      "https://www.c5n.com/economia/consejo-salario-reunion-nuevo-salario-minimo-viernes-28-agosto-2026",
+      "https://www.eltribuno.com/nacionales/2026-8-28-7-52-0-el-gobierno-impulsa-un-salario-minimo-de-1-000-000-y-la-cgt-de-1-500-000",
+      "https://www.a24.com/economia/el-gobierno-reune-sindicatos-y-empresarios-definir-un-aumento-del-salario-minimo-vital-y-movil-n1590498",
+      "https://www.elmarplatense.com/tension-por-el-salario-minimo-la-cgt-y-las-cta-evaluan-marchar-este-viernes-contra-el-gobierno"
     ],
-    "createdAt": "2026-08-25T07:50:12.000Z",
-    "updatedAt": "2026-08-28T05:10:04Z"
+    "createdAt": "2026-08-28T17:37:31.000Z",
+    "updatedAt": "2026-08-28T17:45:00Z"
   },
   {
     "id": "int-2026-08-28-paraguay-asuncion-medicos-huelga-medanos",
@@ -155,35 +155,7 @@
       "https://www.paraguainews.com.br/noticia/medicos-convocam-mobilizacao-nacional-para-reivindicar-melhorias-laborais-e-salariais"
     ],
     "createdAt": "2026-08-25T11:00:58.000Z",
-    "updatedAt": "2026-08-28T05:10:04Z"
-  },
-  {
-    "id": "int-2026-08-28-pakistan-ji-lahore-sit-in-petroleum-levy",
-    "seccion": "protestas_int",
-    "pais": "Pakistán",
-    "bandera": "🇵🇰",
-    "hora": "jornada continua; acamada en Faisal Chowk, Mall Road, Lahore (décimo día consecutivo); paro nacional shutter-down",
-    "fecha": "2026-08-28",
-    "lugar": "Lahore, Pakistán: Faisal Chowk, Mall Road; simultáneamente: Peshawar, Karachi, Hyderabad, Quetta y campamento en Sector G-7/3, Islamabad",
-    "tipoAccion": "acampada / paro nacional / sentada",
-    "organizaciones": [
-      "Jamaat-e-Islami (JI)",
-      "Hafiz Naeemur Rehman (Emir de JI)",
-      "Trabajadores y simpatizantes de JI en Lahore, Karachi, Peshawar, Quetta e Islamabad"
-    ],
-    "motivo": "Décimo día consecutivo de la acampada de Jamaat-e-Islami en Faisal Chowk, Lahore, contra el impuesto petrolero (petroleum levy) y la inflación. JI también convocó un paro nacional shutter-down para este día. El Emir Hafiz Naeemur Rehman anunció la expansión del movimiento a otras ciudades y la apertura de un campamento de protesta en el Sector G-7/3 de Islamabad. JI exige la abolición total del petroleum levy, que ha encarecido la gasolina a Rs341,59/litro y el diésel a Rs368,29/litro. Rechazó una invitación del gobierno para negociar en Islamabad, exigiendo que las conversaciones se realicen en el lugar de la protesta. Anunció un shutter-down strike para el 13 de Rabiul Awwal y una futura marcha masiva hacia Islamabad. La protesta es la movilización callejera más grande de Lahore este año, con participación creciente incluyendo mujeres. Los sit-ins en Karachi y Peshawar también continúan.",
-    "status": "en_curso",
-    "lat": 31.5204,
-    "lng": 74.3587,
-    "fuentes": [
-      "https://www.brecorder.com/news/40436514/ji-sit-in-enters-10th-day-as-hafiz-naeem-steps-up-pressure-on-govt",
-      "https://dunyanews.tv/en/Pakistan/969559-ji-announces-extending-sitin-against-petroleum-levy",
-      "https://www.thenews.pk/story/1433778-ji-sit-ins-against-high-petroleum-levy-continue-nationwide",
-      "https://tribune.com.pk/story/2625407/ji-chief-announces-nationwide-strike-long-march-towards-islamabad-after-12-rabiul-awwal",
-      "https://www.lhrtimes.com/2026/08/24/ji-hardens-lahore-sit-in-into-three-stage-campaign-ties-end-of-protest-to-withdrawal-of-petroleum-levy/"
-    ],
-    "createdAt": "2026-08-25T14:56:59.000Z",
-    "updatedAt": "2026-08-28T05:10:04Z"
+    "updatedAt": "2026-08-28T17:45:00Z"
   },
   {
     "id": "int-2026-08-28-spain-airbus-indefinite-strike",
@@ -212,7 +184,7 @@
       "https://cincodias.elpais.com/companias/2026-08-24/la-plantilla-de-airbus-ratifica-la-huelga-indefinida-en-las-primeras-votaciones-de-la-manana.html"
     ],
     "createdAt": "2026-08-25T16:33:28.000Z",
-    "updatedAt": "2026-08-28T05:10:04Z"
+    "updatedAt": "2026-08-28T17:45:00Z"
   },
   {
     "id": "int-2026-08-28-india-jharkhand-left-parties-mmdr-protest",
@@ -242,7 +214,7 @@
       "https://www.timesnowhindi.com/cities/left-parties-to-launch-week-long-protest-against-mmdr-amendment-bill-in-jharkhand-article-155889723"
     ],
     "createdAt": "2026-08-25T17:28:21.000Z",
-    "updatedAt": "2026-08-28T05:10:04Z"
+    "updatedAt": "2026-08-28T17:45:00Z"
   },
   {
     "id": "int-2026-08-28-uk-london-arriva-bus-drivers-strike-heat",
@@ -268,34 +240,7 @@
       "https://www.upday.com/uk/uknews/1500-bus-drivers-walk-out-over-40degreec-cab-temperatures-four-day-strike-hits-42/lvtbq16"
     ],
     "createdAt": "2026-08-25T18:43:08.000Z",
-    "updatedAt": "2026-08-28T05:10:04Z"
-  },
-  {
-    "id": "int-2026-08-28-kenya-nairobi-nurses-strike-procession",
-    "seccion": "protestas_int",
-    "pais": "Kenia",
-    "bandera": "🇰🇪",
-    "hora": "10:00 (EAT); continuación de huelga nacional de enfermeras (día 29)",
-    "fecha": "2026-08-28",
-    "lugar": "Nairobi, Kenia: Green Park → Uhuru Highway → Waiyaki Way → Delta Plaza (Consejo de Gobernadores, Chiromo Road)",
-    "tipoAccion": "huelga / procesión / manifestación",
-    "organizaciones": [
-      "Kenya National Union of Nurses and Midwives (KNUNM)",
-      "Enfermeras y parteras de los 47 condados de Kenia"
-    ],
-    "motivo": "Día 29 de la huelga nacional de enfermeras y parteras de Kenia. La KNUNM exige: implementación del Convenio Colectivo de Trabajo (CBA), implementación de las directrices profesionales para enfermeras y parteras, resolución de la controversia de nómina del programa de Cobertura Universal de Salud (UHC), reincorporación de 46 enfermeras despedidas en el condado de Kisii, y cumplimiento de la Fórmula de Retorno al Trabajo de 2017. La huelga, iniciada el 29 de julio, ha paralizado los servicios de salud en múltiples condados del país. El sindicato advirtió que, si el SRC (Comisión de Salarios y Remuneración) no resuelve la disputa en 7 días, la huelga se ampliará a los hospitales nacionales de referencia. La secretaria general Seth Panyako aseguró que la huelga no se levantará hasta que se implementen todos los acuerdos pendientes. Las enfermeras rechazaron órdenes judiciales de regresar al trabajo.",
-    "status": "en_curso",
-    "lat": -1.2864,
-    "lng": 36.8172,
-    "fuentes": [
-      "https://www.aljazeera.com/video/newsfeed/2026/8/25/enough-is-enough-kenya-nurses-strike-over-pay-and-working-conditions",
-      "https://citizen.digital/article/nurses-vow-to-continue-strike-reject-court-return-to-work-orders-n388808",
-      "https://www.standardmedia.co.ke/national/article/2001556150/nurses-strike-enters-28th-day-as-unions-report-gains-in-county-talks",
-      "https://peopledaily.digital/news/nurses-strike-knun-issues-5-demands-ahead-of-planned-protests-in-nairobi",
-      "https://www.kenyans.co.ke/news/126423-src-given-7-days-resolve-nurses-dispute-or-face-national-hospital-strike"
-    ],
-    "createdAt": "2026-08-25T19:56:15.000Z",
-    "updatedAt": "2026-08-28T05:10:04Z"
+    "updatedAt": "2026-08-28T17:45:00Z"
   },
   {
     "id": "int-2026-08-28-india-haryana-sanitation-strike",
@@ -321,7 +266,7 @@
       "https://www.newsbytesapp.com/news/india/haryana-municipal-teams-resume-waste-clearing-after-13-demands-accepted/tldr"
     ],
     "createdAt": "2026-08-25T20:56:35.000Z",
-    "updatedAt": "2026-08-28T05:10:04Z"
+    "updatedAt": "2026-08-28T17:45:00Z"
   },
   {
     "id": "int-2026-08-28-bolivia-beni-bloqueo-arroceros-diesel",
@@ -350,7 +295,7 @@
       "https://www.radiofides.com/sociedad/arroceros-bloquearan-la-carretera-trinidad-santa-cruz-desde-el-miercoles-y-exigiran-la-abrogacion-del-ds-5676"
     ],
     "createdAt": "2026-08-26T02:45:30.000Z",
-    "updatedAt": "2026-08-28T05:10:04Z"
+    "updatedAt": "2026-08-28T17:45:00Z"
   },
   {
     "id": "int-2026-08-28-india-pune-tribal-students-hunger-strike",
@@ -377,7 +322,7 @@
       "https://www.thehindu.com/news/national/maharashtra/pune-tribal-students-continue-hunger-strike-for-10th-consecutive-day/article71382076.ece"
     ],
     "createdAt": "2026-08-26T02:45:30.000Z",
-    "updatedAt": "2026-08-28T05:10:04Z"
+    "updatedAt": "2026-08-28T17:45:00Z"
   },
   {
     "id": "int-2026-08-28-georgia-tbilisi-636th-day-proeu",
@@ -402,7 +347,7 @@
       "https://jam-news.net/when-the-state-serves-an-oligarch-villages-and-cities-empty-out-video-podcast-protests-in-georgia/"
     ],
     "createdAt": "2026-08-26T08:38:54.000Z",
-    "updatedAt": "2026-08-28T05:10:04Z"
+    "updatedAt": "2026-08-28T17:45:00Z"
   },
   {
     "id": "int-2026-08-28-albania-tirana-88th-day-anti-gov-protest",
@@ -428,32 +373,7 @@
       "https://balkanweb.com/en/88-days-in-the-square--Albanians-do-not-give-up--we-protest-until-Rama-and-the-government-leave./"
     ],
     "createdAt": "2026-08-26T11:55:57.000Z",
-    "updatedAt": "2026-08-28T05:10:04Z"
-  },
-  {
-    "id": "int-2026-08-28-south-korea-kia-partial-walkout",
-    "seccion": "protestas_int",
-    "pais": "Corea del Sur",
-    "bandera": "🇰🇷",
-    "hora": "jornada de huelga parcial; piquetes en la planta de Kia en Hwaseong",
-    "fecha": "2026-08-28",
-    "lugar": "Planta de Kia, Hwaseong, Gyeonggi, Corea del Sur (y otras plantas de affiliates automotrices)",
-    "tipoAccion": "huelga parcial",
-    "organizaciones": [
-      "Sindicato de Kia Corp (rama de Korean Metal Workers' Union)",
-      "Trabajadores de affiliates automotrices de Hyundai-Kia"
-    ],
-    "motivo": "Inicio de huelgas parciales del sindicato de Kia Corp que se extenderán del 26 al 28 de agosto, en un contexto de escalada de conflictos laborales en la industria automotriz surcoreana. Las acciones parciales de Kia se producen tras la huelga completa de un día de Hyundai Motor el 21 de agosto (la primera en una década) y huelgas parciales acumuladas de 60 horas. Los trabajadores de Kia exigen un aumento salarial del 149.600 wones básicos, un bono de desempeño del 30% de las ganancias operativas del año pasado, y protecciones laborales frente a la automatización e inteligencia artificial. La dirección de Kia había mantenido una moratoria de disputas laborales de 2021 a 2025, pero las negociaciones de este año han fracasado. El resultado de las negociaciones de Hyundai (que alcanzó un acuerdo preliminar el 25 de agosto) se espera que influya directamente en la course de las negociaciones de Kia.",
-    "status": "en_curso",
-    "lat": 37.2,
-    "lng": 127.07,
-    "fuentes": [
-      "https://en.sedaily.com/finance/2026/08/24/hyundai-motor-union-delays-strike-resumes-talks-kia-plans",
-      "https://www.koreajoongangdaily.com/business/labor-unrest-grips-ulsan-as-strikes-spread-beyond-factory-floors/12839515",
-      "https://www.reuters.com/business/world-at-work/hyundai-motors-union-stages-first-full-strike-10-years-over-wage-talks-2026-08-21/"
-    ],
-    "createdAt": "2026-08-26T13:51:49.000Z",
-    "updatedAt": "2026-08-28T05:10:04Z"
+    "updatedAt": "2026-08-28T17:45:00Z"
   },
   {
     "id": "int-2026-08-28-spain-madrid-barajas-sate-partial-strike",
@@ -476,7 +396,7 @@
       "https://myflyright.com/es/blog/airline-airport-strikes-august-september-2026/"
     ],
     "createdAt": "2026-08-27T00:29:03.000Z",
-    "updatedAt": "2026-08-28T05:10:04Z"
+    "updatedAt": "2026-08-28T17:45:00Z"
   },
   {
     "id": "int-2026-08-28-usa-washington-march-defend-the-vote",
@@ -503,6 +423,111 @@
       "https://www.mobilize.us/peoplepowerunited/event/996988/"
     ],
     "createdAt": "2026-08-28T05:05:24.000Z",
-    "updatedAt": "2026-08-28T05:10:04Z"
+    "updatedAt": "2026-08-28T17:45:00Z"
+  },
+  {
+    "id": "int-2026-08-28-indonesia-jakarta-dpr-antikorrupcion",
+    "seccion": "protestas_int",
+    "pais": "Indonesia",
+    "bandera": "🇮🇩",
+    "hora": "protesta desde la mañana; concentraciones frente al complejo legislativo DPR/MPR en Senayan; despliegue de fuerzas de seguridad y TNI",
+    "fecha": "2026-08-28",
+    "lugar": "Yakarta, Indonesia: complejo legislativo DPR/MPR (Senayan), estación de autobuses Kemanggisan, torre BNI Pejompongan y estación Peamburan (Jakarta Central y Occidental)",
+    "tipoAccion": "manifestación / marcha / concentración",
+    "organizaciones": [
+      "Alianza del Pueblo Unido de Pati (AMPB)",
+      "Estudiantes del Movimiento de Responsabilidad del Pueblo",
+      "Trabajadores y sindicatos",
+      "Conductores de mototaxis (ojol)",
+      "Sociedad civil anticorrupción"
+    ],
+    "motivo": "Miles de manifestantes continúan en Yakarta exigiendo la aprobación inmediata de la Ley de Incautación de Activos (Asset Forfeiture Bill) para combatir la corrupción, además de reformas políticas, sociales y económicas, y la pena de muerte para corruptos. El movimiento, liderado inicialmente por la AMPB de Pati (Java Central) y unido por estudiantes, trabajadores, conductores de mototaxis y otros sectores, denuncia la corrupción como causa del deterioro económico. El 27 de agosto la Cámara de Representantes (DPR) fijó el plazo del 15 de diciembre de 2026 para aprobar la ley, demanda central de los manifestantes. En paralelo, grupos (incluidos estudiantes) exigen mayor rendición de cuentas del gobierno de Prabowo, protección social y el fin de ciertos programas como las comidas gratuitas (MBG). La policía reportó manifestaciones activas en varias ubicaciones el 28 de agosto, con despliegue reforzado de seguridad (más de 18.500 efectivos) y fuerzas del TNI; grupos de manifestantes que se negaron a dispersarse fueron desalojados y hubo detenciones (la policía nombró 45 sospechosos por disturbios).",
+    "status": "en_curso",
+    "lat": -6.2088,
+    "lng": 106.8456,
+    "fuentes": [
+      "https://www.aljazeera.com/news/2026/8/28/indonesians-march-on-parliament-to-demand-crackdown-on-corruption",
+      "https://id.usembassy.gov/demonstration-alert-protests-in-jakarta-august-28-2026/",
+      "https://gutzy.asia/2026/08/28/indonesia-protests-demand-passage-of-bill-to-seize-assets-linked-to-corruption",
+      "https://jakartaglobe.id/news/jakarta-protest-parliament-sets-dec-15-deadline-for-assetforfeiture-bill",
+      "https://en.tempo.co/read/2118462/how-slipi-looks-after-the-aug-27-dpr-demonstration",
+      "https://www.channelnewsasia.com/asia/indonesia-protest-jakarta-parliament-6345171"
+    ],
+    "createdAt": "2026-08-28T17:35:34.000Z",
+    "updatedAt": "2026-08-28T17:45:00Z"
+  },
+  {
+    "id": "int-2026-08-28-nigeria-universidades-huelga-sindicatos",
+    "seccion": "protestas_int",
+    "pais": "Nigeria",
+    "bandera": "🇳🇬",
+    "hora": "inicio de huelga indefinida de sindicatos universitarios; retiro total de servicios en universidades estatales y públicas",
+    "fecha": "2026-08-28",
+    "lugar": "Nigeria: universidades y otras instituciones de educación terciaria en todo el país",
+    "tipoAccion": "huelga / paro",
+    "organizaciones": [
+      "Sindicatos de personal universitario de Nigeria (incl. ASUU y sus secciones como ASUU-KASU)",
+      "Personal académico y administrativo de universidades estatales y públicas"
+    ],
+    "motivo": "Sindicatos de personal de universidades de Nigeria declararon este 28 de agosto una huelga indefinida/paro en el sector de la educación terciaria por la no implementación de acuerdos anteriormente negociados con el gobierno y la falta de pago de salarios y asignaciones atrasadas. En particular, la sección ASUU-KASU (Universidad del Estado de Kaduna) inició un paro de advertencia de dos semanas por demandas no resueltas. La medida de fuerza total detiene los calendarios académicos, afecta la continuidad de los programas estudiantiles y paraliza las operaciones de los campus en todo el país hasta que el gobierno resuelva la disputa y cumpla sus compromisos contractuales, en un contexto de crisis sistémica de financiamiento y gestión de las universidades estatales.",
+    "status": "en_curso",
+    "lat": 9.0765,
+    "lng": 7.3986,
+    "fuentes": [
+      "https://allafrica.com/stories/202608280595.html",
+      "https://trustur.ai/news/ng/2026/08/28/nigerian-university-unions-declare-indefinite-strike-over-unpaid-arrears-and-uni/dcdcaeb3-a1d7-433f-978d-e6c815e2334b/"
+    ],
+    "createdAt": "2026-08-28T17:35:34.000Z",
+    "updatedAt": "2026-08-28T17:45:00Z"
+  },
+  {
+    "id": "int-2026-08-28-spain-ceuta-protesta-antimigrante",
+    "seccion": "protestas_int",
+    "pais": "España",
+    "bandera": "🇪🇸",
+    "hora": "protestas continuadas; enfrentamientos con la policía; incendio de tiendas/campamentos de migrantes y bloqueo a un convoy de Cruz Roja",
+    "fecha": "2026-08-28",
+    "lugar": "Ceuta, España (enclave español en el norte de África): playa Benítez y playa Trampolín",
+    "tipoAccion": "protesta / disturbios / enfrentamiento con la policía",
+    "organizaciones": [
+      "Residentes locales de Ceuta",
+      "Grupos y colectivos antimigratorios"
+    ],
+    "motivo": "Protestas de residentes de Ceuta contra la presencia de miles de migrantes en el enclave español, un mes después de una masiva entrada desde Marruecos. Los manifestantes realizaron piquetes frente a los asentamientos de migrantes en la playa Benítez, quemaron tiendas y pertenencias, dismantelaron refugios y bloquearon un convoy humanitario de la Cruz Roja que llevaba comida y agua. La policía cargó contra los manifestantes, quienes chocaron con las fuerzas de seguridad. El gobierno español de izquierda (Pedro Sánchez) pidió calma y el ministro del Interior instó a la contención, mientras la tensión sigue alta por las demandas de devolución de los migrantes a Marruecos. El jefe de la policía local advirtió sobre el riesgo de nuevos episodios de violencia.",
+    "status": "en_curso",
+    "lat": 35.8896,
+    "lng": -5.3213,
+    "fuentes": [
+      "https://www.aljazeera.com/video/newsfeed/2026/8/28/anti-migrant-protesters-burn-tents-in-ceuta-and-block-red-cross-aid",
+      "https://www.france24.com/en/europe/20260828-spanish-government-urges-calm-anti-migrant-protesters-clash-police-ceuta",
+      "https://www.theolivepress.es/spain-news/2026/08/28/ceuta-protesters-clash-with-police-after-storming-migrant-camp/",
+      "https://www.africanews.com/2026/08/28/police-in-ceuta-clash-with-anti-migrant-protesters-as-tensions-rise",
+      "https://www.rte.ie/news/world/2026/0828/1589585-cueta-protests/"
+    ],
+    "createdAt": "2026-08-28T17:35:34.000Z",
+    "updatedAt": "2026-08-28T17:45:00Z"
+  },
+  {
+    "id": "int-2026-08-28-belgium-letec-huelga-transporte",
+    "seccion": "protestas_int",
+    "pais": "Bélgica",
+    "bandera": "🇧🇪",
+    "hora": "huelga de 2 días (jueves 27 y viernes 28 de agosto) en toda la red de transporte público de Valonia",
+    "fecha": "2026-08-28",
+    "lugar": "Bélgica: red completa de LeTec (autobuses, tranvías y metro) en la Región Valona",
+    "tipoAccion": "huelga laboral",
+    "organizaciones": [
+      "Front commun syndical (sindicatos CGSP, CSC, FGTB del sector transporte)",
+      "Trabajadores de LeTec (sociedad valona de transporte público)"
+    ],
+    "motivo": "Segundo día de la huelga de dos días (27-28 de agosto) que paraliza la red de transporte público de la sociedad valona LeTec, convocada por el frente común sindical tras el fracaso de una conciliación regional. El conflicto gira en torno al mantenimiento de los 100 euros anuales de eco-cheques para los trabajadores, que la dirección considera vencidos al expirar la convención colectiva a finales de 2025. Los sindicatos rechazaron una propuesta de la dirección que condicionaba la reintroducción de los eco-cheques a la eliminación de las 'horas de calor' (compensación de una hora cuando la temperatura supera los 27 °C en Uccle), calificándola de 'falta de respeto'. La empresa enmarca el desacuerdo en el plan de ahorro de unos 20 millones de euros impuesto por el gobierno valón a LeTec hasta 2029. La huelga provoca fuertes perturbaciones en líneas de bus, tranvía y metro.",
+    "status": "en_curso",
+    "lat": 50.4674,
+    "lng": 5.2643,
+    "fuentes": [
+      "https://www.bruxellestoday.be/mobilite/greve-deux-jours-letec.html"
+    ],
+    "createdAt": "2026-08-28T17:35:34.000Z",
+    "updatedAt": "2026-08-28T17:45:00Z"
   }
 ]
