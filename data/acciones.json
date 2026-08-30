@@ -1,184 +1,121 @@
 [
   {
-    "id": "ar-2026-08-29-sutef-paro-indefinido-tierra-del-fuego",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "quinta semana del paro docente por tiempo indeterminado (iniciado el 3 de agosto, día 27); acampes permanentes en Ushuaia, Río Grande y Tolhuin; tras el rechazo por 99,5% de la propuesta salarial, el Congreso Provincial del 28/08 ratificó la continuidad del paro",
-    "fecha": "2026-08-29",
-    "lugar": "Ushuaia, Río Grande y Tolhuin, Tierra del Fuego: acampes frente a Casa de Gobierno y sedes del Ministerio de Educación",
-    "tipoAccion": "paro por tiempo indeterminado / acampe",
+    "id": "int-2026-08-30-georgia-tbilisi-641d-proeu",
+    "seccion": "protestas_int",
+    "pais": "Georgia",
+    "bandera": "🇬🇪",
+    "hora": "día 641 consecutivo de protestas; reunión diaria frente al Parlamento y Ayuntamiento de Tbilisi; marcha sabatina dedicada a la emigración; continúan acciones en Batumi, Kutaisi y Akhaltsikhe",
+    "fecha": "2026-08-30",
+    "lugar": "Tbilisi (avenida Rustaveli, frente al Parlamento y al Ayuntamiento), Batumi, Kutaisi y Akhaltsikhe, Georgia",
+    "tipoAccion": "protesta continua / marcha",
     "organizaciones": [
-      "SUTEF (Sindicato Unificado de Trabajadoras y Trabajadores de la Educación Fueguina)"
+      "Coalición opositora pro-UE",
+      "Organizaciones de sociedad civil",
+      "Partidarios de la eurointegración"
     ],
-    "motivo": "Quinta semana del paro docente por tiempo indeterminado en Tierra del Fuego, iniciado el 3 de agosto. Este viernes 28 de agosto, tras dos días de asambleas y recepción de mandatos, el Congreso Provincial de Delegadas y Delegados del SUTEF rechazó de manera categórica (99,5%: 201 de 202 mandatos) la propuesta salarial del Ejecutivo ($59.000 distribuidos en siete meses, sin contemplar diciembre 2026 ni enero-febrero 2027) y RATIFICÓ LA CONTINUIDAD DEL PARO POR TIEMPO INDETERMINADO. A las 13:00 los paritarios de SUTEF llevaron la respuesta de la docencia a la mesa de negociación. Continúan las jornadas de lucha con acampes permanentes en Ushuaia, Río Grande y Tolhuin, concentraciones en los acampes (Río Grande 15:00 en el acampe del Ministerio de Educación; Tolhuin 12:00 con jornada de visibilización, olla popular y proyección del IV Seminario «Desde el fin del mundo al encuentro de las trabajadoras y trabajadores»; Ushuaia 19:30 con marcha de antorchas), movilizaciones, ollas populares y vigilias. El gremio exige recomposición salarial, la devolución de los descuentos por días de huelga, el pago completo de los salarios de agosto y una pauta que dé previsibilidad hasta febrero de 2027, junto a la sanción de la Ley de Financiamiento Educativo provincial.",
+    "motivo": "Día 641 consecutivo de protestas pro-UE en Georgia, que se mantienen a diario (aun bajo la lluvia) desde noviembre de 2024 exigiendo el retorno a la senda de eurointegración, la liberación de los presos políticos (más de 150, incluyendo a la periodista Mzia Amaglobeli), nuevas elecciones parlamentarias y la derogación de las leyes antidemocráticas. La 'marcha sabatina' del 29 de agosto (día 640) estuvo dedicada al problema de la emigración ('cuando el Estado sirve a Ivanishvili, los georgianos abandonan el país'), mientras el presidente indultó a nueve participantes de las protestas. Las concentraciones diarias frente al Parlamento en Tbilisi continúan, así como marchas en Batumi y Kutaisi.",
     "status": "en_curso",
-    "lat": -54.8072,
-    "lng": -68.305,
+    "lat": 41.7151,
+    "lng": 44.8271,
     "fuentes": [
-      "https://agencia.farco.org.ar/2026/08/24/tierra-del-fuego-se-inicia-la-cuarta-semana-de-paro-docente-por-tiempo-indeterminado/",
-      "https://argentina.indymedia.org/2026/08/25/tierra-del-fuego-se-inicia-la-cuarta-semana-de-paro-docente-por-tiempo-indeterminado/",
-      "https://elmonterizo.com/sutef-rechazo-la-propuesta-salarial-del-gobierno-que-pasa-con-el-paro-docente",
-      "https://fmfuego.com.ar/gremiales/el-ministerio-de-educacion-convoco-a-sutef-en-la-cuarta-semana-de-paro-docente.htm",
-      "https://gremialesdelsur.com.ar/nota/31126-Contin--a-el-paro-por-tiempo-indeterminado-de-los-docentes-de-Tierra-del-Fuego",
-      "https://huelladelsur.ar/2026/08/27/cuarta-semana-de-paro-docente-en-tierra-del-fuego/",
-      "https://red23noticias.com.ar/nota/19762/sutef-mantiene-la-huelga-mientras-la-negociacion-vuelve-a-quedar-en-cuarto-intermedio/",
-      "https://sutef.org/28-08-congreso-provincial-de-delegadas-y-delegados-de-sutef/",
-      "https://sutef.org/el-gobierno-insiste-con-propuesta-insuficiente-por-falta-de-decision-politica/",
-      "https://sutef.org/la-docencia-fueguina-rechazo-por-un-995-la-propuesta-salarial-del-gobierno/",
-      "https://www.cronista.com/informacion-gral/continua-la-suspension-de-clases-por-tiempo-indefinido-docentes-reclaman-un-aumento-salarial-y-mantienen-el-cese-de-tareas-en-tierra-del-fuego/",
-      "https://www.origen991.com.ar/2026/continua-el-paro-docente-sutef-reconoce-avances-pero-exige-mejores-condiciones-y-hoy-vuelven-a-reunirse/",
-      "https://www.surenio.com.ar/el-sutef-rechazo-nueva-propuesta-salarial-y-ratifico-el-paro-por-tiempo-indeterminado/",
-      "https://www.opisantacruz.com.ar/2026/08/29/docentes-de-sutef-mantienen-paro-por-tiempo-indeterminado/"
+      "https://www.eng.kavkaz-uzel.eu/articles/78139",
+      "https://www.eng.kavkaz-uzel.eu/articles/78112",
+      "https://jam-news.net/when-the-state-serves-an-oligarch-villages-and-cities-empty-out-video-podcast-protests-in-georgia/"
     ],
-    "createdAt": "2026-08-25T04:37:53.000Z",
-    "updatedAt": "2026-08-29T22:39:22Z"
+    "createdAt": "2026-08-26T08:38:54.000Z",
+    "updatedAt": "2026-08-30T01:11:00Z"
   },
   {
-    "id": "ar-2026-08-29-desalojo-peter-thiel-buenos-aires",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "segunda movilización en días consecutivos contra Peter Thiel: concentración desde las 15:30 en la Floralis Genérica (La Flor de Figueroa Alcorta) y traslado hasta la residencia del empresario en Barrio Parque",
-    "fecha": "2026-08-29",
-    "lugar": "Flowerlis Genérica (Av. Figueroa Alcorta y Pueyrredón) → Barrio Parque, uno de los barrios más exclusivos de Buenos Aires, frente a la residencia de Peter Thiel",
-    "tipoAccion": "movilización / manifestación",
+    "id": "int-2026-08-30-albania-tirana-92d-protesta",
+    "seccion": "protestas_int",
+    "pais": "Albania",
+    "bandera": "🇦🇱",
+    "hora": "jornada 92 consecutiva; reunión diaria en Skënderbej Square y marcha hasta la sede del Primer Ministro; reiteran exigencia de renuncia de Edi Rama",
+    "fecha": "2026-08-30",
+    "lugar": "Skënderbej Square → oficinas del Primer Ministro, Tirana, Albania",
+    "tipoAccion": "manifestación / marcha",
     "organizaciones": [
-      "Coordinación Plurinacional Basta de Falsas Soluciones",
-      "Colectivos sociales, ambientales y políticos contra el extractivismo y el Súper RIGI"
+      "Movimiento ciudadano anti-gobierno",
+      "Colectivos juveniles",
+      "Organizaciones de sociedad civil"
     ],
-    "motivo": "Segunda movilización en dos días en Buenos Aires para reclamar el 'desalojo' del empresario tecnológico estadounidense Peter Thiel (cofundador de Palantir Technologies y accionista de Vista Energy), con manifestantes que marcharon frente a su residencia en Barrio Parque con megáfonos, carteles y pancartas bajo consignas como 'Desalojo express a Peter Thiel', 'No al Súper RIGI', 'Los territorios y el agua no se venden', 'Adiós al Súper RIGI', 'Fuera Peter' y 'Los buitres a Silicon Valley, la biodiversidad se queda acá'; algunos participantes usaron máscaras y disfraces. La protesta, convocada por la Coordinación Plurinacional Basta de Falsas Soluciones, rechaza el denominado Súper RIGI, régimen de incentivo a las grandes inversiones aprobado en la Cámara de Diputados que espera tratamiento en el Senado y exige una inversión mínima de 1.000 millones de dólares apuntando a las 'industrias del futuro' (infraestructura digital y megacentros de datos). Se produce dos días después de la investigación de la revista Anfibia (Juan Luis González y Giselle Leclercq, con apoyo de Reporteros Sin Fronteras) sobre el interés de Thiel por Argentina y un día después de la audiencia parlamentaria '¿A qué viene Peter Thiel a la Argentina?' convocada por el diputado Juan Marino. Los manifestantes repudian además la agenda 'tecnofascista' ligada al gobierno de Javier Milei, que recibió al empresario en la Casa Rosada.",
+    "motivo": "92.º día consecutivo de protestas ciudadanas en Tirana contra el Primer Ministro Edi Rama, exigiendo su renuncia y la conformación de un gobierno técnico transitorio con mandato de 12 meses para preparar nuevas elecciones. Los manifestantes se reúnen diariamente en Skënderbej Square y marchan hasta la sede del gobierno. En la jornada del 29 de agosto (día 91) los manifestantes denunciaron la detención de dos personas cerca de la sede del Partido Socialista, en la zona donde se esperaba una reunión convocada por el primer ministro Rama, que según el movimiento llevaban huevos y tomates. El movimiento, activo desde hace casi tres meses, mantiene su exigencia de remoción del mandatario y una ruptura con la clase política actual, y sostiene que no habrá retirada hasta que las demandas sean atendidas.",
     "status": "en_curso",
-    "lat": -34.5827,
-    "lng": -58.3935,
+    "lat": 41.3275,
+    "lng": 19.8187,
     "fuentes": [
-      "https://www.pagina12.com.ar/2026/08/29/desalojo-express-a-peter-thiel-las-imagenes-y-videos-de-la-movilizacion/",
-      "https://www.infobae.com/america/agencias/2026/08/29/cientos-protestan-frente-a-la-casa-de-peter-thiel-en-buenos-aires-pidiendo-su-desalojo/",
-      "https://www.swissinfo.ch/spa/manifestantes-protestan-contra-cofundador-de-palantir-por-segunda-vez-en-buenos-aires/91975048",
-      "https://unitel.bo/noticias/agencias/manifestantes-protestan-contra-cofundador-de-palantir-por-segunda-vez-en-buenos-aires-PE23141680",
-      "https://www.ultimahora.com/protestan-contra-peter-thiel-cofundador-de-palantir-por-segunda-vez-en-buenos-aires",
-      "https://www.findaprotest.info/es/event/buenos-aires/evt-blk-ac0349e5b88ec7d0"
+      "https://balkanweb.com/en/91-days-of-revolt--citizens-continue-protests--Rama%27s-resignation-is-demanded--Albania-belongs-to-the-youth--not-the-party/",
+      "https://en.panorama.com.al/protesta-e-91-te-kunder-keqqeverisjes-qytetaret-rikthehen-ne-shesh-te-vendosur-rama-jep-doreheqjen/",
+      "https://sot.com.al/protesta-ne-diten-e-91-nis-organizimi-i-qytetareve-ne-sheshin-skenderbej-rama-jep-doreheqjen-i5180907",
+      "https://www.hashtag.al/index.php/2026/08/29/se-shesim-shqiperine-ne-shesh-derisa-te-ike-rama-mbyllet-protesta-e-91-te/"
     ],
-    "createdAt": "2026-08-29T22:32:49.000Z",
-    "updatedAt": "2026-08-29T22:39:22Z"
+    "createdAt": "2026-08-26T11:55:57.000Z",
+    "updatedAt": "2026-08-30T01:11:00Z"
   },
   {
-    "id": "int-2026-08-29-spain-airbus-indefinite-strike",
+    "id": "int-2026-08-30-spain-airbus-huelga-indefinida",
     "seccion": "protestas_int",
     "pais": "España",
     "bandera": "🇪🇸",
-    "hora": "quinto día de la huelga indefinida en las seis plantas de Airbus en España; UGT planteó suspender temporalmente varios días la huelga para dar margen a la negociación (votación prevista el lunes en las asambleas de los centros); Airbus presentó una nueva oferta que vincula los salarios al IPC real, con una recuperación del 7,6% del poder adquisitivo en cinco años y el mantenimiento del teletrabajo, condicionada a la desconvocatoria; próxima reunión de mediación en el SIMA el martes 1 de septiembre",
-    "fecha": "2026-08-29",
-    "lugar": "Getafe (Madrid), Illescas (Toledo), Puerto Real (Cádiz), San Pablo (Sevilla), El Puerto de Santa María (Cádiz) y Albacete — seis plantas de Airbus en España",
+    "hora": "sexto día de la huelga indefinida en las plantas de Airbus en España; asambleas del sábado sobre la nueva oferta de la empresa (el lunes se votará en Getafe la posible suspensión temporal); próxima negociación en el SIMA el martes 1 de septiembre",
+    "fecha": "2026-08-30",
+    "lugar": "Getafe (Madrid), Illescas (Toledo), San Pablo y Tablada (Sevilla) y Albacete — plantas de Airbus en España (Cádiz se incorpora desde septiembre)",
     "tipoAccion": "huelga indefinida",
     "organizaciones": [
       "UGT (Unión General de Trabajadores)",
       "CGT (Confederación General de Trabajadores)",
       "ÚTIL (sindicato profesional)"
     ],
-    "motivo": "Quinto día de la huelga indefinida de los aproximadamente 14.000 trabajadores de Airbus en España en las seis plantas de la compañía, convocada por UGT, CGT y ÚTIL tras el rechazo en referéndum de la plantilla al preacuerdo alcanzado por CCOO, SIPA y ATP con la dirección (51,13% en contra, 48,87% a favor). Los trabajadores exigen la vinculación del incremento salarial anual a la evolución real del IPC y el acortamiento de los plazos para recuperar el poder adquisitivo perdido durante los años de alta inflación, además de la protección del teletrabajo y los complementos salariales durante bajas por incapacidad temporal. La reunión de mediación del 25 de agosto en el SIMA (Servicio Interconfederal de Mediación y Arbitraje) concluyó sin acuerdo, y la empresa paralizó las contrataciones previstas mientras el conflicto se mantiene; la dirección global de Airbus tomó las riendas de la negociación. El paro sigue vigente sin visos de resolución a corto plazo. El 29 de agosto la dirección de Airbus presentó una nueva propuesta definitiva que vincula las retribuciones al IPC real, añade una recuperación del poder adquisitivo del 7,6% durante cinco años (extendiendo la vigencia del convenio hasta 2030), mantiene íntegramente el acuerdo de teletrabajo, conserva el sistema de vacaciones y añade una paga única extraordinaria de 2.000 euros netos por trabajador, pero la condiciona a la desconvocatoria o suspensión inmediata de la huelga. UGT planteó suspender varios días el paro para comprobar si la empresa 'mueve ficha de manera efectiva', con votación prevista el lunes en los centros; Albacete ya apoyó la suspensión. La negociación continuará el próximo martes en el SIMA. La huelga ya empieza a afectar a la industria auxiliar aeronáutica y a las entregas del A400M.",
+    "motivo": "Sexto día de la huelga indefinida de los aproximadamente 14.000 trabajadores de Airbus en España, convocada por UGT, CGT y ÚTIL tras el rechazo en referéndum de la plantilla al preacuerdo firmado por CCOO, SIPA y ATP (la negociación quedó enrocada). Los trabajadores exigen vincular las subidas salariales al IPC real, acortar los plazos para recuperar el poder adquisitivo perdido y proteger el teletrabajo y los complementos por baja. Tras la maratoniana reunión del SIMA del 27/28 de agosto que terminó sin acuerdo, Airbus presentó una contraoferta basada en el preacuerdo de julio y condicionada a la desconvocatoria o suspensión de la huelga, que las asambleas consultaron el 29 a las plantillas con voto a celebrar el lunes en Getafe (Albacete votó 'revisarlo más adelante'; Tablada, seguir con el paro). La vuelta de vacaciones de gran parte de la plantilla pone a prueba el seguimiento, que los sindicatos cifran en torno al 90%. La huelga ya afecta a la industria auxiliar aeronáutica y puede poner en riesgo las entregas del A400M; Airbus congeló contrataciones y no descarta trasladar carga de trabajo a Alemania o Francia. La próxima reunión de mediación está prevista para el martes 1 de septiembre.",
     "status": "en_curso",
     "lat": 40.3167,
     "lng": -3.7333,
     "fuentes": [
       "https://aviaciondigital.com/huelga-indefinida-airbus-espana-sima-agosto-2026/",
-      "https://www.que.es/2026/08/26/huelga-airbus-espana-contrataciones-paralizadas/",
       "https://elpais.com/economia/2026-08-25/comienza-la-huelga-indefinida-de-los-trabajadores-de-airbus-pedimos-lo-que-merecemos.html",
-      "https://www.abc.es/economia/huelga-indefinida-airbus-espana-20260825124241-nt.html",
-      "https://cadenaser.com/cmadrid/2026/08/25/la-plantilla-de-airbus-decide-continuar-con-la-huelga-indefinida-ser-madrid-sur/",
-      "https://efe.com/economia/2026-08-25/huelga-airbus-negociacion-poner-fin-conflicto/",
-      "https://www.infodefensa.com/texto-diario/mostrar/5971952/plantilla-airbus-decide-retomar-huelga-esta-vez-indefinida-partir-24-agosto",
-      "https://cincodias.elpais.com/companias/2026-08-24/la-plantilla-de-airbus-ratifica-la-huelga-indefinida-en-las-primeras-votaciones-de-la-manana.html",
-      "https://www.europapress.es/economia/noticia-ugt-plantea-suspender-varios-dias-huelga-airbus-dar-margen-empresa-20260829211815.html",
-      "https://www.eldiariodemadrid.es/articulo/sociedad/huelga-airbus-oferta-salarial-ipc-76-teletrabajo-acuerdo/20260829091418140338.html",
-      "https://www.larazon.es/economia/huelga-airbus-empieza-afectar-empleo-industria-auxiliar-aeronautica_202608296a91598f2bcaf82098f2b8da.html"
+      "https://www.larazon.es/economia/acuerdo-ultima-reunion-huelga-sigue-airbus-empresa-rechaza-propuesta-convocantes-que-incluye-paga-7500-euros-subida-salarial-unica-12-recuperar-poder_202608286a913324d16f763504a2fdd3.html",
+      "https://www.economiadigital.es/empresas/vuelta-vacaciones-plantilla-airbus-pone-prueba-huelga-fabricas-espanolas.html",
+      "https://www.larazon.es/economia/huelga-airbus-empieza-afectar-empleo-industria-auxiliar-aeronautica_202608296a91598f2bcaf82098f2b8da.html",
+      "https://laprotesta.es/2026/08/28/airbus-mantiene-el-pulso-con-su-plantilla-mientras-la-huelga-indefinida-continua-y-la-negociacion-se-aplaza-al-1-de-septiembre/",
+      "https://www.eldiariodemadrid.es/articulo/sociedad/huelga-airbus-negociacion-sindicatos-salarios-teletrabajo-produccion/20260827170242140221.html"
     ],
     "createdAt": "2026-08-25T16:33:28.000Z",
-    "updatedAt": "2026-08-29T22:39:22Z"
+    "updatedAt": "2026-08-30T01:11:00Z"
   },
   {
-    "id": "int-2026-08-29-uk-rmt-avanti-manchester-strike",
+    "id": "int-2026-08-30-bolivia-beni-bloqueo-arroceros",
     "seccion": "protestas_int",
-    "pais": "Reino Unido",
-    "bandera": "🇬🇧",
-    "hora": "huelga de 24 horas en la estación de Manchester Piccadilly",
-    "fecha": "2026-08-29",
-    "lugar": "Manchester Piccadilly, Manchester, Inglaterra, Reino Unido",
-    "tipoAccion": "huelga laboral / paro",
+    "pais": "Bolivia",
+    "bandera": "🇧🇴",
+    "hora": "continúa el bloqueo indefinido en el puente San Pablo (carretera Trinidad–Santa Cruz); productores retomaron la medida tras el cuarto intermedio; gobierno admite problemas del DS 5676 y despliega efectivos en Yapacaní",
+    "fecha": "2026-08-30",
+    "lugar": "Puente San Pablo, carretera Trinidad–Santa Cruz, provincia Marbán, departamento del Beni, Bolivia",
+    "tipoAccion": "bloqueo de carretera",
     "organizaciones": [
-      "RMT (National Union of Rail, Maritime and Transport Workers)",
-      "Trabajadores de Avanti West Coast en Manchester Piccadilly"
+      "Federación de Productores de Arroz de la provincia Marbán",
+      "Productores arroceros del Beni",
+      "Confederación Agropecuaria Nacional (Confeagro)"
     ],
-    "motivo": "Huelga de 24 horas de los miembros del sindicato RMT empleados por Avanti West Coast en la estación de Manchester Piccadilly, en protesta por el despido de un compañero que, según el sindicato, fue convertido en 'chivo expiatorio por múltiples fallos de gestión' a partir de acusaciones anónimas, tras una apelación en la que la empresa mantuvo la sanción. Es la tercera jornada de huelga por este conflicto (1 de agosto, 29 de agosto y 10 de octubre de 2026). El secretario general del RMT, Eddie Dempsey, afirmó que el sindicato enviará el mensaje más claro a Avanti West Coast de que no habrá tregua hasta que se revierta el despido injusto y se resuelvan las causas del conflicto. La acción afecta al servicio en la estación de Manchester Piccadilly de la principal operadora interurbana de la costa oeste británica.",
+    "motivo": "Continúa el bloqueo indefinido de la carretera Trinidad–Santa Cruz iniciado el 26 de agosto por productores arroceros de la provincia Marbán (Beni) en rechazo al Decreto Supremo 5676, que fija el costo del litro de diésel en Bs 18 para grandes consumidores, en plena crisis de combustible. Los productores denuncian que el Gobierno no atendió su ultimátum de 72 horas y exigen la abrogación del decreto. El 29 de agosto retomaron el cierre del puente San Pablo tras un cuarto intermedio nocturno que liberó temporalmente la ruta, mientras el Gobierno desplegó efectivos militares y policiales de forma preventiva en Yapacaní (Santa Cruz) y admitió que el DS 5676 presenta problemas y debe ser modificado o incluso derogado, aunque descartó abrogarlo. Sindicatos campesinos de Santa Cruz marcharon hasta las oficinas de la estatal YPFB exigiendo la anulación del decreto, y agroindustriales y cívicos amenazaron con nuevas medidas de presión si el reclamo no es atendido. El bloqueo afecta el tránsito de carga y pasajeros entre el Beni y Santa Cruz.",
     "status": "en_curso",
-    "lat": 53.4774,
-    "lng": -2.2309,
+    "lat": -14.8,
+    "lng": -64.9,
     "fuentes": [
-      "https://www.counterfire.org/event/manchester-rmt-avanti-west-coast-strike",
-      "https://striketracker.app/strikes-in-united-kingdom/manchester-piccadilly-avanti-west-coast-strike-1-aug-10-oct-2026",
-      "https://www.strikecalendar.co.uk/union/rmt/avantiwestcoastrmt",
-      "https://www.rmt.org.uk/news/further-strike-action-at-avanti-west-coast/"
+      "https://brujuladigital.net/economia/2026/08/29/tras-cuarto-intermedio-productores-de-beni-retoman-el-bloqueo-en-ruta-hacia-santa-cruz-65663",
+      "https://prensamercosur.org/2026/08/29/bolivia-despliegan-militares-contra-bloqueos-mientras-el-gobierno-admite-que-debe-modificar-o-derogar-el-decreto-cuestionado/",
+      "https://efe.com/economia/2026-08-29/protestas-retiro-subvencion-diesel-bolivia/",
+      "https://eju.tv/2026/08/arroceros-del-beni-bloquean-la-carretera-trinidad-santa-cruz-y-exigen-abrogacion-del-ds-5676-pese-al-estado-de-excepcion/"
     ],
-    "createdAt": "2026-08-29T08:09:37.000Z",
-    "updatedAt": "2026-08-29T22:39:22Z"
+    "createdAt": "2026-08-26T02:45:30.000Z",
+    "updatedAt": "2026-08-30T01:11:00Z"
   },
   {
-    "id": "int-2026-08-29-uk-taunton-far-right-antifascist",
-    "seccion": "protestas_int",
-    "pais": "Reino Unido",
-    "bandera": "🇬🇧",
-    "hora": "marcha planificada desde las 12:00 en el centro de Taunton; operativo policial con zona de dispersión vigente de 08:00 a 20:00",
-    "fecha": "2026-08-29",
-    "lugar": "Centro de Taunton, condado de Somerset, Inglaterra, Reino Unido",
-    "tipoAccion": "marcha / contraprotesta",
-    "organizaciones": [
-      "Activistas de extrema derecha anti-inmigración",
-      "SCARF (Somerset Campaign Against Racism and Fascism)",
-      "Grupos antifascistas, vecinales y sindicales"
-    ],
-    "motivo": "Tercera marcha de activistas de extrema derecha prevista este verano en Taunton, un municipio del suroeste de Inglaterra con relativamente pocos solicitantes de asilo, en el marco de una ola de protestas antiinmigración que repiten en varios puntos del Reino Unido. En respuesta, el recientemente formado Somerset Campaign Against Racism and Fascism (SCARF) convocó una protesta pacífica para oponerse a la marcha, apelando a la memoria de la Batalla de Cable Street y a la unidad de la comunidad. La policía de Avon and Somerset desplegó un operativo con una zona de dispersión bajo la sección 34 del Antisocial Behaviour and Policing Act 2014 (vigente de 08:00 a 20:00) para separar a los grupos y garantizar la seguridad durante la jornada de protesta y contraprotesta.",
-    "status": "en_curso",
-    "lat": 51.0152,
-    "lng": -3.1038,
-    "fuentes": [
-      "https://www.avonandsomerset.police.uk/news/2026/08/policing-plans-in-place-ahead-of-taunton-protest/",
-      "https://unitelive.org/spirit-of-cable-street/",
-      "https://insidetaunton.substack.com/p/why-is-the-far-right-marching-in",
-      "https://www.instagram.com/p/DcX1VtWKoa9/"
-    ],
-    "createdAt": "2026-08-29T08:09:37.000Z",
-    "updatedAt": "2026-08-29T22:39:22Z"
-  },
-  {
-    "id": "int-2026-08-29-france-cgt-action-stores-strike",
+    "id": "int-2026-08-30-france-french-bee-huelga",
     "seccion": "protestas_int",
     "pais": "Francia",
     "bandera": "🇫🇷",
-    "hora": "llamado a huelga nacional en todos los comercios de la cadena Action desde las 06:00",
-    "fecha": "2026-08-29",
-    "lugar": "Tiendas de la cadena de descuento Action en toda Francia (conflicto originado en el establecimiento de Toulouse-Chapitre)",
-    "tipoAccion": "huelga nacional",
-    "organizaciones": [
-      "CGT Commerce & Services (Federación CGT de Comercio y Servicios)",
-      "Trabajadores de los comercios Action en Francia"
-    ],
-    "motivo": "La CGT llamó a una huelga nacional en todos los comercios de la cadena de descuento Action este sábado 29 de agosto, tras dos movilizaciones masivas en el establecimiento de Toulouse-Chapitre (13 de junio y 1 de agosto de 2026) contra el despido de un subgerente contratado con visa de estudiante. El trabajador, que pidió a la dirección iniciar los trámites para regularizar su permiso de trabajo, fue suspendido durante tres meses y luego despedido sin explicación válida, en lo que el sindicato califica como una medida de represalia y un símbolo de la precarización organizada. La CGT denuncia la explotación de trabajadores extranjeros, cadencias de trabajo desenfrenadas, presiones gerenciales inhumanas y el incumplimiento de los derechos fundamentales, y exige la reintegración inmediata del responsable adjunto, la regularización de todos los trabajadores extranjeros y condiciones de trabajo dignas.",
-    "status": "en_curso",
-    "lat": 48.8566,
-    "lng": 2.3522,
-    "fuentes": [
-      "https://commercecgt.fr/collections/Communiqu%C3%A9%20de%20presse/appel-a-la-greve-dans-tous-les-magasins-action-ce-samedi-29-aout-2026"
-    ],
-    "createdAt": "2026-08-29T08:09:37.000Z",
-    "updatedAt": "2026-08-29T22:39:22Z"
-  },
-  {
-    "id": "int-2026-08-29-france-french-bee-strike",
-    "seccion": "protestas_int",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "huelga en curso del 27 al 31 de agosto (incluye este sábado); posibles retrasos y anulaciones en vuelos de largo radio",
-    "fecha": "2026-08-29",
+    "hora": "huelga en curso del 27 al 31 de agosto (incluye este domingo 30); posibles retrasos y anulaciones en vuelos de largo radio",
+    "fecha": "2026-08-30",
     "lugar": "Francia y ultramar: red de vuelos de largo radio de la aerolínea French bee (París y rutas a Antillas, Reunión, Estados Unidos y Polinesia)",
     "tipoAccion": "huelga laboral",
     "organizaciones": [
@@ -186,7 +123,7 @@
       "CGT",
       "Tripulantes de cabina (PNC) de French bee"
     ],
-    "motivo": "Huelga de los tripulantes de cabina de la aerolínea French bee en vigor desde el jueves 27 al lunes 31 de agosto de 2026, en pleno fin de semana de regreso de vacaciones. Los sindicatos denuncian planillas inestables y modificadas tarde, fatiga creciente en las rotaciones de largo radio, uso abusivo de los días de descanso y una remuneración que no sigue el costo de vida, además del incumplimiento de compromisos asumidos por la dirección en la primavera de 2026 sobre organización del trabajo y revalorizaciones. Los PNC reclaman: planillas fijadas al menos 14 días antes, refuerzo de plantillas para limitar los llamados en días libres, una revalorización salarial del 10%, una majoración del 35% de las horas nocturnas y la reapertura de negociaciones.",
+    "motivo": "Continúa la huelga de los tripulantes de cabina de la aerolínea French bee, convocada del jueves 27 al lunes 31 de agosto de 2026, en pleno fin de semana de regreso de vacaciones. Los sindicatos denuncian planillas inestables y modificadas tarde, fatiga creciente en las rotaciones de largo radio, uso abusivo de los días de descanso y una remuneración que no sigue el costo de vida, además del incumplimiento de compromisos asumidos por la dirección en la primavera de 2026. Los PNC reclaman: planillas fijadas al menos 14 días antes, refuerzo de plantillas para limitar los llamados en días libres, una revalorización salarial del 10%, una majoración del 35% de las horas nocturnas y la reapertura de negociaciones.",
     "status": "en_curso",
     "lat": 48.8566,
     "lng": 2.3522,
@@ -196,42 +133,16 @@
       "https://www.tourmag.com/French-bee-greve-en-vue-pour-le-dernier-week-end-d-aout-_a132904.html"
     ],
     "createdAt": "2026-08-29T08:09:37.000Z",
-    "updatedAt": "2026-08-29T22:39:22Z"
+    "updatedAt": "2026-08-30T01:11:00Z"
   },
   {
-    "id": "int-2026-08-29-usa-tesla-takedown-protests",
-    "seccion": "protestas_int",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
-    "hora": "jornada semanal de protesta (semana 82) frente a concesionarios y supercargadores de Tesla; acciones el sábado desde las 10:00 en varias ciudades",
-    "fecha": "2026-08-29",
-    "lugar": "Concesionarios, salas de exposición y supercargadores de Tesla en múltiples ciudades de Estados Unidos (San José y Alhambra, CA; Watertown y Dedham, MA; Lyndhurst, OH; Washington D.C.; Devon, PA, entre otras)",
-    "tipoAccion": "protesta / plantón / boicot",
-    "organizaciones": [
-      "Movimiento #TeslaTakedown",
-      "Colectivos contra el 'Departamento de Eficiencia Gubernamental' (DOGE)",
-      "Organizaciones locales de cada comunidad"
-    ],
-    "motivo": "El movimiento pacífico #TeslaTakedown, activo contra Elon Musk y su influencia sobre el gobierno estadounidense a través del 'Departamento de Eficiencia Gubernamental' (DOGE), convocó para este sábado 29 de agosto de 2026 una nueva jornada de protesta (semana 82 del movimiento) frente a concesionarios, salas de exposición y supercargadores de Tesla en decenas de ciudades de Estados Unidos. Los manifestantes denuncian que Musk 'destruye la democracia' usando la fortuna construida en Tesla y piden 'vender los Tesla, liquidar las acciones y detener a Musk'. Entre las acciones del 29 de agosto figuran plantones en San José (CA), Alhambra (CA), Watertown (MA), Lyndhurst (OH), Washington D.C., Devon (PA) y Dedham (MA), entre otras. El movimiento se reivindica no violento y en ejercicio del derecho de reunión pacífica.",
-    "status": "en_curso",
-    "lat": 38.9072,
-    "lng": -77.0369,
-    "fuentes": [
-      "https://actionnetwork.org/event_campaigns/teslatakedown",
-      "https://www.indybay.org/newsitems/2026/08/25/18888228.php",
-      "https://www.teslatakedown.com/"
-    ],
-    "createdAt": "2026-08-29T08:09:37.000Z",
-    "updatedAt": "2026-08-29T22:39:22Z"
-  },
-  {
-    "id": "int-2026-08-29-india-jharkhand-left-parties-mmdr-protest",
+    "id": "int-2026-08-30-india-jharkhand-left-mmdr-agitation",
     "seccion": "protestas_int",
     "pais": "India",
     "bandera": "🇮🇳",
-    "hora": "jornada de agitación; continuación de protestas en múltiples ciudades de Jharkhand (semana de agitación 25-31 agosto)",
-    "fecha": "2026-08-29",
-    "lugar": "Ranchi (frente a Lok Bhavan) y múltiples distritos, bloques y municipalidades de Jharkhand, India",
+    "hora": "sexto día de la semana de agitación estatal (25-31 agosto) contra la Ley de Enmienda de Minas y Minerales (MMDR Act-2026); manifestaciones, quema de copias de la ley y campañas de concienciación en distritos, bloques y municipalidades de Jharkhand",
+    "fecha": "2026-08-30",
+    "lugar": "Ranchi y múltiples distritos, bloques y municipalidades de Jharkhand, India",
     "tipoAccion": "agitación / manifestación / quema de documentos",
     "organizaciones": [
       "CPI (Partido Comunista de la India)",
@@ -240,7 +151,7 @@
       "SUCI(C) (Unidad Socialista de la India – Comunista)",
       "Forward Bloc"
     ],
-    "motivo": "Quinto día de la semana de agitación estatal en Jharkhand (25-31 de agosto) contra la Ley de Enmienda de Minerales y Minas (MMDR Act-2026), aprobada por el Parlamento el 13 de agosto. Los partidos de izquierda denuncian que la ley socava los derechos de los estados sobre sus recursos minerales al restringir su poder de gravar derechos mineros y tierras con minerales, y que provocará pérdidas de ingresos estimadas en ₹13.000 crore anuales para Jharkhand, un estado rico en minerales. Las protestas incluyen la quema de copias del proyecto de ley en todos los distritos, bloques y municipalidades del estado, campañas de concienciación en aldeas, reuniones en la esquina de calles y una manifestación frente a Lok Bhavan en Ranchi con la entrega de un memorándum al presidente a través del gobernador. Los partidos advirtieron que, si el gobierno central no revierte la ley, recurrirán al bloqueo económico, paro de Jharkhand y bloqueo de carreteras.",
+    "motivo": "Sexto día de la semana de agitación estatal en Jharkhand (25-31 de agosto) contra la Ley de Enmienda de Minerales y Minas (MMDR Act-2026), aprobada por el Parlamento el 13 de agosto, dentro de una campaña más amplia que se extiende también al Jharkhand Mukti Morcha (JMM), que prevé nuevos dharnas el 7 de septiembre. Los partidos de izquierda denuncian que la ley socava los derechos de los estados sobre sus recursos minerales al restringir su poder de gravar derechos mineros y tierras con minerales, y que provocará pérdidas de ingresos estimadas en ₹13.000 crore anuales para el estado. Las protestas incluyen la quema de copias del proyecto de ley, campañas de concienciación en aldeas y reuniones en todos los distritos y municipalidades, y los partidos advirtieron que, si el gobierno central no revierte la ley, recurrirán al bloqueo económico, al paro de Jharkhand y al bloqueo de carreteras.",
     "status": "en_curso",
     "lat": 23.3441,
     "lng": 85.3096,
@@ -249,76 +160,46 @@
       "https://www.theindiannation.com/2026/08/left-parties-announce-statewide_0541656758.html",
       "https://swadesi.com/news/left-parties-to-launch-week-long-protest-against-mmdr-across-jharkhand-mt1ggtix",
       "https://theshillongtimes.com/2026/08/21/left-parties-to-hold-protest-across-jkhand-from-aug-25/",
-      "https://www.timesnowhindi.com/cities/left-parties-to-launch-week-long-protest-against-mmdr-amendment-bill-in-jharkhand-article-155889723"
+      "https://theguardianchronicle.com/jmm-to-hold-block-level-dharnas-on-sept-7-over-mmdr-act/"
     ],
     "createdAt": "2026-08-25T17:28:21.000Z",
-    "updatedAt": "2026-08-29T22:39:22Z"
+    "updatedAt": "2026-08-30T01:11:00Z"
   },
   {
-    "id": "int-2026-08-29-india-haryana-sanitation-strike",
+    "id": "int-2026-08-30-india-haryana-sanitation-huelga",
     "seccion": "protestas_int",
     "pais": "India",
     "bandera": "🇮🇳",
-    "hora": "huelga indefinida día 24; enfrentamientos con policía durante operativos de limpieza",
-    "fecha": "2026-08-29",
-    "lugar": "Karnal, Yamunanagar, Hisar, Bhiwani, Kurukshetra y múltiples ciudades de Haryana, India",
+    "hora": "huelga indefinida día 25; protestas continúan el domingo con concentraciones, 'rosa march' y enfrentamientos con la policía en varios municipios; convención de trabajadores prevista en Rohtak para definir próximos pasos",
+    "fecha": "2026-08-30",
+    "lugar": "Karnal, Yamunanagar, Hisar, Rohtak, Bhiwani, Kurukshetra y múltiples ciudades de Haryana, India",
     "tipoAccion": "huelga laboral / enfrentamiento",
     "organizaciones": [
-      "Sindicato de trabajadores sanitarios de Haryana",
-      "Trabajadores municipales de limpieza",
-      "Trabajadores de emergencias (bomberos)"
+      "Nagarpalika Karamchari Sangh Haryana",
+      "Sarv Karamchari Sangh",
+      "Sindicato de trabajadores sanitarios y bomberos de Haryana"
     ],
-    "motivo": "Vigésimo cuarto día de huelga indefinida de trabajadores sanitarios municipales en el estado de Haryana, India. Los manifestantes denuncian condiciones laborales precarias y exigen la regularización de su empleo. El gobierno estatal aceptó 13 de las 14 demandas principales, pero se niega a la regularización masiva de personal ad-hoc por razones legales y constitucionales. Durante los operativos de limpieza con maquinaria pesada (JCB, camiones) intentados por las autoridades municipales, se registraron enfrentamientos con los huelguistas que intentaron bloquear los trabajos; la policía detuvo a trabajadores en varias ciudades y se acumularon aproximadamente 700 toneladas métricas de basura sin recolectar. El ministro Vipul Goel pidió a los trabajadores retomar las labores y ofreció concesiones financieras sustanciales, pero el sindicato mantiene su postura de regularización.",
+    "motivo": "Vigésimo quinto día de huelga indefinida de los trabajadores municipales de saneamiento (y bomberos) en Haryana, ampliada hasta el 30 de agosto, con decenas de miles de toneladas de basura sin recolectar en mercados y zonas residenciales (solo en Hisar más de 3.600 toneladas acumuladas), lo que genera una crisis sanitaria durante la temporada de monzón. Los trabajadores, liderados por Naresh Shastri (Nagarpalika Karamchari Sangh Haryana), exigen la regularización del empleo de los contratados y el fin del sistema de agencias, denunciando que el 'principio de acuerdo' del gobierno es solo verbal. El gobierno estatal afirma haber aceptado 13 de 14 demandas y busca asesoramiento legal sobre la regularización, mientras despliega maquinaria y personal alternativo que los huelguistas bloquean, con choques y detenciones en Hisar, Yamunanagar, Karnal y otros puntos. Una convención de trabajadores municipales y de bomberos está prevista en Rohtak para definir la estrategia de intensificación del movimiento.",
     "status": "en_curso",
     "lat": 29.6857,
     "lng": 76.9905,
     "fuentes": [
-      "https://www.hindustantimes.com/cities/chandigarh-news/amid-sanitation-workers-protest-haryana-mcs-start-removing-trash-with-jcbs-101787598714925.html",
-      "https://www.tribuneindia.com/news/haryana/haryana-govt-accepts-12-of-13-demands-legal-hurdle-remains-says-minister/",
-      "https://www.newsbytesapp.com/news/india/haryana-municipal-teams-resume-waste-clearing-after-13-demands-accepted/tldr"
+      "https://www.hindustantimes.com/cities/chandigarh-news/health-risk-looms-garbage-piles-up-as-sanitation-workers-strike-enters-4th-week-in-haryana-101788031797604.html",
+      "https://www.hindustantimes.com/cities/chandigarh-news/haryana-sanitation-staff-extends-strike-till-august-30-101787769830985.html",
+      "https://www.nationalheraldindia.com/national/haryana-sanitation-workers-strike-extended-till-august-30-50-protesters-detained-in-hisar",
+      "https://timesofindia.indiatimes.com/city/chandigarh/sanitation-workers-cops-hurl-garbage-at-each-other-as-day-22-of-the-strike-turns-ugly-in-hisar-50-60-detained/articleshow/133563464.cms",
+      "https://www.amarujala.com/haryana/karnal/police-and-striking-sanitation-workers-face-off-in-taraori-karnal-news-c-18-knl1018-980273-2026-08-30"
     ],
     "createdAt": "2026-08-25T20:56:35.000Z",
-    "updatedAt": "2026-08-29T22:39:22Z"
+    "updatedAt": "2026-08-30T01:11:00Z"
   },
   {
-    "id": "int-2026-08-29-bolivia-beni-bloqueo-arroceros-diesel",
-    "seccion": "protestas_int",
-    "pais": "Bolivia",
-    "bandera": "🇧🇴",
-    "hora": "bloqueo indefinido en el puente San Pablo (carretera Trinidad–Santa Cruz), retomado la madrugada del 29 tras un cuarto intermedio nocturno; despliegue preventivo de militares y policías en Yapacaní (Santa Cruz)",
-    "fecha": "2026-08-29",
-    "lugar": "Puente San Pablo, carretera Trinidad–Santa Cruz, provincia Marbán, departamento del Beni, Bolivia",
-    "tipoAccion": "bloqueo de carretera",
-    "organizaciones": [
-      "Federación de Productores de Arroz de la provincia Marbán",
-      "Productores arroceros del Beni",
-      "Confederación Agropecuaria Nacional (Confeagro)",
-      "Organizaciones interculturales de Ballivián, Yucumo y Rurrenabaque"
-    ],
-    "motivo": "Bloqueo indefinido de la carretera Trinidad–Santa Cruz iniciado a las 00:00 del 26 de agosto por productores arroceros de la provincia Marbán en el Beni, en rechazo al Decreto Supremo 5676 que fija el costo del litro de diésel en Bs 18 para grandes consumidores. Los productores denuncian que el Gobierno no respondió al ultimátum de 72 horas y exigen la abrogación del decreto, señalando que el precio del carburante en el mercado negro supera los Bs 18. Más de 40 asociaciones del departamento respaldan la medida pese al estado de excepción vigente. El bloqueo afecta el tránsito de carga y pasajeros entre el Beni y Santa Cruz y podría extenderse a otras regiones. El 29 de agosto los productores de Beni retomaron el bloqueo en el puente San Pablo tras un cuarto intermedio nocturno que permitió liberar temporalmente la ruta, mientras el Gobierno desplegó efectivos militares y policiales de forma preventiva en Yapacaní (Santa Cruz) para evitar nuevos bloqueos y admitió que el DS 5676 presenta problemas y debe ser modificado o incluso derogado, aunque descartó abrogarlo. Sindicatos campesinos de Santa Cruz marcharon hasta las oficinas de la estatal YPFB para exigir la anulación del decreto, y agroindustriales y cívicos amenazaron con nuevas medidas de presión si este domingo no se atienden sus reclamos.",
-    "status": "en_curso",
-    "lat": -14.8,
-    "lng": -64.9,
-    "fuentes": [
-      "https://eju.tv/2026/08/arroceros-del-beni-bloquean-la-carretera-trinidad-santa-cruz-y-exigen-abrogacion-del-ds-5676-pese-al-estado-de-excepcion/",
-      "https://unitel.bo/noticias/economia/arroceros-de-beni-anuncian-bloqueo-en-la-via-santa-cruz-trinidad-desde-el-miercoles-en-rechazo-al-decreto-sobre-el-diesel-NF23041194",
-      "https://monteronoticias.com/2026/08/25/arroceros-de-beni-anuncian-bloqueo-en-la-carretera-santa-cruz-trinidad/",
-      "https://fmlapaz.bo/productores-y-organizaciones-sociales-anuncian-bloqueo-indefinido-en-beni-contra-el-decreto-5676/",
-      "https://www.radiofides.com/sociedad/arroceros-bloquearan-la-carretera-trinidad-santa-cruz-desde-el-miercoles-y-exigiran-la-abrogacion-del-ds-5676",
-      "https://brujuladigital.net/economia/2026/08/29/tras-cuarto-intermedio-productores-de-beni-retoman-el-bloqueo-en-ruta-hacia-santa-cruz-65663",
-      "https://prensamercosur.org/2026/08/29/bolivia-despliegan-militares-contra-bloqueos-mientras-el-gobierno-admite-que-debe-modificar-o-derogar-el-decreto-cuestionado/",
-      "https://efe.com/economia/2026-08-29/protestas-retiro-subvencion-diesel-bolivia/"
-    ],
-    "createdAt": "2026-08-26T02:45:30.000Z",
-    "updatedAt": "2026-08-29T22:39:22Z"
-  },
-  {
-    "id": "int-2026-08-29-india-pune-tribal-students-hunger-strike",
+    "id": "int-2026-08-30-india-pune-tribal-hunger-strike",
     "seccion": "protestas_int",
     "pais": "India",
     "bandera": "🇮🇳",
-    "hora": "huelga de hambre indefinida día 17; sentada continua en Government Tribal Hostel, Hadapsar",
-    "fecha": "2026-08-29",
+    "hora": "huelga de hambre indefinida día 18; sentada continua en Government Tribal Hostel, Hadapsar",
+    "fecha": "2026-08-30",
     "lugar": "Hadapsar (Manjari), Pune, Maharashtra, India: Government Tribal Hostel",
     "tipoAccion": "huelga de hambre / sentada",
     "organizaciones": [
@@ -326,81 +207,26 @@
       "Estudiantes tribales de Maharashtra",
       "Oposición política (Congress, NCP-SP, VBA)"
     ],
-    "motivo": "Décimo séptimo día de huelga de hambre indefinida de seis estudiantes tribales en el Government Tribal Hostel de Hadapsar (Manjari), Pune, en contra de las nuevas Resoluciones Gubernamentales (GR) del 5 y 14 de agosto de 2026 que imponen un límite de edad de 30 años para alojamiento en hostales tribales, entre otras restricciones. A pesar de que el ministro de Desarrollo Tribal Ashok Uike eliminó el límite de edad, los estudiantes se niegan a levantar la huelga hasta obtener compromisos por escrito y la derogación total de las nuevas GR. Entre las demandas: compensación de ₹1 crore para las familias de tres estudiantes tribales muertas por mordedura de serpiente en Gadchiroli, seguro de ₹1 crore para cada estudiante, mejoras de infraestructura, reclutamiento de 12.500 puestos vacantes y respeto a los derechos PESA. La oposición política, incluyendo una carta abierta de Rahul Gandhi al CM Fadnavis, ha respaldado la causa.",
+    "motivo": "Décimo octavo día de huelga de hambre indefinida de seis estudiantes tribales en el Government Tribal Hostel de Hadapsar (Manjari), Pune, contra las nuevas Resoluciones Gubernamentales (GR) del 5 y 14 de agosto de 2026 que imponen un límite de edad de 30 años para el alojamiento en hostales tribales, entre otras restricciones. Aunque el ministro de Desarrollo Tribal Ashok Uike eliminó el límite de edad oralmente, los estudiantes se niegan a levantar la huelga hasta obtener compromisos por escrito y la derogación total de las nuevas GR. Entre las demandas: compensación de ₹1 crore para las familias de tres estudiantes tribales muertas por mordedura de serpiente en Gadchiroli, seguro de ₹1 crore para cada estudiante, mejoras de infraestructura, reclutamiento de 12.500 puestos vacantes y el respeto a los derechos PESA. La oposición política, incluida una carta abierta de Rahul Gandhi al CM Fadnavis, respalda la causa.",
     "status": "en_curso",
     "lat": 18.4872,
     "lng": 73.9564,
     "fuentes": [
       "https://timesofindia.indiatimes.com/city/pune/opposition-rallies-behind-protesting-tribal-students-in-pune-after-rahul-gandhis-letter-to-cm/articleshow/133523396.cms",
-      "https://www.jagranjosh.com/news/pune-tribal-students-hunger-strike-enters-12th-day-delegation-meets-maharashtra-minister-in-mumbai-186841",
       "https://www.freepressjournal.in/pune/12-days-on-tribal-students-hunger-strike-continues-in-punes-manjari-age-cap-hostel-conditions-insurance-recruitment-among-key-demands",
       "https://www.thehindu.com/news/national/maharashtra/pune-tribal-students-continue-hunger-strike-for-10th-consecutive-day/article71382076.ece",
       "https://www.andhrapradeshmirror.com/news/maharashtra-tribal-development-minister-says-protesting-adivasi-students-in-pune-to-receive-everything-in-writing20260829181848/"
     ],
     "createdAt": "2026-08-26T02:45:30.000Z",
-    "updatedAt": "2026-08-29T22:39:22Z"
+    "updatedAt": "2026-08-30T01:11:00Z"
   },
   {
-    "id": "int-2026-08-29-georgia-tbilisi-636th-day-proeu",
-    "seccion": "protestas_int",
-    "pais": "Georgia",
-    "bandera": "🇬🇪",
-    "hora": "día 639 de protesta; reunión diaria frente al Parlamento en Tbilisi; marchas en Tbilisi, Batumi y Kutaisi",
-    "fecha": "2026-08-29",
-    "lugar": "Tbilisi, Batumi y Kutaisi, Georgia: frente al Parlamento en Tbilisi",
-    "tipoAccion": "protesta continua / marcha",
-    "organizaciones": [
-      "Coalición opositora pro-UE",
-      "Organizaciones de sociedad civil",
-      "Partidarios de la eurointegración"
-    ],
-    "motivo": "Día 639 consecutivo de protestas pro-UE en Georgia, exigiendo: retorno a la senda de eurointegración, liberación de presos políticos (más de 150, incluyendo la periodista Mzia Amaglobeli), nuevas elecciones parlamentarias y derogación de leyes antidemocráticas. El 25 de agosto se realizó una marcha de solidaridad con el Día de la Independencia de Ucrania. Las reuniones diarias frente al Parlamento en Tbilisi continúan, así como marchas en Batumi y Kutaisi.",
-    "status": "en_curso",
-    "lat": 41.7151,
-    "lng": 44.8271,
-    "fuentes": [
-      "https://www.eng.kavkaz-uzel.eu/articles/78010",
-      "https://jam-news.net/when-the-state-serves-an-oligarch-villages-and-cities-empty-out-video-podcast-protests-in-georgia/"
-    ],
-    "createdAt": "2026-08-26T08:38:54.000Z",
-    "updatedAt": "2026-08-29T22:39:22Z"
-  },
-  {
-    "id": "int-2026-08-29-albania-tirana-88th-day-anti-gov-protest",
-    "seccion": "protestas_int",
-    "pais": "Albania",
-    "bandera": "🇦🇱",
-    "hora": "reunión diaria en Skënderbej Square y marcha hasta el Prime Minister's Office; jornada 91 consecutiva; los manifestantes reiteran la exigencia de renuncia de Edi Rama",
-    "fecha": "2026-08-29",
-    "lugar": "Skënderbej Square → Prime Minister's Office, Tirana, Albania",
-    "tipoAccion": "manifestación / marcha",
-    "organizaciones": [
-      "Movimiento ciudadano pro-unión",
-      "Colectivos juveniles",
-      "Organizaciones de sociedad civil"
-    ],
-    "motivo": "91.º día consecutivo de protestas ciudadanas en Tirana contra el Primer Ministro Edi Rama, exigiendo su renuncia y la conformación de un gobierno técnico transitorio con mandato de 12 meses para preparar nuevas elecciones. Los manifestantes se reúnen diariamente en Skënderbej Square y marchan hasta la sede del gobierno. En la jornada de este sábado los manifestantes denunciaron la detención de dos personas cerca de la sede del Partido Socialista, en la zona donde se esperaba una reunión convocada por el primer ministro Rama, que según el movimiento llevaban huevos y tomates. El movimiento, que comenzó hace casi tres meses, mantiene su exigencia de remoción del mandatario y una ruptura con la clase política actual. Los organizadores afirman que no habrá retirada hasta que las demandas sean atendidas.",
-    "status": "en_curso",
-    "lat": 41.3275,
-    "lng": 19.8187,
-    "fuentes": [
-      "https://balkanweb.com/en/91-days-of-revolt--citizens-continue-protests--Rama%27s-resignation-is-demanded--Albania-belongs-to-the-youth--not-the-party/",
-      "https://en.panorama.com.al/protesta-e-91-te-kunder-keqqeverisjes-qytetaret-rikthehen-ne-shesh-te-vendosur-rama-jep-doreheqjen/",
-      "https://aktualitet.al/2026/08/26/87th-protest-tirana-calls-outside-prime-ministers-office-resignation-technical-government/",
-      "https://en.panorama.com.al/revolta-kombetare-kunder-keqqeverisjes-ne-diten-e-87-te-protestuesit-nisin-marshimin-neper-tirane-rama-jep-doreheqjen/",
-      "https://sot.com.al/protesta-ne-diten-e-91-nis-organizimi-i-qytetareve-ne-sheshin-skenderbej-rama-jep-doreheqjen-i5180907",
-      "https://www.hashtag.al/index.php/2026/08/29/se-shesim-shqiperine-ne-shesh-derisa-te-ike-rama-mbyllet-protesta-e-91-te/"
-    ],
-    "createdAt": "2026-08-26T11:55:57.000Z",
-    "updatedAt": "2026-08-29T22:39:22Z"
-  },
-  {
-    "id": "int-2026-08-29-india-maratha-quota-hunger-strike-jarange",
+    "id": "int-2026-08-30-india-maratha-quota-jarange",
     "seccion": "protestas_int",
     "pais": "India",
     "bandera": "🇮🇳",
-    "hora": "inicio a las 09:00 del 11.º ayuno de hambre indefinido en Antarwali Sarati (distrito de Jalna); caravana de solidaridad de 1.000 autorickshaws desde el distrito de Dharashiv hacia el lugar del ayuno; posible marcha en cinco fases hacia Mumbai si no hay respuesta",
-    "fecha": "2026-08-29",
+    "hora": "día 2 del 11.º ayuno de hambre indefinido en Antarwali Sarati (distrito de Jalna); la comunidad respalda con llegadas masivas y advierte posible marcha de cinco fases a Mumbai",
+    "fecha": "2026-08-30",
     "lugar": "Antarwali Sarati, distrito de Jalna, Maharashtra, India; posible marcha hacia Mumbai (Azad Maidan, Shivaji Park o Varsha)",
     "tipoAccion": "huelga de hambre / agitación",
     "organizaciones": [
@@ -408,7 +234,7 @@
       "Movimiento Maratha Kranti Morcha",
       "Comunidad Maratha de Maharashtra"
     ],
-    "motivo": "El activista por la cuota Maratha Manoj Jarange-Patil inició este 29 de agosto una huelga de hambre indefinida en su aldea de Antarwali Sarati (distrito de Jalna, Maharashtra) para exigir la reserva de la comunidad Maratha bajo la categoría OBC (Other Backward Classes) mediante la emisión de certificados de casta Kunbi basados en los 58 lakh de registros identificados. La dirigencia del gobierno de Maharashtra (ministros) se reunió con Jarange para pedirle reconsiderar la medida, pero él se mantuvo firme, advirtiendo que si sus demandas no son atendidas realizará una marcha de cinco fases hacia Mumbai ('Chalo Mumbai'), que describió como la 'última lucha' por la cuota Maratha, y amenazó con la movilización de 80 a 90 lakh de jóvenes que podrían paralizar aeropuertos y trenes. Jarange acusó al gobierno de reducir el número de certificados Kunbi emitidos. Se trata de una agitación por la reserva educativa y laboral de la comunidad Maratha. El 29 de agosto Manoj Jarange-Patil inició en Antarwali Sarati su undécima huelga de hambre indefinida (fast unto death) por la reserva Maratha, declarando que la lucha de tres años de la comunidad está 'al borde de la victoria' y apelando a la comunidad a salir a las calles y reunirse en el lugar de protesta. Para expresar solidaridad, la comunidad decidió organizar ese mismo sábado una caravana de 1.000 autorickshaws desde el distrito de Dharashiv, con miles de activistas esperados en la zona de Antarwali Sarati.",
+    "motivo": "El activista por la cuota Maratha Manoj Jarange-Patil inició el 29 de agosto su undécima huelga de hambre indefinida (fast unto death) en su aldea de Antarwali Sarati (Jalna) para exigir la reserva de la comunidad Maratha bajo la categoría OBC mediante la emisión de certificados de casta Kunbi basados en los 58 lakh de registros identificados, acusando al gobierno de reducir los certificados emitidos. La dirigencia del gobierno de Maharashtra se reunió con él para pedirle reconsiderar la medida, pero se mantuvo firme, advirtiendo que si sus demandas no son atendidas realizará una marcha de cinco fases hacia Mumbai ('Chalo Mumbai'), que describió como la 'última lucha', con amenaza de movilizar a 80-90 lakh de jóvenes. Para expresar solidaridad, la comunidad organizó una caravana de 1.000 autorickshaws desde Dharashiv y llamó a miles de activistas a concentrarse en Antarwali Sarati.",
     "status": "en_curso",
     "lat": 19.97,
     "lng": 75.87,
@@ -419,278 +245,22 @@
       "https://ommcomnews.com/india-news/manoj-jarange-patil-begins-fresh-fast-unto-death-for-maratha-reservation-calls-for-unity-till-demands-are-met/"
     ],
     "createdAt": "2026-08-29T01:26:50.000Z",
-    "updatedAt": "2026-08-29T22:39:22Z"
+    "updatedAt": "2026-08-30T01:11:00Z"
   },
   {
-    "id": "int-2026-08-29-usa-massachusetts-pancartas-contra-guerra-cuba",
-    "seccion": "protestas_int",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
-    "hora": "despliegue coordinado de pancartas desde las 10:30 en pasos elevados de autopistas",
-    "fecha": "2026-08-29",
-    "lugar": "Boston, Worcester, Leominster y Holyoke, Massachusetts, Estados Unidos (pasos elevados de autopistas)",
-    "tipoAccion": "acción de protesta / despliegue de pancartas",
-    "organizaciones": [
-      "Activistas de la solidaridad con Cuba en Massachusetts",
-      "Common Ground Education & Travel Services"
-    ],
-    "motivo": "Activistas de la solidaridad de todo el estado de Massachusetts desplegaron este sábado 29 de agosto grandes pancartas con el lema 'No a la guerra contra Cuba' desde pasos elevados de autopistas en Boston, Worcester, Leominster y Holyoke, ante la creciente preocupación por la escalada de presión económica y militar del gobierno de Trump sobre la isla. La acción coordinada se produce pocos días después de que la administración estadounidense anunciara, el 20 de agosto, una nueva ronda de sanciones contra personas e instituciones cubanas. Los organizadores señalan que las acciones buscan llamar la atención pública sobre la intensificación de la campaña estadounidense, que agrava la crisis económica, energética y humanitaria del archipiélago y aumenta el riesgo de una confrontación militar.",
-    "status": "en_curso",
-    "lat": 42.3601,
-    "lng": -71.0589,
-    "fuentes": [
-      "https://www.juventudrebelde.cu/internacionales/2026-08-28/mensajes-contra-la-guerra-en-autopistas-estadounidenses"
-    ],
-    "createdAt": "2026-08-29T13:55:23.000Z",
-    "updatedAt": "2026-08-29T22:39:22Z"
-  },
-  {
-    "id": "int-2026-08-29-spain-palma-cadena-humana-antiturismo",
-    "seccion": "protestas_int",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "cadena humana 'a la fresca' desde las 19:00, de la plaza de España al Consolat de Mar",
-    "fecha": "2026-08-29",
-    "lugar": "Palma de Mallorca, Islas Baleares, España: de la plaza de España al Consolat de Mar",
-    "tipoAccion": "cadena humana / manifestación",
-    "organizaciones": [
-      "Madò Farta (activista)",
-      "GOB (Grup d'Ornitologia Balear)",
-      "Terraferida",
-      "Entidades ciudadanas contra la saturación turística"
-    ],
-    "motivo": "Una cadena humana 'a la fresca', desde la plaza de España hasta el Consolat de Mar (sede del Govern balear), convocada por la activista 'Madò Farta' y secundada por GOB y Terraferida, como nueva protesta contra la masificación turística de Mallorca y el 'silencio' del Govern y del Consell de Mallorca ante la saturación turística. Los organizadores pidieron a los asistentes llevar una silla, un bolígrafo y una camiseta verde, roja o blanca (los colores de los siurells) para reivindicar la costumbre de 'tomar la fresca' en la calle. Durante la protesta los participantes escribieron en papeles el modelo de isla que quieren, que voluntarios llevaron después a Consolat de Mar. La protesta llega tras la manifestación 'Mallorca al Límit' del 26 de julio que reunió a más de 70.000 personas, y tras la criminalización denunciada por las activistas.",
-    "status": "en_curso",
-    "lat": 39.5749,
-    "lng": 2.6528,
-    "fuentes": [
-      "https://www.europapress.es/illes-balears/noticia-nueva-protesta-contra-masificacion-turistica-cadena-humana-fresca-plaza-espana-consolat-mar-20260829102956.html",
-      "https://www.diariodemallorca.es/mallorca/2026/08/26/cadena-fresca-recorrera-palma-reclamar-133666932.html"
-    ],
-    "createdAt": "2026-08-29T13:55:23.000Z",
-    "updatedAt": "2026-08-29T22:39:22Z"
-  },
-  {
-    "id": "int-2026-08-29-spain-valencia-concentracion-mazon-dana",
-    "seccion": "protestas_int",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "concentración a las 19:00 en la plaza de la Virgen",
-    "fecha": "2026-08-29",
-    "lugar": "Plaza de la Virgen, València, Comunitat Valenciana, España (junto al Palau de la Generalitat)",
-    "tipoAccion": "concentración / manifestación",
-    "organizaciones": [
-      "Asociaciones de víctimas de la dana del 29 de octubre de 2024",
-      "Comités Locales de Emergencia y Reconstrucción (CLER)",
-      "Acord Social Valencià",
-      "Más de 200 entidades cívicas, sociales y sindicales de la Comunitat Valenciana"
-    ],
-    "motivo": "Nueva concentración mensual en València bajo el lema 'Mazón a presó', convocada cuando se cumplen 22 meses de la dana del 29 de octubre de 2024 que dejó 231 víctimas mortales en la provincia de Valencia y en el marco de la serie de actos mensuales que las entidades mantienen desde hace meses. La protesta, bajo el lema 'La memoria no coge vacaciones', reclama que se retire el acta de diputado al expresident Carlos Mazón para que deje de estar aforado y pueda ser investigado penalmente en la causa abierta en el juzgado de Catarroja por la gestión de la emergencia. Durante la concentración, representantes de las asociaciones de víctimas y de los CLER leyeron en público las preguntas que, según denuncian, siguen sin responder (por qué la alerta llegó tarde, quién responde por lo que no se hizo), con la actuación del cantautor Pau Alabajos y la colla de tabal i dolçaina.",
-    "status": "en_curso",
-    "lat": 39.4762,
-    "lng": -0.3753,
-    "fuentes": [
-      "https://actualidadvalencia.com/concentracion-valencia-29-agosto-dana-2024-mazon/",
-      "https://actualidadvalencia.com/victimas-dana-29-octubre-concentracion-valencia-aforamiento-mazon/",
-      "http://www.gentedigital.es/valencia/noticia/4387815/la-memoria-no-coge-vacaciones-valencia-acoge-este-sabado-una-nueva-concentracion-con-el-lema-mazon-a-preso/"
-    ],
-    "createdAt": "2026-08-29T13:55:23.000Z",
-    "updatedAt": "2026-08-29T22:39:22Z"
-  },
-  {
-    "id": "int-2026-08-29-spain-barbastro-bomberos-forestales",
-    "seccion": "protestas_int",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "concentración a las 10:00 en la plaza Aragón, en el marco de la huelga en curso del colectivo",
-    "fecha": "2026-08-29",
-    "lugar": "Plaza Aragón, Barbastro, Huesca, Aragón, España",
-    "tipoAccion": "concentración / huelga",
-    "organizaciones": [
-      "OSTA",
-      "CGT",
-      "CCOO",
-      "UGT",
-      "Bomberos forestales de Aragón"
-    ],
-    "motivo": "Nueva concentración de bomberos forestales en Barbastro bajo el lema 'Por los derechos laborales de l@s bomber@s forestales', respaldada por los sindicatos OSTA, CGT, CCOO y UGT, para reclamar condiciones laborales dignas, el reconocimiento de la importancia de su trabajo y unas condiciones adecuadas para afrontar una labor esencial para la protección de los montes y de toda la ciudadanía: la prevención y extinción de incendios. El colectivo mantiene en curso una huelga como herramienta de presión para conseguir avances en sus reivindicaciones.",
-    "status": "en_curso",
-    "lat": 42.0357,
-    "lng": 0.1268,
-    "fuentes": [
-      "https://www.elcruzado.es/concentracion-de-bomberos-forestales-para-este-sabado-29-en-barbastro/"
-    ],
-    "createdAt": "2026-08-29T13:55:23.000Z",
-    "updatedAt": "2026-08-29T22:39:22Z"
-  },
-  {
-    "id": "int-2026-08-29-spain-armada-solidaridad-ceuta",
-    "seccion": "protestas_int",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "travesía marítima de unas 60 embarcaciones este sábado hacia Ceuta por el Estrecho (los vecinos suspendieron las marchas del fin de semana tras detectar grupos radicales)",
-    "fecha": "2026-08-29",
-    "lugar": "Estrecho de Gibraltar: desde la Costa del Sol y el Campo de Gibraltar hasta Ceuta, España",
-    "tipoAccion": "movilización marítima cívica / caravana solidaria",
-    "organizaciones": [
-      "Armada de la Solidaridad ('Unidos por Ceuta, unidos por España')",
-      "Promovida por Marcos de Quinto, Amalio de Marichalar y otros",
-      "Club náuticos y embarcaciones deportivas de Algeciras y el Campo de Gibraltar"
-    ],
-    "motivo": "La 'Armada de la Solidaridad', integrada por unas 60 embarcaciones procedentes de la Costa del Sol y el Campo de Gibraltar, cruza este sábado el Estrecho rumbo a Ceuta bajo el lema 'Unidos por Ceuta, unidos por España', como iniciativa cívica y pacífica de apoyo a los ciudadanos de la ciudad autónoma frente a la crisis migratoria posterior a la entrada masiva de migrantes del 30 y 31 de julio. La travesía, inicialmente prevista para el 23 de agosto y aplazada por el mal tiempo, coincide con la suspensión de las marchas vecinales diarias de este fin de semana, anunciada por los organizadores tras detectar la llegada a Ceuta de grupos radicales 'que alientan la violencia'. En paralelo, la Federación Provincial de Asociaciones de Vecinos (FPAV) y 'Foro Ceuta Siglo XXI' unificaron su gran movilización conjunta para el 2 de septiembre (Día de Ceuta), junto a concentraciones en más de 260 municipios españoles.",
-    "status": "en_curso",
-    "lat": 35.8894,
-    "lng": -5.3218,
-    "fuentes": [
-      "https://www.europasur.es/campo-de-gibraltar/armada-solidaridad-60-barcos-cruzara-estrecho-apoyo-ceuta_0_2007818267.html",
-      "https://www.infobae.com/espana/agencias/2026/08/29/ceuta-afronta-un-fin-de-semana-sin-movilizaciones-tras-varios-dias-de-protestas/",
-      "https://www.cope.es/actualidad/espana/noticias/vecinos-ceuta-cancelan-marcha-nocturna-hoy-detectar-llegada-grupos-radicales-20260829_3426967.html",
-      "https://www.rtve.es/noticias/20260829/asociaciones-vecinales-ceuta-suspenden-protestas-contra-migrantes-evitar-episodios-violentos/17205827.shtml",
-      "https://www.lasexta.com/noticias/sociedad/semana-limite-ceuta-tension-vecinal-disturbios-cancelacion-manifestaciones-pacificas-llegada-ultras_202608296a92add0d16f763504a5b1a0.html"
-    ],
-    "createdAt": "2026-08-29T13:55:23.000Z",
-    "updatedAt": "2026-08-29T22:39:22Z"
-  },
-  {
-    "id": "int-2026-08-29-italy-movilizacion-nacional-ddl-caccia",
-    "seccion": "protestas_int",
-    "pais": "Italia",
-    "bandera": "🇮🇹",
-    "hora": "movilización nacional el 29 y 30 de agosto por la tarde en plazas de 13 ciudades",
-    "fecha": "2026-08-29",
-    "lugar": "Arezzo, Bologna, Brescia, Cremona, Livorno, Macerata, Mantova, Milano, Roma, Palermo, Pordenone, Vercelli y Verona, Italia",
-    "tipoAccion": "movilización / presidio / manifestación",
-    "organizaciones": [
-      "Colectivo mantovano No Food No Science",
-      "Rete ecosocialista romana",
-      "Asociaciones y colectivos antiespecistas y veganos",
-      "Colectivos feministas, ambientalistas y de solidaridad con Palestina"
-    ],
-    "motivo": "Movilización nacional 'Nessun bersaglio' ('Ningún objetivo') contra el DDL Caccia, el proyecto de ley sobre la caza aprobado en el Senado el 23 de junio y actualmente en examen en la Cámara, que modifica la ley 157/1992 de protección de la fauna silvestre y de la actividad de caza. Grupos antiespecistas, veganos, feministas, ambientalistas y de solidaridad con el pueblo palestino convocaron dos jornadas (29 y 30 de agosto) de iniciativas, performances y lecturas en espacios públicos de trece ciudades italianas para rechazar un modelo que 'sigue atribuyendo a las armas y a la matanza un papel central en la gestión de la fauna silvestre', reclamando la tutela de los hábitats, la prevención y el progresivo abandono de la caza como herramienta ordinaria de gestión. En Arezzo, el presidio de la asociación Muschio ODV se celebró a las 17:30 en la Piazza San Jacopo; en Roma, a cargo de la Rete ecosocialista romana, en vísperas de la apertura de la temporada de caza.",
-    "status": "en_curso",
-    "lat": 41.9028,
-    "lng": 12.4964,
-    "fuentes": [
-      "https://www.ilfattoquotidiano.it/2026/08/28/ddl-caccia-manifestazioni-13-citta-notizie/8490830/",
-      "https://www.lanazione.it/arezzo/cronaca/nessun-bersaglio-il-29-e-30-agosto-mobilitazione-nazionale-contro-il-ddl-caccia-ss39yhea"
-    ],
-    "createdAt": "2026-08-29T13:55:23.000Z",
-    "updatedAt": "2026-08-29T22:39:22Z"
-  },
-  {
-    "id": "int-2026-08-29-italy-alghero-camminata-palestina",
-    "seccion": "protestas_int",
-    "pais": "Italia",
-    "bandera": "🇮🇹",
-    "hora": "caminata desde las 18:30 desde la playa del Lido hasta Largo San Francesco, con presidio final",
-    "fecha": "2026-08-29",
-    "lugar": "Alghero, Cerdeña, Italia: de la playa del Lido a Largo San Francesco",
-    "tipoAccion": "caminata / presidio",
-    "organizaciones": [
-      "Alghero per la Palestina",
-      "Asociaciones y colectivos locales de solidaridad con Palestina"
-    ],
-    "motivo": "Caminata por Palestina en Alghero (Cerdeña), convocada por 'Alghero per la Palestina', que partió a las 18:30 de la playa del Lido hasta Largo San Francesco, donde se celebró un presidio con intervenciones y las imágenes de la exposición (d)istruzione, en solidaridad con el pueblo palestino y la población de Gaza en el contexto de la guerra y la campaña israelí contra la Franja.",
-    "status": "en_curso",
-    "lat": 40.5606,
-    "lng": 8.32,
-    "fuentes": [
-      "https://algherolive.it/2026/08/26/sabato-29-agosto-camminata-per-la-palestina-ad-alghero-dal-lido-in-largo-san-francesco/"
-    ],
-    "createdAt": "2026-08-29T13:55:23.000Z",
-    "updatedAt": "2026-08-29T22:39:22Z"
-  },
-  {
-    "id": "int-2026-08-29-canada-ontario-fight-ford-protests",
-    "seccion": "protestas_int",
-    "pais": "Canadá",
-    "bandera": "🇨🇦",
-    "hora": "jornada de protestas 'Fight Ford' en decenas de localidades de Ontario entre las 09:00 y las 15:00",
-    "fecha": "2026-08-29",
-    "lugar": "Decenas de ciudades y localidades de Ontario, Canadá (Toronto, Ottawa, London, Hamilton, Kingston, Guelph, Sudbury, Windsor, St. Catharines, Niagara Falls, Brockville, Peterborough, Sarnia, Welland, Owen Sound, Newmarket, Mississauga, entre otras)",
-    "tipoAccion": "protesta / manifestación coordinada",
-    "organizaciones": [
-      "Leeds Grenville Labour Council",
-      "Consejos laborales de Ontario",
-      "OPSEU/SEFPO y otros sindicatos",
-      "Movimiento ciudadano 'Fight Ford / protestdougford.com'"
-    ],
-    "motivo": "Jornada provincial de protesta 'Fight Ford' contra el gobierno del premier de Ontario Doug Ford, con concentraciones coordinadas en decenas de localidades el sábado 29 de agosto, convocadas por consejos laborales y el movimiento ciudadano contra las políticas de Ford: demanda de salarios y condiciones de trabajo justas, oposición a la privatización de los servicios públicos y lucha por la defensa de la educación pública bajo el lema 'Fight Ford and fight for public education on August 29' ('Peleá contra Ford y por la educación pública el 29 de agosto'). El Leeds Grenville Labour Council convocó la protesta de Brockville a las 11:00 en Thousand Islands Secondary School. La jornada se desarrolla en el contexto de la huelga en curso de los trabajadores de OPSEU/SEFPO y de la posibilidad de que los docentes se declaren en huelga en otoño. Se registraron acciones en Toronto, Ottawa, London, Kingston, Guelph, Sudbury, Windsor, Welland, Peterborough, Sarnia, St. Catharines, Niagara Falls, North Bay, Owen Sound, Newmarket y Mississauga, entre otras.",
-    "status": "en_curso",
-    "lat": 43.6532,
-    "lng": -79.3832,
-    "fuentes": [
-      "https://protestdougford.com/aug-29th-protest-locations/",
-      "https://lanarkleedstoday.ca/2026/08/19/another-local-protest-against-doug-ford-planned-for-august-29th/"
-    ],
-    "createdAt": "2026-08-29T13:55:23.000Z",
-    "updatedAt": "2026-08-29T22:39:22Z"
-  },
-  {
-    "id": "int-2026-08-29-uk-london-ukip-counterprotest-sharia",
-    "seccion": "protestas_int",
-    "pais": "Reino Unido",
-    "bandera": "🇬🇧",
-    "hora": "marcha 'No to Sharia Law' de UKIP desde Hyde Park Corner (11:30) por Piccadilly, St James's Street y Pall Mall hasta Downing Street / Whitehall, con restricciones de la Policía Metropolitana; contraprotesta estática de Stand Up To Racism en Richmond Terrace; ambos actos deben terminar a las 16:30",
-    "fecha": "2026-08-29",
-    "lugar": "Londres, Inglaterra, Reino Unido: desde Hyde Park Corner hacia Downing Street vía Piccadilly, St James's Street y Pall Mall; contraprotesta en Richmond Terrace (junto a Downing Street)",
-    "tipoAccion": "marcha / contraprotesta",
-    "organizaciones": [
-      "UKIP / Unite the People (organiza Nick Tenconi)",
-      "Stand Up To Racism (contraprotesta 'Don't let Fascists come to Edgware Road')",
-      "Policía Metropolitana de Londres (Met)"
-    ],
-    "motivo": "Marcha convocada por UKIP y su dirigente Nick Tenconi bajo el lema 'No to Sharia Law' (anti-islámica), inicialmente prevista en Edgware Road pero trasladada y restringida por la Policía Metropolitana bajo la Public Order Act ante temores de 'serious disorder': los participantes deben reunirse desde las 11:30 en Hyde Park Corner y seguir una ruta fijada por Piccadilly, St James's Street y Pall Mall hasta terminar frente a Downing Street a través de Whitehall, no pudiendo concentrarse antes ni extenderse después de las 16:30. En respuesta, el grupo antirracista Stand Up To Racism convocó una contraprotesta estática 'Don't let Fascists come to Edgware Road' frente a Downing Street, en Richmond Terrace, que debía concluir también a las 16:30, bajo el lema 'Don't let the far right spread their message of hate'. La marcha provocó rechazo de la vicealcaldesa de Westminster Caroline Sargent y de la diputada Georgia Gould por promover 'odio, división e intimidación'. La policía advirtió que quien incumpla las condiciones comete un delito penal.",
-    "status": "en_curso",
-    "lat": 51.5027,
-    "lng": -0.1536,
-    "fuentes": [
-      "https://www.standard.co.uk/news/london/ukip-nick-tenconi-protest-london-edgware-road-b1294975.html",
-      "https://www.standard.co.uk/news/london/met-police-restrict-ukip-march-edgware-road-sharia-law-protest-b1294892.html",
-      "https://www.counterfire.org/event/london-stand-up-to-racism-counter-demo/",
-      "https://marble-arch.london/security-updates/"
-    ],
-    "createdAt": "2026-08-29T17:29:56.000Z",
-    "updatedAt": "2026-08-29T22:39:22Z"
-  },
-  {
-    "id": "int-2026-08-29-india-pojk-jaac-sitins-bloqueos",
+    "id": "int-2026-08-30-india-iit-delhi-protesta",
     "seccion": "protestas_int",
     "pais": "India",
     "bandera": "🇮🇳",
-    "hora": "sentadas masivas ('sit-ins') convocadas desde las 13:30 en Dhirkot (división Poonch) y marchas simultáneas en las divisiones de Mirpur y Muzaffarabad; marchas de solidaridad de la diáspora en Reino Unido e Italia",
-    "fecha": "2026-08-29",
-    "lugar": "PoJK (Pakistán-ocupado Jammu y Cachemira): Dhirkot (Poonch), divisiones de Mirpur y Muzaffarabad; marchas de solidaridad de la diáspora en Reino Unido e Italia",
-    "tipoAccion": "sentada / manifestación de movilización",
-    "organizaciones": [
-      "Jammu Kashmir Joint Awami Action Committee (JKJAAC)",
-      "Estudiantes, familias y sociedad civil de PoJK",
-      "Diáspora cachemira en Reino Unido y Europa"
-    ],
-    "motivo": "El Jammu Kashmir Joint Awami Action Committee (JKJAAC), liderado por Umar Nazir Kashmiri, convocó sentadas masivas ('mass sit-ins') en toda la PoJK (Cachemira ocupada por Pakistán) este sábado 29 de agosto, denunciando que los despliegues de seguridad y los bloqueos han impedido el acceso a la educación y la atención sanitaria básicas en varias zonas de la región. La manifestación principal estaba programada a las 13:30 en Dhirkot (división de Poonch), con un llamamiento para que mujeres y estudiantes lideraran la protesta y familias llevaran a sus hijos con uniforme escolar y mochilas para visibilizar las restricciones a la educación. Se pidieron marchas de solidaridad simultáneas en las divisiones de Mirpur y Muzaffarabad. El comité exigió la retirada de los bloqueos de seguridad y la restauración del acceso normal a escuelas y hospitales, denunciando que fuerzas de seguridad han ocupado instituciones educativas y grandes instalaciones médicas, mientras toques de queda y cordones restrictivos limitan la circulación civil. También anunció marchas de solidaridad en Birmingham (Reino Unido) e Italia.",
-    "status": "en_curso",
-    "lat": 33.98,
-    "lng": 73.85,
-    "fuentes": [
-      "https://thenorthlines.com/jaac-announces-mass-sit-ins-across-pojk-over-security-blockades/"
-    ],
-    "createdAt": "2026-08-29T17:29:56.000Z",
-    "updatedAt": "2026-08-29T22:39:22Z"
-  },
-  {
-    "id": "int-2026-08-29-india-iit-delhi-student-protest",
-    "seccion": "protestas_int",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "agitación estudiantil en curso (quinto/leyta jornada consecutiva); protestas y marchas dentro y en torno al campus del IIT-Delhi",
-    "fecha": "2026-08-29",
+    "hora": "sexta jornada consecutiva de agitación estudiantil; protestas y marchas dentro y en torno al campus del IIT-Delhi",
+    "fecha": "2026-08-30",
     "lugar": "Instituto Indio de Tecnología de Delhi (IIT-Delhi), Nueva Delhi, India: campus universitario, puerta principal y zona residencial de profesores",
     "tipoAccion": "protesta estudiantil / agitación",
     "organizaciones": [
       "Estudiantes del IIT-Delhi (diversos departamentos)",
       "Colectivos estudiantiles"
     ],
-    "motivo": "Quinta jornada consecutiva de protesta de cientos de estudiantes del Instituto Indio de Tecnología de Delhi (IIT-D) por la muerte de Rishikesh Kumar, estudiante de 31 años del MSc de Física, fallecido el 22 de agosto tras, según las autoridades, lanzarse del sexto piso del Lecture Hall Complex. Los estudiantes exigen: la renuncia del decano de Asuntos Estudiantiles, una investigación independiente sobre las presuntas fallas institucionales, una compensación de ₹1 crore para la familia de Kumar, y garantías de que no se tomarán acciones contra quienes participaron en la agitación. La protesta, iniciada el 24 de agosto y con participación de varios departamentos, escaló en la noche del 27 de agosto cuando un grupo se trasladó a la zona residencial del campus frente a las viviendas del profesorado; la dirección del instituto, en un correo el 29 de agosto, denunció el uso de un 'lenguaje desagradable, humillante y amenazante' y anunció medidas disciplinarias, mientras los estudiantes mantienen su impasse con la administración.",
+    "motivo": "Sexta jornada consecutiva de protesta de cientos de estudiantes del Instituto Indio de Tecnología de Delhi (IIT-D) por la muerte de Rishikesh Kumar, estudiante de 31 años del MSc de Física, fallecido el 22 de agosto tras, según las autoridades, lanzarse del sexto piso del Lecture Hall Complex. Los estudiantes exigen la renuncia del decano de Asuntos Estudiantiles, una investigación independiente sobre las presuntas fallas institucionales, una compensación de ₹1 crore para la familia y garantías de que no se tomarán acciones contra los participantes. El 29 de agosto la dirección del instituto denunció en un correo el uso de un 'lenguaje desagradable, humillante y amenazante' y anunció medidas disciplinarias, mientras los estudiantes mantienen el impasse con la administración.",
     "status": "en_curso",
     "lat": 28.5437,
     "lng": 77.1933,
@@ -699,226 +269,383 @@
       "https://www.outlookindia.com/national/iit-delhi-director-warns-of-action-over-midnight-protests-seeking-probe-into-students-death"
     ],
     "createdAt": "2026-08-29T17:29:56.000Z",
-    "updatedAt": "2026-08-29T22:39:22Z"
+    "updatedAt": "2026-08-30T01:11:00Z"
   },
   {
-    "id": "int-2026-08-29-venezuela-caracas-chavistas",
+    "id": "int-2026-08-30-italy-ddl-caccia-movilizacion",
     "seccion": "protestas_int",
-    "pais": "Venezuela",
-    "bandera": "🇻🇪",
-    "hora": "concentración de decenas de chavistas este sábado en el centro de Caracas (avenida Universidad, La Hoyada) contra el acuerdo petrolero firmado con Estados Unidos y por la liberación de Nicolás Maduro y Cilia Flores",
-    "fecha": "2026-08-29",
-    "lugar": "Centro de Caracas, Distrito Capital, Venezuela",
-    "tipoAccion": "concentración / manifestación",
+    "pais": "Italia",
+    "bandera": "🇮🇹",
+    "hora": "segunda y última jornada de la movilización nacional contra el DDL Caccia, con iniciativas por la tarde en plazas de 13 ciudades",
+    "fecha": "2026-08-30",
+    "lugar": "Arezzo, Bologna, Brescia, Cremona, Livorno, Macerata, Mantova, Milano, Roma, Palermo, Pordenone, Vercelli y Verona, Italia",
+    "tipoAccion": "movilización / presidio / manifestación",
     "organizaciones": [
-      "Chavismo (movimiento oficialista)",
-      "Frente Popular Antiimperialista"
+      "Colectivo mantovano No Food No Science",
+      "Rete ecosocialista romana",
+      "Asociaciones y colectivos antiespecistas y veganos",
+      "Colectivos feministas, ambientalistas y de solidaridad con Palestina"
     ],
-    "motivo": "El Bloque Antiimperialista, integrado por colectivos de izquierda y chavistas, protestó este sábado 29 de agosto en la avenida Universidad, a la altura de La Hoyada, en el centro de Caracas, para rechazar el acuerdo petrolero firmado el viernes 28 de agosto entre el gobierno de Delcy Rodríguez y EE.UU., que otorga a Washington el control mayoritario sobre más de 65.000 millones de barriles de reservas probadas venezolanas, y para exigir la liberación de Nicolás Maduro y Cilia Flores, capturados el 3 de enero por tropas estadounidenses. Los manifestantes denunciaron que el convenio debió consultarse al pueblo, cuestionaron si con el petróleo venezolano se financiarán guerras, criticaron la presencia de EE.UU. e Israel y entregaron manifiestos entre los peatones de la zona, en rechazo también al proceso de diálogo con un sector de la oposición.",
+    "motivo": "Movilización nacional 'Nessun bersaglio' ('Ningún objetivo') contra el DDL Caccia, el proyecto de ley sobre la caza aprobado en el Senado el 23 de junio y actualmente en examen en la Cámara, que modifica la ley 157/1992 de protección de la fauna silvestre. Dos jornadas (29 y 30 de agosto) de iniciativas, performances y lecturas en espacios públicos de trece ciudades italianas para rechazar un modelo que 'sigue atribuyendo a las armas y a la matanza un papel central en la gestión de la fauna silvestre', reclamando la tutela de los hábitats, la prevención y el progresivo abandono de la caza como herramienta ordinaria de gestión, en vísperas de la apertura de la temporada de caza.",
     "status": "en_curso",
-    "lat": 10.4806,
-    "lng": -66.9036,
+    "lat": 41.9028,
+    "lng": 12.4964,
     "fuentes": [
-      "https://www.abc.es/economia/chavistas-rechazan-presencia-estados-unidos-venezuela-exigen-20260829211311-nt.html",
-      "https://caraotadigital.net/venezuela/en-video-bloque-antiimperialista-protesto-este-29ago-en-caracas-contra-el-acuerdo-petrolero-firmado-con-eeuu/",
-      "https://efectococuyo.com/politica/chavistas-rechazan-tutelaje-de-eeuu-y-exigen-liberacion-de-maduro/"
+      "https://www.ilfattoquotidiano.it/2026/08/28/ddl-caccia-manifestazioni-13-citta-notizie/8490830/",
+      "https://www.lanazione.it/arezzo/cronaca/nessun-bersaglio-il-29-e-30-agosto-mobilitazione-nazionale-contro-il-ddl-caccia-ss39yhea"
     ],
-    "createdAt": "2026-08-29T19:57:54.000Z",
-    "updatedAt": "2026-08-29T22:39:22Z"
+    "createdAt": "2026-08-29T13:55:23.000Z",
+    "updatedAt": "2026-08-30T01:11:00Z"
   },
   {
-    "id": "int-2026-08-29-uk-manchester-kimpton-clocktower-strike",
+    "id": "int-2026-08-30-pakistan-ji-sentinas-rally-rawalpindi",
     "seccion": "protestas_int",
-    "pais": "Reino Unido",
-    "bandera": "🇬🇧",
-    "hora": "huelga de 24 horas el sábado 29 de agosto (día del desfile del Manchester Pride); primera huelga de la hostelería en el noroeste de Inglaterra",
-    "fecha": "2026-08-29",
-    "lugar": "Hotel Kimpton Clocktower y su bar-restaurante The Refuge (Oxford Street), Manchester, Inglaterra, Reino Unido",
-    "tipoAccion": "huelga laboral / paro",
+    "pais": "Pakistán",
+    "bandera": "🇵🇰",
+    "hora": "continúan las sentadas contra el gravamen a los combustibles (petroleum levy); gran mitin de Jamaat-e-Islami en Rawalpindi este 30 de agosto; JI anunció un paro nacional para el 3 de septiembre",
+    "fecha": "2026-08-30",
+    "lugar": "Rawalpindi (mitin del 30 de agosto) y sentadas en curso en Lahore (The Mall/Faisal Chowk), Karachi, Peshawar y Quetta, Pakistán",
+    "tipoAccion": "sentada / mitin / protesta",
     "organizaciones": [
-      "Unite the Union",
-      "Trabajadores del Kimpton Clocktower y The Refuge"
+      "Jamaat-e-Islami (JI) Pakistán",
+      "Emir Hafiz Naeemur Rehman"
     ],
-    "motivo": "Huelga de 24 horas de los trabajadores del hotel Kimpton Clocktower (propiedad de InterContinental Hotels Group, IHG UK) y de su bar The Refuge durante la jornada más lucrativa del año para el empleador, coincidiendo con el desfile del Manchester Pride, en el marco de una larga disputa por el reconocimiento sindical. Los afiliados a Unite denuncian que IHG UK se niega a otorgar el reconocimiento formal del sindicato y que practica 'union busting', tras el despido de dos delegados sindicales por lo que el sindicato califica de 'acusaciones inventadas' por ejercer actividad sindical, algo ilegal según la legislación laboral británica. La secretaria general de Unite, Sharon Graham, afirmó que la dirección 'ha intimidado y practicado el union busting a cada paso'. Es la primera huelga de la historia del sector hostelero del noroeste de Inglaterra; anteriores paros este verano ya provocaron el cierre anticipado del bar durante varios eventos, y el Manchester City Council anunció que estudia cancelar su reserva para la gala Best of Manchester Awards de octubre.",
+    "motivo": "La campaña nacional de protesta de Jamaat-e-Islami contra el gravamen a los combustibles (petroleum levy), la inflación y el precio de la electricidad sigue activa, con sentadas que superaban las dos semanas en Lahore, Karachi, Peshawar y Quetta, y protestas simultáneas en varias ciudades. Este domingo 30 de agosto el partido celebró un gran mitin en Rawalpindi como parte del calendario de su campaña (Faisalabad el 28 de agosto, Swat el 4 de septiembre y Hazara el 11), después del cual su emir, Hafiz Naeemur Rehman, anunció un paro nacional pacífico para el 3 de septiembre y advirtió con bloqueos de rutas, una marcha larga y una paralización de Lahore y una marcha sobre Islamabad si el gobierno no elimina el gravamen, reduce los precios del combustible y el pan y renegocia con las IPPs.",
     "status": "en_curso",
-    "lat": 53.4765,
-    "lng": -2.2417,
+    "lat": 33.5651,
+    "lng": 73.0169,
     "fuentes": [
-      "https://www.unitetheunion.org/news-events/news/2026/august/kimpton-clocktower-workers-to-strike-during-manchester-pride",
-      "https://www.bbc.co.uk/news/articles/cwyz7mr21v8o",
-      "https://www.manchestereveningnews.co.uk/whats-on/music-nightlife-news/iconic-city-centre-hotel-kimpton-34507239",
-      "https://www.attitude.co.uk/news/kimpton-clocktower-to-strike-manchester-pride-party-shall-go-on-532440/"
+      "https://jaridatoday.com/jamaat-e-islami-announces-nationwide-strike-for-september-3-over-petroleum-levy/",
+      "https://sabahnews.net/english/news/hafiz-naeemur-rehman-sets-out-protest-roadmap-warns-govt-of-lahore-shutdown/",
+      "https://www.geo.tv/latest/678962-govt-giving-undue-margin-to-petrol-dealers-ji-protest-against-levy-continues",
+      "https://tribune.com.pk/story/2622579/ji-to-hold-nationwide-protests-today-at-4pm-against-fuel-prices-inflation"
     ],
-    "createdAt": "2026-08-29T19:57:54.000Z",
-    "updatedAt": "2026-08-29T22:39:22Z"
+    "createdAt": "2026-08-30T01:01:22.000Z",
+    "updatedAt": "2026-08-30T01:11:00Z"
   },
   {
-    "id": "int-2026-08-29-mexico-cdmx-concentraciones",
+    "id": "int-2026-08-30-mexico-dia-internacional-desaparicion",
     "seccion": "protestas_int",
     "pais": "México",
     "bandera": "🇲🇽",
-    "hora": "ocho concentraciones este sábado 29 de agosto en distintos puntos de la Ciudad de México, entre las 09:00 y las 16:00; sin marchas previstas según la SSC",
-    "fecha": "2026-08-29",
-    "lugar": "Ciudad de México, México: Plaza de Lectura José Saramago (Cuauhtémoc), Refugio Franciscano (Cuajimalpa), Centro Nacional de las Artes (Coyoacán), Plaza Tlaxcoaque (Centro), Parque El Pípila (Cuauhtémoc), Monumento a la Madre y Av. División del Norte y Av. Gran Canal (Benito Juárez / Gustavo A. Madero), Casa Refugio de la Memoria (Hipódromo) e INPI (Xoco)",
-    "tipoAccion": "concentraciones / manifestaciones",
+    "hora": "jornada del Día Internacional de las Víctimas de Desaparición Forzada: marcha en CDMX a las 9:00/10:00 del Ángel de la Independencia al Zócalo; marcha en Hermosillo a las 18:30 de la Plaza Emiliana de Zubeldía a la Catedral; protesta en Oaxaca exigiendo la presentación con vida de Ernesto Sernas García",
+    "fecha": "2026-08-30",
+    "lugar": "Ciudad de México (Ángel de la Independencia → Zócalo); Hermosillo, Sonora (Plaza Emiliana de Zubeldía → Catedral); Oaxaca de Juárez y Ciudad Universitaria (Benito Juárez), México",
+    "tipoAccion": "marcha / protesta conmemorativa",
     "organizaciones": [
-      "Siembra Cultura, A.C.",
-      "Refugio Franciscano, A.C.",
-      "Iniciativa Ciudadana 'Libertad para Morir', A.C.",
-      "Colectiva Hijas de la Cannabis",
-      "Leonas en Manada, A.C.",
-      "Plataforma 4:20",
-      "Frente Común Lupilla Xiu",
-      "Comunidad Indígena Otomí residente en la CDMX"
+      "Comité de Familiares de Detenidos Desaparecidos '¡Hasta Encontrarlos!'",
+      "Madres Buscadoras de Sonora (Ceci Flores)",
+      "Frente del Pueblo – Red Sun Mexico",
+      "Colectivos de búsqueda y familias de desaparecidos"
     ],
-    "motivo": "La Secretaría de Seguridad Ciudadana de la Ciudad de México no prevé marchas para este sábado 29 de agosto pero sí ocho concentraciones en distintos puntos de la capital: Siembra Cultura (espacio cannábico en la Plaza de Lectura José Saramago, 09:00); Refugio Franciscano (reclamo de investigación por presuntos actos de vandalismo en sus instalaciones, 11:00); Iniciativa Ciudadana 'Libertad para Morir' (recolección de firmas por la Ley de Asistencia Médica para Morir en la CDMX, 12:00 en el Centro Nacional de las Artes); la Colectiva Hijas de la Cannabis ('Rituales 4:20' en Plaza Tlaxcoaque, 12:00); Leonas en Manada ('Las vagoneras te respaldan', en el Parque El Pípila pidiendo la regulación del comercio informal en el Metro, 12:00); Plataforma 4:20 (jornada itinerante de difusión de derechos cannábicos con talleres en tres puntos, 12:00); el Frente Común Lupilla Xiu (primera asamblea pública en la Casa Refugio de la Memoria sobre el avance de las mesas de diálogo, 12:30); y la Comunidad Indígena Otomí residente en la CDMX (reunión de coordinación previa a la llegada de la delegación zapatista, 16:00 en el INPI).",
+    "motivo": "Jornadas de movilización en México por el Día Internacional de las Víctimas de Desaparición Forzada (30 de agosto). En la CDMX, el Comité de Familiares de Detenidos Desaparecidos '¡Hasta Encontrarlos!' convocó una marcha desde el Ángel de la Independencia hasta el Zócalo para exigir la búsqueda de las más de 121.651 personas desaparecidas y visibilizar la crisis humanitaria, con participación de colectivos como Luciérnagas Buscadoras CDMX, Ajolote Buscador, Corazones Robados y Corazones en Búsqueda. En Hermosillo (Sonora), las Madres Buscadoras de Sonora encabezadas por Ceci Flores convocaron una marcha a las 18:30 desde la Plaza Emiliana de Zubeldía hasta la Catedral, pidiendo asistir con la foto del familiar, una pancarta y una veladora blanca. En Oaxaca, el Frente del Pueblo – Red Sun Mexico y numerosas organizaciones convocaron una manifestación para exigir la presentación con vida del Dr. Ernesto Sernas García, desaparecido hace más de ocho años, y denunciar las más de 135.000 desapariciones en el país.",
     "status": "en_curso",
     "lat": 19.4285,
     "lng": -99.1277,
     "fuentes": [
-      "https://www.razon.com.mx/ciudad/2026/08/29/marchas-y-bloqueos-en-cdmx-hoy-29-de-agosto-que-manifestaciones-hay-y-que-calles-estan-cerradas/"
+      "https://www.infobae.com/mexico/2026/08/20/convocan-a-marcha-en-cdmx-por-el-dia-internacional-contra-la-desaparicion-forzada-esta-sera-la-ruta/",
+      "https://redherald.org/2026/08/28/upcoming-demonstration-in-mexico-and-actions-carried-out-in-several-countries-for-the-international-day-of-the-detained-disappeared/"
     ],
-    "createdAt": "2026-08-29T19:57:54.000Z",
-    "updatedAt": "2026-08-29T22:39:22Z"
+    "createdAt": "2026-08-30T01:01:22.000Z",
+    "updatedAt": "2026-08-30T01:11:00Z"
   },
   {
-    "id": "int-2026-08-29-india-patna-adhikar-march-bhim-army",
+    "id": "int-2026-08-30-australia-march-for-australia-contraprotestas",
     "seccion": "protestas_int",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "'Adhikar March' desde Gandhi Maidan hacia Lok Bhawan; fuerte operativo de seguridad en la capital de Bihar (vallas, esquema de tres niveles y refuerzos en puntos sensibles)",
-    "fecha": "2026-08-29",
-    "lugar": "Gandhi Maidan → Lok Bhawan, Patna, Bihar, India",
-    "tipoAccion": "marcha / manifestación",
+    "pais": "Australia",
+    "bandera": "🇦🇺",
+    "hora": "rallies de la extrema derecha 'March for Australia' desde las 12:00 (mediodía) en varias capitales; contraprotestas 'Rally Against Racism' el mismo día, con contingente queer desde las 11:30 en el Hyde Park de Sídney",
+    "fecha": "2026-08-30",
+    "lugar": "Sídney, Melbourne, Perth, Adelaide, Brisbane, Canberra, Darwin, Hobart, Townsville y Cairns, Australia (contraprotesta principal en Hyde Park, Sídney)",
+    "tipoAccion": "marcha / contraprotesta",
     "organizaciones": [
-      "Azad Samta Party (Kanshiram)",
-      "Bhim Army"
+      "March for Australia (movimiento de extrema derecha antiinmigración, vinculado a Bec Freedom y al National Socialist Network)",
+      "Stand Up to Racism / Rally Against Racism (contraprotesta)",
+      "Pride in Protest (contingente LGBTIQ+)"
     ],
-    "motivo": "Marcha 'Adhikar March' celebrada este sábado 29 de agosto en Patna, convocada por Azad Samta Party (Kanshiram) y Bhim Army, que partió desde Gandhi Maidan con dirección a Lok Bhawan para exigir una investigación judicial del 70.º examen BPSC, acciones contra el presidente de la BPSC y la implementación de una cuota de domicilio del 85% en todos los reclutamientos gubernamentales de Bihar. La marcha, encabezada por el presidente estatal de Azad Samta Party, Jauhar Azad, se desarrolló bajo un fuerte dispositivo de seguridad: barricadas alrededor de Gandhi Maidan, despliegues adicionales en la residencia del primer ministro, Lok Bhawan, el cruce de Income Tax y el de Dakbungalow, con un esquema de seguridad de tres niveles. Los manifestantes corearon consignas contra el gobierno mientras la policía les pedía dar marcha atrás ante las vallas.",
+    "motivo": "Nuevos rallies nacionales de 'March for Australia', el movimiento de extrema derecha antiinmigración, convocados para este 30 de agosto a mediodía en varias ciudades australianas, bajo demandas de 'remigración' y deportaciones masivas de migrantes asiáticos, africanos y musulmanes, con vínculos con el National Socialist Network y One Nation. En respuesta, grupos antirracistas convocaron contraprotestas bajo el lema 'Rally Against Racism', con una principal a las 12:00 en Hyde Park (Sídney) y un contingente queer reunido a las 11:30 en el reflecting pool del parque, para rechazar la política de One Nation y el avance de la extrema derecha. Los contramanifestantes llamaron a movilizarse en gran número para enviar un mensaje de rechazo a las políticas de odio.",
     "status": "en_curso",
-    "lat": 25.609,
-    "lng": 85.142,
+    "lat": -33.8688,
+    "lng": 151.2093,
     "fuentes": [
-      "https://patnapress.com/patna-adhikar-march-azad-samta-party-bhim-army-bpsc-domicile/"
+      "https://www.greenleft.org.au/2026-08/event/rally-against-racism-and-far-right",
+      "https://allevents.in/sydney/queer-contingent-aug-30-rally-against-racism/200030596780408",
+      "https://en.wikipedia.org/wiki/March_for_Australia"
     ],
-    "createdAt": "2026-08-29T22:30:20.000Z",
-    "updatedAt": "2026-08-29T22:39:22Z"
+    "createdAt": "2026-08-30T01:01:22.000Z",
+    "updatedAt": "2026-08-30T01:11:00Z"
   },
   {
-    "id": "int-2026-08-29-france-marseille-manifestation-palestine",
-    "seccion": "protestas_int",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "manifestación convocada a las 18:00 en la Porte d'Aix",
-    "fecha": "2026-08-29",
-    "lugar": "Porte d'Aix, Marsella, Francia",
-    "tipoAccion": "manifestación",
-    "organizaciones": [
-      "International Solidarity Movement (ISM-France)",
-      "Colectivos propalestinos de Marsella"
-    ],
-    "motivo": "Manifestación por Palestina convocada este sábado 29 de agosto a las 18:00 en la Porte d'Aix de Marsella, en solidaridad con el pueblo palestino y la población de Gaza en el contexto de la guerra y la campaña israelí contra la Franja, convocada por el Movimiento de Solidaridad Internacional (ISM-France) junto a colectivos propalestinos locales.",
-    "status": "en_curso",
-    "lat": 43.3012,
-    "lng": 5.3745,
-    "fuentes": [
-      "https://ismfrance.org/index.php/2026/08/28/manifestation-palestine-marseille-samedi-29-aout-18h-porte-daix/"
-    ],
-    "createdAt": "2026-08-29T22:30:20.000Z",
-    "updatedAt": "2026-08-29T22:39:22Z"
-  },
-  {
-    "id": "int-2026-08-29-france-montpellier-marche-specisme",
-    "seccion": "protestas_int",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "concentración a las 16:00 en la place de la Comédie, salida del cortejo a las 16:30 y llegada hacia las 19:00 a la rue de l'Aiguillerie",
-    "fecha": "2026-08-29",
-    "lugar": "Place de la Comédie → rue de l'Aiguillerie, Montpellier, Francia",
-    "tipoAccion": "marcha / manifestación",
-    "organizaciones": [
-      "L214",
-      "REV Montpellier",
-      "Alliance Éthique",
-      "Anonymous for the Voiceless",
-      "Sète Animal Save",
-      "We The Free"
-    ],
-    "motivo": "Marcha mundial por la abolición del especismo en su 4.ª edición en Montpellier, convocada por varios colectivos animalistas para interrogar el lugar reservado a los animales en la sociedad: 'Los animales no son recursos, mercancías ni material biológico, sino seres sensibles capaces de sentir dolor, miedo, placer y apego a su propia vida'. El rassemblement previsto a las 16:00 en la place de la Comédie incluyó tomas de palabra al inicio de la marcha y un tiempo de intercambio a la llegada.",
-    "status": "en_curso",
-    "lat": 43.6077,
-    "lng": 3.8772,
-    "fuentes": [
-      "https://paroledanimaux.fr/29-aout-montpellier-marche-contre-le-specisme/"
-    ],
-    "createdAt": "2026-08-29T22:30:20.000Z",
-    "updatedAt": "2026-08-29T22:39:22Z"
-  },
-  {
-    "id": "int-2026-08-29-spain-las-palmas-nado-solidario-gaza",
+    "id": "int-2026-08-30-espana-ceuta-movilizaciones",
     "seccion": "protestas_int",
     "pais": "España",
     "bandera": "🇪🇸",
-    "hora": "nado solidario y jornada informativa desde las 11:00 en la playa de Las Canteras, a la altura de la calle Luis Morote",
-    "fecha": "2026-08-29",
-    "lugar": "Playa de Las Canteras (altura de la calle Luis Morote), Las Palmas de Gran Canaria, España",
-    "tipoAccion": "nado solidario / acción de protesta",
+    "hora": "manifestación vecinal a las 18:00 en la barriada de La Libertad ('Todos unidos por Ceuta') y concentración motera a las 12:00 en la Plaza de Armas del Foso de las Murallas Reales; día 30 sin las marchas nocturnas suspendidas por la llegada de grupos ultras",
+    "fecha": "2026-08-30",
+    "lugar": "Ceuta, España: barriada de La Libertad (llano junto al Pabellón), Foso de las Murallas Reales y calles hasta la Delegación del Gobierno (Beatriz de Silva)",
+    "tipoAccion": "manifestación / concentración motera",
     "organizaciones": [
-      "Iniciativa internacional 'Mójate por Gaza'",
-      "Colectivos solidarios con Gaza de Las Palmas de Gran Canaria"
+      "Vecinos de Ceuta (convocatorias por redes sociales y mensajería)",
+      "Plataforma 'Ceuta Unida'"
     ],
-    "motivo": "Jornada de nado solidario 'Mójate por Gaza' en la playa de Las Canteras (Gran Canaria), iniciativa internacional de apoyo a las niñas y niños de Gaza que busca convertir el mar en un espacio de solidaridad y denuncia. La convocatoria, abierta a toda la ciudadanía y sin requisitos deportivos (se podía nadar, bucear, hacer surf o acompañar la acción desde la orilla), tuvo lugar desde las 11:00 a la altura de la calle Luis Morote, con una mesa informativa y un mercadillo solidario cuyos fondos se destinan a colaborar con familias gazatíes. La organización reivindica la solidaridad entre los pueblos y reclama protección para la población civil, especialmente para la infancia de Gaza.",
-    "status": "en_curso",
-    "lat": 28.132,
-    "lng": -15.436,
-    "fuentes": [
-      "https://miplayadelascanteras.com/2026/08/26/las-canteras-acoge-este-sabado-un-nado-solidario-por-gaza/"
-    ],
-    "createdAt": "2026-08-29T22:30:20.000Z",
-    "updatedAt": "2026-08-29T22:39:22Z"
-  },
-  {
-    "id": "int-2026-08-29-portugal-setubal-deslarrrguem-arrabida",
-    "seccion": "protestas_int",
-    "pais": "Portugal",
-    "bandera": "🇵🇹",
-    "hora": "concentración con componente de flashmob a las 19:00 en la Praça do Bocage; se pidió a los asistentes llevar toallas de playa como símbolo de protesta",
-    "fecha": "2026-08-29",
-    "lugar": "Praça do Bocage, Setúbal, Portugal",
-    "tipoAccion": "concentración / flashmob",
-    "organizaciones": [
-      "Movimento Deslarrrguem a Arrábida"
-    ],
-    "motivo": "Concentración con elemento de flashmob convocada por el movimiento 'Deslarrrguem a Arrábida' en la Praça do Bocage de Setúbal a las 19:00, como continuación de la lucha contra la privatización de las playas (concesiones de la Arrábida y el acceso público a la costa). El movimiento pidió a todas las personas llevar toallas de playa como señal de protesta por lo que 'nos quieren quitar', para que el tema no caiga en el olvido.",
-    "status": "en_curso",
-    "lat": 38.5243,
-    "lng": -8.885,
-    "fuentes": [
-      "https://onda7.blogspot.com/2026/08/deslarrrguem-arrabida-sabado-29-agosto.html"
-    ],
-    "createdAt": "2026-08-29T22:30:20.000Z",
-    "updatedAt": "2026-08-29T22:39:22Z"
-  },
-  {
-    "id": "int-2026-08-29-spain-ceuta-sentada-pacifica",
-    "seccion": "protestas_int",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "movilización ciudadana espontánea desde las 18:30 en las Murallas Reales; sentada pacífica en la rotonda de la frontera del Tarajal y marcha por el Polígono Virgen de África, Loma Colmenar y la Delegación del Gobierno",
-    "fecha": "2026-08-29",
-    "lugar": "Ceuta, España: Murallas Reales → Polígono Virgen de África → rotonda de la frontera del Tarajal → Loma Colmenar → Delegación del Gobierno",
-    "tipoAccion": "movilización / sentada pacífica",
-    "organizaciones": [
-      "Vecinos de Ceuta (convocatoria espontánea por redes sociales y grupos de mensajería)"
-    ],
-    "motivo": "Nueva movilización ciudadana espontánea en Ceuta este sábado 29 de agosto con una 'sentada pacífica' en la rotonda que conecta la frontera del Tarajal con la subida a Loma Colmenar, donde más de un centenar de ceutíes reivindicaron 'unidad' frente a la situación que vive la ciudad tras la entrada masiva de migrantes del 30 de julio. La convocatoria, organizada de forma espontánea, comenzó sobre las 18:30 en las Murallas Reales y avanzó por el Polígono Virgen de África y la N-352 con consignas como 'Ceuta no se vende, se defiende' y 'Un caballa nunca se rinde'; los participantes se sentaron sobre el asfalto en una acción simbólica, guardaron un minuto de silencio 'por el sufrimiento de la sociedad ceutí' y continuaron hasta Loma Colmenar en apoyo a los vecinos que protestan por el recurso provisional de acogida de migrantes, para terminar ante la Delegación del Gobierno reclamando la dimisión del delegado y una mayor implicación del Ejecutivo central. La protesta transcurrió sin incidentes y con un marcado carácter pacífico.",
+    "motivo": "Continúan las movilizaciones ciudadanas en Ceuta por la crisis desatada tras la entrada masiva de migrantes del 30 y 31 de julio (72.000 personas; unos 5.000 aún en la ciudad, 1.500 menores). Este domingo 30 de agosto están convocadas dos acciones: una manifestación a las 18:00 en la barriada de La Libertad bajo el lema 'Todos unidos por Ceuta', oponiéndose a la posible utilización de polideportivos y espacios de las barriadas para alojar temporalmente a migrantes y reclamando 'seguridad, tranquilidad y poder vivir con normalidad' con mensajes como 'Ceuta no se vende' y 'Ceuta se defiende'; y una concentración motera a las 12:00 en la Plaza de Armas del Foso de las Murallas Reales con recorrido hasta la Delegación del Gobierno, comunicada oficialmente como acto pacífico y reivindicativo. Los organizadores de las marchas nocturnas suspendieron las convocatorias del fin de semana tras detectar la llegada de grupos ultras 'que alientan la violencia', y reivindican el carácter cívico y pacífico de las protestas, mientras la comunidad 'Ceuta Unida' denuncia la 'pasividad' del Gobierno.",
     "status": "en_curso",
     "lat": 35.8894,
     "lng": -5.3218,
     "fuentes": [
-      "https://www.pressdigital.es/articulo/politica/2026-08-29/5997235-ceuties-vuelven-calle-sentada-pacifica-contra-violencia-abandono-gobierno"
+      "https://www.ceutaactualidad.com/articulo/ceuta/continuan-movilizaciones-ceuta-convocan-manifestacion-domingo-libertad/20260826104216280537.html",
+      "https://www.ceutaactualidad.com/articulo/actualidad/concentracion-motera-ceuta-30-agosto-recorrido-detalles/20260827133723280704.html",
+      "https://www.infobae.com/espana/agencias/2026/08/29/vecinos-de-ceuta-vuelven-a-salir-a-la-calle-para-protestar-por-la-invasion/",
+      "https://www.rtve.es/noticias/20260829/hartazgo-se-apodera-ceuties-no-somos-racistas-ni-violentos-pero-han-quitado-nuestra-libertad/17204579.shtml"
     ],
-    "createdAt": "2026-08-29T22:30:20.000Z",
-    "updatedAt": "2026-08-29T22:39:22Z"
+    "createdAt": "2026-08-30T01:01:22.000Z",
+    "updatedAt": "2026-08-30T01:11:00Z"
+  },
+  {
+    "id": "int-2026-08-30-francia-rassemblements-anti-extradition-gino",
+    "seccion": "protestas_int",
+    "pais": "Francia",
+    "bandera": "🇫🇷",
+    "hora": "convocatorias a las 14:00 en París (place de la Bataille de Stalingrad) y en Grenoble (place Félix Poulat), entre otras ciudades, contra la extradición del militante antifascista Gino",
+    "fecha": "2026-08-30",
+    "lugar": "París (place de la Bataille de Stalingrad) y Grenoble (place Félix Poulat), Francia; movilizaciones solidarias en varias ciudades",
+    "tipoAccion": "concentración / manifestación",
+    "organizaciones": [
+      "Comités de solidaridad contra la extradición de Gino",
+      "Colectivos antifascistas (Paris Luttes, Young Struggle 38, organizaciones de Grenoble)"
+    ],
+    "motivo": "Convocatoria de rassemblements antifascistas unitarios en varias ciudades francesas este domingo 30 de agosto para oponerse a la extradición 'en 10 días' del militante antifascista Gino a Alemania, decidida por la corte de apelación de París el 19 de agosto (la misma causa de la antifascista Maja). Gino es reclamado por Hungría y Alemania por su presunta participación en enfrentamientos con neonazis en el 'día del honor' de Budapest en 2023, y de ser extraditado podría ser trasladado a Hungría, donde arriesga hasta 24 años de prisión en condiciones denunciadas como particularmente violentas. Los convocantes llaman a presionar masivamente (comunicados, rassemblements, acciones frente a embajadas) mientras el caso está ante la Cour de cassation, denunciando la criminalización del antifascismo y la presión de la UE y Europol sobre la justicia francesa. En París la cita es a las 14:00 en la place de la Bataille de Stalingrad; en Grenoble, a las 14:00 en la place Félix Poulat.",
+    "status": "en_curso",
+    "lat": 48.8566,
+    "lng": 2.3522,
+    "fuentes": [
+      "https://www.infolibertaire.net/gino-ne-doit-pas-etre-extrade-rassemblement-dimanche-30-aout-14h-place-de-stalingrad-a-paris/",
+      "https://www.grenoble.snes.edu/rassemblement-antifa-contre-l-expulsion-de-gino.html"
+    ],
+    "createdAt": "2026-08-30T01:01:22.000Z",
+    "updatedAt": "2026-08-30T01:11:00Z"
+  },
+  {
+    "id": "int-2026-08-30-eeuu-vigilias-ice-out-indiana",
+    "seccion": "protestas_int",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "fin de semana de acción 'ICE OUT' en Indiana (28-30 de agosto): más de 50 vigilias de oración distribuidas por todo el estado; vigilia del 30 de agosto a las 14:00 en el Miami Correctional Facility y a las 10:30 en Fort Wayne",
+    "fecha": "2026-08-30",
+    "lugar": "Indiana, Estados Unidos: Miami Correctional Facility (Peru, IN), Fort Wayne, Plymouth y más de 50 localidades del estado",
+    "tipoAccion": "vigilias / protesta",
+    "organizaciones": [
+      "Indiana Organizing Project",
+      "Sisters of Providence of Saint Mary-of-the-Woods",
+      "Plymouth Congregational Church of Fort Wayne y otras iglesias y comunidades"
+    ],
+    "motivo": "Fin de semana de acción pública 'ICE OUT' en Indiana para exigir el fin de la detención migratoria en el Miami Correctional Facility, una prisión estatal de máxima seguridad donde el estado retiene a unos 600 detenidos de ICE con planes de ampliarlo a 1.000 camas, denunciando una instalación con escasa atención médica (dos detenidos fallecieron este año) y un 'beneficio construido' que pierde dinero para los contribuyentes. Más de 50 vigilias de oración, organizadas por el Indiana Organizing Project junto a congregaciones, se realizaron el 28, 29 y 30 de agosto en todo el estado; el domingo 30 se celebraron vigilias a las 14:00 en O'Shaughnessy Hall (Sisters of Providence) y a las 10:30 en Fort Wayne, para contar historias de familias afectadas por el sistema de detención y preparar nuevas acciones, señalando que más del 70% de los detenidos de ICE en el país no tienen antecedentes penales.",
+    "status": "en_curso",
+    "lat": 39.7684,
+    "lng": -86.1581,
+    "fuentes": [
+      "https://spsmw.org/event/end-ice-detention-at-miami-correctional-facility-vigil/",
+      "https://happeningnext.com/event/ice-out-vigil-eid3a0dxkmwgi"
+    ],
+    "createdAt": "2026-08-30T01:01:22.000Z",
+    "updatedAt": "2026-08-30T01:11:00Z"
+  },
+  {
+    "id": "int-2026-08-30-eeuu-folsom-ca-ice-protest",
+    "seccion": "protestas_int",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "protesta pacífica de 10:00 a 12:00 frente al Bank of America en la esquina de Iron Point y East Bidwell",
+    "fecha": "2026-08-30",
+    "lugar": "Folsom, California, Estados Unidos: 200 Palladio Parkway (frente al Bank of America, Iron Point y East Bidwell)",
+    "tipoAccion": "protesta / plantón",
+    "organizaciones": [
+      "Indivisible Roseville CA",
+      "Activistas locales contra la detención migratoria"
+    ],
+    "motivo": "Protesta pacífica convocada por Indivisible Roseville (CA) frente al Bank of America en Folsom, California, contra la ilegalidad y el daño que ICE y la Patrulla Fronteriza perpetran en las comunidades estadounidenses, en el marco de la ola de acciones de protesta contra las redadas y la detención de inmigrantes en todo el país. Se invitó a los participantes a asistir con carteles.",
+    "status": "en_curso",
+    "lat": 38.6779,
+    "lng": -121.1762,
+    "fuentes": [
+      "https://www.indivisible-roseville-ca.org/new-events/folsom-ice-protest-1-k39d4-xgyhc-s7yt9-rkedb-eyk5x-wp3sc-wbm9e-e7t58-mcrcm-byr8r-p6mwb-kw8wl-f4mb7-66lrc-s2r2z-bkrkk-wbmzp-sap7p-j5et2-s6f82-bhatm-a679s-jrssl-897l7"
+    ],
+    "createdAt": "2026-08-30T01:01:22.000Z",
+    "updatedAt": "2026-08-30T01:11:00Z"
+  },
+  {
+    "id": "int-2026-08-30-filipinas-dhl-muntinlupa-huelga",
+    "seccion": "protestas_int",
+    "pais": "Filipinas",
+    "bandera": "🇵🇭",
+    "hora": "huelga indefinida día 14 (desde el 17 de agosto); piquete continuo en las puertas del almacén, cuya clausura está prevista para el 30-31 de agosto",
+    "fecha": "2026-08-30",
+    "lugar": "Almacén de DHL Supply Chain en Muntinlupa City, Metro Manila, Filipinas",
+    "tipoAccion": "huelga laboral / piquete",
+    "organizaciones": [
+      "DHL United Workers Union (DUWU)",
+      "SENTRO (federación laboral)",
+      "Trabajadores logísticos de DHL en Muntinlupa"
+    ],
+    "motivo": "Más de 430 trabajadores logísticos del almacén de DHL Supply Chain en Muntinlupa City continúan en huelga indefinida desde el 17 de agosto, luchando por sus empleos frente al anunciado cierre de la instalación, previsto para el 30-31 de agosto. El DUWU denuncia que la dirección de DHL utilizó las negociaciones (mayo-agosto) como táctica dilatoria y que el cierre busca destruir al sindicato, que fue certificado recién en mayo; la empresa alega la pérdida de su principal contrato con Robinsons Supermarket, algo que el sindicato desmiente señalando la renovación trienal del contrato celebrada por la propia dirección. Los trabajadores mantienen un piquete continuo en las puertas y exigen la permanencia de los puestos de trabajo, el fin de los esquemas de subcontratación y de los contratos precarios, y mejores salarios, mientras advierten sobre la aplicación del Artículo 263(g) del Código Laboral que permite criminalizar la huelga. Se realizaron protestas de solidaridad en centros logísticos de Bulacan, Iloilo, General Santos, Surigao y Cebú.",
+    "status": "en_curso",
+    "lat": 14.3833,
+    "lng": 121.05,
+    "fuentes": [
+      "https://www.wsws.org/en/articles/2026/08/27/llbf-a27.pdf"
+    ],
+    "createdAt": "2026-08-30T01:01:22.000Z",
+    "updatedAt": "2026-08-30T01:11:00Z"
+  },
+  {
+    "id": "int-2026-08-30-brasil-dia-nacional-fim-escala-6x1",
+    "seccion": "protestas_int",
+    "pais": "Brasil",
+    "bandera": "🇧🇷",
+    "hora": "Dia Nacional de Mobilização pelo fim da escala 6x1 el domingo 30 de agosto: actos en todo el país (São Paulo 9h en el MASP/Av. Paulista; Salvador 9h desde el Morro do Cristo; Curitiba 10h Largo da Ordem; Fortaleza 15h; Natal 9h; Goiânia; Aracaju; entre otros)",
+    "fecha": "2026-08-30",
+    "lugar": "São Paulo (MASP, Avenida Paulista), Salvador (BA), Curitiba (PR), Fortaleza (CE), Natal (RN), Goiânia (GO), Aracaju (SE) y decenas de ciudades de Brasil",
+    "tipoAccion": "jornada nacional de movilización",
+    "organizaciones": [
+      "CUT (Central Única dos Trabalhadores) y demás centrales sindicales",
+      "Movimento Vida Além do Trabalho (VAT)",
+      "Frentes Brasil Popular y Povo Sem Medo",
+      "ANDES-SN (sindicato docente)",
+      "Força Sindical"
+    ],
+    "motivo": "Dia Nacional de Mobilização pelo fim da escala de trabajo 6x1, convocado para este domingo 30 de agosto por las centrales sindicales, el Movimento Vida Além do Trabalho (VAT) y las frentes Brasil Popular y Povo Sem Medo, en defensa de la aprobación de la PEC 221/2019 que reduce la jornada de trabajo a 40 horas semanales sin reducción salarial. Los actos de calle en todo el país buscan presionar al Senado, que aborda la PEC en la semana de esfuerzo concentrado del 31 de agosto al 4 de septiembre. En São Paulo la concentración es en el MASP (Av. Paulista) desde las 9h; también hay actos en Salvador, Curitiba, Fortaleza, Natal, Goiânia y otras capitales, con el respaldo de ANDES-SN, Força Sindical y demás entidades.",
+    "status": "en_curso",
+    "lat": -23.5614,
+    "lng": -46.6559,
+    "fuentes": [
+      "https://www.cut.org.br/noticias/trabalhadores-e-trabalhadoras-vao-as-ruas-para-pressionar-o-senado-pelo-fim-da-6-c060",
+      "https://andes.org.br/conteudos/noticia/aNDES-sN-convoca-docentes-para-dia-nacional-pelo-fim-da-escala-6x1-no-domingo-301",
+      "https://fsindical.org.br/forca/mobilizacao-do-dia-30-reforca-luta-pela-jornada-de-40-horas/",
+      "https://vermelho.org.br/2026/08/18/movimentos-preparam-dia-nacional-de-mobilizacao-pelo-fim-da-escala-6x1-no-dia-30/"
+    ],
+    "createdAt": "2026-08-30T01:01:22.000Z",
+    "updatedAt": "2026-08-30T01:11:00Z"
+  },
+  {
+    "id": "int-2026-08-30-bangladesh-dhaka-marcha-desapariciones",
+    "seccion": "protestas_int",
+    "pais": "Bangladesh",
+    "bandera": "🇧🇩",
+    "hora": "marcha hacia el Parlamento a las 15:00 (Día Internacional de las Víctimas de Desaparición Forzada / 'Ghum Day'), entregando un memorando al Presidente del Parlamento; salida desde Bangla Motor/Rupayan Tower y desde Shahbagh",
+    "fecha": "2026-08-30",
+    "lugar": "Dhaka, Bangladesh: de Bangla Motor (Rupayan Tower) y Shahbagh hacia el edificio del Parlamento nacional (Sangsad Bhaban)",
+    "tipoAccion": "marcha / protesta",
+    "organizaciones": [
+      "Comité Nacional para la Prevención de Desapariciones Forzadas",
+      "Alianza de 11 partidos (liderada por Jamaat-e-Islami, con NCP y otros)",
+      "Familias de desaparecidos"
+    ],
+    "motivo": "Marcha hacia el Parlamento convocada para el 30 de agosto, Día Internacional de las Víctimas de Desaparición Forzada (conocido en Bangladesh como 'Ghum Day'), por el Comité Nacional para la Prevención de Desapariciones Forzadas con el respaldo de la alianza de 11 partidos. La movilización, que partió a las 15:00 desde Bangla Motor (Rupayan Tower) y Shahbagh, reúne a familias de desaparecidos que denuncian las desapariciones forzadas y asesinatos ocurridos durante los 15 años de gobierno de la Awami League, que terminó con la caída de Sheikh Hasina en agosto de 2024, y entrega un memorando al Presidente del Parlamento exigiendo investigaciones con estándares internacionales y justicia para las víctimas.",
+    "status": "en_curso",
+    "lat": 23.7808,
+    "lng": 90.399,
+    "fuentes": [
+      "https://www.tbsnews.net/bangladesh/11-party-alliance-backs-march-parliament-over-enforced-disappearances-1528016",
+      "https://www.deshkalnews.com/politics/36831",
+      "https://en.prothomalo.com/bangladesh/politics/6w2jczo9a9",
+      "https://www.bssnews.net/news-flash/419021"
+    ],
+    "createdAt": "2026-08-30T01:01:22.000Z",
+    "updatedAt": "2026-08-30T01:11:00Z"
+  },
+  {
+    "id": "int-2026-08-30-repdominicana-barahona-marcha-cpn",
+    "seccion": "protestas_int",
+    "pais": "República Dominicana",
+    "bandera": "🇩🇴",
+    "hora": "marcha-concentración de 9:00 a 12:00 desde Batey 2 hasta Batey 6 en la zona cañera del Ingenio Barahona",
+    "fecha": "2026-08-30",
+    "lugar": "Zona cañera del Ingenio Barahona (de Batey 2 a Batey 6), provincia de Barahona, Región Enriquillo, República Dominicana",
+    "tipoAccion": "marcha / concentración",
+    "organizaciones": [
+      "Coordinadora Popular Nacional (CPN)",
+      "Movimientos sociales de la Región Enriquillo y el Suroeste"
+    ],
+    "motivo": "La Coordinadora Popular Nacional (CPN) convocó este domingo 30 de agosto a las comunidades de la Región Enriquillo a una marcha en la zona cañera del Ingenio Barahona contra los abusos que campesinos y trabajadores denuncian contra el Consorcio Azucarero Central (CAC). La marcha (9:00-12:00, de Batey 2 a Batey 6) exige que el gobierno dominicano obligue al CAC a devolver las tierras de las que ha despojado a cientos de campesinos y a pagar e indemnizar a las familias cuyas plantaciones fueron destruidas. La CPN denuncia que mediante maniobras y enmiendas dolosas el CAC pretende quedarse con las tierras del Ingenio Barahona y gran parte de las tierras de la reforma agraria hasta 2059, pese a que su contrato de arrendamiento concluye el 13 de diciembre de 2029, y sostiene que solo la más amplia movilización podrá detener esta 'estafa mayúscula'.",
+    "status": "en_curso",
+    "lat": 18.2083,
+    "lng": -71.1,
+    "fuentes": [
+      "https://fotuto.net/video-la-cpn-llama-a-las-comunidades-de-la-region-enriquillo-a-marchar-el-domingo-dia-30-en-la-zona-canera-de-ingenio-barahona/"
+    ],
+    "createdAt": "2026-08-30T01:01:22.000Z",
+    "updatedAt": "2026-08-30T01:11:00Z"
+  },
+  {
+    "id": "int-2026-08-30-espana-valencia-huelga-vigilantes-incendios",
+    "seccion": "protestas_int",
+    "pais": "España",
+    "bandera": "🇪🇸",
+    "hora": "huelga del personal vigilante-operario de prevención de incendios forestales de Vaersa los días 30 y 31 de agosto",
+    "fecha": "2026-08-30",
+    "lugar": "Comunitat Valenciana, España (puestos y unidades móviles de prevención de incendios forestales gestionados por Vaersa)",
+    "tipoAccion": "huelga laboral",
+    "organizaciones": [
+      "STAS-Intersindical",
+      "UGT",
+      "CCOO"
+    ],
+    "motivo": "Huelga convocada por STAS-Intersindical, UGT y CCOO para los días 30 y 31 de agosto contra el personal vigilante-operario de prevención de incendios forestales de la empresa pública Vaersa, tras considerar que la Generalitat no respondió a sus reivindicaciones: estabilidad y ampliación anual del servicio (doce meses para las unidades móviles, un mínimo de nueve meses para los observatorios forestales y refuerzos temporales), condiciones 'dignas' con jornada continuada de siete horas, acondicionamiento de los observatorios, reconocimiento económico de la mayor dedicación, penosidad y peligrosidad, y reconocimiento de las funciones reales con una clasificación profesional mínima equivalente al Grupo D/C2. La huelga se enmarca en el conflicto por el modelo de prevención de incendios forestales de la Comunitat Valenciana, tras sucesivas movilizaciones previas ante el Palau de la Generalitat.",
+    "status": "en_curso",
+    "lat": 39.4699,
+    "lng": -0.3763,
+    "fuentes": [
+      "https://valenciaplaza.com/valenciaplaza/comunitat-valenciana1/convocan-una-huelga-de-vigilantes-de-prevencion-de-incendios-el-30-y-31-de-agosto"
+    ],
+    "createdAt": "2026-08-30T01:01:22.000Z",
+    "updatedAt": "2026-08-30T01:11:00Z"
+  },
+  {
+    "id": "int-2026-08-30-italia-flashmob-aquiloni-gaza",
+    "seccion": "protestas_int",
+    "pais": "Italia",
+    "bandera": "🇮🇹",
+    "hora": "flash mob difuso a las 17:30 con cometas ('aquiloni') en plazas y calles de toda Italia",
+    "fecha": "2026-08-30",
+    "lugar": "Plazas y calles de toda Italia (acción difusa, sin sede única)",
+    "tipoAccion": "flash mob / acción simbólica",
+    "organizaciones": [
+      "Assopace Palestina",
+      "Iniciativa popular espontánea difundida por redes sociales"
+    ],
+    "motivo": "Flash mob difuso convocado para las 17:30 de este domingo 30 de agosto en toda Italia: se invitó a la ciudadanía a hacer volar cometas (aquiloni) en plazas, calles y parques en solidaridad con los niños y niñas de Gaza, después de que las autoridades israelíes prohibieran volar cometas dentro de la Franja de Gaza, obligando a los padres a quitárselas a sus hijos bajo la amenaza de 'consecuencias' del ministro sionista Katz. La iniciativa, nacida de forma popular y respaldada por Assopace Palestina, busca crear un mosaico digital de fotos y enviar un mensaje de cercanía y denuncia frente al genocidio en Gaza.",
+    "status": "en_curso",
+    "lat": 41.9028,
+    "lng": 12.4964,
+    "fuentes": [
+      "https://www.eventi.news/domenica-30-agosto-flash-mob-per-i-bimbi-palestinesi-costretti-a-distruggere-i-loro-aquiloni-dopo-le-minacce-genocide-sioniste",
+      "https://ameve.eu/aquiloni-in-cielo-per-gaza-flashmob-di-colori-per-i-bambini/"
+    ],
+    "createdAt": "2026-08-30T01:01:22.000Z",
+    "updatedAt": "2026-08-30T01:11:00Z"
+  },
+  {
+    "id": "int-2026-08-30-uk-london-protesta-desapariciones-pakistan",
+    "seccion": "protestas_int",
+    "pais": "Reino Unido",
+    "bandera": "🇬🇧",
+    "hora": "protesta a las 15:00 cerca del 10 de Downing Street por el Día Internacional de las Víctimas de Desaparición Forzada",
+    "fecha": "2026-08-30",
+    "lugar": "Londres, Reino Unido: cerca del 10 de Downing Street",
+    "tipoAccion": "protesta / concentración",
+    "organizaciones": [
+      "Jeay Sindh Freedom Movement (JSFM)",
+      "Voice for Missing Persons of Sindh (VMPS, capítulo Europa)",
+      "Comunidades sindhi, baloch, pastún, seraiki, cachemira y gilgiti-balti en el Reino Unido"
+    ],
+    "motivo": "Protesta convocada en Londres este domingo 30 de agosto, Día Internacional de las Víctimas de Desaparición Forzada, para exigir respuestas sobre los activistas desaparecidos y denunciar las desapariciones forzadas y la represión política en Pakistán. Organizada por el Jeay Sindh Freedom Movement con el apoyo de representantes en Europa de Voice for Missing Persons of Sindh, la concentración a las 15:00 cerca del 10 de Downing Street reúne a activistas de derechos humanos y miembros de las comunidades sindhi, baloch, pastún, seraiki, cachemira y gilgiti-balti, y busca presionar a los parlamentarios y autoridades británicas sobre la grave situación de los desaparecidos en Pakistán.",
+    "status": "en_curso",
+    "lat": 51.5033,
+    "lng": -0.1276,
+    "fuentes": [
+      "https://asianlite.com/2026/uk-news/london-rally-to-demand-answers-on-pakistan-missing-activists/"
+    ],
+    "createdAt": "2026-08-30T01:01:22.000Z",
+    "updatedAt": "2026-08-30T01:11:00Z"
   }
 ]
