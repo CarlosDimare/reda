@@ -66,10 +66,15 @@ function extractJSON(text: string): AccionRaw[] {
 }
 
 function normalize(accion: AccionRaw): AccionRaw {
+  const horaRaw = (accion.hora ?? "").toString().trim();
+  const horaMatch = horaRaw.match(/^(\d{1,2})[:.](\d{2})$/);
+  const hora = horaMatch
+    ? `${horaMatch[1].padStart(2, "0")}:${horaMatch[2]}`
+    : "—";
   return {
     pais: accion.pais || "Desconocido",
     bandera: accion.bandera || "🏳",
-    hora: accion.hora || "—",
+    hora,
     fecha: accion.fecha || new Date().toISOString().slice(0, 10),
     lugar: accion.lugar || "—",
     tipo_accion: accion.tipo_accion || "otra",

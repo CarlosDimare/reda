@@ -24,6 +24,10 @@ jobs:
         with:
           node-version: 22
 
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+
       - name: Run agent — Internacionales
         run: |
           HOY=$(date +%Y-%m-%d)

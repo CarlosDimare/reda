@@ -17,7 +17,7 @@ Formato exacto del JSON (array):
   {
     "pais": "nombre del país",
     "bandera": "bandera emoji",
-    "hora": "HH:MM",
+    "hora": "HH:MM" o "" (SOLO un horario corto HH:MM en horario local, o string vacío si no hay hora puntual. NUNCA texto explicativo, NUNCA rangos, NUNCA descripciones, NUNCA frases como "huelga indefinida día N"),
     "fecha": "2026-05-20 (debe ser HOY)",
     "lugar": "ciudad, provincia",
     "tipo_accion": "huelga | corte | movilizacion | concentracion | paro | escrache | otra",
