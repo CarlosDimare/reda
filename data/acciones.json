@@ -23,7 +23,7 @@
       "https://aviaciondigital.com/huelga-indefinida-airbus-espana-sima-agosto-2026/"
     ],
     "createdAt": "2026-08-25T16:33:28.000Z",
-    "updatedAt": "2026-09-03T05:04:38Z"
+    "updatedAt": "2026-09-03T09:38:15Z"
   },
   {
     "id": "int-2026-09-03-france-french-bee-huelga",
@@ -49,7 +49,7 @@
       "https://www.air-journal.fr/2026-08-30-french-bee-la-greve-des-hotesses-et-stewards-prolongee-jusquau-6-septembre-5277190.html"
     ],
     "createdAt": "2026-08-29T08:09:37.000Z",
-    "updatedAt": "2026-09-03T05:04:38Z"
+    "updatedAt": "2026-09-03T09:38:15Z"
   },
   {
     "id": "int-2026-09-03-india-haryana-sanitation-huelga",
@@ -75,7 +75,7 @@
       "https://www.amarujala.com/haryana/karnal/police-and-striking-sanitation-workers-face-off-in-taraori-karnal-news-c-18-knl1018-980273-2026-08-30"
     ],
     "createdAt": "2026-08-25T20:56:35.000Z",
-    "updatedAt": "2026-09-03T05:04:38Z"
+    "updatedAt": "2026-09-03T09:38:15Z"
   },
   {
     "id": "int-2026-09-03-india-chandigarh-farmers-sit-in",
@@ -101,7 +101,7 @@
       "https://indianexpress.com/article/cities/chandigarh/skm-farmers-protest-chandigarh-mohali-september-1-7-route-demands-10855569/"
     ],
     "createdAt": "2026-09-01T15:03:34.000Z",
-    "updatedAt": "2026-09-03T05:04:38Z"
+    "updatedAt": "2026-09-03T09:38:15Z"
   },
   {
     "id": "int-2026-09-03-albania-tirana-protesta-96-rama",
@@ -124,7 +124,7 @@
       "https://en.panorama.com.al/nje-dite-pasi-e-rrethuan-ramen-ne-zyre-qytetaret-rikthehen-serish-sot-ne-protesten-e-95-kerkojne-doreheqjen-e-kryeministrit/"
     ],
     "createdAt": "2026-09-02T16:58:36.000Z",
-    "updatedAt": "2026-09-03T05:04:38Z"
+    "updatedAt": "2026-09-03T09:38:15Z"
   },
   {
     "id": "int-2026-09-03-pakistan-ji-paro-nacional-petroleum-levy",
@@ -149,7 +149,7 @@
       "https://arynews.tv/karachi-braces-for-shutdown-as-traders-back-jamaat-e-islami-strike"
     ],
     "createdAt": "2026-09-02T07:47:54.000Z",
-    "updatedAt": "2026-09-03T05:04:38Z"
+    "updatedAt": "2026-09-03T09:38:15Z"
   },
   {
     "id": "int-2026-09-03-guatemala-bloqueos-transportistas",
@@ -174,7 +174,7 @@
       "https://www.infobae.com/guatemala/2026/09/01/transportistas-mantendran-bloqueos-este-1-de-septiembre-en-guatemala-mientras-el-congreso-aplaza-el-subsidio-a-los-combustibles/"
     ],
     "createdAt": "2026-09-01T18:42:38.000Z",
-    "updatedAt": "2026-09-03T05:04:38Z"
+    "updatedAt": "2026-09-03T09:38:15Z"
   },
   {
     "id": "int-2026-09-03-kenya-nurses-demo-nairobi",
@@ -199,7 +199,7 @@
       "https://www.the-star.co.ke/news/2026-09-03-anguish-for-forgotten-patients-as-nurses-strike-enters-week-5"
     ],
     "createdAt": "2026-09-03T04:54:44.000Z",
-    "updatedAt": "2026-09-03T05:04:38Z"
+    "updatedAt": "2026-09-03T09:38:15Z"
   },
   {
     "id": "int-2026-09-03-usa-prime-healthcare-enfermeras-huelga",
@@ -225,7 +225,7 @@
       "https://www.nationalnursesunited.org/press/nurses-demand-immediate-reinstatement-of-colleagues-unlawfully-suspended-by-prime-healthcare"
     ],
     "createdAt": "2026-09-03T00:29:06.000Z",
-    "updatedAt": "2026-09-03T05:04:38Z"
+    "updatedAt": "2026-09-03T09:38:15Z"
   },
   {
     "id": "int-2026-09-03-chile-estudiantes-baquedano",
@@ -252,7 +252,30 @@
       "https://www.radioagricultura.cl/noticias/nacional/estudiantes-convocan-a-protestas-contra-el-gobierno-para-este-jueves_20260901/"
     ],
     "createdAt": "2026-09-03T04:54:44.000Z",
-    "updatedAt": "2026-09-03T05:04:38Z"
+    "updatedAt": "2026-09-03T09:38:15Z"
+  },
+  {
+    "id": "int-2026-09-03-nz-wellington-climate-strike",
+    "seccion": "protestas_int",
+    "pais": "Nueva Zelanda",
+    "bandera": "🇳🇿",
+    "hora": "11:30",
+    "fecha": "2026-09-03",
+    "lugar": "Civic Square a Parliament (Parlamento de Nueva Zelanda), Wellington, Nueva Zelanda",
+    "tipoAccion": "marcha climática estudiantil (School Strike for Climate)",
+    "organizaciones": [
+      "School Strike 4 Climate Pōneke / Fridays for Future Aotearoa",
+      "Estudiantes y jóvenes de Wellington"
+    ],
+    "motivo": "Estudiantes y jóvenes de Wellington marchan este jueves 3 de septiembre desde Civic Square hasta el Parlamento en el marco de la campaña School Strike for Climate de Fridays for Future Aotearoa, exigiendo acciones urgentes contra la crisis climática y un futuro habitable.",
+    "status": "en_curso",
+    "lat": -41.2889,
+    "lng": 174.7772,
+    "fuentes": [
+      "https://fridaysforfuture.nz/"
+    ],
+    "createdAt": "2026-09-03T09:26:13.000Z",
+    "updatedAt": "2026-09-03T09:38:15Z"
   },
   {
     "id": "ar-2026-09-03-ate-anac-paro-aeropuertos",
@@ -281,6 +304,6 @@
       "https://www.lanacion.com.ar/politica/ate-anuncio-un-plan-de-48-horas-de-protestas-en-los-aeropuertos-de-todo-el-pais-nid01092026/"
     ],
     "createdAt": "2026-09-03T00:32:54.000Z",
-    "updatedAt": "2026-09-03T05:04:38Z"
+    "updatedAt": "2026-09-03T09:38:15Z"
   }
 ]
