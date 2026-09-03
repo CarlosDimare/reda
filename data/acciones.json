@@ -18,12 +18,12 @@
     "lat": 40.3167,
     "lng": -3.7333,
     "fuentes": [
-      "https://capital.es/empresas/airbus-vuelve-al-sima-para-mediar-con-los-sindicatos-tras-rechazar-suspender-la-huelga-indefinida/212425/",
+      "https://www.andaluciainformacion.es/articulo/andalucia/airbus-da-concluida-negociacion-huelga-avanzara-nueva-oferta/202609021126513465966.html",
       "https://www.infobae.com/espana/agencias/2026/09/01/sigue-el-conflicto-en-airbus-tras-una-nueva-reunion-sin-acuerdo-con-el-comite-de-huelga/",
       "https://aviaciondigital.com/huelga-indefinida-airbus-espana-sima-agosto-2026/"
     ],
     "createdAt": "2026-08-25T16:33:28.000Z",
-    "updatedAt": "2026-09-03T00:35:48Z"
+    "updatedAt": "2026-09-03T05:04:38Z"
   },
   {
     "id": "int-2026-09-03-france-french-bee-huelga",
@@ -49,7 +49,7 @@
       "https://www.air-journal.fr/2026-08-30-french-bee-la-greve-des-hotesses-et-stewards-prolongee-jusquau-6-septembre-5277190.html"
     ],
     "createdAt": "2026-08-29T08:09:37.000Z",
-    "updatedAt": "2026-09-03T00:35:48Z"
+    "updatedAt": "2026-09-03T05:04:38Z"
   },
   {
     "id": "int-2026-09-03-india-haryana-sanitation-huelga",
@@ -75,7 +75,7 @@
       "https://www.amarujala.com/haryana/karnal/police-and-striking-sanitation-workers-face-off-in-taraori-karnal-news-c-18-knl1018-980273-2026-08-30"
     ],
     "createdAt": "2026-08-25T20:56:35.000Z",
-    "updatedAt": "2026-09-03T00:35:48Z"
+    "updatedAt": "2026-09-03T05:04:38Z"
   },
   {
     "id": "int-2026-09-03-india-chandigarh-farmers-sit-in",
@@ -101,7 +101,7 @@
       "https://indianexpress.com/article/cities/chandigarh/skm-farmers-protest-chandigarh-mohali-september-1-7-route-demands-10855569/"
     ],
     "createdAt": "2026-09-01T15:03:34.000Z",
-    "updatedAt": "2026-09-03T00:35:48Z"
+    "updatedAt": "2026-09-03T05:04:38Z"
   },
   {
     "id": "int-2026-09-03-albania-tirana-protesta-96-rama",
@@ -124,7 +124,7 @@
       "https://en.panorama.com.al/nje-dite-pasi-e-rrethuan-ramen-ne-zyre-qytetaret-rikthehen-serish-sot-ne-protesten-e-95-kerkojne-doreheqjen-e-kryeministrit/"
     ],
     "createdAt": "2026-09-02T16:58:36.000Z",
-    "updatedAt": "2026-09-03T00:35:48Z"
+    "updatedAt": "2026-09-03T05:04:38Z"
   },
   {
     "id": "int-2026-09-03-pakistan-ji-paro-nacional-petroleum-levy",
@@ -144,10 +144,12 @@
     "lat": 25.3924,
     "lng": 68.3669,
     "fuentes": [
-      "https://tribune.com.pk/story/2627002/pol-levy-ji-vows-nationwide-protest"
+      "https://minutemirror.com.pk/hafiz-naeem-announces-nationwide-strike-today-623664/",
+      "https://tribune.com.pk/story/2627002/pol-levy-ji-vows-nationwide-protest",
+      "https://arynews.tv/karachi-braces-for-shutdown-as-traders-back-jamaat-e-islami-strike"
     ],
     "createdAt": "2026-09-02T07:47:54.000Z",
-    "updatedAt": "2026-09-03T00:35:48Z"
+    "updatedAt": "2026-09-03T05:04:38Z"
   },
   {
     "id": "int-2026-09-03-guatemala-bloqueos-transportistas",
@@ -172,10 +174,35 @@
       "https://www.infobae.com/guatemala/2026/09/01/transportistas-mantendran-bloqueos-este-1-de-septiembre-en-guatemala-mientras-el-congreso-aplaza-el-subsidio-a-los-combustibles/"
     ],
     "createdAt": "2026-09-01T18:42:38.000Z",
-    "updatedAt": "2026-09-03T00:35:48Z"
+    "updatedAt": "2026-09-03T05:04:38Z"
   },
   {
-    "id": "int-2026-09-03-eeuu-prime-healthcare-enfermeras-huelga",
+    "id": "int-2026-09-03-kenya-nurses-demo-nairobi",
+    "seccion": "protestas_int",
+    "pais": "Kenia",
+    "bandera": "🇰🇪",
+    "hora": "—",
+    "fecha": "2026-09-03",
+    "lugar": "Nairobi, Kenia — desde Green Park hasta las oficinas de la Salaries and Remuneration Commission (SRC) y la Council of Governors (CoG)",
+    "tipoAccion": "manifestación / marcha laboral",
+    "organizaciones": [
+      "Kenya National Union of Nurses and Midwives (KNUNM)",
+      "Kenya Union of Clinical Officers (KUCO)"
+    ],
+    "motivo": "Los enfermeros y parteras de Kenia, en la quinta semana de huelga nacional iniciada el 29 de julio de 2026, realizan este jueves 3 de septiembre una mega manifestación en Nairobi marchando desde Green Park hasta las oficinas de la SRC y la CoG. Exigen la implementación del Convenio Colectivo de Trabajo (CBA) firmado en 2017 y que la SRC emita la carta de no objeción requerida para su registro ante el Employment and Labour Relations Court. La huelga ha paralizado los servicios de salud en al menos 52 hospitales públicos del condado de Nairobi y múltiples condados del país, incluyendo Nakuru, Kakamega, Kisii y otros.",
+    "status": "en_curso",
+    "lat": -1.2921,
+    "lng": 36.8219,
+    "fuentes": [
+      "https://signstv.co.ke/nurses-clinical-officers-maintain-pressure-as-september-3-demonstrations-loom",
+      "https://radiogeneration.co.ke/health-and-wellness/110736/nurses-midwives-announce-mega-demonstrations-on-thursday-as-nationwide-strike-continues",
+      "https://www.the-star.co.ke/news/2026-09-03-anguish-for-forgotten-patients-as-nurses-strike-enters-week-5"
+    ],
+    "createdAt": "2026-09-03T04:54:44.000Z",
+    "updatedAt": "2026-09-03T05:04:38Z"
+  },
+  {
+    "id": "int-2026-09-03-usa-prime-healthcare-enfermeras-huelga",
     "seccion": "protestas_int",
     "pais": "Estados Unidos",
     "bandera": "🇺🇸",
@@ -185,6 +212,7 @@
     "tipoAccion": "huelga laboral de 24 horas",
     "organizaciones": [
       "National Nurses United (NNU)",
+      "National Nurses Organizing Committee (NNOC)",
       "Enfermeras y enfermeros de Prime Healthcare"
     ],
     "motivo": "Cerca de 2.200 enfermeras y enfermeros de cuatro hospitales de Prime Healthcare (Saint Mary of Nazareth en Chicago, St. Mary's en Reno, Shasta Regional en Redding y West Anaheim en Anaheim) iniciaron este jueves 3 de septiembre una huelga de 24 horas convocada por National Nurses United. Los trabajadores denuncian condiciones inseguras, falta de personal, recortes de servicios y salarios que no se ajustan al costo de vida, así como la negativa de la empresa a negociar un convenio justo, en un conflicto que afecta a los cuatro centros.",
@@ -192,10 +220,39 @@
     "lat": 41.8781,
     "lng": -87.6298,
     "fuentes": [
-      "https://www.nationalnursesunited.org/"
+      "https://www.nationalnursesunited.org/press/prime-nurses-in-three-states-give-notice-for-one-day-strikes",
+      "https://www.chicagotribune.com/2026/08/24/saint-mary-hospital-prime/",
+      "https://www.nationalnursesunited.org/press/nurses-demand-immediate-reinstatement-of-colleagues-unlawfully-suspended-by-prime-healthcare"
     ],
     "createdAt": "2026-09-03T00:29:06.000Z",
-    "updatedAt": "2026-09-03T00:35:48Z"
+    "updatedAt": "2026-09-03T05:04:38Z"
+  },
+  {
+    "id": "int-2026-09-03-chile-estudiantes-baquedano",
+    "seccion": "protestas_int",
+    "pais": "Chile",
+    "bandera": "🇨🇱",
+    "hora": "10:30",
+    "fecha": "2026-09-03",
+    "lugar": "Metro Baquedano, Plaza Baquedano, Santiago, Chile",
+    "tipoAccion": "manifestación estudiantil",
+    "organizaciones": [
+      "Asamblea Coordinadora de Estudiantes Secundarios (ACES)",
+      "Vencer",
+      "Rebelión",
+      "Estudiantes secundarios y universitarios"
+    ],
+    "motivo": "La Asamblea Coordinadora de Estudiantes Secundarios (ACES) convoca este jueves 3 de septiembre a una jornada nacional de protesta en Metro Baquedano, Santiago, contra las políticas del gobierno de José Antonio Kast. Los estudiantes rechazan la 'megarreforma' aprobada en el Congreso (Plan de Reconstrucción Nacional y Desarrollo Económico y Social), la Ley de Escuelas Protegidas, el proyecto de estado de excepción de seguridad pública, los recortes presupuestarios que afectan la educación y la eliminación de programas alimentarios. Las organizaciones juveniles anticapitalistas Vencer y Rebelión llaman a extender la movilización a todo el país en avance hacia un Paro Nacional.",
+    "status": "en_curso",
+    "lat": -33.4372,
+    "lng": -70.6506,
+    "fuentes": [
+      "https://www.telesurenglish.net/chilean-students-call-anti-kast-protest-at-baquedano-for-september-3/",
+      "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/09/01/secundarios-convocan-a-protesta-contra-las-medidas-del-gobierno-de-kast-en-metro-baquedano.shtml",
+      "https://www.radioagricultura.cl/noticias/nacional/estudiantes-convocan-a-protestas-contra-el-gobierno-para-este-jueves_20260901/"
+    ],
+    "createdAt": "2026-09-03T04:54:44.000Z",
+    "updatedAt": "2026-09-03T05:04:38Z"
   },
   {
     "id": "ar-2026-09-03-ate-anac-paro-aeropuertos",
@@ -210,17 +267,20 @@
       "ATE (Asociación Trabajadores del Estado)",
       "Trabajadores de la ANAC (Administración Nacional de Aviación Civil)"
     ],
-    "motivo": "Jornada Nacional de Lucha de 48 horas convocada por ATE en más de 27 aeropuertos del país para este jueves 3 y viernes 4 de septiembre de 2026, con paros, movilizaciones y asambleas en dos franjas horarias (de 9 a 12 y de 18 a 21), que podría provocar demoras o cancelaciones de vuelos. El reclamo se origina por los incumplimientos salariales en perjuicio de los trabajadores de la ANAC —impago de adicionales desde enero— y por la falta de respuesta a las demandas de mejoras en las condiciones laborales. Durante esos lapsos solo estarán garantizados los vuelos sanitarios, humanitarios, de traslado de órganos y oficiales. ATE advirtió que, de producirse demoras o cancelaciones, no será responsabilidad de los trabajadores, que comunicaron la medida con suficiente antelación.",
+    "motivo": "Jornada Nacional de Lucha de 48 horas convocada por ATE/ANAC en más de 27 aeropuertos del país para este jueves 3 y viernes 4 de septiembre de 2026, con paros, movilizaciones y asambleas en dos franjas horarias (de 9 a 12 y de 18 a 21), que podría provocar demoras o cancelaciones de vuelos. El reclamo se origina por los incumplimientos salariales en perjuicio de los trabajadores de la ANAC —impago de adicionales desde enero— y por la falta de respuesta a las demandas de mejoras en las condiciones laborales. Durante esos lapsos solo estarán garantizados los vuelos sanitarios, humanitarios, de traslado de órganos y oficiales. ATE advirtió que, de producirse demoras o cancelaciones, no será responsabilidad de los trabajadores, que comunicaron la medida con suficiente antelación. La respuesta del gobierno no se hizo esperar: el Ministerio de Capital Humano intimó a ATE a garantizar el 75% de los servicios, amparado en la Ley de Modernización Laboral N.°27.802 que fija ese piso mínimo de cobertura para servicios esenciales, y advirtió que la navegación aérea entra en esa categoría. La ANAC publicó un listado de aeropuertos con certificación de la CNRT y reiteró la recomendación a pasajeros de verificar el estado de los vuelos antes de dirigirse a los aeropuertos. ATE no descartó extender la medida más allá de los dos días si el Gobierno no responde sus tres demandas: pago de salarios con ajustes extraparitarios, apertura de la paritaria sectorial y financiamiento para las áreas operativas (SSEI y Fiscalización).",
     "status": "en_curso",
     "lat": -34.6037,
     "lng": -58.3816,
     "fuentes": [
       "https://ate.org.ar/260901-paros-anac/",
+      "https://www.clarin.com/politica/protestas-paros-ate-aeropuertos-gobierno-intimo-garantizar-75-vuelos-jueves-3-viernes-4-septiembre_0_6Llv4hjN2X.html",
       "https://www.clarin.com/informacion-general/paro-aeropuertos-3-4-septiembre-vuelos-pueden-verse-afectados-hacer-demoras-cancelaciones_0_ekZqTnYptX.html",
       "https://www.cronista.com/informacion-gral/planifican-un-paro-nacional-el-jueves-3-y-viernes-4-de-septiembre-en-argentina-vuelos-y-aeropuertos-podrian-verse-afectados/",
-      "https://www.reportur.com/argentina/2026/09/01/argentina-vuelos-paralizados-el-3-y-4-de-septiembre-por-paro-de-ate/"
+      "https://www.infobae.com/politica/2026/09/01/anunciaron-48-horas-de-paro-en-aeropuertos-de-todo-el-pais/",
+      "https://www.reportur.com/argentina/2026/09/01/argentina-vuelos-paralizados-el-3-y-4-de-septiembre-por-paro-de-ate/",
+      "https://www.lanacion.com.ar/politica/ate-anuncio-un-plan-de-48-horas-de-protestas-en-los-aeropuertos-de-todo-el-pais-nid01092026/"
     ],
     "createdAt": "2026-09-03T00:32:54.000Z",
-    "updatedAt": "2026-09-03T00:35:48Z"
+    "updatedAt": "2026-09-03T05:04:38Z"
   }
 ]
