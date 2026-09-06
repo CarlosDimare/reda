@@ -1,40 +1,11 @@
 [
   {
-    "id": "int-2026-09-05-spain-airbus-huelga-indefinida",
-    "seccion": "protestas_int",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "—",
-    "fecha": "2026-09-05",
-    "lugar": "Getafe (Madrid), Illescas (Toledo), San Pablo y Tablada (Sevilla), Albacete y Cádiz — plantas de Airbus en España",
-    "tipoAccion": "huelga indefinida",
-    "organizaciones": [
-      "UGT (Unión General de Trabajadores)",
-      "CGT (Confederación General de Trabajadores)",
-      "ÚTIL (sindicato profesional)"
-    ],
-    "motivo": "Continúa este sábado 5 de septiembre la huelga indefinida de los aproximadamente 14.000 trabajadores de Airbus en España, convocada por UGT, CGT y ÚTIL. La empresa alcanzó un acuerdo preliminar con la mesa negociadora compuesta por CCOO, ATP y SIPA (sindicatos no convocantes) que sería sometido a referéndum vinculante entre los trabajadores, mientras los sindicatos convocantes desmienten el pacto y mantienen las movilizaciones. La huelga enfrenta un punto crítico: la multinacional ha alertado de una 'situación_critica' para su negocio y temores de deslocalización, mientras el Gobierno español no descarta intervenir para mediar. Los trabajadores exigen vincular las subidas salariales al IPC real, acortar los plazos para recuperar el poder adquisitivo perdido y proteger el teletrabajo y los complementos por baja.",
-    "status": "en_curso",
-    "lat": 40.3167,
-    "lng": -3.7333,
-    "fuentes": [
-      "https://www.elespanol.com/invertia/empresas/20260903/airbus-cierra-ultima-via-negociacion-huelga-sindicatos-gobierno-dispuesto-mediar/1003744371785_0.html",
-      "https://www.abc.es/sevilla/economia/airbus-cierra-negociacion-convocantes-huelga-dirige-restantes-20260902101834-nts.html",
-      "https://www.infobae.com/espana/agencias/2026/09/01/sigue-el-conflicto-en-airbus-tras-una-nueva-reunion-sin-acuerdo-con-el-comite-de-huelga/",
-      "https://www.elcorreoweb.es/economia/2026/09/04/hereu-convoca-airbus-sindicatos-viernes-133939580.html",
-      "https://www.infobae.com/espana/agencias/2026/09/04/hereu-se-reune-este-viernes-con-airbus-y-los-sindicatos-para-mediar-en-la-huelga/",
-      "https://www.elperiodico.com/es/economia/20260904/hereu-convoca-airbus-sindicatos-viernes-133939424"
-    ],
-    "createdAt": "2026-08-25T16:33:28.000Z",
-    "updatedAt": "2026-09-05T23:29:30Z"
-  },
-  {
-    "id": "int-2026-09-05-france-french-bee-huelga",
+    "id": "int-2026-09-06-france-french-bee-huelga",
     "seccion": "protestas_int",
     "pais": "Francia",
     "bandera": "🇫🇷",
     "hora": "—",
-    "fecha": "2026-09-05",
+    "fecha": "2026-09-06",
     "lugar": "Francia y ultramar: red de vuelos de largo radio de la aerolínea French bee (París-Orly y rutas a La Reunión, Nueva York, Tahití, etc.)",
     "tipoAccion": "huelga laboral",
     "organizaciones": [
@@ -42,7 +13,7 @@
       "CGT",
       "Tripulantes de cabina (PNC) de French bee"
     ],
-    "motivo": "Los tripulantes de cabina de la aerolínea French bee continúan este sábado 5 de septiembre la huelga reconducida del 1 al 6 de septiembre por SNPNC-FO y CGT, ante la falta de negociación abierta por la dirección. Los PNC denuncian planillas inestables y modificadas tarde, fatiga creciente en las rotaciones de largo radio, uso abusivo de los días de descanso y una remuneración que no sigue el costo de vida. La compañía mantiene el programa con aeronaves de Wamos Air alquiladas (Airbus A330) y no descarta retrasos o anulaciones puntuales.",
+    "motivo": "Último día de la huelga reconducida del 1 al 6 de septiembre de los tripulantes de cabina de la aerolínea French bee, convocada por SNPNC-FO y CGT, que continúa este domingo 6 de septiembre ante la falta de negociación abierta por la dirección. Los PNC denuncian planillas inestables y modificadas tarde, fatiga creciente en las rotaciones de largo radio, uso abusivo de los días de descanso y una remuneración que no sigue el costo de vida. La compañía mantiene el programa con aeronaves de Wamos Air alquiladas (Airbus A330) y no descarta retrasos o anulaciones puntuales.",
     "status": "en_curso",
     "lat": 48.8566,
     "lng": 2.3522,
@@ -52,15 +23,15 @@
       "https://www.air-journal.fr/2026-08-30-french-bee-la-greve-des-hotesses-et-stewards-prolongee-jusquau-6-septembre-5277190.html"
     ],
     "createdAt": "2026-08-29T08:09:37.000Z",
-    "updatedAt": "2026-09-05T23:29:30Z"
+    "updatedAt": "2026-09-06T01:28:40Z"
   },
   {
-    "id": "int-2026-09-05-india-haryana-sanitation-huelga",
+    "id": "int-2026-09-06-india-haryana-sanitation-huelga",
     "seccion": "protestas_int",
     "pais": "India",
     "bandera": "🇮🇳",
     "hora": "—",
-    "fecha": "2026-09-05",
+    "fecha": "2026-09-06",
     "lugar": "Karnal, Yamunanagar, Hisar, Rohtak, Bhiwani, Kurukshetra, Gurugram y múltiples ciudades de Haryana, India",
     "tipoAccion": "huelga laboral / enfrentamiento",
     "organizaciones": [
@@ -68,7 +39,7 @@
       "Sarv Karamchari Sangh",
       "Sindicato de trabajadores sanitarios y bomberos de Haryana"
     ],
-    "motivo": "Trigésimo primer día de huelga indefinida de los trabajadores municipales de saneamiento (y bomberos) en Haryana, que los gremios extendieron hasta el 6 de septiembre y que atraviesa un punto crítico tras la orden del gobierno de reincorporarse el 5 de septiembre. Este sábado el sindicato planea protestas frente a las residencias de los ministros en Karnal, Yamunanagar, Hisar, Rohtak, Bhiwani, Kurukshetra y Gurugram, mientras la crisis sanitaria se agrava por decenas de miles de toneladas de basura acumulada. Los trabajadores exigen la regularización del empleo de los contratados y el fin del sistema de agencias. El gobierno ofreció subir los salarios mensuales de ₹20.590 a ₹25.560 y aplicar la Ley de Empleados Contractuales de Haryana, pero la demanda clave de regularización sigue pendiente.",
+    "motivo": "Los trabajadores municipales de saneamiento (y bomberos) de Haryana mantienen este domingo 6 de septiembre la huelga indefinida, en su trigésimo segundo día según los gremios, que atravesó un punto crítico tras la orden del gobierno de reincorporarse el sábado y la decisión sindical de extender la medida hasta el 6 de septiembre. El sábado se realizaron protestas frente a las residencias de los ministros en Karnal, Yamunanagar, Hisar, Rohtak, Bhiwani, Kurukshetra y Gurugram, mientras la crisis sanitaria se agrava por decenas de miles de toneladas de basura acumulada. Los trabajadores exigen la regularización del empleo de los contratados y el fin del sistema de agencias. El gobierno ofreció subir los salarios mensuales de ₹20.590 a ₹25.560 y aplicar la Ley de Empleados Contractuales de Haryana, pero la demanda clave de regularización sigue pendiente.",
     "status": "en_curso",
     "lat": 29.6857,
     "lng": 76.9905,
@@ -80,15 +51,15 @@
       "https://dailypioneer.com/news/haryana-sanitation-workers-strike-mass-tonsure-protest"
     ],
     "createdAt": "2026-08-25T20:56:35.000Z",
-    "updatedAt": "2026-09-05T23:29:30Z"
+    "updatedAt": "2026-09-06T01:28:40Z"
   },
   {
-    "id": "int-2026-09-05-india-chandigarh-farmers-sit-in",
+    "id": "int-2026-09-06-india-chandigarh-farmers-sit-in",
     "seccion": "protestas_int",
     "pais": "India",
     "bandera": "🇮🇳",
     "hora": "—",
-    "fecha": "2026-09-05",
+    "fecha": "2026-09-06",
     "lugar": "Frontera Chandigarh-Mohali, cerca del Aeropuerto Internacional Shaheed Bhagat Singh, Punjab/Haryana, India",
     "tipoAccion": "sentada (sit-in) / bloqueo de carretera",
     "organizaciones": [
@@ -96,7 +67,7 @@
       "Bharatiya Kisan Union (BKU Lakhowal)",
       "32 organizaciones agrarias"
     ],
-    "motivo": "El Samyukt Kisan Morcha (SKM), coalición de 32 organizaciones agrarias de Punjab, mantiene activa este sábado 5 de septiembre la sentada de una semana (hasta el 7 de septiembre) en la frontera Chandigarh-Mohali, bloqueando parcialmente la carretera hacia el aeropuerto internacional. Los agricultores no han recibido respuesta del gobierno a sus demandas. Las exigencias incluyen la garantía legal del Precio Mínimo de Soporte (MSP) para 22 cultivos según las recomendaciones de la Comisión Swaminathan, la cancelación de acuerdos históricos sobre aguas interestatales, la condonación de deudas agrarias, un esquema de seguro de cultivos y la oposición al TLC anunciado por el gobierno central.",
+    "motivo": "El Samyukt Kisan Morcha (SKM), coalición de 32 organizaciones agrarias de Punjab, mantiene activa este domingo 6 de septiembre la sentada de una semana (del 1 al 7 de septiembre) en la frontera Chandigarh-Mohali, bloqueando parcialmente la carretera hacia el aeropuerto internacional, ante la falta de respuesta del gobierno a sus demandas. Las exigencias incluyen la garantía legal del Precio Mínimo de Soporte (MSP) para 22 cultivos según las recomendaciones de la Comisión Swaminathan, la cancelación de acuerdos históricos sobre aguas interestatales, la condonación de deudas agrarias, un esquema de seguro de cultivos y la oposición al TLC anunciado por el gobierno central.",
     "status": "en_curso",
     "lat": 30.7046,
     "lng": 76.8019,
@@ -107,22 +78,22 @@
       "https://indmedia.in/farmers-intensify-chandigarh-border-protest-seek-msp-guarantee-water-pact-cancellation/"
     ],
     "createdAt": "2026-09-01T15:03:34.000Z",
-    "updatedAt": "2026-09-05T23:29:30Z"
+    "updatedAt": "2026-09-06T01:28:40Z"
   },
   {
-    "id": "int-2026-09-05-albania-tirana-protesta-98-rama",
+    "id": "int-2026-09-06-albania-tirana-protesta-99-rama",
     "seccion": "protestas_int",
     "pais": "Albania",
     "bandera": "🇦🇱",
     "hora": "—",
-    "fecha": "2026-09-05",
+    "fecha": "2026-09-06",
     "lugar": "Bulevardi Deshmoret e Kombit (frente a la Oficina del Primer Ministro), Tirana, Albania",
     "tipoAccion": "manifestación / concentración",
     "organizaciones": [
-      "Movimiento ciudadano de protesta (98ª jornada consecutiva)",
+      "Movimiento ciudadano de protesta (99ª jornada consecutiva)",
       "Oposición civil contra el gobierno de Edi Rama"
     ],
-    "motivo": "Ciudadanos albaneses regresaron este sábado 5 de septiembre a la calle por nonagésimo octavo día consecutivo de movilización, exigiendo la renuncia del primer ministro Edi Rama y la liberación de los detenidos en protestas recientes. La movilización incluyó una concentración frente al GJKKO (Tribunal Especial Anticorrupción) con consignas como 'Arresten a Rama, liberen a los ciudadanos'. Los manifestantes exigen la destitución de Rama, un cambio en la clase política y la creación de un gobierno transitorio con un mandato de 12 meses. Anoche se realizó la vigilia del día 97 con marcha desde la Plaza Skanderbeg hasta la Oficina del Primer Ministro. Los manifestantes anuncian una movilización masiva para el 100º día el 7 de septiembre.",
+    "motivo": "Ciudadanos albaneses regresan este domingo 6 de septiembre a la calle por nonagésimo noveno día consecutivo de movilización, exigiendo la renuncia del primer ministro Edi Rama y la liberación de los detenidos en protestas recientes. La movilización exige la destitución de Rama, un cambio en la clase política y la creación de un gobierno transitorio con un mandato de 12 meses. Los manifestantes anuncian una movilización masiva para el 100º día este lunes 7 de septiembre.",
     "status": "en_curso",
     "lat": 41.3275,
     "lng": 19.8187,
@@ -134,22 +105,22 @@
       "https://www.voal.ch/dita-e-97-e-proteses-nis-para-gjykates-penale-vendoset-sot-masa-e-sigurise-per-te-arrestuarit-qytetaret-nuk-na-intimidoni-dot/politike/shqiperi/"
     ],
     "createdAt": "2026-09-02T16:58:36.000Z",
-    "updatedAt": "2026-09-05T23:29:30Z"
+    "updatedAt": "2026-09-06T01:28:40Z"
   },
   {
-    "id": "int-2026-09-05-kenya-nurses-strike-day38",
+    "id": "int-2026-09-06-kenya-nurses-strike-day39",
     "seccion": "protestas_int",
     "pais": "Kenia",
     "bandera": "🇰🇪",
     "hora": "—",
-    "fecha": "2026-09-05",
+    "fecha": "2026-09-06",
     "lugar": "Nairobi y 47 condados de Kenia — hospitales públicos y oficinas de la SRC y la CoG",
     "tipoAccion": "huelga laboral / manifestación",
     "organizaciones": [
       "Kenya National Union of Nurses and Midwives (KNUNM)",
       "Kenya Union of Clinical Officers (KUCO)"
     ],
-    "motivo": "Los enfermeros y parteras de Kenia, en la sexta semana de huelga nacional (día 38), continúan este sábado 5 de septiembre la movilización con marchas y sentadas en múltiples condados y frente a las oficinas de la SRC y la CoG. Exigen la implementación del Convenio Colectivo de Trabajo (CBA) firmado en 2017 y que la SRC emita la carta de no objeción requerida para su registro ante el Employment and Labour Relations Court. La huelga ha paralizado los servicios de salud en al menos 52 hospitales públicos y ha causado decenas de muertes de pacientes, incluyendo muertes maternas y neonatales.",
+    "motivo": "Los enfermeros y parteras de Kenia continúan este domingo 6 de septiembre la séptima semana de la huelga nacional (día 39), con la movilización y marchas activas en múltiples condados y frente a las oficinas de la SRC y la CoG, a la espera de la reunión de negociación programada con el gobierno para el lunes 7 de septiembre. Exigen la implementación del Convenio Colectivo de Trabajo (CBA) firmado en 2017 y que la SRC emita la carta de no objeción requerida para su registro ante el Employment and Labour Relations Court. La huelga ha paralizado los servicios de salud en al menos 52 hospitales públicos y ha causado decenas de muertes de pacientes, incluyendo muertes maternas y neonatales.",
     "status": "en_curso",
     "lat": -1.2921,
     "lng": 36.8219,
@@ -159,38 +130,15 @@
       "https://www.channelafrica.co.za/channelafrica/news/kenyan-nurses-midwives-stage-nationwide-protest/"
     ],
     "createdAt": "2026-09-03T04:54:44.000Z",
-    "updatedAt": "2026-09-05T23:29:30Z"
+    "updatedAt": "2026-09-06T01:28:40Z"
   },
   {
-    "id": "int-2026-09-05-india-tripura-bandh-72h",
-    "seccion": "protestas_int",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "00:00 (bandh de 72 horas)",
-    "fecha": "2026-09-05",
-    "lugar": "Tripura (estado completo), base en Agartala, India",
-    "tipoAccion": "bandh (cierre estatal) / huelga de 72 horas",
-    "organizaciones": [
-      "Organizaciones de militantes rendidos lideradas por Prasenjit Debbarma (NLFT)",
-      "Organizaciones de la sociedad civil de Tripura"
-    ],
-    "motivo": "El bandh (cierre) estatal de 72 horas iniciado el viernes por organizaciones de militantes rendidos lideradas por el presidente del NLFT, Prasenjit Debbarma, continúa este sábado 5 de septiembre en el estado de Tripura, en el noreste de India, exigiendo la implementación de los compromisos del acuerdo tripartito de 2024 entre el gobierno de la India, el gobierno de Tripura y los grupos de militantes rendidos. El bandh paraliza el transporte, las escuelas y los negocios no esenciales en todo el estado.",
-    "status": "en_curso",
-    "lat": 23.8315,
-    "lng": 91.2868,
-    "fuentes": [
-      "https://northeasttoday.in/northeast/72-hour-tripura-bandh-from-september-4-over-unfulfilled-2024-agreement-demands/"
-    ],
-    "createdAt": "2026-09-04T00:44:35.000Z",
-    "updatedAt": "2026-09-05T23:29:30Z"
-  },
-  {
-    "id": "int-2026-09-05-india-marathwada-bandh",
+    "id": "int-2026-09-06-india-marathwada-bandh",
     "seccion": "protestas_int",
     "pais": "India",
     "bandera": "🇮🇳",
     "hora": "—",
-    "fecha": "2026-09-05",
+    "fecha": "2026-09-06",
     "lugar": "Región de Marathwada, Maharashtra (Jalna, Beed, Dharashiv, Parbhani, Latur, Nanded, Hingoli), India",
     "tipoAccion": "bandh regional / bloqueo de carreteras / huelga de hambre",
     "organizaciones": [
@@ -198,7 +146,7 @@
       "Maratha Kranti Morcha",
       "Manoj Jarange Patil (activista)"
     ],
-    "motivo": "La región de Marathwada en Maharashtra continúa este sábado 5 de septiembre la movilización por la reserva (cuota de empleo y educación) para la comunidad Maratha, en el octavo día de huelga de hambre del activista Manoj Jarange Patil (quien dio al gobierno plazo hasta el 11 de septiembre antes de marchar a Mumbai). Persisten los bandhs distritales con rastas-rokos y bloqueos de carreteras nacionales en la región. Los manifestantes exigen la implementación de los Acuerdos de Hyderabad y Satara Gazettes y la emisión de certificados Kunbi para aproximadamente 58 lakh (5,8 millones) de personas.",
+    "motivo": "La región de Marathwada en Maharashtra continúa este domingo 6 de septiembre la movilización por la reserva (cuota de empleo y educación) para la comunidad Maratha, con la huelga de hambre del activista Manoj Jarange Patil superando la semana de duración, quien dio al gobierno plazo hasta el 11 de septiembre antes de marchar a Mumbai. Persisten los bandhs distritales con rasta-rokos y bloqueos de carreteras nacionales en la región. Los manifestantes exigen la implementación de los Acuerdos de Hyderabad y Satara Gazettes y la emisión de certificados Kunbi para aproximadamente 58 lakh (5,8 millones) de personas.",
     "status": "en_curso",
     "lat": 19.8323,
     "lng": 75.89,
@@ -209,15 +157,15 @@
       "https://www.lokmattimes.com/maharashtra/marathwada-bandh-schools-and-colleges-shut-as-jarange-patils-maratha-reservation-protest-intensifies-a475/"
     ],
     "createdAt": "2026-09-04T00:44:35.000Z",
-    "updatedAt": "2026-09-05T23:29:30Z"
+    "updatedAt": "2026-09-06T01:28:40Z"
   },
   {
-    "id": "int-2026-09-05-france-volotea-strike",
+    "id": "int-2026-09-06-france-volotea-strike",
     "seccion": "protestas_int",
     "pais": "Francia",
     "bandera": "🇫🇷",
     "hora": "—",
-    "fecha": "2026-09-05",
+    "fecha": "2026-09-06",
     "lugar": "Aeropuertos de Lille, Perpiñán, Figari, Burdeos, Estrasburgo y otros — red de vuelos de Volotea en Francia",
     "tipoAccion": "huelga de pilotos y personal de cabina",
     "organizaciones": [
@@ -225,7 +173,7 @@
       "UNAC (sindicato de tripulantes de cabina)",
       "SPL (sindicato de pilotos)"
     ],
-    "motivo": "Pilotos y personal de cabina de la aerolínea de bajo costo Volotea continúan este sábado 5 de septiembre el segundo día de la huelga de tres días (del 4 al 6 de septiembre) en Francia, convocada por los sindicatos SNPL, UNAC y SPL, con nuevas cancelaciones de vuelos desde Lille, Perpiñán, Burdeos y Estrasburgo (dos vuelos a Calvi, Córcega, anulados este sábado desde la base de Estrasburgo). Los trabajadores exigen una mejora salarial significativa (la tabla salarial no se actualiza desde 2012) y mejores condiciones de trabajo. La huelga afecta las 11 bases francesas de Volotea (Bordeaux, Brest, Estrasburgo, Lille, Limoges, Lourdes, Lyon, Marsella, Nantes, Rodez, Toulouse) y Niza. Se clasifica como nivel 3 de disruptión aérea.",
+    "motivo": "Pilotos y personal de cabina de la aerolínea de bajo costo Volotea cumplen este domingo 6 de septiembre el tercer y último día de la huelga del 4 al 6 de septiembre en Francia, convocada por los sindicatos SNPL, UNAC y SPL, tras las cancelaciones de vuelos registradas en los dos primeros días desde Lille, Perpiñán, Burdeos y Estrasburgo. Los trabajadores exigen una mejora salarial significativa (la tabla salarial no se actualiza desde 2012) y mejores condiciones de trabajo. La huelga afecta las 11 bases francesas de Volotea (Burdeos, Brest, Estrasburgo, Lille, Limoges, Lourdes, Lyon, Marsella, Nantes, Rodez, Toulouse) y Niza. Se clasifica como nivel 3 de disruptión aérea.",
     "status": "en_curso",
     "lat": 46.2276,
     "lng": 2.2137,
@@ -238,45 +186,22 @@
       "https://actu.fr/grand-est/strasbourg_67482/greve-chez-volotea-deux-vols-annules-a-l-aeroport-de-strasbourg-ce-samedi-voici-lesquels_64747166.html"
     ],
     "createdAt": "2026-09-04T00:44:35.000Z",
-    "updatedAt": "2026-09-05T23:29:30Z"
+    "updatedAt": "2026-09-06T01:28:40Z"
   },
   {
-    "id": "int-2026-09-05-france-t2c-clermont-ferrand-huelga-transporte",
-    "seccion": "protestas_int",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "—",
-    "fecha": "2026-09-05",
-    "lugar": "Clermont-Ferrand, Auvernia-Ródano-Alpes, Francia — red de transporte público T2C (tranvías y líneas de autobús)",
-    "tipoAccion": "huelga de transporte público",
-    "organizaciones": [
-      "Sindicatos de trabajadores de la T2C"
-    ],
-    "motivo": "Continúa este sábado 5 de septiembre en Clermont-Ferrand la huelga del personal de transporte público T2C, iniciada el martes y reconducida el jueves por dos jornadas más (viernes y sábado). Este sábado no circulan los tranvías y permanecen paradas las líneas de tram-bús C y D, así como numerosas líneas de autobús (E1 a E4, E7, E10 a E15), afectando a miles de usuarios.",
-    "status": "en_curso",
-    "lat": 45.7772,
-    "lng": 3.087,
-    "fuentes": [
-      "https://www.radiorva.com/news/locales/23736/greve-a-la-t2c-nouvelle-journee-noire-ce-vendredi-a-clermont-ferrand-voici-les-lignes-a-l-arret",
-      "https://www.connexionfrance.com/news/list-of-strike-action-expected-in-france-in-september-2026/812178"
-    ],
-    "createdAt": "2026-09-04T09:52:25.000Z",
-    "updatedAt": "2026-09-05T23:29:30Z"
-  },
-  {
-    "id": "int-2026-09-05-uk-bradford-kashmiri-diaspora-day86",
+    "id": "int-2026-09-06-uk-bradford-kashmiri-diaspora-day87",
     "seccion": "protestas_int",
     "pais": "Reino Unido",
     "bandera": "🇬🇧",
     "hora": "—",
-    "fecha": "2026-09-05",
+    "fecha": "2026-09-06",
     "lugar": "Consulado de Pakistán, Bradford, West Yorkshire, Reino Unido",
     "tipoAccion": "sentada (sit-in) continua",
     "organizaciones": [
       "Diáspora Kashmirí en Bradford",
       "Activista Mahmood Kashmiri"
     ],
-    "motivo": "La diáspora kashmirí continuó el sábado 5 de septiembre su sentada frente al consulado pakistaní en Bradford por el día 86 consecutivo, exigiendo atención internacional a lo que describen como violaciones de derechos humanos en Azad Kashmir (Kashmir controlado por Pakistán). El activista Mahmood Kashmiri denunció que las fuerzas de seguridad pakistaní tienen 'impunidad total contra los kashmiríes' y acusó a las autoridades de manipular el proceso electoral. El Comité de Acción Popular Conjunta (JAAC), el principal movimiento de protesta en Azad Kashmir, fue prohibido por el gobierno regional en junio. Los manifestantes piden al Reino Unido, la ONU y organizaciones internacionales de derechos humanos que investiguen las denuncias.",
+    "motivo": "La diáspora kashmirí continúa este domingo 6 de septiembre su sentada frente al consulado pakistaní en Bradford por el día 87 consecutivo, exigiendo atención internacional a lo que describen como violaciones de derechos humanos en Azad Kashmir (Kashmir controlado por Pakistán). El activista Mahmood Kashmiri denuncia que las fuerzas de seguridad pakistaní tienen 'impunidad total contra los kashmiríes' y acusa a las autoridades de manipular el proceso electoral. El Comité de Acción Popular Conjunta (JAAC), el principal movimiento de protesta en Azad Kashmir, fue prohibido por el gobierno regional en junio. Los manifestantes piden al Reino Unido, la ONU y organizaciones internacionales de derechos humanos que investiguen las denuncias.",
     "status": "en_curso",
     "lat": 53.7938,
     "lng": -1.7542,
@@ -284,73 +209,21 @@
       "https://www.dailyprabhat.com/kashmiri-diaspora-protest-outside-pakistani-consulate-in-bradford-continues-amid-rain/"
     ],
     "createdAt": "2026-09-04T13:59:23.000Z",
-    "updatedAt": "2026-09-05T23:29:30Z"
+    "updatedAt": "2026-09-06T01:28:40Z"
   },
   {
-    "id": "int-2026-09-05-italy-venice-atvo-huelga-autobuses",
-    "seccion": "protestas_int",
-    "pais": "Italia",
-    "bandera": "🇮🇹",
-    "hora": "16:00-20:00",
-    "fecha": "2026-09-05",
-    "lugar": "Red de autobuses ATVO de Venecia y su provincia (incluidos los servicios hacia el aeropuerto Marco Polo, Jesolo y la Riviera del Brenta), Véneto, Italia",
-    "tipoAccion": "huelga de transporte público local",
-    "organizaciones": [
-      "FILT-CGIL",
-      "FIT-CISL",
-      "UILT-UIL",
-      "FAISA-CISAL"
-    ],
-    "motivo": "Los trabajadores de la empresa de transporte público ATVO de Venecia realizan este sábado 5 de septiembre una huelga de cuatro horas (de 16:00 a 20:00) proclamada unitariamente por FILT-CGIL, FIT-CISL, UILT-UIL y FAISA-CISAL, que afectará los servicios de autobús provinciales y las conexiones con el aeropuerto Marco Polo, dentro de la movilización sectorial por la negociación del convenio colectivo y en reclamo de mejoras salariales y condiciones de trabajo.",
-    "status": "programada",
-    "lat": 45.4408,
-    "lng": 12.3155,
-    "fuentes": [
-      "https://striketracker.app/strikes-in-italy/venice-atvo-bus-strike-5-sep-2026",
-      "https://scioperiitalia.it/sciopero-venezia-settembre-2026"
-    ],
-    "createdAt": "2026-09-05T00:16:46.000Z",
-    "updatedAt": "2026-09-05T23:29:30Z"
-  },
-  {
-    "id": "int-2026-09-05-france-donges-bureau-poste-movilizacion",
-    "seccion": "protestas_int",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "mañana",
-    "fecha": "2026-09-05",
-    "lugar": "Frente al bureau de poste de Donges (Loire-Atlantique), cerca de Saint-Nazaire, Francia",
-    "tipoAccion": "movilización / rassemblement",
-    "organizaciones": [
-      "Collectif pour le maintien du bureau de poste de Donges",
-      "Asociaciones de vecinos de Donges (Loire-Atlantique)",
-      "SudPTT 44-85 (apoyo)"
-    ],
-    "motivo": "Tres asociaciones llaman a los vecinos de Donges a manifestarse este sábado 5 de septiembre por la mañana frente al bureau de poste de la comuna para expresar 'su cólera y su exigencia', ante la amenaza sobre el servicio postal y la supresión unilateral de la apertura del sábado por la mañana decidida por La Poste desde el 25 de julio. El colectivo por el mantenimiento del bureau de poste, apoyado por el sindicato SudPTT 44-85, reclama la reapertura del sábado, ha lanzado una petición y organizó rassemblements previos; la municipalidad también pidió la reversión de la medida.",
-    "status": "programada",
-    "lat": 47.3182,
-    "lng": -2.0759,
-    "fuentes": [
-      "https://www.ouest-france.fr/pays-de-la-loire/donges-44480/bureau-de-poste-menace-dans-cette-commune-proche-de-saint-nazaire-appel-a-manifester-samedi-7ef15172-a61e-11f1-887b-401e86f3b7b1",
-      "https://www.ouest-france.fr/pays-de-la-loire/loire-atlantique/un-nouveau-rassemblement-prevu-dans-cette-commune-de-loire-atlantique-pour-le-maintien-de-son-bureau-de-poste-e233edac-9e36-11f1-a8ad-3219df531147",
-      "https://actu.fr/pays-de-la-loire/donges_44052/ce-nest-pas-un-luxe-un-rassemblement-contre-la-fermeture-le-samedi-de-ce-bureau-de-poste-de-loire-atlantique_64700931.html"
-    ],
-    "createdAt": "2026-09-05T00:16:46.000Z",
-    "updatedAt": "2026-09-05T23:29:30Z"
-  },
-  {
-    "id": "int-2026-09-05-spain-groundforce-elprat-huelga",
+    "id": "int-2026-09-06-spain-groundforce-elprat-huelga",
     "seccion": "protestas_int",
     "pais": "España",
     "bandera": "🇪🇸",
     "hora": "—",
-    "fecha": "2026-09-05",
+    "fecha": "2026-09-06",
     "lugar": "Aeropuerto Josep Tarradellas Barcelona-El Prat (terminales T1 y T2), Barcelona, España",
     "tipoAccion": "huelga laboral indefinida (handling)",
     "organizaciones": [
       "CGT (Confederación General del Trabajo)"
     ],
-    "motivo": "Continúa este sábado 5 de septiembre la huelga indefinida de los 1.179 trabajadores de asistencia en tierra (handling), facturación, embarque y coordinación de vuelos de la empresa Groundforce en el aeropuerto de Barcelona-El Prat, iniciada el 4 de agosto y que supera el mes de duración con el conflicto aún encallado. La planta denuncia sobrecarga de trabajo 'brutal', falta de personal cualificado, deterioro de la prevención de riesgos y la negativa de la dirección a negociar. La huelga provoca cancelaciones diarias de vuelos de aerolíneas como Air Europa, Lufthansa, Air France, KLM, Qatar Airways o Etihad. Los sindicatos denuncian asimismo servicios mínimos 'abusivos' de entre el 35% y el 80%.",
+    "motivo": "Continúa este domingo 6 de septiembre la huelga indefinida de los 1.179 trabajadores de asistencia en tierra (handling), facturación, embarque y coordinación de vuelos de la empresa Groundforce en el aeropuerto de Barcelona-El Prat, iniciada el 4 de agosto, que supera el mes de duración con el conflicto aún encallado. La plantilla denuncia sobrecarga de trabajo 'brutal', falta de personal cualificado, deterioro de la prevención de riesgos y la negativa de la dirección a negociar. La huelga provoca cancelaciones diarias de vuelos de aerolíneas como Air Europa, Lufthansa, Air France, KLM, Qatar Airways o Etihad. Los sindicatos denuncian asimismo servicios mínimos 'abusivos' de entre el 35% y el 80%.",
     "status": "en_curso",
     "lat": 41.2974,
     "lng": 2.0833,
@@ -360,43 +233,15 @@
       "https://www.rtve.es/catalunya/noticies/20260804/vaga-indefinida-groundforce-prat-plena-temporada-alta-estiu/17177826.shtml"
     ],
     "createdAt": "2026-09-04T20:15:11.000Z",
-    "updatedAt": "2026-09-05T23:29:30Z"
+    "updatedAt": "2026-09-06T01:28:40Z"
   },
   {
-    "id": "int-2026-09-05-greece-thessaloniki-tif-movilizacion",
-    "seccion": "protestas_int",
-    "pais": "Grecia",
-    "bandera": "🇬🇷",
-    "hora": "11:00",
-    "fecha": "2026-09-05",
-    "lugar": "Tesalónica, Grecia — hospital público Ippokrateio, sede del Ministerio de Interior (Macedonia-Tracia) y centro de la ciudad",
-    "tipoAccion": "manifestaciones / concentraciones sindicales",
-    "organizaciones": [
-      "GSEE (Confederación General del Trabajo de Grecia)",
-      "ADEDY (Confederación de Funcionarios Públicos)",
-      "PAME",
-      "Trabajadores de hospitales públicos y de ambulancias (EKAV)",
-      "Comité Nacional de Bloqueos de Agricultores",
-      "Asociación de familiares de víctimas de Tempi"
-    ],
-    "motivo": "Día pico de movilizaciones este sábado 5 de septiembre en Tesalónica con motivo de la inauguración de la 90ª Feria Internacional de Tesalónica (TIF), con la asistencia del primer ministro. GSEE, ADEDY, PAME, agricultores con tractores, organizaciones de izquierda y la asociación de familiares de las víctimas del accidente de tren de Tempi convocan concentraciones y marchas por el centro de la ciudad, con exigencias salariales, justicia por las víctimas de Tempi y rechazo a las políticas del gobierno. Un operativo de más de 3.500 policías fue desplegado en la ciudad y el metro cerró en el centro.",
-    "status": "en_curso",
-    "lat": 40.6401,
-    "lng": 22.9444,
-    "fuentes": [
-      "https://fyi.news/en/articles/protests-begin-today-ahead-of-the-90th-thessaloniki-international-fair/",
-      "https://www.tovima.gr/2026/09/04/society/deth-3-500-astynomikoi-trakter-poreies-kai-kleisto-metro/"
-    ],
-    "createdAt": "2026-09-04T20:15:11.000Z",
-    "updatedAt": "2026-09-05T23:29:30Z"
-  },
-  {
-    "id": "int-2026-09-05-pakistan-ji-sentada-gasolinazo",
+    "id": "int-2026-09-06-pakistan-ji-sentada-gasolinazo",
     "seccion": "protestas_int",
     "pais": "Pakistán",
     "bandera": "🇵🇰",
     "hora": "—",
-    "fecha": "2026-09-05",
+    "fecha": "2026-09-06",
     "lugar": "Sentadas frente a Governor House (Karachi) y en Lahore, Peshawar e Islamabad, Pakistán",
     "tipoAccion": "sentada (sit-in) prolongada / campaña de protesta",
     "organizaciones": [
@@ -405,7 +250,7 @@
       "Karachi Bar Association (KBA)",
       "Asociaciones de comerciantes (Anjuman-i-Tajiran)"
     ],
-    "motivo": "La campaña nacional del Jamaat-e-Islami contra la tasa sobre los combustibles (petroleum levy), los altos precios del petróleo y la electricidad y los acuerdos con productores independientes de energía (IPPs) continúa este sábado 5 de septiembre en su vigésimo primer día, con sit-ins activos frente a Governor House en Karachi y en Lahore, Peshawar e Islamabad. El partido confirmó que las sentadas se mantendrán durante todo el proceso de negociación con el gobierno, que acordó crear comités técnicos para revisar la tasa (las conversaciones formales arrancan el lunes 7). El 3 de septiembre se cumplió el paro nacional de cierre de comercios 'shutter-down', con más de 300 mercados cerrados en Karachi y el respaldo de abogados y comerciantes. El JI advirtió que si no se retira la tasa, ampliará las protestas y evalúa una marcha larga.",
+    "motivo": "La campaña nacional del Jamaat-e-Islami contra la tasa sobre los combustibles (petroleum levy), los altos precios del petróleo y la electricidad y los acuerdos con productores independientes de energía (IPPs) continúa este domingo 6 de septiembre en su vigésimo segundo día, con sit-ins activos frente a Governor House en Karachi y en Lahore, Peshawar e Islamabad. El partido confirmó que las sentadas se mantendrán durante todo el proceso de negociación con el gobierno, que acordó crear comités técnicos para revisar la tasa (las conversaciones formales arrancan este lunes 7). El 3 de septiembre se cumplió el paro nacional de cierre de comercios 'shutter-down', con más de 300 mercados cerrados en Karachi y el respaldo de abogados y comerciantes. El JI advirtió que si no se retira la tasa, ampliará las protestas y evalúa una marcha larga.",
     "status": "en_curso",
     "lat": 24.8562,
     "lng": 67.0047,
@@ -417,22 +262,22 @@
       "https://www.dawn.com/news/2027310"
     ],
     "createdAt": "2026-09-04T20:15:11.000Z",
-    "updatedAt": "2026-09-05T23:29:30Z"
+    "updatedAt": "2026-09-06T01:28:40Z"
   },
   {
-    "id": "int-2026-09-05-mexico-normalistas-teteles-bloqueo-eje-central",
+    "id": "int-2026-09-06-mexico-normalistas-teteles-bloqueo-eje-central",
     "seccion": "protestas_int",
     "pais": "México",
     "bandera": "🇲🇽",
     "hora": "desde el 3 de septiembre (bloqueo continuo)",
-    "fecha": "2026-09-05",
+    "fecha": "2026-09-06",
     "lugar": "Eje Central Lázaro Cárdenas y avenida Juárez, Centro Histórico, Ciudad de México, México",
     "tipoAccion": "bloqueo vial / campamento de protesta",
     "organizaciones": [
       "Consejo Estudiantil de la Escuela Normal Rural 'Carmen Serdán' (Teteles de Ávila Castillo, Puebla)",
       "Estudiantes y normalistas de Puebla"
     ],
-    "motivo": "Estudiantes normalistas de la Normal Rural 'Carmen Serdán' de Teteles, Puebla, mantienen este sábado 5 de septiembre el bloqueo permanente del Eje Central Lázaro Cárdenas con avenida Juárez, en el Centro Histórico de la CDMX, con autobuses atravesados, casas de campaña y el servicio de Trolebús suspendido. Exigen la liberación del abogado y defensor de derechos humanos Alejandro Martínez Martínez, detenido el 26 de agosto y vinculado a proceso por despojo; el cierre de 16 carpetas de investigación contra alumnas; y denuncian una campaña de criminalización para desaparecer el normalismo rural. Tras marchar desde el Ángel de la Independencia, esperan respuesta de la Secretaría de Gobernación.",
+    "motivo": "Estudiantes normalistas de la Normal Rural 'Carmen Serdán' de Teteles, Puebla, mantienen este domingo 6 de septiembre el bloqueo permanente del Eje Central Lázaro Cárdenas con avenida Juárez, en el Centro Histórico de la CDMX, con autobuses atravesados, casas de campaña y el servicio de Trolebús suspendido. Exigen la liberación del abogado y defensor de derechos humanos Alejandro Martínez Martínez, detenido el 26 de agosto y vinculado a proceso por despojo; el cierre de 16 carpetas de investigación contra alumnas; y denuncian una campaña de criminalización para desaparecer el normalismo rural. Tras marchar desde el Ángel de la Independencia, esperan respuesta de la Secretaría de Gobernación.",
     "status": "en_curso",
     "lat": 19.4349,
     "lng": -99.1415,
@@ -443,15 +288,15 @@
       "https://www.proceso.com.mx/nacional/estados/2026/9/3/normalistas-de-teteles-denuncian-campana-de-criminalizacion-para-desaparecer-la-escuela-379294.html"
     ],
     "createdAt": "2026-09-04T22:26:44.000Z",
-    "updatedAt": "2026-09-05T23:29:30Z"
+    "updatedAt": "2026-09-06T01:28:40Z"
   },
   {
-    "id": "int-2026-09-05-france-capitale-champagne-greve",
+    "id": "int-2026-09-06-france-capitale-champagne-greve",
     "seccion": "protestas_int",
     "pais": "Francia",
     "bandera": "🇫🇷",
     "hora": "—",
-    "fecha": "2026-09-05",
+    "fecha": "2026-09-06",
     "lugar": "Depósito de Capitale Champagne, Bezannes (Reims), Francia",
     "tipoAccion": "huelga laboral con piquetes",
     "organizaciones": [
@@ -459,7 +304,7 @@
       "Chauffeurs de Capitale Champagne (grupo Dewitte)",
       "Salariés des Ambulances Clovis"
     ],
-    "motivo": "Continúa este sábado 5 de septiembre la huelga iniciada el 31 de agosto en Capitale Champagne, empresa de transporte VIP de pasajeros y autocares de turismo en Bezannes (Reims): el piquete sigue ante el depósito y varios chauffeurs, unidos a trabajadores de Ambulances Clovis, no han retomado el trabajo. La dirección dio un paso al proponer una reunión el martes, pero la CFDT Transports de Reims, que acepta la mano tendida, advierte que no aflojará.",
+    "motivo": "Continúa este domingo 6 de septiembre la huelga iniciada el 31 de agosto en Capitale Champagne, empresa de transporte VIP de pasajeros y autocares de turismo en Bezannes (Reims): el piquete sigue ante el depósito y varios chauffeurs, unidos a trabajadores de Ambulances Clovis, no han retomado el trabajo. La dirección dio un paso al proponer una reunión el martes, pero la CFDT Transports de Reims, que acepta la mano tendida, advierte que no aflojará.",
     "status": "en_curso",
     "lat": 49.2237,
     "lng": 3.9933,
@@ -467,826 +312,22 @@
       "https://www.lunion.fr/id825978/article/2026-09-04/la-greve-continue-chez-capitale-champagne-pres-de-reims"
     ],
     "createdAt": "2026-09-04T22:26:44.000Z",
-    "updatedAt": "2026-09-05T23:29:30Z"
+    "updatedAt": "2026-09-06T01:28:40Z"
   },
   {
-    "id": "int-2026-09-05-bangladesh-dhaka-chattogram-long-march",
-    "seccion": "protestas_int",
-    "pais": "Bangladesh",
-    "bandera": "🇧🇩",
-    "hora": "07:00 (rally inaugural); salida de la marcha 08:30",
-    "fecha": "2026-09-05",
-    "lugar": "Daca-Chattogram: salida de Shapla Chattar (Daca), ruta por la autopista Daca-Chattogram (Kanchpur/Narayanganj, Paduar Bazar/Cumilla, Mohipal/Feni, Mirsharai) hasta Laldighi Maidan (Chattogram), Bangladesh",
-    "tipoAccion": "marcha larga (long march) de la alianza opositora",
-    "organizaciones": [
-      "Alianza de 11 partidos liderada por Jamaat-e-Islami (Bangladesh)",
-      "Bangladesh Khelafat Majlis",
-      "Liberal Democratic Party (LDP) y otras fuerzas de la oposición"
-    ],
-    "motivo": "La alianza opositora de 11 partidos liderada por el Jamaat-e-Islami inició este sábado 5 de septiembre la marcha larga Daca-Chattogram desde por la mañana: se espera la participación de aproximadamente 1.500 vehículos y la caravana culmina con un mitin en Laldighi Maidan (Chattogram), con rallies laterales en Narayanganj, Cumilla, Feni y Mirsharai. El líder opositor Shafiqur Rahman afirmó que el movimiento continuará 'hasta que se establezcan los derechos del pueblo' y el secretario general del JI advirtió que si el gobierno obstruye la marcha, la demanda de seis puntos se convertirá en una sola. Exigen la implementación del veredicto del referéndum, el juicio por la masacre de julio de 2024, el fin de la escasez de electricidad, combustible, gas y fertilizantes, el control de la suba de precios, el fin de la extorsión y la corrupción y la mejora del orden público.",
-    "status": "en_curso",
-    "lat": 23.8103,
-    "lng": 90.4125,
-    "fuentes": [
-      "https://www.tbsnews.net/bangladesh/politics/jamaat-led-opposition-coalition-launches-march-towards-ctg-shapla-chattar-over-6",
-      "https://www.thedailystar.net/news/politics/news/jamaat-led-alliance-begins-long-march-vows-continue-movement-4265196",
-      "https://www.justnewsbd.com/index.php/en/politics/news/31496",
-      "https://dailynewnation.com/news/853909"
-    ],
-    "createdAt": "2026-09-05T04:47:32.000Z",
-    "updatedAt": "2026-09-05T23:29:30Z"
-  },
-  {
-    "id": "int-2026-09-05-malaysia-kuala-lumpur-haze-protest",
-    "seccion": "protestas_int",
-    "pais": "Malasia",
-    "bandera": "🇲🇾",
-    "hora": "—",
-    "fecha": "2026-09-05",
-    "lugar": "Frente a la Embajada de Indonesia, Kuala Lumpur, Malasia",
-    "tipoAccion": "protesta / entrega de memorando",
-    "organizaciones": [
-      "Greenpeace Malaysia",
-      "Himpunan Advocacy Rakyat Malaysia (Haram)"
-    ],
-    "motivo": "Greenpeace Malaysia y HARAM realizaron este sábado 5 de septiembre una protesta frente a la Embajada de Indonesia en Kuala Lumpur por la crisis de la niebla tóxica (haze) transfronteriza, expresando solidaridad con las comunidades afectadas y su preocupación por la pérdida de vida silvestre. Las organizaciones entregaron un memorando en el que instan al gobierno de Indonesia a hacer pública la información crítica sobre ubicaciones de incendios, hallazgos de investigaciones, mapas de concesiones y puntos calientes, y a identificar a las empresas vinculadas a los incendios y al haze, incluida la participación de compañías ligadas a Malasia.",
-    "status": "en_curso",
-    "lat": 3.139,
-    "lng": 101.6869,
-    "fuentes": [
-      "https://www.thestar.com.my/news/nation/2026/09/05/ngos-hold-haze-protest-at-indonesian-embassy"
-    ],
-    "createdAt": "2026-09-05T04:47:32.000Z",
-    "updatedAt": "2026-09-05T23:29:30Z"
-  },
-  {
-    "id": "int-2026-09-05-spain-sevilla-us-publica-concentracion",
-    "seccion": "protestas_int",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "11:30",
-    "fecha": "2026-09-05",
-    "lugar": "Puertas del Rectorado de la Universidad de Sevilla, Sevilla, Andalucía, España",
-    "tipoAccion": "concentración universitaria",
-    "organizaciones": [
-      "Plataforma 'US por la pública' (USxlapública)",
-      "Comité de empresa del PDI Laboral de la Universidad de Sevilla"
-    ],
-    "motivo": "La plataforma 'US por la pública' convoca este sábado 5 de septiembre una concentración a las 11:30 a las puertas del Rectorado de la Universidad de Sevilla, coincidiendo con la apertura oficial del curso académico 2026-27 en el Paraninfo. Denuncian los 'duros recortes' e 'infrafinanciación' del sistema universitario público andaluz, que genera reducción de contratación, aumento de ratios, paralización de promociones y recortes en becas, ayudas y actividades culturales, y alertan de una estrategia 'para asfixiar a las universidades públicas y favorecer el crecimiento de las privadas'. Exigen el fin de los recortes y una financiación justa y suficiente para la universidad pública.",
-    "status": "programada",
-    "lat": 37.3828,
-    "lng": -5.9941,
-    "fuentes": [
-      "https://www.europapress.es/andalucia/sevilla-00357/noticia-plataforma-us-publica-protesta-sevilla-duros-recortes-infrafinanciacion-universidad-20260904151052.html"
-    ],
-    "createdAt": "2026-09-05T04:47:32.000Z",
-    "updatedAt": "2026-09-05T23:29:30Z"
-  },
-  {
-    "id": "int-2026-09-05-spain-cantabria-santander-manifestacion-educacion",
-    "seccion": "protestas_int",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "12:00",
-    "fecha": "2026-09-05",
-    "lugar": "Santander, Cantabria, España: salida de la Consejería de Educación (calle Río de la Pila), paso por la sede del Gobierno cántabro (Peña Herbosa) y llegada a la Plaza de Correos",
-    "tipoAccion": "manifestación educativa",
-    "organizaciones": [
-      "Plataforma por la Enseñanza Pública de Cantabria",
-      "Sindicatos docentes CCOO, STEC y Anpe",
-      "Frente de Estudiantes",
-      "15 AMPA de colegios e institutos de Cantabria"
-    ],
-    "motivo": "La recién creada Plataforma por la Enseñanza Pública de Cantabria celebra este sábado 5 de septiembre a las 12:00 su primera manifestación por las calles de Santander, desde la Consejería de Educación (Río de la Pila) hasta la Plaza de Correos, con parada frente a la sede del Gobierno regional en Peña Herbosa. Rechazan los recortes de más de 108 puestos de trabajo y de aulas en las redes públicas, denuncian la negativa de la Consejería a mantener un diálogo efectivo y exigen una planificación educativa rigurosa, mayor inversión, la reversión de los conciertos a la enseñanza privada y la gratuidad real de la escuela pública.",
-    "status": "programada",
-    "lat": 43.4623,
-    "lng": -3.81,
-    "fuentes": [
-      "https://www.eldiario.es/cantabria/plataforma-ensenanza-publica-manifiesta-sabado-santander-mostrar-rechazo-recortes_1_13487610.html",
-      "https://eldiariocantabria.publico.es/articulo/educacion/plataforma-ensenanza-publica-cantabria-anuncia-primera-movilizacion-sabado-santander/20260831130019197873.html",
-      "https://cantabriastec.org/presentacion-plataforma-por-la-ensenanza-publica-y-manifestacion-sabado-5-12-hr/"
-    ],
-    "createdAt": "2026-09-05T04:47:32.000Z",
-    "updatedAt": "2026-09-05T23:29:30Z"
-  },
-  {
-    "id": "int-2026-09-05-spain-jaen-manifestacion-tren-linares",
-    "seccion": "protestas_int",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "—",
-    "fecha": "2026-09-05",
-    "lugar": "Estación de Linares-Baeza, Linares, Jaén, Andalucía, España",
-    "tipoAccion": "manifestación ciudadana",
-    "organizaciones": [
-      "Plataformas en Defensa del Ferrocarril de Linares-Baeza, de la provincia de Jaén, del Centro de La Mancha y de Andalucía Oriental",
-      "CCOO La Janda (CCOO Jaén)",
-      "Jaén Merece Más"
-    ],
-    "motivo": "Las plataformas en defensa del ferrocarril convocan este sábado 5 de septiembre una manifestación en la estación de Linares-Baeza contra el desmantelamiento progresivo de los servicios ferroviarios en la provincia de Jaén, que afecta también a Granada y Castilla-La Mancha. Denuncian el deterioro acumulado durante 30 años, la sustitución de conexiones por autobuses de microbús de solo 8 plazas y el riesgo inminente de que se corte la relación ferroviaria Almería-Madrid, fundamental para la vertebración de municipios como Cabra de Santo Cristo, Jódar, Linares-Baeza y Vilches. Exigen un servicio ferroviario digno y modernizado.",
-    "status": "programada",
-    "lat": 38.0952,
-    "lng": -3.6361,
-    "fuentes": [
-      "https://www.abc.es/espana/andalucia/jaen/movilizacion-ciudadana-proximo-sabado-estacion-linaresbaeza-servicio-20260903173430-nts.html"
-    ],
-    "createdAt": "2026-09-05T04:47:32.000Z",
-    "updatedAt": "2026-09-05T23:29:30Z"
-  },
-  {
-    "id": "int-2026-09-05-spain-madrid-rayo-vallecano-manifestacion",
-    "seccion": "protestas_int",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "16:45",
-    "fecha": "2026-09-05",
-    "lugar": "Madrid, España: desde la Fuente de la Asamblea (junto a la Asamblea de Madrid) hasta el Estadio de Vallecas (Puente de Vallecas)",
-    "tipoAccion": "manifestación de aficionados",
-    "organizaciones": [
-      "Plataforma ADRV (Acción Deportiva Rayo Vallecano)",
-      "Federación de Peñas del Rayo Vallecano"
-    ],
-    "motivo": "Los aficionados del Rayo Vallecano, convocados por la Plataforma ADRV y la Federación de Peñas, marchan este sábado 5 de septiembre a partir de las 16:45 desde la Fuente de la Asamblea hasta el Estadio de Vallecas, horas antes del partido ante el Racing de Santander, bajo el lema 'El Rayo es de Vallekas o no será'. Exigen unas instalaciones 'dignas' y seguras en el estadio y la salida del presidente del club, Raúl Martín Presa.",
-    "status": "programada",
-    "lat": 40.3918,
-    "lng": -3.6601,
-    "fuentes": [
-      "https://www.elconfidencial.com/espana/madrid/2026-08-27/1qrt-manifestacion-madrid-aficionados-rayo-estadio-fecha-horario-calles_4412829/"
-    ],
-    "createdAt": "2026-09-05T04:47:32.000Z",
-    "updatedAt": "2026-09-05T23:29:30Z"
-  },
-  {
-    "id": "int-2026-09-05-france-paris-chatelet-manifestacion",
-    "seccion": "protestas_int",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "14:30",
-    "fecha": "2026-09-05",
-    "lugar": "Place du Châtelet, París, Francia",
-    "tipoAccion": "manifestación",
-    "organizaciones": [
-      "Convocatoria unitaria 'Plus jamais ça'",
-      "International Solidarity Movement (ISM-France)"
-    ],
-    "motivo": "Convocatoria 'Plus jamais ça' ('Nunca más') este sábado 5 de septiembre a las 14:30 en la Place du Châtelet de París, junto al Tribunal de París, para denunciar la violencia policial y exigir justicia frente a las muertes y agresiones denunciadas en el contexto de las protestas y de la precarización de los barrios. La movilización numerosa en la Place du Châtelet se enmarcó también en la gran manifestación por Palestina (CAPJPO-EuroPalestine) a las 14:30, para denunciar el genocidio en Gaza y la represión y colonización en Cisjordania, en un contexto de bombardeos diarios y de destrucción de la ayuda humanitaria.",
-    "status": "en_curso",
-    "lat": 48.8584,
-    "lng": 2.3468,
-    "fuentes": [
-      "https://ismfrance.org/index.php/2026/09/03/manifestation-plus-jamais-ca-tous-place-du-chatelet-a-paris-samedi-5-septembre-a-14h30/",
-      "https://www.echoroukonline.com/europalestine-appelle-a-manifester-samedi-a-paris-pour-gaza-et-la-cisjordanie",
-      "https://europalestine.com/2026/09/03/manifestation-ce-samedi-5-septembre-a-paris/"
-    ],
-    "createdAt": "2026-09-05T04:47:32.000Z",
-    "updatedAt": "2026-09-05T23:29:30Z"
-  },
-  {
-    "id": "int-2026-09-05-france-marseille-manifestacion-palestina",
-    "seccion": "protestas_int",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "18:00",
-    "fecha": "2026-09-05",
-    "lugar": "Porte d'Aix, Marsella, Bouches-du-Rhône, Francia",
-    "tipoAccion": "manifestación de solidaridad con Palestina",
-    "organizaciones": [
-      "Colectivos propalestinos de Marsella",
-      "International Solidarity Movement (ISM-France)",
-      "Diversas organizaciones de apoyo a Palestina"
-    ],
-    "motivo": "Manifestación de solidaridad con Palestina este sábado 5 de septiembre a las 18:00 en la Porte d'Aix de Marsella para denunciar los actos criminales de los colonos contra los palestinos, pedir el fin de la complicidad internacional y reclamar justicia y libertad para el pueblo palestino ante la escalada de violencia en Cisjordania.",
-    "status": "programada",
-    "lat": 43.3048,
-    "lng": 5.3812,
-    "fuentes": [
-      "https://ismfrance.org/index.php/2026/09/03/manifestation-palestine-marseille-samedi-5-septembre-18h-porte-daix/",
-      "https://librinfo74.fr/samedi-5-septembre-manifestation-pour-denoncer-les-actes-criminels-des-colons-contre-les-palestiniens/"
-    ],
-    "createdAt": "2026-09-05T04:47:32.000Z",
-    "updatedAt": "2026-09-05T23:29:30Z"
-  },
-  {
-    "id": "int-2026-09-05-france-montpellier-rassemblement-chasse",
-    "seccion": "protestas_int",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "14:00",
-    "fecha": "2026-09-05",
-    "lugar": "Frente a la prefectura de l'Hérault, Montpellier, Occitania, Francia",
-    "tipoAccion": "rassemblement / concentración",
-    "organizaciones": [
-      "Révolution écologique pour le vivant (REV)"
-    ],
-    "motivo": "El partido Révolution écologique pour le vivant (REV) convoca este sábado 5 de septiembre a partir de las 14:00 un rassemblement frente a la prefectura de l'Hérault en Montpellier contra la apertura de la temporada de caza (prevista el 13 de septiembre) tras los incendios devastadores del verano. Exigen suspender y retrasar la apertura para dar 'un respiro vital a la fauna' debilitada por los incendios, detener inmediatamente los tiros sobre las aves, congelar la presión sobre cursos de agua secos y establecer un moratorio de tres años sobre las zonas incendiadas.",
-    "status": "programada",
-    "lat": 43.6108,
-    "lng": 3.8767,
-    "fuentes": [
-      "https://infoccitanie.fr/montpellier-ce-ne-serait-pas-chasser-ce-serait-achever-un-rassemblement-contre-l/"
-    ],
-    "createdAt": "2026-09-05T04:47:32.000Z",
-    "updatedAt": "2026-09-05T23:29:30Z"
-  },
-  {
-    "id": "int-2026-09-05-france-rennes-manif-exploitation-animale",
-    "seccion": "protestas_int",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "13:00-15:30 (village asociativo); 15:30 (salida de la manifestación)",
-    "fecha": "2026-09-05",
-    "lugar": "Place de la République, Rennes, Bretaña, Francia",
-    "tipoAccion": "manifestación abolicionista / antiespecista",
-    "organizaciones": [
-      "Assemblée Générale antispéciste de Rennes",
-      "Parole d'Animaux (difusión)",
-      "Colectivos animalistas y antiespecistas bretones"
-    ],
-    "motivo": "La AG antiespecista de Rennes organiza este sábado 5 de septiembre una manifestación contra la explotación animal: village asociativo de 13:00 a 15:30 en la Place de la République y marcha a partir de las 15:30 por la ciudad, para denunciar la explotación de los animales en la industria, la experimentación y el espectáculo, y reivindicar el fin de su uso y mercantilización, con actividades y una velada posterior de proyección documental.",
-    "status": "programada",
-    "lat": 48.1113,
-    "lng": -1.68,
-    "fuentes": [
-      "https://paroledanimaux.fr/5-septembre-rennes-manif-contre-lexploitation-animale/"
-    ],
-    "createdAt": "2026-09-05T04:47:32.000Z",
-    "updatedAt": "2026-09-05T23:29:30Z"
-  },
-  {
-    "id": "int-2026-09-05-croatia-zagreb-hodaj-za-liku-protesta",
-    "seccion": "protestas_int",
-    "pais": "Croacia",
-    "bandera": "🇭🇷",
-    "hora": "11:00 (concentración); 12:00 (programa principal)",
-    "fecha": "2026-09-05",
-    "lugar": "Zagreb, Croacia: Trg kralja Tomislava, marcha hacia Trg bana Jelačića (Plaza del Rey Tomislav y Plaza de Ban Jelačić)",
-    "tipoAccion": "manifestación / protesta ambiental",
-    "organizaciones": [
-      "Iniciativa ciudadana 'Gospić je naš dom' (Gospić es nuestro hogar)",
-      "Sindicatos croatas",
-      "Organizaciones y colectivos ambientales de toda Croacia"
-    ],
-    "motivo": "Decenas de miles de personas se concentraron este sábado 5 de septiembre en el centro de Zagreb en la protesta 'Hodaj za Liku, hodaj za Hrvatsku' ('Camina por Lika, camina por Croacia'), convocada por la iniciativa ciudadana 'Gospić je naš dom', contra el vertido ilegal de decenas de miles de toneladas de residuos peligrosos cerca de Gospić, en el condado de Lika-Senj. Los manifestantes exigen que el Gobierno presente en 20 días un programa completo de remediación con plazos vinculantes, la retirada de las 33.000 toneladas de residuos enterradas en tres meses, la inclusión de los 'puntos negros' ambientales en el plan nacional de gestión de residuos y una suspensión temporal de las importaciones de residuos. La protesta, que reunió a manifestantes llegados en autobuses desde Lika y otras regiones, busca elevar a nivel nacional un conflicto ambiental que amenaza el agua y el suelo de una de las regiones más ricas en naturaleza de Croacia.",
-    "status": "en_curso",
-    "lat": 45.815,
-    "lng": 15.9819,
-    "fuentes": [
-      "https://www.croatiaweek.com/gospic-waste-crisis-zagreb-protest-33-000-tonnes/",
-      "https://www.thedubrovniktimes.com/news/croatia/item/20480-thousands-take-to-zagreb-streets-over-33-000-tonnes-of-hazardous-waste-dumped-in-croatia-s-heartland",
-      "https://radio.hrt.hr/radio-sljeme/vijesti/veliki-prosvjed-hodaj-za-liku--12892536"
-    ],
-    "createdAt": "2026-09-05T17:27:25.000Z",
-    "updatedAt": "2026-09-05T23:29:30Z"
-  },
-  {
-    "id": "int-2026-09-05-uk-dover-stop-the-boats-bloqueo",
-    "seccion": "protestas_int",
-    "pais": "Reino Unido",
-    "bandera": "🇬🇧",
-    "hora": "desde primeras horas de la madrugada hasta el mediodía",
-    "fecha": "2026-09-05",
-    "lugar": "Puerto de Dover y vías de acceso (A20, A2 Jubilee Way), Kent, Reino Unido",
-    "tipoAccion": "bloqueo de carreteras / protesta anti-inmigración",
-    "organizaciones": [
-      "Protestantes encapuchados 'stop the boats'",
-      "Actores de la extrema derecha (Patriot Platform y llamamientos de Tommy Robinson)",
-      "Reform UK (respaldo local)"
-    ],
-    "motivo": "Cientos de manifestantes vestidos de negro y con pasamontañas bloquearon este sábado 5 de septiembre las vías de acceso al Puerto de Dover en una protesta contra la inmigración ilegal coordinada y no anunciada previamente, con consignas como 'stop the boats' y 'whose streets, our streets'. El bloqueo, iniciado de madrugada, detuvo el tráfico de entrada y salida del puerto durante horas con hasta cuatro millas de congestión y demoras de hasta 45 minutos en la A20. La Policía de Kent escoltó a los manifestantes hacia la estación de tren de Dover Priory, donde abordaron un tren hacia Ramsgate, y hacia el mediodía la policía confirmó que todos se habían dispersado sin detenciones. El gobierno condenó el comportamiento y las demoras causadas, mientras el activista de extrema derecha Tommy Robinson vinculó la movilización a un plan coordinado. No se registraron detenciones.",
-    "status": "finalizada",
-    "lat": 51.1279,
-    "lng": 1.3134,
-    "fuentes": [
-      "https://www.bbc.com/news/live/cmwyzxlzxpzgt",
-      "https://metro.co.uk/2026/09/05/dover-protest-live-hundreds-masked-men-block-port-dover-29540959/",
-      "https://www.irishnews.com/news/uk/masked-protesters-block-dover-roads-in-anti-illegal-migrant-demo-3C3WYWVBXVOPNJPCA6VSTHQ6NQ/"
-    ],
-    "createdAt": "2026-09-05T17:27:25.000Z",
-    "updatedAt": "2026-09-05T23:29:30Z"
-  },
-  {
-    "id": "int-2026-09-05-finland-helsinki-marcha-fascista-contramanif",
-    "seccion": "protestas_int",
-    "pais": "Finlandia",
-    "bandera": "🇫🇮",
-    "hora": "desde 14:00 (ambas movilizaciones)",
-    "fecha": "2026-09-05",
-    "lugar": "Helsinki, Finlandia: marcha del Movimiento Azul y Negro desde la Plaza del Mercado de Hakaniemi y contra-manifestación antifascista desde la Plaza de la Estación (Rautatientori)",
-    "tipoAccion": "marcha de extrema derecha / contra-manifestación antifascista",
-    "organizaciones": [
-      "Movimiento Azul y Negro (Sinimusta liike)",
-      "Active Club (militantes enmascarados)",
-      "Aurora Helsinki y red Varis (contra-manifestación antifascista)"
-    ],
-    "motivo": "Dos manifestaciones opuestas recorrieron este sábado 5 de septiembre por la tarde el centro de Helsinki: una marcha del movimiento abiertamente racista y fascista Azul y Negro (Sinimusta liike), que partió de Hakaniemi con unos 300 participantes y 35-40 militantes enmascarados del Active Club, y una contra-manifestación antifascista convocada por Aurora Helsinki y la red Varis, que reunió a unos 600 participantes desde la Plaza de la Estación. La policía coordinó el tráfico y mantuvo separadas ambas movilizaciones. Cuatro personas fueron detenidas preventivamente antes del inicio de las marchas y se registró un incidente de alteración del orden en el parque Dallape de Vallila, sin heridos ni detenidos.",
-    "status": "en_curso",
-    "lat": 60.1699,
-    "lng": 24.9384,
-    "fuentes": [
-      "https://finlandtoday.fi/fascist-march-anti-fascist-counter-protest-a-divided-helsinki-afternoon-video/",
-      "https://www.dailynorthern.com/30564/two-helsinki-demonstrations-disrupt-central-traffic/"
-    ],
-    "createdAt": "2026-09-05T17:27:25.000Z",
-    "updatedAt": "2026-09-05T23:29:30Z"
-  },
-  {
-    "id": "int-2026-09-05-italy-rome-corteo-renato-biagetti-antifascista",
-    "seccion": "protestas_int",
-    "pais": "Italia",
-    "bandera": "🇮🇹",
-    "hora": "17:00 (partida de Piazzale Ostiense)",
-    "fecha": "2026-09-05",
-    "lugar": "Roma, Italia: partida de Piazzale Ostiense-Piramide, llegada al Parco Schuster",
-    "tipoAccion": "manifestación antifascista conmemorativa",
-    "organizaciones": [
-      "Renoize (comité en memoria de Renato Biagetti)",
-      "ANPI de Roma",
-      "Centros sociales romanos, colectivos pro-Palestina y antifascistas"
-    ],
-    "motivo": "Miles de personas están convocadas este sábado 5 de septiembre en Roma al corteo antifascista del Renoize, que a veinte años del asesinato del joven Renato Biagetti (muerto en Focene en agosto de 2006) recorre las calles desde Piazzale Ostiense hasta el Parco Schuster bajo el lema 'Contro guerra, disumanità e riarmo. Costruiamo comunità resistenti'. La manifestación vincula la memoria de Biagetti con las luchas actuales contra el fascismo, el racismo, el apartheid y la militarización de la sociedad, con el apoyo a Palestina, la denuncia de las políticas de rearme y la defensa de los espacios sociales, y culmina con conciertos de artistas como Giancane, Assalti Frontali, Fuksia y la participación de Zerocalcare.",
-    "status": "en_curso",
-    "lat": 41.8632,
-    "lng": 12.4812,
-    "fuentes": [
-      "https://roma.repubblica.it/cronaca/2026/09/04/news/contro_guerra_disumanita_costruiamo_comunita_resistenti_in_corteo_per_renato_biagetti-425565150/"
-    ],
-    "createdAt": "2026-09-05T17:27:25.000Z",
-    "updatedAt": "2026-09-05T23:29:30Z"
-  },
-  {
-    "id": "int-2026-09-05-italy-bari-meloni-vattin-contromanifestacion",
-    "seccion": "protestas_int",
-    "pais": "Italia",
-    "bandera": "🇮🇹",
-    "hora": "—",
-    "fecha": "2026-09-05",
-    "lugar": "Bari, Italia: marcha desde Piazza del Ferrarese por el lungomare hasta la Basílica de San Nicola",
-    "tipoAccion": "contra-manifestación / marcha de protesta",
-    "organizaciones": [
-      "Cambiare Rotta",
-      "Osa",
-      "Usb",
-      "Rifondazione Comunista",
-      "Realidades pro-Palestina (Global Sumud Flotilla)"
-    ],
-    "motivo": "Alrededor de mil personas se manifestaron este sábado 5 de septiembre en Bari en el corteo 'Meloni vattin' ('Meloni vete'), una contra-manifestación promovida por movimientos y asociaciones entre los que destacan Cambiare Rotta, Osa, USB, Rifondazione Comunista y realidades pro-Palestina, en respuesta a la festividad del partido Fratelli d'Italia en el puerto que celebra la longevidad del gobierno de Giorgia Meloni. El corteo, que partió de Piazza del Ferrarese y recorrió el lungomare con banderas palestinas y carteles contra el gobierno, no pudo llegar a la dársena 10 donde habló la primera ministra porque la Questura autorizó el recorrido solo hasta la Basílica de San Nicola. Fueron emitidas tres detenciones preventivas. Los manifestantes rechazan las políticas gubernamentales sobre salarios, seguridad, educación y sanidad, y critican el apoyo de Italia a Israel y a Estados Unidos.",
-    "status": "en_curso",
-    "lat": 41.1253,
-    "lng": 16.8667,
-    "fuentes": [
-      "https://bari.corriere.it/notizie/cronaca/26_settembre_05/meloni-vattin-a-bari-in-mille-al-corteo-di-protesta-contro-il-governo-piu-longevo-d-italia-e-in-fiera-canta-caparezza-765e7fda-5dc7-437c-997a-8f8370bd9xlk.shtml"
-    ],
-    "createdAt": "2026-09-05T17:27:25.000Z",
-    "updatedAt": "2026-09-05T23:29:30Z"
-  },
-  {
-    "id": "int-2026-09-05-italy-livorno-corteo-orti-urbani-via-goito",
-    "seccion": "protestas_int",
-    "pais": "Italia",
-    "bandera": "🇮🇹",
-    "hora": "16:00 (partida); llegada bajo el Ayuntamiento 19:00",
-    "fecha": "2026-09-05",
-    "lugar": "Livorno, Italia: desde los Orti Urbani de via Goito por Piazza Mazzini hasta el Comune",
-    "tipoAccion": "manifestación nacional / cortejo por el verde urbano",
-    "organizaciones": [
-      "Comité en defensa de los Orti Urbani de via Goito",
-      "Pap, ex Caserma ocupada, Usb Toscana, Asia Usb, Gruppo autonomo portuali",
-      "Wwf y Lipu, asociaciones de toda Toscana y de varias ciudades italianas"
-    ],
-    "motivo": "Este sábado 5 de septiembre se celebra en Livorno el cortejo nacional en defensa de los orti urbani (huertos urbanos) de via Goito, tras la subasta de los terrenos a la empresa Frangerini (por poco más de 1,16 millones de euros) y la presentación del proyecto de transformación del área. El cortejo, que parte a las 16 desde el área verde y hace paradas en Piazza Mazzini y ante los 4 Mori, concluye bajo el Comune, con la participación de asociaciones llegadas desde toda Toscana y varias ciudades italianas. Los activistas también han anunciado una campaña de 'control popular' en los canteros de Frangerini y un campamento libre desde el jueves 3 hasta el domingo 6, con un presidio permanente a partir del lunes para mantener presencia continua en el área ante posibles obras o desalojos.",
-    "status": "en_curso",
-    "lat": 43.5519,
-    "lng": 10.308,
-    "fuentes": [
-      "https://www.livornotoday.it/cronaca/orti-urbani-via-goito-manifestazione-oggi-livorno-frangerini.html"
-    ],
-    "createdAt": "2026-09-05T17:27:25.000Z",
-    "updatedAt": "2026-09-05T23:29:30Z"
-  },
-  {
-    "id": "int-2026-09-05-uk-london-psc-march-palestina",
-    "seccion": "protestas_int",
-    "pais": "Reino Unido",
-    "bandera": "🇬🇧",
-    "hora": "12:00",
-    "fecha": "2026-09-05",
-    "lugar": "Londres, Reino Unido: salida en Whitehall y ruta hasta la Embajada de EE.UU. en Nine Elms Lane (contra-manifestación 'Stop The Hate' en el cruce de Grosvenor Road y Vauxhall Bridge)",
-    "tipoAccion": "marcha nacional pro-Palestina",
-    "organizaciones": [
-      "Palestine Solidarity Campaign (PSC)",
-      "Stop The Hate (contra-manifestación)"
-    ],
-    "motivo": "Marcha nacional pro-Palestina del Palestine Solidarity Campaign (PSC) este sábado 5 de septiembre en Londres, una de las mayores desde el inicio de la escalada de octubre de 2023, desde Whitehall hasta la Embajada de EE.UU. en Nine Elms Lane, con lemas como 'Free Palestine' y 'Hands off Gaza'. Una contra-manifestación del grupo 'Stop The Hate' se desarrolló en el cruce de Grosvenor Road con Vauxhall Bridge, separada por la policía. Se registraron 8 detenidos por desorden público, incumplimiento de condiciones, daños y apoyo a organización proscrita, entre ellos un hombre de 79 años por presunto saludo nazi.",
-    "status": "en_curso",
-    "lat": 51.4826,
-    "lng": -0.1333,
-    "fuentes": [
-      "https://londondaily.com/major-pro-palestine-march-in-london-draws-thousands-amid-police-preparedness"
-    ],
-    "createdAt": "2026-09-05T23:11:03.000Z",
-    "updatedAt": "2026-09-05T23:29:30Z"
-  },
-  {
-    "id": "int-2026-09-05-uk-london-march-for-life-contramanifestacion",
-    "seccion": "protestas_int",
-    "pais": "Reino Unido",
-    "bandera": "🇬🇧",
-    "hora": "13:00",
-    "fecha": "2026-09-05",
-    "lugar": "Londres, Reino Unido: marcha desde el Emmanuel Centre (Westminster) hasta Parliament Square, frente a las Casas del Parlamento",
-    "tipoAccion": "marcha anti-aborto / contra-manifestación pro-elección",
-    "organizaciones": [
-      "March for Life UK",
-      "Abortion Rights (contra-manifestación 'Stand Up for Choice 2026')"
-    ],
-    "motivo": "Marcha anual anti-aborto de March for Life UK ('March for Life UK') este sábado 5 de septiembre, con miles de asistentes y 15 obispos católicos, desde el Emmanuel Centre hasta Parliament Square, exigiendo mayores restricciones al aborto en Inglaterra, Escocia y Gales y oponiéndose a las zonas de protección ('buffer zones') en clínicas. Sindicatos, diputados y defensoras de derechos reproductivos participaron en la contra-manifestación 'Stand Up for Choice 2026' de Abortion Rights en Parliament Square a las 13:00, que terminó en un careo de pancartas y cánticos.",
-    "status": "en_curso",
-    "lat": 51.5007,
-    "lng": -0.1266,
-    "fuentes": [
-      "https://www.ewtnnews.com/world/us/at-london-march-for-life",
-      "https://abortionrights.org.uk/trade-unions-mps-and-reproductive-rights-campaigners-unite-against-growing-threat-to-abortion-rights/",
-      "https://www.marchforlife.co.uk/2026-event-page/"
-    ],
-    "createdAt": "2026-09-05T23:11:03.000Z",
-    "updatedAt": "2026-09-05T23:29:30Z"
-  },
-  {
-    "id": "int-2026-09-05-uk-london-fossil-free-jackdaw-rosebank",
-    "seccion": "protestas_int",
-    "pais": "Reino Unido",
-    "bandera": "🇬🇧",
-    "hora": "10:00",
-    "fecha": "2026-09-05",
-    "lugar": "Parliament Square, frente a las Casas del Parlamento (Houses of Parliament), Westminster, Londres, Reino Unido",
-    "tipoAccion": "protesta climática / manifestación",
-    "organizaciones": [
-      "Fossil Free London"
-    ],
-    "motivo": "Protesta climática de emergencia de Fossil Free London frente al Parlamento británico, este sábado 5 de septiembre por la mañana, contra los informes de que el Gobierno de Andy Burnham aprobará el desarrollo de los campos de gas y petróleo Jackdaw y Rosebank en el Mar del Norte, con pancartas 'STOP JACKDAW', 'Jackdaw is climate arson' y 'Jackdaw: Burnham's betrayal'. Los activistas señalaron que el Comité de Cambio Climático del propio gobierno y organismos como la AIE han advertido que nuevos yacimientos son incompatibles con los objetivos climáticos globales, en un verano récord de calor y sequía.",
-    "status": "en_curso",
-    "lat": 51.5007,
-    "lng": -0.1266,
-    "fuentes": [
-      "https://uk.news.yahoo.com/climate-activists-stage-huge-protest-142219841.html",
-      "https://www.thenational.scot/news/26525108.activists-stage-major-climate-protest-jackdaw-approval/",
-      "https://x.com/fossilfreeLDN/status/2096224564820734373"
-    ],
-    "createdAt": "2026-09-05T23:11:03.000Z",
-    "updatedAt": "2026-09-05T23:29:30Z"
-  },
-  {
-    "id": "int-2026-09-05-denmark-copenhagen-moddemo-antifascista",
-    "seccion": "protestas_int",
-    "pais": "Dinamarca",
-    "bandera": "🇩🇰",
-    "hora": "12:00",
-    "fecha": "2026-09-05",
-    "lugar": "Copenhague, Dinamarca: Dag Hammarskjölds Allé, 2100 (Østerbro)",
-    "tipoAccion": "manifestación antifascista / contra-manifestación ante marcha ultraderechista de 'remigración'",
-    "organizaciones": [
-      "Acción Anti-Imperialista (AIA)",
-      "Det Danske Folk (marcha de extrema derecha)",
-      "Røde Fane"
-    ],
-    "motivo": "El 5 de septiembre el grupo de extrema derecha de tendencia fascista 'Det Danske Folk' (El Pueblo Danés) convocó en Copenhague una 'marcha de remigración', junto con sionistas del movimiento monárquico iraní, en apoyo a los soldados daneses desplegados al servicio del imperialismo y a favor de una 'Dinamarca culturalmente cohesionada'. En respuesta, la Acción Anti-Imperialista (AIA) llamó a una contramanifestación antifascista a las 12:00 en Dag Hammarskjölds Allé, bajo los lemas '¡Abajo el imperialismo danés!', '¡Ningún fascista en nuestras calles!' y '¡Fortalecer la solidaridad internacional!'.",
-    "status": "en_curso",
-    "lat": 55.6987,
-    "lng": 12.5729,
-    "fuentes": [
-      "https://heraldorojo.org/2026/09/04/dinamarca-aia-llama-a-una-manifestacion-antifascista-en-copenhague/",
-      "https://roedefane.org/2026/09/02/aia-kom-med-til-antiracistisk-moddemo/"
-    ],
-    "createdAt": "2026-09-05T23:11:03.000Z",
-    "updatedAt": "2026-09-05T23:29:30Z"
-  },
-  {
-    "id": "ar-2026-09-05-warmis-aptaphi-dia-mujer-originaria",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "10:00 (Aptaphi en Plaza de los Dos Congresos); 14:00 (encuentro en el Museo del Hambre)",
-    "fecha": "2026-09-05",
-    "lugar": "Plaza de los Dos Congresos, CABA; y Museo del Hambre (Av. San Juan 2491), CABA, Argentina",
-    "tipoAccion": "acto ceremonial (Aptaphi) y encuentro por el Día Internacional de la Mujer Originaria",
-    "organizaciones": [
-      "Caminata de Warmis (Mujeres del Kollasuyo en Defensa de la Pachamama)",
-      "Comunidades originarias kolla, qom y diaguita de Jujuy, Córdoba y Santa Fe",
-      "Florencia Solís (vocera de la Cuenca de Pozuelos)"
-    ],
-    "motivo": "Actividades de la Segunda Caminata de Warmis en Defensa de la Pachamama en coincidencia con el Día Internacional de la Mujer Originaria (5 de septiembre): Aptaphi (ceremonia y ofrenda) desde las 10 en la Plaza de los Dos Congresos y encuentro a las 14 en el Museo del Hambre con cierre musical. Las mujeres indígenas, que partieron el 3 de agosto desde Rinconada (Jujuy) y recorrieron más de 1.800 kilómetros, exigen respuestas de las autoridades nacionales ante la contaminación de la Laguna de Pozuelos por la minería (minas Pirquitas, Pan de Azúcar y Chinchillas), el impacto de los 175 pedimentos mineros, el despojo territorial y el avance del RIGI. El jueves 3 entregaron un petitorio al Congreso y a la Presidencia.",
-    "status": "programada",
-    "lat": -34.6097,
-    "lng": -58.3923,
-    "fuentes": [
-      "https://redeco.com.ar/principal/77504-la-caminata-de-warmis-en-defensa-de-la-pachamama-llego-a-buenos-aires",
-      "https://www.jujuydice.com.ar/noticias/actualidad-9/ceremonia-y-conversatorio-de-las-warmis-en-buenos-aires-tras-una-larga-caminata-57296",
-      "https://agenciapresentes.org/2026/09/03/de-jujuy-al-congreso-mujeres-indigenas-caminaron-1800-kilometros-en-defensa-del-agua-y-la-tierra/",
-      "https://www.anred.org/contra-el-extractivismo-y-el-despojo-territorial-las-warmis-marchan-al-congreso/",
-      "https://infobaires24.com.ar/caminantes-de-la-puna-siete-mujeres-indigenas-del-kollasuyu-llegan-a-buenos-aires/"
-    ],
-    "createdAt": "2026-09-05T00:26:12.000Z",
-    "updatedAt": "2026-09-05T23:29:30Z"
-  },
-  {
-    "id": "ar-2026-09-05-zona-norte-marcha-noche-lapices",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "15:00 (concentración); 16:00 (inicio de la marcha)",
-    "fecha": "2026-09-05",
-    "lugar": "Sitio de Memoria Plaza Canal (Av. del Libertador y Colón), San Fernando, Zona Norte del Gran Buenos Aires; recorrido por la calle Constitución, Plaza Mitre y calle 3 de Febrero hasta la EES N°6 José Gervasio Artigas, Argentina",
-    "tipoAccion": "marcha estudiantil / movilización conmemorativa",
-    "organizaciones": [
-      "UES (Unión de Estudiantes Secundarios) de Tigre, San Isidro, San Fernando, San Martín y Vicente López",
-      "Comisión Memoria, Verdad y Justicia de Zona Norte"
-    ],
-    "motivo": "Por primera vez y a 50 años de la Noche de los Lápices, estudiantes secundarios de la Zona Norte del conurbano marchan bajo la consigna 'Zona Norte tiene memoria': concentración a las 15 en el Sitio de Memoria Plaza Canal (lugar donde fueron arrojados en tambores de cal los cuerpos de detenidos-desaparecidos, identificados por el EAAF) y marcha a las 16 por Constitución, Plaza Mitre y 3 de Febrero hasta la EES N°6 José Gervasio Artigas, donde se realizará un acto y la lectura de un documento en homenaje a los 21 estudiantes de la escuela desaparecidos por la última dictadura. La jornada es la antesala de la movilización del 16 de septiembre en La Plata por los 50 años de la Noche de los Lápices.",
-    "status": "programada",
-    "lat": -34.4409,
-    "lng": -58.5597,
-    "fuentes": [
-      "https://www.clarin.com/zonales/50-anos-noche-lapices-estudiantes-secundarios-marchan-zona-norte_0_XOjMUqPCPk.html",
-      "https://formosahoy.com/2026/09/03/estudiantes-secundarios-marchan-zona-norte-noche-de-los-lapices/",
-      "https://www.lanoticiaweb.com.ar/secundarios-de-zona-norte-marcharan-juntos-por-la-noche-de-los-lapices/",
-      "https://www.infoban.com.ar/25/08/2026/estudiantes-secundarios-de-zona-norte-marchan-en-recuerdo-de-la-noche-de-los-lapices/"
-    ],
-    "createdAt": "2026-09-05T00:26:12.000Z",
-    "updatedAt": "2026-09-05T23:29:30Z"
-  },
-  {
-    "id": "ar-2026-09-05-parque-lezama-autoconvocatoria-bronca",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "15:00",
-    "fecha": "2026-09-05",
-    "lugar": "Parque Lezama, CABA, Argentina",
-    "tipoAccion": "asamblea autoconvocada / concentración",
-    "organizaciones": [
-      "Autoconvocatoria nacional de la Marcha de la Bronca",
-      "Frente de Izquierda y de los Trabajadores – Unidad (PTS, MST, PO e IS)",
-      "Organizaciones sindicales, sociales, estudiantiles, de DDHH, socioambientales, feministas y de la cultura"
-    ],
-    "motivo": "Nueva autoconvocatoria nacional de la Marcha de la Bronca en el Parque Lezama, desde las 15, para seguir organizando la Gran Marcha de la Bronca del 19 de septiembre en Plaza de Mayo y en todo el país, en el camino de derrotar al gobierno de Javier Milei, su plan con el FMI y la represión, y rumbo a la huelga general. Si el clima no acompaña, el encuentro se traslada a la Facultad de Ciencias Sociales (UBA), Santiago del Estero 1029.",
-    "status": "programada",
-    "lat": -34.6274,
-    "lng": -58.3723,
-    "fuentes": [
-      "https://www.laizquierdadiario.com/Seguimos-preparando-una-gran-Marcha-de-la-Bronca-este-sabado-5-nos-autoconvocamos-en-Parque-Lezama",
-      "https://periodismodeizquierda.com/hacia-el-19s-primera-reunion-de-la-marcha-de-la-bronca/",
-      "https://lis-isl.org/es/2026/08/argentina-gran-marcha-de-la-bronca/"
-    ],
-    "createdAt": "2026-09-05T00:26:12.000Z",
-    "updatedAt": "2026-09-05T23:29:30Z"
-  },
-  {
-    "id": "ar-2026-09-05-chaco-asamblea-marcha-bronca",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "17:00",
-    "fecha": "2026-09-05",
-    "lugar": "Plaza 25 de Mayo, Resistencia, Chaco, Argentina",
-    "tipoAccion": "asamblea abierta autogestiva",
-    "organizaciones": [
-      "Organizaciones autoconvocadas del Chaco (izquierda independiente y sectores sociales)"
-    ],
-    "motivo": "Convocatoria autogestiva para organizar una Marcha de la Bronca en Resistencia: asamblea abierta este sábado 5 de septiembre a las 17 en la Plaza 25 de Mayo, de cara a la gran movilización nacional del 19 de septiembre contra el ajuste del gobierno de Javier Milei. Si llueve, la asamblea se traslada a la semana siguiente.",
-    "status": "programada",
-    "lat": -27.4512,
-    "lng": -58.9866,
-    "fuentes": [
-      "https://www.eldiariodelaregion.com.ar/articulo/convocan-a-una-asamblea-para-organizar-una-marcha-de-la-bronca/"
-    ],
-    "createdAt": "2026-09-05T00:26:12.000Z",
-    "updatedAt": "2026-09-05T23:29:30Z"
-  },
-  {
-    "id": "ar-2026-09-05-catamarca-reunion-marcha-bronca",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "17:00",
-    "fecha": "2026-09-05",
-    "lugar": "Plaza Virgen del Valle, frente a la Universidad Nacional de Catamarca (UNCA), San Fernando del Valle de Catamarca, Argentina",
-    "tipoAccion": "reunión abierta / asamblea",
-    "organizaciones": [
-      "Organizaciones sociales, políticas, sindicales y de derechos humanos de Catamarca",
-      "Partido Obrero (referente Pedro Saracho)"
-    ],
-    "motivo": "Reunión abierta de organizaciones sociales, políticas, sindicales y de derechos humanos para comenzar a organizar la participación de Catamarca en la Marcha de la Bronca del 19 de septiembre, bajo las consignas '#MarchaDeLaBronca', '#Catamarca', '#FueraMilei' y '#ClaseTrabajadora'. El reclamo provincial incluye el aumento de las tarifas de luz, el ajuste salarial, la precarización laboral y las políticas de los gobiernos nacional y provincial.",
-    "status": "programada",
-    "lat": -28.4686,
-    "lng": -65.7796,
-    "fuentes": [
-      "https://sanfernandodigital.com.ar/organizaciones-convocan-a-una-reunion-abierta-para-preparar-la-marcha-de-la-bronca-en-catamarca/",
-      "https://extracatamarca.com/saracho-convoca-en-catamarca-a-la-marcha-de-la-bronca-por-las-tarifas",
-      "https://elaconquija.com/politica/2026/08/21/catamarca-marcha-tarifas-luz/"
-    ],
-    "createdAt": "2026-09-05T00:26:12.000Z",
-    "updatedAt": "2026-09-05T23:29:30Z"
-  },
-  {
-    "id": "ar-2026-09-05-sutef-huelga-indefinida-tierra-del-fuego",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "huelga por tiempo indeterminado (acampes permanentes)",
-    "fecha": "2026-09-05",
-    "lugar": "Tierra del Fuego, Argentina: acampe frente al Ministerio de Educación (Río Grande), acampe en la Delegación de Gobierno (Tolhuin) y acampe frente a la Casa de Gobierno (Ushuaia)",
-    "tipoAccion": "huelga general docente por tiempo indeterminado / acampes y movilizaciones",
-    "organizaciones": [
-      "SUTEF (Sindicato Unificado de Trabajadoras y Trabajadores de la Educación Fueguina)",
-      "FreSU (Frente de Sindicatos Unidos)",
-      "ATE Nacional (respaldo)"
-    ],
-    "motivo": "Continúa este sábado 5 de septiembre, por más de 33 días (sexta semana), la huelga por tiempo indeterminado de la docencia fueguina que comenzó el 3 de agosto, el conflicto docente más largo de la última década en la provincia: se mantienen los acampes permanentes en las tres ciudades (Río Grande, Tolhuin y Ushuaia) junto a asambleas, ollas populares, marchas de antorchas (viernes 4 de septiembre) y movilizaciones. La docencia rechazó por 99,5% (201 de 202 mandatos) la última oferta salarial del gobierno de Gustavo Melella ($59.000 en cuatro meses, con sumas no remunerativas que no alcanzan a los jubilados), y exige recomposición salarial, la devolución de los días descontados, la reapertura de la paritaria y el tratamiento de la Ley de Financiamiento Educativo. La medida cuenta con el respaldo de ATE Nacional y del FreSU.",
-    "status": "en_curso",
-    "lat": -54.8019,
-    "lng": -68.303,
-    "fuentes": [
-      "https://www.ambito.com/ambito-nacional/tierra-del-fuego-se-profundiza-el-conflicto-docente-y-ya-es-el-mas-largo-la-ultima-decada-la-provincia-n6317842",
-      "https://sutef.org/sutef-convoca-a-marcha-provincial-el-miercoles-y-le-exige-a-la-legislatura-una-sesion-especial/",
-      "https://sutef.org/la-docencia-fueguina-rechazo-por-un-995-la-propuesta-salarial-del-gobierno/",
-      "https://red23noticias.com.ar/nota/19762/sutef-mantiene-la-huelga-mientras-la-negociacion-vuelve-a-quedar-en-cuarto-intermedio/",
-      "https://www.tiempoar.com.ar/ta_article/docentes-fueguinos-quinta-semana-huelga-general/",
-      "https://sutef.org/sutef-volvio-a-reclamar-al-gobierno-una-convocatoria-y-exigio-sesion-especial-de-la-legislatura/",
-      "https://desdelasbases.com.ar/nota/9744/a-la-educacion-publica-la-defendemos-luchando-y-sin-respuestas-del-gobierno-mantenemos-el-paro/"
-    ],
-    "createdAt": "2026-09-05T00:26:12.000Z",
-    "updatedAt": "2026-09-05T23:29:30Z"
-  },
-  {
-    "id": "ar-2026-09-05-vigilia-nacional-travesticidios",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "20:00",
-    "fecha": "2026-09-05",
-    "lugar": "Plaza Solares, Alta Gracia, Córdoba (vigilia central de la jornada nacional), con réplicas en distintas ciudades del país, Argentina",
-    "tipoAccion": "vigilia / concentración",
-    "organizaciones": [
-      "Comunidad LGBTTTIQ+ autoconvocada",
-      "Organizaciones travestis-trans de Córdoba y del país",
-      "Asociación de Travestis Trans de Argentina (ATTTA) (referencia en el caso de Luciana Centeno)"
-    ],
-    "motivo": "Vigilia nacional convocada por la comunidad LGBTTTIQ+ este sábado 5 de septiembre contra la violencia transfóbica y los travesticidios, en memoria de Gabriela Denisse Banach (activista histórica asesinada el 9 de agosto en Rosario), Jessica Núñez (Villa Nueva, Córdoba) y Luciana Centeno (referente trans de ATTTA fallecida el 29 de agosto en Jesús María), víctimas de la violencia en agosto. En Alta Gracia la vigilia se realizará a las 20 en la Plaza Solares. Las organizaciones denuncian que 'la violencia contra las mujeres trans y travestis no empieza con un asesinato: el asesinato es el último eslabón de una violencia estructural', y reclaman políticas públicas reales, cupo laboral travesti-trans, acceso a la salud, la vivienda y el trabajo, frente a los discursos de odio del gobierno de Javier Milei y una expectativa de vida que ronda los 35-40 años para el colectivo.",
-    "status": "programada",
-    "lat": -31.6573,
-    "lng": -64.4283,
-    "fuentes": [
-      "https://diariotortuga.com/una-vigilia-en-plaza-solares-se-plegara-a-una-jornada-nacional-contra-la-violencia-transfobica-y-los-travesticidios/",
-      "https://redaccionrosario.com/2026/09/01/la-historia-de-nunca-acabar/"
-    ],
-    "createdAt": "2026-09-05T04:52:37.000Z",
-    "updatedAt": "2026-09-05T23:29:30Z"
-  },
-  {
-    "id": "ar-2026-09-05-acampe-isidro-casanova",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "permanente (acampe por tiempo indeterminado desde el 31 de agosto)",
-    "fecha": "2026-09-05",
-    "lugar": "Ruta Nacional N°3 y vías del ferrocarril Belgrano Sur, a la altura de calle Pekín, Isidro Casanova, La Matanza, provincia de Buenos Aires, Argentina",
-    "tipoAccion": "acampe de protesta / ollas populares",
-    "organizaciones": [
-      "Federación de Tierra, Vivienda y Hábitat (FTV)",
-      "Partido MILES",
-      "Organizaciones sociales y vecinos de La Matanza (referente Luis D'Elía)"
-    ],
-    "motivo": "Organizaciones sociales y vecinos mantienen este sábado 5 de septiembre el acampe de protesta iniciado el 31 de agosto sobre la Ruta Nacional 3 y las vías del Belgrano Sur en Isidro Casanova (sexto día consecutivo), por tiempo indeterminado, bajo la consigna 'Basta Milei: el hambre no se tolera, la dignidad no se negocia'. Denuncian la crisis social y económica agravada por el ajuste del gobierno de Javier Milei, el recorte de los programas de empleo y la asistencia social y la posible modificación de la AUH, con decenas de ollas populares montadas a la vera de la traza vial. Luis D'Elía afirmó que 'la situación en los barrios es dantesca, no hay comida, no hay ingresos', peor que en 2001, y advirtió que podrían subir a la ruta de forma total si la protesta continúa expandiéndose.",
-    "status": "en_curso",
-    "lat": -34.6833,
-    "lng": -58.5833,
-    "fuentes": [
-      "https://www.el1digital.com.ar/politica/la-matanza-politica/isidro-casanova-quinto-dia-de-acampe-contra-las-politicas-de-milei/",
-      "https://noticias.perfil.com/noticias/politica/el-acampe-por-tiempo-indeterminado-de-luis-delia-en-la-ruta-3.phtml"
-    ],
-    "createdAt": "2026-09-05T04:52:37.000Z",
-    "updatedAt": "2026-09-05T23:29:30Z"
-  },
-  {
-    "id": "ar-2026-09-05-lof-melo-quintriqueo-caravana",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "15:00 (concentración); caravanas solidarias desde Villa La Angostura y Bariloche",
-    "fecha": "2026-09-05",
-    "lugar": "Territorio ocupado por las comunidades mapuche lof Melo y lof Kinxikew (Quintriqueo), sector Paso Coihue sobre la Ruta Nacional 40, a unos 30 km de Villa La Angostura, Neuquén, Argentina",
-    "tipoAccion": "movilización / caravana de apoyo y resistencia al desalojo",
-    "organizaciones": [
-      "Comunidad mapuche Lof Melo (lonko Lucas Melo)",
-      "Comunidad mapuche Lof Kinxikew / Quintriqueo (lonko Amancay Quintriqueo)",
-      "Vecinos, organizaciones sociales y políticas de Neuquén y Río Negro (Villa La Angostura, Bariloche, Junín de los Andes, San Martín de los Andes, El Bolsón e Ingeniero Jacobacci)"
-    ],
-    "motivo": "Nueva movilización convocada para este sábado 5 de septiembre a las 15 en el territorio ocupado por los lof Melo y Quintriqueo (Paso Coihue, Ruta Nacional 40, cerca de Villa La Angostura), en el marco del conflicto judicial por el desalojo ordenado por el juez Francisco Bonorino del Juzgado Multifueros de Villa La Angostura, que el 19 de agosto se ejecutó de forma parcial sobre el sector del Lof Quintriqueo. El 26 de agosto el juez suspendió la medida al constatar que el procedimiento no había podido completarse y ordenó el retiro de las fuerzas de seguridad, aunque la disputa territorial sigue abierta en una tensa tregua. La convocatoria busca renovar el respaldo social (la jornada anterior reunió a más de 500 personas en Paso Coihue) y sostener la resistencia de las comunidades. Están previstas caravanas solidarias desde Villa La Angostura y Bariloche y la participación de comunidades mapuche, organizaciones sociales y políticas y vecinos de Neuquén y Río Negro. Las comunidades defienden su ocupación ancestral del territorio, denuncian el uso de normas de la dictadura y un interés inmobiliario, y aseguran que seguirán resistiendo cualquier nuevo intento de desalojo.",
-    "status": "en_curso",
-    "lat": -40.55,
-    "lng": -71.55,
-    "fuentes": [
-      "https://www.laangosturadigital.com.ar/2026/09/02/nueva-caravana-y-convocatoria-en-apoyo-a-los-lof-melo-y-quintriqueo-para-resistir-el-desalojo/",
-      "https://agencia.farco.org.ar/2026/08/21/neuquen-sigue-la-amenaza-de-desalojo-contra-la-comunidad-mapuche-melo-y-manana-habra-movilizacion/",
-      "https://neuquennews.com.ar/contenido/27879/mas-de-500-personas-acompanaron-a-los-lof-quintriqueo-y-melo-en-paso-coihue",
-      "https://www.lanacion.com.ar/sociedad/tensa-tregua-suspenden-el-desalojo-de-dos-comunidades-mapuches-y-surge-la-propuesta-de-una-nid27082026/"
-    ],
-    "createdAt": "2026-09-05T21:31:32.000Z",
-    "updatedAt": "2026-09-05T23:29:30Z"
-  },
-  {
-    "id": "int-2026-09-05-southkorea-seoul-hormuz-rally",
-    "seccion": "protestas_int",
-    "pais": "Corea del Sur",
-    "bandera": "🇰🇷",
-    "hora": "—",
-    "fecha": "2026-09-05",
-    "lugar": "Centro de Seúl (frente a la Embajada de EE.UU. y calles del centro), Corea del Sur",
-    "tipoAccion": "manifestación anti-guerra / anti-Trump",
-    "organizaciones": [
-      "Organizaciones cívicas y sindicales surcoreanas contra el envío de tropas al estrecho de Ormuz",
-      "Activistas pacifistas de Seúl",
-      "Coalición de ONG contra la intervención en Irán"
-    ],
-    "motivo": "Manifestantes surcoreanos se movilizaron este sábado 5 de septiembre en el centro de Seúl para protestar contra el pedido del presidente estadounidense Donald Trump a múltiples países de enviar buques de guerra al estrecho de Ormuz. Las pancartas leían 'Nos oponemos al despliegue de tropas surcoreanas en el estrecho de Ormuz', en rechazo a la presión de Washington sobre Seúl para contribuir militarmente a asegurar la navegación en el estrecho en el marco de la crisis con Irán. La protesta se produce mientras el gobierno de Corea del Sur evalúa una posible contribución militar a la zona, pese a la oposición ciudadana.",
-    "status": "en_curso",
-    "lat": 37.5665,
-    "lng": 126.978,
-    "fuentes": [
-      "https://www.goshennews.com/news/national_news/south-korea-us-protest/image_2b8730eb-d9f5-57bd-a386-67eef84e2f01.html",
-      "https://www.alamy.com/south-korean-protesters-march-during-a-rally-against-us-president-donald-trump-having-asked-multiple-countries-to-send-warships-to-the-strait-of-hormuz-in-seoul-south-korea-saturday-sept-5-2026-the-signs-read-we-oppose-the-deployment-of-south-korean-troops-to-the-strait-of-hormuz-ap-photoahn-young-joon-image749156479.html",
-      "https://www.journal-news.com/nation-world/south-korea-us-protest/image_0c7bfdf5-6c86-5de8-9d5b-7107a3ecad42.html"
-    ],
-    "createdAt": "2026-09-05T08:47:45.000Z",
-    "updatedAt": "2026-09-05T23:29:30Z"
-  },
-  {
-    "id": "int-2026-09-05-australia-perth-protesta-palestina",
-    "seccion": "protestas_int",
-    "pais": "Australia",
-    "bandera": "🇦🇺",
-    "hora": "12:00",
-    "fecha": "2026-09-05",
-    "lugar": "Forrest Place, Boorloo/Perth, Australia Occidental, Australia",
-    "tipoAccion": "manifestación de solidaridad con Palestina",
-    "organizaciones": [
-      "Friends of Palestine WA (FOPWA)",
-      "Coalición propalestina de Perth",
-      "Green Left / activistas antiguerra"
-    ],
-    "motivo": "Manifestación 'Stop the West Bank Pogroms – End the Gaza Genocide – Sanction Israel' este sábado 5 de septiembre a las 12:00 en Forrest Place (Boorloo/Perth). Los manifestantes exigen que Australia sancione a Israel, cancele los acuerdos de armas y expulse al embajador israelí, denunciando el avance de los colonos armados israelíes en Cisjordania con apoyo gubernamental y escolta del ejército, y la complicidad del gobierno australiano en el genocidio.",
-    "status": "en_curso",
-    "lat": -31.9523,
-    "lng": 115.8613,
-    "fuentes": [
-      "https://www.greenleft.org.au/events",
-      "https://www.facebook.com/FOPWA/",
-      "https://stayhappening.com/e/stop-the-west-bank-pogroms-end-the-gaza-genocide-sanction-israel-E2ISYTX33GQ"
-    ],
-    "createdAt": "2026-09-05T08:47:45.000Z",
-    "updatedAt": "2026-09-05T23:29:30Z"
-  },
-  {
-    "id": "int-2026-09-05-germany-saxony-anhalt-afd-demos",
-    "seccion": "protestas_int",
-    "pais": "Alemania",
-    "bandera": "🇩🇪",
-    "hora": "a lo largo del día (marchas y concentraciones)",
-    "fecha": "2026-09-05",
-    "lugar": "Magdeburgo y Halle (Sajonia-Anhalt) y múltiples ciudades alemanas: Stuttgart, Berlín, Múnich, Karlsruhe, Salzwedel, Husum, Dessau-Roßlau, Alemania",
-    "tipoAccion": "manifestaciones y concentraciones contra la ultraderecha",
-    "organizaciones": [
-      "Sindicatos alemanes (DGB y afiliados)",
-      "Organizaciones de la sociedad civil alemana (festival por la democracia)",
-      "Colectivos antifascistas y ciudadanos en defensa de la democracia"
-    ],
-    "motivo": "Miles de personas salen a la calle este sábado 5 de septiembre en Sajonia-Anhalt y en toda Alemania en vísperas de las elecciones estatales del domingo 6 en Sajonia-Anhalt y Mecklemburgo-Pomerania Occidental. Ante el auge del partido ultraderechista AfD, que encabeza las encuestas superando el 40% en Sajonia-Anhalt y podría ser el partido más votado por primera vez desde la Segunda Guerra Mundial, sindicatos, iglesias, ONG de derechos humanos y colectivos antifascistas convocan manifestaciones y un festival por la democracia en Magdeburgo y Halle (se registraron 12 eventos solo en la capital), así como demos en Stuttgart, Berlín, Múnich, Karlsruhe, Salzwedel, Husum y Dessau-Roßlau. La AfD celebrará su mitin final de campaña en Magdeburgo. Los manifestantes rechazan la política xenófoba y la deriva racista de la formación y piden proteger la democracia frente al avance de la extrema derecha.",
-    "status": "en_curso",
-    "lat": 52.1205,
-    "lng": 11.6276,
-    "fuentes": [
-      "https://www.dw.com/en/germany-news-thousands-expected-at-saxony-anhalt-rallies/live-79041302",
-      "https://www.news.de/politik/859921894/anti-afd-demos-gegen-rechts-september-heute-samstag-05-09-2026-demonstrationen-stuttgart-salzwedel-berlin-muenchen-husum-karlsruhe/1/",
-      "https://www.zeit.de/news/2026-09/04/demonstration-gegen-afd-geplant-5-000-teilnehmer-erwartet",
-      "https://www.mdr.de/nachrichten/sachsen-anhalt/landtagswahl"
-    ],
-    "createdAt": "2026-09-05T12:20:54.000Z",
-    "updatedAt": "2026-09-05T23:29:30Z"
-  },
-  {
-    "id": "int-2026-09-05-spain-saerco-controladores-huelga-indefinida",
+    "id": "int-2026-09-06-spain-saerco-controladores-huelga-indefinida",
     "seccion": "protestas_int",
     "pais": "España",
     "bandera": "🇪🇸",
     "hora": "huelga indefinida",
-    "fecha": "2026-09-05",
+    "fecha": "2026-09-06",
     "lugar": "Torres de control de Saerco: aeropuertos de Sevilla, Jerez de la Frontera, Madrid-Cuatro Vientos, Vigo, A Coruña, La Palma, Lanzarote y Fuerteventura, España",
     "tipoAccion": "huelga laboral indefinida",
     "organizaciones": [
       "USCA (Unión Sindical de Controladores Aéreos)",
       "CCOO"
     ],
-    "motivo": "Continúa este sábado 5 de septiembre la huelga indefinida de los aproximadamente 104 controladores aéreos del gestor privado Saerco, iniciada el 17 de abril, que afecta a las torres de control de nueve aeropuertos españoles (Sevilla, Jerez de la Frontera, Madrid-Cuatro Vientos, Vigo, A Coruña, La Palma, Lanzarote y Fuerteventura). Los sindicatos USCA y CCOO denuncian la falta de plantilla (recortes de hasta el 33%), el deterioro de las condiciones laborales y su impacto en la seguridad operacional, ante una plantilla sometida a fatiga, estrés e incertidumbre permanente. El Ministerio de Transportes impuso servicios mínimos del 100% que han mermado el impacto de los paros, aunque el conflicto continúa abierto y acumula casi cinco meses de duración.",
+    "motivo": "Continúa este domingo 6 de septiembre la huelga indefinida de los aproximadamente 104 controladores aéreos del gestor privado Saerco, iniciada el 17 de abril, que afecta a las torres de control de nueve aeropuertos españoles (Sevilla, Jerez de la Frontera, Madrid-Cuatro Vientos, Vigo, A Coruña, La Palma, Lanzarote y Fuerteventura). Los sindicatos USCA y CCOO denuncian la falta de plantilla (recortes de hasta el 33%), el deterioro de las condiciones laborales y su impacto en la seguridad operacional, ante una plantilla sometida a fatiga, estrés e incertidumbre permanente. El Ministerio de Transportes impuso servicios mínimos del 100% que han mermado el impacto de los paros, aunque el conflicto continúa abierto y acumula casi cinco meses de duración.",
     "status": "en_curso",
     "lat": 37.3891,
     "lng": -5.9845,
@@ -1297,156 +338,205 @@
       "https://striketracker.app/strikes-in-spain"
     ],
     "createdAt": "2026-09-05T12:20:54.000Z",
-    "updatedAt": "2026-09-05T23:29:30Z"
+    "updatedAt": "2026-09-06T01:28:40Z"
   },
   {
-    "id": "int-2026-09-05-sweden-stockholm-manifestacion-palestina",
-    "seccion": "protestas_int",
-    "pais": "Suecia",
-    "bandera": "🇸🇪",
-    "hora": "—",
-    "fecha": "2026-09-05",
-    "lugar": "Odenplan, Estocolmo, Suecia — marcha desde la Plaza Odenplan hasta el Parlamento sueco",
-    "tipoAccion": "manifestación pro-Palestina",
-    "organizaciones": [
-      "Colectivos de la sociedad civil por Palestina en Estocolmo",
-      "European Jews for a Just Peace",
-      "Activistas en solidaridad con Gaza y Cisjordania"
-    ],
-    "motivo": "Cientos de personas se manifestaron este sábado 5 de septiembre en Estocolmo para protestar contra los ataques israelíes en Gaza y las violaciones del alto el fuego. Los manifestantes, con banderas palestinas y carteles que exigían un alto el fuego inmediato y permanente, marcharon desde la Plaza Odenplan hasta el Parlamento sueco. Denunciaron los intentos de socavar el proceso de alto el fuego en Gaza y en Cisjordania y exigieron sanciones contra Israel. La policía detuvo a una mujer proisraelí tras atacar a los manifestantes durante la marcha.",
-    "status": "en_curso",
-    "lat": 59.3373,
-    "lng": 18.0604,
-    "fuentes": [
-      "https://www.anews.com.tr/world/2026/09/05/hundreds-rally-in-stockholm-to-protest-israels-attacks-on-gaza",
-      "https://www.trtworld.com/article/aded9c7655b2",
-      "https://www.reutersconnect.com/item/pro-palestine-demonstrators-march-in-stockholm/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XQU5BQ0FBVklERU8yMDI2MDkwNTQyMzkzMDg0"
-    ],
-    "createdAt": "2026-09-05T19:18:49.000Z",
-    "updatedAt": "2026-09-05T23:29:30Z"
-  },
-  {
-    "id": "int-2026-09-05-italy-milan-corteo-palestina-consulado-eeuu",
-    "seccion": "protestas_int",
-    "pais": "Italia",
-    "bandera": "🇮🇹",
-    "hora": "—",
-    "fecha": "2026-09-05",
-    "lugar": "Milán, Italia: concentración en Piazza Duca d'Aosta (frente a la estación de Centrale) y cortejo hacia el Consulado de Estados Unidos",
-    "tipoAccion": "manifestación pro-Palestina / cortejo",
-    "organizaciones": [
-      "Colectivos pro-Palestina de Milán",
-      "Centro social Vittoria",
-      "Realidades antiguerra y pro-Palestina de Italia"
-    ],
-    "motivo": "Manifestación pro-Palestina este sábado 5 de septiembre en Milán contra la guerra y el genocidio en Gaza: los manifestantes se concentraron en Piazza Duca d'Aosta, frente a la estación Central, antes de marchar hacia el Consulado de Estados Unidos, donde realizaron una concentración para exigir el fin inmediato del conflicto y la liberación de los prisioneros. La movilización fue organizada por exponentes pro-Palestina y apoyada por realidades como el centro social Vittoria.",
-    "status": "en_curso",
-    "lat": 45.4642,
-    "lng": 9.19,
-    "fuentes": [
-      "https://www.alamy.com/milan-italy-5th-sep-2026-demonstrators-reach-the-united-states-consulate-during-a-pro-palestine-protest-staging-a-rally-to-demand-an-immediate-end-to-the-conflict-and-the-release-of-prisoners-credit-claudio-rancatialamy-live-news-image749232197.html",
-      "https://www.alamy.com/milan-italy-5th-sep-2026-demonstrators-gather-in-piazza-duca-daosta-for-the-preparation-of-a-pro-palestine-rally-assembling-before-marching-towards-the-united-states-consulate-to-demand-an-immediate-end-to-the-conflict-and-the-release-of-prisoners-credit-claudio-rancatialamy-live-news-image749218988.html",
-      "https://www.milanotoday.it/politica/corteo-palestina-5-settembre-2026.html"
-    ],
-    "createdAt": "2026-09-05T19:18:49.000Z",
-    "updatedAt": "2026-09-05T23:29:30Z"
-  },
-  {
-    "id": "int-2026-09-05-usa-nokings-manifestacion-nacional",
-    "seccion": "protestas_int",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
-    "hora": "—",
-    "fecha": "2026-09-05",
-    "lugar": "Más de 3.300 ciudades de los 50 estados de EE.UU., con manifestaciones centrales en Los Ángeles, Washington D.C., Nueva York y San Pablo (Minnesota), Estados Unidos",
-    "tipoAccion": "movilización nacional No Kings / manifestación anti-Trump y anti-guerra",
-    "organizaciones": [
-      "Movimiento No Kings (Indivisible y organizaciones civiles)",
-      "Activistas contra la guerra en Irán",
-      "Colectivos pro-inmigración y por los derechos civiles"
-    ],
-    "motivo": "Cuarta ronda de las movilizaciones nacionales No Kings este sábado 5 de septiembre, con participación estimada por los organizadores en millones de personas en más de 3.300 eventos en los 50 estados, para protestar contra el presidente Donald Trump, su reforma migratoria, el conflicto con Irán y las políticas consideradas autoritarias. En Los Ángeles la protesta culminó con el uso de gases lacrimógenos por la policía cerca de un centro de detención federal y arrestos tras la orden de dispersión, con disturbios aislados en medio de una movilización mayoritariamente pacífica. En San Pablo (Minnesota) se celebró un gran acto con la actuación de Bruce Springsteen y la participación de Bernie Sanders.",
-    "status": "en_curso",
-    "lat": 34.0522,
-    "lng": -118.2437,
-    "fuentes": [
-      "https://rtwnews.com/story/Tear_Gas_and_Arrests_Mark__No_Kings__Protests_in_Los_Angeles_and_Across_the_U_S_",
-      "https://www.britannica.com/event/No-Kings-protests"
-    ],
-    "createdAt": "2026-09-05T21:28:44.000Z",
-    "updatedAt": "2026-09-05T23:29:30Z"
-  },
-  {
-    "id": "int-2026-09-05-usa-indianapolis-anti-ice-protesta",
-    "seccion": "protestas_int",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
-    "hora": "—",
-    "fecha": "2026-09-05",
-    "lugar": "Frente al edificio de Inmigración y Control de Aduanas (ICE) en Woodland Drive, Indianápolis, Indiana, Estados Unidos",
-    "tipoAccion": "protesta / concentración anti-ICE",
-    "organizaciones": [
-      "Vecinos de Indianápolis autoconvocados",
-      "Helene Rodriguez y Josselyn Reyes (organizadoras)",
-      "Comunidades de apoyo a inmigrantes"
-    ],
-    "motivo": "Más de 130 personas se reunieron este sábado 5 de septiembre frente al edificio de la ICE en Woodland Drive, Indianápolis, para protestar contra la presencia de la agencia tras una ola de detenciones en la ciudad la semana anterior. Los participantes ondearon carteles y corearon consignas como ICE, ICE, go away! Immigrants are here to stay! (ICE, ICE, vete! Los inmigrantes están aquí para quedarse). Las organizadoras, Helene Rodriguez y Josselyn Reyes, compañeras de trabajo en despachos de derecho migratorio, afirmaron que era su primera protesta, enmarcada en la creciente tensión por las redadas migratorias en Estados Unidos.",
-    "status": "en_curso",
-    "lat": 39.7548,
-    "lng": -86.153,
-    "fuentes": [
-      "https://www.indystar.com/story/news/local/indianapolis/2026/09/05/hoosiers-share-why-they-attended-indianapolis-anti-ice-protest/91633145007/"
-    ],
-    "createdAt": "2026-09-05T21:28:44.000Z",
-    "updatedAt": "2026-09-05T23:29:30Z"
-  },
-  {
-    "id": "int-2026-09-05-germany-cologne-rheinmetall-entwaffnen-demo",
+    "id": "int-2026-09-06-germany-afd-elecciones-demos-noche",
     "seccion": "protestas_int",
     "pais": "Alemania",
     "bandera": "🇩🇪",
-    "hora": "—",
-    "fecha": "2026-09-05",
-    "lugar": "Centro de Colonia (Grüngürtel y calles de la ciudad), Renania del Norte-Westfalia, Alemania",
-    "tipoAccion": "manifestación anti-bélica / contra la industria armamentista",
+    "hora": "18:00-19:00 (varias ciudades)",
+    "fecha": "2026-09-06",
+    "lugar": "Hamburgo (Reesendammbrücke, 18:30), Kiel (Platz der Matrosen, 19:00), Frankfurt (Römerberg, 18:00) y otras ciudades alemanas",
+    "tipoAccion": "manifestaciones antifascistas de noche electoral",
     "organizaciones": [
-      "Protestcamp Rheinmetall entwaffnen (Desarmar a Rheinmetall)",
-      "Bündnis Rheinmetall entwaffnen",
-      "Colectivos pacifistas y antifascistas alemanes"
+      "Hamburger Bündnis gegen Rechts",
+      "Antifa Kiel",
+      "Frankfurter Bündnis gegen Rechtsextremismus",
+      "DGB Frankfurt",
+      "Omas gegen Rechts y organizaciones de la sociedad civil"
     ],
-    "motivo": "Más de 1.000 personas, más del triple de las registradas, salieron este sábado 5 de septiembre a las calles de Colonia contra la industria armamentista en la manifestación del campamento de protesta Rheinmetall entwaffnen (Desarmar a Rheinmetall), que acampa desde el martes en el Grüngürtel. Los manifestantes exigen el fin de los envíos de armas, rechazan la reintroducción del servicio militar obligatorio y el fin de las operaciones de guerra, y denuncian la deriva belicista. El operativo de seguridad desplegó a unas 1.000 fuerzas adicionales. Dos días antes, alrededor de 100 miembros del bünner bloqueaban el acceso a una base de la Bundeswehr en Colonia-Longerich, una acción no registrada que la policía disolvió.",
+    "motivo": "En la noche de las elecciones regionales en Sajonia-Anhalt y Mecklemburgo-Pomerania Occidental, en las que la ultraderechista AfD parte como favorita (por encima del 40% en Sajonia-Anhalt, y podría gobernar por primera vez desde 1945 un Estado federado con una fuerza calificada de 'seguramente extremista'), múltiples ciudades alemanas acogen este domingo 6 de septiembre manifestaciones antifascistas: Hamburgo ('Alle zusammen gegen den Faschismus', 18:30 en Reesendammbrücke), Kiel ('Nie wieder ist jetzt', 19:00 en Platz der Matrosen, junto a la estación central) y Frankfurt (18:00 en el Römerberg, donde el DGB y un amplio Bündnis exigen iniciar el procedimiento de prohibición de la AfD). Las movilizaciones de la noche electoral son el punto de partida de nuevas acciones, incluidas las convocadas en Magdeburgo.",
     "status": "en_curso",
-    "lat": 50.9375,
-    "lng": 6.9603,
+    "lat": 53.5511,
+    "lng": 9.9937,
     "fuentes": [
-      "https://antenne.nrw/blaulicht/demo-eskaliert-rheinmetall-entwaffnen-bringt-ueber-1-000-menschen-auf-koelns-strassen/"
+      "https://www.hbgr.org/demonstration-alle-zusammen-gegen-den-faschismus/",
+      "https://www.antifa-kiel.org/events/demo-nie-wieder-ist-jetzt-kampf-dem-faschismus-in-diesem-land/",
+      "https://www.frankfurter-info.org/news/breites-buendnis-ruft-zu-kundgebung-auf-dem-roemerberg-auf",
+      "https://www.abendblatt.de/hamburg/politik/article413014350/landtagswahl-sachsen-anhalt-afd-in-der-regierung-buendnis-gegen-rechts-ruft-zu-demo-in-hamburg-auf-1.html",
+      "https://www.dw.com/en/germany-news-thousands-expected-at-saxony-anhalt-rallies/live-79041302"
     ],
-    "createdAt": "2026-09-05T21:28:44.000Z",
-    "updatedAt": "2026-09-05T23:29:30Z"
+    "createdAt": "2026-09-06T01:11:51.000Z",
+    "updatedAt": "2026-09-06T01:28:40Z"
   },
   {
-    "id": "int-2026-09-05-nz-palestina-bds-semana153",
+    "id": "int-2026-09-06-chile-romeria-53-anos-golpe",
     "seccion": "protestas_int",
-    "pais": "Nueva Zelanda",
-    "bandera": "🇳🇿",
-    "hora": "—",
-    "fecha": "2026-09-05",
-    "lugar": "Auckland y otras ciudades de Nueva Zelanda (campaña BDS dirigida al Consejo de Auckland y fondos de inversión locales)",
-    "tipoAccion": "protesta pro-palestina / campaña de boicot",
+    "pais": "Chile",
+    "bandera": "🇨🇱",
+    "hora": "10:00",
+    "fecha": "2026-09-06",
+    "lugar": "Santiago, Chile: desde la estación de metro Los Héroes (Alameda) por San Antonio y avenida Recoleta hasta el Cementerio General",
+    "tipoAccion": "romería / marcha conmemorativa",
     "organizaciones": [
-      "Activistas pro-palestinos de PSNA y grupos de solidaridad",
-      "Banners for Palestine",
-      "Palestine Car Convoy",
-      "Stand With Palestine Waiheke Group"
+      "Coordinadora Nacional de Organizaciones de DDHH y Sociales",
+      "Mesa de DDHH por una Vida Digna",
+      "Partido Comunista de Chile",
+      "Frente Amplio",
+      "Agrupación de Familiares de Ejecutados Políticos (Alicia Lira)"
     ],
-    "motivo": "En la semana 153 de protestas continuas, los activistas pro-palestinos renovaron este sábado 5 de septiembre el compromiso de boicot a los productos israelíes y volvieron a exigir que el gobierno de Nueva Zelanda sancione a Israel por el genocidio en Gaza. La campaña del BDS (Boicot, Desinversiones y Sanciones) tuvo este sábado objetivos locales como el Consejo de Auckland y los fondos de inversión. Los grupos de solidaridad planificaron además acciones para la Marcha Global por Palestina del 10 de octubre, que Nueva Zelanda será el primer país en iniciar.",
+    "motivo": "Convocada por la Coordinadora Nacional de Organizaciones de Derechos Humanos y Sociales, la Mesa de DDHH por una Vida Digna, el Partido Comunista y el Frente Amplio, la tradicional romería por los 53 años del golpe cívico-militar de 1973 parte este domingo 6 de septiembre a las 10:00 desde la estación Los Héroes, recorre la Alameda, calle San Antonio y avenida Recoleta y culmina con un acto político-cultural en el Cementerio General. Bajo las consignas 'No a los indultos' y 'Derechos Humanos, ni un paso atrás', las organizaciones rinden homenaje al presidente Salvador Allende y a las víctimas de la dictadura y denuncian el retroceso en materia de derechos humanos bajo el gobierno de José Antonio Kast, recordando que 1.400 familias siguen buscando a sus desaparecidos. Carabineros implementa cortes de tránsito en el eje Alameda-Avenida Providencia y avenida Recoleta desde las 08:30 hasta cerca de las 15:30.",
     "status": "en_curso",
-    "lat": -36.8509,
-    "lng": 174.7645,
+    "lat": -33.4489,
+    "lng": -70.6693,
     "fuentes": [
-      "https://asiapacificreport.nz/2026/09/05/palestine-protesters-renew-dont-buy-israeli-pledge-demand-nz-sanction-israel/"
+      "https://radio.uchile.cl/2026/09/03/pc-fa-y-organizaciones-de-dd-hh-convocan-a-romeria-del-6-de-septiembre-la-democracia-no-es-una-cuestion-sentada/",
+      "https://www.adnradio.cl/2026/09/04/romeria-por-los-53-anos-del-golpe-de-estado-estos-son-los-cortes-y-desvios-de-transito-para-este-domingo/",
+      "https://radio.uchile.cl/2026/08/27/no-a-los-indultos-organizaciones-de-dd-hh-entregan-carta-a-kast-y-convocan-a-romeria-por-los-53-anos-del-golpe/",
+      "https://prensaopal.cl/2026/08/28/a-53-anos-del-golpe-romeria-por-memoria-y-justicia/"
     ],
-    "createdAt": "2026-09-05T21:28:44.000Z",
-    "updatedAt": "2026-09-05T23:29:30Z"
+    "createdAt": "2026-09-06T01:11:51.000Z",
+    "updatedAt": "2026-09-06T01:28:40Z"
+  },
+  {
+    "id": "int-2026-09-06-spain-colonias-felinas-manifestacion-estatal",
+    "seccion": "protestas_int",
+    "pais": "España",
+    "bandera": "🇪🇸",
+    "hora": "12:00 (11:00 en Canarias)",
+    "fecha": "2026-09-06",
+    "lugar": "38 manifestaciones y concentraciones en toda España — entre ellas Palma de Mallorca (de Plaza España a Plaza de Cort), Eivissa (Plaza de Sa Graduada) y Formentera (Plaza de Sant Francesc Xavier)",
+    "tipoAccion": "manifestación estatal",
+    "organizaciones": [
+      "Iniciativa ciudadana 'Los Gatos Tienen Ley' (gestoras de colonias felinas)",
+      "Entidades de protección animal",
+      "PACMA (Partido Animalista)"
+    ],
+    "motivo": "Manifestación estatal convocada este domingo 6 de septiembre a las 12:00 (11:00 en Canarias) en 38 puntos de España por la iniciativa ciudadana independiente 'Los Gatos Tienen Ley' para exigir el cumplimiento efectivo de la Ley 7/2023 de derechos y bienestar de los animales en lo relativo a las colonias felinas. Denuncian que las administraciones no aplican la ley: falta de recursos económicos, ausencia de programas CER (Captura, Esterilización y Retorno) efectivos y continuos, falta de identificación, registro y trazabilidad de las colonias, desatención veterinaria y alimentaria, y una dejación institucional que deja las tareas y costes en manos del voluntariado, cuyas gestoras sufren hostigamiento, amenazas y conflictos con particulares. Exigen recursos, aplicación real de la ley, responsabilidad institucional y el fin de los contratos opacos con empresas externas.",
+    "status": "en_curso",
+    "lat": 40.4168,
+    "lng": -3.7038,
+    "fuentes": [
+      "https://losgatostienenley.org/",
+      "https://www.lavozdelanzarote.com/actualidad/mas-noticias/gestores-colonias-se-manifestaran-en-toda-espana-pedir-se-cumpla-ley_245756_102.html",
+      "https://www.mallorca.com/en/magazin/news/cat-colony-march-palma"
+    ],
+    "createdAt": "2026-09-06T01:11:51.000Z",
+    "updatedAt": "2026-09-06T01:28:40Z"
+  },
+  {
+    "id": "int-2026-09-06-turquia-metu-camino-forestal-protesta",
+    "seccion": "protestas_int",
+    "pais": "Turquía",
+    "bandera": "🇹🇷",
+    "hora": "vigilia continua (nöbet)",
+    "fecha": "2026-09-06",
+    "lugar": "Bosque de la ODTÜ (METU), Ankara, Turquía — tramo del proyecto vial Bilkent-İncek que atraviesa el campus universitario",
+    "tipoAccion": "protesta / vigilia (nöbet) contra proyecto vial",
+    "organizaciones": [
+      "Estudiantes de la ODTÜ (METU)",
+      "ODTÜ Mezunları Derneği (asociación de egresados)",
+      "Cámara de Urbanistas de Ankara (İMO)",
+      "Colectivos ambientalistas y de ingenieros"
+    ],
+    "motivo": "Cuarto día de la vigilia (nöbet) de los estudiantes de la Universidad Técnica de Medio Oriente (ODTÜ/METU) de Ankara contra la reanudación de las obras del proyecto vial Bilkent-İncek, que atraviesa el Bosque de ODTÜ, el último espacio ecológico intacto de la ciudad e incluido en agosto en la Lista Tentativa de Patrimonio Mundial de la UNESCO. El Ayuntamiento Metropolitano de Ankara (ABB), bajo Mansur Yavaş, reinició el 3 de septiembre el asfaltado del corredor iniciado por Melih Gökçek en 2017 y suspendido por decisiones judiciales y protestas previas. Los estudiantes cortan el paso de la maquinaria y mantienen turnos de guardia día y noche; el 4 de septiembre un vehículo municipal fue lanzado contra los manifestantes, según denunciaron, y el fin de semana se desplegó policía en la zona. Exigen la cancelación definitiva del proyecto, que califican de 'carretera del lucro' (rant yolu) que encarece las residencias privadas y destruye el bosque, y que las decisiones sobre la universidad se tomen con participación de estudiantes, colegios profesionales y la ciudadanía.",
+    "status": "en_curso",
+    "lat": 39.8956,
+    "lng": 32.7849,
+    "fuentes": [
+      "https://bianet.org/haber/odtu-de-yol-nobeti-belediye-is-makinelerini-ogrencilerin-uzerine-surdu-323190",
+      "https://en.12punto.com.tr/current-affairs/municipal-vehicle-driven-at-students-at-metu-protest-against-profiteering-road-project-151185",
+      "https://halktv.com.tr/turkiye/odtude-kepceler-ogrencilerin-uzerine-suruldu-1053173h",
+      "https://www.yeniankara.com.tr/ankara/gokcek-baslatti-yavas-asfaltladi-odtude-9-yil-sonra-ayni-yol-kavgasi-181742",
+      "https://sonsoz.com.tr/odtude-rant-yolu-gerilimi-alana-polis-geldi"
+    ],
+    "createdAt": "2026-09-06T01:11:51.000Z",
+    "updatedAt": "2026-09-06T01:28:40Z"
+  },
+  {
+    "id": "int-2026-09-06-india-cachemira-medicos-internos-huelga",
+    "seccion": "protestas_int",
+    "pais": "India",
+    "bandera": "🇮🇳",
+    "hora": "—",
+    "fecha": "2026-09-06",
+    "lugar": "Hospitales y facultades de medicina públicos de Jammu y Cachemira, India (GMC Srinagar, GMC Anantnag, GMC Jammu, GMC Rajouri, SKIMS Srinagar/Bemina y otros)",
+    "tipoAccion": "huelga laboral indefinida / protesta",
+    "organizaciones": [
+      "Médicos internos (interns) MBBS y BDS de Jammu y Cachemira",
+      "Comité de coordinación de médicos internos (GMC Srinagar, GMC Anantnag, GMC Jammu, SKIMS)"
+    ],
+    "motivo": "Séptimo día de la huelga indefinida de los médicos internos (MBBS y BDS) de los hospitales y facultades públicas de Jammu y Cachemira, iniciada el 31 de agosto, que continúa este domingo 6 de septiembre ante la negativa del gobierno a emitir una orden escrita que eleve su estipendio mensual de ₹12.300 a ₹30.000, pese a la recomendación de un comité gubernamental de 2023 y al apoyo de los partidos políticos. Tras reunirse con la ministra de Salud, Sakina Itoo, y con el ministro principal Omar Abdullah, los internos advirtieron que no suspenderán la protesta sin una garantía formal por escrito y que, de no atenderse su demanda, intensificarán la movilización y podrían recurrir a la huelga de hambre, retirándose incluso de los servicios de emergencia.",
+    "status": "en_curso",
+    "lat": 34.0837,
+    "lng": 74.7973,
+    "fuentes": [
+      "https://thekashmirhorizon.com/2026/09/06/jk-intern-doctors-continue-protest-to-seek-stipend-hike-warn-of-hunger-strike/",
+      "https://kashmirlife.net/stipend-hike-mbbs-bds-interns-strike-enters-sixth-day-across-jammu-kashmir-450342/",
+      "https://www.tribuneindia.com/news/j-k/jk-health-minister-asks-striking-mbbs-bds-interns-to-trust-govt/",
+      "https://www.etvbharat.com/en/state/jammu-kashmir-medical-interns-strike-for-stipend-hike-continues-on-day-6-despite-assurances-by-minister-enn26090503824",
+      "https://www.newkerala.com/news/a/j-k-intern-doctors-protest-over-stipend-hike-enters-443.htm"
+    ],
+    "createdAt": "2026-09-06T01:11:51.000Z",
+    "updatedAt": "2026-09-06T01:28:40Z"
+  },
+  {
+    "id": "ar-2026-09-06-sutef-huelga-indefinida-tierra-del-fuego",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "huelga por tiempo indeterminado (acampes permanentes)",
+    "fecha": "2026-09-06",
+    "lugar": "Tierra del Fuego, Argentina: acampe frente al Ministerio de Educación (Río Grande), acampe en la Delegación de Gobierno (Tolhuin) y acampe frente a la Casa de Gobierno (Ushuaia)",
+    "tipoAccion": "huelga general docente por tiempo indeterminado / acampes y movilizaciones",
+    "organizaciones": [
+      "SUTEF (Sindicato Unificado de Trabajadoras y Trabajadores de la Educación Fueguina)",
+      "FreSU (Frente de Sindicatos Unidos)",
+      "ATE Nacional (respaldo)"
+    ],
+    "motivo": "Continúa este domingo 6 de septiembre, por más de un mes (séptima semana, 35 días), la huelga por tiempo indeterminado de la docencia fueguina que comenzó el 3 de agosto, el conflicto docente más largo de la última década en la provincia: se mantienen los acampes permanentes en las tres ciudades (Río Grande, Tolhuin y Ushuaia) junto a asambleas, ollas populares y movilizaciones. La docencia rechazó la última oferta salarial del gobierno de Gustavo Melella ($59.000 en cuatro meses, con sumas no remunerativas que no alcanzan a los jubilados) y exige recomposición salarial, la devolución de los días descontados, la reapertura de la paritaria y el tratamiento de la Ley de Financiamiento Educativo. La medida cuenta con el respaldo de ATE Nacional y del FreSU.",
+    "status": "en_curso",
+    "lat": -54.8019,
+    "lng": -68.303,
+    "fuentes": [
+      "https://www.ambito.com/ambito-nacional/tierra-del-fuego-se-profundiza-el-conflicto-docente-y-ya-es-el-mas-largo-la-ultima-decada-la-provincia-n6317842",
+      "https://sutef.org/sutef-convoca-a-marcha-provincial-el-miercoles-y-le-exige-a-la-legislatura-una-sesion-especial/",
+      "https://sutef.org/la-docencia-fueguina-rechazo-por-un-995-la-propuesta-salarial-del-gobierno/",
+      "https://red23noticias.com.ar/nota/19762/sutef-mantiene-la-huelga-mientras-la-negociacion-vuelve-a-quedar-en-cuarto-intermedio/",
+      "https://www.tiempoar.com.ar/ta_article/docentes-fueguinos-quinta-semana-huelga-general/",
+      "https://sutef.org/sutef-volvio-a-reclamar-al-gobierno-una-convocatoria-y-exigio-sesion-especial-de-la-legislatura/",
+      "https://desdelasbases.com.ar/nota/9744/a-la-educacion-publica-la-defendemos-luchando-y-sin-respuestas-del-gobierno-mantenemos-el-paro/",
+      "https://www.actualidadtdf.com.ar/sutef-mantiene-el-paro-docente-por-tiempo-indeterminado-y-convoca-a-movilizaciones-en-toda-la-provincia/",
+      "https://sutef.org/04-09-marcha-de-antorchas-en-rio-grande-y-ushuaia/"
+    ],
+    "createdAt": "2026-09-05T00:26:12.000Z",
+    "updatedAt": "2026-09-06T01:28:40Z"
+  },
+  {
+    "id": "ar-2026-09-06-acampe-isidro-casanova",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "permanente (acampe por tiempo indeterminado desde el 31 de agosto)",
+    "fecha": "2026-09-06",
+    "lugar": "Ruta Nacional N°3 y vías del ferrocarril Belgrano Sur, a la altura de calle Pekín, Isidro Casanova, La Matanza, provincia de Buenos Aires, Argentina",
+    "tipoAccion": "acampe de protesta / ollas populares",
+    "organizaciones": [
+      "Federación de Tierra, Vivienda y Hábitat (FTV)",
+      "Partido MILES",
+      "Organizaciones sociales y vecinos de La Matanza (referente Luis D'Elía)"
+    ],
+    "motivo": "Organizaciones sociales y vecinos mantienen este domingo 6 de septiembre el acampe de protesta iniciado el 31 de agosto sobre la Ruta Nacional 3 y las vías del Belgrano Sur en Isidro Casanova (séptimo día consecutivo), por tiempo indeterminado, bajo la consigna 'Basta Milei: el hambre no se tolera, la dignidad no se negocia'. Denuncian la crisis social y económica agravada por el ajuste del gobierno de Javier Milei, el recorte de los programas de empleo y la asistencia social y la posible modificación de la AUH, con decenas de ollas populares montadas a la vera de la traza vial. Luis D'Elía afirmó que 'la situación en los barrios es dantesca, no hay comida, no hay ingresos', peor que en 2001, y advirtió que podrían subir a la ruta de forma total si la protesta continúa expandiéndose.",
+    "status": "en_curso",
+    "lat": -34.6833,
+    "lng": -58.5833,
+    "fuentes": [
+      "https://www.el1digital.com.ar/politica/la-matanza-politica/isidro-casanova-quinto-dia-de-acampe-contra-las-politicas-de-milei/",
+      "https://noticias.perfil.com/noticias/politica/el-acampe-por-tiempo-indeterminado-de-luis-delia-en-la-ruta-3.phtml",
+      "https://noticiasconenfoque.com.ar/nota/43858/isidro-casanova-el-acampe-contra-las-politicas-de-milei-llega-a-su-quinto-dia"
+    ],
+    "createdAt": "2026-09-05T04:52:37.000Z",
+    "updatedAt": "2026-09-06T01:28:40Z"
   }
 ]
