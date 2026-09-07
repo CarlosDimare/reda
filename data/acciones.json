@@ -25,7 +25,7 @@
       "https://sutef.org/tierra-del-fuego-se-profundiza-el-conflicto-docente-y-ya-es-el-mas-largo-de-la-ultima-decada-en-la-provincia/"
     ],
     "createdAt": "2026-09-05T00:26:12.000Z",
-    "updatedAt": "2026-09-07T01:19:17Z"
+    "updatedAt": "2026-09-07T06:31:18Z"
   },
   {
     "id": "ar-2026-09-07-paro-municipales-aguaray-salta",
@@ -51,7 +51,7 @@
       "https://www.cuarto.com.ar/norte-salteno-municipales-de-aguaray-anuncian-paro-y-movilizacion-desde-el-lunes-7-de-septiembre/"
     ],
     "createdAt": "2026-09-07T01:17:18.000Z",
-    "updatedAt": "2026-09-07T01:19:17Z"
+    "updatedAt": "2026-09-07T06:31:18Z"
   },
   {
     "id": "ar-2026-09-07-adiuc-semana-protesta-cordoba",
@@ -75,7 +75,29 @@
       "https://adiuc.org.ar/"
     ],
     "createdAt": "2026-09-07T01:17:18.000Z",
-    "updatedAt": "2026-09-07T01:19:17Z"
+    "updatedAt": "2026-09-07T06:31:18Z"
+  },
+  {
+    "id": "ar-2026-09-07-libres-sur-boicot-fintech-tasas-interes",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "boicot de 24 horas (todo el día)",
+    "fecha": "2026-09-07",
+    "lugar": "Área metropolitana de Buenos Aires, Argentina (boicot contra empresas fintech y billeteras virtuales)",
+    "tipoAccion": "boicot ciudadano / campaña de protesta",
+    "organizaciones": [
+      "Libres del Sur"
+    ],
+    "motivo": "Libres del Sur convocó un boicot de 24 horas contra fintech y billeteras virtuales en rechazo a las tasas de interés de tarjetas de crédito y billeteras virtuales. La organización responsabilizó al Gobierno de Javier Milei por haber habilitado los aumentos de tasas y denunció que las entidades financieras cobran 'hasta 40 veces la inflación anual'. Calificaron el esquema vigente como de 'usura'. Es el primer día de una semana de tres días de protestas: el martes 8 habrá acciones frente a bancos del conurbano bonaerense y el miércoles 9 frente al Congreso Nacional, donde se debate una ley sobre tasas de interés.",
+    "status": "en_curso",
+    "lat": -34.6037,
+    "lng": -58.3816,
+    "fuentes": [
+      "https://tn.com.ar/politica/2026/09/06/gremios-y-organizaciones-sociales-se-manifestaran-esta-semana-por-el-endeudamiento-y-la-situacion-de-los-jubilados/"
+    ],
+    "createdAt": "2026-09-07T06:26:40.000Z",
+    "updatedAt": "2026-09-07T06:31:18Z"
   },
   {
     "id": "int-2026-09-07-albania-tirana-protesta-100-rama",
@@ -90,17 +112,18 @@
       "Movimiento ciudadano de protesta (100ª jornada consecutiva)",
       "Oposición civil contra el gobierno de Edi Rama"
     ],
-    "motivo": "Este lunes 7 de septiembre la protesta ciudadana en Albania alcanza su día 100 de movilización ininterrumpida. Los organizadores anunciaron un movilización masiva para rodear la sede de la Oficina del Primer Ministro en Tirana, en una jornada especial de 'cercamiento del poder' que marca el centenario de las protestas contra el primer ministro Edi Rama. Las demandas centrales siguen siendo la renuncia de Rama, la liberación de los detenidos en las movilizaciones recientes, un cambio en la clase política y la creación de un gobierno transitorio con mandato de 12 meses.",
+    "motivo": "Este lunes 7 de septiembre la protesta ciudadana en Albania alcanza el día 100 de movilización ininterrumpida. Los organizadores convocaron una movilización masiva para rodear la sede de la Oficina del Primer Ministro en Tirana, en una jornada especial de 'cercamiento del poder' que marca el centenario de las protestas contra el primer ministro Edi Rama. Las demandas centrales siguen siendo la renuncia de Rama, la liberación de los detenidos en las movilizaciones recientes, el cambio de la clase política y la formación de un gobierno técnico con mandato de 12 meses.",
     "status": "en_curso",
     "lat": 41.3275,
     "lng": 19.8187,
     "fuentes": [
+      "https://www.balkanweb.com/en/like-never-before--today-is-the-100th-day-of-resistance--massive-protests-are-announced--Rama-resigns--the-end-has-come-for-you/",
       "https://www.hashtag.al/en/index.php/2026/09/04/96-dite-protesta-syte-te-7-e-12-shtatori-paralajmerohet-mobilizim-i-madh-qytetar/",
-      "https://albeu.com/english/protest-enters-its-99th-day-as-citizens-demand-edi-ramas-resignation/999806/",
+      "https://albeu.com/english/protest-in-tirana-enters-its-99th-day-citizens-demand-ramas-resignation-and-a-technical-government/1000657/",
       "https://aktualitet.al/2026/09/05/day-97-protest-tirana-march-calls-peaceful-escalation/"
     ],
     "createdAt": "2026-09-02T16:58:36.000Z",
-    "updatedAt": "2026-09-07T01:19:17Z"
+    "updatedAt": "2026-09-07T06:31:18Z"
   },
   {
     "id": "int-2026-09-07-kenya-nurses-strike-day40",
@@ -115,17 +138,18 @@
       "Kenya National Union of Nurses and Midwives (KNUNM)",
       "Kenya Union of Clinical Officers (KUCO)"
     ],
-    "motivo": "La huelga nacional de enfermeras y parteras de Kenia se encuentra alrededor del día 40 de paro este lunes 7 de septiembre, en medio de la crisis sanitaria que ha paralizado al menos 52 hospitales públicos. La fecha clave de este lunes es la reunión de negociación programada entre los sindicatos y el gobierno para destrabar el conflicto. Los enfermeros exigen la implementación del Convenio Colectivo de Trabajo (CBA) firmado en 2017 y que la Comisión de Remuneraciones Salariales (SRC) emita la carta de no objeción para su registro ante el Employment and Labour Relations Court. La KNCHR calificó el paro como una crisis de derechos humanos y salud pública ante las decenas de muertes de pacientes, incluidas muertes maternas y neonatales.",
+    "motivo": "La huelga nacional de enfermeras y parteras de Kenia continúa este lunes 7 de septiembre, alrededor del día 40 de paro, en medio de la crisis sanitaria que ha paralizado al menos 52 hospitales públicos. La fecha clave de este lunes es la reunión de negociación convocada entre el presidente William Ruto, los gobernadores y los sindicatos para destrabar el conflicto. Los trabajadores de la salud exigen la implementación del Convenio Colectivo de Trabajo (CBA) firmado en 2017 y que la Comisión de Remuneraciones Salariales (SRC) emita la carta de no objeción para su registro. La KNCHR calificó el paro como una crisis de derechos humanos y salud pública ante las decenas de muertes de pacientes, incluidas muertes maternas y neonatales.",
     "status": "en_curso",
     "lat": -1.2921,
     "lng": 36.8219,
     "fuentes": [
+      "https://allafrica.com/stories/202609070033.html",
       "https://news.switchtv.ke/2026/09/nurses-strike-leaves-kenyas-hospitals-in-crisis-as-government-talks-stall",
       "https://www.the-star.co.ke/news/2026-09-05-knchr-nurses-strike-a-human-rights-crisis",
       "https://www.standardmedia.co.ke/health/health-science/article/2001556881/79-dead-as-nurses-strike-enters-day-37"
     ],
     "createdAt": "2026-09-03T04:54:44.000Z",
-    "updatedAt": "2026-09-07T01:19:17Z"
+    "updatedAt": "2026-09-07T06:31:18Z"
   },
   {
     "id": "int-2026-09-07-bangladesh-dhaka-protesta-costo-vida",
@@ -140,17 +164,18 @@
       "Alianza opositora de 11 partidos (liderada por Jamaat-e-Islami)",
       "Plataformas ciudadanas y estudiantes"
     ],
-    "motivo": "La marcha de larga distancia de la alianza opositora de 11 partidos (liderada por Jamaat-e-Islami), iniciada el 6 de septiembre desde Dhaka rumbo a Chittagong, continúa este lunes 7 de septiembre exigiendo la implementación del referéndum y la rebaja de las tarifas eléctricas y del gas natural licuado bajo el gobierno del primer ministro Tarique Rahman. La movilización se suma al descontento por el aumento del costo de vida, los altos precios de los alimentos y la energía. La policía mantiene fuerte presencia en el recorrido y se reportan cortes de tránsito.",
+    "motivo": "La movilización de la alianza opositora de 11 partidos (liderada por Jamaat-e-Islami), con la marcha de larga distancia lanzada el 5 de septiembre desde Dhaka rumbo a Chittagong y el movimiento callejero en curso, continúa este lunes 7 de septiembre exigiendo la implementación del referéndum y la rebaja de las tarifas eléctricas y del gas natural licuado bajo el gobierno del primer ministro Tarique Rahman. La movilización se suma al descontento por el aumento del costo de vida, los altos precios de los alimentos y la energía. La alianza advirtió que intensificará su movimiento callejero si el gobierno no atiende sus demandas.",
     "status": "en_curso",
     "lat": 23.8103,
     "lng": 90.4125,
     "fuentes": [
       "https://www.dhakatribune.com/bangladesh/politics/419171/11-party-opposition-alliance-launches",
       "https://www.aljazeera.com/video/newsfeed/2026/9/6/bangladesh-protesters-demand-action-over-rising-costs",
+      "https://nukta.com/bangladesh-opposition-launches-protest-march",
       "https://edition.mv/2026/09/05/bangladeshs-opposition-launches-national-protest-movement-against-energy-crisis/"
     ],
     "createdAt": "2026-09-06T21:42:21.000Z",
-    "updatedAt": "2026-09-07T01:19:17Z"
+    "updatedAt": "2026-09-07T06:31:18Z"
   },
   {
     "id": "int-2026-09-07-pakistan-ji-sentada-gasolinazo",
@@ -166,17 +191,18 @@
       "Sindh High Court Bar Association (SHCBA)",
       "Karachi Bar Association (KBA)"
     ],
-    "motivo": "El sit-in nacional del Jamaat-e-Islami contra la tasa sobre los combustibles (petroleum levy), los precios del petróleo y la electricidad y los acuerdos con los productores independientes de energía (IPPs) entra este lunes 7 de septiembre en su jornada 22, con sentadas activas frente a Governor House en Karachi y en Lahore, Peshawar e Islamabad. Este lunes están programadas las conversaciones formales entre el JI y delegados del gobierno (con la creación de comités técnicos para revisar la tasa), mientras el partido advierte que mantendrá las movilizaciones durante todo el proceso negociador y evalúa una marcha larga si no hay avances.",
+    "motivo": "El sit-in nacional del Jamaat-e-Islami contra la tasa sobre los combustibles (petroleum levy), los precios del petróleo y la electricidad y los acuerdos con los productores independientes de energía (IPPs) continúa este lunes 7 de septiembre, con sentadas activas frente a Governor House en Karachi y en Lahore, Peshawar e Islamabad. Este lunes están programadas las conversaciones formales entre el JI y delegados del gobierno (con la creación de comités técnicos para revisar la tasa), mientras el partido advierte que mantendrá las movilizaciones durante todo el proceso negociador y evalúa una marcha larga si no hay avances.",
     "status": "en_curso",
     "lat": 24.8562,
     "lng": 67.0047,
     "fuentes": [
+      "https://www.nation.com.pk/07-Sep-2026/pibf-launches-nationwide-signature-campaign-petroleum-levy",
       "https://www.brecorder.com/news/40439111",
       "https://www.24newshd.tv/04-Sep-2026/talks-govt-sept-7-ji-sit-in-fuel-levy-enters-20th-day",
       "https://www.dawn.com/news/2027943/ji-continues-sit-in-against-petroleum-levy-inflation"
     ],
     "createdAt": "2026-09-04T20:15:11.000Z",
-    "updatedAt": "2026-09-07T01:19:17Z"
+    "updatedAt": "2026-09-07T06:31:18Z"
   },
   {
     "id": "int-2026-09-07-india-haryana-sanitation-huelga",
@@ -192,17 +218,18 @@
       "Sarv Karamchari Sangh",
       "Sindicato de trabajadores sanitarios y bomberos de Haryana"
     ],
-    "motivo": "La huelga de los trabajadores de saneamiento municipal de Haryana continúa este lunes 7 de septiembre, tras la decisión sindical de extender el paro hasta el 9 de septiembre ante la falta de un compromiso formal por escrito. La crisis sanitaria se agrava por decenas de miles de toneladas de basura acumulada en las ciudades, y se reporta fuerte presencia policial frente a las residencias de los ministros en Karnal, Yamunanagar, Hisar, Rohtak, Bhiwani, Kurukshetra y Gurugram. Los trabajadores exigen la regularización del empleo de los contratados y el fin del sistema de agencias; el gobierno ofreció subir los sueldos de ₹20.590 a ₹25.560 y aplicar la Ley de Empleados Contractuales de Haryana, pero la demanda clave de regularización sigue sin respuesta.",
+    "motivo": "La huelga de los trabajadores de saneamiento municipal de Haryana continúa este lunes 7 de septiembre, tras la decisión sindical de extender el paro hasta el 9 de septiembre ante la falta de un compromiso formal por escrito. La crisis sanitaria se agrava por decenas de miles de toneladas de basura acumulada en las ciudades y por la falta de acuerdo con el gobierno estatal, que ordenó reincorporarse el 5 de septiembre. Los trabajadores exigen la regularización del empleo de los contratados y el fin del sistema de agencias; el gobierno ofreció subir los sueldos y aplicar la Ley de Empleados Contractuales de Haryana, pero la demanda clave de regularización sigue sin respuesta. Se prevén panchayats de justicia a nivel distrital y estatal (Kurukshetra, 13 de septiembre).",
     "status": "en_curso",
     "lat": 29.6857,
     "lng": 76.9905,
     "fuentes": [
-      "https://www.amarujala.com/haryana/jhajjar-bahadurgarh/sanitation-workers-strike-in-haryana-standoff-between-administration-and-employees-continues-2026-08-23",
-      "https://theprint.in/india/haryana-protesting-sanitation-workers-extend-strike-by-3-days/3035403/",
-      "https://one.news18.com/english/article/news/haryana/haryana-sanitation-strike-bjp-govt-on-backfoot-as-cm-sainis-offer-fails-to-end-deadlock-hin-8810803690"
+      "https://www.amarujala.com/haryana/chandigarh-haryana/sanitation-workers-in-haryana-extend-strike-till-sep-9-government-tough-stance-esma-2026-09-07",
+      "https://www.tribuneindia.com/news/haryana/haryana-sanitation-workers-extend-strike-plan-jan-nyay-panchayat/",
+      "https://www.lokmattimes.com/national/congress-surjewala-accuses-haryana-govt-of-stubbornness-arrogance-over-sanitation-workers-strike/",
+      "https://theprint.in/india/haryana-protesting-sanitation-workers-extend-strike-by-3-days/3035403/"
     ],
     "createdAt": "2026-08-25T20:56:35.000Z",
-    "updatedAt": "2026-09-07T01:19:17Z"
+    "updatedAt": "2026-09-07T06:31:18Z"
   },
   {
     "id": "int-2026-09-07-italia-huelga-ferroviaria-nacional",
@@ -226,10 +253,11 @@
     "lng": 12.4964,
     "fuentes": [
       "https://striketracker.app/strikes-in-italy/italy-national-rail-operators-strike-7-8-sep-2026",
+      "https://www.nomadlawyer.org/italy-nationwide-railway-strike-september-7-8-2026-regional-long-distance-disruptions",
       "https://vivereinitalien.de/en/attention-italy-travellers-strikes-in-september-2026"
     ],
     "createdAt": "2026-09-07T01:13:15.000Z",
-    "updatedAt": "2026-09-07T01:19:17Z"
+    "updatedAt": "2026-09-07T06:31:18Z"
   },
   {
     "id": "int-2026-09-07-brasil-sao-paulo-grito-dos-excluidos",
@@ -254,7 +282,7 @@
       "https://www.brasildefato.com.br/2026/09/07/grito-dos-excluidos-comemora-31-anos-de-luta-com-atos-em-24-estados"
     ],
     "createdAt": "2026-09-07T01:13:15.000Z",
-    "updatedAt": "2026-09-07T01:19:17Z"
+    "updatedAt": "2026-09-07T06:31:18Z"
   },
   {
     "id": "int-2026-09-07-brasil-sao-paulo-ato-paulista-fora-moraes",
@@ -279,6 +307,32 @@
       "https://g1.globo.com/politica/noticia/2026/09/07/ato-bolsonarista-av-paulista-7-de-setembro.ghtml"
     ],
     "createdAt": "2026-09-07T01:13:15.000Z",
-    "updatedAt": "2026-09-07T01:19:17Z"
+    "updatedAt": "2026-09-07T06:31:18Z"
+  },
+  {
+    "id": "int-2026-09-07-usa-encore-boston-harbor-huelga",
+    "seccion": "protestas_int",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "paro desde las 7:00 (día 4)",
+    "fecha": "2026-09-07",
+    "lugar": "Encore Boston Harbor, Everett, Massachusetts, Estados Unidos",
+    "tipoAccion": "huelga laboral / piquete",
+    "organizaciones": [
+      "UNITE HERE Local 26",
+      "Teamsters Local 25"
+    ],
+    "motivo": "Más de 1.300 trabajadores del casino y resort de lujo Encore Boston Harbor (propiedad de Wynn Resorts) continúan este lunes 7 de septiembre en huelga, día del Día del Trabajo en Estados Unidos, en el cuarto día de paro. La medida comenzó el viernes 4 de septiembre tras el vencimiento de sus convenios colectivos el 31 de agosto, ante la falta de un nuevo contrato. Los trabajadores —housekeepers, cocineros, meseros, camareros, cajeros, valet y choferes— reclaman salarios más altos, el mantenimiento del seguro de salud y la pensión y protección del empleo, y exigen igualarse a los trabajadores hoteleros del centro de Boston. Los sindicatos denuncian que Wynn Resorts no ha retomado de buena fe las negociaciones y piden al público no cruzar la línea de piquete.",
+    "status": "en_curso",
+    "lat": 42.4063,
+    "lng": -71.0403,
+    "fuentes": [
+      "https://www.bostonherald.com/2026/09/06/1300-worker-encore-hotel-strike-to-continue-labor-day/",
+      "https://teamster.org/2026/09/casino-teamsters-launch-strike-at-encore-boston-harbor/",
+      "https://www.nbcboston.com/news/local/encore-boston-harbor-strike-everett-casino/4009229/",
+      "https://onlabor.org/september-6-2026/"
+    ],
+    "createdAt": "2026-09-07T06:25:01.000Z",
+    "updatedAt": "2026-09-07T06:31:18Z"
   }
 ]
