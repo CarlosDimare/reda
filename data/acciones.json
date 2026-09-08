@@ -4,8 +4,8 @@
     "seccion": "protestas_ar",
     "pais": "Argentina",
     "bandera": "🇦🇷",
-    "hora": "huelga por tiempo indeterminado (reunión 14:30 y concentración en Ushuaia)",
-    "fecha": "2026-09-07",
+    "hora": "huelga por tiempo indeterminado (7.ª semana; acampes permanentes en las tres ciudades)",
+    "fecha": "2026-09-08",
     "lugar": "Tierra del Fuego, Argentina: Casa de Gobierno (Ushuaia), acampe frente al Ministerio de Educación (Río Grande) y acampe en la Delegación de Gobierno (Tolhuin)",
     "tipoAccion": "huelga general docente por tiempo indeterminado / acampes y movilizaciones",
     "organizaciones": [
@@ -13,7 +13,7 @@
       "FreSU (Frente de Sindicatos Unidos)",
       "ATE Nacional (respaldo)"
     ],
-    "motivo": "Continúa este lunes 7 de septiembre, en su sexta semana consecutiva, la huelga por tiempo indeterminado de la docencia fueguina, el conflicto docente más largo de la última década en la provincia. La medida se mantiene vigente a pesar de que SUTEF fue convocado a una nueva reunión con el Ministerio de Educación este lunes 7/09 a las 14:30 en Casa de Gobierno (Ushuaia); el gremio convocó a su vez a una concentración desde las 14 en Ushuaia. Se mantienen los acampes permanentes en las tres ciudades (Río Grande, Tolhuin y Ushuaia) con asambleas y ollas populares. La docencia rechazó la última oferta salarial del gobierno de Gustavo Melella ($59.000 en cuatro meses, con sumas no remunerativas que no alcanzan a los jubilados) y exige recomposición salarial, la devolución de los días descontados, la reapertura de la paritaria y el tratamiento de la Ley de Financiamiento Educativo. El SUTEF acusó a la provincia de 'estirar el conflicto'. La medida cuenta con el respaldo de ATE Nacional y del FreSU.",
+    "motivo": "Continúa este martes 8 de septiembre, al entrar en su séptima semana consecutiva, la huelga por tiempo indeterminado de la docencia fueguina, el conflicto docente más largo de la última década en la provincia. Tras la reunión del lunes 7 con el Ministerio de Educación en Casa de Gobierno (Ushuaia), el gremio mantiene la medida ante la falta de acuerdo. Se mantienen los acampes permanentes en las tres ciudades (Río Grande, Tolhuin y Ushuaia) con asambleas y ollas populares. La docencia rechazó la oferta salarial del gobierno de Gustavo Melella ($59.000 en cuatro meses, con sumas no remunerativas que no alcanzan a los jubilados) y exige recomposición salarial, la devolución de los días descontados, la reapertura de la paritaria y el tratamiento de la Ley de Financiamiento Educativo. La medida cuenta con el respaldo de ATE Nacional y del FreSU.",
     "status": "en_curso",
     "lat": -54.8019,
     "lng": -68.303,
@@ -25,413 +25,114 @@
       "https://sutef.org/tierra-del-fuego-se-profundiza-el-conflicto-docente-y-ya-es-el-mas-largo-de-la-ultima-decada-en-la-provincia/"
     ],
     "createdAt": "2026-09-05T00:26:12.000Z",
-    "updatedAt": "2026-09-07T21:46:28Z"
-  },
-  {
-    "id": "ar-2026-09-07-paro-municipales-aguaray-salta",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "paro general con movilización (desde el 7 de septiembre)",
-    "fecha": "2026-09-07",
-    "lugar": "Aguaray, departamento General San Martín, provincia de Salta, Argentina",
-    "tipoAccion": "paro general de actividades / movilización",
-    "organizaciones": [
-      "SOEMA (Sindicato de Obreros y Empleados Municipales de Aguaray)",
-      "ATE (Asociación de Trabajadores del Estado) Seccional San Martín"
-    ],
-    "motivo": "Los trabajadores de la Municipalidad de Aguaray iniciaron este lunes 7 de septiembre un paro general de actividades con movilización, en reclamo de mejoras laborales y respuestas del Ejecutivo municipal. Reclaman la apertura de las paritarias del segundo semestre de 2026, denuncian el incumplimiento de acuerdos alcanzados en el primer semestre y plantean otras demandas laborales. La medida fue anunciada por SOEMA y ATE Seccional San Martín y notificada formalmente a la Secretaría de Trabajo de la Provincia de Salta mediante una nota presentada el 27 de agosto, con las firmas de Sandra Hoyos (ATE San Martín) y Jorge Roberto Silva (SOEMA Aguaray).",
-    "status": "en_curso",
-    "lat": -22.35,
-    "lng": -63.75,
-    "fuentes": [
-      "https://cuartopodersalta.com.ar/aguaray-municipales-anunciaron-un-paro-desde-el-7-de-septiembre/",
-      "https://nuevodiariodesalta.com.ar/aguaray-trabajadores-municipales-anunciaron-un-paro-desde-el-7-de-septiembre/",
-      "https://www.vocescriticas.com/noticias/2026/09/03/216110-atencin-aguaray-trabajadores-municipales-realizaran-un-paro-general-desde-el-lunes",
-      "https://www.cuarto.com.ar/norte-salteno-municipales-de-aguaray-anuncian-paro-y-movilizacion-desde-el-lunes-7-de-septiembre/"
-    ],
-    "createdAt": "2026-09-07T01:17:18.000Z",
-    "updatedAt": "2026-09-07T21:46:28Z"
+    "updatedAt": "2026-09-08T00:11:00Z"
   },
   {
     "id": "ar-2026-09-07-adiuc-semana-protesta-cordoba",
     "seccion": "protestas_ar",
     "pais": "Argentina",
     "bandera": "🇦🇷",
-    "hora": "semana de protesta y organización (7 al 11 de septiembre)",
-    "fecha": "2026-09-07",
-    "lugar": "Universidad Nacional de Córdoba (UNC), Córdoba, provincia de Córdoba, Argentina",
-    "tipoAccion": "semana de protesta / asambleas y consultas por lugar de trabajo",
+    "hora": "paro nacional universitario de 24 horas + asambleas de la semana de protesta",
+    "fecha": "2026-09-08",
+    "lugar": "Universidad Nacional de Córdoba (UNC), Córdoba, y universidades nacionales de todo el país, Argentina",
+    "tipoAccion": "paro nacional universitario / semana de protesta con asambleas por lugar de trabajo",
     "organizaciones": [
       "ADIUC (Asociación de Docentes e Investigadores de la UNC)",
-      "CONADU / comunidad universitaria"
+      "Frente Sindical Universitario Nacional (CONADU, CONADU Histórica, FEDUBA, FATUN)",
+      "Comunidad universitaria"
     ],
-    "motivo": "ADIUC inició este lunes 7 de septiembre una 'Semana de Protesta y Organización' que se extiende hasta el 11 de septiembre en la Universidad Nacional de Córdoba, tras el fracaso de la paritaria y del contundente paro nacional. La semana contempla asambleas y consultas por lugar de trabajo para ampliar el debate y definir la profundización del plan de lucha, en el marco del conflicto por la implementación de la Ley de Financiamiento Universitario, la recomposición salarial y contra el desfinanciamiento y vaciamiento de las universidades públicas.",
+    "motivo": "Este martes 8 de septiembre se realiza el Paro Nacional Universitario de 24 horas convocado por el Frente Sindical Universitario Nacional, que moviliza a docentes y nodocentes de las universidades públicas de todo el país en reclamo de recomposición salarial y del cumplimiento de la Ley de Financiamiento Universitario, tras el fracaso de la paritaria del 1° de septiembre y el rechazo de la oferta del 3% para ese mes. En la UNC (Córdoba) el paro se enmarca en la 'Semana de Protesta y Organización' (7 al 11 de septiembre) impulsada por ADIUC, que continúa con asambleas por lugar de trabajo y abandono de tareas, camino a la 5.ª Marcha Federal Universitaria prevista para la primera semana de octubre. Las federaciones también convocaron una jornada nacional de clases públicas para el 15/9 y un acto en Palacio Pizzurno el 17/9.",
     "status": "en_curso",
     "lat": -31.4201,
     "lng": -64.1888,
     "fuentes": [
+      "https://adiuc.org.ar/2026/09/04/paro-total/",
       "https://adiuc.org.ar/2026/09/03/semana-de-protesta-y-organizacion-7-al-11-9/",
-      "https://adiuc.org.ar/"
+      "https://gestionsindical.com/universidades-este-martes-hay-otro-paro-nacional-las-medidas-fuerza-seguiran-semana-proxima/",
+      "https://www.cronista.com/informacion-gral/oficial-y-confirmado-no-hay-clases-el-martes-8-de-septiembre-decretan-paro-nacional-y-los-alumnos-tendran-un-dia-libre-en-la-provincia-de-buenos-aires/",
+      "https://www.noticiasnqn.com.ar/noticias/2026/09/04/351221-universidades-nacionales-van-al-paro-docentes-y-nodocentes-paran-el-martes-8-de-septiembre",
+      "https://www.politicargentina.com/notas/202609/76188-universidades-los-gremios-convocaron-a-un-paro-este-martes-por-la-ley-de-financiamiento.html"
     ],
     "createdAt": "2026-09-07T01:17:18.000Z",
-    "updatedAt": "2026-09-07T21:46:28Z"
+    "updatedAt": "2026-09-08T00:11:00Z"
   },
   {
     "id": "ar-2026-09-07-libres-sur-boicot-fintech-tasas-interes",
     "seccion": "protestas_ar",
     "pais": "Argentina",
     "bandera": "🇦🇷",
-    "hora": "boicot de 24 horas (todo el día)",
-    "fecha": "2026-09-07",
-    "lugar": "Área metropolitana de Buenos Aires, Argentina (boicot contra empresas fintech y billeteras virtuales)",
-    "tipoAccion": "boicot ciudadano / campaña de protesta",
+    "hora": "concentraciones frente a sucursales bancarias (durante la jornada)",
+    "fecha": "2026-09-08",
+    "lugar": "Sucursales bancarias del conurbano bonaerense (incluye San Fernando), provincia de Buenos Aires, Argentina",
+    "tipoAccion": "concentraciones / protesta frente a bancos",
     "organizaciones": [
       "Libres del Sur"
     ],
-    "motivo": "Libres del Sur lleva adelante este lunes 7 de septiembre el Segundo Boicot de 24 horas contra Mercado Libre, Mercado Pago y Mercado Crédito en rechazo a la usura y a las tasas de interés de tarjetas de crédito y billeteras virtuales. La organización responsabilizó al Gobierno de Javier Milei por haber habilitado los aumentos de tasas, que permiten a las entidades cobrar 'hasta 40 veces la inflación anual', y denunció que la morosidad crece mientras las empresas del rubro se enriquecen. Es la primera acción de una semana de tres días de protestas: el martes 8 habrá concentraciones frente a sucursales bancarias del conurbano bonaerense y el miércoles 9 una movilización al Congreso Nacional, donde comenzará el debate en Diputados sobre las tasas de interés.",
+    "motivo": "Este martes 8 de septiembre, como segunda jornada de la semana de protesta contra la usura y las tasas de interés, Libres del Sur realiza concentraciones frente a distintas sucursales bancarias del conurbano bonaerense (entre ellas San Fernando), trasladando el reclamo desde las plataformas digitales hacia la banca tradicional. La organización denuncia que el Gobierno de Javier Milei habilitó que las tarjetas de crédito y las billeteras virtuales subieran sus tasas 'hasta 40 veces la inflación anual', y cuestiona las tasas aplicadas por los bancos tradicionales. El lunes 7 se realizó el segundo boicot de 24 horas contra Mercado Libre, Mercado Pago y Mercado Crédito; el miércoles 9 está prevista una movilización al Congreso Nacional en rechazo a las tasas de interés.",
     "status": "en_curso",
     "lat": -34.6037,
     "lng": -58.3816,
     "fuentes": [
+      "https://www.newsdigitales.com/nota/344111/libres-del-sur-vuelve-a-la-carga-contra-milei-caputo-y-galperin-por-las-tasas-usurarias/",
+      "https://gestionsindical.com/marcha-al-congreso-boicot-protestar-los-intereses-usurarios-mercado-pago-los-bancos/",
+      "https://www.elcomercioonline.com.ar/articulos/60108859-Libres-del-Sur-marchara-en-San-Fernando-contra-las-tasas-de-interes-y-el-ajuste-de-Milei.html",
       "https://tn.com.ar/politica/2026/09/06/gremios-y-organizaciones-sociales-se-manifestaran-esta-semana-por-el-endeudamiento-y-la-situacion-de-los-jubilados/",
       "https://redeco.com.ar/nacional/77543-segundo-boicot-contra-mercado-libre"
     ],
     "createdAt": "2026-09-07T06:26:40.000Z",
-    "updatedAt": "2026-09-07T21:46:28Z"
+    "updatedAt": "2026-09-08T00:11:00Z"
   },
   {
     "id": "ar-2026-09-07-ampba-paro-docente-provincia-buenos-aires",
     "seccion": "protestas_ar",
     "pais": "Argentina",
     "bandera": "🇦🇷",
-    "hora": "paro de 48 horas (lunes 7 y martes 8 de septiembre)",
-    "fecha": "2026-09-07",
+    "hora": "paro de 48 horas (segunda jornada, martes 8 de septiembre)",
+    "fecha": "2026-09-08",
     "lugar": "Provincia de Buenos Aires, Argentina (escuelas provinciales con docentes afiliados a AMpBA, incluyendo General Pueyrredon / Mar del Plata y otros distritos bonaerenses)",
     "tipoAccion": "paro docente provincial de 48 horas / cese de actividades",
     "organizaciones": [
       "AMpBA (Asociación de Maestrxs de la Provincia de Buenos Aires)",
       "SUTEBA Multicolor (adhésión)"
     ],
-    "motivo": "La AMpBA convocó un paro provincial de 48 horas para el lunes 7 y martes 8 de septiembre en escuelas de la Provincia de Buenos Aires, como parte de su quinta semana de medidas de fuerza. El gremio reclama un salario mínimo vital y móvil de $2.800.000 y rechaza el aumento acordado en la última paritaria estatal bonaerense (7% escalonado: 5% en julio y 2% en agosto), que Representó solo $9.762 en el recibo de septiembre. La medida afecta a establecimientos provinciales donde trabajen docentes afiliados a AMpBA e incluye movilización. El paro se da en un contexto de conflicto salarial más amplio en la provincia, con sectores disidentes como SUTEBA Multicolor también participando de la medida. AMpBA calificó de 'miserable' la política salarial del gobierno de Axel Kicillof.",
+    "motivo": "Este martes 8 de septiembre se cumple la segunda y última jornada del paro provincial de 48 horas (lunes 7 y martes 8) convocado por la AMpBA en las escuelas de la Provincia de Buenos Aires, en el marco de su quinta semana de medidas de fuerza. El gremio reclama un salario mínimo vital y móvil de $2.800.000 y rechaza el aumento acordado en la última paritaria estatal bonaerense (7% escalonado: 5% en julio y 2% en agosto), que representó solo $9.762 en el recibo de septiembre, tras lo cual denunció que el básico quedó en $349.000. La medida afecta a establecimientos provinciales donde trabajen docentes afiliados a la AMpBA e incluye movilización. AMpBA calificó de 'miserable' la política salarial del gobierno de Axel Kicillof.",
     "status": "en_curso",
     "lat": -34.9214,
     "lng": -57.9544,
     "fuentes": [
-      "https://www.cronista.com/informacion-gral/no-hay-clases-el-lunes-7-y-martes-8-de-septiembre-decretan-asueto-y-estos-alumnos-no-deberan-ir-a-las-escuelas-por-cuatro-dias-en-la-provincia-de-buenos-aires/",
+      "https://www.cronista.com/informacion-gral/suspenden-las-clases-el-martes-8-de-septiembre-todos-estos-alumnos-de-la-provincia-de-buenos-aires-tendran-un-dia-de-descanso/",
       "https://www.cronista.com/informacion-gral/oficial-y-confirmado-no-hay-clases-el-lunes-7-y-martes-8-de-septiembre-decretan-paro-y-los-estudiantes-tendran-un-fin-de-semana-largo-de-cuatro-dias-en-la-provincia-de-buenos-aires/",
+      "https://bardeo.news/politica/arranco-el-paro-docente-de-48-horas-en-buenos-aires-contra-kicillof_a6a9eb6e230b2041eb7edb695",
+      "https://www.datadiario.com/laplata/politica-y-economia/paro-docente-de-48-horas-en-la-provincia-reclaman-un-salario-minimo-de-2-8-millones-2026979520",
       "https://www.0223.com.ar/nota/2026-9-1-8-58-0-un-sector-docente-convoco-a-un-paro-provincial-para-la-proxima-semana-a-quienes-afecta",
-      "https://www.mdzol.com/politica/paritarias-estatales-bonaerenses-gremios-piden-la-urgente-apertura-y-docentes-discolos-le-paran-kicillof-n1601060"
+      "https://www.cronista.com/informacion-gral/oficial-y-confirmado-no-hay-clases-el-lunes-7-y-martes-8-de-septiembre-decretan-paro-docente-y-los-alumnos-tendran-un-fin-de-semana-largo-de-cuatro-dias-en-la-provincia-de-buenos-aires/"
     ],
     "createdAt": "2026-09-07T12:57:09.000Z",
-    "updatedAt": "2026-09-07T21:46:28Z"
+    "updatedAt": "2026-09-08T00:11:00Z"
   },
   {
-    "id": "ar-2026-09-07-marcha-justicia-cecilia-lazcano-alvear-corrientes",
+    "id": "ar-2026-09-08-ate-paro-nacional-marcha-pami",
     "seccion": "protestas_ar",
     "pais": "Argentina",
     "bandera": "🇦🇷",
-    "hora": "19:00",
-    "fecha": "2026-09-07",
-    "lugar": "Alvear, provincia de Corrientes, Argentina (concentración en la plazoleta La Hermandad, en el acceso a la ciudad)",
-    "tipoAccion": "marcha / movilización con velas y antorchas",
+    "hora": "13:00",
+    "fecha": "2026-09-08",
+    "lugar": "Sede central del PAMI, Ciudad Autónoma de Buenos Aires, Argentina (paralización de actividades en todo el país)",
+    "tipoAccion": "paro nacional / movilización",
     "organizaciones": [
-      "Familiares y amigos de Cecilia Emilce Lazcano",
-      "Comunidad de Alvear (vecinos autoconvocados)"
+      "ATE (Asociación de Trabajadores del Estado)"
     ],
-    "motivo": "Este lunes 7 de septiembre a las 19 (hora local), la comunidad de Alvear volverá a marchar por las calles para reclamar justicia por el crimen de Cecilia Emilce Lazcano, la adolescente de 16 años asesinada el 16 de julio. Los manifestantes exigen el esclarecimiento del caso y que se detenga a la joven imputada como instigadora y coautora del homicidio, que actualmente cumple prisión domiciliaria. La concentración será en la plazoleta La Hermandad y el recorrido por las Letras de Alvear, con la consigna 'Por una sociedad que no tolera la impunidad' y la invitación a concurrir con carteles, velas o antorchas.",
+    "motivo": "ATE convocó a un paro nacional y a una movilización para este martes 8 de septiembre a las 13 horas frente a la sede central del PAMI, en el centro porteño, para denunciar la 'crisis' que atraviesa la obra social de los jubilados, en medio de fuertes cuestionamientos sobre el funcionamiento del organismo. El gremio paralizará las actividades en todo el país en el marco del conflicto por la situación del PAMI y de los jubilados y pensionados.",
     "status": "prevista",
-    "lat": -29.0969,
-    "lng": -56.5504,
+    "lat": -34.6037,
+    "lng": -58.3816,
     "fuentes": [
-      "https://www.corrienteshoy.com/policiales/este-lunes-nueva-marcha-por-el-crimen-de-cecilia-lazcano-en-corrientes.htm",
-      "https://tn.com.ar/policiales/2026/09/04/ordenaron-la-prision-domiciliaria-para-la-joven-imputada-por-el-asesinato-de-su-companera-en-corrientes/"
+      "https://www.mendovoz.com/actualidad/nacionales/2026/9/7/ate-anuncio-un-paro-nacional-y-marcha-al-pami-por-la-crisis-de-la-obra-social-168150.html",
+      "https://ultimanoticiaba.com/2026/09/07/pami-ate-confirmo-un-paro-nacional-y-movilizacion-para-este-martes/",
+      "https://cuartointermedio.com.ar/2026/09/ate-lanzo-paro-con-movilizacion-a-la-sede-central-del-pami-para-este-martes/",
+      "https://www.msn.com/es-ar/noticias/otras/ate-confirm%C3%B3-un-paro-nacional-en-el-pami-para-este-martes-8-de-septiembre-cu%C3%A1l-es-el-motivo/ar-AA2bJsaW"
     ],
-    "createdAt": "2026-09-07T21:42:06.000Z",
-    "updatedAt": "2026-09-07T21:46:28Z"
-  },
-  {
-    "id": "int-2026-09-07-albania-tirana-protesta-100-rama",
-    "seccion": "protestas_int",
-    "pais": "Albania",
-    "bandera": "🇦🇱",
-    "hora": "—",
-    "fecha": "2026-09-07",
-    "lugar": "Bulevardi Deshmoret e Kombit (sede de la Oficina del Primer Ministro), Tirana, Albania",
-    "tipoAccion": "manifestación / concentración",
-    "organizaciones": [
-      "Movimiento ciudadano de protesta (100ª jornada consecutiva)",
-      "Oposición civil contra el gobierno de Edi Rama"
-    ],
-    "motivo": "Este lunes 7 de septiembre la protesta ciudadana en Albania alcanza el día 100 de movilización ininterrumpida. Los organizadores convocaron una movilización masiva para rodear la sede de la Oficina del Primer Ministro en Tirana, en una jornada especial de 'cercamiento del poder' que marca el centenario de las protestas contra el primer ministro Edi Rama. Las demandas centrales siguen siendo la renuncia de Rama, la liberación de los detenidos en las movilizaciones recientes, el cambio de la clase política y la formación de un gobierno técnico con mandato de 12 meses.",
-    "status": "en_curso",
-    "lat": 41.3275,
-    "lng": 19.8187,
-    "fuentes": [
-      "https://www.balkanweb.com/en/like-never-before--today-is-the-100th-day-of-resistance--massive-protests-are-announced--Rama-resigns--the-end-has-come-for-you/",
-      "https://www.hashtag.al/en/index.php/2026/09/04/96-dite-protesta-syte-te-7-e-12-shtatori-paralajmerohet-mobilizim-i-madh-qytetar/",
-      "https://albeu.com/english/protest-in-tirana-enters-its-99th-day-citizens-demand-ramas-resignation-and-a-technical-government/1000657/",
-      "https://aktualitet.al/2026/09/05/day-97-protest-tirana-march-calls-peaceful-escalation/"
-    ],
-    "createdAt": "2026-09-02T16:58:36.000Z",
-    "updatedAt": "2026-09-07T21:46:28Z"
-  },
-  {
-    "id": "int-2026-09-07-kenya-nurses-strike-day40",
-    "seccion": "protestas_int",
-    "pais": "Kenia",
-    "bandera": "🇰🇪",
-    "hora": "—",
-    "fecha": "2026-09-07",
-    "lugar": "Nairobi y 47 condados de Kenia — hospitales públicos y oficinas de la SRC y la CoG",
-    "tipoAccion": "huelga laboral / manifestación",
-    "organizaciones": [
-      "Kenya National Union of Nurses and Midwives (KNUNM)",
-      "Kenya Union of Clinical Officers (KUCO)"
-    ],
-    "motivo": "La huelga nacional de enfermeras y parteras de Kenia continúa este lunes 7 de septiembre, alrededor del día 40 de paro, en medio de la crisis sanitaria que ha paralizado al menos 52 hospitales públicos. La fecha clave de este lunes es la reunión de negociación convocada entre el presidente William Ruto, los gobernadores y los sindicatos para destrabar el conflicto. Los trabajadores de la salud exigen la implementación del Convenio Colectivo de Trabajo (CBA) firmado en 2017 y que la Comisión de Remuneraciones Salariales (SRC) emita la carta de no objeción para su registro. La KNCHR calificó el paro como una crisis de derechos humanos y salud pública ante las decenas de muertes de pacientes, incluidas muertes maternas y neonatales.",
-    "status": "en_curso",
-    "lat": -1.2921,
-    "lng": 36.8219,
-    "fuentes": [
-      "https://allafrica.com/stories/202609070033.html",
-      "https://news.switchtv.ke/2026/09/nurses-strike-leaves-kenyas-hospitals-in-crisis-as-government-talks-stall",
-      "https://www.the-star.co.ke/news/2026-09-05-knchr-nurses-strike-a-human-rights-crisis",
-      "https://www.standardmedia.co.ke/health/health-science/article/2001556881/79-dead-as-nurses-strike-enters-day-37"
-    ],
-    "createdAt": "2026-09-03T04:54:44.000Z",
-    "updatedAt": "2026-09-07T21:46:28Z"
-  },
-  {
-    "id": "int-2026-09-07-pakistan-ji-sentada-gasolinazo",
-    "seccion": "protestas_int",
-    "pais": "Pakistán",
-    "bandera": "🇵🇰",
-    "hora": "—",
-    "fecha": "2026-09-07",
-    "lugar": "Sentadas frente a Governor House (Karachi) y en Lahore, Peshawar e Islamabad, Pakistán",
-    "tipoAccion": "sentada (sit-in) prolongada / campaña de protesta",
-    "organizaciones": [
-      "Jamaat-e-Islami (JI)",
-      "Sindh High Court Bar Association (SHCBA)",
-      "Karachi Bar Association (KBA)"
-    ],
-    "motivo": "El sit-in nacional del Jamaat-e-Islami contra la tasa sobre los combustibles (petroleum levy), los precios del petróleo y la electricidad y los acuerdos con los productores independientes de energía (IPPs) continúa este lunes 7 de septiembre, con sentadas activas frente a Governor House en Karachi y en Lahore, Peshawar e Islamabad. Este lunes están programadas las conversaciones formales entre el JI y delegados del gobierno (con la creación de comités técnicos para revisar la tasa), mientras el partido advierte que mantendrá las movilizaciones durante todo el proceso negociador y evalúa una marcha larga si no hay avances.",
-    "status": "en_curso",
-    "lat": 24.8562,
-    "lng": 67.0047,
-    "fuentes": [
-      "https://www.nation.com.pk/07-Sep-2026/pibf-launches-nationwide-signature-campaign-petroleum-levy",
-      "https://www.brecorder.com/news/40439111",
-      "https://www.24newshd.tv/04-Sep-2026/talks-govt-sept-7-ji-sit-in-fuel-levy-enters-20th-day",
-      "https://www.dawn.com/news/2027943/ji-continues-sit-in-against-petroleum-levy-inflation"
-    ],
-    "createdAt": "2026-09-04T20:15:11.000Z",
-    "updatedAt": "2026-09-07T21:46:28Z"
-  },
-  {
-    "id": "int-2026-09-07-india-haryana-sanitation-huelga",
-    "seccion": "protestas_int",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "—",
-    "fecha": "2026-09-07",
-    "lugar": "Karnal, Yamunanagar, Hisar, Rohtak, Bhiwani, Kurukshetra, Gurugram, Jhajjar y múltiples ciudades de Haryana, India",
-    "tipoAccion": "huelga laboral / enfrentamiento",
-    "organizaciones": [
-      "Nagarpalika Karamchari Sangh Haryana",
-      "Sarv Karamchari Sangh",
-      "Sindicato de trabajadores sanitarios y bomberos de Haryana"
-    ],
-    "motivo": "La huelga de los trabajadores de saneamiento municipal de Haryana continúa este lunes 7 de septiembre, tras la decisión sindical de extender el paro hasta el 9 de septiembre ante la falta de un compromiso formal por escrito. La crisis sanitaria se agrava por decenas de miles de toneladas de basura acumulada en las ciudades y por la falta de acuerdo con el gobierno estatal, que ordenó reincorporarse el 5 de septiembre. Los trabajadores exigen la regularización del empleo de los contratados y el fin del sistema de agencias; el gobierno ofreció subir los sueldos y aplicar la Ley de Empleados Contractuales de Haryana, pero la demanda clave de regularización sigue sin respuesta. Se prevén panchayats de justicia a nivel distrital y estatal (Kurukshetra, 13 de septiembre).",
-    "status": "en_curso",
-    "lat": 29.6857,
-    "lng": 76.9905,
-    "fuentes": [
-      "https://www.amarujala.com/haryana/chandigarh-haryana/sanitation-workers-in-haryana-extend-strike-till-sep-9-government-tough-stance-esma-2026-09-07",
-      "https://www.tribuneindia.com/news/haryana/haryana-sanitation-workers-extend-strike-plan-jan-nyay-panchayat/",
-      "https://www.lokmattimes.com/national/congress-surjewala-accuses-haryana-govt-of-stubbornness-arrogance-over-sanitation-workers-strike/",
-      "https://theprint.in/india/haryana-protesting-sanitation-workers-extend-strike-by-3-days/3035403/"
-    ],
-    "createdAt": "2026-08-25T20:56:35.000Z",
-    "updatedAt": "2026-09-07T21:46:28Z"
-  },
-  {
-    "id": "int-2026-09-07-italia-huelga-ferroviaria-nacional",
-    "seccion": "protestas_int",
-    "pais": "Italia",
-    "bandera": "🇮🇹",
-    "hora": "21:18",
-    "fecha": "2026-09-07",
-    "lugar": "Red ferroviaria nacional (Trenitalia, Italo y operadores regionales), Italia",
-    "tipoAccion": "huelga laboral",
-    "organizaciones": [
-      "Trenitalia / Mercitalia Rail",
-      "Trenitalia Tper",
-      "SGB (Sindacato Generale di Base)",
-      "CUB Trasporti",
-      "CAT"
-    ],
-    "motivo": "Huelga nacional de 24 horas de los operadores ferroviarios italianos convocada para este lunes 7 de septiembre, de las 21:18 del día 7 a las 21:17 del 8 de septiembre, en reclamo de la renovación del contrato colectivo del sector. El paro afecta a los servicios de Trenitalia, Mercitalia Rail, Trenitalia Tper, SGB, CUB Trasporti y CAT en toda la red, y se suman huelgas regionales del transporte (como en Piemonte) previstas también para el 7 de septiembre. Se recomienda a los pasajeros confirmar sus viajes ante las cancelaciones y demoras previstas.",
-    "status": "en_curso",
-    "lat": 41.9028,
-    "lng": 12.4964,
-    "fuentes": [
-      "https://striketracker.app/strikes-in-italy/italy-national-rail-operators-strike-7-8-sep-2026",
-      "https://www.nomadlawyer.org/italy-nationwide-railway-strike-september-7-8-2026-regional-long-distance-disruptions",
-      "https://vivereinitalien.de/en/attention-italy-travellers-strikes-in-september-2026"
-    ],
-    "createdAt": "2026-09-07T01:13:15.000Z",
-    "updatedAt": "2026-09-07T21:46:28Z"
-  },
-  {
-    "id": "int-2026-09-07-brasil-sao-paulo-grito-dos-excluidos",
-    "seccion": "protestas_int",
-    "pais": "Brasil",
-    "bandera": "🇧🇷",
-    "hora": "09:00",
-    "fecha": "2026-09-07",
-    "lugar": "Praça da Sé, São Paulo, y actos en 24 de 27 estados, Brasil",
-    "tipoAccion": "manifestación / acto político",
-    "organizaciones": [
-      "Grito dos Excluídos (32ª edición)",
-      "Movimientos sociales, sindicatos y colectivos de izquierda"
-    ],
-    "motivo": "Con motivo del 7 de Septiembre, la izquierda brasileña realiza este lunes la 32ª edición del 'Grito dos Excluídos', con actos previstos en 24 de los 27 estados del país. El acto principal se desarrolla en la Praça da Sé de São Paulo entre las 9h y las 11h30, con movilizaciones en defensa de la democracia, contra el proyecto de enmienda de la irretroactividad de la ley (PEC de la 'legislación'), por la reforma de la jornada laboral (tema vinculado a la PEC 6/2024 sobre escala 6x1) y contra medidas del presidente Lula que consideran de ajuste fiscal, en un clima de tensión por la crisis institucional del STF.",
-    "status": "en_curso",
-    "lat": -23.5505,
-    "lng": -46.6333,
-    "fuentes": [
-      "https://www.poder360.com.br/poder-brasil/saiba-onde-serao-os-atos-da-esquerda-no-7-de-setembro-de-2026/",
-      "https://g1.globo.com/politica/noticia/2026/09/07/grito-dos-excluidos-7-de-setembro-2026.ghtml",
-      "https://www.brasildefato.com.br/2026/09/07/grito-dos-excluidos-comemora-31-anos-de-luta-com-atos-em-24-estados"
-    ],
-    "createdAt": "2026-09-07T01:13:15.000Z",
-    "updatedAt": "2026-09-07T21:46:28Z"
-  },
-  {
-    "id": "int-2026-09-07-brasil-sao-paulo-ato-paulista-fora-moraes",
-    "seccion": "protestas_int",
-    "pais": "Brasil",
-    "bandera": "🇧🇷",
-    "hora": "15:00",
-    "fecha": "2026-09-07",
-    "lugar": "Avenida Paulista, São Paulo, Brasil",
-    "tipoAccion": "manifestación / acto político",
-    "organizaciones": [
-      "Convocatoria de Flávio Bolsonaro (PL)",
-      "Oposición bolsonarista y aliados (Michelle Bolsonaro, Tarcísio de Freitas, Romeu Zema, Pastor Silas Malafaia)"
-    ],
-    "motivo": "El sector bolsonarista convocó para este lunes 7 de septiembre un acto nacional en la Avenida Paulista de São Paulo a las 15h con la consigna 'Fora Lula, Fora Moraes', como parte de la movilización del Día de la Independencia. El acto cuenta con la presencia anunciada de Michelle Bolsonaro, Tarcísio de Freitas, Romeu Zema y Pastor Malafaia, y se da en medio del clima de tensión institucional tras la crisis del Tribunal Supremo Federal (STF) y la divulgación de mensajes del asesor judicial Vorcaro con el magistrado Moraes. La organización evaluó el impacto de la lluvia prevista en la ciudad sobre el formato del evento.",
-    "status": "en_curso",
-    "lat": -23.5614,
-    "lng": -46.6559,
-    "fuentes": [
-      "https://sbtnews.sbt.com.br/noticia/politica/chuva-em-sp-preocupa-organizadores-de-ato-contra-moraes",
-      "https://www.poder360.com.br/poder-brasil/ato-contra-moraes-sera-em-7-de-setembro-na-paulista/",
-      "https://g1.globo.com/politica/noticia/2026/09/07/ato-bolsonarista-av-paulista-7-de-setembro.ghtml"
-    ],
-    "createdAt": "2026-09-07T01:13:15.000Z",
-    "updatedAt": "2026-09-07T21:46:28Z"
-  },
-  {
-    "id": "int-2026-09-07-usa-encore-boston-harbor-huelga",
-    "seccion": "protestas_int",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
-    "hora": "paro desde las 7:00 (día 4)",
-    "fecha": "2026-09-07",
-    "lugar": "Encore Boston Harbor, Everett, Massachusetts, Estados Unidos",
-    "tipoAccion": "huelga laboral / piquete",
-    "organizaciones": [
-      "UNITE HERE Local 26",
-      "Teamsters Local 25"
-    ],
-    "motivo": "Más de 1.300 trabajadores del casino y resort de lujo Encore Boston Harbor (propiedad de Wynn Resorts) continúan este lunes 7 de septiembre en huelga, día del Día del Trabajo en Estados Unidos, en el cuarto día de paro. La medida comenzó el viernes 4 de septiembre tras el vencimiento de sus convenios colectivos el 31 de agosto, ante la falta de un nuevo contrato. Los trabajadores —housekeepers, cocineros, meseros, camareros, cajeros, valet y choferes— reclaman salarios más altos, el mantenimiento del seguro de salud y la pensión y protección del empleo, y exigen igualarse a los trabajadores hoteleros del centro de Boston. Los sindicatos denuncian que Wynn Resorts no ha retomado de buena fe las negociaciones y piden al público no cruzar la línea de piquete.",
-    "status": "en_curso",
-    "lat": 42.4063,
-    "lng": -71.0403,
-    "fuentes": [
-      "https://www.bostonherald.com/2026/09/06/1300-worker-encore-hotel-strike-to-continue-labor-day/",
-      "https://teamster.org/2026/09/casino-teamsters-launch-strike-at-encore-boston-harbor/",
-      "https://www.nbcboston.com/news/local/encore-boston-harbor-strike-everett-casino/4009229/",
-      "https://onlabor.org/september-6-2026/"
-    ],
-    "createdAt": "2026-09-07T06:25:01.000Z",
-    "updatedAt": "2026-09-07T21:46:28Z"
-  },
-  {
-    "id": "int-2026-09-07-india-telangana-brs-protesta-gobierno-congreso",
-    "seccion": "protestas_int",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "—",
-    "fecha": "2026-09-07",
-    "lugar": "Puerta de la Asamblea de Telangana y múltiples distritos (Hyderabad y otros), India",
-    "tipoAccion": "protesta / dharnas / bloqueos de carreteras / quema de efigies",
-    "organizaciones": [
-      "BRS (Bharat Rashtra Samithi)",
-      "KTR (KT Rama Rao)",
-      "Harish Rao"
-    ],
-    "motivo": "El Bharat Rashtra Samithi (BRS) protagonizó este lunes 7 de septiembre protestas en toda la región de Telangana contra el gobierno del Congreso por sus 1.000 días de mandato. Los legisladores del BRS vistieron camisetas negras frente a la Asamblea con consignas contra las promesas electorales incumplidas. Las protestas erupcionaron tras la detención de los líderes KTR y Harish Rao, al verse envueltos en enfrentamientos con la policía, extendiéndose a múltiples distritos con dharnas, bloqueos de carreteras, quema de efigies del primer ministro A Revanth Reddy y choques con la policía que generaron más arrestos y congestionamiento del tráfico.",
-    "status": "en_curso",
-    "lat": 17.4476,
-    "lng": 78.4476,
-    "fuentes": [
-      "https://telanganatoday.com/brs-protests-erupt-across-telangana-over-arrest-of-mlas-mlcs",
-      "https://news.abplive.com/news/india/brs-ktr-harish-rao-detained-telangana-assembly-black-t-shirt-protest-congress-govt-1000-day-rule-1865529",
-      "https://thenews21.com/ktr-harish-rao-detained-telangana-assembly-brs-protest"
-    ],
-    "createdAt": "2026-09-07T18:05:04.000Z",
-    "updatedAt": "2026-09-07T21:46:28Z"
-  },
-  {
-    "id": "int-2026-09-07-india-pune-aspirantes-mpsc-protesta-fraude-examen",
-    "seccion": "protestas_int",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "—",
-    "fecha": "2026-09-07",
-    "lugar": "Pune, Maharashtra, India (marcha desde Omkareshwar Temple hasta el Collectorate del distrito)",
-    "tipoAccion": "marcha de protesta / Akrosh Morcha",
-    "organizaciones": [
-      "Miles de aspirantes a los exámenes MPSC",
-      "NCP (Sharadchandra Pawar)",
-      "Indian National Congress y Shiv Sena (Uddhav Balasaheb Thackeray) (apoyo)"
-    ],
-    "motivo": "Miles de aspirantes a los exámenes de la Comisión de Servicios Públicos de Maharashtra (MPSC) marcharon este lunes 7 de septiembre por las calles de Pune en un masivo 'Akrosh Morcha' (marcha de la ira) contra las presuntas irregularidades en los exámenes, filtraciones recurrentes y la corrupción en el proceso de reclutamiento estatal. La marcha partió del templo Omkareshwar y culminó en el Collectorate del distrito. Los manifestantes, vestidos con camisas negras, exigen la destitución y reemplazo del presidente y secretario actuales de la MPSC, investigaciones penales contra los implicados y una reforma estructural del sistema de exámenes.",
-    "status": "en_curso",
-    "lat": 18.5204,
-    "lng": 73.8567,
-    "fuentes": [
-      "https://thesaveratimes.com/mpsc-aspirants-stage-massive-protest-pune-alleged-exam-frauds-demand-reforms/"
-    ],
-    "createdAt": "2026-09-07T18:05:04.000Z",
-    "updatedAt": "2026-09-07T21:46:28Z"
-  },
-  {
-    "id": "int-2026-09-07-costa-rica-zapote-transportistas-casa-presidencial",
-    "seccion": "protestas_int",
-    "pais": "Costa Rica",
-    "bandera": "🇨🇷",
-    "hora": "desde la madrugada (manifestación en curso)",
-    "fecha": "2026-09-07",
-    "lugar": "Afueras de Casa Presidencial, Zapote, San José, Costa Rica",
-    "tipoAccion": "manifestación / bloqueo de calles / plantón",
-    "organizaciones": [
-      "Transportistas (traileros) independientes costarricenses",
-      "Cámara Costarricense de Transportistas Unitarios"
-    ],
-    "motivo": "Un grupo de transportistas (traileros) independientes de Costa Rica se manifiesta desde la madrugada de este lunes 7 de septiembre en los alrededores de Casa Presidencial en Zapote, en reclamo de mejores condiciones laborales y contra la competencia de los transportistas centroamericanos, que —denuncian— mueven el 72% de la carga en el país. Exigen a la presidenta Laura Fernández regular la igualdad de condiciones laborales. La Policía de Tránsito confirmó el cierre de calles alrededor de Casa Presidencial y recomendó rutas alternas. Los manifestantes advirtieron que podrían permanecer hasta cuatro días hasta ser atendidos.",
-    "status": "en_curso",
-    "lat": 9.9281,
-    "lng": -84.0907,
-    "fuentes": [
-      "https://www.nacion.com/el-pais/transportistas-se-manifiestan-frente-a-casa/NULKMSAEXJCPNNESAK5Q7WI5HI/story/",
-      "https://www.nacion.com/el-pais/transportistas-denuncian-que-el-72-de-la-carga-en/YW6IBBG4TFGDTCST6GAP66TYEI/story/"
-    ],
-    "createdAt": "2026-09-07T18:05:04.000Z",
-    "updatedAt": "2026-09-07T21:46:28Z"
+    "createdAt": "2026-09-08T00:03:26.000Z",
+    "updatedAt": "2026-09-08T00:11:00Z"
   }
 ]
