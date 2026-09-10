@@ -1,307 +1,102 @@
 [
   {
-    "id": "ar-2026-09-07-sutef-huelga-indefinida-tierra-del-fuego",
+    "id": "ar-2026-09-10-cgt-paro-general",
     "seccion": "protestas_ar",
     "pais": "Argentina",
     "bandera": "🇦🇷",
-    "hora": "huelga por tiempo indeterminado, día 37 (6.ª semana): jornada de lucha y asambleas en toda la provincia; a las 13:00 SUTEF moviliza y participa del debate en la Comisión de Educación de la Legislatura fueguina (San Martín 1431, Ushuaia); el jueves 10 se retoma el cuarto intermedio en Casa de Gobierno a las 10:00 y hay 'maestrazo provincial' convocado",
-    "fecha": "2026-09-09",
-    "lugar": "Tierra del Fuego, Argentina: Casa de Gobierno (Ushuaia), acampe frente al Ministerio de Educación (Río Grande), acampe en la Delegación de Gobierno (Tolhuin) y Comisión de Educación de la Legislatura en San Martín 1431 (Ushuaia)",
-    "tipoAccion": "huelga general docente por tiempo indeterminado / asambleas, movilizaciones y acampes",
+    "hora": "paro general de 24 horas desde la medianoche; sin movilización oficial de la central; medida en rechazo a la Reforma Laboral y por deterioro salarial",
+    "fecha": "2026-09-10",
+    "lugar": "Todo el país, Argentina (medida nacional sin concentración central oficial)",
+    "tipoAccion": "paro general de 24 horas / huelga general contra la Reforma Laboral",
+    "organizaciones": [
+      "CGT (Confederación General del Trabajo)"
+    ],
+    "motivo": "La CGT lleva adelante este jueves 10 de septiembre su cuarto paro general desde la asunción de Javier Milei, convocado por 24 horas y sin movilización oficial de la central. La medida tiene como eje el rechazo al proyecto de Reforma Laboral debatido en la Cámara de Diputados, que la central sindical califica como el mayor retroceso en materia de legislación laboral. La CGT también denuncia la pérdida del poder adquisitivo de salarios y jubilaciones, la calamitosa caída de empleo en las PyMEs y la falta de acuerdo en el Consejo del Salario Mínimo, Vital y Móvil. Es el cuarto paro general contra la gestión libertaria, tras los realizados en 2024 y febrero de 2026.",
+    "status": "en_curso",
+    "lat": -34.6037,
+    "lng": -58.3816,
+    "fuentes": [
+      "https://www.degremiales.com/La-Confederacion-General-del-Trabajo-concreta-su-cuarto-paro-general-contra-la-gestion-de-Javier-Milei-4432",
+      "https://www.eldestapeweb.com/politica/cuando-paro-cgt-gobierno-javier-milei-motivos-20269214235",
+      "https://www.cronista.com/informacion-gral/paro-nacional-de-la-cgt-que-servicios-podrian-verse-afectados-que-pasaria-con-los-colectivos-y-trenes-y-cuando-seria-la-medida-de-fuerza/"
+    ],
+    "createdAt": "2026-09-10T03:08:55.000Z",
+    "updatedAt": "2026-09-10T03:13:15Z"
+  },
+  {
+    "id": "ar-2026-09-10-ate-paro-nacional",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "paro nacional de 24 horas desde la medianoche en la administración pública; movilizaciones en las principales ciudades del país",
+    "fecha": "2026-09-10",
+    "lugar": "Todo el país, Argentina: administración pública nacional, provincial y municipal; movilizaciones en las principales ciudades",
+    "tipoAccion": "paro nacional de 24 horas en la administración pública / movilizaciones sindicales",
+    "organizaciones": [
+      "ATE (Asociación Trabajadores del Estado)"
+    ],
+    "motivo": "ATE lleva adelante un paro nacional de 24 horas en la administración pública, con movilizaciones en las principales ciudades del país. La medida es continuación del plan de lucha iniciado con el paro del 9 de septiembre en el marco del FreSU. Los reclamos centrales incluyen la reincorporación del personal despedido en la administración pública, la reapertura urgente de las negociaciones salariales, el restablecimiento de los programas estatales dados de baja, el rechazo al acuerdo entre el Gobierno y UPCN por cargos en la Alta Dirección Pública y el repudio al piso fijado en el Consejo del Salario Mínimo, Vital y Móvil. El alcance se concentra en organismos estatales; la operatividad del transporte público dependerá de cada gremio sectorial.",
+    "status": "en_curso",
+    "lat": -34.6037,
+    "lng": -58.3816,
+    "fuentes": [
+      "https://www.cronista.com/informacion-gral/paro-nacional-el-10-de-septiembre-ate-confirmo-una-medida-que-afectara-a-decenas-de-servicios-que-pasara-con-colectivos-trenes-y-subtes/",
+      "https://ate.org.ar/",
+      "https://www.degremiales.com/ATE-inicio-el-paro-nacional-y-advirtio-que-la-Reforma-Laboral-pondra-en-riesgo-la-paz-social-4464"
+    ],
+    "createdAt": "2026-09-10T03:08:55.000Z",
+    "updatedAt": "2026-09-10T03:13:15Z"
+  },
+  {
+    "id": "ar-2026-09-10-sutef-maestrazo-tdf",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "maestrazo provincial convocado para todo el día; asambleas y movilizaciones en Ushuaia, Río Grande y Tolhuin; a las 10:00 cuarto intermedio en Casa de Gobierno (Ushuaia)",
+    "fecha": "2026-09-10",
+    "lugar": "Tierra del Fuego, Argentina: Casa de Gobierno (Ushuaia), acampe frente al Ministerio de Educación (Río Grande), acampe en la Delegación de Gobierno (Tolhuin)",
+    "tipoAccion": "huelga general docente por tiempo indeterminado (día 38) / maestrazo provincial convocado para no tener 'una sola escuela funcionando'",
     "organizaciones": [
       "SUTEF (Sindicato Unificado de Trabajadoras y Trabajadores de la Educación Fueguina)",
       "FreSU (Frente de Sindicatos Unidos)",
       "ATE Nacional (respaldo)"
     ],
-    "motivo": "Continúa este miércoles 9 de septiembre, en su día 37 y sexta semana consecutiva, la huelga por tiempo indeterminado de la docencia fueguina, el conflicto docente más largo de la última década en la provincia. SUTEF, convocado por la Comisión de Educación de la Legislatura, moviliza este miércoles a San Martín 1431 (Ushuaia), donde a las 13:00 se debaten dos proyectos de Ley de Financiamiento Educativo, en una de las jornadas que el sindicato definió como determinantes junto al jueves 10, cuando se retomará el cuarto intermedio con el Ejecutivo en Casa de Gobierno a las 10:00 y SUTEF convocó a un 'maestrazo provincial' bajo la consigna de que 'no tiene que haber una sola escuela funcionando', en la previa del Día del Maestro. SUTEF denuncia la eliminación de 192.000 horas cátedra (una quita del 16%) en el presupuesto provincial 2027 y el congelamiento de 6.950 cargos, y mantiene los acampes permanentes en las tres ciudades (Río Grande, Tolhuin y Ushuaia). La docencia rechazó la oferta salarial del gobierno de Gustavo Melella ($59.000 en cuatro meses, con sumas no remunerativas que no alcanzan a los jubilados) y exige recomposición salarial, la devolución de los días descontados, la reapertura de la paritaria y el tratamiento de la Ley de Financiamiento Educativo. La medida cuenta con el respaldo de ATE Nacional y del FreSU.",
+    "motivo": "Continúa este jueves 10 de septiembre, en su día 38 y sexta semana consecutiva, la huelga por tiempo indeterminado de la docencia fueguina, el conflicto docente más largo de la última década en la provincia. SUTEF convocó un 'maestrazo provincial' bajo la consigna de que 'no tiene que haber una sola escuela funcionando', en la previa del Día del Maestro. A las 10:00 se retoma el cuarto intermedio con el Ejecutivo en Casa de Gobierno. SUTEF denuncia la eliminación de 192.000 horas cátedra (una quita del 16%) en el presupuesto provincial 2027 y el congelamiento de 6.950 cargos, y mantiene los acampes permanentes en las tres ciudades. La docencia rechazó la oferta salarial del gobierno de Gustavo Melella ($59.000 en cuatro meses) y exige recomposición salarial, la devolución de los días descontados, la reapertura de la paritaria y el tratamiento de la Ley de Financiamiento Educativo.",
     "status": "en_curso",
     "lat": -54.8019,
     "lng": -68.303,
     "fuentes": [
-      "https://sutef.org/continua-el-paro-por-tiempo-indeterminado-8-9-asambleas-organizativas/",
-      "https://19640noticias.com/contenido/102563/paro-docente-tierra-del-fuego-gobierno-sutef-cuarto-intermedio-jueves",
-      "http://www.opisantacruz.com.ar/2026/09/08/sutef-ratifica-paro-y-exige-frenar-el-recorte-de-hora/",
-      "https://www.actualidadtdf.com.ar/continua-el-paro-docente-por-tiempo-indeterminado-y-las-negociaciones-paritarias-pasaron-a-cuarto-intermedio/",
-      "https://www.radiofueguina.com/2026/09/docentes-realizan-una-retencion-de-servicios-por-pago-fuera-de-tiempo/",
-      "https://www.infofueguina.com/tu-ciudad/2026/9/6/el-sutef-acuso-la-provincia-de-estirar-el-conflicto-inicia-la-sexta-semana-de-paro-indeterminado-89725.html",
-      "https://argentina.indymedia.org/2026/09/07/tierra-del-fuego-comienza-sexta-semana-de-paro-docente-y-hay-nueva-reunion-con-el-gobierno/",
-      "https://www.surenio.com.ar/sutef-cumple-el-dia-37-de-paro-por-tiempo-indeterminado/"
+      "https://riograndeplus.com.ar/featured/sutef-convoco-a-una-nueva-jornada-provincial-de-protesta-para-el-jueves/",
+      "https://sutef.org/agenda-gremial-sep2025/",
+      "https://19640noticias.com/contenido/102563/paro-docente-tierra-del-fuego-gobierno-sutef-cuarto-intermedio-jueves"
     ],
-    "createdAt": "2026-09-05T00:26:12.000Z",
-    "updatedAt": "2026-09-10T00:06:12Z"
+    "createdAt": "2026-09-10T03:08:55.000Z",
+    "updatedAt": "2026-09-10T03:13:15Z"
   },
   {
-    "id": "ar-2026-09-07-adiuc-semana-protesta-cordoba",
+    "id": "ar-2026-09-10-bomberos-sirenazo-nacional",
     "seccion": "protestas_ar",
     "pais": "Argentina",
     "bandera": "🇦🇷",
-    "hora": "semana de protesta y organización (7 al 11 de septiembre, 3.er día este miércoles): asambleas por lugar de trabajo y abandono de tareas en la UNC, continúa este miércoles 9",
-    "fecha": "2026-09-09",
-    "lugar": "Universidad Nacional de Córdoba (UNC), Córdoba, y universidades nacionales de todo el país, Argentina",
-    "tipoAccion": "semana de protesta universitaria / asambleas por lugar de trabajo y abandono de tareas",
+    "hora": "10:00 (sirenazo simultáneo en todos los cuarteles del país; guardias activas durante la protesta)",
+    "fecha": "2026-09-10",
+    "lugar": "Todo el país, Argentina: más de 1.000 cuarteles de bomberos voluntarios de las 29 federaciones provinciales",
+    "tipoAccion": "sirenazo nacional / protesta simultánea de bomberos voluntarios",
     "organizaciones": [
-      "ADIUC (Asociación de Docentes e Investigadores de la UNC)",
-      "Frente Sindical Universitario Nacional (CONADU, CONADU Histórica, FEDUBA, FATUN)",
-      "Comunidad universitaria"
+      "Consejo de Federaciones de Bomberos Voluntarios de la República Argentina",
+      "29 federaciones provinciales de bomberos voluntarios"
     ],
-    "motivo": "Continúa este miércoles 9 de septiembre la 'Semana de Protesta y Organización' (7 al 11 de septiembre) impulsada por ADIUC en la Universidad Nacional de Córdoba, con asambleas por lugar de trabajo y abandono de tareas, en el marco del reclamo de una recomposición salarial del 31,2%, el pago del FONID, el blanqueo de sumas no remunerativas y el cumplimiento de la Ley de Financiamiento Universitario. La jornada de este miércoles se enmarca en el plan de lucha del Frente Sindical Universitario Nacional tras el paro nacional de 24 horas del martes 8, el fracaso de la paritaria del 1° de septiembre y el rechazo de la oferta del 3% para ese mes. El plan continúa el martes 15/9 con la jornada nacional de clases públicas 'La universidad en la calle' y un acto en Palacio Pizzurno el 17/9. La V Marcha Federal Universitaria está prevista para la primera semana de octubre.",
+    "motivo": "Este jueves 10 de septiembre a las 10:00 las sirenas de más de 1.000 cuarteles de bomberos voluntarios de todo el país sonarán simultáneamente en una protesta contra el Gobierno nacional. El reclamo principal es la transferencia de fondos establecidos por la Ley N.º 25.054 que permanecen sin distribuir (remanente del ejercicio 2025 y anteriores por $59.330 millones). Además, exigen la inclusión de convenios obligatorios y compensación por emergencias en rutas concesionadas, la resolución de las dificultades para adquirir vehículos de emergencia en el exterior (problema con la DU128) y la devolución del IVA. La protesta será pacífica y las guardias permanecerán activas durante el sirenazo, garantizando la atención de emergencias.",
     "status": "en_curso",
-    "lat": -31.4201,
-    "lng": -64.1888,
+    "lat": -34.6037,
+    "lng": -58.3816,
     "fuentes": [
-      "https://adiuc.org.ar/2026/09/04/paro-total/",
-      "https://adiuc.org.ar/2026/09/03/semana-de-protesta-y-organizacion-7-al-11-9/",
-      "https://www.perfil.com/temas/unc",
-      "https://cadenalaser.com/nota/paro-total-en-las-universidades-este-martes-la-unc-adhiere-y-profunda-las-protestas-durante-toda-la-semana",
-      "https://gestionsindical.com/universidades-este-martes-hay-otro-paro-nacional-las-medidas-fuerza-seguiran-semana-proxima/",
-      "https://www.lagaceta.com.ar/nota/1153031/sociedad/paro-universitario-docentes-nodocentes-ratificaron-huelga-hoy.html",
-      "https://www.infoplatense.com.ar/paro-universitario-unlp-8-septiembre-marcha-federal/",
-      "https://www.agenciacomunas.com.ar/gremios-docentes-y-nodocentes-ratifican-el-paro-universitario-de-este-martes-y-preparan-una-nueva-marcha-federal/",
-      "https://www.lavoz.com.ar/ciudadanos/paro-universitario-cordoba-docentes-docentes-frenan-actividades-preparan-nueva-marcha-federal_0_p8YA2ZbTo3.html"
+      "https://elresaltador.com.ar/bomberos-voluntarios-haran-sonar-las-sirenas-en-todo-el-pais-contra-el-gobierno/",
+      "https://www.bomberosra.org.ar/2026/09/03/sirenazo-de-bomberos-voluntarios-en-todo-el-pais.html",
+      "https://www.resumenlatinoamericano.org/2026/09/09/argentina-sirenazo-nacional-los-bomberos-voluntarios-reclaman-al-gobierno-casi-60-mil-millones-y-saldran-a-la-calle/"
     ],
-    "createdAt": "2026-09-07T01:17:18.000Z",
-    "updatedAt": "2026-09-10T00:06:12Z"
-  },
-  {
-    "id": "ar-2026-09-09-libres-sur-movilizacion-congreso-tasas",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "movilización al mediodía frente al Congreso Nacional para acompañar la sesión de Diputados que inicia el debate sobre las tasas de interés",
-    "fecha": "2026-09-09",
-    "lugar": "Congreso de la Nación Argentina, Av. Rivadavia y Callao, Ciudad Autónoma de Buenos Aires, Argentina",
-    "tipoAccion": "movilización / concentración frente al Congreso contra las tasas de interés",
-    "organizaciones": [
-      "Libres del Sur"
-    ],
-    "motivo": "Este miércoles 9 de septiembre al mediodía Libres del Sur realiza una movilización al Congreso Nacional para acompañar la sesión de la Cámara de Diputados en la que comienza el debate para 'frenar las tasas usurarias', tercer y último capítulo de su semana de protesta (boicot del lunes 7 a Mercado Libre, Mercado Pago y Mercado Crédito; escraches del martes 8 a bancos del conurbano bonaerense; movilización de hoy al Congreso). La convocatoria coincide con el pedido de sesión especial motorizado por los bloques opositores para emplazar a las comisiones a dictaminar los proyectos de combate a la morosidad familiar y la prórroga de la emergencia en Discapacidad. La organización denuncia que el Gobierno de Javier Milei habilitó que las tarjetas de crédito y las billeteras virtuales subieran sus tasas 'hasta 40 veces la inflación anual' (Mercado Crédito con un Costo Financiero Total cercano al 1.375%), y exige refinanciación y devolución de los intereses exorbitantes. Señala además la pérdida de poder adquisitivo de salarios y jubilaciones y los más de 300.000 despidos registrados en el país.",
-    "status": "en_curso",
-    "lat": -34.6097,
-    "lng": -58.3923,
-    "fuentes": [
-      "https://www.lanoticiaweb.com.ar/libres-del-sur-anuncio-medidas-contra-mercado-pago-por-las-tasas-usurarias/",
-      "https://tn.com.ar/politica/2026/09/06/gremios-y-organizaciones-sociales-se-manifestaran-esta-semana-por-el-endeudamiento-y-la-situacion-de-los-jubilados/",
-      "https://www.newsdigitales.com/nota/344111/libres-del-sur-vuelve-a-la-carga-contra-milei-caputo-y-galperin-por-las-tasas-usurarias/",
-      "https://gestionsindical.com/marcha-al-congreso-boicot-protestar-los-intereses-usurarios-mercado-pago-los-bancos/",
-      "https://sectorprensa.com.ar/morosidad-familiar-libres-del-sur-convoco-a-realizar-acciones-contra-el-gobierno-bancos-y-billeteras-virtuales",
-      "https://comunicadoreslp.com.ar/tasas-de-interes-deudas-libres-del-sur-con-dos-jornadas-caliente-protesta-a-los-bancos-y-movilizacion-al-congreso/",
-      "https://www.minutouno.com/politica/organizaciones-sociales-se-movilizan-al-congreso-este-miercoles-las-familias-endeudadas-n6320075",
-      "https://www.noticiasdelacalle.com.ar/noticias/2026/09/09/193520-movimientos-sociales-marcharan-hoy-al-congreso-por-los-endeudados",
-      "https://cholilaonline.ar/2026/09/marcha-masiva-al-congreso-para-pedir-leyes-de-alivio-a-las-familias-endeudadas-apuntan-contra-el-gobierno-y-tasas-de-mercado-libre-enterate-de-todo.html"
-    ],
-    "createdAt": "2026-09-09T01:13:31.000Z",
-    "updatedAt": "2026-09-10T00:06:12Z"
-  },
-  {
-    "id": "ar-2026-09-09-conicet-rosario-nofiesta-ingresos",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "11:00 (protesta irónica 'no-fiesta' de cumpleaños con muestra de reivindicaciones; coincide con la reunión del Directorio del CONICET)",
-    "fecha": "2026-09-09",
-    "lugar": "Sede del CCT CONICET Rosario, intersección Ocampo y Esmeralda (Ocampo 100 bis), Rosario, provincia de Santa Fe, Argentina",
-    "tipoAccion": "protesta / movilización por la efectivización de ingresos paralizados del CONICET (Jornada Nacional de Lucha)",
-    "organizaciones": [
-      "ATE Rosario",
-      "Colectivo de Ingresantes CONICET",
-      "Comunidad científica y técnica"
-    ],
-    "motivo": "Este miércoles 9 de septiembre a las 11 la comunidad científica de Rosario realiza una protesta con tono irónico bajo la consigna 'La ciencia no está para fiestitas' y el 'tercer cumpleaños esperando los ingresos', frente a la sede del CCT CONICET Rosario (Ocampo y Esmeralda), en el marco de una Jornada Nacional de Lucha. La convocatoria, impulsada por ATE Rosario y el colectivo de Ingresantes CONICET con la presencia del 'Ejército Popular de Payasxs', busca visibilizar a más de mil investigadores y técnicos que concursaron pero no son efectivizados por la falta de firmas del presidente del CONICET, Daniel Salamone, bajo la gestión de Javier Milei. La manifestación coincide con la reunión del Directorio del organismo, momento en que los trabajadores elevan un pliego de reivindicaciones: el alta inmediata de todas las incorporaciones pendientes en la CIC y la Carrera del Personal de Apoyo (CPA), la extensión de prórrogas para becarios posdoctorales postulados y una recomposición salarial urgente para todo el personal científico-técnico. La protesta rosarina se enmarca en la Jornada Nacional de Lucha que este miércoles movilizó a más de 1.000 investigadores y trabajadores del sistema científico en el Polo Científico Tecnológico de Palermo (CABA) y en los CCT de Mar del Plata, Bahía Blanca, Puerto Madryn, Comodoro Rivadavia y otras ciudades del país.",
-    "status": "en_curso",
-    "lat": -32.9442,
-    "lng": -60.6504,
-    "fuentes": [
-      "https://www.rosario3.com/informaciongeneral/la-ciencia-no-esta-para-fiestitas-conicet-rosario-prepara-original-protesta-esta-semana-20260907-0042.html",
-      "https://11noticias.com/gremial/cientificos-del-conicet-se-movilizan-en-todo-el-pais-y-reclaman-en-rosario-por-ingresos-frenados-desde-2023_52110"
-    ],
-    "createdAt": "2026-09-09T01:13:31.000Z",
-    "updatedAt": "2026-09-10T00:06:12Z"
-  },
-  {
-    "id": "ar-2026-09-09-jubilados-marcha-congreso",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "concentración a partir de las 15:00 en Av. Rivadavia y Rodríguez Peña; marcha hacia el Congreso Nacional (movilización semanal de los miércoles)",
-    "fecha": "2026-09-09",
-    "lugar": "Frente al Congreso de la Nación Argentina, Av. Rivadavia y Rodríguez Peña / Plaza de los Dos Congresos, Ciudad Autónoma de Buenos Aires, Argentina",
-    "tipoAccion": "movilización semanal de jubilados / marcha al Congreso",
-    "organizaciones": [
-      "Plenario de Trabajadores Jubilados",
-      "Organizaciones de jubilados y pensionados autoconvocados"
-    ],
-    "motivo": "Este miércoles 9 de septiembre los y las jubilados vuelven a concentrarse, como cada miércoles desde hace meses, frente al Congreso Nacional para reclamar un aumento de emergencia de los haberes previsionales, la restitución de los medicamentos sin cargo y el financiamiento del PAMI, en el marco de una movilización semanal que reúne a organizaciones de jubilados y pensionados autoconvocados. La jornada de este miércoles volvió a terminar con incidentes: mientras la movilización avanzaba por la avenida Rivadavia, las fuerzas de seguridad activaron el protocolo antipiquete, hubo empujones y gases lacrimógenos, una jubilada de avanzada edad se descompensó en plena vía pública (asistida por la Cruz Roja) y el padre 'Paco' Olveira, de Curas en Opción por los Pobres, responsabilizó a los efectivos del operativo; al menos dos manifestantes fueron demorados. En la misma jornada confluyó frente al Congreso el Foro Permanente de Discapacidad, que marchó por la prórroga de la Ley de Emergencia Nacional en Discapacidad. El conflicto previsional continúa en plena vigencia: la jubilación mínima de septiembre asciende a $428.633,20 más un bono de $70.000 (un total de $498.633,20 de bolsillo), que las organizaciones consideran insuficiente frente a la pérdida real del poder adquisitivo, y denuncian el 'vaciamiento' del PAMI bajo la gestión de Javier Milei.",
-    "status": "en_curso",
-    "lat": -34.6097,
-    "lng": -58.3923,
-    "fuentes": [
-      "https://elargentinodiario.com.ar/politica/13/04/2026/jubilados-marcharan-al-pami-y-al-congreso-este-miercoles",
-      "https://www.diariopopular.com.ar/politica/congreso-la-nacion-los-jubilados-marcharon-junto-la-cgt-y-las-cta-n911013",
-      "https://argentina.indymedia.org/2026/09/04/miercoles-de-jubilados-lucha-y-solidaridad-como-banderas",
-      "https://www.filo.news/noticia/2026/07/22/los-jubilados-marcharon-al-congreso-con-el-respaldo-de-la-cgt-y-organizaciones-sociales",
-      "https://www.ambito.com/informacion-general/los-jubilados-realizaran-una-nueva-marcha-frente-al-congreso-el-miercoles-n6147466",
-      "https://www.minutouno.com/sociedad/otro-miercoles-represion-una-jubilada-se-descompenso-y-el-padre-paco-olveira-estallo-contra-los-policias-n6320447"
-    ],
-    "createdAt": "2026-09-09T01:13:31.000Z",
-    "updatedAt": "2026-09-10T00:06:12Z"
-  },
-  {
-    "id": "ar-2026-09-09-multisectorial-chaco-movilizacion",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "18:30 (concentración central en el mástil de la avenida 9 de Julio, Resistencia; réplicas simultáneas en todas las plazas del interior provincial)",
-    "fecha": "2026-09-09",
-    "lugar": "Mástil de la avenida 9 de Julio, plaza 25 de Mayo, Resistencia, provincia del Chaco, Argentina (y plazas centrales de todo el interior provincial)",
-    "tipoAccion": "movilización multisectorial / concentración y marcha hacia sedes gubernamentales",
-    "organizaciones": [
-      "Multisectorial de los Trabajadores del Chaco",
-      "Arco Gremial Docente (Atech, Utre-Ctera, Federación Sitech, Sadop, Amet, Fiud, UDA, Achabi, Sech, Sitech Sudeste, Fesidoch, Adoch)",
-      "APTASCH (Asociación de Profesionales, Técnicos y Auxiliares de Salud Pública del Chaco)",
-      "CTA Chaco"
-    ],
-    "motivo": "Este miércoles 9 de septiembre a las 18:30 la Multisectorial de los Trabajadores, el Arco Gremial Docente, APTASCH y la CTA convocaron a una jornada de protesta con concentración central en el mástil de la avenida 9 de Julio en Resistencia y réplicas en todas las plazas del interior chaqueño, bajo el lema 'Por un Chaco con trabajo, derechos y justicia social'. El pliego de reclamos incluye: recomposición salarial urgente ante una pérdida del poder adquisitivo superior al 35%, el tratamiento de una ley de desendeudamiento para las familias y la implementación de tarifas de servicios públicas diferenciadas según la región. Los docentes denuncian el incumplimiento del artículo 47 de la Ley 647 E (de rango constitucional) que obliga a la actualización salarial, y un fallo judicial del 18 de marzo que ordena al Gobierno provincial restituir la cláusula gatillo. APTASCh denuncia salarios de indigencia y precarización en la salud pública, y cuestiona la reducción del vademécum de la obra social del Insssep. Los manifestantes marcharán hacia las sedes gubernamentales y advirtieron que, de no ser escuchados, evaluarán nuevas medidas de fuerza.",
-    "status": "en_curso",
-    "lat": -27.4516,
-    "lng": -59.0354,
-    "fuentes": [
-      "https://www.eschaco.com/vernota.asp?id_noticia=133476",
-      "https://www.diariolavozdelchaco.com/2026/09/05/gremios-estatales-y-docentes-preparan-una-movilizacion-multisectorial/",
-      "https://charatachaco.net/2026/09/04/politica/aptasch-movilizacion-salarios-pobreza-septiembre-2026/",
-      "https://www.eldestapeweb.com/politica/trabajadores-salud-publica-chaco-marchan-precarizacion-laboral-zdero-20269816621",
-      "https://educacion-yalgomas.blogspot.com/2026/09/el-arco-gremial-docente-convoca-una.html",
-      "https://www.eldestapeweb.com/politica/crisis-sanitaria-chaco-colapso-sector-privado-ajuste-insssep-acorralan-zdero-202699164018"
-    ],
-    "createdAt": "2026-09-09T06:25:58.000Z",
-    "updatedAt": "2026-09-10T00:06:12Z"
-  },
-  {
-    "id": "ar-2026-09-09-ate-paro-movilizacion-reforma-laboral",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "paro nacional de 24 horas desde la medianoche; concentración central desde las 10:00 en Salta y Av. de Mayo, CABA, con columnas que avanzan hacia el Congreso Nacional mientras el Senado debate la Reforma Laboral y la Ley Penal Juvenil (movilización masiva sindical en los alrededores del Parlamento durante toda la jornada; pasadas las 14 un grupo de encapuchados encendió fuego a un cajón de madera, con intervención del camión hidrante y desconcentración de la mayoría de los manifestantes)",
-    "fecha": "2026-09-09",
-    "lugar": "Congreso de la Nación Argentina (Av. Rivadavia y Callao) y concentración en Salta y Av. de Mayo, Ciudad Autónoma de Buenos Aires; réplicas en todo el país, Argentina",
-    "tipoAccion": "paro nacional de 24 horas en la administración pública / movilización sindical al Congreso contra la Reforma Laboral",
-    "organizaciones": [
-      "ATE (Asociación Trabajadores del Estado)",
-      "FreSU (Frente de Sindicatos Unidos)",
-      "UOM (Unión Obrera Metalúrgica)",
-      "CTA Autónoma",
-      "CTA de los Trabajadores",
-      "Gremios del transporte y aceiteros"
-    ],
-    "motivo": "Este miércoles 9 de septiembre ATE lleva adelante un paro nacional de 24 horas en la administración pública, que puso en marcha desde la medianoche con alto nivel de adhesión en distintos puntos del país, en el marco de la movilización convocada por el FreSU al Congreso Nacional mientras el Senado debate la Reforma Laboral y la Ley Penal Juvenil impulsadas por el Gobierno de Javier Milei. La concentración central comenzó a las 10 en la intersección de Salta y Avenida de Mayo, desde donde las columnas (ATE, UOM, Aceiteros, las dos CTA y decenas de gremios) avanzaron hacia el Parlamento, en una jornada que dejó postales virales como la de un manifestante disfrazado de 'Spiderman' junto a las columnas de la UOM. El secretario general de ATE, Rodolfo Aguiar, calificó el proyecto de 'ley incendiaria' que 'pondrá en riesgo la paz social', sostuvo que representa 'el mayor retroceso en materia de legislación laboral que se recuerde' y anticipó que el plan de lucha continuará si el Congreso avanza con la aprobación. El oficialismo consiguió el quórum para avanzar con el tratamiento de ambos proyectos. Pasadas las 14 horas, un grupo de encapuchados encendió fuego a un cajón de madera, lo que derivó en la intervención del camión hidrante y la desconcentración de la mayor parte de los manifestantes, mientras varios gremios decidieron retirarse para no quedar asociados a hechos de violencia. La CGT convocó además un paro general de 24 horas para el jueves 10 de septiembre, sin movilización oficial de la central.",
-    "status": "en_curso",
-    "lat": -34.6097,
-    "lng": -58.3923,
-    "fuentes": [
-      "https://www.degremiales.com/ATE-inicio-el-paro-nacional-y-advirtio-que-la-Reforma-Laboral-pondra-en-riesgo-la-paz-social-4464",
-      "https://www.degremiales.com/Reforma-Laboral-en-el-Senado-fuerte-movilizacion-sindical-y-hasta-Spiderman-aparecio-en-defensa-de-los-trabajadores-junto-a-la-UOM-4469",
-      "https://www.degremiales.com/Jorge-Sola-defendio-el-paro-y-cargo-contra-la-reforma-El-articulo-de-licencias-es-la-punta-del-iceberg-4431"
-    ],
-    "createdAt": "2026-09-09T19:07:46.000Z",
-    "updatedAt": "2026-09-10T00:06:12Z"
-  },
-  {
-    "id": "ar-2026-09-09-foro-permanente-discapacidad-marcha-congreso",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "concentración y marcha a partir de las 11:00 frente al Congreso de la Nación",
-    "fecha": "2026-09-09",
-    "lugar": "Plaza del Congreso de la Nación Argentina, Av. Rivadavia y Callao, Ciudad Autónoma de Buenos Aires, Argentina",
-    "tipoAccion": "marcha / movilización por la prórroga de la Ley de Emergencia Nacional en Discapacidad",
-    "organizaciones": [
-      "Foro Permanente de Discapacidad",
-      "Organizaciones de personas con discapacidad y familias"
-    ],
-    "motivo": "El Foro Permanente de Discapacidad convocó este miércoles 9 de septiembre a una marcha frente al Congreso de la Nación a partir de las 11 para reclamar la prórroga de la ley 27.793 de Emergencia Nacional en Discapacidad 'Ricardo Pristupluk', vigente hasta el 31 de diciembre. La movilización coincide con el intento de la oposición de dictaminar ese mismo día (previsto para las 12) un nuevo proyecto en la Cámara de Diputados, con números ajustados de quórum (se precisan 129 diputados), y con el pedido de sesión especial para tratar la morosidad familiar. La convocatoria busca que la prórroga de la emergencia y el financiamiento del sistema de discapacidad estén en la agenda y sean prioridad para las autoridades nacionales.",
-    "status": "en_curso",
-    "lat": -34.6097,
-    "lng": -58.3923,
-    "fuentes": [
-      "https://www.lanacion.com.ar/sociedad/a-que-hora-es-la-marcha-por-discapacidad-de-este-miercoles-9-de-septiembre-en-el-congreso-nid08092026/",
-      "https://www.minutouno.com/politica/organizaciones-sociales-se-movilizan-al-congreso-este-miercoles-las-familias-endeudadas-n6320075",
-      "https://www.cin.edu.ar/declaracion-de-la-rid-del-cin-ante-el-tratamiento-de-la-prorroga-de-la-ley-de-emergencia-en-discapacidad/",
-      "https://www.baenegocios.com/politica/deudas-de-tarjetas-prestamos-y-discapacidad-que-voto-diputados-y-que-falta-aprobar/"
-    ],
-    "createdAt": "2026-09-09T21:54:57.000Z",
-    "updatedAt": "2026-09-10T00:06:12Z"
-  },
-  {
-    "id": "ar-2026-09-09-marcha-sindical-federal-gta-tres-arroyos",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "11:00 (concentración en Hipólito Yrigoyen y Piedras y marcha hacia la Secretaría de Trabajo de la Nación)",
-    "fecha": "2026-09-09",
-    "lugar": "Concentración en Hipólito Yrigoyen y Piedras y marcha hacia la Secretaría de Trabajo de la Nación (Av. Leandro N. Alem 650), Ciudad Autónoma de Buenos Aires, Argentina",
-    "tipoAccion": "marcha sindical federal / movilización laboral",
-    "organizaciones": [
-      "UATRE (Unión Argentina de Trabajadores Rurales y Estibadores)",
-      "Federación de la Alimentación",
-      "Federación de la Carne",
-      "UOMA (Unión Obrera Molinera Argentina)"
-    ],
-    "motivo": "Este miércoles 9 de septiembre la Federación de la Alimentación, UATRE, la Federación de la Carne y la UOMA realizan la 'Marcha Sindical Federal por el Grupo GTA de Tres Arroyos' hacia la Secretaría de Trabajo de la Nación, con concentración a las 11 en Hipólito Yrigoyen y Piedras (CABA), para defender más de 7.000 puestos de trabajo directos en riesgo en el Grupo GTA (Granja Tres Arroyos) y reclamar la intervención del Estado en el conflicto del grupo avícola.",
-    "status": "en_curso",
-    "lat": -34.6109,
-    "lng": -58.3715,
-    "fuentes": [
-      "https://www.apfdigital.com.ar/noticias/2026/09/09/469121-gremios-marchan-por-7000-empleos-en-riesgo-en-granja-tres-arroyos"
-    ],
-    "createdAt": "2026-09-09T21:54:57.000Z",
-    "updatedAt": "2026-09-10T00:06:12Z"
-  },
-  {
-    "id": "ar-2026-09-09-amsafe-concentracion-legislatura-santa-fe",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "11:00 (concentración en la explanada de la Legislatura provincial y entrega de petitorios)",
-    "fecha": "2026-09-09",
-    "lugar": "Explanada de la Legislatura de la Provincia de Santa Fe, Av. Gral. López 3055, ciudad de Santa Fe, Argentina",
-    "tipoAccion": "concentración / movilización docente por la derogación de la reforma previsional",
-    "organizaciones": [
-      "AMSAFE (Asociación del Magisterio de Santa Fe)"
-    ],
-    "motivo": "Este miércoles 9 de septiembre a las 11 los docentes activos y jubilados santafesinos nucleados en AMSAFE se concentran en la explanada de la Legislatura provincial para exigir la derogación de la reforma previsional que está por cumplir dos años, el fin del aporte solidario y aumentos simultáneos para activos y jubilados. Durante la jornada el gremio entrega los petitorios con 'miles y miles de firmas' de docentes de toda la provincia para pedir a los legisladores que den marcha atrás con la normativa.",
-    "status": "en_curso",
-    "lat": -31.6244,
-    "lng": -60.6987,
-    "fuentes": [
-      "https://www.lt10.com.ar/noticia/507574--dos-anos-de-la-reforma-previsional-amsafe-se-moviliza-a-la-legislatura",
-      "https://www.amsafelacapital.org.ar/index.php/previsionales-2/4015-por-nuestros-derechos-previsionales-9-9-a-las-11hs-concentracion-en-legislatura"
-    ],
-    "createdAt": "2026-09-09T21:54:57.000Z",
-    "updatedAt": "2026-09-10T00:06:12Z"
-  },
-  {
-    "id": "ar-2026-09-09-conicet-jornada-nacional-polo-cientifico",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "11:00 (concentración central en el Polo Científico Tecnológico de Palermo; movilizaciones simultáneas en los CCT de todo el país)",
-    "fecha": "2026-09-09",
-    "lugar": "Polo Científico Tecnológico, Godoy Cruz 2320, Palermo, Ciudad Autónoma de Buenos Aires, y réplicas en centros CCT de Mar del Plata, Bahía Blanca, Puerto Madryn, Comodoro Rivadavia y otras ciudades del país, Argentina",
-    "tipoAccion": "Jornada Nacional de Lucha / movilización de investigadores y personal científico-técnico por la efectivización de ingresos del CONICET",
-    "organizaciones": [
-      "Colectivo de Ingresantes CONICET",
-      "ATE",
-      "Comunidad científica y técnica"
-    ],
-    "motivo": "Más de 1.000 investigadores y trabajadores vinculados al CONICET se movilizan este miércoles 9 de septiembre en una Jornada Nacional de Lucha para reclamar la efectivización de los ingresos que, según denuncian, permanecen demorados desde 2023: en septiembre de 2023 al menos 850 investigadores y 100 integrantes del Personal de Apoyo fueron seleccionados por concurso para ingresar a la planta permanente y sus altas fueron suspendidas por la falta de firmas del presidente del organismo, Daniel Salamone, bajo la gestión de Javier Milei. La concentración principal se realiza desde las 11 en el Polo Científico Tecnológico (Palermo, CABA), con réplicas convocadas en distintos CCT y ciudades del país. El pliego exige la inmediata efectivización de los cargos concursados para la Carrera del Investigador Científico (CIC) y la Carrera del Personal de Apoyo (CPA), precisiones sobre las 400 incorporaciones presupuestadas para 2026, la restitución de becas, la extensión de prórrogas para becarios posdoctorales y el cese del vaciamiento presupuestario y la precarización del sistema científico público.",
-    "status": "en_curso",
-    "lat": -34.5869,
-    "lng": -58.4172,
-    "fuentes": [
-      "https://www.elbonaerense.news/2026/09/09/conicet-mas-de-1-000-investigadores-marchan-por-ingresos-demorados-desde-2023",
-      "https://11noticias.com/gremial/cientificos-del-conicet-se-movilizan-en-todo-el-pais-y-reclaman-en-rosario-por-ingresos-frenados-desde-2023_52110"
-    ],
-    "createdAt": "2026-09-09T21:54:57.000Z",
-    "updatedAt": "2026-09-10T00:06:12Z"
+    "createdAt": "2026-09-10T03:08:55.000Z",
+    "updatedAt": "2026-09-10T03:13:15Z"
   },
   {
     "id": "int-2026-09-08-albania-tirana-revolucion-flamenco",
@@ -309,44 +104,40 @@
     "pais": "Albania",
     "bandera": "🇦🇱",
     "hora": "17:00 (concentración diaria frente al Parlamento)",
-    "fecha": "2026-09-09",
+    "fecha": "2026-09-10",
     "lugar": "Frente al Parlamento (Kuvendi) y sede del primer ministro, Bulevar Dëshmorët e Kombit, Tirana, Albania",
-    "tipoAccion": "protesta diaria de ciudadanos / 102.º día de la Revolución del Flamenco",
+    "tipoAccion": "protesta diaria de ciudadanos / 103.º día de la Revolución del Flamenco",
     "organizaciones": [
       "Movimiento ciudadano 'Revolución del Flamenco'",
       "Activistas ambientales y de la sociedad civil albanesa"
     ],
-    "motivo": "Este miércoles 9 de septiembre se cumple el día 102 de la revuelta ciudadana contra el Gobierno de Edi Rama, con la protesta diaria de ciudadanos convocados nuevamente a las 17:00 frente al Parlamento (Kuvendi). Las protestas nocturnas, que comenzaron contra el megaproyecto de resort de lujo en la laguna protegida de Narta, en Zvërnec, vinculado a la empresa de Jared Kushner, mutaron en un rechazo general al Gobierno y exigen la renuncia del primer ministro. En el 100.º día (martes 8) se registraron choques con la policía frente al Parlamento, cuando los manifestantes desafiaron el cordón policial y arrojaron huevos y tomates a los agentes, coreando '¡Arresten a Rama!'; varias personas fueron detenidas. Para este 102.º día los activistas llaman a una participación masiva desde todas las ciudades del país y advierten de una escalada con actos de desobediencia civil durante septiembre.",
+    "motivo": "Este jueves 10 de septiembre se cumple el día 103 de la revuelta ciudadana contra el Gobierno de Edi Rama, con la protesta diaria de ciudadanos convocados nuevamente a las 17:00 frente al Parlamento (Kuvendi). Las protestas nocturnas, que comenzaron contra el megaproyecto de resort de lujo en la laguna protegida de Narta, en Zvërnec, vinculado a la empresa de Jared Kushner, mutaron en un rechazo general al Gobierno y exigen la renuncia del primer ministro. En la jornada del 102.º día (miércoles 9) los manifestantes marcharon desde la Plaza Skënderbej hacia la sede del primer ministro, se sentaron en la intersección del 21 de diciembre bloqueando el tránsito y continuaron hasta la Dirección de Policía de Tirana, donde se registraron tensiones y detenciones; SPAK presentó nuevos cargos contra la ministra Belinda Balluku. Los activistas llaman a una participación masiva desde todas las ciudades del país para el día 103 y advierten de una escalada con actos de desobediencia civil durante septiembre.",
     "status": "en_curso",
     "lat": 41.3317,
     "lng": 19.8172,
     "fuentes": [
-      "https://abcnews.com/International/wireStory/albanian-protests-kushner-linked-coastal-development-turn-violent-136283346",
-      "https://www.presstv.co.uk/Detail/2026/09/09/775943/Police-protesters-clash-Albania-tourism-project-Donald-Trump-family-",
-      "https://www.tag24.com/en/topic/world/albanias-flamingo-revolution-protests-over-trump-familys-luxury-resort-project-reach-100th-day-3530709",
+      "https://balkanweb.com/en/102-dite-proteste-nuk-ndalen-protestuesit-vazhdojne-marshimin/",
       "https://albeu.com/english/today-marks-the-101st-day-of-revolt-against-the-government-citizens-protest-outside-parliament/1002260/",
-      "https://www.balkanweb.com/en/Everyone-in-front-of-the-parliament-on-September-8th-at-1700-hours.Let%27s-unite-from-every-city.-This-political-class-does-not-represent-us./",
       "https://balkaninsight.com/2026/09/07/transformative-protest-100-days-on-what-has-albanias-flamingo-revolution-achieved/bi/",
-      "https://tvnworld.com/albanian-protests-against-kushner-linked-coastal-development-turn-violent-on-100th-day/",
-      "https://albaniandailynews.com/news/thousands-join-flamingo-revolution-protest-in-tirana-calling-for-albanian-pm-s-resignation"
+      "https://www.tag24.com/en/topic/world/albanias-flamingo-revolution-protests-over-trump-familys-luxury-resort-project-reach-100th-day-3530709"
     ],
     "createdAt": "2026-09-08T08:58:06.000Z",
-    "updatedAt": "2026-09-10T00:06:12Z"
+    "updatedAt": "2026-09-10T03:13:15Z"
   },
   {
     "id": "int-2026-09-08-marruecos-huelga-universitaria-72h",
     "seccion": "protestas_int",
     "pais": "Marruecos",
     "bandera": "🇲🇦",
-    "hora": "huelga nacional de 72 horas (8, 9 y 10 de septiembre): segundo día + sentada frente al Ministerio de Educación Superior en Rabat a las 11:00",
-    "fecha": "2026-09-09",
-    "lugar": "Instituciones de educación superior y administración central en todo Marruecos (sentada frente al Ministerio de Educación Superior en Rabat)",
+    "hora": "huelga nacional de 72 horas (8, 9 y 10 de septiembre): tercer y último día; boicot al inicio del curso universitario",
+    "fecha": "2026-09-10",
+    "lugar": "Instituciones de educación superior y administración central en todo Marruecos",
     "tipoAccion": "huelga nacional de 72 horas en educación superior / boicot al inicio del curso",
     "organizaciones": [
       "SNESUP (Sindicato Nacional de Enseñanza Superior y Empleados de Residencias Universitarias)",
       "Confederación Democrática del Trabajo (CDT)"
     ],
-    "motivo": "Este miércoles 9 de septiembre se cumple el segundo día de la huelga nacional de 72 horas (8, 9 y 10 de septiembre) en las instituciones de educación superior y la administración central de Marruecos convocada por el SNESUP (afiliado a la CDT), que este día realiza una sentada frente al Ministerio de Educación Superior, Investigación Científica e Innovación en Rabat a las 11:00. El programa de protesta incluye el boicot al inicio del curso universitario (1 al 14 de septiembre) y una segunda huelga nacional del 15 al 17 de septiembre. El sindicato protesta por la postergación de varias reivindicaciones profesionales y sociales del personal de las residencias universitarias.",
+    "motivo": "Este jueves 10 de septiembre se cumple el tercer y último día de la huelga nacional de 72 horas (8, 9 y 10 de septiembre) en las instituciones de educación superior y la administración central de Marruecos convocada por el SNESUP (afiliado a la CDT). El programa de protesta incluye el boicot al inicio del curso universitario (1 al 14 de septiembre) y una segunda huelga nacional del 15 al 17 de septiembre. El sindicato protesta por la postergación de varias reivindicaciones profesionales y sociales del personal de las residencias universitarias.",
     "status": "en_curso",
     "lat": 34.0209,
     "lng": -6.8416,
@@ -354,24 +145,24 @@
       "https://fesnews.media/321878/2026/09/02/"
     ],
     "createdAt": "2026-09-08T08:58:06.000Z",
-    "updatedAt": "2026-09-10T00:06:12Z"
+    "updatedAt": "2026-09-10T03:13:15Z"
   },
   {
     "id": "int-2026-09-08-india-telangana-bandh-educacion",
     "seccion": "protestas_int",
     "pais": "India",
     "bandera": "🇮🇳",
-    "hora": "cadena humana durante la jornada (programa semanal de protestas: bandh estatal el 8 de septiembre, cadena humana el 9, huelgas de hambre de relevo en las cabeceras distritales)",
-    "fecha": "2026-09-09",
-    "lugar": "Estado de Telangana, India: cadena humana en las cabeceras distritales y movilizaciones estudiantiles en Hyderabad",
-    "tipoAccion": "cadena humana / protesta estudiantil sostenida",
+    "hora": "huelgas de hambre de relevo indefinidas en las cabeceras distritales y movilizaciones estudiantiles (programa semanal de protestas: bandh estatal el 8, cadena humana el 9, huelgas de hambre el 10 en adelante)",
+    "fecha": "2026-09-10",
+    "lugar": "Estado de Telangana, India: huelgas de hambre en las cabeceras distritales y movilizaciones estudiantiles en Hyderabad",
+    "tipoAccion": "huelgas de hambre de relevo / protesta estudiantil sostenida",
     "organizaciones": [
       "TPDMA (Telangana Private Degree and PG College Managements Association)",
       "Telangana BC Students Association",
       "BJP y BJYM de Telangana (apoyo a la agitación)",
       "Asociaciones estudiantiles del estado"
     ],
-    "motivo": "Este miércoles 9 de septiembre la TPDMA y las asociaciones estudiantiles realizan una cadena humana en Telangana, dentro del programa de protesta contra el impago por parte del Gobierno de Revanth Reddy del reembolso de matrículas y becas, cuyas deudas ascienden a unos 8.000 millones de rupias y afectan a cerca de 14 lakh de estudiantes. El programa comenzó el 5 de septiembre (Día del Maestro) con brazaletes negros, siguió el 8 de septiembre con el bandh estatal en los colegios privados de grado y posgrado, y continúa hoy con la cadena humana y huelgas de hambre de relevo indefinidas en las cabeceras distritales. En Hyderabad se suceden marchas hacia la Asamblea Legislativa y detenciones de estudiantes, mientras la BJP denuncia denegaciones de permisos de protesta.",
+    "motivo": "Este jueves 10 de septiembre la TPDMA y las asociaciones estudiantiles continúan el programa de protesta contra el impago por parte del Gobierno de Revanth Reddy del reembolso de matrículas y becas, cuyas deudas ascienden a unos 8.000 millones de rupias y afectan a cerca de 14 lakh de estudiantes. El programa entró en su fase de huelgas de hambre de relevo indefinidas en las cabeceras distritales, tras la cadena humana del miércoles 9 y el bandh estatal del martes 8. En Hyderabad se suceden marchas hacia la Asamblea Legislativa y detenciones de estudiantes, mientras la BJP denuncia denegaciones de permisos de protesta.",
     "status": "en_curso",
     "lat": 17.385,
     "lng": 78.4867,
@@ -381,49 +172,22 @@
       "https://newsable.asianetnews.com/india/telangana-bjp-s-chalo-assembly-protest-over-student-fee-dues-articleshow-z6d8rm3"
     ],
     "createdAt": "2026-09-08T13:25:55.000Z",
-    "updatedAt": "2026-09-10T00:06:12Z"
-  },
-  {
-    "id": "int-2026-09-08-guatemala-48-cantones-marcha-capital",
-    "seccion": "protestas_int",
-    "pais": "Guatemala",
-    "bandera": "🇬🇹",
-    "hora": "marcha y bloqueo de caminos por la mañana desde las 8:00 (tres puntos de salida: Centra Sur, Molino de las Flores en Mixco y Condado Concepción, carretera a El Salvador); llegada al Centro Histórico entre 10:00 y 10:30, entrega de documentos al Ejecutivo y al Congreso y conferencia en el Parque Central",
-    "fecha": "2026-09-09",
-    "lugar": "Ciudad de Guatemala, Guatemala (movilización de los transportistas extraurbanos y de los 48 Cantones de Totonicapán hacia el Palacio Nacional de la Cultura y el Congreso de la República)",
-    "tipoAccion": "marcha pacífica / movilización de transportistas y organizaciones indígenas",
-    "organizaciones": [
-      "Gremiales de transporte extraurbano (Gretrucex, Gretexpa)",
-      "48 Cantones de Totonicapán (movilización indígena sostenida)"
-    ],
-    "motivo": "Este miércoles 9 de septiembre los transportistas extraurbanos (Gretrucex y Gretexpa) realizan una movilización hacia el Centro Histórico de la Ciudad de Guatemala con tres puntos de salida (Centra Sur, Molino de las Flores en Mixco y Condado Concepción en la carretera a El Salvador), en rechazo a la propuesta del Congreso de fijar en Q39 el galón de combustible, que advierten podría elevar las tarifas del pasaje. La caravana parte desde las 8:00 y busca llegar al Palacio Nacional de la Cultura y al Congreso hacia las 10:00-10:30, donde entregará documentos al Ejecutivo y al Congreso y realizará una conferencia en el Parque Central. La movilización se suma a la sostenida por los 48 Cantones de Totonicapán en defensa de sus derechos territoriales y contra el deterioro de las condiciones de vida de las comunidades.",
-    "status": "en_curso",
-    "lat": 14.6349,
-    "lng": -90.5069,
-    "fuentes": [
-      "https://www.prensalibre.com/guatemala/comunitario/transportistas-amplian-a-tres-los-puntos-de-salida-para-la-protesta-de-manana-y-cuestionan-propuesta-de-q39/",
-      "https://www.publinews.gt/noticias/2026/09/08/semana-de-protestas-manana-confluyen-en-la-capital-marchas-de-48-cantones-y-transportistas-extraurbanos/",
-      "https://www.infobae.com/guatemala/2026/09/06/dos-dias-de-protestas-en-guatemala-la-organizacion-48-cantones-y-la-gremial-de-transportistas-convocan-a-dos-jornadas-de-protesta/",
-      "https://www.emisorasunidas.com/nacional/2026/09/07/esperan-masiva-llegada-de-manifestantes-este-martes-en-la-capital/",
-      "https://lahora.gt/nacionales/dguzman/2026/09/08/estas-son-las-manifestaciones-previstas-para-este-miercoles-9-de-septiembre-now/"
-    ],
-    "createdAt": "2026-09-08T20:03:38.000Z",
-    "updatedAt": "2026-09-10T00:06:12Z"
+    "updatedAt": "2026-09-10T03:13:15Z"
   },
   {
     "id": "int-2026-09-08-francia-huelga-nacional-bomberos",
     "seccion": "protestas_int",
     "pais": "Francia",
     "bandera": "🇫🇷",
-    "hora": "huelga nacional con preaviso del 8 de septiembre al 20 de octubre (continúa este miércoles); gran manifestación nacional prevista el 29 de septiembre en París",
-    "fecha": "2026-09-09",
+    "hora": "huelga nacional con preaviso del 8 de septiembre al 20 de octubre (continúa este jueves); gran manifestación nacional prevista el 29 de septiembre en París",
+    "fecha": "2026-09-10",
     "lugar": "Casernas y servicios departamentales de incendio y de socorro (SDIS) de toda Francia; movilización frente al Ministerio del Interior (Beauvau), París",
     "tipoAccion": "huelga nacional de bomberos / movilización intersindical",
     "organizaciones": [
       "Intersindical de sapeurs-pompiers de los SDIS (8 de los 9 sindicatos representativos)",
       "Colectivo de bomberos profesionales (demanda de 21.000 plazas)"
     ],
-    "motivo": "Los bomberos de Francia continúan este miércoles 9 de septiembre la huelga nacional iniciada el martes 8, con un preaviso que se extiende hasta el 20 de octubre, para exigir más medios y recursos, la rehabilitación de la carrera profesional y la contratación de 21.000 bomberos profesionales. La intersindical denuncia unas condiciones 'peligrosas' y una flota envejecida que califican de 'manutención técnica de la muerte', y reclama la presentación urgente de una ley de modernización de la seguridad civil o el mantenimiento de la movilización general. La reunión del martes en el Ministerio del Interior concluyó sin avances concretos, según los sindicatos, que anunciaron un gran día de manifestación nacional el 29 de septiembre.",
+    "motivo": "Los bomberos de Francia continúan este jueves 10 de septiembre la huelga nacional iniciada el martes 8, con un preaviso que se extiende hasta el 20 de octubre, para exigir más medios y recursos, la rehabilitación de la carrera profesional y la contratación de 21.000 bomberos profesionales. La intersindical denuncia unas condiciones 'peligrosas' y una flota envejecida que califican de 'manutención técnica de la muerte', y reclama la presentación urgente de una ley de modernización de la seguridad civil o el mantenimiento de la movilización general. La reunión del martes en el Ministerio del Interior concluyó sin avances concretos, según los sindicatos, que anunciaron un gran día de manifestación nacional el 29 de septiembre.",
     "status": "en_curso",
     "lat": 48.8566,
     "lng": 2.3522,
@@ -435,38 +199,7 @@
       "https://www.franceinfo.fr/societe/mobilisation-des-pompiers/nous-sommes-decus-assurent-les-sapeurs-pompiers-en-greve-apres-une-reunion-au-ministere-de-l-interieur_8183099.html"
     ],
     "createdAt": "2026-09-08T22:52:16.000Z",
-    "updatedAt": "2026-09-10T00:06:12Z"
-  },
-  {
-    "id": "int-2026-09-09-corea-del-sur-seul-protestas-hormuz",
-    "seccion": "protestas_int",
-    "pais": "Corea del Sur",
-    "bandera": "🇰🇷",
-    "hora": "12:15 (concentración, conferencia de prensa de organizaciones cívicas y políticas y marcha hacia la oficina presidencial frente al Sejong Center for the Performing Arts y la embajada de EE. UU.; nueva marcha prevista el sábado a la oficina presidencial)",
-    "fecha": "2026-09-09",
-    "lugar": "Escaleras del Sejong Center for the Performing Arts, frente a la embajada de Estados Unidos, y marcha hacia la oficina presidencial (Yongsan), Seúl, Corea del Sur",
-    "tipoAccion": "protesta / concentración y marcha contra el envío de tropas surcoreanas al estrecho de Ormuz",
-    "organizaciones": [
-      "601 organizaciones cívicas y sociales (solidaridad por la paz coreana, movimientos antiguerra y religiosos, defensa de derechos humanos, sindicatos)",
-      "Diputados del Partido Rebuilding Korea y del Partido Progresista",
-      "Korean Peace Solidarity for Sovereignty and Reunification"
-    ],
-    "motivo": "Este miércoles 9 de septiembre representantes de unas 601 organizaciones cívicas y sociales surcoreanas y de partidos políticos se concentraron y marcharon frente al Sejong Center for the Performing Arts, en Seúl, para exigir al gobierno de Lee Jae Myung que rechace la presión de Estados Unidos para desplegar tropas al estrecho de Ormuz dentro de la guerra entre Estados Unidos e Irán, a la que califican de 'guerra ilegal'. Los manifestantes, citando el artículo 5 de la Constitución, advirtieron que 'Corea no debe involucrarse en una guerra de agresión' y anunciaron otra marcha para el sábado desde la embajada de Estados Unidos hasta la oficina presidencial. La protesta se produce mientras Seúl sopesa una 'contribución' a la seguridad del estrecho, luego de que el Ministerio de Defensa enviara un equipo de evaluación a Emiratos Árabes Unidos y de que Irán advirtiera de 'graves consecuencias' ante cualquier participación militar surcoreana.",
-    "status": "en_curso",
-    "lat": 37.5511,
-    "lng": 126.9798,
-    "fuentes": [
-      "https://english.hani.co.kr/arti/english_edition/e_national/1277042.html",
-      "https://aa.com.tr/en/asia-pacific/south-korean-civic-groups-politicians-urge-president-lee-to-reject-us-pressure-on-hormuz/4051825",
-      "https://www.koreatimes.co.kr/foreignaffairs/20260909/hormuz-deployment-issue-leaves-president-with-no-risk-free-options",
-      "https://www.straitstimes.com/asia/east-asia/protesters-urge-south-korea-to-stay-out-of-iran-war",
-      "https://en.yna.co.kr/view/AEN20260909000500315",
-      "https://www.malaymail.com/news/world/2026/09/09/do-not-join-war-of-aggression-south-koreans-protest-possible-troop-deployment-to-hormuz-call-conflict-illegal/234545",
-      "https://www.goshennews.com/news/national_news/south-korea-us-iran-protest/image_444f6fa1-391c-5538-81ca-729f2154340b.html",
-      "https://www.dailyrecordnews.com/ap_news/international/south-korea-us-iran-protest/image_f3ac3d84-1196-5f44-a84a-d067476ed69e.html"
-    ],
-    "createdAt": "2026-09-09T11:40:52.000Z",
-    "updatedAt": "2026-09-10T00:06:12Z"
+    "updatedAt": "2026-09-10T03:13:15Z"
   },
   {
     "id": "int-2026-09-09-alemania-protestas-antiaf",
@@ -474,7 +207,7 @@
     "pais": "Alemania",
     "bandera": "🇩🇪",
     "hora": "movilización sostenida durante la semana y campo de protesta permanente en Halle; nuevas concentraciones convocadas en distintas ciudades antes de las elecciones regionales del 20 de septiembre en Berlín y Mecklemburgo-Pomerania Occidental",
-    "fecha": "2026-09-09",
+    "fecha": "2026-09-10",
     "lugar": "Alemania: concentraciones y campo de protesta anti-AfD en Halle (Sajonia-Anhalt), además de rallies en Potsdam, Münster, Gotinga, Dresde, Aquisgrán, Bamberg, Darmstadt y Halberstadt",
     "tipoAccion": "protestas / movilización pro-democrática contra el auge de la ultraderecha (AfD)",
     "organizaciones": [
@@ -482,7 +215,7 @@
       "Fridays for Future",
       "Grupos de izquierda y de la sociedad civil alemana"
     ],
-    "motivo": "Este miércoles 9 de septiembre continúa en Alemania la ola de protestas pro-democráticas contra la ultraderecha Alternativa para Alemania (AfD) tras su victoria récord en las elecciones regionales de Sajonia-Anhalt del domingo, que los movimientos consideran una amenaza para la democracia ante dos nuevos comicios el 20 de septiembre (Berlín y Mecklemburgo-Pomerania Occidental). Miles de manifestantes se concentraron en el Brandenburgo de Berlín (unas 5.000 según la policía y más de 14.000 según los organizadores) con carteles como 'Fascismo no es una alternativa' y 'La historia nos observa', y centenares se movilizaron en Potsdam, Münster, Gotinga, Dresde, Aquisgrán, Bamberg, Darmstadt y Halberstadt. En Halle, segunda ciudad de Sajonia-Anhalt, donde la AfD alcanzó casi la mitad de los votos, grupos de izquierda y de la sociedad civil mantienen un campo de protesta permanente desde el día de la elección.",
+    "motivo": "Este jueves 10 de septiembre continúa en Alemania la ola de protestas pro-democráticas contra la ultraderecha Alternativa para Alemania (AfD) tras su victoria récord en las elecciones regionales de Sajonia-Anhalt del domingo pasado, que los movimientos consideran una amenaza para la democracia ante dos nuevos comicios el 20 de septiembre (Berlín y Mecklemburgo-Pomerania Occidental). En Halle, segunda ciudad de Sajonia-Anhalt, donde la AfD alcanzó casi la mitad de los votos, grupos de izquierda y de la sociedad civil mantienen un campo de protesta permanente desde el día de la elección. Miles de manifestantes se concentraron en el Brandenburgo de Berlín (unas 5.000 según la policía y más de 14.000 según los organizadores) con carteles como 'Fascismo no es una alternativa' y 'La historia nos observa', y centenares se movilizaron en Potsdam, Münster, Gotinga, Dresde, Aquisgrán, Bamberg, Darmstadt y Halberstadt.",
     "status": "en_curso",
     "lat": 51.4825,
     "lng": 11.9688,
@@ -493,15 +226,15 @@
       "https://www.the-berliner.com/english-news-berlin/thousands-of-people-protest-at-the-brandenburg-gate-after-the-afds-success/"
     ],
     "createdAt": "2026-09-09T11:40:52.000Z",
-    "updatedAt": "2026-09-10T00:06:12Z"
+    "updatedAt": "2026-09-10T03:13:15Z"
   },
   {
     "id": "int-2026-09-09-espana-airbus-huelga-asambleas",
     "seccion": "protestas_int",
     "pais": "España",
     "bandera": "🇪🇸",
-    "hora": "huelga indefinida de Airbus España iniciada el 25 de agosto, formalmente vigente aunque transitoriamente pausada desde este miércoles; asambleas informativas de la plantilla este miércoles y jueves en todas las plantas; gran marcha sindical convocada para el sábado 12 de septiembre en Madrid (de la planta de Getafe al Ministerio de Industria)",
-    "fecha": "2026-09-09",
+    "hora": "huelga indefinida de Airbus España iniciada el 25 de agosto, formalmente vigente aunque transitoriamente pausada desde el miércoles; asambleas informativas de la plantilla el jueves 10 en todas las plantas; gran marcha sindical convocada para el sábado 12 de septiembre en Madrid (de la planta de Getafe al Ministerio de Industria)",
+    "fecha": "2026-09-10",
     "lugar": "Plantas de Airbus en España: Getafe (Madrid), Illescas (Toledo), Albacete, Cádiz, Tablada y San Pablo (Sevilla)",
     "tipoAccion": "huelga indefinida / asambleas informativas de trabajadores y movilización sindical en marcha",
     "organizaciones": [
@@ -510,7 +243,7 @@
       "ÚTIL",
       "Comité de huelga de Airbus España"
     ],
-    "motivo": "Este miércoles 9 de septiembre la plantilla de Airbus España mantiene formalmente vigente la huelga indefinida convocada desde el 25 de agosto y vive una jornada de asambleas informativas en todas las plantas para explicar el preacuerdo alcanzado entre la dirección y los sindicatos mayoritarios (ATP, CCOO, SIPA y UGT) bajo la mediación del Ministerio de Industria. Los trabajadores votaron el martes mantener la huelga por un margen de solo 67 votos (51,23% frente a 48,77%), aunque el comité de huelga decidió pausar transitoriamente los paros y retirar los piquetes para abrir un período de consultas y asambleas antes del referéndum vinculante sobre el preacuerdo previsto durante septiembre. La votación de la planta de San Pablo (Sevilla) fue decisiva: el 76% de sus trabajadores respaldó continuar el paro, frente a la mayoría obtenida por la pausa en Cádiz (94,3%) e Illescas (59,7%). La huelga es por mejoras salariales y sociales (recuperación del poder adquisitivo del 7,95% hasta 2029, pago del IPC y mantenimiento de la política de teletrabajo), y sigue prevista una marcha sindical el sábado 12 de septiembre desde Getafe hasta el Ministerio de Industria en Madrid; la CGT además presentó una demanda ante el Tribunal Constitucional contra la empresa y el ministro Jordi Hereu por negociar al margen del comité de huelga.",
+    "motivo": "Este jueves 10 de septiembre la plantilla de Airbus España celebra jornada de asambleas informativas en todas las plantas para explicar el preacuerdo alcanzado entre la dirección y los sindicatos mayoritarios (ATP, CCOO, SIPA y UGT) bajo la mediación del Ministerio de Industria. Los trabajadores votaron el martes mantener la huelga por un margen de solo 67 votos (51,23% frente a 48,77%), aunque el comité de huelga decidió pausar transitoriamente los paros y retirar los piquetes para abrir un período de consultas y asambleas antes del referéndum vinculante sobre el preacuerdo previsto durante septiembre. La votación de la planta de San Pablo (Sevilla) fue decisiva: el 76% de sus trabajadores respaldó continuar el paro, frente a la mayoría obtenida por la pausa en Cádiz (94,3%) e Illescas (59,7%). La huelga es por mejoras salariales y sociales (recuperación del poder adquisitivo del 7,95% hasta 2029, pago del IPC y mantenimiento de la política de teletrabajo), y sigue prevista una marcha sindical el sábado 12 de septiembre desde Getafe hasta el Ministerio de Industria en Madrid; la CGT además presentó una demanda ante el Tribunal Constitucional contra la empresa y el ministro Jordi Hereu por negociar al margen del comité de huelga.",
     "status": "en_curso",
     "lat": 40.3081,
     "lng": -3.727,
@@ -524,54 +257,21 @@
       "https://sevillaconfidencial.com/noticias-sevilla/la-planta-de-airbus-en-sevilla-da-un-vuelco-a-la-huelga-tras-una-votacion-decidida-por-solo-67-votos/"
     ],
     "createdAt": "2026-09-09T11:40:52.000Z",
-    "updatedAt": "2026-09-10T00:06:12Z"
-  },
-  {
-    "id": "int-2026-09-09-paises-bajos-huelga-transporte-publico-24h",
-    "seccion": "protestas_int",
-    "pais": "Países Bajos",
-    "bandera": "🇳🇱",
-    "hora": "huelga nacional de 24 horas: desde las 2:00 del miércoles 9 hasta las 2:00 del jueves 10 de septiembre. Sin servicios de trenes (NS), metro, tranvía ni autobuses en todo el país; los internacionales que operan hacia Países Bajos (Eurostar, Nightjet, ICE de Deutsche Bahn) quedan suspendidos. Única excepción: el servicio Airportsprinter entre Amsterdam Central, Schiphol y Hoofddorp.",
-    "fecha": "2026-09-09",
-    "lugar": "Red de transporte público de todo Países Bajos: trenes NS y ProRail, metro, tranvías y autobuses de Ámsterdam, Róterdam, La Haya, Utrecht y el resto del país (incluidos enlaces internacionales de Eurostar, Nightjet y DB ICE)",
-    "tipoAccion": "huelga nacional de 24 horas del transporte público / cese de actividades",
-    "organizaciones": [
-      "FNV",
-      "CNV",
-      "VCP",
-      "Sindicatos de los trabajadores de NS, ProRail y de los operadores urbanos y regionales (incluido DB Cargo)"
-    ],
-    "motivo": "Los sindicatos FNV, CNV y VCP realizan este miércoles 9 de septiembre una huelga nacional de 24 horas en todo el transporte público neerlandés (trenes NS y ProRail, metro, tranvías y autobuses), dentro de la 'semana de acción' en protesta contra los planes del gabinete de recortar hasta 6.500 millones de euros anuales en gasto social (prestaciones por desempleo WW, WIA, AOW y atención domiciliaria) para financiar el aumento del gasto militar. La huelga arrancó a las 2:00 y dejó sin trenes a las estaciones de todo el país; en Ámsterdam, Róterdam y La Haya no circularon metros, tranvías ni autobuses. Varios miles de trabajadores cesaron tareas, según el primer balance de la FNV. Políticos de D66 y del partido Pro (Klaver) visitaron a los huelguistas en La Haya, mientras la FNV advirtió de acciones más duras si los recortes no se retiran por completo antes del presupuesto (Prinsjesdag, 15 de septiembre). Es la primera huelga nacional de 24 horas del transporte público desde 2019; sigue a la protesta de unos 3.000 empleados públicos del 8 de septiembre en La Haya y a la huelga de los puertos del 4 de septiembre, en el marco de la campaña 'De toekomst is van ons'.",
-    "status": "en_curso",
-    "lat": 52.3676,
-    "lng": 4.9041,
-    "fuentes": [
-      "https://www.dutchnews.nl/2026/09/national-24-hour-public-transport-strike-begins/",
-      "https://www.businesstravelnewseurope.com/Ground-Transport/24-hour-strike-to-shut-down-Netherlands-public-transport-network",
-      "https://www.dutchnews.nl/2026/07/dutch-unions-call-24-hour-public-transport-strike-on-september-9",
-      "https://nltimes.nl/2026/08/27/strikes-set-september-social-security-cuts-construction-workers-join",
-      "https://www.cursor.tue.nl/en/news/2026/september/week-1/note-public-transportation-workers-are-on-strike-wednesday",
-      "https://nltimes.nl/2026/09/09/thousands-quit-working-part-public-transport-strike-politicians-visit-strikers",
-      "https://es.marketscreener.com/noticias/huelga-general-en-el-transporte-p-blico-de-pa-ses-bajos-contra-los-recortes-sociales-ce785bd9dd8bf72c",
-      "https://caliber.az/en/post/dutch-transport-paralyzed-as-unions-protest-over-welfare-cuts",
-      "https://9292.nl/en/news/public-transport-strike"
-    ],
-    "createdAt": "2026-09-09T01:01:46.000Z",
-    "updatedAt": "2026-09-10T00:06:12Z"
+    "updatedAt": "2026-09-10T03:13:15Z"
   },
   {
     "id": "int-2026-09-09-belgica-huelga-personal-penitenciario",
     "seccion": "protestas_int",
     "pais": "Bélgica",
     "bandera": "🇧🇪",
-    "hora": "huelga de 5 días desde el domingo 6 de septiembre a las 22:00 hasta el viernes 11 de septiembre a las 22:00 (continúa este miércoles, con servicios mínimos)",
-    "fecha": "2026-09-09",
+    "hora": "huelga de 5 días desde el domingo 6 de septiembre a las 22:00 hasta el viernes 11 de septiembre a las 22:00 (continúa este jueves, con servicios mínimos)",
+    "fecha": "2026-09-10",
     "lugar": "Prisiones de Bélgica (los 41 establecimientos penitenciarios del país, entre ellos Saint-Gilles, Lantin, Merksplas y Beveren)",
     "tipoAccion": "huelga del personal penitenciario / servicios mínimos",
     "organizaciones": [
       "Frente común de los sindicatos del personal penitenciario belga"
     ],
-    "motivo": "El personal penitenciario de Bélgica continúa este miércoles 9 de septiembre la huelga de cinco días iniciada el domingo 6 a las 22:00, por el hacinamiento crónico de las prisiones y la falta de personal y de medios, que denuncian como condiciones de trabajo y seguridad insostenibles para los agentes. Los sindicatos reclaman medidas estructurales para reducir la sobreocupación y más dotación, ante el temor de que los planes presupuestarios del gobierno agraven la situación y generen más violencia en los establecimientos. El movimiento se aplica con servicios mínimos en todos los centros.",
+    "motivo": "El personal penitenciario de Bélgica continúa este jueves 10 de septiembre la huelga de cinco días iniciada el domingo 6 a las 22:00, por el hacinamiento crónico de las prisiones y la falta de personal y de medios, que denuncian como condiciones de trabajo y seguridad insostenibles para los agentes. Los sindicatos reclaman medidas estructurales para reducir la sobreocupación y más dotación, ante el temor de que los planes presupuestarios del gobierno agraven la situación y generen más violencia en los establecimientos. El movimiento se aplica con servicios mínimos en todos los centros.",
     "status": "en_curso",
     "lat": 50.8503,
     "lng": 4.3517,
@@ -580,22 +280,22 @@
       "https://caliber.az/en/post/belgian-prison-staff-launch-five-day-strike-over-overcrowding-safety"
     ],
     "createdAt": "2026-09-09T01:01:46.000Z",
-    "updatedAt": "2026-09-10T00:06:12Z"
+    "updatedAt": "2026-09-10T03:13:15Z"
   },
   {
     "id": "int-2026-09-09-corea-del-sur-posco-huelga-parcial-48h",
     "seccion": "protestas_int",
     "pais": "Corea del Sur",
     "bandera": "🇰🇷",
-    "hora": "huelga parcial de 48 horas a partir de este miércoles 9 de septiembre (anunciada por el sindicato tras terminar sin acuerdo las negociaciones salariales a la medianoche del martes)",
-    "fecha": "2026-09-09",
+    "hora": "huelga parcial de 48 horas desde el miércoles 9 de septiembre (primer día de la primera huelga en la historia de POSCO desde 1968; continúa este jueves)",
+    "fecha": "2026-09-10",
     "lugar": "Plantas siderúrgicas de POSCO en Pohang (Gyeongsang del Norte) y Gwangyang (Jeolla del Sur), Corea del Sur",
     "tipoAccion": "huelga parcial de 48 horas / acción sindical",
     "organizaciones": [
       "Sindicato de los trabajadores de POSCO (afiliado a la federación metalúrgica)",
       "Trabajadores de las plantas de Pohang y Gwangyang"
     ],
-    "motivo": "El sindicato de POSCO comenzó este miércoles 9 de septiembre la primera huelga en la historia de la siderúrgica desde su fundación en 1968, con un paro parcial de 48 horas después de que las negociaciones con la empresa sobre el aumento salarial terminaran sin acuerdo antes de la medianoche del martes. El paro detuvo todas las líneas de la planta de decapado de Gwangyang y parte de la de chapa de Pohang. El sindicato exige un incremento del 7,1% del salario base y un incentivo equivalente al 600% del salario anual, frente a la oferta de la empresa del 2% y 3,5 millones de wones; el 92,2% de los afiliados respaldó la medida tras fracasar la mediación de la Comisión de Relaciones Laborales. POSCO asegura que la producción general no sufrirá grandes trastornos, aunque un paro prolongado podría afectar la chapa fría, galvanizada y el acero eléctrico.",
+    "motivo": "El sindicato de POSCO continúa este jueves 10 de septiembre la primera huelga en la historia de la siderúrgica desde su fundación en 1968, con un paro parcial de 48 horas que comenzó el miércoles tras fracasar las negociaciones salariales. El paro detuvo todas las líneas de la planta de decapado de Gwangyang y parte de la de chapa de Pohang. El sindicato exige un incremento del 7,1% del salario base y un incentivo equivalente al 600% del salario anual, frente a la oferta de la empresa del 2% y 3,5 millones de wones; el 92,2% de los afiliados respaldó la medida tras fracasar la mediación de la Comisión de Relaciones Laborales. POSCO asegura que la producción general no sufrirá grandes trastornos, aunque un paro prolongado podría afectar la chapa fría, galvanizada y el acero eléctrico.",
     "status": "en_curso",
     "lat": 36.0153,
     "lng": 129.3238,
@@ -604,21 +304,21 @@
       "https://www.ajupress.com/view/20260909094808523"
     ],
     "createdAt": "2026-09-09T01:01:46.000Z",
-    "updatedAt": "2026-09-10T00:06:12Z"
+    "updatedAt": "2026-09-10T03:13:15Z"
   },
   {
     "id": "int-2026-09-09-india-ahmedabad-huelga-autos-taxis",
     "seccion": "protestas_int",
     "pais": "India",
     "bandera": "🇮🇳",
-    "hora": "huelga del sector de autos (rickshaw) y taxis en curso (iniciada el 7 de septiembre y activa hasta el 10 de septiembre; continúa este miércoles)",
-    "fecha": "2026-09-09",
+    "hora": "huelga del sector de autos (rickshaw) y taxis en curso (del 7 al 10 de septiembre; último día de la medida)",
+    "fecha": "2026-09-10",
     "lugar": "Ahmedabad, Gujarat, India",
     "tipoAccion": "huelga de conductores de autorickshaws y taxis / protesta contra las aplicaciones en línea",
     "organizaciones": [
       "Uniones de conductores de autorickshaws y taxis de Ahmedabad"
     ],
-    "motivo": "Los conductores de autorickshaws y taxis de Ahmedabad mantienen una huelga y protesta en curso (del 7 al 10 de septiembre) contra las aplicaciones en línea de transporte, en reclamo de la regulación de las plataformas digitales que, denuncian, afectan sus ingresos y las condiciones del sector. La medida busca una intervención de las autoridades locales y se despliega con paros y movilizaciones en distintos puntos de la ciudad.",
+    "motivo": "Los conductores de autorickshaws y taxis de Ahmedabad mantienen la huelga y protesta en curso (del 7 al 10 de septiembre) contra las aplicaciones en línea de transporte, en reclamo de la regulación de las plataformas digitales que, denuncian, afectan sus ingresos y las condiciones del sector. La medida busca una intervención de las autoridades locales y se despliega con paros y movilizaciones en distintos puntos de la ciudad. El jueves 10 de septiembre es el último día de la medida convocada.",
     "status": "en_curso",
     "lat": 23.0225,
     "lng": 72.5714,
@@ -626,198 +326,37 @@
       "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/ahmedabad-rickshaw-taxi-strike-protest-online-app-ban-138952718.html"
     ],
     "createdAt": "2026-09-09T01:01:46.000Z",
-    "updatedAt": "2026-09-10T00:06:12Z"
+    "updatedAt": "2026-09-10T03:13:15Z"
   },
   {
-    "id": "int-2026-09-09-nueva-zelanda-huelga-funcionarios",
+    "id": "int-2026-09-10-eeuu-dallas-marcha-convencion-republicana",
     "seccion": "protestas_int",
-    "pais": "Nueva Zelanda",
-    "bandera": "🇳🇿",
-    "hora": "huelga nacional de funcionarios públicos con paros escalonados de 2 a 5,5 horas (MSD de 13:00 a 15:00, MBIE de 13:00 a 17:30 y otras agencias de 13:00 a 18:00); mitin con cientos de manifestantes frente al Parlamento en Wellington; piquetes y hīkoi en al menos 18 localidades",
-    "fecha": "2026-09-09",
-    "lugar": "Escaleras del Parlamento (Wellington) y piquetes, mítines y hikoi en Whangārei, Auckland, Hamilton, Gisborne, Napier, Wellington, Christchurch y Dunedin, entre otras, Nueva Zelanda",
-    "tipoAccion": "huelga nacional de funcionarios públicos / manifestaciones y piquetes",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "14:00 (concentración y marcha desde Pike Park hacia el American Airlines Center, donde se celebra la Convención Nacional Republicana de medio término del 9 y 10 de septiembre)",
+    "fecha": "2026-09-10",
+    "lugar": "Pike Park (2807 Harry Hines Blvd) y American Airlines Center (2500 Victory Avenue), Dallas, Texas, Estados Unidos",
+    "tipoAccion": "marcha / protesta contra la Convención Nacional Republicana y la agenda de Trump",
     "organizaciones": [
-      "Public Service Association (PSA)",
-      "NZNO (New Zealand Nurses Organisation, enfermeras de urgencias de Gisborne)"
+      "Dallas Against the Trump Agenda Coalition (DATA)",
+      "National Alliance Against Racist and Political Repression DFW",
+      "Indivisible Dallas",
+      "DFW May Day Coalition",
+      "DFW Anti-War Committee"
     ],
-    "motivo": "Cerca de 10.000 empleados públicos de Nueva Zelanda abandonaron sus puestos este miércoles 9 de septiembre en una huelga nacional convocada por la Public Service Association (PSA), que afectó al Ministerio de Desarrollo Social (más de 5.000), al Ministerio de Empresa, Innovación y Empleo (unos 2.700), al Departamento de Asuntos Internos, a la Agencia Nacional de Gestión de Emergencias y al Ministerio de Comunidades Étnicas. Los trabajadores rechazan ofertas salariales que, según el sindicato, dejan los salarios por detrás del costo de vida, y denuncian los recortes y ataques al servicio público. En Wellington, cientos de manifestantes se concentraron frente al Parlamento con carteles como 'los recortes al servicio público lastiman a todos' y 'ChatGPT no puede reemplazarme'; el líder laborista Chris Hipkins y la diputada verde Julie Anne Genter hablaron en el acto. El primer ministro Christopher Luxon dijo que los funcionarios 'deberían estar trabajando', mientras el ministro Paul Goldsmith calificó la medida de 'mala forma'. En Gisborne, unos 34 enfermeros del servicio de urgencias del NZNO (con el apoyo de la comunidad y, entre ellos, cuatro generaciones de una misma familia) realizaron un paro de una hora por dotaciones seguras. La PSA advirtió que seguirá con nuevas medidas si no hay ofertas justas.",
+    "motivo": "Este jueves 10 de septiembre la coalición 'Dallas Against the Trump Agenda' (DATA) realiza una concentración y marcha desde el Pike Park hasta el American Airlines Center, donde se celebra la Convención Nacional Republicana de medio término (9 y 10 de septiembre), el primer comité nacional del GOP en un año de elecciones de medio término, con la asistencia del presidente Donald Trump. Los organizadores denuncian que la ciudad de Dallas canceló el permiso de la protesta a menos de una semana del evento y que la policía pretendió imponer un formulario de 'actividad de Primera Enmienda', pero la coalición ratificó que marchará de todos modos bajo la consigna 'No Kings, No Dictators, No Fascists'. La movilización rechaza la agenda de Trump, las deportaciones y muertes vinculadas a operativos del ICE, la guerra en Irán, los ataques contra docentes e inmigrantes y la concentración del poder ejecutivo. Se trata de la mayor movilización de protesta en Dallas desde la convención republicana de 1984.",
     "status": "en_curso",
-    "lat": -41.2865,
-    "lng": 174.7762,
+    "lat": 32.7937,
+    "lng": -96.7999,
     "fuentes": [
-      "https://www.reuters.com/business/world-at-work/new-zealand-public-servants-walk-off-job-over-pay-offer-2026-09-09/",
-      "https://www.1news.co.nz/2026/09/09/almost-10000-public-servants-strike-nationwide-over-pay/",
-      "https://www.nzherald.co.nz/nz/politics/at-least-we-know-who-the-wahs-are-psa-protesters-tease-pm-in-calls-for-fairer-pay/OZOCJBBKLFCPJFQXD4S3FB4I44/",
-      "https://www.teaonews.co.nz/2026/09/09/maori-public-servants-feeling-weight-of-cuts-as-thousands-strike-nationwide/",
-      "https://www.waikatotimes.co.nz/nz-news/361077355/public-servants-take-pay-fight-hamilton-streets",
-      "https://kaitiaki.org.nz/article/its-been-a-long-time-coming-four-generations-stand-shoulder-to-shoulder-on-gisborne-ed-nurses-strike/"
+      "https://actionnetwork.org/events/rally-march-on-the-republican-midterm-convention",
+      "https://indivisibledallas.org/events/dallas-march-on-the-rnc-midterm-convention/",
+      "https://fightbacknews.org/articles/dallas-city-cancels-rnc-protest-permit-coalition-vows-to-march",
+      "https://www.dallasnews.com/news/politics/article/protest-trump-dallas-proceeds-details-remain-22395590.php",
+      "https://www.dallasobserver.com/news/dallas-cancels-permit-for-anti-trump-protest-1-week-before-gop-convention-begins-40710308",
+      "https://www.nbcnews.com/politics/2026-election/republicans-hold-first-ever-midterm-convention-dallas-september-trump-rcna352489"
     ],
-    "createdAt": "2026-09-09T21:48:54.000Z",
-    "updatedAt": "2026-09-10T00:06:12Z"
-  },
-  {
-    "id": "int-2026-09-09-italia-presidio-ddl-antisemitismo",
-    "seccion": "protestas_int",
-    "pais": "Italia",
-    "bandera": "🇮🇹",
-    "hora": "desde las 13:00 y hasta cerca de las 16:00, presidio-maratón de intervenciones en Piazza Capranica y Plaza Montecitorio (mientras la Comisión de Asuntos Constitucionales de la Cámara debate el proyecto de ley); manifestaciones simultáneas en más de 45 ciudades del país (en Mogliano Veneto a las 18:30)",
-    "fecha": "2026-09-09",
-    "lugar": "Roma (Piazza Capranica y Piazza Montecitorio, frente a la Cámara de Diputados) y más de 45 ciudades de Italia (Venezia, Vicenza, Rovigo, Verona, Treviso, Feltre, Bassano del Grappa, Mogliano Veneto, etc.)",
-    "tipoAccion": "presidio-maratón / manifestación nacional de la sociedad civil contra el 'ddl Antisemitismo'",
-    "organizaciones": [
-      "Rete Italiana Pace e Disarmo",
-      "FNSI (Federación Nacional de la Prensa Italiana)",
-      "Amnesty International Italia",
-      "Arci",
-      "BDS Italia",
-      "CGIL Roma y Nápoles",
-      "Anpi",
-      "Movimientos por Palestina y otras 250 organizaciones"
-    ],
-    "motivo": "Más de 250 organizaciones de la sociedad civil italiana se manifestaron este miércoles 9 de septiembre frente al Parlamento en Roma (Piazza Capranica/Piazza Montecitorio) y en más de 45 ciudades contra el llamado 'ddl Antisemitismo', en coincidencia con la discusión del proyecto en la Comisión de Asuntos Constitucionales de la Cámara de Diputados. La coalición (periodistas, sindicatos, movimientos por Palestina, comunidades religiosas, redes por la paz, asociaciones de derechos de los migrantes, escuelas y universidades) denuncia que la adopción integral de la definición IHRA de antisemitismo tiende a equiparar, en 7 de sus 11 ejemplos, las críticas a las políticas de Israel con el racismo antisemita, y que la norma funciona como un 'bavaglio' (mordaza) a la libertad de expresión y de información. La FNSI subrayó que Italia sería el primer país de Europa, junto a Rumanía, en asumir por ley la definición IHRA. Los manifestantes se colocaron mordazas simbólicas durante '30 segundos de silencio' y luego hicieron 'cinco minutos de ruido' con silbatos, llaves y sirenas bajo el lema 'Criticar a Israel no es antisemitismo', antes de una maratón de intervenciones que se prolongó casi tres horas. El proyecto está previsto que llegue al pleno el 2 de octubre.",
-    "status": "en_curso",
-    "lat": 41.8975,
-    "lng": 12.4789,
-    "fuentes": [
-      "https://retepacedisarmo.org/2026/contro-il-bavaglio-derivante-dal-ddl-antisemitismo-rete-pace-disarmo-protesta-insieme-a-250-sigle/",
-      "https://www.ildiarioonline.it/2026/09/08/il-9-settembre-oltre-200-organizzazioni-in-piazza-contro-la-norma-bavaglio/",
-      "https://fnsi.it/criticare-israele-non-e-antisemitismo-a-roma-sitin-contro-il-ddl",
-      "https://www.tag24.it/1404811-sit-in-contro-il-ddl-antisemitismo-sotto-al-parlamento-italiano-bandiere-e-cori-pro-hamas-e-hezbollah"
-    ],
-    "createdAt": "2026-09-09T21:48:54.000Z",
-    "updatedAt": "2026-09-10T00:06:12Z"
-  },
-  {
-    "id": "int-2026-09-09-espana-galicia-huelga-educacion-concertada",
-    "seccion": "protestas_int",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "huelga parcial de 9:00 a 12:00 (primer día lectivo del curso 2026-2027) en los centros de educación concertada de toda Galicia; concentraciones a las 10:00 frente a las delegaciones de la Consellería de Educación; seguimiento del 60% según los sindicatos y del 17,6% según la Xunta",
-    "fecha": "2026-09-09",
-    "lugar": "Centros de educación concertada de toda Galicia y delegaciones territoriales de la Consellería de Educación en Vigo, Santiago de Compostela, A Coruña, Lugo y Ourense, España",
-    "tipoAccion": "huelga parcial / concentraciones y movilizaciones de protesta",
-    "organizaciones": [
-      "FSIE",
-      "Fesp-UGT",
-      "CC.OO. Ensino",
-      "USO",
-      "SNEP",
-      "CIG"
-    ],
-    "motivo": "La educación concertada de Galicia abrió el curso 2026-2027 con una jornada de huelga convocada de forma unitaria por seis sindicatos (FSIE, Fesp-UGT, CC.OO. Ensino, USO, SNEP y CIG) para denunciar la 'nula voluntad' de la Consellería de Educación de abrir un calendario real de negociación y reclamar el desbloqueo de los acuerdos de homologación salarial y de las condiciones sociolaborales del sector, en desventaja comparativa con la enseñanza pública. La jornada contó con concentraciones a las 10:00 ante las delegaciones de la Consellería en Vigo, Santiago, A Coruña, Lugo y Ourense, y terminó con cifras de seguimiento dispares: 60% según los sindicatos y 17,6% según la Xunta. Los sindicatos advirtieron de que, si la Consellería no ofrece un calendario de negociación, presentarán un calendario de movilizaciones.",
-    "status": "en_curso",
-    "lat": 42.8782,
-    "lng": -8.5448,
-    "fuentes": [
-      "https://cadenaser.com/galicia/2026/09/04/la-educacion-concertada-de-galicia-convoca-huelga-el-9-de-septiembre-primer-dia-del-curso-escolar-radio-vigo/",
-      "http://www.gentedigital.es/santiago-de-compostela/noticia/4396190/sindicatos-cifran-en-el-60-el-seguimiento-de-la-huelga-en-la-educacion-concertada-que-la-xunta-reduce-al-176/"
-    ],
-    "createdAt": "2026-09-09T21:48:54.000Z",
-    "updatedAt": "2026-09-10T00:06:12Z"
-  },
-  {
-    "id": "int-2026-09-09-mexico-cdmx-movilizaciones",
-    "seccion": "protestas_int",
-    "pais": "México",
-    "bandera": "🇲🇽",
-    "hora": "jornada de movilizaciones: 8:30 marcha del Colectivo Nacional No Más Presos Inocentes (Poder Judicial CDMX → Fiscalía capitalina); 9:00 marcha de Niños con Mapa (SCJN → Fiscalía) y concentración de Petroleros Unidos por México frente a la Cámara de Diputados; 10:00 concentración de la Unión Nacional de Trabajadores Agrícolas; 11:00 concentración de La Gran Comisión Ferrocarrilera (plan de justicia ferroviaria) y colectivo de mujeres ante el Senado; diversos actos durante el día en San Lázaro y el Senado",
-    "fecha": "2026-09-09",
-    "lugar": "Ciudad de México, México: ruta de la Suprema Corte (Pino Suárez) a la Fiscalía General de Justicia en la colonia Doctores, Cámara de Diputados (San Lázaro), Senado de la República, Secretaría de Desarrollo Agrario y otros puntos del Centro Histórico, Paseo de la Reforma y Polanco",
-    "tipoAccion": "marchas, concentraciones y protestas múltiples",
-    "organizaciones": [
-      "Niños con Mapa",
-      "Colectivo Nacional No Más Presos Inocentes",
-      "Petroleros Unidos por México",
-      "La Gran Comisión Ferrocarrilera",
-      "Colectivo Nacional de Mujeres por la Igualdad",
-      "Jueces y magistrados en retiro",
-      "Unión Nacional de Trabajadores Agrícolas"
-    ],
-    "motivo": "La Secretaría de Seguridad Ciudadana (SSC) de la Ciudad de México previó para este miércoles 9 de septiembre al menos tres marchas, 11 concentraciones y varias rodadas en las alcaldías Cuauhtémoc y Venustiano Carranza. Destacan la marcha de Niños con Mapa (09:00 desde la SCJN hacia la Fiscalía capitalina, en la colonia Doctores) contra lo que consideran consecuencias de acusaciones infundadas y para exigir respeto al debido proceso y a la presunción de inocencia; la del Colectivo Nacional No Más Presos Inocentes (08:30, del Poder Judicial de la CDMX a la Fiscalía) en el marco del Día Internacional contra las Falsas Denuncias; la de Petroleros Unidos por México frente a la Cámara de Diputados (09:00) por la reforma del artículo 127 constitucional y recursos para actualizar salarios y pensiones; y la de La Gran Comisión Ferrocarrilera (11:00) en demanda de un plan de justicia para extrabajadores y jubilados ferroviarios afectados por la privatización de Ferrocarriles Nacionales de México. También hubo concentraciones de juezas y magistrados en retiro en el Senado por el pago de indemnizaciones derivadas de la reforma judicial y de la Unión Nacional de Trabajadores Agrícolas ante la Secretaría de Desarrollo Agrario.",
-    "status": "en_curso",
-    "lat": 19.4326,
-    "lng": -99.1332,
-    "fuentes": [
-      "https://www.infobae.com/mexico/2026/09/09/en-vivo-bloqueos-en-carreteras-accidentes-y-manifestaciones-hoy-9-de-septiembre/",
-      "https://www.capitalmexico.com.mx/cdmx/marchas-y-protestas-afectaran-la-movilidad-en-la-cdmx-este-miercoles-9-de-septiembre-de-2026/"
-    ],
-    "createdAt": "2026-09-09T21:48:54.000Z",
-    "updatedAt": "2026-09-10T00:06:12Z"
-  },
-  {
-    "id": "int-2026-09-09-senegal-sames-greve-48h",
-    "seccion": "protestas_int",
-    "pais": "Senegal",
-    "bandera": "🇸🇳",
-    "hora": "huelga total de 48 horas (martes 8 y miércoles 9 de septiembre): segundo día de paro; mantenimiento de urgencias y servicio mínimo en las estructuras públicas de salud; la tutela asegura la continuidad de los cuidados",
-    "fecha": "2026-09-09",
-    "lugar": "Estructuras públicas de salud de todo Senegal (con foco en Dakar y en la región de Kolda), Senegal",
-    "tipoAccion": "huelga de 48 horas del personal médico / paro sindical",
-    "organizaciones": [
-      "SAMES (Syndicat Autonome des Médecins, Pharmaciens et Chirurgiens-Dentistes du Sénégal)",
-      "CNTS (Confédération Générale des Travailleurs du Sénégal, marco de afiliación)"
-    ],
-    "motivo": "Este miércoles 9 de septiembre se cumple el segundo y último día de la huelga total de 48 horas (martes 8 y miércoles 9) que el SAMES mantiene en las estructuras públicas de salud de Senegal en protesta por la falta de respuesta de las autoridades a la plataforma reivindicativa presentada en 2023. El sindicato, cuyo preaviso venció el 9 de agosto, denunció que la negociación iniciada en 2023 fue interrumpida en el primer trimestre de 2024 y que la reunión técnica del lunes fracasó por la ausencia del ministro de Salud, Ibrahima Sy, ante lo cual su delegación se retiró de la mesa. La medida mantiene urgencias y servicio mínimo; el Ministerio de Salud y de Higiene Pública afirma haber tomado las disposiciones para asegurar la continuidad de los cuidados en todo el territorio y se declara abierto al diálogo. El SAMES, que en la víspera realizó un paro de 24 horas en Kolda, llamó a médicos, farmacéuticos y cirujanos dentistas a la 'unidad, disciplina y movilización'. El diario Le Soleil publicó en su portada de este miércoles la disposición de la tutela a dialogar.",
-    "status": "en_curso",
-    "lat": 14.7167,
-    "lng": -17.4677,
-    "fuentes": [
-      "https://aps.sn/le-sames-annonce-une-greve-de-48-heures-les-8-et-9-septembre",
-      "https://www.seneweb.com/en/news/Sante/greve-du-sames-le-ministere-de-la-sante-assure-la-continuite-des-soins_n_503700.html",
-      "https://lesoleil.sn/actualites/sante/greve-sames-la-tutelle-prete-a-dialoguer-avec-les-syndicalistes/",
-      "https://senego.com/sames-greve-les-8-et-9-septembre-urgences-et-service-minimum-maintenus_1998784.html",
-      "https://lequotidien.sn/mouvement-dhumeur-dans-la-sante-le-sames-en-greve-les-8-et-9-septembre",
-      "https://www.rewmi.com/le-sames-annonce-une-greve-de-48-heures-les-8-et-9-septembre"
-    ],
-    "createdAt": "2026-09-09T23:48:30.000Z",
-    "updatedAt": "2026-09-10T00:06:12Z"
-  },
-  {
-    "id": "int-2026-09-09-reino-unido-protesta-bhagwat-londres",
-    "seccion": "protestas_int",
-    "pais": "Reino Unido",
-    "bandera": "🇬🇧",
-    "hora": "protesta en Parliament Square durante la jornada contra la visita del jefe del RSS Mohan Bhagwat al Reino Unido (gira por el centenario de la organización)",
-    "fecha": "2026-09-09",
-    "lugar": "Parliament Square, Londres, Reino Unido",
-    "tipoAccion": "protesta / concentración de la diáspora india y surasiática",
-    "organizaciones": [
-      "South Asia Solidarity Group (SASG)",
-      "Unos 20 grupos de la diáspora india y kashmiri (India diaspora organisations)",
-      "Hindus for Human Rights UK (respaldo al boicot)"
-    ],
-    "motivo": "Este miércoles 9 de septiembre organizaciones de la diáspora india y surasiática se concentraron en Parliament Square (Londres) contra la visita del presidente del RSS (Rashtriya Swayamsevak Sangh), Mohan Bhagwat, llegado el 2 de septiembre en la última etapa de su gira internacional por el centenario de la organización (tras EE. UU. y Canadá). Unos 20 grupos, coordinados por la South Asia Solidarity Group (SASG), protestaron con pancartas contra los 'crímenes del Hindutva', consignas antifascistas y antirRSS, y denunciaron las políticas del primer ministro Narendra Modi contra las minorías; la secretaria de SASG, Kalpna Wilson, afirmó que el RSS 'se inspiró en los nazis y en el fascismo de Mussolini'. La manifestación se produce en un contexto de división entre las comunidades india y sij del Reino Unido, con más de un centenar de organizaciones hindúes británicas apoyando la visita y sectores de la sociedad civil pidiendo al gobierno que la boicoteara.",
-    "status": "en_curso",
-    "lat": 51.5007,
-    "lng": -0.1246,
-    "fuentes": [
-      "https://kmsnews.org/kms/2026/09/09/indian-diaspora-protests-rss-chief-mohan-bhagwats-uk-visit.html",
-      "https://www.tribuneindia.com/news/london-letter/rss-chief-mohan-bhagwats-london-visit-triggers-contrasting-reactions-in-sikh-community"
-    ],
-    "createdAt": "2026-09-09T23:48:30.000Z",
-    "updatedAt": "2026-09-10T00:06:12Z"
-  },
-  {
-    "id": "int-2026-09-09-india-nagpur-protesta-youth-congress",
-    "seccion": "protestas_int",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "protesta de militantes del Youth Congress durante la jornada",
-    "fecha": "2026-09-09",
-    "lugar": "Nagpur, Maharashtra, India",
-    "tipoAccion": "protesta / concentración de militantes del Youth Congress",
-    "organizaciones": [
-      "Indian Youth Congress (sección de Nagpur)"
-    ],
-    "motivo": "Este miércoles 9 de septiembre militantes del Youth Congress del Congreso Nacional Indio realizaron una protesta en Nagpur (Maharashtra) contra el presunto 'yajna de purificación' (ritual de purificación) efectuado por el grupo Sri Ram Sena tras el mitin del presidente del Congreso, Mallikarjun Kharge, en Ramlila Maidan, Haldwani, en la víspera. La movilización rechazó lo que consideran una provocación sectaria destinada a estigmatizar a líderes y comunidades, y reclamó a las autoridades tomar medidas frente a este tipo de actos.",
-    "status": "en_curso",
-    "lat": 21.1458,
-    "lng": 79.0882,
-    "fuentes": [
-      "https://www.socialnews.xyz/2026/09/09/nagpur-youth-congress-protests-purification-ritual-gallery"
-    ],
-    "createdAt": "2026-09-09T23:48:30.000Z",
-    "updatedAt": "2026-09-10T00:06:12Z"
+    "createdAt": "2026-09-10T03:01:50.000Z",
+    "updatedAt": "2026-09-10T03:13:15Z"
   }
 ]
