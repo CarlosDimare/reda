@@ -25,7 +25,7 @@
       "https://www.cronista.com/informacion-gral/es-oficial-no-hay-clases-el-jueves-10-y-viernes-11-de-septiembre-decretan-paro-docente-y-los-alumnos-tendran-un-fin-de-semana-largo-de-cinco-dias/"
     ],
     "createdAt": "2026-09-10T03:08:55.000Z",
-    "updatedAt": "2026-09-11T17:38:13Z"
+    "updatedAt": "2026-09-11T20:15:57Z"
   },
   {
     "id": "ar-2026-09-11-paro-48h-universidades-congreso-movilidad-jubilatoria",
@@ -53,7 +53,7 @@
       "https://adiuc.org.ar/2026/09/03/semana-de-protesta-y-organizacion-7-al-11-9/"
     ],
     "createdAt": "2026-09-11T00:36:24.000Z",
-    "updatedAt": "2026-09-11T17:38:13Z"
+    "updatedAt": "2026-09-11T20:15:57Z"
   },
   {
     "id": "ar-2026-09-11-paro-nacional-judiciales-uejn",
@@ -77,14 +77,59 @@
       "https://www.red43.com.ar/nota/2026-9-9-18-57-40-piumato-hablo-de-la-perdida-salarial-de-los-judiciales-y-confirmo-un-nuevo-paro-nacional"
     ],
     "createdAt": "2026-09-11T17:34:59.000Z",
-    "updatedAt": "2026-09-11T17:38:13Z"
+    "updatedAt": "2026-09-11T20:15:57Z"
+  },
+  {
+    "id": "ar-2026-09-11-aysa-no-se-vende-lomas-de-zamora",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "concentración este viernes 11 de septiembre a las 16:00 en la Plaza Grigera, con consignas como 'AySA no se vende' y 'El agua se defiende'",
+    "fecha": "2026-09-11",
+    "lugar": "Plaza Grigera, Lomas de Zamora, provincia de Buenos Aires, Argentina",
+    "tipoAccion": "movilización y concentración comunitaria en defensa del agua pública y contra la privatización de AySA",
+    "organizaciones": [
+      "Foro Hídrico y Ambiental de Lomas de Zamora",
+      "Organizaciones sociales, ambientales, sindicatos, partidos políticos y espacios territoriales de Lomas de Zamora"
+    ],
+    "motivo": "Organizaciones sociales, ambientales, sindicales, partidos y espacios territoriales de Lomas de Zamora nucleados en el Foro Hídrico y Ambiental de Lomas de Zamora se movilizan este viernes 11 de septiembre a las 16 en la Plaza Grigera contra el proceso de privatización de Agua y Saneamientos Argentinos (AySA), bajo las consignas 'AySA no se vende', 'El agua se defiende' y 'Agua para la vida'. Reclaman la continuidad del servicio público de agua y saneamiento y defienden el acceso al agua segura como un derecho humano fundamental. La convocatoria se produce mientras el Gobierno de Javier Milei avanza con la venta del 90% de las acciones de AySA que aún permanecen en manos del Estado nacional: en mayo, el Ministerio de Economía autorizó una licitación pública nacional e internacional para transferir ese paquete accionario a un operador estratégico. La empresa presta el servicio de agua y saneamiento a millones de personas en el Área Metropolitana de Buenos Aires.",
+    "status": "en_curso",
+    "lat": -34.7601,
+    "lng": -58.4004,
+    "fuentes": [
+      "https://flipr.com.ar/buenos-aires/conurbano/lomas-de-zamora/anred/aysa-no-se-vende-organizaciones-de-lomas-de-zamora-movilizan-contra-la-privatizacion-del-servicio-de-agua/"
+    ],
+    "createdAt": "2026-09-11T20:06:04.000Z",
+    "updatedAt": "2026-09-11T20:15:57Z"
+  },
+  {
+    "id": "ar-2026-09-11-padres-unidos-caravana-comodoro",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "caravana de autos este viernes 11 de septiembre a las 20:00: partida desde la Plaza de la 83 con destino a la Fiscalía",
+    "fecha": "2026-09-11",
+    "lugar": "Comodoro Rivadavia, Chubut, Argentina: partida desde la Plaza de la 83, con destino a la Fiscalía",
+    "tipoAccion": "caravana de autos de protesta por el funcionamiento de la Justicia",
+    "organizaciones": [
+      "Padres Unidos Comodoro"
+    ],
+    "motivo": "La organización Padres Unidos Comodoro convocó para hoy viernes 11 de septiembre a las 20 horas a una caravana en autos que partirá desde la Plaza de la 83 y tendrá como destino la Fiscalía, en Comodoro Rivadavia. La movilización busca visibilizar distintos reclamos vinculados con el funcionamiento de la Justicia y, según expresa la convocatoria, exigir cambios en el desempeño de jueces y fiscales.",
+    "status": "en_curso",
+    "lat": -45.865,
+    "lng": -67.4805,
+    "fuentes": [
+      "https://rtn.com.ar/padres-unidos-marcharan-este-viernes-por-comodoro-en-caravana-para-reclamar-por-el-funcionamiento-de-la-justicia/"
+    ],
+    "createdAt": "2026-09-11T20:06:04.000Z",
+    "updatedAt": "2026-09-11T20:15:57Z"
   },
   {
     "id": "int-2026-09-08-albania-tirana-revolucion-flamenco",
     "seccion": "protestas_int",
     "pais": "Albania",
     "bandera": "🇦🇱",
-    "hora": "17:00 (concentración diaria frente al Parlamento y la sede del primer ministro; día 103 de la Revolución del Flamenco)",
+    "hora": "17:00 (concentración diaria frente a la sede del primer ministro; día 103 de la Revolución del Flamenco, jornada sin bloqueos de calles a diferencia de la víspera; protesta nacional convocada en la plaza para el sábado 12)",
     "fecha": "2026-09-11",
     "lugar": "Frente al Parlamento (Kuvendi) y sede del primer ministro, Bulevar Dëshmorët e Kombit, Tirana, Albania",
     "tipoAccion": "protesta diaria de ciudadanos / 103.º día de la Revolución del Flamenco",
@@ -92,19 +137,20 @@
       "Movimiento ciudadano 'Revolución del Flamenco'",
       "Activistas ambientales y de la sociedad civil albanesa"
     ],
-    "motivo": "Este viernes 11 de septiembre se cumple el día 103 de la revuelta ciudadana contra el Gobierno de Edi Rama, con la protesta diaria de ciudadanos convocada nuevamente a las 17:00 frente al Parlamento (Kuvendi) y a la sede del primer ministro. Las protestas nocturnas, que comenzaron contra el megaproyecto de resort de lujo en la laguna protegida de Narta, en Zvërnec, vinculado a la empresa de Jared Kushner, mutaron en un rechazo general al Gobierno y exigen la renuncia del primer ministro. En el día 100 (martes 8 de septiembre) la policía bloqueó el acceso al Parlamento y hubo choques, huevos y tomates contra los agentes y detenciones; en los días siguientes el movimiento sumó actos de desobediencia civil frente a la Dirección de Policía de Tirana y SPAK presentó nuevos cargos contra la ministra Belinda Balluku. Los activistas llaman a una participación masiva diaria desde todas las ciudades del país durante septiembre.",
+    "motivo": "Este viernes 11 de septiembre se celebró la protesta diaria ciudadana frente a la sede del primer ministro en Tirana, trasladada desde la plaza Skanderbeg, que a diferencia de la víspera (cuando se bloquearon calles principales de la capital) transcurrió en un tono más contenido y sin episodios de tensión. Los manifestantes repitieron los llamados a la salida de 'toda la clase política' y a la conformación de un gobierno de transición, y anunciaron una protesta nacional en la plaza para el sábado 12 a la que esperan sumar a la diáspora. Las protestas, que comenzaron contra el megaproyecto de resort de lujo en la laguna protegida de Narta, en Zvërnec, vinculado a la empresa de Jared Kushner, mutaron en un rechazo general al Gobierno de Edi Rama y exigen su renuncia.",
     "status": "en_curso",
     "lat": 41.3317,
     "lng": 19.8172,
     "fuentes": [
       "https://balkanweb.com/en/102-dite-proteste-nuk-ndalen-protestuesit-vazhdojne-marshimin/",
-      "https://www.latimes.com/world-nation/story/2026-09-08/albanian-protests-against-kushner-linked-coastal-development-turn-violent-on-100th-day",
+      "https://aktualitet.al/2026/09/11/103rd-protest-tirana-calls-outside-prime-ministers-office-transitional-government/",
+      "https://en.panorama.com.al/sot-dita-e-103-te-e-revoltes-qytetaret-nuk-largohen-nga-sheshi-para-kryeministrise-rama-jep-doreheqjen/",
       "https://albeu.com/english/today-marks-the-101st-day-of-revolt-against-the-government-citizens-protest-outside-parliament/1002260/",
       "https://balkaninsight.com/2026/09/07/transformative-protest-100-days-on-what-has-albanias-flamingo-revolution-achieved/bi/",
       "https://www.albaniandailynews.com/news/thousands-join-flamingo-revolution-protest-in-tirana-calling-for-albanian-pm-s-resignation"
     ],
     "createdAt": "2026-09-08T08:58:06.000Z",
-    "updatedAt": "2026-09-11T17:38:13Z"
+    "updatedAt": "2026-09-11T20:15:57Z"
   },
   {
     "id": "int-2026-09-08-francia-huelga-nacional-bomberos",
@@ -131,7 +177,7 @@
       "https://www.sudouest.fr/societe/social/la-colere-des-pompiers-ne-retombe-pas-une-manifestation-nationale-prevue-le-29-septembre-a-paris-20746729.php"
     ],
     "createdAt": "2026-09-08T22:52:16.000Z",
-    "updatedAt": "2026-09-11T17:38:13Z"
+    "updatedAt": "2026-09-11T20:15:57Z"
   },
   {
     "id": "int-2026-09-10-francia-huelga-edf-enedis-rte",
@@ -158,7 +204,7 @@
       "https://interim.cgt.fr/actualites/mobilisations-cgt-septembre-2026"
     ],
     "createdAt": "2026-09-10T17:03:33.000Z",
-    "updatedAt": "2026-09-11T17:38:13Z"
+    "updatedAt": "2026-09-11T20:15:57Z"
   },
   {
     "id": "int-2026-09-09-belgica-huelga-personal-penitenciario",
@@ -182,7 +228,7 @@
       "https://www.lesoir.be/art/d-20260908-greve-dans-les-prisons-le-personnel-denonce-des-conditions-de-travail-insoutenables"
     ],
     "createdAt": "2026-09-09T01:01:46.000Z",
-    "updatedAt": "2026-09-11T17:38:13Z"
+    "updatedAt": "2026-09-11T20:15:57Z"
   },
   {
     "id": "int-2026-09-10-italia-huelga-ferrocarril-verona-captrain",
@@ -207,7 +253,7 @@
       "https://scioperi.mit.gov.it/mit2/public/scioperi"
     ],
     "createdAt": "2026-09-10T08:18:08.000Z",
-    "updatedAt": "2026-09-11T17:38:13Z"
+    "updatedAt": "2026-09-11T20:15:57Z"
   },
   {
     "id": "int-2026-09-10-paises-bajos-fnv-acciones-septiembre",
@@ -234,7 +280,7 @@
       "https://www.bouwendnederland.nl/actueel/nieuws/2026/09/04/stakingen-bouw-en-metaal-4-tot-en-met-11-september"
     ],
     "createdAt": "2026-09-10T13:00:36.000Z",
-    "updatedAt": "2026-09-11T17:38:13Z"
+    "updatedAt": "2026-09-11T20:15:57Z"
   },
   {
     "id": "int-2026-09-10-india-jk-nhm-huelga-72h",
@@ -261,7 +307,7 @@
       "https://www.dailyexcelsior.com/nhm-employees-begin-72-hour-strike-seek-pay-parity-regularisation/"
     ],
     "createdAt": "2026-09-10T19:55:41.000Z",
-    "updatedAt": "2026-09-11T17:38:13Z"
+    "updatedAt": "2026-09-11T20:15:57Z"
   },
   {
     "id": "int-2026-09-10-espana-barcelona-groundforce-huelga-handling",
@@ -287,7 +333,7 @@
       "https://cdn.transportes.gob.es/portal-web-transportes/aereo/huelga-servicios-minimos/2026/40_26-08-04__--resolucion_ssmm_huelga_groundforce_bcn_vi.pdf"
     ],
     "createdAt": "2026-09-10T19:55:41.000Z",
-    "updatedAt": "2026-09-11T17:38:13Z"
+    "updatedAt": "2026-09-11T20:15:57Z"
   },
   {
     "id": "int-2026-09-10-espana-madrid-barajas-sate-huelga",
@@ -312,7 +358,7 @@
       "https://striketracker.app/strikes-in-spain/baggage-system-maintenance-strike-madrid-12-march-2026"
     ],
     "createdAt": "2026-09-10T19:55:41.000Z",
-    "updatedAt": "2026-09-11T17:38:13Z"
+    "updatedAt": "2026-09-11T20:15:57Z"
   },
   {
     "id": "int-2026-09-10-espana-saerco-torres-control-huelga",
@@ -338,7 +384,7 @@
       "https://aviaciondigital.com/huelga-indefinida-saerco-controladores-abril-2026/"
     ],
     "createdAt": "2026-09-10T19:55:41.000Z",
-    "updatedAt": "2026-09-11T17:38:13Z"
+    "updatedAt": "2026-09-11T20:15:57Z"
   },
   {
     "id": "int-2026-09-10-francia-val-de-marne-keolis-huelga-buses-t9",
@@ -363,7 +409,7 @@
       "https://striketracker.app/strikes-in-france/ivry-sur-seine-and-vitry-sur-seine-keolis-bus-depots-and-t9-tram-strike-10-11-sep-2026"
     ],
     "createdAt": "2026-09-10T19:55:41.000Z",
-    "updatedAt": "2026-09-11T17:38:13Z"
+    "updatedAt": "2026-09-11T20:15:57Z"
   },
   {
     "id": "int-2026-09-10-canada-vancouver-coast-mountain-accion-laboral",
@@ -390,7 +436,7 @@
       "https://buzzer.translink.ca/job-action/"
     ],
     "createdAt": "2026-09-10T19:55:41.000Z",
-    "updatedAt": "2026-09-11T17:38:13Z"
+    "updatedAt": "2026-09-11T20:15:57Z"
   },
   {
     "id": "int-2026-09-10-brasil-huelga-bancarios-caixa-bb",
@@ -421,7 +467,7 @@
       "https://diariodocomercio.com.br/economia/proposta-caixa-bancarios-greve/"
     ],
     "createdAt": "2026-09-10T22:15:43.000Z",
-    "updatedAt": "2026-09-11T17:38:13Z"
+    "updatedAt": "2026-09-11T20:15:57Z"
   },
   {
     "id": "int-2026-09-11-india-huelga-nacional-bancaria",
@@ -437,7 +483,7 @@
       "AIBEA (All India Bank Employees Association)",
       "AIBOA (All India Bank Officers Association)"
     ],
-    "motivo": "La banca india registró este viernes 11 de septiembre una huelga nacional de 24 horas convocada por el United Forum of Bank Unions (UFBU), que agrupa a nueve sindicatos de empleados y oficiales (AIBEA, AIBOC, NCBE, AIBOA, BEFI, INBEF, INBOC y otros), a la que se sumaron cerca de 8 lakh (800.000) empleados y oficiales, cerrando o dejando a media operación la mayoría de las sucursales de los bancos públicos de todo el país. El reclamo central sigue siendo la implementación de la semana bancaria de cinco días, acordada en el Duodécimo Acuerdo Bipartito de marzo de 2024 y pendiente de aprobación del Ministerio de Finanzas, junto con la oposición al esquema de incentivos ligados al desempeño (PLI), que el Departamento de Servicios Financieros dejó en suspenso para las escalas IV a VIII aunque los sindicatos consideran insuficiente esa medida, y la resolución de reclamos residuales de pensiones (actualización, fórmula uniforme de DA y opción de pasar del NPS al régimen antiguo). El paro del 11 es la primera fase: el UFBU anunció una huelga de tres días del 28 al 30 de septiembre y una huelga indefinida a partir del 26 de octubre si no hay respuesta del Gobierno y de la banca.",
+    "motivo": "La banca india registró este viernes 11 de septiembre una huelga nacional de 24 horas convocada por el United Forum of Bank Unions (UFBU), que agrupa a nueve sindicatos de empleados y oficiales (AIBEA, AIBOC, NCBE, AIBOA, BEFI, INBEF, INBOC y otros), que se cumplió con una participación cercana a los 8 lakh (800.000) empleados y oficiales según la AIBEA, con cierre o media operación en la mayoría de las sucursales de los bancos públicos y manifestaciones en Delhi, Chennai, Bhopal, Rajkot, Siliguri, Vijayawada y otras ciudades. El reclamo central sigue siendo la implementación de la semana bancaria de cinco días, acordada en el Duodécimo Acuerdo Bipartito de marzo de 2024 y pendiente de aprobación del Ministerio de Finanzas, junto con la oposición al esquema de incentivos ligados al desempeño (PLI), que el Departamento de Servicios Financieros dejó en suspenso para las escalas IV a VIII aunque los sindicatos consideran insuficiente esa medida, y la resolución de reclamos residuales de pensiones (actualización, fórmula uniforme de DA y opción de pasar del NPS al régimen antiguo). El paro del 11 es la primera fase: el UFBU anunció una huelga de tres días del 28 al 30 de septiembre y una huelga indefinida a partir del 26 de octubre si no hay respuesta del Gobierno y de la banca.",
     "status": "en_curso",
     "lat": 28.6139,
     "lng": 77.209,
@@ -447,10 +493,12 @@
       "https://www.outlookindia.com/national/bank-strike-hits-services-nationwide-as-unions-demand-five-day-work-week",
       "https://www.newkerala.com/news/a/bank-unions-stage-nationwide-strike-over-5-day-work-456.htm",
       "https://www.livemint.com/news/india/bank-strike-today-why-are-unions-holding-nationwide-protest-what-are-their-demands-explained-11789111110795.html",
-      "https://www.thehindu.com/news/national/banking-services-impacted-as-unions-go-on-nationwide-strike-to-press-for-5-day-workweek/article71454849.ece"
+      "https://www.thehindu.com/news/national/banking-services-impacted-as-unions-go-on-nationwide-strike-to-press-for-5-day-workweek/article71454849.ece",
+      "https://www.cnbctv18.com/personal-finance/bank-strike-sept-11-why-are-unions-protesting-which-services-affected-holiday-19989007.htm",
+      "https://thenewsmill.com/2026/09/bank-unions-hold-nationwide-strike-demanding-five-day-work-week-warn-of-indefinite-strike-from-october-26/"
     ],
     "createdAt": "2026-09-11T00:20:28.000Z",
-    "updatedAt": "2026-09-11T17:38:13Z"
+    "updatedAt": "2026-09-11T20:15:57Z"
   },
   {
     "id": "int-2026-09-11-espana-valencia-marcha-stepv",
@@ -474,14 +522,14 @@
       "https://www.stepv.org/2026/09/convoca-protestes-11-i-12-de-setembre/"
     ],
     "createdAt": "2026-09-11T00:20:28.000Z",
-    "updatedAt": "2026-09-11T17:38:13Z"
+    "updatedAt": "2026-09-11T20:15:57Z"
   },
   {
     "id": "int-2026-09-11-chile-conmemoracion-golpe-53-anos",
     "seccion": "protestas_int",
     "pais": "Chile",
     "bandera": "🇨🇱",
-    "hora": "jornada completa de conmemoración por los 53 años del golpe de Estado: actos y romerías desde la mañana (Cementerio General y Plaza de la Constitución) y marchas durante la tarde y noche",
+    "hora": "jornada de conmemoración por los 53 años del golpe de Estado: actos y romerías por la mañana (Cementerio General y Plaza de la Constitución) y marchas por la tarde, con cortes de tránsito en la Alameda tras un intento de marcha que terminó en incidentes y represión de Carabineros",
     "fecha": "2026-09-11",
     "lugar": "Santiago de Chile (Cementerio General, Plaza de la Constitución, Paseo Bulnes, Estadio Nacional y Plaza Baquedano) y otras ciudades como Villarrica, Chile",
     "tipoAccion": "marchas, romerías y actos conmemorativos por el 53.º aniversario del golpe de Estado",
@@ -491,19 +539,20 @@
       "Partidos de oposición (PC, Frente Amplio, PS) y plataformas feministas",
       "Centros de estudiantes y organizaciones de izquierda"
     ],
-    "motivo": "Chile conmemora este viernes 11 de septiembre los 53 años del golpe de Estado de 1973 con una jornada de marchas, romerías y actos de memoria en Santiago y otras ciudades, en un contexto de tensión política porque el gobierno del presidente José Antonio Kast confirmó que no habrá acto oficial en La Moneda, lo que la oposición calificó de 'pésima señal' en materia de derechos humanos. Organizaciones de familiares de víctimas, la Fundación Salvador Allende y partidos de oposición convocaron homenajes en el Cementerio General, la Plaza de la Constitución y el Paseo Bulnes, mientras estudiantes y colectivos de izquierda realizan pasacalles y marchas hacia el Estadio Nacional y Plaza Baquedano. La tradicional romería del domingo previo (6 de septiembre) reunió a miles de personas y terminó con 24 detenidos.",
+    "motivo": "Chile conmemora este viernes 11 de septiembre los 53 años del golpe de Estado de 1973 con una jornada de marchas, romerías y actos de memoria en Santiago y otras ciudades, en un contexto de tensión porque el gobierno del presidente José Antonio Kast confirmó que no tendrá acto oficial en La Moneda, lo que la oposición calificó de 'pésima señal' en materia de derechos humanos. Organizaciones de familiares de víctimas, la Fundación Salvador Allende y partidos de oposición convocaron homenajes en el Cementerio General, la Plaza de la Constitución y el Paseo Bulnes, mientras estudiantes y colectivos de izquierda realizan pasacalles y marchas hacia el Estadio Nacional y Plaza Baquedano. Por la tarde, manifestantes que intentaron marchar por la calzada norte de la Alameda fueron dispersados por el Control de Orden Público de Carabineros con carros lanzaaguas y gases tras el lanzamiento de objetos contundentes, y el tránsito de la Alameda quedó cortado en ambos sentidos entre Manuel Rodríguez y Vicuña Mackenna.",
     "status": "en_curso",
     "lat": -33.4489,
     "lng": -70.6693,
     "fuentes": [
       "https://www.biobiochile.cl/noticias/nacional/chile/2026/09/10/oposicion-aumenta-presion-para-conmemorar-11-de-septiembre-ante-descarte-de-kast-una-pesima-senal.shtml",
+      "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/09/11/cortan-el-transito-en-la-alameda-por-incidentes-ante-conmemoracion-del-11-de-septiembre.shtml",
       "https://www.abc.es/internacional/miles-chilenos-marchan-cementerio-anos-despues-golpe-20260907004042-nt.html",
       "https://planogeneral.cl/romeria-11-septiembre-santiago-2026/",
       "https://www.laizquierdadiario.cl/Cientos-de-estudiantes-del-campus-Juan-Gomez-Millas-marchan-al-Estadio-Nacional-a-52-anos-del-golpe",
       "https://www.24horas.cl/actualidad/nacional/sin-acto-oficial-del-gobierno-11-septiembre"
     ],
     "createdAt": "2026-09-11T00:20:28.000Z",
-    "updatedAt": "2026-09-11T17:38:13Z"
+    "updatedAt": "2026-09-11T20:15:57Z"
   },
   {
     "id": "int-2026-09-11-espana-catalunya-diada-manifestacion-independentista",
@@ -531,7 +580,7 @@
       "https://www.expansion.com/catalunya/2026/09/10/6aa31487e5fdea214f8b458d.html"
     ],
     "createdAt": "2026-09-11T09:27:01.000Z",
-    "updatedAt": "2026-09-11T17:38:13Z"
+    "updatedAt": "2026-09-11T20:15:57Z"
   },
   {
     "id": "int-2026-09-11-india-delhi-tibetanos-protesta-brics",
@@ -546,16 +595,17 @@
       "Comunidad tibetana en el exilio (Nueva Delhi)",
       "Tibetan Youth Congress"
     ],
-    "motivo": "La comunidad tibetana en el exilio protestó este viernes 11 de septiembre en Nueva Delhi contra la visita del presidente chino Xi Jinping, que asiste a la cumbre de líderes del BRICS que India acoge los días 11-13 de septiembre. Cientos de exiliados tibetanos marcharon en puntos de la capital con consignas como 'You are not welcome', 'China out of Tibet' y 'Free Tibet', y la Policía de Delhi detuvo a 8-10 manifestantes cerca de Pragati Maidan que se concentraban contra la delegación china. Los activistas urgen a los líderes del BRICS a abordar la situación de los derechos humanos, la lengua, la religión y la cultura en el Tíbet, en particular tras la entrada en vigor en julio de la ley china denominada 'Ethnic Unity and Progress Law'.",
+    "motivo": "La comunidad tibetana en el exilio protestó este viernes 11 de septiembre en Nueva Delhi contra la visita del presidente chino Xi Jinping, que asiste a la cumbre de líderes del BRICS que India acoge los días 11-13 de septiembre. Cientos de exiliados tibetanos marcharon en puntos de la capital con consignas como 'You are not welcome', 'China out of Tibet' y 'Free Tibet', y la Policía de Delhi detuvo a manifestantes cerca de Pragati Maidan. Por la mañana, tres activistas de Students for Free Tibet (SFT) treparon postes en un paso subterráneo cercano a Bharat Mandapam con banderas y consignas como 'Xi Jinping=Genocide' y 'Free Tibet', y cientos de tibetanos de Delhi, Karnataka, Odisha e Himachal Pradesh participaron en una protesta pacífica en Majnu Ka Tila (norte de Delhi) con unos 150 policías desplegados. Los activistas urgen a los líderes del BRICS a abordar la situación de los derechos humanos, la lengua, la religión y la cultura en el Tíbet, en particular tras la entrada en vigor en julio de la ley china denominada 'Ethnic Unity and Progress Law'.",
     "status": "en_curso",
     "lat": 28.6139,
     "lng": 77.209,
     "fuentes": [
       "https://www.deccanherald.com/india/delhi/delhi-police-detain-8-10-tibetans-near-pragati-maidan-over-protest-4142805",
+      "https://www.thehindu.com/news/national/delhi-police-detain-five-for-raising-anti-xi-slogans-near-bharat-mandapam/article71455608.ece",
       "https://www.thehindu.com/videos/shorts/you-are-not-welcome-tibetans-protest-xis-india-visit-brics-summit/article71455639.ece"
     ],
     "createdAt": "2026-09-11T13:43:04.000Z",
-    "updatedAt": "2026-09-11T17:38:13Z"
+    "updatedAt": "2026-09-11T20:15:57Z"
   },
   {
     "id": "int-2026-09-11-india-airrbea-huelga-bancos-rurales",
@@ -578,7 +628,7 @@
       "https://thekanal.in/en-IN/details/airrbea-calls-nationwide-rrb-strikes-from-september-11-seeks-ufbu-recognition-and-support-for-rural-bank-workforce-47635"
     ],
     "createdAt": "2026-09-11T13:43:04.000Z",
-    "updatedAt": "2026-09-11T17:38:13Z"
+    "updatedAt": "2026-09-11T20:15:57Z"
   },
   {
     "id": "int-2026-09-11-eeuu-georgia-cedartown-protesta-donkey",
@@ -601,7 +651,7 @@
       "https://www.wsbtv.com/news/local/protest-scheduled-polk-county-courthouse-over-fatal-donkey-shooting/3IDGDIJM2BGVNNFLEOR2XWXK5E/"
     ],
     "createdAt": "2026-09-11T13:43:04.000Z",
-    "updatedAt": "2026-09-11T17:38:13Z"
+    "updatedAt": "2026-09-11T20:15:57Z"
   },
   {
     "id": "int-2026-09-11-polonia-huelga-maquinistas-trenes",
@@ -626,7 +676,7 @@
       "https://uk.news.yahoo.com/polish-train-drivers-slow-safety-122159663.html"
     ],
     "createdAt": "2026-09-11T17:29:38.000Z",
-    "updatedAt": "2026-09-11T17:38:13Z"
+    "updatedAt": "2026-09-11T20:15:57Z"
   },
   {
     "id": "int-2026-09-11-india-khammam-dharna-kvps",
@@ -648,7 +698,7 @@
       "https://www.thehindu.com/news/national/telangana/kvps-stages-protest-demanding-disbursal-of-pending-compensation-to-victims-of-caste-based-atrocities/article71456464.ece"
     ],
     "createdAt": "2026-09-11T17:29:38.000Z",
-    "updatedAt": "2026-09-11T17:38:13Z"
+    "updatedAt": "2026-09-11T20:15:57Z"
   },
   {
     "id": "int-2026-09-11-eeuu-protestas-viernes-defend-democracy",
@@ -673,6 +723,183 @@
       "https://www.findaprotest.info/cause/defend-democracy"
     ],
     "createdAt": "2026-09-11T17:29:38.000Z",
-    "updatedAt": "2026-09-11T17:38:13Z"
+    "updatedAt": "2026-09-11T20:15:57Z"
+  },
+  {
+    "id": "int-2026-09-11-australia-fedex-twu-lockout-protesta-mcg",
+    "seccion": "protestas_int",
+    "pais": "Australia",
+    "bandera": "🇦🇺",
+    "hora": "lockout de unos 3.000 trabajadores de FedEx este viernes 11 de septiembre, en respuesta a la huelga protegida de 24 horas iniciada el jueves 10 a la medianoche; protesta de unos 100 trabajadores frente al estadio Melbourne Cricket Ground durante el partido inaugural de la NFL",
+    "fecha": "2026-09-11",
+    "lugar": "Australia: depósitos y centros de FedEx en todo el país; protesta frente al estadio Melbourne Cricket Ground (MCG), junto a la estación Jolimont, Melbourne, Victoria",
+    "tipoAccion": "huelga de 24 horas y lockout patronal / protesta sindical frente al MCG",
+    "organizaciones": [
+      "TWU (Transport Workers' Union)",
+      "Conductores y trabajadores de almacén de FedEx Australia (unos 3.000)"
+    ],
+    "motivo": "El sindicato australiano de transportes (TWU) denunció este viernes 11 de septiembre que FedEx aplicó un lockout a unos 3.000 conductores y trabajadores de almacenes por haber participado en la huelga protegida de 24 horas iniciada a la medianoche del jueves 10, en el marco de la mayor campaña laboral coordinada del sector logístico australiano, que sumó además paros en Border Express, K&S, SCT, PFD, Sadleirs, Goldstar y Qube. Unos 100 trabajadores protestaron este viernes frente al estadio Melbourne Cricket Ground, donde ejecutivos de FedEx asistían al primer partido de la NFL en la ciudad, contra el reemplazo de los puestos por robots e inteligencia artificial, el traspaso de trabajo a conductores contratados a destajo y el modelo de 'direct service contract' sin horas mínimas garantizadas. Los trabajadores exigen garantías de seguridad laboral y protección frente a la automatización y la externalización, y el sindicato advirtió que la acción podría continuar.",
+    "status": "en_curso",
+    "lat": -37.8136,
+    "lng": 144.9631,
+    "fuentes": [
+      "https://www.afr.com/work-and-careers/workplace/fedex-workers-locked-out-in-major-escalation-of-transport-fight-20260911-p60whw",
+      "https://www.news.com.au/technology/motoring/hitech/fedex-workers-take-on-robots-over-aussie-jobs/news-story/47ad586b0840b9934f3b88fa54cf4916",
+      "https://www.twu.com.au/press/thousands-of-fedex-workers-to-strike-today-as-company-says-it-will-lock-workers-out/",
+      "https://www.canberratimes.com.au/story/9347999/transport-workers-hit-the-brakes-in-nationwide-strikes/"
+    ],
+    "createdAt": "2026-09-11T19:59:22.000Z",
+    "updatedAt": "2026-09-11T20:15:57Z"
+  },
+  {
+    "id": "int-2026-09-11-venezuela-marcha-presos-politicos-miraflores",
+    "seccion": "protestas_int",
+    "pais": "Venezuela",
+    "bandera": "🇻🇪",
+    "hora": "marcha desde las 10:00 desde la Plaza O'Leary hacia el Palacio de Miraflores; bloqueo antimotines en la avenida Sucre y entrega de exigencias por una comisión que denunció no haber sido recibida por el régimen",
+    "fecha": "2026-09-11",
+    "lugar": "Caracas, Venezuela: Plaza O'Leary (El Silencio), escalinatas de El Calvario y adyacencias del Palacio de Miraflores",
+    "tipoAccion": "marcha pacífica de familiares y activistas / tercer día de la 'Ruta de las Respuestas Pendientes'",
+    "organizaciones": [
+      "CLIPPVE (Comité por la Libertad de los Presos Políticos en Venezuela)",
+      "Familiares de presos políticos (Sandra Hernández, esposa de Luis Bandres; Andreina Baduel, entre otros)"
+    ],
+    "motivo": "Familiares de presos políticos y activistas del Comité por la Libertad de los Presos Políticos en Venezuela (CLIPPVE) marcharon este viernes 11 de septiembre desde la Plaza O'Leary de Caracas hacia el Palacio de Miraflores, en el tercer día de la 'Ruta de las Respuestas Pendientes', para exigir la liberación de los detenidos por razones políticas, la revisión de los casos y medidas humanitarias. Funcionarios de la Policía Nacional Bolivariana con material antimotín bloquearon el paso en la avenida Sucre y, tras un acuerdo, la movilización avanzó hasta las inmediaciones de Miraflores, donde una comisión de tres integrantes ingresó al palacio pero denunció que no fue recibida por una comisión de la Presidencia, que fueron revictimizados y que no existe voluntad de atender los casos de los presos políticos. Durante la marcha se denunciaron tratos crueles y torturas en los centros de reclusión y se pidió una mesa de trabajo con observación internacional. Las actividades culminarán el domingo 13 con una vigilia en la Plaza Bolívar de Chacao.",
+    "status": "en_curso",
+    "lat": 10.5061,
+    "lng": -66.9146,
+    "fuentes": [
+      "https://www.elimpulso.com/2026/09/11/familiares-de-presos-politicos-marchan-a-miraflores-para-exigir-respuestas-sobre-las-detenciones-11sep/",
+      "https://monitoreamos.com/destacado/familiares-de-presos-politicos-marchan-hacia-miraflores-mientras-funcionarios-antimotin-bloquean-el-paso",
+      "https://lapatilla.com/2026/09/11/chavismo-responde-a-una-manifestacion-con-piquete-militar-alrededor-de-miraflores-este-11sep/",
+      "https://contrapunto.com/nacional/derechos-humanos/familiares-de-presos-politicos-denunciaron-tratos-crueles-en-las-carceles-durante-marcha-a-miraflores-fotos-y-videos/"
+    ],
+    "createdAt": "2026-09-11T19:59:22.000Z",
+    "updatedAt": "2026-09-11T20:15:57Z"
+  },
+  {
+    "id": "int-2026-09-11-mexico-cdmx-marcha-sme-cnte-palacio-nacional",
+    "seccion": "protestas_int",
+    "pais": "México",
+    "bandera": "🇲🇽",
+    "hora": "marcha del SME y la Asamblea Nacional de Usuarios de Energía Eléctrica a partir de las 7:30/8:00 hacia Palacio Nacional (con plantón), con unos 2.500 asistentes; concentración de la CNTE (secciones 9, 10, 11 y 60) a las 9:00 en el Centro Histórico; protesta del personal IMSS-Bienestar a las 12:00 en el Hospital Xoco; además de otras 11 concentraciones en la CDMX",
+    "fecha": "2026-09-11",
+    "lugar": "Ciudad de México: corporativo de la CFE (Paseo de la Reforma 164), sede del SME (Antonio Caso 45, colonia Tabacalera), Palacio Nacional, Coordinación General de Recursos Humanos (Isabel la Católica 165) y Hospital General Xoco",
+    "tipoAccion": "marcha sindical y concentraciones de protesta en el centro de la capital mexicana",
+    "organizaciones": [
+      "SME (Sindicato Mexicano de Electricistas)",
+      "Asamblea Nacional de Usuarios de Energía Eléctrica",
+      "CNTE (secciones 9, 10, 11 y 60)",
+      "Personal del IMSS-Bienestar del Hospital General Xoco"
+    ],
+    "motivo": "El Sindicato Mexicano de Electricistas (SME) y la Asamblea Nacional de Usuarios de Energía Eléctrica marcharon este viernes 11 de septiembre desde el corporativo de la CFE y la sede del sindicato hacia Palacio Nacional, donde prevén instalar un plantón, para exigir la reinserción laboral de los trabajadores del SME, el respeto a los derechos de los jubilados de Luz y Fuerza del Centro, la renacionalización de la industria eléctrica, tarifas sociales, la condonación de adeudos y el reconocimiento de la electricidad como derecho humano. En paralelo, secciones de la CNTE se concentraron en el Centro Histórico exigiendo la basificación de docentes interinos, la contratación de personal desplazado y la devolución de descuentos por participar en protestas; el personal del IMSS-Bienestar denunció frente al Hospital Xoco la falta de insumos, la sobrecarga laboral y el déficit de personal; y se sumaron otras concentraciones (derechos de personas trans, pueblos indígenas, colectivo cannábico, trabajadores de la salud, entre otras) en la jornada de movilizaciones de la capital mexicana.",
+    "status": "en_curso",
+    "lat": 19.4326,
+    "lng": -99.1332,
+    "fuentes": [
+      "https://www.infobae.com/mexico/2026/09/11/en-vivo-bloqueos-en-carreteras-accidentes-y-manifestaciones-hoy-11-de-septiembre/",
+      "https://www.ejecentral.com.mx/nuestro-eje/manifestaciones-hoy-viernes-11-de-septiembre-en-cdmx-donde-y-a-que-hora-habra-marchas-y-bloqueos"
+    ],
+    "createdAt": "2026-09-11T19:59:22.000Z",
+    "updatedAt": "2026-09-11T20:15:57Z"
+  },
+  {
+    "id": "int-2026-09-11-italia-cerdena-huelga-aeropuertos-olbia-cagliari",
+    "seccion": "protestas_int",
+    "pais": "Italia",
+    "bandera": "🇮🇹",
+    "hora": "huelga de 24 horas (00:00-23:59) del personal aeroportuario GEASAR en el aeropuerto de Olbia; paro de 4 horas (13:00-17:00) de SOGAER/SOGAER Security/SOGAERDYN en Cagliari-Elmas; huelga nocturna (00:00-04:00) del equipo técnico de Poste Air Cargo; seis vuelos de Volotea cancelados",
+    "fecha": "2026-09-11",
+    "lugar": "Cerdeña, Italia: aeropuerto de Olbia Costa Smeralda y aeropuerto de Cagliari-Elmas",
+    "tipoAccion": "huelga de trabajadores de asistencia y servicios aeroportuarios",
+    "organizaciones": [
+      "GEASAR Spa (personal aeroportuario de Olbia)",
+      "SOGAER, SOGAER Security y SOGAERDYN (trabajadores de Cagliari-Elmas)",
+      "Filt Cgil, Anpac, Anp, Fit Cisl y Uiltrasporti (Poste Air Cargo)"
+    ],
+    "motivo": "El personal aeroportuario de los dos principales aeropuertos de Cerdeña realiza este viernes 11 de septiembre huelgas por condiciones de trabajo y salarios: en Olbia Costa Smeralda, los empleados de GEASAR mantienen un paro de 24 horas desde la medianoche que afecta a todo el tráfico del aeródromo, mientras que en Cagliari-Elmas los trabajadores de SOGAER y sus filiales paran cuatro horas entre las 13:00 y las 17:00, coincidiendo con la franja de mayor salida de vuelos. Se sumó una huelga nocturna (00:00-04:00) del equipo técnico de vuelo de Poste Air Cargo. La jornada deja seis vuelos de Volotea cancelados (rutas con Verona, Venecia y Catania) y retrasos generalizados, en anticipación a nuevas huelgas previstas el domingo 13 en Olbia, Cagliari, Roma (Fiumicino y Ciampino) y Pisa/Florencia.",
+    "status": "en_curso",
+    "lat": 40.8987,
+    "lng": 9.5176,
+    "fuentes": [
+      "https://www.thelocal.it/20260911/how-sundays-airport-strikes-will-affect-travel-in-italy",
+      "https://www.traveltourister.com/news/italy-sardinia-strike-live-september-11-2026-olbia-cagliari-volotea/",
+      "https://striketracker.app/strikes-in-italy"
+    ],
+    "createdAt": "2026-09-11T19:59:22.000Z",
+    "updatedAt": "2026-09-11T20:15:57Z"
+  },
+  {
+    "id": "int-2026-09-11-tailandia-phuket-protesta-save-phuket-chabad",
+    "seccion": "protestas_int",
+    "pais": "Tailandia",
+    "bandera": "🇹🇭",
+    "hora": "concentración de más de 500 personas a las 16:00 en la rotonda del delfín (Patong Beach) y marcha hasta el frente del Chabad House en la calle Rat-U-Thit 200 Pi, con el lema 'SAVE PHUKET NO ISRAEL'",
+    "fecha": "2026-09-11",
+    "lugar": "Phuket, Tailandia: rotonda del delfín (Dolphin Roundabout) en Patong Beach y Chabad House, calle Rat-U-Thit 200 Pi, distrito de Kathu, Patong",
+    "tipoAccion": "protesta del movimiento 'Save Phuket' contra actividades de la comunidad judía local y el comportamiento de turistas israelíes",
+    "organizaciones": [
+      "Save Phuket (Phuket Land Protection Group)",
+      "Redes budistas y musulmanas tailandesas",
+      "Sondhi Limthongkul (promotor de la campaña 'Take Thailand Back')"
+    ],
+    "motivo": "Más de 500 personas, convocadas por el grupo 'Save Phuket' (Phuket Land Protection Group) junto a redes budistas y musulmanas tailandesas, se reunieron este viernes 11 de septiembre a las 16:00 en la rotonda del delfín de Patong Beach y marcharon hasta el Chabad House con carteles como 'SAVE PHUKET NO ISRAEL', en protesta por las actividades de la comunidad judía local y por los incidentes protagonizados por turistas israelíes en el sur de Tailandia, a los que acusan de faltar al respeto de las leyes y costumbres locales, de adquirir tierras de forma irregular, de operar negocios sin permisos y de instalar lugares de culto sin autorización. La protesta forma parte de la campaña 'Take Thailand Back', iniciada tras el malestar por la conducta de ciudadanos israelíes en el país (incluida la guerra en Gaza), y se suma a la protesta del jueves ante la embajada israelí en Bangkok. La Policía de Patong desplegó efectivos para mantener el orden y el tránsito.",
+    "status": "en_curso",
+    "lat": 7.8804,
+    "lng": 98.3923,
+    "fuentes": [
+      "https://www.nationthailand.com/news/general/40070925",
+      "https://asiapacificreport.nz/2026/09/11/take-thailand-back-thais-protest-against-disrespectful-israeli-tourists-in-bangkok/"
+    ],
+    "createdAt": "2026-09-11T19:59:22.000Z",
+    "updatedAt": "2026-09-11T20:15:57Z"
+  },
+  {
+    "id": "int-2026-09-11-bangladesh-protestas-ley-hiba-viernes",
+    "seccion": "protestas_int",
+    "pais": "Bangladés",
+    "bandera": "🇧🇩",
+    "hora": "marchas y concentraciones tras el rezo del viernes (bad Jum'a) en Rajshahi (Sahib Bazar Zero Point), Dhaka, Gazipur, Sylhet, Sunamganj, Comilla, Brahmanbaria, Habiganj, Chandpur y otras ciudades",
+    "fecha": "2026-09-11",
+    "lugar": "Bangladés: Sahib Bazar Zero Point (Rajshahi) y puntos de Dhaka, Gazipur, Sylhet, Sunamganj, Comilla, Kishoreganj, Brahmanbaria, Habiganj, Chandpur y Lakshmipur",
+    "tipoAccion": "marchas de protesta y concentraciones tras el rezo del viernes",
+    "organizaciones": [
+      "Islami Andolan Bangladesh",
+      "Bangladesh Khilafat Majlis (partido de Mamunul Haque)"
+    ],
+    "motivo": "Partidos islamistas de Bangladés realizaron este viernes 11 de septiembre marchas y concentraciones posteriores al rezo del viernes en Rajshahi, Dhaka y numerosas ciudades del país para exigir la derogación de la Ley de Transferencia de Propiedad (Enmienda) de 2026, aprobada por el Parlamento y calificada de 'contraria al Corán y la Sunna', así como el fin de la crisis de gas y electricidad y el freno a la inflación. Los oradores del Islami Andolan Bangladesh y de la Bangladesh Khilafat Majlis denunciaron el deterioro de la economía y del orden público y advirtieron de que, si el Gobierno no deroga la ley, promoverán una 'agitación popular masiva' en las calles.",
+    "status": "en_curso",
+    "lat": 24.3745,
+    "lng": 88.6042,
+    "fuentes": [
+      "https://www.ajkerpatrika.com/bangladesh/rajshahi/ajphi7tcuggoi",
+      "https://www.dailyamardesh.com/politics/amdga9yorwna9"
+    ],
+    "createdAt": "2026-09-11T19:59:22.000Z",
+    "updatedAt": "2026-09-11T20:15:57Z"
+  },
+  {
+    "id": "int-2026-09-11-turquia-miting-filistin-konvoyu-estambul",
+    "seccion": "protestas_int",
+    "pais": "Turquía",
+    "bandera": "🇹🇷",
+    "hora": "miting de bienvenida al 'Filistin Konvoyu' (Convoy de Palestina) este viernes 11 de septiembre en la plaza de la Mezquita Central de Başakşehir, con la llegada del convoy a Estambul procedente de Europa",
+    "fecha": "2026-09-11",
+    "lugar": "Estambul, Turquía: plaza de la Mezquita Central de Başakşehir (Yeni Camii Meydanı)",
+    "tipoAccion": "miting pro palestina de bienvenida al convoy humanitario 'Filistin Konvoyu'",
+    "organizaciones": [
+      "Filistin Konvoyu (Convoy de Palestina, activistas de varios países europeos)",
+      "Plataformas pro palestinas de la sociedad civil turca (entre ellas Özgür-Der)"
+    ],
+    "motivo": "El 'Filistin Konvoyu' (Convoy de Palestina), que partió el 25 de julio de Srebrenica (Bosnia) con activistas de varios países europeos, llegó este viernes 11 de septiembre a Estambul y fue recibido con un miting en la plaza de la Mezquita Central de Başakşehir, donde los participantes corearon consignas como 'Saludo a la resistencia desde Estambul a Gaza', 'Israel asesino, fuera de Palestina' y 'Muerte a Estados Unidos', al denunciar los ataques israelíes en Gaza y Cisjordania, la política de expulsión de palestinos en Cisjordania y la falta de aplicación del derecho internacional. El convoy continuará su ruta por Anatolia (Sakarya, Ankara, Konya, Adana, Gaziantep, Şanlıurfa, Diyarbakır y Mardin) rumbo a Irak y Jordania, con destino final en Ramala, Cisjordania.",
+    "status": "en_curso",
+    "lat": 41.0082,
+    "lng": 28.9784,
+    "fuentes": [
+      "https://banazhaber.com.tr/filistin-konvoyu-istanbulda-karsilandi/",
+      "https://bucakhaber.com.tr/filistin-konvoyu-turkiyeye-girdi/"
+    ],
+    "createdAt": "2026-09-11T19:59:22.000Z",
+    "updatedAt": "2026-09-11T20:15:57Z"
   }
 ]
