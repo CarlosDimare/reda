@@ -38,6 +38,7 @@ jobs:
           REGLA ABSOLUTA — SOLO PROTESTAS DE HOY:
           - La fecha 'fecha' de cada entrada debe ser EXACTAMENTE $HOY.
           - El campo updatedAt debe ser SIEMPRE $AHORA (timestamp UTC actual). NO inventes timestamps.
+          - El campo 'hora' debe ser EXACTAMENTE un horario corto en formato HH:MM (ej: 14:30) o string vacio "". NUNCA texto explicativo, NUNCA rangos, NUNCA descripciones. Si no hay hora puntual, dejar "".
           - createdAt solo para entradas NUEVAS, tambien $AHORA.
           - La FECHA DE PUBLICACION de una noticia NO es la fecha de la accion.
           - Lee CADA noticia con cuidado y extrae la fecha REAL del evento.
@@ -64,6 +65,7 @@ jobs:
           REGLA ABSOLUTA — SOLO PROTESTAS DE HOY:
           - La fecha 'fecha' de cada entrada debe ser EXACTAMENTE $HOY.
           - El campo updatedAt debe ser SIEMPRE $AHORA (timestamp UTC actual). NO inventes timestamps.
+          - El campo 'hora' debe ser EXACTAMENTE un horario corto en formato HH:MM (ej: 14:30) o string vacio "". NUNCA texto explicativo, NUNCA rangos, NUNCA descripciones. Si no hay hora puntual, dejar "".
           - createdAt solo para entradas NUEVAS, tambien $AHORA.
           - La FECHA DE PUBLICACION de una noticia NO es la fecha de la accion.
           - Lee CADA noticia con cuidado y extrae la fecha REAL del evento.
