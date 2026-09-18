@@ -17,10 +17,13 @@
     "lat": -54.8019,
     "lng": -68.303,
     "fuentes": [
-      "https://monitorgremial.com.ar/afudi-destaco-el-nivel-de-adhesion-y-preciso-los-motivos-del-paro/"
+      "https://monitorgremial.com.ar/afudi-destaco-el-nivel-de-adhesion-y-preciso-los-motivos-del-paro/",
+      "https://fmfuego.com.ar/educacion/paro-historico-en-la-untdf-con-suspension-de-la-toma-de-examenes.htm",
+      "https://www.radiofueguina.com/2026/09/aduf-anuncio-un-paro-en-la-untdf-por-el-cese-de-docentes-en-condiciones-de-jubilarse/",
+      "https://www.provincia23.com.ar/2026/09/16/la-docencia-de-la-untdf-de-huelga-contra-los-ceses-automaticos/"
     ],
     "createdAt": "2026-09-17T06:32:11.000Z",
-    "updatedAt": "2026-09-18T15:04:16Z"
+    "updatedAt": "2026-09-18T18:49:20Z"
   },
   {
     "id": "ar-2026-09-17-paro-universitario-pizzurno",
@@ -58,10 +61,157 @@
       "https://www.infobae.com/politica/2026/09/01/los-docentes-universitarios-rechazaron-la-paritaria-que-ofrecio-el-gobierno-y-anunciaron-otro-paro",
       "https://coad.org.ar/2026/09/17/paro-nacional-universitario-18-y-22-de-septiembre-ante-el-fracaso-a-paritaria/",
       "https://www.anroca.com.ar/noticias/2026/09/17/223726-habra-paro-los-dias-18-y-22-de-septiembre-en-todas-las-universidades-de-la-region",
-      "https://adiuc.org.ar/2026/09/17/paro-total-universitario-18-y-22-de-septiembre"
+      "https://adiuc.org.ar/2026/09/17/paro-total-universitario-18-y-22-de-septiembre",
+      "https://www.conclusion.com.ar/gremiales/paro-universitario-no-hay-clases-este-viernes-ni-el-martes-en-todo-el-pais/09/2026/",
+      "https://telegrafo.com.ar/noticias/141805-paro-en-las-universidades-sin-acuerdo-salarial-anuncian-nueva-marcha-federal",
+      "https://www.lagaceta.com.ar/nota/1154531/sociedad/conflicto-universitario-se-profundiza-paro-48-horas-nueva-marcha-federal.html",
+      "https://elinformadordigital.ar/2026/09/18/paro-nacional-universitario-habra-medidas-de-fuerza-este-viernes-18-y-el-22-de-septiembre-tras-el-fracaso-de-la-paritaria/"
     ],
     "createdAt": "2026-09-17T20:00:41.000Z",
-    "updatedAt": "2026-09-18T15:04:16Z"
+    "updatedAt": "2026-09-18T18:49:20Z"
+  },
+  {
+    "id": "ar-2026-09-18-fate-abrazo-planta-virreyes",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "10:00",
+    "fecha": "2026-09-18",
+    "lugar": "Planta de FATE (Fábrica Argentina de Telas Engomadas), Avenida Blanco Encalada 3003, Virreyes/Victoria, partido de San Fernando, provincia de Buenos Aires, Argentina",
+    "tipoAccion": "abrazo simbólico a la planta y conferencia de prensa en los portones, con vigilia obrera permanente, en rechazo a la orden de desalojo",
+    "organizaciones": [
+      "SUTNA (Sindicato Único de Trabajadores del Neumático Argentino)",
+      "Trabajadores y familias de FATE"
+    ],
+    "motivo": "Tras la orden de desalojo dictada este jueves 17 de septiembre por la Sala 2 de la Cámara de Apelaciones y Garantías de San Isidro, que dispuso la restitución del inmueble de la planta de FATE en Virreyes tras siete meses de ocupación, el SUTNA convocó este viernes 18 de septiembre a las 10 a un abrazo a la fábrica y una conferencia de prensa en la puerta de planta (Avenida Blanco Encalada 3003, San Fernando), en el marco del conflicto por el cierre definitivo de la planta y el despido de los 920 trabajadores anunciado el 18 de febrero frente a un lockout patronal que el gremio denuncia como ilegal; los trabajadores mantienen vigilias permanentes en los accesos bajo la consigna 'FATE no se cierra', exigiendo la continuidad de las fuentes de trabajo.",
+    "status": "en_curso",
+    "lat": -34.4534,
+    "lng": -58.5846,
+    "fuentes": [
+      "https://www.minutouno.com/economia/la-justicia-ordeno-el-desalojo-la-fabrica-fate-y-sus-trabajadores-continuan-la-toma-n6323795",
+      "https://redeco.com.ar/principal/77619-ordenan-desalojar-fate",
+      "https://periodismodeizquierda.com/fate-la-justicia-ordena-el-desalojo-de-la-planta/",
+      "https://tn.com.ar/politica/2026/09/18/tension-en-fate-el-gremio-afirmo-que-la-justicia-ordeno-el-desalojo-y-protesta-frente-a-la-planta/"
+    ],
+    "createdAt": "2026-09-18T18:10:08.000Z",
+    "updatedAt": "2026-09-18T18:49:20Z"
+  },
+  {
+    "id": "ar-2026-09-18-sutravip-protesta-portones",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "09:00",
+    "fecha": "2026-09-18",
+    "lugar": "Portones de las terminales de YPF, Axion y Profertil en el Cordón Industrial, departamento San Lorenzo, provincia de Santa Fe, Argentina",
+    "tipoAccion": "manifestación sindical frente a los portones de YPF, Axion y Profertil",
+    "organizaciones": [
+      "SUTRAVIP (Sindicato Único de Trabajadores de la Vigilancia Privada del departamento San Lorenzo)",
+      "Trabajadores de la vigilancia privada del Cordón Industrial"
+    ],
+    "motivo": "El Sindicato Único de Trabajadores de la Vigilancia Privada del departamento San Lorenzo (SUTRAVIP) realiza este viernes 18 de septiembre a las 9 una manifestación frente a los portones de las terminales de YPF, Axion y Profertil, en el marco de un conflicto laboral con la empresa prestadora de servicios de seguridad Securion, tras el intento de traslado injustificado de un trabajador que se desempeña en esas instalaciones; el gremio exige que la firma revea inmediatamente su decisión, defiende la estabilidad laboral del trabajador involucrado y cada puesto de trabajo, y advierte que el sector no permitirá que se rompa la paz social.",
+    "status": "en_curso",
+    "lat": -32.7466,
+    "lng": -60.7325,
+    "fuentes": [
+      "https://lavozderosario.com/sutravip-anuncia-protestas-en-los-portones-de-ypf-axion-y-profertil-por-el-accionar-de-la-empresa-securion/",
+      "https://algoencomun.com.ar/sutravip-protestara-en-los-portones-de-de-ypf-axion-y-profertil/"
+    ],
+    "createdAt": "2026-09-18T18:10:08.000Z",
+    "updatedAt": "2026-09-18T18:49:20Z"
+  },
+  {
+    "id": "ar-2026-09-18-marcha-julio-lopez-laplata",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "17:00",
+    "fecha": "2026-09-18",
+    "lugar": "Marcha desde Plaza Moreno hacia la Gobernación bonaerense, La Plata, provincia de Buenos Aires, Argentina",
+    "tipoAccion": "marcha y movilización de derechos humanos por el 20.º aniversario de la segunda desaparición de Jorge Julio López, con actividades de memoria desde las 11 en el ex CCDyT Comisaría 5.ª",
+    "organizaciones": [
+      "Multisectorial La Plata, Berisso y Ensenada",
+      "Organismos de derechos humanos de La Plata"
+    ],
+    "motivo": "Organismos de derechos humanos, familiares y vecinos marchan este viernes 18 de septiembre en La Plata a 20 años de la segunda desaparición de Jorge Julio López, sobreviviente del terrorismo de Estado y testigo clave en el juicio contra Miguel Etchecolatz, desaparecido el 18 de septiembre de 2006 cuando se dirigía a los alegatos del juicio; la Multisectorial La Plata, Berisso y Ensenada convoca a concentrarse a las 17 en Plaza Moreno y marchar hacia la Gobernación con las consignas '¿Dónde está Julio López?', 'El Estado es responsable' y 'Aparición con vida ya', exigiendo el esclarecimiento del caso, la apertura de los archivos del terrorismo de Estado y cárcel común y perpetua para los responsables.",
+    "status": "en_curso",
+    "lat": -34.9218,
+    "lng": -57.954,
+    "fuentes": [
+      "https://www.pagina12.com.ar/2026/09/18/movilizaciones-por-la-memoria-de-julio-lopez/",
+      "https://www.0221.com.ar/la-plata/las-actividades-20-anos-la-desaparicion-julio-lopez-marcha-muestras-y-conversatorio-n134350",
+      "https://argentina.indymedia.org/2026/09/18/la-plata-20-anos-sin-jorge-julio-lopez/"
+    ],
+    "createdAt": "2026-09-18T18:10:08.000Z",
+    "updatedAt": "2026-09-18T18:49:20Z"
+  },
+  {
+    "id": "ar-2026-09-18-marcha-educacion-popular-josecpaz",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "14:00",
+    "fecha": "2026-09-18",
+    "lugar": "Marcha desde la sede de la Red de Centros Comunitarios El Encuentro (Zuviría 4683) hasta la Universidad Nacional de José C. Paz, José C. Paz, provincia de Buenos Aires, Argentina",
+    "tipoAccion": "marcha y banderazo de la educación popular y comunitaria en el marco del Día de la Educación Popular y Comunitaria",
+    "organizaciones": [
+      "Red de Centros Comunitarios El Encuentro",
+      "Educadoras y trabajadoras comunitarias de José C. Paz"
+    ],
+    "motivo": "Centros comunitarios nucleados en la Red de Centros Comunitarios El Encuentro y otros espacios realizan este viernes 18 de septiembre a las 14 una marcha en el centro de José C. Paz, con banderazo, en el marco del Día de la Educación Popular y Comunitaria (19 de septiembre); la movilización parte de la sede de la Red (Zuviría 4683) y tendrá diferentes paradas hasta la Universidad Nacional de José C. Paz, para visibilizar las tareas de cuidado que desarrollan hace más de 30 años las educadoras comunitarias y reclamar su reconocimiento como trabajadoras, así como el fin del desfinanciamiento de las políticas públicas para las infancias y la comunidad.",
+    "status": "en_curso",
+    "lat": -34.5195,
+    "lng": -58.7709,
+    "fuentes": [
+      "https://fmtinkunaco.ar/?p=7630"
+    ],
+    "createdAt": "2026-09-18T18:10:08.000Z",
+    "updatedAt": "2026-09-18T18:49:20Z"
+  },
+  {
+    "id": "ar-2026-09-18-marcha-justicia-camila-rosario",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "18:00",
+    "fecha": "2026-09-18",
+    "lugar": "Plaza 25 de Mayo (Córdoba y Buenos Aires), Rosario, provincia de Santa Fe, Argentina",
+    "tipoAccion": "marcha y movilización por justicia",
+    "organizaciones": [
+      "Familiares y amigos de Camila Vecchiarello"
+    ],
+    "motivo": "Familiares, amigos y allegados convocan este viernes 18 de septiembre a las 18 a una marcha en la Plaza 25 de Mayo de Rosario para reclamar justicia por el femicidio de Camila Agustina Vecchiarello, la joven de 26 años, aspirante a gendarme y embarazada, asesinada a puñaladas en Barreal, San Juan, tras dictarse un año de prisión preventiva para el único acusado; la movilización, en su ciudad natal, se suma a las manifestaciones realizadas en las localidades sanjuaninas de Barreal, Tamberías y Villa Calingasta y reclama avances en la causa.",
+    "status": "en_curso",
+    "lat": -32.9462,
+    "lng": -60.6394,
+    "fuentes": [
+      "https://santafealdia.com/2026/09/17/marcha-rosario-femicidio-camila-vecchiarello/",
+      "https://www.telesoldiario.com/provinciales/rosario-tambien-marchara-por-camila-convocan-a-pedir-justicia-este-viernes"
+    ],
+    "createdAt": "2026-09-18T18:10:08.000Z",
+    "updatedAt": "2026-09-18T18:49:20Z"
+  },
+  {
+    "id": "ar-2026-09-18-movilizacion-tarifas-electricas-lacosta",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "11:00",
+    "fecha": "2026-09-18",
+    "lugar": "Frente a las sedes de las distribuidoras EDEA, CESOP y CLYFEMA en distintas localidades del Partido de La Costa y frente a la Casa de La Costa (Santiago del Estero 318, Monserrat), Ciudad Autónoma de Buenos Aires, Argentina",
+    "tipoAccion": "movilizaciones de vecinos y usuarios en reclamo por las tarifas eléctricas y la calidad del servicio",
+    "organizaciones": [
+      "Vecinos y usuarios de EDEA, CESOP y CLYFEMA del Partido de La Costa"
+    ],
+    "motivo": "Vecinos y usuarios de las distribuidoras de energía EDEA, CESOP y CLYFEMA convocaron nuevas movilizaciones este viernes 18 de septiembre a las 11, tanto frente a las sedes de las empresas en distintas localidades del Partido de La Costa como en la Ciudad de Buenos Aires, frente a la Casa de La Costa (Santiago del Estero 318, Monserrat), para reclamar por los montos de las facturas considerados excesivos, los cortes de suministro y las distintas dificultades de la prestación del servicio eléctrico, tras semanas de protestas en el distrito.",
+    "status": "en_curso",
+    "lat": -36.6048,
+    "lng": -56.693,
+    "fuentes": [
+      "https://infoprovincia.com.ar/la-costa-vuelve-a-movilizarse-por-las-tarifas-de-luz-y-los-problemas-con-el-servicio/"
+    ],
+    "createdAt": "2026-09-18T18:10:08.000Z",
+    "updatedAt": "2026-09-18T18:49:20Z"
   },
   {
     "id": "py-2026-09-18-kinesiologos-fisioterapeutas-mspbs",
@@ -83,7 +233,7 @@
       "https://www.abc.com.py/nacionales/2026/09/17/kinesiologos-y-fisioterapeutas-se-movilizan-este-viernes-piden-trabajar-20-horas-semanales/"
     ],
     "createdAt": "2026-09-18T05:46:55.000Z",
-    "updatedAt": "2026-09-18T15:04:16Z"
+    "updatedAt": "2026-09-18T18:49:20Z"
   },
   {
     "id": "pe-2026-09-16-paro-regional-loreto-72-horas",
@@ -105,10 +255,12 @@
     "fuentes": [
       "https://larepublica.pe/sociedad/2026/09/16/paro-regional-de-72-horas-protestan-contra-el-alza-de-combustible-cortes-de-luz-y-mineria-ilegal-en-iquitos-730096",
       "https://ahora.com.pe/nacional/paro-de-72-horas-bloquea-vias-en-loreto-por-combustible-electricidad-y-mineria-i",
-      "https://diariolaregion.com/datem-del-maranon-loreto-alto-amazonas-y-requena-confirmaron-su-adhesion-al-paro-regional/"
+      "https://diariolaregion.com/datem-del-maranon-loreto-alto-amazonas-y-requena-confirmaron-su-adhesion-al-paro-regional/",
+      "https://litci.org/en/peru-long-live-the-72-hour-strike/",
+      "https://diariolaregion.com/segundo-dia-de-paro-en-loreto-estuvo-marcado-por-movilizaciones-y-expectativa-por-dialogo-con-el-ejecutivo/"
     ],
     "createdAt": "2026-09-18T05:46:55.000Z",
-    "updatedAt": "2026-09-18T15:04:16Z"
+    "updatedAt": "2026-09-18T18:49:20Z"
   },
   {
     "id": "py-2026-09-18-paro-docente-otep-48h",
@@ -134,7 +286,7 @@
       "https://radiosuceso.com/division-de-gremios-docentes-gabriel-espinola-acusa-a-silvio-piris-de-entregarse-al-ejecutivo-y-traicion/"
     ],
     "createdAt": "2026-09-18T10:32:49.000Z",
-    "updatedAt": "2026-09-18T15:04:16Z"
+    "updatedAt": "2026-09-18T18:49:20Z"
   },
   {
     "id": "in-2026-09-18-paro-chofers-dtc-delhi",
@@ -160,7 +312,7 @@
       "https://www.thehindu.com/news/cities/Delhi/dtc-drivers-strike-continues-despite-delhi-transport-ministers-appeal/article71478041.ece"
     ],
     "createdAt": "2026-09-18T10:32:49.000Z",
-    "updatedAt": "2026-09-18T15:04:16Z"
+    "updatedAt": "2026-09-18T18:49:20Z"
   },
   {
     "id": "in-2026-09-18-huelga-nhm-jammu-cachemira",
@@ -183,7 +335,7 @@
       "https://thekashmirhorizon.com/2026/09/18/nhm-staff-extend-strike-by-72-hours-amid-demands-health-minister-appeals-for-resumption-of-duties/"
     ],
     "createdAt": "2026-09-18T10:32:49.000Z",
-    "updatedAt": "2026-09-18T15:04:16Z"
+    "updatedAt": "2026-09-18T18:49:20Z"
   },
   {
     "id": "in-2026-09-18-protesta-jubilados-chandigarh",
@@ -206,7 +358,7 @@
       "https://sainikwelfare.in/8th-cpc-chandigarh-visit-pensioners-plan-18-september-protest-over-da-dr-merger-and-pension-revision/"
     ],
     "createdAt": "2026-09-18T10:32:49.000Z",
-    "updatedAt": "2026-09-18T15:04:16Z"
+    "updatedAt": "2026-09-18T18:49:20Z"
   },
   {
     "id": "in-2026-09-18-protesta-vendedores-bengaluru",
@@ -229,7 +381,7 @@
       "https://newskarnataka.com/bengaluru/bengaluru-vendors-pourakarmikas-seek-labour-rights/18092026/"
     ],
     "createdAt": "2026-09-18T10:32:49.000Z",
-    "updatedAt": "2026-09-18T15:04:16Z"
+    "updatedAt": "2026-09-18T18:49:20Z"
   },
   {
     "id": "lk-2026-09-18-huelga-ferroviaria-48h",
@@ -258,7 +410,7 @@
       "https://srilankachronicle.com/the-trains-stop-the-country-pays/"
     ],
     "createdAt": "2026-09-18T10:32:49.000Z",
-    "updatedAt": "2026-09-18T15:04:16Z"
+    "updatedAt": "2026-09-18T18:49:20Z"
   },
   {
     "id": "fr-2026-09-18-bloqueo-pescadores-rochela",
@@ -283,7 +435,7 @@
       "https://www.20minutes.fr/societe/4246096-20260917-carburant-nouveaux-blocages-pecheurs-pres-sete-nice-avant-reunion-ministre"
     ],
     "createdAt": "2026-09-18T10:32:49.000Z",
-    "updatedAt": "2026-09-18T15:04:16Z"
+    "updatedAt": "2026-09-18T18:49:20Z"
   },
   {
     "id": "it-2026-09-18-huelga-apple-store",
@@ -307,10 +459,11 @@
       "https://en.ilsole24ore.com/art/apple-launches-a-new-smartphone-and-italian-workers-go-on-strike-AJJPuY9",
       "https://www.filcams.cgil.it/article/homepage/con_il_nuovo_iphone_arriva_anche_lo_sciopero_dei_lavoratori_degli_store_apple",
       "https://www.marketscreener.com/news/italian-apple-store-employees-strike-on-iphone18-pro-launch-day-ce785adadb89fe25",
-      "https://www.cisl.it/apple-retail-italia-sciopero-nazionale/"
+      "https://www.cisl.it/apple-retail-italia-sciopero-nazionale/",
+      "https://www.reuters.com/business/retail-consumer/italian-apple-store-employees-strike-iphone18-pro-launch-day-2026-09-18/"
     ],
     "createdAt": "2026-09-18T10:32:49.000Z",
-    "updatedAt": "2026-09-18T15:04:16Z"
+    "updatedAt": "2026-09-18T18:49:20Z"
   },
   {
     "id": "al-2026-09-18-protesta-tirana-dia-111",
@@ -335,7 +488,7 @@
       "https://albeu.com/english/citizens-revolt-enters-its-111th-day-protesters-return-to-the-square-today-rama-resign/1016774/"
     ],
     "createdAt": "2026-09-18T10:32:49.000Z",
-    "updatedAt": "2026-09-18T15:04:16Z"
+    "updatedAt": "2026-09-18T18:49:20Z"
   },
   {
     "id": "za-2026-09-18-marcha-eff-nsfas-pretoria",
@@ -357,7 +510,7 @@
       "https://www.citizen.co.za/news/these-roads-affected-closed-eff-march-africa-aerospace-defence-show-tshwane/"
     ],
     "createdAt": "2026-09-18T10:32:49.000Z",
-    "updatedAt": "2026-09-18T15:04:16Z"
+    "updatedAt": "2026-09-18T18:49:20Z"
   },
   {
     "id": "nz-2026-09-18-piquete-ara-christchurch",
@@ -380,7 +533,7 @@
       "https://www.scoop.co.nz/stories/BU2609/S00215/ara-polytech-staff-picket-lack-of-negotiation-progress-in-christchurch-today.htm"
     ],
     "createdAt": "2026-09-18T10:32:49.000Z",
-    "updatedAt": "2026-09-18T15:04:16Z"
+    "updatedAt": "2026-09-18T18:49:20Z"
   },
   {
     "id": "ng-2026-09-18-huelga-asuu-uniport",
@@ -402,7 +555,7 @@
       "https://thenationonlineng.net/asuu-declares-strike-in-uniport-calls-off-action-in-uniben/"
     ],
     "createdAt": "2026-09-18T10:32:49.000Z",
-    "updatedAt": "2026-09-18T15:04:16Z"
+    "updatedAt": "2026-09-18T18:49:20Z"
   },
   {
     "id": "ph-2026-09-18-marcha-climatica-manila",
@@ -426,7 +579,7 @@
       "https://tribune.net.ph/2026/09/18/global-week-of-action-for-a-fossil-free-future"
     ],
     "createdAt": "2026-09-18T14:46:56.000Z",
-    "updatedAt": "2026-09-18T15:04:16Z"
+    "updatedAt": "2026-09-18T18:49:20Z"
   },
   {
     "id": "kr-2026-09-18-protesta-samsung-seul",
@@ -448,7 +601,7 @@
       "https://www.ajupress.com/view/20260918190536434"
     ],
     "createdAt": "2026-09-18T14:46:56.000Z",
-    "updatedAt": "2026-09-18T15:04:16Z"
+    "updatedAt": "2026-09-18T18:49:20Z"
   },
   {
     "id": "be-2026-09-18-huelga-controladores-charleroi",
@@ -471,7 +624,7 @@
       "https://www.vrt.be/vrtnws/en/2026/09/18/charleroi-air-traffic-control-strike-46-flights-set-to-be-cance/"
     ],
     "createdAt": "2026-09-18T14:46:56.000Z",
-    "updatedAt": "2026-09-18T15:04:16Z"
+    "updatedAt": "2026-09-18T18:49:20Z"
   },
   {
     "id": "fr-2026-09-18-village-paix-toulon",
@@ -501,7 +654,7 @@
       "https://83.cgtfinancespubliques.fr/actualites/interpro-cgt/article/village-de-la-paix-18-septembre-place-d-armes-toulon"
     ],
     "createdAt": "2026-09-18T14:46:56.000Z",
-    "updatedAt": "2026-09-18T15:04:16Z"
+    "updatedAt": "2026-09-18T18:49:20Z"
   },
   {
     "id": "fr-2026-09-18-rassemble-lgbti-lyon",
@@ -524,6 +677,151 @@
       "https://rebellyon.info/Rassemblement-contre-la-vague-de-40623"
     ],
     "createdAt": "2026-09-18T14:46:56.000Z",
-    "updatedAt": "2026-09-18T15:04:16Z"
+    "updatedAt": "2026-09-18T18:49:20Z"
+  },
+  {
+    "id": "es-2026-09-18-marcha-bombers-barcelona",
+    "seccion": "protestas_globales",
+    "pais": "España",
+    "bandera": "🇪🇸",
+    "hora": "10:00",
+    "fecha": "2026-09-18",
+    "lugar": "Plaça de Sant Jaume, Via Laietana y sede del Departament d'Interior, Barcelona, Cataluña, España",
+    "tipoAccion": "manifestación de los Bombers de la Generalitat de Cataluña (marcha desde la Plaça de Sant Jaume hasta el Departament d'Interior), con unos 800 asistentes según la Guardia Urbana y más de 1.000 según los convocantes",
+    "organizaciones": [
+      "UGT-Bombers de Catalunya",
+      "CGT",
+      "Bombers Precaris en Lluita"
+    ],
+    "motivo": "Los Bombers de la Generalitat de Cataluña cumplen este viernes 18 de septiembre una manifestación en Barcelona convocada por UGT-Bombers de Catalunya, CGT y Bombers Precaris en Lluita: la protesta arrancó hacia las 10:00 en la Plaça de Sant Jaume y recorrió la Via Laietana hasta la sede del Departament d'Interior, donde se registraron momentos de máxima tensión cuando los manifestantes intentaron forzar el cordón policial de los Mossos d'Esquadra que protegían el acceso. Los bomberos y operarios voluntarios denuncian la precariedad y desprotección, las carencias en prevención de riesgos laborales (con exposición a contaminantes tóxicos), el incumplimiento de los acuerdos 2023-26 y exigen la recuperación del poder adquisitivo perdido, mejores equipos de trabajo y recursos para un cuerpo preparado ante las nuevas emergencias.",
+    "status": "en_curso",
+    "lat": 41.3829,
+    "lng": 2.1774,
+    "fuentes": [
+      "https://www.catalunyapress.es/articulo/sociedad/2026-09-18/6020266-tension-maxima-frente-interior-bombers-intentan-superar-cordon-mossos",
+      "https://es.headtopics.com/news/los-bomberos-se-manifiestan-en-barcelona-para-reclamar-87884767"
+    ],
+    "createdAt": "2026-09-18T18:03:18.000Z",
+    "updatedAt": "2026-09-18T18:49:20Z"
+  },
+  {
+    "id": "us-2026-09-18-huelga-guardias-seguridad-california",
+    "seccion": "protestas_globales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "04:30",
+    "fecha": "2026-09-18",
+    "lugar": "Área de la Bahía de San Francisco y Los Ángeles, California, EE. UU. (edificios 555 California, 101 California y Salesforce Tower en San Francisco, y sedes de empresas tecnológicas como Anthropic, OpenAI, Google, Meta y Salesforce)",
+    "tipoAccion": "huelga de unos 14.000 guardias de seguridad privada en California por prácticas laborales injustas, con piquetes en el Área de la Bahía y Los Ángeles",
+    "organizaciones": [
+      "SEIU United Service Workers West (SEIU-USWW)",
+      "Guardias de seguridad de Allied Universal, Securitas, PalAmerican, GardaWorld y Prosegur"
+    ],
+    "motivo": "Unos 14.000 guardias de seguridad privada de California (SEIU United Service Workers West) iniciaron este viernes 18 de septiembre a las 4:30 una huelga por prácticas laborales injustas que afecta a la seguridad de sedes de empresas tecnológicas de primer nivel (OpenAI, Anthropic, Google, Meta, Microsoft, Amazon, Nvidia, Cisco, Salesforce, Netflix) y de minoristas, hospitales y centros de tránsito en la Bahía de San Francisco y Los Ángeles. Tras el fracaso de meses de negociación y una oferta de aumento de 65 centavos en dos años, los agentes -que perciben un salario medio de 20,09 dólares por hora frente a los 30 dólares que reclaman- exigen salarios dignos, mejores prestaciones de salud, condiciones de trabajo más seguras y el cese de la vigilancia, la disciplina retaliatoria y las interferencias con su derecho a huelga.",
+    "status": "en_curso",
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "fuentes": [
+      "https://www.nbcbayarea.com/news/local/security-guards-tech-companies-strike/4144971/",
+      "https://abc7news.com/post/thousands-bay-area-southern-california-security-guards-major-retailers-tech-giants-begin-strike/19845253/",
+      "https://sfstandard.com/2026/09/18/california-security-guard-workers-strike/"
+    ],
+    "createdAt": "2026-09-18T18:03:18.000Z",
+    "updatedAt": "2026-09-18T18:49:20Z"
+  },
+  {
+    "id": "mx-2026-09-18-marcha-sntsa-cdmx",
+    "seccion": "protestas_globales",
+    "pais": "México",
+    "bandera": "🇲🇽",
+    "hora": "15:00",
+    "fecha": "2026-09-18",
+    "lugar": "Marcha desde el Instituto Nacional de Enfermedades Respiratorias 'Ismael Cosío Villegas' (Calzada de Tlalpan 4502, Tlalpan) hasta el Comité Ejecutivo del SNTSA (Av. Oaxaca 58, Roma Norte) y la FSTSE (Valentín Gómez Farías 40, San Rafael), Ciudad de México",
+    "tipoAccion": "marcha '¡Nuestra fuerza está en la unidad!' del Sindicato Nacional de Trabajadores de la Secretaría de Salud (SNTSA), la principal movilización de las 13 concentraciones de la jornada en la CDMX",
+    "organizaciones": [
+      "Sindicato Nacional de Trabajadores de la Secretaría de Salud (SNTSA)",
+      "Federación de Sindicatos de Trabajadores al Servicio del Estado (FSTSE)"
+    ],
+    "motivo": "Integrantes del Sindicato Nacional de Trabajadores de la Secretaría de Salud (SNTSA) realizan este viernes 18 de septiembre a las 15:00 la marcha '¡Nuestra fuerza está en la unidad!' en la Ciudad de México, la principal de las 13 concentraciones sociales previstas en la capital según la agenda de la Secretaría de Seguridad Ciudadana (SSC). El contingente parte del Instituto Nacional de Enfermedades Respiratorias 'Ismael Cosío Villegas' (Calzada de Tlalpan 4502, alcaldía Tlalpan) y se dirige al Comité Ejecutivo Nacional del sindicato (Avenida Oaxaca 58, colonia Roma Norte) y a la Federación de Sindicatos de Trabajadores al Servicio del Estado (Valentín Gómez Farías 40, colonia San Rafael); exigen el respeto de los estatutos generales del sindicato, el derecho al voto para la elección de los representantes de la Sección XVI y procesos limpios, transparentes y representativos. Se prevé la participación de unas 400 personas.",
+    "status": "en_curso",
+    "lat": 19.3906,
+    "lng": -99.1526,
+    "fuentes": [
+      "https://www.infobae.com/mexico/2026/09/18/en-vivo-bloqueos-en-carreteras-accidentes-y-manifestaciones-hoy-18-de-septiembre/",
+      "https://www.nmas.com.mx/ciudad-de-mexico/movilidad/marchas/a-que-hora-inicia-marcha-trabajadores-salud-hoy-18-de-septiembre-2026-centro-cdmx/",
+      "https://www.adn40.mx/ciudad/2026-09-18/marcha-de-trabajadores-de-la-salud-y-bloqueos-en-cdmx-provocaran-trafico-y-caos-vial-hoy/"
+    ],
+    "createdAt": "2026-09-18T18:03:18.000Z",
+    "updatedAt": "2026-09-18T18:49:20Z"
+  },
+  {
+    "id": "ng-2026-09-18-protestas-minna-mineros",
+    "seccion": "protestas_globales",
+    "pais": "Nigeria",
+    "bandera": "🇳🇬",
+    "hora": "",
+    "fecha": "2026-09-18",
+    "lugar": "Minna, capital del estado de Níger (frente a la oficina regional de la NSCDC y en las inmediaciones del Hospital General de Minna), Nigeria",
+    "tipoAccion": "protestas callejeras de residentes, mineros y familiares por la muerte de 37 detenidos bajo custodia de la NSCDC, inclusive durante la mañana de este viernes, con gases lacrimógenos de la policía",
+    "organizaciones": [
+      "Residentes, mineros y familiares de las víctimas de Minna"
+    ],
+    "motivo": "Residentes de Minna, capital del estado de Níger, salen a la calle este viernes 18 de septiembre en protesta por la muerte de 37 detenidos que permanecían bajo custodia de la Nigeria Security and Civil Defence Corps (NSCDC) tras las redadas contra la minería ilegal realizadas el 15 y 16 de septiembre en la zona de Wushishi-Lukoto. Decenas de jóvenes, mineros y familiares se congregaron frente a la oficina del NSCDC y cerca del Hospital General de Minna, donde se velan los cuerpos, y la policía disparó gases lacrimógenos para dispersarlos, en tanto algunos manifestantes portaban palos, machetes y fusiles de caza; los sobrevivientes denuncian que los detenidos murieron asfixiados mientras la corporación atribuye los decesos a un supuesto brote de enfermedad. El ministro del Interior, Olubunbi Tunji-Ojo, ordenó suspender al comandante provincial del NSCDC, Suberu Siyaka Aniviye (variante Suberu Aniwiye), a la espera de una investigación.",
+    "status": "en_curso",
+    "lat": 9.6155,
+    "lng": 6.5477,
+    "fuentes": [
+      "https://www.reuters.com/world/africa/nigeria-forces-open-fire-protest-over-deaths-detainees-witnesses-say-2026-09-18/",
+      "https://www.reuters.com/world/africa/protests-erupt-nigeria-after-33-miners-die-custody-paramilitary-agency-2026-09-18/",
+      "https://www.independent.co.uk/news/nigeria-police-police-officers-b3052424.html"
+    ],
+    "createdAt": "2026-09-18T18:03:18.000Z",
+    "updatedAt": "2026-09-18T18:49:20Z"
+  },
+  {
+    "id": "kr-2026-09-18-protesta-camioneros-hankook-pangyo",
+    "seccion": "protestas_globales",
+    "pais": "Corea del Sur",
+    "bandera": "🇰🇷",
+    "hora": "",
+    "fecha": "2026-09-18",
+    "lugar": "Sede central de Hankook Tire en Pangyo, Bundang-gu, Seongnam, provincia de Gyeonggi, Corea del Sur",
+    "tipoAccion": "conferencia de prensa y acción de protesta de más de tres horas de camioneros del capítulo Hankook Tire de Cargo Solidarity (cadenas y neumáticos ensangrentados frente a la sede), en el día 15 de huelga del sector",
+    "organizaciones": [
+      "Cargo Solidarity (capítulo Hankook Tire) de la Korean Public Service and Transport Workers' Union (KPTU)"
+    ],
+    "motivo": "El capítulo Hankook Tire de Cargo Solidarity (KPTU) realizó este viernes 18 de septiembre una conferencia de prensa y una acción de protesta de más de tres horas frente a la sede de Hankook Tire en Pangyo (Seongnam), en el día 15 de la huelga del sector iniciada el 4 de septiembre: tres afiliados se encadenaron y arrastraron neumáticos manchados de pintura roja ante la puerta principal, denunciando la reducción unilateral del área de servicio del centro logístico de Pyeongtaek y el traslado de los volúmenes de la región de Chungcheong al centro de Gyeryong, lo que recortaría casi un 30% los ingresos de los camioneros. Sin respuesta de la empresa en 15 días, el sindicato exige retirar el plan de reducción, suspender los traslados unilaterales, preparar medidas de subsistencia, negociar de buena fe las tarifas de flete, consultar previamente los cambios logísticos y dialogar directamente con la contratista principal.",
+    "status": "en_curso",
+    "lat": 37.3948,
+    "lng": 127.1112,
+    "fuentes": [
+      "https://en.nocutnews.co.kr/news/6580463"
+    ],
+    "createdAt": "2026-09-18T18:03:18.000Z",
+    "updatedAt": "2026-09-18T18:49:20Z"
+  },
+  {
+    "id": "ph-2026-09-18-protesta-estudiantes-black-friday",
+    "seccion": "protestas_globales",
+    "pais": "Filipinas",
+    "bandera": "🇵🇭",
+    "hora": "",
+    "fecha": "2026-09-18",
+    "lugar": "Campus de la Universidad de Filipinas-Diliman (Quezon City) y de la Polytechnic University of the Philippines (Manila), Filipinas",
+    "tipoAccion": "protesta 'Black Friday' de miles de estudiantes de la UP-Diliman contra la corrupción y la impunidad y por el presupuesto educativo, y walkout de protesta de estudiantes de la PUP, como preludio de la conmemoración del 54.º aniversario de la Ley Marcial",
+    "organizaciones": [
+      "Estudiantes de la Universidad de Filipinas-Diliman (UP)",
+      "Estudiantes de la Polytechnic University of the Philippines (PUP)"
+    ],
+    "motivo": "Miles de estudiantes de la Universidad de Filipinas-Diliman participan este viernes 18 de septiembre en la protesta 'Black Friday' contra la corrupción y la impunidad y en reclamo de un mayor presupuesto para la educación superior, mientras alumnos de la Polytechnic University of the Philippines (PUP) protagonizan un walkout de protesta por la falta de rendición de cuentas del Gobierno y los recortes presupuestarios a la universidad; ambas movilizaciones se enmarcan como preparación de la conmemoración del 54.º aniversario de la declaración de la Ley Marcial bajo el régimen de Ferdinand Marcos Sr., convocada para el lunes 21 de septiembre.",
+    "status": "en_curso",
+    "lat": 14.6557,
+    "lng": 121.0525,
+    "fuentes": [
+      "https://tribune.net.ph/2026/09/18/up-students-black-friday-protest",
+      "https://tribune.net.ph/2026/09/18/pup-students-walkout-protest-as-buildup-for-21-september-rally"
+    ],
+    "createdAt": "2026-09-18T18:03:18.000Z",
+    "updatedAt": "2026-09-18T18:49:20Z"
   }
 ]
