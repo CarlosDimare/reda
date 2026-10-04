@@ -1,336 +1,804 @@
 [
   {
-    "id": "es-2026-10-03-vivienda-madrid-cibeles",
-    "seccion": "internacionales",
-    "pais": "Espana",
-    "bandera": "🇪🇸",
-    "hora": "12:00",
-    "fecha": "2026-10-03",
-    "lugar": "Madrid, cuatro columnas desde Castelar, Atocha, Hospital de la Princesa y Plaza de Espana, confluyendo en Cibeles",
+    "id": "ar-2026-10-04-caminata-casa-cristina-libre-peronia-lujan",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "00:00",
+    "fecha": "2026-10-04",
+    "lugar": "General Rodriguez (posta) y tramo final a pie de unos 10 km hasta la Basilica de Nuestra Senora de Lujan, Lujan, Buenos Aires, Argentina",
     "tipoAccion": "Movilizacion",
     "organizaciones": [
-      "Confederacion de Sindicatos de Inquilinas",
-      "Sindicato de Inquilinas de Madrid",
-      "Sindicat de Llogateres",
-      "Sindicat d'Habitatge Socialista de Catalunya (SHSC)",
-      "Plataformas vecinales y colectivos por la vivienda"
+      "Casa Cristina Libre",
+      "Peronia"
     ],
-    "motivo": "Movilizacion estatal por la vivienda del sabado 3 de octubre de 2026 bajo el lema 'Hacia la huelga general por la vivienda', convocada por la Confederacion de Sindicatos de Inquilinas y numerosos colectivos sociales. El calendario del 2 al 4 de octubre reúne mas de medio centenar de concentraciones y marches en decenas de ciudades del Estado, y responde al rechazo en el Congreso de los Diputados el 2 de octubre de los dos decretos de vivienda del Gobierno. Exigen el fin de los desahucios, contratos de alquiler indefinidos, regulacion del alquiler de temporada y de habitaciones, bajada de alquileres y expropiacion de inmuebles vacios. La Acampada de Sol, abierta el 26 de septiembre en Puerta del Sol de Madrid, sigue en marcha. La marcha estatal de las 12:00 es la principal del dia. La marcha estatal de las 12:00 se realizo y fue la mayor de la jornada: el Sindicato de Inquilinas estimo en unas 500.000 personas las cuatro columnas que salieron de Atocha, la Glorieta de Emilio Castelar, el Hospital de La Princesa y la estacion de Atocha, confluyendo en la Plaza de Cibeles y el Ayuntamiento, conastes 'Ahora toca huelga general', 'El atico de Ayuso lo vamos a okupar' y 'Que pasa, que no tenemos casa'.",
-    "status": "en_curso",
-    "lat": 40.4169,
-    "lng": -3.7038,
+    "motivo": "Convocatoria politica propia de Casa Cristina Libre y Peronia dentro del tramo final de la 52a Peregrinacion Juvenil a Lujan, que recorre unos 60 kilometros desde el Santuario de San Cayetano de Liniers hasta la Basilica de Nuestra Senora de Lujan durante el sabado 3 y el domingo 4 de octubre de 2026. Ambas organizaciones installment el sabado 3 de octubre una posta en General Rodriguez que funciono desde las 12:00 hasta la medianoche, y a las 00:00 de este domingo 4 de octubre los participantes parten desde alli en una caminata de unos 10 kilometros hasta la Basilica bajo el lema \"Por una Cristina libre y soberana\". La caminata se desarrolla en paralelo al tradicional movimiento de peregrinos que durante el fin de semana recorren el camino hacia el santuario. La movilizacion acompana a Cristina Fernandez de Kirchner, a quien las organizaciones consideran injustamente privada de su libertad y proscripta de la vida politica, y sostienen que su situacion plantea una discusion mas amplia vinculada a la democracia, a la representacion politica y al derecho de la ciudadania a decidir, que la proscripcion no debe naturalizarse como parte de la democracia. Participan vecinos de Junin, distintos puntos del interior de la provincia de Buenos Aires, la Capital Federal y el Conurbano, con inscripcion propia a traves del formulario difundido por las organizaciones. Virginia Cerulli, conductora de Peronia, explico que la proposta busca \"que sea una jornada de fe, de comunidad y profundamente respetuosa\", y que caminar juntos hasta Lujan es la manera de decir que \"Cristina no esta sola\". La 52a Peregrinacion Juvenil a Lujan, cuyo lema 2026 es \"Madre, en tu abrazo nos reconocemos hermanos\", tiene su misa central este domingo 4 de octubre a las 07:00 frente a la Basilica, presidedada por el arzobispo de Buenos Aires, monseñor Jorge Garcia Cuerva. La Urna de la Peregrinacion a San Jose, con las cartas y mensajes recogidos durante la jornada, luego sera entregada en San Jose 1111 a Cristina Fernandez de Kirchner. Estado al cierre de esta actualizacion (2026-10-04T00:41:00Z, equivalente a las 21:41 del sabado 3 de octubre en Argentina): la caminata se encuentra programada y aun no ha comenzado, ya que parte a las 00:00 del domingo 4 de octubre.",
+    "status": "programado",
+    "lat": -34.4347,
+    "lng": -59.0901,
     "fuentes": [
-      "https://www.elconfidencial.com/espana/2026-10-02/manifestaciones-vivienda-octubre-horarios-espana-1qrt-1tna_4436939",
-      "https://www.rtve.es/noticias/20261002/manifestacion-vivienda-espana-hora-recorrido/17251533.shtml",
-      "https://diariosocialista.net/2026/10/02/la-acampada-de-sol-llama-a-la-huelga-general-ante-el-previsible-rechazo-de-los-decretos-en-el-congreso/",
-      "https://www.rtve.es/noticias/20261003/manifestaciones-vivienda-espana-cronica/17252068.shtml",
-      "https://www.eldiario.es/madrid/somos/miles-personas-inundan-calles-madrid-vivienda-ahora-toca-huelga-general_1_13557572.html",
-      "https://www.eldiario.es/politica/claves-pasado-sindicato-inquilinas-acampada-viene-ahora-preguntas-respuestas-movilizaciones-sol_1_13558931.html",
-      "https://www.publico.es/economia/vivienda/ultima-hora-protestas-vivienda-directo.html",
-      "https://elpais.com/espana/2026-10-03/reacciones-a-los-decretos-de-vivienda-y-las-acampadas-en-directo.html",
-      "https://www.lavanguardia.com/politica/20261003/11650103/decreto-vivienda-deshaucio-maricarmen-acampada-puerta-del-sol-madrid-barcelona-manifestaciones-crisis-vivienda-ultima-hora-hoy-en-directo.html"
+      "https://eldiariodellunes.com/nota/11425/peregrinacion-a-lujan-casa-cristina-libre-y-peronia-convocan-a-caminar-por-una-cristina-libre-y-soberana/",
+      "https://laradiopublica.com.ar/marcha-jovenes-lujan-fechas/",
+      "https://aica.org/noticia-a-semanas-de-la-visita-papal-lujan-se-prepara-para-la-52-peregrinacion-juvenil",
+      "https://www.a24.com/actualidad/peregrinacion-lujan-fechas-horarios-y-recorrido-la-caminata-la-basilica-n1585858",
+      "https://santuariodelujan.org.ar/lema-52a-peregrinacion-a-lujan-100626/"
     ],
-    "createdAt": "2026-10-03T04:05:41.000Z",
-    "updatedAt": "2026-10-03T22:14:41Z"
+    "createdAt": "2026-10-04T00:41:00.000Z",
+    "updatedAt": "2026-10-04T00:44:49Z"
   },
   {
-    "id": "es-2026-10-03-vivienda-valencia",
+    "id": "co-2026-10-04-marcha-mundial-paz-bogota",
+    "seccion": "internacionales",
+    "pais": "Colombia",
+    "bandera": "🇨🇴",
+    "hora": "10:30",
+    "fecha": "2026-10-04",
+    "lugar": "Bogota, concentracion en el Planetario Distrital (Santa Fe) con destino a la Plaza de Bolivar",
+    "tipoAccion": "Marcha",
+    "organizaciones": [
+      "Marcha Mundial por la Paz y la No Violencia",
+      "Secretaria Distrital de Gobierno de Bogota"
+    ],
+    "motivo": "Cuarta Marcha Mundial por la Paz y la No Violencia del domingo 4 de octubre de 2026 en Bogota, con punto de encuentro a las 10:30 en el Planetario Distrital, en la localidad de Santa Fe, y recorrido hasta la Plaza de Bolivar. La Secretaria Distrital de Gobierno acompana la marcha con sus equipos de gestoras y gestores de Dialogo Social para garantizar el derecho a la protesta pacifica y para avisar de cierres y desvios en la movilidad de la ciudad.",
+    "status": "programado",
+    "lat": 4.5989,
+    "lng": -74.0679,
+    "fuentes": [
+      "https://bogota.gov.co/mi-ciudad/gobierno/marchas-y-manifestaciones-en-bogota-del-1-al-4-de-octubre-de-2026"
+    ],
+    "createdAt": "2026-10-04T00:24:56.000Z",
+    "updatedAt": "2026-10-04T00:44:49Z"
+  },
+  {
+    "id": "es-2026-10-04-vivienda-almeria",
     "seccion": "internacionales",
     "pais": "Espana",
     "bandera": "🇪🇸",
     "hora": "11:00",
-    "fecha": "2026-10-03",
-    "lugar": "Valencia, desde la Puerta de la Mar",
-    "tipoAccion": "Movilizacion",
+    "fecha": "2026-10-04",
+    "lugar": "Almeria, concentracion en la Puerta de Purchena",
+    "tipoAccion": "Concentracion",
     "organizaciones": [
       "Confederacion de Sindicatos de Inquilinas",
       "Sindicato de Inquilinas de Madrid",
       "Sindicat de Llogateres",
-      "Sindicat d'Habitatge Socialista de Catalunya (SHSC)",
       "Plataformas vecinales y colectivos por la vivienda"
     ],
-    "motivo": "Movilizacion estatal por la vivienda del sabado 3 de octubre de 2026 bajo el lema 'Hacia la huelga general por la vivienda', convocada por la Confederacion de Sindicatos de Inquilinas y numerosos colectivos sociales. El calendario del 2 al 4 de octubre reúne mas de medio centenar de concentraciones y marches en decenas de ciudades del Estado, y responde al rechazo en el Congreso de los Diputados el 2 de octubre de los dos decretos de vivienda del Gobierno. Exigen el fin de los desahucios, contratos de alquiler indefinidos, regulacion del alquiler de temporada y de habitaciones, bajada de alquileres y expropiacion de inmuebles vacios. La Acampada de Sol, abierta el 26 de septiembre en Puerta del Sol de Madrid, sigue en marcha. Concentracion matinal. Verificado el 3 de octubre de 2026: el Congreso de los Diputados rechazo el 2 de octubre los dos decretos de vivienda del Gobierno con los votos del PP, Vox y Junts, y la movilizacion se desarrollo en mas de una decena de ciudades. La Acampada de Sol de Puerta del Sol, abierta el 26 de septiembre, sigue en marcha con unas 2.000 personas la noche del 2 al 3 de octubre, y su tercera asamblea voto no levantarla y ampliarla. El Sindicato de Inquilinas esta convocando asambleas de barrio para construir la huelga general, CCOO y UGT debaten una jornada de lucha y la CGT ha anunciado que huelga. Las marchingulas de la tarde y la noche se mantienen en Toledo, Albacete, Malaga, Vigo, Zaragoza, L'Hospitalet y Barcelona. Confirmado el 3 de octubre de 2026 que el circuito estatal por la vivienda se extendio a Toledo, Guadalajara, Zaragoza, Albacete, L'Hospitalet de Llobregat y Barcelona dentro del mismo calendario del 3 al 4 de octubre.",
-    "status": "en_curso",
-    "lat": 39.469,
-    "lng": -0.376,
+    "motivo": "Segunda jornada del circuito estatal por la vivienda del fin de semana del 2 al 4 de octubre de 2026, convocada por la Confederacion de Sindicatos de Inquilinas y numerosos colectivos vecinales y laborales bajo el lema 'Hacia la huelga general por la vivienda'. La convocatoria responde al rechazo en el Congreso de los Diputados el 2 de octubre de los dos decretos de vivienda del Gobierno, con los votos del PP, Vox y Junts. Exigen el fin de los desahucios, contratos de alquiler indefinidos, regulacion del alquiler de temporada y de habitaciones, bajada de alquileres y expropiacion de inmuebles vacios. La Acampada de Sol de Madrid, abierta el 26 de septiembre, sigue en marcha. El domingo 4 de octubre la movilizacion continua en esta ciudad con el horario y el punto de encuentro indicados.",
+    "status": "programado",
+    "lat": 36.8347,
+    "lng": -2.4637,
     "fuentes": [
-      "https://www.elconfidencial.com/espana/2026-10-02/manifestaciones-vivienda-octubre-horarios-espana-1qrt-1tna_4436939",
+      "https://www.elmundo.es/como/2026/10/02/6abfca6de9cf4abb688b4580.html",
       "https://www.rtve.es/noticias/20261002/manifestacion-vivienda-espana-hora-recorrido/17251533.shtml",
-      "https://diariosocialista.net/2026/10/02/la-acampada-de-sol-llama-a-la-huelga-general-ante-el-previsible-rechazo-de-los-decretos-en-el-congreso/",
       "https://www.rtve.es/noticias/20261003/manifestaciones-vivienda-espana-cronica/17252068.shtml",
-      "https://www.eldiario.es/madrid/somos/miles-personas-inundan-calles-madrid-vivienda-ahora-toca-huelga-general_1_13557572.html",
-      "https://www.eldiario.es/politica/claves-pasado-sindicato-inquilinas-acampada-viene-ahora-preguntas-respuestas-movilizaciones-sol_1_13558931.html",
-      "https://www.publico.es/economia/vivienda/ultima-hora-protestas-vivienda-directo.html",
-      "https://elpais.com/espana/2026-10-03/reacciones-a-los-decretos-de-vivienda-y-las-acampadas-en-directo.html",
-      "https://www.lavanguardia.com/politica/20261003/11650103/decreto-vivienda-deshaucio-maricarmen-acampada-puerta-del-sol-madrid-barcelona-manifestaciones-crisis-vivienda-ultima-hora-hoy-en-directo.html",
-      "https://www.eldiario.es/economia/protestas-vivienda-toman-calles-horarios-recorridos-manifestaciones-3-4-octubre_1_13552633.html"
+      "https://www.internazionale.it/ultime-notizie-reuters/2026/10/03/tens-of-thousands-protest-across-spain-over-housing-crisis"
     ],
-    "createdAt": "2026-10-03T04:05:41.000Z",
-    "updatedAt": "2026-10-03T22:14:41Z"
+    "createdAt": "2026-10-04T00:24:56.000Z",
+    "updatedAt": "2026-10-04T00:44:49Z"
   },
   {
-    "id": "es-2026-10-03-vivienda-toledo",
+    "id": "es-2026-10-04-vivienda-cuenca",
     "seccion": "internacionales",
     "pais": "Espana",
     "bandera": "🇪🇸",
-    "hora": "18:30",
-    "fecha": "2026-10-03",
-    "lugar": "Toledo, de la plaza de Zocodover a la plaza del Ayuntamiento por el casco historico",
-    "tipoAccion": "Movilizacion",
+    "hora": "11:30",
+    "fecha": "2026-10-04",
+    "lugar": "Cuenca, plaza de Espana",
+    "tipoAccion": "Concentracion",
     "organizaciones": [
       "Confederacion de Sindicatos de Inquilinas",
       "Sindicato de Inquilinas de Madrid",
       "Sindicat de Llogateres",
-      "Sindicat d'Habitatge Socialista de Catalunya (SHSC)",
       "Plataformas vecinales y colectivos por la vivienda"
     ],
-    "motivo": "Movilizacion estatal por la vivienda del sabado 3 de octubre de 2026 bajo el lema 'Hacia la huelga general por la vivienda', convocada por la Confederacion de Sindicatos de Inquilinas y numerosos colectivos sociales. El calendario del 2 al 4 de octubre reúne mas de medio centenar de concentraciones y marches en decenas de ciudades del Estado, y responde al rechazo en el Congreso de los Diputados el 2 de octubre de los dos decretos de vivienda del Gobierno. Exigen el fin de los desahucios, contratos de alquiler indefinidos, regulacion del alquiler de temporada y de habitaciones, bajada de alquileres y expropiacion de inmuebles vacios. La Acampada de Sol, abierta el 26 de septiembre en Puerta del Sol de Madrid, sigue en marcha. Marcha nocturna por el centro historico. Verificado el 3 de octubre de 2026: el Congreso de los Diputados rechazo el 2 de octubre los dos decretos de vivienda del Gobierno con los votos del PP, Vox y Junts, y la movilizacion se desarrollo en mas de una decena de ciudades. La Acampada de Sol de Puerta del Sol, abierta el 26 de septiembre, sigue en marcha con unas 2.000 personas la noche del 2 al 3 de octubre, y su tercera asamblea voto no levantarla y ampliarla. El Sindicato de Inquilinas esta convocando asambleas de barrio para construir la huelga general, CCOO y UGT debaten una jornada de lucha y la CGT ha anunciado que huelga. Las marchingulas de la tarde y la noche se mantienen en Toledo, Albacete, Malaga, Vigo, Zaragoza, L'Hospitalet y Barcelona. Al cierre de esta actualizacion (14:38 UTC, 16:38 hora peninsular) esta concentracion aun no habia comenzado. Confirmado el 3 de octubre de 2026: la marcha sale a las 18:30 de la plaza de Zocodover, pasa por la plaza de San Vicente y recorre el casco historico hasta la plaza del Ayuntamiento. La convoca la Union Popular de Inquilinos de Toledo con el respaldo de la Plataforma por la vivienda de Castilla-La Mancha. Al cierre de esta actualizacion (18:31 UTC, 20:31 hora peninsular) no se ha localizado recuento ni cronicula posteriores al recorrido.",
+    "motivo": "Segunda jornada del circuito estatal por la vivienda del fin de semana del 2 al 4 de octubre de 2026, convocada por la Confederacion de Sindicatos de Inquilinas y numerosos colectivos vecinales y laborales bajo el lema 'Hacia la huelga general por la vivienda'. La convocatoria responde al rechazo en el Congreso de los Diputados el 2 de octubre de los dos decretos de vivienda del Gobierno, con los votos del PP, Vox y Junts. Exigen el fin de los desahucios, contratos de alquiler indefinidos, regulacion del alquiler de temporada y de habitaciones, bajada de alquileres y expropiacion de inmuebles vacios. La Acampada de Sol de Madrid, abierta el 26 de septiembre, sigue en marcha. El domingo 4 de octubre la movilizacion continua en esta ciudad con el horario y el punto de encuentro indicados.",
     "status": "programado",
-    "lat": 39.8628,
-    "lng": -4.0296,
+    "lat": 40.0699,
+    "lng": -2.1334,
     "fuentes": [
-      "https://www.europapress.es/castilla-lamancha/noticia-toledo-guadalajara-manifiestan-sabado-vivienda-20260930185900.html",
-      "https://www.latribunadetoledo.es/noticia/z3e98c907-6a60-41d1-98e580643250c777/202610/convocan-cacerolada-asamblea-y-manifestacion-por-la-vivienda",
-      "https://www.eldiario.es/economia/protestas-vivienda-toman-calles-horarios-recorridos-manifestaciones-3-4-octubre_1_13552633.html"
-    ],
-    "createdAt": "2026-10-03T04:05:41.000Z",
-    "updatedAt": "2026-10-03T22:14:41Z"
-  },
-  {
-    "id": "es-2026-10-03-vivienda-albacete",
-    "seccion": "internacionales",
-    "pais": "Espana",
-    "bandera": "🇪🇸",
-    "hora": "18:30",
-    "fecha": "2026-10-03",
-    "lugar": "Albacete, plaza Gabriel Lodares",
-    "tipoAccion": "Movilizacion",
-    "organizaciones": [
-      "Confederacion de Sindicatos de Inquilinas",
-      "Sindicato de Inquilinas de Madrid",
-      "Sindicat de Llogateres",
-      "Sindicat d'Habitatge Socialista de Catalunya (SHSC)",
-      "Plataformas vecinales y colectivos por la vivienda"
-    ],
-    "motivo": "Movilizacion estatal por la vivienda del sabado 3 de octubre de 2026 bajo el lema 'Hacia la huelga general por la vivienda', convocada por la Confederacion de Sindicatos de Inquilinas y numerosos colectivos sociales. El calendario del 2 al 4 de octubre reúne mas de medio centenar de concentraciones y marches en decenas de ciudades del Estado, y responde al rechazo en el Congreso de los Diputados el 2 de octubre de los dos decretos de vivienda del Gobierno. Exigen el fin de los desahucios, contratos de alquiler indefinidos, regulacion del alquiler de temporada y de habitaciones, bajada de alquileres y expropiacion de inmuebles vacios. La Acampada de Sol, abierta el 26 de septiembre en Puerta del Sol de Madrid, sigue en marcha. La Confederacion Anarcosindicalista de Albacete, adherida a la AIT, apoya la convocatoria, en plena semana internacional de lucha contra los impagos de salarios. Verificado el 3 de octubre de 2026: el Congreso de los Diputados rechazo el 2 de octubre los dos decretos de vivienda del Gobierno con los votos del PP, Vox y Junts, y la movilizacion se desarrollo en mas de una decena de ciudades. La Acampada de Sol de Puerta del Sol, abierta el 26 de septiembre, sigue en marcha con unas 2.000 personas la noche del 2 al 3 de octubre, y su tercera asamblea voto no levantarla y ampliarla. El Sindicato de Inquilinas esta convocando asambleas de barrio para construir la huelga general, CCOO y UGT debaten una jornada de lucha y la CGT ha anunciado que huelga. Las marchingulas de la tarde y la noche se mantienen en Toledo, Albacete, Malaga, Vigo, Zaragoza, L'Hospitalet y Barcelona. Al cierre de esta actualizacion (14:38 UTC, 16:38 hora peninsular) esta concentracion aun no habia comenzado.",
-    "status": "programado",
-    "lat": 38.997,
-    "lng": -1.856,
-    "fuentes": [
-      "https://www.elconfidencial.com/espana/2026-10-02/manifestaciones-vivienda-octubre-horarios-espana-1qrt-1tna_4436939",
+      "https://www.elmundo.es/como/2026/10/02/6abfca6de9cf4abb688b4580.html",
       "https://www.rtve.es/noticias/20261002/manifestacion-vivienda-espana-hora-recorrido/17251533.shtml",
-      "https://diariosocialista.net/2026/10/02/la-acampada-de-sol-llama-a-la-huelga-general-ante-el-previsible-rechazo-de-los-decretos-en-el-congreso/",
       "https://www.rtve.es/noticias/20261003/manifestaciones-vivienda-espana-cronica/17252068.shtml",
-      "https://www.eldiario.es/madrid/somos/miles-personas-inundan-calles-madrid-vivienda-ahora-toca-huelga-general_1_13557572.html",
-      "https://www.eldiario.es/politica/claves-pasado-sindicato-inquilinas-acampada-viene-ahora-preguntas-respuestas-movilizaciones-sol_1_13558931.html",
-      "https://www.publico.es/economia/vivienda/ultima-hora-protestas-vivienda-directo.html",
-      "https://elpais.com/espana/2026-10-03/reacciones-a-los-decretos-de-vivienda-y-las-acampadas-en-directo.html",
-      "https://www.lavanguardia.com/politica/20261003/11650103/decreto-vivienda-deshaucio-maricarmen-acampada-puerta-del-sol-madrid-barcelona-manifestaciones-crisis-vivienda-ultima-hora-hoy-en-directo.html"
+      "https://www.internazionale.it/ultime-notizie-reuters/2026/10/03/tens-of-thousands-protest-across-spain-over-housing-crisis"
     ],
-    "createdAt": "2026-10-03T04:05:41.000Z",
-    "updatedAt": "2026-10-03T22:14:41Z"
+    "createdAt": "2026-10-04T00:24:56.000Z",
+    "updatedAt": "2026-10-04T00:44:49Z"
   },
   {
-    "id": "es-2026-10-03-vivienda-malaga",
-    "seccion": "internacionales",
-    "pais": "Espana",
-    "bandera": "🇪🇸",
-    "hora": "19:00",
-    "fecha": "2026-10-03",
-    "lugar": "Malaga, desde la plaza de la Constitucion",
-    "tipoAccion": "Movilizacion",
-    "organizaciones": [
-      "Confederacion de Sindicatos de Inquilinas",
-      "Sindicato de Inquilinas de Madrid",
-      "Sindicat de Llogateres",
-      "Sindicat d'Habitatge Socialista de Catalunya (SHSC)",
-      "Plataformas vecinales y colectivos por la vivienda"
-    ],
-    "motivo": "Movilizacion estatal por la vivienda del sabado 3 de octubre de 2026 bajo el lema 'Hacia la huelga general por la vivienda', convocada por la Confederacion de Sindicatos de Inquilinas y numerosos colectivos sociales. El calendario del 2 al 4 de octubre reúne mas de medio centenar de concentraciones y marches en decenas de ciudades del Estado, y responde al rechazo en el Congreso de los Diputados el 2 de octubre de los dos decretos de vivienda del Gobierno. Exigen el fin de los desahucios, contratos de alquiler indefinidos, regulacion del alquiler de temporada y de habitaciones, bajada de alquileres y expropiacion de inmuebles vacios. La Acampada de Sol, abierta el 26 de septiembre en Puerta del Sol de Madrid, sigue en marcha. Marcha nocturna desde el centro. Verificado el 3 de octubre de 2026: el Congreso de los Diputados rechazo el 2 de octubre los dos decretos de vivienda del Gobierno con los votos del PP, Vox y Junts, y la movilizacion se desarrollo en mas de una decena de ciudades. La Acampada de Sol de Puerta del Sol, abierta el 26 de septiembre, sigue en marcha con unas 2.000 personas la noche del 2 al 3 de octubre, y su tercera asamblea voto no levantarla y ampliarla. El Sindicato de Inquilinas esta convocando asambleas de barrio para construir la huelga general, CCOO y UGT debaten una jornada de lucha y la CGT ha anunciado que huelga. Las marchingulas de la tarde y la noche se mantienen en Toledo, Albacete, Malaga, Vigo, Zaragoza, L'Hospitalet y Barcelona. Al cierre de esta actualizacion (14:38 UTC, 16:38 hora peninsular) esta concentracion aun no habia comenzado.",
-    "status": "programado",
-    "lat": 36.72,
-    "lng": -4.42,
-    "fuentes": [
-      "https://www.elconfidencial.com/espana/2026-10-02/manifestaciones-vivienda-octubre-horarios-espana-1qrt-1tna_4436939",
-      "https://www.rtve.es/noticias/20261002/manifestacion-vivienda-espana-hora-recorrido/17251533.shtml",
-      "https://diariosocialista.net/2026/10/02/la-acampada-de-sol-llama-a-la-huelga-general-ante-el-previsible-rechazo-de-los-decretos-en-el-congreso/",
-      "https://www.rtve.es/noticias/20261003/manifestaciones-vivienda-espana-cronica/17252068.shtml",
-      "https://www.eldiario.es/madrid/somos/miles-personas-inundan-calles-madrid-vivienda-ahora-toca-huelga-general_1_13557572.html",
-      "https://www.eldiario.es/politica/claves-pasado-sindicato-inquilinas-acampada-viene-ahora-preguntas-respuestas-movilizaciones-sol_1_13558931.html",
-      "https://www.publico.es/economia/vivienda/ultima-hora-protestas-vivienda-directo.html",
-      "https://elpais.com/espana/2026-10-03/reacciones-a-los-decretos-de-vivienda-y-las-acampadas-en-directo.html",
-      "https://www.lavanguardia.com/politica/20261003/11650103/decreto-vivienda-deshaucio-maricarmen-acampada-puerta-del-sol-madrid-barcelona-manifestaciones-crisis-vivienda-ultima-hora-hoy-en-directo.html"
-    ],
-    "createdAt": "2026-10-03T04:05:41.000Z",
-    "updatedAt": "2026-10-03T22:14:41Z"
-  },
-  {
-    "id": "es-2026-10-03-vivienda-vigo",
-    "seccion": "internacionales",
-    "pais": "Espana",
-    "bandera": "🇪🇸",
-    "hora": "19:00",
-    "fecha": "2026-10-03",
-    "lugar": "Vigo, desde Via Norte con Urzaiz hasta la Puerta del Sol",
-    "tipoAccion": "Movilizacion",
-    "organizaciones": [
-      "Confederacion de Sindicatos de Inquilinas",
-      "Sindicato de Inquilinas de Madrid",
-      "Sindicat de Llogateres",
-      "Sindicat d'Habitatge Socialista de Catalunya (SHSC)",
-      "Plataformas vecinales y colectivos por la vivienda"
-    ],
-    "motivo": "Movilizacion estatal por la vivienda del sabado 3 de octubre de 2026 bajo el lema 'Hacia la huelga general por la vivienda', convocada por la Confederacion de Sindicatos de Inquilinas y numerosos colectivos sociales. El calendario del 2 al 4 de octubre reúne mas de medio centenar de concentraciones y marches en decenas de ciudades del Estado, y responde al rechazo en el Congreso de los Diputados el 2 de octubre de los dos decretos de vivienda del Gobierno. Exigen el fin de los desahucios, contratos de alquiler indefinidos, regulacion del alquiler de temporada y de habitaciones, bajada de alquileres y expropiacion de inmuebles vacios. La Acampada de Sol, abierta el 26 de septiembre en Puerta del Sol de Madrid, sigue en marcha. Marcha nocturna por el centro de Vigo. Verificado el 3 de octubre de 2026: el Congreso de los Diputados rechazo el 2 de octubre los dos decretos de vivienda del Gobierno con los votos del PP, Vox y Junts, y la movilizacion se desarrollo en mas de una decena de ciudades. La Acampada de Sol de Puerta del Sol, abierta el 26 de septiembre, sigue en marcha con unas 2.000 personas la noche del 2 al 3 de octubre, y su tercera asamblea voto no levantarla y ampliarla. El Sindicato de Inquilinas esta convocando asambleas de barrio para construir la huelga general, CCOO y UGT debaten una jornada de lucha y la CGT ha anunciado que huelga. Las marchingulas de la tarde y la noche se mantienen en Toledo, Albacete, Malaga, Vigo, Zaragoza, L'Hospitalet y Barcelona. Al cierre de esta actualizacion (14:38 UTC, 16:38 hora peninsular) esta concentracion aun no habia comenzado.",
-    "status": "programado",
-    "lat": 42.2319,
-    "lng": -8.7228,
-    "fuentes": [
-      "https://www.elconfidencial.com/espana/2026-10-02/manifestaciones-vivienda-octubre-horarios-espana-1qrt-1tna_4436939",
-      "https://www.rtve.es/noticias/20261002/manifestacion-vivienda-espana-hora-recorrido/17251533.shtml",
-      "https://diariosocialista.net/2026/10/02/la-acampada-de-sol-llama-a-la-huelga-general-ante-el-previsible-rechazo-de-los-decretos-en-el-congreso/",
-      "https://www.rtve.es/noticias/20261003/manifestaciones-vivienda-espana-cronica/17252068.shtml",
-      "https://www.eldiario.es/madrid/somos/miles-personas-inundan-calles-madrid-vivienda-ahora-toca-huelga-general_1_13557572.html",
-      "https://www.eldiario.es/politica/claves-pasado-sindicato-inquilinas-acampada-viene-ahora-preguntas-respuestas-movilizaciones-sol_1_13558931.html",
-      "https://www.publico.es/economia/vivienda/ultima-hora-protestas-vivienda-directo.html",
-      "https://elpais.com/espana/2026-10-03/reacciones-a-los-decretos-de-vivienda-y-las-acampadas-en-directo.html",
-      "https://www.lavanguardia.com/politica/20261003/11650103/decreto-vivienda-deshaucio-maricarmen-acampada-puerta-del-sol-madrid-barcelona-manifestaciones-crisis-vivienda-ultima-hora-hoy-en-directo.html"
-    ],
-    "createdAt": "2026-10-03T04:05:41.000Z",
-    "updatedAt": "2026-10-03T22:14:41Z"
-  },
-  {
-    "id": "es-2026-10-03-vivienda-santiago",
+    "id": "es-2026-10-04-metro-l11-aguilas-buenavista",
     "seccion": "internacionales",
     "pais": "Espana",
     "bandera": "🇪🇸",
     "hora": "12:00",
-    "fecha": "2026-10-03",
-    "lugar": "Santiago de Compostela, plaza del Obradoiro",
-    "tipoAccion": "Movilizacion",
+    "fecha": "2026-10-04",
+    "lugar": "Madrid, calle Blas Cabrera 25, sede de la Asociacion Vecinal de Las Aguilas (Carabanchel)",
+    "tipoAccion": "Concentracion",
     "organizaciones": [
-      "Confederacion de Sindicatos de Inquilinas",
-      "Sindicato de Inquilinas de Madrid",
-      "Sindicat de Llogateres",
-      "Sindicat d'Habitatge Socialista de Catalunya (SHSC)",
-      "Plataformas vecinales y colectivos por la vivienda"
+      "Asociacion Vecinal de Las Aguilas",
+      "Plataforma por la Ampliacion Sur de la Linea 11"
     ],
-    "motivo": "Movilizacion estatal por la vivienda del sabado 3 de octubre de 2026 bajo el lema 'Hacia la huelga general por la vivienda', convocada por la Confederacion de Sindicatos de Inquilinas y numerosos colectivos sociales. El calendario del 2 al 4 de octubre reúne mas de medio centenar de concentraciones y marches en decenas de ciudades del Estado, y responde al rechazo en el Congreso de los Diputados el 2 de octubre de los dos decretos de vivienda del Gobierno. Exigen el fin de los desahucios, contratos de alquiler indefinidos, regulacion del alquiler de temporada y de habitaciones, bajada de alquileres y expropiacion de inmuebles vacios. La Acampada de Sol, abierta el 26 de septiembre en Puerta del Sol de Madrid, sigue en marcha. Concentracion a mediodia. Verificado el 3 de octubre de 2026: el Congreso de los Diputados rechazo el 2 de octubre los dos decretos de vivienda del Gobierno con los votos del PP, Vox y Junts, y la movilizacion se desarrollo en mas de una decena de ciudades. La Acampada de Sol de Puerta del Sol, abierta el 26 de septiembre, sigue en marcha con unas 2.000 personas la noche del 2 al 3 de octubre, y su tercera asamblea voto no levantarla y ampliarla. El Sindicato de Inquilinas esta convocando asambleas de barrio para construir la huelga general, CCOO y UGT debaten una jornada de lucha y la CGT ha anunciado que huelga. Las marchingulas de la tarde y la noche se mantienen en Toledo, Albacete, Malaga, Vigo, Zaragoza, L'Hospitalet y Barcelona.",
-    "status": "en_curso",
-    "lat": 42.878,
-    "lng": -8.544,
+    "motivo": "Concentracion del domingo 4 de octubre de 2026 a las 12:00 frente a la sede de la Asociacion Vecinal de Las Aguilas, en la calle Blas Cabrera 25 de Madrid, para reclamar a la Comunidad de Madrid la ejecucion de las estaciones de San Ignacio de Loyola, Avenida de la Aviacion (Las Aguilas) y Buenavista de la Linea 11, previstas en el Plan General de Madrid desde 1997 y en las que siguen excluidos mas de 70.000 vecinos de Las Aguilas, Cuatro Vientos y Buenavista.",
+    "status": "programado",
+    "lat": 40.3702,
+    "lng": -3.7446,
     "fuentes": [
-      "https://www.elconfidencial.com/espana/2026-10-02/manifestaciones-vivienda-octubre-horarios-espana-1qrt-1tna_4436939",
-      "https://www.rtve.es/noticias/20261002/manifestacion-vivienda-espana-hora-recorrido/17251533.shtml",
-      "https://diariosocialista.net/2026/10/02/la-acampada-de-sol-llama-a-la-huelga-general-ante-el-previsible-rechazo-de-los-decretos-en-el-congreso/",
-      "https://www.rtve.es/noticias/20261003/manifestaciones-vivienda-espana-cronica/17252068.shtml",
-      "https://www.eldiario.es/madrid/somos/miles-personas-inundan-calles-madrid-vivienda-ahora-toca-huelga-general_1_13557572.html",
-      "https://www.eldiario.es/politica/claves-pasado-sindicato-inquilinas-acampada-viene-ahora-preguntas-respuestas-movilizaciones-sol_1_13558931.html",
-      "https://www.publico.es/economia/vivienda/ultima-hora-protestas-vivienda-directo.html",
-      "https://elpais.com/espana/2026-10-03/reacciones-a-los-decretos-de-vivienda-y-las-acampadas-en-directo.html",
-      "https://www.lavanguardia.com/politica/20261003/11650103/decreto-vivienda-deshaucio-maricarmen-acampada-puerta-del-sol-madrid-barcelona-manifestaciones-crisis-vivienda-ultima-hora-hoy-en-directo.html"
+      "https://gacetinmadrid.com/2026/10/03/manifestacion-domingo-ampliacion-l11-metro-aguilas-vientos-buenavista/"
     ],
-    "createdAt": "2026-10-03T04:05:41.000Z",
-    "updatedAt": "2026-10-03T22:14:41Z"
+    "createdAt": "2026-10-04T00:24:56.000Z",
+    "updatedAt": "2026-10-04T00:44:49Z"
   },
   {
-    "id": "es-2026-10-03-vivienda-santa-cruz-tenerife",
+    "id": "es-2026-10-04-palestina-almeria",
     "seccion": "internacionales",
     "pais": "Espana",
     "bandera": "🇪🇸",
-    "hora": "11:00",
-    "fecha": "2026-10-03",
-    "lugar": "Santa Cruz de Tenerife, de la plaza Weyler a la plaza del Principe",
-    "tipoAccion": "Movilizacion",
+    "hora": "12:00",
+    "fecha": "2026-10-04",
+    "lugar": "Almeria, Puerta de Purchena",
+    "tipoAccion": "Marcha",
+    "organizaciones": [
+      "RESCOP (Red Solidaria contra la Ocupacion de Palestina)",
+      "Global Alliance for Palestine",
+      "Confederacion General del Trabajo (CGT)",
+      "Sindicato de Inquilinas de Madrid"
+    ],
+    "motivo": "Manifestacion estatal en solidaridad con Palestina del domingo 4 de octubre de 2026, convocada por la plataforma RESCOP (Red Solidaria contra la Ocupacion de Palestina) bajo el lema 'El genocidio continua' al cumplirse tres anos de la intensificacion del genocidio contra el pueblo palestino, y con el respaldo de la CGT, de la Global Alliance for Palestine y del Sindicato de Inquilinas de Madrid. Reclaman un embargo integral de armas a Israel que incluya venta, compra, transito, transferencias, financiacion y colaboracion militar, policial, tecnologica y de seguridad; el fin de las relaciones diplomaticas, economicas, comerciales, academicas, deportivas y culturales con Israel; la suspension del Acuerdo de Asociacion entre la Union Europea e Israel; el desbloqueo de la reforma de la Ley 53/2007; el cierre de las bases militares estadounidenses en el Estado; la derogacion de la Ley Mordaza y el fin de la criminalizacion del movimiento de solidaridad con Palestina. La convocatoria de Barcelona quedo cancelada por el temporal.",
+    "status": "programado",
+    "lat": 36.8347,
+    "lng": -2.4637,
+    "fuentes": [
+      "https://www.publico.es/sociedad/manifestacion-estatal-solidaridad-palestina-fechas-localizacion-protesta.html",
+      "https://www.eldiario.es/politica/ultima-hora-manifestaciones-vivienda-acampada-sol-directo_6_13558760_1125516.html"
+    ],
+    "createdAt": "2026-10-04T00:24:56.000Z",
+    "updatedAt": "2026-10-04T00:44:49Z"
+  },
+  {
+    "id": "es-2026-10-04-palestina-cadiz",
+    "seccion": "internacionales",
+    "pais": "Espana",
+    "bandera": "🇪🇸",
+    "hora": "12:00",
+    "fecha": "2026-10-04",
+    "lugar": "Cadiz, plaza de San Antonio",
+    "tipoAccion": "Marcha",
+    "organizaciones": [
+      "RESCOP (Red Solidaria contra la Ocupacion de Palestina)",
+      "Global Alliance for Palestine",
+      "Confederacion General del Trabajo (CGT)",
+      "Sindicato de Inquilinas de Madrid"
+    ],
+    "motivo": "Manifestacion estatal en solidaridad con Palestina del domingo 4 de octubre de 2026, convocada por la plataforma RESCOP (Red Solidaria contra la Ocupacion de Palestina) bajo el lema 'El genocidio continua' al cumplirse tres anos de la intensificacion del genocidio contra el pueblo palestino, y con el respaldo de la CGT, de la Global Alliance for Palestine y del Sindicato de Inquilinas de Madrid. Reclaman un embargo integral de armas a Israel que incluya venta, compra, transito, transferencias, financiacion y colaboracion militar, policial, tecnologica y de seguridad; el fin de las relaciones diplomaticas, economicas, comerciales, academicas, deportivas y culturales con Israel; la suspension del Acuerdo de Asociacion entre la Union Europea e Israel; el desbloqueo de la reforma de la Ley 53/2007; el cierre de las bases militares estadounidenses en el Estado; la derogacion de la Ley Mordaza y el fin de la criminalizacion del movimiento de solidaridad con Palestina. La convocatoria de Barcelona quedo cancelada por el temporal.",
+    "status": "programado",
+    "lat": 36.5271,
+    "lng": -6.2886,
+    "fuentes": [
+      "https://www.publico.es/sociedad/manifestacion-estatal-solidaridad-palestina-fechas-localizacion-protesta.html",
+      "https://www.eldiario.es/politica/ultima-hora-manifestaciones-vivienda-acampada-sol-directo_6_13558760_1125516.html"
+    ],
+    "createdAt": "2026-10-04T00:24:56.000Z",
+    "updatedAt": "2026-10-04T00:44:49Z"
+  },
+  {
+    "id": "es-2026-10-04-palestina-granada",
+    "seccion": "internacionales",
+    "pais": "Espana",
+    "bandera": "🇪🇸",
+    "hora": "12:00",
+    "fecha": "2026-10-04",
+    "lugar": "Granada, Jardines del Triunfo",
+    "tipoAccion": "Marcha",
+    "organizaciones": [
+      "RESCOP (Red Solidaria contra la Ocupacion de Palestina)",
+      "Global Alliance for Palestine",
+      "Confederacion General del Trabajo (CGT)",
+      "Sindicato de Inquilinas de Madrid"
+    ],
+    "motivo": "Manifestacion estatal en solidaridad con Palestina del domingo 4 de octubre de 2026, convocada por la plataforma RESCOP (Red Solidaria contra la Ocupacion de Palestina) bajo el lema 'El genocidio continua' al cumplirse tres anos de la intensificacion del genocidio contra el pueblo palestino, y con el respaldo de la CGT, de la Global Alliance for Palestine y del Sindicato de Inquilinas de Madrid. Reclaman un embargo integral de armas a Israel que incluya venta, compra, transito, transferencias, financiacion y colaboracion militar, policial, tecnologica y de seguridad; el fin de las relaciones diplomaticas, economicas, comerciales, academicas, deportivas y culturales con Israel; la suspension del Acuerdo de Asociacion entre la Union Europea e Israel; el desbloqueo de la reforma de la Ley 53/2007; el cierre de las bases militares estadounidenses en el Estado; la derogacion de la Ley Mordaza y el fin de la criminalizacion del movimiento de solidaridad con Palestina. La convocatoria de Barcelona quedo cancelada por el temporal.",
+    "status": "programado",
+    "lat": 37.1763,
+    "lng": -3.5881,
+    "fuentes": [
+      "https://www.publico.es/sociedad/manifestacion-estatal-solidaridad-palestina-fechas-localizacion-protesta.html",
+      "https://www.eldiario.es/politica/ultima-hora-manifestaciones-vivienda-acampada-sol-directo_6_13558760_1125516.html"
+    ],
+    "createdAt": "2026-10-04T00:24:56.000Z",
+    "updatedAt": "2026-10-04T00:44:49Z"
+  },
+  {
+    "id": "es-2026-10-04-palestina-madrid-atocha",
+    "seccion": "internacionales",
+    "pais": "Espana",
+    "bandera": "🇪🇸",
+    "hora": "12:00",
+    "fecha": "2026-10-04",
+    "lugar": "Madrid, salida desde la estacion de Atocha",
+    "tipoAccion": "Marcha",
+    "organizaciones": [
+      "RESCOP (Red Solidaria contra la Ocupacion de Palestina)",
+      "Global Alliance for Palestine",
+      "Confederacion General del Trabajo (CGT)",
+      "Sindicato de Inquilinas de Madrid"
+    ],
+    "motivo": "Manifestacion estatal en solidaridad con Palestina del domingo 4 de octubre de 2026, convocada por la plataforma RESCOP (Red Solidaria contra la Ocupacion de Palestina) bajo el lema 'El genocidio continua' al cumplirse tres anos de la intensificacion del genocidio contra el pueblo palestino, y con el respaldo de la CGT, de la Global Alliance for Palestine y del Sindicato de Inquilinas de Madrid. Reclaman un embargo integral de armas a Israel que incluya venta, compra, transito, transferencias, financiacion y colaboracion militar, policial, tecnologica y de seguridad; el fin de las relaciones diplomaticas, economicas, comerciales, academicas, deportivas y culturales con Israel; la suspension del Acuerdo de Asociacion entre la Union Europea e Israel; el desbloqueo de la reforma de la Ley 53/2007; el cierre de las bases militares estadounidenses en el Estado; la derogacion de la Ley Mordaza y el fin de la criminalizacion del movimiento de solidaridad con Palestina. La convocatoria de Barcelona quedo cancelada por el temporal.",
+    "status": "programado",
+    "lat": 40.4168,
+    "lng": -3.7031,
+    "fuentes": [
+      "https://www.publico.es/sociedad/manifestacion-estatal-solidaridad-palestina-fechas-localizacion-protesta.html",
+      "https://www.eldiario.es/politica/ultima-hora-manifestaciones-vivienda-acampada-sol-directo_6_13558760_1125516.html"
+    ],
+    "createdAt": "2026-10-04T00:24:56.000Z",
+    "updatedAt": "2026-10-04T00:44:49Z"
+  },
+  {
+    "id": "es-2026-10-04-palestina-malaga",
+    "seccion": "internacionales",
+    "pais": "Espana",
+    "bandera": "🇪🇸",
+    "hora": "12:00",
+    "fecha": "2026-10-04",
+    "lugar": "Malaga, plaza de la Marina",
+    "tipoAccion": "Marcha",
+    "organizaciones": [
+      "RESCOP (Red Solidaria contra la Ocupacion de Palestina)",
+      "Global Alliance for Palestine",
+      "Confederacion General del Trabajo (CGT)",
+      "Sindicato de Inquilinas de Madrid"
+    ],
+    "motivo": "Manifestacion estatal en solidaridad con Palestina del domingo 4 de octubre de 2026, convocada por la plataforma RESCOP (Red Solidaria contra la Ocupacion de Palestina) bajo el lema 'El genocidio continua' al cumplirse tres anos de la intensificacion del genocidio contra el pueblo palestino, y con el respaldo de la CGT, de la Global Alliance for Palestine y del Sindicato de Inquilinas de Madrid. Reclaman un embargo integral de armas a Israel que incluya venta, compra, transito, transferencias, financiacion y colaboracion militar, policial, tecnologica y de seguridad; el fin de las relaciones diplomaticas, economicas, comerciales, academicas, deportivas y culturales con Israel; la suspension del Acuerdo de Asociacion entre la Union Europea e Israel; el desbloqueo de la reforma de la Ley 53/2007; el cierre de las bases militares estadounidenses en el Estado; la derogacion de la Ley Mordaza y el fin de la criminalizacion del movimiento de solidaridad con Palestina. La convocatoria de Barcelona quedo cancelada por el temporal.",
+    "status": "programado",
+    "lat": 36.7181,
+    "lng": -4.4215,
+    "fuentes": [
+      "https://www.publico.es/sociedad/manifestacion-estatal-solidaridad-palestina-fechas-localizacion-protesta.html",
+      "https://www.eldiario.es/politica/ultima-hora-manifestaciones-vivienda-acampada-sol-directo_6_13558760_1125516.html"
+    ],
+    "createdAt": "2026-10-04T00:24:56.000Z",
+    "updatedAt": "2026-10-04T00:44:49Z"
+  },
+  {
+    "id": "es-2026-10-04-palestina-santa-cruz",
+    "seccion": "internacionales",
+    "pais": "Espana",
+    "bandera": "🇪🇸",
+    "hora": "12:00",
+    "fecha": "2026-10-04",
+    "lugar": "Santa Cruz de Tenerife, plaza Weyler",
+    "tipoAccion": "Marcha",
+    "organizaciones": [
+      "RESCOP (Red Solidaria contra la Ocupacion de Palestina)",
+      "Global Alliance for Palestine",
+      "Confederacion General del Trabajo (CGT)",
+      "Sindicato de Inquilinas de Madrid"
+    ],
+    "motivo": "Manifestacion estatal en solidaridad con Palestina del domingo 4 de octubre de 2026, convocada por la plataforma RESCOP (Red Solidaria contra la Ocupacion de Palestina) bajo el lema 'El genocidio continua' al cumplirse tres anos de la intensificacion del genocidio contra el pueblo palestino, y con el respaldo de la CGT, de la Global Alliance for Palestine y del Sindicato de Inquilinas de Madrid. Reclaman un embargo integral de armas a Israel que incluya venta, compra, transito, transferencias, financiacion y colaboracion militar, policial, tecnologica y de seguridad; el fin de las relaciones diplomaticas, economicas, comerciales, academicas, deportivas y culturales con Israel; la suspension del Acuerdo de Asociacion entre la Union Europea e Israel; el desbloqueo de la reforma de la Ley 53/2007; el cierre de las bases militares estadounidenses en el Estado; la derogacion de la Ley Mordaza y el fin de la criminalizacion del movimiento de solidaridad con Palestina. La convocatoria de Barcelona quedo cancelada por el temporal.",
+    "status": "programado",
+    "lat": 28.463,
+    "lng": -16.2518,
+    "fuentes": [
+      "https://www.publico.es/sociedad/manifestacion-estatal-solidaridad-palestina-fechas-localizacion-protesta.html",
+      "https://www.eldiario.es/politica/ultima-hora-manifestaciones-vivienda-acampada-sol-directo_6_13558760_1125516.html"
+    ],
+    "createdAt": "2026-10-04T00:24:56.000Z",
+    "updatedAt": "2026-10-04T00:44:49Z"
+  },
+  {
+    "id": "es-2026-10-04-palestina-sevilla",
+    "seccion": "internacionales",
+    "pais": "Espana",
+    "bandera": "🇪🇸",
+    "hora": "12:00",
+    "fecha": "2026-10-04",
+    "lugar": "Sevilla, Puerta de Jerez",
+    "tipoAccion": "Marcha",
+    "organizaciones": [
+      "RESCOP (Red Solidaria contra la Ocupacion de Palestina)",
+      "Global Alliance for Palestine",
+      "Confederacion General del Trabajo (CGT)",
+      "Sindicato de Inquilinas de Madrid"
+    ],
+    "motivo": "Manifestacion estatal en solidaridad con Palestina del domingo 4 de octubre de 2026, convocada por la plataforma RESCOP (Red Solidaria contra la Ocupacion de Palestina) bajo el lema 'El genocidio continua' al cumplirse tres anos de la intensificacion del genocidio contra el pueblo palestino, y con el respaldo de la CGT, de la Global Alliance for Palestine y del Sindicato de Inquilinas de Madrid. Reclaman un embargo integral de armas a Israel que incluya venta, compra, transito, transferencias, financiacion y colaboracion militar, policial, tecnologica y de seguridad; el fin de las relaciones diplomaticas, economicas, comerciales, academicas, deportivas y culturales con Israel; la suspension del Acuerdo de Asociacion entre la Union Europea e Israel; el desbloqueo de la reforma de la Ley 53/2007; el cierre de las bases militares estadounidenses en el Estado; la derogacion de la Ley Mordaza y el fin de la criminalizacion del movimiento de solidaridad con Palestina. La convocatoria de Barcelona quedo cancelada por el temporal.",
+    "status": "programado",
+    "lat": 37.3891,
+    "lng": -5.9845,
+    "fuentes": [
+      "https://www.publico.es/sociedad/manifestacion-estatal-solidaridad-palestina-fechas-localizacion-protesta.html",
+      "https://www.eldiario.es/politica/ultima-hora-manifestaciones-vivienda-acampada-sol-directo_6_13558760_1125516.html"
+    ],
+    "createdAt": "2026-10-04T00:24:56.000Z",
+    "updatedAt": "2026-10-04T00:44:49Z"
+  },
+  {
+    "id": "es-2026-10-04-palestina-torrevieja",
+    "seccion": "internacionales",
+    "pais": "Espana",
+    "bandera": "🇪🇸",
+    "hora": "12:00",
+    "fecha": "2026-10-04",
+    "lugar": "Torrevieja, paseo Juan Aparicio",
+    "tipoAccion": "Marcha",
+    "organizaciones": [
+      "RESCOP (Red Solidaria contra la Ocupacion de Palestina)",
+      "Global Alliance for Palestine",
+      "Confederacion General del Trabajo (CGT)",
+      "Sindicato de Inquilinas de Madrid"
+    ],
+    "motivo": "Manifestacion estatal en solidaridad con Palestina del domingo 4 de octubre de 2026, convocada por la plataforma RESCOP (Red Solidaria contra la Ocupacion de Palestina) bajo el lema 'El genocidio continua' al cumplirse tres anos de la intensificacion del genocidio contra el pueblo palestino, y con el respaldo de la CGT, de la Global Alliance for Palestine y del Sindicato de Inquilinas de Madrid. Reclaman un embargo integral de armas a Israel que incluya venta, compra, transito, transferencias, financiacion y colaboracion militar, policial, tecnologica y de seguridad; el fin de las relaciones diplomaticas, economicas, comerciales, academicas, deportivas y culturales con Israel; la suspension del Acuerdo de Asociacion entre la Union Europea e Israel; el desbloqueo de la reforma de la Ley 53/2007; el cierre de las bases militares estadounidenses en el Estado; la derogacion de la Ley Mordaza y el fin de la criminalizacion del movimiento de solidaridad con Palestina. La convocatoria de Barcelona quedo cancelada por el temporal.",
+    "status": "programado",
+    "lat": 37.9787,
+    "lng": -0.6822,
+    "fuentes": [
+      "https://www.publico.es/sociedad/manifestacion-estatal-solidaridad-palestina-fechas-localizacion-protesta.html",
+      "https://www.eldiario.es/politica/ultima-hora-manifestaciones-vivienda-acampada-sol-directo_6_13558760_1125516.html"
+    ],
+    "createdAt": "2026-10-04T00:24:56.000Z",
+    "updatedAt": "2026-10-04T00:44:49Z"
+  },
+  {
+    "id": "es-2026-10-04-palestina-valencia",
+    "seccion": "internacionales",
+    "pais": "Espana",
+    "bandera": "🇪🇸",
+    "hora": "12:00",
+    "fecha": "2026-10-04",
+    "lugar": "Valencia, Plaça de l'Ajuntament",
+    "tipoAccion": "Marcha",
+    "organizaciones": [
+      "RESCOP (Red Solidaria contra la Ocupacion de Palestina)",
+      "Global Alliance for Palestine",
+      "Confederacion General del Trabajo (CGT)",
+      "Sindicato de Inquilinas de Madrid"
+    ],
+    "motivo": "Manifestacion estatal en solidaridad con Palestina del domingo 4 de octubre de 2026, convocada por la plataforma RESCOP (Red Solidaria contra la Ocupacion de Palestina) bajo el lema 'El genocidio continua' al cumplirse tres anos de la intensificacion del genocidio contra el pueblo palestino, y con el respaldo de la CGT, de la Global Alliance for Palestine y del Sindicato de Inquilinas de Madrid. Reclaman un embargo integral de armas a Israel que incluya venta, compra, transito, transferencias, financiacion y colaboracion militar, policial, tecnologica y de seguridad; el fin de las relaciones diplomaticas, economicas, comerciales, academicas, deportivas y culturales con Israel; la suspension del Acuerdo de Asociacion entre la Union Europea e Israel; el desbloqueo de la reforma de la Ley 53/2007; el cierre de las bases militares estadounidenses en el Estado; la derogacion de la Ley Mordaza y el fin de la criminalizacion del movimiento de solidaridad con Palestina. La convocatoria de Barcelona quedo cancelada por el temporal.",
+    "status": "programado",
+    "lat": 39.4699,
+    "lng": -0.3763,
+    "fuentes": [
+      "https://www.publico.es/sociedad/manifestacion-estatal-solidaridad-palestina-fechas-localizacion-protesta.html",
+      "https://www.eldiario.es/politica/ultima-hora-manifestaciones-vivienda-acampada-sol-directo_6_13558760_1125516.html"
+    ],
+    "createdAt": "2026-10-04T00:24:56.000Z",
+    "updatedAt": "2026-10-04T00:44:49Z"
+  },
+  {
+    "id": "es-2026-10-04-vivienda-badajoz",
+    "seccion": "internacionales",
+    "pais": "Espana",
+    "bandera": "🇪🇸",
+    "hora": "12:00",
+    "fecha": "2026-10-04",
+    "lugar": "Badajoz, frente a la Consejeria de Vivienda",
+    "tipoAccion": "Concentracion",
     "organizaciones": [
       "Confederacion de Sindicatos de Inquilinas",
       "Sindicato de Inquilinas de Madrid",
       "Sindicat de Llogateres",
-      "Sindicat d'Habitatge Socialista de Catalunya (SHSC)",
       "Plataformas vecinales y colectivos por la vivienda"
     ],
-    "motivo": "Movilizacion estatal por la vivienda del sabado 3 de octubre de 2026 bajo el lema 'Hacia la huelga general por la vivienda', convocada por la Confederacion de Sindicatos de Inquilinas y numerosos colectivos sociales. El calendario del 2 al 4 de octubre reúne mas de medio centenar de concentraciones y marches en decenas de ciudades del Estado, y responde al rechazo en el Congreso de los Diputados el 2 de octubre de los dos decretos de vivienda del Gobierno. Exigen el fin de los desahucios, contratos de alquiler indefinidos, regulacion del alquiler de temporada y de habitaciones, bajada de alquileres y expropiacion de inmuebles vacios. La Acampada de Sol, abierta el 26 de septiembre en Puerta del Sol de Madrid, sigue en marcha. Marcha matinal en Tenerife, en la jornada en que Las Palmas, Arrecife, Ceuta y Melilla tambien convocan. Verificado el 3 de octubre de 2026: el Congreso de los Diputados rechazo el 2 de octubre los dos decretos de vivienda del Gobierno con los votos del PP, Vox y Junts, y la movilizacion se desarrollo en mas de una decena de ciudades. La Acampada de Sol de Puerta del Sol, abierta el 26 de septiembre, sigue en marcha con unas 2.000 personas la noche del 2 al 3 de octubre, y su tercera asamblea voto no levantarla y ampliarla. El Sindicato de Inquilinas esta convocando asambleas de barrio para construir la huelga general, CCOO y UGT debaten una jornada de lucha y la CGT ha anunciado que huelga. Las marchingulas de la tarde y la noche se mantienen en Toledo, Albacete, Malaga, Vigo, Zaragoza, L'Hospitalet y Barcelona.",
-    "status": "en_curso",
-    "lat": 28.4694,
-    "lng": -16.2545,
+    "motivo": "Segunda jornada del circuito estatal por la vivienda del fin de semana del 2 al 4 de octubre de 2026, convocada por la Confederacion de Sindicatos de Inquilinas y numerosos colectivos vecinales y laborales bajo el lema 'Hacia la huelga general por la vivienda'. La convocatoria responde al rechazo en el Congreso de los Diputados el 2 de octubre de los dos decretos de vivienda del Gobierno, con los votos del PP, Vox y Junts. Exigen el fin de los desahucios, contratos de alquiler indefinidos, regulacion del alquiler de temporada y de habitaciones, bajada de alquileres y expropiacion de inmuebles vacios. La Acampada de Sol de Madrid, abierta el 26 de septiembre, sigue en marcha. El domingo 4 de octubre la movilizacion continua en esta ciudad con el horario y el punto de encuentro indicados.",
+    "status": "programado",
+    "lat": 38.8794,
+    "lng": -6.9707,
     "fuentes": [
-      "https://www.elconfidencial.com/espana/2026-10-02/manifestaciones-vivienda-octubre-horarios-espana-1qrt-1tna_4436939",
+      "https://www.elmundo.es/como/2026/10/02/6abfca6de9cf4abb688b4580.html",
       "https://www.rtve.es/noticias/20261002/manifestacion-vivienda-espana-hora-recorrido/17251533.shtml",
-      "https://diariosocialista.net/2026/10/02/la-acampada-de-sol-llama-a-la-huelga-general-ante-el-previsible-rechazo-de-los-decretos-en-el-congreso/",
       "https://www.rtve.es/noticias/20261003/manifestaciones-vivienda-espana-cronica/17252068.shtml",
-      "https://www.eldiario.es/madrid/somos/miles-personas-inundan-calles-madrid-vivienda-ahora-toca-huelga-general_1_13557572.html",
-      "https://www.eldiario.es/politica/claves-pasado-sindicato-inquilinas-acampada-viene-ahora-preguntas-respuestas-movilizaciones-sol_1_13558931.html",
-      "https://www.publico.es/economia/vivienda/ultima-hora-protestas-vivienda-directo.html",
-      "https://elpais.com/espana/2026-10-03/reacciones-a-los-decretos-de-vivienda-y-las-acampadas-en-directo.html",
-      "https://www.lavanguardia.com/politica/20261003/11650103/decreto-vivienda-deshaucio-maricarmen-acampada-puerta-del-sol-madrid-barcelona-manifestaciones-crisis-vivienda-ultima-hora-hoy-en-directo.html"
+      "https://www.internazionale.it/ultime-notizie-reuters/2026/10/03/tens-of-thousands-protest-across-spain-over-housing-crisis"
     ],
-    "createdAt": "2026-10-03T04:05:41.000Z",
-    "updatedAt": "2026-10-03T22:14:41Z"
+    "createdAt": "2026-10-04T00:24:56.000Z",
+    "updatedAt": "2026-10-04T00:44:49Z"
   },
   {
-    "id": "es-2026-10-03-vivienda-zaragoza",
+    "id": "es-2026-10-04-vivienda-bilbao",
+    "seccion": "internacionales",
+    "pais": "Espana",
+    "bandera": "🇪🇸",
+    "hora": "12:00",
+    "fecha": "2026-10-04",
+    "lugar": "Bilbao, plaza Eliptica",
+    "tipoAccion": "Concentracion",
+    "organizaciones": [
+      "Confederacion de Sindicatos de Inquilinas",
+      "Sindicato de Inquilinas de Madrid",
+      "Sindicat de Llogateres",
+      "Plataformas vecinales y colectivos por la vivienda"
+    ],
+    "motivo": "Segunda jornada del circuito estatal por la vivienda del fin de semana del 2 al 4 de octubre de 2026, convocada por la Confederacion de Sindicatos de Inquilinas y numerosos colectivos vecinales y laborales bajo el lema 'Hacia la huelga general por la vivienda'. La convocatoria responde al rechazo en el Congreso de los Diputados el 2 de octubre de los dos decretos de vivienda del Gobierno, con los votos del PP, Vox y Junts. Exigen el fin de los desahucios, contratos de alquiler indefinidos, regulacion del alquiler de temporada y de habitaciones, bajada de alquileres y expropiacion de inmuebles vacios. La Acampada de Sol de Madrid, abierta el 26 de septiembre, sigue en marcha. El domingo 4 de octubre la movilizacion continua en esta ciudad con el horario y el punto de encuentro indicados.",
+    "status": "programado",
+    "lat": 43.282,
+    "lng": -2.949,
+    "fuentes": [
+      "https://www.elmundo.es/como/2026/10/02/6abfca6de9cf4abb688b4580.html",
+      "https://www.rtve.es/noticias/20261002/manifestacion-vivienda-espana-hora-recorrido/17251533.shtml",
+      "https://www.rtve.es/noticias/20261003/manifestaciones-vivienda-espana-cronica/17252068.shtml",
+      "https://www.internazionale.it/ultime-notizie-reuters/2026/10/03/tens-of-thousands-protest-across-spain-over-housing-crisis"
+    ],
+    "createdAt": "2026-10-04T00:24:56.000Z",
+    "updatedAt": "2026-10-04T00:44:49Z"
+  },
+  {
+    "id": "es-2026-10-04-vivienda-donostia",
+    "seccion": "internacionales",
+    "pais": "Espana",
+    "bandera": "🇪🇸",
+    "hora": "12:00",
+    "fecha": "2026-10-04",
+    "lugar": "Donostia-San Sebastian, boulevard Zumardia",
+    "tipoAccion": "Concentracion",
+    "organizaciones": [
+      "Confederacion de Sindicatos de Inquilinas",
+      "Sindicato de Inquilinas de Madrid",
+      "Sindicat de Llogateres",
+      "Plataformas vecinales y colectivos por la vivienda"
+    ],
+    "motivo": "Segunda jornada del circuito estatal por la vivienda del fin de semana del 2 al 4 de octubre de 2026, convocada por la Confederacion de Sindicatos de Inquilinas y numerosos colectivos vecinales y laborales bajo el lema 'Hacia la huelga general por la vivienda'. La convocatoria responde al rechazo en el Congreso de los Diputados el 2 de octubre de los dos decretos de vivienda del Gobierno, con los votos del PP, Vox y Junts. Exigen el fin de los desahucios, contratos de alquiler indefinidos, regulacion del alquiler de temporada y de habitaciones, bajada de alquileres y expropiacion de inmuebles vacios. La Acampada de Sol de Madrid, abierta el 26 de septiembre, sigue en marcha. El domingo 4 de octubre la movilizacion continua en esta ciudad con el horario y el punto de encuentro indicados.",
+    "status": "programado",
+    "lat": 43.318,
+    "lng": -1.981,
+    "fuentes": [
+      "https://www.elmundo.es/como/2026/10/02/6abfca6de9cf4abb688b4580.html",
+      "https://www.rtve.es/noticias/20261002/manifestacion-vivienda-espana-hora-recorrido/17251533.shtml",
+      "https://www.rtve.es/noticias/20261003/manifestaciones-vivienda-espana-cronica/17252068.shtml",
+      "https://www.internazionale.it/ultime-notizie-reuters/2026/10/03/tens-of-thousands-protest-across-spain-over-housing-crisis"
+    ],
+    "createdAt": "2026-10-04T00:24:56.000Z",
+    "updatedAt": "2026-10-04T00:44:49Z"
+  },
+  {
+    "id": "es-2026-10-04-vivienda-gijon",
+    "seccion": "internacionales",
+    "pais": "Espana",
+    "bandera": "🇪🇸",
+    "hora": "12:00",
+    "fecha": "2026-10-04",
+    "lugar": "Gijon, desde la plaza del Humedal",
+    "tipoAccion": "Concentracion",
+    "organizaciones": [
+      "Confederacion de Sindicatos de Inquilinas",
+      "Sindicato de Inquilinas de Madrid",
+      "Sindicat de Llogateres",
+      "Plataformas vecinales y colectivos por la vivienda"
+    ],
+    "motivo": "Segunda jornada del circuito estatal por la vivienda del fin de semana del 2 al 4 de octubre de 2026, convocada por la Confederacion de Sindicatos de Inquilinas y numerosos colectivos vecinales y laborales bajo el lema 'Hacia la huelga general por la vivienda'. La convocatoria responde al rechazo en el Congreso de los Diputados el 2 de octubre de los dos decretos de vivienda del Gobierno, con los votos del PP, Vox y Junts. Exigen el fin de los desahucios, contratos de alquiler indefinidos, regulacion del alquiler de temporada y de habitaciones, bajada de alquileres y expropiacion de inmuebles vacios. La Acampada de Sol de Madrid, abierta el 26 de septiembre, sigue en marcha. El domingo 4 de octubre la movilizacion continua en esta ciudad con el horario y el punto de encuentro indicados.",
+    "status": "programado",
+    "lat": 43.5322,
+    "lng": -5.6614,
+    "fuentes": [
+      "https://www.elmundo.es/como/2026/10/02/6abfca6de9cf4abb688b4580.html",
+      "https://www.rtve.es/noticias/20261002/manifestacion-vivienda-espana-hora-recorrido/17251533.shtml",
+      "https://www.rtve.es/noticias/20261003/manifestaciones-vivienda-espana-cronica/17252068.shtml",
+      "https://www.internazionale.it/ultime-notizie-reuters/2026/10/03/tens-of-thousands-protest-across-spain-over-housing-crisis"
+    ],
+    "createdAt": "2026-10-04T00:24:56.000Z",
+    "updatedAt": "2026-10-04T00:44:49Z"
+  },
+  {
+    "id": "es-2026-10-04-vivienda-iruna-pamplona",
+    "seccion": "internacionales",
+    "pais": "Espana",
+    "bandera": "🇪🇸",
+    "hora": "12:00",
+    "fecha": "2026-10-04",
+    "lugar": "Iruña-Pamplona, plaza de las Merindades",
+    "tipoAccion": "Concentracion",
+    "organizaciones": [
+      "Confederacion de Sindicatos de Inquilinas",
+      "Sindicato de Inquilinas de Madrid",
+      "Sindicat de Llogateres",
+      "Plataformas vecinales y colectivos por la vivienda"
+    ],
+    "motivo": "Segunda jornada del circuito estatal por la vivienda del fin de semana del 2 al 4 de octubre de 2026, convocada por la Confederacion de Sindicatos de Inquilinas y numerosos colectivos vecinales y laborales bajo el lema 'Hacia la huelga general por la vivienda'. La convocatoria responde al rechazo en el Congreso de los Diputados el 2 de octubre de los dos decretos de vivienda del Gobierno, con los votos del PP, Vox y Junts. Exigen el fin de los desahucios, contratos de alquiler indefinidos, regulacion del alquiler de temporada y de habitaciones, bajada de alquileres y expropiacion de inmuebles vacios. La Acampada de Sol de Madrid, abierta el 26 de septiembre, sigue en marcha. El domingo 4 de octubre la movilizacion continua en esta ciudad con el horario y el punto de encuentro indicados.",
+    "status": "programado",
+    "lat": 42.8125,
+    "lng": -1.6458,
+    "fuentes": [
+      "https://www.elmundo.es/como/2026/10/02/6abfca6de9cf4abb688b4580.html",
+      "https://www.rtve.es/noticias/20261002/manifestacion-vivienda-espana-hora-recorrido/17251533.shtml",
+      "https://www.rtve.es/noticias/20261003/manifestaciones-vivienda-espana-cronica/17252068.shtml",
+      "https://www.internazionale.it/ultime-notizie-reuters/2026/10/03/tens-of-thousands-protest-across-spain-over-housing-crisis"
+    ],
+    "createdAt": "2026-10-04T00:24:56.000Z",
+    "updatedAt": "2026-10-04T00:44:49Z"
+  },
+  {
+    "id": "es-2026-10-04-vivienda-salamanca",
+    "seccion": "internacionales",
+    "pais": "Espana",
+    "bandera": "🇪🇸",
+    "hora": "12:00",
+    "fecha": "2026-10-04",
+    "lugar": "Salamanca, frente a la Subdelegacion del Gobierno",
+    "tipoAccion": "Concentracion",
+    "organizaciones": [
+      "Confederacion de Sindicatos de Inquilinas",
+      "Sindicato de Inquilinas de Madrid",
+      "Sindicat de Llogateres",
+      "Plataformas vecinales y colectivos por la vivienda"
+    ],
+    "motivo": "Segunda jornada del circuito estatal por la vivienda del fin de semana del 2 al 4 de octubre de 2026, convocada por la Confederacion de Sindicatos de Inquilinas y numerosos colectivos vecinales y laborales bajo el lema 'Hacia la huelga general por la vivienda'. La convocatoria responde al rechazo en el Congreso de los Diputados el 2 de octubre de los dos decretos de vivienda del Gobierno, con los votos del PP, Vox y Junts. Exigen el fin de los desahucios, contratos de alquiler indefinidos, regulacion del alquiler de temporada y de habitaciones, bajada de alquileres y expropiacion de inmuebles vacios. La Acampada de Sol de Madrid, abierta el 26 de septiembre, sigue en marcha. El domingo 4 de octubre la movilizacion continua en esta ciudad con el horario y el punto de encuentro indicados.",
+    "status": "programado",
+    "lat": 40.9701,
+    "lng": -5.6635,
+    "fuentes": [
+      "https://www.elmundo.es/como/2026/10/02/6abfca6de9cf4abb688b4580.html",
+      "https://www.rtve.es/noticias/20261002/manifestacion-vivienda-espana-hora-recorrido/17251533.shtml",
+      "https://www.rtve.es/noticias/20261003/manifestaciones-vivienda-espana-cronica/17252068.shtml",
+      "https://www.internazionale.it/ultime-notizie-reuters/2026/10/03/tens-of-thousands-protest-across-spain-over-housing-crisis"
+    ],
+    "createdAt": "2026-10-04T00:24:56.000Z",
+    "updatedAt": "2026-10-04T00:44:49Z"
+  },
+  {
+    "id": "es-2026-10-04-vivienda-vitoria",
+    "seccion": "internacionales",
+    "pais": "Espana",
+    "bandera": "🇪🇸",
+    "hora": "12:00",
+    "fecha": "2026-10-04",
+    "lugar": "Vitoria-Gasteiz, plaza de la Virgen Blanca",
+    "tipoAccion": "Concentracion",
+    "organizaciones": [
+      "Confederacion de Sindicatos de Inquilinas",
+      "Sindicato de Inquilinas de Madrid",
+      "Sindicat de Llogateres",
+      "Plataformas vecinales y colectivos por la vivienda"
+    ],
+    "motivo": "Segunda jornada del circuito estatal por la vivienda del fin de semana del 2 al 4 de octubre de 2026, convocada por la Confederacion de Sindicatos de Inquilinas y numerosos colectivos vecinales y laborales bajo el lema 'Hacia la huelga general por la vivienda'. La convocatoria responde al rechazo en el Congreso de los Diputados el 2 de octubre de los dos decretos de vivienda del Gobierno, con los votos del PP, Vox y Junts. Exigen el fin de los desahucios, contratos de alquiler indefinidos, regulacion del alquiler de temporada y de habitaciones, bajada de alquileres y expropiacion de inmuebles vacios. La Acampada de Sol de Madrid, abierta el 26 de septiembre, sigue en marcha. El domingo 4 de octubre la movilizacion continua en esta ciudad con el horario y el punto de encuentro indicados.",
+    "status": "programado",
+    "lat": 42.8467,
+    "lng": -2.6717,
+    "fuentes": [
+      "https://www.elmundo.es/como/2026/10/02/6abfca6de9cf4abb688b4580.html",
+      "https://www.rtve.es/noticias/20261002/manifestacion-vivienda-espana-hora-recorrido/17251533.shtml",
+      "https://www.rtve.es/noticias/20261003/manifestaciones-vivienda-espana-cronica/17252068.shtml",
+      "https://www.internazionale.it/ultime-notizie-reuters/2026/10/03/tens-of-thousands-protest-across-spain-over-housing-crisis"
+    ],
+    "createdAt": "2026-10-04T00:24:56.000Z",
+    "updatedAt": "2026-10-04T00:44:49Z"
+  },
+  {
+    "id": "es-2026-10-04-vivienda-logrono",
+    "seccion": "internacionales",
+    "pais": "Espana",
+    "bandera": "🇪🇸",
+    "hora": "12:30",
+    "fecha": "2026-10-04",
+    "lugar": "Logrono, glorieta del Doctor Zubia",
+    "tipoAccion": "Concentracion",
+    "organizaciones": [
+      "Confederacion de Sindicatos de Inquilinas",
+      "Sindicato de Inquilinas de Madrid",
+      "Sindicat de Llogateres",
+      "Plataformas vecinales y colectivos por la vivienda"
+    ],
+    "motivo": "Segunda jornada del circuito estatal por la vivienda del fin de semana del 2 al 4 de octubre de 2026, convocada por la Confederacion de Sindicatos de Inquilinas y numerosos colectivos vecinales y laborales bajo el lema 'Hacia la huelga general por la vivienda'. La convocatoria responde al rechazo en el Congreso de los Diputados el 2 de octubre de los dos decretos de vivienda del Gobierno, con los votos del PP, Vox y Junts. Exigen el fin de los desahucios, contratos de alquiler indefinidos, regulacion del alquiler de temporada y de habitaciones, bajada de alquileres y expropiacion de inmuebles vacios. La Acampada de Sol de Madrid, abierta el 26 de septiembre, sigue en marcha. El domingo 4 de octubre la movilizacion continua en esta ciudad con el horario y el punto de encuentro indicados.",
+    "status": "programado",
+    "lat": 42.4627,
+    "lng": -2.445,
+    "fuentes": [
+      "https://www.elmundo.es/como/2026/10/02/6abfca6de9cf4abb688b4580.html",
+      "https://www.rtve.es/noticias/20261002/manifestacion-vivienda-espana-hora-recorrido/17251533.shtml",
+      "https://www.rtve.es/noticias/20261003/manifestaciones-vivienda-espana-cronica/17252068.shtml",
+      "https://www.internazionale.it/ultime-notizie-reuters/2026/10/03/tens-of-thousands-protest-across-spain-over-housing-crisis"
+    ],
+    "createdAt": "2026-10-04T00:24:56.000Z",
+    "updatedAt": "2026-10-04T00:44:49Z"
+  },
+  {
+    "id": "de-2026-10-04-es-reicht-geldern",
+    "seccion": "internacionales",
+    "pais": "Alemania",
+    "bandera": "🇩🇪",
+    "hora": "13:00",
+    "fecha": "2026-10-04",
+    "lugar": "Geldern, Marktplatz, con concentracion inicial, marcha a pie por el centro y concentracion final",
+    "tipoAccion": "Marcha",
+    "organizaciones": [
+      "Die Linke, Kreisverband Kleve",
+      "Bundnis 'Es reicht! Das Leben bezahlbar machen'"
+    ],
+    "motivo": "Demostracion y protesta social en Geldern el domingo 4 de octubre de 2026 a las 13:00 en el Markt, convocada por el Kreisverband Kleve de Die Linke bajo el lema 'Es reicht! Deine Arbeit. Deine Gesundheit. Deine Rente.' Es parte de las protestas sociales de alcance nacional 'Es reicht - das Leben bezahlbar machen' contra el mayor recorte de la seguridad social previsto por el Gobierno federal: Integrationshilfe, la jubilacion tras 45 años de cotizacion, los honorarios de los psicoterapeutas y la posible derogacion de la jornada de ocho horas. La jornada comienza con una concentracion, continua con una marcha a pie por el centro de la ciudad y termina en una nueva concentracion.",
+    "status": "programado",
+    "lat": 51.9597,
+    "lng": 6.308,
+    "fuentes": [
+      "https://www.niederrhein-nachrichten.de/nachrichten/demonstration-und-sozialprotest-in-geldern-22890.html"
+    ],
+    "createdAt": "2026-10-04T00:24:56.000Z",
+    "updatedAt": "2026-10-04T00:44:49Z"
+  },
+  {
+    "id": "gb-2026-10-04-cable-street-90-aniversario",
+    "seccion": "internacionales",
+    "pais": "Reino Unido",
+    "bandera": "🇬🇧",
+    "hora": "13:00",
+    "fecha": "2026-10-04",
+    "lugar": "Londres, East End: cita a las 12:00 frente al Ayuntamiento de Tower Hamlets (Whitechapel) y marcha a las 13:00 hasta St George's Gardens",
+    "tipoAccion": "Marcha",
+    "organizaciones": [
+      "Together on Cable Street",
+      "Unite the Union",
+      "Rail, Maritime and Transport Union (RMT)",
+      "Trades Union Congress (TUC)"
+    ],
+    "motivo": "Marcha y acto central del 90 aniversario de la Batalla de Cable Street del domingo 4 de octubre de 2026 en el East End de Londres, con apoyo de Unite, RMT y el Trades Union Congress. La cita es a las 12:00 frente al Ayuntamiento de Tower Hamlets, en Whitechapel, y la marcha parte a las 13:00 hasta St George's Gardens. El 4 de octubre de 1936 mas de 100.000 trabajadores del East End impidieron la marcha de la British Union of Fascists de Oswald Mosley y el lema 'They Shall Not Pass' sigue siendo el reclamo central, dentro de una temporada de actos culturales y de formación preparada para el aniversario.",
+    "status": "programado",
+    "lat": 51.5195,
+    "lng": -0.0755,
+    "fuentes": [
+      "https://www.unitetheunion.org/news-events/events/the-battle-of-cable-street-90th-anniversary",
+      "https://www.tuc.org.uk/blogs/90th-anniversary-battle-cable-street-honour-past-and-shape-future",
+      "https://togetheroncablestreet.com/",
+      "https://www.rmt.org.uk/news/events/battle-of-cable-street-90th-anniversary/"
+    ],
+    "createdAt": "2026-10-04T00:24:56.000Z",
+    "updatedAt": "2026-10-04T00:44:49Z"
+  },
+  {
+    "id": "kr-2026-10-04-concentracion-domicilio-yoo-hae-jin",
+    "seccion": "internacionales",
+    "pais": "Corea del Sur",
+    "bandera": "🇰🇷",
+    "hora": "16:30",
+    "fecha": "2026-10-04",
+    "lugar": "Seul, concentracion frente al domicilio del actor Yoo Hae-jin en el norte de la capital",
+    "tipoAccion": "Concentracion",
+    "organizaciones": [
+      "New Freedom Solidarity"
+    ],
+    "motivo": "Concentracion diaria a las 16:30 frente al domicilio del actor Yoo Hae-jin en el norte de Seul, convocada por el colectivo conservador New Freedom Solidarity desde el sabado 3 de octubre hasta el final de octubre de 2026, para protestar por las supuestas imprecisiones historicas de la pelicula 'The Assassin(s)', en la que Yoo encarna al tirano Park Chung-hee. Los grupos conservadores argumentan que la pelicula implica de forma malintencionada que Park estaba detras del asesinato de su esposa Yuk Young-soo en 1974. El colectivo presento sus planes ante la policia y pide que el actor participe en peliculas de derechas para equilibrar la produccion audiovisual.",
+    "status": "programado",
+    "lat": 37.6136,
+    "lng": 127.0068,
+    "fuentes": [
+      "https://www.koreatimes.co.kr/entertainment/films/20261002/civic-group-to-rally-outside-actors-home-over-film-the-assassins",
+      "https://en.yna.co.kr/view/AEN20261002005500315?section=national/national"
+    ],
+    "createdAt": "2026-10-04T00:24:56.000Z",
+    "updatedAt": "2026-10-04T00:44:49Z"
+  },
+  {
+    "id": "es-2026-10-04-vivienda-murcia",
     "seccion": "internacionales",
     "pais": "Espana",
     "bandera": "🇪🇸",
     "hora": "18:00",
-    "fecha": "2026-10-03",
-    "lugar": "Zaragoza, desde la plaza de Santo Domingo",
-    "tipoAccion": "Movilizacion",
+    "fecha": "2026-10-04",
+    "lugar": "Murcia, desde la plaza de la Cruz Roja",
+    "tipoAccion": "Concentracion",
     "organizaciones": [
       "Confederacion de Sindicatos de Inquilinas",
       "Sindicato de Inquilinas de Madrid",
       "Sindicat de Llogateres",
-      "Sindicat d'Habitatge Socialista de Catalunya (SHSC)",
       "Plataformas vecinales y colectivos por la vivienda"
     ],
-    "motivo": "Movilizacion estatal por la vivienda del sabado 3 de octubre de 2026 bajo el lema 'Hacia la huelga general por la vivienda', convocada por la Confederacion de Sindicatos de Inquilinas y numerosos colectivos sociales. El calendario del 2 al 4 de octubre reúne mas de medio centenar de concentraciones y marches en decenas de ciudades del Estado, y responde al rechazo en el Congreso de los Diputados el 2 de octubre de los dos decretos de vivienda del Gobierno. Exigen el fin de los desahucios, contratos de alquiler indefinidos, regulacion del alquiler de temporada y de habitaciones, bajada de alquileres y expropiacion de inmuebles vacios. La Acampada de Sol, abierta el 26 de septiembre en Puerta del Sol de Madrid, sigue en marcha. Marcha aragonesa por la vivienda. Verificado el 3 de octubre de 2026: el Congreso de los Diputados rechazo el 2 de octubre los dos decretos de vivienda del Gobierno con los votos del PP, Vox y Junts, y la movilizacion se desarrollo en mas de una decena de ciudades. La Acampada de Sol de Puerta del Sol, abierta el 26 de septiembre, sigue en marcha con unas 2.000 personas la noche del 2 al 3 de octubre, y su tercera asamblea voto no levantarla y ampliarla. El Sindicato de Inquilinas esta convocando asambleas de barrio para construir la huelga general, CCOO y UGT debaten una jornada de lucha y la CGT ha anunciado que huelga. Las marchingulas de la tarde y la noche se mantienen en Toledo, Albacete, Malaga, Vigo, Zaragoza, L'Hospitalet y Barcelona. Al cierre de esta actualizacion (14:38 UTC, 16:38 hora peninsular) esta concentracion aun no habia comenzado.",
+    "motivo": "Segunda jornada del circuito estatal por la vivienda del fin de semana del 2 al 4 de octubre de 2026, convocada por la Confederacion de Sindicatos de Inquilinas y numerosos colectivos vecinales y laborales bajo el lema 'Hacia la huelga general por la vivienda'. La convocatoria responde al rechazo en el Congreso de los Diputados el 2 de octubre de los dos decretos de vivienda del Gobierno, con los votos del PP, Vox y Junts. Exigen el fin de los desahucios, contratos de alquiler indefinidos, regulacion del alquiler de temporada y de habitaciones, bajada de alquileres y expropiacion de inmuebles vacios. La Acampada de Sol de Madrid, abierta el 26 de septiembre, sigue en marcha. El domingo 4 de octubre la movilizacion continua en esta ciudad con el horario y el punto de encuentro indicados.",
     "status": "programado",
-    "lat": 41.6483,
-    "lng": -0.8891,
+    "lat": 37.9876,
+    "lng": -1.1303,
     "fuentes": [
-      "https://www.elconfidencial.com/espana/2026-10-02/manifestaciones-vivienda-octubre-horarios-espana-1qrt-1tna_4436939",
+      "https://www.elmundo.es/como/2026/10/02/6abfca6de9cf4abb688b4580.html",
       "https://www.rtve.es/noticias/20261002/manifestacion-vivienda-espana-hora-recorrido/17251533.shtml",
-      "https://diariosocialista.net/2026/10/02/la-acampada-de-sol-llama-a-la-huelga-general-ante-el-previsible-rechazo-de-los-decretos-en-el-congreso/",
       "https://www.rtve.es/noticias/20261003/manifestaciones-vivienda-espana-cronica/17252068.shtml",
-      "https://www.eldiario.es/madrid/somos/miles-personas-inundan-calles-madrid-vivienda-ahora-toca-huelga-general_1_13557572.html",
-      "https://www.eldiario.es/politica/claves-pasado-sindicato-inquilinas-acampada-viene-ahora-preguntas-respuestas-movilizaciones-sol_1_13558931.html",
-      "https://www.publico.es/economia/vivienda/ultima-hora-protestas-vivienda-directo.html",
-      "https://elpais.com/espana/2026-10-03/reacciones-a-los-decretos-de-vivienda-y-las-acampadas-en-directo.html",
-      "https://www.lavanguardia.com/politica/20261003/11650103/decreto-vivienda-deshaucio-maricarmen-acampada-puerta-del-sol-madrid-barcelona-manifestaciones-crisis-vivienda-ultima-hora-hoy-en-directo.html"
+      "https://www.internazionale.it/ultime-notizie-reuters/2026/10/03/tens-of-thousands-protest-across-spain-over-housing-crisis"
     ],
-    "createdAt": "2026-10-03T04:05:41.000Z",
-    "updatedAt": "2026-10-03T22:14:41Z"
+    "createdAt": "2026-10-04T00:24:56.000Z",
+    "updatedAt": "2026-10-04T00:44:49Z"
   },
   {
-    "id": "in-2026-10-03-jantar-mantar-protesta-cec-yanesh-kumar",
+    "id": "es-2026-10-04-vivienda-teruel",
+    "seccion": "internacionales",
+    "pais": "Espana",
+    "bandera": "🇪🇸",
+    "hora": "18:30",
+    "fecha": "2026-10-04",
+    "lugar": "Teruel, plaza del Torico",
+    "tipoAccion": "Concentracion",
+    "organizaciones": [
+      "Confederacion de Sindicatos de Inquilinas",
+      "Sindicato de Inquilinas de Madrid",
+      "Sindicat de Llogateres",
+      "Plataformas vecinales y colectivos por la vivienda"
+    ],
+    "motivo": "Segunda jornada del circuito estatal por la vivienda del fin de semana del 2 al 4 de octubre de 2026, convocada por la Confederacion de Sindicatos de Inquilinas y numerosos colectivos vecinales y laborales bajo el lema 'Hacia la huelga general por la vivienda'. La convocatoria responde al rechazo en el Congreso de los Diputados el 2 de octubre de los dos decretos de vivienda del Gobierno, con los votos del PP, Vox y Junts. Exigen el fin de los desahucios, contratos de alquiler indefinidos, regulacion del alquiler de temporada y de habitaciones, bajada de alquileres y expropiacion de inmuebles vacios. La Acampada de Sol de Madrid, abierta el 26 de septiembre, sigue en marcha. El domingo 4 de octubre la movilizacion continua en esta ciudad con el horario y el punto de encuentro indicados.",
+    "status": "programado",
+    "lat": 40.3436,
+    "lng": -1.1078,
+    "fuentes": [
+      "https://www.elmundo.es/como/2026/10/02/6abfca6de9cf4abb688b4580.html",
+      "https://www.rtve.es/noticias/20261002/manifestacion-vivienda-espana-hora-recorrido/17251533.shtml",
+      "https://www.rtve.es/noticias/20261003/manifestaciones-vivienda-espana-cronica/17252068.shtml",
+      "https://www.internazionale.it/ultime-notizie-reuters/2026/10/03/tens-of-thousands-protest-across-spain-over-housing-crisis"
+    ],
+    "createdAt": "2026-10-04T00:24:56.000Z",
+    "updatedAt": "2026-10-04T00:44:49Z"
+  },
+  {
+    "id": "es-2026-10-04-vivienda-cordoba",
+    "seccion": "internacionales",
+    "pais": "Espana",
+    "bandera": "🇪🇸",
+    "hora": "19:00",
+    "fecha": "2026-10-04",
+    "lugar": "Cordoba, desde la plaza de Costasol con llegada al Ayuntamiento",
+    "tipoAccion": "Concentracion",
+    "organizaciones": [
+      "Confederacion de Sindicatos de Inquilinas",
+      "Sindicato de Inquilinas de Madrid",
+      "Sindicat de Llogateres",
+      "Plataformas vecinales y colectivos por la vivienda"
+    ],
+    "motivo": "Segunda jornada del circuito estatal por la vivienda del fin de semana del 2 al 4 de octubre de 2026, convocada por la Confederacion de Sindicatos de Inquilinas y numerosos colectivos vecinales y laborales bajo el lema 'Hacia la huelga general por la vivienda'. La convocatoria responde al rechazo en el Congreso de los Diputados el 2 de octubre de los dos decretos de vivienda del Gobierno, con los votos del PP, Vox y Junts. Exigen el fin de los desahucios, contratos de alquiler indefinidos, regulacion del alquiler de temporada y de habitaciones, bajada de alquileres y expropiacion de inmuebles vacios. La Acampada de Sol de Madrid, abierta el 26 de septiembre, sigue en marcha. El domingo 4 de octubre la movilizacion continua en esta ciudad con el horario y el punto de encuentro indicados.",
+    "status": "programado",
+    "lat": 37.8882,
+    "lng": -4.7794,
+    "fuentes": [
+      "https://www.elmundo.es/como/2026/10/02/6abfca6de9cf4abb688b4580.html",
+      "https://www.rtve.es/noticias/20261002/manifestacion-vivienda-espana-hora-recorrido/17251533.shtml",
+      "https://www.rtve.es/noticias/20261003/manifestaciones-vivienda-espana-cronica/17252068.shtml",
+      "https://www.internazionale.it/ultime-notizie-reuters/2026/10/03/tens-of-thousands-protest-across-spain-over-housing-crisis"
+    ],
+    "createdAt": "2026-10-04T00:24:56.000Z",
+    "updatedAt": "2026-10-04T00:44:49Z"
+  },
+  {
+    "id": "es-2026-10-04-palestina-lliria",
+    "seccion": "internacionales",
+    "pais": "Espana",
+    "bandera": "🇪🇸",
+    "hora": "19:30",
+    "fecha": "2026-10-04",
+    "lugar": "Lliria (Valencia), plaza Mayor",
+    "tipoAccion": "Marcha",
+    "organizaciones": [
+      "RESCOP (Red Solidaria contra la Ocupacion de Palestina)",
+      "Global Alliance for Palestine",
+      "Confederacion General del Trabajo (CGT)",
+      "Sindicato de Inquilinas de Madrid"
+    ],
+    "motivo": "Manifestacion estatal en solidaridad con Palestina del domingo 4 de octubre de 2026, convocada por la plataforma RESCOP (Red Solidaria contra la Ocupacion de Palestina) bajo el lema 'El genocidio continua' al cumplirse tres anos de la intensificacion del genocidio contra el pueblo palestino, y con el respaldo de la CGT, de la Global Alliance for Palestine y del Sindicato de Inquilinas de Madrid. Reclaman un embargo integral de armas a Israel que incluya venta, compra, transito, transferencias, financiacion y colaboracion militar, policial, tecnologica y de seguridad; el fin de las relaciones diplomaticas, economicas, comerciales, academicas, deportivas y culturales con Israel; la suspension del Acuerdo de Asociacion entre la Union Europea e Israel; el desbloqueo de la reforma de la Ley 53/2007; el cierre de las bases militares estadounidenses en el Estado; la derogacion de la Ley Mordaza y el fin de la criminalizacion del movimiento de solidaridad con Palestina. La convocatoria de Barcelona quedo cancelada por el temporal.",
+    "status": "programado",
+    "lat": 39.636,
+    "lng": -0.594,
+    "fuentes": [
+      "https://www.publico.es/sociedad/manifestacion-estatal-solidaridad-palestina-fechas-localizacion-protesta.html",
+      "https://www.eldiario.es/politica/ultima-hora-manifestaciones-vivienda-acampada-sol-directo_6_13558760_1125516.html"
+    ],
+    "createdAt": "2026-10-04T00:24:56.000Z",
+    "updatedAt": "2026-10-04T00:44:49Z"
+  },
+  {
+    "id": "in-2026-10-04-mumbai-garjana-morcha-comision-electoral",
     "seccion": "internacionales",
     "pais": "India",
     "bandera": "🇮🇳",
-    "hora": "13:00",
-    "fecha": "2026-10-03",
-    "lugar": "Patel Chowk y Jantar Mantar, Nueva Delhi, India",
-    "tipoAccion": "Movilizacion",
+    "hora": "",
+    "fecha": "2026-10-04",
+    "lugar": "Mumbai, marcha desde Metro Cinema hasta la sede de la Brihanmumbai Municipal Corporation, cerca de Azad Maidan",
+    "tipoAccion": "Marcha",
     "organizaciones": [
-      "Cockroach Janata Party (CJP)",
-      "All India Students' Association (AISA)",
-      "Students' Federation of India (SFI)",
-      "Democratic Youth Federation of India (DYFI)",
-      "National Students' Union of India (NSUI)",
-      "Youth Congress (IYC)"
+      "Maharashtra Navnirman Sena (MNS)",
+      "Shiv Sena (UBT)",
+      "Congress",
+      "Nationalist Congress Party - Sharadchandra Pawar (NCP-SP)"
     ],
-    "motivo": "Segunda jornada de la protesta contra el cometsario electoral Gyanesh Kumar, que se reanuda este sabado 3 de octubre de 2026 en Nueva Delhi con concentracion desde las 13:00 en Patel Chowk y marcha hacia Jantar Mantar, segun anuncio la presidente nacional de AISA, Neha Bora, un dia despues de que unas 1.000 personas fueran detenidas en las manifestaciones del Gandhi Jayanti del 2 de octubre, 200 de ellas bajo arresto domiciliario, con mas de 5.000 efectivos de seguridad y 11 estaciones de metro cerradas. La policia de Delhi detuvo hoy alrededor de 150 protestaantes, entre ellos la propia Neha Bora, el lider de Swaraj India Yogendra Yadav y el abogado Prashant Bhushan; se levantaron tres actas bajo la seccion 163 BNSS y la reunion no fue autorizada, y el lider de IYC Uday Bhanu Chib presento una peticion ante el Tribunal Superior de Delhi. El reclamo es la destitucion de Kumar por presuntas irregularidades en la Revision Intensiva Especial (SIR) de las listas electorales y por la eliminacion de votantes. El CJP manifesto el 3 de octubre que convocara otra manifestacion en Delhi el 10 de octubre si Kumar no renuncia, insistiendo en que sera pacifica, despues de la concentracion que reunio a miles en el Parque Shivaji de Mumbai el 2 de octubre. Al cierre de esta actualizacion (18:31 UTC) la movilizacion sigue vigente y se prolonga hasta el 10 de octubre, fecha en la que el CJP y AISA convocan una nueva manifestacion en Delhi.",
-    "status": "en_curso",
-    "lat": 28.6139,
-    "lng": 77.209,
+    "motivo": "Garjana Morcha del domingo 4 de octubre de 2026 en Mumbai contra la Comision Electoral de la India y la presidencia de Gyanesh Kumar, por el manejo de la Revision Intensiva Especial (SIR) del padron electoral, que habria excluido mas de 13 millones de nombres de los borradores de 30 estados y territorios. La marcha la convocan conjuntamente Maharashtra Navnirman Sena (MNS) y Shiv Sena (UBT), y se suman el Congress y el Nationalist Congress Party - Sharadchandra Pawar (NCP-SP), segun anuncio de Supriya Sule y Nana Patole. El recorrido inicial iba de Byculla a la sede de la BMC y, a pedido de la policia de Mumbai por cuellos de botella y riesgos de seguridad en el tramo del viaducto de Byculla, se redujo a la marcha desde Metro Cinema hasta la sede de la BMC. La organizacion pide a los asistentes llevar solo la bandera nacional y ningun partido. La hora de inicio no fue confirmada tras el cambio de ruta.",
+    "status": "programado",
+    "lat": 19.076,
+    "lng": 72.8777,
     "fuentes": [
-      "https://www.telegraphindia.com/india/jantar-mantar-protest-around-150-detained-as-neha-bora-activists-press-demand-for-gyanesh-kumars-exit/cid/2182951",
-      "https://english.mathrubhumi.com/news/india/jantar-mantar-protest-3-firs-friday-detentions-kapil-sibal-prashant-bhushan-mp7hodr3",
-      "https://www.siasat.com/anti-cec-stir-delhi-police-rounds-up-protesters-on-day-2-3551863/",
-      "https://www.hindustantimes.com/india-news/jantar-mantar-protest-live-updates-cec-gyanesh-kumar-resignation-neha-bora-yogendra-yadav-aisa-nsui-rahul-gandhi-modi-101791013010722.html",
-      "https://www.ndtv.com/delhi-news/delhi-police-detain-1-000-over-jantar-mantar-protest-against-chief-election-commissioner-gyanesh-kumar-12132581",
-      "https://www.thehindu.com/news/national/cjp-stresses-non-violence-urges-citizens-to-join-october-10-delhi-protest/article71539852.ece"
+      "https://www.hindustantimes.com/cities/mumbai-news/uddhav-raj-to-lead-march-against-ec-on-oct-4-cong-to-stage-protest-on-monday-101790450619650.html",
+      "https://www.hindustantimes.com/cities/mumbai-news/congress-ncp-uddhav-thackeray-maharashtra-march-mns-shiv-sena-raj-thackeray-sir-election-commission-101790882541448.html",
+      "https://www.rediff.com/news/commentary/2026/oct/02/thackerays-shorten-route-for-sunday-protest-against-ec/c0e6e2b6ed99cbb8e6bfe6aadcdead9d",
+      "https://www.indiatoday.in/india/story/election-commission-sir-protest-raj-uddhav-thackeray-mumbai-march-october-4-3003625-2026-09-26",
+      "https://www.mid-day.com/mumbai/politics-news/photo/in-photos-election-commission-row-raj-and-uddhav-thackeray-announce-october-4-march-in-mumbai-113315",
+      "https://www.mumbailive.com/en/politics/congress-ncp-to-join-thackerays-october-4-protest-march-94566"
     ],
-    "createdAt": "2026-10-03T04:05:41.000Z",
-    "updatedAt": "2026-10-03T22:14:41Z"
+    "createdAt": "2026-10-04T00:24:56.000Z",
+    "updatedAt": "2026-10-04T00:44:49Z"
   },
   {
     "id": "ng-2026-10-03-huelga-advertencia-servicio-publico",
@@ -338,7 +806,7 @@
     "pais": "Nigeria",
     "bandera": "🇳🇬",
     "hora": "",
-    "fecha": "2026-10-03",
+    "fecha": "2026-10-04",
     "lugar": "todo el territorio federal de Nigeria, con Abuja como cabecera",
     "tipoAccion": "Huelga",
     "organizaciones": [
@@ -349,863 +817,19 @@
       "National Association of Nigerian Nurses and Midwives (NANNM)",
       "Nigeria Labour Congress (NLC)"
     ],
-    "motivo": "Segundo dia de la huelga de advertencia nacional de tres dias que los funcionarios publicos nigeranos sostienen bajo el Joint National Public Service Negotiating Council (JNPSNC), iniciada a las 00:00 del viernes 2 de octubre de 2026 y prevista hasta el domingo 4 de octubre. La medida salio tras vencer el ultimatum del 30 de septiembre, sin respuesta de la presidencia, y arranca con un cumplimiento desigual sector por sector. Las demandas son reducir el precio de la gasolina a 500 naira por litro mediante un fondo de intervencion que cubra los costos de aterrizaje del petroleo y el gas, el pago inmediato del aumento salarial y de la bonificacion ya acordados, y la negociacion de un nuevo salario minimo nacional de al menos 500.000 nairas a partir de 2027. El JNPSNC movilizo a sus ocho sindicatos de planta y advierte que, si el Gobierno no atiende los puntos, la medida se mantendra. El Nigeria Labour Congress apoya los reclamos.",
+    "motivo": "Ultimo dia de la huelga de advertencia nacional de tres dias que sostienen los funcionarios publicos nigeranos bajo el Joint National Public Service Negotiating Council (JNPSNC), iniciada a las 00:00 del viernes 2 de octubre de 2026 y prevista hasta el domingo 4 de octubre. La medida salio tras vencer el ultimatum del 30 de septiembre, sin respuesta de la presidencia, y se desarrolla con un cumplimiento desigual sector por sector. Las demandas son reducir el precio de la gasolina a 500 naira por litro mediante un fondo de intervencion que cubra los costos de aterrizaje del petroleo y el gas, el pago inmediato del aumento salarial y de la bonificacion ya acordados, y la negociacion de un nuevo salario minimo nacional de al menos 500.000 nairas a partir de 2027. El JNPSNC movilizo a sus ocho sindicatos de planta y el Nigeria Labour Congress respalda las demandas.",
     "status": "en_curso",
     "lat": 9.0765,
     "lng": 7.3986,
     "fuentes": [
-      "https://www.vanguardngr.com/2026/10/hardship-public-sector-unions-warning-strike-begin-on-shaky-note/",
-      "https://blueprint.ng/despite-tinubus-assurance-on-cost-of-living-labour-begins-3-day-warning-strike/",
-      "https://www.vanguardngr.com/2026/09/high-fuel-price-wage-award-public-servants-begin-nationwide-warning-strike-oct-2-if",
-      "https://www.peoplesmind.com.ng/2026/10/economic-hardship-public-servants.html",
-      "https://allafrica.com/stories/202610020181.html"
+      "https://dailypost.ng/2026/10/01/public-servants-begin-three-day-nationwide-warning-strike-friday/",
+      "https://dailytimesng.com/nigerian-public-servants-begin-three-day-strike-over-fuel-prices-and-wages/",
+      "https://qncnews.com/federal-state-workers-begin-three-day-warning-strike-over-hardship/",
+      "https://allafrica.com/stories/202610020181.html",
+      "https://blueprint.ng/despite-tinubus-assurance-on-cost-of-living-labour-begins-3-day-warning-strike/"
     ],
     "createdAt": "2026-10-03T04:05:41.000Z",
-    "updatedAt": "2026-10-03T22:14:41Z"
-  },
-  {
-    "id": "ar-2026-10-02-paro-semana-adiuc-coad-unc-unr",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "",
-    "fecha": "2026-10-03",
-    "lugar": "Universidad Nacional de Cordoba (Ciudad Universitaria y colegios preuniversitarios Manuel Belgrano y Monserrat), Cordoba, y Universidad Nacional de Rosario (facultades y escuelas medias), Santa Fe, Argentina",
-    "tipoAccion": "Huelga",
-    "organizaciones": [
-      "ADIUC (Asociacion Gremial de Docentes e Investigadores de la Universidad Nacional de Cordoba)",
-      "COAD (Colegio de Docentes de la Universidad Nacional de Rosario)",
-      "CONADU y CONADU Historica (mandato de paro por tiempo indeterminado elevado al plenario)"
-    ],
-    "motivo": "ADIUC y COAD sostienen este sabado 3 de octubre de 2026 el sexto y ultimo dia del paro de actividades de una semana que convocaron del lunes 28 de septiembre al sabado 3 de octubre, con suspension del dictado de clases y de las tareas de investigacion en la Ciudad Universitaria de la Universidad Nacional de Cordoba, en sus colegios preuniversitarios Manuel Belgrano y Monserrat, y en las facultades y escuelas medias de la Universidad Nacional de Rosario. En la consulta nacional docente y en las asambleas por facultad de la UNC, la opcion mas votada fue el paro por tiempo indeterminado, con 427 adhesiones frente a 223 a favor de una semana completa; ese mandato fue llevado al plenario de secretarias y secretarios generales de CONADU, donde la mayoria de los gremios finalmente acordo un paro nacional de 72 horas para el miercoles 30 de septiembre, el jueves 1 y el viernes 2 de octubre. Frente a esa definicion mas acotada, ADIUC decidio sostener en Cordoba una medida de mayor alcance, acordada tambien con el gremio docente de la UNR. El reclamo de fondo es el cumplimiento integral de la Ley 27.795 de Financiamiento Universitario y la recomposicion salarial pendiente: tras dos paritarias frustradas, el Gobierno ofrecio unicamente un 3 % de aumento, desconociendo la cautelar vigente que lo obliga a un incremento cercano al 34 %, mientras las organizaciones estiman que todavia falta alrededor de un 23 % para volver al nivel salarial de diciembre de 2023. El sindicato exige ademas la actualizacion de las becas estudiantiles y de las partidas de gastos de funcionamiento y de hospitales universitarios, el cumplimiento del acta paritaria y que el Presupuesto 2027 incorpore las demandas del sector. La semana cierra con esta sexta jornada del sabado 3 de octubre: el paro nacional de 72 horas de CONADU y CONADU Historica concluyo el viernes 2 de octubre con acatamiento masivo, de modo que hoy solo ADIUC y COAD mantienen la suspension de actividades en Cordoba y Rosario. El conflicto sigue abierto: el juez federal Martin Cormick fijo un nuevo plazo que vence el miercoles 7 de octubre para que el Gobierno cumpla la cautela que obliga a actualizar salarios y becas, los no docentes de la UNLP (ATULP) convocaron un paro de 24 horas para ese mismo dia, y varias asociaciones de base de Rosario, Cordoba, Mar del Plata y Tucuman evaluan un paro por tiempo indeterminado mientras se coordina un congreso unificado de las dos CONADU. En paralelo, el fallo de la Corte Suprema que restauro la derogacion de la Ley de Tierras genero una agenda propia de movilizaciones contra la extranjerizacion de la tierra: el CECIM, la CTA Autonoma y la CTA de las y los Trabajadores convocaron una marcha para el martes 6 de octubre a las 15.00 en Plaza Lavalle (Talcahuano 550) con la consigna \"la patria no se vende: la soberania tampoco\", y Pueblo Unido Autoconvocado movilizara desde el Congreso hasta Tribunales el lunes 5 de octubre. Ademas, la CGT descarto el paro general de octubre y programo en su lugar una movilizacion por la industria nacional el jueves 8 de octubre a las 15.30 frente a la Secretaria de Industria, mientras la CTA Autonoma y la CTA de las y los Trabajadores sostienen su propio plan de lucha con paro general hacia fines de mes. La proxima cita central del plan de lucha docente es la quinta Marcha Federal Universitaria del jueves 15 de octubre a las 13.30 frente al Congreso de la Nacion, mudada de Palacio de Tribunales por la sesion especial de Diputados, y acompanada por la CGT y las dos CTA. Verificado el 3 de octubre de 2026 a las 11:52 hora argentina (14:52 UTC): ADIUC mantiene publicada la convocatoria de paro de una semana del lunes 28/9 al sabado 3/10, de modo que hoy se cumple el sexto y ultimo dia con actividades suspendidas en la Ciudad Universitaria de la Universidad Nacional de Cordoba, en sus colegios preuniversitarios Manuel Belgrano y Monserrat, y en las facultades y escuelas medias de la Universidad Nacional de Rosario por parte de COAD. El paro nacional de 72 horas de CONADU y CONADU Historica concluyo el viernes 2 de octubre con acatamiento masivo, por lo que hoy solo ADIUC y COAD mantienen la suspension. El conflicto sigue abierto: el mandato mas votado en las asambleas por facultad de la UNC, de paro por tiempo indeterminado con 427 adhesiones contra 223 a favor de una semana completa, sigue vigente, y la propia ADIUC llama a multiplicar los espacios de organizacion con docentes, nodocentes y estudiantes camino a la quinta marcha federal universitaria, reprogramada para el 15 de octubre. Verificado el 3 de octubre de 2026: se cumple el sexto y ultimo dia del paro de una semana convocado por ADIUC junto con COAD, con suspension del dictado de clases y de las tareas de investigacion en la Ciudad Universitaria de la Universidad Nacional de Cordoba, en sus colegios preuniversitarios Manuel Belgrano y Monserrat, y en las facultades y escuelas medias de la Universidad Nacional de Rosario. Al cierre de esta actualizacion (18:47 UTC, 15:47 hora argentina): la medida sigue vigente durante toda la jornada, la semana de paro cierra hoy y el conflicto permanece abierto, con el mandato de paro por tiempo indeterminado, mas votado en las asambleas por facultad de la UNC como proxima definicion del plan de lucha y la quinta Marcha Federal Universitaria reprogramada para el 15 de octubre a las 13.30 frente al Congreso de la Nacion.",
-    "status": "en_curso",
-    "lat": -31.4201,
-    "lng": -64.1888,
-    "fuentes": [
-      "https://adiuc.org.ar/2026/09/25/una-semana-de-paro-lunes-28-9-al-sabado-3-de-octubre",
-      "https://lajornadaweb.com.ar/paro-docente-en-la-unc-adiuc-inicio-una-semana-completa-de-protesta-hasta-el-sabado",
-      "https://www.cba24n.com.ar/argentina/financiamiento-universitario--adiuc-confirmo-un-paro-de-una-semana_a6ab6f0ef835b9108c40854ed",
-      "https://www.conclusion.com.ar/gremiales/docentes-de-la-unr-comenzaron-la-semana-de-paro-y-anticipan-nuevas-medidas-de-fuerza/09/2026/",
-      "https://adiuc.org.ar/2026/09/23/adiuc-llevara-a-la-conadu-el-mandato-de-paro-por-tiempo-indeterminado/",
-      "https://www.feduba.org.ar/2026/09/26/resoluciones-del-plenario-de-conadu/",
-      "https://lavozderosario.com/comenzo-la-semana-de-paro-en-la-unr-y-la-idea-es-seguir-profuncizando-la-lucha/",
-      "https://www.lagaceta.com.ar/nota/1156435/politica/paro-universitario-crece-malestar-adiunt-plantean-huelga-tiempo-indefinido.html",
-      "https://derechadiario.com.ar/cordoba/adiuc-paraliza-unc-semana-estudiantes-pagan-costo",
-      "https://www.perfil.com/noticias/cordoba/unc-docentes-universitarios-paran-por-una-semana-y-se-endurece-el-conflicto.phtml",
-      "https://gacetapatagonica.com/2026/10/02/docentes-universitarios-finalizan-paro-72-horas-marcha-federal-15-octubre/",
-      "https://www.eldia.com/la-ciudad/en-la-unlp-se-termino-un-paro-de-tres-dias-y-se-acerca-otro-por-24-horas-la-ciudad_1791003712",
-      "https://www.baenegocios.com/sociedad/la-cgt-cancelo-el-paro-general-de-octubre-pero-las-dos-cta-quieren-mantener-la-huelga/",
-      "https://periferia.com.ar/politica-cientifica/la-marcha-federal-universitaria-se-muda-al-congreso-de-la-nacion/",
-      "https://flipr.com.ar/nacionales/politica/laletrachica/las-dos-cta-pusieron-fecha-para-marchar-a-la-corte-suprema-contra-la-derogacion-de-la-ley-de-tierras/",
-      "https://coad.org.ar/"
-    ],
-    "createdAt": "2026-10-02T02:28:40.000Z",
-    "updatedAt": "2026-10-03T22:14:41Z"
-  },
-  {
-    "id": "ar-2026-10-03-marcha-orgullo-diverso-quilmes",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "14:00",
-    "fecha": "2026-10-03",
-    "lugar": "Quilmes, en Rivadavia y Sarmiento, frente a la Plaza San Martin y la Casa de las Culturas, Buenos Aires, Argentina",
-    "tipoAccion": "Marcha",
-    "organizaciones": [
-      "Comision Organizadora de la Marcha del Orgullo de Quilmes",
-      "Municipalidad de Quilmes",
-      "Direccion de Diversidades de Quilmes",
-      "Secretaria de Salud de Quilmes"
-    ],
-    "motivo": "La 10a Marcha del Orgullo Diverso y Disidente de Quilmes se realiza este sabado 3 de octubre de 2026 con concentracion desde las 14:00 en la intersccion de Rivadavia y Sarmiento, frente a la Plaza San Martin y la Casa de las Culturas, y recorrido por el centro de la ciudad. La convocatoria la realiza la Comision Organizadora de la Marcha del Orgullo de Quilmes con el acompanamiento de la gestion municipal. La jornada se articula en torno a las consignas y reclamos de la comunidad LGBTIQ+ del distrito: una vida libre de violencia, discriminacion y odio, la visibilizacion de la disidencia y la lucha contra la discriminacion hacia las sexualidades y las identidades no binarias. Ademas de la marcha, la actividad incluye una feria de economia popular con emprendedores y emprendedoras de la diversidad quilmena, un escenario con propuestas culturales, musica y presentaciones artisticas a lo largo de toda la jornada, y el cierre a cargo de Juana Rozas, con participacion de Blujaus, Ketanminas, LU100, Max Tejera, Floor Anahi, Ornella Yori, Ludmi Herrera, Historikas de Quilmes y DJ Zeth Bando. La Secretaria de Salud instala ademas una posta de testeos rapidos de VIH y sifilis, y la Direccion de Diversidades brinda informacion sobre derechos, gestion de tramites y asesoramiento para la inscripcion al programa Transformar. Es la primera marcha del Orgullo del Conurbano Bonaerense y cuenta con el acompanamiento de la Municipalidad de Quilmes. Confirmado el 3 de octubre de 2026: el cronograma federal de las Marchas del Orgullo 2026 de ARGay y la guia colaborativa de Agencia Presentes mantienen la 10a Marcha del Orgullo de Quilmes para hoy sabado 3 de octubre, con concentracion desde las 14:00 en Rivadavia y Sarmiento, frente a la Plaza San Martin. Al cierre de esta actualizacion (14:52 UTC, 11:52 hora argentina) la marcha aun no habia comenzado. Verificado el 3 de octubre de 2026: la 10a Marcha del Orgullo Diverse y Disidente de Quilmes esta en marcha, con concentracion desde las 14:00 en Rivadavia y Sarmiento, frente a la Plaza San Martin y la Casa de las Culturas, y recorrido por el centro de la ciudad. Al cierre de esta actualizacion (18:47 UTC, 15:47 hora argentina): la jornada organizo ademas la feria de economia popular de la comunidad LGBTIQ+ quilmena y el escenario con musica y presentaciones artisticas a cargo de Juana Rozas, con la posta de testeos rapidos de VIH y sifilis de la Secretaria de Salud.",
-    "status": "en_curso",
-    "lat": -34.7227,
-    "lng": -58.2543,
-    "fuentes": [
-      "https://www.cronica.com.ar/fmq/noticias-locales/marcha-del-orgullo-en-quilmes-cuando-y-donde-sera/",
-      "https://eltermometroweb.com/2026/09/el-3-de-octubre-se-realiza-la-marcha-del-orgullo-en-quilmes/",
-      "https://argay.ar/agenda/quilmes-amba-10-marcha-del-orgullo-lgbtiq/",
-      "https://www.todxs.com.ar/2026/09/24/orgullo-2026-en-argentina-guia-federal-y-colaborativa-de-marchas-y-actividades/",
-      "https://www.cronica.com.ar/fmq/noticias-locales/quilmes-se-prepara-para-la-10-marcha-del-orgullo-diverso-y-disidente/",
-      "https://argay.ar/marchas2026"
-    ],
-    "createdAt": "2026-10-03T10:02:13.000Z",
-    "updatedAt": "2026-10-03T22:14:41Z"
-  },
-  {
-    "id": "ar-2026-10-03-peregrinacion-lujan-casa-cristina-libre-peronia",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "12:00",
-    "fecha": "2026-10-03",
-    "lugar": "Posta en General Rodriguez y tramo final a pie de unos 10 km hasta la Basilica de Nuestra Senora de Lujan, Lujan, Buenos Aires, Argentina",
-    "tipoAccion": "Movilizacion",
-    "organizaciones": [
-      "Casa Cristina Libre",
-      "Peronia"
-    ],
-    "motivo": "Convocatoria politica propia de Casa Cristina Libre y Peronia dentro del tramo final de la 52a Peregrinacion Juvenil a Lujan, que recorre unos 60 kilometros desde el Santuario de San Cayetano de Liniers hasta la Basilica de Nuestra Senora de Lujan durante el sabado 3 y el domingo 4 de octubre de 2026. Ambas organizaciones instalaron este sabado 3 de octubre una posta en General Rodriguez que funciona desde las 12:00 hasta la medianoche, y a las 00:00 del domingo 4 de octubre los participantes parten desde alli en una caminata de unos 10 kilometros hasta la Basilica bajo el lema \"Por una Cristina libre y soberana\". La movilizacion acompana a Cristina Fernandez de Kirchner, a quien las organizaciones consideran injustamente privada de su libertad y proscripta de la vida politica, y sostienen que su situacion plantea una discusion mas amplia vinculada a la democracia, a la representacion politica y al derecho de la ciudadania a decidir, que la proscribcion no debe naturalizarse como parte de la democracia. Participan vecinos de Junin, distintos puntos del interior de la provincia de Buenos Aires, la Capital Federal y el Conurbano, con inscripcion propia a traves del formulario difundido por las organizaciones. Coincide con la 52a Peregrinacion Juvenil a Lujan oficial, cuyo lema 2026 es \"Madre, en tu abrazo nos reconocemos hermanos\" y cuya caminata arranca el sabado 3 de octubre a las 10:00 desde el Santuario de San Cayetano en Liniers, con llegada a Lujan al amanecer del domingo y misa central el domingo 4 de octubre a las 7:00 frente a la Basilica,presidida por el arzobispo de Buenos Aires, monseñor Jorge Garcia Cuerva. Verificado el 3 de octubre de 2026: la 52a Peregrinacion Juvenil a Lujan comenzo hoy bajo copiosas lluvias, con la imagen peregrina de la Virgen cubierta con un cobertor plastico transparente, la partida de monseñor Jorge Garcia Cuerva a las 7 y la salida de la imagen a las 10 desde el Santuario de San Cayetano en Liniers, y con un operativo de seguridad, salud, asistencia e hidratacion desplegado a lo largo de los cerca de 60 kilometros. Al cierre de esta actualizacion (18:47 UTC, 15:47 hora argentina): la posta de Casa Cristina Libre y Peronia funciona en General Rodriguez desde las 12:00 hasta la medianoche, y a las 00:00 del domingo 4 de octubre los participantes parten desde alli en una caminata de unos 10 kilometros hasta la Basilica bajo el lema \"Por una Cristina libre y soberana\".",
-    "status": "en_curso",
-    "lat": -34.4347,
-    "lng": -59.0901,
-    "fuentes": [
-      "https://eldiariodellunes.com/nota/11425/peregrinacion-a-lujan-casa-cristina-libre-y-peronia-convocan-a-caminar-por-una-cristina-libre-y-soberana/",
-      "https://laradiopublica.com.ar/marcha-jovenes-lujan-fechas/",
-      "https://tn.com.ar/sociedad/2026/10/03/los-jovenes-peregrinan-a-lujan-con-la-expectativa-puesta-en-la-visita-del-papa-madre-en-tu-abrazo-nos-reconocemos-hermanos/",
-      "https://www.infobae.com/sociedad/2026/10/03/miles-de-fieles-comenzaron-la-peregrinacion-a-lujan-bajo-la-tormenta-los-detalles-del-operativo-de-seguridad/",
-      "https://noticiasargentinas.com/sociedad/en-imagenes--asi-inicio-la-peregrinacion-a-lujan-bajo-copiosas-lluvias_a6ac1027fbd9cfb5d37eb5c61",
-      "https://www.ciudad.com.ar/espectaculos/2026/10/02/peregrinacion-a-lujan-2026-cuando-es-recorrido-y-como-prepararse/",
-      "https://aica.org/noticia-a-semanas-de-la-visita-papal-lujan-se-prepara-para-la-52-peregrinacion-juvenil"
-    ],
-    "createdAt": "2026-10-03T10:02:13.000Z",
-    "updatedAt": "2026-10-03T22:14:41Z"
-  },
-  {
-    "id": "de-2026-10-03-es-brennt-menschenkette",
-    "seccion": "internacionales",
-    "pais": "Alemania",
-    "bandera": "🇩🇪",
-    "hora": "12:00",
-    "fecha": "2026-10-03",
-    "lugar": "cadena humana nacional del Bundesverfassungsgericht de Karlsruhe hasta el Bundeskanzleramt en Berlin, con tramos en decenas de ciudades; tramo de Munich desde Reiterdenkmal y Odeonsplatz por Ludwigstrasse hasta Geschwister-Scholl-Platz",
-    "tipoAccion": "Movilizacion",
-    "organizaciones": [
-      "Buendnis \"Es brennt!\"",
-      "Klimabuendnis",
-      "Fridays for Future",
-      "extinction rebellion",
-      "NABU e. V.",
-      "WissenLeben e. V.",
-      "Evangelisches Dekanat Darmstadt",
-      "Omas gegen Rechts Muenchen und Sued",
-      "FAIRNESS JET",
-      "ADFC Bayern",
-      "OEP Muenchen",
-      "Protect the Planet"
-    ],
-    "motivo": "El 3 de octubre de 2026, Dia de la Unidad Alemana, el buendnis \"Es brennt!\" convoсk una cadena humana nacional a las 12:00. El tramo principal va desde el Tribunal Constitucional Federal de Karlsruhe hasta la Cancilleria del Consejo Federal en Berlin, con acciones en numerosas ciudades alemanas. Mas de 85 organizaciones se adhirieron a la convocatoria. El lema es \"Esta quemando, y casi nadie se levanta\". El contexto son los records de calor, los incendios de superficies y las crisis hidricas. Exigen el cumplimiento efectivo de la Ley Fundamental, la defensa de las condiciones basicas de vida, una politica que anteponga el bien comun al beneficio, la salida de los combustibles fosiles, la prioridad para las energias renovables y la transformacion de la movilidad, la alimentacion y la vivienda. En Munich la concentracion fue a las 11:00 en Reiterdenkmal y Odeonsplatz. La cadena se cerro a las 12:00, se sostuvo hasta las 12:30 y hubo acto de cierre de 12:45 a 13:30 en Geschwister-Scholl-Platz.",
-    "status": "en_curso",
-    "lat": 49.0686,
-    "lng": 8.402,
-    "fuentes": [
-      "https://esbrennt.com/",
-      "https://www.ka-news.de/karlsruhe/menschenkette-am-3-oktober-von-karlsruhe-bis-berlin-115398697",
-      "https://omasgegenrechtsmuenchen.de/events/es-brennt-menschenketten-deutschlandweit-am-3-10-26/",
-      "https://bayern.adfc.de/neuigkeit/es-brennt-bayern-beteiligt-sich-an-bundesweiter-menschenkette-am-3-oktober",
-      "https://www.protect-the-planet.de/es-brennt-menschenkette-3-oktober/"
-    ],
-    "createdAt": "2026-10-03T14:38:05.000Z",
-    "updatedAt": "2026-10-03T22:14:41Z"
-  },
-  {
-    "id": "de-2026-10-03-nie-wieder-krieg-berlin",
-    "seccion": "internacionales",
-    "pais": "Alemania",
-    "bandera": "🇩🇪",
-    "hora": "13:00",
-    "fecha": "2026-10-03",
-    "lugar": "Berlín, marcha desde Brandenburger Tor",
-    "tipoAccion": "Marcha",
-    "organizaciones": [
-      "Buendnis \"Nie wieder Krieg\"",
-      "coalicion de mas de 270 organizaciones"
-    ],
-    "motivo": "Marcha del 3 de octubre de 2026 en Berlin que sale de la Puerta de Brandenburgo a las 13:00. La convoca el buendnis \"Nie wieder Krieg\" con el apoyo de mas de 270 organizaciones de la sociedad civil, los partidos y los sindicatos. Exigen el fin de las armas de nucleo, la restriccion del servicio militar obligatorio, la desmilitarizacion y el fin de los recortes sociales. La marcha se inscribe en la escalada de la guerra en Ucrania. Verificado el 3 de octubre de 2026: el apoyo declarado alcanza 304 grupos, iniciativas y organizaciones, entre ellas ver.di, attac, pax christi y Deutsche Friedensgesellschaft. El programa previsto es apertura a las 13:00, marcha y cierre a las 16:30, seguido de una fiesta de calle de los comites escolares de huelga contra el servicio militar.",
-    "status": "en_curso",
-    "lat": 52.5163,
-    "lng": 13.3777,
-    "fuentes": [
-      "https://nie-wieder-krieg.org/demo-03-10-26/",
-      "https://nie-wieder-krieg.org/2026/09/06/unterstuetzende-gruppen/"
-    ],
-    "createdAt": "2026-10-03T14:38:05.000Z",
-    "updatedAt": "2026-10-03T22:14:41Z"
-  },
-  {
-    "id": "de-2026-10-03-nie-wieder-krieg-stuttgart",
-    "seccion": "internacionales",
-    "pais": "Alemania",
-    "bandera": "🇩🇪",
-    "hora": "13:00",
-    "fecha": "2026-10-03",
-    "lugar": "Stuttgart, Schlossplatz",
-    "tipoAccion": "Marcha",
-    "organizaciones": [
-      "Buendnis \"Nie wieder Krieg\"",
-      "coalicion de mas de 270 organizaciones"
-    ],
-    "motivo": "Marcha del 3 de octubre de 2026 en Stuttgart desde el Castillo a las 13:00. Forma parte de las manifestaciones del buendnis \"Nie wieder Krieg\" que coinciden el mismo dia en Berlin y otras ciudades. Exigen el fin de las armas de nucleo, la restriccion del servicio militar obligatorio y la desmilitarizacion. Verificado el 3 de octubre de 2026: el programa confirmado preve apertura a las 13:00 y concentracion final a las 15:30, con cierre a las 16:30 o 16:45. Intervienen Ozlem Alev Demirel (MdEP por Die Linke), Sevim Dagdalen (BSW), Paul Schobel (pax christi), Michael Quetting (ver.di) y Jules El Khatib, con video saludo de Margot Kaeßmann. La marcha cuenta con el apoyo de 304 grupos, iniciativas y organizaciones.",
-    "status": "en_curso",
-    "lat": 48.7805,
-    "lng": 9.182,
-    "fuentes": [
-      "https://nie-wieder-krieg.org/demo-03-10-26/",
-      "https://nie-wieder-krieg.org/2026/09/06/stuttgart-einzelheiten/",
-      "https://nie-wieder-krieg.org/2026/09/06/unterstuetzende-gruppen/"
-    ],
-    "createdAt": "2026-10-03T14:38:05.000Z",
-    "updatedAt": "2026-10-03T22:14:41Z"
-  },
-  {
-    "id": "kr-2026-10-03-gwanghwamun-ensamblaje-nacional",
-    "seccion": "internacionales",
-    "pais": "Corea del Sur",
-    "bandera": "🇰🇷",
-    "hora": "13:00",
-    "fecha": "2026-10-03",
-    "lugar": "Seul, Sejong-daero frente a los grandes almacenes Donghwa Duty Free, con marcha por Saemunnan-ro y Jahamun-ro hasta Shinchon",
-    "tipoAccion": "Concentracion",
-    "organizaciones": [
-      "Partido de la Unificacion Libre (Liberty Unification Party)",
-      "Iglesia Sarang Jeil",
-      "Jeon Gwang-hoon"
-    ],
-    "motivo": "Ensamblaje nacional del 3 de octubre de 2026 por la dimision del gobierno de Lee Jae Myung. Comenzo a las 13:00 en Sejong-daero frente a Donghwa Duty Free, con marcha desde las 16:00. La policia estimo unas 28.000 personas, la mayor concentracion del dia en la capital. Los participantes agitaron carteles con \"Lee Jae Myung, baja\" y \"Que comparetzca Lee Jae Myung\". Gritaron eslganes contra \"elecciones fraudulentas\" y el Yeonpyeong. Acusan al gobierno de volcar el regimen democratico libre y de destrozar la alianza con Estados Unidos. Exigen una investigacion exhaustiva de la explosion de minas en la zona desmilitarizada. Tambien piden la suspension de la exhibicion de la pelicula \"Assassins\", la suspension del ingreso de visa-free de ciudadanos chinos, el cierre de las academias de oficiales y la renuncia del ministro de Defensa Kim Shin-chul.",
-    "status": "en_curso",
-    "lat": 37.5715,
-    "lng": 126.9768,
-    "fuentes": [
-      "https://www.yna.co.kr/view/AKR20261003036700004"
-    ],
-    "createdAt": "2026-10-03T14:38:05.000Z",
-    "updatedAt": "2026-10-03T22:14:41Z"
-  },
-  {
-    "id": "kr-2026-10-03-sungnyemun-pueblo-poder",
-    "seccion": "internacionales",
-    "pais": "Corea del Sur",
-    "bandera": "🇰🇷",
-    "hora": "15:00",
-    "fecha": "2026-10-03",
-    "lugar": "Seul, plaza de Sungnyemun (Puerta del Cielo)",
-    "tipoAccion": "Concentracion",
-    "organizaciones": [
-      "Partido del Poder del Pueblo (People Power Party)"
-    ],
-    "motivo": "Concentracion del 3 de octubre de 2026 en la plaza de Sungnyemun de Seul a las 15:00. El lema fue \"Juicio al gobierno de Lee Jae Myung, por la restauracion de la vida de la gente y la proteccion de la seguridad nacional\", con demostracion fuera del recinto. Se contaron unas 9.000 personas, con diputados en ejercicio, presidentes de comités de partido del distrito, bomberos municipales y dirigentes. Coincide con la concentracion del Partido de la Unificacion Libre en Gwanghwamun.",
-    "status": "en_curso",
-    "lat": 37.56,
-    "lng": 126.995,
-    "fuentes": [
-      "https://www.yna.co.kr/view/AKR20261003036700004"
-    ],
-    "createdAt": "2026-10-03T14:38:05.000Z",
-    "updatedAt": "2026-10-03T22:14:41Z"
-  },
-  {
-    "id": "kr-2026-10-03-seul-solidaridad-palestina",
-    "seccion": "internacionales",
-    "pais": "Corea del Sur",
-    "bandera": "🇰🇷",
-    "hora": "14:00",
-    "fecha": "2026-10-03",
-    "lugar": "Seul, plaza de Bosingak, con marcha hacia Gwanghwamun",
-    "tipoAccion": "Marcha",
-    "organizaciones": [
-      "Accion de Emergencia de la Sociedad Civil Coreana en Solidaridad con Palestina"
-    ],
-    "motivo": "Concentracion del 3 de octubre de 2026 a las 14:00 en Bosingak, Seul, bajo el lema \"NO a Israel, ALTO al genocidio\". Marca el tercer aniversario del inicio del genocidio en Gaza. Reunio alrededor de 1.000 personas. Sostienen que la responsabilidad del genocidio no es solo de Israel y Estados Unidos sino de toda la sociedad internacional, incluida Corea, que lo ha azuzado. Exigen que la pension nacional y la Korea Investment Corporation suspendan sus inversiones en bonos del Estado de Israel y en empresas de guerra, y que el Gobierno rechace decididamente el despliegue en el estrecho de Ormuz. Desde Bosingak marcharon hacia Gwanghwamun.",
-    "status": "en_curso",
-    "lat": 37.57,
-    "lng": 126.977,
-    "fuentes": [
-      "https://www.yna.co.kr/view/AKR20261003036700004"
-    ],
-    "createdAt": "2026-10-03T14:38:05.000Z",
-    "updatedAt": "2026-10-03T22:14:41Z"
-  },
-  {
-    "id": "kr-2026-10-03-seul-accion-velas-tribunal",
-    "seccion": "internacionales",
-    "pais": "Corea del Sur",
-    "bandera": "🇰🇷",
-    "hora": "17:00",
-    "fecha": "2026-10-03",
-    "lugar": "Seul, distrito de Seocho, en los alrededores de la Corte Suprema",
-    "tipoAccion": "Marcha",
-    "organizaciones": [
-      "Candlelight Action (organizacion progresiva)"
-    ],
-    "motivo": "La 210a marcha con velas de Candlelight Action se realizo el 3 de octubre de 2026 desde las 17:00 en los alrededores de la Corte Suprema en el distrito de Seocho de Seul. La organizacion progresiva, en conflicto abierto con el gobierno de Lee Jae Myung, acusa al presidente de la Corte Suprema Jo Hee-dae por negarse a reabrir la investigacion. Reclaman su investigacion inmediata y lo denominan candidato de la fuerza de la sedicion. Es una de las varias concentraciones que coincidieron en el centro de Seul el Dia de la Fundacion Nacional.",
-    "status": "en_curso",
-    "lat": 37.58,
-    "lng": 127.045,
-    "fuentes": [
-      "https://www.yna.co.kr/view/AKR20261003036700004"
-    ],
-    "createdAt": "2026-10-03T14:38:05.000Z",
-    "updatedAt": "2026-10-03T22:14:41Z"
-  },
-  {
-    "id": "xk-2026-10-03-pristina-no-en-mi-nombre",
-    "seccion": "internacionales",
-    "pais": "Kosovo",
-    "bandera": "🇽🇾",
-    "hora": "19:00",
-    "fecha": "2026-10-03",
-    "lugar": "Pristina, plaza Skenderbeg y marcha hasta el Ministerio de Justicia",
-    "tipoAccion": "Movilizacion",
-    "organizaciones": [
-      "movimiento \"Jo ne emrin tim\" (No en mi nombre)",
-      "PDK (Partido Democratico de Kosovo)"
-    ],
-    "motivo": "Decimoctava noche consecutiva de la protesta \"No en mi nombre\" en Pristina. Se convoca este sabado 3 de octubre de 2026 a las 19:00 en la plaza Skenderbeg, con marcha hacia el Ministerio de Justicia. El cambio de horario fue anunciado por el organizador Clirim Haziri. La protesta es continua desde los veredictos de primera instancia de la Sala de Especialistas de La Haya del 16 de septiembre de 2026. Esas sentencias condenaron a Hashim Thaci y Kadri Veseli a 25 anos, a Jakup Krasniqi a 25 y a Rexhep Selimi a 13, es decir 81 anos en total. Piden que la Asamblea vote las enmiendas a la ley de las Salas de Especialistas y la liberacion de los antiguos Jefes del KLA condenados. La noche anterior fue la decimosetima, el 2 de octubre; esta es la decimoctava. El PDK exige por su lado una sesion para votar la misma ley.",
-    "status": "programado",
-    "lat": 42.671,
-    "lng": 21.163,
-    "fuentes": [
-      "https://reporteri.net/en/NEWS/PDK-demands-that-the-session-be-held-today-to-vote-on-the-amendments-to-the-law-on-special/",
-      "https://rks.news/not-in-my-name-protest-enters-17th-night-as-organizer-calls-for-specialist-chambers-law-changes/",
-      "https://www.nacionale.com/en/articles/protesters-head-to-gervallas-ministry-demand-special-court-law"
-    ],
-    "createdAt": "2026-10-03T14:38:05.000Z",
-    "updatedAt": "2026-10-03T22:14:41Z"
-  },
-  {
-    "id": "se-2026-10-03-malmo-diaspora-kla",
-    "seccion": "internacionales",
-    "pais": "Suecia",
-    "bandera": "🇸🇪",
-    "hora": "14:00",
-    "fecha": "2026-10-03",
-    "lugar": "Malmo, centro de la ciudad",
-    "tipoAccion": "Marcha",
-    "organizaciones": [
-      "diaspora albanesa en Suecia",
-      "plataforma \"Frihet har ett namn\" (La libertad tiene un nombre)"
-    ],
-    "motivo": "Protesta de la diaspora albanesa en Malmo este sabado 3 de octubre de 2026 desde las 14:00. El lema es \"Jo ne emrin tim / Inte i mitt namn\" (No en mi nombre). Se apoya en la plataforma \"Frihet har ett namn\" (La libertad tiene un nombre). Piden justicia y dignidad para los antiguos jefes del KLA condemned por la Sala de Especialistas de La Haya. Forma parte de las protestas de la diaspora en Alemania, Suiza y Suecia del mismo dia.",
-    "status": "en_curso",
-    "lat": 55.605,
-    "lng": 13.0038,
-    "fuentes": [
-      "https://klankosova.tv/uck-jo-ne-emrin-tim-diaspora-proteston-ne-malmo-te-suedise",
-      "https://reporteri.net/en/NEWS/Diaspora-protests-in-Germany--Switzerland-and-Sweden-against-former-UCK-leaders-today/"
-    ],
-    "createdAt": "2026-10-03T14:38:05.000Z",
-    "updatedAt": "2026-10-03T22:14:41Z"
-  },
-  {
-    "id": "de-2026-10-03-aquisgran-diaspora-kla",
-    "seccion": "internacionales",
-    "pais": "Alemania",
-    "bandera": "🇩🇪",
-    "hora": "14:00",
-    "fecha": "2026-10-03",
-    "lugar": "Aquisgran, centro de la ciudad",
-    "tipoAccion": "Concentracion",
-    "organizaciones": [
-      "diaspora albanesa en Alemania",
-      "plataforma \"Freiheit hat einen Namen\""
-    ],
-    "motivo": "Concentracion de la diaspora albanesa en Aquisgran este sabado 3 de octubre de 2026 de 14:00 a 17:00. El lema es \"Nicht in unserem Namen\" (No en nuestro nombre). Piden justicia para los antiguos jefes del KLA condemned por la Sala de Especialistas de La Haya. Coincide con las protestas de la diaspora en Lausanne, Malmo, Munich y Bruselas.",
-    "status": "en_curso",
-    "lat": 50.7753,
-    "lng": 6.0839,
-    "fuentes": [
-      "https://periskopi.com/de/2026/10/proteste-deutschland-schweiz-schweden-ehemalige-kla-fuhrer-erwartet"
-    ],
-    "createdAt": "2026-10-03T14:38:05.000Z",
-    "updatedAt": "2026-10-03T22:14:41Z"
-  },
-  {
-    "id": "de-2026-10-03-munich-diaspora-kla",
-    "seccion": "internacionales",
-    "pais": "Alemania",
-    "bandera": "🇩🇪",
-    "hora": "17:30",
-    "fecha": "2026-10-03",
-    "lugar": "Munich, Geschwister-Scholl-Platz",
-    "tipoAccion": "Concentracion",
-    "organizaciones": [
-      "diaspora albanesa en Alemania",
-      "plataforma \"Freiheit hat einen Namen\" (La libertad tiene un nombre)"
-    ],
-    "motivo": "Concentracion de la diaspora albanesa en Munich este sabado 3 de octubre de 2026 a las 17:30 en Geschwister-Scholl-Platz. El lema es \"Nicht in unserem Namen\" (No en nuestro nombre). Piden justicia para los antiguos jefes del KLA condemned por la Sala de Especialistas de La Haya. Coincide con las protestas de la diaspora en Aquisgran, Lausanne, Malmo y Bruselas.",
-    "status": "programado",
-    "lat": 48.1394,
-    "lng": 11.5815,
-    "fuentes": [
-      "https://24-ore.com/en/on-october-3-munich-diaspora-rallies-for-the-liberators-freedom-has-a-name-not-in-my-name/",
-      "https://periskopi.com/de/2026/10/proteste-deutschland-schweiz-schweden-ehemalige-kla-fuhrer-erwartet"
-    ],
-    "createdAt": "2026-10-03T14:38:05.000Z",
-    "updatedAt": "2026-10-03T22:14:41Z"
-  },
-  {
-    "id": "be-2026-10-03-bruselas-diaspora-albanesa",
-    "seccion": "internacionales",
-    "pais": "Belgica",
-    "bandera": "🇧🇪",
-    "hora": "16:00",
-    "fecha": "2026-10-03",
-    "lugar": "Bruselas, Rondo Robert Schuman",
-    "tipoAccion": "Concentracion",
-    "organizaciones": [
-      "diaspora albanesa en Belgica",
-      "organizaciones de la diáspora"
-    ],
-    "motivo": "Concentracion de la diaspora albanesa en Bruselas este sabado 3 de octubre de 2026 de 16:00 a 19:00 en el Rondo Robert Schuman. El lema es \"Revolucion Flamingo\" (Revolucion Flamenco). Se suman a las protestas de la diaspora en Alemania, Suiza y Suecia del mismo dia.",
-    "status": "en_curso",
-    "lat": 50.8455,
-    "lng": 4.3675,
-    "fuentes": [
-      "https://www.pressenza.com/2026/10/albanian-diaspora-protests-in-brussels-on-saturday-october-3rd/"
-    ],
-    "createdAt": "2026-10-03T14:38:05.000Z",
-    "updatedAt": "2026-10-03T22:14:41Z"
-  },
-  {
-    "id": "it-2026-10-03-lampedusa-memoria-naufragio",
-    "seccion": "internacionales",
-    "pais": "Italia",
-    "bandera": "🇮🇹",
-    "hora": "09:30",
-    "fecha": "2026-10-03",
-    "lugar": "Lampedusa, de Piazza Castello al monumento a Mimmo Paladino en Porta d'Europa",
-    "tipoAccion": "Marcha",
-    "organizaciones": [
-      "Comitato 3 ottobre",
-      "Mediterranean Hope (FCEI)",
-      "CEI (Conferencia Episcopal Italiana)",
-      "Instituto Pirandello",
-      "supervivientes del naufragio"
-    ],
-    "motivo": "Marcha de Lampedusa el 3 de octubre de 2026 por la 13a Giornata della memoria e dell'accoglienza. Conmemoracion de las 368 personas muertas en el naufragio del 3 de octubre de 2013. El programa comenzo a las 09:30 con una concentracion silenciosa en Piazza Castello junto a los supervivientes. Hubo una actuacion del coro del Instituto Pirandello \"Le voci del mare\". La marcha llego al monumento a Mimmo Paladino en Porta d'Europa, donde se deposito una corona a las 10:30. La oracion interreligiosa fue a las 19:00 en la parroquia de San Gerlando, con participacion del cardenal Matteo Zuppi por video. Exigen vias legales de migracion, capacidad de rescate en el mar y derechos de recepcion, y condenan el cierre de las fronteras y la externalizacion del control migratorio.",
-    "status": "en_curso",
-    "lat": 35.864,
-    "lng": 12.605,
-    "fuentes": [
-      "https://www.ansa.it/sito/notizie/cronaca/2026/10/03/marcia-a-lampedusa-per-vittime-naufragi-questo-mare-torni-ad-essere-vita_f00a090a-d2f0-4eff-8bce-a46d2af855ab.html",
-      "https://palermo.repubblica.it/cronaca/2026/10/03/news/lampedusa_comitato_3_ottobre_13_anni_fa_la_strage_la_memoria_non_basta-425623288/",
-      "https://www.lasicilia.it/news/cronaca/3078431/lampedusa-13-anni-dopo-il-ricordo-della-strage-in-mare-con-368-vittime-la-memoria-diventa-impegno-per-salvare-vite.html"
-    ],
-    "createdAt": "2026-10-03T14:38:05.000Z",
-    "updatedAt": "2026-10-03T22:14:41Z"
-  },
-  {
-    "id": "it-2026-10-03-livorno-cgil-carovita",
-    "seccion": "internacionales",
-    "pais": "Italia",
-    "bandera": "🇮🇹",
-    "hora": "09:00",
-    "fecha": "2026-10-03",
-    "lugar": "Livorno, de Piazza San Marco a la Prefettura",
-    "tipoAccion": "Marcha",
-    "organizaciones": [
-      "CGIL Toscana"
-    ],
-    "motivo": "Corteo de la CGIL en Livorno el 3 de octubre de 2026 a las 09:00, de Piazza San Marco a la Prefettura. El lema es \"Basta crisi! Basta carovita!\" (Basta la crisis, basta el aumento de precios). La marcha apoya las vertenze de los trabajadores de Konecta, Pierburg, Magna, del siderurgico y de Liberty Magona. La convocatoria incluye el apoyo del secretario general de CGIL Toscana Francesco.",
-    "status": "en_curso",
-    "lat": 43.548,
-    "lng": 10.31,
-    "fuentes": [
-      "https://cgiltoscana.it/2026/10/02/il-3-ottobre-a-livorno-corteo-cgil-a-sostegno-delle-vertenze-e-contro-il-carovita-lappello-del-segretario-francese/"
-    ],
-    "createdAt": "2026-10-03T14:38:05.000Z",
-    "updatedAt": "2026-10-03T22:14:41Z"
-  },
-  {
-    "id": "it-2026-10-03-roma-sitin-potere-al-popolo",
-    "seccion": "internacionales",
-    "pais": "Italia",
-    "bandera": "🇮🇹",
-    "hora": "14:00",
-    "fecha": "2026-10-03",
-    "lugar": "Roma, Piazza Bocca della Verita",
-    "tipoAccion": "Concentracion",
-    "organizaciones": [
-      "Potere al Popolo"
-    ],
-    "motivo": "Sitin en Piazza Bocca della Verita en Roma el 3 de octubre de 2026 de 14:00 a 18:00. Lo convoca Potere al Popolo y se espera la participacion de unas 500 personas. El lema fue \"Estan cancelando la democracia. Detengamoslos\". Protestan contra el Gobierno de Giorgia Meloni. Roma Capitale aviso de posibles ralentimientos de trafico de 9:30 a 19:00.",
-    "status": "en_curso",
-    "lat": 41.8925,
-    "lng": 12.4813,
-    "fuentes": [
-      "https://www.comune.roma.it/web/it/notizia/mobilita-trasporti-3-4-ottobre-2026.page",
-      "https://www.repubblica.it/cronaca/2026/10/03/video/roma_la_manifestazione_contro_il_governo_meloni_stanno_cancellando_la_democrazia_-_diretta-425623719/"
-    ],
-    "createdAt": "2026-10-03T14:38:05.000Z",
-    "updatedAt": "2026-10-03T22:14:41Z"
-  },
-  {
-    "id": "fr-2026-10-03-paris-marche-des-fiertes",
-    "seccion": "internacionales",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "13:30",
-    "fecha": "2026-10-03",
-    "lugar": "Paris, de Place d'Italie a Place de la Bastille",
-    "tipoAccion": "Marcha",
-    "organizaciones": [
-      "colectivos Pride y LGBT+ de Paris",
-      "Ayuntamiento de Paris"
-    ],
-    "motivo": "Marche des Fiertes de Paris el 3 de octubre de 2026, con salida a las 13:30 desde Place d'Italie. El recorrido llega hasta Place de la Bastille, con una ventana oficial de 13:30 a 23:00. Es una de las mayores manifestaciones del mundo por el Orgullo.",
-    "status": "en_curso",
-    "lat": 48.83,
-    "lng": 2.355,
-    "fuentes": [
-      "https://www.paris.fr/evenements/marche-des-fiertes-84545",
-      "https://queer.paris/blog/parcours-marche-des-fiertes-paris-2026"
-    ],
-    "createdAt": "2026-10-03T14:38:05.000Z",
-    "updatedAt": "2026-10-03T22:14:41Z"
-  },
-  {
-    "id": "fr-2026-10-03-saint-pierre-la-garenne-antipesticidas",
-    "seccion": "internacionales",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "14:00",
-    "fecha": "2026-10-03",
-    "lugar": "Gaillon (Eure), concentracion en la rotonda Auchan y marcha hacia el sitio de Syngenta en Saint-Pierre-la-Garenne",
-    "tipoAccion": "Marcha",
-    "organizaciones": [
-      "Cancer Colere",
-      "Collectif de soutien aux victimes des pesticides de l'Ouest",
-      "Confederation paysanne",
-      "CSVPO",
-      "Soulevements de Terre"
-    ],
-    "motivo": "Movilizacion nacional e internacional \"Stop pesticides, Arretons Syngenta\" del 3 de octubre de 2026 contra Syngenta, el numero uno mundial de las ventas de pesticidas. La accion francesa se desarrolla junto al sitio quimico de Saint-Pierre-la-Garenne (Eure), que funciona 24 horas, y se concentra en Gaillon: reunion a las 12:00 en la rotonda Auchan (cruce de la D316 y la D6015), discursos a las 14:00 y salida de la marcha, seguida de una fiesta campesina y conciertos a las 20:00 en el campamento de la Route de Fouqueville, en Le Bec-Thomas. La prefecultura se ha comprometido a autorizar la manifestacion y la presencia masiva busca paralizar el sitio durante al menos 24 horas. Exigen el fin de los pesticidas peligrosos y la revision de los usos autorizados en Francia. Coincide el mismo dia con las acciones de Basilea y Monthey contra Syngenta.",
-    "status": "en_curso",
-    "lat": 49.0965,
-    "lng": 1.4555,
-    "fuentes": [
-      "https://stop-syngenta3oct.com/info",
-      "https://stop-syngenta3oct.com/fr",
-      "https://www.solidaires.org/stop-pesticides-le-3-octobre-2026-arretons-syngenta/"
-    ],
-    "createdAt": "2026-10-03T14:38:05.000Z",
-    "updatedAt": "2026-10-03T22:14:41Z"
-  },
-  {
-    "id": "jp-2026-10-03-tokio-anticcp",
-    "seccion": "internacionales",
-    "pais": "Japon",
-    "bandera": "🇯🇵",
-    "hora": "11:00",
-    "fecha": "2026-10-03",
-    "lugar": "Tokio, frente a la Embajada de China en Minami-Azabu y a la oficina de impuestos de Azabu, con marcha por Jingu-dori",
-    "tipoAccion": "Marcha",
-    "organizaciones": [
-      "organizaciones japonesas contra el Partido Comunista de China"
-    ],
-    "motivo": "Accion en Tokio el 3 de octubre de 2026 por el 77 aniversario del regime del Partido Comunista de China. La concentracion es a las 11:00 frente a la Embajada de China y a la oficina de impuestos de Azabu. El mitin es a las 13:30 en el parque Jingu-dori y la marcha sale a las 14:00. Forma parte de las acciones de solidaridad del mismo dia en Amsterdam y otras ciudades.",
-    "status": "en_curso",
-    "lat": 35.6655,
-    "lng": 139.744,
-    "fuentes": [
-      "https://myxth.org/archives/10945"
-    ],
-    "createdAt": "2026-10-03T14:38:05.000Z",
-    "updatedAt": "2026-10-03T22:14:41Z"
-  },
-  {
-    "id": "nl-2026-10-03-amsterdam-anticcp",
-    "seccion": "internacionales",
-    "pais": "Paises Bajos",
-    "bandera": "🇳🇱",
-    "hora": "13:00",
-    "fecha": "2026-10-03",
-    "lugar": "Amsterdam, Dam Square",
-    "tipoAccion": "Concentracion",
-    "organizaciones": [
-      "Tibet Support Group Nederland",
-      "Stichting Support Uyghurs",
-      "Voice of Anti-CCP NL"
-    ],
-    "motivo": "Concentracion en Dam Square en Amsterdam el 3 de octubre de 2026 de 13:00 a 15:00. SexlOil por los 77 anos de regla del Partido Comunista de China. Convocan Tibet Support Group NL, Stichting Support Uyghurs y Voice of Anti-CCP NL.",
-    "status": "en_curso",
-    "lat": 52.3731,
-    "lng": 4.8922,
-    "fuentes": [
-      "https://www.anticcp.nl/2026/09/solidarity-against-dictatorship-joint.html"
-    ],
-    "createdAt": "2026-10-03T14:38:05.000Z",
-    "updatedAt": "2026-10-03T22:14:41Z"
-  },
-  {
-    "id": "lk-2026-10-03-colombo-jana-aragala",
-    "seccion": "internacionales",
-    "pais": "Sri Lanka",
-    "bandera": "🇱🇻",
-    "hora": "",
-    "fecha": "2026-10-03",
-    "lugar": "Colombo, sector Fort",
-    "tipoAccion": "Marcha",
-    "organizaciones": [
-      "Jana Aragala / People's Struggle Movement"
-    ],
-    "motivo": "Movilizacion del People's Struggle Movement (Jana Aragala) en Colombo el 3 de octubre de 2026. La marcha se realizo contra los impuestos injustos del Gobierno.",
-    "status": "en_curso",
-    "lat": 6.9271,
-    "lng": 79.8612,
-    "fuentes": [
-      "https://www.lankanewspapers.com/2026/10/03/jana-aragala-movement-takes-to-colombo-streets-in-protest-against-government-tax-policies"
-    ],
-    "createdAt": "2026-10-03T14:38:05.000Z",
-    "updatedAt": "2026-10-03T22:14:41Z"
-  },
-  {
-    "id": "tr-2026-10-03-turquia-tutsaklar-actions",
-    "seccion": "internacionales",
-    "pais": "Turquia",
-    "bandera": "🇹🇷",
-    "hora": "",
-    "fecha": "2026-10-03",
-    "lugar": "Esmirna (Konak y Sumerbank), Estambul (Beyoglu) y Ankara (Kizilay, calle Sakarya)",
-    "tipoAccion": "Concentracion",
-    "organizaciones": [
-      "IHD (Asuntos Juridicos de los Derechos Humanos)",
-      "iniciativas locales de derechos humanos",
-      "Comision de Presos de IHD Estambul"
-    ],
-    "motivo": "Acciones semanales de las organizaciones de derechos humanos en favor de los presos enfermos. En Estambul, la Comision de Presos de IHD realizo su 758ma accion, la sesion F, en Beyoglu. En Esmirna, IHD y las iniciativas locales concentraron en Konak y Sumerbank. En Ankara, se concentraron ante la sede de IHD en Kizilay, calle Sakarya.",
-    "status": "programado",
-    "lat": 41.033,
-    "lng": 28.976,
-    "fuentes": [
-      "https://yeniyasamgazetesi9.com/ankara-izmir-ve-istanbulda-hasta-tutsaklar-icin-aciklama-acilen-tahliye-edilmeliler/"
-    ],
-    "createdAt": "2026-10-03T14:38:05.000Z",
-    "updatedAt": "2026-10-03T22:14:41Z"
-  },
-  {
-    "id": "ua-2026-10-03-kyiv-maidan",
-    "seccion": "internacionales",
-    "pais": "Ucrania",
-    "bandera": "🇺🇦",
-    "hora": "",
-    "fecha": "2026-10-03",
-    "lugar": "Kiev, Maidan Nezalezhnosti",
-    "tipoAccion": "Concentracion",
-    "organizaciones": [
-      "manifestantes de Maidan",
-      "organizadores ciudadanos de la protesta"
-    ],
-    "motivo": "Protesta en Maidan Nezalezhnosti, Kiev, el 3 de octubre de 2026. Fue mas numerosa que las anteriores. La protesta fue promovida por el oficial y periodista Oleksandr Todorov. Piden un acuerdo de paz rapido con Rusia y critican a las autoridades por la corrupcion y el incumplimiento de la ley.",
-    "status": "en_curso",
-    "lat": 50.448,
-    "lng": 30.5234,
-    "fuentes": [
-      "https://tass.com/world/2197143"
-    ],
-    "createdAt": "2026-10-03T14:38:05.000Z",
-    "updatedAt": "2026-10-03T22:14:41Z"
-  },
-  {
-    "id": "cl-2026-10-03-gran-malon-nacional",
-    "seccion": "internacionales",
-    "pais": "Chile",
-    "bandera": "🇨🇱",
-    "hora": "",
-    "fecha": "2026-10-03",
-    "lugar": "barrios de todo Chile, con punto de referencia en la Plaza de Armas de Santiago",
-    "tipoAccion": "Movilizacion",
-    "organizaciones": [
-      "Ciudad Emergente"
-    ],
-    "motivo": "El Gran Malon Nacional se realizo este sabado 3 de octubre de 2026 en los barrios de todo Chile. Los vecinos sacan las mesas a la calle, conversan y comparten una comida. Lo convoca Ciudad Emergente bajo el hashtag #SacaTuMesa. Es una movilizacion comunitaria y urbana, no una protesta deconstructiva.",
-    "status": "en_curso",
-    "lat": -33.4489,
-    "lng": -70.6683,
-    "fuentes": [
-      "https://elmauleinforma.cl/el-sabado-3-de-octubre-se-efectuara-el-gran-malon-nacional-en-barrios-de-chile/"
-    ],
-    "createdAt": "2026-10-03T14:38:05.000Z",
-    "updatedAt": "2026-10-03T22:14:41Z"
-  },
-  {
-    "id": "ar-2026-10-03-marcha-orgullo-rosario",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "17:00",
-    "fecha": "2026-10-03",
-    "lugar": "Rosario, desde Mitre y Pasco (Plaza Libertrans) por Pellegrini y Buenos Aires hasta el Monumento Nacional a la Bandera, Santa Fe, Argentina",
-    "tipoAccion": "Marcha",
-    "organizaciones": [
-      "Coordinadora del Orgullo Rosario",
-      "colectivos LGBTIQNB+ de Rosario"
-    ],
-    "motivo": "La 20a Marcha del Orgullo LGBTIQ+ de Rosario se realiza este sabado 3 de octubre de 2026 bajo el lema \"Basta de travesticidios! Ley Integral Trans ya!\", en homenaje a Gabriela Denisse Banach, activa de 47 anos y victima de transfemicidio en Rosario en agosto de 2026, cuyo responsable fue detenido. La jornada arranca a las 14:00 con la Feria Orgullosa en la Plaza Libertrans (Plaza Libertad, Mitre y Pasco), con 204 emprendimientos confirmados de la comunidad LGBTIQNB+, venta de remeras y abanicos oficiales y un escenario con DJs locales. A las 17:00 comienza la marcha propiamente dicha, que parte de Mitre y Pasco, recorre Pellegrini y Buenos Aires y cierra en el Monumento Nacional a la Bandera, donde se lee el documento elaborado en las asambleas de la Coordinadora del Orgullo y se realiza el festival de cierre. La organizacion preve superar los 100 mil asistentes, en linea con la edicion anterior. Las consignas nuclean el reclamo de la sancion de la Ley Integral Trans, la falta de acceso al empleo, las barreras en los servicios de salud, la expulsion del sistema educativo, la emergencia habitacional y los crimenes de odio que atraviesan a la comunidad trans y travesti, en un contexto de expansion de los discursos de odio. Como la fecha coincide con los 50 anos del ultimo golpe de Estado civico, militar, eclesiastico, estatal y empresarial, la proclama sumo \"30.400 companeros detenidas desaparecidas presentes!\". La Semana del Orgullo previa, en la Plataforma Lavarden (Mendoza y Sarmiento), se extendio del 27 de septiembre al 2 de octubre con entrada libre y gratuita. Verificado el 3 de octubre de 2026: la 20a Marcha del Orgullo LGBTIQ+ de Rosario esta en curso, con la Feria Orgullosa en la Plaza Libertrans (Mitre y Pasco) entre las 14:00 y las 17:00 y 204 emprendimientos de la comunidad LGBTIQNB+, venta de remeras y abanicos oficiales y escenario con DJs locales, y con la marcha programada para las 17:00 desde Mitre y Pasco por Pellegrini y Buenos Aires hasta el Monumento Nacional a la Bandera. Al cierre de esta actualizacion (18:47 UTC, 15:47 hora argentina): la feria sigue abierta y la columna aun no sale a la calle.",
-    "status": "en_curso",
-    "lat": -32.9452,
-    "lng": -60.6525,
-    "fuentes": [
-      "https://argay.ar/rosario2026/",
-      "https://argay.ar/marchas2026",
-      "https://www.todxs.com.ar/2026/09/24/orgullo-2026-en-argentina-guia-federal-y-colaborativa-de-marchas-y-actividades/",
-      "https://www.lacapital.com.ar/la-ciudad/con-mucho-color-y-despliegue-rosario-vivio-la-marcha-del-orgullo-n10157184.html"
-    ],
-    "createdAt": "2026-10-03T14:52:31.000Z",
-    "updatedAt": "2026-10-03T22:14:41Z"
-  },
-  {
-    "id": "gr-2026-10-03-kypseli-metro-obras",
-    "seccion": "internacionales",
-    "pais": "Grecia",
-    "bandera": "🇬🇷",
-    "hora": "18:00",
-    "fecha": "2026-10-03",
-    "lugar": "plaza de Kypseli, con inicio en la esquina de Fokionos Negri, Atenas",
-    "tipoAccion": "Marcha",
-    "organizaciones": [
-      "Protopouloia Katoikon Kypselis (Iniciativa de Residentes de Kypselis)",
-      "Steki Ergazomenon kai Neolias Patision-Kypselis \"Kairi Panopoulou\"",
-      "Organizaciones y particulares del distrito de Kypseli"
-    ],
-    "motivo": "Marcha y concentracion en la plaza de Kypseli el sabado 3 de octubre de 2026 a las 18:00 con el lema \"No pagaremos el metro con nuestras vidas\", convocada por la Iniciativa de Residentes de Kypselis contra los danos que la tuneladora del metro ha causado en las viviendas del barrio: grietas, hundimientos y problemas de aguas subterraneas en edificios ya marcados en amarillo y rojo. Exigen que la tuneladora no se reinicie hasta la restauracion completa de los danos y la garantia de estabilidad estructural de las viviendas, transparencia total en los estudios y mediciones, controles de resistencia en todos los edificios privados y las escuelas, y compensacion economica para propietarios e inquilinos afectados. La movilizacion comenzo con una gran concentracion y intervenciones en la calle Fokionos Negri y continuo con recorrido por las vias principales del barrio. Asistieron el alcalde de Atenas, Charis Doukas, concejales y representantes de partidos.",
-    "status": "en_curso",
-    "lat": 37.9793,
-    "lng": 23.7224,
-    "fuentes": [
-      "https://prin.gr/2026/10/poreia-kypseli-protovoulia-metro/",
-      "https://www.efsyn.gr/ellada/1480495/megali-poreia-stin-kypseli-gia-ta-erga-toy-metro-ohi-ston-tromopontika-pliris-apokatastasi-vinteo/",
-      "https://www.in.gr/2026/10/03/uncategorized/kypseli-sygkentrosi-diamartyrias-gia-tis-zimies-se-polykatoikies-apo-to-metro-den-tha-to-plirosoume-me-tis-zoes-mas/",
-      "https://stekiergazomenonkaineolaias.gr/index.php/2026/10/01/sygkentrosi-kai-poreia-stin-plateia-kypselis/"
-    ],
-    "createdAt": "2026-10-03T18:31:31.000Z",
-    "updatedAt": "2026-10-03T22:14:41Z"
-  },
-  {
-    "id": "gr-2026-10-03-salonica-aloieros-apokleismos",
-    "seccion": "internacionales",
-    "pais": "Grecia",
-    "bandera": "🇬🇷",
-    "hora": "12:00",
-    "fecha": "2026-10-03",
-    "lugar": "puerto comercial de Salonica, entrada a la altura del antitorpedo \"Velos\"",
-    "tipoAccion": "Movilizacion",
-    "organizaciones": [
-      "Organizaciones profesionales de pescadores de Salonica",
-      "Pescadores de Kalamaria, Nea Krani, Nea Mihaniona, Angelochori, Halastra y Katerini",
-      "PASOK (Nikos Androulakis)"
-    ],
-    "motivo": "Bloqueo simbolico de media hora de la entrada del puerto comercial de Salonica el sabado 3 de octubre de 2026 al mediodia, tercer dia de la movilizacion nacional de pescadores que mantienen amarradas sus embarcaciones en la playa del golfo Termaico. Decenas de barcos pesqueros, entre ellos traineras y kayaks, se concentraron a la altura del antitorpedo \"Velos\" y, con antorchas encendidas dentro de las traineras y sirenas, bloquearon simbolicamente la entrada del puerto durante media hora; despues las embarcaciones regresaron y quedaron varadas a lo largo del frente de playa. Reunidos cerca de 200 barcos pesqueros en total, los pescadores afirman que el sector se ha declarado en quiebra. Exigen un subsidio de 50 a 55 centimos por litro de gasoleo, cuyo precio se ha triplicado respecto al ano pasado y supera ya los 700 euros mensuales de combustible, la reparacion de las redes destruidas por la sobrepesca de delfines, el control del fitoplancton en la pesca y el fin de la pesca de pescadores turcos en aguas griegas. El representante Dimitris Tsiouras advierte que la negociacion escalara: el domingo llegaran cinco barcos grandes con colegas de Kavala, Alexandroupoli y otras zonas.",
-    "status": "en_curso",
-    "lat": 40.6257,
-    "lng": 22.9366,
-    "fuentes": [
-      "https://www.in.gr/2026/10/03/greece/thessaloniki-symvolikos-apokleismos-tou-limaniou-apo-tous-alieis-ta-aitimata-tous/",
-      "https://www.iefimerida.gr/ellada/thessaloniki-apokleismos-limanioy-apo-toys-alieis",
-      "https://www.protothema.gr/greece/article/1888828/psarades-etoimazodai-na-apokleisoun-apo-ti-thalassa-to-limani-tis-thessalonikis-peripou-150-alieutika-stin-kinitopoiisi/",
-      "https://www.mononews.gr/business/shipping/limani-thessalonikis-etoimoi-na-to-akleisoun-oi-alieis-ti-zitoun"
-    ],
-    "createdAt": "2026-10-03T18:31:31.000Z",
-    "updatedAt": "2026-10-03T22:14:41Z"
-  },
-  {
-    "id": "fr-2026-10-03-paris-marche-fermeture-abattoirs",
-    "seccion": "internacionales",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "14:00",
-    "fecha": "2026-10-03",
-    "lugar": "place de la Republique, Paris; Vegan Place de 12:00 a 18:00 en la misma plaza",
-    "tipoAccion": "Marcha",
-    "organizaciones": [
-      "L214"
-    ],
-    "motivo": "Marcha por el cierre de los mataderos en Paris el sabado 3 de octubre de 2026, organizada por L214 como movilizacion nacional en favor de los animales. El programa oficial preve una Vegan Place, villaje asociativo y comercial, de 12:00 a 18:00 en la place de la Republique; discursos a las 14:00 con un slam de Res Turner y de Sebastien Arsac, cofundador de L214; salida del cortejo a las 14:30 con dos die-in, en Arts et Metiers y place des Vosges; y regreso estimado a la place de la Republique sobre las 17:00 con cierre musical. L214 espera varios miles de participantes y reclama una sola demanda: abolir la carne.",
-    "status": "en_curso",
-    "lat": 48.8674,
-    "lng": 2.363,
-    "fuentes": [
-      "https://www.l214.com/actualites/marche-fermeture-abattoirs/",
-      "https://www.l214.com/campagnes/marche-fermeture-abattoirs/",
-      "https://www.l214.com/communications/2026-09-25-marche-fermeture-des-abattoirs-l214/",
-      "https://lanticapitaliste.org/evenement/paris-75-marche-pour-la-fermeture-des-abattoirs"
-    ],
-    "createdAt": "2026-10-03T18:31:31.000Z",
-    "updatedAt": "2026-10-03T22:14:41Z"
-  },
-  {
-    "id": "ch-2026-10-03-basel-stop-syngenta",
-    "seccion": "internacionales",
-    "pais": "Suiza",
-    "bandera": "🇨🇭",
-    "hora": "13:00",
-    "fecha": "2026-10-03",
-    "lugar": "Basilea, punto de encuentro en el ferri del Muenster, lado de Kleinbasel, sobre el Rin",
-    "tipoAccion": "Marcha",
-    "organizaciones": [
-      "Public Eye, grupo regional de Basilea",
-      "March Against Syngenta",
-      "pax christi"
-    ],
-    "motivo": "Marcha y encuentros en la ciudad de Basilea el sabado 3 de octubre de 2026 a las 13:00 dentro de la movilizacion internacional \"Stop pesticides\" contra Syngenta, sede mundial de la mayor vendedora de pesticidas. El punto de partida es el ferri del Muenster. Habra un recorrido guiado por lugares vinculados a los pesticidas, la responsabilidad empresarial y las cadenas de suministro globales, con charlas y actuaciones creativas, un puesto de informacion del grupo regional de Public Eye y la participacion del especialista en agricultura y alimentacion Laurent Gaberell. Exigen el fin de la impunidad de la agroindustria quimica y de Syngenta.",
-    "status": "en_curso",
-    "lat": 47.582,
-    "lng": 7.593,
-    "fuentes": [
-      "https://stop-syngenta3oct.com/info",
-      "https://stop-syngenta3oct.com/fr"
-    ],
-    "createdAt": "2026-10-03T18:31:31.000Z",
-    "updatedAt": "2026-10-03T22:14:41Z"
-  },
-  {
-    "id": "ch-2026-10-03-monthey-stop-syngenta",
-    "seccion": "internacionales",
-    "pais": "Suiza",
-    "bandera": "🇨🇭",
-    "hora": "14:00",
-    "fecha": "2026-10-03",
-    "lugar": "Monthey (Valais), rendez-vous en la gare CFF y marcha hacia el sitio industrial quimico de Syngenta",
-    "tipoAccion": "Concentracion",
-    "organizaciones": [
-      "Public Eye",
-      "Uniterre",
-      "BreakFree Schweiz",
-      "CETIM",
-      "March Against Syngenta",
-      "Soulevements de la terre Geneve",
-      "Les Vagues de la Revolte",
-      "Stop Pillage",
-      "Ensemble a Gauche",
-      "Association Chablair",
-      "Les Vert.es du Chablais VS/VD"
-    ],
-    "motivo": "Manifestacion en Monthey (Valais) el sabado 3 de octubre de 2026 a las 14:00 ante el sitio industrial quimico de Syngenta, donde se fabrica el 1,2,4-triazol que la Union Europea retiro de la lista de sustancias peligrosas y que ha vertido mas de 60 toneladas en el Rona, contaminando el agua potable de alrededor de un millon de personas a ambos lados del lago Lemano. El rendez-vous es en la gare CFF de Monthey. Exigen la retirada de Syngenta, un control independiente de la contaminacion, que se investigue y remedie la contaminacion del Lemano y una transicion agroecologica. Asistiran Laurent Gaberell y Geraldine Viret, de Public Eye, y representantes regionales del canton de Vaud.",
-    "status": "en_curso",
-    "lat": 46.0862,
-    "lng": 6.7925,
-    "fuentes": [
-      "https://stop-syngenta3oct.com/info",
-      "https://stop-syngenta3oct.com/documents/communique-presse-monthey.pdf",
-      "https://uniterre.ch/agenda/stop-pesticides-mobilisation-internationale-contre-syngenta/"
-    ],
-    "createdAt": "2026-10-03T18:31:31.000Z",
-    "updatedAt": "2026-10-03T22:14:41Z"
-  },
-  {
-    "id": "in-2026-10-03-hyderabad-dharna-chowk-sir",
-    "seccion": "internacionales",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "",
-    "fecha": "2026-10-03",
-    "lugar": "Dharna Chowk, Indira Park, Hyderabad, Telangana, India",
-    "tipoAccion": "Concentracion",
-    "organizaciones": [
-      "Unidad de Telangana del Cockroach Janata Party (CJP)",
-      "Telangana Peoples Front (TPF)",
-      "12 organizaciones de la sociedad civil"
-    ],
-    "motivo": "Protesta de todo el dia en Dharna Chowk, en el Indira Park de Hyderabad, el sabado 3 de octubre de 2026, convocada por doce organizaciones, entre ellas la unidad de Telangana del Cockroach Janata Party y el Telangana Peoples Front. Abrio con el 'Bella Ciao' en version hindi y rebautizo la Revision Intensiva Especial (SIR) de las listas electorales como 'Special Intensive Resistance'. La plataforma reclama tres cosas: eliminar la SIR y defender el derecho universal al voto; la dimision inmediata del comisionado electoral principal Gyanesh Kumar, con accion legal por romper la confianza publica; y derogar la ley de 2023 sobre el nombramiento y condiciones del comisionado electoral y los demas comisionados. Asistieron especialistas en datos electorales, investigadores, activistas y docentes, y el actor Prakash Raj, que llamo a la SIR un intento de matar la democracia. La policia irrumpio en la carpa a las 15:00 IST instando a la disolucion. La prioridad del CJP es unificar las manifestaciones del pais en Jantar Mantar el 10 de octubre.",
-    "status": "en_curso",
-    "lat": 17.4148,
-    "lng": 78.448,
-    "fuentes": [
-      "https://www.thehindu.com/news/cities/Hyderabad/protesters-in-hyderabad-demand-cec-gyanesh-kumars-resignation-scrapping-of-sir/article71540168.ece",
-      "https://thesouthfirst.com/telangana/attempt-to-kill-democracy-hyderabad-civil-society-protests-sir-demands-cec-gyanesh-kumars-resignation/"
-    ],
-    "createdAt": "2026-10-03T18:31:31.000Z",
-    "updatedAt": "2026-10-03T22:14:41Z"
+    "updatedAt": "2026-10-04T00:44:49Z"
   },
   {
     "id": "ng-2026-10-03-lagos-huelga-indefinida-universidades",
@@ -1213,7 +837,7 @@
     "pais": "Nigeria",
     "bandera": "🇳🇬",
     "hora": "",
-    "fecha": "2026-10-03",
+    "fecha": "2026-10-04",
     "lugar": "universidades del Estado de Lagos: Lagos State University (LASU), LASU College of Medicine (LASUCOM), Lagos State University of Science and Technology (LASUSTECH) y Lagos State University of Education (LASUED)",
     "tipoAccion": "Huelga",
     "organizaciones": [
@@ -1223,166 +847,17 @@
       "Non-Academic Staff Union of Educational and Associated Institutions (NASU)",
       "National Association of Academic Technologists (NAAT)"
     ],
-    "motivo": "Huelga total e indefinida del personal docente y no docente de las cuatro universidades publicas propiedad del Estado de Lagos desde la medianoche del 2 al 3 de octubre de 2026, declarada por el Joint Action Committee tras vencer su ultimatum final de siete dias. Reclaman la plena aplicacion de los acuerdos firmados en 2026 entre el Gobierno Federal y los sindicatos, con estructuras de complementos, beneficios exentos de impuestos y pagos retroactivos; el pago de una vez de nueve meses de atrasos, de enero a septiembre de 2026; la condicion no imponible de los complementos negociados; y un complemento de subsidio local llamado 'Lagos Factor' del 15 por ciento. El presidente del JAC, el profesor Ibrahim Bakare, advierte que la medida amenaza el calendario academico y los servicios administrativos y que solo una intervencion del gobernador Babajide Sanwo-Olu puede evitarla. El 15 de septiembre ASUU ya habia declarado una huelga indefinida en LASU, LASUED y LASUSTECH por el mismo motivo.",
+    "motivo": "Segundo dia de la huelga total e indefinida del personal docente y no docente de las cuatro universidades publicas propiedad del Estado de Lagos, declarada desde la medianoche del 2 al 3 de octubre de 2026 por el Joint Action Committee tras vencer su ultimatum final de siete dias. Reclaman la plena aplicacion de los acuerdos firmados en 2026 entre el Gobierno Federal y los sindicatos, con estructuras de complementos, beneficios exentos de impuestos y pagos retroactivos; el pago de una vez de nueve meses de atrasos, de enero a septiembre de 2026; la condicion no imponible de los complementos negociados; y un complemento de subsidio local llamado 'Lagos Factor' del 15 por ciento. El presidente del JAC, el profesor Ibrahim Bakare, advierte que la medida amenaza el calendario academico y los servicios administrativos y que solo una intervencion del gobernador Babajide Sanwo-Olu puede evitarla.",
     "status": "en_curso",
     "lat": 6.484,
     "lng": 3.587,
     "fuentes": [
-      "https://guardian.ng/news/lagos-varsity-unions-declare-indefinite-strike-over-unpaid-arrears-broken-agreements/",
-      "https://punchng.com/lagos-varsities-face-shutdown-as-four-unions-declare-strike/",
       "https://dailypost.ng/2026/10/03/lagos-varsity-workers-declare-indefinite-strike-over-unpaid-nine-month-arrears/",
-      "https://www.vanguardngr.com/2026/10/lagos-universities-workers-begin-indefinite-strike/"
+      "https://punchng.com/lagos-varsities-face-shutdown-as-four-unions-declare-strike/",
+      "https://www.vanguardngr.com/2026/10/lagos-universities-workers-begin-indefinite-strike/",
+      "https://guardian.ng/news/lagos-varsity-unions-declare-indefinite-strike-over-unpaid-arrears-broken-agreements/"
     ],
     "createdAt": "2026-10-03T18:31:31.000Z",
-    "updatedAt": "2026-10-03T22:14:41Z"
-  },
-  {
-    "id": "ph-2026-10-03-manila-manibela-huelga-transporte",
-    "seccion": "internacionales",
-    "pais": "Filipinas",
-    "bandera": "🇵🇭",
-    "hora": "",
-    "fecha": "2026-10-03",
-    "lugar": "Metro Manila y otros centros urbanos de Filipinas",
-    "tipoAccion": "Huelga",
-    "organizaciones": [
-      "MANIBELA"
-    ],
-    "motivo": "Huelga nacional de transporte de dos dias lanzada por MANIBELA el 3 y el 4 de octubre de 2026 en Metro Manila y otros centros urbanos, en protesta por el alza del precio del petroleo y el programa de modernizacion de los vehiculos publicos de servicio. El paro produjo retrasos para los pasajeros de jeepney y se acompano del despliegue de unos 7.000 efectivos policiales en Metro Manila. MANIBELA reclama reduccion de los precios del combustible, eliminacion de los impuestos selectivos sobre el petroleo y un aumento de la tarifa minima, con su peticion de un aumento P2 pendiente de revision ante la Land Transportation Franchising and Regulatory Board. Es una movilizacion distinta de la huelga de tres dias del 28 al 30 de septiembre de 2026.",
-    "status": "en_curso",
-    "lat": 14.676,
-    "lng": 121.041,
-    "fuentes": [
-      "https://manilatimes.com/manibela-launches-two-day-nationwide-transport-strike-over-fuel-prices",
-      "https://manilatimes.com/metro-manila-deploys-7-000-police-as-transport-strike-disrupts-commuters"
-    ],
-    "createdAt": "2026-10-03T18:31:31.000Z",
-    "updatedAt": "2026-10-03T22:14:41Z"
-  },
-  {
-    "id": "bd-2026-10-03-chattogram-puerto-trabajadores",
-    "seccion": "internacionales",
-    "pais": "Bangladesh",
-    "bandera": "🇧🇩",
-    "hora": "",
-    "fecha": "2026-10-03",
-    "lugar": "Chattogram Port Colony y los muelles del puerto de Chattogram, Bangladesh",
-    "tipoAccion": "Concentracion",
-    "organizaciones": [
-      "Chattogram Port Sramik Dal",
-      "Chattogram Port Protection Committee",
-      "Bondor Rokkha Sangram Parishad"
-    ],
-    "motivo": "Asamblea y protesta vespertina en Chattogram Port Colony el sabado 3 de octubre de 2026 contra la entrega del New Mooring Container Terminal y su Overflow Container Yard a un operador extranjero. El Gobierno aprobo el 1 de octubre un acuerdo de concesion de 15 anos para operar el NCT, y la protesta se dirige contra DP World, de Dubai, mientras tambien se plantea entregar el Chattogram Container Terminal y el General Cargo Berth, que mueven mas del 90 por ciento del comercio exterior maritimo de Bangladesh. Nurul Azim, lider del Sramik Dal vinculado al BNP, sostuvo que los trabajadores no entregaran el terminal aunque para ello tengan que sacrificar vidas. El coordinador Ibrahim Khokon, del Comite de Defensa del Puerto, pidio revisar el proceso de concesion y abrir negociacion con los trabajadores, y advirtio que habra una protesta mayor si el Gobierno no responde. Dieron cinco dias de plazo: marcha de antorchas el 7 de octubre y planton de 24 horas ante el One Stop Service Centre el 5 de octubre.",
-    "status": "en_curso",
-    "lat": 22.293,
-    "lng": 91.783,
-    "fuentes": [
-      "https://publisher.tbsnews.net/bangladesh/we-will-sacrifice-lives-not-new-mooring-terminal-ctg-port-workers-vow-resist-foreign",
-      "https://thefinancialexpress.com.bd/trade/port-workers-call-for-review-of-nct-foreign-operator-agreement",
-      "https://www.thedailystar.net/business/news/chattogram-bandar-rokkha-committee-stage-sit-oct-5-4289396",
-      "https://www.tbsnews.net/bangladesh/port-protection-committee-demands-cancellation-nct-cct-lease-processes-1561151"
-    ],
-    "createdAt": "2026-10-03T18:31:31.000Z",
-    "updatedAt": "2026-10-03T22:14:41Z"
-  },
-  {
-    "id": "gb-2026-10-03-dover-marcha-antimigracion",
-    "seccion": "internacionales",
-    "pais": "Reino Unido",
-    "bandera": "🇬🇧",
-    "hora": "15:00",
-    "fecha": "2026-10-03",
-    "lugar": "Dover, Kent: concentracion en Priory Street y recorrido desde The Golden Lion hasta los muelles orientales del puerto",
-    "tipoAccion": "Marcha",
-    "organizaciones": [
-      "South Coast Patriots",
-      "English Defence League",
-      "Paul Pitt, organizador"
-    ],
-    "motivo": "Marcha antiinmigracion en Dover (Kent) el sabado 3 de octubre de 2026 que comenzo a las 15:00 en Priory Street, junto a The Golden Lion, y bajo por la A20 hasta los muelles orientales del puerto, coreando 'whose streets? our streets' y 'stop the boats'. Kent Police estimo en unos 100 los manifestantes presentes. Hubo contramanifestacion en el centro con carteles como 'Dover stand up to racism' y 'Migration is not a crime'. La policia disperso a los protestantes en el puerto con un aviso de la seccion 14 y los mantuvo separados de los contramanifestantes; la marcha se cerro sobre las 16:45 sin arrestos. Ese mismo dia Kent Police aplico de 08:00 a 21:00 BST una prohibicion de cubrirse el rostro bajo el Crime and Policing Act 2026 en partes de Dover, Buckland, Whitfield, Guston y St Margaret's-at-Cliffe, y desplego equipo antidisturbios tras el bloqueo del puerto del 5 de septiembre.",
-    "status": "en_curso",
-    "lat": 51.1258,
-    "lng": 1.3137,
-    "fuentes": [
-      "https://www.bbc.com/news/articles/c3rrylpqr4e1o",
-      "https://www.kentonline.co.uk/dover/news/face-covering-ban-in-place-as-police-descend-on-dover-ahead-345868/"
-    ],
-    "createdAt": "2026-10-03T18:31:31.000Z",
-    "updatedAt": "2026-10-03T22:14:41Z"
-  },
-  {
-    "id": "gb-2026-10-03-southampton-marcha-antimigracion",
-    "seccion": "internacionales",
-    "pais": "Reino Unido",
-    "bandera": "🇬🇧",
-    "hora": "",
-    "fecha": "2026-10-03",
-    "lugar": "centro de Southampton, Hampshire, Reino Unido",
-    "tipoAccion": "Concentracion",
-    "organizaciones": [
-      "South Coast Patriots",
-      "Southampton Stand Up To Racism"
-    ],
-    "motivo": "Concentraciones enfrentadas en el centro de Southampton (Hampshire) el sabado 3 de octubre de 2026: manifestantes antiinmigracion del South Coast Patriots y contramanifestantes antirracistas de Southampton Stand Up To Racism, con carteles como 'this is what community looks like' y 'Migration is not a crime'. La movilizacion se desarrollo en paralelo a la marcha de Dover y reunio a varios cientos de asistentes con presencia policial. Segun Kent Police, no se habian producido arrestos hasta el cierre de esta actualizacion (18:31 UTC).",
-    "status": "en_curso",
-    "lat": 50.9075,
-    "lng": -1.406,
-    "fuentes": [
-      "https://www.bbc.com/news/articles/c3rrylpqr4e1o",
-      "https://ground.news/article/anti-migrant-march-and-counter-protest-in-city-centre-live-updates"
-    ],
-    "createdAt": "2026-10-03T18:31:31.000Z",
-    "updatedAt": "2026-10-03T22:14:41Z"
-  },
-  {
-    "id": "us-2026-10-03-san-antonio-marcha-ice",
-    "seccion": "internacionales",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
-    "hora": "08:00",
-    "fecha": "2026-10-03",
-    "lugar": "San Antonio, Texas: concentracion en la esquina de East Houston Street y S WW White Road y marcha por East Houston hasta la nave prevista de Loop 410",
-    "tipoAccion": "Marcha",
-    "organizaciones": [
-      "San Antonio Freedom Coalition",
-      "Tommy Calvert, comisionado del condado de Bexar",
-      "Jimmy Drennan, sacerdote de St. Margaret Mary Catholic Church",
-      "Joaquin Castro, congresista (participacion prevista)"
-    ],
-    "motivo": "Marcha por la Libertad y la Justicia el sabado 3 de octubre de 2026 en San Antonio (Texas): los manifestantes se reunieron a las 08:00 en la esquina de East Houston Street y S WW White Road y caminaron por East Houston hasta la nave de 542 SE Loop 410 que el Servicio de Inmigracion y Aduanas ha comprado por 66,1 millones de dolares para convertir en centro de detension y procesamiento, con una poblacion diaria prevista de 1.000 a 1.500 personas. El comisionado Tommy Calvert y el sacerdote Jimmy Drennan convocan una manifestacion pacifica y de oracion para presionar al fiscal de distrito y a la fiscalia de la ciudad a estudiar acciones legales por posible incumplimiento de la Ley de Politica Ambiental Nacional y de la revision ambiental del proyecto. Estaban previstas las intervenciones del congresista Joaquin Castro. Una segunda concentracion contra el centro de detencion estaba prevista a las 14:00 frente al Ayuntamiento de San Antonio.",
-    "status": "en_curso",
-    "lat": 29.362,
-    "lng": -98.43,
-    "fuentes": [
-      "https://foxsanantonio.com/newsletter-daily/live-protesters-gather-outside-east-side-ice-facility-in-san-antonio",
-      "https://www.tpr.org/text/border-immigration/2026-09-28/san-antonio-opponents-press-city-to-challenge-planned-ice-detention-center",
-      "https://www.sacurrent.com/news/san-antonio-news/san-antonio-mayor-majority-of-city-council-unite-against-east-side-ice-detention-center/"
-    ],
-    "createdAt": "2026-10-03T18:31:31.000Z",
-    "updatedAt": "2026-10-03T22:14:41Z"
-  },
-  {
-    "id": "us-2026-10-03-brooklyn-piquet-maduro-mdc",
-    "seccion": "internacionales",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
-    "hora": "14:00",
-    "fecha": "2026-10-03",
-    "lugar": "Metropolitan Detention Center, 80 29th Street, Brooklyn, Nueva York, Estados Unidos",
-    "tipoAccion": "Concentracion",
-    "organizaciones": [
-      "Brooklyn Against War"
-    ],
-    "motivo": "Piquet mensual frente al Metropolitan Detention Center de Brooklyn, en 80 29th Street, el sabado 3 de octubre de 2026 a las 14:00, con motivo del noveno mes del secuestro del presidente Nicolas Maduro y de la primera dama Cilia Flores. El piquet, convocado por Brooklyn Against War, reclama la liberacion de Maduro y Flores, el fin de la intervencion de Estados Unidos, \"money for jobs and education, not for war and occupation\" y \"no US intervention\". Forma parte de la jornada nacional de accion por Venezuela del Anti War Action Network.",
-    "status": "en_curso",
-    "lat": 40.741,
-    "lng": -73.978,
-    "fuentes": [
-      "https://www.javiersoriano.com/2026/09/01/protests-october-2026/",
-      "https://www.javiersoriano.com/2026/09/03/8-months-president-maduro-and-flores/"
-    ],
-    "createdAt": "2026-10-03T18:31:31.000Z",
-    "updatedAt": "2026-10-03T22:14:41Z"
+    "updatedAt": "2026-10-04T00:44:49Z"
   }
 ]
