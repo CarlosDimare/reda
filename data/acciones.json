@@ -14,15 +14,16 @@
       "SHSC (Sindicat de Housing Sense Habitar)",
       "COSHAC"
     ],
-    "motivo": "Convocatoria de marcha por la urgencia habitacional que se celebra este lunes 5 de octubre de 2026 a las 19:00 en la Plaça d'Urquinaona de Barcelona bajo el grito de \"Sin vivienda no hay futuro\". La plataforma estatal PAH, el Sindicat de Llogateres y las organizaciones vecinales SHSC y COSHAC exigen el cumplimiento de la ley de vivienda, la puesta en marcha de un parque publico de alquiler social, la aplicacion efectiva de la ley de impagos y el freno de los desalojos forzosos con menores o personas vulnerables. La accion forma parte de la campana de presion por el derecho a una vivienda digna que estas organizaciones mantienen durante octubre.",
+    "motivo": "Convocatoria de marcha por la urgencia habitacional que se celebra este lunes 5 de octubre de 2026 a las 19:00 en la Plaça d'Urquinaona de Barcelona bajo el grito de \"Sin vivienda no hay futuro\". La plataforma estatal PAH, el Sindicat de Llogateres y las organizaciones vecinales SHSC y COSHAC exigen el cumplimiento de la ley de vivienda, la puesta en marcha de un parque publico de alquiler social, la aplicacion efectiva de la ley de impagos y el freno de los desalojos forzosos con menores o personas vulnerables. La accion forma parte de la campana de presion por el derecho a una vivienda digna que estas organizaciones mantienen durante octubre, en el contexto de las cientos de miles de personas que se movilizaron en mas de 50 ciudades espaolas el 3 y el 4 de octubre bajo el grito \"Towards a general strike\".",
     "status": "programado",
     "lat": 41.3874,
     "lng": 2.17,
     "fuentes": [
-      "https://www.larazon.es/cataluna/lluvia-vence-protestas-vivienda-desconvocada-protesta-hospitalet-cataluna_202610036ac11ad3a4297764c3a8d704.html"
+      "https://www.larazon.es/cataluna/lluvia-vence-protestas-vivienda-desconvocada-protesta-hospitalet-cataluna_202610036ac11ad3a4297764c3a8d704.html",
+      "https://ground.news/article/protests-continue-for-housing-in-more-cities-in-spain-with-a-general-strike-on-the-horizon"
     ],
     "createdAt": "2026-10-05T02:15:56.000Z",
-    "updatedAt": "2026-10-05T02:35:08Z"
+    "updatedAt": "2026-10-05T09:44:52Z"
   },
   {
     "id": "es-2026-10-05-concentracion-vivienda-peregrina-pontevedra",
@@ -42,7 +43,7 @@
       "https://www.pontevedraviva.com/es/general/convocan-pontevedra-concentracion-reclamar-derecho-vivienda_521419_102.html"
     ],
     "createdAt": "2026-10-05T02:15:56.000Z",
-    "updatedAt": "2026-10-05T02:35:08Z"
+    "updatedAt": "2026-10-05T09:44:52Z"
   },
   {
     "id": "it-2026-10-05-presidio-federalog-carburante-catanzaro",
@@ -57,14 +58,38 @@
       "Fedralog (Federazione Autisti e Trasportatori)"
     ],
     "motivo": "Presidio de movilizacion de Fedralog frente a la Cittadella Regionale de Catanzaro a partir de las 07:00 de este lunes 5 de octubre de 2026, en protesta contra la subida del precio de los carburantes. La accion forma parte de la movilizacion nacional de los transportistas italianos contra el aumento del gasoleo y de la gasolina, considerado un agravamiento del coste de conduccion que se traslada a los trabajadores y a las empresas de transporte. Las representaciones de los trabajadores solicitar medidas de caracter fiscal sobre los productos petroliferos y una intervencion sobre los margenes de las companias de distribucion.",
-    "status": "programado",
+    "status": "en_curso",
     "lat": 38.9085,
     "lng": 16.591,
     "fuentes": [
       "https://calabria.gazzettadelsud.it/articoli/cronaca/2026/10/05/caro-carburante-e-un-primo-segnale-ma-non-basta-i-15-milioni-non-spengono-la-protesta-in-calabria-51938338-808c-4cdc-a4db-b8edca1e4969/"
     ],
     "createdAt": "2026-10-05T02:15:56.000Z",
-    "updatedAt": "2026-10-05T02:35:08Z"
+    "updatedAt": "2026-10-05T09:44:52Z"
+  },
+  {
+    "id": "it-2026-10-05-sciopero-vestas-italia-taranto-licenziamenti",
+    "seccion": "internacionales",
+    "pais": "Italia",
+    "bandera": "🇮🇹",
+    "hora": "",
+    "fecha": "2026-10-05",
+    "lugar": "Vestas Italia, establishment de Taranto, Puglia, Italia",
+    "tipoAccion": "Huelga",
+    "organizaciones": [
+      "FIOM CGIL",
+      "UILM UIL"
+    ],
+    "motivo": "Dos horas de huelga proclamadas por FIOM CGIL y UILM UIL para este lunes 5 de octubre de 2026 en el establecimiento Vestas Italia de Taranto, en las ultimas dos horas de cada turno de trabajo. La protesta surge tras el despido de tres empleados y, sobre todo, por las formas en que la empresa comunico y ejecuto los despido, en el marco de una reorganizacion del grupo que entre 2025 y 2026 preve 2.000 recortes en todo el mundo, de los que unos 900 siguen pendientes. Segun los trabajadores, la direccion de la sociedad se ha alejado de los acuerdos alcanzados con la plantilla desde principios de 2026, y los sindicatos denoting el caso piden respeto por la dignidad del personal. FIOM y UILM anuncian ademas la posibilidad de iniciar acciones legales y solicitan uncare meeting con el Comune y la Regione para afrontar las consecuencias laborales y sociales de las decisiones de la empresa, en un contexto en el que el centro de Taranto podria verse afectado por la reordenacion del almacen, cuyas tareas fueron trasladadas a Basilicata.",
+    "status": "programado",
+    "lat": 40.4644,
+    "lng": 17.2474,
+    "fuentes": [
+      "https://www.rainews.it/tgr/puglia/articoli/2026/10/licenziamenti-alla-vestas-di-taranto-sciopero-il-5-ottobre-5a2a1a7b-5d03-4752-b648-40766ba17e3b.html",
+      "https://telenorba.it/2026/10/02/vestas-italia-licenziamenti-anche-a-taranto-lunedi-lo-sciopero-di-due-ore"
+    ],
+    "createdAt": "2026-10-05T09:25:58.000Z",
+    "updatedAt": "2026-10-05T09:44:52Z"
   },
   {
     "id": "id-2026-10-05-demo-bem-si-pendidikan-gratis-jakarta",
@@ -86,7 +111,7 @@
       "https://www.jawapos.com/jabodetabek/2610050052/bem-si-gelar-demo-tuntut-pendidikan-gratis-di-dpr-3983-personel-amankan-aksi"
     ],
     "createdAt": "2026-10-05T02:15:56.000Z",
-    "updatedAt": "2026-10-05T02:35:08Z"
+    "updatedAt": "2026-10-05T09:44:52Z"
   },
   {
     "id": "pk-2026-10-05-marcha-larga-pti-karak-kohat",
@@ -109,10 +134,13 @@
       "https://www.dawn.com/news/2034862/pti-embarks-on-planned-protest-march",
       "https://www.nation.com.pk/05-Oct-2026/pti-launches-long-march-govt-opposition-talks-fail",
       "https://tribune.com.pk/story/2632928/pti-begins-first-phase-of-long-march-amid-mounting-political-tensions",
-      "https://www.pakistantoday.com.pk/2026/10/05/ptis-islamabad-march-begins-as-afridi-defies-warnings-leads-convoy-from-kp"
+      "https://www.pakistantoday.com.pk/2026/10/05/ptis-islamabad-march-begins-as-afridi-defies-warnings-leads-convoy-from-kp",
+      "https://www.thenews.pk/story/1441021-cm-afridi-led-pti-long-march-launched-from-lakki-marwat",
+      "https://www.geo.tv/latest/684992-pti-begins-islamabad-long-march-after-talks-breakdown",
+      "https://nukta.com/pti-launches-long-march-toward-islamabad-after-talks-collapse"
     ],
     "createdAt": "2026-10-05T02:15:56.000Z",
-    "updatedAt": "2026-10-05T02:35:08Z"
+    "updatedAt": "2026-10-05T09:44:52Z"
   },
   {
     "id": "cy-2026-10-05-huelga-24h-concentracion-palacio-presidencial-nicosia",
@@ -130,7 +158,7 @@
       "SEK"
     ],
     "motivo": "Huelga de 24 horas y concentracion nacional ante el Palacio Presidencial este lunes 5 de octubre de 2026 a las 10:00. Los trabajadores de los programas de apoyo del Ministerio de Educacion, Deporte y Juventud decidieron la medida en una asamblea general extraordinaria celebrada el martes 23 de septiembre, despues de que los compromisos asumidos por el ministerio sobre necesidades de personal y seguridad laboral no se cumplieran. Las organizaciones sindicales PASEY, PEO, OEKDY y SEK reclaman el anuncio inmediato de puestos de trabajo de duracion determinada en todos los programas, el cobro de las prestaciones y salarios adeudados y la plena aplicacion del acuerdo existente. El sindicato advierte de que, si la situacion no se resuelve, pasara a una huelga indefinida.",
-    "status": "programado",
+    "status": "en_curso",
     "lat": 35.1697,
     "lng": 33.3523,
     "fuentes": [
@@ -138,7 +166,7 @@
       "https://en.politis.com.cy/news/education/1035347/new-24-hour-strike-on-5-october-by-employees-in-ministry-of-education-support-programmes"
     ],
     "createdAt": "2026-10-05T02:15:56.000Z",
-    "updatedAt": "2026-10-05T02:35:08Z"
+    "updatedAt": "2026-10-05T09:44:52Z"
   },
   {
     "id": "ng-2026-10-05-huelga-indefinida-ssanu-lasu-lagos",
@@ -153,14 +181,14 @@
       "Senior Staff Association of Nigerian Universities (SSANU), rama LASU"
     ],
     "motivo": "La rama de Lagos State University (LASU) de la Senior Staff Association of Nigerian Universities (SSANU) inicio este lunes 5 de octubre de 2026 una huelga indefinida para exigir la aplicacion del acuerdo firmado en 2026 entre la SSANU y el Gobierno federal. La decision fue aprobada por el Consejo Ejecutivo Nacional en su 56 reunion, celebrada en la Universidad de Uyo entre el 30 de septiembre y el 1 de octubre, segun una carta firmada por el secretario general de la SSANU, Kabiru D. El acuerdo de 2026 contempla el 35 por ciento de CONTIS como Consolidated Non-Teaching Tools Allowance, ademas de otros componentes de las asignaciones devengadas. La union recuerda que la actividad academica en LASU ya se vio comprometida hace dos semanas por la huelga de ASUU.",
-    "status": "programado",
+    "status": "en_curso",
     "lat": 6.468,
     "lng": 3.372,
     "fuentes": [
       "https://thesun.ng/ssanu-lasu-begins-indefinite-strike-over-failure-to-implement-2026-agreement/"
     ],
     "createdAt": "2026-10-05T02:15:56.000Z",
-    "updatedAt": "2026-10-05T02:35:08Z"
+    "updatedAt": "2026-10-05T09:44:52Z"
   },
   {
     "id": "de-2026-10-05-afd-verbot-bundesverfassungsgericht-karlsruhe",
@@ -180,7 +208,7 @@
       "https://www.verdi.de/politik-gesellschaft/gemeinsam-gegen-rechtsextremismus"
     ],
     "createdAt": "2026-10-05T02:15:56.000Z",
-    "updatedAt": "2026-10-05T02:35:08Z"
+    "updatedAt": "2026-10-05T09:44:52Z"
   },
   {
     "id": "de-2026-10-05-mahnwache-dinslaken-neutorplatz",
@@ -200,7 +228,7 @@
       "https://www.verdi.de/politik-gesellschaft/gemeinsam-gegen-rechtsextremismus"
     ],
     "createdAt": "2026-10-05T02:15:56.000Z",
-    "updatedAt": "2026-10-05T02:35:08Z"
+    "updatedAt": "2026-10-05T09:44:52Z"
   },
   {
     "id": "de-2026-10-05-mahnwache-kahla-stadtkirche",
@@ -212,7 +240,7 @@
     "lugar": "Stadtkirche Kahla, Kahla, Turingia, Alemania",
     "tipoAccion": "Concentracion",
     "organizaciones": [],
-    "motivo": "Vigilia \"Seite an Seite mit Sachsen-Anhalt - Kein AfD-Ministrapresident!\" junto a la Stadtkirche de Kahla, este lunes 5 de octubre de 2026 a las 17:00. Parte del llamado nacional \"Gemeinsam gegen Rechtsextremismus - fur die Demokratie\", plataforma de organizaciones locales y sindicatos alemanes que exige la prohibicion del AfD y la defensa de la Constitucion tras el resultado de las elecciones regionales de Sajonia-Anhalt. La accion figura con esta fecha en el calendario oficial de ver.di, por lo que la fecha del acto no se confunde con la de la publicacion de la convocatoria. El reclamo se dirige al resultado de las elecciones regionales de Turingia.",
+    "motivo": "Vigilia \"Seite an Seite mit Sachsen-Anhalt - Kein AfD-Ministrapresident!\" junto a la Stadtkirche de Kahla, este lunes 5 de octubre de 2026 a las 17:00. Parte del llamado nacional \"Gemeinsam gegen Rechtsextremismus - fur die Demokratie\", plataforma de organizaciones locales y sindicatos alemanes que exige la prohibicion del AfD y la defensa de la Constitucion tras el resultado de las elecciones regionales de Turingia y Sajonia-Anhalt. La accion figura con esta fecha en el calendario oficial de ver.di, por lo que la fecha del acto no se confunde con la de la publicacion de la convocatoria. El reclamo se dirige al resultado de las elecciones regionales de Turingia.",
     "status": "programado",
     "lat": 50.942,
     "lng": 11.706,
@@ -220,7 +248,7 @@
       "https://www.verdi.de/politik-gesellschaft/gemeinsam-gegen-rechtsextremismus"
     ],
     "createdAt": "2026-10-05T02:15:56.000Z",
-    "updatedAt": "2026-10-05T02:35:08Z"
+    "updatedAt": "2026-10-05T09:44:52Z"
   },
   {
     "id": "de-2026-10-05-mahnwache-bitterfeld-wolfen-marktplatz",
@@ -240,7 +268,7 @@
       "https://www.verdi.de/politik-gesellschaft/gemeinsam-gegen-rechtsextremismus"
     ],
     "createdAt": "2026-10-05T02:15:56.000Z",
-    "updatedAt": "2026-10-05T02:35:08Z"
+    "updatedAt": "2026-10-05T09:44:52Z"
   },
   {
     "id": "de-2026-10-05-mahnwache-euskirchen-alter-markt",
@@ -260,7 +288,7 @@
       "https://www.verdi.de/politik-gesellschaft/gemeinsam-gegen-rechtsextremismus"
     ],
     "createdAt": "2026-10-05T02:15:56.000Z",
-    "updatedAt": "2026-10-05T02:35:08Z"
+    "updatedAt": "2026-10-05T09:44:52Z"
   },
   {
     "id": "dk-2026-10-05-demo-vu-arhus-fredens-torv",
@@ -282,7 +310,7 @@
       "https://allevents.in/arhus/vu-%C3%85rhus-demonstrerer-mod-regeringen/200030578696408"
     ],
     "createdAt": "2026-10-05T02:15:56.000Z",
-    "updatedAt": "2026-10-05T02:35:08Z"
+    "updatedAt": "2026-10-05T09:44:52Z"
   },
   {
     "id": "nl-2026-10-05-boxtel-pig-save-vion",
@@ -307,6 +335,246 @@
       "https://groups.animalrebellion.nl/events/2ccd10d6-8c72-42f3-b590-187918c3f6b3"
     ],
     "createdAt": "2026-10-05T02:15:56.000Z",
-    "updatedAt": "2026-10-05T02:35:08Z"
+    "updatedAt": "2026-10-05T09:44:52Z"
+  },
+  {
+    "id": "fr-2026-10-05-blocus-lycees-nacional-coler-lyceenne",
+    "seccion": "internacionales",
+    "pais": "Francia",
+    "bandera": "🇫🇷",
+    "hora": "",
+    "fecha": "2026-10-05",
+    "lugar": "Francia (movimiento nacional en 400 a 500 centros de secundaria)",
+    "tipoAccion": "Blocus Escolares",
+    "organizaciones": [
+      "Union syndicale lyceenne (USL)",
+      "Coordination lyceenne",
+      "Union etudiante",
+      "SNALC"
+    ],
+    "motivo": "Tercera semana del movimiento de bloqueo de lyceos y colleges franceses, lanzado el 17 de septiembre en la region parisina y extendido a todo el pais. Este lunes 5 de octubre de 2026 el ministro de Educacion Nacional, Edouard Geffray, anuncio que los cursos estan total o parcialmente suspendidos en 400 a 500 centros por falta de condiciones de seguridad, frente a los mismos 400 o 500 cerrados el viernes 2 de octubre; en Isla de Francia hay mas de 160 lyceos cerrados y en Nord y Pas-de-Calais permanecen cerrados 17. Las revendicaciones son mas medios para los centros, el mantenimiento de edificios en mal estado, clases saturadas, sustituciones no realizadas y las desigualdades creadas por Parcoursup, especialmente en barrios populares. Desde el inicio del movimiento se registran 78 paredes de personal de la Educacion Nacional heridos y 24 centros quemados o vandalizados; el 2 de octubre hubo 140 detenido en Lyon y 28 en Herault. En Nimes hubo tres detenido en el lycee Albert Camus; en Valence se reunieron 200 a 300 personas delante del lycee Algoud-Laffemas; en Quimper unas 150 personasdweller bloqueando el lycee de Cornouaille; en Caen la Union Pirate bloqueo el campus 1 de la universidad desde las 06:00. La Union syndicale lyceenne ha anunciado un \"acto III\" para el martes 6 de octubre, acompanado de una intersindical amplia de la Educacion Nacional (FSU, CGT, FO, CFDT, Unsa, Sud y Solidaires). La policia de Paris ha advertencia que el movimiento se le ha ido de las manos y ha pedido a los estudiantes abandonar los bloqueos y় Forma de protesta pacifica.",
+    "status": "en_curso",
+    "lat": 48.8566,
+    "lng": 2.3522,
+    "fuentes": [
+      "https://www.midilibre.fr/2026/10/05/blocus-des-lycees-nouvelle-journee-de-mobilisation-400-a-500-etablissements-totalement-ou-partiellement-fermes-13584144.php",
+      "https://www.france24.com/fr/france/20261004-mobilisation-lyceenne-plus-400-lycees-paralyses-6-octobre-manifestation-greve-blocus-violences-police-ce-qu-il-faut-savoir",
+      "https://actu.fr/societe/colere-des-lycees-etablissements-fermes-manifestations-a-quoi-s-attendre-cette-semaine-en-france_64877002.html",
+      "https://www.nouvelobs.com/social/20261005.OBS118897/blocage-des-lycees-la-mobilisation-va-t-elle-s-essouffler-ou-se-renforcer-cette-semaine.html",
+      "https://www.euronews.com/video/2026/10/04/student-protests-in-france-400500-schools-fully-or-partially-closed-monday",
+      "https://www.jeanmarcmorandini.com/article-653897-en-direct-blocus-des-lycees-inquietudes-pour-cette-journee-de-lundi-alors-que-des-centaines-d-etablissements-seront-fermes-dans-toute-la-france-video.html"
+    ],
+    "createdAt": "2026-10-05T09:25:58.000Z",
+    "updatedAt": "2026-10-05T09:44:52Z"
+  },
+  {
+    "id": "fr-2026-10-05-mega-manif-place-vendome-loi-integrale-paris",
+    "seccion": "internacionales",
+    "pais": "Francia",
+    "bandera": "🇫🇷",
+    "hora": "18:30",
+    "fecha": "2026-10-05",
+    "lugar": "Place Vendome (frente a los ministerios de Justicia e Interior) hacia la Asamblea Nacional, Paris, Francia",
+    "tipoAccion": "Marcha",
+    "organizaciones": [
+      "Coalicion de 150 asociaciones, ONG y sindicatos",
+      "Fundacion de las Mujeres",
+      "Collectifs feministas y de defensa de la infancia",
+      "SNUIPP-FSU Paris"
+    ],
+    "motivo": "Mega manifestacion en Paris este lunes 5 de octubre de 2026 a las 18:30, con salida desde la Place Vendome, frente a los ministerios de Justicia e Interior, en direccion a la Asamblea Nacional. La marcha forma parte de la movilizacion por la aprobacion urgente de la propuesta de ley \"integral\" contra las violencias sexistas y sexuales Cometidas contra mujeres y ninos, depositada el 11 de agosto de 2026 en la Asamblea Nacional y cosignada por 246 diputados. El texto, de 69 articulos, sigue en debate durante la semana del 5 de octubre y el voto solemne esta previsto para el 13 de octubre de 2026. La propuesta recoge 140 aportes de un colectivo de organizaciones feministas y de defensa de la infancia, inspirados en la ley integral espanola de 2004 y en las recomendaciones de la Comision independiente sobre el incesto y las violencias sexuales Cometidas a menores (Ciivise). Entre los participantes confirmados se encuentra Audrey, madre de Rosa, que reclama que ninos de 7 o 10 anos no dejen de ser escuchados por la policia y la justicia. El sindicato SNUIPP-FSU Paris difunde el rendez-vous y la marcha reclama el avance del texto en el procedimiento parlamentario antes de la votacion solemne.",
+    "status": "programado",
+    "lat": 48.8675,
+    "lng": 2.3294,
+    "fuentes": [
+      "https://www.leparisien.fr/societe/lutte-contre-les-violences-sexuelles-ces-mesures-que-vous-pensiez-gravees-dans-le-marbre-et-qui-ne-sont-pas-encore-dans-la-loi-04-10-2026-EZRZHVZ2ABBS7IWUQVSQF5PGNU.php",
+      "https://www.leparisien.fr/societe/pour-les-enfants-et-leurs-parents-la-mere-de-rosa-victime-presumee-de-jerome-barella-mobilisee-pour-la-loi-integrale-05-10-2026-2REPR5DYGZEB3LOMCYQCS34M2E.php",
+      "https://75.snuipp.fr/",
+      "https://www.vie-publique.fr/questions-reponses/304636-loi-integrale-violences-sexuelles-sexistes-origine-contexte-calendrier"
+    ],
+    "createdAt": "2026-10-05T09:25:58.000Z",
+    "updatedAt": "2026-10-05T09:44:52Z"
+  },
+  {
+    "id": "fr-2026-10-05-blocus-lycee-cornouaille-quimper",
+    "seccion": "internacionales",
+    "pais": "Francia",
+    "bandera": "🇫🇷",
+    "hora": "06:00",
+    "fecha": "2026-10-05",
+    "lugar": "Lycee de Cornouaille, Quimper, Bretana, Francia",
+    "tipoAccion": "Blocus Escolar",
+    "organizaciones": [],
+    "motivo": "Blocus del Lycee de Cornouaille en Quimper desde las 06:00 de este lunes 5 de octubre de 2026, con unos 150 estudiantes, en el marco del movimiento nacional de bloqueo de lyceos por falta de medios en los centros. Los alumnados llegaron alrededor de las 06:30 y colocó delante de las rejas palets, mesas y un equipo de sonido, junto a una pancarta \"Organise ta colere\". A las 08:00 el blocus continuaba en calma y los estudiantes tenian previsto desplazarse despues al lycee Thepot.",
+    "status": "en_curso",
+    "lat": 47.9844,
+    "lng": -4.0985,
+    "fuentes": [
+      "https://www.ici.fr/bretagne/finistere-29/quimper/organise-ta-colere-le-lycee-de-cornouaille-a-quimper-bloque-ce-lundi-avant-le-blocus-d-un-autre-etablissement-8304220"
+    ],
+    "createdAt": "2026-10-05T09:25:58.000Z",
+    "updatedAt": "2026-10-05T09:44:52Z"
+  },
+  {
+    "id": "fr-2026-10-05-manifestacion-lycee-algoud-laffemas-valence",
+    "seccion": "internacionales",
+    "pais": "Francia",
+    "bandera": "🇫🇷",
+    "hora": "08:00",
+    "fecha": "2026-10-05",
+    "lugar": "Lycee Algoud-Laffemas, Valence, Drome, Auverna-Rod-Alpes, Francia",
+    "tipoAccion": "Concentracion",
+    "organizaciones": [],
+    "motivo": "Reunion de 200 a 300 personas delante del lycee Algoud-Laffemas de Valence (Drome) la manana de este lunes 5 de octubre de 2026, dentro de la nueva semana de movilizacion colectiva de los lyceos. El encuentro se derivo con episdios de tension: contenedores ardiendo y disparos de gas lacrimogeno frente a las verjas del centro. Los alumnosodynamically evaluaron la posibilidad de recorrer otros establecimientos para manifestarse en el centro de la ciudad, y elAssembler resuelto pedir mas medios y mejores condiciones de escolarizacion para el conjunto de la red de lyceos.",
+    "status": "en_curso",
+    "lat": 44.933,
+    "lng": 4.992,
+    "fuentes": [
+      "https://www.ici.fr/auvergne-rhone-alpes/drome-26/valence/mobilisation-lyceenne-a-valence-des-heurts-devant-le-lycee-algoud-laffemas-4465714"
+    ],
+    "createdAt": "2026-10-05T09:25:58.000Z",
+    "updatedAt": "2026-10-05T09:44:52Z"
+  },
+  {
+    "id": "be-2026-10-05-piquet-greve-athenee-charles-janssens-ixelles",
+    "seccion": "internacionales",
+    "pais": "Belgica",
+    "bandera": "🇧🇪",
+    "hora": "07:30",
+    "fecha": "2026-10-05",
+    "lugar": "Athenee Charles Janssens, Ixelles, Region de Bruselas-Capital, Belgica",
+    "tipoAccion": "Huelga",
+    "organizaciones": [],
+    "motivo": "Piquet de huelga y bloqueo filtrante ante la entrada del Athenee Charles Janssens de Ixelles desde las 07:30 de este lunes 5 de octubre de 2026, con unos cien alumnos que ademas montaron una cadena humana para impedir la entrada de los companeros, en el marco de la contestacion contra las reformas de la ensenanza de la Federation Wallonie-Bruxelles. Los estudiantes describen su movimiento como \"enteramente pacifista\": solo hay pancartes y lemas y la situacion es calma. Esta primera jornada sirve como prueba con el objetivo de sensibilizar a los alumnos mas jovenes, que no siempre conocen las reformas. Los profesores ya habian avisado a la direccion del centro de esta manifestacion, y elkitsaq contexto del sector de la ensenanza el ministro Quentin reitero su demanda de adoptar la ley \"casseur-payeur\".",
+    "status": "en_curso",
+    "lat": 50.822,
+    "lng": 4.37,
+    "fuentes": [
+      "https://bx1.be/categories/news/manifestation-des-eleves-a-lathenee-charles-janssens-notre-mouvement-est-entierement-pacifiste/"
+    ],
+    "createdAt": "2026-10-05T09:25:58.000Z",
+    "updatedAt": "2026-10-05T09:44:52Z"
+  },
+  {
+    "id": "bd-2026-10-05-sitin-puerto-chattogram-nct-dp-world",
+    "seccion": "internacionales",
+    "pais": "Bangladesh",
+    "bandera": "🇧🇩",
+    "hora": "11:00",
+    "fecha": "2026-10-05",
+    "lugar": "Puerta principal y sede del Puerto de Chattogram, Chattogram, Bangladesh",
+    "tipoAccion": "Concentracion",
+    "organizaciones": [
+      "Chattogram Port Protection Committee",
+      "Bangladesh Chattogram Port Islami Sramik Sangha",
+      "Trade Union Centre (TUC) Chattogram",
+      "Jatiyatabadi Sramik Dal (comision divisoria)",
+      "Bangladesh Sramik Federation"
+    ],
+    "motivo": "Planton de dia completo anunciado para este lunes 5 de octubre de 2026 frente a la puerta principal y la sede del Puerto de Chattogram, con inicio previsto a las 11:00 y continuidad hasta la tarde. Exigen la cancelacion del proceso de concesion de 15 anos del New Mooring Container Terminal (NCT) y de su Overflow Container Yard (OCY) a la empresa de Dubai DP World, asi como el cese de la iniciativa de arrendar el Chattogram Container Terminal (CCT) a cualquier operador local o extranjero. El NCT es la terminal de contenedores mas grande del puerto, esta operada por la Armada de Bangladesh a traves de Chittagong Dry Dock Limited y movio cerca del 44 por ciento del trafico de contenedores del puerto el ano pasado. El Comite Port Protection exige ademas que el Gobierno explique publicamente como el arrendamiento beneficia al pais, convoque un dialogo nacional, retire los procesos judiciales abiertos contra 15 trabajadores y dirigentes que participaron en la huelga de febrero y complete los puestos vacantes previa consulta a los representantes de los trabajadores. Si el Gobierno interpreta la protesta pacifica como muestra de debilidad, los organizadores anuncian programas mas duros como bloqueos y hartales con participacion ciudadana.",
+    "status": "en_curso",
+    "lat": 22.29,
+    "lng": 91.785,
+    "fuentes": [
+      "https://www.tbsnews.net/bangladesh/port-protection-committee-demands-cancellation-nct-cct-lease-processes-1561151",
+      "https://www.tbsnews.net/bangladesh/port-workers-urge-all-join-5-oct-sit-protest-against-new-mooring-terminal-deal-1548066",
+      "https://bdnews24.com/bangladesh/f225c58b1774",
+      "https://www.wsws.org/en/articles/2026/10/03/rwfp-o03.html"
+    ],
+    "createdAt": "2026-10-05T09:25:58.000Z",
+    "updatedAt": "2026-10-05T09:44:52Z"
+  },
+  {
+    "id": "ar-2026-10-05-marcha-velas-edet-tarifazos-san-miguel-tucuman",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "20:00",
+    "fecha": "2026-10-05",
+    "lugar": "Plaza Independencia, San Miguel de Tucuman, Tucuman, Argentina",
+    "tipoAccion": "Marcha",
+    "organizaciones": [
+      "REDECU (Red de Defensa al Consumidor y Usuarios)",
+      "FODECUS (Federacion de Organizaciones en Defensa de los Consumidores y Usuarios)"
+    ],
+    "motivo": "Marcha de velas y antorchas en la ciudad de San Miguel de Tucuman este lunes 5 de octubre de 2026 a las 20:00, con concentracion en la Plaza Independencia y recorrido hacia la sede central de la empresa distribuidora de energia electrica EDET. Las organizaciones de consumidores convocan bajo las consignas \"EDET te parece una estafa? Marchemos\" y \"La luz te resulta impagable? Sumate\" a repudiar los aumentos desmedidos en las boletas, los cobros retroactivos y las facturas impagables. La jornada es pacifica y se exige un limite definitivo a los abusos de la concesionaria y una refacturacion transparente. REDECU y FODECUS sostienen ademas una accion tecnica y judicial contra EDET, con condenas a pagar indemnizaciones millonarias y sanciones por dano punitivo, impugnacion de consultas publicas y reclamos ante la Corte Suprema a traves del precedente CEPIS.",
+    "status": "programado",
+    "lat": -26.8241,
+    "lng": -65.1837,
+    "fuentes": [
+      "https://www.enteratenoticias.com.ar/actualidad/convocan-marcha-velas-tarifazos-facturas-impagables-edet/",
+      "https://www.primerafuente.com.ar/noticias/132675/convocan-marcha-antorchas-para-protestar-contra-aumento-luz"
+    ],
+    "createdAt": "2026-10-05T09:34:44.000Z",
+    "updatedAt": "2026-10-05T09:44:52Z"
+  },
+  {
+    "id": "ar-2026-10-05-marcha-pua-congreso-tribunales-ley-tierras",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-10-05",
+    "lugar": "Plaza Lavalle (Talcahuano 550, frente al Palacio de Tribunales), desde el Congreso de la Nacion, Ciudad Autonoma de Buenos Aires, Argentina",
+    "tipoAccion": "Marcha",
+    "organizaciones": [
+      "Pueblo Unido Autoconvocado (PUA)"
+    ],
+    "motivo": "Movilizacion de la agrupacion Pueblo Unido Autoconvocado (PUA) este lunes 5 de octubre de 2026 desde el Congreso de la Nacion hasta la puerta de Tribunales, en la calle Talcahuano 550 de la Ciudad Autonoma de Buenos Aires, en repudio de la resolucion de la Corte Suprema de Justicia que dejo vigente el articulo 154 del DNU 70/2023 y permitio la venta sin limites de tierras rurales a extranjeros. La convocatoria fue difundida desde la calle Azopardo y el grupo Traveling que el dictamen \"impacta en contra de la soberania y la voluntad popular\" de los ciudadanos al abrir nuevamente la puerta a la extranjerizacion del territorio. El recorrido se anuncia sin horario confirmado, por lo que no se informo hora puntual. La accion forma parte de la oleada de movilizaciones en repudio del fallo de la Corte.",
+    "status": "programado",
+    "lat": -34.5783,
+    "lng": -58.383,
+    "fuentes": [
+      "https://gestionsindical.com/movilizaciones-fallo-corte-suprema-que-derogo-ley-tierra-las-cta-convocaron-hay-varias-mas/",
+      "https://www.eldestapeweb.com/politica/ley-tierras-sindicatos-partidos-politicos-convocan-marchar-fallo-corte-202693017469",
+      "https://www.mendovoz.com/actualidad/nacionales/2026/10/1/organizaciones-sociales-marchan-contra-el-fallo-de-la-corte-sobre-la-ley-de-tierras-169067.html"
+    ],
+    "createdAt": "2026-10-05T09:34:44.000Z",
+    "updatedAt": "2026-10-05T09:44:52Z"
+  },
+  {
+    "id": "ar-2026-10-05-movilizacion-camioneros-municipalidad-caba-ley-moyano",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-10-05",
+    "lugar": "Municipalidad de la Ciudad Autonoma de Buenos Aires, Avenida de Mayo 555, Ciudad Autonoma de Buenos Aires, Argentina",
+    "tipoAccion": "Concentracion",
+    "organizaciones": [
+      "Camioneros (Sindicato de Trabajadores de Camioneros)",
+      "Rama Recoleccion y Barrido de CABA"
+    ],
+    "motivo": "Movilizacion de unos 20 mil trabajadores camioneros de la Ciudad Autonoma de Buenos Aires ante la Municipalidad porteña este lunes 5 de octubre de 2026, con motivo de la primera audiencia publica del nuevo pliego licitatorio que el Gobierno de Jorge Macri utiliza para intentar eliminar la historica \"Ley Moyano\", que garantiza las indemnizaciones de los trabajadores del servicio de recoleccion de residuos. La convocatoria fue confirmada por Pablo Moyano, secretario adjunto del sindicato, al cierre de una asamblea de la Rama Recoleccion y Barrido de CABA: \"El dia lunes que es la primera audiencia publica tenemos que ser 20 mil trabajadores en la municipalidad\". Ademas de la presencia masiva en la calle, el sindicato presentara ese mismo dia carpeta y petitorios ante el organismo municipal. El conflicto se inscribe en la disputa del sindicato con el gobierno de la Ciudad por la reestructuracion de la concesion, con el respaldo de Hugo Moyano.",
+    "status": "programado",
+    "lat": -34.6086,
+    "lng": -58.3946,
+    "fuentes": [
+      "https://www.agenciacomunas.com.ar/camioneros-lanzo-un-plan-de-lucha-y-movilizara-20-mil-trabajadores-a-la-legislatura-portena-para-blindar-las-indemnizaciones/"
+    ],
+    "createdAt": "2026-10-05T09:34:44.000Z",
+    "updatedAt": "2026-10-05T09:44:52Z"
+  },
+  {
+    "id": "ar-2026-10-05-asambleas-aoita-transporte-interurbano-cordoba",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-10-05",
+    "lugar": "Empresas de transporte interurbano y urbano del interior de la provincia de Cordoba, Cordoba, Argentina",
+    "tipoAccion": "Asamblea",
+    "organizaciones": [
+      "AOITA (Asociacion Obrera de la Industria del Transporte Automotor)"
+    ],
+    "motivo": "Asambleas en todas las empresas del sistema de transporte interurbano de la provincia de Cordoba y del servicio urbano de las ciudades del interior, desde las primeras horas de este lunes 5 de octubre de 2026. La decision fue resuelta por la Comision Directiva del gremio junto con el Plenario General de Delegados de AOITA tras el fracaso de las negociaciones salariales y la ausencia de propuestas satisfactorias de las empresas. El sindicato reclamo la intervencion urgente del Gobierno provincial para destrabar las paritarias y advirtió que, de no recibir propuestas concretas, intensificara las medidas hasta llegar a un paro del transporte interurbano provincial y del servicio urbano del interior. Por el momento la unica medida confirmada para el 5 de octubre son las asambleas, sin horario ni duracion definidos por empresa y sin fecha anunciada para un eventual paro.",
+    "status": "programado",
+    "lat": -31.4201,
+    "lng": -64.1888,
+    "fuentes": [
+      "https://www.lavoz.com.ar/ciudadanos/aoita-anuncio-asambleas-lunes-advirtio-podria-paro-interurbanos-cordoba_0_NIadiMOYc2.html"
+    ],
+    "createdAt": "2026-10-05T09:34:44.000Z",
+    "updatedAt": "2026-10-05T09:44:52Z"
   }
 ]
