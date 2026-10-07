@@ -1,485 +1,66 @@
 [
   {
-    "id": "ar-2026-10-06-marcha-tribunales-corte-suprema-ley-tierras-caba",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "16:00",
-    "fecha": "2026-10-06",
-    "lugar": "Plaza Lavalle (Talcahuano 550), frente al Palacio de Tribunales, Ciudad Autonoma de Buenos Aires, Argentina",
-    "tipoAccion": "Marcha",
-    "organizaciones": [
-      "CTA de los Trabajadores",
-      "CTA Autonoma",
-      "CECIM La Plata (Centro de Ex Combatientes Islas Malvinas)",
-      "Mesa de Organismos de Derechos Humanos",
-      "APDH",
-      "Madres Linea Fundadora",
-      "FIT-U"
-    ],
-    "motivo": "Marcha a las puertas del Palacio de Tribunales de la Ciudad Autonoma de Buenos Aires este martes 6 de octubre de 2026, con concentracion en Plaza Lavalle, en repudio del fallo de la Corte Suprema del 29 de septiembre que revoco la declaracion de inconstitucionalidad del articulo 154 del DNU 70/2023 y dejo vigente la derogacion de la Ley 26.737 de Tierras Rurales, habilitando la compra casi ilimitada de tierras rurales por extranjeros. Las organizaciones exigen repudiar la decision y promover la inconstitucionalidad del DNU 70/2023 en el ambito judicial y en el Congreso. Consigna: la patria no se vende, la soberania tampoco. Las centrales convocan la concentracion a las 15:00 y la marcha a las 16:00. La movilizacion se realizo: la concentracion arranco a las 15:00 sobre Talcahuano entre Tucuman y Lavalle, con escenario instalado, bombos y carteles, y tránsito interrumpido en el sector.",
-    "status": "finalizado",
-    "lat": -34.5796,
-    "lng": -58.3806,
-    "fuentes": [
-      "https://ctaa.org.ar/las-cta-y-los-organismos-de-derechos-humanos-ratificaron-la-movilizacion-a-tribunales/",
-      "https://www.infogremiales.com.ar/las-cta-y-los-organismos-de-derechos-humanos-ratificaron-la-movilizacion-a-tribunales-donde-anidan-los-tres-supremos/",
-      "https://periodismodeizquierda.com/marcha-tribunales-corte-suprema-ley-de-tierras-dnu-70-23/",
-      "https://www.clarin.com/informacion-general/marcha-tribunales-ley-tierras-martes-6-octubre-hora-convocan_0_axRLplx73b.html",
-      "https://www.a24.com/politica/marcha-la-ley-tierras-frente-tribunales-cuando-sera-y-quienes-participan-n1603459",
-      "https://www.laizquierdadiario.com/Coordinar-la-bronca-seamos-miles-el-6-y-el-15-contra-la-Corte-y-el-DNU-70-2023-por-un-paro-nacional",
-      "https://www.lanacion.com.ar/politica/marcha-contra-la-corte-sectores-del-pj-la-izquierda-gremios-y-piqueteros-protestan-por-el-fallo-que-nid06102026/",
-      "https://www.ambito.com/politica/ley-tierras-marchan-frente-tribunales-el-fallo-que-dejo-vigente-la-derogacion-n6330827"
-    ],
-    "createdAt": "2026-10-06T00:40:10.000Z",
-    "updatedAt": "2026-10-06T23:50:20Z"
-  },
-  {
-    "id": "ar-2026-10-06-paro-nacional-ate-cese-tareas",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "12:00",
-    "fecha": "2026-10-06",
-    "lugar": "Ministerios, organismos publicos y empresas estatales de todo el pais, conaccion en la Ciudad Autonoma de Buenos Aires, Argentina",
-    "tipoAccion": "Huelga",
-    "organizaciones": [
-      "ATE (Asociacion Trabajadores del Estado)"
-    ],
-    "motivo": "Cese de tareas y retiro de los lugares de trabajo en la administracion publica nacional desde las 12:00 de este martes 6 de octubre de 2026, convocado por ATE para que los trabajadores se sumen a la marcha a los Tribunales en repudio del fallo de la Corte Suprema que habilito la extranjerizacion de las tierras rurales. La medida comprende todos los ministerios, organismos publicos y empresas estatales. El secretario general de ATE Nacional, Rodolfo Aguiar, califico la determinacion del tribunal como el fallo mas entreguista de los ultimos 150 anos.",
-    "status": "finalizado",
-    "lat": -34.6037,
-    "lng": -58.3816,
-    "fuentes": [
-      "https://www.laarena.com.ar/el-pais/ate-hara-un-paro-para-marchar-contra-la-corte-suprema-202610510250",
-      "https://www.eldestapeweb.com/politica/ate-lanza-paro-participar-movilizacion-corte-suprema-venta-tierras-extranjeros-2026105964",
-      "https://www.pagina12.com.ar/2026/10/05/mas-retiros-voluntarios-para-los-trabajadores/",
-      "https://www.eldestapeweb.com/sociedad/paro-nacional-ate-servicios-no-funcionan-este-martes-6-octubre-argentina-202610682824",
-      "https://www.iprofesional.com/politica/465977-ley-de-tierras-ate-dispuso-un-paro-nacional-y-marcha-contra-la-corte-suprema"
-    ],
-    "createdAt": "2026-10-06T00:40:10.000Z",
-    "updatedAt": "2026-10-06T23:50:20Z"
-  },
-  {
-    "id": "ar-2026-10-06-marcha-coordinadora-punilla-villa-carlos-paz",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "18:00",
-    "fecha": "2026-10-06",
-    "lugar": "Plaza del Avion, Villa Carlos Paz, Departamento Punilla, Cordoba, Argentina",
-    "tipoAccion": "Marcha",
-    "organizaciones": [
-      "Coordinadora Punilla",
-      "CTA Autonoma Regional Punilla Sur",
-      "CTA Autonoma Regional Punilla Norte"
-    ],
-    "motivo": "Movilizacion de la Coordinadora Punilla este martes 6 de octubre de 2026 a las 18:00 en la Plaza del Avion de Villa Carlos Paz, en rechazo del fallo de la Corte Suprema que dejo sin efecto la cautelar que frenaba la derogacion de la Ley de Tierras. El reclamo busca poner en discusion la soberanía sobre el territorio y los recursos naturales. Las regionales Norte y Sur de la CTA Autonoma convocan ademas a una movilizacion popular en cada localidad del Valle de Punilla dentro de su Plan de Lucha contra el gobierno de Milei. Actualizacion 20:43 ART: se mantiene solo la convocatoria confirmada para este martes; no se hallaron reportes posteriores de cancelacion ni de realizacion y el horario convocado ya finalizo.",
-    "status": "finalizado",
-    "lat": -31.4236,
-    "lng": -64.5016,
-    "fuentes": [
-      "https://lajornadaweb.com.ar/ley-de-tierras-la-coordinadora-punilla-explico-por-que-se-movilizara-este-martes-en-villa-carlos-paz/",
-      "https://ctaacordoba.org/el-6-de-octubre-a-ganar-las-calles-la-patria-y-la-soberania-no-se-venden-se-defienden/",
-      "https://www.carlospazvivo.com/convocan-en-carlos-paz-a-una-marcha-contra-la-derogacion-de-la-ley-de-tierras/",
-      "https://lajornadaweb.com.ar/defendamos-nuestro-suelo-punilla-se-moviliza-en-villa-carlos-paz-tras-el-fallo-de-la-corte-sobre-la-ley-de-tierras/"
-    ],
-    "createdAt": "2026-10-06T00:40:10.000Z",
-    "updatedAt": "2026-10-06T23:50:20Z"
-  },
-  {
-    "id": "ar-2026-10-06-concentracion-asamblea-patio-olmos-cordoba",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "17:00",
-    "fecha": "2026-10-06",
-    "lugar": "Plaza Simon Bolivar, frente al patio Olmos, centro de la ciudad de Cordoba, Cordoba, Argentina",
-    "tipoAccion": "Concentracion",
-    "organizaciones": [
-      "Coordinadora Socioambiental Cordoba",
-      "Organizaciones sociales y ambientales de Cordoba",
-      "Asambleas territoriales, pueblos originarios y campesinos",
-      "Movimiento obrero y docente"
-    ],
-    "motivo": "Concentracion y asamblea popular en defensa del territorio este martes 6 de octubre de 2026 a las 17:00 frente al Patio Olmos, en el centro de la ciudad de Cordoba. La convoca la Coordinadora Socioambiental Cordoba junto a organizaciones sociales y ambientales, asambleas territoriales, pueblos originarios y campesinos, colectivos feministas, organizaciones de discapacidad, movimiento obrero y docente y organismos de derechos humanos. El reclamo central es el repudio al fallo de la Corte que habilita la extranjerizacion de las tierras. La jornada es previa a la marcha del 15 de octubre. Actualizacion 20:43 ART: se mantiene solo la convocatoria confirmada para este martes; no se hallaron reportes posteriores de cancelacion ni de realizacion y el horario convocado ya finalizo.",
-    "status": "finalizado",
-    "lat": -31.4198,
-    "lng": -64.1867,
-    "fuentes": [
-      "https://diariotortuga.com/asamblea-en-el-patio-olmos-por-la-defensa-del-territorio/"
-    ],
-    "createdAt": "2026-10-06T00:40:10.000Z",
-    "updatedAt": "2026-10-06T23:50:20Z"
-  },
-  {
-    "id": "ar-2026-10-06-concentracion-camaras-federales-parana",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "12:00",
-    "fecha": "2026-10-06",
-    "lugar": "Camaras Federales de Apelaciones, 25 de Mayo 256, Parana, Entre Rios, Argentina",
-    "tipoAccion": "Concentracion",
-    "organizaciones": [
-      "Red Ecosocialista",
-      "MST - FIT-U",
-      "Organizaciones socioambientales y politicas de Entre Rios"
-    ],
-    "motivo": "Accion de visibilizacion desde las 12:00 de este martes 6 de octubre de 2026 frente a las Camaras Federales de Apelaciones de Parana, calle 25 de Mayo 256, dentro de la jornada nacional de protesta contra la Corte Suprema. Convocan Red Ecosocialista, MST y FIT-U, con organizaciones socioambientales y politicas de Entre Rios y la mesa universitaria, mediante carteles y ruido para visibilizar el repudio al fallo que habilito el articulo 154 del DNU 70/2023 y la derogacion de la Ley de Tierras. Es previa a la marcha del 15 de octubre.",
-    "status": "finalizado",
-    "lat": -31.7333,
-    "lng": -60.5333,
-    "fuentes": [
-      "https://www.elentrerios.com/actualidad/jornada-nacional-de-protesta-contra-la-corte-suprema.htm",
-      "https://9digital.com.ar/se-movilizaron-en-parana-para-cuestionar-el-fallo-de-la-corte-suprema-por-la-ley-de-tierras/",
-      "https://www.apfdigital.com.ar/noticias/2026/10/06/473892-organizaciones-movilizan-en-parana-contra-el-fallo-de-la-corte-suprema-sobre-la-ley-de-tierras"
-    ],
-    "createdAt": "2026-10-06T00:40:10.000Z",
-    "updatedAt": "2026-10-06T23:50:20Z"
-  },
-  {
-    "id": "ar-2026-10-06-marcha-plaza-ramirez-concepcion-del-uruguay",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "18:00",
-    "fecha": "2026-10-06",
-    "lugar": "Plaza Ramirez, Concepcion del Uruguay, Entre Rios, Argentina",
-    "tipoAccion": "Marcha",
-    "organizaciones": [
-      "Organizaciones, trabajadores y vecinos autoconvocados de Concepcion del Uruguay"
-    ],
-    "motivo": "Movilizacion en la Plaza Ramirez de Concepcion del Uruguay este martes 6 de octubre de 2026 a las 18:00, en linea con las acciones del Palacio de Justicia de la Ciudad Autonoma de Buenos Aires y del resto del pais, para rechazar el fallo de la Corte Suprema que habilita la extranjerizacion de la tierra y el DNU 70/2023. La convocatoria fue acordada en una reunion abierta del sabado 3 de octubre en el Centro Politico y Cultural Mariano Ferreyra. Actualizacion 20:43 ART: se mantiene solo la convocatoria confirmada para este martes; no se hallaron reportes posteriores de cancelacion ni de realizacion y el horario convocado ya finalizo.",
-    "status": "finalizado",
-    "lat": -32.4833,
-    "lng": -58.2333,
-    "fuentes": [
-      "https://03442.com.ar/2026/10/martes-6-de-octubre-en-concepcion-del-uruguay-se-movilizan-contra-el-fallo-de-la-corte-suprema/"
-    ],
-    "createdAt": "2026-10-06T00:40:10.000Z",
-    "updatedAt": "2026-10-06T23:50:20Z"
-  },
-  {
-    "id": "ar-2026-10-06-concentracion-san-nicolas",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "17:00",
-    "fecha": "2026-10-06",
-    "lugar": "Esquina De la Nacion y 9 de Julio, San Nicolas de los Arroyos, Santa Fe, Argentina",
-    "tipoAccion": "Concentracion",
-    "organizaciones": [
-      "Movimiento Derecho al Futuro (MDF) San Nicolas",
-      "FIT",
-      "Partido Obrero"
-    ],
-    "motivo": "Concentracion este martes 6 de octubre de 2026 a las 17:00 en la esquina de De la Nacion y 9 de Julio de San Nicolas de los Arroyos, Santa Fe, contra el fallo de la Corte Suprema del 29 de septiembre que dejo vigente la derogacion de la Ley 26.737 de Tierras Rurales. La convoca el Movimiento Derecho al Futuro de San Nicolas con adhesion de sectores de la izquierda local como el FIT y el Partido Obrero. Consignas: Argentina no se vende y Argentina para los argentinos. Actualizacion 20:43 ART: se mantiene solo la convocatoria confirmada para este martes; no se hallaron reportes posteriores de cancelacion ni de realizacion y el horario convocado ya finalizo.",
-    "status": "finalizado",
-    "lat": -33.3347,
-    "lng": -60.2146,
-    "fuentes": [
-      "https://www.prensalibresn.com/noticias/manifestacion-la-ley-de-tierras-vuelve-al-centro-del-debate-en-san-nicolas/"
-    ],
-    "createdAt": "2026-10-06T00:40:10.000Z",
-    "updatedAt": "2026-10-06T23:50:20Z"
-  },
-  {
-    "id": "ar-2026-10-06-concentracion-tribunales-federales-salta",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "10:00",
-    "fecha": "2026-10-06",
-    "lugar": "Tribunales Federales, esquina Dean Funes y Espana, Ciudad de Salta, Salta, Argentina",
-    "tipoAccion": "Concentracion",
-    "organizaciones": [
-      "Partido Obrero (PO) Salta"
-    ],
-    "motivo": "Concentracion del Partido Obrero de Salta este martes 6 de octubre de 2026 a las 10:00 frente a los Tribunales Federales de la ciudad de Salta, esquina Dean Funes y Espana, para repudiar el fallo de la Corte Suprema que habilito la extranjerizacion de la tierra mediante el articulo 154 del DNU 70/2023. La accion es previa a la marcha al Congreso del 15 de octubre.",
-    "status": "finalizado",
-    "lat": -24.7897,
-    "lng": -65.4106,
-    "fuentes": [
-      "https://www.cuarto.com.ar/tambien-en-salta-la-corte-suprema-habilito-la-extranjerizacion-de-la-tierra-y-la-izquierda-marcha/"
-    ],
-    "createdAt": "2026-10-06T00:40:10.000Z",
-    "updatedAt": "2026-10-06T23:50:20Z"
-  },
-  {
-    "id": "ar-2026-10-06-banderazo-juzgado-federal-jujuy",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "10:30",
-    "fecha": "2026-10-06",
-    "lugar": "Juzgado Federal, esquina Senador Perez y Belgrano, San Salvador de Jujuy, Jujuy, Argentina",
-    "tipoAccion": "Concentracion",
-    "organizaciones": [
-      "Organizaciones y autoconvocados de Jujuy"
-    ],
-    "motivo": "Banderazo y concentracion este martes 6 de octubre de 2026 a las 10:30 frente al Juzgado Federal de San Salvador de Jujuy, esquina Senador Perez y Belgrano, para rechazar el fallo de la Corte Suprema que repuso el articulo 154 del DNU 70/2023 y dejo vigente la derogacion de la Ley de Tierras. Consigna: Argentina no se vende, la soberania no se negocia y la Pacha se defiende.",
-    "status": "finalizado",
-    "lat": -24.1927,
-    "lng": -65.3033,
-    "fuentes": [
-      "https://www.jujuydice.com.ar/noticias/jujuy-3/la-pacha-se-defiende-banderazo-en-jujuy-para-rechazar-la-derogacion-de-la-ley-de-tierras-57386",
-      "https://elsubmarinojujuy.com.ar/jujuy-se-suma-a-la-marcha-nacional-contra-el-fallo-de-la-corte-por-la-ley-de-tierras/"
-    ],
-    "createdAt": "2026-10-06T00:40:10.000Z",
-    "updatedAt": "2026-10-06T23:50:20Z"
-  },
-  {
-    "id": "ar-2026-10-06-manifestacion-tribunal-resistencia-chaco",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "10:00",
-    "fecha": "2026-10-06",
-    "lugar": "Superior Tribunal de Justicia, Lopez y Planes 215, Resistencia, Chaco, Argentina",
-    "tipoAccion": "Concentracion",
-    "organizaciones": [
-      "Organizaciones y personas autoconvocadas de Chaco",
-      "ATE CONICET Chaco"
-    ],
-    "motivo": "Manifestacion publica y artistica con paste-up, volanteada e intervenciones artisticas frente al Superior Tribunal de Justicia de Resistencia, Lopez y Planes 215, este martes 6 de octubre de 2026 desde las 10:00. La convocatoria surge de una asamblea publica del fin de semana y suma el repudio al fallo de la Corte Suprema sobre la Ley de Tierras con el rechazo de la Ley 4005-R, que habilita desmontes. Adhieren ATE CONICET Chaco y otras organizaciones chaqueñas, en articulacion con la marcha del 15 de octubre.",
-    "status": "finalizado",
-    "lat": -27.4515,
-    "lng": -58.9903,
-    "fuentes": [
-      "https://www.eldiariodelaregion.com.ar/articulo/chaco-se-une-a-la-protesta-contra-la-justicia-por-la-ley-de-tierras/"
-    ],
-    "createdAt": "2026-10-06T00:40:10.000Z",
-    "updatedAt": "2026-10-06T23:50:20Z"
-  },
-  {
-    "id": "ar-2026-10-06-marcha-unlpam-santa-rosa-la-pampa",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "18:00",
-    "fecha": "2026-10-06",
-    "lugar": "Escalinatas de la Universidad Nacional de La Pampa, avenida San Martin Oeste, Santa Rosa, La Pampa, Argentina",
-    "tipoAccion": "Marcha",
-    "organizaciones": [
-      "CTA Autonoma",
-      "CTA de los Trabajadores"
-    ],
-    "motivo": "Marcha de las CTA en Santa Rosa este martes 6 de octubre de 2026 a las 18:00 desde las escalinatas de la Universidad Nacional de La Pampa, con radio abierta y lectura de un documento, y luego marcha hacia los juzgados federales de la avenida San Martin Oeste. La jornada nacional de lucha repudia la resolucion de la Corte Suprema que dejo firme la derogacion de la Ley de Tierras. Hay respaldo de organizaciones sociales, sindicatos, cooperativas y grupos estudiantiles de la provincia. Actualizacion 20:43 ART: se mantiene solo la convocatoria confirmada para este martes; no se hallaron reportes posteriores de cancelacion ni de realizacion y el horario convocado ya finalizo.",
-    "status": "finalizado",
-    "lat": -36.6167,
-    "lng": -64.2833,
-    "fuentes": [
-      "https://diarionoticias.com.ar/sociedad/27304-las-cta-marchan-en-santa-rosa-en-rechazo-a-la-resolucion-de-la-corte-suprema-sobre-la-ley-de-tierras.html"
-    ],
-    "createdAt": "2026-10-06T00:40:10.000Z",
-    "updatedAt": "2026-10-06T23:50:20Z"
-  },
-  {
-    "id": "ar-2026-10-06-movilizacion-rio-gallegos",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "17:30",
-    "fecha": "2026-10-06",
-    "lugar": "Avenida Nestor Kirchner y San Martin, Rio Gallegos, Santa Cruz, Argentina",
-    "tipoAccion": "Marcha",
-    "organizaciones": [
-      "Autoconvocados en Defensa del Territorio y los Bienes Comunes",
-      "UNPA",
-      "UARG"
-    ],
-    "motivo": "Concentracion a las 17:30 en la interseccion de las avenidas Nestor Kirchner y San Martin de Rio Gallegos y marcha hacia la Casa de Gobierno con asamblea abierta, este martes 6 de octubre de 2026. Rechazan el DNU 70/2023, el decreto provincial 0915/26 del gobernador Claudio Vidal sobre tierras fiscales y el fallo de la Corte Suprema que habilito la extranjerizacion. Consignas: nuestros bienes comunes no se venden, abajo el DNU 70/23 y paro nacional. Actualizacion 20:43 ART: se mantiene solo la convocatoria confirmada para este martes; no se hallaron reportes posteriores de cancelacion ni de realizacion y el horario convocado ya finalizo.",
-    "status": "finalizado",
-    "lat": -51.6233,
-    "lng": -69.2167,
-    "fuentes": [
-      "https://www.elironico.com/noticias/politica-y-economia/santa-cruz-organizaciones-y-vecinos-realizan-acciones-ante-el-dnu-70-23-y-el-dec-18cffce6-78e4-465a-84c2-8d5249c01d2d"
-    ],
-    "createdAt": "2026-10-06T00:40:10.000Z",
-    "updatedAt": "2026-10-06T23:50:20Z"
-  },
-  {
-    "id": "ar-2026-10-06-trabajo-estricto-reglamento-secheep-resistencia",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "00:00",
-    "fecha": "2026-10-06",
-    "lugar": "SECHEEP (Servicio Provincial de Energia), Resistencia, Chaco, Argentina",
-    "tipoAccion": "Huelga",
-    "organizaciones": [
-      "Sindicato de Luz y Fuerza de Mercedes (B) - Seccional Resistencia"
-    ],
-    "motivo": "Trabajo a Estricto Reglamento con estado de alerta y asamblea permanente desde las 00:00 de este martes 6 de octubre de 2026 en la sede de SECHEEP de Resistencia, decidido por la seccion Resistencia del Sindicato de Luz y Fuerza de Mercedes (B). Los reclamos incluyen el incumplimiento del convenio colectivo, la falta de convocatoria a la comision mixta, la demora en la entrega de ropa de trabajo y elementos de seguridad, la recomposicion salarial y la situacion de los contratistas.",
-    "status": "en_curso",
-    "lat": -27.45,
-    "lng": -58.9833,
-    "fuentes": [
-      "https://chacodiapordia.com/en/el-sindicato-de-luz-y-fuerza-declaro-el-estado-de-alerta-y-trabajo-a-estricto-reglamento-en-secheep/"
-    ],
-    "createdAt": "2026-10-06T00:40:10.000Z",
-    "updatedAt": "2026-10-06T23:50:20Z"
-  },
-  {
-    "id": "ar-2026-10-06-concentracion-rio-grande-tierra-del-fuego",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "18:00",
-    "fecha": "2026-10-06",
-    "lugar": "Avenida San Martin y Belgrano, centro de la ciudad de Rio Grande, Tierra del Fuego, Argentina",
-    "tipoAccion": "Concentracion",
-    "organizaciones": [
-      "Multisectorial de Derechos Humanos de Rio Grande",
-      "Organizaciones sociales, gremiales y espacios politicos de Rio Grande",
-      "Excombatientes de Malvinas"
-    ],
-    "motivo": "Manifestacion este martes 6 de octubre de 2026 a las 18:00 en la esquina de las avenidas San Martin y Belgrano de Rio Grande, en el marco de la jornada nacional de protesta contra el fallo de la Corte Suprema que desestimo la demanda del CECIM La Plata y dejo vigente la derogacion de la Ley 26.737 de Tierras Rurales mediante el articulo 154 del DNU 70/2023. La convoca la Multisectorial de Derechos Humanos junto a organizaciones sociales, gremios, espacios politicos y excombatientes, en consonancia con la movilizacion principal frente a la Corte Suprema en Buenos Aires. Consigna: los territorios no se venden, no se queman, ni se desalojan, sino que se defienden. Actualizacion 20:43 ART: se mantiene solo la convocatoria confirmada para este martes; no se hallaron reportes posteriores de cancelacion ni de realizacion y el horario convocado ya finalizo.",
-    "status": "finalizado",
-    "lat": -53.7868,
-    "lng": -67.7094,
-    "fuentes": [
-      "https://www.provincia23.com.ar/2026/10/06/convocan-a-marchar-contra-la-decision-de-la-corte-suprema/",
-      "https://www.minutofueguino.com.ar/gremiales/1-defensa-del-territorio-preparan-una-manifestacin-en-el-centro-de-ro-grande.htm"
-    ],
-    "createdAt": "2026-10-06T19:48:40.000Z",
-    "updatedAt": "2026-10-06T23:50:20Z"
-  },
-  {
-    "id": "ar-2026-10-06-concentracion-casa-gobierno-neuquen",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "11:00",
-    "fecha": "2026-10-06",
-    "lugar": "Casa de Gobierno de Neuquén, calles Rioja y Roca, ciudad de Neuquén, Neuquén, Argentina",
-    "tipoAccion": "Concentracion",
-    "organizaciones": [
-      "Centrales sindicales y gremios de Neuquen",
-      "Organizaciones sociales y politicas",
-      "Organizaciones de derechos humanos"
-    ],
-    "motivo": "Concentracion y conferencia de prensa este martes 6 de octubre de 2026 a las 11:00 en la puerta de la Casa de Gobierno de Neuquen, calles Rioja y Roca, en repudio al fallo de la Corte Suprema que habilito la extranjerizacion de las tierras al dejar vigente la derogacion de la Ley 26.737 mediante el articulo 154 del DNU 70/2023. Un amplio arco de centrales sindicales, gremios, agrupaciones sociales, politicas y organismos de derechos humanos dio lectura a una Declaracion Conjunta y formalizo presentaciones dirigidas al gobernador y a los legisladores neuquinos, exigiendo pronunciamientos y acciones institucionales que frenen el impacto de la medida.",
-    "status": "finalizado",
-    "lat": -38.9516,
-    "lng": -68.0591,
-    "fuentes": [
-      "https://weblavoz.com/secciones/politica/156792-nuevamente-el-pais-en-remate-no-a-la-extranjerizacion-de-las-tierras-gremios-y-organizaciones-sociales-fijan-posicion"
-    ],
-    "createdAt": "2026-10-06T19:48:40.000Z",
-    "updatedAt": "2026-10-06T23:50:20Z"
-  },
-  {
-    "id": "ar-2026-10-06-corte-puente-arroyo-ramallo-ternium",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "05:00",
-    "fecha": "2026-10-06",
-    "lugar": "Puente de Arroyo Ramallo sobre la avenida Savio / Ruta Nacional 188, Ramallo, Buenos Aires, Argentina",
-    "tipoAccion": "Bloqueo",
-    "organizaciones": [
-      "Ex trabajadores de Ternium autoconvocados"
-    ],
-    "motivo": "Corte de ruta este martes 6 de octubre de 2026 alrededor de las 5:00 a la altura del puente de Arroyo Ramallo, sobre la avenida Savio, en el horario de ingreso a las empresas de la zona. Un grupo de ex trabajadores de Ternium, que se autodescriben como desempleados, reclamo su reincorporacion laboral ydetuvo el transito hacia las plantas. La accion se inscribe en una serie de cortes que el mismo grupo viene realizando en ese punto desde inicios de septiembre.",
-    "status": "finalizado",
-    "lat": -33.9639,
-    "lng": -60.0306,
-    "fuentes": [
-      "https://www.periodismosn.com.ar/2026/10/06/un-pequeno-grupo-de-autoconvocados-volvio-a-protestar-e-interrumpir-el-transito-en-el-puente-de-arroyo-ramallo/"
-    ],
-    "createdAt": "2026-10-06T19:48:40.000Z",
-    "updatedAt": "2026-10-06T23:50:20Z"
-  },
-  {
     "id": "fr-2026-10-06-movilizacion-nacional-estudiantes-sindicatos-paris",
     "seccion": "internacionales",
     "pais": "Francia",
     "bandera": "🇫🇷",
-    "hora": "14:00",
-    "fecha": "2026-10-06",
-    "lugar": "Place de la République, París, Francia",
+    "hora": "",
+    "fecha": "2026-10-07",
+    "lugar": "Liceos y universidades de toda Francia, con concentraciones en París y otras ciudades, Francia",
     "tipoAccion": "movilizacion",
     "organizaciones": [
+      "USL (Union Syndicale Libre)",
+      "Union étudiante",
       "Confédération Paysanne",
       "CGT",
       "FSU",
       "FO",
       "CFDT",
-      "Union étudiante",
+      "Solidaires",
+      "FAGE",
       "La France Insoumise"
     ],
-    "motivo": "Jornada nacional de movilización y huelga en solidaridad con los estudiantes de secundaria que desde finales de septiembre bloquean cientos de liceos por falta de profesores, horarios sobrecargados, aulas deterioradas y Parcoursup. El ministerio del Interior contó 256.000 manifestantes (organizadores, 450.000), con 56.000 en París: la marcha partió pasadas las 14:00 de la Place de la République hacia la Place de la Nation por el Boulevard Voltaire. Hubo gases lacrimógenos y agua a presión al final del recorrido, choques en Lyon, Estrasburgo, Rennes y Burdeos, 488 detenciones solo este martes (6.547 desde el inicio) y clases suspendidas en 891 de 3.700 liceos. Cinco centrales sindicales adhirieron; el primer ministro Lecornu anunció la suspensión de clases toda la semana y Macron convocó a su gobierno al Elíseo.",
-    "status": "finalizado",
+    "motivo": "Tercer día de la jornada nacional de movilización y huelga en solidaridad con los estudiantes de secundaria que desde finales de septiembre bloquean cientos de liceos por falta de profesores, horarios sobrecargados, aulas deterioradas y Parcoursup. Tras la jornada del martes 6 de octubre —266.000 manifestantes según el ministerio del Interior y 450.000 según los organizadores, con 100.000 en París, gases lacrimógenos y agua a presión, 488 detenciones (más de 6.500 desde el inicio) y clases suspendidas en 891 de 3.700 liceos—, la Union Syndicale Lycéenne y la Union étudiante convocan a mantener los bloqueos de liceos y universidades este miércoles 7 de octubre y nuevos cortes el jueves 8 para un 'acte 4'. Las centrales (Solidaires, CGT y FAGE) convocan una conferencia de prensa intersindical esta mañana para detallar la continuación del movimiento, y en las universidades habrá asambleas para votar la reconducción de los bloqueos. El primer ministro Lecornu anunció la 'banalización' de media jornada sin clases, un 'tiempo de democracia interna', desde este miércoles, medida que los sindicatos de directores califican de 'cacofonía completa' y que rechazan aplicar de inmediato. El ministre de l'Intérieur y el de Educación deberán comparecer hoy en la Asamblea Nacional; en la enseñanza superior, el 40% de los centros estuvo perturbado el martes y el ministro Philippe Baptiste recibirá hoy a las organizaciones profesionales y estudiantiles.",
+    "status": "en_curso",
     "lat": 48.8675,
     "lng": 2.3694,
     "fuentes": [
+      "https://www.france24.com/fr/info-en-continu/20261007-col%C3%A8re-des-lyc%C3%A9ens-journ%C3%A9e-test-mercredi-apr%C3%A8s-une-mobilisation-massive",
+      "https://apnews.com/article/france-education-protests-macron-police-dd78a1a2b80d4c84a92bcdde6f96e988",
       "https://www.politico.eu/article/france-jean-luc-melenchon-doubles-down-student-protests-despite-violent-clashes/",
-      "https://www.sortiraparis.com/en/news/in-paris/articles/353273-student-march-of-october-6-these-youth-strikes-that-have-already-forced-the-government-to-back-down",
-      "https://www.france24.com/en/europe/20261006-live-tens-of-thousands-expected-at-paris-protests-as-unions-join-students",
-      "https://www.npr.org/2026/10/06/nx-s1-5992819/france-student-protests-schools",
+      "https://www.france24.com/en/live-news/20261006-live-tens-of-thousands-expected-at-paris-protests-as-unions-join-students",
       "https://www.theguardian.com/world/2026/oct/06/protests-schools-blockade-streets-france",
-      "https://www.afp.com/en/gen-z-has-risen-tens-thousands-demand-better-education-france",
-      "https://www.infobae.com/america/agencias/2026/10/06/los-estudiantes-mantienen-la-presion-sobre-el-gobierno-con-nuevas-y-masivas-protestas-en-todo-el-pais/",
-      "https://www.ilpost.it/2026/10/06/manifestazione-nazionale-proteste-studenti-francia/"
+      "https://www.npr.org/2026/10/06/nx-s1-5992819/france-student-protests-schools"
     ],
     "createdAt": "2026-10-06T07:09:50.000Z",
-    "updatedAt": "2026-10-06T23:50:20Z"
-  },
-  {
-    "id": "in-2026-10-06-marcha-bloque-india-comision-electoral-nueva-delhi",
-    "seccion": "internacionales",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "10:30",
-    "fecha": "2026-10-06",
-    "lugar": "Sede de la Election Commission of India (Nirvachan Sadan), Nueva Delhi, India",
-    "tipoAccion": "movilizacion",
-    "organizaciones": [
-      "Bloque INDIA (19 partidos de oposición)",
-      "Congreso Nacional Indio",
-      "AISA (All India Students' Association)"
-    ],
-    "motivo": "Marcha de los diputados del bloque INDIA desde el Parlamento hacia la sede de la Comisión Electoral en Nirvachan Sadan por el escándalo de la Revisión Intensiva Especial (SIR) de los padrones electorales, exigiendo la renuncia del jefe de la Comisión, Gyanesh Kumar. La policía frenó la columna a unos 200 metros con vallas: Rahul Gandhi, Priyanka Gandhi Vadra, Akhilesh Yadav y Abhishek Banerjee fueron detenidos tras subirse a las barricadas, hicieron una sentada frente a Akashvani Bhavan y fueron llevados a Kingsway Camp antes de ser liberados por la noche. Hubo protestas congresistas y de izquierda también en Telangana y concentración de la NSUI en Bengaluru.",
-    "status": "finalizado",
-    "lat": 28.6238,
-    "lng": 77.214,
-    "fuentes": [
-      "https://www.indiatoday.in/india/story/india-bloc-protest-march-live-updates-cec-gyanesh-kumar-sir-row-election-commission-congress-aap-3010394-2026-10-06",
-      "https://www.reuters.com/business/media-telecom/hundreds-police-guard-indian-capital-ahead-opposition-protest-2026-10-06/",
-      "https://www.aljazeera.com/news/2026/10/6/india-opposition-leaders-briefly-arrested-in-protest-against-election-chief",
-      "https://thenewsmill.com/2026/10/india-bloc-protest-stalls-in-delhi-rahul-and-priyanka-gandhi-detained/",
-      "https://elpais.com/internacional/2026-10-06/la-oposicion-en-india-marcha-para-exigir-la-dimision-del-presidente-de-la-comision-electoral-nombrado-por-modi.html",
-      "https://www.firstpost.com/india/indias-opposition-parties-take-to-the-streets-demand-election-chiefs-resignation-over-voter-roll-changes-14050757.html"
-    ],
-    "createdAt": "2026-10-06T07:09:50.000Z",
-    "updatedAt": "2026-10-06T23:50:20Z"
+    "updatedAt": "2026-10-07T04:53:17Z"
   },
   {
     "id": "pk-2026-10-06-marcha-pti-kohat-peshawar",
     "seccion": "internacionales",
     "pais": "Paquistán",
     "bandera": "🇵🇰",
-    "hora": "15:00",
-    "fecha": "2026-10-06",
-    "lugar": "Ruta Kohat-Peshawar (N-55), Khyber Pakhtunkhwa, Paquistán",
+    "hora": "12:30",
+    "fecha": "2026-10-07",
+    "lugar": "Budh Bair, Peshawar, hacia el intercambio de Charsadda, Khyber Pakhtunkhwa, Paquistán",
     "tipoAccion": "movilizacion",
     "organizaciones": [
       "Pakistan Tehreek-e-Insaf (PTI)",
       "Gobierno de Khyber Pakhtunkhwa"
     ],
-    "motivo": "Tercer día de la marcha del PTI hacia Islamabad por la liberación de Imran Khan: la caravana partió hoy a las 15:00 desde University Chowk (Kohat) hacia Peshawar, encabezada por el ministro principal de Khyber Pakhtunkhwa, Sohail Afridi, con pernocta prevista en Mattani y avance hacia Khairabad el 8 de octubre, donde se anunciará la siguiente fase. El primer ministro Shehbaz Sharif pidió a los manifestantes deponer la marcha y volver a la negociación; el gobernador Kundi advirtió que no se les dejará pasar de Attock. En Karachi la policía bloqueó vías y detuvo a dirigentes, y siguen las restricciones de la Sección 144 en varios distritos.",
+    "motivo": "Cuarto día de la marcha del PTI hacia Islamabad por la liberación de Imran Khan: la caravana saldrá hoy miércoles 7 de octubre a las 12:30 desde Budh Bair, en Peshawar, con la adhesión de los habitantes del distrito de Khyber; columnas de los demás distritos de Peshawar se sumarán en el puente de la carretera Kohat y en la caseta de peaje de la autopista, y la pernocta está prevista cerca del intercambio de Charsadda. El jueves 8 la caravana saldrá a las 12:30 del intercambio de Charsadda hacia Khairabad (Nowshera), donde el ministro principal Sohail Afridi anunciará la siguiente fase, sin haber detallado todavía el tramo final hacia la capital. El primer ministro Shehbaz Sharif pidió a los manifestantes deponer la marcha y volver a la negociación, mientras el gobernador Faisal Karim Kundi advirtió que no se les dejará pasar de Attock, en Punjab; siguen vigentes la Sección 144 y los bloqueos de vías en varios distritos de Khyber Pakhtunkhwa, y en Karachi la policía bloqueó vías y detuvo a dirigentes.",
     "status": "en_curso",
-    "lat": 33.5889,
-    "lng": 71.4428,
+    "lat": 34.0151,
+    "lng": 71.5249,
     "fuentes": [
-      "https://www.dawn.com/news/2035066/pti-protest-march-reaches-kohat-on-second-day",
-      "https://www.pakistantoday.com.pk/2026/10/06/afridi-leads-pti-march-towards-mattani-as-govt-warns-against-islamabad-move",
-      "https://www.france24.com/en/live-news/20261006-pakistan-pm-urges-imran-khan-supporters-to-end-protest-march"
+      "https://tribune.com.pk/story/2632928/pti-begins-first-phase-of-long-march-amid-mounting-political-tensions",
+      "https://www.dawn.com/news/2034862",
+      "https://www.firstpost.com/world/pti-long-march-imran-khan-supporters-head-for-islamabad-as-pakistan-warns-of-security-risks-14050868.html",
+      "https://www.pakistantoday.com.pk/2026/10/05/sohail-afridi-vows-to-defy-closed-door-policies",
+      "https://www.pakistantoday.com.pk/2026/10/06/afridi-leads-pti-march-towards-mattani-as-govt-warns-against-islamabad-move"
     ],
     "createdAt": "2026-10-06T07:09:50.000Z",
-    "updatedAt": "2026-10-06T23:50:20Z"
+    "updatedAt": "2026-10-07T04:53:17Z"
   },
   {
     "id": "id-2026-10-06-movilizacion-buruh-dpr-yakarta",
@@ -487,53 +68,27 @@
     "pais": "Indonesia",
     "bandera": "🇮🇩",
     "hora": "10:00",
-    "fecha": "2026-10-06",
+    "fecha": "2026-10-07",
     "lugar": "Gedung DPR/MPR RI, Yakarta, Indonesia",
     "tipoAccion": "movilizacion",
     "organizaciones": [
-      "KBPBI (Koalisi Besar Perjuangan Buruh Indonesia)",
-      "KSPSI (Konfederasi Serikat Pekerja Seluruh Indonesia)",
-      "KASBI (Kongres Aliansi Serikat Buruh Indonesia)"
+      "Aliansi Merah Putih (PPPK y PPPK paruh waktu)",
+      "PPWI (Persatuan PPPK Paruh Waktu Indonesia)",
+      "KBPBI (Koalisi Besar Perjuangan Buruh Indonesia)"
     ],
-    "motivo": "Jornada de los trabajadores frente al edificio del Parlamento indonesio en Yakarta por la aprobación del RUU Perlindungan Ketenagakerjaan: miles de manifestantes de la KBPBI, KSPSI, KASBI y otras confederaciones hicieron un long march desde Cawang y columnas desde Tangerang, Serang y otras zonas industriales, cerrando el tránsito de Jalan Gatot Subroto. La policía Metro Jaya estimó unos 5.000 participantes (antes habló de 6.000) y la DPR aprobó por unanimidad en el pleno la ley laboral; luego los líderes del DPR (Dasco, Saan Mustopa, Cucun) y el jefe de la policía nacional Suyudi Ario Seto salieron a la puerta a comunicar el resultado a la masa. Parte de los manifestantes, liderados por KASBI y ASPEK, se mantuvieron en el lugar hasta el límite de las 18:00 porque no recibieron el texto del proyecto aprobado y dudan de su contenido, en el marco de acciones previstas del 6 al 8 de octubre.",
-    "status": "finalizado",
+    "motivo": "Segundo día de las acciones de tres días frente al edificio del Parlamento indonesio (DPR/MPR) en Yakarta, del 6 al 8 de octubre. Hoy miércoles 7 de octubre a partir de las 10:00 WIB se manifiestan unos 50.000 funcionarios PPPK y PPPK paruh waktu agrupados en la Aliansi Merah Putih y la PPWI, para 'cobrar' al vicepresidente de la DPR Sufmi Dasco Ahmad el compromiso tomado en la reunión del 7 de septiembre con diez foros de PPPK: exigen que la conversión de PPPK paruh waktu a PPPK de tiempo completo se aplique a todos los puestos —docentes, personal de salud y personal técnico— y no solo a ciertos grupos, además de claridad sobre la fuente de financiamiento de sus salarios. El martes la plaza la ocupó la KBPBI (unos 5.000 participantes según la policía Metro Jaya) para acompañar la aprobación por unanimidad del RUU Pelindungan Ketenagakerjaan, mientras KASBI y ASPEK permanecieron hasta el límite de las 18:00 sin recibir el texto aprobado; la policía prevé desvíos y congestión en Jalan Gatot Subroto.",
+    "status": "en_curso",
     "lat": -6.2244,
     "lng": 106.8031,
     "fuentes": [
+      "https://megapolitan.kompas.com/read/2026/10/07/07405831/demo-di-depan-dpr-hari-ini-simak-jalur-alternatifnya",
+      "https://afu.id/nasional/50-ribu-guru-pppk-gelar-aksi-demo-di-dpr-ri-hari-ini-polisi-siapkan-rekayasa-lalu-lintas-pengendara-diminta-cari-jalur-alternatif",
       "https://megapolitan.kompas.com/read/2026/10/06/12013911/demo-3-hari-di-depan-dpr-mulai-hari-ini-siapa-yang-turun-dan-apa",
-      "https://megapolitan.kompas.com/read/2026/10/06/12344481/massa-demo-buruh-long-march-dari-cawang-ke-dpr-bawa-11-tuntutan",
-      "https://www.kalderanews.com/2026/10/demo-buruh-6-oktober-di-dpr-bawa-11-tuntutan-ini-isinya/",
-      "https://www.antaranews.com/berita/5773850/polda-metro-apresiasi-aksi-buruh-di-depan-dpr-berjalan-tertib"
+      "https://jakarta.tribunnews.com/jakarta/443932/ada-demo-3-hari-berturut-turut-di-depan-gedung-dpr-ini-kelompok-massa-dan-isu-yang-dibawa",
+      "https://beritasejabar.id/pppk-paruh-waktu-siap-kepung-jakarta-tagih-janji-pimpinan-dpr-pada-7-oktober-2026/"
     ],
     "createdAt": "2026-10-06T07:09:50.000Z",
-    "updatedAt": "2026-10-06T23:50:20Z"
-  },
-  {
-    "id": "xk-2026-10-06-protesta-asamblea-especialistas-haya-pristina",
-    "seccion": "internacionales",
-    "pais": "Kosovo",
-    "bandera": "🇽🇰",
-    "hora": "",
-    "fecha": "2026-10-06",
-    "lugar": "Asamblea de Kosovo, Pristina, Kosovo",
-    "tipoAccion": "concentracion",
-    "organizaciones": [
-      "PDK (Partido Democrático de Kosovo)",
-      "AAK (Alianza por el Futuro de Kosovo)",
-      "Veteranos del UCK"
-    ],
-    "motivo": "Continúan hoy las protestas frente a la Asamblea de Kosovo tras los choques del lunes por la noche, cuando la policía usó gases lacrimógenos y cañones de agua (12 heridos, 3 detenidos y 6 policías lesionados según distintas fuentes). La protesta de hoy, convocada por la Organización de Veteranos del UCK y el movimiento 'Not in My Name' de Çlirim Haziri, volvió a reunirse en la plaza Skanderbeg y se trasladó frente a la entrada de la Asamblea a la espera de la segunda lectura de las enmiendas a la ley de las Cámaras Especializadas de La Haya (tope de 15 años y cumplimiento de condenas en Kosovo), en el día en que vence el plazo constitucional para elegir presidente, cuya elección quedaría condicionada a la aprobación de la ley. El PDK y la AAK condicionan su apoyo a la presidencia a esa aprobación, mientras Vetëvendosje exige votar primero al presidente.",
-    "status": "en_curso",
-    "lat": 42.6631,
-    "lng": 21.163,
-    "fuentes": [
-      "https://www.aljazeera.com/news/2026/10/6/police-clash-with-kosovo-protesters-over-bid-to-curb-hague-war-crimes-court",
-      "https://balkaninsight.com/2026/10/06/kosovo-protesters-against-hague-court-gather-again-after-clashes/btj/",
-      "https://www.rferl.org/a/kosovo-parliament-war-crimes-court-changes-kurti-albania/33870618.html",
-      "https://insajderi.org/en/Protesters-move-in-front-of-the-assembly-entrance/"
-    ],
-    "createdAt": "2026-10-06T07:09:50.000Z",
-    "updatedAt": "2026-10-06T23:50:20Z"
+    "updatedAt": "2026-10-07T04:53:17Z"
   },
   {
     "id": "al-2026-10-06-protesta-dia-129-tirana",
@@ -541,24 +96,25 @@
     "pais": "Albania",
     "bandera": "🇦🇱",
     "hora": "",
-    "fecha": "2026-10-06",
+    "fecha": "2026-10-07",
     "lugar": "Plaza Skanderbeg y oficina del Primer Ministro, Tirana, Albania",
     "tipoAccion": "movilizacion",
     "organizaciones": [
       "Movimiento ciudadano de protesta",
       "Colectivos cívicos y estudiantes"
     ],
-    "motivo": "129º día consecutivo de la protesta ciudadana contra el gobierno y el primer ministro Edi Rama, tras más de cuatro meses de movilizaciones diarias. Como en jornadas anteriores, los manifestantes se concentraron en la plaza Skanderbeg y marcharon hacia la oficina del Primer Ministro, exigiendo la dimisión de Rama, la creación de un gobierno técnico de transición y cambios en el sistema político y electoral. La protesta del lunes fue la 128ª, con carteles multitudinarios en el bulevar Dëshmorët e Kombit; los organizadores anunciaron una movilización mayor para el 13 de octubre con mayor convocatoria estudiantil.",
+    "motivo": "130º día consecutivo de la protesta ciudadana contra el gobierno y el primer ministro Edi Rama, tras más de cuatro meses de movilizaciones diarias. Como en jornadas anteriores, los manifestantes se concentrarán en la plaza Skanderbeg y marcharán hacia la oficina del Primer Ministro en el bulevar Dëshmorët e Kombit, exigiendo la dimisión incondicional de Rama, la creación de un gobierno técnico de transición y cambios en el sistema político y electoral, además de la anulación de la ley de zonas protegidas. El martes 6 de octubre se cumplió el 129º día: tras los discursos frente a la Kryeministria la columna marchó por la Tirana Nueva y la plaza Wilson y regresó al punto de partida, con consignas como 'Edi Rama, dimite', 'Acabó para vos', 'Rama a la cárcel, Berisha a la cárcel' y 'Cambio de sistema'. Los organizadores anunciaron para el martes 13 de octubre una movilización mayor con mayor participación estudiantil.",
     "status": "en_curso",
     "lat": 41.3329,
     "lng": 19.8183,
     "fuentes": [
-      "https://www.balkanweb.com/en/Rama-the-autocrat-resigned--129th-day-of-protest--citizens-gather-again-today-in-front-of-the-prime-minister%27s-office/",
-      "https://gazetashqiptare.al/2026/10/06/rama-autokrat-dorehiqu-dita-e-129-e-protestes-qytetaret-mblidhen-serish-sot-para-kryeministrise/",
-      "https://albeu.com/english/day-129-of-the-protest-citizens-gather-again-today-outside-the-prime-ministers-office-calling-for-ramas-resignation/1041916/"
+      "https://droni.al/2026/10/06/dita-129-protestuesit-para-kryeministrise-kjo-qeveri-eshte-antikombetare/",
+      "https://pamfleti.net/aktualitet/rama-dorehiqu-mbyllet-protesta-e-129-te-qytetaret-neser-serish-ne-she-i356016",
+      "https://dosja.al/live-updates/dita-e-129-te-e-protestes-qytetaret-zbresin-serish-sot-ne-shesh-ker-i517993",
+      "https://albeu.com/lajme/rama-autokrat-dorehiqu-dita-e-129-e-protestes-qytetaret-mblidhen-serish-sot-para-kryeministrise/1041870/"
     ],
     "createdAt": "2026-10-06T07:09:50.000Z",
-    "updatedAt": "2026-10-06T23:50:20Z"
+    "updatedAt": "2026-10-07T04:53:17Z"
   },
   {
     "id": "es-2026-10-06-acampada-sindicato-inquilinas-madrid",
@@ -566,7 +122,7 @@
     "pais": "España",
     "bandera": "🇪🇸",
     "hora": "",
-    "fecha": "2026-10-06",
+    "fecha": "2026-10-07",
     "lugar": "Puerta del Sol, Madrid, España",
     "tipoAccion": "otra",
     "organizaciones": [
@@ -575,308 +131,19 @@
       "UGT",
       "CGT"
     ],
-    "motivo": "Décima jornada de la acampada por la vivienda en la Puerta del Sol, iniciada la noche del 26 al 27 de septiembre tras el desahucio de Maricarmen Abascal y que sigue activa pese al anuncio de elecciones generales anticipadas el 29 de noviembre. El movimiento supera ahora las 2.000 personas acampadas y 30 colectivos, con el Sindicato de Inquilinas diluyendo su liderazgo en una estructura horizontal de comisiones (urbanismo, legal, mediación, comunicación) que rebautizó el lugar como 'pulmón central'. La asamblea mantiene la demanda de una huelga general en noviembre, ya respaldada por CCOO y UGT junto a CGT, y el Tribunal Superior de Justicia de Madrid rechazó el desalojo cautelar pedido por la Comunidad de Madrid. El modelo se replica en acampadas de Valencia, Barcelona, Zaragoza, Sevilla y otras ciudades.",
+    "motivo": "Undécima jornada de la acampada por la vivienda en la Puerta del Sol, iniciada la noche del 26 al 27 de septiembre tras el desahucio de Maricarmen Abascal y que sigue activa pese al anuncio de elecciones generales anticipadas el 29 de noviembre. Hoy miércoles 7 de octubre a las 9:00 vence el plazo recortado que el TSJM dio a la Abogacía del Estado —que representa a la Delegación del Gobierno— para presentar sus alegaciones en la pieza de medidas cautelares abierta tras rechazar la medida cautelarísima de desalojo inmediato pedida por la Comunidad de Madrid; una vez conocido el escrito, la Sala decidirá si levanta o no el asentamiento, sin que por el momento haya resuelto el fondo. La acampada supera las 2.000 personas y 30 colectivos, con el Sindicato de Inquilinas en una estructura horizontal de comisiones (urbanismo, legal, mediación, comunicación) que rebautizó el lugar como 'pulmón central', y mantiene la demanda de una huelga general en noviembre ya respaldada por CCOO y UGT junto a CGT; el movimiento se replica en acampadas de Valencia, Barcelona, Zaragoza, Sevilla y otras ciudades.",
     "status": "en_curso",
     "lat": 40.4168,
     "lng": -3.7038,
     "fuentes": [
+      "https://www.europapress.es/madrid/noticia-tsjm-rechaza-desalojo-inmediato-acampada-sol-solicitado-comunidad-20261005110355.html",
+      "https://www.rtve.es/noticias/20261005/tribunal-superior-justicia-madrid-ayuso-desalojo-sol/17253401.shtml",
+      "https://www.libertaddigital.com/madrid/2026-10-07/el-tsj-de-madrid-teme-que-desalojar-sol-provoque-nuevas-acampadas-con-el-favor-del-gobierno-no-podemos-seguir-asi-7471643/",
       "https://www.telesurtv.net/sindicato-acampada-rentismo-madrid-huelga/",
-      "https://www.rtve.es/noticias/20261005/adelanto-electoral-no-frena-acampada-sol-no-vamos-a-dar-ningun-paso-atras/17253793.shtml",
-      "https://efe.com/espana/2026-10-05/sindicato-inquilinas-mantiene-acampada-sol-llama-huelga-general/",
       "https://elpais.com/espana/madrid/2026-10-06/sol-se-transforma-en-la-ciudad-acrata-30-colectivos-mas-de-2000-personas-y-el-mismo-frente-comun-de-la-huelga-general.html"
     ],
     "createdAt": "2026-10-06T07:09:50.000Z",
-    "updatedAt": "2026-10-06T23:50:20Z"
-  },
-  {
-    "id": "it-2026-10-06-manifestacion-jeunesse-en-colere-bologna",
-    "seccion": "internacionales",
-    "pais": "Italia",
-    "bandera": "🇮🇹",
-    "hora": "18:30",
-    "fecha": "2026-10-06",
-    "lugar": "Piazza Verdi, distrito universitario, Bolonia, Italia",
-    "tipoAccion": "movilizacion",
-    "organizaciones": [
-      "Cua (collectivo universitario)",
-      "CAS (colectivo estudiantil de secundaria)"
-    ],
-    "motivo": "Manifestación Jeunesse en colère convocada por el colectivo universitario Cua y los estudiantes de secundaria del CAS en la Piazza Verdi de Bolonia para hoy a las 18:30, en solidaridad con los estudiantes franceses y contra la militarización, la guerra y el encarecimiento de la vida, de forma simultánea a la jornada de lucha y huelga convocada en Francia. Los colectivos describen una movilización juvenil alimentada por la precariedad de una generación entera, con rechazo a la perfilación racial y la guetización de las periferias. El europarlamentario de Fratelli d'Italia Stefano Cavedagna acusó a los colectivos de querer emular las violencias francesas y pidió al alcalde Matteo Lepore que vetara la manifestación.",
-    "status": "finalizado",
-    "lat": 44.4949,
-    "lng": 11.3431,
-    "fuentes": [
-      "https://www.ilrestodelcarlino.it/bologna/cronaca/cua-e-cas-in-piazza-6b086aef",
-      "https://www.bolognatoday.it/cronaca/studenti-proteste-francia-piazza-verdi-cua-cavedagna.html",
-      "https://gazzettadibologna.it/primo-piano/studenti-francesi-manifestazione-bologna-jeunesse-en-colere/",
-      "https://www.bolognatoday.it/cronaca/manifestazione-cua-universita-oggi-6-ottobre-irnerio.html"
-    ],
-    "createdAt": "2026-10-06T07:09:50.000Z",
-    "updatedAt": "2026-10-06T23:50:20Z"
-  },
-  {
-    "id": "it-2026-10-06-presidio-antifascista-liceo-einstein-milan",
-    "seccion": "internacionales",
-    "pais": "Italia",
-    "bandera": "🇮🇹",
-    "hora": "18:00",
-    "fecha": "2026-10-06",
-    "lugar": "Vía Alberto Einstein, frente al Liceo Einstein, Milán, Italia",
-    "tipoAccion": "concentracion",
-    "organizaciones": [
-      "Collettivo Politico del Liceo Einstein",
-      "Colectivos estudiantiles de Milán",
-      "Colectivos antifascistas y centros sociales"
-    ],
-    "motivo": "Presidio antifascista convocado para hoy a las 18:00 frente al Liceo Einstein de Milan por su Collettivo Politico junto a los colectivos de los liceos milaneses y realidades antifascistas y de centros sociales, tras la agresion de la madrugada del 28 de septiembre: doce militantes de Blocco Studentesco (juventud de CasaPound) golpearon a un estudiante de 20 anos que habia arrancado sus carteles, provocandole una fractura craneal que exigio intervencion neuroquirurgica. El presidio se convirtio en corteo hacia la Universidad Statale por piazzale Lodi y corso di Porta Romana con desviacion por el liceo Berchet: entre 1.000 y 3.000 participantes, con Claudia Pinelli, hija de Pino Pinelli, y representantes de ANPI, PD y Alleanza Verdi e Sinistra. Consignas: 'Siamo tutti antifascisti' y 'Fuori i fascisti dalle scuole'. Finalizo sin incidentes.",
-    "status": "finalizado",
-    "lat": 45.4503,
-    "lng": 9.2164,
-    "fuentes": [
-      "https://www.radiondadurto.org/2026/10/05/milano-martedi-6-ottobre-presidio-antifascista-davanti-al-liceo-einstein/",
-      "https://www.milanotoday.it/politica/manifestazione-ragazzo-aggredito-blocco-studentesco.html",
-      "https://www.milanotoday.it/attualita/manifestazione-contro-aggressione-liceo-einstein.html",
-      "https://video.corriere.it/milano/milano-in-mille-al-presidio-antifascista-dopo-l-aggressione-al-liceo-einstein/6a3cde21-626a-44f9-9197-e585d998bxlk"
-    ],
-    "createdAt": "2026-10-06T07:09:50.000Z",
-    "updatedAt": "2026-10-06T23:50:20Z"
-  },
-  {
-    "id": "us-2026-10-06-rally-constitution-pipeline-albany",
-    "seccion": "internacionales",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
-    "hora": "12:00",
-    "fecha": "2026-10-06",
-    "lugar": "Million Dollar Staircase, Capitolio del Estado de Nueva York, Albany, Nueva York, Estados Unidos",
-    "tipoAccion": "concentracion",
-    "organizaciones": [
-      "Women's Water Walk / Waterfall Unity Alliance",
-      "NY Frack Action",
-      "Naciones Indígenas (abuelas originarias)"
-    ],
-    "motivo": "Rally programado hoy a las 12:00 en la Million Dollar Staircase del Capitolio estatal de Nueva York al finalizar la Women's Water Walk, caminata de 108 millas por la ruta del propuesto gasoducto Constitution entre el 19 de septiembre y el 6 de octubre. Abuelas indígenas, propietarios rurales afectados, agricultores, líderes religiosos, artistas y activistas (entre ellos Karenna Gore y miembros de las Naciones Lenape, Susquehannock y Haudenosaunee) entregarán a la gobernadora Kathy Hochul agua recogida en los ríos y arroyos de la ruta y le pedirán mantenerse firme frente a los intentos del presidente Trump de revivir el gasoducto de gas de esquisto, rechazado por Nueva York en 2016 por riesgos a la calidad del agua.",
-    "status": "finalizado",
-    "lat": 42.6526,
-    "lng": -73.7562,
-    "fuentes": [
-      "http://readme.readmedia.com/After-108-Mile-Walk-to-Stop-Constitution-Pipeline-Indigenous-Grandmothers-Local-Landowners-More-to-Rally/21741946",
-      "https://www.womenswaterwalk.org/"
-    ],
-    "createdAt": "2026-10-06T07:09:50.000Z",
-    "updatedAt": "2026-10-06T23:50:20Z"
-  },
-  {
-    "id": "au-2026-10-06-movilizacion-land-forces-yagan-square-perth",
-    "seccion": "internacionales",
-    "pais": "Australia",
-    "bandera": "🇦🇺",
-    "hora": "17:00",
-    "fecha": "2026-10-06",
-    "lugar": "Yagan Square, Perth (Boorloo), Australia Occidental, Australia",
-    "tipoAccion": "movilizacion",
-    "organizaciones": [
-      "WA Anti-War Collective",
-      "Stop AUKUS Network",
-      "Coalición antiguerra de Australia Occidental"
-    ],
-    "motivo": "Concentración contra el Land Forces 2026, la mayor feria de industria de defensa terrestre de Australia que se inauguró hoy en el Perth Convention & Exhibition Centre (hasta el 8 de octubre): el WA Anti-War Collective concentró desde las 17:00 en Yagan Square y marchó hacia Elizabeth Quay. La protesta se dirigió contra AUKUS y la alianza con Estados Unidos, la exportación de armas a Israel y los Emiratos Árabes Unidos y la participación de Elbit Systems, Lockheed Martin, BAE Systems y Thales, en un despliegue de seguridad de más de 10 millones de dólares. El Consulado General de EE.UU. en Perth había emitido una alerta de demostración para el horario del acto.",
-    "status": "finalizado",
-    "lat": -31.9562,
-    "lng": 115.8606,
-    "fuentes": [
-      "https://www.greenleft.org.au/2026-10/event/protest-landforces-2026",
-      "https://www.perthnow.com.au/wa/perth/large-protest-expected-at-controversial-weapons-expo-c-22972203",
-      "https://au.usembassy.gov/demonstration-alert-u-s-consulate-general-perth-october-6-2026/"
-    ],
-    "createdAt": "2026-10-06T07:09:50.000Z",
-    "updatedAt": "2026-10-06T23:50:20Z"
-  },
-  {
-    "id": "ke-2026-10-06-marcha-forestal-greenpeace-nairobi",
-    "seccion": "internacionales",
-    "pais": "Kenia",
-    "bandera": "🇰🇪",
-    "hora": "",
-    "fecha": "2026-10-06",
-    "lugar": "Marcha desde Uhuru Park hasta el Ministerio de Medio Ambiente, Cambio Climático y Bosques, Nairobi, Kenia",
-    "tipoAccion": "marcha",
-    "organizaciones": [
-      "Greenpeace Africa",
-      "Green Belt Movement",
-      "Just Act",
-      "Friends of Nairobi National Park",
-      "Organizaciones de la sociedad civil y defensores de bosques comunitarios"
-    ],
-    "motivo": "Unas 200 personas, encabezadas por Greenpeace Africa y otras ONG ambientales y defensores de bosques comunitarios, marcharon este martes desde Uhuru Park hasta el Ministerio de Medio Ambiente con consignas como '¡Sin bosques no hay vida!' para exigir el fin de la deforestación y la protección legal permanente de los bosques de Kenia. Entregaron a la ministra Deborah Barasa una petición firmada por más de 60.000 ciudadanos con cuatro reclamos: frenar los proyectos que amenazan los bosques de Imenti, Karura, Ngong Road, Suam y el Parque Nacional de Nairobi; respetar las órdenes judiciales vigentes; reinstaurar la veda de tala en el complejo de Mau; y transparencia total de las excisiones de tierra con castigos para la tala ilegal. Dieron al Ministerio 30 días para responder y reclamaron un plan de protección forestal para el Mazingira Day del 10 de octubre.",
-    "status": "finalizado",
-    "lat": -1.2844,
-    "lng": 36.823,
-    "fuentes": [
-      "https://k24.digital/news/activists-stage-protests-in-nairobi-cbd-disrupt-traffic-as-they-march-to-govt-office",
-      "https://www.kenyans.co.ke/news/127629-forest-defenders-march-ministry-over-kenyas-deforestation-crisis",
-      "https://kenya-today.com/report-forest-defenders-march-through-nairobi-cbd-demanding-halt-to-deforestation-projects-7392/",
-      "https://www.abc.com.py/internacionales/2026/10/06/protestan-en-nairobi-contra-la-deforestacion-de-kenia-porque-sin-bosques-no-hay-vida/"
-    ],
-    "createdAt": "2026-10-06T14:21:20.000Z",
-    "updatedAt": "2026-10-06T23:50:20Z"
-  },
-  {
-    "id": "ng-2026-10-06-protesta-sowore-tinubu-abuja",
-    "seccion": "internacionales",
-    "pais": "Nigeria",
-    "bandera": "🇳🇬",
-    "hora": "",
-    "fecha": "2026-10-06",
-    "lugar": "Calles del centro de Abuja, Territorio de la Capital Federal, Nigeria",
-    "tipoAccion": "marcha",
-    "organizaciones": [
-      "African Action Congress (AAC)",
-      "Omoyele Sowore",
-      "Grupo de apoyo 'Sowore Is Coming'"
-    ],
-    "motivo": "Protesta encabezada por el activista y candidato presidencial del AAC Omoyele Sowore este martes por la mañana en las calles de Abuja con consignas 'Tinubu must go' y pancartas con la imagen del presidente Bola Tinubu, exigiendo su salida del poder. La marcha ocurre mientras Sowore afronta un juicio ante el Tribunal Federal Superior de Abuja por cargos de ciberacoso y difamación criminal contra Tinubu, promovidos por el DSS por publicaciones de agosto de 2025, y en plena campaña hacia la elección general de 2027. Tras la movilización, miembros del grupo de apoyo de Sowore se concentraron frente al Ministerio de Justicia Federal en campaña de concientización.",
-    "status": "finalizado",
-    "lat": 9.0579,
-    "lng": 7.4951,
-    "fuentes": [
-      "https://dailypost.ng/2026/10/06/tinubu-must-go-sowore-leads-protest-in-abuja-video/",
-      "https://www.thetimes.com.ng/2026/10/tinubu-must-go-sowore-leads-protest-in-abuja-chants-for-presidents-exit/",
-      "https://therealmediang.com/news/sowore-supporters-gather-at-justice-ministry-for-awareness-campaign"
-    ],
-    "createdAt": "2026-10-06T14:21:20.000Z",
-    "updatedAt": "2026-10-06T23:50:20Z"
-  },
-  {
-    "id": "mx-2026-10-06-marcha-ugt-cdmx-zocalo",
-    "seccion": "internacionales",
-    "pais": "México",
-    "bandera": "🇲🇽",
-    "hora": "17:00",
-    "fecha": "2026-10-06",
-    "lugar": "Marcha desde la estación Chabacano (Línea 2 del Metro, Calzada San Antonio Abad y Calzada Chabacano, Col. Vista Alegre, alcaldía Cuauhtémoc) hasta el Zócalo capitalino, Ciudad de México, México",
-    "tipoAccion": "marcha",
-    "organizaciones": [
-      "Unión General de Trabajadores de México (UGT México)"
-    ],
-    "motivo": "Marcha de la Unión General de Trabajadores de México convocada para este martes a las 17:00 desde la estación Chabacano del Metro rumbo al Zócalo capitalino, dentro de la agenda de movilizaciones de la Secretaría de Seguridad Ciudadana de la CDMX que prevé una veintena de protestas y actividades. La organización exige el pago de laudos, la reinstalación de personal, un incremento salarial, la basificación de los trabajadores, el alto al acoso laboral y la entrega de uniformes, insumos y herramientas de trabajo. Se estima la participación de unas 400 personas y no se descarta el arribo de autobuses con manifestantes al punto de reunión.",
-    "status": "en_curso",
-    "lat": 19.4326,
-    "lng": -99.1332,
-    "fuentes": [
-      "https://www.infobae.com/mexico/2026/10/06/en-vivo-bloqueos-en-carreteras-accidentes-y-manifestaciones-hoy-martes-6-de-octubre/",
-      "https://www.nmas.com.mx/ciudad-de-mexico/movilidad/marchas/a-que-hora-inicia-marcha-trabajadores-hoy-6-de-octubre-2026-cdmx-hacia-zocalo/",
-      "https://www.unotv.com/estados/ciudad-de-mexico/sindicalizados-encabezan-las-protestas-en-la-cdmx-este-martes-6-de-octubre/"
-    ],
-    "createdAt": "2026-10-06T14:21:20.000Z",
-    "updatedAt": "2026-10-06T23:50:20Z"
-  },
-  {
-    "id": "tr-2026-10-06-protesta-intercepcion-flotilla-gaza-diyarbakir",
-    "seccion": "internacionales",
-    "pais": "Turquía",
-    "bandera": "🇹🇷",
-    "hora": "",
-    "fecha": "2026-10-06",
-    "lugar": "Complejo de la Mezquita Hazrat Suleiman, distrito de Sur, Diyarbakır, Turquía",
-    "tipoAccion": "concentracion",
-    "organizaciones": [
-      "Coalición de Organizaciones de la Sociedad Civil Islámica de Diyarbakır (NGOs)"
-    ],
-    "motivo": "Protesta multitudinaria de una coalición de organizaciones de la sociedad civil islámica de Diyarbakır este martes, reunida en el complejo de la Mezquita Hazrat Suleiman en el distrito de Sur, para condenar la interceptación por parte de la armada israelí del Sumud Flotilla (Flotilla Global por la Sumud) en aguas internacionales. Cientos de manifestantes exigieron el fin del bloqueo de la Franja de Gaza, la liberación inmediata de los activistas internacionales detenidos, investigaciones internacionales y acciones legales contra Israel en tribunales internacionales por crímenes de guerra y genocidio.",
-    "status": "finalizado",
-    "lat": 37.915,
-    "lng": 40.231,
-    "fuentes": [
-      "https://www.ilkha.com/english/latest/mass-protest-in-diyarbakir-condemns-israeli-interception-of-gaza-bound-aid-flotilla-534117"
-    ],
-    "createdAt": "2026-10-06T14:21:20.000Z",
-    "updatedAt": "2026-10-06T23:50:20Z"
-  },
-  {
-    "id": "in-2026-10-06-protesta-nsui-freedom-park-bengaluru",
-    "seccion": "internacionales",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "",
-    "fecha": "2026-10-06",
-    "lugar": "Freedom Park, Bengaluru, Karnataka, India",
-    "tipoAccion": "concentracion",
-    "organizaciones": [
-      "NSUI (National Students' Union of India)"
-    ],
-    "motivo": "Cientos de estudiantes de la NSUI de Karnataka (dirigentes nacionales Vinod Jakhar, la presidenta estatal Kirthi Ganesh y el secretario general Venky Azad) se concentraron este martes en el Freedom Park de Bengaluru bajo el lema 'Stop Voter Chori, Save Democracy', exigiendo la renuncia y detención del jefe de la Comisión Electoral Gyanesh Kumar por la revisión intensiva especial (SIR) de los padrones. Tres demandas centrales: la remoción y arresto de Kumar, una SIR independiente y transparente y una investigación sobre la eliminación de más de 13 crore de nombres de votantes. Al intentar marchar hacia la oficina de la Comisión Electoral de Karnataka, los dirigentes fueron brevemente detenidos por la policía y se les impidió entregar su carta.",
-    "status": "finalizado",
-    "lat": 12.977,
-    "lng": 77.591,
-    "fuentes": [
-      "https://thesouthfirst.com/karnataka/struggle-will-continue-till-gyanesh-kumars-arrest-nsui-students-throng-bengalurus-freedom-park-demand-accountability/"
-    ],
-    "createdAt": "2026-10-06T14:21:20.000Z",
-    "updatedAt": "2026-10-06T23:50:20Z"
-  },
-  {
-    "id": "ar-2026-10-06-marcha-piqueteros-capital-humano-tribunales-caba",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "13:30",
-    "fecha": "2026-10-06",
-    "lugar": "Ministerio de Capital Humano (ex Desarrollo Social), Avenida 9 de Julio 1925, Ciudad Autonoma de Buenos Aires, Argentina - luego hacia Palacio de Tribunales (Plaza Lavalle)",
-    "tipoAccion": "Marcha",
-    "organizaciones": [
-      "Frente de Lucha Piquetero",
-      "Polo Obrero",
-      "Barrios de Pie",
-      "Movimiento Evita",
-      "UTEP",
-      "MTR",
-      "Frente Popular Darío Santillán",
-      "MST",
-      "Coordinadora por el Cambio Social",
-      "FOL",
-      "MTD Aníbal Verón",
-      "Federación Nacional Campesina",
-      "MNCI Somos Tierra",
-      "UTT",
-      "Movimientos sociales y territoriales"
-    ],
-    "motivo": "Movilización de más de 70 organizaciones sociales, territoriales y piqueteras contra las políticas de ajuste del gobierno y en rechazo al fallo de la Corte Suprema que dejó vigente la derogación de la Ley de Tierras Rurales. Comenzará con conferencia de prensa a las 13:30 frente al Ministerio de Capital Humano, luego marcharán al Palacio de Justicia/Tribunales para confluir con otras organizaciones. La movilizacion se realizo este martes: tras la conferencia de prensa frente a Capital Humano las columnas marcharon hacia el Palacio de Justicia.",
-    "status": "finalizado",
-    "lat": -34.604,
-    "lng": -58.38,
-    "fuentes": [
-      "https://www.anred.org/organizaciones-sociales-marchan-a-la-corte-contra-el-ajuste-y-por-la-recuperacion-de-la-ley-de-tierras/",
-      "https://www.pagina12.com.ar/2026/10/05/mas-retiros-voluntarios-para-los-trabajadores/",
-      "https://www.perfil.com/noticias/politica/ley-de-tierras-organizaciones-politicas-y-gremiales-marcharan-contra-el-fallo-de-la-corte-suprema.phtml",
-      "https://www.lanacion.com.ar/politica/los-piqueteros-protestaron-contra-pettovello-y-los-jueces-de-la-corte-nid06102026/"
-    ],
-    "createdAt": "2026-10-06T14:29:32.000Z",
-    "updatedAt": "2026-10-06T23:50:20Z"
-  },
-  {
-    "id": "ar-2026-10-06-paro-linea-a-subte-19hs",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "19:00",
-    "fecha": "2026-10-06",
-    "lugar": "Linea A de Subte (San Pedrito - Plaza de Mayo), Ciudad Autonoma de Buenos Aires, Argentina",
-    "tipoAccion": "Huelga",
-    "organizaciones": [
-      "AGTSyP (Asociacion Gremial de Trabajadores del Subte y Premetro)"
-    ],
-    "motivo": "Paro de la Linea A desde las 19:00 hasta el cierre del servicio por conflicto salarial y descuentos en los salarios. Medida anunciada por Nestor Segovia, secretario general de AGTSyP. Actualizacion: la medida de fuerza fue levantada antes de su inicio tras un acuerdo con EMOVA; desde las 18:47 la linea volvio a circular con normalidad y el paro no se aplico.",
-    "status": "finalizado",
-    "lat": -34.6073,
-    "lng": -58.3816,
-    "fuentes": [
-      "https://www.eldestapeweb.com/sociedad/paro-nacional-ate-servicios-no-funcionan-este-martes-6-octubre-argentina-202610682824",
-      "https://www.infobae.com/sociedad/2026/10/06/paro-de-subte-y-trenes-hoy-cuales-son-las-lineas-que-no-circulan-este-martes-6-de-octubre/",
-      "https://www.ambito.com/informacion-general/paro-subtes-levantaron-la-medida-fuerza-y-la-linea-circulara-normalmente-n6330850"
-    ],
-    "createdAt": "2026-10-06T14:29:32.000Z",
-    "updatedAt": "2026-10-06T23:50:20Z"
+    "updatedAt": "2026-10-07T04:53:17Z"
   },
   {
     "id": "gh-2026-10-06-huelga-nacional-docentes-preprimarios",
@@ -884,7 +151,7 @@
     "pais": "Ghana",
     "bandera": "🇬🇭",
     "hora": "",
-    "fecha": "2026-10-06",
+    "fecha": "2026-10-07",
     "lugar": "Escuelas públicas preprimarias y primarias de todo Ghana, con negociaciones en la Fair Wages and Salaries Commission (FWSC) en Accra, Ghana",
     "tipoAccion": "Huelga",
     "organizaciones": [
@@ -892,115 +159,18 @@
       "NAGRAT (National Association of Graduate Teachers)",
       "PRETAG (Pre-Tertiary Education Teachers Association of Ghana)"
     ],
-    "motivo": "Séptimo día de la huelga nacional de docentes de preprimaria y primaria por atrasos de promociones, la asignación del 20% de zonas deprimidas y el contrato colectivo vencido desde junio. Hoy martes 6 de octubre de 2026 se reanudaron las negociaciones entre los tres sindicatos, la FWSC y el Ghana Education Service en Accra, pero terminaron sin acuerdo, con las partes convocadas para el 7 de octubre; el secretario general de GNAT, Thomas Musa, pidió a los docentes mantenerse firmes y el presidente de NAGRAT, Jacob Anaba, confirmó que la medida de fuerza continúa mientras haya negociaciones. El cierre de las escuelas públicas afecta también el programa de alimentación escolar.",
+    "motivo": "Octavo día de la huelga nacional de docentes de preprimaria y primaria por atrasos de promociones, la asignación del 20% de zonas deprimidas y el contrato colectivo vencido desde junio. Tras el fracaso de las negociaciones del martes 6 de octubre entre los tres sindicatos (GNAT, NAGRAT y PRETAG), la Fair Wages and Salaries Commission (FWSC) y el Ghana Education Service en Accra, las partes se reúnen hoy miércoles 7 de octubre en una nueva ronda, mientras el secretario general de GNAT, Thomas Musa, pidió a los docentes mantenerse firmes y el presidente de NAGRAT, Jacob Anaba, confirmó que la medida de fuerza continúa mientras haya negociaciones. El cierre de las escuelas públicas afecta también el programa de alimentación escolar y hay un reclamo abierto de unos 29.000 docentes que siguen a la espera de promoción.",
     "status": "en_curso",
     "lat": 5.6037,
     "lng": -0.187,
     "fuentes": [
       "https://gna.org.gh/2026/10/teachers-to-remain-on-strike-as-talks-with-fwsc-end-inconclusively/",
-      "https://gna.org.gh/2026/10/teachers-strike-meeting-between-fair-wages-unions-ends-inconclusively/",
       "https://www.myjoyonline.com/teacher-unions-maintain-strike-as-fwsc-ges-negotiations-yield-no-deal/",
+      "https://gna.org.gh/2026/10/teachers-strike-meeting-between-fair-wages-unions-ends-inconclusively/",
       "https://chale.news/nagrat-presses-government-on-29-000-teachers-still-awaiting-promotion/"
     ],
     "createdAt": "2026-10-06T19:40:39.000Z",
-    "updatedAt": "2026-10-06T23:50:20Z"
-  },
-  {
-    "id": "ke-2026-10-06-marcha-pastoralistas-maa-harambee-house",
-    "seccion": "internacionales",
-    "pais": "Kenia",
-    "bandera": "🇰🇪",
-    "hora": "",
-    "fecha": "2026-10-06",
-    "lugar": "Harambee House, sede del Ministerio del Interior, Nairobi, Kenia",
-    "tipoAccion": "Marcha",
-    "organizaciones": [
-      "Comunidad pastoril masai (Samburu y Laikipia)",
-      "Líderes comunitarios y pastores de Samburu y Laikipia"
-    ],
-    "motivo": "Cientos de manifestantes de la comunidad pastoril maa marcharon este martes 6 de octubre de 2026 desde el Parlamento hasta Harambee House, sede del Ministerio del Interior, para exigir respuestas por la muerte de más de 700 cabezas de ganado en operativos de seguridad y conflictos en los condados de Samburu y Laikipia durante septiembre. Los manifestantes, muchos con indumentaria maa, denuncian que el ganado incautado fue sacrificado por las fuerzas de seguridad y reclaman investigación y compensaciones.",
-    "status": "finalizado",
-    "lat": -1.2864,
-    "lng": 36.8147,
-    "fuentes": [
-      "https://www.kenyans.co.ke/news/127635-pastoralists-march-murkomens-office-over-700-animals-killed-samburu"
-    ],
-    "createdAt": "2026-10-06T19:40:39.000Z",
-    "updatedAt": "2026-10-06T23:50:20Z"
-  },
-  {
-    "id": "jp-2026-10-06-protesta-embajada-eeuu-tokio-okinawa",
-    "seccion": "internacionales",
-    "pais": "Japón",
-    "bandera": "🇯🇵",
-    "hora": "",
-    "fecha": "2026-10-06",
-    "lugar": "Embajada de Estados Unidos y oficina del Primer Ministro, Tokio, Japón",
-    "tipoAccion": "Concentracion",
-    "organizaciones": [
-      "Colectivos de Okinawa contra las bases de Estados Unidos",
-      "Activistas antimilitaristas"
-    ],
-    "motivo": "Unas 100 personas protestaron este martes 6 de octubre de 2026 frente a la Embajada de Estados Unidos en Tokio y en la oficina del Primer Ministro tras la detención el 4 de octubre de un marine estadounidense por el robo y asesinato de una mujer de 39 años en Naha (Okinawa). Con consignas como 'No más violencia de los soldados estadounidenses' y 'Okinawa no es tu parque de atracciones', el organizador Sorane Sakihama, originario de Okinawa, denunció la concentración desproporcionada de bases en la isla, que alberga cerca del 70% de las instalaciones militares de EE.UU. en Japón.",
-    "status": "finalizado",
-    "lat": 35.6754,
-    "lng": 139.7439,
-    "fuentes": [
-      "https://www.arabnews.jp/en/japan/we-dont-need-us-bases-japanese-protest-after-marine-held-for-murder-3000628",
-      "https://www.tag24.com/en/topic/world/protests-erupt-in-japan-after-us-marine-is-accused-of-murdering-local-woman-we-dont-need-us-bases-3538085",
-      "https://news.cgtn.com/news/2026-10-06/Japanese-protesters-rally-outside-PM-s-office-after-US-marine-arrested-for-murder-in-Okinawa-1R1BWLFipPy/p.html"
-    ],
-    "createdAt": "2026-10-06T19:40:39.000Z",
-    "updatedAt": "2026-10-06T23:50:20Z"
-  },
-  {
-    "id": "gr-2026-10-06-protesta-atenas-rubio-ventas-armamento-f35",
-    "seccion": "internacionales",
-    "pais": "Grecia",
-    "bandera": "🇬🇷",
-    "hora": "",
-    "fecha": "2026-10-06",
-    "lugar": "Plaza Syntagma y Embajada de Estados Unidos, Atenas, Grecia",
-    "tipoAccion": "Marcha",
-    "organizaciones": [
-      "KNE (Consejo Central de la Juventud Comunista de Grecia)",
-      "Asociaciones estudiantiles",
-      "Sindicatos",
-      "Partidos políticos de oposición"
-    ],
-    "motivo": "Cientos de personas salieron esta tarde a las calles de Atenas en repudio a la inminente visita del secretario de Estado de Estados Unidos, Marco Rubio, para completar la venta al gobierno griego de cazas F-35 y sistemas de armas avanzados. La concentración partió de la plaza Syntagma con consignas como 'El carnicero Rubio no es bienvenido aquí' y 'Grecia no quiere participar en masacres', y luego se trasladó hasta la Embajada de Estados Unidos, custodiada por un cordón policial, según informó el KNE.",
-    "status": "finalizado",
-    "lat": 37.9755,
-    "lng": 23.7348,
-    "fuentes": [
-      "https://www.europapress.es/internacional/noticia-cientos-personas-protestan-atenas-inminente-visita-marco-rubio-20261006193921.html"
-    ],
-    "createdAt": "2026-10-06T19:40:39.000Z",
-    "updatedAt": "2026-10-06T23:50:20Z"
-  },
-  {
-    "id": "kr-2026-10-06-die-in-embajada-israel-seul",
-    "seccion": "internacionales",
-    "pais": "Corea del Sur",
-    "bandera": "🇰🇷",
-    "hora": "",
-    "fecha": "2026-10-06",
-    "lugar": "Embajada de Israel, Seúl, Corea del Sur",
-    "tipoAccion": "Concentracion",
-    "organizaciones": [
-      "Organizadores de las protestas semanales frente a la embajada de Israel en Seúl",
-      "Colectivos solidarios con Palestina"
-    ],
-    "motivo": "Manifestantes se tendieron en el suelo frente a la Embajada de Israel en Seúl este martes 6 de octubre de 2026 en gesto simbólico de solidaridad con los palestinos, dentro de un evento que condena los tres años de guerra en Gaza. La acción continúa el patrón de manifestaciones casi diarias frente a la embajada desde finales de 2023, en un contexto en el que Seúl figura entre las ciudades que anticipan manifestaciones más numerosas alrededor del tercer aniversario del 7 de octubre; los organizadores buscan mantener la atención pública sobre la guerra y la presión a los gobiernos surcoreano e israelí.",
-    "status": "finalizado",
-    "lat": 37.5326,
-    "lng": 126.9967,
-    "fuentes": [
-      "https://en.yenisafak.com/world/protesters-lie-down-outside-israeli-embassy-in-seoul-3724206",
-      "https://www.timesofisrael.com/hundreds-of-anti-israel-protests-planned-around-october-7-anniversary-worldwide/"
-    ],
-    "createdAt": "2026-10-06T19:40:39.000Z",
-    "updatedAt": "2026-10-06T23:50:20Z"
+    "updatedAt": "2026-10-07T04:53:17Z"
   },
   {
     "id": "es-2026-10-06-acampada-vivienda-plaza-ayuntamiento-valencia",
@@ -1008,24 +178,26 @@
     "pais": "España",
     "bandera": "🇪🇸",
     "hora": "",
-    "fecha": "2026-10-06",
+    "fecha": "2026-10-07",
     "lugar": "Plaza del Ayuntamiento (Plaça de l'Ajuntament), Valencia, España",
     "tipoAccion": "otra",
     "organizaciones": [
       "Acampada autónoma y autogestionada por la vivienda de Valencia",
       "Colectivos por el derecho a la vivienda"
     ],
-    "motivo": "Cuarta jornada de la acampada por la vivienda en la plaza del Ayuntamiento de Valencia, iniciada el sábado 4 de octubre, con más de 500 tiendas de campaña y más de 1.200 participantes según los organizadores. La acampada, autónoma y autogestionada, se declara indefinida y quiere mantenerse más allá del 9 de Octubre, día en que está prevista la mascletà oficial, generando tensión con el Ayuntamiento y la Delegación del Gobierno. Sus reclamos: expropiar pisos a fondos buitres y grandes tenedores, regular precios y condiciones del alquiler, paralizar desahucios y alquileres abusivos, además de presionar por la huelga general. Denunciaron además una amenaza del grupo ultraderechista Núcleo Nacional de dinamitar la acampada el 8 de octubre.",
+    "motivo": "Quinta jornada de la acampada por la vivienda en la plaza del Ayuntamiento de Valencia, iniciada el sábado 4 de octubre: el martes 6 por la mañana ya eran más de 500 las tiendas de campaña y más de 800 los acampados, con una rotación constante que la organización estima en cerca de 3.000 personas desde el primer día. El Ayuntamiento envió a la delegada del Gobierno, Pilar Bernabé, un requerimiento previo a acciones legales si no garantiza el 'normal' desarrollo de los actos del 9 d'Octubre, por la 'falta de actuación' de la Policía Nacional en la plaza (documenta unas 314 personas a la 1:45 del 5 de octubre), y la alcaldesa María José Catalá afirmó que celebrará la fiesta 'con la realidad que hay'. La acampada, que se declara indefinida, autónoma y autogestionada, valora organizar una contramanifestación el 9 de octubre y mantiene sus reclamos: expropiar pisos a fondos buitres y grandes tenedores, bajar precios del alquiler, paralizar desahucios y presionar por la huelga general. Denunciaron además una amenaza del grupo ultraderechista Núcleo Nacional de dinamitar la acampada el 8 de octubre.",
     "status": "en_curso",
     "lat": 39.4699,
     "lng": -0.3763,
     "fuentes": [
+      "https://www.europapress.es/comunitat-valenciana/noticia-ayuntamiento-valencia-ira-juez-si-delegacion-no-garantiza-normal-desarrollo-doctubre-acampada-20261006192654.html",
+      "https://www.lasprovincias.es/valencia-ciudad/acampada-plaza-ayuntamientovalencia-9-octubre-20261006134642-nt.html",
+      "https://www.levante-emv.com/comunitat-valenciana/2026/10/06/sigue-ultima-hora-acampada-indefinida-134979014.html",
       "https://www.lasprovincias.es/valencia-ciudad/acampada-valencia-multiplica-ocupa-plaza-ayuntamiento-20261006112151-nt.html",
-      "https://actualidadvalencia.com/acampada-vivienda-valencia-9-doctubre/",
-      "https://www.lavanguardia.com/local/valencia/20261006/11652382/acampada-vivienda-valencia-tensa-celebraciones-9-d-octubre.html"
+      "https://actualidadvalencia.com/acampada-vivienda-valencia-9-doctubre/"
     ],
     "createdAt": "2026-10-06T19:40:39.000Z",
-    "updatedAt": "2026-10-06T23:50:20Z"
+    "updatedAt": "2026-10-07T04:53:17Z"
   },
   {
     "id": "es-2026-10-06-acampada-vivienda-obradoiro-santiago",
@@ -1033,13 +205,13 @@
     "pais": "España",
     "bandera": "🇪🇸",
     "hora": "",
-    "fecha": "2026-10-06",
+    "fecha": "2026-10-07",
     "lugar": "Plaza del Obradoiro, Santiago de Compostela, Galicia, España",
     "tipoAccion": "otra",
     "organizaciones": [
       "Acampada por la vivienda digna de Santiago de Compostela"
     ],
-    "motivo": "La acampada en defensa de la vivienda digna de la plaza del Obradoiro de Santiago de Compostela se cumplió este martes 6 de octubre de 2026 de forma indefinida, pese a la alerta naranja de lluvias y al tormento desde las 10:00 de la mañana, con carpas y palets para refugiarse. Su portavoz, Miguel García, afirmó que permanecerán hasta que haya 'cambios reales' y pidió que la futura huelga general convocada por CCOO y UGT no sea un 'parche'. La movilización se suma a las acampadas de Madrid, Valencia y otras ciudades tras el rechazo de los decretos de vivienda y el adelanto electoral al 29 de noviembre.",
+    "motivo": "La acampada en defensa de la vivienda digna de la plaza del Obradoiro de Santiago de Compostela continúa este miércoles 7 de octubre de forma indefinida, pese a la alerta naranja de lluvias del martes, cuando los acampados usaron carpas y palets para refugiarse. Su portavoz, Miguel García, afirmó que permanecerán hasta que haya 'cambios reales' y pidió que la futura huelga general convocada por CCOO y UGT no sea un 'parche'. La movilización se suma a las acampadas de Madrid, Valencia y otras ciudades tras el rechazo de los decretos de vivienda y el adelanto electoral al 29 de noviembre.",
     "status": "en_curso",
     "lat": 42.8806,
     "lng": -8.5449,
@@ -1047,159 +219,7 @@
       "https://www.elespanol.com/quincemil/economia/inmobiliario/20261006/acampada-santiago-vivienda-mantiene-seguiremos-cambios-reales/1003744410443_0.html"
     ],
     "createdAt": "2026-10-06T19:40:39.000Z",
-    "updatedAt": "2026-10-06T23:50:20Z"
-  },
-  {
-    "id": "es-2026-10-06-manifestacion-profesores-concertada-santiago",
-    "seccion": "internacionales",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "11:30",
-    "fecha": "2026-10-06",
-    "lugar": "Parque de la Alameda hasta el edificio administrativo de la Xunta de Galicia (San Caetano), Santiago de Compostela, Galicia, España",
-    "tipoAccion": "Marcha",
-    "organizaciones": [
-      "FSIE Galicia",
-      "UGT Galicia",
-      "CIG-Ensino",
-      "FeUSO",
-      "CC.OO.",
-      "SNEP (enseñanza privada)"
-    ],
-    "motivo": "Centenares de profesores de la enseñanza concertada gallega se manifestaron este martes 6 de octubre de 2026, saliendo del parque de la Alameda sobre las 11:30 en una marcha de paraguas hasta el edificio de la Xunta en San Caetano, para exigir a la Consellería de Educación que abra mesas de negociación, desbloquee los acuerdos pendientes desde hace 17 años e incorpore mejoras laborales. El seguimiento de la huelga fue del 65% según UGT y del 18,4% según la Xunta. Consignas: 'Conselleiro, negociación o dimisión'.",
-    "status": "finalizado",
-    "lat": 42.8782,
-    "lng": -8.5448,
-    "fuentes": [
-      "https://www.galiciapress.es/articulo/ultima-hora/2026-10-06/6041803-centenares-profesores-concertada-manifiestan-exigir-xunta-abra-mesas-negociacion",
-      "https://www.elespanol.com/quincemil/cultura/educacion/20261006/centenares-profesores-concertada-manifiestan-santiago-exigirle-xunta-negocie/1003744410483_0.html"
-    ],
-    "createdAt": "2026-10-06T19:40:39.000Z",
-    "updatedAt": "2026-10-06T23:50:20Z"
-  },
-  {
-    "id": "gt-2026-10-06-bloqueo-exmilitares-ruta-interamericana",
-    "seccion": "internacionales",
-    "pais": "Guatemala",
-    "bandera": "🇬🇹",
-    "hora": "",
-    "fecha": "2026-10-06",
-    "lugar": "Ruta Interamericana: km 29 de San Lucas (Sacatepéquez), km 264 de Catarina (San Marcos) y km 126 de Santa Cruz Río Hondo (Zacapa), Guatemala",
-    "tipoAccion": "bloqueo",
-    "organizaciones": [
-      "Exmilitares y veteranos en retiro de Guatemala"
-    ],
-    "motivo": "Un grupo de exmilitares bloqueó este martes 6 de octubre de 2026 al menos tres puntos de la Ruta Interamericana —km 29 de San Lucas en Sacatepéquez, km 264 de Catarina en San Marcos y km 126 de Santa Cruz Río Hondo en Zacapa— exigiendo al Congreso de la República que pase a tercera lectura las iniciativas de ley de beneficios económicos para veteranos. En San Lucas los manifestantes liberaron la vía durante cuarenta minutos y volvieron a bloquearla; la Policía Nacional Civil y Provial reportaron el cierre de ambos sentidos y pidieron rutas alternas.",
-    "status": "en_curso",
-    "lat": 14.6083,
-    "lng": -90.7431,
-    "fuentes": [
-      "https://www.chapintv.com/noticia/exmilitares-bloquean-ruta-interamericana-y-exigen-aprobacion-de-beneficios/",
-      "https://emisorasunidas.com/nacional/2026/10/06/exmilitares-manifestacion-bloqueos-carreteras-transito/"
-    ],
-    "createdAt": "2026-10-06T19:40:39.000Z",
-    "updatedAt": "2026-10-06T23:50:20Z"
-  },
-  {
-    "id": "ve-2026-10-06-bloqueo-padres-uen-simon-bolivar-puerto-ordaz",
-    "seccion": "internacionales",
-    "pais": "Venezuela",
-    "bandera": "🇻🇪",
-    "hora": "",
-    "fecha": "2026-10-06",
-    "lugar": "Avenida Atlántico, sector Unare, parroquia Unare, Puerto Ordaz, estado Bolívar, Venezuela",
-    "tipoAccion": "bloqueo",
-    "organizaciones": [
-      "Padres y representantes de la UEN Simón Bolívar (Villa Bahía)"
-    ],
-    "motivo": "Padres y representantes de la Unidad Educativa Nacional Simón Bolívar tomaron las calles desde primeras horas de la mañana de este martes 6 de octubre de 2026 y cerraron con troncos, ramas y neumáticos los cuatro accesos a la Avenida Atlántico en el sector Unare de Puerto Ordaz, paralizando el tránsito, para exigir la rehabilitación inmediata del plantel. Denuncian que más de 900 estudiantes ven clases en aulas colapsadas, sin baños aptos y con filtraciones severas, y advirtieron que mantendrán las acciones de calle hasta obtener recursos del Ministerio de Educación, la Gobernación de Bolívar y la Alcaldía de Caroní.",
-    "status": "en_curso",
-    "lat": 8.28,
-    "lng": -62.74,
-    "fuentes": [
-      "https://soynuevaprensadigital.com/npd/trancan-la-avenida-atlantico-en-puerto-ordaz-para-exigir-el-rescate-urgente-de-la-uen-simon-bolivar/"
-    ],
-    "createdAt": "2026-10-06T19:40:39.000Z",
-    "updatedAt": "2026-10-06T23:50:20Z"
-  },
-  {
-    "id": "de-2026-10-06-protesta-dia-accion-democracia-domplatz-magdeburg",
-    "seccion": "internacionales",
-    "pais": "Alemania",
-    "bandera": "🇩🇪",
-    "hora": "",
-    "fecha": "2026-10-06",
-    "lugar": "Domplatz/Landtag de Sajonia-Anhalt, Magdeburg, Alemania",
-    "tipoAccion": "movilizacion",
-    "organizaciones": [
-      "Colectivos ciudadanos pro democracia",
-      "Omas gegen rechts"
-    ],
-    "motivo": "Jornada de acciones ciudadanas en la Domplatz de Magdeburg, frente al Landtag de Sajonia-Anhalt, que acompañó la constitución del nuevo parlamento: cientos de personas (unas 350 según la policía) se concentraron desde el amanecer para leer en voz alta los primeros artículos del Grundgesetz, proyectaron mensajes contra el extremismo en la catedral (\"Nie wieder ist jetzt\") y rechazaron la elección de Tobias Rausch (AfD) como primer presidente de un Landtag alemán designado por un partido catalogado de extremo derecha por la Oficina de Protección de la Constitución. Rausch fue elegido con 48 de 82 votos, cuatro más de los que suman AfD y BSW, lo que apunta a votos de diputados de la CDU. Los manifestantes abuchearon a dirigentes de la AfD que se acercaron a dialogar; las acciones se extendieron hasta aproximadamente las 16:00.",
-    "status": "finalizado",
-    "lat": 52.12679,
-    "lng": 11.63593,
-    "fuentes": [
-      "https://www.sueddeutsche.de/politik/konstituierende-sitzung-protest-vor-landtag-hunderte-gegen-afd-praesidentenwahl-dpa.urn-newsml-dpa-com-20090101-261006-930-795900",
-      "https://www.volksstimme.de/panorama/protest-vor-dem-landtag-hunderte-gegen-afd-prasidentenwahl-4333831",
-      "https://www.tag24.de/sachsen-anhalt/landtagswahl-sachsen-anhalt/sachsen-anhalt-wahl-proteste-vor-wahl-des-landtagspraesidenten-3527298",
-      "https://www.mdr.de/nachrichten/sachsen-anhalt/landtagswahl/liveticker-erste-sitzung-vizepraesident-tillschneider,landtag-sachsen-anhalt-338.html",
-      "https://klarfocus.de/politik/proteste-begleiten-afd-kandidatur-fuer-landtagspraesidenten-in-sachsen-anhalt/"
-    ],
-    "createdAt": "2026-10-06T23:32:46.000Z",
-    "updatedAt": "2026-10-06T23:50:20Z"
-  },
-  {
-    "id": "de-2026-10-06-protesta-spd-bundestag-bebelplatz-berlin",
-    "seccion": "internacionales",
-    "pais": "Alemania",
-    "bandera": "🇩🇪",
-    "hora": "",
-    "fecha": "2026-10-06",
-    "lugar": "Marcha desde el Bundestag por la Puerta de Brandeburgo hasta la Bebelplatz, Berlín, Alemania",
-    "tipoAccion": "movilizacion",
-    "organizaciones": [
-      "SPD-Bundestagsfraktion (grupo parlamentario del SPD en el Bundestag)"
-    ],
-    "motivo": "Protesta espontánea de la bancada del SPD en el Bundestag contra la elección del candidato de la AfD Tobias Rausch como primer presidente de Landtag de Alemania designado por un partido de extrema derecha (Sajonia-Anhalt). Los diputados partieron del Reichstag, cruzaron la Puerta de Brandeburgo y culminaron en la Bebelplatz, donde los nazis quemaron libros en 1933; varios llevaban ejemplares del Grundgesetz. El ministro de Defensa, Boris Pistorius, calificó la elección de \"tabú roto\", dijo que era \"un día de ira\" y que \"demócratas sirvieron de estribo a los extremistas\" (Rausch recibió 48 votos, más de los que suman AfD y BSW, lo que apunta a diputados de la CDU; la AfD lo ve como señal para la elección del ministro presidente en diciembre), y cerró la marcha entonando el himno nacional.",
-    "status": "finalizado",
-    "lat": 52.51649,
-    "lng": 13.39383,
-    "fuentes": [
-      "https://www.zeit.de/politik/deutschland/2026-10/afd-landtagspraesident-spd-protest-berlin-tobias-rausch-afd",
-      "https://www.spiegel.de/politik/deutschland/spd-fraktion-startet-protestmarsch-durch-berlin-pistorius-stimmt-nationalhymne-an-a-1ad545c7-0197-47d3-9c7b-c796a4320885",
-      "https://www.sueddeutsche.de/politik/sachsen-anhalt-wegen-afd-spontaner-protestmarsch-der-spd-fraktion-dpa.urn-newsml-dpa-com-20090101-261006-930-799585",
-      "https://www.deutschlandfunk.de/spd-bundestagsabgeordnete-demonstrieren-mit-protestmarsch-gegen-landtagspraesidenten-von-der-afd-106.html",
-      "https://www.tagesspiegel.de/berlin/dpa-sachsen-anhalt-wegen-afd-spontaner-protestmarsch-der-spd-fraktion-16134253.html"
-    ],
-    "createdAt": "2026-10-06T23:32:46.000Z",
-    "updatedAt": "2026-10-06T23:50:20Z"
-  },
-  {
-    "id": "gb-2026-10-06-concentracion-rosebank-desnz-londres",
-    "seccion": "internacionales",
-    "pais": "Reino Unido",
-    "bandera": "🇬🇧",
-    "hora": "",
-    "fecha": "2026-10-06",
-    "lugar": "Department for Energy and Net Zero, 3 Whitehall Place, Londres, Reino Unido",
-    "tipoAccion": "concentracion",
-    "organizaciones": [
-      "Stop Rosebank",
-      "Fossil Free London",
-      "Christian Climate Action",
-      "Greenpeace"
-    ],
-    "motivo": "Campaña de organizaciones climáticas frente al Department for Energy and Net Zero para exigir al primer ministro Andy Burnham que rechace la aprobación de nuevos yacimientos de petróleo y gas. Con escenografías que representaban los futuros de \"cielo\" e \"infierno\" del clima, los manifestantes advirtieron que Rosebank, el mayor yacimiento sin desarrollar del Reino Unido (más de 250 millones de toneladas de CO2, cerca del 70% de las emisiones anuales del país), es incompatible con los objetivos climáticos, no bajará las facturas energéticas ni mejorará la seguridad energética, ya que casi todo su crudo se destinaría a la exportación; el director de Fossil Free London, Robin Wells, reclamó al gobierno \"acción climática: restaurar la naturaleza, proteger las cosechas de los agricultores e invertir en ahorro energético\". La protesta se produce mientras Equinor presiona públicamente al Ejecutivo para que apruebe el proyecto.",
-    "status": "finalizado",
-    "lat": 51.506,
-    "lng": -0.1262,
-    "fuentes": [
-      "https://morningstaronline.co.uk/article/protesters-depict-heaven-and-hell-futures-they-call-pm-reject-new-oil-and-gas-fields",
-      "https://www.gbnews.com/news/rosebank-norway-investors-warning-energy"
-    ],
-    "createdAt": "2026-10-06T23:32:46.000Z",
-    "updatedAt": "2026-10-06T23:50:20Z"
+    "updatedAt": "2026-10-07T04:53:17Z"
   },
   {
     "id": "us-2026-10-06-huelga-duquesne-light-ibew-29-pittsburgh",
@@ -1207,13 +227,13 @@
     "pais": "Estados Unidos",
     "bandera": "🇺🇸",
     "hora": "",
-    "fecha": "2026-10-06",
+    "fecha": "2026-10-07",
     "lugar": "Líneas de piquete en Preble, Woods Run, Penn Hills, McKeesport y Ambridge, área metropolitana de Pittsburgh, Pensilvania, Estados Unidos",
     "tipoAccion": "huelga",
     "organizaciones": [
       "IBEW Local 29 (International Brotherhood of Electrical Workers)"
     ],
-    "motivo": "Quinto día de huelga de unos 1.000 trabajadores de Duquesne Light —linieros, aprendices y operadores— representados por el IBEW Local 29, la primera huelga de la empresa en medio siglo, declarada a la medianoche del 30 de septiembre tras vencer el convenio colectivo. Los linieros, que dicen ser los peor pagados del estado de Pensilvania pese a trabajar \"en caliente\", reclaman salarios justos, seguridad real (mapas precisos y supervisores capacitados frente a la muerte de un liniero a la semana en EE. UU. y Canadá) y que Duquesne Light no contrate trabajo externo sin negociar. Los piquetes se mantienen activos en nueve sedes de la compañía (autorización de huelga por 592-14 el 15 de septiembre), la empresa cubre turnos con cuadrillas no sindicalizadas y sostiene que su oferta es \"líder del sector\"; las conversaciones siguen en punto muerto.",
+    "motivo": "Sexto día de huelga de unos 1.000 trabajadores de Duquesne Light —linieros, aprendices y operadores— representados por el IBEW Local 29, la primera huelga de la empresa en medio siglo, declarada a la medianoche del 30 de septiembre tras vencer el convenio colectivo. Los piquetes se mantienen activos las 24 horas en nueve sedes de la compañía (Preble, Woods Run, Penn Hills, McKeesport, Ambridge...), la empresa cubre los turnos con cuadrillas no sindicalizadas y sostiene que su oferta es 'líder del sector', mientras las conversaciones siguen en punto muerto tras su ruptura. Los linieros, que dicen ser los peor pagados del estado de Pensilvania pese a trabajar 'en caliente', reclaman salarios justos, seguridad real —mapas precisos y supervisores capacitados— y que Duquesne Light no contrate trabajo externo sin negociar.",
     "status": "en_curso",
     "lat": 40.4406,
     "lng": -79.9959,
@@ -1221,62 +241,320 @@
       "https://www.post-gazette.com/business/powersource/2026/10/06/duquesne-light-strike-pittsburgh/stories/202610060044",
       "https://www.wnylabortoday.com/news/2026/10/06/national-labor-news/nearly-1-000-ibew-represented-duquesne-light-workers-strike-for-better-pay-safety-in-pennsylvania/",
       "https://www.ibew29.org/political-action/strike-map",
-      "https://triblive.com/business/duquesne-light-workers-strike-as-contract-negotiations-fail/",
-      "https://www.wpxi.com/news/local/duquesne-light-company-strike-no-deal-reached-first-day/4YSA3TPSXJF7BBIQXS5IPXNCTQ/"
+      "https://triblive.com/business/duquesne-light-workers-strike-as-contract-negotiations-fail/"
     ],
     "createdAt": "2026-10-06T23:32:46.000Z",
-    "updatedAt": "2026-10-06T23:50:20Z"
+    "updatedAt": "2026-10-07T04:53:17Z"
   },
   {
-    "id": "ke-2026-10-06-protesta-estudiantil-kibabii-bungoma",
+    "id": "gb-2026-10-07-marcha-estudiantil-pro-palestina-londres",
     "seccion": "internacionales",
-    "pais": "Kenia",
-    "bandera": "🇰🇪",
-    "hora": "",
-    "fecha": "2026-10-06",
-    "lugar": "Carretera Chwele-Kanduyi junto a Kibabii University, Bungoma, Kenia",
+    "pais": "Reino Unido",
+    "bandera": "🇬🇧",
+    "hora": "12:30",
+    "fecha": "2026-10-07",
+    "lugar": "Lincoln's Inn Fields, Remnant Street, Kingsway y Southampton Row hasta Russell Square, Londres, Reino Unido",
+    "tipoAccion": "marcha",
+    "organizaciones": [
+      "University of London Coalition",
+      "Colectivos estudiantiles pro-palestina de UCL, LSE, SOAS y King's College London"
+    ],
+    "motivo": "Marcha interuniversitaria pro-palestina convocada por la University of London Coalition —agrupación de colectivos de UCL, LSE, SOAS y King's College London— para este miércoles 7 de octubre, tercer aniversario del ataque del 7 de octubre de 2023, con unos 300 estudiantes previstos. La Met Police impuso condiciones bajo la Public Order Act: formación en Lincoln's Inn Fields hasta las 12:30, recorrido obligatorio por Remnant Street, Kingsway y Southampton Row, mitin en Russell Square que debe concluir a las 14:00 con dispersión obligatoria, prohibición de cubrirse el rostro y advertencia de arresto ante consignas de intifada o delito de odio; la policía pidió a los organizadores mover la fecha pero reconoció que no se cumple el umbral legal para pedir su prohibición. También hay prevista una protesta estudiantil aparte en Marble Arch entre las 13:00 y las 16:00, que la policía obligará a realizarse lejos de ese punto por la cercanía de sinagogas; a mediodía, el Board of Deputies y el Jewish Leadership Council organizarán una vigilia en recuerdo de las víctimas en Victoria Embankment, y el sábado 10 hay anunciada otra marcha con 10.000 personas previstas y contramanifestación.",
+    "status": "programado",
+    "lat": 51.5153,
+    "lng": -0.1137,
+    "fuentes": [
+      "https://news.met.police.uk/news/conditions-imposed-on-student-march-on-wednesday-7-october-513621",
+      "https://www.thejc.com/news/uk/police-warn-pro-palestine-students-not-to-go-ahead-with-distressing-october-7-march-v8vhpdim",
+      "https://www.bbc.com/news/articles/cwkg5220l577o",
+      "https://www.gbnews.com/news/pro-palestine-march-met-police-defy-calls-lobby-shabanna-mahmood-anniversary-october-7",
+      "https://www.mylondon.news/news/zone-1-news/students-warned-they-face-arrest-34723909"
+    ],
+    "createdAt": "2026-10-07T04:15:04.000Z",
+    "updatedAt": "2026-10-07T04:53:17Z"
+  },
+  {
+    "id": "us-2026-10-07-rally-city-hall-nueva-york",
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "16:00",
+    "fecha": "2026-10-07",
+    "lugar": "Ayuntamiento de Nueva York (City Hall), Manhattan, Nueva York, Estados Unidos",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "NYC Young Democratic Socialists of America (YDSA)",
+      "Students for Justice in Palestine (SJP)",
+      "Within Our Lifetime",
+      "Pal-Awda",
+      "Más de 25 organizaciones estudiantiles y pro-palestinas"
+    ],
+    "motivo": "Rally 'resistance' convocado para este miércoles 7 de octubre a las 16:00 en la acera frente al City Hall de Manhattan, tercero aniversario del ataque del 7 de octubre, con el lema 'Resisting Genocide Since 1948' y el aval de una veintena de organizaciones —entre ellas Students for Justice in Palestine, Within Our Lifetime, Pal-Awda y capítulos universitarios de YDSA— que acusan al alcalde Zohran Mamdani de 'traicionar' al movimiento: exigen revertir el proyecto de ley Intro 1-B, frenar las detenciones de manifestantes y retirar un millón de dólares de la 'Estrategia para Combatir el Antisemitismo'. Varias agrupaciones juveniles del DSA se retractaron de una publicación que calificaba al 7 de octubre de 'resistencia contra el imperialismo', y el congresista Ritchie Torres calificó la movilización de paso hacia una 'dirección peligrosa'. El comisario de policía Tisch reafirmó el refuerzo de seguridad; también hay convocados paros estudiantiles (walkouts) en institutos y campus de la ciudad.",
+    "status": "programado",
+    "lat": 40.7128,
+    "lng": -74.006,
+    "fuentes": [
+      "https://www.algemeiner.com/2026/10/05/anti-israel-groups-plan-resistance-rally-outside-nyc-city-hall-oct-7-accuse-mamdani-betrayal/",
+      "https://www.timesofisrael.com/liveblog_entry/anti-zionist-groups-announce-resistance-rally-outside-nyc-city-hall-on-oct-7-criticize-mamdani/",
+      "https://www.jns.org/news/u-s-news/mamdani-spokesman-calls-young-dsa-planning-oct-7-rally-a-separate-org",
+      "https://www.haaretz.com/world-news/2026-10-06/ty-article/.premium/authorities-worldwide-brace-for-over-100-pro-palestine-protests-on-october-7/000001a1-1289-d28a-a3a5-d3db0ff40000"
+    ],
+    "createdAt": "2026-10-07T04:15:04.000Z",
+    "updatedAt": "2026-10-07T04:53:17Z"
+  },
+  {
+    "id": "us-2026-10-07-protestas-trump-freeman-coliseum-san-antonio",
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "16:30",
+    "fecha": "2026-10-07",
+    "lugar": "Freeman Coliseum, 3201 E Houston St, San Antonio, Texas, Estados Unidos",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "Bexar County Democratic Party",
+      "Partido Socialismo y Liberación (PSL) de San Antonio"
+    ],
+    "motivo": "Dos protestas para este miércoles 7 de octubre frente al Freeman Coliseum de San Antonio, donde el presidente Donald Trump celebrará un mitin de medio término a las 18:00 en apoyo al candidato al Senado Ken Paxton y al candidato a la Cámara Carlos De La Cruz (puertas a las 14:30). El Bexar County Democratic Party concentrará desde las 16:30 en Houston Street, frente a los estacionamientos 1 y 2 del coliseo, y el capítulo local del Partido Socialismo y Liberación se manifestará a las 17:00 en la intersección de Coca-Cola Place y Houston Street, con un comunicado que destaca que una de cada cuatro deportaciones en EE.UU. ocurre en Texas y la historia de resistencia de San Antonio. El Sheriff del Condado Bexar y el San Antonio Police Department desplegarán un operativo 'significativo' y pidieron ejercer la primera enmienda 'respetuosamente'; el Secret Service restringirá el tránsito aéreo sobre Kelly Field y anticipa cortes y congestión viales en la zona hasta el fin del acto.",
+    "status": "programado",
+    "lat": 29.4269,
+    "lng": -98.4394,
+    "fuentes": [
+      "https://www.tpr.org/government-politics/2026-10-06/protestors-to-greet-trumps-san-antonio-rally-gop-says-it-will-fill-coliseum",
+      "https://www.mysanantonio.com/news/local/article/donald-trump-san-antonio-22463523.php",
+      "https://www.sacurrent.com/news/san-antonio-news/san-antonio-protests-planned-against-president-trumps-wedneday-visit/",
+      "https://www.expressnews.com/politics/article/donald-trump-san-antonio-rally-ken-paxton-22464430.php",
+      "https://www.ksat.com/news/local/2026/10/06/secret-service-already-on-the-ground-in-san-antonio-ahead-of-trumps-freeman-coliseum-rally/"
+    ],
+    "createdAt": "2026-10-07T04:15:04.000Z",
+    "updatedAt": "2026-10-07T04:53:17Z"
+  },
+  {
+    "id": "es-2026-10-07-vaga-sector-social-barcelona",
+    "seccion": "internacionales",
+    "pais": "España",
+    "bandera": "🇪🇸",
+    "hora": "10:00",
+    "fecha": "2026-10-07",
+    "lugar": "Parc de la Ciutadella, Puerta del Zoo, Barcelona, España",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "CCOO de Catalunya",
+      "UGT de Catalunya",
+      "Trabajadores de los servicios sociales públicos y privados de Catalunya"
+    ],
+    "motivo": "Primera huelga de todo el sector de servicios sociales de Catalunya, convocada por CCOO y UGT para toda la jornada de este miércoles 7 de octubre (de 00:00 a 23:59, incluidos los turnos iniciados el 6 de octubre), con motivo del Día del Trabajo Digno. Reclaman la firma inmediata del Acord Marc de Serveis Socials —bloqueado desde el Acuerdo de Bases firmado con la Generalitat en mayo de 2026—, un salario mínimo sectorial de 19.600 euros para el 1 de enero de 2027, incremento salarial de 2026 con efectos retroactivos, equiparación salarial plena con el sistema público entre 2026 y 2030, desbloqueo de todos los convenios colectivos y ampliación de la cobertura a Igualdad, Justicia, Centros Especiales de Empleo y Servicio de Atención a Domicilio. La movilización saldrá a las 10:00 del Parc de la Ciutadella, junto a la Puerta del Zoo, con autocares desde Tarragona, Girona y Lleida, y abarca un sector muy amplio: atención a personas mayores, con discapacidad, salud mental, infancia, igualdad, exclusión social y acción social.",
+    "status": "programado",
+    "lat": 41.3888,
+    "lng": 2.1883,
+    "fuentes": [
+      "https://www.ccoo.cat/sanitat/noticies/7-de-octubre-huelga-y-movilizacion-de-todo-el-sector-social-de-catalunya/",
+      "https://es.ccoo.cat/noticias/ccoo-y-ugt-convocan-el-7-de-octubre-la-primera-huelga-de-todos-los-servicios-sociales-de-catalunya/",
+      "https://ccoo.app/ajuntament-sant-boi-de-llobregat/7-octubre-serveis-socials/"
+    ],
+    "createdAt": "2026-10-07T04:15:04.000Z",
+    "updatedAt": "2026-10-07T04:53:17Z"
+  },
+  {
+    "id": "es-2026-10-07-mobilitzacio-palestina-placa-universitat-barcelona",
+    "seccion": "internacionales",
+    "pais": "España",
+    "bandera": "🇪🇸",
+    "hora": "19:00",
+    "fecha": "2026-10-07",
+    "lugar": "Plaça Universitat, Eixample, Barcelona, España",
     "tipoAccion": "movilizacion",
     "organizaciones": [
-      "Estudiantes de Kibabii University"
+      "Samidoun Barcelona",
+      "Colectivos antisionistas y solidarios con Palestina de Barcelona"
     ],
-    "motivo": "Estudiantes de la Kibabii University de Bungoma salieron este martes por la mañana a las calles tras el asesinato de un compañero en un ataque nocturno contra cuatro alumnos cerca del campus (un muerto y tres heridos). Bloquearon la carretera Chwele-Kanduyi junto a Cardinal Otunga Girls High School con fogatas y paralizaron el tránsito para exigir investigaciones, más patrullaje y alumbrado en los alrededores del campus; la policía los dispersó con gases lacrimógenos. El conflicto llevó al Senado universitario a suspender el semestre 2026/2027 con efecto inmediato y a ordenar a todos los estudiantes evacuar la institución antes de las 15:00, con cierre indefinido del campus, en un contexto de huelga nacional de docentes universitarios de la UASU (desde el 2 de octubre).",
-    "status": "finalizado",
-    "lat": 0.61908,
-    "lng": 34.52076,
+    "motivo": "Movilización por Palestina convocada para este miércoles 7 de octubre a las 19:00 en la Plaça Universitat de Barcelona, en el tercer aniversario del 7 de octubre, bajo el lema de los '78 años de resistencia y lucha armada palestina'. La convocatoria, difundida por Samidoun y colectivos antisionistas, apoya según sus textos la 'resistencia legítima' del pueblo palestino, exige la liberación de todas las presas y presos políticos de la Resistencia y el retorno de las y los refugiados palestinos, y pide difusión masiva 'para evitar la censura'. La cita es la única movilización pro-palestina confirmada hoy en Barcelona; la jornada laboral la abre antes la huelga del sector social de Catalunya con su concentración a las 10:00 en el Parc de la Ciutadella.",
+    "status": "programado",
+    "lat": 41.3858,
+    "lng": 2.1686,
     "fuentes": [
-      "https://www.kenyans.co.ke/news/127640-kibabii-university-closes-after-student-unrest-orders-students-vacate",
-      "https://educationnews.co.ke/news/kibabii-university-students-stage-protests-after-deadly-night-attack-leaves-one-dead",
-      "https://www.tuko.co.ke/education/642227-kibabii-university-closed-indefinitely-students-ordered-vacate-institution-immediately/",
-      "https://www.kenyans.live/news/education/university-issues-immediate-closure-notice-to-all-students--kenya-times_316684"
+      "https://bcn.convoca.la/event/7-o-mobilitzacio-per-palestina",
+      "https://kaosenlared.net/7-doctubre-bcn-78-anos-de-resistencia-y-lucha-armada-palestina/",
+      "https://calendari.cc/event/7-o-mobilitzacio-per-palestina"
     ],
-    "createdAt": "2026-10-06T23:32:46.000Z",
-    "updatedAt": "2026-10-06T23:50:20Z"
+    "createdAt": "2026-10-07T04:15:04.000Z",
+    "updatedAt": "2026-10-07T04:53:17Z"
   },
   {
-    "id": "ar-2026-10-06-ruidazo-centro-civico-bariloche",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "18:00",
-    "fecha": "2026-10-06",
-    "lugar": "Centro Civico, Boulevard Ing. Byron Ocampo y Exequiel Bustillo, San Carlos de Bariloche, Rio Negro, Argentina",
-    "tipoAccion": "Concentracion",
+    "id": "es-2026-10-07-concentraciones-trabajo-decente-andalucia",
+    "seccion": "internacionales",
+    "pais": "España",
+    "bandera": "🇪🇸",
+    "hora": "11:00",
+    "fecha": "2026-10-07",
+    "lugar": "Delegaciones del Gobierno de la Junta de Andalucía en las ocho provincias, con sede principal en la Plaza de la Contratación de Sevilla, Andalucía, España",
+    "tipoAccion": "concentracion",
     "organizaciones": [
-      "CTA de los Trabajadores",
-      "Sindicatos locales de Bariloche",
-      "Comunidades mapuches",
-      "Asambleas ambientales de Bariloche",
-      "Movimientos sociales de Bariloche"
+      "UGT Andalucía",
+      "CCOO de Andalucía"
     ],
-    "motivo": "Ruidazo en el Centro Civico de San Carlos de Bariloche este martes 6 de octubre de 2026 a las 18:00, convocado por referentes sindicales, comunidades mapuches, asambleas ambientales y movimientos sociales en rechazo al fallo de la Corte Suprema que dejo vigente la derogacion de la Ley 26.737 de Tierras Rurales y a las modificaciones del DNU 70/23. Denunciaron el impacto de la extranjerizacion de tierras en la Patagonia. La protesta, realizada en jornada lluviosa y fria, fue presentada como antesala de la movilizacion nacional del 15 de octubre.",
-    "status": "finalizado",
-    "lat": -41.1344,
-    "lng": -71.3106,
+    "motivo": "Concentraciones de UGT Andalucía y CCOO de Andalucía en las ocho provincias andaluzas este miércoles 7 de octubre, Día Mundial por el Trabajo Decente, bajo el lema 'Ante el incremento de financiación para la dependencia exigimos mejorar los salarios': exigen que el aumento de la financiación del Sistema de Dependencia se traduzca en condiciones laborales para quienes sostienen los cuidados, con convenios colectivos actualizados, empleo estable, salarios dignos, plantillas y ratios suficientes, conciliación, prevención de riesgos, formación y contratación pública de calidad. Horarios: Almería 10:00 (Paseo Almería, 68), Granada 10:30 (Gran Vía de Colón, 56), Jerez de la Frontera 11:00 (Plaza del Arenal), Huelva 11:00 (Alcalde Mora Claros, 4), Jaén 11:00 (Paseo de la Estación, 19), Málaga 11:00 (Alameda Principal, 18), Sevilla 11:00 (Plaza de la Contratación, con la secretaria general de CCOO Andalucía, Nuria López) y Córdoba 12:00 (Plaza de la Constitución). La jornada funcionará además como termómetro de convocatoria ante la huelga general anunciada y aún sin fecha, en pleno clima electoral por el adelanto del voto al 29 de noviembre.",
+    "status": "programado",
+    "lat": 37.3891,
+    "lng": -5.9845,
     "fuentes": [
-      "https://www.noticiasdebariloche.com.ar/ruidazo-en-bariloche-antesala-de-la-movilizacion-nacional-del-15-nos-estan-tocando-nuestra-tierra/",
-      "https://www.elcordillerano.com.ar/noticias/2026/10/06/266091-ruidazo-en-bariloche-antesala-de-la-movilizacion-nacional-del-15-no-estan-tocando-nuestra-tierra"
+      "https://www.europapress.es/andalucia/noticia-ugt-ccoo-movilizan-ocho-provincias-exigir-mejores-salarios-condiciones-laborales-dependencia-20261006105421.html",
+      "https://www.abc.es/sevilla/economia/ugt-ccoo-miden-fuerza-movilizaciones-miercoles-andalucia-20261006134025-nts.html",
+      "https://andalucia.ccoo.es/noticia:769429--CCOO_y_UGT_convocan_movilizaciones_en_toda_Andalucia_para_exigir_trabajo_decente_y_aumento_salarial&opc_id=3b47924008abebb0a1b9cb703fffef0c"
     ],
-    "createdAt": "2026-10-06T23:43:10.000Z",
-    "updatedAt": "2026-10-06T23:50:20Z"
+    "createdAt": "2026-10-07T04:15:04.000Z",
+    "updatedAt": "2026-10-07T04:53:17Z"
+  },
+  {
+    "id": "co-2026-10-07-marcha-pro-palestina-bogota",
+    "seccion": "internacionales",
+    "pais": "Colombia",
+    "bandera": "🇨🇴",
+    "hora": "14:00",
+    "fecha": "2026-10-07",
+    "lugar": "Desde la Embajada de Israel sobre la calle 26 hasta la Embajada de Palestina, Bogotá, Colombia",
+    "tipoAccion": "marcha",
+    "organizaciones": [
+      "Comité de Octubre por Palestina",
+      "Partido Comunista Colombiano",
+      "Comunidad Palestina en Colombia"
+    ],
+    "motivo": "Gran marcha convocada para este miércoles 7 de octubre a las 14:00 en Bogotá desde la Embajada de Israel sobre la calle 26 hasta la Embajada de Palestina, donde habrá un gran acto cultural de solidaridad, dentro de la jornada mundial por el tercer aniversario del 7 de octubre y en rechazo al genocidio que continúa en Gaza. El llamado la difundieron organizaciones sociales y de la comunidad palestina en Colombia con el respaldo del Partido Comunista Colombiano, que invita a sumarse en cada ciudad del país; se inscribe en la ola mundial de movilizaciones de hoy en más de 35 países.",
+    "status": "programado",
+    "lat": 4.6507,
+    "lng": -74.0643,
+    "fuentes": [
+      "https://semanariovoz.com/7-de-octubre-el-genocidio-que-continua/",
+      "https://pacocol.org/7-de-octubre-el-genocidio-que-continua/"
+    ],
+    "createdAt": "2026-10-07T04:15:04.000Z",
+    "updatedAt": "2026-10-07T04:53:17Z"
+  },
+  {
+    "id": "nl-2026-10-07-marcha-pro-palestina-dam-amsterdam",
+    "seccion": "internacionales",
+    "pais": "Países Bajos",
+    "bandera": "🇳🇱",
+    "hora": "18:00",
+    "fecha": "2026-10-07",
+    "lugar": "Dam Square hacia Amsterdam Centraal Station, Ámsterdam, Países Bajos",
+    "tipoAccion": "marcha",
+    "organizaciones": [
+      "Kolna Falasteen",
+      "Colectivos pro-palestinos de Ámsterdam"
+    ],
+    "motivo": "Protesta y marcha convocadas para este miércoles 7 de octubre a las 18:00 en la Dam Square de Ámsterdam, con recorrido a pie hasta la estación Amsterdam Centraal —previsiblemente sobre las 19:30— y seguidas de un sit-in contra la violencia en Gaza, en una 'vigilia por los mártires' convocada por el colectivo pro-palestino Kolna Falasteen. Se esperan interferencias en el tráfico cerca de la Dam y a lo largo del recorrido, posibles afectaciones del transporte público y presencia policial reforzada; la policía advirtió que podría disolver la demostración si afecta las operaciones del transporte.",
+    "status": "programado",
+    "lat": 52.3731,
+    "lng": 4.8926,
+    "fuentes": [
+      "https://safeabroad.com/advisories/protestors-will-gather-at-dam-square-in-amsterdam-netherlands-on-october-7-at-600-pm-expect-travel-disruptions/",
+      "https://realistischereflecties.com/een-wake-voor-martelaren-op-7-oktober-op-amsterdam-cs-schaamteloos/"
+    ],
+    "createdAt": "2026-10-07T04:15:04.000Z",
+    "updatedAt": "2026-10-07T04:53:17Z"
+  },
+  {
+    "id": "au-2026-10-07-vigil-state-library-melbourne",
+    "seccion": "internacionales",
+    "pais": "Australia",
+    "bandera": "🇦🇺",
+    "hora": "10:00",
+    "fecha": "2026-10-07",
+    "lugar": "State Library of Victoria, Melbourne (Naarm), Victoria, Australia",
+    "tipoAccion": "otra",
+    "organizaciones": [
+      "Free Palestine Coalition Naarm",
+      "Comunidad palestina de Melbourne"
+    ],
+    "motivo": "Vigilia-sentada de 10:00 a 17:00 este miércoles 7 de octubre frente a la State Library of Victoria en Melbourne, convocada por el Free Palestine Coalition Naarm para 'honrar a los mártires palestinos del genocidio sionista', con un acto conmemorativo estático de 17:00 a 18:00; se pide encender velas y colocar amapolas. El primer ministro de Victoria, Ben Carroll, condenó la convocatoria —'el 7 de octubre fue la mayor pérdida de vida judía desde el Holocausto' y 'esa fecha pertenece a las víctimas'— y advirtió que la policía tomaría 'las medidas necesarias' ante infracciones a las leyes estatales contra la incitación al odio; los organizadores ignoraron su llamado del 6 de octubre a elegir otra fecha.",
+    "status": "en_curso",
+    "lat": -37.8136,
+    "lng": 144.9631,
+    "fuentes": [
+      "https://www.freepalestinecoalitionnaarm.com/events/2026-vigil-for-gaza-7th-october",
+      "https://www.onenewsaustralia.com/australians-slam-government-inaction-over-heartless-october-7-pro-palestine-vigils-planned-for-anniversary-chris-minns-backlash-sydney-wollongong/",
+      "https://www.dailymail.com/news/article-16185447/sydney-palestine-vigil-october-wollongong.html"
+    ],
+    "createdAt": "2026-10-07T04:15:04.000Z",
+    "updatedAt": "2026-10-07T04:53:17Z"
+  },
+  {
+    "id": "au-2026-10-07-vigil-town-hall-sydney",
+    "seccion": "internacionales",
+    "pais": "Australia",
+    "bandera": "🇦🇺",
+    "hora": "18:00",
+    "fecha": "2026-10-07",
+    "lugar": "Sydney Town Hall, George Street, Sídney, Nueva Gales del Sur, Australia",
+    "tipoAccion": "otra",
+    "organizaciones": [
+      "Jews Against the Occupation '48",
+      "Eastern Suburbs for Palestine",
+      "Palestine Justice Movement Sydney",
+      "Coalition of Women for Justice and Peace"
+    ],
+    "motivo": "Vigilia de 18:00 a 20:00 este miércoles 7 de octubre frente al Sydney Town Hall, organizada por cuatro grupos con el lema 'Don't let Israel steal the date': según sus convocantes no es una protesta sino una vigilia para marcar el tercer aniversario del inicio de los bombardeos israelíes sobre Gaza del 7 de octubre de 2023, con silencio y homenajes. La primera ministra de Nueva Gales del Sur, Chris Minns, calificó la convocatoria de 'obscena' y 'de mal gusto', la líder opositora Kellie Sloane la tildó de 'enteramente repugnante y reprobable' y pidió alejar a los diputados laboristas del acto, mientras la policía aumentó su presencia en los lugares de las vigílias de Sídney, Melbourne y Wollongong; las autoridades subrayaron que, al no tratarse de una marcha, no puede prohibirse.",
+    "status": "programado",
+    "lat": -33.8735,
+    "lng": 151.2065,
+    "fuentes": [
+      "https://www.greenleft.org.au/2026-10/event/vigil-gaza-gadigal-country",
+      "https://www.abc.net.au/news/2026-10-06/sydney-palestine-protest-on-israel-october-7-attack-anniversary/107232144",
+      "https://www.theguardian.com/australia-news/2026/oct/06/australian-leaders-condemn-pro-palestine-vigils-planned-for-7-october-anniversary-amid-jewish-commemorations",
+      "https://www.dailymail.com/news/article-16185447/sydney-palestine-vigil-october-wollongong.html"
+    ],
+    "createdAt": "2026-10-07T04:15:04.000Z",
+    "updatedAt": "2026-10-07T04:53:17Z"
+  },
+  {
+    "id": "au-2026-10-07-vigil-crown-street-wollongong",
+    "seccion": "internacionales",
+    "pais": "Australia",
+    "bandera": "🇦🇺",
+    "hora": "16:00",
+    "fecha": "2026-10-07",
+    "lugar": "Crown Street Mall, escenario de Church Street, Wollongong, Nueva Gales del Sur, Australia",
+    "tipoAccion": "otra",
+    "organizaciones": [
+      "Wollongong Friends of Palestine"
+    ],
+    "motivo": "Espacio de duelo colectivo de 16:00 a 19:00 este miércoles 7 de octubre en el escenario del Crown Street Mall de Wollongong, organizado por Wollongong Friends of Palestine junto a artistas de Clay Wollongong: sin discursos ni marchas, un espacio de silencio, arte y música para 'detenerse y recordar a los mártires y a cuantos sufren y siguen resistiendo', del que se puede participar entrando y saliendo. El Concejo de Wollongong informó el 30 de septiembre de que no consta ninguna reserva formal para la reunión, que requiere un aviso Form 1 aprobado directamente por la policía de Nueva Gales del Sur.",
+    "status": "programado",
+    "lat": -34.4278,
+    "lng": 150.8931,
+    "fuentes": [
+      "https://www.greenleft.org.au/2026-10/event/vigil-space-collective-grief-art-and-music",
+      "https://www.dailymail.com/news/article-16185447/sydney-palestine-vigil-october-wollongong.html",
+      "https://www.onenewsaustralia.com/australians-slam-government-inaction-over-heartless-october-7-pro-palestine-vigils-planned-for-anniversary-chris-minns-backlash-sydney-wollongong/"
+    ],
+    "createdAt": "2026-10-07T04:15:04.000Z",
+    "updatedAt": "2026-10-07T04:53:17Z"
+  },
+  {
+    "id": "ca-2026-10-07-marchas-pro-palestina-montreal",
+    "seccion": "internacionales",
+    "pais": "Canadá",
+    "bandera": "🇨🇦",
+    "hora": "",
+    "fecha": "2026-10-07",
+    "lugar": "Roddick Gates, Universidad McGill, y calle Sherbrooke Oeste, Montreal, Quebec, Canadá",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "Students for Palestine's Honour and Resistance (SPHR) McGill",
+      "Colectivos estudiantiles de cinco universidades y CEGEP de Montreal",
+      "Montreal4Palestine"
+    ],
+    "motivo": "Dos movilizaciones pro-palestinas previstas hoy miércoles 7 de octubre en Montreal, tercer aniversario del ataque del 7 de octubre: por la tarde, una concentración estudiantil en los Roddick Gates de la Universidad McGill convocada por grupos de cinco universidades y CEGEP de la ciudad, encabezados por Students for Palestine's Honour and Resistance (SPHR), y por la noche, otra en la calle Sherbrooke Oeste organizada por Montreal4Palestine. McGill informó que está en contacto con la SPVM y que sus servicios de seguridad reforzarán el plantel junto a la policía; universidades de Toronto, Montreal y Vancouver trabajan con policía y seguridad para desplegarse hoy, y también se prevén actos en Winnipeg, con decenas de concentraciones en ciudades canadienses según B'nai Brith, que pide a las universidades investigar a los grupos convocantes.",
+    "status": "programado",
+    "lat": 45.5047,
+    "lng": -73.5774,
+    "fuentes": [
+      "https://www.theglobeandmail.com/canada/article-october-7-2026-protests-israel-hamas-gaza-toronto-montreal-vancouver/",
+      "https://nationalpost.com/opinion/cynthia-yacowar-anti-israel-rallies-on-october-7-may-be-legal-they-are-also-morally-intolerable",
+      "https://bnaibrith.ca/bnai-brith-warns-canadians-must-reject-oct-7-rallies-normalizing-hate-and-revisionist-narratives/"
+    ],
+    "createdAt": "2026-10-07T04:15:04.000Z",
+    "updatedAt": "2026-10-07T04:53:17Z"
   }
 ]
