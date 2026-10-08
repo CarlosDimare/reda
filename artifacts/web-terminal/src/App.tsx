@@ -107,7 +107,7 @@ function normalizeHora(h: string | undefined | null): string {
 
 const STYLES = `
   *, *::before, *::after { box-sizing: border-box; }
-  html, body, #root { height: 100%; }
+  html, body, #root { min-height: 100%; }
   body { margin: 0; padding: 0; background: #fafafa; color: #111; font-family: Georgia, "Times New Roman", serif; }
   .flag { font-family: 'Apple Color Emoji','Segoe UI Emoji','Noto Color Emoji',sans-serif; }
   ::-webkit-scrollbar { width: 6px; height: 6px; }
