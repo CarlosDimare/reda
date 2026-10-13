@@ -23,7 +23,7 @@
       "https://en.panorama.com.al/dita-e-135-te-e-protestes-kunder-rames-qytetaret-vijojne-qendresen-kerkohet-largimi-i-qeverise/"
     ],
     "createdAt": "2026-10-06T07:09:50.000Z",
-    "updatedAt": "2026-10-13T08:29:31Z"
+    "updatedAt": "2026-10-13T16:31:28Z"
   },
   {
     "id": "at-2026-10-13-unisretten-ringvorlesung-universidad-viena",
@@ -46,7 +46,57 @@
       "https://www.oeh.ac.at/en/events/unisretten-protest-ringvorlesung/"
     ],
     "createdAt": "2026-10-13T01:05:35.000Z",
-    "updatedAt": "2026-10-13T08:29:31Z"
+    "updatedAt": "2026-10-13T16:31:28Z"
+  },
+  {
+    "id": "az-2026-10-13-protestas-prohibicion-hiyab-escuelas-baku",
+    "seccion": "internacionales",
+    "pais": "Azerbaiyán",
+    "bandera": "🇦🇿",
+    "hora": "",
+    "fecha": "2026-10-13",
+    "lugar": "Escuelas de Bakú, distrito de Absherón y Najicheván, Azerbaiyán",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Estudiantes, docentes y familias afectadas por el veto al hiyab",
+      "Colectivos por la libertad religiosa"
+    ],
+    "motivo": "Las protestas por la prohibición del hiyab en las escuelas de Azerbaiyán se mantienen este martes 13 de octubre, con boicots de clases, clases en la calle y concentraciones en Bakú, el distrito de Absherón y Najicheván, después de que alumnas y docentes con hiyab fueran impedidas de entrar en clase en aplicación de la Resolución del Consejo de Ministros Nº 309, adoptada el 21 de septiembre. La medida, que prohíbe prendas que contradigan el principio de educación laica, ha derivado en despidos de profesoras, restricciones de acceso a redes sociales y decenas de detenciones —la Fiscalía informó de 37 arrestos y activistas como Gudrat Abdullayev y Rafael Huseynzade fueron condenados a días de detención—.",
+    "status": "en_curso",
+    "lat": 40.4093,
+    "lng": 49.8671,
+    "fuentes": [
+      "https://www.aljazeera.com/news/2026/10/12/azerbaijans-school-hijab-ban-whats-behind-it-and-whats-next",
+      "https://www.tasnimnews.ir/en/news/2026/10/13/3721872/azerbaijan-s-hijab-restrictions-spark-school-protests-arrests-video/amp",
+      "https://www.eng.kavkaz-uzel.eu/articles/79356",
+      "https://jam-news.net/take-off-your-hijab-and-come-into-class-what-is-happening-in-azerbaijans-schools"
+    ],
+    "createdAt": "2026-10-13T16:13:56.000Z",
+    "updatedAt": "2026-10-13T16:31:28Z"
+  },
+  {
+    "id": "bo-2026-10-13-protestas-evismo-marcha-la-paz",
+    "seccion": "internacionales",
+    "pais": "Bolivia",
+    "bandera": "🇧🇴",
+    "hora": "",
+    "fecha": "2026-10-13",
+    "lugar": "Campo y ciudad, con marcha anunciada hacia La Paz, Bolivia",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "Movimiento al Socialismo (MAS) - sector evista",
+      "Organizaciones campesinas, mineras y sociales afines a Evo Morales"
+    ],
+    "motivo": "El sector evista del MAS y organizaciones campesinas y sociales activaron este martes 13 de octubre una nueva ronda de protestas y bloqueos en Bolivia, con una marcha anunciada hacia La Paz, después de que Evo Morales advirtiera que si el presidente Rodrigo Paz no abroga el decreto que eliminó la subvención estatal al diésel y el paquete de normas privatizadoras «si no es de buenas, va a ser a malas». La convocatoria busca articular una acción conjunta entre el campo y la ciudad y se produce a dos días de la visita histórica de José Antonio Kast a Bolivia, en medio de la persistente crisis política y social.",
+    "status": "convocada",
+    "lat": -16.4897,
+    "lng": -68.1193,
+    "fuentes": [
+      "https://larazon.bo/nacional/2026/10/10/el-evismo-activa-protestas-desde-el-13-de-octubre-y-anuncia-una-marcha-hacia-la-paz/",
+      "https://www.eldinamo.cl/mundo/2026/09/28/evo-morales-amaga-historica-visita-de-kast-a-bolivia-con-anuncio-de-protestas"
+    ],
+    "createdAt": "2026-10-13T16:13:56.000Z",
+    "updatedAt": "2026-10-13T16:31:28Z"
   },
   {
     "id": "co-2026-10-13-marcha-sionistas-embajada-eeuu-plaza-bolivar-bogota",
@@ -71,32 +121,7 @@
       "https://bogota.gov.co/mi-ciudad/gobierno/hay-previstas-marchas-y-movilizaciones-en-varios-sectores-de-la-ciudad"
     ],
     "createdAt": "2026-10-13T01:05:35.000Z",
-    "updatedAt": "2026-10-13T08:29:31Z"
-  },
-  {
-    "id": "es-2026-10-13-manifestacion-vivienda-bilbao-arriaga",
-    "seccion": "internacionales",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "18:00",
-    "fecha": "2026-10-13",
-    "lugar": "Desde el Ayuntamiento de Bilbao hasta el Teatro Arriaga, Bilbao, España",
-    "tipoAccion": "movilizacion",
-    "organizaciones": [
-      "Acampada por el Derecho a la Vivienda de Bilbao",
-      "Sindicato Socialista de la Vivienda"
-    ],
-    "motivo": "La Acampada por el Derecho a la Vivienda de Bilbao convocó una manifestación para este martes 13 de octubre, a las 18:00, con salida desde el Ayuntamiento de Bilbao y final en el Teatro Arriaga, donde mantiene su campamento frente al teatro desde hace más de dos semanas. Los acampados exigen aumentar el parque de vivienda pública, intervenir el mercado inmobiliario y regular los precios del alquiler y la compra, la expropiación de viviendas en manos de fondos de inversión, bancos y grandes tenedores y la paralización de los desahucios. Hacen también un llamamiento a secundar la huelga general por la vivienda del 11 de noviembre y a votar en las elecciones generales del 29 de noviembre.",
-    "status": "convocada",
-    "lat": 43.263,
-    "lng": -2.935,
-    "fuentes": [
-      "https://cadenaser.com/euskadi/2026/10/11/la-acampada-por-la-vivienda-del-teatro-arriaga-cumple-15-dias-con-mas-de-50-personas-y-44-tiendas-de-campana-radio-bilbao/",
-      "https://www.ultimahora.es/noticias/comunidades/2026/10/09/2725761/acampados-bilbao-llaman-huelga-votar-29n-aunque-sea-solucion-problema-vivienda.html",
-      "https://www.radionervion.com/2026/10/09/la-acampada-por-el-derecho-a-la-vivienda-convoca-una-manifestacion-este-viernes/"
-    ],
-    "createdAt": "2026-10-13T01:05:35.000Z",
-    "updatedAt": "2026-10-13T08:29:31Z"
+    "updatedAt": "2026-10-13T16:31:28Z"
   },
   {
     "id": "es-2026-10-13-acampada-sol-madrid",
@@ -123,7 +148,7 @@
       "https://www.france24.com/es/europa/20261012-espa%C3%B1a-conmemora-un-12-de-octubre-marcado-por-ceuta-protestas-por-la-vivienda-y-el-adelanto-electoral"
     ],
     "createdAt": "2026-10-06T07:09:50.000Z",
-    "updatedAt": "2026-10-13T08:29:31Z"
+    "updatedAt": "2026-10-13T16:31:28Z"
   },
   {
     "id": "es-2026-10-13-acampada-vivienda-plaza-ayuntamiento-valencia",
@@ -150,7 +175,32 @@
       "https://actualidadvalencia.com/acampada-vivienda-valencia-semana-ampliacion/"
     ],
     "createdAt": "2026-10-06T19:40:39.000Z",
-    "updatedAt": "2026-10-13T08:29:31Z"
+    "updatedAt": "2026-10-13T16:31:28Z"
+  },
+  {
+    "id": "es-2026-10-13-manifestacion-vivienda-bilbao-arriaga",
+    "seccion": "internacionales",
+    "pais": "España",
+    "bandera": "🇪🇸",
+    "hora": "18:00",
+    "fecha": "2026-10-13",
+    "lugar": "Desde el Ayuntamiento de Bilbao hasta el Teatro Arriaga, Bilbao, España",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "Acampada por el Derecho a la Vivienda de Bilbao",
+      "Sindicato Socialista de la Vivienda"
+    ],
+    "motivo": "La Acampada por el Derecho a la Vivienda de Bilbao convocó una manifestación para este martes 13 de octubre, a las 18:00, con salida desde el Ayuntamiento de Bilbao y final en el Teatro Arriaga, donde mantiene su campamento frente al teatro desde hace más de dos semanas. Los acampados exigen aumentar el parque de vivienda pública, intervenir el mercado inmobiliario y regular los precios del alquiler y la compra, la expropiación de viviendas en manos de fondos de inversión, bancos y grandes tenedores y la paralización de los desahucios. Hacen también un llamamiento a secundar la huelga general por la vivienda del 11 de noviembre y a votar en las elecciones generales del 29 de noviembre.",
+    "status": "convocada",
+    "lat": 43.263,
+    "lng": -2.935,
+    "fuentes": [
+      "https://cadenaser.com/euskadi/2026/10/11/la-acampada-por-la-vivienda-del-teatro-arriaga-cumple-15-dias-con-mas-de-50-personas-y-44-tiendas-de-campana-radio-bilbao/",
+      "https://www.ultimahora.es/noticias/comunidades/2026/10/09/2725761/acampados-bilbao-llaman-huelga-votar-29n-aunque-sea-solucion-problema-vivienda.html",
+      "https://www.radionervion.com/2026/10/09/la-acampada-por-el-derecho-a-la-vivienda-convoca-una-manifestacion-este-viernes/"
+    ],
+    "createdAt": "2026-10-13T01:05:35.000Z",
+    "updatedAt": "2026-10-13T16:31:28Z"
   },
   {
     "id": "fr-2026-10-13-huelga-manifestacion-educacion-place-italie",
@@ -172,18 +222,68 @@
       "CFDT",
       "SUD Éducation"
     ],
-    "motivo": "La intersindical estudiantil y de la educación convocó una nueva jornada de huelga y manifestaciones para este martes 13 de octubre, con una marcha en París que saldrá a las 14:00 desde Place d'Italie y actos en el resto del país. La movilización, respaldada por la Union Étudiante, la UNEF y la USL junto a los sindicatos FSU, UNSA Éducation, CGT Éduc'action, FO, CFDT y SUD Éducation, exige más recursos para la educación pública, sustitutos para docentes ausentes, menos alumnos por aula, edificios en condiciones y la reforma de Parcoursup; los liceos y universidades podrían registrar bloqueos y cierres parciales, tras las jornadas del 29 de septiembre y del 6 de octubre. La intersindical advirtió que mantendrá las protestas «hasta que haya 10.000 millones sobre la mesa» y ya anunció una nueva jornada para el 5 de noviembre.",
-    "status": "convocada",
+    "motivo": "La intersindical estudiantil y de la educación convocó una nueva jornada de huelga y manifestaciones para este martes 13 de octubre, con una marcha en París que saldrá a las 14:00 desde Place d'Italie y actos en el resto del país, incluida una marcha de estudiantes de secundaria en Toulouse por un recorrido inédito. La movilización, respaldada por la Union Étudiante, la UNEF y la USL junto a los sindicatos FSU, UNSA Éducation, CGT Éduc'action, FO, CFDT y SUD Éducation, exige más recursos para la educación pública, sustitutos para docentes ausentes, menos alumnos por aula, edificios en condiciones y la reforma de Parcoursup; los liceos y universidades podrían registrar bloqueos y cierres parciales. La activista Greta Thunberg se sumó a las protestas estudiantiles de este 13 de octubre. La intersindical advirtió que mantendrá las protestas «hasta que haya 10.000 millones sobre la mesa» y ya anunció una nueva jornada para el 5 de noviembre.",
+    "status": "en_curso",
     "lat": 48.8321,
     "lng": 2.3553,
     "fuentes": [
       "https://www.sortiraparis.com/en/news/in-paris/articles/353708-october-13-strike-high-school-students-college-students-and-teachers-urged-to-demonstrate-in-large-numbers",
       "https://www.sortiraparis.com/en/news/in-paris/articles/353270-october-13-demonstration-why-students-are-protesting-and-setting-up-blockades",
       "https://www.straitstimes.com/world/europe/frances-high-school-students-plan-fresh-protests",
-      "https://www.eltiempo.com/mundo/europa/protestas-estudiantiles-en-francia-convocan-a-una-gran-marcha-el-13-de-octubre-tras-reuniones-con-el-gobierno-3592376"
+      "https://www.eltiempo.com/mundo/europa/protestas-estudiantiles-en-francia-convocan-a-una-gran-marcha-el-13-de-octubre-tras-reuniones-con-el-gobierno-3592376",
+      "https://www.reuters.com/world/europe/greta-thunberg-joins-french-teens-new-day-school-protests-2026-10-13",
+      "https://www.aljazeera.com/news/2026/10/13/activist-greta-thunberg-joins-french-student-protests",
+      "https://ground.news/article/protest-of-13-october-in-toulouse-the-procession-of-high-school-students-will-pass-through-an-unprecedented-route"
     ],
     "createdAt": "2026-10-12T08:34:59.000Z",
-    "updatedAt": "2026-10-13T08:29:31Z"
+    "updatedAt": "2026-10-13T16:31:28Z"
+  },
+  {
+    "id": "gb-2026-10-13-cost-of-living-day-of-action-westminster",
+    "seccion": "internacionales",
+    "pais": "Reino Unido",
+    "bandera": "🇬🇧",
+    "hora": "10:30",
+    "fecha": "2026-10-13",
+    "lugar": "Mary Sumner House, 24 Tufton Street, Westminster, Londres, y Cámara de los Comunes, Reino Unido",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "Cost of Living Action (COLA)",
+      "Organizaciones y sindicatos contra la crisis del costo de vida"
+    ],
+    "motivo": "La coalición Cost of Living Action (COLA) y sus socios celebrarán este martes 13 de octubre, desde las 10:30, una «Jornada de Acción contra el Costo de Vida» en Westminster (Mary Sumner House, 24 Tufton Street), con reuniones entre ciudadanos y sus diputados y un photocall de grupo en la Cámara de los Comunes. Los convocantes exigen al nuevo primer ministro un «presupuesto contra el costo de vida» que aborde los problemas estructurales de la economía británica y reclaman medidas frente a la crisis que erosiona los presupuestos de millones de hogares.",
+    "status": "convocada",
+    "lat": 51.4966,
+    "lng": -0.128,
+    "fuentes": [
+      "https://actionnetwork.org/events/cost-of-living-day-of-action"
+    ],
+    "createdAt": "2026-10-13T01:05:35.000Z",
+    "updatedAt": "2026-10-13T16:31:28Z"
+  },
+  {
+    "id": "gt-2026-10-13-bloqueos-salubristas-ministerio-salud",
+    "seccion": "internacionales",
+    "pais": "Guatemala",
+    "bandera": "🇬🇹",
+    "hora": "09:00",
+    "fecha": "2026-10-13",
+    "lugar": "9a avenida de la zona 1 y otros puntos de la red vial nacional (CA-2 Occidente, RN-01, CA-13 y RD-PET-11), Guatemala",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "Sindicato Nacional de Trabajadores de Salud de Guatemala (SNTSG)",
+      "Sindicatos de salud y salubristas"
+    ],
+    "motivo": "Trabajadores del sector salud de Guatemala mantienen este martes 13 de octubre bloqueos y manifestaciones en puntos de la red vial nacional, con al menos nueve puntos afectados según Provial, entre ellos la 9a avenida de la zona 1 de Ciudad de Guatemala y tramos de las rutas CA-2 Occidente, RN-01, CA-13 y RD-PET-11. Los salubristas exigen el cumplimiento del artículo 140 del Decreto 36-2024, que obliga a adecuar el presupuesto para un aumento salarial e incentivo económico, la reclasificación de trabajadores de salud y el traslado del personal por contrato a renglón permanente, en una protesta que se retomó tras la jornada del 12 de octubre.",
+    "status": "en_curso",
+    "lat": 14.6349,
+    "lng": -90.5069,
+    "fuentes": [
+      "https://www.publinews.gt/noticias/2026/10/13/aumentan-a-nueve-los-puntos-bloqueados-por-salubristas-este-martes/",
+      "https://lahora.gt/nacionales/dleon/2026/10/12/regresan-los-bloqueos-codeca-limita-el-paso-en-la-9a-avenida-de-la-zona-1-y-otros-puntos-del-pais/"
+    ],
+    "createdAt": "2026-10-13T16:13:56.000Z",
+    "updatedAt": "2026-10-13T16:31:28Z"
   },
   {
     "id": "ie-2026-10-13-accion-industrial-sector-publico",
@@ -209,7 +309,58 @@
       "https://www.thejournal.ie/jack-chambers-strike-7190805-Oct2026/"
     ],
     "createdAt": "2026-10-12T18:34:06.000Z",
-    "updatedAt": "2026-10-13T08:29:31Z"
+    "updatedAt": "2026-10-13T16:31:28Z"
+  },
+  {
+    "id": "in-2026-10-13-protestas-nacionales-renuncia-cec-gyanesh-kumar",
+    "seccion": "internacionales",
+    "pais": "India",
+    "bandera": "🇮🇳",
+    "hora": "",
+    "fecha": "2026-10-13",
+    "lugar": "Nueva Delhi (Jantar Mantar y alrededores de la Corte Suprema), Bengaluru y otras ciudades, India",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "Cockroach Janta Party (CJP) y movimiento juvenil «Cockroach»",
+      "Partidos de oposición (Congreso) y organizaciones estudiantiles"
+    ],
+    "motivo": "Las protestas contra la revisión del padrón electoral y por la renuncia del comisionado electoral jefe Gyanesh Kumar continúan este martes 13 de octubre en Nueva Delhi, Bengaluru y otras ciudades de India. El movimiento juvenil «Cockroach» (Cockroach Janta Party), secundado por partidos de oposición y organizaciones estudiantiles, reclama la dimisión de Kumar y el fin del ejercicio de Revisión Intensiva Especial (SIR), que según los manifestantes ha eliminado a más de 130 millones de votantes y favorece al partido gobernante. La jornada se produce tras la marcha de la oposición a la Corte Suprema del 12 de octubre, nuevas detenciones en Bengaluru y la desnotificación de Jantar Mantar como lugar de protesta; siguen las movilizaciones y las detenciones en varios estados.",
+    "status": "en_curso",
+    "lat": 28.6139,
+    "lng": 77.209,
+    "fuentes": [
+      "https://abcnews.com/International/wireStory/indias-opposition-parties-march-top-court-protests-voter-137187227",
+      "https://www.aljazeera.com/news/2026/10/12/india-opposition-plans-new-delhi-protest-to-demand-election-chief-resign?traffic_source=rss",
+      "https://www.thehindu.com/news/national/karnataka/karnataka-home-minister-says-police-directed-not-to-disrupt-peaceful-demonstration/article71578224.ece",
+      "https://www.deccanherald.com/india/karnataka/karnataka-govt-to-review-bengaluru-police-action-after-crackdown-on-anti-cec-protesters-4180769"
+    ],
+    "createdAt": "2026-10-13T16:13:56.000Z",
+    "updatedAt": "2026-10-13T16:31:28Z"
+  },
+  {
+    "id": "it-2026-10-13-acampada-estudiantes-caro-vida",
+    "seccion": "internacionales",
+    "pais": "Italia",
+    "bandera": "🇮🇹",
+    "hora": "11:00",
+    "fecha": "2026-10-13",
+    "lugar": "Piazza Montecitorio y Sapienza (Roma) y una decena de universidades (Milán, Bolonia, Génova, Pavía, Lecce, entre otras), Italia",
+    "tipoAccion": "otra",
+    "organizaciones": [
+      "Unione degli Universitari (UDU)",
+      "Movimientos estudiantiles, espacios sociales y colectivos juveniles"
+    ],
+    "motivo": "La Unione degli Universitari (UDU) mantiene este martes 13 de octubre las acampadas de tiendas de campaña lanzadas el 12 de octubre bajo el lema «Cara Italia, quanto ci costi?» en Piazza Montecitorio, en la Sapienza de Roma y en una decena de universidades (Milán, Bolonia, Génova, Pavía, Lecce, entre otras), con una rueda de prensa prevista a las 11:00 bajo la Minerva. Los estudiantes denuncian el carovita universitario, el fracaso de las políticas de vivienda y la mercantilización del derecho al estudio, y exigen al menos 7.000 millones de euros para la universidad pública, 1.700 millones para becas, un plan plurianual de 4.000 millones para alojamiento público, la abolición progresiva de las tasas y un bienestar estudiantil real.",
+    "status": "en_curso",
+    "lat": 41.9028,
+    "lng": 12.4964,
+    "fuentes": [
+      "https://www.dire.it/12-10-2026/1275719-gli-universitari-protestano-contro-il-carovita-arrivano-le-tende-a-montecitorio-milano-e-in-dieci-atenei/",
+      "https://roma.repubblica.it/cronaca/2026/10/12/news/roma_studenti_protesta_tende_caro_affitti_caro_vita-425643146/",
+      "https://www.ansa.it/lazio/notizie/2026/10/12/piamo-casa-come-in-spagna-arrivano-le-tende-alla-sapienza-di-roma_e3b038a7-d3c5-4fe9-987f-aba0011b28f6.html"
+    ],
+    "createdAt": "2026-10-12T18:34:06.000Z",
+    "updatedAt": "2026-10-13T16:31:28Z"
   },
   {
     "id": "it-2026-10-13-huelga-indefinida-ex-ilva-taranto-genova",
@@ -236,32 +387,7 @@
       "https://en.lamilano.it/genova/Former-Ilva-workers-are-on-a-24-hour-national-strike-from-Taranto-to-Genoa--with-workers-protesting-the-plant-closures./"
     ],
     "createdAt": "2026-10-12T18:34:06.000Z",
-    "updatedAt": "2026-10-13T08:29:31Z"
-  },
-  {
-    "id": "it-2026-10-13-acampada-estudiantes-caro-vida",
-    "seccion": "internacionales",
-    "pais": "Italia",
-    "bandera": "🇮🇹",
-    "hora": "",
-    "fecha": "2026-10-13",
-    "lugar": "Piazza Montecitorio y Sapienza (Roma) y una decena de universidades (Milán, Bolonia, Génova, Pavía, Lecce, entre otras), Italia",
-    "tipoAccion": "otra",
-    "organizaciones": [
-      "Unione degli Universitari (UDU)",
-      "Movimientos estudiantiles, espacios sociales y colectivos juveniles"
-    ],
-    "motivo": "La Unione degli Universitari (UDU) mantiene este martes 13 de octubre las acampadas de tiendas de campaña lanzadas el 12 de octubre bajo el lema «Cara Italia, quanto ci costi?» en Piazza Montecitorio, en la Sapienza de Roma y en una decena de universidades (Milán, Bolonia, Génova, Pavía, Lecce, entre otras), con una rueda de prensa prevista a las 11:00 bajo la Minerva. Los estudiantes denuncian el carovita universitario, el fracaso de las políticas de vivienda y la mercantilización del derecho al estudio, y exigen al menos 7.000 millones de euros para la universidad pública, 1.700 millones para becas, un plan plurianual de 4.000 millones para alojamiento público, la abolición progresiva de las tasas y un bienestar estudiantil real.",
-    "status": "en_curso",
-    "lat": 41.9028,
-    "lng": 12.4964,
-    "fuentes": [
-      "https://www.dire.it/12-10-2026/1275719-gli-universitari-protestano-contro-il-carovita-arrivano-le-tende-a-montecitorio-milano-e-in-dieci-atenei/",
-      "https://roma.repubblica.it/cronaca/2026/10/12/news/roma_studenti_protesta_tende_caro_affitti_caro_vita-425643146/",
-      "https://www.ansa.it/lazio/notizie/2026/10/12/piamo-casa-come-in-spagna-arrivano-le-tende-alla-sapienza-di-roma_e3b038a7-d3c5-4fe9-987f-aba0011b28f6.html"
-    ],
-    "createdAt": "2026-10-12T18:34:06.000Z",
-    "updatedAt": "2026-10-13T08:29:31Z"
+    "updatedAt": "2026-10-13T16:31:28Z"
   },
   {
     "id": "it-2026-10-13-protesta-agricultores-caro-carburante",
@@ -288,7 +414,7 @@
       "https://www.infooggi.it/articolo/caro-carburante-trattori-e-camion-in-strada-e-la-protesta-guarda-oltre/156518"
     ],
     "createdAt": "2026-10-12T18:34:06.000Z",
-    "updatedAt": "2026-10-13T08:29:31Z"
+    "updatedAt": "2026-10-13T16:31:28Z"
   },
   {
     "id": "ke-2026-10-13-huelga-universidades-publicas-uasu-kusu-kudheiha",
@@ -315,7 +441,7 @@
       "https://uasutum.net/news/uasu-strike-enters-critical-week-as-inter-ministerial-committee-meets-monday"
     ],
     "createdAt": "2026-10-09T08:27:51.000Z",
-    "updatedAt": "2026-10-13T08:29:31Z"
+    "updatedAt": "2026-10-13T16:31:28Z"
   },
   {
     "id": "mx-2026-10-13-megamarcha-nacional-imss-cdmx",
@@ -344,30 +470,31 @@
       "https://www.nmas.com.mx/movilidad/marchas/mega-marcha-nacional-imss-13-octubre-2026-ruta-donde-inicia-manifestacion-cdmx-trabajadores/"
     ],
     "createdAt": "2026-10-09T15:30:07.000Z",
-    "updatedAt": "2026-10-13T08:29:31Z"
+    "updatedAt": "2026-10-13T16:31:28Z"
   },
   {
-    "id": "gb-2026-10-13-cost-of-living-day-of-action-westminster",
+    "id": "pr-2026-10-13-protesta-proyecto-esencia-capitolio-san-juan",
     "seccion": "internacionales",
-    "pais": "Reino Unido",
-    "bandera": "🇬🇧",
-    "hora": "10:30",
+    "pais": "Puerto Rico",
+    "bandera": "🇵🇷",
+    "hora": "",
     "fecha": "2026-10-13",
-    "lugar": "Mary Sumner House, 24 Tufton Street, Westminster, Londres, y Cámara de los Comunes, Reino Unido",
-    "tipoAccion": "movilizacion",
+    "lugar": "Capitolio de Puerto Rico, San Juan, Puerto Rico",
+    "tipoAccion": "protesta",
     "organizaciones": [
-      "Cost of Living Action (COLA)",
-      "Organizaciones y sindicatos contra la crisis del costo de vida"
+      "Coalición Defiende a Cabo Rojo",
+      "Ambientalistas y ciudadanos contra el Proyecto Esencia"
     ],
-    "motivo": "La coalición Cost of Living Action (COLA) y sus socios celebrarán este martes 13 de octubre, desde las 10:30, una «Jornada de Acción contra el Costo de Vida» en Westminster (Mary Sumner House, 24 Tufton Street), con reuniones entre ciudadanos y sus diputados y un photocall de grupo en la Cámara de los Comunes. Los convocantes exigen al nuevo primer ministro un «presupuesto contra el costo de vida» que aborde los problemas estructurales de la economía británica y reclaman medidas frente a la crisis que erosiona los presupuestos de millones de hogares.",
-    "status": "convocada",
-    "lat": 51.4966,
-    "lng": -0.128,
+    "motivo": "Coaliciones ambientales y ciudadanas protestaron este martes 13 de octubre frente al Capitolio de Puerto Rico, en San Juan, contra el megaproyecto turístico-residencial Esencia en Cabo Rojo, en el marco de las movilizaciones que se extienden desde agosto. Durante la acción, el activista Tito Kayak subió a un mástil del edificio para colocar una bandera con el mensaje «Esencia no va», mientras otros ciudadanos se sumaban a la manifestación. Los opositores denuncian el impacto del desarrollo sobre el suministro de agua de la región y los recursos naturales, así como la aprobación de la consulta de ubicación por parte de la Oficina de Gerencia y Permisos (OGPe).",
+    "status": "en_curso",
+    "lat": 18.4655,
+    "lng": -66.1057,
     "fuentes": [
-      "https://actionnetwork.org/events/cost-of-living-day-of-action"
+      "https://teleonce.com/noticias/locales/tito-kayak-sube-a-un-mastil-del-capitolio-en-protesta-contra-el-proyecto-esencia/",
+      "https://www.telemundopr.com/noticias/puerto-rico/pendiente-a-que-pasetanquero-amur-river-finalmente-atraca-en-san-juan/2851633/"
     ],
-    "createdAt": "2026-10-13T01:05:35.000Z",
-    "updatedAt": "2026-10-13T08:29:31Z"
+    "createdAt": "2026-10-13T16:13:56.000Z",
+    "updatedAt": "2026-10-13T16:31:28Z"
   },
   {
     "id": "ve-2026-10-13-marcha-miraflores-salud-educacion-caracas",
@@ -396,7 +523,56 @@
       "https://lanoticiadehoy.com/gremios-marcharan-miraflores-13-octubre-salarios-aguinaldos/"
     ],
     "createdAt": "2026-10-13T01:05:35.000Z",
-    "updatedAt": "2026-10-13T08:29:31Z"
+    "updatedAt": "2026-10-13T16:31:28Z"
+  },
+  {
+    "id": "ar-2026-10-13-corte-clases-publicas-derecho-uba",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "18:30",
+    "fecha": "2026-10-13",
+    "lugar": "Facultad de Derecho de la UBA, Ciudad Autónoma de Buenos Aires, Argentina",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "Centro de Estudiantes de Derecho de la UBA",
+      "Estudiantes de la UBA"
+    ],
+    "motivo": "Clases públicas y corte convocados en la Facultad de Derecho de la UBA a las 18:30, en el marco de la escalada del conflicto universitario previo a la Quinta Marcha Federal Universitaria del jueves 15 de octubre.",
+    "status": "convocada",
+    "lat": -34.5838,
+    "lng": -58.3924,
+    "fuentes": [
+      "https://www.lanacion.com.ar/sociedad/escala-el-conflicto-universitario-habra-tomas-cortes-y-clases-publicas-antes-de-la-marcha-del-jueves-nid13102026/"
+    ],
+    "createdAt": "2026-10-13T16:16:27.000Z",
+    "updatedAt": "2026-10-13T16:31:28Z"
+  },
+  {
+    "id": "ar-2026-10-13-paro-nacional-pami-medicos-odontologos",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-10-13",
+    "lugar": "Todo el país: consultorios de médicos de cabecera y odontólogos que atienden a afiliados del PAMI, Argentina",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "Asociación de Profesionales de la Salud (APPAMIA)"
+    ],
+    "motivo": "Los médicos de cabecera y odontólogos que atienden a afiliados del PAMI iniciaron este martes 13 de octubre un paro nacional de 96 horas que se extenderá hasta el viernes 16, convocado por la Asociación de Profesionales de la Salud (APPAMIA). La medida reclama una actualización de las cáptitas que cobran los profesionales: los médicos perciben $2.700 por paciente y piden $4.500, mientras que los odontólogos cobran $374 y exigen entre $1.500 y $3.000. Durante las cuatro jornadas quedarán suspendidos los turnos programados, las consultas de rutina, las derivaciones a especialistas y las transcripciones de recetas habituales, mientras se mantienen las guardias mínimas y las recetas de urgencia; el conflicto se da tras un paro previo de 72 horas y con el Gobierno buscando destrabar la negociación.",
+    "status": "en_curso",
+    "lat": -34.6037,
+    "lng": -58.3816,
+    "fuentes": [
+      "https://www.lagaceta.com.ar/nota/1157682/politica/paro-medicos-pami-96-horas-reclaman-suba-honorarios-podrian-suspenderse-turnos.html",
+      "https://www.mdzol.com/politica/2026/10/12/medicos-y-odontologos-de-pami-inician-un-paro-nacional-de-96-horas-y-el-gobierno-busca-destrabar-el-1987463.html",
+      "https://www.canal26.com/general/2026/10/12/paro-nacional-de-96-horas-en-pami-medicos-de-cabecera-y-odontologos-no-atenderan-durante-4-dias-esta-semana/",
+      "https://www.adnsur.com.ar/sociedad/pami--medicos-y-odontologos-haran-un-paro-de-cuatro-dias-y-suspenden-los-turnos-programados_a6acc2c5e91e3233f31104ae2",
+      "https://www.airedesantafe.com.ar/actualidad/pami-nuevo-paro-medicos-cabecera-y-odontologos-96-horas-todo-el-pais-n673031"
+    ],
+    "createdAt": "2026-10-13T01:09:11.000Z",
+    "updatedAt": "2026-10-13T16:31:28Z"
   },
   {
     "id": "ar-2026-10-13-toma-filosofia-letras-uba-puan",
@@ -422,32 +598,6 @@
       "https://www.examedia.com.ar/portada/post/88019805"
     ],
     "createdAt": "2026-10-13T01:09:11.000Z",
-    "updatedAt": "2026-10-13T08:29:31Z"
-  },
-  {
-    "id": "ar-2026-10-13-paro-nacional-pami-medicos-odontologos",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "",
-    "fecha": "2026-10-13",
-    "lugar": "Todo el país: consultorios de médicos de cabecera y odontólogos que atienden a afiliados del PAMI, Argentina",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "Asociación de Profesionales de la Salud (APPAMIA)"
-    ],
-    "motivo": "Los médicos de cabecera y odontólogos que atienden a afiliados del PAMI iniciaron este martes 13 de octubre un paro nacional de 96 horas que se extenderá hasta el viernes 16, convocado por la Asociación de Profesionales de la Salud (APPAMIA). La medida reclama una actualización de las cápitas que cobran los profesionales: los médicos perciben $2.700 por paciente y piden $4.500, mientras que los odontólogos cobran $374 y exigen entre $1.500 y $3.000. Durante las cuatro jornadas quedarán suspendidos los turnos programados, las consultas de rutina, las derivaciones a especialistas y las transcripciones de recetas habituales, mientras se mantienen las guardias mínimas y las recetas de urgencia; el conflicto se da tras un paro previo de 72 horas y con el Gobierno buscando destrabar la negociación.",
-    "status": "en_curso",
-    "lat": -34.6037,
-    "lng": -58.3816,
-    "fuentes": [
-      "https://www.lagaceta.com.ar/nota/1157682/politica/paro-medicos-pami-96-horas-reclaman-suba-honorarios-podrian-suspenderse-turnos.html",
-      "https://www.mdzol.com/politica/2026/10/12/medicos-y-odontologos-de-pami-inician-un-paro-nacional-de-96-horas-y-el-gobierno-busca-destrabar-el-1987463.html",
-      "https://www.canal26.com/general/2026/10/12/paro-nacional-de-96-horas-en-pami-medicos-de-cabecera-y-odontologos-no-atenderan-durante-4-dias-esta-semana/",
-      "https://www.adnsur.com.ar/sociedad/pami--medicos-y-odontologos-haran-un-paro-de-cuatro-dias-y-suspenden-los-turnos-programados_a6acc2c5e91e3233f31104ae2",
-      "https://www.airedesantafe.com.ar/actualidad/pami-nuevo-paro-medicos-cabecera-y-odontologos-96-horas-todo-el-pais-n673031"
-    ],
-    "createdAt": "2026-10-13T01:09:11.000Z",
-    "updatedAt": "2026-10-13T08:29:31Z"
+    "updatedAt": "2026-10-13T16:31:28Z"
   }
 ]
