@@ -1,333 +1,251 @@
 [
   {
-    "id": "al-2026-10-06-protesta-dia-129-tirana",
+    "id": "al-2026-10-13-protesta-estudiantil-nacional-ministerio-educacion-tirana",
     "seccion": "internacionales",
     "pais": "Albania",
     "bandera": "🇦🇱",
-    "hora": "",
-    "fecha": "2026-10-12",
-    "lugar": "Plaza Skanderbeg y oficina del Primer Ministro (Kryeministria), Tirana, Albania",
-    "tipoAccion": "movilizacion",
+    "hora": "14:00",
+    "fecha": "2026-10-13",
+    "lugar": "Ministerio de Educación (Ministria e Arsimit), Tirana, Albania",
+    "tipoAccion": "protesta",
     "organizaciones": [
-      "Movimiento ciudadano de protesta",
-      "Colectivos cívicos y estudiantes"
+      "Movimiento estudiantil albanés",
+      "Colectivos juveniles y ciudadanos contra el gobierno"
     ],
-    "motivo": "135º día consecutivo de la protesta ciudadana contra el gobierno y el primer ministro Edi Rama. Este lunes 12 de octubre los ciudadanos volvieron a concentrarse en la plaza Skanderbeg y marcharon por el bulevar Dëshmorët e Kombit hasta la oficina del Primer Ministro, donde pronunciaron discursos coreando «Rama dimite» y «Albania está haciendo una revolución». El movimiento mantiene la exigencia de dimisión de Rama, un gobierno técnico de transición y la reforma del sistema político y electoral, y ha convocado una protesta estudiantil para el martes 13 de octubre a las 14:00 frente al Ministerio de Educación.",
-    "status": "en_curso",
-    "lat": 41.3329,
-    "lng": 19.8183,
+    "motivo": "Los estudiantes y jóvenes albaneses convocaron para este martes 13 de octubre, a las 14:00, una protesta nacional frente al Ministerio de Educación en Tirana, en el marco del 136º día del movimiento ciudadano contra el gobierno del primer ministro Edi Rama. La convocatoria, anunciada al cierre de la 133ª jornada y ratificada en las protestas 134ª y 135ª, llama a estudiantes de todo el país a sumarse a la exigencia de dimisión de Rama, la formación de un gobierno técnico de transición y la reforma del sistema político y electoral. Los convocantes reclaman además mejoras en la educación pública y responsabilizan a la clase política por la corrupción.",
+    "status": "convocada",
+    "lat": 41.3275,
+    "lng": 19.8187,
     "fuentes": [
-      "https://www.cna.al/english/aktualitet/video-rama-jep-doreheqjen-dita-e-135-te-e-protestes-kunder-qeverise-i476608",
-      "https://en.panorama.com.al/dita-e-135-te-e-protestes-kunder-rames-qytetaret-vijojne-qendresen-kerkohet-largimi-i-qeverise/",
-      "https://albeu.com/english/day-135-of-protests-against-rama-as-citizens-continue-their-stand-and-call-for-the-governments-resignation/1050393/",
-      "https://www.balkanweb.com/en/Protest-of-135-activist-edison-lika-stands-firm-until-Rama-leaves--workers%27-deputies-loyal-to-the-prime-minister/"
+      "https://versus.al/aktualitet/dita-e-133-e-revoltes-studentet-njoftojne-proteste-kombetare-me-13-te-i47972",
+      "https://www.hashtag.al/index.php/2026/10/11/sdorezohemi-pa-ikur-rama-studentet-mbushin-sheshin-me-13-tetor-mbyllet-protesta-e-134-t/",
+      "https://sot.com.al/perfundon-marshimi-kunder-qeverise-protestuesit-paralajmerojne-vijimin-e-aksionit-dhe-studentet-dalin-ne-proteste-me-13-tetor-i5188196",
+      "https://en.panorama.com.al/dita-e-135-te-e-protestes-kunder-rames-qytetaret-vijojne-qendresen-kerkohet-largimi-i-qeverise/"
     ],
     "createdAt": "2026-10-06T07:09:50.000Z",
-    "updatedAt": "2026-10-12T18:40:42Z"
+    "updatedAt": "2026-10-13T01:14:31Z"
   },
   {
-    "id": "es-2026-10-06-acampada-sindicato-inquilinas-madrid",
+    "id": "at-2026-10-13-unisretten-ringvorlesung-universidad-viena",
+    "seccion": "internacionales",
+    "pais": "Austria",
+    "bandera": "🇦🇹",
+    "hora": "15:00",
+    "fecha": "2026-10-13",
+    "lugar": "Universitätsring, frente al edificio principal de la Universidad de Viena, Viena, Austria",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Österreichische Hochschüler_innenschaft (ÖH)",
+      "Movimiento estudiantil #UnisRetten"
+    ],
+    "motivo": "La Österreichische Hochschüler_innenschaft (ÖH) y el movimiento #UnisRetten convertirán este martes 13 de octubre, a las 15:00, el Universitätsring de Viena en un aula al aire libre frente al edificio principal de la Universidad de Viena. La «Protest-Ringvorlesung» denuncia los recortes presupuestarios a las universidades, la posible subida de las tasas de matrícula y la creciente presión por el rendimiento académico, y busca visibilizar las consecuencias de los recortes en tutorías, plazas docentes, tamaño de las clases e infraestructura, tras la movilización de unas 40.000 personas en mayo contra los ajustes. La jornada incluye clases abiertas, estaciones interactivas y un concierto de cierre ante la universidad.",
+    "status": "convocada",
+    "lat": 48.213,
+    "lng": 16.3602,
+    "fuentes": [
+      "https://www.oeh.ac.at/en/events/unisretten-protest-ringvorlesung/"
+    ],
+    "createdAt": "2026-10-13T01:05:35.000Z",
+    "updatedAt": "2026-10-13T01:14:31Z"
+  },
+  {
+    "id": "co-2026-10-13-marcha-sionistas-embajada-eeuu-plaza-bolivar-bogota",
+    "seccion": "internacionales",
+    "pais": "Colombia",
+    "bandera": "🇨🇴",
+    "hora": "14:30",
+    "fecha": "2026-10-13",
+    "lugar": "Desde la Embajada de Estados Unidos (localidad de Teusaquillo) hasta la Plaza de Bolívar, Bogotá, Colombia",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "Frente de Acción por Palestina",
+      "Colectivos propalestinos y juveniles",
+      "Unión Nacionalista Colombiana (UNC)"
+    ],
+    "motivo": "La Secretaría Distrital de Gobierno de Bogotá registró para este martes 13 de octubre, a las 14:30, la marcha «¿Cansado de los sionistas?», que partirá de la Embajada de Estados Unidos en la localidad de Teusaquillo con destino a la Plaza de Bolívar. La movilización, convocada por colectivos propalestinos y juveniles, se enmarca en la agenda de protestas contra el giro de la política exterior del gobierno de Abelardo de la Espriella hacia Israel y Estados Unidos y exige el fin del genocidio en Gaza. Para la misma jornada la Unión Nacionalista Colombiana (UNC) anunció un plantón en la Plaza de Bolívar con hora por confirmar.",
+    "status": "convocada",
+    "lat": 4.5981,
+    "lng": -74.0758,
+    "fuentes": [
+      "http://gobiernobogota.gov.co/noticias/manifestaciones-bogota-agenda",
+      "https://bogota.gov.co/mi-ciudad/gobierno/hay-previstas-marchas-y-movilizaciones-en-varios-sectores-de-la-ciudad"
+    ],
+    "createdAt": "2026-10-13T01:05:35.000Z",
+    "updatedAt": "2026-10-13T01:14:31Z"
+  },
+  {
+    "id": "es-2026-10-13-manifestacion-vivienda-bilbao-arriaga",
+    "seccion": "internacionales",
+    "pais": "España",
+    "bandera": "🇪🇸",
+    "hora": "18:00",
+    "fecha": "2026-10-13",
+    "lugar": "Desde el Ayuntamiento de Bilbao hasta el Teatro Arriaga, Bilbao, España",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "Acampada por el Derecho a la Vivienda de Bilbao",
+      "Sindicato Socialista de la Vivienda"
+    ],
+    "motivo": "La Acampada por el Derecho a la Vivienda de Bilbao convocó una manifestación para este martes 13 de octubre, a las 18:00, con salida desde el Ayuntamiento de Bilbao y final en el Teatro Arriaga, donde mantiene su campamento frente al teatro desde hace más de dos semanas. Los acampados exigen aumentar el parque de vivienda pública, intervenir el mercado inmobiliario y regular los precios del alquiler y la compra, la expropiación de viviendas en manos de fondos de inversión, bancos y grandes tenedores y la paralización de los desahucios. Hacen también un llamamiento a secundar la huelga general por la vivienda del 11 de noviembre y a votar en las elecciones generales del 29 de noviembre.",
+    "status": "convocada",
+    "lat": 43.263,
+    "lng": -2.935,
+    "fuentes": [
+      "https://cadenaser.com/euskadi/2026/10/11/la-acampada-por-la-vivienda-del-teatro-arriaga-cumple-15-dias-con-mas-de-50-personas-y-44-tiendas-de-campana-radio-bilbao/",
+      "https://www.ultimahora.es/noticias/comunidades/2026/10/09/2725761/acampados-bilbao-llaman-huelga-votar-29n-aunque-sea-solucion-problema-vivienda.html",
+      "https://www.radionervion.com/2026/10/09/la-acampada-por-el-derecho-a-la-vivienda-convoca-una-manifestacion-este-viernes/"
+    ],
+    "createdAt": "2026-10-13T01:05:35.000Z",
+    "updatedAt": "2026-10-13T01:14:31Z"
+  },
+  {
+    "id": "es-2026-10-13-acampada-sol-madrid",
     "seccion": "internacionales",
     "pais": "España",
     "bandera": "🇪🇸",
     "hora": "",
-    "fecha": "2026-10-12",
+    "fecha": "2026-10-13",
     "lugar": "Puerta del Sol, Madrid, España",
     "tipoAccion": "otra",
     "organizaciones": [
-      "Sindicato de Inquilinas",
-      "CCOO",
-      "UGT",
-      "CGT"
+      "Sindicato de Inquilinas de Madrid",
+      "Proceso de Unión de Colectivos de Vivienda de Madrid",
+      "PAH Vallekas",
+      "Sindicato del Barrio de Hortaleza"
     ],
-    "motivo": "La acampada indefinida por la vivienda de la Puerta del Sol de Madrid mantiene su actividad este lunes 12 de octubre, Día de la Hispanidad, tras cumplir dos semanas y decidir en asamblea continuar sin fecha de fin. Al término del desfile militar, un grupo de nacionalistas de ultraderecha se dirigió a la Puerta del Sol y rodeó el campamento con cánticos como «a por ellos»; los acampados respondieron con una barrera humana y denunciaron agresiones con huevos y encendedores mientras la Policía desplegó un cordón de seguridad entre ambos contingentes. El Sindicato de Inquilinas, CCOO, UGT y CGT mantienen los reclamos de vivienda pública, freno a los desahucios y expropiación de uso de viviendas vacías de grandes tenedores, en un contexto de elecciones generales convocadas para el 29 de noviembre.",
+    "motivo": "La acampada indefinida por la vivienda de la Puerta del Sol de Madrid continúa este martes 13 de octubre, tras superar las 2.000 tiendas de campaña y cumplir más de dos semanas desde que una manifestación del Sindicato de Inquilinas desembocara en el campamento. El movimiento, que precipitó los decretos de vivienda, la convocatoria de una huelga general y el adelanto electoral del 29 de noviembre, reclama vivienda pública, el freno a los desahucios y la expropiación de uso de viviendas vacías de grandes tenedores. Tras el paso atrás del Sindicato de Inquilinas, decenas de colectivos mantienen la protesta sin una dirección política común, con una huelga general por la vivienda convocada para el 11 de noviembre.",
     "status": "en_curso",
     "lat": 40.4168,
     "lng": -3.7038,
     "fuentes": [
-      "https://www.france24.com/es/europa/20261012-espa%C3%B1a-conmemora-un-12-de-octubre-marcado-por-ceuta-protestas-por-la-vivienda-y-el-adelanto-electoral",
-      "https://elpais.com/espana/madrid/2026-10-10/la-vida-en-la-acampada-de-sol-una-ciudad-espontanea-en-el-corazon-de-madrid-donde-ayuso-dice-que-hay-terrorismo.html",
-      "https://www.infolibre.es/politica/desencantados-no-apaticos-acampada-sol-reivindica-juventud-si-moviliza_1_2237770.html",
-      "https://diariosocialista.net/2026/10/12/ayuso-pide-al-delegado-del-gobierno-que-investigue-la-presencia-de-organizaciones-terroristas-en-la-acampada-de-sol/"
+      "https://www.elmundo.es/madrid/2026/10/12/6acbae3afc6c83d16f8b456e.html",
+      "https://www.antena3.com/noticias/sociedad/dos-semana-acampadas-vivienda-espana_202610106aca4832cfd4076f0c781302.html",
+      "https://www.france24.com/es/europa/20261012-espa%C3%B1a-conmemora-un-12-de-octubre-marcado-por-ceuta-protestas-por-la-vivienda-y-el-adelanto-electoral"
     ],
     "createdAt": "2026-10-06T07:09:50.000Z",
-    "updatedAt": "2026-10-12T18:40:42Z"
+    "updatedAt": "2026-10-13T01:14:31Z"
   },
   {
-    "id": "es-2026-10-06-acampada-vivienda-plaza-ayuntamiento-valencia",
+    "id": "es-2026-10-13-acampada-vivienda-plaza-ayuntamiento-valencia",
     "seccion": "internacionales",
     "pais": "España",
     "bandera": "🇪🇸",
     "hora": "",
-    "fecha": "2026-10-12",
+    "fecha": "2026-10-13",
     "lugar": "Plaza del Ayuntamiento (Plaça de l'Ajuntament), Valencia, España",
     "tipoAccion": "otra",
     "organizaciones": [
       "Acampada autónoma y autogestionada por la vivienda de Valencia",
+      "Sindicat d'Habitatge de València",
+      "Sindicat d'Estudiants PV",
       "Colectivos por el derecho a la vivienda"
     ],
-    "motivo": "La acampada por la vivienda de la plaza del Ayuntamiento de Valencia, indefinida, autónoma y autogestionada, sigue activa este lunes 12 de octubre sin fecha de salida, con cerca de 500 tiendas y más de 1.000 participantes que trabajan en ampliar el campamento. La protesta, que cumple dos años desde la primera acampada por la vivienda en la ciudad, obligó a trasladar los actos oficiales del 12 de octubre en València a la plaza de la Reina. La Delegación del Gobierno rechazó el desalojo y la acampada mantiene sus reclamos de expropiar pisos a fondos buitre y grandes tenedores, topes a los alquileres y el fin de los desahucios.",
+    "motivo": "La acampada por la vivienda de la plaza del Ayuntamiento de València, indefinida, autónoma y autogestionada, sigue activa este martes 13 de octubre con más de 400 tiendas de campaña. Nacida tras la manifestación del 3 de octubre, la protesta mantiene sus reclamos de bajada drástica de los alquileres, contratos indefinidos, protección efectiva frente a los desahucios, ampliación del parque público y expropiación de pisos en manos de bancos, fondos buitre y grandes tenedores, además de revocar las licencias de viviendas turísticas. La asamblea decidió prolongar el campamento de forma indefinida y prepara una huelga de alquileres y la huelga general por la vivienda del 11 de noviembre.",
     "status": "en_curso",
     "lat": 39.4699,
     "lng": -0.3763,
     "fuentes": [
-      "https://www.abc.es/espana/comunidad-valenciana/actos-valencia-octubre-dia-hispanidad-horarios-desfile-20261012042602-nt.html",
-      "https://www.larazon.es/comunidad-valenciana/dos-anos-despues-primera-acampada-vivienda-valencia-500-tiendas-toman-plaza-fecha-salida_202610116aca7dfbcfd4076f0c783067.html",
-      "https://officialpress.es/acampada-ayuntamiento-valencia-vivienda/",
+      "https://www.elsaltodiario.com/valencia/de-400-tiendas-continuan-acampadas-valencia-exigir-derecho-vivienda-preparar-huelga",
+      "https://www.que.es/2026/10/12/acampada-vivienda-valencia-huelga-alquileres/",
       "https://actualidadvalencia.com/acampada-vivienda-valencia-semana-ampliacion/"
     ],
     "createdAt": "2026-10-06T19:40:39.000Z",
-    "updatedAt": "2026-10-12T18:40:42Z"
+    "updatedAt": "2026-10-13T01:14:31Z"
   },
   {
-    "id": "ke-2026-10-09-huelga-universidades-publicas-uasu-kusu-kudheiha",
+    "id": "fr-2026-10-13-huelga-manifestacion-educacion-place-italie",
     "seccion": "internacionales",
-    "pais": "Kenia",
-    "bandera": "🇰🇪",
-    "hora": "",
-    "fecha": "2026-10-12",
-    "lugar": "Universidades públicas de todo Kenia, con los campus cerrados, Kenia",
+    "pais": "Francia",
+    "bandera": "🇫🇷",
+    "hora": "14:00",
+    "fecha": "2026-10-13",
+    "lugar": "Place d'Italie (salida de la manifestación parisina) y liceos y universidades de todo el país, París y Francia",
     "tipoAccion": "huelga",
     "organizaciones": [
-      "UASU (Universities Academic Staff Union)",
-      "KUSU (Kenya Universities Staff Union)",
-      "KUDHEIHA (Kenya Union of Domestic, Hotels, Educational Institutions, Hospitals and Allied Workers)"
+      "Union Étudiante",
+      "Union Nationale des Étudiants de France (UNEF)",
+      "Union Syndicale Lycéenne (USL)",
+      "FSU",
+      "UNSA Éducation",
+      "CGT Éduc'action",
+      "FO",
+      "CFDT",
+      "SUD Éducation"
     ],
-    "motivo": "La huelga nacional indefinida de docentes y personal de las universidades públicas de Kenia, iniciada el 2 de octubre por UASU, KUSU y KUDHEIHA, entra este lunes 12 de octubre en su undécimo día sin acuerdo. La UASU rechazó la nueva oferta gubernamental de 12.000 millones de chelines por considerarla «insuficiente» y ratificó la continuidad de la acción hasta que se cumpla íntegramente el Convenio Colectivo 2025-2029. Las 35 universidades públicas siguen cerradas y más de 600.000 estudiantes permanecen fuera de las aulas mientras continúan las reuniones de conciliación entre los sindicatos y el comité interministerial (Educación, Tesoro, Trabajo), y los gremios mantienen sus exigencias de pago de salarios, promociones y pensiones atrasadas y la reapertura de los campus.",
-    "status": "en_curso",
-    "lat": -0.7215,
-    "lng": 37.1522,
+    "motivo": "La intersindical estudiantil y de la educación convocó una nueva jornada de huelga y manifestaciones para este martes 13 de octubre, con una marcha en París que saldrá a las 14:00 desde Place d'Italie y actos en el resto del país. La movilización, respaldada por la Union Étudiante, la UNEF y la USL junto a los sindicatos FSU, UNSA Éducation, CGT Éduc'action, FO, CFDT y SUD Éducation, exige más recursos para la educación pública, sustitutos para docentes ausentes, menos alumnos por aula, edificios en condiciones y la reforma de Parcoursup; los liceos y universidades podrían registrar bloqueos y cierres parciales, tras las jornadas del 29 de septiembre y del 6 de octubre. La intersindical advirtió que mantendrá las protestas «hasta que haya 10.000 millones sobre la mesa» y ya anunció una nueva jornada para el 5 de noviembre.",
+    "status": "convocada",
+    "lat": 48.8321,
+    "lng": 2.3553,
     "fuentes": [
-      "https://uzalendonews.co.ke/lecturers-reject-governments-salary-offer-as-strike-enters-day-11",
-      "https://www.kenyans.co.ke/news/127798-university-lecturers-reject-ksh-12b-offer-strike-talks-collapse",
-      "https://educationnews.co.ke/news/uasu-strike-deepens-as-sh12-billion-pay-offer-collapses-deadlock-persists",
-      "https://www.the-star.co.ke/news/2026-10-02-comrade-power-lecturers-begin-strike"
+      "https://www.sortiraparis.com/en/news/in-paris/articles/353708-october-13-strike-high-school-students-college-students-and-teachers-urged-to-demonstrate-in-large-numbers",
+      "https://www.sortiraparis.com/en/news/in-paris/articles/353270-october-13-demonstration-why-students-are-protesting-and-setting-up-blockades",
+      "https://www.straitstimes.com/world/europe/frances-high-school-students-plan-fresh-protests",
+      "https://www.eltiempo.com/mundo/europa/protestas-estudiantiles-en-francia-convocan-a-una-gran-marcha-el-13-de-octubre-tras-reuniones-con-el-gobierno-3592376"
     ],
-    "createdAt": "2026-10-09T08:27:51.000Z",
-    "updatedAt": "2026-10-12T18:40:42Z"
+    "createdAt": "2026-10-12T08:34:59.000Z",
+    "updatedAt": "2026-10-13T01:14:31Z"
   },
   {
-    "id": "mx-2026-10-09-paro-nacional-planton-imss-reforma",
-    "seccion": "internacionales",
-    "pais": "México",
-    "bandera": "🇲🇽",
-    "hora": "",
-    "fecha": "2026-10-12",
-    "lugar": "Paseo de la Reforma frente a las oficinas centrales del IMSS (colonia Juárez, Cuauhtémoc) y clínicas de la CDMX y el Área Metropolitana, así como unidades del IMSS en al menos 12 estados, México",
-    "tipoAccion": "paro",
-    "organizaciones": [
-      "Trabajadores activos y jubilados del IMSS",
-      "Secciones disidentes del SNTSS"
-    ],
-    "motivo": "El paro y plantón de trabajadores activos y jubilados del IMSS continúa este lunes 12 de octubre con los campamentos instalados en Paseo de la Reforma 476, frente a las oficinas centrales del instituto, y ante el SNTSS en la colonia Condesa, además de bloqueos en clínicas de al menos 12 entidades. Los inconformes rechazan el aumento salarial del 6,8 % pactado por la dirigencia del SNTSS y exigen un 10 % directo al sueldo base, abasto de medicamentos e insumos, mejores condiciones laborales, revisión del régimen de pensiones y la salida del dirigente nacional Rafael Olivos. Han anunciado una marcha nacional pacífica desde el Centro Médico Nacional Siglo XXI para el miércoles 14 de octubre a las 15:00, respaldada por trabajadores del Metro, ISSSTE, Pemex y la CNTE, coincidiendo con la consulta sindical sobre el incremento.",
-    "status": "en_curso",
-    "lat": 19.4285,
-    "lng": -99.1677,
-    "fuentes": [
-      "https://www.informador.mx/mexico/paro-del-imss-mantiene-bloqueos-en-estas-zonas-de-la-cdmx-20261012-0072.html",
-      "https://www.nmas.com.mx/ciudad-de-mexico/movilidad/sigue-planton-trabajadores-imss-reforma-hoy-12-octubre-2026-bloqueos-zonas-calles-cerradas/",
-      "https://www.jornada.com.mx/noticia/2026/10/12/politica/rechazo-a-la-cupula-sindical-detona-movilizaciones-y-reclamos-en-el-imss",
-      "https://vanguardia.com.mx/noticias/mexico/personal-del-imss-anuncia-marcha-nacional-el-14-de-octubre-se-unen-trabajadores-del-metro-issste-pemex-y-maestros-HD24052959"
-    ],
-    "createdAt": "2026-10-09T15:30:07.000Z",
-    "updatedAt": "2026-10-12T18:40:42Z"
-  },
-  {
-    "id": "in-2026-10-11-protesta-cjp-jantar-mantar-delhi",
+    "id": "in-2026-10-13-protestas-sir-delhi-ganyesh-kumar",
     "seccion": "internacionales",
     "pais": "India",
     "bandera": "🇮🇳",
     "hora": "",
-    "fecha": "2026-10-12",
-    "lugar": "Nueva Delhi, India (marcha desde Barakhamba Road / Constitution Club hasta la Corte Suprema y concentraciones en el centro de la capital)",
+    "fecha": "2026-10-13",
+    "lugar": "Nueva Delhi, India (Jantar Mantar / Janpath, Corte Suprema y alrededores del centro de la capital)",
     "tipoAccion": "movilizacion",
     "organizaciones": [
-      "Congreso Nacional Indio y bloque INDIA",
+      "Bloque opositor INDIA (Congreso Nacional Indio, partidos aliados)",
       "Cockroach Janta Party (CJP)",
-      "Organizaciones juveniles y estudiantiles (AISA, SFI)"
+      "Aam Aadmi Party (AAP)",
+      "Organizaciones juveniles y estudiantiles"
     ],
-    "motivo": "El bloque opositor INDIA, liderado por Rahul Gandhi y Mallikarjun Kharge, realizó este lunes 12 de octubre la «March for Democracy» (Chalo Dilli) desde Barakhamba Road hasta la Corte Suprema, donde presentó una petición contra el comisionado electoral jefe Gyanesh Kumar por las presuntas irregularidades y la eliminación masiva de votantes (más de 130 millones) en la Revisión Intensiva Especial (SIR) del padrón electoral. La marcha, en la que el Congreso cifró 250.000 participantes, reunió a partidos opositores, estudiantes y sociedad civil pese al despliegue de más de 30.000 agentes, el cierre de seis estaciones de metro y barricadas en todo el centro; la Policía detuvo a miles de manifestantes el fin de semana, incluidos líderes del movimiento juvenil Cockroach Janta Party (CJP), que ratificó la continuidad de las protestas hasta que Kumar renuncie y amenazó con una nueva movilización si no se le autoriza Jantar Mantar. El gobierno desdesignó a Jantar Mantar como sitio oficial de protesta y habilitó tres recintos en la periferia.",
+    "motivo": "Las protestas contra el comisionado electoral jefe Gyanesh Kumar y la Revisión Intensiva Especial (SIR) del padrón continúan este martes 13 de octubre en Nueva Delhi, donde el bloque opositor INDIA y el movimiento juvenil Cockroach Janta Party (CJP) mantienen sus movilizaciones tras la «March for Democracy» del 12 de octubre, que llevó a la Corte Suprema una petición contra la eliminación de millones de votantes. La Aam Aadmi Party anunció protestas durante toda la semana y un ayuno indefinido de sus MLA a partir del 15 de octubre, mientras el Alto Tribunal de Delhi escucha este martes recursos contra la desdesignación de Jantar Mantar como sitio de protesta y por las agresiones a manifestantes del 10 de octubre. El gobierno habilitó Ramlila Maidan, Burari Ground y CBD Ground como nuevos recintos de protesta.",
     "status": "en_curso",
     "lat": 28.6272,
     "lng": 77.2184,
     "fuentes": [
-      "https://www.thehindu.com/news/national/india-bloc-marches-through-delhi-takes-sir-protest-to-sc/article71576536.ece",
-      "https://www.aljazeera.com/features/2026/10/12/delhi-braces-for-more-protests-against-election-chief-amid-crackdown",
-      "https://www.straitstimes.com/asia/south-asia/opposition-parties-supporters-march-in-delhi-despite-huge-police-presence",
-      "https://www.npr.org/2026/10/12/nx-s1-5998831/india-opposition-protests"
+      "https://www.thehindu.com/news/national/delhi-hc-to-hear-on-tuesday-plea-against-closure-of-jantar-mantar-as-protest-site/article71574762.ece",
+      "https://www.telegraphindia.com/india/united-protest-against-sir-rocks-delhi-as-communists-liberals-office-goers-join-india-march-prnt/cid/2184402",
+      "https://aamaadmiparty.org/aap-news/aaps-protest-against-vote-chori-continues-police-resort-to-brutality-again/",
+      "https://timesofindia.indiatimes.com/city/delhi/aap-plans-indefinite-fast-over-sir-at-party-hq/articleshow/134900683.cms"
     ],
     "createdAt": "2026-10-11T06:12:14.000Z",
-    "updatedAt": "2026-10-12T18:40:42Z"
+    "updatedAt": "2026-10-13T01:14:31Z"
   },
   {
-    "id": "be-2026-10-12-huelga-servicios-publicos-acod",
+    "id": "ie-2026-10-13-accion-industrial-sector-publico",
     "seccion": "internacionales",
-    "pais": "Bélgica",
-    "bandera": "🇧🇪",
+    "pais": "Irlanda",
+    "bandera": "🇮🇪",
     "hora": "",
-    "fecha": "2026-10-12",
-    "lugar": "Todo el país: red ferroviaria (SNCB/NMBS), tranvías y autobuses (De Lijn, STIB), prisiones, bomberos y servicios públicos, Bélgica",
+    "fecha": "2026-10-13",
+    "lugar": "Todo el país: escuelas de secundaria, educación superior y servicios públicos, Irlanda",
     "tipoAccion": "huelga",
     "organizaciones": [
-      "ACOD/ABVV (Federación General de Trabajadores de los Servicios Públicos)",
-      "ACOD Spoor (sindicato ferroviario)",
-      "ACOD Onderwijs (sindicato de la educación)"
+      "Teachers' Union of Ireland (TUI)",
+      "Irish Congress of Trade Unions (ICTU)",
+      "Fórsa y demás sindicatos del sector público (INTO, ASTI, IFUT)"
     ],
-    "motivo": "Huelga nacional de 24 horas del sector público convocada por el sindicato socialista ACOD para este lunes 12 de octubre, iniciada a las 22:00 del domingo y con piquetes en todo el país, contra la subfinanciación de los servicios públicos y los nuevos recortes presupuestarios del gobierno federal (ataque al índice de precios y posible subida del IVA). La acción provoca la cancelación de alrededor del 30 % de los trenes intercity de SNCB/NMBS, un servicio mínimo en las redes de autobús y tranvía de De Lijn y STIB, y perturbaciones en escuelas, administraciones locales, correos y transporte público. Los sindicatos exigen que los «hombros más fuertes» contribuyan al ajuste fiscal de 10.000 millones de euros y decidirán nuevas medidas el 9 de noviembre.",
+    "motivo": "Más de 23.000 afiliados del Teachers' Union of Ireland (TUI) continúan este martes 13 de octubre la acción industrial de brazos caídos iniciada el 12 de octubre, dejando de responder correos y llamadas fuera del horario contractual y retirándose de las horas Croke Park, en el conflicto por el pago del sector público tras expirar el acuerdo colectivo. La medida antecede a la huelga general del sector público del miércoles 14 de octubre —la mayor desde 2009, con más de 300.000 trabajadores y cierre de escuelas, hospitales y tribunales— y a una segunda jornada el 21 de octubre, después de que los sindicatos rechazaran la oferta del ministro Jack Chambers de llevar el conflicto a la Comisión de Relaciones Laborales.",
     "status": "en_curso",
-    "lat": 50.8503,
-    "lng": 4.3517,
+    "lat": 53.3498,
+    "lng": -6.2603,
     "fuentes": [
-      "https://www.vrt.be/vrtnws/en/2026/10/12/strike-action-across-the-public-sector/",
-      "https://www.brusselstimes.com/belgium/2355329/30-of-intercity-trains-cancelled-on-monday-amid-strikes",
-      "https://ground.news/article/cgsp-calls-for-strike-on-12-october-to-weigh-on-the-governments-budgetary-choices",
-      "https://www.thebulletin.be/two-days-strike-action-planned-9-and-12-october"
-    ],
-    "createdAt": "2026-10-12T01:31:23.000Z",
-    "updatedAt": "2026-10-12T18:40:42Z"
-  },
-  {
-    "id": "es-2026-10-12-manifestacion-ceuta-barcelona",
-    "seccion": "internacionales",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "12:00",
-    "fecha": "2026-10-12",
-    "lugar": "Paseo de Gracia (desde La Pedrera) hasta plaza Cataluña, Barcelona, España",
-    "tipoAccion": "movilizacion",
-    "organizaciones": [
-      "Unidos por Ceuta",
-      "Sociedad Civil Española",
-      "Partido Popular (PP)",
-      "Vox",
-      "Asociaciones constitucionalistas catalanas"
-    ],
-    "motivo": "Manifestación convocada en Barcelona para este lunes 12 de octubre, Día de la Hispanidad, bajo el lema «Cataluña con Ceuta. Una misma España», que partió al mediodía por el paseo de Gracia y reunió a más de 20.000 personas, el acto no institucional más importante de la Fiesta Nacional en España. La marcha, respaldada por Unidos por Ceuta, Sociedad Civil Española, el PP y Vox, expresó apoyo a Ceuta y Melilla y reclamó respuestas del Gobierno central a la crisis migratoria de la ciudad autónoma, además de exigir la convocatoria de elecciones generales y denunciar la gestión del Ejecutivo de Pedro Sánchez tras la entrada masiva de migrantes del pasado 30 de julio. Los discursos se pronunciaron desde un escenario en Gran Via con paseo de Gràcia al impedir radicales antisistema el acto en plaza Cataluña.",
-    "status": "en_curso",
-    "lat": 41.3874,
-    "lng": 2.1686,
-    "fuentes": [
-      "https://www.elcatalan.es/20-000-personas-participan-en-barcelona-en-el-acto-no-institucional-mas-importante-del-dia-de-la-hispanidad",
-      "https://www.france24.com/es/europa/20261012-espa%C3%B1a-conmemora-un-12-de-octubre-marcado-por-ceuta-protestas-por-la-vivienda-y-el-adelanto-electoral",
-      "https://www.elconfidencial.com/espana/cataluna/2026-10-11/manifestacion-ceuta-barcelona-12-octubre-1qrt-1tna_4442130/",
-      "https://20minutos.es/nacional/rey-preside-un-12-marcado-por-las-elecciones-protesta-por-vivienda-horas-antes-su-historica-visita-ceuta-melilla_7046749_0.html"
-    ],
-    "createdAt": "2026-10-12T01:31:23.000Z",
-    "updatedAt": "2026-10-12T18:40:42Z"
-  },
-  {
-    "id": "fr-2026-10-12-movilizacion-liceos-estudiantes",
-    "seccion": "internacionales",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "",
-    "fecha": "2026-10-12",
-    "lugar": "París y principales ciudades de Francia (concentraciones y bloqueos ante liceos y universidades)",
-    "tipoAccion": "movilizacion",
-    "organizaciones": [
-      "Organizaciones de liceales y estudiantes",
-      "Unión Nacional de Estudiantes de Francia (UNEF)",
-      "Federación Sindical Unitaria (FSU)",
-      "Intersindical estudiantil y docente"
-    ],
-    "motivo": "Los liceales y estudiantes franceses continúan este lunes 12 de octubre una nueva semana de movilización, la quinta desde mediados de septiembre, con bloqueos de liceos en París, Marsella, Toulouse y Rennes y manifestaciones en todo el país. El presidente Emmanuel Macron llamó al «respeto» mientras el gobierno espera que el movimiento empiece a remitir antes de las vacaciones de mitad de curso, y la Francia Insumisa y los sindicatos preparan un «acto V» nacional para el martes 13 de octubre y una jornada contra la carestía de la vida para el sábado 17. Los estudiantes reclaman mayores recursos para la educación pública, menos alumnos por aula, la sustitución de docentes ausentes y mejores condiciones edilicias, tras jornadas previas que movilizaron a más de 250.000 personas.",
-    "status": "en_curso",
-    "lat": 48.8566,
-    "lng": 2.3522,
-    "fuentes": [
-      "https://www.thehindu.com/news/international/france-braces-for-fresh-student-demonstrations-as-macron-calls-for-respect/article71576578.ece",
-      "https://www.france24.com/fr/info-en-continu/20261012-nouvelle-semaine-de-mobilisation-lyc%C3%A9enne-le-gouvernement-esp%C3%A8re-une-accalmie",
-      "https://www.cnews.fr/france/2026-10-12/mobilisation-lyceenne-appel-contre-la-vie-chere-quoi-faut-il-sattendre-les-13-et",
-      "https://www.sudouest.fr/societe/mobilisation-lyceenne-le-gouvernement-espere-une-accalmie-avant-une-nouvelle-semaine-de-manifestations-31029301.php"
-    ],
-    "createdAt": "2026-10-12T08:34:59.000Z",
-    "updatedAt": "2026-10-12T18:40:42Z"
-  },
-  {
-    "id": "in-2026-10-12-protesta-medicos-junior-osmania-hyderabad",
-    "seccion": "internacionales",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "09:00",
-    "fecha": "2026-10-12",
-    "lugar": "Hospital General de Osmania (OGH), Hyderabad, Telangana, India",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Osmania Medical College Junior Doctors Association (OMC JUDA)"
-    ],
-    "motivo": "La Asociación de Médicos Residentes del Osmania Medical College (OMC JUDA) realizó este lunes 12 de octubre una protesta de 9:00 a 14:00 ante el Hospital General de Osmania, en Hyderabad (Telangana), exigiendo acción urgente sobre las deficiencias de infraestructura y el equipamiento médico no funcional (ventiladores, laboratorio de cateterismo, rayos X y endoscopios) que afectan la atención de pacientes y la formación clínica. Estudiantes de pregrado, internos, residentes y médicos suspendieron consultas externas y cirugías electivas, manteniendo emergencias y atención esencial, y advirtieron que podrían intensificar la agitación —con paros indefinidos en otros hospitales docentes de Telangana— si las autoridades no dan respuestas con plazos concretos, en medio de retrasos en el pago de las facturas de Aarogyasri.",
-    "status": "en_curso",
-    "lat": 17.385,
-    "lng": 78.4867,
-    "fuentes": [
-      "https://www.thehindu.com/news/cities/Hyderabad/junior-doctors-protest-at-osmania-general-hospital-over-deficient-facilities-non-functional-medical-equipment/article71574318.ece",
-      "https://telanganatoday.com/osmania-hospital-faces-disruption-as-medical-students-and-residents-strike",
-      "https://medicaldialogues.in/news/health/doctors/osmania-medical-college-junior-doctors-protest-over-infrastructure-working-conditions-181056"
-    ],
-    "createdAt": "2026-10-12T08:34:59.000Z",
-    "updatedAt": "2026-10-12T18:40:42Z"
-  },
-  {
-    "id": "cl-2026-10-12-marcha-pueblos-originarios-santiago",
-    "seccion": "internacionales",
-    "pais": "Chile",
-    "bandera": "🇨🇱",
-    "hora": "10:00",
-    "fecha": "2026-10-12",
-    "lugar": "Cerro Santa Lucía (Huelén) por la Alameda hasta Plaza Los Héroes, Santiago, Chile",
-    "tipoAccion": "movilizacion",
-    "organizaciones": [
-      "Asamblea Unión de los Pueblos 12 de Octubre",
-      "Resistencia mapuche urbana y organizaciones de pueblos originarios",
-      "Organizaciones sociales, estudiantiles y de derechos humanos"
-    ],
-    "motivo": "En el Día del Encuentro de Dos Mundos, la asamblea «Unión de los Pueblos 12 de Octubre» encabezó este lunes 12 de octubre una marcha anticolonial por la autonomía y desmilitarización, que partió a las 10:00 del cerro Santa Lucía (Huelén) con una ceremonia machitún y avanzó por la Alameda hasta Plaza Los Héroes con cientos de participantes. Los manifestantes exigieron el fin del extractivismo minero-forestal, la protección de la Ley Lafkenche, la despenalización de la hoja de coca, la revitalización de las lenguas indígenas, el fin del estado de excepción y la desmilitarización del Wallmapu y la libertad de los presos políticos mapuche. La jornada terminó con incidentes aislados y 17 detenidos por Carabineros en el centro de Santiago.",
-    "status": "en_curso",
-    "lat": -33.4401,
-    "lng": -70.6483,
-    "fuentes": [
-      "https://www.latercera.com/nacional/noticia/pueblos-originarios-marchan-en-santiago-con-consignas-sobre-ley-lafkenche-estado-de-excepcion-y-extractivismo/",
-      "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/10/12/con-incidentes-menores-se-desarrollo-marcha-por-12-de-octubre-en-santiago.shtml",
-      "https://www.infobae.com/america/agencias/2026/10/12/marcha-de-pueblos-originarios-en-santiago-finaliza-con-17-detenidos-por-la-policia/",
-      "https://rebelion.org/es-convocada-marcha-anticolonial-este-12-de-octubre-a-las-10am-en-el-cerro-huelen-santiago/"
+      "https://www.rte.ie/news/analysis-and-comment/2026/1013/1595123-ireland-strike-explainer/",
+      "https://www.thejournal.ie/tui-industrial-action-today-7189795-Oct2026/",
+      "https://www.thejournal.ie/jack-chambers-strike-7190805-Oct2026/"
     ],
     "createdAt": "2026-10-12T18:34:06.000Z",
-    "updatedAt": "2026-10-12T18:40:42Z"
+    "updatedAt": "2026-10-13T01:14:31Z"
   },
   {
-    "id": "gt-2026-10-12-movilizaciones-codeca-ccda-fnl",
-    "seccion": "internacionales",
-    "pais": "Guatemala",
-    "bandera": "🇬🇹",
-    "hora": "07:00",
-    "fecha": "2026-10-12",
-    "lugar": "Cabeceras departamentales de los 22 departamentos y del Centro Cívico a la Plaza de la Constitución, Ciudad de Guatemala, Guatemala",
-    "tipoAccion": "movilizacion",
-    "organizaciones": [
-      "Comité de Desarrollo Campesino (CODECA)",
-      "Comité Campesino del Altiplano (CCDA)",
-      "Frente Nacional de Lucha (FNL)"
-    ],
-    "motivo": "CODECA, el CCDA y el FNL convocaron para este lunes 12 de octubre movilizaciones y caminatas simultáneas desde las 07:00 en las cabeceras de los 22 departamentos de Guatemala y una marcha desde el Centro Cívico hasta la Plaza de la Constitución y el Congreso. Los manifestantes exigen medidas urgentes contra la inflación y el alto costo de la vida, la reducción de los precios de los combustibles, la nacionalización de la energía eléctrica, la creación de refinerías y fertilizantes, un salario máximo para funcionarios, una Ley de Aguas y el cese de los desalojos campesinos, además de rechazar la corrupción y promover una asamblea constituyente popular y plurinacional. Se reportaron caminatas en las rutas CA-1, CA-2 y CA-13 y concentraciones en el centro histórico, sin bloqueos carreteros confirmados en las primeras horas.",
-    "status": "en_curso",
-    "lat": 14.6349,
-    "lng": -90.5069,
-    "fuentes": [
-      "https://www.prensalibre.com/guatemala/comunitario/en-vivo-manifestaciones-de-codeca-caminatas-se-desplazan-este-12-de-octubre-en-distintos-puntos-de-guatemala-breaking/",
-      "https://republica.com/actualidad/codeca-marcha-y-persiste-temor-a-nuevos-bloqueos-202610127530",
-      "https://emisorasunidas.com/nacional/2026/10/12/manifestacion-codeca-capital-lunes-12-octubre/",
-      "https://www.tn23.tv/caminatas-de-organizaciones-indigenas-y-el-fnl-transitan-en-tres-carreteras/"
-    ],
-    "createdAt": "2026-10-12T18:34:06.000Z",
-    "updatedAt": "2026-10-12T18:40:42Z"
-  },
-  {
-    "id": "it-2026-10-12-huelga-ex-ilva-taranto-genova",
+    "id": "it-2026-10-13-huelga-indefinida-ex-ilva-taranto-genova",
     "seccion": "internacionales",
     "pais": "Italia",
     "bandera": "🇮🇹",
-    "hora": "07:00",
-    "fecha": "2026-10-12",
+    "hora": "",
+    "fecha": "2026-10-13",
     "lugar": "Plantas ex Ilva de Taranto, Génova (Cornigliano), Novi Ligure, Racconigi, Salerno y Marghera, Italia",
     "tipoAccion": "huelga",
     "organizaciones": [
@@ -336,33 +254,32 @@
       "UILM-UIL",
       "USB"
     ],
-    "motivo": "Los trabajadores directos e indirectos de la ex Ilva iniciaron este lunes 12 de octubre un paro de 24 horas en todas las plantas del grupo (Taranto, Génova, Novi Ligure, Racconigi, Salerno y Marghera) que, tras la asamblea matinal, se transformó en huelga indefinida con bloqueos de accesos y carreteras: en Taranto se cortó el tránsito en las estatales 7 y 106 y se bloqueó el ingreso a la refinería Eni, mientras en Génova miles marcharon con la alcaldesa Silvia Salis hacia la Prefectura contra el cierre anunciado para el 15 de noviembre. Convocada por FIM, FIOM, UILM y USB tras fracasar el encuentro en Palazzo Chigi, la protesta exige un plan industrial y la protección del empleo ante la descarbonización, medidas extraordinarias (prejubilaciones e incentivos a la salida) y la corrección del decreto-ley que el Consejo de Ministros aprobará el 13 de octubre; los sindicatos no descartan movilizaciones en Bari el miércoles y en Roma el viernes.",
+    "motivo": "Los trabajadores directos e indirectos de la ex Ilva mantienen este martes 13 de octubre la huelga indefinida iniciada el 12 de octubre en todas las plantas del grupo (Taranto, Génova, Novi Ligure, Racconigi, Salerno y Marghera), con bloqueos de accesos y carreteras, después de que el paro de 24 horas se transformara en una acción sin fecha de fin. Convocada por FIM, FIOM, UILM y USB tras fracasar el encuentro en Palazzo Chigi, la protesta exige un plan industrial y la protección del empleo ante el cierre anunciado para el 15 de noviembre y la descarbonización, medidas extraordinarias de prejubilación e incentivos a la salida y la corrección del decreto-ley que el Consejo de Ministros aprobará el 13 de octubre; los sindicatos no descartan movilizaciones en Bari el miércoles y en Roma el viernes.",
     "status": "en_curso",
     "lat": 40.4644,
     "lng": 17.247,
     "fuentes": [
       "https://www.rainews.it/articoli/2026/10/ex-ilva-sciopero-in-tutti-i-siti-industriali-i-sindacati-nessuna-prospettiva-puglia-liguria-piemonte-b21f3732-6a86-4d49-8c4f-b21e881c4f8e.html",
       "https://en.ilsole24ore.com/art/former-ilva-taranto-and-all-out-strike-eni-access-point-blocked-self-organised-protest-in-bari-and-rome-AJsDcEhB",
-      "https://en.lamilano.it/genova/Former-Ilva-workers-are-on-a-24-hour-national-strike-from-Taranto-to-Genoa--with-workers-protesting-the-plant-closures./",
-      "https://www.genovatoday.it/cronaca/ex-ilva-protesta-piantedosi.html"
+      "https://en.lamilano.it/genova/Former-Ilva-workers-are-on-a-24-hour-national-strike-from-Taranto-to-Genoa--with-workers-protesting-the-plant-closures./"
     ],
     "createdAt": "2026-10-12T18:34:06.000Z",
-    "updatedAt": "2026-10-12T18:40:42Z"
+    "updatedAt": "2026-10-13T01:14:31Z"
   },
   {
-    "id": "it-2026-10-12-acampada-estudiantes-caro-vida",
+    "id": "it-2026-10-13-acampada-estudiantes-caro-vida",
     "seccion": "internacionales",
     "pais": "Italia",
     "bandera": "🇮🇹",
     "hora": "",
-    "fecha": "2026-10-12",
+    "fecha": "2026-10-13",
     "lugar": "Piazza Montecitorio y Sapienza (Roma) y una decena de universidades (Milán, Bolonia, Génova, Pavía, Lecce, entre otras), Italia",
     "tipoAccion": "otra",
     "organizaciones": [
       "Unione degli Universitari (UDU)",
       "Movimientos estudiantiles, espacios sociales y colectivos juveniles"
     ],
-    "motivo": "La Unione degli Universitari (UDU) lanzó este lunes 12 de octubre la movilización nacional «Cara Italia, quanto ci costi?» con acampadas de tiendas de campaña en Piazza Montecitorio, en la Sapienza de Roma y en una decena de universidades (Milán, Bolonia, Génova, Pavía, Lecce), en la estela de las protestas por la vivienda de España y Francia. Los estudiantes denuncian el carovida universitario, el fracaso de las políticas de vivienda y la mercantilización del derecho al estudio, y exigen al menos 7.000 millones de euros para la universidad pública, 1.700 millones para becas, un plan plurianual de 4.000 millones para alojamiento público, la abolición progresiva de las tasas y un bienestar estudiantil real; convocaron una rueda de prensa para el martes 13 a las 11:00 bajo la Minerva.",
+    "motivo": "La Unione degli Universitari (UDU) mantiene este martes 13 de octubre las acampadas de tiendas de campaña lanzadas el 12 de octubre bajo el lema «Cara Italia, quanto ci costi?» en Piazza Montecitorio, en la Sapienza de Roma y en una decena de universidades (Milán, Bolonia, Génova, Pavía, Lecce, entre otras), con una rueda de prensa prevista a las 11:00 bajo la Minerva. Los estudiantes denuncian el carovita universitario, el fracaso de las políticas de vivienda y la mercantilización del derecho al estudio, y exigen al menos 7.000 millones de euros para la universidad pública, 1.700 millones para becas, un plan plurianual de 4.000 millones para alojamiento público, la abolición progresiva de las tasas y un bienestar estudiantil real.",
     "status": "en_curso",
     "lat": 41.9028,
     "lng": 12.4964,
@@ -372,16 +289,16 @@
       "https://www.ansa.it/lazio/notizie/2026/10/12/piamo-casa-come-in-spagna-arrivano-le-tende-alla-sapienza-di-roma_e3b038a7-d3c5-4fe9-987f-aba0011b28f6.html"
     ],
     "createdAt": "2026-10-12T18:34:06.000Z",
-    "updatedAt": "2026-10-12T18:40:42Z"
+    "updatedAt": "2026-10-13T01:14:31Z"
   },
   {
-    "id": "it-2026-10-12-protesta-agricultores-caro-carburante",
+    "id": "it-2026-10-13-protesta-agricultores-caro-carburante",
     "seccion": "internacionales",
     "pais": "Italia",
     "bandera": "🇮🇹",
     "hora": "",
-    "fecha": "2026-10-12",
-    "lugar": "Prefettura de Bari (olivicultores), Vibo Marina (Vibo Valentia), Satriano di Lucania (Potenza) y provincia de Foggia, Italia",
+    "fecha": "2026-10-13",
+    "lugar": "Falerna (Catanzaro), Prefectura de Bari, Vibo Marina (Vibo Valentia), Satriano di Lucania (Potenza) y provincia de Foggia, Italia",
     "tipoAccion": "protesta",
     "organizaciones": [
       "Orgoglio Olivicolo",
@@ -389,7 +306,7 @@
       "Movimento Territorio e Agricoltura",
       "Agricultores y autotrasportadores"
     ],
-    "motivo": "Agricultores, olivicultores y autotrasportadores italianos mantienen este lunes 12 de octubre una jornada de protesta contra el caro carburante y el aumento de los costes de producción, con miles de personas concentradas ante la Prefectura de Bari convocadas por Orgoglio Olivicolo y Confagricoltura Bari-Bat por la crisis del sector olivarero, un presidio en Vibo Marina (Vibo Valentia) con tractores bloqueando el acceso a los depósitos de combustible, una movilización en la zona industrial de Satriano di Lucania (Potenza) y nuevos presidios en la provincia de Foggia. Los manifestantes denuncian el aumento del gasóleo, fertilizantes y energía, y presentaron un pliego de diez demandas al Gobierno y a la Región de Puglia; hay convocatorias anunciadas en Falerna (Catanzaro) el 13 y en Roma el 14 de octubre.",
+    "motivo": "Agricultores, olivicultores y autotrasportadores italianos mantienen este martes 13 de octubre la jornada de protesta contra el caro carburante y el aumento de los costes de producción, con presidios y tractores previstos en Falerna (Catanzaro) y la continuidad de las movilizaciones de Bari, Vibo Marina (Vibo Valentia), Satriano di Lucania (Potenza) y la provincia de Foggia. Los manifestantes denuncian el aumento del gasóleo, los fertilizantes y la energía, y presentaron un pliego de diez demandas al Gobierno y a la Región de Puglia, con una nueva movilización anunciada en Roma para el 14 de octubre.",
     "status": "en_curso",
     "lat": 41.1171,
     "lng": 16.8719,
@@ -399,109 +316,165 @@
       "https://www.infooggi.it/articolo/caro-carburante-trattori-e-camion-in-strada-e-la-protesta-guarda-oltre/156518"
     ],
     "createdAt": "2026-10-12T18:34:06.000Z",
-    "updatedAt": "2026-10-12T18:40:42Z"
+    "updatedAt": "2026-10-13T01:14:31Z"
   },
   {
-    "id": "ie-2026-10-12-accion-industrial-sector-publico",
+    "id": "ke-2026-10-13-huelga-universidades-publicas-uasu-kusu-kudheiha",
     "seccion": "internacionales",
-    "pais": "Irlanda",
-    "bandera": "🇮🇪",
+    "pais": "Kenia",
+    "bandera": "🇰🇪",
     "hora": "",
-    "fecha": "2026-10-12",
-    "lugar": "Todo el país: escuelas de secundaria, educación superior y servicios públicos, Irlanda",
+    "fecha": "2026-10-13",
+    "lugar": "Universidades públicas de todo Kenia, con los campus cerrados, Kenia",
     "tipoAccion": "huelga",
     "organizaciones": [
-      "Teachers' Union of Ireland (TUI)",
-      "Irish Congress of Trade Unions (ICTU)",
-      "Fórsa y demás sindicatos del sector público"
+      "UASU (Universities Academic Staff Union)",
+      "KUSU (Kenya Universities Staff Union)",
+      "KUDHEIHA (Kenya Union of Domestic, Hotels, Educational Institutions, Hospitals and Allied Workers)"
     ],
-    "motivo": "Más de 23.000 afiliados del Teachers' Union of Ireland (TUI) iniciaron este lunes 12 de octubre una acción industrial de brazos caídos, dejando de responder correos y llamadas fuera del horario contractual y retirándose de las horas Croke Park, en el marco del conflicto por el pago del sector público tras expirar el acuerdo colectivo. La medida forma parte de una escalada que incluye una huelga general del sector público el miércoles 14 de octubre —la mayor desde 2009— y una segunda jornada el miércoles 21, después de que los sindicatos rechazaran la oferta del ministro Jack Chambers de llevar el conflicto a la Comisión de Relaciones Laborales.",
+    "motivo": "La huelga nacional indefinida de docentes y personal de las universidades públicas de Kenia, iniciada el 2 de octubre por UASU, KUSU y KUDHEIHA, continúa este martes 13 de octubre tras colapsar las negociaciones del 12 de octubre, cuando los sindicatos rechazaron por «totalmente insuficiente» la oferta gubernamental de 12.000 millones de chelines. Sin fecha confirmada de retorno a las aulas, las 35 universidades públicas permanecen cerradas y más de 600.000 estudiantes siguen fuera de clases mientras los gremios exigen el cumplimiento íntegro del Convenio Colectivo 2025-2029, el pago de salarios, promociones y pensiones atrasadas y la reapertura de los campus.",
     "status": "en_curso",
-    "lat": 53.3498,
-    "lng": -6.2603,
+    "lat": -0.7215,
+    "lng": 37.1522,
     "fuentes": [
-      "https://www.thejournal.ie/tui-industrial-action-today-7189795-Oct2026/",
-      "https://www.thejournal.ie/jack-chambers-strike-7190805-Oct2026/"
+      "https://educationnews.co.ke/news/uasu-strike-deepens-as-sh12-billion-pay-offer-collapses-deadlock-persists",
+      "https://www.livenowafrica.com/education/article/university-lecturers-reject-sh12-billion-offer-as-strike-talks-collapse",
+      "https://www.standardmedia.co.ke/education/article/2001559979/no-deal-no-classes-as-lecturers-reject-government-offer",
+      "https://uasutum.net/news/uasu-strike-enters-critical-week-as-inter-ministerial-committee-meets-monday"
     ],
-    "createdAt": "2026-10-12T18:34:06.000Z",
-    "updatedAt": "2026-10-12T18:40:42Z"
+    "createdAt": "2026-10-09T08:27:51.000Z",
+    "updatedAt": "2026-10-13T01:14:31Z"
   },
   {
-    "id": "bo-2026-10-12-cacerolazo-tarija-fedjuve",
+    "id": "mx-2026-10-13-megamarcha-nacional-imss-cdmx",
     "seccion": "internacionales",
-    "pais": "Bolivia",
-    "bandera": "🇧🇴",
-    "hora": "",
-    "fecha": "2026-10-12",
-    "lugar": "Tarija, Departamento de Tarija, Bolivia",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Federación Departamental de Juntas Vecinales (Fedjuve) de Tarija"
-    ],
-    "motivo": "La Federación Departamental de Juntas Vecinales (Fedjuve) de Tarija encabeza este lunes 12 de octubre una marcha y un cacerolazo vecinal en rechazo al incremento de precios de los productos de la canasta familiar, la escasez de combustible y la situación económica del país. La movilización forma parte de una semana con anuncios de medidas de presión de distintos sectores bolivianos: organizaciones afines al expresidente Evo Morales iniciarán el martes una marcha hacia La Paz, el Comité Pro Santa Cruz advirtió con medidas escalonadas y la Central Obrera Boliviana (COB) convocó un ampliado nacional para el jueves, todo en un contexto de estado de excepción vigente y refuerzo policial en rutas de Cochabamba.",
-    "status": "en_curso",
-    "lat": -21.5355,
-    "lng": -64.7296,
-    "fuentes": [
-      "https://elandaluz.com.bo/2026/10/12/rodrigo-paz-rechaza-amenazas-y-dice-el-bloqueo-es-la-muerte-mientras-sectores-alistan-medidas-de-presion/",
-      "https://conexionbol.com/departamentos/tarija/tarija-anuncia-un-cacerolazo-contra-el-aumento-de-los-productos-basicos/"
-    ],
-    "createdAt": "2026-10-12T18:34:06.000Z",
-    "updatedAt": "2026-10-12T18:40:42Z"
-  },
-  {
-    "id": "ar-2026-10-12-concentracion-pueblos-originarios-san-jose-1111",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
+    "pais": "México",
+    "bandera": "🇲🇽",
     "hora": "15:00",
-    "fecha": "2026-10-12",
-    "lugar": "Puerta de la casa de la ex presidenta Cristina Kirchner, San José 1111, Ciudad Autónoma de Buenos Aires, Argentina",
+    "fecha": "2026-10-13",
+    "lugar": "Centro Médico Nacional Siglo XXI (Av. Cuauhtémoc 330, colonia Doctores) a Palacio Nacional, Ciudad de México; plantones en Paseo de la Reforma y Condesa y movilizaciones en varios estados, México",
     "tipoAccion": "movilizacion",
     "organizaciones": [
-      "Organizaciones de Pueblos Originarios",
-      "Pueblos y Naciones Indígenas de la Patria Grande"
+      "Trabajadores activos, jubilados y pensionados del IMSS",
+      "Secciones disidentes del SNTSS",
+      "Coordinadora Nacional de Trabajadores de la Educación (CNTE)",
+      "Sindicato Nacional de Trabajadores del STC Metro (SNTSTC)",
+      "Trabajadores del ISSSTE y de Pemex"
     ],
-    "motivo": "Organizaciones de Pueblos Originarios y de la Patria Grande se concentran este lunes 12 de octubre, Día del Respeto a la Diversidad Cultural, desde las 15:00 en la puerta de la casa de la ex presidenta Cristina Kirchner, en San José 1111 de la Ciudad de Buenos Aires, en rechazo a la restauración del «Día de la Raza» impulsada por el gobierno de Javier Milei y en reivindicación del Decreto 1584/2010 que renombró la fecha. La jornada incluye un mural en vivo, una ceremonia ancestral, coplas «para Cristina», una muestra de danza folclórica paraguaya y música en vivo. Los convocantes rechazan la derogación de la Ley 26.160 de propiedad comunitaria indígena, la extranjerización del territorio y la persecución y criminalización de las comunidades, bajo la consigna «Defendemos nuestra madre Tierra y decimos NO a la extranjerización de nuestro territorio. Basta de perseguir a los pueblos Originarios».",
-    "status": "en_curso",
-    "lat": -34.6228,
-    "lng": -58.3835,
+    "motivo": "Trabajadores activos y jubilados del IMSS realizarán este martes 13 de octubre, a las 15:00, una megamarcha nacional que partirá del Centro Médico Nacional Siglo XXI (avenida Cuauhtémoc, colonia Doctores) rumbo a Palacio Nacional, con movilizaciones paralelas en estados como Morelia (16:00), Campeche, Nayarit y Chihuahua. La marcha se realiza un día antes de la consulta salarial del SNTSS del 14 de octubre y exige un aumento directo del 10 % al sueldo base (frente al 6,8 % pactado por la dirigencia), abasto de medicamentos e insumos, cobertura de vacantes, la destitución del secretario general Rafael Olivos Hernández y un congreso nacional extraordinario. Se prevé la participación de la CNTE, trabajadores del Metro, del ISSSTE y de Pemex; continúan los plantones en Paseo de la Reforma 476, en la sede sindical de la colonia Condesa y en la alcaldía Gustavo A. Madero.",
+    "status": "convocada",
+    "lat": 19.4108,
+    "lng": -99.1526,
     "fuentes": [
-      "https://noticiasargentinas.com/politica/pueblos-originarios-rechazan-el--dia-de-la-raza--y-se-concentraran-en-la-puerta-de-la-casa-de-cristina-kirchner_a6acc20d3f61ec7711f817da8",
-      "https://huelladelsur.ar/2026/10/11/pueblos-y-naciones-originarias-estamos-en-emergencia-institucional-y-territorial-por-el-negacionismo-politico-social/",
-      "https://panoramadirecto.com/frente-a-la-casa-de-cristina-kirchner-pueblos-originarios-marchan-contra-el-dia-de-la-raza-de-milei/",
-      "https://es.killbait.com/pueblos-originarios-convocan-concentracion-frente-a-casa-de-cristina-kirchner-para-rechazar-cambio-de-denominacion-del-dia-de-la-raza.html"
+      "https://www.eluniversal.com.mx/nacion/trabajadores-del-imss-adelantan-marcha-nacional-para-el-martes-13-de-octubre-sindicato-llama-al-dialogo/",
+      "https://www.ambito.com/mexico/informacion-general/marcha-trabajadores-del-imss-cdmx-este-martes-13-octubre-2026-hora-ruta-y-alternativas-viales-n6332776",
+      "https://www.elgrafico.mx/al-dia/2026/10/12/megamarcha-de-trabajadores-del-imss-este-martes-13-de-octubre-en-cdmx-calles-afectadas-y-rutas-alternas/",
+      "https://www.nmas.com.mx/movilidad/marchas/mega-marcha-nacional-imss-13-octubre-2026-ruta-donde-inicia-manifestacion-cdmx-trabajadores/"
     ],
-    "createdAt": "2026-10-12T01:34:16.000Z",
-    "updatedAt": "2026-10-12T18:40:42Z"
+    "createdAt": "2026-10-09T15:30:07.000Z",
+    "updatedAt": "2026-10-13T01:14:31Z"
   },
   {
-    "id": "ar-2026-10-12-cierre-39-encuentro-plurinacional-cordoba",
+    "id": "gb-2026-10-13-cost-of-living-day-of-action-westminster",
+    "seccion": "internacionales",
+    "pais": "Reino Unido",
+    "bandera": "🇬🇧",
+    "hora": "10:30",
+    "fecha": "2026-10-13",
+    "lugar": "Mary Sumner House, 24 Tufton Street, Westminster, Londres, y Cámara de los Comunes, Reino Unido",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "Cost of Living Action (COLA)",
+      "Organizaciones y sindicatos contra la crisis del costo de vida"
+    ],
+    "motivo": "La coalición Cost of Living Action (COLA) y sus socios celebrarán este martes 13 de octubre, desde las 10:30, una «Jornada de Acción contra el Costo de Vida» en Westminster (Mary Sumner House, 24 Tufton Street), con reuniones entre ciudadanos y sus diputados y un photocall de grupo en la Cámara de los Comunes. Los convocantes exigen al nuevo primer ministro un «presupuesto contra el costo de vida» que aborde los problemas estructurales de la economía británica y reclaman medidas frente a la crisis que erosiona los presupuestos de millones de hogares.",
+    "status": "convocada",
+    "lat": 51.4966,
+    "lng": -0.128,
+    "fuentes": [
+      "https://actionnetwork.org/events/cost-of-living-day-of-action"
+    ],
+    "createdAt": "2026-10-13T01:05:35.000Z",
+    "updatedAt": "2026-10-13T01:14:31Z"
+  },
+  {
+    "id": "ve-2026-10-13-marcha-miraflores-salud-educacion-caracas",
+    "seccion": "internacionales",
+    "pais": "Venezuela",
+    "bandera": "🇻🇪",
+    "hora": "09:00",
+    "fecha": "2026-10-13",
+    "lugar": "Desde la esquina Corazón de Jesús (Ipasme La Hoyada, avenida Universidad) hasta el Palacio de Miraflores, Caracas; concentraciones ante las gobernaciones de los estados, Venezuela",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "Federación de Trabajadores de la Salud (Fetrasalud)",
+      "Federación Venezolana de Maestros (FVM)",
+      "Asociación de Profesores de la Universidad Central de Venezuela (APUCV)",
+      "Comité Nacional de Conflicto de Trabajadores en Lucha (CNCTL)",
+      "Acuerdo Sindical Unitario"
+    ],
+    "motivo": "Gremios de la salud, la educación y el sector universitario marcharán este martes 13 de octubre, a partir de las 09:00, desde la esquina Corazón de Jesús (Ipasme La Hoyada, avenida Universidad) hasta el Palacio de Miraflores en Caracas, donde entregarán unas 40.000 firmas a la presidenta encargada Delcy Rodríguez. Convocada por Fetrasalud, la Federación Venezolana de Maestros (FVM) y la APUCV, junto al CNCTL y el Acuerdo Sindical Unitario, la movilización exige un aumento salarial urgente, que el aguinaldo se calcule sobre el ingreso integral y no sobre el salario mínimo congelado en 130 bolívares desde 2022, la extensión del bono de profesionalización a jubilados y al personal administrativo y obrero, y la reactivación de las convenciones colectivas; habrá concentraciones simultáneas ante las gobernaciones de cada estado.",
+    "status": "convocada",
+    "lat": 10.5061,
+    "lng": -66.915,
+    "fuentes": [
+      "https://www.elnacional.com/2026/10/maestros-se-sumaran-a-la-movilizacion-del-sector-salud-este-13-de-octubre-para-exigir-mejoras-salariales/",
+      "https://elpitazo.net/regiones/gran-caracas/trabajadores-marchan-a-miraflores-este-13oct-exigiran-aumento-de-salario/",
+      "https://el-politico.com/politica/gremios-de-salud-y-educacion-anuncian-que-llevaran-40-mil-firmas-a-miraflores-para-exigir-respuestas-salariales-este-13-de-octubre/",
+      "https://lanoticiadehoy.com/gremios-marcharan-miraflores-13-octubre-salarios-aguinaldos/"
+    ],
+    "createdAt": "2026-10-13T01:05:35.000Z",
+    "updatedAt": "2026-10-13T01:14:31Z"
+  },
+  {
+    "id": "ar-2026-10-13-toma-filosofia-letras-uba-puan",
     "seccion": "protestas_ar",
     "pais": "Argentina",
     "bandera": "🇦🇷",
-    "hora": "09:00",
-    "fecha": "2026-10-12",
-    "lugar": "Av. Concepción de Arenales 700 y apacheta malonera de la Universidad Nacional de Córdoba (Pabellón Residencial UNC), ciudad de Córdoba, Argentina",
-    "tipoAccion": "movilizacion",
+    "hora": "",
+    "fecha": "2026-10-13",
+    "lugar": "Facultad de Filosofía y Letras de la UBA (sede Puan, Av. Puan 480) y corte en Puan y Rivadavia, Ciudad Autónoma de Buenos Aires, Argentina",
+    "tipoAccion": "toma",
     "organizaciones": [
-      "Comisión Organizadora del 39° Encuentro Plurinacional de Mujeres, Lesbianas, Trans, Travestis, Bisexuales, Intersexuales y No Binaries",
-      "Colectivos y organizaciones feministas, de diversidades sexuales y de derechos humanos de todo el país"
+      "Centro de Estudiantes de Filosofía y Letras de la UBA",
+      "Asociación Gremial Docente de la UBA (AGD-UBA)",
+      "Estudiantes de la UBA"
     ],
-    "motivo": "El 39° Encuentro Plurinacional de Mujeres, Lesbianas, Trans, Travestis, Bisexuales, Intersexuales y No Binaries celebra este lunes 12 de octubre su tercera y última jornada en la ciudad de Córdoba, tras reunir a más de 150.000 personas desde el sábado 10. A las 9:00 se realiza el acto de cierre con la lectura de las conclusiones y la elección de la próxima sede sobre la avenida Concepción de Arenales, y a las 17:00 la ceremonia espiritual de cierre en la apacheta malonera de la Universidad Nacional de Córdoba. El Encuentro reclama contra las políticas de ajuste del gobierno de Javier Milei y del gobernador Martín Llaryora, por la defensa de los derechos conquistados, el aborto legal, la separación de la Iglesia y el Estado y la derogación del DNU 70/2023, con un llamado a movilizar el 15 de octubre frente al Congreso.",
+    "motivo": "Los estudiantes de la Facultad de Filosofía y Letras de la Universidad de Buenos Aires (UBA) tomaron la sede de Puan a partir de este martes 13 de octubre, en la previa de la Quinta Marcha Federal Universitaria del jueves 15. La medida, resuelta en asamblea por el Centro de Estudiantes, incluye clases públicas, jornadas de visibilización durante todo el día y un corte de calle en la intersección de Puan y Rivadavia, y busca preparar una huelga general el jueves. Los manifestantes reclaman el cumplimiento de la Ley de Financiamiento Universitario (27.795), la recomposición salarial de docentes y no docentes, la actualización de las Becas Progresar y el rechazo al DNU 70/2023, y convocan a extender las tomas al resto del movimiento estudiantil.",
     "status": "en_curso",
-    "lat": -31.42,
-    "lng": -64.188,
+    "lat": -34.6184,
+    "lng": -58.4004,
     "fuentes": [
-      "https://www.cba24n.com.ar/cordoba/grilla-completa-del-39---encuentro-plurinacional-de-mujeres-en-cordoba_a6ac56f91cc189232befa91fa",
-      "https://cadenalaser.com/nota/39-encuentro-plurinacional-en-cordoba-cronograma-marchas-y-actividades-del-sabado-al-lunes",
-      "https://www.enteratenoticias.com.ar/actualidad/encuentro-plurinacional-mujeres-diversidades-cordoba-2026/",
-      "https://cordobainforma.com.ar/cordoba-vibra-con-el-39-o-encuentro-plurinacional-agenda-completa-de-talleres-marchas-y-cultura/",
-      "https://www.laizquierdadiario.com/Enterate-como-sera-el-39o-Encuentro-Plurinacional-de-Mujeres-y-Diversidad-Sexual-en-Cordoba",
-      "https://cordoba.gob.ar/encuentro-plurinacional-esquema-desvios/",
-      "https://www.laarena.com.ar/el-pais/comenzo-el-encuentro-de-mujeres-2026-202610110270"
+      "https://www.eldestapeweb.com/politica/previo-marcha-universitaria-estudiantes-filo-uba-tomaran-sede-martes-2026108222926",
+      "https://grupolaprovincia.com/contenido/602389/la-universidad-publica-redobla-la-protesta-contra-milei-rumbo-a-la-quinta-marcha",
+      "https://www.examedia.com.ar/portada/post/88019805"
     ],
-    "createdAt": "2026-10-12T01:34:16.000Z",
-    "updatedAt": "2026-10-12T18:40:42Z"
+    "createdAt": "2026-10-13T01:09:11.000Z",
+    "updatedAt": "2026-10-13T01:14:31Z"
+  },
+  {
+    "id": "ar-2026-10-13-paro-nacional-pami-medicos-odontologos",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-10-13",
+    "lugar": "Todo el país: consultorios de médicos de cabecera y odontólogos que atienden a afiliados del PAMI, Argentina",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "Asociación de Profesionales de la Salud (APPAMIA)"
+    ],
+    "motivo": "Los médicos de cabecera y odontólogos que atienden a afiliados del PAMI iniciaron este martes 13 de octubre un paro nacional de 96 horas que se extenderá hasta el viernes 16, convocado por la Asociación de Profesionales de la Salud (APPAMIA). La medida reclama una actualización de las cápitas que cobran los profesionales: los médicos perciben $2.700 por paciente y piden $4.500, mientras que los odontólogos cobran $374 y exigen entre $1.500 y $3.000. Durante las cuatro jornadas quedarán suspendidos los turnos programados, las consultas de rutina, las derivaciones a especialistas y las transcripciones de recetas habituales, mientras se mantienen las guardias mínimas y las recetas de urgencia; el conflicto se da tras un paro previo de 72 horas y con el Gobierno buscando destrabar la negociación.",
+    "status": "en_curso",
+    "lat": -34.6037,
+    "lng": -58.3816,
+    "fuentes": [
+      "https://www.lagaceta.com.ar/nota/1157682/politica/paro-medicos-pami-96-horas-reclaman-suba-honorarios-podrian-suspenderse-turnos.html",
+      "https://www.mdzol.com/politica/2026/10/12/medicos-y-odontologos-de-pami-inician-un-paro-nacional-de-96-horas-y-el-gobierno-busca-destrabar-el-1987463.html",
+      "https://www.canal26.com/general/2026/10/12/paro-nacional-de-96-horas-en-pami-medicos-de-cabecera-y-odontologos-no-atenderan-durante-4-dias-esta-semana/",
+      "https://www.adnsur.com.ar/sociedad/pami--medicos-y-odontologos-haran-un-paro-de-cuatro-dias-y-suspenden-los-turnos-programados_a6acc2c5e91e3233f31104ae2"
+    ],
+    "createdAt": "2026-10-13T01:09:11.000Z",
+    "updatedAt": "2026-10-13T01:14:31Z"
   }
 ]
