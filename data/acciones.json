@@ -23,7 +23,7 @@
       "https://www.puntal.com.ar/contenidos/pais.html"
     ],
     "createdAt": "2026-10-16T01:09:08.000Z",
-    "updatedAt": "2026-10-16T01:12:57Z"
+    "updatedAt": "2026-10-16T06:30:23Z"
   },
   {
     "id": "ar-2026-10-16-medidas-fuerza-judiciales-uejn-tierra-del-fuego",
@@ -47,7 +47,7 @@
       "https://gremialesdelsur.com.ar/buscar?q=PwC"
     ],
     "createdAt": "2026-10-16T01:09:08.000Z",
-    "updatedAt": "2026-10-16T01:12:57Z"
+    "updatedAt": "2026-10-16T06:30:23Z"
   },
   {
     "id": "ar-2026-10-16-paro-escalonado-uba-facultad-veterinarias",
@@ -73,6 +73,313 @@
       "https://www.perfil.com/noticias/politica/docentes-y-no-docentes-de-la-uba-lanzan-un-paro-de-23-dias-y-convocan-a-una-nueva-marcha-federal-universitaria.phtml"
     ],
     "createdAt": "2026-10-16T01:09:08.000Z",
-    "updatedAt": "2026-10-16T01:12:57Z"
+    "updatedAt": "2026-10-16T06:30:23Z"
+  },
+  {
+    "id": "int-2026-10-16-albania-protestas-estudiantes-tirana",
+    "seccion": "internacionales",
+    "pais": "Albania",
+    "bandera": "🇦🇱",
+    "hora": "",
+    "fecha": "2026-10-16",
+    "lugar": "Tirana y otras ciudades (Elbasan, Shkoder), Albania",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Movimiento estudiantil (flamingo)",
+      "Grupos estudiantiles universitarios",
+      "Oposición conservadora (Partido Democrático)"
+    ],
+    "motivo": "Cuarta jornada consecutiva de protestas estudiantiles anti-gobierno en Albania. Miles de estudiantes y manifestantes exigen la renuncia del primer ministro Edi Rama por corrupción generalizada, el mal estado del sistema educativo, el alto costo de los estudios y las escasas perspectivas laborales de los graduados, así como por la venta de parte de la costa sur del país al complejo turístico de lujo vinculado a la firma de Jared Kushner. Desde el martes 13 los manifestantes han incendiado sedes del premier, ministerios y sucursales bancarias; la protesta se ha extendido a universidades de Elbasan y Shkoder. Rama rechazó renunciar y prometió mantenerse al frente del gobierno para completar la adhesión de Albania a la UE. El jueves 15 la policía actuó con cañones de agua y gases lacrimógenos; hoy se reportan 47 detenidos por daños a propiedad.",
+    "status": "en_curso",
+    "lat": 41.3275,
+    "lng": 19.8187,
+    "fuentes": [
+      "https://euronews.al/dita-e-kater-e-protestes-47-te-arrestuar-per-shkaterrim-prone-rama-i-prere-kundra-doreheqjes-edhe-ne-qytete-te-tjera-tensione/",
+      "https://apnews.com/article/albania-protests-tirana-police-clashes-2c04ef79a5bbbfcf054b161111c85b50",
+      "https://www.aljazeera.com/news/2026/10/15/boiling-point-why-students-are-protesting-against-albanias-edi-rama",
+      "https://www.theguardian.com/world/2026/oct/15/albania-prime-minister-edi-rama-vows-not-to-resign-student-led-protests"
+    ],
+    "createdAt": "2026-10-16T06:06:51.000Z",
+    "updatedAt": "2026-10-16T06:30:23Z"
+  },
+  {
+    "id": "int-2026-10-16-francia-blocage-liceos-nacional",
+    "seccion": "internacionales",
+    "pais": "Francia",
+    "bandera": "🇫🇷",
+    "hora": "",
+    "fecha": "2026-10-16",
+    "lugar": "Liceos de toda Francia; cierres confirmados en Martigues, Rennes, Clermont-Ferrand, Montauban y Saint-Denis, entre otros",
+    "tipoAccion": "bloqueo",
+    "organizaciones": [
+      "Union syndicale lycéenne (USL)",
+      "Liceístas de secundaria"
+    ],
+    "motivo": "El movimiento lycéen continúa este viernes 16 de octubre, último día lectivo antes de las vacaciones de la Toussaint, con bloqueos y cierres de liceos en decenas de departamentos. Los estudiantes denuncian la falta de medios en la Educación nacional, las malas condiciones de estudio, la presión escolar y Parcoursup. Tras el fracaso de las conversaciones con el secretario general del Ministerio de Educación Edouard Geffray, la Union syndicale lycéenne exige hablar directamente con Matignon y anunció que el movimiento se extenderá durante las vacaciones. Varios rectores suspendieron clases presenciales (Martigues, Rennes, Clermont-Ferrand, Montauban, Saint-Denis), y la universidad de Tours consulta en línea a sus estudiantes sobre mantener los bloqueos iniciados el 1 de octubre. Una nueva jornada de manifestación está anunciada para el sábado 17.",
+    "status": "en_curso",
+    "lat": 48.8566,
+    "lng": 2.3522,
+    "fuentes": [
+      "https://mavigilance.fr/jour/2026-10-16",
+      "https://www.20minutes.fr/societe/4254797-20261016-direct-blocus-lycees-echec-discussions-edouard-geffray-union-syndicale-lyceenne-veut-parler-matignon",
+      "https://www.ouest-france.fr/education/direct-mobilisation-lyceenne-le-mouvement-va-se-poursuivre-pendant-les-vacances-selon-les-syndicats-37b069f9-7c7c-4f3e-9eab-c4352191b61a",
+      "https://www.laprovence.com/article/societe/28172018348093/mobilisation-lyceenne-les-etablissements-lurcat-langevin-et-brise-lames-resteront-fermes-vendredi-16-octobre"
+    ],
+    "createdAt": "2026-10-16T06:06:51.000Z",
+    "updatedAt": "2026-10-16T06:30:23Z"
+  },
+  {
+    "id": "int-2026-10-16-italia-sciopero-nacional-escuela-sisa",
+    "seccion": "internacionales",
+    "pais": "Italia",
+    "bandera": "🇮🇹",
+    "hora": "",
+    "fecha": "2026-10-16",
+    "lugar": "Escuelas de todos los órdenes y grados de Italia, incluidas las escuelas italianas en el exterior",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "SISA - Sindacato Indipendente Scuola e Ambiente",
+      "USB Pubblico Impiego Scuola (provincia de Livorno)"
+    ],
+    "motivo": "Huelga nacional de 24 horas convocada por SISA para todo el personal docente, directivo y ATA (estable y temporal) del Comparto y el Área de Educación e Investigación durante la jornada completa del 16 de octubre, según aviso del Ministero de Educación (aviso n. 60 del 9 de octubre). Las demandas centrales son un aumento salarial neto del 20% para recuperar la inflación, un rol único docente con igual horario y retribución en todos los niveles, la abolición de los 60 CFU para acceder a la docencia, nuevas contrataciones para cubrir vacantes y mejoras en el trabajo precario. De forma paralela, USB Pubblico Impiego Scuola convoca una huelga específica en las instituciones escolares de la provincia de Livorno. Los estudiantes del colectivo Osa han anunciado concentraciones, incluida una en Piazza dell'Esquilino en Roma a las 8:30.",
+    "status": "en_curso",
+    "lat": 41.9028,
+    "lng": 12.4964,
+    "fuentes": [
+      "https://www.mim.gov.it/documents/20182/0/AVVISO+DI+SCIOPERO_16+ottobre_2026_per+pubblicazione+MIM.pdf/cc7c85af-5e14-52ea-4e90-9873a8b32734?t=1791558121395&version=1.0",
+      "https://www.adnkronos.com/cronaca/sciopero-scuola-venerdi-16-ottobre-motivi_3F8LpcNTYtTwBuYFWf6RpH",
+      "https://www.corriere.it/economia/lavoro/26_ottobre_15/sciopero-venerdi-16-ottobre-dalla-scuola-agli-aerei-chi-si-ferma-studenti-in-piazza-con-i-prof-1312e31c-8447-469c-8f9d-bfeb816e8xlk.shtml",
+      "https://bo.istruzioneer.gov.it/2026/10/09/sciopero-16-ottobre-2026/"
+    ],
+    "createdAt": "2026-10-16T06:06:51.000Z",
+    "updatedAt": "2026-10-16T06:30:23Z"
+  },
+  {
+    "id": "int-2026-10-16-italia-sciopero-easyjet-navegantes",
+    "seccion": "internacionales",
+    "pais": "Italia",
+    "bandera": "🇮🇹",
+    "hora": "",
+    "fecha": "2026-10-16",
+    "lugar": "Aeropuertos de todo Italia (vuelos nacionales e internacionales de EasyJet)",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "USB Lavoro Privato"
+    ],
+    "motivo": "Huelga nacional de 24 horas (de 00:00 a 23:59) del personal navegante (pilotos y auxiliares de vuelo) de la compañía EasyJet Airlines Limited, convocada por USB Lavoro Privato y comunicada a la ENAC. La medida puede provocar retrasos y cancelaciones de vuelos en los aeropuertos italianos; la ENAC publicó la lista de vuelos mínimos garantidos y recordó las franjas horarias de protección (7-10 y 18-21). Los pasajeros afectados por cancelaciones o retrasos tienen derecho a reembolso y a vuelo alternativo según el reglamento europeo al no tratarse de una situación extraordinaria.",
+    "status": "en_curso",
+    "lat": 41.8003,
+    "lng": 12.2389,
+    "fuentes": [
+      "https://www.enac.gov.it/app/uploads/2026/09/Comunicazione-Sciopero-personale-EASY-JET-del-16-ottobre-2026.pdf",
+      "https://scioperi.mit.gov.it/mit2/public/scioperi?dataFine=05%2F10%2F2026&dataInizio=18%2F09%2F2026",
+      "https://www.gazzetta.it/Motori/15-10-2026/sciopero-easyjet-16-ottobre-orari-e-voli-garantiti.shtml",
+      "https://aeroportodinapoli.it/en/web/gesac/w/friday-16-october-national-strike-by-easyjet-flight-personnel"
+    ],
+    "createdAt": "2026-10-16T06:06:51.000Z",
+    "updatedAt": "2026-10-16T06:30:23Z"
+  },
+  {
+    "id": "int-2026-10-16-india-marcha-tiranga-delhi",
+    "seccion": "internacionales",
+    "pais": "India",
+    "bandera": "🇮🇳",
+    "hora": "17:00",
+    "fecha": "2026-10-16",
+    "lugar": "Central Park, Connaught Place, Nueva Delhi, India",
+    "tipoAccion": "marcha",
+    "organizaciones": [
+      "Cockroach Janta Party (CJP)",
+      "Abhijeet Dipke (fundador de CJP)",
+      "AISA",
+      "AAP (Aam Aadmi Party)"
+    ],
+    "motivo": "El Cockroach Janta Party (CJP) convoca para hoy a las 17:00 una marcha 'Lehra Do Tiranga' (Deja ondear el tricolor) en Central Park de Connaught Place, Nueva Delhi, para exigir la renuncia del presidente de la Comisión Electoral (CEC) Gyanesh Kumar, el rollback de la Revisión Intensiva Especial (SIR) de los registros electorales y la liberación de sus dirigentes Saurav Das y Ashutosh Ranka, en prisión preventiva desde el martes 13 por ingresar a Jantar Mantar (desde donde fue retirado como sitio de protesta designado) y desplegar la bandera nacional. La Alta Corte de Delhi se negó a restringir la protesta. El NDMC cerró Central Park el 16 y 17 de octubre, y la policía desplegó más de 6.000 efectivos y 220 compañías de CAPF, imponiendo órdenes prohibitivas bajo el art. 163 del BNSS y restricciones de tráfico desde las 15:00 en Connaught Place y alrededores.",
+    "status": "en_curso",
+    "lat": 28.6315,
+    "lng": 77.2167,
+    "fuentes": [
+      "https://www.thehindu.com/news/national/cjp-delhi-tiranga-march-oct-16-2026-live-updates/article71590925.ece",
+      "https://indianexpress.com/article/india/breaking-india-news-live-updates-16-october-2026-cjp-lehra-do-tiranga-march-today-delhi-police-connaught-place-rahul-gandhi-india-bloc-gyanesh-kumar-abhijeet-dipke-10923853/",
+      "https://www.hindustantimes.com/india-news/cjp-protest-live-updates-abhijeet-dipke-march-delhi-police-central-park-connaught-place-mumbai-saurav-gyanesh-kumar-cp-101792111672915.html",
+      "https://www.indiatoday.in/cities/delhi/story/cjp-central-park-gathering-call-delhi-traffic-police-issues-advisory-ahead-of-proposed-assembly-in-connaught-place-3018472-2026-10-16"
+    ],
+    "createdAt": "2026-10-16T06:06:51.000Z",
+    "updatedAt": "2026-10-16T06:30:23Z"
+  },
+  {
+    "id": "int-2026-10-16-india-rally-tiranga-mumbai",
+    "seccion": "internacionales",
+    "pais": "India",
+    "bandera": "🇮🇳",
+    "hora": "11:00",
+    "fecha": "2026-10-16",
+    "lugar": "Azad Maidan, Mumbai, India",
+    "tipoAccion": "marcha",
+    "organizaciones": [
+      "Cockroach Janta Party (CJP)",
+      "Abhijeet Dipke (fundador de CJP)"
+    ],
+    "motivo": "El Cockroach Janta Party (CJP) realiza este viernes en Mumbai un rally 'Lehra Do Tiranga' en Azad Maidan, de 11:00 a 17:00, tras recibir permiso de la policía de Mumbai por tratarse de un sitio de protesta designado (confirmado por el DCP Manish Kalwaniya y el inspector jefe Raju Bidkar). La acción busca mostrar solidaridad con los dirigentes del partido Saurav Das y Ashutosh Ranka, enviados a prisión preventiva de cinco días en Tihar por ingresar sin autorización a Jantar Mantar y desplegar la bandera nacional, y se enmarca en la campaña nacional del CJP contra las irregularidades alegadas en la Revisión Intensiva Especial (SIR) de los registros electorales y por la renuncia del CEC Gyanesh Kumar. Es el programa paralelo a la marcha convocada en Delhi para las 17:00.",
+    "status": "en_curso",
+    "lat": 18.944,
+    "lng": 72.8354,
+    "fuentes": [
+      "https://timesofindia.indiatimes.com/city/mumbai/lehra-do-tiranga-cjps-protest-at-at-azad-maidan-today-against-arrest-of-its-founders/articleshow/134980544.cms",
+      "https://indianexpress.com/article/cities/mumbai/cjp-permission-tiranga-rally-in-mumbai-azad-maidan-delhi-nod-awaited-10923325/",
+      "https://www.freepressjournal.in/mumbai/mumbai-police-grant-cjp-permission-to-hold-lehrao-tiranga-rally-at-azad-maidan-on-friday",
+      "https://www.siasat.com/mumbai-give-cjp-permission-for-lehra-do-tiranga-at-azad-maidan-3559013/"
+    ],
+    "createdAt": "2026-10-16T06:06:51.000Z",
+    "updatedAt": "2026-10-16T06:30:23Z"
+  },
+  {
+    "id": "int-2026-10-16-india-huelga-ambulancias-jharkhand",
+    "seccion": "internacionales",
+    "pais": "India",
+    "bandera": "🇮🇳",
+    "hora": "",
+    "fecha": "2026-10-16",
+    "lugar": "Oficina del National Health Mission (NHM), Ranchi; servicio de ambulancias 108 en todo el estado de Jharkhand, India",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "Jharkhand Pradesh Ambulance Employees Union (Jharkhand Pradesh Ambulance Karamchari Sangh)"
+    ],
+    "motivo": "Unos 2.000 conductores y técnicos médicos de emergencia (EMT) del servicio estatal de ambulancias 108 de Jharkhand continúan este viernes su perturbación de 36-40 horas anunciada desde las 20:00 del 15 de octubre hasta las 8:00 del 17, y protagonizan una sentada (dharna) frente a la oficina del National Health Mission en Ranchi como etapa siguiente de su plan de lucha. Exigen salarios atrasados (sin cobrar desde julio), la readmisión de compañeros despedidos, aportes de EPF y ESI, pagos de horas extras y gratificación. El NHM ordenó a la agencia Samman Foundation contratar personal alternativo para mantener el servicio. Si sus demandas no se resuelven, el sindicato amenaza con una huelga indefinida a escala estatal desde el 21 de octubre que dejaría sin servicio a la flota de 500 ambulancias durante la temporada festiva.",
+    "status": "en_curso",
+    "lat": 23.3441,
+    "lng": 85.3096,
+    "fuentes": [
+      "https://www.amarujala.com/jharkhand/ranchi/indefinite-strike-by-108-ambulance-staff-from-october-21-protest-to-be-held-today-in-front-of-the-nhm-office-ranchi-news-c-1-1-noi1475-4839178-2026-10-16",
+      "https://jharkhandheadlines.com/jharkhand-108-ambulance-strike-october-15-21-2026-nhm-protest/",
+      "https://timesofindia.indiatimes.com/city/ranchi/108-ambulance-workers-threaten-indefinite-stir-from-oct-21-over-pending-salaries/articleshow/134897234.cms",
+      "https://www.etvbharat.com/hi/state/strike-by-108-ambulance-workers-in-jharkhand-jhs26101508546"
+    ],
+    "createdAt": "2026-10-16T06:06:51.000Z",
+    "updatedAt": "2026-10-16T06:30:23Z"
+  },
+  {
+    "id": "int-2026-10-16-sri-lanka-monjes-gnanasara-colombo",
+    "seccion": "internacionales",
+    "pais": "Sri Lanka",
+    "bandera": "🇱🇰",
+    "hora": "",
+    "fecha": "2026-10-16",
+    "lugar": "Frente a la Secretaría Presidencial, Colombo, Sri Lanka",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Monjes budistas (liderados por Ven. Ulapane Sumangala Thera)"
+    ],
+    "motivo": "Un grupo de monjes budistas, que marchó desde Kandy hasta Colombo, mantiene este viernes el segundo día de protesta frente a la Secretaría Presidencial exigiendo la liberación del Ven. Galagoda Aththe Gnanasara Thera. Los monjes pernoitaron en el lugar tras no alcanzar un acuerdo con funcionarios de la Secretaría el jueves 15, y se retiraron de la entrada directa del edificio a la acera opuesta de Galle Road a petición de la policía, reabriendo el tránsito. El magistrado de Colombo Fort, Pasan Amarasena, emitió hoy una orden judicial que restringe a Ven. Ulapane Sumangala Thera y a otras 54 personas (30 de ellas monjes) de permanecer dentro de las premises de la Secretaría Presidencial.",
+    "status": "en_curso",
+    "lat": 6.9271,
+    "lng": 79.8612,
+    "fuentes": [
+      "https://www.newswire.lk/2026/10/16/court-restricts-55-protesters-including-30-monks-from-occupying-presidential-secretariat-premises/",
+      "https://www.newswire.lk/2026/10/16/monks-continue-protest-outside-presidential-secretariat/",
+      "https://www.dailymirror.lk/breaking-news/Monks-remain-outside-Presidential-Secretariat-demanding-Gnanasara-Theras-release/108-352631",
+      "https://www.ft.lk/news/Monks-continue-protest-for-Gnanasara-Thera-s-release-as-talks-stall/56-798716"
+    ],
+    "createdAt": "2026-10-16T06:06:51.000Z",
+    "updatedAt": "2026-10-16T06:30:23Z"
+  },
+  {
+    "id": "int-2026-10-16-kenia-huelga-profesores-universitarios",
+    "seccion": "internacionales",
+    "pais": "Kenia",
+    "bandera": "🇰🇪",
+    "hora": "",
+    "fecha": "2026-10-16",
+    "lugar": "Universidades públicas de todo Kenia; sede del Parlamento, Tesoro Nacional y Ministerio de Educación en Nairobi",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "Universities Academic Staff Union (UASU)",
+      "Kenya Universities Staff Union (KUSU)",
+      "KUDHEIHA"
+    ],
+    "motivo": "La huelga nacional de personal universitario, en su segunda semana desde el 2 de octubre, continúa este viernes tras el fracaso de las conversaciones de crisis del lunes 12, cuando los sindicatos rechazaron la oferta gubernamental de 12.000 millones de chelines por considerarla insuficiente. UASU, KUSU y KUDHEIHA exigen la implementación plena del Convenio Colectivo 2025-2029, el pago de 7.900 millones en salarios atrasados acumulados bajo convenios anteriores, contratación de personal académico adicional, la absorción de docentes de tiempo parcial y mejoras en asignaciones y financiación de investigación. El secretario general de UASU, Constantine Wasonga, advirtió que la huelga podría prolongarse hasta fin de año si el gobierno impone un regreso al trabajo; miles de estudiantes siguen sin clases. Los sindicatos realizaron una mega-marcha en Nairobi el jueves 15 y han vuelto a notificar a la policía su intención de mantener la presión.",
+    "status": "en_curso",
+    "lat": -1.2921,
+    "lng": 36.8219,
+    "fuentes": [
+      "https://nation.africa/kenya/news/education/students-bear-brunt-as-lecturers-dig-in-over-strike-demands-5633574",
+      "https://educationnews.co.ke/news/university-lecturers-strike-could-extend-to-christmas-kusu-warns",
+      "https://www.kenyans.co.ke/news/127798-university-lecturers-reject-ksh-12b-offer-strike-talks-collapse",
+      "https://nation.africa/kenya/news/education/stalemate-crisis-talks-fail-to-unlock-lecturers-strike-5624934"
+    ],
+    "createdAt": "2026-10-16T06:06:51.000Z",
+    "updatedAt": "2026-10-16T06:30:23Z"
+  },
+  {
+    "id": "int-2026-10-16-reino-unido-rally-embajador-israeli",
+    "seccion": "internacionales",
+    "pais": "Reino Unido",
+    "bandera": "🇬🇧",
+    "hora": "17:30",
+    "fecha": "2026-10-16",
+    "lugar": "Cerca de la residencia del embajador israelí, NW3, Londres, Reino Unido",
+    "tipoAccion": "manifestación",
+    "organizaciones": [
+      "International Jewish Anti-Zionist Network (IJAN-UK)",
+      "Jewish Network for Palestine (JNP)"
+    ],
+    "motivo": "Rally semanal de una hora (17:30-18:30 BST) convocado por IJAN-UK y la Jewish Network for Palestine frente a la residencia del embajador de Israel en Londres, Tzipi Hotevely, exigiendo su expulsión del Reino Unido por incitar al genocidio. Es la continuación de la protesta semanal que ambos colectivos judíos palestinos mantienen cada viernes desde hace más de dos años, con convocatorias confirmadas también para los días 23 y 30 de octubre.",
+    "status": "en_curso",
+    "lat": 51.556,
+    "lng": -0.178,
+    "fuentes": [
+      "https://events.worldbeyondwar.org/event/weekly-rally-expel-the-israeli-ambassador-tzipi-hotevely-from-the-uk-for-inciting-genocide-2/2026-10-16/",
+      "https://events.worldbeyondwar.org/series/weekly-rally-expel-the-israeli-ambassador-tzipi-hotevely-from-the-uk-for-inciting-genocide/"
+    ],
+    "createdAt": "2026-10-16T06:06:51.000Z",
+    "updatedAt": "2026-10-16T06:30:23Z"
+  },
+  {
+    "id": "int-2026-10-16-portugal-acampada-vivienda-porto",
+    "seccion": "internacionales",
+    "pais": "Portugal",
+    "bandera": "🇵🇹",
+    "hora": "",
+    "fecha": "2026-10-16",
+    "lugar": "Praça D. João I, Oporto, Portugal",
+    "tipoAccion": "acampada",
+    "organizaciones": [
+      "Movimento pela Habitação"
+    ],
+    "motivo": "El Movimento pela Habitação mantiene la acampada en la Praça D. João I de Oporto, en su séptimo día consecutivo, tras la carga policial de la madrugada del 15 de octubre que dejó 39 heridos (dos de gravedad) y un policía lesionado cuando la PSP intentó retirar las tiendas. Tras una manifestación de unas 2.500 personas el jueves por la tarde que llegó hasta la Cámara Municipal do Porto, los manifestantes votaron en asamblea popular permanecer y pernoitar en la plaza sin levantar tiendas, desafiando la advertencia del alcalde Pedro Duarte de ser «absolutamente implacable» con los campamentos. El movimiento reclama la bajada de la ley de rentas, el fin de los desalojos y de la compra de inmuebles por fondos buitre, más vivienda pública, la recuperación de edificios vacíos y topes a las rentas; tiene autorización para manifestarse hasta el 20 de octubre y ha convocado una manifestación en Lisboa para el sábado.",
+    "status": "en_curso",
+    "lat": 41.1496,
+    "lng": -8.611,
+    "fuentes": [
+      "https://www.rtp.pt/noticias/pais/manifestantes-votam-pela-permanencia-e-pernoita-na-praca-d-joao-i_n1771976",
+      "https://www.rtp.pt/noticias/pais/montenegro-afasta-pais-em-turbulencia-dezenas-de-feridos-em-investida-da-policia-contra-manifestantes-no-porto_n1771773",
+      "https://www.dn.pt/sociedade/manifestantes-levam-protesto-at-porta-da-cmara-do-porto",
+      "https://eco.sapo.pt/2026/10/15/assembleia-popular-no-porto-avalia-mudar-de-local-permanecer-ou-acampar/"
+    ],
+    "createdAt": "2026-10-16T06:06:51.000Z",
+    "updatedAt": "2026-10-16T06:30:23Z"
+  },
+  {
+    "id": "int-2026-10-16-turquia-trabajadores-salud-istanbul",
+    "seccion": "internacionales",
+    "pais": "Turquía",
+    "bandera": "🇹🇷",
+    "hora": "",
+    "fecha": "2026-10-16",
+    "lugar": "Hospitales y centros de salud de Estambul, Turquía",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "Sağlık ve Sosyal Hizmet Emekçileri Sendikası (SES)"
+    ],
+    "motivo": "Segundo y último día del trabajo de baja (iş bırakma) de dos días convocado por el SES (Sindicato de Trabajadores de la Salud y Servicios Sociales) del 15 al 16 de octubre en Estambul. La medida afecta a personal de salud con hijos menores de 8 años y protesta contra la decisión del Gobernación de Estambul de excluir a las trabajadoras de la salud —y a sus hijos— del permiso administrativo otorgado a otros funcionarios tras el cierre de escuelas por las lluvias. El SES denuncia que la carga del cuidado infantil se carga solo a las madres y que la decisión muestra el trato del sistema hacia las mujeres; exige que uno de los padres (ambos trabajadores de la salud) pueda quedarse con sus hijos durante la medida.",
+    "status": "en_curso",
+    "lat": 41.0082,
+    "lng": 28.9784,
+    "fuentes": [
+      "https://dokuz8haber.net/sesten-istanbuldaki-idari-izin-kararina-tepki-saglik-emekcileri-15-16-ekimde-iki-gun-is-birakacak",
+      "https://ses.org.tr/tag/is-birakma/"
+    ],
+    "createdAt": "2026-10-16T06:06:51.000Z",
+    "updatedAt": "2026-10-16T06:30:23Z"
   }
 ]
