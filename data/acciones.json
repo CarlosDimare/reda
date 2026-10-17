@@ -1,5 +1,35 @@
 [
   {
+    "id": "ar-2026-10-17-dia-lealtad-movilizacion-san-jose-1111",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "14:30",
+    "fecha": "2026-10-17",
+    "lugar": "Sede del PJ porteño (San José 181) y caravana hasta San José y Humberto I°, Constitución, Ciudad de Buenos Aires, frente al domicilio de Cristina Fernández de Kirchner (San José 1111); acto del PJ bonaerense en el polideportivo Juan Domingo Perón, González Catán, La Matanza; y actos en Chaco, Tucumán, La Pampa y otras provincias",
+    "tipoAccion": "manifestación",
+    "organizaciones": [
+      "Partido Justicialista (PJ nacional y PJ Ciudad de Buenos Aires)",
+      "La Cámpora",
+      "Militancia peronista y kirchnerista",
+      "Movimiento Derecho al Futuro (PJ bonaerense)"
+    ],
+    "motivo": "El peronismo conmemoró el Día de la Lealtad con actos divididos y movilizaciones en todo el país. La principal fue en la Ciudad de Buenos Aires: tras un acto en la sede del PJ porteño (San José 181, desde las 14:30), columnas de militancia marcharon en caravana hasta las inmediaciones de San José 1111, en Constitución, frente al domicilio donde cumple prisión domiciliaria la expresidenta Cristina Fernández de Kirchner, quien saludó desde el balcón. La convocatoria, encabezada por el PJ y sectores kirchneristas y de La Cámpora, reclamó 'la libertad de Cristina y el fin de su proscripción' —en el segundo 17 de octubre con la titular del PJ nacional detenida— y llamó a 'organizarse, movilizarse y unirse'. En paralelo, el gobernador Axel Kicillof encabezó el acto del PJ bonaerense en el polideportivo Juan Domingo Perón de González Catán (La Matanza), con una asistencia prevista superior a las 30.000 personas, y Máximo Kirchner hizo lo propio en Resistencia (Chaco) junto a Jorge Capitanich; hubo además actos provinciales en Tucumán, La Pampa y otras jurisdicciones. Los actos expusieron la interna del peronismo de cara a las elecciones de 2027.",
+    "status": "finalizada",
+    "lat": -34.625,
+    "lng": -58.384,
+    "fuentes": [
+      "https://www.lanacion.com.ar/politica/dia-de-la-lealtad-el-pj-pidio-por-la-libertad-de-cristina-kirchner-y-el-fin-de-su-proscripcion-nid17102026/",
+      "https://www.crececatamarca.com.ar/index.php/noticias-bloque-01/dia-de-la-lealtad-con-un-acto-en-la-matanza-y-con-una-movilizacion-frente-a-la-casa-de-cristina",
+      "https://www.lanoticia1.com/noticia/el-peronismo-dividido-en-el-dia-de-la-lealtad-kicillof-en-la-matanza-maximo-en-chaco-y-massa-sin-actos-previstos",
+      "https://www.iprofesional.com/actualidad/466844-cristina-kirchner-y-el-pj-por-las-visitas-ni-siquiera-se-aplica-a-los-narcotraficantes",
+      "https://andigital.com.ar/nota/144320/dia-de-la-lealtad-el-peronismo-conmemora-el-17-de-octubre-dividido",
+      "https://www.lagaceta.com.ar/nota/1158452/politica/dia-lealtad-tucuman-jaldo-encabezara-acto-peronismo-hipodromo.html"
+    ],
+    "createdAt": "2026-10-17T23:47:01.000Z",
+    "updatedAt": "2026-10-17T23:53:59Z"
+  },
+  {
     "id": "int-2026-10-17-francia-jornada-nacional-jaunes-et-jeunes",
     "seccion": "internacionales",
     "pais": "Francia",
@@ -34,7 +64,7 @@
       "https://www.lanacion.com.ar/el-mundo/masivas-protestas-sacuden-el-gobierno-de-macron-en-francia-fuertes-choques-con-la-policia-y-mas-de-nid17102026/"
     ],
     "createdAt": "2026-10-16T06:06:51.000Z",
-    "updatedAt": "2026-10-17T21:51:43Z"
+    "updatedAt": "2026-10-17T23:53:59Z"
   },
   {
     "id": "int-2026-10-17-estados-unidos-no-kings-vote-early",
@@ -54,7 +84,7 @@
       "50501 Movement"
     ],
     "motivo": "Cuarta jornada nacional de protestas 'No Kings', esta vez bajo el lema 'No Kings: Vote Early', con más de 3.000 acciones en todos los 50 estados. A diferencia de las anteriores, el foco es no partidario: promover el voto anticipado y la protección electoral antes de las elecciones legislativas del 3 de noviembre, con mítines, marchas a los centros de votación, block parties, caminatas y actividades de canvassing. Convocan la coalición No Kings, Indivisible, MoveOn, Public Citizen y Black Voters Matter, entre otras. Los eventos se extienden durante todo el día en los distintos husos horarios; en Washington los manifestantes se reunieron en el Lincoln Memorial.",
-    "status": "en_curso",
+    "status": "finalizada",
     "lat": 38.9072,
     "lng": -77.0369,
     "fuentes": [
@@ -69,7 +99,7 @@
       "https://www.chicagotribune.com/2026/10/17/valparaiso-no-kings-rally-supports-voting/"
     ],
     "createdAt": "2026-10-17T00:43:46.000Z",
-    "updatedAt": "2026-10-17T21:51:43Z"
+    "updatedAt": "2026-10-17T23:53:59Z"
   },
   {
     "id": "int-2026-10-17-estados-unidos-disneyland-cast-members",
@@ -94,7 +124,7 @@
       "https://ground.news/article/disneyland-guest-experiences-threatened-as-union-cast-members-to-stage-mass-rally"
     ],
     "createdAt": "2026-10-17T00:43:46.000Z",
-    "updatedAt": "2026-10-17T21:51:43Z"
+    "updatedAt": "2026-10-17T23:53:59Z"
   },
   {
     "id": "int-2026-10-17-estados-unidos-huelga-hambre-ice-folkston",
@@ -121,7 +151,7 @@
       "https://www.theguardian.com/us-news/2026/oct/07/ice-detention-facility-georgia"
     ],
     "createdAt": "2026-10-16T11:44:28.000Z",
-    "updatedAt": "2026-10-17T21:51:43Z"
+    "updatedAt": "2026-10-17T23:53:59Z"
   },
   {
     "id": "int-2026-10-17-canada-jornada-provincial-alberta-fight-back-now",
@@ -149,7 +179,7 @@
       "https://edmonton.citynews.ca/2026/10/15/carney-to-attend-pro-canada-rally-in-calgary-as-alberta-races-toward-referendum-vote/"
     ],
     "createdAt": "2026-10-17T05:18:14.000Z",
-    "updatedAt": "2026-10-17T21:51:43Z"
+    "updatedAt": "2026-10-17T23:53:59Z"
   },
   {
     "id": "int-2026-10-17-espana-acampada-vivienda-puerta-del-sol",
@@ -175,7 +205,7 @@
       "https://ground.news/article/the-camping-of-sol-for-the-house-begin-to-raise-the-descampada"
     ],
     "createdAt": "2026-10-17T00:43:46.000Z",
-    "updatedAt": "2026-10-17T21:51:43Z"
+    "updatedAt": "2026-10-17T23:53:59Z"
   },
   {
     "id": "int-2026-10-17-espana-huelga-indefinida-educacion-madrid",
@@ -205,7 +235,7 @@
       "https://www.hispantv.com/noticias/espana/682405/profesores-alumnos-madrid-protestan-educacion-publica"
     ],
     "createdAt": "2026-10-17T21:34:38.000Z",
-    "updatedAt": "2026-10-17T21:51:43Z"
+    "updatedAt": "2026-10-17T23:53:59Z"
   },
   {
     "id": "int-2026-10-17-kenia-huelga-personal-universitario",
@@ -231,7 +261,7 @@
       "https://mountkenyatimes.co.ke/kenyas-public-universities-shut-as-lecturers-strike-enters-sixth-day/"
     ],
     "createdAt": "2026-10-16T06:06:51.000Z",
-    "updatedAt": "2026-10-17T21:51:43Z"
+    "updatedAt": "2026-10-17T23:53:59Z"
   },
   {
     "id": "int-2026-10-17-reino-unido-huelga-chiltern-railways-rmt",
@@ -247,7 +277,7 @@
       "Chiltern Railways (train managers)"
     ],
     "motivo": "Los 'train managers' (jefes de tren) de Chiltern Railways, afiliados al sindicato RMT, realizan este sábado 17 de octubre una huelga de 24 horas (00:01-23:59) por el papel de seguridad del segundo tripulante en los nuevos servicios de East West Rail. El sindicato denuncia que la empresa no garantiza que el segundo miembro de la tripulación cumpla funciones críticas de seguridad frente a la operación solo por el conductor. Chiltern sostiene que mantendrá la gran mayoría de sus servicios; no habrá trenes entre Stratford-upon-Avon y Leamington Spa.",
-    "status": "en_curso",
+    "status": "finalizada",
     "lat": 51.5223,
     "lng": -0.1631,
     "fuentes": [
@@ -256,7 +286,7 @@
       "https://www.nationalrail.co.uk/service-disruptions/chiltern-railways-ia-20261001/"
     ],
     "createdAt": "2026-10-17T00:43:46.000Z",
-    "updatedAt": "2026-10-17T21:51:43Z"
+    "updatedAt": "2026-10-17T23:53:59Z"
   },
   {
     "id": "int-2026-10-17-reino-unido-huelga-teatro-leeds-nhs",
@@ -281,7 +311,7 @@
       "https://unison.org.uk/news/2026/09/pay-row-leeds-teaching-hospitals-nhs-trust-must-be-resolved-new-boss-appointed"
     ],
     "createdAt": "2026-10-17T05:18:14.000Z",
-    "updatedAt": "2026-10-17T21:51:43Z"
+    "updatedAt": "2026-10-17T23:53:59Z"
   },
   {
     "id": "int-2026-10-17-italia-protesta-camioneros-sur",
@@ -308,7 +338,7 @@
       "https://lamerce.it/en/news/truck-stoppage-in-calabria-and-sicily-deliveries-at-risk-from-9-to-20-october"
     ],
     "createdAt": "2026-10-17T00:43:46.000Z",
-    "updatedAt": "2026-10-17T21:51:43Z"
+    "updatedAt": "2026-10-17T23:53:59Z"
   },
   {
     "id": "int-2026-10-17-francia-taxis-bloqueos-accesos-aeropuertos-vtc",
@@ -325,7 +355,7 @@
       "FO Transports"
     ],
     "motivo": "Miles de taxistas mantienen bloqueos y cortes rodantes ('opérations escargot') en los accesos a los aeropuertos de París, acción 'reconductible' lanzada el 15 de octubre con unos 2.000 taxistas desde Porte Maillot hacia Roissy-Charles-de-Gaulle y que sus organizadores confirmaron que se extendería hasta este sábado 17 de octubre, en paralelo a la jornada nacional de movilización. Exigen 'zonas blancas' donde las aplicaciones de VTC no puedan asignar viajes en los aeropuertos, controles más duros de las tarjetas profesionales de los conductores VTC y el retorno de los 'chalecos azules' que orientan a los viajeros en las terminales. Además, varios sindicatos del transporte por carretera, como FO Transports, presentaron avisos de huelga con posibles bloqueos rodantes en el periférico y las autopistas hacia los aeropuertos.",
-    "status": "en_curso",
+    "status": "finalizada",
     "lat": 48.8767,
     "lng": 2.2836,
     "fuentes": [
@@ -335,7 +365,7 @@
       "https://www.connexionfrance.com/practical/calendar-dates-of-strikes-and-protests-in-france-this-october/819662"
     ],
     "createdAt": "2026-10-17T21:34:38.000Z",
-    "updatedAt": "2026-10-17T21:51:43Z"
+    "updatedAt": "2026-10-17T23:53:59Z"
   },
   {
     "id": "int-2026-10-17-portugal-manifestacion-nacional-cgtp",
@@ -364,7 +394,7 @@
       "https://es.euronews.com/2026/10/17/los-portugueses-vuelven-a-la-calle-por-la-vivienda-y-contra-la-subida-del-coste-de-la-vida"
     ],
     "createdAt": "2026-10-17T09:34:27.000Z",
-    "updatedAt": "2026-10-17T21:51:43Z"
+    "updatedAt": "2026-10-17T23:53:59Z"
   },
   {
     "id": "int-2026-10-17-venezolanos-diaspora-marcha-mundial",
@@ -391,7 +421,7 @@
       "https://www.minuto60.com/mundo/marcha-venezolanos-17-octubre-donde-sera-que-piden/17011"
     ],
     "createdAt": "2026-10-17T09:34:27.000Z",
-    "updatedAt": "2026-10-17T21:51:43Z"
+    "updatedAt": "2026-10-17T23:53:59Z"
   },
   {
     "id": "int-2026-10-17-india-protestas-anti-cec-sir",
@@ -417,10 +447,11 @@
       "https://www.thehindu.com/news/national/anti-cec-sir-protest-live-updates-oct-17-2026-cjp-tiranga-march-abhijeet-dipke-detained-delhi-police-neha-bora/article71595221.ece",
       "https://gulfnews.com/world/asia/india/delhi-tiranga-rally-cjp-founder-abhijeet-dipke-gets-conditional-bail-1.500714242",
       "https://economictimes.indiatimes.com/topic/sir-protests-in-delhi/videos",
-      "https://protesttracker.online/today"
+      "https://protesttracker.online/today",
+      "https://www.thehindu.com/news/cities/Delhi/delhi-anti-cec-protests-dipke-released-after-signing-peace-bond-sporadic-protests-continue/article71597306.ece"
     ],
     "createdAt": "2026-10-17T09:34:27.000Z",
-    "updatedAt": "2026-10-17T21:51:43Z"
+    "updatedAt": "2026-10-17T23:53:59Z"
   },
   {
     "id": "int-2026-10-17-mexico-planton-imss-sntss",
@@ -446,7 +477,7 @@
       "https://www.nmas.com.mx/sociedad/habra-marcha-del-imss-este-sabado-17-de-octubre-esto-exigen-trabajadores-del-seguro-social/"
     ],
     "createdAt": "2026-10-17T09:34:27.000Z",
-    "updatedAt": "2026-10-17T21:51:43Z"
+    "updatedAt": "2026-10-17T23:53:59Z"
   },
   {
     "id": "int-2026-10-17-republica-centroafricana-cacerolada-bangui",
@@ -469,7 +500,7 @@
       "https://www.rfi.fr/fr/afrique/20261016-centrafrique-des-organisateurs-d-une-journ%C3%A9e-ville-morte-contre-la-hausse-du-carburant-arr%C3%AAt%C3%A9s"
     ],
     "createdAt": "2026-10-17T09:34:27.000Z",
-    "updatedAt": "2026-10-17T21:51:43Z"
+    "updatedAt": "2026-10-17T23:53:59Z"
   },
   {
     "id": "int-2026-10-17-tunez-manifestacion-ugtt-tunis",
@@ -497,7 +528,7 @@
       "https://www.yahoo.com/news/world/articles/thousands-rally-biggest-protest-years-145724919.html"
     ],
     "createdAt": "2026-10-17T16:35:03.000Z",
-    "updatedAt": "2026-10-17T21:51:43Z"
+    "updatedAt": "2026-10-17T23:53:59Z"
   },
   {
     "id": "int-2026-10-17-sudafrica-marcha-anti-gbv-durban",
@@ -521,7 +552,7 @@
       "https://www.sabcnews.com/sabcnews/south-africa/"
     ],
     "createdAt": "2026-10-17T21:34:38.000Z",
-    "updatedAt": "2026-10-17T21:51:43Z"
+    "updatedAt": "2026-10-17T23:53:59Z"
   },
   {
     "id": "int-2026-10-17-palestina-protesta-gaza-yellow-line",
@@ -545,7 +576,7 @@
       "https://www.aljazeera.com/news/2026/10/13/gazas-yellow-line-advances-leaving-displaced-families-with-nowhere-to-go"
     ],
     "createdAt": "2026-10-17T16:35:03.000Z",
-    "updatedAt": "2026-10-17T21:51:43Z"
+    "updatedAt": "2026-10-17T23:53:59Z"
   },
   {
     "id": "int-2026-10-17-belgica-manifestacion-educacion-bruselas",
@@ -570,7 +601,7 @@
       "https://www.france24.com/es/francia/20261017-en-directo-fuertes-tensiones-entre-manifestantes-y-fuerzas-del-orden-en-una-jornada-de-protestas-en-francia"
     ],
     "createdAt": "2026-10-17T16:35:03.000Z",
-    "updatedAt": "2026-10-17T21:51:43Z"
+    "updatedAt": "2026-10-17T23:53:59Z"
   },
   {
     "id": "int-2026-10-17-espana-manifestacion-pasarela-reta-madrid",
@@ -598,7 +629,7 @@
       "https://www.eldiariodemadrid.es/articulo/madrid/manifestacion-mutualistas-pasarela-reta-madrid-17-octubre/20261004173359143279.html"
     ],
     "createdAt": "2026-10-17T16:35:03.000Z",
-    "updatedAt": "2026-10-17T21:51:43Z"
+    "updatedAt": "2026-10-17T23:53:59Z"
   },
   {
     "id": "int-2026-10-17-espana-manifestacion-justicia-sanidad-granada",
@@ -620,7 +651,7 @@
       "https://www.abc.es/espana/andalucia/granada/justicia-sanidad-convoca-manifestacion-granada-decada-despues-20261014223747-nts.html"
     ],
     "createdAt": "2026-10-17T16:35:03.000Z",
-    "updatedAt": "2026-10-17T21:51:43Z"
+    "updatedAt": "2026-10-17T23:53:59Z"
   },
   {
     "id": "int-2026-10-17-albania-protestas-estudiantes-tirana",
@@ -652,7 +683,7 @@
       "https://www.heraldo.es/noticias/internacional/2026/10/17/protestas-albania-disturbios-tirana-gobierno-207-heridos-2060487.html"
     ],
     "createdAt": "2026-10-17T19:00:26.000Z",
-    "updatedAt": "2026-10-17T21:51:43Z"
+    "updatedAt": "2026-10-17T23:53:59Z"
   },
   {
     "id": "int-2026-10-17-italia-in-piazza-manifestaciones-carovita",
@@ -681,7 +712,7 @@
       "https://www.ilmessaggero.it/italia/proteste_italia_oggi_cgil_scontri_polizia_sciopero_generale_novembre_milano_roma_ultime_notizie-9831369.html"
     ],
     "createdAt": "2026-10-17T19:00:26.000Z",
-    "updatedAt": "2026-10-17T21:51:43Z"
+    "updatedAt": "2026-10-17T23:53:59Z"
   },
   {
     "id": "int-2026-10-17-italia-cgil-manifestacion-roma-via-maestra",
@@ -710,7 +741,7 @@
       "https://tg.la7.it/cronaca/roma-corteo-cgil-la-via-maestra-landini-governo-impari-ad-ascoltare-non-ce-fa-piu-17-10-2026-264410"
     ],
     "createdAt": "2026-10-17T19:00:26.000Z",
-    "updatedAt": "2026-10-17T21:51:43Z"
+    "updatedAt": "2026-10-17T23:53:59Z"
   },
   {
     "id": "int-2026-10-17-mexico-marcha-vida-contra-pemex-cdmx",
@@ -733,7 +764,7 @@
       "Deuda por Clima"
     ],
     "motivo": "La 'Marcha por la vida y contra Pemex' recorrió la Ciudad de México este sábado 17 de octubre, partiendo a las 11:00 de las oficinas de la Secretaría de Energía hacia el Senado y la Torre Ejecutiva de Pemex, como clímax de una jornada continental de acciones del 10 al 17 de octubre contra el fracking. Exigen la prohibición legal del fracking (especialmente en la cuenca Tampico-Misantla), el fin de la expansión de la actividad fósil de Pemex, responsabilidades por derrames, incendios y accidentes ambientales (incluido el incendio de la refinería Olmeca y fugas en el Golfo de México), y una transición energética justa que no traslade costos ambientales a comunidades rurales, pueblos indígenas ni zonas cercanas a instalaciones petroleras. Demandan también distancia mínima de 10 km entre fracking y fuentes de agua, y la prohibición de 13 sustancias tóxicas. Manifestantes avanzaron por Av. Insurgentes durante la tarde.",
-    "status": "en_curso",
+    "status": "finalizada",
     "lat": 19.412,
     "lng": -99.1675,
     "fuentes": [
@@ -745,7 +776,7 @@
       "https://www.infobae.com/mexico/deportes/2026/10/17/en-vivo-bloqueos-accidentes-y-manifestaciones-hoy-sabado-17-de-octubre/"
     ],
     "createdAt": "2026-10-17T19:00:26.000Z",
-    "updatedAt": "2026-10-17T21:51:43Z"
+    "updatedAt": "2026-10-17T23:53:59Z"
   },
   {
     "id": "int-2026-10-17-alemania-berlin-solidaridad-protestas-francia",
@@ -770,6 +801,107 @@
       "https://www.berliner-zeitung.de/article/polizeigewerkschaft-warnt-extremisten-wollen-frankreich-proteste-nach-berlin-tragen-10501072"
     ],
     "createdAt": "2026-10-17T19:00:26.000Z",
-    "updatedAt": "2026-10-17T21:51:43Z"
+    "updatedAt": "2026-10-17T23:53:59Z"
+  },
+  {
+    "id": "int-2026-10-17-grecia-protesta-estudiantil-syntagma-enoikia",
+    "seccion": "internacionales",
+    "pais": "Grecia",
+    "bandera": "🇬🇷",
+    "hora": "",
+    "fecha": "2026-10-17",
+    "lugar": "Plaza Syntagma (frente al Parlamento), Atenas, Grecia",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Φοιτητικοί Σύλλοι (Sindicatos de Estudiantes de Atenas)",
+      "Sindicatos de estudiantes del Εθνικό Μετσόβιο Πολυτεχνείο (EMP/Universidad Politécnica Nacional)",
+      "Colectivos estudiantiles universitarios"
+    ],
+    "motivo": "Cientos de estudiantes salieron este sábado 17 de octubre a las calles de Atenas en la Plaza Syntagma, en el marco de la acampada y contra-campamento indefinida iniciada el 13 de octubre, para denunciar los alquileres impagables (hasta 600-700 euros por un estudio), el alto coste de los estudios y la escasez de residencias universitarias (cubren menos del 4% de la demanda). Exigen un tope a los alquileres, aumento del subsidio de vivienda estudiantil, residencias públicas y gratuitas, comedores y transporte gratuitos, y más financiación pública a las universidades. El lema de la convocatoria es «Δεν πάει άλλο» (No se puede más). La movilización se suma a la ola europea de protestas estudiantiles inspiradas en las jornadas de Francia y España; los sindicatos anunciaron nuevas acciones y una gran movilización para el martes 20 de octubre junto a profesores, alumnos y personal sanitario.",
+    "status": "en_curso",
+    "lat": 37.9755,
+    "lng": 23.7348,
+    "fuentes": [
+      "https://www.megatv.com/2026/10/17/stous-dromous-gia-to-dikaioma-sti-morfosi-ekatontades-foitites-esteilan-ixiro-minyma-gia-ta-akriva-enoikia/",
+      "https://www.ekriti.gr/ellada/kyma-orgis-stoys-dromoys-ekatontades-foitites-diadilosan-gia-ta-aplisiasta-enoikia",
+      "https://athina984.gr/2026/10/17/k-osmani-yparchei-ena-schedio-epithesis-stis-zoes-kai-stis-anagkes-ton-foititon/",
+      "https://greekreporter.com/2026/10/14/athens-student-housing-protest/",
+      "https://www.efsyn.gr/ellada/1487829/foitites-me-antiskina-sto-syntagma-na-spoydasoyme-i-na-epiviosoyme/"
+    ],
+    "createdAt": "2026-10-17T23:43:52.000Z",
+    "updatedAt": "2026-10-17T23:53:59Z"
+  },
+  {
+    "id": "int-2026-10-17-brasil-movilizacion-nacional-mujeres-lula",
+    "seccion": "internacionales",
+    "pais": "Brasil",
+    "bandera": "🇧🇷",
+    "hora": "",
+    "fecha": "2026-10-17",
+    "lugar": "Acciones en las cinco regiones de Brasil: São Paulo (Praça Ramos, 15:00), Río de Janeiro (Largo do Machado, 09:00), Brasilia (Praça Lúcio Costa, 15:00), Salvador (Campo Grande, 09:00), Recife (Praça do Diário, 08:00), Belo Horizonte (Praça Raul Soares, 15:00), Curitiba (Praça Santos Andrade, 13:00), Porto Alegre (Praça do Aeromóvel, 15:30), Florianópolis, Manaus, Belém, Fortaleza, Goiânia, entre otras ciudades",
+    "tipoAccion": "manifestación",
+    "organizaciones": [
+      "Central dos Trabalhadores e Trabalhadoras do Brasil (CTB)",
+      "Colectivos 'Mulheres com Lula'",
+      "Movimientos sociales y organizaciones de mujeres",
+      "Centrales sindicales aliadas"
+    ],
+    "motivo": "Día Nacional de Movilización de las Mujeres con Lula: decenas de actos, caminatas y actividades culturales en todas las regiones de Brasil este sábado 17 de octubre, en defensa de la democracia, los derechos de las mujeres, el enfrentamiento a la violencia de género y el femicidio, la igualdad salarial y la valorización de las trabajadoras, además de celebrar el fin de la escala laboral 6x1. Las movilizaciones, organizadas con vistas a las elecciones presidenciales del segundo turno del 25 de octubre, convocaron concentraciones en ciudades de las cinco regiones del país, con actos paralelos de apoyo a la democracia convocados por estudiantes, artistas y movimientos sociales.",
+    "status": "finalizada",
+    "lat": -14.235,
+    "lng": -51.9253,
+    "fuentes": [
+      "https://www.ctb.org.br/2026/10/16/mulheres-ocupam-as-ruas-de-todo-brasil-neste-sabado-17-em-defesa-da-democracia/",
+      "https://midianinja.org/atos-pelo-brasil-manifestacoes-pela-democracia-seguem-ate-a-vespera-do-segundo-turno/"
+    ],
+    "createdAt": "2026-10-17T23:43:52.000Z",
+    "updatedAt": "2026-10-17T23:53:59Z"
+  },
+  {
+    "id": "int-2026-10-17-colombia-planton-artes-museo-nacional-bogota",
+    "seccion": "internacionales",
+    "pais": "Colombia",
+    "bandera": "🇨🇴",
+    "hora": "",
+    "fecha": "2026-10-17",
+    "lugar": "Carrera Séptima con calle 30, frente al Museo Nacional, Bogotá, Colombia",
+    "tipoAccion": "plantón",
+    "organizaciones": [
+      "Colectivos de artistas, culturas y memorias de Bogotá",
+      "Convocantes del 'Plantón por nuestras artes, culturas y memorias'"
+    ],
+    "motivo": "Un plantón ciudadano pacífico 'por nuestras artes, culturas y memorias' se instaló este sábado 17 de octubre desde primera hora frente al Museo Nacional de Colombia, en la carrera Séptima con calle 30, para protestar contra las modificaciones en el guion museográfico del museo. La jornada, acompañada por el equipo de Diálogo Social de la Alcaldía y sin alteraciones al orden público, se extendió durante toda la tarde con afectación de un carril de circulación en la zona, y se produce en medio de una agenda de movilizaciones en Bogotá esta semana contra las políticas del gobierno de Abelardo de la Espriella.",
+    "status": "en_curso",
+    "lat": 4.6486,
+    "lng": -74.0588,
+    "fuentes": [
+      "https://bogota.gov.co/mi-ciudad/movilidad/2026-10/en-vivo-movilidad-bogota-y-rutas-transmilenio-hoy-17-de-octubre-2026",
+      "https://caracol.com.co/2026/10/17/jornada-de-protestas-frente-al-museo-nacional-tras-modificaciones-en-su-guion-museografico/"
+    ],
+    "createdAt": "2026-10-17T23:43:52.000Z",
+    "updatedAt": "2026-10-17T23:53:59Z"
+  },
+  {
+    "id": "int-2026-10-17-bangladesh-protesta-trabajadoras-textiles-uttara",
+    "seccion": "internacionales",
+    "pais": "Bangladés",
+    "bandera": "🇧🇩",
+    "hora": "10:30",
+    "fecha": "2026-10-17",
+    "lugar": "Uttara, carretera Dhaka-Mymensingh (zona Rajlakshmi/Azampur), Daca, Bangladés",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Trabajadoras y trabajadores de fábricas de confección (garment workers) de Uttara"
+    ],
+    "motivo": "Miles de trabajadoras y trabajadores de la industria de la confección mantienen las protestas diarias en Uttara desde el lunes 13 de octubre, exigiendo un salario mínimo mensual de 30.000 taka y el pago de salarios atrasados, ante la subida del costo de vida. Este sábado 17 de octubre, los trabajadores intentaron bloquear la carretera Dhaka-Mymensingh en el área de Rajlakshmi alrededor de las 10:30, lo que desató un choque con la policía: al menos 17 agentes resultaron heridos, un vehículo policial y una motocicleta fueron vandalizados, y las fuerzas del orden respondieron con granadas de sonido y cañones de agua para dispersar a los manifestantes, en el quinto día consecutivo de movilizaciones.",
+    "status": "en_curso",
+    "lat": 23.8759,
+    "lng": 90.3795,
+    "fuentes": [
+      "https://www.thedailystar.net/news/news/garment-workers-police-clash-uttara-4300801",
+      "https://asianews.network/in-photos-bangladesh-garment-workers-protests-bring-dhaka-traffic-to-a-standstill/"
+    ],
+    "createdAt": "2026-10-17T23:43:52.000Z",
+    "updatedAt": "2026-10-17T23:53:59Z"
   }
 ]
