@@ -1,138 +1,329 @@
 [
   {
-    "id": "ar-2026-10-17-dia-lealtad-movilizacion-san-jose-1111",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "14:30",
-    "fecha": "2026-10-17",
-    "lugar": "Sede del PJ porteño (San José 181) y caravana hasta San José y Humberto I°, Constitución, Ciudad de Buenos Aires, frente al domicilio de Cristina Fernández de Kirchner (San José 1111); acto del PJ bonaerense en el polideportivo Juan Domingo Perón, González Catán, La Matanza; y actos en Chaco, Tucumán, La Pampa y otras provincias",
+    "id": "int-2026-10-18-canada-mitin-unidad-edmonton-legislatura",
+    "seccion": "internacionales",
+    "pais": "Canadá",
+    "bandera": "🇨🇦",
+    "hora": "13:00",
+    "fecha": "2026-10-18",
+    "lugar": "Legislatura de Alberta, 10800 97 Ave NW, Edmonton, Alberta, Canadá",
     "tipoAccion": "manifestación",
     "organizaciones": [
-      "Partido Justicialista (PJ nacional y PJ Ciudad de Buenos Aires)",
-      "La Cámpora",
-      "Militancia peronista y kirchnerista",
-      "Movimiento Derecho al Futuro (PJ bonaerense)"
+      "Alberta Federation of Labour (AFL)",
+      "Fight Back Now!",
+      "Forever Canadian",
+      "Alberta NDP (Naheed Nenshi)"
     ],
-    "motivo": "El peronismo conmemoró el Día de la Lealtad con actos divididos y movilizaciones en todo el país. La principal fue en la Ciudad de Buenos Aires: tras un acto en la sede del PJ porteño (San José 181, desde las 14:30), columnas de militancia marcharon en caravana hasta las inmediaciones de San José 1111, en Constitución, frente al domicilio donde cumple prisión domiciliaria la expresidenta Cristina Fernández de Kirchner, quien saludó desde el balcón. La convocatoria, encabezada por el PJ y sectores kirchneristas y de La Cámpora, reclamó 'la libertad de Cristina y el fin de su proscripción' —en el segundo 17 de octubre con la titular del PJ nacional detenida— y llamó a 'organizarse, movilizarse y unirse'. En paralelo, el gobernador Axel Kicillof encabezó el acto del PJ bonaerense en el polideportivo Juan Domingo Perón de González Catán (La Matanza), con una asistencia prevista superior a las 30.000 personas, y Máximo Kirchner hizo lo propio en Resistencia (Chaco) junto a Jorge Capitanich; hubo además actos provinciales en Tucumán, La Pampa y otras jurisdicciones. Los actos expusieron la interna del peronismo de cara a las elecciones de 2027.",
-    "status": "finalizada",
-    "lat": -34.625,
-    "lng": -58.384,
+    "motivo": "El Alberta Federation of Labour (AFL) convocó el 'Alberta Unity and Solidarity Rally' (Mitin de Unidad y Solidaridad) en la Legislatura de Edmonton, de 13:00 a 15:00, trasladado deliberadamente al domingo 18 de octubre desde el sábado 17 para evitar choques con los separatistas de 'Let Alberta Decide', que habían anunciado un mitin en el mismo lugar el sábado. La jornada cierra el fin de semana previo al referéndum provincial del 19 de octubre sobre la separación de Alberta, y sigue al 'Day of Protest' provincial del sábado 17 (marcha en Calgary y acciones en más de 14 ciudades). Los organizadores esperan una convocatoria histórica: en el sitio de la campaña ya se registraban más de 500 confirmaciones de asistencia. Denuncian el 'caos y la división' que, según el presidente de la AFL Gil McGowan, infligen la premier Danielle Smith, los separatistas y 'los influenciadores MAGA de ambos lados de la frontera', y reivindican la permanencia de Alberta en Canadá, la defensa de la salud, la educación, las pensiones y la democracia. Entre los expositores: el portavoz de Forever Canadian Tom Lukaszuk y el líder del NDP bonaerense Naheed Nenshi, además de voceros del movimiento laboral, pueblos originarios, comunidades inmigrantes, 2SLGBTQIA+ y la comunidad con discapacidad.",
+    "status": "en_curso",
+    "lat": 53.5416,
+    "lng": -113.5025,
     "fuentes": [
-      "https://www.lanacion.com.ar/politica/dia-de-la-lealtad-el-pj-pidio-por-la-libertad-de-cristina-kirchner-y-el-fin-de-su-proscripcion-nid17102026/",
-      "https://www.crececatamarca.com.ar/index.php/noticias-bloque-01/dia-de-la-lealtad-con-un-acto-en-la-matanza-y-con-una-movilizacion-frente-a-la-casa-de-cristina",
-      "https://www.lanoticia1.com/noticia/el-peronismo-dividido-en-el-dia-de-la-lealtad-kicillof-en-la-matanza-maximo-en-chaco-y-massa-sin-actos-previstos",
-      "https://www.iprofesional.com/actualidad/466844-cristina-kirchner-y-el-pj-por-las-visitas-ni-siquiera-se-aplica-a-los-narcotraficantes",
-      "https://andigital.com.ar/nota/144320/dia-de-la-lealtad-el-peronismo-conmemora-el-17-de-octubre-dividido",
-      "https://www.lagaceta.com.ar/nota/1158452/politica/dia-lealtad-tucuman-jaldo-encabezara-acto-peronismo-hipodromo.html"
+      "https://afl.org/press-release-tens-of-thousands-of-albertans-expected-to-attend-pro-canada-protests-marches-and-rallies-across-the-province-on-weekend-before-referendum-day/",
+      "https://afl.org/afl-moves-unity-rally-at-the-legislature-to-sunday-october-18-to-avoid-clashes-with-separatists",
+      "https://fightbacknow.civicdeeds.com/"
     ],
-    "createdAt": "2026-10-17T23:47:01.000Z",
-    "updatedAt": "2026-10-17T23:53:59Z"
+    "createdAt": "2026-10-18T02:58:39.000Z",
+    "updatedAt": "2026-10-18T03:17:48Z"
   },
   {
-    "id": "int-2026-10-17-francia-jornada-nacional-jaunes-et-jeunes",
+    "id": "int-2026-10-18-espana-concentracion-pacma-perros-caza-madrid",
     "seccion": "internacionales",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "14:00",
-    "fecha": "2026-10-17",
-    "lugar": "Más de 200 manifestaciones y 600 acciones en toda Francia (París, Lyon, Marsella, Lille, Toulouse, Nantes, Burdeos, Niza, Limoges, Saint-Étienne, Tolón, Caen, Rennes, Angers, etc.); concentración lycéenne en Place de la République, París",
-    "tipoAccion": "manifestación",
+    "pais": "España",
+    "bandera": "🇪🇸",
+    "hora": "12:00",
+    "fecha": "2026-10-18",
+    "lugar": "Plaza de Callao, Madrid, España",
+    "tipoAccion": "concentración",
     "organizaciones": [
-      "Chalecos Amarillos (figuras históricas: Jérôme Rodrigues, Éric Drouet, Priscilla Ludosky, Maxime Nicolle)",
-      "Union syndicale lycéenne (USL)",
-      "Union Étudiante",
-      "CGT",
-      "Solidaires",
-      "Confédération paysanne"
+      "Partido Animalista PACMA",
+      "Organizaciones animalistas internacionales coordinadas"
     ],
-    "motivo": "Jornada nacional de acción 'Jaunes et Jeunes': la mayor movilización desde septiembre, con cientos de miles de participantes (unos 550.000 según el Ministerio del Interior con más de 10.000 policías desplegados, y 800.000 según los organizadores) en más de 500 acciones y marchas. Convergencia de estudiantes lycéen, Chalecos Amarillos, CGT, Solidaires, agricultores, jubilados, enfermeros y bomberos contra el costo de vida, los precios de los carburantes y el deterioro de la educación pública. En París la marcha desde Place de la République hacia Place de Clichy se retrasó 90 minutos por enfrentamientos; grupos encapuchados saquearon comercios, incendiaron vehículos y atacado la Galería Lafayette y los Campos Elíseos (prohibidos). Balance del Ministerio del Interior: entre 166 y más de 272 detenidos a lo largo del día, decenas de agentes heridos, saqueos en París, Ruán, Nantes, Toulouse y Marsella. Incidentes graves: oficina de turismo incendiada en Lyon, ayuntamientos asaltados en Marsella, Lille y Grenoble, incendio en el tejado del ayuntamiento de Limoges, prefectura de Burdeos dañada, tienda Hermès saqueada en Marsella, centro de videovigilancia de Niza atacado, disturbios en Tolón y Caen; un manifestante perdió una mano por una granada policial en Saint-Étienne. El primer ministro Lecornu acusó a la 'ultraizquierda' de organizar la violencia; Macron prometió 'procesar y castigar' a los saqueadores.",
-    "status": "finalizada",
-    "lat": 48.8566,
-    "lng": 2.3522,
+    "motivo": "El Partido Animalista PACMA convocó una concentración en la Plaza de Callao de Madrid bajo el lema «Perros de caza: ¡incluidos en la ley ya!», exigiendo que los perros dedicados a la caza queden amparados por la Ley de Bienestar Animal y el Real Decreto de Núcleos Zoológicos, y que se eliminen las excepciones que hoy excluyen a los perros de caza, de guarda, pastoreo y a los cuerpos de seguridad del marco de protección. La movilización se enmarca en una campaña de presión social que incluye, como parte de la estrategia global, la entrega de cartas de protesta en 20 consulados de España en el exterior, junto a acciones coordinadas con organizaciones extranjeras, además de reuniones con agentes sociales y formación de alianzas con partidos políticos para conseguir compromisos legislativos.",
+    "status": "en_curso",
+    "lat": 40.4238,
+    "lng": -3.7096,
     "fuentes": [
-      "https://apnews.com/article/france-school-protests-yellow-vest-44b9d3ba91ffad4029f975dced7e31cb",
-      "https://www.bbc.com/news/live/ckpdg1v41562t",
-      "https://www.theguardian.com/world/2026/oct/17/protests-france-high-prices-social-security-gilets-jaunes",
-      "https://www.france24.com/en/france/20261017-live-france-s-yellow-vests-throw-their-weight-behind-mounting-student-protests",
-      "https://www.aljazeera.com/news/2026/10/17/france-wave-of-nationwide-protests",
-      "https://www.cnn.com/2026/10/17/world/live-news/france-protests-paris-intl",
-      "https://www.cnbc.com/2026/10/17/french-protesters-take-to-streets-over-rising-prices-and-social-strain.html",
-      "https://www.bbc.com/mundo/articles/cvwy7rzx34r1o",
-      "https://cnnespanol.cnn.com/2026/10/17/mundo/protestas-paris-francia-estudiantes-trax",
-      "https://es.euronews.com/2026/10/17/jornada-de-ira-en-francia-escenas-de-caos-en-paris-y-varias-ciudades",
-      "https://www.lanacion.com.ar/el-mundo/masivas-protestas-sacuden-el-gobierno-de-macron-en-francia-fuertes-choques-con-la-policia-y-mas-de-nid17102026/"
+      "https://gacetinmadrid.com/2026/10/17/manifestacion-domingo-madrid-perros-caza-ley-bienestar-animal/"
     ],
-    "createdAt": "2026-10-16T06:06:51.000Z",
-    "updatedAt": "2026-10-17T23:53:59Z"
+    "createdAt": "2026-10-18T02:58:39.000Z",
+    "updatedAt": "2026-10-18T03:17:48Z"
   },
   {
-    "id": "int-2026-10-17-estados-unidos-no-kings-vote-early",
+    "id": "int-2026-10-18-colombia-planton-social-parque-santander-bogota",
     "seccion": "internacionales",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
+    "pais": "Colombia",
+    "bandera": "🇨🇴",
+    "hora": "08:00",
+    "fecha": "2026-10-18",
+    "lugar": "Parque Santander, localidad de Santa Fe, Bogotá, Colombia",
+    "tipoAccion": "plantón",
+    "organizaciones": [
+      "Fundación Morei"
+    ],
+    "motivo": "La Secretaría Distrital de Gobierno de Bogotá incluyó en su agenda de movilizaciones del 13 al 18 de octubre un 'plantón social y ciudadano de carácter pacífico' convocado por la Fundación Morei para este domingo 18 de octubre a las 8:00 en el Parque Santander (Santa Fe). La jornada cierra una semana de intensa movilización social en la capital colombiana, que incluyó el 'Paro Nacional' con marchas masivas del miércoles 14 hacia la Plaza de Bolívar (convocadas por CUT, CTC, CGT, FECODE, Pacto Histórico y otros), plantones y acciones del sector universitario, y un plantón ciudadano frente al Museo Nacional el sábado 17 por la defensa del guion museográfico del museo, en un clima de protestas contra las políticas del gobierno nacional.",
+    "status": "en_curso",
+    "lat": 4.6516,
+    "lng": -74.0575,
+    "fuentes": [
+      "https://bogota.gov.co/mi-ciudad/gobierno/hay-previstas-marchas-y-movilizaciones-en-varios-sectores-de-la-ciudad",
+      "http://www.gobiernobogota.gov.co/noticias/manifestaciones-bogota-14-18-octubre"
+    ],
+    "createdAt": "2026-10-18T02:58:39.000Z",
+    "updatedAt": "2026-10-18T03:17:48Z"
+  },
+  {
+    "id": "int-2026-10-18-italia-bloqueos-camioneros-carburante-sur",
+    "seccion": "internacionales",
+    "pais": "Italia",
+    "bandera": "🇮🇹",
     "hora": "",
-    "fecha": "2026-10-17",
-    "lugar": "Más de 3.000 puntos en todo Estados Unidos: Nueva York, Los Ángeles, Chicago, Houston, Phoenix, Filadelfia, Kentucky, Vermont y Rhode Island, entre muchos otros",
-    "tipoAccion": "manifestación",
+    "fecha": "2026-10-18",
+    "lugar": "Calabria, Sicilia, Puglia, Basilicata y Campania: autopistas (A2, SS 106 Jonica, SS 18 Tirrena), puertos (Gioia Tauro, Palermo molo Santa Lucia, Costa Morena/Brindisi) y accesos a refinerías del sur de Italia",
+    "tipoAccion": "bloqueo",
     "organizaciones": [
-      "Coalición No Kings",
-      "Indivisible",
-      "MoveOn",
-      "Public Citizen",
-      "Black Voters Matter",
-      "50501 Movement"
+      "Fedralog Calabria (Federazione regionale della logistica e degli autotrasporti)",
+      "Comitato Trasportatori Siciliani (CTS)",
+      "Confindustria Catania (Sezione Trasporti)",
+      "Comités espontáneos de transportistas de Basilicata, Campania y Puglia",
+      "Agricultores (Confa, Coldiretti)"
     ],
-    "motivo": "Cuarta jornada nacional de protestas 'No Kings', esta vez bajo el lema 'No Kings: Vote Early', con más de 3.000 acciones en todos los 50 estados. A diferencia de las anteriores, el foco es no partidario: promover el voto anticipado y la protección electoral antes de las elecciones legislativas del 3 de noviembre, con mítines, marchas a los centros de votación, block parties, caminatas y actividades de canvassing. Convocan la coalición No Kings, Indivisible, MoveOn, Public Citizen y Black Voters Matter, entre otras. Los eventos se extienden durante todo el día en los distintos husos horarios; en Washington los manifestantes se reunieron en el Lincoln Memorial.",
-    "status": "finalizada",
-    "lat": 38.9072,
-    "lng": -77.0369,
+    "motivo": "Los transportistas del sur de Italia mantienen este domingo 18 de octubre los bloqueos y presidios con camiones en autopistas, puertos y accesos a refinerías contra el alza del diésel (por encima de 2,40 euros el litro), en una crisis que dejó a un 60-70% de las estaciones de servicio de Puglia, Basilicata, Calabria y Sicilia sin combustible. El fermo de Fedralog Calabria corre del 16 al 20 de octubre, el del Comitato Trasportatori Siciliani hasta el 20 (Confindustria Catania lo declaró hasta el 22, con amenaza de continuar 'a oltranza'), y las acciones espontáneas se extienden por Puglia (Foggiano: Cerignola, Lucera, Foggia), Basilicata (SS Jonica, Vulture) y Campania (Nola, Nocera-Consiglio, Battipaglia-Campagna). El corte de suministros se sumó al ya levantado bloqueo de cinco días en la refineria Eni de Taranto de los trabajadores del ex Ilva, retirado el viernes 16 tras un acuerdo con la Regione Puglia. El Ministerio de Infraestructuras y Transportes convocó una mesa de diálogo para el 27 de octubre, fecha que las categorías califican de insuficiente frente a la urgencia de los costos. El fundador de Fedralog Calabria, Enzo Laudari, advirtió: 'Estamos en la carretera y ahí nos quedaremos hasta que nos escuchen. Hacemos un llamado a la población: la gente debe unirse a nosotros'.",
+    "status": "en_curso",
+    "lat": 37.5079,
+    "lng": 15.083,
     "fuentes": [
-      "https://www.npr.org/2026/10/17/nx-s1-6004887/no-kings-voting-trump",
-      "https://www.nokings.org/",
-      "https://www.usatoday.com/story/news/politics/elections/2026/10/15/no-kings-coalition-plans-nationwide-early-voting-events/92216269007",
-      "https://www.nytimes.com/2026/10/16/us/what-we-know-no-kings-vote-early.html",
-      "https://www.fox5ny.com/news/nyc-no-kings-protest-near-me-saturday-oct-17-map-new-york",
-      "https://en.wikipedia.org/wiki/October_2026_No_Kings_protests",
-      "https://www.tallahassee.com/story/news/2026/10/17/no-kings-protests-today-see-list-of-florida-events-cities/92279915007",
-      "https://www.baltimoresun.com/2026/10/17/no-kings-rallies-across-u-s-urge-voters-to-cast-ballots-early-ahead-of-midterms/",
-      "https://www.chicagotribune.com/2026/10/17/valparaiso-no-kings-rally-supports-voting/"
+      "https://www.ansa.it/sito/notizie/cronaca/2026/10/16/iniziata-in-calabria-la-protesta-dei-tir-presidi-in-tutte-le-province_cfaea5f2-bd05-4910-85f9-d1c44b6f2f23.html",
+      "https://www.quotidiano.net/economia/blocchi-autotrasportatori-caro-carburante-corsa-rifornimenti-sud-g65x2imo",
+      "https://www.ilpost.it/2026/10/16/proteste-autotrasportatori-sud-italia/",
+      "https://www.trasporti-italia.com/camion/fermo-autotrasporto-ottobre-sicilia-calabria-proteste-in-corso/1505077",
+      "https://vivereinitalien.de/it/crisi-del-carburante-nel-sud-italia-revocato-il-blocco-a-taranto"
     ],
-    "createdAt": "2026-10-17T00:43:46.000Z",
-    "updatedAt": "2026-10-17T23:53:59Z"
+    "createdAt": "2026-10-18T02:58:39.000Z",
+    "updatedAt": "2026-10-18T03:17:48Z"
   },
   {
-    "id": "int-2026-10-17-estados-unidos-disneyland-cast-members",
+    "id": "int-2026-10-18-espana-acampada-vivienda-puerta-del-sol",
     "seccion": "internacionales",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
-    "hora": "10:00",
-    "fecha": "2026-10-17",
-    "lugar": "Esquina noroeste de Harbor Blvd. y W. Katella Ave., Anaheim, California, Estados Unidos",
+    "pais": "España",
+    "bandera": "🇪🇸",
+    "hora": "",
+    "fecha": "2026-10-18",
+    "lugar": "Puerta del Sol, Madrid, España (con extensión a los barrios de todo el país)",
+    "tipoAccion": "acampada",
+    "organizaciones": [
+      "Sindicato de Inquilinas",
+      "Movimiento por el derecho a la vivienda",
+      "Asamblea de la Puerta del Sol"
+    ],
+    "motivo": "La acampada por el derecho a la vivienda en la Puerta del Sol de Madrid continúa de forma indefinida este domingo 18 de octubre, superada la vigésima noche, tras la asamblea del jueves que decidió mantener el campamento sin fecha de fin y extender la protesta a los barrios. Cientos de personas siguen instaladas exigiendo alquileres asequibles, el fin de los desahucios y medidas contra los fondos de inversión, en el marco de las movilizaciones desatadas por el desalojo y posterior muerte de la anciana Maricarmen Abascal. El movimiento, que se replica en otras ciudades españolas como Pontevedra y Oviedo, ya ha forzado al Gobierno central a convocar elecciones anticipadas para el 29 de noviembre y lleva a los sindicatos CCOO y UGT a convocar una huelga general de 24 horas para el 11 de noviembre con la vivienda como eje. El Gobierno regional de Madrid insiste en desalojar el campamento.",
+    "status": "en_curso",
+    "lat": 40.4169,
+    "lng": -3.7035,
+    "fuentes": [
+      "https://www.euronews.com/2026/10/15/tears-hugs-and-continued-fight-for-housing-madrids-puerta-del-sol-after-two-weeks",
+      "https://www.france24.com/en/live-news/20261015-can-t-sleep-spain-s-housing-crunch-upends-lives",
+      "https://ground.news/article/the-camping-of-sol-for-the-house-begin-to-raise-the-descampada",
+      "https://sanidad.ccoo.es/7b18bd37768e2ea74ed833a73d827934000001.pdf"
+    ],
+    "createdAt": "2026-10-18T02:58:39.000Z",
+    "updatedAt": "2026-10-18T03:17:48Z"
+  },
+  {
+    "id": "int-2026-10-18-espana-huelga-indefinida-educacion-madrid",
+    "seccion": "internacionales",
+    "pais": "España",
+    "bandera": "🇪🇸",
+    "hora": "",
+    "fecha": "2026-10-18",
+    "lugar": "Centros de Infantil, Primaria, Secundaria, Bachillerato y Formación Profesional públicos de la Comunidad de Madrid, España",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "Comité de Huelga Unitario: CCOO, UGT, STEM, CGT, CNT y Solidaridad Obrera",
+      "Plataformas Menos Lectivas, Educación Especial Digna y Queremos FP",
+      "Sindicato de Estudiantes"
+    ],
+    "motivo": "La huelga indefinida del profesorado de la educación pública no universitaria de la Comunidad de Madrid, en vigor desde el 14 de octubre, se mantiene este domingo 18 de octubre sin fecha de fin, en su quinto día, tras las jornadas del primer fin de semana (piquetes, asamblea en el Retiro y manifestaciones Atocha-Sol del viernes 16). El paro, sin precedentes en la región por su carácter indefinido, afecta a unos 65.000 docentes y a más de 666.000 alumnos. Exigen limitar la carga lectiva a 17 periodos semanales en Secundaria y FP y 22 en Infantil y Primaria, reducir ratios (13 en Infantil, 15 en Primaria, 20 en Secundaria, 23 en Bachillerato y 15 en FP), una subida de 600 euros mensuales en el Complemento Específico General Docente, y más recursos para educación especial e infraestructuras (climatización, retirada del amianto). Los sindicatos reanudan las acciones públicas el lunes 19 con una concentración ante la Consejería de Educación, y la segunda semana culmina con manifestación el jueves 22; la consejera Mercedes Zarzalejo sigue negándose a sentarse con el comité de huelga.",
+    "status": "en_curso",
+    "lat": 40.4168,
+    "lng": -3.7038,
+    "fuentes": [
+      "https://www.eldiariodemadrid.es/articulo/educacion/huelga-profesores-madrid-octubre-2026-calendario-manifestacion-22-octubre/20261016112838144350.html",
+      "https://elpais.com/sociedad/2026-10-14/los-profesores-en-huelga-pintan-de-verde-el-centro-de-madrid-los-gobiernos-estan-abandonando-la-educacion-publica.html",
+      "https://www.rtve.es/noticias/20261014/docentes-madrid-inician-huelga-indefinida-para-exigir-mejoras-laborales-educacion-publica-calidad/17264967.shtml",
+      "https://www.lasexta.com/noticias/sociedad/huelga-educacion-madrid_202610146acf24fb6e8df44596b0795f.html"
+    ],
+    "createdAt": "2026-10-18T02:58:39.000Z",
+    "updatedAt": "2026-10-18T03:17:48Z"
+  },
+  {
+    "id": "int-2026-10-18-kenia-huelga-personal-universitario",
+    "seccion": "internacionales",
+    "pais": "Kenia",
+    "bandera": "🇰🇪",
+    "hora": "",
+    "fecha": "2026-10-18",
+    "lugar": "Universidades públicas de todo Kenia; sede del Parlamento, Tesoro Nacional y Ministerio de Educación en Nairobi",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "Universities Academic Staff Union (UASU)",
+      "Kenya Universities Staff Union (KUSU)",
+      "KUDHEIHA"
+    ],
+    "motivo": "El personal académico y administrativo de las universidades públicas de Kenia mantiene este domingo 18 de octubre la huelga nacional iniciada el 2 de octubre, ya en su tercera semana, tras el fracaso de las conversaciones del 12 de octubre, cuando los sindicatos UASU, KUSU y KUDHEIHA rechazaron la oferta gubernamental de 9.760 millones de chelines por considerarla insuficiente. Exigen la implementación plena del convenio colectivo 2025-2029, el pago de salarios atrasados, la contratación de personal académico y el pago a través del Exchequer. La paralización afecta docencia, exámenes e investigación en las 35-39 universidades públicas y a más de 600.000 estudiantes, con campus cerrados en todo el país.",
+    "status": "en_curso",
+    "lat": -1.2921,
+    "lng": 36.8219,
+    "fuentes": [
+      "https://www.kenyans.co.ke/news/127798-university-lecturers-reject-ksh-12b-offer-strike-talks-collapse",
+      "https://nation.africa/kenya/news/education/lecturers-strike-grounds-learning-across-public-universities-nationwide-5617746",
+      "https://mountkenyatimes.co.ke/kenyas-public-universities-shut-as-lecturers-strike-enters-sixth-day/"
+    ],
+    "createdAt": "2026-10-18T02:58:39.000Z",
+    "updatedAt": "2026-10-18T03:17:48Z"
+  },
+  {
+    "id": "int-2026-10-18-reino-unido-huelga-teatro-leeds-nhs",
+    "seccion": "internacionales",
+    "pais": "Reino Unido",
+    "bandera": "🇬🇧",
+    "hora": "",
+    "fecha": "2026-10-18",
+    "lugar": "Leeds General Infirmary, St James's University Hospital, Chapel Allerton Hospital y Wharfedale Hospital (Otley), Leeds, Inglaterra, Reino Unido",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "UNISON",
+      "Theatre assistants del Leeds Teaching Hospitals NHS Trust"
+    ],
+    "motivo": "Los 'theatre assistants' (asistentes de quirófano) del Leeds Teaching Hospitals NHS Trust, afiliados a UNISON, mantienen este domingo 18 de octubre su huelga indefinida y continua desde el 7 de octubre (con más de 40-45 días de paros acumulados desde diciembre de 2025, uno de los conflictos laborales más largos del NHS) para exigir su reclasificación de la banda 2 a la banda 3 de la escala salarial del NHS y el pago retroactivo por las tareas clínicas que realizan. Denuncian que los asistentes peor pagados cobran apenas 21 peniques por encima del salario mínimo pese a mantener entornos quirúrgicos seguros y estériles y apoyar a los equipos de cirugía. Los trabajadores llevaron su campaña al Parlamento de Westminster en el marco de la campaña 'We Show Up' de UNISON.",
+    "status": "en_curso",
+    "lat": 53.8008,
+    "lng": -1.5491,
+    "fuentes": [
+      "https://unison.org.uk/news/2026/10/striking-leeds-health-workers-take-campaign-fair-pay-westminster",
+      "https://www.strikecalendar.co.uk/sector/nhs",
+      "https://unison.org.uk/news/2026/09/pay-row-leeds-teaching-hospitals-nhs-trust-must-be-resolved-new-boss-appointed"
+    ],
+    "createdAt": "2026-10-18T02:58:39.000Z",
+    "updatedAt": "2026-10-18T03:17:48Z"
+  },
+  {
+    "id": "int-2026-10-18-mexico-planton-imss-sntss",
+    "seccion": "internacionales",
+    "pais": "México",
+    "bandera": "🇲🇽",
+    "hora": "",
+    "fecha": "2026-10-18",
+    "lugar": "Paseo de la Reforma frente a las oficinas centrales del IMSS y sede nacional del SNTSS (colonia Juárez), Ciudad de México; carretera federal México-Pachuca a la altura del Hospital General Regional 200, Tecámac, Estado de México",
+    "tipoAccion": "bloqueo",
+    "organizaciones": [
+      "Trabajadores disidentes del IMSS (activos y jubilados)",
+      "Sindicato Nacional de Trabajadores del Seguro Social (SNTSS)"
+    ],
+    "motivo": "Trabajadores disidentes del IMSS mantienen este domingo 18 de octubre el plantón permanente frente a las oficinas centrales en Paseo de la Reforma, en su undécimo día desde el 8 de octubre, y los bloqueos intermitentes en la carretera federal México-Pachuca (Tecámac) tras rechazar los incrementos salariales ofrecidos (6,8% inicialmente y luego 2,9% más 3,9% en beneficios). Exigen un aumento directo del 10% al salario tabular, el abasto de medicamentos e insumos, un retiro digno y la destitución del secretario general del SNTSS, Rafael Olivos Hernández. El movimiento se extiende a centros de al menos 17 estados del país y suma decenas de miles de trabajadores; para el miércoles 21 de octubre está anunciada una nueva movilización nacional en Ciudad de México, y en paralelo se desarrollan acciones en centros regionales como Monterrey.",
+    "status": "en_curso",
+    "lat": 19.4302,
+    "lng": -99.1514,
+    "fuentes": [
+      "https://elpais.com/mexico/2026-10-17/las-protestas-de-los-trabajadores-del-imss-desafian-al-gobierno-de-sheinbaum-no-vamos-a-parar-este-movimiento.html",
+      "https://www.razon.com.mx/mexico/2026/10/17/manifestantes-sostienen-sus-demandas/",
+      "https://www.eluniversal.com.mx/nacion/trabajadores-del-imss-bloquean-reforma-exigen-destitucion-del-lider-sindical-rafael-olivos/",
+      "https://mexiconewsdaily.com/news/imss-workers-protest-nationwide"
+    ],
+    "createdAt": "2026-10-18T02:58:39.000Z",
+    "updatedAt": "2026-10-18T03:17:48Z"
+  },
+  {
+    "id": "int-2026-10-18-india-protestas-anti-cec-sir",
+    "seccion": "internacionales",
+    "pais": "India",
+    "bandera": "🇮🇳",
+    "hora": "",
+    "fecha": "2026-10-18",
+    "lugar": "Nueva Delhi (Connaught Place/Central Park, Jantar Mantar, India Gate, campus de la JNU), Mumbai (Azad Maidan), Chennai, Kolkata, Bengaluru, Patna y otras ciudades",
     "tipoAccion": "protesta",
     "organizaciones": [
-      "Magic United - Actors' Equity Association",
-      "Cast members sindicalizados de Disneyland (personajes y desfiles)"
+      "Cockroach Janta Party (CJP)",
+      "Bloque INDIA (Congreso, TVK, Shiv Sena-UBT, etc.)",
+      "All India Students' Association (AISA)",
+      "Samyukt Kisan Morcha (SKM)",
+      "Estudiantes de la Jawaharlal Nehru University (JNU) en huelga de hambre"
     ],
-    "motivo": "Los 'cast members' sindicalizados de Disneyland (personajes y desfiles), unos 1.700 trabajadores agrupados en Magic United, realizaron una concentración de dos horas (10:00 a 12:00) este sábado 17 de octubre en la esquina noroeste de Harbor Blvd. y W. Katella Ave. (Anaheim, California) para denunciar la falta de acuerdo en su primer convenio colectivo y la propuesta de la empresa de recortar días festivos, reducir el tiempo libre pagado y eliminar la licencia parental paga. Las sesiones de negociación continúan el 27 y 28 de octubre.",
-    "status": "finalizada",
-    "lat": 33.809,
-    "lng": -117.919,
+    "motivo": "Las protestas contra el comisionado electoral jefe (CEC) Gyanesh Kumar y la Revisión Intensiva Especial (SIR) de los padrones electorales continúan este domingo 18 de octubre en varias ciudades de India, tras una semana marcada por marchas Tiranga (con bandera nacional) en Delhi, Bengaluru, Mumbai, Chennai y Kolkata, decenas de detenciones de activistas y estudiantes, y más de un centenar de FIR por presuntas agresiones policiales. El fundador del CJP, Abhijeet Dipke, quedó en libertad condicional el 17 tras firmar fianza, un día después de su detención, y la dirigente de AISA Neha Bora había sido liberada en la madrugada; estudiantes de la JNU mantienen una huelga de hambre indefinida y los de la SRFTI de Kolkata siguen sentadas por seguridad en el campus. Diversas organizaciones campesinas, bajo la bandera del Samyukt Kisan Morcha, anunciaron una gran marcha a Delhi para el 23 de octubre exigiendo la renuncia de Gyanesh Kumar y la anulación de la SIR.",
+    "status": "en_curso",
+    "lat": 28.6139,
+    "lng": 77.209,
     "fuentes": [
-      "https://www.crowdlevels.com/news/2026-10-14-magic-united-disneyland-contract-rally-october-17",
-      "https://disneyblog.com/news/disneyland-character-cast-members-to-protest-contract-dispute/",
-      "https://ground.news/article/disneyland-guest-experiences-threatened-as-union-cast-members-to-stage-mass-rally"
+      "https://www.thehindu.com/news/national/anti-cec-sir-protest-live-updates-oct-17-2026-cjp-tiranga-march-abhijeet-dipke-detained-delhi-police-neha-bora/article71595221.ece",
+      "https://www.thehindu.com/news/cities/Delhi/delhi-anti-cec-protests-dipke-released-after-signing-peace-bond-sporadic-protests-continue/article71597306.ece",
+      "https://protesttracker.online/today",
+      "https://gulfnews.com/world/asia/india/delhi-tiranga-rally-cjp-founder-abhijeet-dipke-gets-conditional-bail-1.500714242"
     ],
-    "createdAt": "2026-10-17T00:43:46.000Z",
-    "updatedAt": "2026-10-17T23:53:59Z"
+    "createdAt": "2026-10-18T02:58:39.000Z",
+    "updatedAt": "2026-10-18T03:17:48Z"
   },
   {
-    "id": "int-2026-10-17-estados-unidos-huelga-hambre-ice-folkston",
+    "id": "int-2026-10-18-albania-protestas-estudiantes-tirana",
+    "seccion": "internacionales",
+    "pais": "Albania",
+    "bandera": "🇦🇱",
+    "hora": "",
+    "fecha": "2026-10-18",
+    "lugar": "Ministerio de Educación y Oficina del Primer Ministro, Tirana, Albania; protestas extendidas a Durres, Elbasan, Shkodra, Korçë, Vlora y Lezha",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Estudiantes universitarios y de secundaria de Albania",
+      "Colectivos de jóvenes y activistas del movimiento 'Flamingo'",
+      "Comité de acción de la protesta (activistas como Mateo Yskollari, Ervin Goci, Artan Kacani, Nikoleta Mehmeti)"
+    ],
+    "motivo": "Las protestas anti-gubernamentales en Albania se mantienen este domingo 18 de octubre, sexto día consecutivo de la escalada iniciada el martes 13 frente al Ministerio de Educación en Tirana, con miles de jóvenes exigiendo la renuncia del primer ministro socialista Edi Rama por corrupción, el alto costo de la educación, la falta de empleo y las escasas oportunidades para los jóvenes. La jornada del sábado 17 dejó nuevos enfrentamientos: cócteles molotov contra la policía, un auto embistió camiones anti-disturbios antes de incendiarse, piedras y petardos, y respuesta policial con gases lacrimógenos, cañones de agua y balas de goma; el balance acumulado de la semana supera los 207 heridos y 167 detenidos (500 detenidos en total, 330 liberados, según Reuters), con daños en el Ministerio de Educación, el Ministerio de Justicia, el banco central, ayuntamientos y bancos, y disturbios en Durres, Elbasan, Shkodra y Korçë. El movimiento, iniciado contra el complejo turístico vinculado a Jared Kushner en la costa sur y luego ampliado a la 'Flamingo' desde finales de mayo, domina la vida política: Rama descartó renunciar, acusó a la oposición de incitar los disturbios y denunció 'manos extranjeras'; los organizadores advirtieron que 'estaremos en la plaza todos los días'.",
+    "status": "en_curso",
+    "lat": 41.3275,
+    "lng": 19.8187,
+    "fuentes": [
+      "https://apnews.com/article/albania-protests-edi-rama-jared-kushner-9f0ce30c446aa9f273068b98d9f40b14",
+      "https://www.euronews.com/2026/10/17/albanian-police-fire-rubber-bullets-and-arrest-hundreds-as-anti-government-protests-enter-",
+      "https://news.rthk.hk/rthk/en/component/k2/1874320-20261017.htm",
+      "https://www.thestar.com.my/news/world/2026/10/18/protests-in-albania-escalate-into-violent-clashes",
+      "https://www.independent.co.uk/news/world/europe/albania-protests-violence-tirana-edi-rama-b3068565.html"
+    ],
+    "createdAt": "2026-10-18T02:58:39.000Z",
+    "updatedAt": "2026-10-18T03:17:48Z"
+  },
+  {
+    "id": "int-2026-10-18-grecia-protesta-estudiantil-syntagma-enoikia",
+    "seccion": "internacionales",
+    "pais": "Grecia",
+    "bandera": "🇬🇷",
+    "hora": "",
+    "fecha": "2026-10-18",
+    "lugar": "Plaza Syntagma (frente al Parlamento), Atenas, Grecia",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Φοιτητικοί Σύλλοι (Sindicatos de Estudiantes de Atenas)",
+      "Sindicatos de estudiantes del Εθνικό Μετσόβιο Πολυτεχνείο (EMP/Universidad Politécnica Nacional)",
+      "Colectivos estudiantiles universitarios"
+    ],
+    "motivo": "La acampada y contra-campamento estudiantil indefinida en la Plaza SyntAGMA de Atenas, iniciada el 13 de octubre, se mantiene este domingo 18 de octubre, octava noche, con cientos de estudiantes saliendo a las calles para denunciar los alquileres impagables (hasta 600-700 euros por un estudio), el alto coste de los estudios y la escasez de residencias universitarias (cubren menos del 4% de la demanda). Exigen un tope a los alquileres, aumento del subsidio de vivienda estudiantil, residencias públicas y gratuitas, comedores y transporte gratuitos, y más financiación pública a las universidades, bajo el lema «Δεν πάει άλλο» (No se puede más). La movilización se suma a la ola europea de protestas estudiantiles inspirada en las jornadas de Francia y España; los sindicatos anunciaron nuevas acciones y una gran movilización para el martes 20 de octubre junto a profesores, alumnos y personal sanitario.",
+    "status": "en_curso",
+    "lat": 37.9755,
+    "lng": 23.7348,
+    "fuentes": [
+      "https://www.megatv.com/2026/10/17/stous-dromous-gia-to-dikaioma-sti-morfosi-ekatontades-foitites-esteilan-ixiro-minyma-gia-ta-akriva-enoikia/",
+      "https://www.efsyn.gr/ellada/1487829/foitites-me-antiskina-sto-syntagma-na-spoydasoyme-i-na-epiviosoyme/",
+      "https://greekreporter.com/2026/10/14/athens-student-housing-protest/",
+      "https://www.ekriti.gr/ellada/kyma-orgis-stoys-dromoys-ekatontades-foitites-diadilosan-gia-ta-aplisiasta-enoikia"
+    ],
+    "createdAt": "2026-10-18T02:58:39.000Z",
+    "updatedAt": "2026-10-18T03:17:48Z"
+  },
+  {
+    "id": "int-2026-10-18-estados-unidos-huelga-hambre-ice-folkston",
     "seccion": "internacionales",
     "pais": "Estados Unidos",
     "bandera": "🇺🇸",
     "hora": "",
-    "fecha": "2026-10-17",
+    "fecha": "2026-10-18",
     "lugar": "Centro de procesamiento de ICE de Folkston (D. Ray James), condado de Charlton, Georgia, Estados Unidos",
     "tipoAccion": "huelga de hambre",
     "organizaciones": [
@@ -140,7 +331,7 @@
       "Shut Down Folkston ICE Processing Center",
       "Jacksonville Immigrant Rights Alliance"
     ],
-    "motivo": "Decenas de detenidos (al menos 73) en el centro de procesamiento de ICE de Folkston (Georgia), operado por The GEO Group, mantienen la huelga de hambre iniciada el 6 de octubre, que este fin de semana entra en su segunda semana. Los huelguistas —en su mayoría solicitantes de asilo de Rusia, China, Sudán, Afganistán, Nepal y otros países— exigen su liberación mientras avanzan sus casos, protección contra la deportación y la reunificación familiar, y denuncian malas condiciones de detención, atención médica deficiente y represalias (varios organizadores fueron enviados a aislamiento). Uno de los organizadores, el ruso Idris Makhmudov, fue deportado a mediados de octubre.",
+    "motivo": "Decenas de detenidos (al menos 73, según cifras iniciales, de unos 500 participantes según fuentes locales) en el centro de procesamiento de ICE de Folkston (Georgia), operado por The GEO Group, mantienen este domingo 18 de octubre la huelga de hambre iniciada el 6 de octubre, que entra en su segunda semana. Los huelguistas —en su mayoría solicitantes de asilo de Rusia, China, Sudán, Afganistán, Nepal y otros países— exigen su liberación mientras avanzan sus casos, protección contra la deportación y la reunificación familiar, y denuncian malas condiciones de detención, atención médica deficiente y represalias contra los organizadores (varios fueron enviados aislamiento). Uno de los organizadores, el ruso Idris Makhmudov, fue deportado a mediados de octubre.",
     "status": "en_curso",
     "lat": 30.8305,
     "lng": -82.0091,
@@ -150,758 +341,7 @@
       "https://www.wsbtv.com/news/local/hundreds-ice-detainees-georgia-hunger-strike-advocates-say/SKQD3BXY3FBRBEHVVTDLASDGEI/",
       "https://www.theguardian.com/us-news/2026/oct/07/ice-detention-facility-georgia"
     ],
-    "createdAt": "2026-10-16T11:44:28.000Z",
-    "updatedAt": "2026-10-17T23:53:59Z"
-  },
-  {
-    "id": "int-2026-10-17-canada-jornada-provincial-alberta-fight-back-now",
-    "seccion": "internacionales",
-    "pais": "Canadá",
-    "bandera": "🇨🇦",
-    "hora": "11:00",
-    "fecha": "2026-10-17",
-    "lugar": "Provincia de Alberta, Canadá: marcha y mitin en Calgary (City Hall, 800 MacLeod Trail SE, a McDougall Centre, 455 6 Street SW) y acciones en Red Deer, Lethbridge, Medicine Hat, Fort McMurray, Grande Prairie, Airdrie, Okotoks, St. Albert, Fort Saskatchewan, Spruce Grove, Stettler, Langdon y Vermilion; mitin de unidad en Edmonton el 18 de octubre",
-    "tipoAccion": "manifestación",
-    "organizaciones": [
-      "Alberta Federation of Labour (AFL)",
-      "Fight Back Now!",
-      "Forever Canadian",
-      "Sindicatos y coaliciones locales"
-    ],
-    "motivo": "La Alberta Federation of Labour y la campaña 'Fight Back Now!' convocaron una segunda jornada provincial de protesta con acciones en al menos 14 ciudades y pueblos de Alberta, la mayor en Calgary (marcha de 11:00 a 13:30 desde City Hall hasta McDougall Centre). Las protestas, en la antesala del referéndum provincial del 19 de octubre, denuncian las políticas de la premier Danielle Smith y el 'drift autoritario' del gobierno en materia de salud, educación, pensiones (retiro del CPP), reemplazo de la RCMP, desarrollo del carbón y uso de la cláusula derogatoria, además de apoyar la permanencia de Alberta en Canadá frente a los separatistas. Participan sindicatos, pueblos originarios, grupos inmigrantes y comunitarios. El mitin de unidad en Edmonton se trasladó al domingo 18 de octubre para evitar choques con los separatistas.",
-    "status": "finalizada",
-    "lat": 51.0447,
-    "lng": -114.0719,
-    "fuentes": [
-      "https://afl.org/press-release-tens-of-thousands-of-albertans-expected-to-attend-pro-canada-protests-marches-and-rallies-across-the-province-on-weekend-before-referendum-day/",
-      "https://fightbacknow.civicdeeds.com/",
-      "https://www.play1037.ca/2026/10/15/alberta-federation-of-labour-plans-provincewide-rallies-over-referendum/",
-      "https://edmonton.citynews.ca/2026/10/15/carney-to-attend-pro-canada-rally-in-calgary-as-alberta-races-toward-referendum-vote/"
-    ],
-    "createdAt": "2026-10-17T05:18:14.000Z",
-    "updatedAt": "2026-10-17T23:53:59Z"
-  },
-  {
-    "id": "int-2026-10-17-espana-acampada-vivienda-puerta-del-sol",
-    "seccion": "internacionales",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "",
-    "fecha": "2026-10-17",
-    "lugar": "Puerta del Sol, Madrid, España (con extensión a los barrios de todo el país)",
-    "tipoAccion": "acampada",
-    "organizaciones": [
-      "Sindicato de Inquilinas",
-      "Movimiento por el derecho a la vivienda",
-      "Asamblea de la Puerta del Sol"
-    ],
-    "motivo": "La acampada por el derecho a la vivienda en la Puerta del Sol de Madrid continúa de forma indefinida, superada la vigésima noche, tras la asamblea del jueves que decidió mantener el campamento sin fecha de fin y extender la protesta a los barrios. Cientos de personas siguen instaladas exigiendo alquileres asequibles, el fin de los desahucios y medidas contra los fondos de inversión, en el marco de las movilizaciones desatadas por el desalojo y posterior muerte de la anciana Maricarmen Abascal. El Gobierno regional de Madrid insiste en desalojar y el Gobierno central convocó elecciones anticipadas para el 29 de noviembre.",
-    "status": "en_curso",
-    "lat": 40.4169,
-    "lng": -3.7035,
-    "fuentes": [
-      "https://www.euronews.com/2026/10/15/tears-hugs-and-continued-fight-for-housing-madrids-puerta-del-sol-after-two-weeks",
-      "https://www.france24.com/en/live-news/20261015-can-t-sleep-spain-s-housing-crunch-upends-lives",
-      "https://ground.news/article/the-camping-of-sol-for-the-house-begin-to-raise-the-descampada"
-    ],
-    "createdAt": "2026-10-17T00:43:46.000Z",
-    "updatedAt": "2026-10-17T23:53:59Z"
-  },
-  {
-    "id": "int-2026-10-17-espana-huelga-indefinida-educacion-madrid",
-    "seccion": "internacionales",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "",
-    "fecha": "2026-10-17",
-    "lugar": "Centros de Infantil, Primaria, Secundaria, Bachillerato y Formación Profesional públicos de la Comunidad de Madrid, España",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "Comité de Huelga Unitario: CCOO, UGT, STEM, CGT, CNT y Solidaridad Obrera",
-      "Plataformas Menos Lectivas, Educación Especial Digna y Queremos FP",
-      "Sindicato de Estudiantes"
-    ],
-    "motivo": "La huelga indefinida del profesorado de la educación pública no universitaria de la Comunidad de Madrid, en vigor desde el 14 de octubre, entra en su cuarto día y continúa durante el fin de semana sin fecha de fin, tras la tercera jornada con manifestación Atocha-Sol del viernes 16. El paro, sin precedentes en la región por su carácter indefinido, afecta a unos 65.000 docentes y a más de 666.000 alumnos. Exigen limitar la carga lectiva a 17 periodos semanales en Secundaria y FP y 22 en Infantil y Primaria, reducir ratios (13 en Infantil, 15 en Primaria, 20 en Secundaria, 23 en Bachillerato y 15 en FP), una subida de 600 euros mensuales en el Complemento Específico General Docente, más recursos para educación especial e infraestructuras (climatización, retirada del amianto). El primer día estuvo marcado por cargas policiales contra un piquete estudiantil en la Universidad Complutense con cinco detenidos. Los sindicatos mantienen el paro mientras la consejera Mercedes Zarzalejo se niega a sentarse con el comité, y reanudan las acciones el lunes 19 con una concentración ante la Consejería de Educación, además de una nueva manifestación el jueves 22.",
-    "status": "en_curso",
-    "lat": 40.4168,
-    "lng": -3.7038,
-    "fuentes": [
-      "https://elpais.com/sociedad/2026-10-14/los-profesores-en-huelga-pintan-de-verde-el-centro-de-madrid-los-gobiernos-estan-abandonando-la-educacion-publica.html",
-      "https://www.rtve.es/noticias/20261014/docentes-madrid-inician-huelga-indefinida-para-exigir-mejoras-laborales-educacion-publica-calidad/17264967.shtml",
-      "https://theobjective.com/espana/2026-10-14/arranca-huelga-indefinida-educacion-madrid/",
-      "https://www.madridiario.es/educacion-publica-madrilena-cierra-tercer-dia-huelga-manifestacion-avanza-nuevas-protestas",
-      "https://www.eldiariodemadrid.es/articulo/educacion/huelga-profesores-madrid-octubre-2026-calendario-manifestacion-22-octubre/20261016112838144350.html",
-      "https://gacetinmadrid.com/2026/10/13/educacion-publica-madrilena-huelga-miercoles/",
-      "https://www.hispantv.com/noticias/espana/682405/profesores-alumnos-madrid-protestan-educacion-publica"
-    ],
-    "createdAt": "2026-10-17T21:34:38.000Z",
-    "updatedAt": "2026-10-17T23:53:59Z"
-  },
-  {
-    "id": "int-2026-10-17-kenia-huelga-personal-universitario",
-    "seccion": "internacionales",
-    "pais": "Kenia",
-    "bandera": "🇰🇪",
-    "hora": "",
-    "fecha": "2026-10-17",
-    "lugar": "Universidades públicas de todo Kenia; sede del Parlamento, Tesoro Nacional y Ministerio de Educación en Nairobi",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "Universities Academic Staff Union (UASU)",
-      "Kenya Universities Staff Union (KUSU)",
-      "KUDHEIHA"
-    ],
-    "motivo": "El personal académico y administrativo de las universidades públicas de Kenia mantiene la huelga nacional iniciada el 2 de octubre, tras el fracaso de las conversaciones del 12 de octubre, cuando los sindicatos UASU, KUSU y KUDHEIHA rechazaron la oferta gubernamental de 9.760 millones de chelines por considerarla insuficiente. Exigen la implementación plena del convenio colectivo 2025-2029, el pago de salarios atrasados, la contratación de personal académico y el pago a través del Exchequer. La paralización afecta docencia, exámenes e investigación en las 35-39 universidades públicas y a más de 600.000 estudiantes.",
-    "status": "en_curso",
-    "lat": -1.2921,
-    "lng": 36.8219,
-    "fuentes": [
-      "https://www.kenyans.co.ke/news/127798-university-lecturers-reject-ksh-12b-offer-strike-talks-collapse",
-      "https://nation.africa/kenya/news/education/lecturers-strike-grounds-learning-across-public-universities-nationwide-5617746",
-      "https://mountkenyatimes.co.ke/kenyas-public-universities-shut-as-lecturers-strike-enters-sixth-day/"
-    ],
-    "createdAt": "2026-10-16T06:06:51.000Z",
-    "updatedAt": "2026-10-17T23:53:59Z"
-  },
-  {
-    "id": "int-2026-10-17-reino-unido-huelga-chiltern-railways-rmt",
-    "seccion": "internacionales",
-    "pais": "Reino Unido",
-    "bandera": "🇬🇧",
-    "hora": "",
-    "fecha": "2026-10-17",
-    "lugar": "Red de Chiltern Railways (Londres Marylebone, Birmingham, Oxford, Aylesbury, Stratford-upon-Avon, Leamington Spa), Reino Unido",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "National Union of Rail, Maritime and Transport Workers (RMT)",
-      "Chiltern Railways (train managers)"
-    ],
-    "motivo": "Los 'train managers' (jefes de tren) de Chiltern Railways, afiliados al sindicato RMT, realizan este sábado 17 de octubre una huelga de 24 horas (00:01-23:59) por el papel de seguridad del segundo tripulante en los nuevos servicios de East West Rail. El sindicato denuncia que la empresa no garantiza que el segundo miembro de la tripulación cumpla funciones críticas de seguridad frente a la operación solo por el conductor. Chiltern sostiene que mantendrá la gran mayoría de sus servicios; no habrá trenes entre Stratford-upon-Avon y Leamington Spa.",
-    "status": "finalizada",
-    "lat": 51.5223,
-    "lng": -0.1631,
-    "fuentes": [
-      "https://www.rmt.org.uk/news/rmt-members-to-strike-over-threat-to-water-down-safety-on-east/",
-      "https://www.railway.supply/rmt-strike-at-chiltern-on-17-october-is-over-east-west-rail-crew-role/",
-      "https://www.nationalrail.co.uk/service-disruptions/chiltern-railways-ia-20261001/"
-    ],
-    "createdAt": "2026-10-17T00:43:46.000Z",
-    "updatedAt": "2026-10-17T23:53:59Z"
-  },
-  {
-    "id": "int-2026-10-17-reino-unido-huelga-teatro-leeds-nhs",
-    "seccion": "internacionales",
-    "pais": "Reino Unido",
-    "bandera": "🇬🇧",
-    "hora": "",
-    "fecha": "2026-10-17",
-    "lugar": "Leeds General Infirmary, St James's University Hospital, Chapel Allerton Hospital y Wharfedale Hospital (Otley), Leeds, Inglaterra, Reino Unido",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "UNISON",
-      "Theatre assistants del Leeds Teaching Hospitals NHS Trust"
-    ],
-    "motivo": "Los 'theatre assistants' (asistentes de quirófano) del Leeds Teaching Hospitals NHS Trust, afiliados a UNISON, mantienen una huelga indefinida y continua desde el 7 de octubre (con más de 40-45 días de paros acumulados desde diciembre de 2025) para exigir su reclasificación de la banda 2 a la banda 3 de la escala salarial del NHS y el pago retroactivo por las tareas clínicas que realizan. Denuncian que los asistentes peor pagados cobran apenas 21 peniques por encima del salario mínimo pese a mantener entornos quirúrgicos seguros y estériles y apoyar a los equipos de cirugía. Los trabajadores llevaron su campaña al Parlamento en Londres en el marco de la campaña 'We Show Up' de UNISON. La huelga continúa mañana domingo 18.",
-    "status": "en_curso",
-    "lat": 53.8008,
-    "lng": -1.5491,
-    "fuentes": [
-      "https://unison.org.uk/news/2026/10/striking-leeds-health-workers-take-campaign-fair-pay-westminster",
-      "https://www.strikecalendar.co.uk/sector/nhs",
-      "https://unison.org.uk/news/2026/09/pay-row-leeds-teaching-hospitals-nhs-trust-must-be-resolved-new-boss-appointed"
-    ],
-    "createdAt": "2026-10-17T05:18:14.000Z",
-    "updatedAt": "2026-10-17T23:53:59Z"
-  },
-  {
-    "id": "int-2026-10-17-italia-protesta-camioneros-sur",
-    "seccion": "internacionales",
-    "pais": "Italia",
-    "bandera": "🇮🇹",
-    "hora": "",
-    "fecha": "2026-10-17",
-    "lugar": "Calabria, Sicilia, Puglia, Basilicata y Campania: autopistas, puertos y accesos a refinerías del sur de Italia",
-    "tipoAccion": "bloqueo",
-    "organizaciones": [
-      "Comitato Trasportatori Siciliani (CTS)",
-      "Fedralog Calabria",
-      "Comités espontáneos de transportistas de Calabria y Basilicata",
-      "Transportistas autónomos"
-    ],
-    "motivo": "Los transportistas de Calabria y Sicilia mantienen bloqueos con camiones en autopistas, puertos y accesos a refinerías contra el alto precio del diésel (unos 2,40 euros el litro), protestas que continuarán durante el fin de semana hasta el martes 20 de octubre. El paro del Comité de Transportistas Sicilianos (16-20 de octubre) mantiene inmovilizados los semirremolques en los puertos de la isla, mientras Fedralog Calabria cumple su segundo paro de 120 horas (16-20 de octubre). En Puglia, Basilicata y Campania se registraron concentraciones de camiones. Conftrasporto advirtió de que las protestas espontáneas se extienden por el país y amenazan con un paro nacional.",
-    "status": "en_curso",
-    "lat": 37.5079,
-    "lng": 15.083,
-    "fuentes": [
-      "https://www.ansa.it/english/news/business/2026/10/15/truckers-threaten-to-shut-down-italy-with-national-strike-amid-fuel_04b37018-b6de-48e7-8aa8-faac21c38663.html",
-      "https://en.cryptonomist.ch/2026/10/16/truckers-protests-italy-disruptions",
-      "https://lamerce.it/en/news/truck-stoppage-in-calabria-and-sicily-deliveries-at-risk-from-9-to-20-october"
-    ],
-    "createdAt": "2026-10-17T00:43:46.000Z",
-    "updatedAt": "2026-10-17T23:53:59Z"
-  },
-  {
-    "id": "int-2026-10-17-francia-taxis-bloqueos-accesos-aeropuertos-vtc",
-    "seccion": "internacionales",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "",
-    "fecha": "2026-10-17",
-    "lugar": "Accesos a los aeropuertos parisinos: Porte Maillot, aéroport Paris-Charles-de-Gaulle (Roissy) y aéroport de Orly; periférico y autopistas hacia los aeropuertos, Francia",
-    "tipoAccion": "bloqueo",
-    "organizaciones": [
-      "Team Taxi (colectivo de taxistas)",
-      "Interinsindical de taxistas",
-      "FO Transports"
-    ],
-    "motivo": "Miles de taxistas mantienen bloqueos y cortes rodantes ('opérations escargot') en los accesos a los aeropuertos de París, acción 'reconductible' lanzada el 15 de octubre con unos 2.000 taxistas desde Porte Maillot hacia Roissy-Charles-de-Gaulle y que sus organizadores confirmaron que se extendería hasta este sábado 17 de octubre, en paralelo a la jornada nacional de movilización. Exigen 'zonas blancas' donde las aplicaciones de VTC no puedan asignar viajes en los aeropuertos, controles más duros de las tarjetas profesionales de los conductores VTC y el retorno de los 'chalecos azules' que orientan a los viajeros en las terminales. Además, varios sindicatos del transporte por carretera, como FO Transports, presentaron avisos de huelga con posibles bloqueos rodantes en el periférico y las autopistas hacia los aeropuertos.",
-    "status": "finalizada",
-    "lat": 48.8767,
-    "lng": 2.2836,
-    "fuentes": [
-      "https://www.sortiraparis.com/en/news/in-paris/articles/353907-strike-on-october-17-2026-yellow-vests-protests-by-high-school-students-transport-what-to-expect-in-paris",
-      "https://www.thelocal.fr/20261015/paris-taxi-drivers-to-stage-blockades-at-airports",
-      "https://www.byteseu.com/2460401/",
-      "https://www.connexionfrance.com/practical/calendar-dates-of-strikes-and-protests-in-france-this-october/819662"
-    ],
-    "createdAt": "2026-10-17T21:34:38.000Z",
-    "updatedAt": "2026-10-17T23:53:59Z"
-  },
-  {
-    "id": "int-2026-10-17-portugal-manifestacion-nacional-cgtp",
-    "seccion": "internacionales",
-    "pais": "Portugal",
-    "bandera": "🇵🇹",
-    "hora": "14:30",
-    "fecha": "2026-10-17",
-    "lugar": "Lisboa (Cais do Sodré a Rossio, 14:30), Porto (Praça da Batalha a Praça D. João I, 10:30) y Coimbra (Rotunda Portugal dos Pequenitos a Praça 8 de Maio, 10:30), Portugal",
-    "tipoAccion": "manifestación",
-    "organizaciones": [
-      "Confederação Geral dos Trabalhadores Portugueses - Intersindacional Nacional (CGTP-IN)",
-      "Partido Comunista Português (PCP)",
-      "Movimento pela Habitação",
-      "Federaciones y sindicatos sectoriales (FEVICCOM, etc.)"
-    ],
-    "motivo": "La CGTP-IN convocó una manifestación nacional descentralizada bajo el lema 'Más salario, mejores pensiones y servicios públicos: contra el aumento del costo de vida', con concentraciones simultáneas en Lisboa (Cais do Sodré a Rossio), Porto y Coimbra. Cierra un mes de acción sindical (17 de septiembre a 17 de octubre) y exige un salario mínimo nacional de 1.100 euros en 2027, la defensa del SNS y la Seguridad Social, y un cambio de rumbo frente a la subida del costo de vida. En el Porto, el Movimento pela Habitação volvió a instalar tiendas en la Praça D. João I en apoyo a la marcha, pese a la carga policial considerada 'desproporcionada' de la semana previa. La central advirtió además preavisos de huelga en varios sectores, como el comercio.",
-    "status": "finalizada",
-    "lat": 38.7071,
-    "lng": -9.1452,
-    "fuentes": [
-      "https://www.publico.pt/2026/10/17/sociedade/noticia/protestos-aumento-custo-vida-saem-neste-sabado-rua-varias-cidades-2191695",
-      "https://www.lusa.pt/article/47956879/cgtp-espera-grande-manifesta%C3%A7%C3%A3o-em-lisboa-porto-e-coimbra-contra-aumento-do-custo-de-vida",
-      "https://www.cgtp.pt/informacao/comunicacao-sindical/22834-vamos-a-manifestacao-nacional-17-de-outubro",
-      "https://www.rtp.pt/noticias/pais/protestos-pela-habitacao-e-contra-aumento-do-custo-de-vida-sobem-de-tom-em-manifestacao-nacional_e1772256",
-      "https://es.euronews.com/2026/10/17/los-portugueses-vuelven-a-la-calle-por-la-vivienda-y-contra-la-subida-del-coste-de-la-vida"
-    ],
-    "createdAt": "2026-10-17T09:34:27.000Z",
-    "updatedAt": "2026-10-17T23:53:59Z"
-  },
-  {
-    "id": "int-2026-10-17-venezolanos-diaspora-marcha-mundial",
-    "seccion": "internacionales",
-    "pais": "Venezuela (diáspora)",
-    "bandera": "🇻🇪",
-    "hora": "",
-    "fecha": "2026-10-17",
-    "lugar": "Más de 40 ciudades del mundo con presencia de la diáspora venezolana (Madrid, Murcia, Bilbao, Gijón, Barcelona, Bogotá, Miami, Santiago, Lima, Ciudad de México, Buenos Aires, Múnich, Berlín, Hamburgo, Ginebra, Génova, entre otras)",
-    "tipoAccion": "manifestación",
-    "organizaciones": [
-      "Mundo Con Vzla",
-      "Vente Venezuela (partido de María Corina Machado)",
-      "Comando Con Vzla",
-      "Coordinadoras de la diáspora venezolana"
-    ],
-    "motivo": "La diáspora venezolana marchó este sábado 17 de octubre en más de 40 ciudades del mundo para exigir que se fije una fecha para las elecciones presidenciales en Venezuela. La jornada fue convocada por Mundo Con Vzla y Vente Venezuela, el partido de la líder opositora y premio Nobel de la Paz María Corina Machado, que piden comicios 'libres, justas y verificables' bajo la campaña #SetTheDate. Además de las concentraciones, los organizadores en cada ciudad realizan gestiones ante cancillerías, embajadas y organismos internacionales para presionar por un calendario electoral y por el derecho al voto de los más de 8 millones de venezolanos en el exterior.",
-    "status": "finalizada",
-    "lat": 40.4168,
-    "lng": -3.7038,
-    "fuentes": [
-      "https://lapatilla.com/2026/10/17/en-imagenes-diaspora-venezolano-tomo-las-calles-del-mundo-para-exigir-fecha-de-elecciones-presidenciales/",
-      "https://talcualdigital.com/noticias/vente-convoca-protesta-internacional-para-exigir-fecha-de-elecciones-presidenciales/",
-      "https://www.minuto60.com/mundo/marcha-venezolanos-17-octubre-donde-sera-que-piden/17011"
-    ],
-    "createdAt": "2026-10-17T09:34:27.000Z",
-    "updatedAt": "2026-10-17T23:53:59Z"
-  },
-  {
-    "id": "int-2026-10-17-india-protestas-anti-cec-sir",
-    "seccion": "internacionales",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "",
-    "fecha": "2026-10-17",
-    "lugar": "Nueva Delhi (Connaught Place/Central Park, Jantar Mantar, India Gate), Mumbai (Azad Maidan), Chennai, Kolkata, Bengaluru, Patna y otras ciudades; también en Londres, India",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Cockroach Janta Party (CJP)",
-      "Bloque INDIA (Congreso, TVK, Shiv Sena-UBT, etc.)",
-      "All India Students' Association (AISA)",
-      "Samyukt Kisan Morcha (SKM)",
-      "Organizaciones estudiantiles y juveniles"
-    ],
-    "motivo": "Las protestas contra el comisionado electoral jefe (CEC) Gyanesh Kumar y la Revisión Intensiva Especial (SIR) de los padrones electorales continúan en varias ciudades de India, con detenciones de activistas y estudiantes y decenas de FIR registrados por presuntas agresiones policiales. Este sábado 17 de octubre el fundador del CJP, Abhijeet Dipke, quedó en libertad condicional tras firmar una fianza, un día después de ser detenido; la dirigente de AISA, Neha Bora, había sido liberada en la madrugada. Se registraron marchas Tiranga (con bandera) en Delhi, Bengaluru, Mumbai, Chennai y Kolkata, además de sentadas de estudiantes de SRFTI en Kolkata por seguridad en el campus y huelga de hambre indefinida de estudiantes de la JNU. Diversas organizaciones campesinas, bajo la bandera del Samyukt Kisan Morcha, anunciaron una marcha a Delhi para el 23 de octubre exigiendo la renuncia de Gyanesh Kumar y la anulación de la SIR.",
-    "status": "en_curso",
-    "lat": 28.6139,
-    "lng": 77.209,
-    "fuentes": [
-      "https://www.thehindu.com/news/national/anti-cec-sir-protest-live-updates-oct-17-2026-cjp-tiranga-march-abhijeet-dipke-detained-delhi-police-neha-bora/article71595221.ece",
-      "https://gulfnews.com/world/asia/india/delhi-tiranga-rally-cjp-founder-abhijeet-dipke-gets-conditional-bail-1.500714242",
-      "https://economictimes.indiatimes.com/topic/sir-protests-in-delhi/videos",
-      "https://protesttracker.online/today",
-      "https://www.thehindu.com/news/cities/Delhi/delhi-anti-cec-protests-dipke-released-after-signing-peace-bond-sporadic-protests-continue/article71597306.ece"
-    ],
-    "createdAt": "2026-10-17T09:34:27.000Z",
-    "updatedAt": "2026-10-17T23:53:59Z"
-  },
-  {
-    "id": "int-2026-10-17-mexico-planton-imss-sntss",
-    "seccion": "internacionales",
-    "pais": "México",
-    "bandera": "🇲🇽",
-    "hora": "",
-    "fecha": "2026-10-17",
-    "lugar": "Paseo de la Reforma frente a las oficinas centrales del IMSS y sede nacional del SNTSS (colonia Juárez), Ciudad de México; carretera federal México-Pachuca a la altura del Hospital General Regional 200, Tecámac, Estado de México",
-    "tipoAccion": "bloqueo",
-    "organizaciones": [
-      "Trabajadores disidentes del IMSS (activos y jubilados)",
-      "Sindicato Nacional de Trabajadores del Seguro Social (SNTSS)"
-    ],
-    "motivo": "Trabajadores disidentes del IMSS mantienen un plantón permanente desde el 8 de octubre frente a las oficinas centrales en Paseo de la Reforma y bloqueos intermitentes en la carretera federal México-Pachuca (Tecámac) tras rechazar el incremento salarial del 6,8%. Exigen un aumento directo del 10% al salario tabular, el abasto de medicamentos e insumos, un retiro digno y la destitución del secretario general del SNTSS, Rafael Olivos Hernández. El movimiento se extiende a centros de al menos 17 estados del país. Los trabajadores anunciaron una nueva movilización nacional en Ciudad de México para el miércoles 21 de octubre.",
-    "status": "en_curso",
-    "lat": 19.4302,
-    "lng": -99.1514,
-    "fuentes": [
-      "https://elpais.com/mexico/2026-10-17/las-protestas-de-los-trabajadores-del-imss-desafian-al-gobierno-de-sheinbaum-no-vamos-a-parar-este-movimiento.html",
-      "https://www.razon.com.mx/mexico/2026/10/17/manifestantes-sostienen-sus-demandas/",
-      "https://www.eluniversal.com.mx/nacion/trabajadores-del-imss-bloquean-reforma-exigen-destitucion-del-lider-sindical-rafael-olivos/",
-      "https://www.nmas.com.mx/sociedad/habra-marcha-del-imss-este-sabado-17-de-octubre-esto-exigen-trabajadores-del-seguro-social/"
-    ],
-    "createdAt": "2026-10-17T09:34:27.000Z",
-    "updatedAt": "2026-10-17T23:53:59Z"
-  },
-  {
-    "id": "int-2026-10-17-republica-centroafricana-cacerolada-bangui",
-    "seccion": "internacionales",
-    "pais": "República Centroafricana",
-    "bandera": "🇨🇫",
-    "hora": "18:00",
-    "fecha": "2026-10-17",
-    "lugar": "Bangui (cacerolada desde las residencias en toda la capital), República Centroafricana",
-    "tipoAccion": "cacerolada",
-    "organizaciones": [
-      "Colectivo de organizaciones de la sociedad civil (OGDC, I Gwe)"
-    ],
-    "motivo": "La Embajada de Estados Unidos en la República Centroafricana emitió una alerta por llamados a un 'concert de casseroles' (cacerolada desde las residencias) a partir de este sábado 17 de octubre a las 18:00 en Bangui, en el marco de las protestas por el alza del precio de los combustibles y el costo de vida. La movilización sigue a la jornada 'ville morte' del 12 de octubre y a la detención de cinco líderes de la sociedad civil el 15 de octubre, que generó condenas de la oposición y reclamos de liberación.",
-    "status": "finalizada",
-    "lat": 4.3947,
-    "lng": 18.5582,
-    "fuentes": [
-      "https://cf.usembassy.gov/demonstration-alert-for-october-17-2026/",
-      "https://www.rfi.fr/fr/afrique/20261016-centrafrique-des-organisateurs-d-une-journ%C3%A9e-ville-morte-contre-la-hausse-du-carburant-arr%C3%AAt%C3%A9s"
-    ],
-    "createdAt": "2026-10-17T09:34:27.000Z",
-    "updatedAt": "2026-10-17T23:53:59Z"
-  },
-  {
-    "id": "int-2026-10-17-tunez-manifestacion-ugtt-tunis",
-    "seccion": "internacionales",
-    "pais": "Túnez",
-    "bandera": "🇹🇳",
-    "hora": "",
-    "fecha": "2026-10-17",
-    "lugar": "Avenida Habib Bourguiba, Túnez (capital), Túnez",
-    "tipoAccion": "manifestación",
-    "organizaciones": [
-      "Unión General Tunecina del Trabajo (UGTT)",
-      "Partidos de oposición de todo el espectro político",
-      "Organizaciones de la sociedad civil",
-      "Abogados, médicos y periodistas"
-    ],
-    "motivo": "Miles de tunecinos (más de 3.000 según AFP) protagonizaron este sábado 17 de octubre en la capital la mayor protesta contra el presidente Kais Saied en años, convocada por la central sindical UGTT junto a partidos de oposición y organizaciones de la sociedad civil. Los manifestantes marcharon por la Avenida Habib Bourguiba —epicentro de las protestas de 2011— acusando a Saied de socavar la democracia y de mala gestión económica, y exigiendo la liberación de los críticos detenidos y el fin de las restricciones a los derechos sindicales. Al grito de 'El pueblo quiere la caída del régimen', denunciaron la crisis económica, el deterioro de los servicios públicos, los cortes de agua y electricidad y la escasez de medicamentos. Cientos de policías se desplegaron en la capital y se cerraron varias calles. El líder de la UGTT, Salah Eddine Salmi, denunció la concentración del poder en la presidencia.",
-    "status": "finalizada",
-    "lat": 36.8008,
-    "lng": 10.1833,
-    "fuentes": [
-      "https://www.aljazeera.com/news/2026/10/17/thousands-rally-for-biggest-protest-in-years-against-tunisias-saied",
-      "https://www.streetinsider.com/Reuters/Tunisians+stage+biggest+protest+in+years+against+President+Saied/27199157.html",
-      "https://www.arabnews.com/middle-east/tunisians-stage-biggest-protest-in-years-against-president-saied-3006849",
-      "https://www.yahoo.com/news/world/articles/thousands-rally-biggest-protest-years-145724919.html"
-    ],
-    "createdAt": "2026-10-17T16:35:03.000Z",
-    "updatedAt": "2026-10-17T23:53:59Z"
-  },
-  {
-    "id": "int-2026-10-17-sudafrica-marcha-anti-gbv-durban",
-    "seccion": "internacionales",
-    "pais": "Sudáfrica",
-    "bandera": "🇿🇦",
-    "hora": "",
-    "fecha": "2026-10-17",
-    "lugar": "Durban, KwaZulu-Natal, Sudáfrica",
-    "tipoAccion": "manifestación",
-    "organizaciones": [
-      "Amabutho aKwaZulu (regimientos zulúes; convocador: Sipho Mhlongo)",
-      "Doncellas jóvenes (young maidens) de KwaZulu-Natal"
-    ],
-    "motivo": "Cientos de amabutho (regimientos tradicionales zulúes) y doncellas marcharon este sábado 17 de octubre por las calles de Durban contra la violencia de género y el femicidio (GBVF), en un contexto de alerta nacional tras el hallazgo de los cuerpos de once o doce mujeres asesinadas en Ekurhuleni (East Rand) desde julio y tras el anuncio de medidas urgentes del presidente Cyril Ramaphosa. Las participantes, entre ellas adolescentes, exigieron mayor protección para mujeres y niñas frente a abusos y agresiones sexuales. La marcha, encabezada por el convocador de Amabutho aKwaZulu, Sipho Mhlongo, se dio en la misma semana en que la ministra de Justicia, Mmamoloko Kubayi, realizó un imbizo de concientización sobre GBVF en Soweto.",
-    "status": "finalizada",
-    "lat": -29.8587,
-    "lng": 31.0218,
-    "fuentes": [
-      "https://www.sabcnews.com/sabcnews/amabutho-akwazulu-young-maidens-lead-anti-gbv-march-in-durban/",
-      "https://www.sabcnews.com/sabcnews/south-africa/"
-    ],
-    "createdAt": "2026-10-17T21:34:38.000Z",
-    "updatedAt": "2026-10-17T23:53:59Z"
-  },
-  {
-    "id": "int-2026-10-17-palestina-protesta-gaza-yellow-line",
-    "seccion": "internacionales",
-    "pais": "Palestina",
-    "bandera": "🇵🇸",
-    "hora": "",
-    "fecha": "2026-10-17",
-    "lugar": "Este de la ciudad de Gaza, Franja de Gaza, Territorios Palestinos",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Residentes palestinos de la ciudad de Gaza",
-      "Familias desplazadas"
-    ],
-    "motivo": "Palestinos se concentraron este sábado 17 de octubre en el este de la ciudad de Gaza para protestar contra la reciente ampliación de la 'Línea Amarilla' por parte del ejército israelí, que ha extendido la zona de amortiguamiento hacia barrios residenciales. La Línea Amarilla es la demarcación hasta la que se retiró Israel en la primera fase del plan de alto el fuego de octubre de 2025 y separa las áreas del este controladas por el ejército de las zonas occidentales donde se permite la circulación de palestinos. Los manifestantes denuncian que la línea devora más del 70% de la Franja y expulsa a las familias desplazadas hacia el oeste.",
-    "status": "finalizada",
-    "lat": 31.5017,
-    "lng": 34.4668,
-    "fuentes": [
-      "https://www.middleeastmonitor.com/20261017-palestinians-in-gaza-city-protest-israeli-militarys-yellow-line-expansion/",
-      "https://www.aljazeera.com/news/2026/10/13/gazas-yellow-line-advances-leaving-displaced-families-with-nowhere-to-go"
-    ],
-    "createdAt": "2026-10-17T16:35:03.000Z",
-    "updatedAt": "2026-10-17T23:53:59Z"
-  },
-  {
-    "id": "int-2026-10-17-belgica-manifestacion-educacion-bruselas",
-    "seccion": "internacionales",
-    "pais": "Bélgica",
-    "bandera": "🇧🇪",
-    "hora": "",
-    "fecha": "2026-10-17",
-    "lugar": "Bruselas (Estación Central a Estación del Sur; concentraciones y disturbios frente a la Bolsa) y Lieja, Bélgica",
-    "tipoAccion": "manifestación",
-    "organizaciones": [
-      "Colectivos juveniles y estudiantiles",
-      "Profesores y sindicalistas"
-    ],
-    "motivo": "Cientos de personas, en su mayoría jóvenes junto a profesores y sindicalistas, se manifestaron este sábado 17 de octubre en Bruselas contra los recortes en educación y el deterioro de los servicios públicos, inspiradas en la jornada de movilización francesa. La marcha partió de la Estación Central de Bruselas hacia la Estación del Sur. Al final de la tarde, la situación se volvió violenta: la policía utilizó gases lacrimógenos frente a la Bolsa, en pleno centro, para dispersar a jóvenes que lanzaban proyectiles, y se registraron una decena de detenciones por alteración del orden público. En Lieja, la policía empleó cañones de agua contra grupos de manifestantes. El ministro del Interior belga, Bernard Quintin, denunció 'violencia pura y simple, organizada y reiterada para desestabilizar nuestra sociedad'.",
-    "status": "finalizada",
-    "lat": 50.845,
-    "lng": 4.3567,
-    "fuentes": [
-      "https://www.euronews.com/2026/10/17/protesters-clash-with-police-in-belgium-as-demonstrations-turn-violent-across-europe",
-      "https://www.publico.es/internacional/europa/cientos-personas-manifiestan-bruselas-recortes-educativos-servicios-publicos.html",
-      "https://www.france24.com/es/francia/20261017-en-directo-fuertes-tensiones-entre-manifestantes-y-fuerzas-del-orden-en-una-jornada-de-protestas-en-francia"
-    ],
-    "createdAt": "2026-10-17T16:35:03.000Z",
-    "updatedAt": "2026-10-17T23:53:59Z"
-  },
-  {
-    "id": "int-2026-10-17-espana-manifestacion-pasarela-reta-madrid",
-    "seccion": "internacionales",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "12:00",
-    "fecha": "2026-10-17",
-    "lugar": "Madrid: concentración a las 11:15 ante el Consejo General de Procuradores (Serrano Anguita 8-10) y marcha a las 12:00 hasta la Dirección General de Ordenación de la Seguridad Social (Jorge Juan 59); movilizaciones en 34 territorios de España",
-    "tipoAccion": "manifestación",
-    "organizaciones": [
-      "Plataforma Pasarela al RETA",
-      "Movimiento #J2 (abogados)",
-      "#J2 Procura",
-      "Asociación Nacional de Afectados por la Mutualidad de la Abogacía (ANAMA)",
-      "Consejos Generales de la Abogacía, Procura, Arquitectura y Arquitectura Técnica"
-    ],
-    "motivo": "Abogados, procuradores, arquitectos y otros profesionales mutualistas se manifestaron este sábado 17 de octubre en Madrid bajo el lema 'Escucha a los afectados, ministra. Reglamento sin recortes', para reclamar que el desarrollo reglamentario de la Pasarela al RETA (Régimen Especial de Trabajadores Autónomos) respete la Ley 2/2026 y no introduzca restricciones adicionales, y exigir una interlocución directa con el Ministerio. La convocatoria, con movilizaciones en 34 territorios, reclama que el reglamento se apruebe antes de las elecciones del 29 de noviembre y afecta a más de 150.000 profesionales.",
-    "status": "finalizada",
-    "lat": 40.4239,
-    "lng": -3.6949,
-    "fuentes": [
-      "https://www.noticiastrabajo.es/autonomos/los-mutualistas-se-manifiestan-este-sabado-en-madrid-para-exigir-una-pasarela-al-reta-sin-recortes/",
-      "https://www.larazon.es/economia/abogados-arquitectos-procuradores-exigen-gobierno-que-apruebe-pasarela-reta-antes-elecciones_202610176ad31fd5bafd3d73636266f4.html",
-      "https://www.eldiariodemadrid.es/articulo/madrid/manifestacion-mutualistas-pasarela-reta-madrid-17-octubre/20261004173359143279.html"
-    ],
-    "createdAt": "2026-10-17T16:35:03.000Z",
-    "updatedAt": "2026-10-17T23:53:59Z"
-  },
-  {
-    "id": "int-2026-10-17-espana-manifestacion-justicia-sanidad-granada",
-    "seccion": "internacionales",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "",
-    "fecha": "2026-10-17",
-    "lugar": "Granada, Andalucía, España",
-    "tipoAccion": "manifestación",
-    "organizaciones": [
-      "Asociación Justicia por la Sanidad"
-    ],
-    "motivo": "La asociación Justicia por la Sanidad convocó para este sábado 17 de octubre una manifestación en Granada en defensa de la sanidad pública, una década después de las multitudinarias marchas impulsadas por el doctor Jesús Candel ('Spiriman'). La protesta denuncia el creciente 'deterioro' del servicio público de salud y reclama mejoras asistenciales y de personal.",
-    "status": "finalizada",
-    "lat": 37.1773,
-    "lng": -3.5986,
-    "fuentes": [
-      "https://www.abc.es/espana/andalucia/granada/justicia-sanidad-convoca-manifestacion-granada-decada-despues-20261014223747-nts.html"
-    ],
-    "createdAt": "2026-10-17T16:35:03.000Z",
-    "updatedAt": "2026-10-17T23:53:59Z"
-  },
-  {
-    "id": "int-2026-10-17-albania-protestas-estudiantes-tirana",
-    "seccion": "internacionales",
-    "pais": "Albania",
-    "bandera": "🇦🇱",
-    "hora": "",
-    "fecha": "2026-10-17",
-    "lugar": "Ministerio de Educación y Oficina del Primer Ministro, Tirana, Albania; protestas extendidas a otras ciudades del país",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Estudiantes universitarios y de secundaria de Albania",
-      "Colectivos de jóvenes y activistas",
-      "Comité de acción de la protesta (activistas como Ervin Goci, Artan Kacani, Nikoleta Mehmeti)"
-    ],
-    "motivo": "Las protestas anti-gubernamentales en Albania entraron en su quinto día consecutivo con miles de jóvenes reunidos frente al Ministerio de Educación en Tirana, exigiendo la renuncia del primer ministro socialista Edi Rama por corrupción, el alto costo de la educación, la falta de empleo y las escasas oportunidades para los jóvenes. Los estudiantes de medicina marcharon hacia el Ministerio y luego el grupo se dirigió a la Oficina del Primer Ministro, donde hubo cócteles molotov contra la policía y un auto embestió camiones anti disturbios antes de incendiarse. Grupos encapuchados lanzaron piedras y petardos, y la policía respondió con gases lacrimógenos, cañones de agua y balas de goma; el balance sanitario acumulado es de 207 heridos (132 policías, 58 manifestantes y 17 terceros) desde el inicio de los disturbios el martes, con 167 detenidos y 132 oficiales heridos en los cinco días (500 detenidos en total, 330 liberados, según Reuters). El movimiento, inicialmente desencadenado por los planes de un lujoso complejo turístico en la costa sur vinculado a Jared Kushner, se amplió a demandas contra el gobierno de Rama (en el poder desde 2013, cuarto mandato) y también contra el líder opositor Sali Berisha. Rama descartó renunciar y acusó a la oposición conservadora de incitar los disturbios. Activistas advirtieron que las protestas 'se ampliarán y intensificarán'.",
-    "status": "en_curso",
-    "lat": 41.3275,
-    "lng": 19.8187,
-    "fuentes": [
-      "https://apnews.com/article/albania-protests-edi-rama-jared-kushner-9f0ce30c446aa9f273068b98d9f40b14",
-      "https://www.euronews.com/2026/10/17/albanian-police-fire-rubber-bullets-and-arrest-hundreds-as-anti-government-protests-enter-",
-      "https://www.nbcnews.com/world/europe/albanian-anti-government-protesters-clash-police-tirana-rcna604009",
-      "https://en.ata.gov.al/2026/10/17/protesters-march-towards-prime-ministers-office-as-clashes-with-police-continue/",
-      "https://www.independent.co.uk/news/world/europe/albania-protests-violence-tirana-edi-rama-b3068565.html",
-      "https://www.bangkokpost.com/world/3338853/fifth-day-of-violent-clashes-in-albanian-capital",
-      "https://en.panorama.com.al/studentet-kerkojne-doreheqjen-e-rames-rel-trazirat-shperthejne-perseri-ne-protesten-antiqeveritare-ne-tirane/",
-      "https://www.balkanweb.com/en/Day-5-of-the-youth-protest--medical-students-are-marching-today-towards-the-Ministry-of-Education--what-is-happening-in-front-of-the-Prime-Minister%27s-Office--a-water-tanker-is-standing/",
-      "https://www.heraldo.es/noticias/internacional/2026/10/17/protestas-albania-disturbios-tirana-gobierno-207-heridos-2060487.html"
-    ],
-    "createdAt": "2026-10-17T19:00:26.000Z",
-    "updatedAt": "2026-10-17T23:53:59Z"
-  },
-  {
-    "id": "int-2026-10-17-italia-in-piazza-manifestaciones-carovita",
-    "seccion": "internacionales",
-    "pais": "Italia",
-    "bandera": "🇮🇹",
-    "hora": "",
-    "fecha": "2026-10-17",
-    "lugar": "13 ciudades de Italia: Milán (Piazza Duomo, via Broletto, Galleria Vittorio Emanuele), Turín (Piazza Castello, estación de Porta Nuova), Bolonia (Piazza Minghetti, estación, Piazza XX Settembre), Génova, Roma, Nápoles, Florencia y otras; concentraciones y marchas en el centro de cada ciudad",
-    "tipoAccion": "manifestación",
-    "organizaciones": [
-      "Italia in Piazza (movimiento apartidista de ciudadanos)",
-      "Colectivos estudiantiles locales"
-    ],
-    "motivo": "El movimiento espontáneo y apartidista 'Italia in Piazza' convocó manifestaciones en 13 ciudades italianas contra el costo de vida, los salarios bajos, la alta presión fiscal y los servicios públicos deficitarios, en una jornada inspirada en las protestas francesas del mismo día. En Milán, más de 5.000 personas participaron en el corteo; la situación se volvió violenta en via Broletto con una intensa pedrada contra la policía, que respondió con gases lacrimógenos y cargas; grupos encapuchados incendiaron una barricada en Piazza Duomo, saquearon la Galleria Vittorio Emanuele, dañaron pensilas del ATM y ventanas de edificios históricos, y la estación de metro Duomo fue cerrada; se registraron decenas de detenidos y heridos. En Turín, el corteo desde Piazza Castello hacia la estación de Porta Nuova terminó con enfrentamientos, gases lacrimógenos y el vandalismo de la librería Feltrinelli en la estación. En Bolonia, sfrontes frente a la estación con idranti y lacrimógenos; la Basílica de San Petronio fue vandalizada. Génova fue la única gran plaza que cerró sin incidentes (~200 manifestantes pacíficos). En Roma, decenas de estudiantes quemaron banderas y lanzaron petardos contra el Ministerio de Educación en acciones paralelas.",
-    "status": "finalizada",
-    "lat": 45.4642,
-    "lng": 9.19,
-    "fuentes": [
-      "https://milano.corriere.it/notizie/cronaca/26_ottobre_17/milano-sassi-contro-la-polizia-alla-manifestazione-contro-il-caro-benzina-oltre-5-mila-in-corteo-con-italia-in-piazza-a754b408-4598-4f55-b73c-38c1b7888xlk.shtml",
-      "https://www.ansa.it/sito/notizie/cronaca/2026/10/17/guerriglia-a-piazza-duomo-a-milano-bombe-carta-contro-la-polizia.-meloni-ogni_a783ef65-c2c2-4fb9-8d99-7c64d791f43c.html",
-      "https://www.ilpost.it/2026/10/17/scontri-milano-manifestazione-carovita/",
-      "https://www.internazionale.it/ultime-notizie-reuters/2026/10/17/italian-police-clash-with-protesters-in-the-centre-of-milan",
-      "https://www.dire.it/17-10-2026/1277507-scontri-in-piazza-a-milano-e-torino-lancio-di-sassi-contro-gli-agenti/",
-      "https://corrieredibologna.corriere.it/notizie/cronaca/26_ottobre_17/italia-in-piazza-bologna-manifestazioni-corteo-07f43dc3-4b7b-4c6e-abfa-352747ea9xlk.shtml",
-      "https://www.ilmessaggero.it/italia/proteste_italia_oggi_cgil_scontri_polizia_sciopero_generale_novembre_milano_roma_ultime_notizie-9831369.html"
-    ],
-    "createdAt": "2026-10-17T19:00:26.000Z",
-    "updatedAt": "2026-10-17T23:53:59Z"
-  },
-  {
-    "id": "int-2026-10-17-italia-cgil-manifestacion-roma-via-maestra",
-    "seccion": "internacionales",
-    "pais": "Italia",
-    "bandera": "🇮🇹",
-    "hora": "14:00",
-    "fecha": "2026-10-17",
-    "lugar": "Piazza della Repubblica a Piazza del Popolo, Roma, Italia",
-    "tipoAccion": "manifestación",
-    "organizaciones": [
-      "Confederazione Generale Italiana del Lavoro (CGIL)",
-      "La Via Maestra (red de más de 100 asociaciones laicas y católicas)",
-      "Partidos del campo progresista: PD (Elly Schlein), M5S (Giuseppe Conte), AVS (Nicola Fratoianni, Angelo Bonelli)"
-    ],
-    "motivo": "La CGIL y más de 100 asociaciones de la red 'La Via Maestra' convocaron la manifestación nacional 'Lavoro, pace, ambiente, welfare, Costituzione' en Roma, con un corteo de Piazza della Repubblica a Piazza del Popolo que reunió a decenas de miles de personas (Landini habló de 'más de 100.000'). Reivindicaciones: aumentar salarios y pensiones, frenar la precariedad, fiscalidad justa, sanidad y educación públicas, derecho a la vivienda, paz y freno al rearme militar (crítica a los 14.000 millones previstos para armas en la Manovra). Desde el escenario, el secretario general Maurizio Landini anunció la proclamación de un sciopero generale (huelga general) para el 20 de noviembre, coincidiendo con la huelga europea estudiantil. Participaron los líderes del campo largo (Schlein, Conte, Fratoianni, Bonelli), que abrazaron a Landini al cierre.",
-    "status": "finalizada",
-    "lat": 41.9028,
-    "lng": 12.4964,
-    "fuentes": [
-      "https://www.ansa.it/sito/notizie/cronaca/2026/10/17/la-via-maestra-in-piazza-a-roma-lavoro-pace-costituzione-_a783ef65-c2c2-4fb9-8d99-7c64d791f43c.html",
-      "https://roma.corriere.it/politica/diretta-live/26_ottobre_17/manifestazione-cgil-roma-diretta.shtml",
-      "https://www.repubblica.it/politica/2026/10/17/diretta/manifestazione_e_corteo_cgil_oggi_a_roma_le_news_in_diretta-425654630/",
-      "https://www.ilfattoquotidiano.it/2026/10/17/manifestazione-via-maestra-cgil-landini-diretta/8541842/",
-      "https://tg24.sky.it/cronaca/2026/10/16/manifestazione-17-ottobre-roma",
-      "https://tg.la7.it/cronaca/roma-corteo-cgil-la-via-maestra-landini-governo-impari-ad-ascoltare-non-ce-fa-piu-17-10-2026-264410"
-    ],
-    "createdAt": "2026-10-17T19:00:26.000Z",
-    "updatedAt": "2026-10-17T23:53:59Z"
-  },
-  {
-    "id": "int-2026-10-17-mexico-marcha-vida-contra-pemex-cdmx",
-    "seccion": "internacionales",
-    "pais": "México",
-    "bandera": "🇲🇽",
-    "hora": "11:00",
-    "fecha": "2026-10-17",
-    "lugar": "Ciudad de México: salida de la Secretaría de Energía (Av. Insurgentes Sur 20, Roma Norte) hacia el Senado de la República (Paseo de la Reforma 135) y la Torre Ejecutiva de Pemex (Av. Marina Nacional 287, Verónica Anzures); concentración previa de la Alianza Mexicana Contra el Fracking en el Corporativo CFE (Reforma 164)",
-    "tipoAccion": "manifestación",
-    "organizaciones": [
-      "Alianza Mexicana contra el Fracking",
-      "Alianza Contra la Desigualdad",
-      "Greenpeace Voluntariado CDMX",
-      "Amnistía Internacional México",
-      "Alianza Juvenil por la Sostenibilidad",
-      "Conexiones Climáticas",
-      "Norestes sin Fracking",
-      "Trans-Hábitat",
-      "Deuda por Clima"
-    ],
-    "motivo": "La 'Marcha por la vida y contra Pemex' recorrió la Ciudad de México este sábado 17 de octubre, partiendo a las 11:00 de las oficinas de la Secretaría de Energía hacia el Senado y la Torre Ejecutiva de Pemex, como clímax de una jornada continental de acciones del 10 al 17 de octubre contra el fracking. Exigen la prohibición legal del fracking (especialmente en la cuenca Tampico-Misantla), el fin de la expansión de la actividad fósil de Pemex, responsabilidades por derrames, incendios y accidentes ambientales (incluido el incendio de la refinería Olmeca y fugas en el Golfo de México), y una transición energética justa que no traslade costos ambientales a comunidades rurales, pueblos indígenas ni zonas cercanas a instalaciones petroleras. Demandan también distancia mínima de 10 km entre fracking y fuentes de agua, y la prohibición de 13 sustancias tóxicas. Manifestantes avanzaron por Av. Insurgentes durante la tarde.",
-    "status": "finalizada",
-    "lat": 19.412,
-    "lng": -99.1675,
-    "fuentes": [
-      "https://www.ssc.cdmx.gob.mx/storage/app/media/Movilizaciones/Agenda%20de%20Movilizaciones%20Sociales.pdf",
-      "https://24-horas.mx/cdmx/marchas-manifestaciones-hoy-17-octubre-2026/",
-      "https://www.infobae.com/mexico/2026/10/06/convocan-a-marcha-contra-pemex-en-cdmx-tras-multiples-derrames-incidentes-y-danos-medioambientales/",
-      "https://causanaturamedia.com/es/notas/organizaciones-exigen-a-pemex-responder-por-danos-ambientales",
-      "https://elcongresista.mx/politica/nacional/marcha-contra-pemex-17-octubre",
-      "https://www.infobae.com/mexico/deportes/2026/10/17/en-vivo-bloqueos-accidentes-y-manifestaciones-hoy-sabado-17-de-octubre/"
-    ],
-    "createdAt": "2026-10-17T19:00:26.000Z",
-    "updatedAt": "2026-10-17T23:53:59Z"
-  },
-  {
-    "id": "int-2026-10-17-alemania-berlin-solidaridad-protestas-francia",
-    "seccion": "internacionales",
-    "pais": "Alemania",
-    "bandera": "🇩🇪",
-    "hora": "",
-    "fecha": "2026-10-17",
-    "lugar": "U-Bahnhof Kleistpark y Schöneberg, Berlín, Alemania",
-    "tipoAccion": "manifestación",
-    "organizaciones": [
-      "Linksjugend Solid (juventud de La Izquierda)",
-      "Linken Neukölln (Asamblea del distrito de La Izquierda)"
-    ],
-    "motivo": "Unas 250 personas se concentraron este sábado 17 de octubre en el U-Bahnhof Kleistpark de Berlín en una manifestación registrada bajo el lema 'Solidaridad con los estudiantes en Francia', convocada por la juventud del partido La Izquierda (Linksjugend Solid y el distrito de Neukölln). La convocatoria buscaba extender a Alemania las protestas estudiantiles francesas y las acciones de bloqueo escolar que comenzaron el viernes en tres gimnasios berlineses (Andreas-Gymnasium en Friedrichshain, Leibniz-Gymnasium en Kreuzberg, Ellen-Key-Schule) contra el reintroducción del servicio militar obligatorio, los recortes en educación y en solidaridad con Francia. La asistencia fue modesta, con pocos estudiantes reales; participaron banderas de La France Insoumise, la RKP, el TIP y Solid, además de banderas palestinas.",
-    "status": "finalizada",
-    "lat": 52.4996,
-    "lng": 13.3435,
-    "fuentes": [
-      "https://www.tagesspiegel.de/berlin/kaum-jugendliche-bei-schulerprotest-250-menschen-versammeln-sich-zu-demo-am-berliner-kleistpark-16173250.html",
-      "https://www.aa.com.tr/en/europe/german-students-block-berlin-school-entrances-in-solidarity-with-french-protests/4091287",
-      "https://www.berliner-zeitung.de/article/polizeigewerkschaft-warnt-extremisten-wollen-frankreich-proteste-nach-berlin-tragen-10501072"
-    ],
-    "createdAt": "2026-10-17T19:00:26.000Z",
-    "updatedAt": "2026-10-17T23:53:59Z"
-  },
-  {
-    "id": "int-2026-10-17-grecia-protesta-estudiantil-syntagma-enoikia",
-    "seccion": "internacionales",
-    "pais": "Grecia",
-    "bandera": "🇬🇷",
-    "hora": "",
-    "fecha": "2026-10-17",
-    "lugar": "Plaza Syntagma (frente al Parlamento), Atenas, Grecia",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Φοιτητικοί Σύλλοι (Sindicatos de Estudiantes de Atenas)",
-      "Sindicatos de estudiantes del Εθνικό Μετσόβιο Πολυτεχνείο (EMP/Universidad Politécnica Nacional)",
-      "Colectivos estudiantiles universitarios"
-    ],
-    "motivo": "Cientos de estudiantes salieron este sábado 17 de octubre a las calles de Atenas en la Plaza Syntagma, en el marco de la acampada y contra-campamento indefinida iniciada el 13 de octubre, para denunciar los alquileres impagables (hasta 600-700 euros por un estudio), el alto coste de los estudios y la escasez de residencias universitarias (cubren menos del 4% de la demanda). Exigen un tope a los alquileres, aumento del subsidio de vivienda estudiantil, residencias públicas y gratuitas, comedores y transporte gratuitos, y más financiación pública a las universidades. El lema de la convocatoria es «Δεν πάει άλλο» (No se puede más). La movilización se suma a la ola europea de protestas estudiantiles inspiradas en las jornadas de Francia y España; los sindicatos anunciaron nuevas acciones y una gran movilización para el martes 20 de octubre junto a profesores, alumnos y personal sanitario.",
-    "status": "en_curso",
-    "lat": 37.9755,
-    "lng": 23.7348,
-    "fuentes": [
-      "https://www.megatv.com/2026/10/17/stous-dromous-gia-to-dikaioma-sti-morfosi-ekatontades-foitites-esteilan-ixiro-minyma-gia-ta-akriva-enoikia/",
-      "https://www.ekriti.gr/ellada/kyma-orgis-stoys-dromoys-ekatontades-foitites-diadilosan-gia-ta-aplisiasta-enoikia",
-      "https://athina984.gr/2026/10/17/k-osmani-yparchei-ena-schedio-epithesis-stis-zoes-kai-stis-anagkes-ton-foititon/",
-      "https://greekreporter.com/2026/10/14/athens-student-housing-protest/",
-      "https://www.efsyn.gr/ellada/1487829/foitites-me-antiskina-sto-syntagma-na-spoydasoyme-i-na-epiviosoyme/"
-    ],
-    "createdAt": "2026-10-17T23:43:52.000Z",
-    "updatedAt": "2026-10-17T23:53:59Z"
-  },
-  {
-    "id": "int-2026-10-17-brasil-movilizacion-nacional-mujeres-lula",
-    "seccion": "internacionales",
-    "pais": "Brasil",
-    "bandera": "🇧🇷",
-    "hora": "",
-    "fecha": "2026-10-17",
-    "lugar": "Acciones en las cinco regiones de Brasil: São Paulo (Praça Ramos, 15:00), Río de Janeiro (Largo do Machado, 09:00), Brasilia (Praça Lúcio Costa, 15:00), Salvador (Campo Grande, 09:00), Recife (Praça do Diário, 08:00), Belo Horizonte (Praça Raul Soares, 15:00), Curitiba (Praça Santos Andrade, 13:00), Porto Alegre (Praça do Aeromóvel, 15:30), Florianópolis, Manaus, Belém, Fortaleza, Goiânia, entre otras ciudades",
-    "tipoAccion": "manifestación",
-    "organizaciones": [
-      "Central dos Trabalhadores e Trabalhadoras do Brasil (CTB)",
-      "Colectivos 'Mulheres com Lula'",
-      "Movimientos sociales y organizaciones de mujeres",
-      "Centrales sindicales aliadas"
-    ],
-    "motivo": "Día Nacional de Movilización de las Mujeres con Lula: decenas de actos, caminatas y actividades culturales en todas las regiones de Brasil este sábado 17 de octubre, en defensa de la democracia, los derechos de las mujeres, el enfrentamiento a la violencia de género y el femicidio, la igualdad salarial y la valorización de las trabajadoras, además de celebrar el fin de la escala laboral 6x1. Las movilizaciones, organizadas con vistas a las elecciones presidenciales del segundo turno del 25 de octubre, convocaron concentraciones en ciudades de las cinco regiones del país, con actos paralelos de apoyo a la democracia convocados por estudiantes, artistas y movimientos sociales.",
-    "status": "finalizada",
-    "lat": -14.235,
-    "lng": -51.9253,
-    "fuentes": [
-      "https://www.ctb.org.br/2026/10/16/mulheres-ocupam-as-ruas-de-todo-brasil-neste-sabado-17-em-defesa-da-democracia/",
-      "https://midianinja.org/atos-pelo-brasil-manifestacoes-pela-democracia-seguem-ate-a-vespera-do-segundo-turno/"
-    ],
-    "createdAt": "2026-10-17T23:43:52.000Z",
-    "updatedAt": "2026-10-17T23:53:59Z"
-  },
-  {
-    "id": "int-2026-10-17-colombia-planton-artes-museo-nacional-bogota",
-    "seccion": "internacionales",
-    "pais": "Colombia",
-    "bandera": "🇨🇴",
-    "hora": "",
-    "fecha": "2026-10-17",
-    "lugar": "Carrera Séptima con calle 30, frente al Museo Nacional, Bogotá, Colombia",
-    "tipoAccion": "plantón",
-    "organizaciones": [
-      "Colectivos de artistas, culturas y memorias de Bogotá",
-      "Convocantes del 'Plantón por nuestras artes, culturas y memorias'"
-    ],
-    "motivo": "Un plantón ciudadano pacífico 'por nuestras artes, culturas y memorias' se instaló este sábado 17 de octubre desde primera hora frente al Museo Nacional de Colombia, en la carrera Séptima con calle 30, para protestar contra las modificaciones en el guion museográfico del museo. La jornada, acompañada por el equipo de Diálogo Social de la Alcaldía y sin alteraciones al orden público, se extendió durante toda la tarde con afectación de un carril de circulación en la zona, y se produce en medio de una agenda de movilizaciones en Bogotá esta semana contra las políticas del gobierno de Abelardo de la Espriella.",
-    "status": "en_curso",
-    "lat": 4.6486,
-    "lng": -74.0588,
-    "fuentes": [
-      "https://bogota.gov.co/mi-ciudad/movilidad/2026-10/en-vivo-movilidad-bogota-y-rutas-transmilenio-hoy-17-de-octubre-2026",
-      "https://caracol.com.co/2026/10/17/jornada-de-protestas-frente-al-museo-nacional-tras-modificaciones-en-su-guion-museografico/"
-    ],
-    "createdAt": "2026-10-17T23:43:52.000Z",
-    "updatedAt": "2026-10-17T23:53:59Z"
-  },
-  {
-    "id": "int-2026-10-17-bangladesh-protesta-trabajadoras-textiles-uttara",
-    "seccion": "internacionales",
-    "pais": "Bangladés",
-    "bandera": "🇧🇩",
-    "hora": "10:30",
-    "fecha": "2026-10-17",
-    "lugar": "Uttara, carretera Dhaka-Mymensingh (zona Rajlakshmi/Azampur), Daca, Bangladés",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Trabajadoras y trabajadores de fábricas de confección (garment workers) de Uttara"
-    ],
-    "motivo": "Miles de trabajadoras y trabajadores de la industria de la confección mantienen las protestas diarias en Uttara desde el lunes 13 de octubre, exigiendo un salario mínimo mensual de 30.000 taka y el pago de salarios atrasados, ante la subida del costo de vida. Este sábado 17 de octubre, los trabajadores intentaron bloquear la carretera Dhaka-Mymensingh en el área de Rajlakshmi alrededor de las 10:30, lo que desató un choque con la policía: al menos 17 agentes resultaron heridos, un vehículo policial y una motocicleta fueron vandalizados, y las fuerzas del orden respondieron con granadas de sonido y cañones de agua para dispersar a los manifestantes, en el quinto día consecutivo de movilizaciones.",
-    "status": "en_curso",
-    "lat": 23.8759,
-    "lng": 90.3795,
-    "fuentes": [
-      "https://www.thedailystar.net/news/news/garment-workers-police-clash-uttara-4300801",
-      "https://asianews.network/in-photos-bangladesh-garment-workers-protests-bring-dhaka-traffic-to-a-standstill/"
-    ],
-    "createdAt": "2026-10-17T23:43:52.000Z",
-    "updatedAt": "2026-10-17T23:53:59Z"
+    "createdAt": "2026-10-18T02:58:39.000Z",
+    "updatedAt": "2026-10-18T03:17:48Z"
   }
 ]
