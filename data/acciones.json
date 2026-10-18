@@ -24,7 +24,7 @@
       "https://fightbacknow.civicdeeds.com/"
     ],
     "createdAt": "2026-10-18T02:58:39.000Z",
-    "updatedAt": "2026-10-18T16:29:49Z"
+    "updatedAt": "2026-10-18T19:05:05Z"
   },
   {
     "id": "int-2026-10-18-espana-concentracion-pacma-perros-caza-madrid",
@@ -40,14 +40,14 @@
       "Organizaciones animalistas internacionales coordinadas"
     ],
     "motivo": "El Partido Animalista PACMA convocó una concentración este domingo 18 de octubre a las 12:00 en la Plaza de Callao de Madrid bajo el lema «Perros de caza: ¡incluidos en la ley ya!», exigiendo que los perros dedicados a la caza queden amparados por la Ley de Bienestar Animal y el Real Decreto de Núcleos Zoológicos, y que se eliminen las excepciones que hoy excluyen a los perros de caza, de guarda, pastoreo y a los cuerpos de seguridad del marco de protección. La movilización se enmarca en una campaña de presión social que incluye, como parte de la estrategia global, la entrega de cartas de protesta en 20 consulados de España en el exterior, junto a acciones coordinadas con organizaciones extranjeras, además de reuniones con agentes sociales y formación de alianzas con partidos políticos para conseguir compromisos legislativos.",
-    "status": "en_curso",
+    "status": "finalizado",
     "lat": 40.4238,
     "lng": -3.7096,
     "fuentes": [
       "https://gacetinmadrid.com/2026/10/17/manifestacion-domingo-madrid-perros-caza-ley-bienestar-animal/"
     ],
     "createdAt": "2026-10-18T02:58:39.000Z",
-    "updatedAt": "2026-10-18T16:29:49Z"
+    "updatedAt": "2026-10-18T19:05:05Z"
   },
   {
     "id": "int-2026-10-18-colombia-planton-social-parque-santander-bogota",
@@ -61,17 +61,42 @@
     "organizaciones": [
       "Fundación Morei"
     ],
-    "motivo": "La Secretaría Distrital de Gobierno de Bogotá incluyó en su agenda de movilizaciones del 13 al 18 de octubre un 'plantón social y ciudadano de carácter pacífico' convocado por la Fundación Morei para este domingo 18 de octubre a las 8:00 en el Parque Santander (Santa Fe). La jornada cierra una semana de intensa movilización social en la capital colombiana, que incluyó el 'Paro Nacional' con marchas masivas del miércoles 14 hacia la Plaza de Bolívar (convocadas por CUT, CTC, CGT, FECODE, Pacto Histórico y otros), plantones y acciones del sector universitario, y un plantón ciudadano frente al Museo Nacional el sábado 17 por la defensa del guion museográfico del museo, que terminó con intervención de la Unidad Nacional Antidisturbios tras varias horas de bloqueo en la Carrera Séptima, en un clima de protestas contra las políticas del gobierno nacional.",
-    "status": "programado",
+    "motivo": "La Secretaría Distrital de Gobierno de Bogotá incluyó en su agenda de movilizaciones del 13 al 18 de octubre un 'plantón social y ciudadano de carácter pacífico' convocado por la Fundación Morei para este domingo 18 de octubre a las 8:00 en el Parque Santander (Santa Fe). Según el parte de la Secretaría de Gobierno de Bogotá difundido al mediodía, el Equipo de Diálogo Social realizó monitoreo constante en el punto 'sin evidenciar alteraciones a la sana convivencia ni novedades en el orden público', confirmando 'absoluta normalidad y ausencia de aglomeraciones' en el espacio público. La jornada cierra una semana de intensa movilización social en la capital colombiana, que incluyó el 'Paro Nacional' con marchas masivas del miércoles 14 hacia la Plaza de Bolívar (convocadas por CUT, CTC, CGT, FECODE, Pacto Histórico y otros) y plantones ciudadanos frente al Museo Nacional.",
+    "status": "finalizado",
     "lat": 4.6516,
     "lng": -74.0575,
     "fuentes": [
       "https://www.noticiascaracol.com/colombia/bogota/pilas-manifestaciones-en-bogota-del-13-al-18-de-octubre-esta-es-la-agenda-y-los-horarios-rg10",
       "https://bogota.gov.co/mi-ciudad/gobierno/hay-previstas-marchas-y-movilizaciones-en-varios-sectores-de-la-ciudad",
-      "https://caracol.com.co/2026/10/18/protestas-frente-al-museo-nacional-terminaron-con-intervencion-de-unidad-nacional-antidisturbios/"
+      "https://www.semana.com/nacion/articulo/manifestaciones-en-bogota-este-domingo-18-de-octubre-estado-de-las-vias-y-principales-puntos-de-concentracion/202616/"
     ],
     "createdAt": "2026-10-18T02:58:39.000Z",
-    "updatedAt": "2026-10-18T16:29:49Z"
+    "updatedAt": "2026-10-18T19:05:05Z"
+  },
+  {
+    "id": "int-2026-10-18-colombia-planton-museo-nacional-bogota",
+    "seccion": "internacionales",
+    "pais": "Colombia",
+    "bandera": "🇨🇴",
+    "hora": "10:00",
+    "fecha": "2026-10-18",
+    "lugar": "Avenida Carrera Séptima con Calle 28, frente al Museo Nacional de Colombia, localidad de Santa Fe, Bogotá, Colombia",
+    "tipoAccion": "plantón",
+    "organizaciones": [
+      "Congresistas del Pacto Histórico",
+      "Colectivos sociales y ciudadanos en defensa de la memoria histórica del Museo Nacional"
+    ],
+    "motivo": "El plantón frente al Museo Nacional de Colombia se reactivó este domingo 18 de octubre desde las 10:00, con personas concentradas en la Avenida Carrera Séptima con Calle 28, para continuar las manifestaciones en rechazo al retiro de más de 30 obras del museo, en el segundo día consecutivo de protestas por la polémica en torno al guion museográfico y la representación de la memoria histórica. La convocatoria, impulsada por congresistas del Pacto Histórico en defensa de un relato nacional incluyente, se suma a la jornada conmemorativa del séptimo aniversario del 18-O y se desarrolla pese a que el Gobierno no autorizó marchas para la fecha. La Secretaría de Gobierno desplegó monitoreo preventivo en el sector; una jornada previa del sábado 17 frente al mismo museo terminó con intervención de la Unidad Nacional Antidisturbios tras varias horas de bloqueo en la Carrera Séptima.",
+    "status": "en_curso",
+    "lat": 4.656,
+    "lng": -74.067,
+    "fuentes": [
+      "https://www.semana.com/nacion/articulo/inicia-planton-en-el-museo-nacional-este-domingo-manifestantes-se-concentran-en-importante-via-de-bogota/202611/",
+      "https://www.semana.com/nacion/articulo/manifestaciones-en-bogota-este-domingo-18-de-octubre-estado-de-las-vias-y-principales-puntos-de-concentracion/202616/",
+      "https://caracol.com.co/2026/10/18/protestas-frente-al-museo-nacional-terminaron-con-intervencion-de-unidad-nacional-antidisturbios/"
+    ],
+    "createdAt": "2026-10-18T18:45:38.000Z",
+    "updatedAt": "2026-10-18T19:05:05Z"
   },
   {
     "id": "int-2026-10-18-italia-bloqueos-camioneros-carburante-sur",
@@ -101,7 +126,35 @@
       "https://www.trasporti-italia.com/camion/fermo-autotrasporto-ottobre-sicilia-calabria-proteste-in-corso/1505077"
     ],
     "createdAt": "2026-10-18T02:58:39.000Z",
-    "updatedAt": "2026-10-18T16:29:49Z"
+    "updatedAt": "2026-10-18T19:05:05Z"
+  },
+  {
+    "id": "int-2026-10-18-italia-protesta-carovita-milan-piazza-duomo",
+    "seccion": "internacionales",
+    "pais": "Italia",
+    "bandera": "🇮🇹",
+    "hora": "",
+    "fecha": "2026-10-18",
+    "lugar": "Piazza Duomo y centro histórico de Milán, Italia (jornada previa con choques en Turín, Bologna, Brescia, Bergamo y Milán el sábado 17)",
+    "tipoAccion": "manifestación",
+    "organizaciones": [
+      "Italia in Piazza (convocante de la movilización contra el caro vita)",
+      "Colectivos juveniles y antifascistas",
+      "Movimientos contra el costo de la vida y el caro carburanti"
+    ],
+    "motivo": "La protesta contra el costo de vida, el caro carburanti y la presión fiscal degeneró este domingo 18 de octubre en nuevos enfrentamientos en Milán, al día después de la 'jornada de guerrilla urbana' del sábado 17 en Milán, Turín, Bolonia, Brescia y Bergamo. Cerca de Piazza Duomo, varios cientos de manifestantes encapuchados rompieron vidrieras, saquearon comercios e incendiaron contenedores; la policía antidisturbios respondió con gases lacrimógenos e hidrantes, y más de 60 personas fueron llevadas a la comisaría, con más de 28 arrestos acumulados tras los disturbios del sábado (según parte policial). El sábado, la marcha organizada por 'Italia in Piazza' comenzó pacíficamente en Piazza Duomo antes de que grupos encapuchados lanzaran piedras y adoquines contra la policía, con daños estimados en más de 860.000 euros solo en Milán (Unimpresa) y unos 1,3 millones en total entre las tres ciudades. La premier Giorgia Meloni condenó la violencia y anunció una reunión de gabinete el lunes 19; el alcalde de Milán, Giuseppe Sala, calificó de 'comprensibles' las razones de la protesta pero rechazó los desmanes.",
+    "status": "en_curso",
+    "lat": 45.4642,
+    "lng": 9.19,
+    "fuentes": [
+      "https://www.internazionale.it/ultime-notizie-reuters/2026/10/18/milan-police-clash-with-protesters-on-second-day-of-unrest",
+      "https://www.euronews.com/2026/10/18/cost-of-living-protests-50-detained-in-milan-clashes-in-turin-and-bologna",
+      "https://tg24.sky.it/cronaca/2026/10/18/proteste-scontri-milano-bologna-torino",
+      "https://www.lastampa.it/cronaca/2026/10/18/news/cortei-scontri-milano-torino-bologna-danni-fermati-arresti-piantedosi-15769939/",
+      "https://www.theguardian.com/world/2026/oct/18/lisbon-milan-protests-housing-living-costs"
+    ],
+    "createdAt": "2026-10-18T18:45:38.000Z",
+    "updatedAt": "2026-10-18T19:05:05Z"
   },
   {
     "id": "int-2026-10-18-espana-acampada-vivienda-puerta-del-sol",
@@ -118,7 +171,7 @@
       "Colectivos de vivienda de la ciudad de Madrid (Pucvm, asambleas de barrio)",
       "Coordinadora Juvenil Socialista (CJS)"
     ],
-    "motivo": "La acampada por el derecho a la vivienda en la Puerta del Sol de Madrid continúa de forma indefinida este domingo 18 de octubre, tras superar las 2.000 tiendas de campaña y más de 40 colectivos presentes, luego de la asamblea del jueves que decidió mantener el campamento sin fecha de fin y extender la protesta a los barrios. Cientos de personas siguen instaladas exigiendo alquileres asequibles, el fin de los desahucios y medidas contra los fondos de inversión, en el marco de las movilizaciones desatadas por el desalojo y posterior muerte de la anciana Maricarmen Abascal. El Sindicato de Inquilinas anunció su salida progresiva del campamento para centrarse en la huelga general del 11 de noviembre, pero la permanencia la decide el movimiento que sigue en la plaza; la acampada se replica en otras ciudades españolas como Pontevedra y Oviedo (acampada en La Escandalera desde el 16 de octubre). El movimiento ya ha forzado al Gobierno central a convocar elecciones anticipadas para el 29 de noviembre y lleva a los sindicatos CCOO y UGT a convocar una huelga general de 24 horas para el 11 de noviembre con la vivienda como eje. El Gobierno regional de Madrid insiste en desalojar el campamento y ordenó el cierre de la estación de Metro de Sol por 'insalubridad'.",
+    "motivo": "La acampada por el derecho a la vivienda en la Puerta del Sol de Madrid continúa de forma indefinida este domingo 18 de octubre, tras superar las 2.000 tiendas de campaña y más de 40 colectivos presentes, luego de la asamblea del jueves que decidió mantener el campamento sin fecha de fin y extender la protesta a los barrios. Cientos de personas siguen instaladas exigiendo alquileres asequibles, el fin de los desahucios y medidas contra los fondos de inversión, en el marco de las movilizaciones desatadas por el desalojo y posterior muerte de la anciana Maricarmen Abascal. El Sindicato de Inquilinas anunció su salida progresiva del campamento para centrarse en la huelga general del 11 de noviembre, pero la permanencia la decide el movimiento que sigue en la plaza; la acampada se replica en otras ciudades españolas como Pontevedra y Oviedo (acampada en La Escandalera desde el 16 de octubre) y en Europa, con eco directo en la acampada de Lisboa. El movimiento ya ha forzado al Gobierno central a convocar elecciones anticipadas para el 29 de noviembre y lleva a los sindicatos CCOO y UGT a convocar una huelga general de 24 horas para el 11 de noviembre con la vivienda como eje. El Gobierno regional de Madrid insiste en desalojar el campamento y ordenó el cierre de la estación de Metro de Sol por 'insalubridad'.",
     "status": "en_curso",
     "lat": 40.4169,
     "lng": -3.7035,
@@ -126,10 +179,10 @@
       "https://www.euronews.com/2026/10/15/tears-hugs-and-continued-fight-for-housing-madrids-puerta-del-sol-after-two-weeks",
       "https://www.eldiario.es/madrid/somos/movilizacion-vivienda-refuerza-barrios-madrid-sol-sindicato-inquilinas_1_13584884.html",
       "https://www.elboletin.com/el-sindicato-de-inquilinas-acusa-a-ayuso-de-criminalizar-la-protesta-de-sol-tras-el-cierre-de-la-estacion-de-metro/",
-      "https://www.france24.com/en/live-news/20261015-can-t-sleep-spain-s-housing-crunch-upends-lives"
+      "https://www.theguardian.com/world/2026/oct/18/europe-protests-france-spain-portugal-2026-explainer"
     ],
     "createdAt": "2026-10-18T02:58:39.000Z",
-    "updatedAt": "2026-10-18T16:29:49Z"
+    "updatedAt": "2026-10-18T19:05:05Z"
   },
   {
     "id": "int-2026-10-18-espana-huelga-indefinida-educacion-madrid",
@@ -156,7 +209,7 @@
       "https://www.lasexta.com/noticias/sociedad/huelga-educacion-madrid_202610146acf24fb6e8df44596b0795f.html"
     ],
     "createdAt": "2026-10-18T02:58:39.000Z",
-    "updatedAt": "2026-10-18T16:29:49Z"
+    "updatedAt": "2026-10-18T19:05:05Z"
   },
   {
     "id": "int-2026-10-18-portugal-acampada-vivienda-rossio-lisboa",
@@ -172,7 +225,7 @@
       "Movimiento de acampada inspirado en la Acampada de Sol (España)",
       "CGTP (convocante de la gran marcha del 17 de octubre)"
     ],
-    "motivo": "Decenas de jóvenes pasaron la noche del sábado al domingo 18 de octubre acampados con decenas de tiendas de campaña en la Praça del Rossio, en pleno centro de Lisboa, continuando este domingo la acampada por el derecho a la vivienda instalada tras la multitudinaria marcha del sábado 17 convocada por la CGTP, en la que decenas de miles de personas recorrieron Lisboa, Oporto y otras ciudades contra el alto costo de vida y la crisis habitacional, en un eco directo de las acampadas españolas. Exigen topes de alquiler, restricciones a los fondos de inversión inmobiliaria, la revocación del Golden Visa y medidas contra la especulación: los precios de la vivienda en Portugal subieron un 124% entre 2015 y 2024, casi el doble de la media de la UE, y la inflación alcanzó 3,6% en septiembre. La acampada lisboeta amplía la protesta iniciada en Oporto, donde las decenas de tiendas montadas el lunes 13 fueron desalojadas por la policía en una operación al amanero que dejó 37 heridos, dos de ellos de gravedad. El primer ministro Luis Montenegro reconoció la indignación social pero advirtió contra la 'importación' de la inestabilidad francesa.",
+    "motivo": "Decenas de jóvenes pasaron la noche del sábado al domingo 18 de octubre acampados con decenas de tiendas de campaña en la Praça del Rossio, en pleno centro de Lisboa, continuando este domingo la acampada por el derecho a la vivienda instalada tras la multitudinaria marcha del sábado 17 convocada por la CGTP, en la que decenas de miles de personas recorrieron Lisboa, Oporto y otras ciudades contra el alto costo de vida y la crisis habitacional, en un eco directo de las acampadas españolas. El domingo al mediodía seguían reunidas centenas de personas en el campamento, según The Guardian. Exigen topes de alquiler, restricciones a los fondos de inversión inmobiliaria, la revocación del Golden Visa y medidas contra la especulación: los precios de la vivienda en Portugal subieron un 124% entre 2015 y 2024, casi el doble de la media de la UE, y la inflación alcanzó 3,6% en septiembre. La acampada lisboeta amplía la protesta iniciada en Oporto, donde las decenas de tiendas montadas el lunes 13 fueron desalojadas por la policía en una operación al amanecer que dejó 37 heridos, dos de ellos de gravedad. El primer ministro Luis Montenegro reconoció la indignación social pero advirtió contra la 'importación' de la inestabilidad francesa.",
     "status": "en_curso",
     "lat": 38.7139,
     "lng": -9.1394,
@@ -180,10 +233,10 @@
       "https://www.afp.com/en/tents-spring-lisbon-portugal-housing-protests-spread",
       "https://www.straitstimes.com/world/europe/tents-spring-up-in-lisbon-as-portugal-housing-protests-spread",
       "https://english.news.cn/europe/20261018/0d6d603e41f645549286ba9d6519c169/c.html",
-      "https://www.reuters.com/world/tens-thousands-march-lisbon-over-housing-living-costs-2026-10-17"
+      "https://www.theguardian.com/world/2026/oct/18/lisbon-milan-protests-housing-living-costs"
     ],
     "createdAt": "2026-10-18T07:55:26.000Z",
-    "updatedAt": "2026-10-18T16:29:49Z"
+    "updatedAt": "2026-10-18T19:05:05Z"
   },
   {
     "id": "int-2026-10-18-kenia-huelga-personal-universitario",
@@ -210,7 +263,7 @@
       "https://thekenyatimes.com/latest-kenya-times-news/country-protests-october/"
     ],
     "createdAt": "2026-10-18T02:58:39.000Z",
-    "updatedAt": "2026-10-18T16:29:49Z"
+    "updatedAt": "2026-10-18T19:05:05Z"
   },
   {
     "id": "int-2026-10-18-reino-unido-huelga-teatro-leeds-nhs",
@@ -235,7 +288,36 @@
       "https://unison.org.uk/news/2026/09/pay-row-leeds-teaching-hospitals-nhs-trust-must-be-resolved-new-boss-appointed"
     ],
     "createdAt": "2026-10-18T02:58:39.000Z",
-    "updatedAt": "2026-10-18T16:29:49Z"
+    "updatedAt": "2026-10-18T19:05:05Z"
+  },
+  {
+    "id": "int-2026-10-18-francia-protestas-caro-vivienda-paris-nacional",
+    "seccion": "internacionales",
+    "pais": "Francia",
+    "bandera": "🇫🇷",
+    "hora": "",
+    "fecha": "2026-10-18",
+    "lugar": "Place de la République, París, Francia; manifestaciones y disturbios en Marsella, Lyon, Burdeos, Niza, Estrasburgo, Limoges y múltiples ciudades del país",
+    "tipoAccion": "manifestación",
+    "organizaciones": [
+      "Gilets Jaunes (Convocatoria «amariño y jeunes»)",
+      "Confédération générale du travail (CGT)",
+      "Organizaciones estudiantiles y de secundaria (protestas escolares desde mediados de septiembre)",
+      "Colectivos climáticos, agricultores y movimientos sociales convocantes"
+    ],
+    "motivo": "Las protestas contra el costo de vida, los precios del combustible y el mal estado de las escuelas continúan este domingo 18 de octubre en Francia, un día después de la jornada masiva del sábado 17 que movilizó a 550.000 personas según el Gobierno (800.000 según la CGT) y dejó unos 1.800-2.300 arrestos en el fin de semana, más de 500 policías, gendarmes y bomberos heridos, unos 1.500 comercios dañados y el ayuntamiento del siglo XIX de Limoges incendiado. Este domingo, varios cientos de personas se reunieron de nuevo —en una concentración no autorizada— en la Place de la République de París, donde la policía disparó gases lacrimógenos ante brotes de tensión, saqueos de tiendas y quemas de bicicletas y contenedores; en Limoges, unas 7.000 personas salieron a la calle para repudiar la destrucción del ayuntamiento. El presidente Emmanuel Macron convocó una reunión de crisis y se dirigió a la nación a las 20:00 (18:00 UTC), reconociendo 'ira y vergüenza' y prometiendo que 'los que saquearon tendrán que pagar' y que habrá 'transparencia total' sobre la respuesta policial. El movimiento, que nació en septiembre como protesta estudiantil por el estado de las escuelas, se amplió a precios del combustible (tras el cierre efectivo del Estrecho de Ormuz), inflación y servicios públicos, con el resurgir de los Gilets Jaunes.",
+    "status": "en_curso",
+    "lat": 48.8676,
+    "lng": 2.3694,
+    "fuentes": [
+      "https://www.bbc.com/news/articles/c574pdzl0k4no",
+      "https://apnews.com/article/france-protests-violence-looting-f5ce07c2ef46ad0c02c6ff7018532a59",
+      "https://www.afp.com/en/paris-police-new-battles-protesters-and-looters",
+      "https://www.theguardian.com/world/live/2026/oct/18/paris-protests-france-demonstrations-europe-live-latest-news",
+      "https://www.france24.com/en/europe/20261018-live-vance-blames-immigration-for-violence-during-protests-in-france"
+    ],
+    "createdAt": "2026-10-18T18:45:38.000Z",
+    "updatedAt": "2026-10-18T19:05:05Z"
   },
   {
     "id": "int-2026-10-18-mexico-planton-imss-sntss",
@@ -261,7 +343,7 @@
       "https://mexiconewsdaily.com/news/imss-workers-protest-nationwide"
     ],
     "createdAt": "2026-10-18T02:58:39.000Z",
-    "updatedAt": "2026-10-18T16:29:49Z"
+    "updatedAt": "2026-10-18T19:05:05Z"
   },
   {
     "id": "int-2026-10-18-india-protestas-anti-cec-sir",
@@ -275,12 +357,13 @@
     "organizaciones": [
       "Cockroach Janta Party (CJP)",
       "Bloque INDIA (Congreso, TVK, Shiv Sena-UBT, etc.)",
+      "National Students' Union of India (NSUI)",
       "All India Students' Association (AISA)",
       "Samyukt Kisan Morcha (SKM)",
       "Estudiantes de la Jawaharlal Nehru University (JNU) en huelga de hambre",
       "AIDWA, SFI y KYS (marchas de mujeres frente a la Election Commission)"
     ],
-    "motivo": "Las protestas contra el comisionado electoral jefe (CEC) Gyanesh Kumar y la Revisión Intensiva Especial (SIR) de los padrones electorales continúan este domingo 18 de octubre en varias ciudades de India, con actualizaciones en vivo de nuevos cortes y acciones, tras una semana marcada por marchas Tiranga (con bandera nacional) en Delhi, Bengaluru, Mumbai, Chennai y Kolkata, decenas de detenciones de activistas y estudiantes, y más de un centenar de FIR por presuntas agresiones policiales. El fundador del CJP, Abhijeet Dipke, quedó en libertad condicional el 17 tras firmar paz y fianza; la dirigente de AISA Neha Bora había sido liberada en la madrugada; estudiantes de la JNU mantienen una huelga de hambre indefinida y los de la SRFTI de Kolkata siguen sentadas por seguridad en el campus. La Delhi Police concedió a Congreso el permiso (NOC) para una gran concentración en Ramlila Maidan el 1 de noviembre. Diversas organizaciones campesinas, bajo la bandera del Samyukt Kisan Morcha, anunciaron una gran marcha a Delhi para el 23 de octubre exigiendo la renuncia de Gyanesh Kumar y la anulación de la SIR.",
+    "motivo": "Las protestas contra el comisionado electoral jefe (CEC) Gyanesh Kumar y la Revisión Intensiva Especial (SIR) de los padrones electorales continúan este domingo 18 de octubre en varias ciudades de India. El NSUI realizó este domingo la marcha 'Ungli Toh Uthegi - Hallabol March' hacia Jantar Mantar, encabezada por su presidente nacional Vinod Jakhar, exigiendo la renuncia del CEC. El líder de la oposición Rahul Gandhi declaró que el primer ministro Modi, el ministro del Interior Amit Shah y Gyanesh Kumar 'enfrentarán justicia y pagarán el precio' por el presunto 'robo de votos', y criticó el uso de balas de perdigones contra estudiantes; el Congreso anunció que la entrega de padrones 'legibles' a los partidos por parte de la Election Commission fue resultado de las protestas nacionales. El fundador del CJP Abhijeet Dipke quedó en libertad condicional el 17 tras firmar paz y fianza; los co-conveners Saurav Das y Ashutosh Ranka quedaron en custodia judicial. Estudiantes de la JNU mantienen una huelga de hambre indefinida. La Delhi Police concedió al Congreso el permiso (NOC) para una gran concentración en Ramlila Maidan el 1 de noviembre, y el Samyukt Kisan Morcha anunció una gran marcha campesina a Delhi para el 23 de octubre exigiendo la renuncia de Kumar y la anulación de la SIR.",
     "status": "en_curso",
     "lat": 28.6139,
     "lng": 77.209,
@@ -291,7 +374,63 @@
       "https://gulfnews.com/world/asia/india/delhi-tiranga-rally-cjp-founder-abhijeet-dipke-gets-conditional-bail-1.500714242"
     ],
     "createdAt": "2026-10-18T02:58:39.000Z",
-    "updatedAt": "2026-10-18T16:29:49Z"
+    "updatedAt": "2026-10-18T19:05:05Z"
+  },
+  {
+    "id": "int-2026-10-18-india-protesta-iit-bombay-sahil-wakode-powai",
+    "seccion": "internacionales",
+    "pais": "India",
+    "bandera": "🇮🇳",
+    "hora": "",
+    "fecha": "2026-10-18",
+    "lugar": "Puerta principal del campus de IIT Bombay, Powai, Mumbai, India; estación de policía de Azad Maidan",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Familia de Sahil Wakode (padres Ravindra y Sonali Wakode)",
+      "All India Independent Scheduled Castes Association (AIISCA)",
+      "All India Students' Federation (AISF)",
+      "Colectivos estudiantiles ambedkaritas y activistas"
+    ],
+    "motivo": "Un mes después del suicidio del estudiante de IIT Bombay Sahil Wakode (18 de septiembre), estudiantes, activistas y la familia protagonizaron este domingo 18 de octubre una nueva jornada de protesta en la puerta principal del campus de Powai. Los padres acudieron al campus para rendir homenaje a Sahil el primer aniversario mensual de su muerte, presentaron una carta al Registrador del instituto y exigen el arresto del profesor Suryanarayana Doolla (nombrado en el FIR por abono al suicidio bajo sección 108 del BNS y Ley SC/ST) y del director Shireesh B. Kedare, una investigación transparente y salvaguardas contra la discriminación por casta. La policía de Mumbai detuvo a una decena de estudiantes antes de la llegada de los padres —luego liberados— y tras la visita detuvo a la pareja y a unos 16 estudiantes más, llevándolos a la estación de Azad Maidan, y finalmente despejó y demolió el sitio de protesta montado frente al instituto durante un mes. El abogado de la familia, Siddhartha Ingale, denunció retrasos en las detenciones pese a que el delito es no bailable; el caso está a cargo de la Crime Branch-CID. La policía autorizó a la familia a protestar en Azad Maidan el lunes 19.",
+    "status": "en_curso",
+    "lat": 19.1333,
+    "lng": 72.9167,
+    "fuentes": [
+      "https://www.thehindu.com/news/cities/mumbai/iit-b-student-death-case-police-detain-sahil-wakodes-parents-clear-protest-site/article71600309.ece",
+      "https://www.thehindu.com/news/national/maharashtra/sahil-wakode-death-parents-demand-arrest-of-iit-bombay-professors-as-student-groups-protest-at-azad-maidan/article71593380.ece",
+      "https://www.freepressjournal.in/education/iit-bombay-student-sahil-wakodes-parents-taken-to-azad-maidan-police-station-as-cops-clear-month-long-protest-site",
+      "https://www.deccanherald.com/india/maharashtra/one-month-of-iit-bombay-students-death-no-arrests-protest-continues-4187352"
+    ],
+    "createdAt": "2026-10-18T18:45:38.000Z",
+    "updatedAt": "2026-10-18T19:05:05Z"
+  },
+  {
+    "id": "int-2026-10-18-india-dharna-mansa-parvinder-jhota",
+    "seccion": "internacionales",
+    "pais": "India",
+    "bandera": "🇮🇳",
+    "hora": "",
+    "fecha": "2026-10-18",
+    "lugar": "Trifurcación (tino kone) y exterior del Hospital Civil de Mansa, Punjab, India",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Familia de Parvinder Singh Jhota (padre Bhim Singh)",
+      "Comité de Acción Conjunta (Jhota Insaaf Committee)",
+      "Partidos políticos: Congreso Punjab, SAD, BJP, Akali Dal Waris Punjab De",
+      "Samyukta Kisan Morcha y sindicatos de agricultores"
+    ],
+    "motivo": "El dharna (protesta sentada) de la familia y el comité de acción por el asesinato del activista antidrogas Parvinder Singh Jhota —baleado el 13 de octubre en una farmacia de Mansa durante una transmisión en vivo— continúa este domingo 18 de octubre, sexto día desde el crimen, en dos puntos de Mansa (la trifurcación y la puerta del Hospital Civil, donde yace el cuerpo sin cremar). El cantante punjabí Babbu Maan se sumó al campamento este domingo para expresar solidaridad con la familia. Exigen investigación de la CBI, la renuncia del ministro principal Bhagwant Mann y del DGP Gaurav Yadav, acciones contra policías y el funcionario de drogas, y un post mortem en el PGIMER de Chandigarh; la familia mantiene el cuerpo sin cremar hasta lograr justicia. El asesinato desató una ola de indignación en Punjab: un 'bandh' (paro) estatal el 15 de octubre con apoyo del Congreso, SAD, BJP, SKPC y sindicatos; el principal acusado, el farmacéutico Ashwani Kumar, fue detenido en Rajasthan y su local fue incendiado y demolido con bulldozer. El comité anunció nuevos dharnas frente a las casas de legisladores de AAP el lunes 19 de octubre.",
+    "status": "en_curso",
+    "lat": 30.05,
+    "lng": 75.38,
+    "fuentes": [
+      "https://punjabi.abplive.com/news/punjab/babbu-maan-join-mansa-protest-seeking-justice-for-parvinder-singh-jhota-881279",
+      "https://www.bbc.com/punjabi/articles/cq62ydgddd3xo",
+      "https://www.thehindu.com/news/national/punjab/anti-drug-activist-parvinder-singh-jhota-murder-punjab-bandh-markets-shut-latest-update/article71586881.ece",
+      "https://www.hindustantimes.com/india-news/punjab-band-live-updates-anti-drug-activist-parvinder-singh-jhota-ashwani-kumar-mansa-internet-punjab-bandh-news-101792038561340.html"
+    ],
+    "createdAt": "2026-10-18T18:45:38.000Z",
+    "updatedAt": "2026-10-18T19:05:05Z"
   },
   {
     "id": "int-2026-10-18-albania-protestas-estudiantes-tirana",
@@ -300,25 +439,25 @@
     "bandera": "🇦🇱",
     "hora": "",
     "fecha": "2026-10-18",
-    "lugar": "Ministerio de Educación y Oficina del Primer Ministro, Tirana, Albania; protestas extendidas a Durres, Elbasan, Shkodra, Korçë, Vlora y Lezha",
+    "lugar": "Ministerio de Educación, bulevares Dëshmorët e Kombit y Zogu I, Skënderbej y oficina del Primer Ministro, Tirana, Albania; protestas extendidas a Durres, Elbasan, Shkodra, Korçë, Vlora y Lezha",
     "tipoAccion": "protesta",
     "organizaciones": [
       "Estudiantes universitarios y de secundaria de Albania",
       "Colectivos de jóvenes y activistas del movimiento 'Flamingo'",
       "Comité de acción de la protesta (activistas como Mateo Yskollari, Ervin Goci, Artan Kacani, Nikoleta Mehmeti)"
     ],
-    "motivo": "Las protestas anti-gubernamentales en Albania se mantienen este domingo 18 de octubre, sexto día consecutivo de la escalada iniciada el martes 13 frente al Ministerio de Educación en Tirana, con miles de jóvenes exigiendo la renuncia del primer ministro socialista Edi Rama por corrupción, el alto costo de la educación, la falta de empleo y las escasas oportunidades para los jóvenes. La jornada del sábado 17 dejó nuevos enfrentamientos: cócteles molotov contra la policía, un auto embistió camiones anti-disturbios antes de incendiarse, piedras y petardos, y respuesta policial con gases lacrimógenos, cañones de agua y balas de goma; el balance acumulado de la semana supera los 207 heridos y 167 detenidos (500 detenidos en total, 330 liberados, según Reuters), con daños en el Ministerio de Educación, el Ministerio de Justicia, el banco central, ayuntamientos y bancos, y disturbios en Durres, Elbasan, Shkodra y Korçë. El movimiento, iniciado contra el complejo turístico vinculado a Jared Kushner en la costa sur y luego ampliado a la 'Flamingo' desde finales de mayo, domina la vida política: Rama descartó renunciar, acusó a la oposición de incitar los disturbios y denunció 'manos extranjeras'; los organizadores advirtieron que 'estaremos en la plaza todos los días'.",
+    "motivo": "Las protestas anti-gubernamentales en Albania se mantienen este domingo 18 de octubre, sexto día consecutivo de la escalada iniciada el martes 13 frente al Ministerio de Educación en Tirana, con miles de jóvenes exigiendo la renuncia del primer ministro socialista Edi Rama por corrupción, el alto costo de la educación, la falta de empleo y las escasas oportunidades para los jóvenes. La jornada del domingo dejó nuevos enfrentamientos: la policía cargó con gases lacrimógenos y cañones de agua contra los manifestantes reunidos desde el mediodía ante el Ministerio de Educación, que se dispersaron hacia el bulevar Dëshmorët e Kombit y luego se reagruparon en la plaza Skënderbej; hubo piedras contra la sede del Partido Socialiste y contra el Comisariato nº 3, donde se reportaron heridos entre policías. El balance acumulado: 272 heridos en cinco días (169 policías, 82 manifestantes, 21 transeúntes) y 167 detenidos el sábado. Rama descartó renunciar, acusó a la oposición de orquestar la violencia y denunció 'manos extranjeras' (incluido un dron con explosivo neutralizado contra la sede del gobierno), y ofreció diálogo a los estudiantes. El director de campaña del movimiento advirtió que 'estaremos en la plaza todos los días'. La Comisión Europea condenó la violencia y pidió proporcionalidad; la visita oficial de Rama a Viena del lunes 19 fue cancelada.",
     "status": "en_curso",
     "lat": 41.3275,
     "lng": 19.8187,
     "fuentes": [
-      "https://apnews.com/article/albania-protests-edi-rama-jared-kushner-9f0ce30c446aa9f273068b98d9f40b14",
-      "https://www.euronews.com/2026/10/17/albanian-police-fire-rubber-bullets-and-arrest-hundreds-as-anti-government-protests-enter-",
-      "https://www.thestar.com.my/news/world/2026/10/18/protests-in-albania-escalate-into-violent-clashes",
-      "https://www.independent.co.uk/news/world/europe/albania-protests-violence-tirana-edi-rama-b3068565.html"
+      "https://www.aljazeera.com/news/2026/10/18/chaos-in-tirana-demonstrators-determined-to-not-give-up-so-easily",
+      "https://www.thehindu.com/news/international/albania-protests-continue-for-sixth-straight-day-demanding-prime-ministers-resignation/article71599909.ece",
+      "https://euronews.al/live-protesta-ne-diten-e-gjashte-nis-grumbullimi-te-ministria-e-arsimit-rama-shteti-nuk-dorezohet-para-dhunes/",
+      "https://apnews.com/article/albania-protestas-antigubernamentales-disturbios-1c3168e0c869fea41ef9e8aef8bf649e"
     ],
     "createdAt": "2026-10-18T02:58:39.000Z",
-    "updatedAt": "2026-10-18T16:29:49Z"
+    "updatedAt": "2026-10-18T19:05:05Z"
   },
   {
     "id": "int-2026-10-18-estados-unidos-huelga-hambre-ice-folkston",
@@ -333,7 +472,7 @@
       "Personas detenidas en el centro de ICE de Folkston",
       "Shut Down Folkston ICE Processing Center (FIPC)",
       "Jacksonville Immigrant Rights Alliance",
-      "Asian Americans Advancing Justice Atlanta (AAAJ)"
+      "Asian Americans Advancing Justice Atlanta (AAJ)"
     ],
     "motivo": "Decenas de detenidos (al menos 73 organizadores, hasta unos 500 participantes según fuentes locales y abogados de AAAJ) en el centro de procesamiento de ICE de Folkston (Georgia), operado por The GEO Group, mantienen este domingo 18 de octubre la huelga de hambre iniciada el 6 de octubre, que ya entró en su segunda semana. Los huelguistas —en su mayoría solicitantes de asilo de Rusia, China, Sudán, Afganistán, Nepal, Yemen y otros países— exigen su liberación mientras avanzan sus casos, protección contra la deportación y la reunificación familiar, y denuncian malas condiciones de detención, atención médica deficiente y represalias contra los organizadores (varios fueron enviados aislamiento). Uno de los organizadores, el ruso Idris Makhmudov, detenido 27 meses, fue deportado a mediados de octubre. El centro, en expansión hacia 3.000 camas con un contrato de 47 millones de dólares, se convertiría en el mayor centro permanente de ICE del país.",
     "status": "en_curso",
@@ -346,7 +485,7 @@
       "https://www.theguardian.com/us-news/2026/oct/07/ice-detention-facility-georgia"
     ],
     "createdAt": "2026-10-18T02:58:39.000Z",
-    "updatedAt": "2026-10-18T16:29:49Z"
+    "updatedAt": "2026-10-18T19:05:05Z"
   },
   {
     "id": "int-2026-10-18-israel-bloqueo-ruta-4-yavne-ultraortodoxos",
@@ -371,7 +510,7 @@
       "https://www.israel.com/news/haredi-protesters-block-highway-4-near-yavne-over-jailing-of-draft-evaders"
     ],
     "createdAt": "2026-10-18T12:26:40.000Z",
-    "updatedAt": "2026-10-18T16:29:49Z"
+    "updatedAt": "2026-10-18T19:05:05Z"
   },
   {
     "id": "int-2026-10-18-chile-marcha-aniversario-estallido-plaza-dignidad",
@@ -380,25 +519,29 @@
     "bandera": "🇨🇱",
     "hora": "12:00",
     "fecha": "2026-10-18",
-    "lugar": "Plaza de la Dignidad (Plaza Baquedano), Santiago, Chile; concentraciones regionales en plazas de todo el país; movilización de la ACES en el Colegio Paulo Freire, San Miguel",
+    "lugar": "Plaza de la Dignidad (Plaza Baquedano) y Alameda, Santiago, Chile; concentraciones regionales en plazas de todo el país; movilización de la ACES en el Colegio Paulo Freire, San Miguel",
     "tipoAccion": "manifestación",
     "organizaciones": [
       "Asamblea Coordinadora de Estudiantes Secundarios (ACES)",
-      "Organizaciones sociales y estudiantiles convocantes de la 'gran marcha de Chile'",
-      "Colectivos territoriales y sociales de la Plaza Dignidad"
+      "Central Clasista de Trabajadoras y Trabajadores",
+      "Plataforma Anticapitalista Vereda Sur",
+      "Asamblea Popular Antifascista",
+      "Colectivos territoriales y sociales de la Plaza Dignidad",
+      "Congresistas del Pacto Histórico en Colombia (convocatorias paralelas)"
     ],
-    "motivo": "Con motivo del séptimo aniversario del estallido social del 18 de octubre de 2019, organizaciones sociales y estudiantiles convocaron para este domingo 18 de octubre a las 12:00 la 'gran marcha de Chile' en la Plaza de la Dignidad de Santiago, más concentraciones en plazas regionales de todo el país, bajo la consigna «Nos están quitando todo, es la hora de levantarnos». Exigen frenar los recortes de programas sociales y de salud y educación del gobierno de José Antonio Kast, medidas frente al alto costo de vida y el fin de la criminalización de la protesta social. A la convocatoria se suma una actividad de la Asamblea Coordinadora de Estudiantes Secundarios (ACES) en el Colegio Paulo Freire de San Miguel. El gobierno no autorizó ninguna movilización para la jornada, en un aniversario marcado por las demandas de memoria, dignidad y justicia social.",
-    "status": "programado",
+    "motivo": "Con motivo del séptimo aniversario del estallido social del 18 de octubre de 2019, miles de personas marcharon este domingo 18 de octubre en Santiago pese a que el Gobierno del presidente José Antonio Kast no autorizó ninguna movilización. La 'Gran Marcha de Chile' —convocada a las 12:00 bajo la consigna «Nos están quitando todo, es la hora de levantarnos»— partió desde el cerro Santa Lucía y Alameda con Paseo Ahumada hacia la Plaza Baquedano, con familias, organizaciones sociales, estudiantiles y de trabajadores, batucadas y actividades culturales en el GAM. Desde temprano se registró un amplio despliegue de Control de Orden Público (más de 3.000 carabineros en la Región Metropolitana) y cierres de estaciones de Metro (Baquedano, Santa Lucía, Universidad Católica). Hacia las 13:00 comenzaron enfrentamientos aislados entre encapuchados y Carabineros cerca de Santa Lucía y en la Alameda (lanzamiento de objetos, bombas lacrimógenas y carros lanzaaguas), que dispersaron a parte de los manifestantes. Concentraciones similares se replicaron en plazas regionales de todo el país. Exigen frenar los recortes de programas sociales y de salud y educación del gobierno de Kast, medidas frente al alto costo de vida y el fin de la criminalización de la protesta social; el balance del aniversario incluye más de 12.000 denuncias por violencia institucional del estallido con solo 219 condenas.",
+    "status": "en_curso",
     "lat": -33.442,
     "lng": -70.647,
     "fuentes": [
-      "https://elsiglo.cl/a-siete-anos-del-estallido-convocan-a-la-gran-marcha-de-chile-este-18-de-octubre/",
-      "https://www.prensa-latina.cu/2026/10/18/siete-anos-despues-del-estallido-social-en-chile-hay-temas-pendientes/",
-      "https://www.biobiochile.cl/noticias/nacional/chile/2026/10/17/sin-marchas-autorizadas-pero-con-masivas-convocatorias-manana-se-cumplen-7-anos-del-estallido-social.shtml",
-      "https://reportediario.cl/2026/10/17/a-siete-anos-del-18-o-convocatorias-masivas-sin-autorizacion-gubernamental"
+      "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/10/18/comienza-marcha-por-el-centro-de-santiago-en-conmemoracion-del-estallido-social-no-esta-autorizada.shtml",
+      "https://www.cooperativa.cl/noticias/pais/manifestaciones/marcha-conmemora-en-santiago-los-siete-anos-del-18-o-pese-a-no-contar/2026-10-18/133654.html",
+      "https://www.infobae.com/america/agencias/2026/10/18/miles-marchan-en-chile-para-conmemorar-el-estallido-y-protestar-contra-recortes-de-kast/",
+      "https://www.theclinic.cl/2026/10/18/mas-de-tres-mil-carabineros-desplegados-bailes-performativos-enfretamientos-y-la-presencia-de-daniel-jadue-asi-se-vive-el-primer-18-o-bajo-el-gobierno-de-kast/",
+      "https://elsiglo.cl/a-siete-anos-del-estallido-convocan-a-la-gran-marcha-de-chile-este-18-de-octubre/"
     ],
     "createdAt": "2026-10-18T12:26:40.000Z",
-    "updatedAt": "2026-10-18T16:29:49Z"
+    "updatedAt": "2026-10-18T19:05:05Z"
   },
   {
     "id": "ar-2026-10-18-la-plata-corte-autopista-diagonal-74-ajuste-jubilaciones",
@@ -413,13 +556,13 @@
       "Organizaciones sociales y sindicales de La Plata"
     ],
     "motivo": "Organizaciones sociales y sindicales realizaron este domingo 18 de octubre, durante la mañana, un corte en la subida de la Autopista Buenos Aires–La Plata a la altura de Diagonal 74, en rechazo a las políticas de ajuste del Gobierno nacional de Javier Milei. La medida denunció el recorte de jubilaciones, la pérdida del poder adquisitivo y el desfinanciamiento de programas sociales, y reclamó la restitución de los haberes jubilatorios y de los fondos destinados a salud y educación. Los manifestantes calificaron el plan económico libertario como un proyecto que \"profundiza la pobreza y la exclusión\" y afirmaron que \"el ajuste lo están pagando los que menos tienen\". El corte generó demoras en el tránsito de acceso a La Plata, se mantuvo bajo supervisión de fuerzas de seguridad y no registró incidentes; los organizadores anticiparon que las medidas podrían continuar si no hay respuesta del Gobierno nacional.",
-    "status": "en_curso",
+    "status": "finalizado",
     "lat": -34.942,
     "lng": -58.003,
     "fuentes": [
       "https://www.degremiales.com/Protesta-en-La-Plata-corte-en-la-subida-de-la-Autopista-por-los-ajustes-del-Gobierno-y-el-recorte-a-las-jubilaciones-4010"
     ],
     "createdAt": "2026-10-18T16:10:16.000Z",
-    "updatedAt": "2026-10-18T16:29:49Z"
+    "updatedAt": "2026-10-18T19:05:05Z"
   }
 ]
