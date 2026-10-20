@@ -1,1 +1,75 @@
-[]
+[
+  {
+    "id": "cri-2026-10-20-san-jose",
+    "seccion": "internacional",
+    "pais": "Costa Rica",
+    "bandera": "🇨🇷",
+    "hora": "09:00",
+    "fecha": "2026-10-20",
+    "lugar": "San José, Fuente de la Hispanidad (San Pedro de Montes de Oca)",
+    "tipoAccion": "marcha",
+    "organizaciones": [
+      "ANDE",
+      "sindicatos",
+      "estudiantes",
+      "Frente Amplio",
+      "CONARE"
+    ],
+    "motivo": "Rechazo a los recortes presupuestarios en educación y otros servicios públicos",
+    "status": "convocada",
+    "lat": 9.9281,
+    "lng": -84.0907,
+    "fuentes": [
+      "https://www.nacion.com/el-pais/marcha-de-este-martes-20-de-octubre-conozca-la/WKGSQ6PCVBAEJM6UHGOMCME2JQ/story/"
+    ],
+    "createdAt": "2026-10-20T03:21:13.000Z",
+    "updatedAt": "2026-10-20T03:35:49Z"
+  },
+  {
+    "id": "arg-2026-10-20-uom-cordoba",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-10-20",
+    "lugar": "Córdoba, Casa de Gobierno provincial",
+    "tipoAccion": "marcha",
+    "organizaciones": [
+      "UOM Córdoba (Unión Obrera Metalúrgica seccional Córdoba)"
+    ],
+    "motivo": "Rechazo a la paritaria metalúrgica firmada a la baja por la intervención nacional del gremio y reclamo de un plan industrial",
+    "status": "convocada",
+    "lat": -31.4201,
+    "lng": -64.1888,
+    "fuentes": [
+      "https://www.lavoz.com.ar/politica/uom-marchara-casa-gobierno-rechazo-paritaria-reclamar-medidas-industria_0_3NUqGmYPwx.html",
+      "https://fulana.com.ar/nota/uom-cordoba-convoca-marcha-el-20-de-octubre-contra-la-paritaria-a-la-baja/",
+      "https://cbahoy.com.ar/uom-cordoba-convocan-a-una-marcha-para-el-20-de-octubre/"
+    ],
+    "createdAt": "2026-10-20T03:22:52.000Z",
+    "updatedAt": "2026-10-20T03:35:49Z"
+  },
+  {
+    "id": "arg-2026-10-20-paro-docente-pba",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-10-20",
+    "lugar": "Provincia de Buenos Aires",
+    "tipoAccion": "paro",
+    "organizaciones": [
+      "Asociación de Maestrxs de la Provincia de Buenos Aires"
+    ],
+    "motivo": "Paro docente provincial en rechazo a la propuesta salarial del 6% en dos cuotas del gobierno bonaerense; exigen recomposición de ingresos docentes",
+    "status": "convocada",
+    "lat": -34.9214,
+    "lng": -57.9545,
+    "fuentes": [
+      "https://www.cronista.com/informacion-gral/paro-docente-en-la-provincia-de-buenos-aires-que-pasara-con-las-clases-este-martes-20-de-octubre/",
+      "https://www.anred.org/no-es-aumento-es-ajuste-docentes-bonaerenses-rechazan-el-6-de-aumento-de-kicillof-y-convocan-a-paros-ollas-populares-y-movilizacione/"
+    ],
+    "createdAt": "2026-10-20T03:22:52.000Z",
+    "updatedAt": "2026-10-20T03:35:49Z"
+  }
+]
