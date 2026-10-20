@@ -22,10 +22,11 @@
     "fuentes": [
       "https://www.nacion.com/el-pais/marcha-de-este-martes-20-de-octubre-conozca-la/WKGSQ6PCVBAEJM6UHGOMCME2JQ/story/",
       "https://delfino.cr/2026/10/conare-y-estudiantes-convocan-a-marcha-este-martes-contra-recortes-a-educacion-publica",
-      "https://cdn.ncrnoticias.com/politica/frente-amplio-llama-a-policias-agricultores-empleados-de-la-caja-y-zonas-francas-a-sumarse-a-marcha-contra-el-gobierno/"
+      "https://cdn.ncrnoticias.com/politica/frente-amplio-llama-a-policias-agricultores-empleados-de-la-caja-y-zonas-francas-a-sumarse-a-marcha-contra-el-gobierno/",
+      "https://www.nacion.com/el-pais/marcha-nacional-universidades-estudiantes-y/SPSCBZEGBFEHVDLJUX4RULBB4I/story/"
     ],
     "createdAt": "2026-10-20T03:21:13.000Z",
-    "updatedAt": "2026-10-20T14:17:28Z"
+    "updatedAt": "2026-10-20T18:53:17Z"
   },
   {
     "id": "mx-2026-10-20-morelia",
@@ -47,7 +48,7 @@
       "https://mimorelia.com/morelia/atencion-morelia-anuncian-marcha-este-martes-conoce-la-ruta-y-horario-n5595131"
     ],
     "createdAt": "2026-10-20T08:46:48.000Z",
-    "updatedAt": "2026-10-20T14:17:28Z"
+    "updatedAt": "2026-10-20T18:53:17Z"
   },
   {
     "id": "mx-2026-10-20-cdmx-imss",
@@ -75,7 +76,7 @@
       "https://cadenapolitica.com/2026/10/20/trabajadores-imss-protestas-palacio-nacional-marcha-octubre-2026/"
     ],
     "createdAt": "2026-10-20T14:04:43.000Z",
-    "updatedAt": "2026-10-20T14:17:28Z"
+    "updatedAt": "2026-10-20T18:53:17Z"
   },
   {
     "id": "gr-2026-10-20-atenas-syntagma",
@@ -91,16 +92,18 @@
       "Personal docente y padres de familia"
     ],
     "motivo": "Rechazo al alto costo de vida y a la crisis de vivienda estudiantil; exigencia de vivienda y comedores universitarios gratuitos y mayor financiación de la educación pública",
-    "status": "convocada",
+    "status": "en curso",
     "lat": 37.9753,
     "lng": 23.736,
     "fuentes": [
       "https://www.abc.com.py/internacionales/2026/10/20/huelga-de-docentes-y-protestas-estudiantiles-en-grecia-por-la-carestia-y-la-educacion/",
       "https://www.byteseu.com/2468091/",
-      "https://ground.news/article/students-take-to-the-streets-in-thessaloniki-and-athens"
+      "https://ground.news/article/students-take-to-the-streets-in-thessaloniki-and-athens",
+      "https://www.ekathimerini.com/news/1318695/strike-protests-planned-by-teachers-students-over-cost-of-living/",
+      "https://greekreporter.com/2026/10/20/greek-school-protests-october/"
     ],
     "createdAt": "2026-10-20T08:46:48.000Z",
-    "updatedAt": "2026-10-20T14:17:28Z"
+    "updatedAt": "2026-10-20T18:53:17Z"
   },
   {
     "id": "es-2026-10-20-madrid-huelga-educativa",
@@ -129,7 +132,7 @@
       "https://www.eldiariodemadrid.es/articulo/educacion/huelga-profesores-madrid-octubre-2026-calendario-manifestacion-22-octubre/20261016112838144350.html"
     ],
     "createdAt": "2026-10-20T08:46:48.000Z",
-    "updatedAt": "2026-10-20T14:17:28Z"
+    "updatedAt": "2026-10-20T18:53:17Z"
   },
   {
     "id": "fr-2026-10-20-huelga-pompiers",
@@ -154,7 +157,96 @@
       "https://www.leparisien.fr/politique/on-nous-a-salues-comme-des-heros-et-aujourdhui-on-se-retourne-contre-nous-les-pompiers-entre-colere-et-depit-20-10-2026-V6SG5BX6PZFBDG6WEWBAIU6JOI.php"
     ],
     "createdAt": "2026-10-20T08:46:48.000Z",
-    "updatedAt": "2026-10-20T14:17:28Z"
+    "updatedAt": "2026-10-20T18:53:17Z"
+  },
+  {
+    "id": "fr-2026-10-20-movilizacion-nacional",
+    "seccion": "internacional",
+    "pais": "Francia",
+    "bandera": "🇫🇷",
+    "hora": "",
+    "fecha": "2026-10-20",
+    "lugar": "Francia (movilización nacional: bloqueos y acciones de liceos y sindicatos en París, Rennes, Lyon, Marsella, Burdeos, Niza y Lille; toques de queda selectivos nocturnos en varias ciudades)",
+    "tipoAccion": "manifestación y bloqueos",
+    "organizaciones": [
+      "Estudiantes de secundaria (lycéens)",
+      "CGT",
+      "CFDT",
+      "SUD",
+      "gilets amarillos",
+      "docentes y padres de familia"
+    ],
+    "motivo": "Rechazo a los recortes y al deterioro de las escuelas públicas (falta de profesores, aulas hacinadas, infraestructura en ruinas), al alza del costo de vida y de los carburantes, y al abandono de los servicios públicos",
+    "status": "en curso",
+    "lat": 48.8566,
+    "lng": 2.3522,
+    "fuentes": [
+      "https://www.dw.com/en/france-plans-massive-weekend-police-surge-amid-protests/live-79707186",
+      "https://www.independent.co.uk/news/world/europe/protests-france-italy-portugal-spain-albania-serbia-students-latest-b3069862.html",
+      "https://www.20minutos.es/internacional/una-ola-protestas-recorre-europa-francia-mantiene-los-toques-queda-italia-despliega-ejercito-portugal-desaloja-las-acampadas_7051096_0.html",
+      "https://www.ouest-france.fr/education/apres-une-tentative-de-blocage-avortee-operation-de-tractage-dans-le-calme-devant-le-rectorat-de-rennes-514879ec-cc54-11f1-bb5f-3dc5c0feacca",
+      "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/ca-ne-va-pas-s-essouffler-quelle-suite-pour-la-mobilisation-des-lyceens_8245414.html"
+    ],
+    "createdAt": "2026-10-20T18:35:15.000Z",
+    "updatedAt": "2026-10-20T18:53:17Z"
+  },
+  {
+    "id": "it-2026-10-20-autotrasportadores",
+    "seccion": "internacional",
+    "pais": "Italia",
+    "bandera": "🇮🇹",
+    "hora": "",
+    "fecha": "2026-10-20",
+    "lugar": "Sur de Italia: presidios y bloqueos en autovías (A2 Vallo di Diano, A30 Caserta-Salerno, A1, SS18), accesos a puertos y polígonos logísticos en Campania, Puglia, Calabria y Sicilia (Messina, Catania, Palermo, Taranto, Augusta); mesas de diálogo del gobierno en Roma y Milán",
+    "tipoAccion": "huelga y bloqueos viales",
+    "organizaciones": [
+      "Conftrasporto",
+      "FAI",
+      "Assotir",
+      "CNA-FITA",
+      "Fedit",
+      "FIAP",
+      "COBAS",
+      "movimientos agrícolas del Sur"
+    ],
+    "motivo": "Rechazo al alza del caro-carburante y el caro-vida; exigencia de desbloqueo de fondos públicos (480 millones de euros) y compensaciones por el precio del gasoil; noveno día de protesta con cortes de carreteras y puertos",
+    "status": "en curso",
+    "lat": 40.8518,
+    "lng": 14.2681,
+    "fuentes": [
+      "https://www.ansa.it/sito/notizie/cronaca/2026/10/20/protesta-degli-autotrasportatori-nel-salernitano-presidi-sulla-a2_3a6127ff-0b4c-4c40-8785-32cfb644514b.html",
+      "https://www.lastampa.it/cronaca/2026/10/20/diretta/protesta_autotrasportatori_oggi_blocchi_tir_salvini-15771715/",
+      "https://www.lespresso.it/c/attualita/2026/10/20/autotrasportatori-blocco-sciopero-presidio-caro-carburante-campania-calabria-molise-basilicata-puglia-siciili-supermercati/65389",
+      "https://tg24.sky.it/cronaca/2026/10/20/sciopero-autotrasportatori-protesta-tir-sud-italia"
+    ],
+    "createdAt": "2026-10-20T18:35:15.000Z",
+    "updatedAt": "2026-10-20T18:53:17Z"
+  },
+  {
+    "id": "pt-2026-10-20-lisboa-rossio",
+    "seccion": "internacional",
+    "pais": "Portugal",
+    "bandera": "🇵🇹",
+    "hora": "19:00",
+    "fecha": "2026-10-20",
+    "lugar": "Lisboa, Praça do Rossio (y nueva concentración convocada en Praça D. João I, Oporto): retorno tras el desalojo policial de las acampadas por la vivienda",
+    "tipoAccion": "manifestación",
+    "organizaciones": [
+      "Movimento Acampada",
+      "activistas por la vivienda",
+      "CGTP"
+    ],
+    "motivo": "Rechazo al desalojo de las acampadas (55 detenidos en Lisboa y Oporto); exigencia de vivienda asequible, límites a los alquileres y retirada del proyecto de ley que facilita los desahucios",
+    "status": "convocada",
+    "lat": 38.7139,
+    "lng": -9.1394,
+    "fuentes": [
+      "https://observador.pt/liveblogs/acampados-policia-chega-a-lisboa-e-ao-porto-e-da-poucos-minutos-para-manifestante-desmobliizarem/",
+      "https://www.20minutos.es/internacional/una-ola-protestas-recorre-europa-francia-mantiene-los-toques-queda-italia-despliega-ejercito-portugal-desaloja-las-acampadas_7051096_0.html",
+      "https://www.theguardian.com/world/gallery/2026/oct/20/from-paris-to-milan-student-protests-across-europe-in-pictures"
+    ],
+    "createdAt": "2026-10-20T18:35:15.000Z",
+    "updatedAt": "2026-10-20T18:53:17Z"
   },
   {
     "id": "al-2026-10-20-tirana",
@@ -163,11 +255,12 @@
     "bandera": "🇦🇱",
     "hora": "",
     "fecha": "2026-10-20",
-    "lugar": "Tirana (clashes y protestas en Rinia Park, ministerios y centro de la ciudad; séptimo día consecutivo)",
+    "lugar": "Tirana (clashes y protestas en Rinia Park, ministerios y centro de la ciudad; octavo día consecutivo; profesores se suman a la acampada frente a la Politécnica)",
     "tipoAccion": "protesta",
     "organizaciones": [
       "Movimiento estudiantil",
       "Movimiento Flamingo",
+      "Profesores en huelga",
       "Sociedad civil albanesa"
     ],
     "motivo": "Renuncia del primer ministro Edi Rama; rechazo a las matrículas altas y malas condiciones universitarias, corrupción y alza del costo de vida",
@@ -178,10 +271,11 @@
       "https://www.bbc.com/news/articles/cmy4xjlpqgd3o",
       "https://www.aljazeera.com/news/2026/10/20/horizontal-revolt-why-albanias-young-protesters-want-pm-rama-to-go",
       "https://www.byteseu.com/2467502/",
-      "https://newsforkids.net/articles/2026/10/20/protests-in-france-and-albania-turn-violent/"
+      "https://newsforkids.net/articles/2026/10/20/protests-in-france-and-albania-turn-violent/",
+      "https://reporteri.net/en/NEWS/Albania/Eighth-day-of-protest-in-Tirana--professors-join-students/"
     ],
     "createdAt": "2026-10-20T08:46:48.000Z",
-    "updatedAt": "2026-10-20T14:17:28Z"
+    "updatedAt": "2026-10-20T18:53:17Z"
   },
   {
     "id": "kr-2026-10-20-hd-hyundai-ulsan",
@@ -203,7 +297,7 @@
       "https://www.businesskorea.co.kr/news/articleView.html?idxno=279122"
     ],
     "createdAt": "2026-10-20T08:46:48.000Z",
-    "updatedAt": "2026-10-20T14:17:28Z"
+    "updatedAt": "2026-10-20T18:53:17Z"
   },
   {
     "id": "do-2026-10-20-san-francisco-macoris",
@@ -212,21 +306,27 @@
     "bandera": "🇩🇴",
     "hora": "",
     "fecha": "2026-10-20",
-    "lugar": "San Francisco de Macorís (Cibao) y Salcedo, Hermanas Mirabal",
+    "lugar": "San Francisco de Macorís (Cibao, segundo día del paro) y Salcedo, Hermanas Mirabal (inicio de huelga de 48 horas a las 6:00)",
     "tipoAccion": "paro",
     "organizaciones": [
       "Colectivo de Organizaciones Sociales y Populares",
-      "Organizaciones comunitarias de Salcedo"
+      "Movimiento 24 de Abril",
+      "Movimiento Unidos de la Parte Alta",
+      "Coalición de Salcedo",
+      "Organizaciones comunitarias"
     ],
-    "motivo": "Segundo día del paro de 48 horas por apagones, aumento de la tarifa eléctrica, alza del costo de la vida y falta de obras; en Salcedo protestas el 20 y 21 de octubre",
+    "motivo": "Paro de 48 horas por apagones, aumento de la tarifa eléctrica, alza del costo de la vida, falta de obras y deterioro de carreteras; segunda jornada en San Francisco de Macorís y arranque de la huelga en Salcedo",
     "status": "en curso",
     "lat": 19.2989,
     "lng": -70.2606,
     "fuentes": [
-      "https://revistamercado.do/money-invest/daily-news/huelga-de-48-horas-en-san-francisco-de-macoris-por-que-protestan-y-que-pueblos-del-cibao-se-suman/"
+      "https://revistamercado.do/money-invest/daily-news/huelga-de-48-horas-en-san-francisco-de-macoris-por-que-protestan-y-que-pueblos-del-cibao-se-suman/",
+      "https://www.diariolibre.com/actualidad/nacional/2026/10/20/huelga-en-salcedo-afecta-actividades-san-francisco-cumple-paro/3694787",
+      "https://listindiario.com/la-republica/provincias/20261020/colectivo-ratifica-paro-48-horas-sfm_926773.html",
+      "https://www.elcaribe.com.do/panorama/pais/paro-de-labores-continua-en-sfm-y-afecta-principales-actividades-comerciales/"
     ],
     "createdAt": "2026-10-20T08:46:48.000Z",
-    "updatedAt": "2026-10-20T14:17:28Z"
+    "updatedAt": "2026-10-20T18:53:17Z"
   },
   {
     "id": "ke-2026-10-20-huelga-universitaria",
@@ -253,7 +353,30 @@
       "https://citizen.digital/article/university-lecturers-begin-nationwide-strike-over-cba-deal-n391315"
     ],
     "createdAt": "2026-10-20T08:46:48.000Z",
-    "updatedAt": "2026-10-20T14:17:28Z"
+    "updatedAt": "2026-10-20T18:53:17Z"
+  },
+  {
+    "id": "ke-2026-10-20-nairobi-combustibles",
+    "seccion": "internacional",
+    "pais": "Kenia",
+    "bandera": "🇰🇪",
+    "hora": "",
+    "fecha": "2026-10-20",
+    "lugar": "Nairobi, distrito financiero central (CBD)",
+    "tipoAccion": "manifestación",
+    "organizaciones": [
+      "Activistas de base",
+      "Colectivos por el costo de vida"
+    ],
+    "motivo": "Rechazo al alza de precios de combustibles (petróleo, diésel y queroseno) del ciclo octubre-noviembre fijada por EPRA; exigencia de acción del gobierno ante el costo de vida en el día de Mashujaa Day",
+    "status": "en curso",
+    "lat": -1.2864,
+    "lng": 36.8172,
+    "fuentes": [
+      "https://k24.digital/news/activists-stage-protests-in-nairobi-cbd-over-fuel-price-hike"
+    ],
+    "createdAt": "2026-10-20T18:35:15.000Z",
+    "updatedAt": "2026-10-20T18:53:17Z"
   },
   {
     "id": "id-2026-10-20-jakarta",
@@ -287,7 +410,7 @@
       "https://www.antaranews.com/berita/5799121/ratusan-mahasiswa-unjuk-rasa-di-kawasan-tugu-tani"
     ],
     "createdAt": "2026-10-20T14:04:43.000Z",
-    "updatedAt": "2026-10-20T14:17:28Z"
+    "updatedAt": "2026-10-20T18:53:17Z"
   },
   {
     "id": "in-2026-10-20-delhi-cec",
@@ -315,7 +438,31 @@
       "https://time.com/article/2026/10/20/why-young-indians-are-fearful-about-the-future-of-the-world-s-largest-democracy/"
     ],
     "createdAt": "2026-10-20T14:04:43.000Z",
-    "updatedAt": "2026-10-20T14:17:28Z"
+    "updatedAt": "2026-10-20T18:53:17Z"
+  },
+  {
+    "id": "in-2026-10-20-jk-internos",
+    "seccion": "internacional",
+    "pais": "India",
+    "bandera": "🇮🇳",
+    "hora": "",
+    "fecha": "2026-10-20",
+    "lugar": "Jammu y Kashmir (hospitales médicos gubernamentales de Jammu, Srinagar y resto de la región)",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "AIMS (All India Medical Students Association), capítulo J&K",
+      "Internos MBBS",
+      "Internos BDS"
+    ],
+    "motivo": "Huelga de internos médicos por el incumplimiento de la promesa de aumentar el estipendio de 12.300 a 30.000 rupias; exigen orden gubernamental oficial tras el fracaso de las negociaciones del 19 de octubre",
+    "status": "en curso",
+    "lat": 34.0837,
+    "lng": 74.7973,
+    "fuentes": [
+      "https://www.thehindu.com/news/national/jammu-and-kashmir/medical-interns-resume-strike-in-jk-government-hospitals-over-stipend-hike/article71604140.ece"
+    ],
+    "createdAt": "2026-10-20T18:35:15.000Z",
+    "updatedAt": "2026-10-20T18:53:17Z"
   },
   {
     "id": "ng-2026-10-20-abeokuta",
@@ -339,7 +486,60 @@
       "https://saharareporters.com/2026/10/20/breaking-armed-police-deployed-nurses-students-begin-seven-day-protest-ogun-hospital"
     ],
     "createdAt": "2026-10-20T14:04:43.000Z",
-    "updatedAt": "2026-10-20T14:17:28Z"
+    "updatedAt": "2026-10-20T18:53:17Z"
+  },
+  {
+    "id": "sn-2026-10-20-dakar-fsdt",
+    "seccion": "internacional",
+    "pais": "Senegal",
+    "bandera": "🇸🇳",
+    "hora": "15:00",
+    "fecha": "2026-10-20",
+    "lugar": "Dakar, marcha de la FASTEF al rond-point Jet d'Eau",
+    "tipoAccion": "marcha sindical",
+    "organizaciones": [
+      "FSDT (Front syndical pour la défense du travail, 13 sindicatos)",
+      "CNTS",
+      "SYTJUST"
+    ],
+    "motivo": "Exigencia de aplicación de los acuerdos sectoriales: revalorización de pensiones, subida de la edad de jubilación a 65 años, pago de primas e indemnización de vivienda de 100.000 FCFA; marcha previa a la huelga general de 72 horas del 21 al 23 de octubre",
+    "status": "convocada",
+    "lat": 14.7167,
+    "lng": -17.4677,
+    "fuentes": [
+      "https://www.france24.com/fr/afrique/20261019-senegal-appels-manifester-greve-generale-juste-avant-joj-jeux-olympiques-jeunesse-syndicats",
+      "https://walf-groupe.com/blog/2026/10/20/marche-et-greve-de-72-heures-le-fsdt-maintient-la-pression-malgre-les-appels-au-dialogue-du-gouvernement/",
+      "https://www.pointactu.sn/greve-les-syndicats-battent-le-pave-apres-les-assurances-du-gouvernement/",
+      "https://www.senenews.com/actualites/apres-la-sortie-du-gouvernement-les-syndicalistes-tranchent-pour-la-greve-generale_603408.html"
+    ],
+    "createdAt": "2026-10-20T18:35:15.000Z",
+    "updatedAt": "2026-10-20T18:53:17Z"
+  },
+  {
+    "id": "rs-2026-10-20-marchas-belgrado",
+    "seccion": "internacional",
+    "pais": "Serbia",
+    "bandera": "🇷🇸",
+    "hora": "",
+    "fecha": "2026-10-20",
+    "lugar": "Serbia: columnas estudiantiles en ruta hacia Belgrade desde Novi Sad, Zaječar, Valjevo, Šabac y Gornji Milanovac; llegada prevista a Slavija Square el 22 de octubre",
+    "tipoAccion": "marcha",
+    "organizaciones": [
+      "Lista Estudiantil (Studentska lista)",
+      "Comités estudiantiles universitarios"
+    ],
+    "motivo": "Marcha preelectoral de una semana hacia Belgrade antes de las elecciones parlamentarias del 25 de octubre; exigencia de elecciones libres y fin del régimen de Aleksandar Vučić",
+    "status": "en curso",
+    "lat": 44.7866,
+    "lng": 20.4489,
+    "fuentes": [
+      "https://www.bgnes.bg/studenti-ot-cqla-sarbiq-se-otpraviha-pesha-kam-belgrad-za-predizboren-miting",
+      "https://en.ilsole24ore.com/art/the-mass-student-march-crosses-serbia-vucics-final-challenge-AJOtcGlB",
+      "https://rs.usembassy.gov/demonstration-alert-u-s-embassy-belgrade-serbia-october-16-2026/",
+      "https://www.intellinews.com/serbian-students-march-on-belgrade-for-final-rally-ahead-of-election-476870/"
+    ],
+    "createdAt": "2026-10-20T18:35:15.000Z",
+    "updatedAt": "2026-10-20T18:53:17Z"
   },
   {
     "id": "arg-2026-10-20-uom-cordoba",
@@ -361,10 +561,11 @@
       "https://www.lavoz.com.ar/politica/uom-marchara-casa-gobierno-rechazo-paritaria-reclamar-medidas-industria_0_3NUqGmYPwx.html",
       "https://fulana.com.ar/nota/uom-cordoba-convoca-marcha-el-20-de-octubre-contra-la-paritaria-a-la-baja/",
       "https://cbahoy.com.ar/uom-cordoba-convocan-a-una-marcha-para-el-20-de-octubre/",
-      "https://www.infogremiales.com.ar/la-uom-de-cordoba-marchara-contra-la-paritaria-nacional-y-reclamara-un-plan-industrial-no-queremos-naturalizar-unas-paritarias-que-ha-firmado-la-intervencion/"
+      "https://www.infogremiales.com.ar/la-uom-de-cordoba-marchara-contra-la-paritaria-nacional-y-reclamara-un-plan-industrial-no-queremos-naturalizar-unas-paritarias-que-ha-firmado-la-intervencion/",
+      "https://www.radiogremial.com.ar/la-uom-de-cordoba-marchara-contra-la-paritaria-nacional-y-reclamara-un-plan-industrial-no-queremos-naturalizar-unas-paritarias-que-ha-firmado-la-intervencion/"
     ],
     "createdAt": "2026-10-20T03:22:52.000Z",
-    "updatedAt": "2026-10-20T14:17:28Z"
+    "updatedAt": "2026-10-20T18:53:17Z"
   },
   {
     "id": "arg-2026-10-20-paro-docente-pba",
@@ -385,9 +586,84 @@
     "fuentes": [
       "https://www.cronista.com/informacion-gral/paro-docente-en-la-provincia-de-buenos-aires-que-pasara-con-las-clases-este-martes-20-de-octubre/",
       "https://www.anred.org/no-es-aumento-es-ajuste-docentes-bonaerenses-rechazan-el-6-de-aumento-de-kicillof-y-convocan-a-paros-ollas-populares-y-movilizacione/",
-      "https://www.lanoticia1.com/noticia/docentes-disidentes-paran-en-la-provincia-y-apuntan-contra-la-paritaria-habra-una-olla-popular-frente-a-la-gobernacion"
+      "https://www.lanoticia1.com/noticia/docentes-disidentes-paran-en-la-provincia-y-apuntan-contra-la-paritaria-habra-una-olla-popular-frente-a-la-gobernacion",
+      "https://www.0223.com.ar/nota/2026-10-18-11-44-0-un-sector-docente-anuncio-un-paro-provincial-para-el-20-de-octubre-y-una-olla-popular-frente-a-la-casa-de-kicillof"
     ],
     "createdAt": "2026-10-20T03:22:52.000Z",
-    "updatedAt": "2026-10-20T14:17:28Z"
+    "updatedAt": "2026-10-20T18:53:17Z"
+  },
+  {
+    "id": "arg-2026-10-20-paro-subtes-caba",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "10:00",
+    "fecha": "2026-10-20",
+    "lugar": "Ciudad de Buenos Aires: red de subte y Premetro (las seis líneas); incidentes en la estación Juan Manuel de Rosas (línea B) y corte en Triunvirato y Monroe, Villa Urquiza",
+    "tipoAccion": "paro",
+    "organizaciones": [
+      "AGTSyP - Metrodelegadxs (Asociación Gremial de Trabajadores del Subte y Premetro)",
+      "trabajadores del subte y Premetro"
+    ],
+    "motivo": "Tras la detención de tres metrodelegados durante una apertura de molinetes en la estación Juan Manuel de Rosas (línea B): exigen la libertad de los detenidos, el fin de la tercerización de tareas de mantenimiento y las suspensiones; paro total sin horario de finalización",
+    "status": "en curso",
+    "lat": -34.6037,
+    "lng": -58.3816,
+    "fuentes": [
+      "https://www.clarin.com/ciudades/paro-subtes-hoy-vivo-sigue-medida-fuerza-vuelve-servicio_0_wWFbsdlbhY.html",
+      "https://www.infobae.com/sociedad/2026/10/20/paro-total-en-el-subte-y-premetro-en-vivo-la-medida-de-fuerza-afecta-el-transporte-publico-en-la-ciudad-de-buenos-aires/",
+      "https://www.eldestapeweb.com/sociedad/cuando-paro-subtes-hoy-martes-20-octubre-202610201290",
+      "https://www.resumenlatinoamericano.org/2026/10/20/argentina-por-la-detencion-de-dos-delegados-gremiales-paro-sorpresivo-en-el-subte-porteno-todas-las-lineas-interrumpidas/",
+      "https://www.econoblog.com.ar/160030/paro-de-subtes-del-martes-20-de-octubre-de-2026/"
+    ],
+    "createdAt": "2026-10-20T18:42:53.000Z",
+    "updatedAt": "2026-10-20T18:53:17Z"
+  },
+  {
+    "id": "arg-2026-10-20-funes-asoem",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "10:00",
+    "fecha": "2026-10-20",
+    "lugar": "Funes, Santa Fe: desde el obrador hasta la Municipalidad de Funes",
+    "tipoAccion": "marcha",
+    "organizaciones": [
+      "ASOEM (Asociación de Obreros y Empleados Municipales de Funes)",
+      "FESTRAM (Federación de Sindicatos de Trabajadores Municipales de la Provincia de Santa Fe)"
+    ],
+    "motivo": "Cese de la retención de la cuota sindical (Decreto 0409/2026) y baja de prestaciones esenciales; pago de feriados trabajados, refrigerios, devolución de descuentos por paros y presentismo, y pase a planta permanente bajo la Ley 9286",
+    "status": "en curso",
+    "lat": -32.9167,
+    "lng": -60.8167,
+    "fuentes": [
+      "https://www.funeshoy.com.ar/noticias/empleados-marchan-hacia-el-municipio-en-protesta/"
+    ],
+    "createdAt": "2026-10-20T18:42:53.000Z",
+    "updatedAt": "2026-10-20T18:53:17Z"
+  },
+  {
+    "id": "arg-2026-10-20-acindar-villa-constitucion",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-10-20",
+    "lugar": "Villa Constitución, Santa Fe: complejo siderúrgico Acindar (ArcelorMittal), movilización dentro del predio hasta la Playa de Río",
+    "tipoAccion": "movilización",
+    "organizaciones": [
+      "UOM seccional Villa Constitución",
+      "trabajadores de empresas contratistas y tercerizadas de Acindar"
+    ],
+    "motivo": "Atrasos en el pago de salarios, suspensiones arbitrarias y deficiencias en seguridad laboral; incumplimiento de acuerdos y paritaria siderúrgica sin acuerdo desde hace meses; paros parciales de cuatro horas por turno en distintas contratistas",
+    "status": "en curso",
+    "lat": -33.2333,
+    "lng": -60.6667,
+    "fuentes": [
+      "https://monitorgremial.com.ar/la-uom-movilizo-en-acindar-contratistas-reclaman-atrasos-salariales-suspensiones-y-fallas-de-seguridad/",
+      "https://www.degremiales.com/Tension-en-Acindar-la-UOM-movilizo-junto-a-contratistas-por-salarios-suspensiones-y-seguridad-5330"
+    ],
+    "createdAt": "2026-10-20T18:42:53.000Z",
+    "updatedAt": "2026-10-20T18:53:17Z"
   }
 ]
