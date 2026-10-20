@@ -6,7 +6,7 @@
     "bandera": "🇨🇷",
     "hora": "09:00",
     "fecha": "2026-10-20",
-    "lugar": "San José, salida en la Fuente de la Hispanidad (San Pedro de Montes de Oca) hacia la Plaza de la Democracia",
+    "lugar": "San José, salida en la Fuente de la Hispanidad (San Pedro de Montes de Oca) hacia la Asamblea Legislativa y Plaza de la Democracia",
     "tipoAccion": "marcha",
     "organizaciones": [
       "ANDE",
@@ -25,7 +25,7 @@
       "https://cdn.ncrnoticias.com/politica/frente-amplio-llama-a-policias-agricultores-empleados-de-la-caja-y-zonas-francas-a-sumarse-a-marcha-contra-el-gobierno/"
     ],
     "createdAt": "2026-10-20T03:21:13.000Z",
-    "updatedAt": "2026-10-20T09:00:09Z"
+    "updatedAt": "2026-10-20T14:17:28Z"
   },
   {
     "id": "mx-2026-10-20-morelia",
@@ -40,14 +40,42 @@
       "Movimiento Popular Rubén Jaramillo (MPRJ)"
     ],
     "motivo": "Exigir solución a las demandas pendientes de los integrantes del movimiento",
-    "status": "convocada",
+    "status": "en curso",
     "lat": 19.7008,
     "lng": -101.195,
     "fuentes": [
       "https://mimorelia.com/morelia/atencion-morelia-anuncian-marcha-este-martes-conoce-la-ruta-y-horario-n5595131"
     ],
     "createdAt": "2026-10-20T08:46:48.000Z",
-    "updatedAt": "2026-10-20T09:00:09Z"
+    "updatedAt": "2026-10-20T14:17:28Z"
+  },
+  {
+    "id": "mx-2026-10-20-cdmx-imss",
+    "seccion": "internacional",
+    "pais": "México",
+    "bandera": "🇲🇽",
+    "hora": "07:30",
+    "fecha": "2026-10-20",
+    "lugar": "Ciudad de México, Palacio Nacional (Plaza de la Constitución, Centro Histórico); plantones vigentes en el SNTSS (Zamora 107, Condesa) y oficinas centrales del IMSS (Paseo de la Reforma 476)",
+    "tipoAccion": "concentración y plantón",
+    "organizaciones": [
+      "Trabajadores activos del IMSS",
+      "Jubilados del IMSS",
+      "Bases inconformes del SNTSS"
+    ],
+    "motivo": "Rechazo al aumento salarial del 2.9%, exigencia de renuncia del secretario general del SNTSS Rafael Olivos, abasto de insumos médicos, jubilación digna y fin al acoso sindical",
+    "status": "en curso",
+    "lat": 19.4326,
+    "lng": -99.1332,
+    "fuentes": [
+      "https://www.unotv.com/estados/ciudad-de-mexico/trabajadores-imss-palacio-nacional-protestas-actividades-cdmx-20-octubre/",
+      "https://www.unotv.com/estados/ciudad-de-mexico/trabajadores-del-imss-llevaran-sus-protestas-a-palacio-nacional-y-preparan-marcha-para-el-miercoles/",
+      "https://24-horas.mx/cdmx/marchas-cdmx-hoy-20-octubre-2026-calles-cerradas/",
+      "https://www.nmas.com.mx/ciudad-de-mexico/movilidad/marchas/trabajadores-imss-cambian-manifestacion-hoy-20-de-octubre-2026-protestan-zona-centro-cdmx/",
+      "https://cadenapolitica.com/2026/10/20/trabajadores-imss-protestas-palacio-nacional-marcha-octubre-2026/"
+    ],
+    "createdAt": "2026-10-20T14:04:43.000Z",
+    "updatedAt": "2026-10-20T14:17:28Z"
   },
   {
     "id": "gr-2026-10-20-atenas-syntagma",
@@ -67,11 +95,12 @@
     "lat": 37.9753,
     "lng": 23.736,
     "fuentes": [
+      "https://www.abc.com.py/internacionales/2026/10/20/huelga-de-docentes-y-protestas-estudiantiles-en-grecia-por-la-carestia-y-la-educacion/",
       "https://www.byteseu.com/2468091/",
       "https://ground.news/article/students-take-to-the-streets-in-thessaloniki-and-athens"
     ],
     "createdAt": "2026-10-20T08:46:48.000Z",
-    "updatedAt": "2026-10-20T09:00:09Z"
+    "updatedAt": "2026-10-20T14:17:28Z"
   },
   {
     "id": "es-2026-10-20-madrid-huelga-educativa",
@@ -100,7 +129,7 @@
       "https://www.eldiariodemadrid.es/articulo/educacion/huelga-profesores-madrid-octubre-2026-calendario-manifestacion-22-octubre/20261016112838144350.html"
     ],
     "createdAt": "2026-10-20T08:46:48.000Z",
-    "updatedAt": "2026-10-20T09:00:09Z"
+    "updatedAt": "2026-10-20T14:17:28Z"
   },
   {
     "id": "fr-2026-10-20-huelga-pompiers",
@@ -109,21 +138,23 @@
     "bandera": "🇫🇷",
     "hora": "",
     "fecha": "2026-10-20",
-    "lugar": "Francia (mobilización nacional de bomberos profesionales; último día del preaviso de huelga)",
+    "lugar": "Francia (mobilización nacional de bomberos profesionales; día límite del preaviso original, huelga reconvenida hasta el 4 de diciembre)",
     "tipoAccion": "paro",
     "organizaciones": [
-      "Intersyndicale des sapeurs-pompiers (9 sindicatos)"
+      "Intersyndicale des sapeurs-pompiers (8 sindicatos)"
     ],
-    "motivo": "Reclamo de más medios financieros, materiales y humanos para los bomberos y aprobación del proyecto de ley de modernización de la Seguridad Civil",
+    "motivo": "Reclamo de más medios financieros, materiales y humanos para los bomberos, contrataciones estatutarias, salud y seguridad del personal, y aprobación del proyecto de ley de modernización de la Seguridad Civil",
     "status": "en curso",
     "lat": 48.8566,
     "lng": 2.3522,
     "fuentes": [
-      "https://www.leparisien.fr/politique/on-nous-a-salues-comme-des-heros-et-aujourdhui-on-se-retourne-contre-nous-les-pompiers-entre-colere-et-depit-20-10-2026-V6SG5BX6PZFBDG6WEWBAIU6JOI.php",
-      "https://www.20minutes.fr/societe/greve/4243468-20260908-face-manque-moyens-pompiers-greve-jusqu-20-octobre"
+      "https://mavigilance.fr/agenda/",
+      "https://sudsdis-national.net/2026/10/18/la-mobilisation-continue-la-greve-est-reconduite-jusquau-4-decembre-avec-un-bonus-le-3-novembre/",
+      "https://www.ici.fr/infos/societe/les-pompiers-professionnels-reconduisent-leur-mouvement-de-greve-jusqu-a-debut-decembre-8202130",
+      "https://www.leparisien.fr/politique/on-nous-a-salues-comme-des-heros-et-aujourdhui-on-se-retourne-contre-nous-les-pompiers-entre-colere-et-depit-20-10-2026-V6SG5BX6PZFBDG6WEWBAIU6JOI.php"
     ],
     "createdAt": "2026-10-20T08:46:48.000Z",
-    "updatedAt": "2026-10-20T09:00:09Z"
+    "updatedAt": "2026-10-20T14:17:28Z"
   },
   {
     "id": "al-2026-10-20-tirana",
@@ -132,7 +163,7 @@
     "bandera": "🇦🇱",
     "hora": "",
     "fecha": "2026-10-20",
-    "lugar": "Tirana (concentraciones frente al Ministerio de Educación y nuevas protestas en el centro)",
+    "lugar": "Tirana (clashes y protestas en Rinia Park, ministerios y centro de la ciudad; séptimo día consecutivo)",
     "tipoAccion": "protesta",
     "organizaciones": [
       "Movimiento estudiantil",
@@ -144,11 +175,13 @@
     "lat": 41.3275,
     "lng": 19.8187,
     "fuentes": [
+      "https://www.bbc.com/news/articles/cmy4xjlpqgd3o",
+      "https://www.aljazeera.com/news/2026/10/20/horizontal-revolt-why-albanias-young-protesters-want-pm-rama-to-go",
       "https://www.byteseu.com/2467502/",
       "https://newsforkids.net/articles/2026/10/20/protests-in-france-and-albania-turn-violent/"
     ],
     "createdAt": "2026-10-20T08:46:48.000Z",
-    "updatedAt": "2026-10-20T09:00:09Z"
+    "updatedAt": "2026-10-20T14:17:28Z"
   },
   {
     "id": "kr-2026-10-20-hd-hyundai-ulsan",
@@ -170,7 +203,7 @@
       "https://www.businesskorea.co.kr/news/articleView.html?idxno=279122"
     ],
     "createdAt": "2026-10-20T08:46:48.000Z",
-    "updatedAt": "2026-10-20T09:00:09Z"
+    "updatedAt": "2026-10-20T14:17:28Z"
   },
   {
     "id": "do-2026-10-20-san-francisco-macoris",
@@ -193,7 +226,7 @@
       "https://revistamercado.do/money-invest/daily-news/huelga-de-48-horas-en-san-francisco-de-macoris-por-que-protestan-y-que-pueblos-del-cibao-se-suman/"
     ],
     "createdAt": "2026-10-20T08:46:48.000Z",
-    "updatedAt": "2026-10-20T09:00:09Z"
+    "updatedAt": "2026-10-20T14:17:28Z"
   },
   {
     "id": "ke-2026-10-20-huelga-universitaria",
@@ -209,16 +242,104 @@
       "KUSU (Kenya Universities Staff Union)",
       "KUDHEIHA"
     ],
-    "motivo": "Implementación del Convenio Colectivo 2025-2029 y pago de atrasos salariales (más de 7.700 millones de chelines) en las universidades públicas",
+    "motivo": "Implementación del Convenio Colectivo 2025-2029 y pago de atrasos salariales (más de 7.700 millones de chelines) en las universidades públicas; huelga indefinida desde el 2 de octubre",
     "status": "en curso",
     "lat": -1.2921,
     "lng": 36.8219,
     "fuentes": [
+      "https://nation.africa/kenya/news/education/students-bear-brunt-as-lecturers-dig-in-over-strike-demands-5633574",
+      "https://peopledaily.digital/news/ps-inyangala-urges-striking-university-lecturers-to-return-to-class-as-talks-continue",
       "https://thekenyatimes.com/latest-kenya-times-news/country-protests-october/",
       "https://citizen.digital/article/university-lecturers-begin-nationwide-strike-over-cba-deal-n391315"
     ],
     "createdAt": "2026-10-20T08:46:48.000Z",
-    "updatedAt": "2026-10-20T09:00:09Z"
+    "updatedAt": "2026-10-20T14:17:28Z"
+  },
+  {
+    "id": "id-2026-10-20-jakarta",
+    "seccion": "internacional",
+    "pais": "Indonesia",
+    "bandera": "🇮🇩",
+    "hora": "15:00",
+    "fecha": "2026-10-20",
+    "lugar": "Jakarta: acción simbólica a las 09:00 en Tugu Proklamasi (Menteng) y manifestación masiva desde las 15:00 en Tugu Tani; acciones paralelas en Yogyakarta y Bandung",
+    "tipoAccion": "manifestación estudiantil",
+    "organizaciones": [
+      "Komite Selamatkan Daulat Rakyat (Sadar)",
+      "BEM UI",
+      "BEM ITB",
+      "BEM UGM",
+      "BEM Unpad",
+      "BEM Undip",
+      "BEM Unnes",
+      "BEM UPN Veteran Yogyakarta",
+      "BEM Unair",
+      "BEM Universitas Brawijaya"
+    ],
+    "motivo": "Dos años del gobierno Prabowo-Gibran: exigencia de declarar los incendios forestales (karhutla) como desastre nacional, mejorar la gobernanza económica, garantizar la libertad de expresión, erradicar la corrupción y reducir los costos de educación, salud y servicios públicos",
+    "status": "en curso",
+    "lat": -6.1889,
+    "lng": 106.8323,
+    "fuentes": [
+      "https://aktualita.co/en/national/jakarta-protests-today-october-20-2026-schedule-locations-5-student-demands-and-traffic-diversions",
+      "https://megapolitan.kompas.com/read/2026/10/20/07484211/bem-ui-demo-2-tahun-prabowo-gibran-hari-ini-cek-lokasi-dan-tuntutannya",
+      "https://www.bbc.com/indonesia/articles/crvg6q7wgw5jo",
+      "https://www.antaranews.com/berita/5799121/ratusan-mahasiswa-unjuk-rasa-di-kawasan-tugu-tani"
+    ],
+    "createdAt": "2026-10-20T14:04:43.000Z",
+    "updatedAt": "2026-10-20T14:17:28Z"
+  },
+  {
+    "id": "in-2026-10-20-delhi-cec",
+    "seccion": "internacional",
+    "pais": "India",
+    "bandera": "🇮🇳",
+    "hora": "",
+    "fecha": "2026-10-20",
+    "lugar": "Nueva Delhi (Jantar Mantar, Connaught Place y sedes judiciales; protestas diarias en Delhi y otras ciudades)",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Cockroach Janta Party (CJP)",
+      "AISA",
+      "bloque INDIA",
+      "organizaciones estudiantiles"
+    ],
+    "motivo": "Exigencia de renuncia del presidente de la Comisión Electoral (CEC) Gyanesh Kumar y de la revisión intensiva especial (SIR) de listas electorales tras la eliminación de 130 millones de nombres; tras la detención de líderes de la CJP",
+    "status": "en curso",
+    "lat": 28.6235,
+    "lng": 77.2073,
+    "fuentes": [
+      "https://www.hindustantimes.com/india-news/delhi-protest-live-updates-cjp-saurav-das-ashutosh-ranka-jantar-mantar-police-jail-dipke-cec-gyanesh-kumar-india-bloc-101792460371136.html",
+      "https://indianexpress.com/article/india/breaking-india-news-live-updates-20-october-2026-cjp-delhi-police-protest-crime-branch-accident-weather-rain-gyanesh-kumar-rss-tiger-shroff-shooting-10928827/",
+      "https://www.aljazeera.com/news/2026/10/19/indian-court-extends-detention-of-cockroach-leaders",
+      "https://time.com/article/2026/10/20/why-young-indians-are-fearful-about-the-future-of-the-world-s-largest-democracy/"
+    ],
+    "createdAt": "2026-10-20T14:04:43.000Z",
+    "updatedAt": "2026-10-20T14:17:28Z"
+  },
+  {
+    "id": "ng-2026-10-20-abeokuta",
+    "seccion": "internacional",
+    "pais": "Nigeria",
+    "bandera": "🇳🇬",
+    "hora": "",
+    "fecha": "2026-10-20",
+    "lugar": "Abeokuta, Ogun State: Federal Neuropsychiatric Hospital, Aro",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Enfermeras del Federal Neuropsychiatric Hospital Aro",
+      "NANS Ogun State Joint Campus Committee",
+      "Estudiantes"
+    ],
+    "motivo": "Inicio de protesta de 7 días por la muerte de la enfermera Taiwo Godwin Ayodeji en el hospital; exigencia de investigación independiente y rendición de cuentas por presunta negligencia",
+    "status": "en curso",
+    "lat": 7.15,
+    "lng": 3.35,
+    "fuentes": [
+      "https://saharareporters.com/2026/10/20/breaking-armed-police-deployed-nurses-students-begin-seven-day-protest-ogun-hospital"
+    ],
+    "createdAt": "2026-10-20T14:04:43.000Z",
+    "updatedAt": "2026-10-20T14:17:28Z"
   },
   {
     "id": "arg-2026-10-20-uom-cordoba",
@@ -243,7 +364,7 @@
       "https://www.infogremiales.com.ar/la-uom-de-cordoba-marchara-contra-la-paritaria-nacional-y-reclamara-un-plan-industrial-no-queremos-naturalizar-unas-paritarias-que-ha-firmado-la-intervencion/"
     ],
     "createdAt": "2026-10-20T03:22:52.000Z",
-    "updatedAt": "2026-10-20T09:00:09Z"
+    "updatedAt": "2026-10-20T14:17:28Z"
   },
   {
     "id": "arg-2026-10-20-paro-docente-pba",
@@ -258,14 +379,15 @@
       "Asociación de Maestrxs de la Provincia de Buenos Aires"
     ],
     "motivo": "Paro docente provincial en rechazo a la propuesta salarial del 6% en dos cuotas del gobierno bonaerense; exigen recomposición de ingresos docentes",
-    "status": "convocada",
+    "status": "en curso",
     "lat": -34.9214,
     "lng": -57.9545,
     "fuentes": [
       "https://www.cronista.com/informacion-gral/paro-docente-en-la-provincia-de-buenos-aires-que-pasara-con-las-clases-este-martes-20-de-octubre/",
-      "https://www.anred.org/no-es-aumento-es-ajuste-docentes-bonaerenses-rechazan-el-6-de-aumento-de-kicillof-y-convocan-a-paros-ollas-populares-y-movilizacione/"
+      "https://www.anred.org/no-es-aumento-es-ajuste-docentes-bonaerenses-rechazan-el-6-de-aumento-de-kicillof-y-convocan-a-paros-ollas-populares-y-movilizacione/",
+      "https://www.lanoticia1.com/noticia/docentes-disidentes-paran-en-la-provincia-y-apuntan-contra-la-paritaria-habra-una-olla-popular-frente-a-la-gobernacion"
     ],
     "createdAt": "2026-10-20T03:22:52.000Z",
-    "updatedAt": "2026-10-20T09:00:09Z"
+    "updatedAt": "2026-10-20T14:17:28Z"
   }
 ]
