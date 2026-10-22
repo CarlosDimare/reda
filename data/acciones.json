@@ -1,1 +1,2645 @@
-[]
+[
+  {
+    "id": 1,
+    "seccion": "internacionales",
+    "pais": "Francia",
+    "bandera": "🇫🇷",
+    "hora": "14:00",
+    "fecha": "2026-10-22",
+    "lugar": "París, Île-de-France (boulevard de l'Hôpital, 13e arr. hacia place de la Bastille)",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "Interfac Île-de-France",
+      "Coordinación nacional liceal"
+    ],
+    "motivo": "Marcha estudiantil y liceal del movimiento por la escuela pública: contra el coste de la vida y los recortes en educación. El recorrido declarado iba del boulevard de l'Hôpital a la place de la Bastille y fue aprobado en asamblea. La prefectura de policía lo prohibió el 21 de octubre y la RATP cerró estaciones del recorrido desde las 10:00. Interfac anuncia impugnar la prohibición ante el tribunal administrativo.",
+    "status": "programado",
+    "lat": 48.852673,
+    "lng": 2.368819,
+    "fuentes": [
+      {
+        "nombre": "Le Parisien (AFP)",
+        "url": "https://www.leparisien.fr/societe/mouvement-lyceen-et-etudiant-la-manifestation-dinterfac-idf-prevue-jeudi-a-paris-interdite-21-10-2026-XRMCFZR3YZCQNCSL3GFJYOQJQ4.php"
+      },
+      {
+        "nombre": "Franceinfo (prohibición)",
+        "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/la-prefecture-de-police-interdit-la-manifestation-des-lyceens-et-etudiants-franciliens-prevue-jeudi-a-paris_8247574.html"
+      },
+      {
+        "nombre": "Franceinfo (sectores interditos)",
+        "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/les-rassemblements-et-les-manifestations-interdits-dans-plusieurs-secteurs-de-paris-jeudi-entre-8-heures-et-20-heures-annonce-la-prefecture-de-police_8247910.html"
+      },
+      {
+        "nombre": "Sortiraparis",
+        "url": "https://www.sortiraparis.com/en/news/in-paris/articles/355354-high-school-and-university-students-rally-in-paris-on-october-22-details-and-route"
+      },
+      {
+        "nombre": "France 3 Régions",
+        "url": "https://france3-regions.franceinfo.fr/paris-ile-de-france/paris/nous-n-allons-pas-nous-laisser-faire-l-intefac-idf-replique-apres-l-interdiction-de-la-manifestation-du-22-octobre-a-paris-3437031.html"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 2,
+    "seccion": "internacionales",
+    "pais": "Francia",
+    "bandera": "🇫🇷",
+    "hora": "",
+    "fecha": "2026-10-22",
+    "lugar": "Lyon, Auvergne-Rhône-Alpes (recorrido previsto con llegada a place Bellecour)",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "UNEF",
+      "Nouveau Parti Anticapitaliste (NPA)"
+    ],
+    "motivo": "Manifestación estudiantil y liceal de la tarde en Lyon por la educación pública y contra el coste de la vida; el recorrido depositado preveía la llegada a la plaza Bellecour. El prefecto del Rhône la prohibió el 21 de octubre por riesgo de troubles al orden público y porque no hubo acuerdo sobre un itinerario alternativo.",
+    "status": "programado",
+    "lat": 45.757656,
+    "lng": 4.832432,
+    "fuentes": [
+      {
+        "nombre": "Ma vigilance (Le Figaro / AFP)",
+        "url": "https://mavigilance.fr/jour/2026-10-22"
+      },
+      {
+        "nombre": "Franceinfo (directo)",
+        "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/direct-mobilisation-du-17-octobre-sebastien-lecornu-recoit-les-organisations-syndicales-apres-une-nouvelle-nuit-de-couvre-feux_8246746.html"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 3,
+    "seccion": "internacionales",
+    "pais": "Francia",
+    "bandera": "🇫🇷",
+    "hora": "10:00",
+    "fecha": "2026-10-22",
+    "lugar": "Le Mans, Sarthe (faculté de lettres de la Universidad hacia place de la République)",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "Estudiantes de Le Mans Université",
+      "Coordinación nacional estudiantil"
+    ],
+    "motivo": "Nueva movilización estudiantil: reunión a las 10:00 en la facultad de letras y salida en cortège hacia la place de la République, donde se celebraba una asamblea general «inter-luchas». El prefecto de la Sarthe prohibió las manifestaciones en el centro, la estación y la rue Gambetta del 22 al 27 de octubre, en referencia a los daños de la marcha del 17 de octubre (6.000 personas).",
+    "status": "programado",
+    "lat": 48.004125,
+    "lng": 0.196171,
+    "fuentes": [
+      {
+        "nombre": "Ouest-France",
+        "url": "https://www.ouest-france.fr/societe/manifestation/mobilisation-etudiante-une-nouvelle-manifestation-au-mans-ce-jeudi-abe42928-cd67-11f1-bf87-17eca79cb13c"
+      },
+      {
+        "nombre": "Ouest-France (convocatoria)",
+        "url": "https://www.ouest-france.fr/societe/manifestation/mobilisation-etudiante-nous-appelons-les-travailleurs-a-nous-rejoindre-nouvelle-manifestation-ce-jeudi-au-mans-e34437a8-cd5a-11f1-bb5f-3dc5c0feacca"
+      },
+      {
+        "nombre": "Ouest-France (interdición)",
+        "url": "https://www.ouest-france.fr/societe/manifestation/le-prefet-de-la-sarthe-interdit-les-manifestations-dans-le-centre-ville-du-mans-c248db86-cd72-11f1-bb5f-3dc5c0feacca"
+      },
+      {
+        "nombre": "Ma vigilance (ICI Maine)",
+        "url": "https://mavigilance.fr/jour/2026-10-22"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 4,
+    "seccion": "internacionales",
+    "pais": "Francia",
+    "bandera": "🇫🇷",
+    "hora": "14:00",
+    "fecha": "2026-10-22",
+    "lugar": "Caen, Normandie (campus Phénix 1, Université de Caen Normandie)",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "Estudiantes y liceales de Caen"
+    ],
+    "motivo": "Nueva manifestación estudiantil en Caen dentro de la jornada de movilización por la educación pública y contra el coste de la vida, con punto de encuentro en el campus Phénix 1.",
+    "status": "programado",
+    "lat": 49.1829,
+    "lng": -0.3707,
+    "fuentes": [
+      {
+        "nombre": "Ouest-France",
+        "url": "https://www.ouest-france.fr/societe/manifestation/une-nouvelle-manifestation-etudiante-prevue-a-caen-ce-jeudi-22-octobre-2026-49d967d2-cd32-11f1-bf87-17eca79cb13c"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 5,
+    "seccion": "internacionales",
+    "pais": "Francia",
+    "bandera": "🇫🇷",
+    "hora": "11:00",
+    "fecha": "2026-10-22",
+    "lugar": "Rennes, Ille-et-Vilaine (centro de la ciudad)",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "No precisada"
+    ],
+    "motivo": "Manifestación en el centro de Rennes: la red de autobuses STAR deja de servir las paradas de las líneas C1 y C6 del centro (Horizons, Les Lices, Place de Bretagne, République, Charles de Gaulle, Paul Bert, Musée des Beaux-Arts, La Criée y Colombier) a partir de las 11:00 por la celebración de una manifestación.",
+    "status": "programado",
+    "lat": 48.109856,
+    "lng": -1.679087,
+    "fuentes": [
+      {
+        "nombre": "Ma vigilance (alerta de tráfico STAR)",
+        "url": "https://mavigilance.fr/jour/2026-10-22"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 6,
+    "seccion": "internacionales",
+    "pais": "Francia",
+    "bandera": "🇫🇷",
+    "hora": "",
+    "fecha": "2026-10-22",
+    "lugar": "Guadeloupe, archipel (cortes de carretera en la RN1 y en Capesterre-Belle-Eau, sector Kassaverie)",
+    "tipoAccion": "corte",
+    "organizaciones": [
+      "Nou Las Palé",
+      "Colectivo de Defensa Móvil (LCDM)"
+    ],
+    "motivo": "Movilización social en curso desde el 14 de octubre, con cortes de carretera y bloqueos filtrantes en varios puntos del archipel, por el precio del gasoil (piden 1,70 euros por litro), el coste de la vida, el acceso al agua potable, el cierre del hospital y la situación de las pequeñas empresas. El 22 de octubre el préfet se reúne a las 14:00 con los presidentes de la región y del departamento; el colectivo rechaza al préfet y exige una mesa redonda con todas las organizaciones, además de su dimisión.",
+    "status": "en_curso",
+    "lat": 16.995,
+    "lng": -62.0676,
+    "fuentes": [
+      {
+        "nombre": "Outre-mer La 1ère (entrevista)",
+        "url": "https://la1ere.franceinfo.fr/guadeloupe/mobilisation-en-guadeloupe-les-membres-de-nou-las-pale-s-expriment-entre-crispation-et-determination-a-obtenir-satisfaction-1750377.html"
+      },
+      {
+        "nombre": "Outre-mer La 1ère (Capesterre-Belle-Eau)",
+        "url": "https://la1ere.franceinfo.fr/guadeloupe/mobilisation-en-guadeloupe-a-capesterre-belle-eau-les-revendications-de-nou-las-pale-trouvent-un-echo-au-dela-du-collectif-1750407.html"
+      },
+      {
+        "nombre": "Outre-mer La 1ère (directo del 21/10)",
+        "url": "https://la1ere.franceinfo.fr/guadeloupe/direct-barrages-pillages-circulation-perturbee-suivez-la-situation-en-guadeloupe-ce-mercredi-21-octobre-1750290.html"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 7,
+    "seccion": "internacionales",
+    "pais": "Francia",
+    "bandera": "🇫🇷",
+    "hora": "",
+    "fecha": "2026-10-22",
+    "lugar": "Francia (27 ciudades con portavoces de liceos movilizados)",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "Coordinación nacional liceal"
+    ],
+    "motivo": "La Coordinación nacional liceal llama a los liceales a salir a la calle este 22 de octubre, y de nuevo el sábado 24, y apoya bloqueos, manifestaciones y ocupaciones. Reunió portavoces de liceos movilizados en 27 ciudades, en el marco del movimiento por la escuela pública gratuita y contra el coste de la vida.",
+    "status": "programado",
+    "lat": 46.603354,
+    "lng": 1.888334,
+    "fuentes": [
+      {
+        "nombre": "BFM (citado en Ma vigilance)",
+        "url": "https://mavigilance.fr/jour/2026-10-22"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 8,
+    "seccion": "internacionales",
+    "pais": "España",
+    "bandera": "🇪🇸",
+    "hora": "07:00",
+    "fecha": "2026-10-22",
+    "lugar": "Barcelona, Cataluña (Plaza Sants)",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "Huelga General por la Vivienda",
+      "Sindicato de Inquilinas y otros colectivos"
+    ],
+    "motivo": "Metrada de la Huelga General por la Vivienda: punto de encuentro en la Plaza Sants para preparar la huelga general por el derecho a una vivienda digna y salarios dignos. La fecha de la huelga general nacional todavía no está fijada; CCOO y UGT apuntan a principios de noviembre.",
+    "status": "programado",
+    "lat": 41.375393,
+    "lng": 2.137741,
+    "fuentes": [
+      {
+        "nombre": "Plataforma Toka (Huelga General por la Vivienda)",
+        "url": "https://participa.huelgaporlavivienda.org/activities/0346ec80-5562-4e62-a55e-07f6c0d5115b/join"
+      },
+      {
+        "nombre": "El País (fecha de la huelga sin definir)",
+        "url": "https://elpais.com/economia/2026-10-05/los-sindicatos-ugt-y-cc-oo-iran-a-la-huelga-general-por-la-crisis-de-la-vivienda.html"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 9,
+    "seccion": "internacionales",
+    "pais": "España",
+    "bandera": "🇪🇸",
+    "hora": "08:00",
+    "fecha": "2026-10-22",
+    "lugar": "Barcelona, Cataluña (calle Comte Borrell 79)",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "Huelga General por la Vivienda"
+    ],
+    "motivo": "Metrades en la calle Comte Borrell: acción de difusión y afirmación de la huelga general por la vivienda, previa a la convocatoria nacional.",
+    "status": "programado",
+    "lat": 41.3874,
+    "lng": 2.1686,
+    "fuentes": [
+      {
+        "nombre": "Plataforma Toka (Huelga General por la Vivienda)",
+        "url": "https://participa.huelgaporlavivienda.org/activities"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 10,
+    "seccion": "internacionales",
+    "pais": "España",
+    "bandera": "🇪🇸",
+    "hora": "10:00",
+    "fecha": "2026-10-22",
+    "lugar": "Madrid (avenida Pablo Neruda 142)",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "Huelga General por la Vivienda"
+    ],
+    "motivo": "Concentración «Menos Lectivas» en la avenida Pablo Neruda: acción del movimiento por el derecho a la vivienda previa a la huelga general. La convocatoria figura como confirmada y realizada.",
+    "status": "programado",
+    "lat": 40.384216,
+    "lng": -3.647529,
+    "fuentes": [
+      {
+        "nombre": "Plataforma Toka (Huelga General por la Vivienda)",
+        "url": "https://participa.huelgaporlavivienda.org/activities"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 11,
+    "seccion": "internacionales",
+    "pais": "España",
+    "bandera": "🇪🇸",
+    "hora": "10:00",
+    "fecha": "2026-10-22",
+    "lugar": "Segovia (Plaza Mayor)",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "Huelga General por la Vivienda"
+    ],
+    "motivo": "Piquete informativo en el mercadillo de la Plaza Mayor de Segovia para difundir la convocatoria de la huelga general por la vivienda. La acción figura como confirmada y realizada.",
+    "status": "programado",
+    "lat": 40.950329,
+    "lng": -4.123986,
+    "fuentes": [
+      {
+        "nombre": "Plataforma Toka (Huelga General por la Vivienda)",
+        "url": "https://participa.huelgaporlavivienda.org/activities"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 12,
+    "seccion": "internacionales",
+    "pais": "Taiwán",
+    "bandera": "🇹🇼",
+    "hora": "",
+    "fecha": "2026-10-22",
+    "lugar": "Taoyuan, Taoyuan (planta de Micron Memory Taiwan)",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "Sindicato de trabajadores de la planta de Micron en Taoyuan"
+    ],
+    "motivo": "Primera huelga de la industria de semiconductores de Taiwán, lanzada el jueves 22: los trabajadores de la fábrica de Micron en Taoyuan mantienen un conflicto con la empresa por los bonuses y el reparto de beneficios que no acompañan la bonanza de la inteligencia artificial. El sindicato de Taichung, que es otro, firmó un acuerdo laboral y retiró la mediación prevista para el 22, lo que dejó la huelga de Taoyuan sin respaldo de la empresa.",
+    "status": "en_curso",
+    "lat": 24.992999,
+    "lng": 121.301,
+    "fuentes": [
+      {
+        "nombre": "Nikkei Asia",
+        "url": "https://asia.nikkei.com/business/tech/semiconductors/taiwan-s-first-ever-chip-workers-strike-begins-at-micron-plant"
+      },
+      {
+        "nombre": "Taipei Times (Reuters)",
+        "url": "https://www.taipeitimes.com/News/biz/archives/2026/10/22/2003866387"
+      },
+      {
+        "nombre": "IBTimes Taiwan",
+        "url": "https://tw.ibtimes.com/micron-taichung-labor-agreement-1812583"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 13,
+    "seccion": "internacionales",
+    "pais": "India",
+    "bandera": "🇮🇳",
+    "hora": "",
+    "fecha": "2026-10-22",
+    "lugar": "Punjab, India (administración pública estatal; oficinas vacías en Jalandhar y transporte interrumpido en Ludhiana)",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "Punjab Employees and Pensioners Joint Front",
+      "Joint Employees Platform Punjab",
+      "Joint Action Committee"
+    ],
+    "motivo": "Segunda jornada de la huelga de dos días (21 y 22 de octubre) de empleados, docentes y pensioneros del gobierno de Punjab: oficinas administrativas vacías y transporte público interrumpido. Reclaman el pago del 18 por ciento de Dearness Allowance atrasado, la restauración del Old Pension Scheme, la revisión de pensiones, 37 allowances retiradas y la regularización de los trabajadores contratistas y de Anganwadi, ASHA y mid-day meal workers. El 22 arranca además la sesión de la Asamblea de Punjab.",
+    "status": "en_curso",
+    "lat": 30.929321,
+    "lng": 75.500484,
+    "fuentes": [
+      {
+        "nombre": "The Tribune",
+        "url": "https://www.tribuneindia.com/news/ludhiana/work-hit-as-employees-begin-two-day-strike/amp"
+      },
+      {
+        "nombre": "LiveMint (PTI)",
+        "url": "https://www.livemint.com/news/india/punjab-govt-offices-empty-as-employees-pensioners-strike-over-pending-da-pension-revision-watch-video-11792604431475.html"
+      },
+      {
+        "nombre": "Times Now",
+        "url": "https://www.timesnowhindi.com/cities/punjab-government-employees-strike-on-october-21-22-assembly-session-likely-to-be-affected-article-156376357"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 14,
+    "seccion": "internacionales",
+    "pais": "India",
+    "bandera": "🇮🇳",
+    "hora": "",
+    "fecha": "2026-10-22",
+    "lugar": "Faridkot y subdivisiones de Punjab, India (oficina del Collector Distrital)",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "Sanjhi Talmel Committee",
+      "Punjab Employees and Pensioners Joint Front",
+      "Joint Employees Platform Punjab"
+    ],
+    "motivo": "Manifestación de protesta en Faridkot y a nivel de subdivisión en Punjab: quema de efigies del Primer Ministro Bhagwant Mann para presionar por el pago de los atrasos de Dearness Allowance, el Old Pension Scheme y la regularización de los trabajadores contratistas. Los portavoces del frente de empleados y pensioneros advierten con intensificar la agitación si el gobierno no abre el diálogo.",
+    "status": "programado",
+    "lat": 30.601451,
+    "lng": 74.795018,
+    "fuentes": [
+      {
+        "nombre": "Amar Ujala",
+        "url": "https://www.amarujala.com/video/punjab/chandigarh-punjab/video-protest-rally-by-employees-and-pensioners-in-faridkot-effigies-of-the-chief-minister-to-be-burnt-on-october-22-2026-10-21"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 15,
+    "seccion": "internacionales",
+    "pais": "India",
+    "bandera": "🇮🇳",
+    "hora": "",
+    "fecha": "2026-10-22",
+    "lugar": "Haryana, India (empresas de distribución eléctrica; Gurugram y Nuh)",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "Morcha conjunta de trabajadores de la HBVNL",
+      "Engineers Association"
+    ],
+    "motivo": "Huelga de tres días, del 22 al 24 de octubre, en todo Haryana de los trabajadores de las empresas de distribución eléctrica, en forma de dharna permanente, contra la licencia de 25 años en paralelo concedida a la privada Eleven Power para distribuir electricidad en Gurugram y Nuh. Participan cerca de 40.000 empleados de DHBVL, contratistas y subcontratistas; el 21 de octubre quemaron copias de la orden.",
+    "status": "programado",
+    "lat": 29.3956,
+    "lng": 76.9966,
+    "fuentes": [
+      {
+        "nombre": "AajTak",
+        "url": "https://www.aajtak.in/india/haryana/story/haryana-power-employees-announce-3-day-statewide-strike-from-october-22-over-private-distribution-licence-in-gurugram-and-nuh-blackout-fears-loom-lcly-strc-2676017-2026-10-21"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 16,
+    "seccion": "internacionales",
+    "pais": "Bangladés",
+    "bandera": "🇧🇩",
+    "hora": "09:00",
+    "fecha": "2026-10-22",
+    "lugar": "Mymensingh (Bangladesh Agricultural University, Kayer Market)",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "Estudiantes de la Bangladesh Agricultural University"
+    ],
+    "motivo": "Protesta estudiantil contra la orden de evacuar los residenciales, fijada para las 9:00 del lunes, tras el ataque de forasteros contra estudiantes y docentes del 16 de octubre y el cierre indefinido de la universidad: marcha por grupos desde distintos halls hasta el Kayer Market. Exigen justicia por el ataque (diez heridos, incluido un periodista), la dimisión del proctor, una disculpa pública del vicerrector y garantías de seguridad; si la administración no atiende sus cuatro reclamos en doce horas, anuncian acciones más duras.",
+    "status": "programado",
+    "lat": 24.723167,
+    "lng": 90.43032,
+    "fuentes": [
+      {
+        "nombre": "Swadesh Bani",
+        "url": "https://www.swadesh-bani.com/national-news/2147"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 17,
+    "seccion": "internacionales",
+    "pais": "México",
+    "bandera": "🇲🇽",
+    "hora": "",
+    "fecha": "2026-10-22",
+    "lugar": "Ciudad de México (concentraciones y recorridos en Av. Cuauhtémoc, Paseo de la Reforma, Viaducto Río de la Piedad, Calzada de Tlalpan y Eje 3 Oriente)",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "Trabajadores disidentes del IMSS",
+      "Coordinadora Nacional de Trabajadores de la Educación (CNTE)"
+    ],
+    "motivo": "Movilización nacional de trabajadores activos y jubilados del IMSS: rechazan el aumento salarial del 8 por ciento y exigen un incremento directo al salario tabular del 10 por ciento, el fin de la gestión de Rafael Olivos como secretario general del SNTSS y la apertura de una mesa de diálogo con sus representantes. Las concentraciones se hacen en varios puntos de la capital, con afectaciones viales en Reforma, Viaducto Río de la Piedad, Calzada de Tlalpan y Eje 3 Oriente. Una huelga nacional queda descartada por ahora.",
+    "status": "programado",
+    "lat": 19.432647,
+    "lng": -99.133199,
+    "fuentes": [
+      {
+        "nombre": "Infobae",
+        "url": "https://www.infobae.com/mexico/2026/10/21/trabajadores-del-imss-anuncian-marcha-nacional-para-el-22-de-octubre-tras-rechazar-el-8-de-aumento-al-salario-anunciado-por-zoe-robledo/"
+      },
+      {
+        "nombre": "RÉCORD",
+        "url": "https://www.record.com.mx/historia/imss-trabajadores-rechazan-aumento-del-8por-ciento-y-anuncian-marcha-nacional-2026102200071028670"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 18,
+    "seccion": "internacionales",
+    "pais": "México",
+    "bandera": "🇲🇽",
+    "hora": "11:00",
+    "fecha": "2026-10-22",
+    "lugar": "Puebla, México (planta de Volkswagen, San Andrés Cholula)",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "Sindicato Independiente de Trabajadores de la Industria Automotriz (SITIA)"
+    ],
+    "motivo": "El aviso de huelga del sindicato de la planta de Volkswagen de Puebla expira a las 11:00 del 22 de octubre: los trabajadores rechazaron el acuerdo salarial de dos años (13,16 por ciento en total) el 15 de octubre por 3.135 votos contra 2.452 a favor, con una participación del 90,3 por ciento. La producción continúa hasta esa hora mientras las partes buscan una extensión, y el sindicato repartió una rota de vigilancia en tres turnos para las puertas de la planta.",
+    "status": "programado",
+    "lat": 19.0414,
+    "lng": -98.2063,
+    "fuentes": [
+      {
+        "nombre": "The Rio Times",
+        "url": "https://www.riotimesonline.com/volkswagen-puebla-strike-deadline-october-22-2026/"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 19,
+    "seccion": "internacionales",
+    "pais": "Países Bajos",
+    "bandera": "🇳🇱",
+    "hora": "",
+    "fecha": "2026-10-22",
+    "lugar": "Países Bajos (servicios regionales de Arriva, EBS, QBbuzz y Keolis en distintas provincias)",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "FNV Transport",
+      "Federatie Nederlandse Vakbeweging (FNV)"
+    ],
+    "motivo": "Huelga regional del transporte público: 13.500 empleados de los empleadores públicos de transporte (VWOV) paralizan los servicios de Arriva, EBS, QBbuzz y Keolis por un aumento salarial, mejores condiciones para los trabajadores mayores, control sobre los turnos y compensaciones por horarios desfavorables. Ámsterdam, Róterdam y La Haya mantienen el servicio, y la FNV amenaza con huelgas semanales hasta Navidad si no hay acuerdo.",
+    "status": "programado",
+    "lat": 52.243498,
+    "lng": 5.634323,
+    "fuentes": [
+      {
+        "nombre": "DutchReview",
+        "url": "https://dutchreview.com/news/regional-transport-strike-october-22-2026/"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 20,
+    "seccion": "internacionales",
+    "pais": "Serbia",
+    "bandera": "🇷🇸",
+    "hora": "18:00",
+    "fecha": "2026-10-22",
+    "lugar": "Belgrado, Serbia (Trg Slavija)",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "Studentska lista – Studenti pobeđuju",
+      "Studenti u blokadi (estudiantes en bloqueo)"
+    ],
+    "motivo": "Mitin final de la lista electoral estudiantil «Studentska lista – Studenti pobjeđuju», con el nombre «Pobeda zove», en la plaza Slavija, en pleno silencio preelectoral y tres días antes de las elecciones legislativas extraordinarias del 25 de octubre. Llegan a pie en columnas desde Zaječar, Valjevo, Šabac, Gornji Milanovac y Novi Sad, que se juntaron el 21 en la plaza de los Estudiantes.",
+    "status": "programado",
+    "lat": 44.802289,
+    "lng": 20.466593,
+    "fuentes": [
+      {
+        "nombre": "AP",
+        "url": "https://apnews.com/article/serbia-election-vucic-students-march-0dae74efd432276818b159f68f3dcd1d"
+      },
+      {
+        "nombre": "Srpske Novine (N1)",
+        "url": "https://srpske.rs/vesti/politika/2026/10/19/studentska-lista-skup-na-slaviji-22-oktobra-u-18-casova-kolona"
+      },
+      {
+        "nombre": "Nova.rs",
+        "url": "https://nova.rs/vesti/politika/pobeda-3ove-objavljeni-detalji-doceka-studenata-i-gradjana-koji-pesace-do-beograda/"
+      },
+      {
+        "nombre": "Danas",
+        "url": "https://www.danas.rs/vesti/politika/zavrsni-miting-studentske-liste-cetvrtak-slavija/"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 21,
+    "seccion": "internacionales",
+    "pais": "Brasil",
+    "bandera": "🇧🇷",
+    "hora": "18:00",
+    "fecha": "2026-10-22",
+    "lugar": "Osasco, São Paulo (Calçadão de Osasco, esquina de Rua Antônio Agu con Rua Natanael Tito Salmon)",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "PT São Paulo",
+      "Apoiadores de la reelección de Lula"
+    ],
+    "motivo": "Acto político por la reelección de Lula en el Calçadão de Osasco, a tres días del segundo turno del 25 de octubre, con la presencia anunciada de Fernando Haddad (PT), Simone Tebet (PSB), Marina Silva (Rede), Emídio de Souza (PT) y Erika Hilton (PSOL).",
+    "status": "programado",
+    "lat": -23.5327,
+    "lng": -46.79,
+    "fuentes": [
+      {
+        "nombre": "Jornal Expresso Regional",
+        "url": "https://expressoregional.com/expresso-32c100b751865a63a8ecaaa0/"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 22,
+    "seccion": "internacionales",
+    "pais": "Brasil",
+    "bandera": "🇧🇷",
+    "hora": "12:00",
+    "fecha": "2026-10-22",
+    "lugar": "Brasilia, Distrito Federal (Esplanada dos Ministérios)",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "Esquerda nas Ruas",
+      "Apoiadores de la reelección de Lula"
+    ],
+    "motivo": "Bandeiraço en la Esplanada de los Ministerios por la reelección de Lula, uno de los 68 actos previstos en todo el Brasil el 22 de octubre, seguido de caminata por el Bloque G en la última semana previa al segundo turno.",
+    "status": "programado",
+    "lat": -15.798644,
+    "lng": -47.864118,
+    "fuentes": [
+      {
+        "nombre": "Esquerda nas Ruas (calendario del 22/10)",
+        "url": "https://esquerda-nas-ruas.com.br/calendario/2026-10-22/"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 23,
+    "seccion": "internacionales",
+    "pais": "Brasil",
+    "bandera": "🇧🇷",
+    "hora": "16:00",
+    "fecha": "2026-10-22",
+    "lugar": "Salvador, Bahia (Praça da Piedade)",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "Esquerda nas Ruas",
+      "Apoiadores de la reelección de Lula"
+    ],
+    "motivo": "Caminhada de apoyo a la reelección de Lula desde la Praça da Piedade en Salvador, dentro de las 68 actos de campaña previstos para el 22 de octubre en los distintos estados del país.",
+    "status": "programado",
+    "lat": -12.983137,
+    "lng": -38.515043,
+    "fuentes": [
+      {
+        "nombre": "Esquerda nas Ruas (calendario del 22/10)",
+        "url": "https://esquerda-nas-ruas.com.br/calendario/2026-10-22/"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 24,
+    "seccion": "internacionales",
+    "pais": "Brasil",
+    "bandera": "🇧🇷",
+    "hora": "08:30",
+    "fecha": "2026-10-22",
+    "lugar": "Belém, Pará (Feira da 25 de Setembro)",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "Esquerda nas Ruas",
+      "Apoiadores de la reelección de Lula"
+    ],
+    "motivo": "Caminhada de apoyo a la reelección de Lula desde la Feira da 25 de Setembro en Belém, arranque de la movilización en Pará dentro de las 68 actos del 22 de octubre.",
+    "status": "programado",
+    "lat": -1.4558,
+    "lng": -48.5036,
+    "fuentes": [
+      {
+        "nombre": "Esquerda nas Ruas (calendario del 22/10)",
+        "url": "https://esquerda-nas-ruas.com.br/calendario/2026-10-22/"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 25,
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "16:00",
+    "fecha": "2026-10-22",
+    "lugar": "Inglewood, California (Vons, 500 E. Manchester Boulevard)",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "Families Demanding Justice",
+      "October 22 Coalition"
+    ],
+    "motivo": "Punto de encuentro en el supermercado Vons para la acción del Día Nacional de Protesta. Convocatoria del Día Nacional de Protesta del 22 de octubre contra la brutalidad policial, la criminalización de la protesta y las redadas del ICE, con exigencia de rendición de cuentas, el cierre de ICE y la propuesta de «No More Stolen Lives».",
+    "status": "programado",
+    "lat": 33.960254,
+    "lng": -118.349169,
+    "fuentes": [
+      {
+        "nombre": "October 22 Coalition - Día Nacional de Protesta",
+        "url": "https://october22.org/index.html"
+      },
+      {
+        "nombre": "Families Demanding Justice",
+        "url": "https://familiesdemandingjustice.org"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 26,
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "16:30",
+    "fecha": "2026-10-22",
+    "lugar": "Los Angeles, California (LA CAN, 838 E. 6th Street)",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "Stop LAPD Spying Coalition",
+      "Dare to Struggle SoCal",
+      "LA CAN",
+      "BLM Los Angeles",
+      "Families Demanding Justice",
+      "United for Stolen Lives LA"
+    ],
+    "motivo": "Marcha y mitin en LA CAN, con la exigencia de disolver la unidad de vigilancia del LAPD y el fin de las muertes por la policía. Convocatoria del Día Nacional de Protesta del 22 de octubre contra la brutalidad policial, la criminalización de la protesta y las redadas del ICE, con exigencia de rendición de cuentas, el cierre de ICE y la propuesta de «No More Stolen Lives».",
+    "status": "programado",
+    "lat": 34.040121,
+    "lng": -118.241967,
+    "fuentes": [
+      {
+        "nombre": "October 22 Coalition - Día Nacional de Protesta",
+        "url": "https://october22.org/index.html"
+      },
+      {
+        "nombre": "Dare to Struggle SoCal",
+        "url": "https://linktr.ee/daretostrugglesocal"
+      },
+      {
+        "nombre": "Families Demanding Justice",
+        "url": "https://familiesdemandingjustice.org"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 27,
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "18:00",
+    "fecha": "2026-10-22",
+    "lugar": "Orange County, California (Fullerton Police Department, 237 W. Commonwealth Avenue)",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "Families Demanding Justice",
+      "October 22 Coalition"
+    ],
+    "motivo": "Concentración frente a la comisaría de Fullerton para exigir rendición de cuentas por la violencia policial en el condado de Orange. Convocatoria del Día Nacional de Protesta del 22 de octubre contra la brutalidad policial, la criminalización de la protesta y las redadas del ICE, con exigencia de rendición de cuentas, el cierre de ICE y la propuesta de «No More Stolen Lives».",
+    "status": "programado",
+    "lat": 33.870413,
+    "lng": -117.927357,
+    "fuentes": [
+      {
+        "nombre": "October 22 Coalition - Día Nacional de Protesta",
+        "url": "https://october22.org/index.html"
+      },
+      {
+        "nombre": "Families Demanding Justice",
+        "url": "https://familiesdemandingjustice.org"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 28,
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "10:00",
+    "fecha": "2026-10-22",
+    "lugar": "Riverside, California (Cheech Marin Center for Chicago Art & Culture, 3581 Mission Inn Avenue)",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "Families Demanding Justice",
+      "October 22 Coalition"
+    ],
+    "motivo": "Mitin en el Cheech Marin Center como acto central del Día Nacional de Protesta en Riverside. Convocatoria del Día Nacional de Protesta del 22 de octubre contra la brutalidad policial, la criminalización de la protesta y las redadas del ICE, con exigencia de rendición de cuentas, el cierre de ICE y la propuesta de «No More Stolen Lives».",
+    "status": "programado",
+    "lat": 33.982759,
+    "lng": -117.371588,
+    "fuentes": [
+      {
+        "nombre": "October 22 Coalition - Día Nacional de Protesta",
+        "url": "https://october22.org/index.html"
+      },
+      {
+        "nombre": "Families Demanding Justice",
+        "url": "https://familiesdemandingjustice.org"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 29,
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "10:30",
+    "fecha": "2026-10-22",
+    "lugar": "San Diego, California (Federal Building, 880 Front Street)",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "Saving Lives In Custody California",
+      "October 22 Coalition"
+    ],
+    "motivo": "Mitin y rueda de prensa en el Federal Building sobre la violencia policial y la masa incarceration. Convocatoria del Día Nacional de Protesta del 22 de octubre contra la brutalidad policial, la criminalización de la protesta y las redadas del ICE, con exigencia de rendición de cuentas, el cierre de ICE y la propuesta de «No More Stolen Lives».",
+    "status": "programado",
+    "lat": 32.714369,
+    "lng": -117.164797,
+    "fuentes": [
+      {
+        "nombre": "October 22 Coalition - Día Nacional de Protesta",
+        "url": "https://october22.org/index.html"
+      },
+      {
+        "nombre": "Saving Lives In Custody California",
+        "url": "https://savinglivesincustodyca.org"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 30,
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "11:30",
+    "fecha": "2026-10-22",
+    "lugar": "San Diego, California (Edward Schwartz Federal Courthouse, 880 Front Street y 221 W. Broadway)",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "Racial Justice Coalition of San Diego",
+      "United Against Police Terror - San Diego"
+    ],
+    "motivo": "Vigilia ante elTribunal Federal Edward Schwartz en memoria de las personas muertas por la policía. Convocatoria del Día Nacional de Protesta del 22 de octubre contra la brutalidad policial, la criminalización de la protesta y las redadas del ICE, con exigencia de rendición de cuentas, el cierre de ICE y la propuesta de «No More Stolen Lives».",
+    "status": "programado",
+    "lat": 32.714369,
+    "lng": -117.164797,
+    "fuentes": [
+      {
+        "nombre": "October 22 Coalition - Día Nacional de Protesta",
+        "url": "https://october22.org/index.html"
+      },
+      {
+        "nombre": "Racial Justice Coalition of San Diego",
+        "url": "https://www.rjcsd.org/"
+      },
+      {
+        "nombre": "United Against Police Terror - San Diego",
+        "url": "https://uaptsd.org/"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 31,
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "16:00",
+    "fecha": "2026-10-22",
+    "lugar": "Santa Rosa, California (Andy's Unity Park, 3399 Moorland Avenue)",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "Justice for Andy Lopez",
+      "Police Brutality Coalition Sonoma County",
+      "North Bay Oppressed People's Union"
+    ],
+    "motivo": "Acto de.price en memoria de Andy Lopez en el UNITY Park, en el aniversario de su muerte a manos de la policía. Convocatoria del Día Nacional de Protesta del 22 de octubre contra la brutalidad policial, la criminalización de la protesta y las redadas del ICE, con exigencia de rendición de cuentas, el cierre de ICE y la propuesta de «No More Stolen Lives».",
+    "status": "programado",
+    "lat": 38.39491,
+    "lng": -122.719132,
+    "fuentes": [
+      {
+        "nombre": "October 22 Coalition - Día Nacional de Protesta",
+        "url": "https://october22.org/index.html"
+      },
+      {
+        "nombre": "North Bay Oppressed People's Union",
+        "url": "https://www.northbayop.org/"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 32,
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "13:00",
+    "fecha": "2026-10-22",
+    "lugar": "Stockton, California (DeCarli Plaza, 105 N. El Dorado Street)",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "Families Demanding Justice",
+      "October 22 Coalition"
+    ],
+    "motivo": "Punto de encuentro en DeCarli Plaza para la acción del 22 de octubre en Stockton. Convocatoria del Día Nacional de Protesta del 22 de octubre contra la brutalidad policial, la criminalización de la protesta y las redadas del ICE, con exigencia de rendición de cuentas, el cierre de ICE y la propuesta de «No More Stolen Lives».",
+    "status": "programado",
+    "lat": 37.954342,
+    "lng": -121.290346,
+    "fuentes": [
+      {
+        "nombre": "October 22 Coalition - Día Nacional de Protesta",
+        "url": "https://october22.org/index.html"
+      },
+      {
+        "nombre": "Families Demanding Justice",
+        "url": "https://familiesdemandingjustice.org"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 33,
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "15:30",
+    "fecha": "2026-10-22",
+    "lugar": "Hartford, Connecticut (Hartford City Hall, 550 Main Street)",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "Dare to Struggle CT",
+      "October 22 Coalition Hartford"
+    ],
+    "motivo": "Concentración ante el ayuntamiento de Hartford por la justice y el fin de las muertes por la policía. Convocatoria del Día Nacional de Protesta del 22 de octubre contra la brutalidad policial, la criminalización de la protesta y las redadas del ICE, con exigencia de rendición de cuentas, el cierre de ICE y la propuesta de «No More Stolen Lives».",
+    "status": "programado",
+    "lat": 41.762554,
+    "lng": -72.673461,
+    "fuentes": [
+      {
+        "nombre": "October 22 Coalition - Día Nacional de Protesta",
+        "url": "https://october22.org/index.html"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 34,
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "17:45",
+    "fecha": "2026-10-22",
+    "lugar": "Atlanta, Georgia (Georgia State University Green Space, Atlanta)",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "October 22 Coalition Atlanta"
+    ],
+    "motivo": "Encuentro en el green space de la Georgia State University para el Peace Walk de las 18:00. Convocatoria del Día Nacional de Protesta del 22 de octubre contra la brutalidad policial, la criminalización de la protesta y las redadas del ICE, con exigencia de rendición de cuentas, el cierre de ICE y la propuesta de «No More Stolen Lives».",
+    "status": "programado",
+    "lat": 33.749,
+    "lng": -84.388,
+    "fuentes": [
+      {
+        "nombre": "October 22 Coalition - Día Nacional de Protesta",
+        "url": "https://october22.org/index.html"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 35,
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "17:00",
+    "fecha": "2026-10-22",
+    "lugar": "Newnan, Georgia (Newnan Police Department, 1 Joseph Hannah Boulevard)",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "Beyond the Streets Social Justice Task Force",
+      "October 22 Coalition"
+    ],
+    "motivo": "Concentración frente a la comisaría de Newnan para exigir rendición de cuentas por la violencia policial. Convocatoria del Día Nacional de Protesta del 22 de octubre contra la brutalidad policial, la criminalización de la protesta y las redadas del ICE, con exigencia de rendición de cuentas, el cierre de ICE y la propuesta de «No More Stolen Lives».",
+    "status": "programado",
+    "lat": 33.380351,
+    "lng": -84.796792,
+    "fuentes": [
+      {
+        "nombre": "October 22 Coalition - Día Nacional de Protesta",
+        "url": "https://october22.org/index.html"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 36,
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "17:30",
+    "fecha": "2026-10-22",
+    "lugar": "Chicago, Illinois (frente a White Sox Stadium, W. 35th Street y S. Wentworth Avenue)",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "Blocks United Revolutionary Network",
+      "Families Demanding Justice",
+      "October 22 Coalition Chicago"
+    ],
+    "motivo": "Concentración en la entrada del estadio de los White Sox para reclamar el fin de la violencia policial en Chicago. Convocatoria del Día Nacional de Protesta del 22 de octubre contra la brutalidad policial, la criminalización de la protesta y las redadas del ICE, con exigencia de rendición de cuentas, el cierre de ICE y la propuesta de «No More Stolen Lives».",
+    "status": "programado",
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "fuentes": [
+      {
+        "nombre": "October 22 Coalition - Día Nacional de Protesta",
+        "url": "https://october22.org/index.html"
+      },
+      {
+        "nombre": "Blocks United Revolutionary Network",
+        "url": "https://blocksunitedchicago.org"
+      },
+      {
+        "nombre": "Families Demanding Justice",
+        "url": "https://familiesdemandingjustice.org"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 37,
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "14:00",
+    "fecha": "2026-10-22",
+    "lugar": "DeKalb, Illinois (NIU Parking Garage, 199 Carroll Avenue; marcha hacia la policía de DeKalb a las 14:15)",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "October 22 Coalition DeKalb/NIU",
+      "Families Demanding Justice"
+    ],
+    "motivo": "Punto de encuentro en el parking de la Northern Illinois University y marcha posterior hasta la comisaría de DeKalb. Convocatoria del Día Nacional de Protesta del 22 de octubre contra la brutalidad policial, la criminalización de la protesta y las redadas del ICE, con exigencia de rendición de cuentas, el cierre de ICE y la propuesta de «No More Stolen Lives».",
+    "status": "programado",
+    "lat": 41.931774,
+    "lng": -88.767301,
+    "fuentes": [
+      {
+        "nombre": "October 22 Coalition - Día Nacional de Protesta",
+        "url": "https://october22.org/index.html"
+      },
+      {
+        "nombre": "Families Demanding Justice",
+        "url": "https://familiesdemandingjustice.org"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 38,
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "16:00",
+    "fecha": "2026-10-22",
+    "lugar": "Gary, Indiana (5th y Broadway)",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "BLM Gary",
+      "October 22 Coalition"
+    ],
+    "motivo": "Concentración en la intersección de 5th y Broadway dentro de la acción nacional del 22 de octubre. Convocatoria del Día Nacional de Protesta del 22 de octubre contra la brutalidad policial, la criminalización de la protesta y las redadas del ICE, con exigencia de rendición de cuentas, el cierre de ICE y la propuesta de «No More Stolen Lives».",
+    "status": "programado",
+    "lat": 41.5934,
+    "lng": -87.3464,
+    "fuentes": [
+      {
+        "nombre": "October 22 Coalition - Día Nacional de Protesta",
+        "url": "https://october22.org/index.html"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 39,
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "17:00",
+    "fecha": "2026-10-22",
+    "lugar": "Gary, Indiana (Gary Metro Station, 200 West 4th Avenue)",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "People's Defense Committee NWI",
+      "October 22 Coalition"
+    ],
+    "motivo": "Segundo punto de encuentro de la acción de Gary, en la estación de metro. Convocatoria del Día Nacional de Protesta del 22 de octubre contra la brutalidad policial, la criminalización de la protesta y las redadas del ICE, con exigencia de rendición de cuentas, el cierre de ICE y la propuesta de «No More Stolen Lives».",
+    "status": "programado",
+    "lat": 41.604366,
+    "lng": -87.338902,
+    "fuentes": [
+      {
+        "nombre": "October 22 Coalition - Día Nacional de Protesta",
+        "url": "https://october22.org/index.html"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 40,
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "14:00",
+    "fecha": "2026-10-22",
+    "lugar": "Wichita, Kansas (esquina de 21st y Hillside, frente a la subcomisaría y la Wichita State University)",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "Justice for DeAundre Saunders",
+      "Families Demanding Justice"
+    ],
+    "motivo": "Concentración frente a la subcomisaría y la universidad en memoria de DeAundre Saunders, hydroxy exigiendo el fin de la violencia policial. Convocatoria del Día Nacional de Protesta del 22 de octubre contra la brutalidad policial, la criminalización de la protesta y las redadas del ICE, con exigencia de rendición de cuentas, el cierre de ICE y la propuesta de «No More Stolen Lives».",
+    "status": "programado",
+    "lat": 37.6872,
+    "lng": -97.3301,
+    "fuentes": [
+      {
+        "nombre": "October 22 Coalition - Día Nacional de Protesta",
+        "url": "https://october22.org/index.html"
+      },
+      {
+        "nombre": "Justice for DeAundre Saunders",
+        "url": "https://theonlydayh.my.canva.site/justicefordeaundre"
+      },
+      {
+        "nombre": "Families Demanding Justice",
+        "url": "https://familiesdemandingjustice.org"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 41,
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "17:00",
+    "fecha": "2026-10-22",
+    "lugar": "Baton Rouge, Louisiana (8220 Goodwood Boulevard)",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "East Baton Rouge Parish Prison Reform Coalition",
+      "October 22 Coalition"
+    ],
+    "motivo": "Acto «We See You and We Stand with You» con las organizaciones de reforma penal de Baton Rouge. Convocatoria del Día Nacional de Protesta del 22 de octubre contra la brutalidad policial, la criminalización de la protesta y las redadas del ICE, con exigencia de rendición de cuentas, el cierre de ICE y la propuesta de «No More Stolen Lives».",
+    "status": "programado",
+    "lat": 30.442315,
+    "lng": -91.102372,
+    "fuentes": [
+      {
+        "nombre": "October 22 Coalition - Día Nacional de Protesta",
+        "url": "https://october22.org/index.html"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 42,
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "11:00",
+    "fecha": "2026-10-22",
+    "lugar": "New Orleans, Louisiana (Hale Boggs Federal Building, 500 Poydras Street)",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "New Orleans Alliance Against Racist and Political Repression",
+      "Families Overcoming Injustice"
+    ],
+    "motivo": "Punto de encuentro para la marcha que sale del Federal Building de Hale Boggs. Convocatoria del Día Nacional de Protesta del 22 de octubre contra la brutalidad policial, la criminalización de la protesta y las redadas del ICE, con exigencia de rendición de cuentas, el cierre de ICE y la propuesta de «No More Stolen Lives».",
+    "status": "programado",
+    "lat": 29.948548,
+    "lng": -90.069102,
+    "fuentes": [
+      {
+        "nombre": "October 22 Coalition - Día Nacional de Protesta",
+        "url": "https://october22.org/index.html"
+      },
+      {
+        "nombre": "New Orleans Alliance Against Racist and Political Repression",
+        "url": "https://www.noalliance.org"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 43,
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "15:30",
+    "fecha": "2026-10-22",
+    "lugar": "Pittsfield, Massachusetts (Park Square, 1 Bank Row)",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "Berkshire County Against Police Brutality",
+      "October 22 Coalition"
+    ],
+    "motivo": "Concentración en Park Square dentro de la jornada nacional del 22 de octubre. Convocatoria del Día Nacional de Protesta del 22 de octubre contra la brutalidad policial, la criminalización de la protesta y las redadas del ICE, con exigencia de rendición de cuentas, el cierre de ICE y la propuesta de «No More Stolen Lives».",
+    "status": "programado",
+    "lat": 42.448274,
+    "lng": -73.253277,
+    "fuentes": [
+      {
+        "nombre": "October 22 Coalition - Día Nacional de Protesta",
+        "url": "https://october22.org/index.html"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 44,
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "18:00",
+    "fecha": "2026-10-22",
+    "lugar": "Lansing, Michigan (GDC Office, 1607 E. Kalamazoo Street)",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "General Defense Committee",
+      "Families Demanding Justice"
+    ],
+    "motivo": "Concentración ante la oficina del General Defense Committee en Lansing. Convocatoria del Día Nacional de Protesta del 22 de octubre contra la brutalidad policial, la criminalización de la protesta y las redadas del ICE, con exigencia de rendición de cuentas, el cierre de ICE y la propuesta de «No More Stolen Lives».",
+    "status": "programado",
+    "lat": 42.730091,
+    "lng": -84.527064,
+    "fuentes": [
+      {
+        "nombre": "October 22 Coalition - Día Nacional de Protesta",
+        "url": "https://october22.org/index.html"
+      },
+      {
+        "nombre": "General Defense Committee",
+        "url": "https://generaldefensecommittee.org"
+      },
+      {
+        "nombre": "Families Demanding Justice",
+        "url": "https://familiesdemandingjustice.org"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 45,
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "18:00",
+    "fecha": "2026-10-22",
+    "lugar": "Minneapolis, Minnesota (memorial de Alex Pretti, 2614 Nicollet Avenue; marcha al memorial de Renee Goode y al memorial de George Floyd)",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "October 22 Coalition Twin Cities"
+    ],
+    "motivo": "Marcha desde el memorial de Alex Pretti hasta el memorial de Renee Goode y el de George Floyd, tres puntos de la memoria de las muertes por la policía. Convocatoria del Día Nacional de Protesta del 22 de octubre contra la brutalidad policial, la criminalización de la protesta y las redadas del ICE, con exigencia de rendición de cuentas, el cierre de ICE y la propuesta de «No More Stolen Lives».",
+    "status": "programado",
+    "lat": 44.955003,
+    "lng": -93.278072,
+    "fuentes": [
+      {
+        "nombre": "October 22 Coalition - Día Nacional de Protesta",
+        "url": "https://october22.org/index.html"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 46,
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "17:00",
+    "fecha": "2026-10-22",
+    "lugar": "St. Louis, Missouri (St. Louis City Hall, 1200 Market Street)",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "The Michael Brown Sr. Chosen For Change Organization",
+      "Coalition Against Police Crimes and Repression"
+    ],
+    "motivo": "Concentración ante el ayuntamiento de St. Louis en el aniversario de la muerte de Michael Brown. Convocatoria del Día Nacional de Protesta del 22 de octubre contra la brutalidad policial, la criminalización de la protesta y las redadas del ICE, con exigencia de rendición de cuentas, el cierre de ICE y la propuesta de «No More Stolen Lives».",
+    "status": "programado",
+    "lat": 38.626832,
+    "lng": -90.199403,
+    "fuentes": [
+      {
+        "nombre": "October 22 Coalition - Día Nacional de Protesta",
+        "url": "https://october22.org/index.html"
+      },
+      {
+        "nombre": "The Michael Brown Sr. Chosen For Change Organization",
+        "url": "https://www.chosenforchange.org"
+      },
+      {
+        "nombre": "Coalition Against Police Crimes and Repression",
+        "url": "https://www.capcrstl.com"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 47,
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "19:00",
+    "fecha": "2026-10-22",
+    "lugar": "Las Vegas, Nevada (MLK Statue, 1344 W. Carey Avenue)",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "Families Demanding Justice",
+      "Las Vegas Police Accountability Coalition"
+    ],
+    "motivo": "Concentración junto al estatua de Martin Luther King en Las Vegas. Convocatoria del Día Nacional de Protesta del 22 de octubre contra la brutalidad policial, la criminalización de la protesta y las redadas del ICE, con exigencia de rendición de cuentas, el cierre de ICE y la propuesta de «No More Stolen Lives».",
+    "status": "programado",
+    "lat": 36.203099,
+    "lng": -115.154759,
+    "fuentes": [
+      {
+        "nombre": "October 22 Coalition - Día Nacional de Protesta",
+        "url": "https://october22.org/index.html"
+      },
+      {
+        "nombre": "Families Demanding Justice",
+        "url": "https://familiesdemandingjustice.org"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 48,
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "17:00",
+    "fecha": "2026-10-22",
+    "lugar": "Newark, New Jersey (51 Rector Street; marcha posterior al Federal Building)",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "People's Organization for Progress",
+      "October 22 Coalition"
+    ],
+    "motivo": "Punto de encuentro en 51 Rector Street, frente al FOP Lodge #12, y marcha posterior al edificio federal. Convocatoria del Día Nacional de Protesta del 22 de octubre contra la brutalidad policial, la criminalización de la protesta y las redadas del ICE, con exigencia de rendición de cuentas, el cierre de ICE y la propuesta de «No More Stolen Lives».",
+    "status": "programado",
+    "lat": 40.741188,
+    "lng": -74.167524,
+    "fuentes": [
+      {
+        "nombre": "October 22 Coalition - Día Nacional de Protesta",
+        "url": "https://october22.org/index.html"
+      },
+      {
+        "nombre": "October 22 Coalition (lista de puntos de encuentro)",
+        "url": "https://october22.org/index.html"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 49,
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "08:33",
+    "fecha": "2026-10-22",
+    "lugar": "Albuquerque, New Mexico (Copper Trailhead)",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "People's Lapel of Albuquerque",
+      "October 22 Coalition Albuquerque"
+    ],
+    "motivo": "Rededicatoria del memorial de James Boyd en el Copper Trailhead, a las 08:33, hora de la muerte del agente de la policía de NM. Convocatoria del Día Nacional de Protesta del 22 de octubre contra la brutalidad policial, la criminalización de la protesta y las redadas del ICE, con exigencia de rendición de cuentas, el cierre de ICE y la propuesta de «No More Stolen Lives».",
+    "status": "programado",
+    "lat": 35.079199,
+    "lng": -106.484681,
+    "fuentes": [
+      {
+        "nombre": "October 22 Coalition - Día Nacional de Protesta",
+        "url": "https://october22.org/index.html"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 50,
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "17:30",
+    "fecha": "2026-10-22",
+    "lugar": "Albuquerque, New Mexico (Robinson Park, 810 Copper Avenue NW)",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "Revolutionary Action New Mexico",
+      "Families Demanding Justice"
+    ],
+    "motivo": "Concentración en Robinson Park dentro de la acción nacional del 22 de octubre. Convocatoria del Día Nacional de Protesta del 22 de octubre contra la brutalidad policial, la criminalización de la protesta y las redadas del ICE, con exigencia de rendición de cuentas, el cierre de ICE y la propuesta de «No More Stolen Lives».",
+    "status": "programado",
+    "lat": 35.086108,
+    "lng": -106.656443,
+    "fuentes": [
+      {
+        "nombre": "October 22 Coalition - Día Nacional de Protesta",
+        "url": "https://october22.org/index.html"
+      },
+      {
+        "nombre": "Families Demanding Justice",
+        "url": "https://familiesdemandingjustice.org"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 51,
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "15:00",
+    "fecha": "2026-10-22",
+    "lugar": "Las Cruces, New Mexico (100 N. Main Street)",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "Revolutionary Action New Mexico",
+      "Families Demanding Justice"
+    ],
+    "motivo": "Punto de encuentro en el centro de Las Cruces para la acción del 22 de octubre. Convocatoria del Día Nacional de Protesta del 22 de octubre contra la brutalidad policial, la criminalización de la protesta y las redadas del ICE, con exigencia de rendición de cuentas, el cierre de ICE y la propuesta de «No More Stolen Lives».",
+    "status": "programado",
+    "lat": 32.310966,
+    "lng": -106.778612,
+    "fuentes": [
+      {
+        "nombre": "October 22 Coalition - Día Nacional de Protesta",
+        "url": "https://october22.org/index.html"
+      },
+      {
+        "nombre": "Families Demanding Justice",
+        "url": "https://familiesdemandingjustice.org"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 52,
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "12:00",
+    "fecha": "2026-10-22",
+    "lugar": "Santa Fe, New Mexico (First Judicial District Courthouse, 225 Montezuma Avenue)",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "Revolutionary Action New Mexico",
+      "Families Demanding Justice"
+    ],
+    "motivo": "Speakout frente al Tribunal del Primer Distrito Judicial por la paz y la justicia. Convocatoria del Día Nacional de Protesta del 22 de octubre contra la brutalidad policial, la criminalización de la protesta y las redadas del ICE, con exigencia de rendición de cuentas, el cierre de ICE y la propuesta de «No More Stolen Lives».",
+    "status": "programado",
+    "lat": 35.685025,
+    "lng": -105.943715,
+    "fuentes": [
+      {
+        "nombre": "October 22 Coalition - Día Nacional de Protesta",
+        "url": "https://october22.org/index.html"
+      },
+      {
+        "nombre": "Families Demanding Justice",
+        "url": "https://familiesdemandingjustice.org"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 53,
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "11:00",
+    "fecha": "2026-10-22",
+    "lugar": "Canton, New York (St. Lawrence County Sheriff's Department y New York State Police Department, 48 Court Street)",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "Northern New York Coalition",
+      "Terron Evans Jr's Justice"
+    ],
+    "motivo": "Concentración frente a la sherif del condado de St. Lawrence y a la policía estatal de Nueva York. Convocatoria del Día Nacional de Protesta del 22 de octubre contra la brutalidad policial, la criminalización de la protesta y las redadas del ICE, con exigencia de rendición de cuentas, el cierre de ICE y la propuesta de «No More Stolen Lives».",
+    "status": "programado",
+    "lat": 44.598898,
+    "lng": -75.168958,
+    "fuentes": [
+      {
+        "nombre": "October 22 Coalition - Día Nacional de Protesta",
+        "url": "https://october22.org/index.html"
+      },
+      {
+        "nombre": "Families Demanding Justice",
+        "url": "https://familiesdemandingjustice.org"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 54,
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "16:00",
+    "fecha": "2026-10-22",
+    "lugar": "Nueva York, Nueva York (Foley Square, Centre Street y Duane Street, Manhattan)",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "October 22 Coalition - New York"
+    ],
+    "motivo": "Mitin y marcha desde Foley Square en el corazón de Manhattan. Convocatoria del Día Nacional de Protesta del 22 de octubre contra la brutalidad policial, la criminalización de la protesta y las redadas del ICE, con exigencia de rendición de cuentas, el cierre de ICE y la propuesta de «No More Stolen Lives».",
+    "status": "programado",
+    "lat": 40.714438,
+    "lng": -74.003079,
+    "fuentes": [
+      {
+        "nombre": "October 22 Coalition - Día Nacional de Protesta",
+        "url": "https://october22.org/index.html"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 55,
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "16:30",
+    "fecha": "2026-10-22",
+    "lugar": "Nueva York, Nueva York (Harlem State Office Building, 125th Street y Adam Clayton Powell Boulevard, Manhattan)",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "Dare to Struggle",
+      "Families Demanding Justice",
+      "P.I.T.",
+      "Spirit of Mandela",
+      "Students Together Against Institutional Racism"
+    ],
+    "motivo": "Mitin en el edificio de oficinas del Estado en Harlem, con organizaciones del movement de Harlem. Convocatoria del Día Nacional de Protesta del 22 de octubre contra la brutalidad policial, la criminalización de la protesta y las redadas del ICE, con exigencia de rendición de cuentas, el cierre de ICE y la propuesta de «No More Stolen Lives».",
+    "status": "programado",
+    "lat": 40.7128,
+    "lng": -74.006,
+    "fuentes": [
+      {
+        "nombre": "October 22 Coalition - Día Nacional de Protesta",
+        "url": "https://october22.org/index.html"
+      },
+      {
+        "nombre": "Dare to Struggle",
+        "url": "https://daretostruggle.org"
+      },
+      {
+        "nombre": "Families Demanding Justice",
+        "url": "https://familiesdemandingjustice.org"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 56,
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "15:00",
+    "fecha": "2026-10-22",
+    "lugar": "Syracuse, New York (Libba Cotten Grove, 1338 S. State Street)",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "Terron Evans Jr's Justice",
+      "Families Demanding Justice",
+      "Dare to Struggle"
+    ],
+    "motivo": "Punto de encuentro para la vigilia y la caravana de coches en memoria de Libba Cotten. Convocatoria del Día Nacional de Protesta del 22 de octubre contra la brutalidad policial, la criminalización de la protesta y las redadas del ICE, con exigencia de rendición de cuentas, el cierre de ICE y la propuesta de «No More Stolen Lives».",
+    "status": "programado",
+    "lat": 43.034961,
+    "lng": -76.14723,
+    "fuentes": [
+      {
+        "nombre": "October 22 Coalition - Día Nacional de Protesta",
+        "url": "https://october22.org/index.html"
+      },
+      {
+        "nombre": "Families Demanding Justice",
+        "url": "https://familiesdemandingjustice.org"
+      },
+      {
+        "nombre": "Dare to Struggle",
+        "url": "https://daretostruggle.org"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 57,
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "11:00",
+    "fecha": "2026-10-22",
+    "lugar": "Columbus, Ohio (The Statehouse, 1 Capitol Square)",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "Families Demanding Justice",
+      "Ohio Families Unite for Political Action and Change",
+      "Ohio Families Unite Against Police Brutality"
+    ],
+    "motivo": "Concentración en la plaza del Capitolio de Ohio. Convocatoria del Día Nacional de Protesta del 22 de octubre contra la brutalidad policial, la criminalización de la protesta y las redadas del ICE, con exigencia de rendición de cuentas, el cierre de ICE y la propuesta de «No More Stolen Lives».",
+    "status": "programado",
+    "lat": 39.9612,
+    "lng": -82.9988,
+    "fuentes": [
+      {
+        "nombre": "October 22 Coalition - Día Nacional de Protesta",
+        "url": "https://october22.org/index.html"
+      },
+      {
+        "nombre": "Families Demanding Justice",
+        "url": "https://familiesdemandingjustice.org"
+      },
+      {
+        "nombre": "Ohio Families Unite for Political Action and Change",
+        "url": "https://www.ofupac.org/"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 58,
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "13:00",
+    "fecha": "2026-10-22",
+    "lugar": "Eugene, Oregon (punto por confirmar)",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "Lane County October 22 Coalition",
+      "Eugene/Springfield Copwatch"
+    ],
+    "motivo": "Vigilia con velas programada por la coalición del 22 de octubre del condado de Lane. Convocatoria del Día Nacional de Protesta del 22 de octubre contra la brutalidad policial, la criminalización de la protesta y las redadas del ICE, con exigencia de rendición de cuentas, el cierre de ICE y la propuesta de «No More Stolen Lives».",
+    "status": "programado",
+    "lat": 44.050505,
+    "lng": -123.095051,
+    "fuentes": [
+      {
+        "nombre": "October 22 Coalition - Día Nacional de Protesta",
+        "url": "https://october22.org/index.html"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 59,
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "11:00",
+    "fecha": "2026-10-22",
+    "lugar": "Portland, Oregon (Elizabeth Caruthers Park, 3508 SW Moody Avenue)",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "Families Demanding Justice",
+      "Stand On Every Corner PDX",
+      "Don't Shoot Portland"
+    ],
+    "motivo": "Punto de encuentro en Elizabeth Caruthers Park para la acción nacional del 22 de octubre. Convocatoria del Día Nacional de Protesta del 22 de octubre contra la brutalidad policial, la criminalización de la protesta y las redadas del ICE, con exigencia de rendición de cuentas, el cierre de ICE y la propuesta de «No More Stolen Lives».",
+    "status": "programado",
+    "lat": 45.497678,
+    "lng": -122.671724,
+    "fuentes": [
+      {
+        "nombre": "October 22 Coalition - Día Nacional de Protesta",
+        "url": "https://october22.org/index.html"
+      },
+      {
+        "nombre": "Families Demanding Justice",
+        "url": "https://familiesdemandingjustice.org"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 60,
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "18:00",
+    "fecha": "2026-10-22",
+    "lugar": "Greenville, South Carolina (Greenville County Courthouse, 305 E. North Street; caminata hasta la cárcel)",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "GVL Grassroots Human Rights Coalition",
+      "Malcolm X Center for Self Determination",
+      "October 22 Upstate SC Coalition"
+    ],
+    "motivo": "Justice Walk desde el juzgado del condado de Greenville hasta la cárcel, por el fin de la incarceration. Convocatoria del Día Nacional de Protesta del 22 de octubre contra la brutalidad policial, la criminalización de la protesta y las redadas del ICE, con exigencia de rendición de cuentas, el cierre de ICE y la propuesta de «No More Stolen Lives».",
+    "status": "programado",
+    "lat": 34.852047,
+    "lng": -82.394845,
+    "fuentes": [
+      {
+        "nombre": "October 22 Coalition - Día Nacional de Protesta",
+        "url": "https://october22.org/index.html"
+      },
+      {
+        "nombre": "Racial Justice Network",
+        "url": "https://www.racialjusticenetwork.org"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 61,
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "15:00",
+    "fecha": "2026-10-22",
+    "lugar": "Austin, Texas (Givens District Park, 3811 E. 12th Street)",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "Atrevete A Luchar (Dare to Struggle Austin)"
+    ],
+    "motivo": "Punto de encuentro en Givens District Park para la acción nacional del 22 de octubre en Austin. Convocatoria del Día Nacional de Protesta del 22 de octubre contra la brutalidad policial, la criminalización de la protesta y las redadas del ICE, con exigencia de rendición de cuentas, el cierre de ICE y la propuesta de «No More Stolen Lives».",
+    "status": "programado",
+    "lat": 30.2768,
+    "lng": -97.690296,
+    "fuentes": [
+      {
+        "nombre": "October 22 Coalition - Día Nacional de Protesta",
+        "url": "https://october22.org/index.html"
+      },
+      {
+        "nombre": "Dare to Struggle",
+        "url": "https://daretostruggle.org"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 62,
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "15:00",
+    "fecha": "2026-10-22",
+    "lugar": "Austin, Texas (UT Tower, University of Texas at Austin)",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "Families Demanding Justice",
+      "Peaceful Streets Project"
+    ],
+    "motivo": "Salida de la UT Austin y encuentro en la UT Tower. Convocatoria del Día Nacional de Protesta del 22 de octubre contra la brutalidad policial, la criminalización de la protesta y las redadas del ICE, con exigencia de rendición de cuentas, el cierre de ICE y la propuesta de «No More Stolen Lives».",
+    "status": "programado",
+    "lat": 30.2672,
+    "lng": -97.7431,
+    "fuentes": [
+      {
+        "nombre": "October 22 Coalition - Día Nacional de Protesta",
+        "url": "https://october22.org/index.html"
+      },
+      {
+        "nombre": "Peaceful Streets Project",
+        "url": "http://peacefulstreets.com"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 63,
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "18:00",
+    "fecha": "2026-10-22",
+    "lugar": "Dallas, Texas (Tarrant County Corrections Center, 100 E. Weatherford Street)",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "Dare to Struggle Dallas",
+      "Mothers Against Police Brutality"
+    ],
+    "motivo": "Concentración ante el centro de corrección de Tarrant County. Convocatoria del Día Nacional de Protesta del 22 de octubre contra la brutalidad policial, la criminalización de la protesta y las redadas del ICE, con exigencia de rendición de cuentas, el cierre de ICE y la propuesta de «No More Stolen Lives».",
+    "status": "programado",
+    "lat": 32.7767,
+    "lng": -96.797,
+    "fuentes": [
+      {
+        "nombre": "October 22 Coalition - Día Nacional de Protesta",
+        "url": "https://october22.org/index.html"
+      },
+      {
+        "nombre": "Mothers Against Police Brutality",
+        "url": "https://www.mothersagainstpolicebrutality.com"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 64,
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "12:00",
+    "fecha": "2026-10-22",
+    "lugar": "Edinburg, Texas (The Quad, University of Texas Rio Grande Valley)",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "Families Demanding Justice",
+      "Half the Sky Texas Chapter",
+      "RGVYDSA"
+    ],
+    "motivo": "Punto de encuentro en The Quad de la UTRGV dentro de la acción nacional. Convocatoria del Día Nacional de Protesta del 22 de octubre contra la brutalidad policial, la criminalización de la protesta y las redadas del ICE, con exigencia de rendición de cuentas, el cierre de ICE y la propuesta de «No More Stolen Lives».",
+    "status": "programado",
+    "lat": 26.3019,
+    "lng": -98.1633,
+    "fuentes": [
+      {
+        "nombre": "October 22 Coalition - Día Nacional de Protesta",
+        "url": "https://october22.org/index.html"
+      },
+      {
+        "nombre": "Families Demanding Justice",
+        "url": "https://familiesdemandingjustice.org"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 65,
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "15:00",
+    "fecha": "2026-10-22",
+    "lugar": "Houston, Texas (Market Square Park, 301 Milam Street)",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "October 22 Coalition - Houston",
+      "Brown Berets de TejAztlan Houston",
+      "Dare to Struggle"
+    ],
+    "motivo": "Punto de encuentro en Market Square Park para la acción nacional en Houston. Convocatoria del Día Nacional de Protesta del 22 de octubre contra la brutalidad policial, la criminalización de la protesta y las redadas del ICE, con exigencia de rendición de cuentas, el cierre de ICE y la propuesta de «No More Stolen Lives».",
+    "status": "programado",
+    "lat": 29.763148,
+    "lng": -95.362475,
+    "fuentes": [
+      {
+        "nombre": "October 22 Coalition - Día Nacional de Protesta",
+        "url": "https://october22.org/index.html"
+      },
+      {
+        "nombre": "Dare to Struggle",
+        "url": "https://daretostruggle.org"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 66,
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "17:00",
+    "fecha": "2026-10-22",
+    "lugar": "McAllen, Texas (Bicentennial Fields, 2001 W. Fern Avenue)",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "Families Demanding Justice",
+      "Half the Sky Texas Chapter",
+      "Dare to Struggle Dallas"
+    ],
+    "motivo": "Punto de encuentro en Bicentennial Fields, en el Valle del Río Bravo. Convocatoria del Día Nacional de Protesta del 22 de octubre contra la brutalidad policial, la criminalización de la protesta y las redadas del ICE, con exigencia de rendición de cuentas, el cierre de ICE y la propuesta de «No More Stolen Lives».",
+    "status": "programado",
+    "lat": 26.232041,
+    "lng": -98.224012,
+    "fuentes": [
+      {
+        "nombre": "October 22 Coalition - Día Nacional de Protesta",
+        "url": "https://october22.org/index.html"
+      },
+      {
+        "nombre": "Families Demanding Justice",
+        "url": "https://familiesdemandingjustice.org"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 67,
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "18:00",
+    "fecha": "2026-10-22",
+    "lugar": "Pflugerville, Texas (Pflugerville Police Station, 1602 E. Pfennig Lane)",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "Atrevete A Luchar (Dare to Struggle Austin)"
+    ],
+    "motivo": "Concentración frente a la comisaría de Pflugerville. Convocatoria del Día Nacional de Protesta del 22 de octubre contra la brutalidad policial, la criminalización de la protesta y las redadas del ICE, con exigencia de rendición de cuentas, el cierre de ICE y la propuesta de «No More Stolen Lives».",
+    "status": "programado",
+    "lat": 30.451277,
+    "lng": -97.605972,
+    "fuentes": [
+      {
+        "nombre": "October 22 Coalition - Día Nacional de Protesta",
+        "url": "https://october22.org/index.html"
+      },
+      {
+        "nombre": "Dare to Struggle",
+        "url": "https://daretostruggle.org"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 68,
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "15:30",
+    "fecha": "2026-10-22",
+    "lugar": "Federal Way, Washington (City Hall / Police Department, 33325 8th Avenue S)",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "Dare to Struggle Seattle",
+      "October 22 Coalition - Seattle",
+      "Families Demanding Justice"
+    ],
+    "motivo": "Concentración en la plaza del ayuntamiento y la comisaría de Federal Way. Convocatoria del Día Nacional de Protesta del 22 de octubre contra la brutalidad policial, la criminalización de la protesta y las redadas del ICE, con exigencia de rendición de cuentas, el cierre de ICE y la propuesta de «No More Stolen Lives».",
+    "status": "programado",
+    "lat": 47.303914,
+    "lng": -122.326481,
+    "fuentes": [
+      {
+        "nombre": "October 22 Coalition - Día Nacional de Protesta",
+        "url": "https://october22.org/index.html"
+      },
+      {
+        "nombre": "Families Demanding Justice",
+        "url": "https://familiesdemandingjustice.org"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 69,
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "16:30",
+    "fecha": "2026-10-22",
+    "lugar": "San Francisco, California (Harry Britt building, Ocean Campus, City College of San Francisco)",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "SEIU Local 1021"
+    ],
+    "motivo": "Mitin del sindicato SEIU Local 1021 en el Ocean Campus del City College of San Francisco en apoyo de las estudiantes del distrito. Convocatoria del Día Nacional de Protesta del 22 de octubre contra la brutalidad policial, la criminalización de la protesta y las redadas del ICE, con exigencia de rendición de cuentas, el cierre de ICE y la propuesta de «No More Stolen Lives».",
+    "status": "programado",
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "fuentes": [
+      {
+        "nombre": "October 22 Coalition - Día Nacional de Protesta",
+        "url": "https://october22.org/index.html"
+      },
+      {
+        "nombre": "SEIU Local 1021",
+        "url": "https://www.seiu1021.org/webform/join-rally-city-college-our-students-deserve-rsvp-today"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 70,
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "15:30",
+    "fecha": "2026-10-22",
+    "lugar": "Santa Cruz, California (La Fonda Bridge, pasarela sobre la Highway 1)",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "Indivisible Santa Cruz County"
+    ],
+    "motivo": "Acción «Banners on the Bridge»: despliegue de pancartas en la pasarela del La Fonda Bridge sobre la Highway 1, en el contexto de la marcha nacional del 22 de octubre. Convocatoria del Día Nacional de Protesta del 22 de octubre contra la brutalidad policial, la criminalización de la protesta y las redadas del ICE, con exigencia de rendición de cuentas, el cierre de ICE y la propuesta de «No More Stolen Lives».",
+    "status": "programado",
+    "lat": 36.9741,
+    "lng": -122.0308,
+    "fuentes": [
+      {
+        "nombre": "October 22 Coalition - Día Nacional de Protesta",
+        "url": "https://october22.org/index.html"
+      },
+      {
+        "nombre": "Indivisible Santa Cruz County",
+        "url": "https://www.indivisiblesantacruzcounty.com/"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 71,
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "13:00",
+    "fecha": "2026-10-22",
+    "lugar": "Little Rock, Arkansas (4501 E. Roosevelt Road)",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "Indivisible Little Rock"
+    ],
+    "motivo": "Protesta diaria frente al centro de detención del ICE en Little Rock, con la exigencia de cierre del centro y de rendición de cuentas. Convocatoria del Día Nacional de Protesta del 22 de octubre contra la brutalidad policial, la criminalización de la protesta y las redadas del ICE, con exigencia de rendición de cuentas, el cierre de ICE y la propuesta de «No More Stolen Lives».",
+    "status": "programado",
+    "lat": 34.721117,
+    "lng": -92.225001,
+    "fuentes": [
+      {
+        "nombre": "October 22 Coalition - Día Nacional de Protesta",
+        "url": "https://october22.org/index.html"
+      },
+      {
+        "nombre": "Indivisible Little Rock",
+        "url": "https://www.indivisiblelrca.org/events/little-rock-ice-detention-facility-daily-protest-175/"
+      }
+    ],
+    "createdAt": "2026-10-22T01:44:49.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 72,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-10-22",
+    "lugar": "Todo el país (23 provincias y Ciudad Autónoma de Buenos Aires)",
+    "tipoAccion": "paro",
+    "organizaciones": [
+      "Confederación General del Trabajo (CGT)"
+    ],
+    "motivo": "Cuarto paro general de 24 horas de la CGT desde la asunción de Javier Milei, en rechazo del proyecto de Reforma Laboral que se debate en la Cámara de Diputados de la Nación (sesión summoned para el jueves 22 desde las 14 h). La medida fue conveneada sin movilización oficial de la central: desde la sede de Azopardo, el secretario del Seguro Jorge Sola sostuvo que \"la Argentina se paralizará de punta a punta\" y que la CGT \"no se opone a una reforma laboral, pero sí a perder derechos\". El paro reduce al mínimo la actividad económica del país y coincide con la tratamiento legislativo de la iniciativa, que ya obtuvo media sanción.",
+    "status": "programado",
+    "lat": -34.6084453,
+    "lng": -58.3721787,
+    "fuentes": [
+      {
+        "nombre": "DeGremiales",
+        "url": "https://www.degremiales.com/La-Confederacion-General-del-Trabajo-concreta-su-cuarto-paro-general-contra-la-gestion-de-Javier-Milei-4432"
+      },
+      {
+        "nombre": "Actualidad Chaco",
+        "url": "https://www.actualidadchaco.com/vernota.asp?id_noticia=196561"
+      },
+      {
+        "nombre": "Infonoroeste",
+        "url": "https://infonoroeste.com.ar/nota/52956/gremios-de-la-cuarta-adhieren-al-paro-nacional-contra-la-reforma-laboral/"
+      }
+    ],
+    "createdAt": "2026-10-22T02:02:11.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 73,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-10-22",
+    "lugar": "Todo el país, con mayor impacto en el Área Metropolitana de Buenos Aires (colectivos, trenes, subtes y taxis)",
+    "tipoAccion": "paro",
+    "organizaciones": [
+      "Confederación General del Trabajo (CGT)",
+      "Gremios del transporte adheridos al paro general"
+    ],
+    "motivo": "Cese de los servicios de pasajeros por la adhesión de los gremios del transporte al paro general de la CGT: en el AMBA el paro afecta colectivos, trenes, subtes y taxis, con incidencia fuerte en la circulación de los trabajadores y en el funcionamiento de empresas y oficinas. La adhesión de los sindicatos del transporte resulta determinante para amplificar el alcance de la medida, que se desarrolla el mismo día en que Diputados trata la Reforma Laboral.",
+    "status": "programado",
+    "lat": -34.6084453,
+    "lng": -58.3721787,
+    "fuentes": [
+      {
+        "nombre": "DeGremiales",
+        "url": "https://www.degremiales.com/La-Confederacion-General-del-Trabajo-concreta-su-cuarto-paro-general-contra-la-gestion-de-Javier-Milei-4432"
+      },
+      {
+        "nombre": "Actualidad Chaco",
+        "url": "https://www.actualidadchaco.com/vernota.asp?id_noticia=196561"
+      }
+    ],
+    "createdAt": "2026-10-22T02:02:11.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 74,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-10-22",
+    "lugar": "Ciudad Autónoma de Buenos Aires (Plaza Congreso, frente al Palacio Legislativo del Congreso de la Nación)",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "UOM (Unión Obrera de la Metalurgia)",
+      "Aceiteros (FOPERA)",
+      "Pilotos (APLA)",
+      "CTA Autónoma",
+      "CTA de los Trabajadores"
+    ],
+    "motivo": "Marcha frente al Palacio Legislativo en rechazo de la Reforma Laboral, en el marco del paro general y del debate en la Cámara de Diputados (sesión del jueves 22 desde las 14 h). Si bien la conducción de la CGT definió no movilizar hacia el Congreso, otros sectores del movimiento obrero sí lo harán: la UOM, Aceiteros y Pilotos, junto con la CTA Autónoma y la CTA de los Trabajadores, convocaron a marchar en rechazo a la iniciativa. Las organizaciones no difundieron un horario único de concentración, por lo que la convocatoria se concentra en el día de la sesión.",
+    "status": "programado",
+    "lat": -34.6089546,
+    "lng": -58.38845,
+    "fuentes": [
+      {
+        "nombre": "DeGremiales",
+        "url": "https://www.degremiales.com/La-Confederacion-General-del-Trabajo-concreta-su-cuarto-paro-general-contra-la-gestion-de-Javier-Milei-4432"
+      },
+      {
+        "nombre": "Actualidad Chaco",
+        "url": "https://www.actualidadchaco.com/vernota.asp?id_noticia=196561"
+      },
+      {
+        "nombre": "Infonoroeste",
+        "url": "https://infonoroeste.com.ar/nota/52956/gremios-de-la-cuarta-adhieren-al-paro-nacional-contra-la-reforma-laboral/"
+      }
+    ],
+    "createdAt": "2026-10-22T02:02:11.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 75,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-10-22",
+    "lugar": "Provincia de Buenos Aires (escuelas públicas de gestión provincial)",
+    "tipoAccion": "paro",
+    "organizaciones": [
+      "Federación de Educadores Bonaerenses"
+    ],
+    "motivo": "Primera jornada de las 48 horas de huelga de la FEB, resuelta por amplia mayoría en su Congreso Extraordinario del martes 20 de octubre tras rechazar la propuesta salarial del Gobierno de la Provincia de Buenos Aires, que ofrecía un 6% (3% en octubre y 3% en noviembre). La segunda jornada de 24 horas quedó pendiente de definición por el Consejo Directivo. SUTEBA, UDOCBA, AMET y SADOP aceptaron el ofrecimiento, de modo que la medida no implica una suspensión general de clases y la afectación depende de la adhesión de cada establecimiento. Reclaman recomposición salarial, la restitución del FONID, la inversión en infraestructura y mejores condiciones de IOMA y del IPS.",
+    "status": "programado",
+    "lat": -34.92068,
+    "lng": -57.953764,
+    "fuentes": [
+      {
+        "nombre": "Cadena Nueve",
+        "url": "https://www.cadenanueve.com/2026/10/20/la-feb-rechazo-la-propuesta-salarial-y-confirmo-una-jornada-de-paro-para-este-jueves/"
+      },
+      {
+        "nombre": "El Bonaerense",
+        "url": "https://www.elbonaerense.news/2026/10/21/paro-docente-en-pba-la-feb-rechazo-el-6--y-va-a-la-huelga"
+      },
+      {
+        "nombre": "BAE Negocios",
+        "url": "https://www.baenegocios.com/sociedad/sectores-docentes-rechazo-el-aumento-del-6-y-anuncio-un-paro-de-48-horas/"
+      },
+      {
+        "nombre": "Zona Norte Diario",
+        "url": "https://www.zonanortediario.com.ar/21/10/2026/paro-docente-en-la-provincia-de-buenos-aires-que-pasara-con-las-clases-este-jueves-22-de-octubre/"
+      },
+      {
+        "nombre": "360 Más Noticias",
+        "url": "https://360masnoticias.com/bahia-blanca-la-feb-rechazo-la-oferta-salarial-y-anuncio-un-paro-docente-por-48-horas/"
+      }
+    ],
+    "createdAt": "2026-10-22T02:02:11.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 76,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-10-22",
+    "lugar": "La Plata, Buenos Aires (sede gremial de SUTEBA en calle 115 entre 3 y 4, hacia la Dirección General de Cultura y Educación, calle 13 entre 56 y 57)",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "SUTEBA Multicolor",
+      "Docentes en Marcha"
+    ],
+    "motivo": "Movilización a la Dirección General de Cultura y Educación de la Provincia, con concentración en la sede gremial de SUTEBA en La Plata (calle 115 entre 3 y 4), contra el acuerdo salarial del 6% en dos tramos del 3% aceptado por la mayoría del Frente de Unidad Docente Bonaerense. Las organizaciones no difundieron un horario único de concentración frente a la cartera educativa. Reclaman un salario inicial acorde al costo de vida, la devolución de los descuentos por paros, la defensa del estatuto docente, el rechazo del presentismo, el fin de las sumas en negro y en gris y mejores prestaciones de IOMA.",
+    "status": "programado",
+    "lat": -34.9185215,
+    "lng": -57.9286431,
+    "fuentes": [
+      {
+        "nombre": "ANRed",
+        "url": "https://www.anred.org/no-es-aumento-es-ajuste-docentes-bonaerenses-rechazan-el-6-de-aumento-de-kASCADE"
+      },
+      {
+        "nombre": "El Cronista",
+        "url": "https://www.cronista.com/informacion-gral/habra-paro-docente-en-la-provincia-de-buenos-aires-que-dia-se-convoco-la-medida-de-fuerza/"
+      },
+      {
+        "nombre": "INFOANPRESS",
+        "url": "https://infoanpress.com/paritaria-docente-la-multicolor-lanzo-un-paro-para-este-miercoles-y-la-feb-para-el-jueves-en-pba/"
+      },
+      {
+        "nombre": "Info Blanco Sobre Negro",
+        "url": "https://www.infoblancosobrenegro.com/nota/115149/un-sector-de-docentes-convoco-a-un-paro-provincial-para-este-miercoles-21-de-octubre/"
+      }
+    ],
+    "createdAt": "2026-10-22T02:02:11.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 77,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-10-22",
+    "lugar": "Bahía Blanca, Buenos Aires",
+    "tipoAccion": "paro",
+    "organizaciones": [
+      "SUTEBA Multicolor Bahía Blanca"
+    ],
+    "motivo": "Jornada de protesta con constancia gremial que cubre el día en las escuelas de Bahía Blanca, resuelta en el Plenario Provincial de Delegados de las Seccionales Conducción Multicolor de SUTEBA, en el marco de las 48 horas de medidas de fuerza por el rechazo del 6% de aumento. La seccional bahiense adhirió además al paro provincial del miércoles 21; en la ciudad, el alcance de la medida depende de la adhesión de cada establecimiento.",
+    "status": "programado",
+    "lat": -38.717624,
+    "lng": -62.265541,
+    "fuentes": [
+      {
+        "nombre": "BHInfo",
+        "url": "https://www.bhinfo.com.ar/noticia/28959-Con_el_paro_confirmado_por_el_SUTEBA_Bahia_suma_28_dias_sin_clases_en_el_ano-02092026"
+      },
+      {
+        "nombre": "360 Más Noticias",
+        "url": "https://360masnoticias.com/bahia-blanca-la-feb-rechazo-la-oferta-salarial-y-anuncio-un-paro-docente-por-48-horas/"
+      }
+    ],
+    "createdAt": "2026-10-22T02:02:11.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 78,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-10-22",
+    "lugar": "Ciudad Autónoma de Buenos Aires (Hospital de Clínicas José de San Martín, avenida Córdoba 2351, Recoleta)",
+    "tipoAccion": "paro",
+    "organizaciones": [
+      "ADUBA (Asociación de Docentes de la UBA)",
+      "APUBA (Asociación del Personal de la UBA)"
+    ],
+    "motivo": "Jornada de cese de actividades que cierra el plan rotativo de 23 días de ADUBA y APUBA (del 21 de septiembre al 22 de octubre, con ceses escalonados en todas las facultades, institutos, colegios y hospitales de la UBA). El reclamo es la aplicación plena de la Ley de Financiamiento Universitario (32,5%), la recomposición salarial y el presupuesto necesario para sostener la universidad; en el Hospital de Clínicas, hospital escuela de la Facultad de Medicina, se cumple la última etapa del plan.",
+    "status": "programado",
+    "lat": -34.598964,
+    "lng": -58.40004,
+    "fuentes": [
+      {
+        "nombre": "Mundo Gremial",
+        "url": "https://mundogremial.com/uba-23-dias-paro-aduba-apuba-emiliano-cagnacci/"
+      },
+      {
+        "nombre": "ADUBA",
+        "url": "https://aduba.org.ar/23-dias-de-paro-y-nueva-marcha-federal-universitaria/"
+      },
+      {
+        "nombre": "El Cronista",
+        "url": "https://www.cronista.com/informacion-gral/hay-paro-confirmado-en-la-uba-cuando-se-suspenden-las-clases-en-medicina-exactas-derecho-fadu-y-fsoc/"
+      },
+      {
+        "nombre": "Clarín",
+        "url": "https://www.clarin.com/sociedad/paro-universitario-hoy-universidades-adhieren-clases-dura_0_defYTsMrHa.html"
+      }
+    ],
+    "createdAt": "2026-10-22T02:02:11.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 79,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-10-22",
+    "lugar": "Quilmes, Buenos Aires (Hospital Zonal General Dr. Isidoro Iriarte)",
+    "tipoAccion": "paro",
+    "organizaciones": [
+      "CICOP Seccional Iriarte",
+      "ATE (Lista de la Unidad)"
+    ],
+    "motivo": "Paro de 24 horas en el Hospital Iriarte de Quilmes, convocado tras una asamblea de la seccional Iriarte de CICOP y de la Lista de la Unidad de ATE. Reclaman el pase a planta permanente de los trabajadores becarios de los programas ex Vacunate, Capacitación y Contingencia, un básico mínimo de $2.600.000, reparaciones en guardia, internación y Pediatría, transparencia de los montos percibidos a través del SAMO y la aplicación de protocolos frente a la violencia laboral. El esquema de atención para el jueves 22 todavía no fue precisado.",
+    "status": "programado",
+    "lat": -34.7202965,
+    "lng": -58.2463631,
+    "fuentes": [
+      {
+        "nombre": "La Quincena",
+        "url": "https://laquincena.com.ar/contenido/3456/hospital-iriarte-de-quilmes-anuncian-un-paro-de-24-horas-para-el-22-de-octubre"
+      }
+    ],
+    "createdAt": "2026-10-22T02:02:11.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 80,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-10-22",
+    "lugar": "La Plata, Buenos Aires (Ministerio de Salud de la Provincia de Buenos Aires, calle 18)",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "CICOP Seccional Iriarte",
+      "ATE (Lista de la Unidad)",
+      "Trabajadores de la salud de la Provincia de Buenos Aires"
+    ],
+    "motivo": "Movilización al Ministerio de Salud provincial en La Plata para entregar el reclamo de los trabajadores del Hospital Iriarte de Quilmes, en coordinación con otros hospitales y con la huelga de 48 horas anunciada por los residentes bonaerenses. Piden estabilidad laboral para el personal becario, mejoras salariales y respuestas a los problemas edilicios de los efectores de salud.",
+    "status": "programado",
+    "lat": -34.9252855,
+    "lng": -57.9593784,
+    "fuentes": [
+      {
+        "nombre": "La Quincena",
+        "url": "https://laquincena.com.ar/contenido/3456/hospital-iriarte-de-quilmes-anuncian-un-paro-de-24-horas-para-el-22-de-octubre"
+      }
+    ],
+    "createdAt": "2026-10-22T02:02:11.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 81,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-10-22",
+    "lugar": "Neuquén capital, Neuquén (dependencias del Poder Judicial de la Provincia)",
+    "tipoAccion": "paro",
+    "organizaciones": [
+      "SEJuN (Sindicato de Empleados Judiciales de Neuquén)"
+    ],
+    "motivo": "Paro total de actividades de 24 horas en Neuquén capital, decidido por el plenario provincial que rechazó por unanimidad la oferta salarial del Tribunal Superior de Justicia. Reclaman una recomposición con piso equiparado al de otros sectores estatales, la recategorización de la planta funcional (carrera congelada) y una nueva mesa de negociación paritaria, además de la realización de asambleas y retiros de personal. El TSJ garantizando la atención en todos sus organismos.",
+    "status": "programado",
+    "lat": -38.951968,
+    "lng": -68.059174,
+    "fuentes": [
+      {
+        "nombre": "La Carretera",
+        "url": "https://lacarretera.com.ar/sejun-rechazo-la-oferta-del-tsj-y-anuncio-un-paro-de-24-horas-en-neuquen/"
+      },
+      {
+        "nombre": "CTA Autónoma",
+        "url": "https://ctaa.org.ar/paros-y-reclamos-salariales-en-neuquen-formosa-tierra-del-fuego-y-en-poder-judicial-de-la-nacion/"
+      },
+      {
+        "nombre": "Mejor Informado",
+        "url": "https://www.mejorinformado.com/neuquen/paro-sejun-tribunal-superior-justicia-garantizo-atencion-todos-organismos_1792590037"
+      }
+    ],
+    "createdAt": "2026-10-22T02:02:11.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 82,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "00:00",
+    "fecha": "2026-10-22",
+    "lugar": "San Fernando del Valle de Catamarca, Catamarca",
+    "tipoAccion": "paro",
+    "organizaciones": [
+      "UTA (Unión Tranviarios Automotor)"
+    ],
+    "motivo": "Paro de colectivos por 48 horas desde la medianoche del jueves 22, en el marco del conflicto con las empresas de transporte Líneas GM SRL y La Rubí por incumplimientos salariales. La medida se extiende el jueves y el viernes y afecta a los usuarios que dependen del transporte público para trasladarse al trabajo, al estudio y a otras actividades cotidianas.",
+    "status": "programado",
+    "lat": -28.468881,
+    "lng": -65.779064,
+    "fuentes": [
+      {
+        "nombre": "Diario Inforama",
+        "url": "https://inforama.com.ar/actualidad/2026/10/21/la-uta-anuncio-un-paro-de-colectivos-por-48-horas-a-partir-de-manana-en-catamarca/"
+      }
+    ],
+    "createdAt": "2026-10-22T02:02:11.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 83,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-10-22",
+    "lugar": "Chubut, Argentina (centros de salud privados de la agrupación Clínicas de la Patagonia)",
+    "tipoAccion": "paro",
+    "organizaciones": [
+      "Clínicas de la Patagonia",
+      "Salud Federal"
+    ],
+    "motivo": "Suspensión de la atención a afiliados del PAMI (excepto urgencias) en centros de salud privados de las cuatro provincias representadas por la agrupación Clínicas de la Patagonia: Chubut, Río Negro, Neuquén y La Pampa. La medida de fuerza de 48 horas, anunciada la semana pasada, fue ratificada por sus entidades (la Salud Federal adhiere al comunicado) después de que el PAMI comunicara subas de aranceles de entre 5% y 12%, que los prestadores consideran insuficientes frente al retraso de los valores y que no reemplazan el reclamo de cambios en las condiciones de los contratos. En paralelo, la Cámara de Préstamos de Salud (Capress) levantó la medida de fuerza en el AMBA y el interior y solicitó una mesa de diálogo con el PAMI para el mismo jueves 22.",
+    "status": "programado",
+    "lat": -43.2995252,
+    "lng": -65.1055636,
+    "fuentes": [
+      {
+        "nombre": "La Nación",
+        "url": "https://www.lanacion.com.ar/economia/un-grupo-de-clinicas-dejo-sin-efecto-una-medida-contra-el-pami-pero-en-una-zona-del-pais-se-nid20102026/"
+      }
+    ],
+    "createdAt": "2026-10-22T02:02:11.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 84,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-10-22",
+    "lugar": "General Roca, Río Negro (centros de salud privados de la agrupación Clínicas de la Patagonia)",
+    "tipoAccion": "paro",
+    "organizaciones": [
+      "Clínicas de la Patagonia",
+      "Salud Federal"
+    ],
+    "motivo": "Suspensión de la atención a afiliados del PAMI (excepto urgencias) en centros de salud privados de las cuatro provincias representadas por la agrupación Clínicas de la Patagonia: Chubut, Río Negro, Neuquén y La Pampa. La medida de fuerza de 48 horas, anunciada la semana pasada, fue ratificada por sus entidades (la Salud Federal adhiere al comunicado) después de que el PAMI comunicara subas de aranceles de entre 5% y 12%, que los prestadores consideran insuficientes frente al retraso de los valores y que no reemplazan el reclamo de cambios en las condiciones de los contratos. En paralelo, la Cámara de Préstamos de Salud (Capress) levantó la medida de fuerza en el AMBA y el interior y solicitó una mesa de diálogo con el PAMI para el mismo jueves 22.",
+    "status": "programado",
+    "lat": -39.0299,
+    "lng": -67.5701,
+    "fuentes": [
+      {
+        "nombre": "La Nación",
+        "url": "https://www.lanacion.com.ar/economia/un-grupo-de-clinicas-dejo-sin-efecto-una-medida-contra-el-pami-pero-en-una-zona-del-pais-se-nid20102026/"
+      }
+    ],
+    "createdAt": "2026-10-22T02:02:11.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 85,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-10-22",
+    "lugar": "Neuquén capital, Neuquén (centros de salud privados de la agrupación Clínicas de la Patagonia)",
+    "tipoAccion": "paro",
+    "organizaciones": [
+      "Clínicas de la Patagonia",
+      "Salud Federal"
+    ],
+    "motivo": "Suspensión de la atención a afiliados del PAMI (excepto urgencias) en centros de salud privados de las cuatro provincias representadas por la agrupación Clínicas de la Patagonia: Chubut, Río Negro, Neuquén y La Pampa. La medida de fuerza de 48 horas, anunciada la semana pasada, fue ratificada por sus entidades (la Salud Federal adhiere al comunicado) después de que el PAMI comunicara subas de aranceles de entre 5% y 12%, que los prestadores consideran insuficientes frente al retraso de los valores y que no reemplazan el reclamo de cambios en las condiciones de los contratos. En paralelo, la Cámara de Préstamos de Salud (Capress) levantó la medida de fuerza en el AMBA y el interior y solicitó una mesa de diálogo con el PAMI para el mismo jueves 22.",
+    "status": "programado",
+    "lat": -38.951968,
+    "lng": -68.059174,
+    "fuentes": [
+      {
+        "nombre": "La Nación",
+        "url": "https://www.lanacion.com.ar/economia/un-grupo-de-clinicas-dejo-sin-efecto-una-medida-contra-el-pami-pero-en-una-zona-del-pais-se-nid20102026/"
+      }
+    ],
+    "createdAt": "2026-10-22T02:02:11.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 86,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-10-22",
+    "lugar": "Santa Rosa, La Pampa (centros de salud privados de la agrupación Clínicas de la Patagonia)",
+    "tipoAccion": "paro",
+    "organizaciones": [
+      "Clínicas de la Patagonia",
+      "Salud Federal"
+    ],
+    "motivo": "Suspensión de la atención a afiliados del PAMI (excepto urgencias) en centros de salud privados de las cuatro provincias representadas por la agrupación Clínicas de la Patagonia: Chubut, Río Negro, Neuquén y La Pampa. La medida de fuerza de 48 horas, anunciada la semana pasada, fue ratificada por sus entidades (la Salud Federal adhiere al comunicado) después de que el PAMI comunicara subas de aranceles de entre 5% y 12%, que los prestadores consideran insuficientes frente al retraso de los valores y que no reemplazan el reclamo de cambios en las condiciones de los contratos. En paralelo, la Cámara de Préstamos de Salud (Capress) levantó la medida de fuerza en el AMBA y el interior y solicitó una mesa de diálogo con el PAMI para el mismo jueves 22.",
+    "status": "programado",
+    "lat": -36.6203503,
+    "lng": -64.2905765,
+    "fuentes": [
+      {
+        "nombre": "La Nación",
+        "url": "https://www.lanacion.com.ar/economia/un-grupo-de-clinicas-dejo-sin-efecto-una-medida-contra-el-pami-pero-en-una-zona-del-pais-se-nid20102026/"
+      }
+    ],
+    "createdAt": "2026-10-22T02:02:11.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 87,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "11:30",
+    "fecha": "2026-10-22",
+    "lugar": "Rosario, Santa Fe (anexo del Policlínico PAMI I, calle Sarmiento al 400)",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "Intersindical en Defensa del PAMI",
+      "SUTEPA",
+      "UTI Rosario",
+      "ATE Rosario y Norte"
+    ],
+    "motivo": "Asamblea pública y concentración en el anexo del policlínico PAMI I de Rosario para visibilizar la crisis de la obra social: exigen respuesta a la falta de personal y de insumos (más de 60 enfermeros y especialistas para áreas de alta complejidad como terapia coronaria), readecuación de los contratos y equiparación salarial, incorporación de trabajadores en áreas críticas y denuncia del desvío de cápitas hacia prestadores privados de salud. Los ingresos mensuales del personal oscilan entre 700.000 y 800.000 pesos, lo que impulsa renuncias y la pérdida de personal capacitado; SUTEPA, UTI Rosario y ATE Rosario y Norte se declararon en estado de alerta.",
+    "status": "programado",
+    "lat": -32.9414858,
+    "lng": -60.6367418,
+    "fuentes": [
+      {
+        "nombre": "Conclusión",
+        "url": "https://www.conclusion.com.ar/gremiales/salud-en-emergencia-trabajadores-y-gremios-se-movilizan-este-jueves-al-pami-i/10/2026/"
+      }
+    ],
+    "createdAt": "2026-10-22T02:02:11.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 88,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "18:30",
+    "fecha": "2026-10-22",
+    "lugar": "Ciudad Autónoma de Buenos Aires (Plaza Houssay, frente al Hospital de Clínicas)",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "Asamblea de residentes y concurrentes de la salud de CABA"
+    ],
+    "motivo": "Quinta semana del plan de lucha por la recomposición salarial de residentes y concurrentes de la salud de CABA: marcha de las velas en defensa de la salud pública y de calidad, culminando en Plaza Houssay. Rechazan la paritaria cerrada a la baja por Médicos Municipales (AMM) y reclaman recomposición salarial, mejoras en las condiciones de trabajo, el cumplimiento de la ley 6.035 y respuestas a las persecuciones y represalias en los lugares de trabajo. La asamblea permanece en pie; además, una funcionaria de la Codei los recibirá el mismo día antes de la marcha en una mesa de diálogo.",
+    "status": "programado",
+    "lat": -34.599118,
+    "lng": -58.398065,
+    "fuentes": [
+      {
+        "nombre": "Prensa Obrera",
+        "url": "https://prensaobrera.com/sindicales/como-seguimos-con-el-plan-de-lucha-lxs-residentes-y-concurrentes-de-caba"
+      }
+    ],
+    "createdAt": "2026-10-22T02:02:11.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  },
+  {
+    "id": 89,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-10-22",
+    "lugar": "Metán, Salta (peaje Cabeza de Buey, sobre la Ruta Nacional 9/34)",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "Vecinos del sur de la provincia de Salta"
+    ],
+    "motivo": "Concentración en el peaje Cabeza de Buey, sobre la Ruta Nacional 9/34, contra el cobro del peaje mientras persisten sectores deteriorados de la calzada: \"NO PAGUE PEAJE SI NO ARREGLAN LA RUTA\". Los pliegos de concesión contemplaban un plazo para realizar reparaciones antes de iniciar el cobro. La concentración se hará a un costado de la ruta, antes de las cabinas, sin interrumpir el tránsito, con salida desde Metán alrededor de las 15 h. Habrá asesoramiento jurídico y no se descarta impulsar una acción de amparo.",
+    "status": "programado",
+    "lat": -24.793749,
+    "lng": -65.029749,
+    "fuentes": [
+      {
+        "nombre": "Zonas Salta",
+        "url": "https://zonasursalta.turadioinfo.com/noticias/12781/ofuscaci%C3%B3n-y-protesta-por-cobro-de-peaje-en-rutas-deterioradas"
+      }
+    ],
+    "createdAt": "2026-10-22T02:02:11.000Z",
+    "updatedAt": "2026-10-22T02:50:27Z"
+  }
+]
