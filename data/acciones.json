@@ -39,7 +39,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 2,
@@ -69,7 +69,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 3,
@@ -107,7 +107,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 4,
@@ -132,7 +132,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 5,
@@ -157,7 +157,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 6,
@@ -191,7 +191,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 7,
@@ -216,112 +216,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
-  },
-  {
-    "id": 8,
-    "seccion": "internacionales",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "07:00",
-    "fecha": "2026-10-22",
-    "lugar": "Barcelona, Cataluña (Plaza Sants)",
-    "tipoAccion": "concentracion",
-    "organizaciones": [
-      "Huelga General por la Vivienda",
-      "Sindicato de Inquilinas y otros colectivos"
-    ],
-    "motivo": "Metrada de la Huelga General por la Vivienda: punto de encuentro en la Plaza Sants para preparar la huelga general por el derecho a una vivienda digna y salarios dignos. La fecha de la huelga general nacional todavía no está fijada; CCOO y UGT apuntan a principios de noviembre.",
-    "status": "programado",
-    "lat": 41.375393,
-    "lng": 2.137741,
-    "fuentes": [
-      {
-        "nombre": "Plataforma Toka (Huelga General por la Vivienda)",
-        "url": "https://participa.huelgaporlavivienda.org/activities/0346ec80-5562-4e62-a55e-07f6c0d5115b/join"
-      },
-      {
-        "nombre": "El País (fecha de la huelga sin definir)",
-        "url": "https://elpais.com/economia/2026-10-05/los-sindicatos-ugt-y-cc-oo-iran-a-la-huelga-general-por-la-crisis-de-la-vivienda.html"
-      }
-    ],
-    "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
-  },
-  {
-    "id": 9,
-    "seccion": "internacionales",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "08:00",
-    "fecha": "2026-10-22",
-    "lugar": "Barcelona, Cataluña (calle Comte Borrell 79)",
-    "tipoAccion": "concentracion",
-    "organizaciones": [
-      "Huelga General por la Vivienda"
-    ],
-    "motivo": "Metrades en la calle Comte Borrell: acción de difusión y afirmación de la huelga general por la vivienda, previa a la convocatoria nacional.",
-    "status": "programado",
-    "lat": 41.3874,
-    "lng": 2.1686,
-    "fuentes": [
-      {
-        "nombre": "Plataforma Toka (Huelga General por la Vivienda)",
-        "url": "https://participa.huelgaporlavivienda.org/activities"
-      }
-    ],
-    "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
-  },
-  {
-    "id": 10,
-    "seccion": "internacionales",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "10:00",
-    "fecha": "2026-10-22",
-    "lugar": "Madrid (avenida Pablo Neruda 142)",
-    "tipoAccion": "concentracion",
-    "organizaciones": [
-      "Huelga General por la Vivienda"
-    ],
-    "motivo": "Concentración «Menos Lectivas» en la avenida Pablo Neruda: acción del movimiento por el derecho a la vivienda previa a la huelga general. La convocatoria figura como confirmada y realizada.",
-    "status": "programado",
-    "lat": 40.384216,
-    "lng": -3.647529,
-    "fuentes": [
-      {
-        "nombre": "Plataforma Toka (Huelga General por la Vivienda)",
-        "url": "https://participa.huelgaporlavivienda.org/activities"
-      }
-    ],
-    "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
-  },
-  {
-    "id": 11,
-    "seccion": "internacionales",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "10:00",
-    "fecha": "2026-10-22",
-    "lugar": "Segovia (Plaza Mayor)",
-    "tipoAccion": "concentracion",
-    "organizaciones": [
-      "Huelga General por la Vivienda"
-    ],
-    "motivo": "Piquete informativo en el mercadillo de la Plaza Mayor de Segovia para difundir la convocatoria de la huelga general por la vivienda. La acción figura como confirmada y realizada.",
-    "status": "programado",
-    "lat": 40.950329,
-    "lng": -4.123986,
-    "fuentes": [
-      {
-        "nombre": "Plataforma Toka (Huelga General por la Vivienda)",
-        "url": "https://participa.huelgaporlavivienda.org/activities"
-      }
-    ],
-    "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 12,
@@ -354,7 +249,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 13,
@@ -389,7 +284,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 14,
@@ -416,7 +311,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 15,
@@ -442,7 +337,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 16,
@@ -467,7 +362,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 17,
@@ -497,7 +392,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 18,
@@ -522,7 +417,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 19,
@@ -548,7 +443,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 20,
@@ -586,7 +481,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 21,
@@ -612,7 +507,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 22,
@@ -638,7 +533,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 23,
@@ -664,7 +559,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 24,
@@ -690,7 +585,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 25,
@@ -720,7 +615,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 26,
@@ -758,7 +653,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 27,
@@ -788,7 +683,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 28,
@@ -818,7 +713,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 29,
@@ -848,7 +743,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 30,
@@ -882,7 +777,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 31,
@@ -913,7 +808,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 32,
@@ -943,7 +838,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 33,
@@ -969,7 +864,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 34,
@@ -994,7 +889,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 35,
@@ -1020,7 +915,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 36,
@@ -1055,7 +950,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 37,
@@ -1085,7 +980,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 38,
@@ -1111,7 +1006,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 39,
@@ -1137,7 +1032,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 40,
@@ -1171,7 +1066,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 41,
@@ -1197,7 +1092,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 42,
@@ -1227,7 +1122,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 43,
@@ -1253,7 +1148,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 44,
@@ -1287,7 +1182,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 45,
@@ -1312,7 +1207,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 46,
@@ -1346,7 +1241,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 47,
@@ -1376,7 +1271,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 48,
@@ -1406,7 +1301,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 49,
@@ -1432,7 +1327,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 50,
@@ -1462,7 +1357,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 51,
@@ -1492,7 +1387,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 52,
@@ -1522,7 +1417,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 53,
@@ -1552,7 +1447,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 54,
@@ -1577,7 +1472,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 55,
@@ -1614,7 +1509,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 56,
@@ -1649,7 +1544,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 57,
@@ -1684,7 +1579,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 58,
@@ -1710,7 +1605,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 59,
@@ -1741,7 +1636,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 60,
@@ -1772,7 +1667,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 61,
@@ -1801,7 +1696,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 62,
@@ -1831,7 +1726,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 63,
@@ -1861,7 +1756,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 64,
@@ -1892,7 +1787,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 65,
@@ -1923,7 +1818,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 66,
@@ -1954,7 +1849,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 67,
@@ -1983,7 +1878,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 68,
@@ -2014,7 +1909,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 69,
@@ -2043,7 +1938,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 70,
@@ -2072,7 +1967,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 71,
@@ -2101,7 +1996,7 @@
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 72,
@@ -2115,8 +2010,8 @@
     "organizaciones": [
       "Confederación General del Trabajo (CGT)"
     ],
-    "motivo": "Cuarto paro general de 24 horas de la CGT desde la asunción de Javier Milei, en rechazo del proyecto de Reforma Laboral que se debate en la Cámara de Diputados de la Nación (sesión summoned para el jueves 22 desde las 14 h). La medida fue conveneada sin movilización oficial de la central: desde la sede de Azopardo, el secretario del Seguro Jorge Sola sostuvo que \"la Argentina se paralizará de punta a punta\" y que la CGT \"no se opone a una reforma laboral, pero sí a perder derechos\". El paro reduce al mínimo la actividad económica del país y coincide con la tratamiento legislativo de la iniciativa, que ya obtuvo media sanción.",
-    "status": "programado",
+    "motivo": "Cuarto paro general de 24 horas de la CGT desde la asunción de Javier Milei, en rechazo del proyecto de Reforma Laboral que se debate en la Cámara de Diputados de la Nación (sesión prevista para el jueves 22 desde las 14 h). La medida fue convocada sin movilización oficial de la central: desde la sede de Azopardo, el secretario del Seguro Jorge Sola sostuvo que \"la Argentina se paralizará de punta a punta\" y que la CGT \"no se opone a una reforma laboral, pero sí a perder derechos\". El paro reduce al mínimo la actividad económica del país y coincide con el tratamiento legislativo de la iniciativa, que ya obtuvo media sanción.",
+    "status": "en_curso",
     "lat": -34.6084453,
     "lng": -58.3721787,
     "fuentes": [
@@ -2125,16 +2020,12 @@
         "url": "https://www.degremiales.com/La-Confederacion-General-del-Trabajo-concreta-su-cuarto-paro-general-contra-la-gestion-de-Javier-Milei-4432"
       },
       {
-        "nombre": "Actualidad Chaco",
-        "url": "https://www.actualidadchaco.com/vernota.asp?id_noticia=196561"
-      },
-      {
         "nombre": "Infonoroeste",
         "url": "https://infonoroeste.com.ar/nota/52956/gremios-de-la-cuarta-adhieren-al-paro-nacional-contra-la-reforma-laboral/"
       }
     ],
     "createdAt": "2026-10-22T02:02:11.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 73,
@@ -2150,7 +2041,7 @@
       "Gremios del transporte adheridos al paro general"
     ],
     "motivo": "Cese de los servicios de pasajeros por la adhesión de los gremios del transporte al paro general de la CGT: en el AMBA el paro afecta colectivos, trenes, subtes y taxis, con incidencia fuerte en la circulación de los trabajadores y en el funcionamiento de empresas y oficinas. La adhesión de los sindicatos del transporte resulta determinante para amplificar el alcance de la medida, que se desarrolla el mismo día en que Diputados trata la Reforma Laboral.",
-    "status": "programado",
+    "status": "en_curso",
     "lat": -34.6084453,
     "lng": -58.3721787,
     "fuentes": [
@@ -2159,12 +2050,12 @@
         "url": "https://www.degremiales.com/La-Confederacion-General-del-Trabajo-concreta-su-cuarto-paro-general-contra-la-gestion-de-Javier-Milei-4432"
       },
       {
-        "nombre": "Actualidad Chaco",
-        "url": "https://www.actualidadchaco.com/vernota.asp?id_noticia=196561"
+        "nombre": "Infonoroeste",
+        "url": "https://infonoroeste.com.ar/nota/52956/gremios-de-la-cuarta-adhieren-al-paro-nacional-contra-la-reforma-laboral/"
       }
     ],
     "createdAt": "2026-10-22T02:02:11.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 74,
@@ -2192,16 +2083,12 @@
         "url": "https://www.degremiales.com/La-Confederacion-General-del-Trabajo-concreta-su-cuarto-paro-general-contra-la-gestion-de-Javier-Milei-4432"
       },
       {
-        "nombre": "Actualidad Chaco",
-        "url": "https://www.actualidadchaco.com/vernota.asp?id_noticia=196561"
-      },
-      {
         "nombre": "Infonoroeste",
         "url": "https://infonoroeste.com.ar/nota/52956/gremios-de-la-cuarta-adhieren-al-paro-nacional-contra-la-reforma-laboral/"
       }
     ],
     "createdAt": "2026-10-22T02:02:11.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 75,
@@ -2242,7 +2129,7 @@
       }
     ],
     "createdAt": "2026-10-22T02:02:11.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 76,
@@ -2280,7 +2167,7 @@
       }
     ],
     "createdAt": "2026-10-22T02:02:11.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 77,
@@ -2309,7 +2196,7 @@
       }
     ],
     "createdAt": "2026-10-22T02:02:11.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 78,
@@ -2347,7 +2234,7 @@
       }
     ],
     "createdAt": "2026-10-22T02:02:11.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 79,
@@ -2370,10 +2257,14 @@
       {
         "nombre": "La Quincena",
         "url": "https://laquincena.com.ar/contenido/3456/hospital-iriarte-de-quilmes-anuncian-un-paro-de-24-horas-para-el-22-de-octubre"
+      },
+      {
+        "nombre": "La Izquierda Diario",
+        "url": "https://www.laizquierdadiario.com/22-de-octubre-por-la-salud-residentes-becarios-ATs-y-trabajadores-de-salud-a-las-calles-en-la"
       }
     ],
     "createdAt": "2026-10-22T02:02:11.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 80,
@@ -2389,7 +2280,7 @@
       "ATE (Lista de la Unidad)",
       "Trabajadores de la salud de la Provincia de Buenos Aires"
     ],
-    "motivo": "Movilización al Ministerio de Salud provincial en La Plata para entregar el reclamo de los trabajadores del Hospital Iriarte de Quilmes, en coordinación con otros hospitales y con la huelga de 48 horas anunciada por los residentes bonaerenses. Piden estabilidad laboral para el personal becario, mejoras salariales y respuestas a los problemas edilicios de los efectores de salud.",
+    "motivo": "Movilización al Ministerio de Salud provincial en La Plata para entregar el reclamo de los trabajadores del Hospital Iriarte de Quilmes, en coordinación con otros hospitales y con la huelga de 48 horas anunciada por los residentes bonaerenses. Piden estabilidad laboral para el personal becario, mejoras salariales y respuestas a los problemas edilicios de los efectores de salud. La convocatoria forma parte de la jornada provincial de la salud del 22 de octubre, con concentración en Plaza Malvinas y reclamo conjunto por la recomposición salarial y el pase a planta permanente de los becarios.",
     "status": "programado",
     "lat": -34.9252855,
     "lng": -57.9593784,
@@ -2397,10 +2288,18 @@
       {
         "nombre": "La Quincena",
         "url": "https://laquincena.com.ar/contenido/3456/hospital-iriarte-de-quilmes-anuncian-un-paro-de-24-horas-para-el-22-de-octubre"
+      },
+      {
+        "nombre": "La Izquierda Diario",
+        "url": "https://www.laizquierdadiario.com/22-de-octubre-por-la-salud-residentes-becarios-ATs-y-trabajadores-de-salud-a-las-calles-en-la"
+      },
+      {
+        "nombre": "Nuestra Propuesta",
+        "url": "https://nuestrapropuesta.org.ar/secciones/sindical/los-trabajadores-de-la-salud-bonaerenses-en-pie-de-lucha-contra-el-ajuste-y-la-precarizaci%C3%B3n.html"
       }
     ],
     "createdAt": "2026-10-22T02:02:11.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 81,
@@ -2433,7 +2332,7 @@
       }
     ],
     "createdAt": "2026-10-22T02:02:11.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 82,
@@ -2447,18 +2346,22 @@
     "organizaciones": [
       "UTA (Unión Tranviarios Automotor)"
     ],
-    "motivo": "Paro de colectivos por 48 horas desde la medianoche del jueves 22, en el marco del conflicto con las empresas de transporte Líneas GM SRL y La Rubí por incumplimientos salariales. La medida se extiende el jueves y el viernes y afecta a los usuarios que dependen del transporte público para trasladarse al trabajo, al estudio y a otras actividades cotidianas.",
-    "status": "programado",
+    "motivo": "Paro de colectivos por 48 horas desde la medianoche del jueves 22, en el marco del conflicto con las empresas de transporte Líneas GM SRL y La Rubí por incumplimientos salariales. La medida se extiende el jueves y el viernes y afecta a los usuarios que dependen del transporte público para trasladarse al trabajo, al estudio y a otras actividades cotidianas. En Catamarca coincide con el paro de la UTA en el interior del país, que se extiende desde las 00:00 del jueves 22 hasta el inicio del sábado, en reclamo de un incremento salarial general.",
+    "status": "en_curso",
     "lat": -28.468881,
     "lng": -65.779064,
     "fuentes": [
       {
         "nombre": "Diario Inforama",
         "url": "https://inforama.com.ar/actualidad/2026/10/21/la-uta-anuncio-un-paro-de-colectivos-por-48-horas-a-partir-de-manana-en-catamarca/"
+      },
+      {
+        "nombre": "Noticias Mar del Plata",
+        "url": "https://wi881374.ferozo.com/notasociales.php?id=2563"
       }
     ],
     "createdAt": "2026-10-22T02:02:11.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 83,
@@ -2474,7 +2377,7 @@
       "Salud Federal"
     ],
     "motivo": "Suspensión de la atención a afiliados del PAMI (excepto urgencias) en centros de salud privados de las cuatro provincias representadas por la agrupación Clínicas de la Patagonia: Chubut, Río Negro, Neuquén y La Pampa. La medida de fuerza de 48 horas, anunciada la semana pasada, fue ratificada por sus entidades (la Salud Federal adhiere al comunicado) después de que el PAMI comunicara subas de aranceles de entre 5% y 12%, que los prestadores consideran insuficientes frente al retraso de los valores y que no reemplazan el reclamo de cambios en las condiciones de los contratos. En paralelo, la Cámara de Préstamos de Salud (Capress) levantó la medida de fuerza en el AMBA y el interior y solicitó una mesa de diálogo con el PAMI para el mismo jueves 22.",
-    "status": "programado",
+    "status": "en_curso",
     "lat": -43.2995252,
     "lng": -65.1055636,
     "fuentes": [
@@ -2484,7 +2387,7 @@
       }
     ],
     "createdAt": "2026-10-22T02:02:11.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 84,
@@ -2500,7 +2403,7 @@
       "Salud Federal"
     ],
     "motivo": "Suspensión de la atención a afiliados del PAMI (excepto urgencias) en centros de salud privados de las cuatro provincias representadas por la agrupación Clínicas de la Patagonia: Chubut, Río Negro, Neuquén y La Pampa. La medida de fuerza de 48 horas, anunciada la semana pasada, fue ratificada por sus entidades (la Salud Federal adhiere al comunicado) después de que el PAMI comunicara subas de aranceles de entre 5% y 12%, que los prestadores consideran insuficientes frente al retraso de los valores y que no reemplazan el reclamo de cambios en las condiciones de los contratos. En paralelo, la Cámara de Préstamos de Salud (Capress) levantó la medida de fuerza en el AMBA y el interior y solicitó una mesa de diálogo con el PAMI para el mismo jueves 22.",
-    "status": "programado",
+    "status": "en_curso",
     "lat": -39.0299,
     "lng": -67.5701,
     "fuentes": [
@@ -2510,7 +2413,7 @@
       }
     ],
     "createdAt": "2026-10-22T02:02:11.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 85,
@@ -2526,7 +2429,7 @@
       "Salud Federal"
     ],
     "motivo": "Suspensión de la atención a afiliados del PAMI (excepto urgencias) en centros de salud privados de las cuatro provincias representadas por la agrupación Clínicas de la Patagonia: Chubut, Río Negro, Neuquén y La Pampa. La medida de fuerza de 48 horas, anunciada la semana pasada, fue ratificada por sus entidades (la Salud Federal adhiere al comunicado) después de que el PAMI comunicara subas de aranceles de entre 5% y 12%, que los prestadores consideran insuficientes frente al retraso de los valores y que no reemplazan el reclamo de cambios en las condiciones de los contratos. En paralelo, la Cámara de Préstamos de Salud (Capress) levantó la medida de fuerza en el AMBA y el interior y solicitó una mesa de diálogo con el PAMI para el mismo jueves 22.",
-    "status": "programado",
+    "status": "en_curso",
     "lat": -38.951968,
     "lng": -68.059174,
     "fuentes": [
@@ -2536,7 +2439,7 @@
       }
     ],
     "createdAt": "2026-10-22T02:02:11.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 86,
@@ -2552,7 +2455,7 @@
       "Salud Federal"
     ],
     "motivo": "Suspensión de la atención a afiliados del PAMI (excepto urgencias) en centros de salud privados de las cuatro provincias representadas por la agrupación Clínicas de la Patagonia: Chubut, Río Negro, Neuquén y La Pampa. La medida de fuerza de 48 horas, anunciada la semana pasada, fue ratificada por sus entidades (la Salud Federal adhiere al comunicado) después de que el PAMI comunicara subas de aranceles de entre 5% y 12%, que los prestadores consideran insuficientes frente al retraso de los valores y que no reemplazan el reclamo de cambios en las condiciones de los contratos. En paralelo, la Cámara de Préstamos de Salud (Capress) levantó la medida de fuerza en el AMBA y el interior y solicitó una mesa de diálogo con el PAMI para el mismo jueves 22.",
-    "status": "programado",
+    "status": "en_curso",
     "lat": -36.6203503,
     "lng": -64.2905765,
     "fuentes": [
@@ -2562,7 +2465,7 @@
       }
     ],
     "createdAt": "2026-10-22T02:02:11.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 87,
@@ -2590,7 +2493,7 @@
       }
     ],
     "createdAt": "2026-10-22T02:02:11.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 88,
@@ -2615,14 +2518,14 @@
       }
     ],
     "createdAt": "2026-10-22T02:02:11.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
   },
   {
     "id": 89,
     "seccion": "protestas_ar",
     "pais": "Argentina",
     "bandera": "🇦🇷",
-    "hora": "",
+    "hora": "15:00",
     "fecha": "2026-10-22",
     "lugar": "Metán, Salta (peaje Cabeza de Buey, sobre la Ruta Nacional 9/34)",
     "tipoAccion": "movilizacion",
@@ -2640,6 +2543,206 @@
       }
     ],
     "createdAt": "2026-10-22T02:02:11.000Z",
-    "updatedAt": "2026-10-22T02:50:27Z"
+    "updatedAt": "2026-10-22T09:01:15Z"
+  },
+  {
+    "id": 90,
+    "seccion": "internacionales",
+    "pais": "Venezuela",
+    "bandera": "🇻🇪",
+    "hora": "16:00",
+    "fecha": "2026-10-22",
+    "lugar": "Caracas, Distrito Capital (concentración frente a la torre Polar, Plaza Venezuela)",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "Vente Venezuela",
+      "Comando Con Venezuela"
+    ],
+    "motivo": "Marcha nacional opositora con concentración a las 16:00 en Plaza Venezuela, frente a la torre Polar, y movilizaciones simultáneas en el resto del país. Bajo el lema «La fecha de la elección es la fecha de la liberación», exige el regreso seguro de María Corina Machado, un cronograma electoral con presidenciales en 2027 y la liberación de todos los presos políticos. La fecha coincide con el tercer aniversario de las primarias opositoras de octubre de 2023.",
+    "status": "programado",
+    "lat": 10.497689,
+    "lng": -66.881176,
+    "fuentes": [
+      {
+        "nombre": "El Nacional",
+        "url": "https://www.elnacional.com/2026/10/chavismo-y-oposicion-convocaron-marchas-para-el-22-de-octubre/"
+      },
+      {
+        "nombre": "Infobae",
+        "url": "https://www.infobae.com/venezuela/2026/10/20/la-oposicion-venezolana-convoco-una-marcha-nacional-para-exigir-elecciones-presidenciales-en-2027/"
+      },
+      {
+        "nombre": "Portuguesa Reporta",
+        "url": "https://portuguesareporta.com/nacionales/oficialismo-y-oposicion-tomaran-las-calles-de-caracas-este-22oct/"
+      }
+    ],
+    "createdAt": "2026-10-22T07:03:43.000Z",
+    "updatedAt": "2026-10-22T09:01:15Z"
+  },
+  {
+    "id": 91,
+    "seccion": "internacionales",
+    "pais": "Venezuela",
+    "bandera": "🇻🇪",
+    "hora": "",
+    "fecha": "2026-10-22",
+    "lugar": "Caracas, Distrito Capital",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "Partido Socialista Unido de Venezuela (PSUV)",
+      "Movimiento de mujeres del oficialismo"
+    ],
+    "motivo": "«Gran marcha de las mujeres» convocada por el chavismo en el marco del Mes Rosa, dedicado a la concienciación sobre el cáncer de mama. El secretario general del PSUV y ministro de Interior, Diosdado Cabello, anunció la movilización sin precisar punto de salida ni hora. Coincide en la misma jornada con la marcha opositora que exige cronograma electoral.",
+    "status": "programado",
+    "lat": 10.505892,
+    "lng": -66.914325,
+    "fuentes": [
+      {
+        "nombre": "El Nacional",
+        "url": "https://www.elnacional.com/2026/10/chavismo-y-oposicion-convocaron-marchas-para-el-22-de-octubre/"
+      },
+      {
+        "nombre": "El Comercio (EFE)",
+        "url": "https://elcomercio.pe/mundo/venezuela/venezuela-el-chavismo-convoca-a-marcha-de-mujeres-el-mismo-dia-que-la-oposicion-protestara-por-elecciones-ultimas-noticia/"
+      },
+      {
+        "nombre": "Noticia Zavaleta",
+        "url": "https://www.noticiazavaleta.info/diosdado-cabello-convoca-a-marcha-chavista-el-22-de-octubre-el-mismo-dia-que-la-marcha-de-la-oposicion-venezolana/"
+      }
+    ],
+    "createdAt": "2026-10-22T07:03:43.000Z",
+    "updatedAt": "2026-10-22T09:01:15Z"
+  },
+  {
+    "id": 92,
+    "seccion": "internacionales",
+    "pais": "Senegal",
+    "bandera": "🇸🇳",
+    "hora": "",
+    "fecha": "2026-10-22",
+    "lugar": "Dakar y todo el territorio nacional",
+    "tipoAccion": "huelga_general",
+    "organizaciones": [
+      "Front Syndical pour la Défense du Travail (FSDT)",
+      "Confédération Nationale des Travailleurs du Sénégal",
+      "G7 (sindicatos docentes)"
+    ],
+    "motivo": "Segundo día de la huelga general de 72 horas convocada por el FSDT (21, 22 y 23 de octubre) que paraliza los sectores público, privado e informal. Los sindicatos reclaman la aplicación plena de los acuerdos sobre pensiones, bonificaciones y compensación de vivienda, la generalización del subsidio de vivienda (100.000 francos CFA), la revalorización de pensiones y el pago de atrasos, en un contexto de pérdida de poder adquisitivo. El gobierno considera la huelga ilícita y amenaza con sanciones. La acción tiene lugar días antes de que Dakar acoja los Juegos Olímpicos de la Juventud.",
+    "status": "en_curso",
+    "lat": 14.716677,
+    "lng": -17.467686,
+    "fuentes": [
+      {
+        "nombre": "Financial Afrik",
+        "url": "https://www.financialafrik.com/en/2026/10/20/senegal-at-senelec-three-days-of-strike-as-part-of-a-general-strike-by-the-fsdt/"
+      },
+      {
+        "nombre": "Africanews",
+        "url": "https://www.africanews.com/2026/10/21/senegalese-workers-protest-rising-living-costs-ahead-of-three-day-general-strike"
+      },
+      {
+        "nombre": "RFI English (vía The Sahel)",
+        "url": "https://thesahel.org/news/senegalese-workers-protest-rising-living-costs-ahead-of-three-day-general-strike"
+      }
+    ],
+    "createdAt": "2026-10-22T07:03:43.000Z",
+    "updatedAt": "2026-10-22T09:01:15Z"
+  },
+  {
+    "id": 94,
+    "seccion": "internacionales",
+    "pais": "Portugal",
+    "bandera": "🇵🇹",
+    "hora": "19:00",
+    "fecha": "2026-10-22",
+    "lugar": "Lisboa (Praça do Rossio)",
+    "tipoAccion": "acampada",
+    "organizaciones": [
+      "Movimento pelo Direito à Habitação",
+      "Acampada jovem por el derecho a la vivienda"
+    ],
+    "motivo": "Jóvenes acampados por el derecho a la vivienda reinstalan su campamento en la Praça do Rossio de Lisboa, tras el desalojo policial del 20 de octubre que dejó decenas de detenidos. Reclaman límites a los alquileres, la retirada de la nueva ley de arrendamientos, el fin de los desalojos sin alternativa habitacional, más vivienda pública y la expropiación de pisos vacíos, y piden una «huelga general ibérica» por la vivienda coordinada con España. Nueva convocatoria y asamblea prevista para las 19:00.",
+    "status": "programado",
+    "lat": 38.713863,
+    "lng": -9.139458,
+    "fuentes": [
+      {
+        "nombre": "RTVE",
+        "url": "https://www.rtve.es/noticias/20261022/acampados-lisboa-buscan-tumbar-nueva-ley-arrendamientos/17277779.shtml"
+      },
+      {
+        "nombre": "Público",
+        "url": "https://www.publico.es/economia/vivienda/policia-desaloja-acampadas-vivienda-lisboa-oporto-detiene-varios-manifestantes.html"
+      },
+      {
+        "nombre": "EFE",
+        "url": "https://efe.com/economia/2026-10-20/personas-continuaran-acampada-vivienda-lisboa-protesta/"
+      }
+    ],
+    "createdAt": "2026-10-22T07:03:43.000Z",
+    "updatedAt": "2026-10-22T09:01:15Z"
+  },
+  {
+    "id": 96,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-10-22",
+    "lugar": "La Plata, Buenos Aires (sede social y Estancia Chica de Gimnasia y Esgrima La Plata)",
+    "tipoAccion": "paro",
+    "organizaciones": [
+      "UTEDYC seccional La Plata"
+    ],
+    "motivo": "Paro de actividades de los trabajadores de Gimnasia y Esgrima La Plata, convocado por la seccional La Plata de UTEDYC para el jueves 22 en reclamo del pago de los salarios adeudados: la dirigencia canceló sólo el 25% del sueldo (promedio de $1.800.000) y no fijó fecha para saldar la deuda, con atrasos que se repiten desde febrero de 2026. La medida se resolvió en asamblea después de la movilización del miércoles 21 a Estancia Chica y a la sede social del club, donde la secretaria general Mariángeles Sotés reclamó que las autoridades asuman su responsabilidad primaria de pago. El conflicto tiene una instancia de conciliación el viernes 23 a las 12 en la delegación La Plata del Ministerio de Trabajo de la Provincia.",
+    "status": "programado",
+    "lat": -34.9317,
+    "lng": -57.969,
+    "fuentes": [
+      {
+        "nombre": "Mundo Gremial",
+        "url": "https://mundogremial.com/utedyc-gimnasia-paro-atrasos-salariales-la-plata/"
+      }
+    ],
+    "createdAt": "2026-10-22T07:06:18.000Z",
+    "updatedAt": "2026-10-22T09:01:15Z"
+  },
+  {
+    "id": 97,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "10:00",
+    "fecha": "2026-10-22",
+    "lugar": "La Plata, Buenos Aires (Plaza Malvinas y Ministerio de Salud de la Provincia, calle 18)",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "Comisión Provincial de Residentes de PAMI (CPR)",
+      "Becarios en Lucha y becarios autoconvocados",
+      "ATE Gran Buenos Aires Sur",
+      "CICOP (seccionales de Quilmes y Esteves)",
+      "Lista de la Unidad del Hospital de Quilmes y Lista Pluricolor de CICOP",
+      "Juntas internas y cuerpos de delegados de ATE de hospitales de la Provincia"
+    ],
+    "motivo": "Jornada de lucha de más de treinta hospitales de la Provincia de Buenos Aires con movilización al Ministerio de Salud en La Plata y punto de concentración en Plaza Malvinas desde las 10:00, coordinada por personal de planta permanente, becarios, residentes, juntas internas y agrupaciones sindicales combativas. Reclaman el pase a planta permanente de los miles de becarios provinciales (entre 7.000 y 9.000, con salarios de alrededor de $700.000 sin aguinaldo ni aportes jubilatorios), la derogación del Decreto 5725/89, un aumento de emergencia equivalente a la canasta de consumos mínimos calculada por ATE-INDEC (unos $2.600.000), ampliación presupuestaria para cubrir vacantes e incorporar personal y el cese de la persecución, el clientelismo y la violencia laboral. La Comisión Provincial de Residentes se suma con paro provincial los días 21 y 22 de octubre, y la docencia oponente de la Multicolor acompaña la convocatoria.",
+    "status": "programado",
+    "lat": -34.9219,
+    "lng": -57.954,
+    "fuentes": [
+      {
+        "nombre": "Nuestra Propuesta",
+        "url": "https://nuestrapropuesta.org.ar/secciones/sindical/los-trabajadores-de-la-salud-bonaerenses-en-pie-de-lucha-contra-el-ajuste-y-la-precarizaci%C3%B3n.html"
+      },
+      {
+        "nombre": "La Izquierda Diario",
+        "url": "https://www.laizquierdadiario.com/22-de-octubre-por-la-salud-residentes-becarios-ATs-y-trabajadores-de-salud-a-las-calles-en-la"
+      },
+      {
+        "nombre": "Periodismo de Izquierda",
+        "url": "https://periodismodeizquierda.com/movilizacion-residentes-a-la-plata/"
+      }
+    ],
+    "createdAt": "2026-10-22T07:06:18.000Z",
+    "updatedAt": "2026-10-22T09:01:15Z"
   }
 ]
