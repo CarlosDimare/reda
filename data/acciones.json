@@ -11,8 +11,8 @@
     "organizaciones": [
       "Sindicato de trabajadores de la planta de Micron en Taoyuan"
     ],
-    "motivo": "La huelga de 24 horas del sindicato de Micron en Taoyuan, la primera de la industria de semiconductores de Taiwán, continúa hoy hasta las 09:00 hora local tras comenzar a las 09:00 del 22 de octubre. Los piquetes frente a la planta se mantienen y el sindicato exige un reparto transparente del 15% de los beneficios operativos y rechaza el acuerdo separado firmado por Micron con el sindicato de Taichung, que puso fin a la mediación prevista para el mismo día.",
-    "status": "en_curso",
+    "motivo": "La huelga de advertencia de 24 horas del sindicato de Micron en Taoyuan, la primera de la industria de semiconductores de Taiwán, concluyó hoy a las 09:00 hora local tras comenzar a las 09:00 del 22 de octubre. En la votación interna, 1.633 de 1.637 afiliados rechazaron la propuesta de la empresa. La reunión de conciliación prevista para hoy fue aplazada al 27 de octubre por el cierre de actividades decretado ante el tifón. El sindicato exige un reparto transparente del 15% de los beneficios operativos y rechaza el acuerdo separado firmado con el sindicato de Taichung.",
+    "status": "finalizado",
     "lat": 24.992999,
     "lng": 121.301,
     "fuentes": [
@@ -25,20 +25,20 @@
         "url": "https://www.taipeitimes.com/News/biz/archives/2026/10/22/2003866387"
       },
       {
-        "nombre": "IBTimes Taiwan",
-        "url": "https://tw.ibtimes.com/micron-taichung-labor-agreement-1812583"
+        "nombre": "DigiTimes",
+        "url": "https://www.digitimes.com/news/a20261023PD239/strike-taiwan-micron-management-2026.html"
+      },
+      {
+        "nombre": "Liberty Times",
+        "url": "https://ec.ltn.com.tw/article/breakingnews/5616347"
       },
       {
         "nombre": "Focus Taiwan (CNA)",
         "url": "https://focustaiwan.tw/business/202610220016"
-      },
-      {
-        "nombre": "AFP",
-        "url": "https://www.afp.com/ar/node/3848763"
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-23T05:13:40Z"
+    "updatedAt": "2026-10-23T11:03:16Z"
   },
   {
     "id": 15,
@@ -53,7 +53,7 @@
       "Morcha conjunta de trabajadores de la HBVNL",
       "Engineers Association"
     ],
-    "motivo": "Segundo día de la huelga de tres días, del 22 al 24 de octubre, de los trabajadores de las empresas de distribución eléctrica de Haryana, con dharna permanente contra la licencia de 25 años en paralelo concedida a la privada Eleven Power para distribuir electricidad en Gurugram y Nuh. Participan cerca de 40.000 empleados de DHBVL, contratistas y subcontratistas; el 21 de octubre quemaron copias de la orden.",
+    "motivo": "Tercer día de la huelga de tres días, del 22 al 24 de octubre, de los trabajadores de las empresas de distribución eléctrica de Haryana, con dharna permanente contra la licencia de 25 años en paralelo concedida a la privada Eleven Power para distribuir electricidad en Gurugram y Nuh. Participan cerca de 40.000 empleados de DHBVNL, contratistas y subcontratistas; el paro comenzó a las 22:00 del miércoles y afecta a Gurugram, Faridabad, Nuh, Sonipat, Rewari, Jhajjar, Karnal y Ambala. El ministro de Energía, Anil Vij, anunció que el gobierno invocará la Sección 108 y se reunirá con los sindicatos a las 15:00 para intentar poner fin al paro.",
     "status": "en_curso",
     "lat": 29.3956,
     "lng": 76.9966,
@@ -61,10 +61,22 @@
       {
         "nombre": "AajTak",
         "url": "https://www.aajtak.in/india/haryana/story/haryana-power-employees-announce-3-day-statewide-strike-from-october-22-over-private-distribution-licence-in-gurugram-and-nuh-blackout-fears-loom-lcly-strc-2676017-2026-10-21"
+      },
+      {
+        "nombre": "India Today",
+        "url": "https://www.indiatoday.in/india/story/haryana-power-crisis-electricity-strike-outages-protests-eight-districts-3023164-2026-10-23"
+      },
+      {
+        "nombre": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/cities/chandigarh-news/outages-across-haryana-as-power-staff-begin-3-day-strike-101792695026042.html"
+      },
+      {
+        "nombre": "New Kerala",
+        "url": "https://www.newkerala.com/news/a/haryana-power-employees-strike-will-end-just-few-736.htm"
       }
     ],
     "createdAt": "2026-10-22T01:44:49.000Z",
-    "updatedAt": "2026-10-23T05:13:40Z"
+    "updatedAt": "2026-10-23T11:03:16Z"
   },
   {
     "id": 92,
@@ -99,7 +111,7 @@
       }
     ],
     "createdAt": "2026-10-22T07:03:43.000Z",
-    "updatedAt": "2026-10-23T05:13:40Z"
+    "updatedAt": "2026-10-23T11:03:16Z"
   },
   {
     "id": 94,
@@ -141,7 +153,7 @@
       }
     ],
     "createdAt": "2026-10-22T07:03:43.000Z",
-    "updatedAt": "2026-10-23T05:13:40Z"
+    "updatedAt": "2026-10-23T11:03:16Z"
   },
   {
     "id": 98,
@@ -183,7 +195,7 @@
       }
     ],
     "createdAt": "2026-10-22T18:06:07.000Z",
-    "updatedAt": "2026-10-23T05:13:40Z"
+    "updatedAt": "2026-10-23T11:03:16Z"
   },
   {
     "id": 111,
@@ -221,7 +233,7 @@
       }
     ],
     "createdAt": "2026-10-23T00:22:31.000Z",
-    "updatedAt": "2026-10-23T05:13:40Z"
+    "updatedAt": "2026-10-23T11:03:16Z"
   },
   {
     "id": 112,
@@ -237,7 +249,7 @@
       "31 federaciones departamentales y regionales del magisterio urbano"
     ],
     "motivo": "Paro nacional movilizado de 24 horas con suspensión de clases en los subsistemas de educación regular, alternativa, especial y superior. El magisterio urbano rechaza la transferencia de los institutos técnicos y tecnológicos a las gobernaciones y la descentralización educativa, y reclama defensa de la educación fiscal y gratuita, respeto al escalafón nacional, mayor presupuesto, salario digno y la abrogación de los decretos 5716 y 5750. La dirigencia no asistió a la convocatoria de diálogo del Ministerio de Educación y ratificó la medida.",
-    "status": "programado",
+    "status": "en_curso",
     "lat": -16.4897,
     "lng": -68.1193,
     "fuentes": [
@@ -259,7 +271,7 @@
       }
     ],
     "createdAt": "2026-10-23T00:22:31.000Z",
-    "updatedAt": "2026-10-23T05:13:40Z"
+    "updatedAt": "2026-10-23T11:03:16Z"
   },
   {
     "id": 113,
@@ -274,7 +286,7 @@
       "Jamaat-e-Islami Pakistan (JI)"
     ],
     "motivo": "Tercera fase de la campaña de Jamaat-e-Islami contra el recargo al petróleo, con sentadas y manifestaciones simultáneas en 150 ciudades y todos los distritos del país. El partido exige la abolición completa del recargo que grava el combustible y denuncia el aumento del coste de vida; advierte que mantendrá la protesta hasta obtener una respuesta escrita del Gobierno.",
-    "status": "programado",
+    "status": "en_curso",
     "lat": 33.6844,
     "lng": 73.0479,
     "fuentes": [
@@ -296,7 +308,7 @@
       }
     ],
     "createdAt": "2026-10-23T00:22:31.000Z",
-    "updatedAt": "2026-10-23T05:13:40Z"
+    "updatedAt": "2026-10-23T11:03:16Z"
   },
   {
     "id": 114,
@@ -312,7 +324,7 @@
       "Grupos locales de Quneitra"
     ],
     "motivo": "Jornada de protestas pacíficas en toda Siria contra las operaciones militares israelíes en el sur del país y la expansión de la zona de amortiguación. Las convocatorias se realizan bajo los lemas «Quneitra no está sola» y «El sur de Siria no es un escenario para tus elecciones», con una concentración frente a la sede de la ONU en Damasco y actos en Daraa, Homs, Aleppo, Suwayda, Raqqa, Masyaf y la rotonda de Khan Arnabeh. Los organizadores exigen la liberación de 49 sirios secuestrados o desaparecidos en poder de Israel y el fin de las violaciones de la soberanía siria.",
-    "status": "programado",
+    "status": "en_curso",
     "lat": 33.5138,
     "lng": 36.2765,
     "fuentes": [
@@ -334,7 +346,7 @@
       }
     ],
     "createdAt": "2026-10-23T00:22:31.000Z",
-    "updatedAt": "2026-10-23T05:13:40Z"
+    "updatedAt": "2026-10-23T11:03:16Z"
   },
   {
     "id": 115,
@@ -350,7 +362,7 @@
       "Unión Regional del Trabajo de Sfax"
     ],
     "motivo": "Huelga general en todos los institutos superiores y facultades de Sfax tras la muerte de la estudiante Rahma Dziri en la residencia universitaria de Sidi Mansour. Los convocantes denuncian la ausencia de unidades de salud permanentes en los alojamientos universitarios y el retraso de la ambulancia, y exigen una investigación, responsabilidades y la creación de estructuras médicas permanentes con personal y equipamiento para emergencias.",
-    "status": "programado",
+    "status": "en_curso",
     "lat": 34.7406,
     "lng": 10.7603,
     "fuentes": [
@@ -372,7 +384,7 @@
       }
     ],
     "createdAt": "2026-10-23T00:22:31.000Z",
-    "updatedAt": "2026-10-23T05:13:40Z"
+    "updatedAt": "2026-10-23T11:03:16Z"
   },
   {
     "id": 116,
@@ -389,7 +401,7 @@
       "Samyukt Kisan Morcha (SKM)"
     ],
     "motivo": "Jornada nacional de protestas contra la Revisión Intensiva Especial (SIR) del censo electoral y contra el comisionado electoral jefe, Gyanesh Kumar. En Delhi, los manifestantes se concentran desde la 13:00 en Gurudwara Bangla Sahib, Gol Dak Khana y Gol Market para marchar hacia la Comisión Electoral y celebrar un «Parlamento del Pueblo»; si la policía lo impide, prevén concentrarse pacíficamente. Exigen la destitución y procesamiento de Kumar, la anulación del SIR, la restitución de los derechos de voto de 13,41 millones de ciudadanos y una reforma electoral. La SKM convoca protestas en distritos y tehsils y la entrega de memorandos a los magistrados.",
-    "status": "programado",
+    "status": "en_curso",
     "lat": 28.6139,
     "lng": 77.209,
     "fuentes": [
@@ -411,7 +423,7 @@
       }
     ],
     "createdAt": "2026-10-23T00:22:31.000Z",
-    "updatedAt": "2026-10-23T05:13:40Z"
+    "updatedAt": "2026-10-23T11:03:16Z"
   },
   {
     "id": 117,
@@ -426,7 +438,7 @@
       "All India Punjab & Sind Bank Officers Union (AIPSBOU)"
     ],
     "motivo": "Demostración pacífica de oficiales del Punjab & Sind Bank por la muerte de dos trabajadores del banco, Bhupinder Singh y Pankul Rana, en casos vinculados a la presión laboral y el acoso de la dirección. La AIPSBOU exige el pago inmediato de las prestaciones pendientes, la tramitación acelerada de nombramientos por compasión para las familias y comités de investigación independientes con un miembro de la judicatura local y un representante sindical.",
-    "status": "programado",
+    "status": "en_curso",
     "lat": 30.7333,
     "lng": 76.7794,
     "fuentes": [
@@ -440,7 +452,7 @@
       }
     ],
     "createdAt": "2026-10-23T00:22:31.000Z",
-    "updatedAt": "2026-10-23T05:13:40Z"
+    "updatedAt": "2026-10-23T11:03:16Z"
   },
   {
     "id": 118,
@@ -477,7 +489,7 @@
       }
     ],
     "createdAt": "2026-10-23T00:22:31.000Z",
-    "updatedAt": "2026-10-23T05:13:40Z"
+    "updatedAt": "2026-10-23T11:03:16Z"
   },
   {
     "id": 119,
@@ -506,7 +518,7 @@
       }
     ],
     "createdAt": "2026-10-23T00:22:31.000Z",
-    "updatedAt": "2026-10-23T05:13:40Z"
+    "updatedAt": "2026-10-23T11:03:16Z"
   },
   {
     "id": 120,
@@ -539,7 +551,7 @@
       }
     ],
     "createdAt": "2026-10-23T00:22:31.000Z",
-    "updatedAt": "2026-10-23T05:13:40Z"
+    "updatedAt": "2026-10-23T11:03:16Z"
   },
   {
     "id": 121,
@@ -571,7 +583,227 @@
       }
     ],
     "createdAt": "2026-10-23T00:22:31.000Z",
-    "updatedAt": "2026-10-23T05:13:40Z"
+    "updatedAt": "2026-10-23T11:03:16Z"
+  },
+  {
+    "id": 123,
+    "seccion": "internacionales",
+    "pais": "Chipre",
+    "bandera": "🇨🇾",
+    "hora": "09:00",
+    "fecha": "2026-10-23",
+    "lugar": "Nicosia (Ministerio Adjunto de Bienestar Social)",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "PASEU-PEO",
+      "OEKDY-SEK",
+      "Isotita (sector de servicios sociales)"
+    ],
+    "motivo": "Jornada de doble huelga de 24 horas en Chipre: el personal de los programas de apoyo del Ministerio de Educación y los funcionarios de los Servicios de Bienestar Social paran en todo el país. Los primeros reclaman un subsidio para los meses de verano de junio a agosto de 2026, la cobertura de plazas temporales para el curso 2026-2027 y el derecho a un segundo empleo dentro del límite de 48 horas semanales. Los trabajadores sociales de Isotita exigen más contrataciones, límites de carga de casos, la retirada de circulares burocráticas y condiciones de seguridad, y convocaron una concentración a las 09:00 frente al Ministerio Adjunto de Bienestar Social. Los sindicatos advirtieron con una nueva huelga general el 2 de noviembre si no hay respuestas por escrito.",
+    "status": "en_curso",
+    "lat": 35.1856,
+    "lng": 33.3823,
+    "fuentes": [
+      {
+        "nombre": "AlphaNews.Live",
+        "url": "https://en.alphanews.live/cyprus/double-strike-today-in-education-and-social-services-demands-and-warnings-of-escalation/"
+      },
+      {
+        "nombre": "Cyprus Mail",
+        "url": "https://cyprus-mail.com/2026/10/23/education-support-programme-staff-on-strike"
+      },
+      {
+        "nombre": "Cyprus Mail",
+        "url": "https://cyprus-mail.com/2026/10/23/social-welfare-officers-strike-over-staff-shortages-and-working-conditions"
+      },
+      {
+        "nombre": "Politis",
+        "url": "https://en.politis.com.cy/news/cy-news/1056666/education-social-welfare-staff-hold-separate-24-hour-strikes"
+      }
+    ],
+    "createdAt": "2026-10-23T10:21:54.000Z",
+    "updatedAt": "2026-10-23T11:03:16Z"
+  },
+  {
+    "id": 124,
+    "seccion": "internacionales",
+    "pais": "Albania",
+    "bandera": "🇦🇱",
+    "hora": "10:00",
+    "fecha": "2026-10-23",
+    "lugar": "Tirana (Universidad Politécnica y Oficina del Primer Ministro)",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "Estudiantes de medicina de Tirana",
+      "Profesores de la Universidad Politécnica",
+      "Movimiento estudiantil contra Edi Rama"
+    ],
+    "motivo": "Undécimo día consecutivo de protestas estudiantiles contra el primer ministro Edi Rama, a quien exigen la renuncia y la disolución del Parlamento. Este viernes estudiantes de medicina y docentes de la Universidad Politécnica marchan desde las 10:00 hacia la Oficina del Primer Ministro, tras los enfrentamientos del jueves en el Parlamento y la represión policial de los días previos. Los manifestantes rechazan el diálogo propuesto por Rama y reclaman menores tasas universitarias, más inversión pública en educación y el fin de la corrupción en el sistema educativo.",
+    "status": "en_curso",
+    "lat": 41.3275,
+    "lng": 19.8187,
+    "fuentes": [
+      {
+        "nombre": "Albeu.com",
+        "url": "https://albeu.com/english/students-demand-ramas-resignation-march-toward-the-prime-ministers-office-and-call-on-citizens-to-join-the-protest/1069632/"
+      },
+      {
+        "nombre": "CNA (Aktualitet)",
+        "url": "https://www.cna.al/english/aktualitet/11-dite-ne-proteste-studentet-e-mjekesise-nisin-marshimin-i477694"
+      },
+      {
+        "nombre": "Panorama",
+        "url": "https://en.panorama.com.al/revolta-e-te-rinjve-kunder-rames-pedagoget-serish-protestojne-ne-oren-1000-marshim-ne-mbeshtetje-te-studenteve/"
+      }
+    ],
+    "createdAt": "2026-10-23T10:21:54.000Z",
+    "updatedAt": "2026-10-23T11:03:16Z"
+  },
+  {
+    "id": 125,
+    "seccion": "internacionales",
+    "pais": "Grecia",
+    "bandera": "🇬🇷",
+    "hora": "",
+    "fecha": "2026-10-23",
+    "lugar": "Puertos de todo el país (Pireo, Rafina, Lavrio, Patras e islas)",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "Panhellenic Seamen's Federation (PNO)",
+      "Panhellenic Union of Deckhands (PENEN)",
+      "Sindicatos de marinos y trabajadores portuarios"
+    ],
+    "motivo": "Huelga de marinos que mantiene suspendidas la mayoría de las conexiones de ferry entre el continente y las islas del Egeo y el Jónico. La medida comenzó el 22 de octubre y fue extendida hasta el 25 de octubre; hoy continúa el paro de 48 horas convocado por PNO y PENEN. Los sindicatos exigen un aumento salarial del 12%, la eliminación de la Ley 41/50 que limita la operación de los ferris rápidos y mejores condiciones de seguridad y trabajo. El servicio queda interrumpido en Pireo, Rafina, Lavrio, Patras e Igoumenitsa.",
+    "status": "en_curso",
+    "lat": 37.942,
+    "lng": 23.6465,
+    "fuentes": [
+      {
+        "nombre": "Passage Wire",
+        "url": "https://passagewire.com/articles/greece-ferry-strike-pno-october-2026-island-travel-disruptions"
+      },
+      {
+        "nombre": "The Maritime Executive",
+        "url": "https://maritime-executive.com/article/greek-seafarers-extend-strike-stopping-most-island-ferries"
+      },
+      {
+        "nombre": "Marine Insight",
+        "url": "https://www.marineinsight.com/greek-seafarers-extend-strike-for-better-wages-work-rules-suspending-ferry-services/"
+      }
+    ],
+    "createdAt": "2026-10-23T10:21:54.000Z",
+    "updatedAt": "2026-10-23T11:03:16Z"
+  },
+  {
+    "id": 126,
+    "seccion": "internacionales",
+    "pais": "México",
+    "bandera": "🇲🇽",
+    "hora": "",
+    "fecha": "2026-10-23",
+    "lugar": "Ciudad de México (Biblioteca Vasconcelos y oficinas de la Secretaría de Cultura, Dinamarca 84)",
+    "tipoAccion": "paro",
+    "organizaciones": [
+      "Sección SC-DGB-III del Sindicato Nacional de Cultura (SINAC)"
+    ],
+    "motivo": "Segundo día de cierre de la Biblioteca Vasconcelos y de las oficinas centrales de la Secretaría de Cultura por trabajadores del SINAC, que mantienen un paro con pancartas y bloqueo de accesos. Denuncian falta de insumos y mantenimiento, goteras, baños fuera de servicio, carencia de uniformes y presuntas violaciones a la libertad y los permisos sindicales, además de exigir la destitución de funcionarios acusados de discriminación e injerencia sindical. La Secretaría de Cultura pide restablecer el servicio y afirma que mantiene abierto el diálogo.",
+    "status": "en_curso",
+    "lat": 19.4486,
+    "lng": -99.151,
+    "fuentes": [
+      {
+        "nombre": "La Razón",
+        "url": "https://www.razon.com.mx/cultura/2026/10/23/cierran-la-vasconcelos-por-carencias-y-reclamos-laborales/"
+      },
+      {
+        "nombre": "La Razón",
+        "url": "https://www.razon.com.mx/cultura/2026/10/23/cierran-la-biblioteca-vasconcelos-por-protesta-del-sindicato-de-cultura/"
+      },
+      {
+        "nombre": "Excélsior",
+        "url": "https://www.excelsior.com.mx/cultura/biblioteca-vasconcelos-cierra-por-protesta-sindical-cultura-pide-restablecer-servicio"
+      },
+      {
+        "nombre": "Infobae",
+        "url": "https://www.infobae.com/mexico/2026/10/23/sindicato-cierra-la-biblioteca-vasconcelos-y-oficinas-de-cultura-que-pasara-con-los-libros-prestados/"
+      }
+    ],
+    "createdAt": "2026-10-23T10:21:54.000Z",
+    "updatedAt": "2026-10-23T11:03:16Z"
+  },
+  {
+    "id": 127,
+    "seccion": "internacionales",
+    "pais": "Kenia",
+    "bandera": "🇰🇪",
+    "hora": "",
+    "fecha": "2026-10-23",
+    "lugar": "Universidades públicas de todo el país (Nairobi y principales ciudades)",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "Universities Academic Staff Union (UASU)",
+      "Kenya University Staff Union (KUSU)",
+      "KUDHEIHA"
+    ],
+    "motivo": "Huelga nacional de personal académico y no académico de las universidades públicas que cumple su cuarta semana. Los sindicatos exigen la implementación del convenio colectivo 2025-2029, el pago de 7.900 millones de chelines en atrasos salariales y la contratación de más docentes ante un déficit estimado de 25.000 plazas. Las clases permanecen suspendidas y los estudiantes de la Universidad de Nairobi advirtieron que se sumarán a las protestas si el Gobierno no interviene para destrabar la negociación.",
+    "status": "en_curso",
+    "lat": -1.2921,
+    "lng": 36.8219,
+    "fuentes": [
+      {
+        "nombre": "Daily Nation",
+        "url": "https://nation.africa/kenya/news/education/students-threaten-to-join-lecturers-strike-5642446"
+      },
+      {
+        "nombre": "Citizen Digital",
+        "url": "https://citizen.digital/article/parliament-urges-government-to-end-20-day-university-lecturers-strike-n392548"
+      },
+      {
+        "nombre": "Education News Kenya",
+        "url": "https://educationnews.co.ke/news/25-000-lecturer-shortage-deepens-university-crisis-as-wesonga-mukhwaya-petition-treasury"
+      }
+    ],
+    "createdAt": "2026-10-23T10:21:54.000Z",
+    "updatedAt": "2026-10-23T11:03:16Z"
+  },
+  {
+    "id": 128,
+    "seccion": "internacionales",
+    "pais": "Reino Unido",
+    "bandera": "🇬🇧",
+    "hora": "",
+    "fecha": "2026-10-23",
+    "lugar": "Dundee y Edimburgo (universidades), Leeds (hospitales) y Cwm Taf (Gales)",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "University and College Union (UCU)",
+      "UNISON",
+      "Unite"
+    ],
+    "motivo": "Jornada de huelgas en universidades y servicios de salud del Reino Unido. El personal de la Universidad de Dundee y de la Universidad de Edimburgo, afiliado a UCU, realiza hoy su último día de paro dentro de la huelga de cinco semanas por recortes de empleo y despidos; en Leeds, los asistentes de teatro del Leeds Teaching Hospitals mantienen una huelga indefinida por la clasificación de sus puestos, y en Cwm Taf, Gales, los visitadores sanitarios de Unite continúan su paro por la banda salarial y la reclasificación de funciones.",
+    "status": "en_curso",
+    "lat": 56.462,
+    "lng": -2.9707,
+    "fuentes": [
+      {
+        "nombre": "UK Strike Calendar",
+        "url": "https://www.strikecalendar.co.uk/"
+      },
+      {
+        "nombre": "UK Strike Calendar (NHS)",
+        "url": "https://www.strikecalendar.co.uk/sector/nhs"
+      },
+      {
+        "nombre": "UK Strike Calendar (Education)",
+        "url": "https://www.strikecalendar.co.uk/sector/education"
+      },
+      {
+        "nombre": "PCS Union",
+        "url": "https://www.pcs.org.uk/news-events/news/union-solidarity-round-19-25-october"
+      }
+    ],
+    "createdAt": "2026-10-23T10:21:54.000Z",
+    "updatedAt": "2026-10-23T11:03:16Z"
   },
   {
     "id": 82,
@@ -600,7 +832,7 @@
       }
     ],
     "createdAt": "2026-10-22T02:02:11.000Z",
-    "updatedAt": "2026-10-23T05:13:40Z"
+    "updatedAt": "2026-10-23T11:03:16Z"
   },
   {
     "id": 110,
@@ -626,7 +858,7 @@
       }
     ],
     "createdAt": "2026-10-22T21:56:05.000Z",
-    "updatedAt": "2026-10-23T05:13:40Z"
+    "updatedAt": "2026-10-23T11:03:16Z"
   },
   {
     "id": 122,
@@ -655,6 +887,6 @@
       }
     ],
     "createdAt": "2026-10-23T00:27:36.000Z",
-    "updatedAt": "2026-10-23T05:13:40Z"
+    "updatedAt": "2026-10-23T11:03:16Z"
   }
 ]
