@@ -32,7 +32,7 @@
       }
     ],
     "createdAt": "2026-10-24T00:59:21.000Z",
-    "updatedAt": "2026-10-24T01:14:01Z"
+    "updatedAt": "2026-10-24T05:48:13Z"
   },
   {
     "id": 2002,
@@ -62,6 +62,96 @@
       }
     ],
     "createdAt": "2026-10-24T00:59:21.000Z",
-    "updatedAt": "2026-10-24T01:14:01Z"
+    "updatedAt": "2026-10-24T05:48:13Z"
+  },
+  {
+    "id": 2003,
+    "seccion": "internacionales",
+    "pais": "Francia",
+    "bandera": "🇫🇷",
+    "hora": "14:00",
+    "fecha": "2026-10-24",
+    "lugar": "París (Place de la Bastille - Place de la Nation)",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "Gilets Jaunes",
+      "CGT",
+      "Sindicatos y colectivos ciudadanos"
+    ],
+    "motivo": "Jornada nacional 'Acte II' de los chalecos amarillos contra el costo de vida, los precios de los carburantes, los recortes y las desigualdades. Se movilizan también estudiantes y sindicatos; autoridades han impuesto restricciones en varios centros urbanos.",
+    "status": "programado",
+    "lat": 48.853,
+    "lng": 2.3691,
+    "fuentes": [
+      {
+        "nombre": "Le Parisien",
+        "url": "https://www.leparisien.fr/paris-75/manifestation-du-24-octobre-la-prefecture-autorise-un-parcours-entre-bastille-et-nation-celui-des-gilets-jaunes-interdit-22-10-2026-5N35TQB2M5GZHCJLNUD2EHXFSY.php"
+      },
+      {
+        "nombre": "CNews",
+        "url": "https://www.cnews.fr/france/2026-10-22/gilets-jaunes-voici-la-carte-des-manifestations-du-24-octobre-prevues-partout-en"
+      },
+      {
+        "nombre": "The Local France",
+        "url": "https://www.thelocal.fr/20261022/french-authorities-seek-to-ban-or-curb-october-24th-protests"
+      }
+    ],
+    "createdAt": "2026-10-24T05:38:21.000Z",
+    "updatedAt": "2026-10-24T05:48:13Z"
+  },
+  {
+    "id": 3001,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-10-24",
+    "lugar": "La Plata, Autopista Buenos Aires–La Plata, altura Diagonal 74",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Organizaciones sociales",
+      "Organizaciones sindicales"
+    ],
+    "motivo": "Corte en la subida de la autopista en rechazo a las políticas de ajuste, el recorte a las jubilaciones, la pérdida del poder adquisitivo y el desfinanciamiento de programas sociales.",
+    "status": "en_curso",
+    "lat": -34.9205,
+    "lng": -57.9536,
+    "fuentes": [
+      {
+        "nombre": "De Gremiales",
+        "url": "https://www.degremiales.com/Protesta-en-La-Plata-corte-en-la-subida-de-la-Autopista-por-los-ajustes-del-Gobierno-y-el-recorte-a-las-jubilaciones-4010"
+      }
+    ],
+    "createdAt": "2026-10-24T05:45:12.000Z",
+    "updatedAt": "2026-10-24T05:48:13Z"
+  },
+  {
+    "id": 3002,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "15:00",
+    "fecha": "2026-10-24",
+    "lugar": "Puerto Madryn, Monumento a la Cola de la Ballena",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "Vecinos autoconvocados"
+    ],
+    "motivo": "Marcha pacífica en silencio y de negro para exigir respuestas sobre la mortandad masiva de ballenas francas australes, con información científica, estudios del agua y transparencia.",
+    "status": "programado",
+    "lat": -42.7692,
+    "lng": -65.0385,
+    "fuentes": [
+      {
+        "nombre": "El Extremo Sur",
+        "url": "https://www.elextremosur.com/nota/59980-frente-a-la-mortandad-de-ballenas-los-vecinos-convocan-marcha-en-puerto-madryn/"
+      },
+      {
+        "nombre": "Diario Jornada",
+        "url": "https://www.diariojornada.com.ar/425612/magazine/vecinos_autoconvocados_marchan_por_mortandad_de_ballenas"
+      }
+    ],
+    "createdAt": "2026-10-24T05:45:12.000Z",
+    "updatedAt": "2026-10-24T05:48:13Z"
   }
 ]
