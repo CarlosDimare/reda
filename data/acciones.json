@@ -38,10 +38,14 @@
       {
         "nombre": "AP News",
         "url": "https://apnews.com/article/france-protests-paris-unrest-ad2fb9206e72e5d1b4ae43fdf7aa96a9"
+      },
+      {
+        "nombre": "The Guardian",
+        "url": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news"
       }
     ],
     "createdAt": "2026-10-24T00:59:21.000Z",
-    "updatedAt": "2026-10-24T17:39:59Z"
+    "updatedAt": "2026-10-24T20:17:36Z"
   },
   {
     "id": 2002,
@@ -80,7 +84,7 @@
       }
     ],
     "createdAt": "2026-10-24T00:59:21.000Z",
-    "updatedAt": "2026-10-24T17:39:59Z"
+    "updatedAt": "2026-10-24T20:17:36Z"
   },
   {
     "id": 2003,
@@ -114,8 +118,8 @@
         "url": "https://www.leparisien.fr/paris-75/manifestation-du-24-octobre-la-prefecture-autorise-un-parcours-entre-bastille-et-nation-celui-des-gilets-jaunes-interdit-22-10-2026-5N35TQB2M5GZHCJLNUD2EHXFSY.php"
       }
     ],
-    "createdAt": "2026-10-24T05:38:21.000Z",
-    "updatedAt": "2026-10-24T17:39:59Z"
+    "createdAt": "2026-10-24T00:59:21.000Z",
+    "updatedAt": "2026-10-24T20:17:36Z"
   },
   {
     "id": 2004,
@@ -153,7 +157,7 @@
       }
     ],
     "createdAt": "2026-10-24T10:15:52.000Z",
-    "updatedAt": "2026-10-24T17:39:59Z"
+    "updatedAt": "2026-10-24T20:17:36Z"
   },
   {
     "id": 2005,
@@ -187,7 +191,7 @@
       }
     ],
     "createdAt": "2026-10-24T10:15:52.000Z",
-    "updatedAt": "2026-10-24T17:39:59Z"
+    "updatedAt": "2026-10-24T20:17:36Z"
   },
   {
     "id": 2006,
@@ -221,7 +225,7 @@
       }
     ],
     "createdAt": "2026-10-24T10:15:52.000Z",
-    "updatedAt": "2026-10-24T17:39:59Z"
+    "updatedAt": "2026-10-24T20:17:36Z"
   },
   {
     "id": 2007,
@@ -265,7 +269,7 @@
       }
     ],
     "createdAt": "2026-10-24T10:15:52.000Z",
-    "updatedAt": "2026-10-24T17:39:59Z"
+    "updatedAt": "2026-10-24T20:17:36Z"
   },
   {
     "id": 2008,
@@ -313,7 +317,7 @@
       }
     ],
     "createdAt": "2026-10-24T10:15:52.000Z",
-    "updatedAt": "2026-10-24T17:39:59Z"
+    "updatedAt": "2026-10-24T20:17:36Z"
   },
   {
     "id": 2009,
@@ -354,7 +358,7 @@
       }
     ],
     "createdAt": "2026-10-24T10:15:52.000Z",
-    "updatedAt": "2026-10-24T17:39:59Z"
+    "updatedAt": "2026-10-24T20:17:36Z"
   },
   {
     "id": 2010,
@@ -386,7 +390,7 @@
       }
     ],
     "createdAt": "2026-10-24T14:04:11.000Z",
-    "updatedAt": "2026-10-24T17:39:59Z"
+    "updatedAt": "2026-10-24T20:17:36Z"
   },
   {
     "id": 2011,
@@ -421,7 +425,7 @@
       }
     ],
     "createdAt": "2026-10-24T14:04:11.000Z",
-    "updatedAt": "2026-10-24T17:39:59Z"
+    "updatedAt": "2026-10-24T20:17:36Z"
   },
   {
     "id": 2012,
@@ -447,7 +451,7 @@
       }
     ],
     "createdAt": "2026-10-24T14:04:11.000Z",
-    "updatedAt": "2026-10-24T17:39:59Z"
+    "updatedAt": "2026-10-24T20:17:36Z"
   },
   {
     "id": 2014,
@@ -487,8 +491,69 @@
         "url": "https://afghan-kultur.de/aktuelles/2026/koordinierte-proteste-gegen-abschiebungen/"
       }
     ],
-    "createdAt": "2026-10-24T17:31:03.000Z",
-    "updatedAt": "2026-10-24T17:39:59Z"
+    "createdAt": "2026-10-24T05:38:21.000Z",
+    "updatedAt": "2026-10-24T20:17:36Z"
+  },
+  {
+    "id": 2015,
+    "seccion": "internacionales",
+    "pais": "Italia",
+    "bandera": "🇮🇹",
+    "hora": "",
+    "fecha": "2026-10-24",
+    "lugar": "Roma (centro histórico)",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Grupos estudiantiles de derecha",
+      "Unlock Everything"
+    ],
+    "motivo": "Demostración 'Unlock Everything' convocada por grupos estudiantiles de derecha en oposición a las recientes protestas estudiantiles de izquierda, en una jornada con varias manifestaciones en Roma. Cientos de estudiantes marcharon pacíficamente para desmarcarse de los disturbios de la semana anterior; también hubo una marcha anti-guerra y un intento de ingreso al Coliseo.",
+    "status": "finalizada",
+    "lat": 41.9028,
+    "lng": 12.4964,
+    "fuentes": [
+      {
+        "nombre": "AP News",
+        "url": "https://apnews.com/article/protests-sweep-across-europe-photos-c1a8585cb4884f219541611b199e9ade"
+      },
+      {
+        "nombre": "The Boston Globe",
+        "url": "https://www.bostonglobe.com/2026/10/24/world/italy-sends-hundreds-of-soldiers-to-milan-for-protest/"
+      }
+    ],
+    "createdAt": "2026-10-24T20:11:48.000Z",
+    "updatedAt": "2026-10-24T20:17:36Z"
+  },
+  {
+    "id": 2016,
+    "seccion": "internacionales",
+    "pais": "España",
+    "bandera": "🇪🇸",
+    "hora": "",
+    "fecha": "2026-10-24",
+    "lugar": "Madrid (Consejería de Educación, Ciencia y Universidades)",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "AMPAS y AFAS de la escuela pública madrileña",
+      "Familias de la educación pública",
+      "Comité de Huelga Mixto de la Educación Pública"
+    ],
+    "motivo": "Concentración de más de 500 familias, según la Delegación del Gobierno, frente a la Consejería de Educación en apoyo a la huelga indefinida del profesorado de la educación pública madrileña, iniciada el 14 de octubre. Reclaman una mesa de negociación, el cese de las descalificaciones y mejoras laborales y de recursos.",
+    "status": "finalizada",
+    "lat": 40.4193,
+    "lng": -3.6974,
+    "fuentes": [
+      {
+        "nombre": "EFE",
+        "url": "https://efe.com/espana/2026-10-24/familias-concentran-apoyo-docentes-huelga-madrid/"
+      },
+      {
+        "nombre": "Europa Press",
+        "url": "https://www.europapress.es/madrid/noticia-sindicatos-educativos-acusan-zarzalejo-generar-enfrentamiento-profesorado-buscar-disuadirles-huelga-20261024105615.html"
+      }
+    ],
+    "createdAt": "2026-10-24T20:11:48.000Z",
+    "updatedAt": "2026-10-24T20:17:36Z"
   },
   {
     "id": 3001,
@@ -514,7 +579,7 @@
       }
     ],
     "createdAt": "2026-10-24T05:45:12.000Z",
-    "updatedAt": "2026-10-24T17:39:59Z"
+    "updatedAt": "2026-10-24T20:17:36Z"
   },
   {
     "id": 3002,
@@ -529,7 +594,7 @@
       "Vecinos autoconvocados"
     ],
     "motivo": "Marcha pacífica en silencio y de negro para exigir respuestas sobre la mortandad masiva de ballenas francas australes, con información científica, estudios del agua y transparencia.",
-    "status": "programado",
+    "status": "finalizada",
     "lat": -42.7692,
     "lng": -65.0385,
     "fuentes": [
@@ -543,7 +608,7 @@
       }
     ],
     "createdAt": "2026-10-24T05:45:12.000Z",
-    "updatedAt": "2026-10-24T17:39:59Z"
+    "updatedAt": "2026-10-24T20:17:36Z"
   },
   {
     "id": 3003,
@@ -559,11 +624,15 @@
       "Resistencia Torta",
       "Más de 20 agrupaciones de la sociedad civil"
     ],
-    "motivo": "Décima Marcha del Orgullo de Santa Fe, con concentración a las 16:30 y salida a las 17:30 hacia El Molino. Reclaman la implementación del cupo laboral travesti trans en la ciudad y la provincia, el fortalecimiento de la salud sexual, la plena implementación de la ESI y respuestas frente a los discursos de odio y el ajuste.",
-    "status": "programado",
+    "motivo": "Décima Marcha del Orgullo de Santa Fe, con concentración a las 16:30 y salida a las 17:30 hacia El Molino. La movilización ya partió desde bulevar Gálvez y Vélez Sarsfield hacia El Molino, Fábrica Cultural, donde se realiza el Festival Orgulloso. Reclaman la implementación del cupo laboral travesti trans en la ciudad y la provincia, el fortalecimiento de la salud sexual, la plena implementación de la ESI y respuestas frente a los discursos de odio y el ajuste.",
+    "status": "en_curso",
     "lat": -31.6333,
     "lng": -60.7,
     "fuentes": [
+      {
+        "nombre": "Aire de Santa Fe",
+        "url": "https://www.airedesantafe.com.ar/santa-fe/la-marcha-del-orgullo-ya-recorre-santa-fe-diez-anos-movilizacion-visibilidad-y-reclamos-n674311"
+      },
       {
         "nombre": "Aire de Santa Fe",
         "url": "https://www.airedesantafe.com.ar/santa-fe/santa-fe-celebra-10-anos-ininterrumpidos-la-marcha-del-orgullo-horario-recorrido-y-consignas-n674155"
@@ -578,7 +647,7 @@
       }
     ],
     "createdAt": "2026-10-24T17:32:35.000Z",
-    "updatedAt": "2026-10-24T17:39:59Z"
+    "updatedAt": "2026-10-24T20:17:36Z"
   },
   {
     "id": 3004,
@@ -603,7 +672,7 @@
       }
     ],
     "createdAt": "2026-10-24T17:32:35.000Z",
-    "updatedAt": "2026-10-24T17:39:59Z"
+    "updatedAt": "2026-10-24T20:17:36Z"
   },
   {
     "id": 3005,
@@ -633,7 +702,7 @@
       }
     ],
     "createdAt": "2026-10-24T17:32:35.000Z",
-    "updatedAt": "2026-10-24T17:39:59Z"
+    "updatedAt": "2026-10-24T20:17:36Z"
   },
   {
     "id": 3006,
@@ -662,6 +731,6 @@
       }
     ],
     "createdAt": "2026-10-24T17:32:35.000Z",
-    "updatedAt": "2026-10-24T17:39:59Z"
+    "updatedAt": "2026-10-24T20:17:36Z"
   }
 ]
