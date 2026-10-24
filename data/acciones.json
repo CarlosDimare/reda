@@ -18,7 +18,7 @@
       "UNEF",
       "Union étudiante"
     ],
-    "motivo": "Jornada nacional de movilización contra el costo de vida, la precariedad y los recortes educativos. La Prefectura impuso un recorrido entre Porte d'Italie y Porte de Vincennes (13:00-19:00) tras prohibir el trayecto Bastille-Nation; la intersindical aceptó el itinerario tras el rechazo judicial de su recurso. Se esperan entre 400.000 y 500.000 manifestantes en todo el país, con 70.000 policías y gendarmes desplegados.",
+    "motivo": "Jornada nacional de movilización contra el costo de vida, la precariedad y los recortes educativos. La Prefectura impuso un recorrido entre Porte d'Italie y Porte de Vincennes tras prohibir el trayecto Bastille-Nation; la intersindical aceptó el itinerario tras el rechazo judicial de su recurso. El Ministerio del Interior cifró 410.000 manifestantes en todo el país (110.000 en París), mientras la CGT reivindicó cerca de 800.000. Al final de la marcha parisina, en Porte de Vincennes, hubo lanzamientos de proyectiles y la policía respondió con gases lacrimógenos y cañones de agua.",
     "status": "en_curso",
     "lat": 48.8566,
     "lng": 2.3522,
@@ -41,7 +41,7 @@
       }
     ],
     "createdAt": "2026-10-24T00:59:21.000Z",
-    "updatedAt": "2026-10-24T14:18:42Z"
+    "updatedAt": "2026-10-24T17:39:59Z"
   },
   {
     "id": 2002,
@@ -50,14 +50,14 @@
     "bandera": "🇫🇷",
     "hora": "",
     "fecha": "2026-10-24",
-    "lugar": "Lyon, Marsella, Niza, Montpellier y otras ciudades",
+    "lugar": "Lyon, Marsella, Toulouse, Nantes, Burdeos, Estrasburgo, Rennes, Montpellier y Niza",
     "tipoAccion": "protesta",
     "organizaciones": [
       "Colectivos estudiantiles",
       "Grupos ciudadanos",
       "Gilets Jaunes"
     ],
-    "motivo": "Protestas descentralizadas contra el costo de vida y los recortes educativos. En Lyon y Marsella rigen prohibiciones de manifestación; en Lyon la policía dispersó con gases lacrimógenos una concentración cerca de la Universidad Lyon 3 y hubo cortejos no autorizados. En Niza y Montpellier también se impusieron restricciones a las marchas.",
+    "motivo": "Protestas descentralizadas contra el costo de vida y los recortes educativos, con unos 10.000 manifestantes en Lyon pese a la prohibición, 17.000 en Marsella según la policía (100.000 según la CGT) y 26.500 en Toulouse. Hubo gases lacrimógenos en Lyon, Clermont-Ferrand, Estrasburgo, Montpellier, Lille, Nantes, Burdeos y Niza, y enfrentamientos en varias ciudades. La Prefectura prohibió marchas en Lyon, Niza, Montpellier, Rouen y otras ciudades.",
     "status": "en_curso",
     "lat": 45.764,
     "lng": 4.8357,
@@ -80,7 +80,7 @@
       }
     ],
     "createdAt": "2026-10-24T00:59:21.000Z",
-    "updatedAt": "2026-10-24T14:18:42Z"
+    "updatedAt": "2026-10-24T17:39:59Z"
   },
   {
     "id": 2003,
@@ -115,7 +115,7 @@
       }
     ],
     "createdAt": "2026-10-24T05:38:21.000Z",
-    "updatedAt": "2026-10-24T14:18:42Z"
+    "updatedAt": "2026-10-24T17:39:59Z"
   },
   {
     "id": 2004,
@@ -153,7 +153,7 @@
       }
     ],
     "createdAt": "2026-10-24T10:15:52.000Z",
-    "updatedAt": "2026-10-24T14:18:42Z"
+    "updatedAt": "2026-10-24T17:39:59Z"
   },
   {
     "id": 2005,
@@ -187,7 +187,7 @@
       }
     ],
     "createdAt": "2026-10-24T10:15:52.000Z",
-    "updatedAt": "2026-10-24T14:18:42Z"
+    "updatedAt": "2026-10-24T17:39:59Z"
   },
   {
     "id": 2006,
@@ -203,7 +203,7 @@
       "Movimientos por el derecho a la vivienda"
     ],
     "motivo": "Marcha por el derecho a la vivienda tras dos semanas de protestas y acampadas en Oporto. Exigen revertir la ley de arrendamientos, frenar los desalojos, limitar la compra de vivienda por fondos inmobiliarios, aumentar la vivienda pública y aplicar topes a los alquileres.",
-    "status": "programado",
+    "status": "en_curso",
     "lat": 41.1452,
     "lng": -8.6053,
     "fuentes": [
@@ -221,7 +221,7 @@
       }
     ],
     "createdAt": "2026-10-24T10:15:52.000Z",
-    "updatedAt": "2026-10-24T14:18:42Z"
+    "updatedAt": "2026-10-24T17:39:59Z"
   },
   {
     "id": 2007,
@@ -238,7 +238,7 @@
       "CGT",
       "Organizaciones sociales y vecinales"
     ],
-    "motivo": "Manifestación estatal por unas pensiones públicas dignas y por el derecho a la vivienda. Reclaman subir las pensiones un 6% en 2027, revertir la privatización y unir la lucha por salarios, pensiones y alquileres asequibles. Se enmarca en la campaña hacia la huelga general del 11 de noviembre.",
+    "motivo": "Manifestación estatal por unas pensiones públicas dignas y por el derecho a la vivienda. La Delegación del Gobierno cifró 25.000 participantes y los organizadores 50.000. Reclaman subir las pensiones un 6% en 2027, revalorizarlas conforme al IPC real, equiparar la pensión mínima al salario mínimo, revertir la privatización y unir la lucha por salarios, pensiones y alquileres asequibles. Se enmarca en la campaña hacia la huelga general del 11 de noviembre.",
     "status": "en_curso",
     "lat": 40.4068,
     "lng": -3.6906,
@@ -258,10 +258,14 @@
       {
         "nombre": "Euronews",
         "url": "https://www.euronews.com/2026/10/24/madrid-joins-weekend-of-protests-across-europe-as-thousands-rally-for-better-pensions"
+      },
+      {
+        "nombre": "La Sexta",
+        "url": "https://www.lasexta.com/noticias/sociedad/venden-miles-personas-inundan-madrid-claman-futuro-pensiones-multitudinaria-manifestacion_202610246adc97221e66613d9f1bd740.html"
       }
     ],
     "createdAt": "2026-10-24T10:15:52.000Z",
-    "updatedAt": "2026-10-24T14:18:42Z"
+    "updatedAt": "2026-10-24T17:39:59Z"
   },
   {
     "id": 2008,
@@ -270,7 +274,7 @@
     "bandera": "🇮🇹",
     "hora": "",
     "fecha": "2026-10-24",
-    "lugar": "Milán, Roma, Turín, Bolonia, Florencia, Bari, Génova y Padua",
+    "lugar": "Milán, Roma, Turín, Nápoles, Castel Volturno, Bolonia, Florencia, Bari, Génova, Padua y Verona",
     "tipoAccion": "protesta",
     "organizaciones": [
       "Movimento 17 Ottobre",
@@ -278,7 +282,7 @@
       "Grupos antagonistas",
       "Italia in Piazza"
     ],
-    "motivo": "Jornada nacional de protestas contra el costo de vida, la precariedad, el gasto militar y los recortes en educación y servicios públicos. El Movimento 17 Ottobre mantuvo en reserva los puntos de encuentro y las marchas no fueron notificadas a la policía; en Roma se sumó una marcha anti-guerra y una movilización de estudiantes de derecha bajo la consigna \"Unlock Everything\". Se desplegaron 1.500 agentes en Roma, 1.800 en Milán y 500 soldados adicionales en Milán.",
+    "motivo": "Jornada nacional de protestas contra el costo de vida, la precariedad, el gasto militar y los recortes en educación y servicios públicos. El Movimento 17 Ottobre mantuvo en reserva los puntos de encuentro y las marchas no fueron notificadas a la policía. En Roma se sumó una marcha anti-guerra bajo la consigna 'Keep Italy out of the war'; en Turín estudiantes y colectivos marcharon contra el rearme y el costo de la vida; en Nápoles y Castel Volturno se protestó contra la creación de un centro de detención y repatriación de migrantes. Se desplegaron 1.500 agentes en Roma, 1.800 en Milán y 500 soldados adicionales en Milán.",
     "status": "en_curso",
     "lat": 45.4642,
     "lng": 9.19,
@@ -302,10 +306,14 @@
       {
         "nombre": "Euronews",
         "url": "https://www.euronews.com/2026/10/24/italy-deploys-hundreds-of-soldiers-as-nationwide-protests-raise-fears-of-fresh-violence"
+      },
+      {
+        "nombre": "AP News",
+        "url": "https://apnews.com/article/europe-protests-rome-milan-b41b5adf5a749440abb88693059eeced"
       }
     ],
     "createdAt": "2026-10-24T10:15:52.000Z",
-    "updatedAt": "2026-10-24T14:18:42Z"
+    "updatedAt": "2026-10-24T17:39:59Z"
   },
   {
     "id": 2009,
@@ -346,7 +354,7 @@
       }
     ],
     "createdAt": "2026-10-24T10:15:52.000Z",
-    "updatedAt": "2026-10-24T14:18:42Z"
+    "updatedAt": "2026-10-24T17:39:59Z"
   },
   {
     "id": 2010,
@@ -378,7 +386,7 @@
       }
     ],
     "createdAt": "2026-10-24T14:04:11.000Z",
-    "updatedAt": "2026-10-24T14:18:42Z"
+    "updatedAt": "2026-10-24T17:39:59Z"
   },
   {
     "id": 2011,
@@ -413,7 +421,7 @@
       }
     ],
     "createdAt": "2026-10-24T14:04:11.000Z",
-    "updatedAt": "2026-10-24T14:18:42Z"
+    "updatedAt": "2026-10-24T17:39:59Z"
   },
   {
     "id": 2012,
@@ -439,37 +447,48 @@
       }
     ],
     "createdAt": "2026-10-24T14:04:11.000Z",
-    "updatedAt": "2026-10-24T14:18:42Z"
+    "updatedAt": "2026-10-24T17:39:59Z"
   },
   {
-    "id": 2013,
+    "id": 2014,
     "seccion": "internacionales",
-    "pais": "México",
-    "bandera": "🇲🇽",
-    "hora": "11:00",
+    "pais": "Alemania",
+    "bandera": "🇩🇪",
+    "hora": "14:00",
     "fecha": "2026-10-24",
-    "lugar": "Ciudad de México (Tribunal Federal de Conciliación y Arbitraje, Cuauhtémoc)",
+    "lugar": "Aeropuertos de Fráncfort, Colonia/Bonn, Düsseldorf, Leipzig/Halle, Berlín-BER, Múnich y Hanover; además, Dresde",
     "tipoAccion": "protesta",
     "organizaciones": [
-      "Coalición Nacional de Trabajadores de Salud",
-      "Fuerza Independiente de Trabajadores de la Salud"
+      "We'll Come United",
+      "Welcome United Rhein-Main",
+      "widersetzen",
+      "Afghanisches Kulturhaus",
+      "Hilfe für Menschen in Abschiebehaft Hof"
     ],
-    "motivo": "Protesta artístico-cultural \"En México no hay justicia para la salud\" por el Día de la Médica y el Médico, para exigir revisión de las condiciones laborales, abasto de medicamentos e insumos, transparencia en compras y mantenimiento hospitalario. Ese día también hay concentraciones de personas con discapacidad, colectivos feministas, cannábicos y de derechos animales en distintos puntos de la capital.",
-    "status": "programado",
-    "lat": 19.4271,
-    "lng": -99.1446,
+    "motivo": "Aktionstag 'Bundesweit gegen Abschiebewahn' con protestas simultáneas en los aeropuertos de Fráncfort, Colonia/Bonn, Düsseldorf, Leipzig/Halle, Berlín-BER, Múnich y Hanover, además de concentraciones en el centro de Hanover y Dresde. Los manifestantes rechazan la intensificación de las deportaciones, la ampliación de la detención administrativa y la construcción de nuevas infraestructuras de deportación; critican la cooperación del gobierno alemán con los talibanes para deportar a Afganistán. La policía estimó cientos de participantes: unos 400 en Leipzig, 300 en Fráncfort y 150 en Berlín.",
+    "status": "en_curso",
+    "lat": 50.0379,
+    "lng": 8.5622,
     "fuentes": [
       {
-        "nombre": "Infobae",
-        "url": "https://www.infobae.com/mexico/2026/10/24/en-vivo-bloqueos-accidentes-y-manifestaciones-hoy-24-de-octubre/"
+        "nombre": "Deutschlandfunk",
+        "url": "https://www.deutschlandfunk.de/proteste-an-mehreren-flughaefen-gegen-abschiebungen-102.html"
       },
       {
-        "nombre": "SSC-CDMX",
-        "url": "https://www.ssc.cdmx.gob.mx/storage/app/media/Movilizaciones/Agenda%20de%20Movilizaciones%20Sociales.pdf"
+        "nombre": "Der Spiegel",
+        "url": "https://www.spiegel.de/panorama/abschiebungen-hunderte-demonstrieren-an-flughaefen-in-deutschland-a-6cce2064-e091-4ec8-b72a-26832e1e815a"
+      },
+      {
+        "nombre": "nd-aktuell",
+        "url": "https://www.nd-aktuell.de/artikel/1203430.bundesweiter-aktionstag-hunderte-protestieren-an-flughaefen-gegen-abschiebungen.html"
+      },
+      {
+        "nombre": "Afghanisches Kulturhaus",
+        "url": "https://afghan-kultur.de/aktuelles/2026/koordinierte-proteste-gegen-abschiebungen/"
       }
     ],
-    "createdAt": "2026-10-24T14:04:11.000Z",
-    "updatedAt": "2026-10-24T14:18:42Z"
+    "createdAt": "2026-10-24T17:31:03.000Z",
+    "updatedAt": "2026-10-24T17:39:59Z"
   },
   {
     "id": 3001,
@@ -485,7 +504,7 @@
       "Organizaciones sindicales"
     ],
     "motivo": "Corte en la subida de la autopista en rechazo a las políticas de ajuste, el recorte a las jubilaciones, la pérdida del poder adquisitivo y el desfinanciamiento de programas sociales.",
-    "status": "en_curso",
+    "status": "finalizada",
     "lat": -34.9205,
     "lng": -57.9536,
     "fuentes": [
@@ -495,7 +514,7 @@
       }
     ],
     "createdAt": "2026-10-24T05:45:12.000Z",
-    "updatedAt": "2026-10-24T14:18:42Z"
+    "updatedAt": "2026-10-24T17:39:59Z"
   },
   {
     "id": 3002,
@@ -524,6 +543,125 @@
       }
     ],
     "createdAt": "2026-10-24T05:45:12.000Z",
-    "updatedAt": "2026-10-24T14:18:42Z"
+    "updatedAt": "2026-10-24T17:39:59Z"
+  },
+  {
+    "id": 3003,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "16:30",
+    "fecha": "2026-10-24",
+    "lugar": "Santa Fe (Bulevar Gálvez y Vélez Sarsfield - El Molino Fábrica Cultural)",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "Mesa del Orgullo Santa Fe",
+      "Resistencia Torta",
+      "Más de 20 agrupaciones de la sociedad civil"
+    ],
+    "motivo": "Décima Marcha del Orgullo de Santa Fe, con concentración a las 16:30 y salida a las 17:30 hacia El Molino. Reclaman la implementación del cupo laboral travesti trans en la ciudad y la provincia, el fortalecimiento de la salud sexual, la plena implementación de la ESI y respuestas frente a los discursos de odio y el ajuste.",
+    "status": "programado",
+    "lat": -31.6333,
+    "lng": -60.7,
+    "fuentes": [
+      {
+        "nombre": "Aire de Santa Fe",
+        "url": "https://www.airedesantafe.com.ar/santa-fe/santa-fe-celebra-10-anos-ininterrumpidos-la-marcha-del-orgullo-horario-recorrido-y-consignas-n674155"
+      },
+      {
+        "nombre": "Telefe Santa Fe",
+        "url": "https://santafe.mitelefe.com/noticias/marcha-con-orgullo-recorrido-horario-y-festival-en-santa-fe-pid2570427"
+      },
+      {
+        "nombre": "LT10",
+        "url": "https://www.lt10.com.ar/noticia/511940--se-realiza-en-santa-fe-la-marcha-del-orgullo-y-cerrara-con-un-festival-"
+      }
+    ],
+    "createdAt": "2026-10-24T17:32:35.000Z",
+    "updatedAt": "2026-10-24T17:39:59Z"
+  },
+  {
+    "id": 3004,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "18:00",
+    "fecha": "2026-10-24",
+    "lugar": "San José de la Dormida, Córdoba (Alto de la Cruz - Museo Sanavirón)",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "Centro Diverso Norte"
+    ],
+    "motivo": "Primera Marcha del Orgullo LGBTIQ+ del norte cordobés. La columna recorrerá los puntos estratégicos de la localidad y cerrará en el Museo Sanavirón con lectura de demandas, feria y espectáculos. Reclaman justicia por Luciana Centeno, la sanción de la Ley de Cupo Laboral Trans Travesti y políticas de salud mental y prevención del suicidio.",
+    "status": "programado",
+    "lat": -30.35,
+    "lng": -63.95,
+    "fuentes": [
+      {
+        "nombre": "Córdoba Gay",
+        "url": "https://cordobagay.com/2026/10/07/primera-marcha-orgullo-san-jose-de-la-dormida/"
+      }
+    ],
+    "createdAt": "2026-10-24T17:32:35.000Z",
+    "updatedAt": "2026-10-24T17:39:59Z"
+  },
+  {
+    "id": 3005,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-10-24",
+    "lugar": "Florencio Varela, Buenos Aires",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "Comisión Organizadora de la 9° Marcha del Orgullo",
+      "Asociación Civil Guerrerexs por la Diversidad Varelense"
+    ],
+    "motivo": "Novena Marcha del Orgullo de Florencio Varela, declarada de interés legislativo por el Concejo Deliberante. La convocatoria reivindica los derechos de la comunidad LGBTIQ+ frente a la discriminación y el desfinanciamiento de las políticas de género.",
+    "status": "programado",
+    "lat": -34.8167,
+    "lng": -58.2833,
+    "fuentes": [
+      {
+        "nombre": "ARGay",
+        "url": "https://argay.ar/marchas2026/"
+      },
+      {
+        "nombre": "Data Conurbano",
+        "url": "https://dataconurbano.net/politica/tension-en-el-hcd-de-florencio-varela-duras-criticas-al-bloque-de-la-libertad-avanza-durante-la-distincion-a-la-marcha-del-orgullo/"
+      }
+    ],
+    "createdAt": "2026-10-24T17:32:35.000Z",
+    "updatedAt": "2026-10-24T17:39:59Z"
+  },
+  {
+    "id": 3006,
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-10-24",
+    "lugar": "Cañuelas, Buenos Aires",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "Comisión Organizadora de la Marcha por la Diversidad de Cañuelas"
+    ],
+    "motivo": "Marcha del Orgullo y la Diversidad de Cañuelas, convocada para reivindicar los derechos de la comunidad LGBTIQ+, visibilizar sus reclamos y rechazar los discursos de odio.",
+    "status": "programado",
+    "lat": -35.05,
+    "lng": -58.75,
+    "fuentes": [
+      {
+        "nombre": "ARGay",
+        "url": "https://argay.ar/marchas2026/"
+      },
+      {
+        "nombre": "Agencia Presentes",
+        "url": "https://agenciapresentes.org/2026/09/24/orgullo-2026-en-argentina-guia-federal-y-colaborativa-de-marchas-y-actividades/"
+      }
+    ],
+    "createdAt": "2026-10-24T17:32:35.000Z",
+    "updatedAt": "2026-10-24T17:39:59Z"
   }
 ]
