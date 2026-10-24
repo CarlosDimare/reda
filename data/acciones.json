@@ -6,33 +6,38 @@
     "bandera": "🇫🇷",
     "hora": "13:00",
     "fecha": "2026-10-24",
-    "lugar": "París (Bastilla - Nación)",
+    "lugar": "París (Porte d'Italie - Porte de Vincennes)",
     "tipoAccion": "movilizacion",
     "organizaciones": [
       "CGT",
+      "CFDT",
+      "FO",
       "FSU",
-      "Solidaires"
+      "Solidaires",
+      "FAGE",
+      "UNEF",
+      "Union étudiante"
     ],
-    "motivo": "Jornada nacional de movilización contra el costo de vida, los recortes educativos y las condiciones laborales. Marcha sindical autorizada entre Bastilla y Nación a pesar de restricciones. Se esperan entre 400.000 y 500.000 manifestantes en todo el país.",
+    "motivo": "Jornada nacional de movilización contra el costo de vida, la precariedad y los recortes educativos. La Prefectura impuso un recorrido entre Porte d'Italie y Porte de Vincennes (13:00-19:00) tras prohibir el trayecto Bastille-Nation; la intersindical aceptó el itinerario tras el rechazo judicial de su recurso. Se esperan entre 400.000 y 500.000 manifestantes en todo el país, con 70.000 policías y gendarmes desplegados.",
     "status": "programado",
     "lat": 48.8566,
     "lng": 2.3522,
     "fuentes": [
       {
         "nombre": "France 24",
-        "url": "https://www.france24.com/en/europe/20261023-macron-meets-with-student-representatives-and-law-enforcement-ahead-of-new-protests"
+        "url": "https://www.france24.com/en/france/20261024-live-hundreds-of-protests-expected-in-france-amid-high-tensions-and-heavy-police-presence"
       },
       {
         "nombre": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cvde8g40xx42o"
+        "url": "https://www.bbc.com/news/articles/cj62yv5k0w4yo"
       },
       {
-        "nombre": "Reuters",
-        "url": "https://www.reuters.com/world/europe/france-braces-weekend-protests-after-violent-unrest-2026-10-23/"
+        "nombre": "franceinfo",
+        "url": "https://france3-regions.franceinfo.fr/paris-ile-de-france/direct-manifestation-du-24-octobre-a-paris-parcours-des-corteges-stations-fermees-securite-suivez-notre-direct-pour-tout-savoir-heure-par-heure-3438498.html"
       }
     ],
     "createdAt": "2026-10-24T00:59:21.000Z",
-    "updatedAt": "2026-10-24T05:48:13Z"
+    "updatedAt": "2026-10-24T10:20:10Z"
   },
   {
     "id": 2002,
@@ -41,28 +46,33 @@
     "bandera": "🇫🇷",
     "hora": "",
     "fecha": "2026-10-24",
-    "lugar": "Marsella, Lyon, Niza, Montpellier (centros urbanos)",
+    "lugar": "Lyon, Marsella, Niza, Montpellier y otras ciudades",
     "tipoAccion": "protesta",
     "organizaciones": [
       "Colectivos estudiantiles",
-      "Grupos ciudadanos"
+      "Grupos ciudadanos",
+      "Gilets Jaunes"
     ],
-    "motivo": "Protestas estudiantiles y ciudadanas contra las condiciones escolares, la escasez de docentes y el aumento del costo de vida. En Marsella, Lyon, Niza y Montpellier rigen prohibiciones totales de manifestaciones no sindicales tras los disturbios del fin de semana pasado.",
-    "status": "programado",
-    "lat": 43.2965,
-    "lng": 5.3698,
+    "motivo": "Protestas descentralizadas contra el costo de vida y los recortes educativos. En Lyon y Marsella rigen prohibiciones de manifestación; en Lyon la policía dispersó con gases lacrimógenos una concentración cerca de la Universidad Lyon 3 y hubo cortejos no autorizados. En Niza y Montpellier también se impusieron restricciones a las marchas.",
+    "status": "en_curso",
+    "lat": 45.764,
+    "lng": 4.8357,
     "fuentes": [
+      {
+        "nombre": "Nouvel Obs",
+        "url": "https://www.nouvelobs.com/societe/20261024.OBS119479/en-direct-manifestation-du-24-octobre-une-semaine-apres-les-violences-du-17-octobre-suivez-la-nouvelle-journee-de-mobilisation.html"
+      },
       {
         "nombre": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/10/23/we-want-promises-backed-by-results"
       },
       {
         "nombre": "France 24",
-        "url": "https://www.france24.com/en/europe/20261023-macron-meets-with-student-representatives-and-law-enforcement-ahead-of-new-protests"
+        "url": "https://www.france24.com/fr/info-en-continu/20261024-nouvelle-journ%C3%A9e-de-mobilisation-sous-tr%C3%A8s-haute-s%C3%A9curit%C3%A9-apr%C3%A8s-le-chaos-du-17-octobre"
       }
     ],
     "createdAt": "2026-10-24T00:59:21.000Z",
-    "updatedAt": "2026-10-24T05:48:13Z"
+    "updatedAt": "2026-10-24T10:20:10Z"
   },
   {
     "id": 2003,
@@ -71,33 +81,252 @@
     "bandera": "🇫🇷",
     "hora": "14:00",
     "fecha": "2026-10-24",
-    "lugar": "París (Place de la Bastille - Place de la Nation)",
+    "lugar": "París (Bastille, Opéra, Madeleine, Saint-Lazare) y más de 700 acciones en Francia",
     "tipoAccion": "movilizacion",
     "organizaciones": [
-      "Gilets Jaunes",
-      "CGT",
-      "Sindicatos y colectivos ciudadanos"
+      "Coordination des Gilets Jaunes",
+      "Colectivos ciudadanos",
+      "Interfac IDF"
     ],
-    "motivo": "Jornada nacional 'Acte II' de los chalecos amarillos contra el costo de vida, los precios de los carburantes, los recortes y las desigualdades. Se movilizan también estudiantes y sindicatos; autoridades han impuesto restricciones en varios centros urbanos.",
+    "motivo": "Acte II de los chalecos amarillos con más de 700 acciones convocadas en todo el país (500 manifestaciones, bloqueos en 86 rotondas, 21 estaciones de servicio y 33 estaciones de tren). En París, la ruta Bastille-Opéra fue prohibida; convocan concentraciones en Bastille y, desde las 14:00, en Madeleine, Opéra y Saint-Lazare. La ruta sindical Bastille-Nation también fue prohibida por la Prefectura.",
     "status": "programado",
     "lat": 48.853,
     "lng": 2.3691,
     "fuentes": [
       {
+        "nombre": "CNews",
+        "url": "https://www.cnews.fr/france/2026-10-24/mobilisation-du-24-octobre-paris-le-parcours-entre-bastille-et-nation-finalement"
+      },
+      {
+        "nombre": "France 24",
+        "url": "https://www.france24.com/fr/info-en-continu/20261024-nouvelle-journ%C3%A9e-de-mobilisation-sous-tr%C3%A8s-haute-s%C3%A9curit%C3%A9-apr%C3%A8s-le-chaos-du-17-octobre"
+      },
+      {
         "nombre": "Le Parisien",
         "url": "https://www.leparisien.fr/paris-75/manifestation-du-24-octobre-la-prefecture-autorise-un-parcours-entre-bastille-et-nation-celui-des-gilets-jaunes-interdit-22-10-2026-5N35TQB2M5GZHCJLNUD2EHXFSY.php"
-      },
-      {
-        "nombre": "CNews",
-        "url": "https://www.cnews.fr/france/2026-10-22/gilets-jaunes-voici-la-carte-des-manifestations-du-24-octobre-prevues-partout-en"
-      },
-      {
-        "nombre": "The Local France",
-        "url": "https://www.thelocal.fr/20261022/french-authorities-seek-to-ban-or-curb-october-24th-protests"
       }
     ],
     "createdAt": "2026-10-24T05:38:21.000Z",
-    "updatedAt": "2026-10-24T05:48:13Z"
+    "updatedAt": "2026-10-24T10:20:10Z"
+  },
+  {
+    "id": 2004,
+    "seccion": "internacionales",
+    "pais": "Francia",
+    "bandera": "🇫🇷",
+    "hora": "10:30",
+    "fecha": "2026-10-24",
+    "lugar": "Orléans (Esplanade du Souvenir Français)",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "Marcha de las Solidaridades",
+      "CGT",
+      "Partido Socialista",
+      "La France Insoumise",
+      "Les Écologistes",
+      "Más de 50 organizaciones sociales y políticas"
+    ],
+    "motivo": "Manifestación contra el congreso nacional del Rassemblement National y contra la extrema derecha, el racismo y el fascismo. Se esperan entre 20.000 y 30.000 personas; hay 3.000 policías y gendarmes desplegados y un dispositivo de seguridad excepcional en el centro de la ciudad.",
+    "status": "en_curso",
+    "lat": 47.9029,
+    "lng": 1.9093,
+    "fuentes": [
+      {
+        "nombre": "France 3 Régions",
+        "url": "https://france3-regions.franceinfo.fr/centre-val-de-loire/loiret/orleans/direct-congres-du-rn-a-orleans-manifestation-antifa-suivez-la-journee-de-mobilisation-du-24-octobre-3437508.html"
+      },
+      {
+        "nombre": "franceinfo",
+        "url": "https://www.franceinfo.fr/politique/front-national/a-orleans-le-parcours-de-la-manifestation-anti-rassemblement-national-est-modifie-pour-eviter-le-centre-ville_8251546.html"
+      },
+      {
+        "nombre": "Ville d'Orléans",
+        "url": "https://www.orleans.fr/actualites/detail/week-end-24-et-25-octobre-mesures-exceptionnelles-orleans"
+      }
+    ],
+    "createdAt": "2026-10-24T10:15:52.000Z",
+    "updatedAt": "2026-10-24T10:20:10Z"
+  },
+  {
+    "id": 2005,
+    "seccion": "internacionales",
+    "pais": "Portugal",
+    "bandera": "🇵🇹",
+    "hora": "15:00",
+    "fecha": "2026-10-24",
+    "lugar": "Lisboa (Marquês de Pombal - Rossio)",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "Acampada de Lisboa",
+      "Movimientos por el derecho a la vivienda"
+    ],
+    "motivo": "Marcha 'Não temos casa, montamos tendas!' contra la especulación inmobiliaria y la crisis de vivienda. Exigen revertir la ley de arrendamientos, limitar la compra de viviendas por fondos de inversión, aumentar la vivienda pública y aplicar topes a los alquileres.",
+    "status": "programado",
+    "lat": 38.7255,
+    "lng": -9.15,
+    "fuentes": [
+      {
+        "nombre": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/protestos-pela-habitacao-continuam-hoje-em-varias-cidades-do-pais_n1773953"
+      },
+      {
+        "nombre": "Executive Digest",
+        "url": "https://executivedigest.sapo.pt/nao-temos-casa-montamos-tendas-protestos-voltam-as-ruas-em-lisboa-e-porto-este-sabado-saiba-onde-e-a-que-horas/"
+      },
+      {
+        "nombre": "Esquerda",
+        "url": "https://www.esquerda.net/artigo/ha-mais-manifestacoes-no-sabado-para-exigir-respostas-crise-da-habitacao/99315"
+      }
+    ],
+    "createdAt": "2026-10-24T10:15:52.000Z",
+    "updatedAt": "2026-10-24T10:20:10Z"
+  },
+  {
+    "id": 2006,
+    "seccion": "internacionales",
+    "pais": "Portugal",
+    "bandera": "🇵🇹",
+    "hora": "16:00",
+    "fecha": "2026-10-24",
+    "lugar": "Oporto (Praça da Batalha - Praça D. João I)",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "Acampada do Porto",
+      "Movimientos por el derecho a la vivienda"
+    ],
+    "motivo": "Marcha por el derecho a la vivienda tras dos semanas de protestas y acampadas en Oporto. Exigen revertir la ley de arrendamientos, frenar los desalojos, limitar la compra de vivienda por fondos inmobiliarios, aumentar la vivienda pública y aplicar topes a los alquileres.",
+    "status": "programado",
+    "lat": 41.1452,
+    "lng": -8.6053,
+    "fuentes": [
+      {
+        "nombre": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/protestos-pela-habitacao-continuam-hoje-em-varias-cidades-do-pais_n1773953"
+      },
+      {
+        "nombre": "Postal",
+        "url": "https://postal.pt/nacional/protestos-pela-habitacao-voltam-as-ruas-hoje-manifestacoes-e-assembleias-marcadas-em-cinco-cidades/"
+      },
+      {
+        "nombre": "Esquerda",
+        "url": "https://www.esquerda.net/evento/mobilizacoes-pela-habitacao-em-varias-cidades/99281"
+      }
+    ],
+    "createdAt": "2026-10-24T10:15:52.000Z",
+    "updatedAt": "2026-10-24T10:20:10Z"
+  },
+  {
+    "id": 2007,
+    "seccion": "internacionales",
+    "pais": "España",
+    "bandera": "🇪🇸",
+    "hora": "12:00",
+    "fecha": "2026-10-24",
+    "lugar": "Madrid (Atocha - Calle de Alcalá, Metro Sevilla)",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "COESPE",
+      "Confederación Sindical de Inquilinas",
+      "CGT",
+      "Organizaciones sociales y vecinales"
+    ],
+    "motivo": "Manifestación estatal por unas pensiones públicas dignas y por el derecho a la vivienda. Reclaman subir las pensiones un 6% en 2027, revertir la privatización y unir la lucha por salarios, pensiones y alquileres asequibles. Se enmarca en la campaña hacia la huelga general del 11 de noviembre.",
+    "status": "programado",
+    "lat": 40.4068,
+    "lng": -3.6906,
+    "fuentes": [
+      {
+        "nombre": "Noticias Obreras",
+        "url": "https://noticiasobreras.es/2026/10/pensionistas-e-inquilinAS-unen-fuerzas-en-madrid-por-las-pensiones-publicas-y-el-derecho-a-la-vivienda/"
+      },
+      {
+        "nombre": "El Debate",
+        "url": "https://www.eldebate.com/espana/madrid/20261023/manifestaciones-este-fin-semana-madrid-ceuta-pensiones-horarios-recorridos-cortes-trafico_473021.html"
+      },
+      {
+        "nombre": "Tercera Información",
+        "url": "https://www.tercerainformacion.es/articulo/vivienda/21/10/2026/la-confederacion-de-sindicatos-de-inquilinAS-de-madrid-se-suma-a-la-manifestacion-del-movimiento-pensionista-del-24-de-octubre-y-llama-a-unir-las-luchas-por-las-pensiones-los-salarios-y-la-vivienda/"
+      }
+    ],
+    "createdAt": "2026-10-24T10:15:52.000Z",
+    "updatedAt": "2026-10-24T10:20:10Z"
+  },
+  {
+    "id": 2008,
+    "seccion": "internacionales",
+    "pais": "Italia",
+    "bandera": "🇮🇹",
+    "hora": "",
+    "fecha": "2026-10-24",
+    "lugar": "Milán, Roma, Turín, Bolonia, Florencia, Bari, Génova y Padua",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Movimento 17 Ottobre",
+      "Colectivos estudiantiles",
+      "Grupos antagonistas",
+      "Italia in Piazza"
+    ],
+    "motivo": "Jornada nacional de protestas contra el costo de vida, la precariedad y los recortes en educación y servicios públicos. El Movimento 17 Ottobre canceló los puntos de encuentro anunciados y revelará tres lugares por ciudad a las 14:30 y la plaza final a las 15:30; las marchas no fueron notificadas a la policía. En Roma se esperan 1.500 agentes y en Milán 1.800 policías y militares.",
+    "status": "programado",
+    "lat": 45.4642,
+    "lng": 9.19,
+    "fuentes": [
+      {
+        "nombre": "Euronews",
+        "url": "https://www.euronews.com/2026/10/23/italy-preparing-with-elite-troops-and-drone-surveillance-for-24-october-protests"
+      },
+      {
+        "nombre": "Wanted in Rome",
+        "url": "https://www.wantedinrome.com/news/italy-protest-organisers-challenge-police-by-keeping-locations-secret-until-last-minute.html"
+      },
+      {
+        "nombre": "la Repubblica",
+        "url": "https://www.repubblica.it/en/news/2026/10/24/news/the_rebels_even_the_squares_are_under_heavy_guard_we_ll_choose_others_by_surprise_the_interior_ministry_go_ahead_with_prev-425671219/"
+      },
+      {
+        "nombre": "LaPresse",
+        "url": "https://uk.lapresse.it/news-en/2026/10/23/street-clashes-the-17-october-movement-changes-venues-announcements-on-saturday-at-2-30-pm/"
+      }
+    ],
+    "createdAt": "2026-10-24T10:15:52.000Z",
+    "updatedAt": "2026-10-24T10:20:10Z"
+  },
+  {
+    "id": 2009,
+    "seccion": "internacionales",
+    "pais": "Albania",
+    "bandera": "🇦🇱",
+    "hora": "14:00",
+    "fecha": "2026-10-24",
+    "lugar": "Tirana (Universidad Politécnica - Oficina del Primer Ministro)",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Estudiantes universitarios y de secundaria",
+      "Docentes",
+      "Sindicatos de arte, cultura y medios",
+      "Partido Demócrata",
+      "Diáspora albanesa"
+    ],
+    "motivo": "Duodécimo día de protestas antigubernamentales, con una convocatoria nacional contra el primer ministro Edi Rama. Exigen su renuncia, un gobierno de transición, más financiamiento educativo y el fin de la corrupción. Docentes se concentran a las 10:00 en la Universidad Politécnica y los estudiantes a las 14:00 frente a la Oficina del Primer Ministro; se suman médicos, artistas y sindicatos.",
+    "status": "programado",
+    "lat": 41.3275,
+    "lng": 19.8187,
+    "fuentes": [
+      {
+        "nombre": "CNA",
+        "url": "https://www.cna.al/english/aktualitet/nga-studentet-rrethet-opozita-dhe-sindikata-e-artit-sot-proteste-komb-i477764"
+      },
+      {
+        "nombre": "Panorama",
+        "url": "https://en.panorama.com.al/sot-protesta-kombetare-kunder-qeverise-studentet-nga-i-gjithe-vendit-mblidhen-ne-tirane-ne-shesh-edhe-pedagoget-mjeket-artistet-e-diaspora/"
+      },
+      {
+        "nombre": "Albanian Daily News",
+        "url": "https://albaniandailynews.com/news/protests-enter-day-12-as-nationwide-demonstration-draws-support-from-unions-doctors-and-artists"
+      }
+    ],
+    "createdAt": "2026-10-24T10:15:52.000Z",
+    "updatedAt": "2026-10-24T10:20:10Z"
   },
   {
     "id": 3001,
@@ -123,7 +352,7 @@
       }
     ],
     "createdAt": "2026-10-24T05:45:12.000Z",
-    "updatedAt": "2026-10-24T05:48:13Z"
+    "updatedAt": "2026-10-24T10:20:10Z"
   },
   {
     "id": 3002,
@@ -152,6 +381,6 @@
       }
     ],
     "createdAt": "2026-10-24T05:45:12.000Z",
-    "updatedAt": "2026-10-24T05:48:13Z"
+    "updatedAt": "2026-10-24T10:20:10Z"
   }
 ]
