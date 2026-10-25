@@ -1,24 +1,159 @@
 [
   {
+    "id": "ar-santa-teresita-20261025",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "17:00",
+    "fecha": "2026-10-25",
+    "lugar": "Calle 29 y Diagonal Darío Jerez, Santa Teresita, Partido de La Costa",
+    "tipoAccion": "Marcha",
+    "organizaciones": [
+      "Familiares de Darío Jerez",
+      "Vecinos y organizaciones de La Costa"
+    ],
+    "motivo": "A 25 años de la desaparición de Darío Jerez, marcha simbólica y acto para reclamar memoria, justicia y el esclarecimiento del caso",
+    "status": "programado",
+    "lat": -36.5417,
+    "lng": -56.6833,
+    "fuentes": [
+      "https://faronoticias.com.ar/nota/17374/a-25-anos-de-la-desaparicion-de-dario-jerez-convocan-a-un-acto-en-santa-teresita/"
+    ],
+    "createdAt": "2026-10-25T10:43:12.000Z",
+    "updatedAt": "2026-10-25T10:44:59Z"
+  },
+  {
+    "id": "al-tirana-20261025",
+    "seccion": "protestas_global",
+    "pais": "Albania",
+    "bandera": "🇦🇱",
+    "hora": "14:00",
+    "fecha": "2026-10-25",
+    "lugar": "Ministerio de Educación, Tirana",
+    "tipoAccion": "Protesta",
+    "organizaciones": [
+      "Estudiantes y jóvenes",
+      "Movimiento Flamingo Revolution"
+    ],
+    "motivo": "Contra la corrupción y los recortes educativos; exigen la renuncia del primer ministro Edi Rama",
+    "status": "programado",
+    "lat": 41.3275,
+    "lng": 19.8187,
+    "fuentes": [
+      "https://sot.com.al/studentet-vijojne-protestat-kunder-rames-tubimi-i-radhes-sot-ne-oren-14-00-i5190444"
+    ],
+    "createdAt": "2026-10-25T10:41:40.000Z",
+    "updatedAt": "2026-10-25T10:44:59Z"
+  },
+  {
+    "id": "es-madrid-20261025",
+    "seccion": "protestas_global",
+    "pais": "España",
+    "bandera": "🇪🇸",
+    "hora": "11:00",
+    "fecha": "2026-10-25",
+    "lugar": "Glorieta de Atocha a Plaza de las Cortes, Madrid",
+    "tipoAccion": "Marcha",
+    "organizaciones": [
+      "Mujeres Caballas"
+    ],
+    "motivo": "Reclaman refuerzo de la frontera de Ceuta, devoluciones de migrantes y un decreto ley para la ciudad autónoma",
+    "status": "en_curso",
+    "lat": 40.4066,
+    "lng": -3.6906,
+    "fuentes": [
+      "https://digitaldemadrid.com/actualidad/transporte/vivas-protesta-mujeres-caballas-madrid"
+    ],
+    "createdAt": "2026-10-25T10:41:40.000Z",
+    "updatedAt": "2026-10-25T10:44:59Z"
+  },
+  {
+    "id": "co-bogota-20261025",
+    "seccion": "protestas_global",
+    "pais": "Colombia",
+    "bandera": "🇨🇴",
+    "hora": "12:00",
+    "fecha": "2026-10-25",
+    "lugar": "Museo Nacional a Iglesia G12, Bogotá",
+    "tipoAccion": "Marcha",
+    "organizaciones": [
+      "Colectivos artísticos y culturales"
+    ],
+    "motivo": "Marcha 'Del arte a la calle ni un paso atrás' en defensa del arte y la cultura",
+    "status": "programado",
+    "lat": 4.6156,
+    "lng": -74.0702,
+    "fuentes": [
+      "https://bogota.gov.co/mi-ciudad/gobierno/2026-10/conoce-marchas-y-manifestaciones-en-bogota-19-al-25-de-octubre-2026"
+    ],
+    "createdAt": "2026-10-25T10:41:40.000Z",
+    "updatedAt": "2026-10-25T10:44:59Z"
+  },
+  {
+    "id": "in-imphal-20261025",
+    "seccion": "protestas_global",
+    "pais": "India",
+    "bandera": "🇮🇳",
+    "hora": "",
+    "fecha": "2026-10-25",
+    "lugar": "Khoyathong-Thangmeiband, Imphal West, Manipur",
+    "tipoAccion": "Marcha",
+    "organizaciones": [
+      "Organizaciones civiles y estudiantiles de Manipur"
+    ],
+    "motivo": "Protesta contra la Revisión Especial Intensiva (SIR) del censo electoral y por la derogación de la AFSPA",
+    "status": "en_curso",
+    "lat": 24.817,
+    "lng": 93.9368,
+    "fuentes": [
+      "https://swadesi.com/photos/27b25044-dc04-40fd-a6b4-054ea4b3a7ca"
+    ],
+    "createdAt": "2026-10-25T10:41:40.000Z",
+    "updatedAt": "2026-10-25T10:44:59Z"
+  },
+  {
+    "id": "in-delhi-20261025",
+    "seccion": "protestas_global",
+    "pais": "India",
+    "bandera": "🇮🇳",
+    "hora": "",
+    "fecha": "2026-10-25",
+    "lugar": "Birla Mandir, Nueva Delhi",
+    "tipoAccion": "Plantón",
+    "organizaciones": [
+      "Global Vaishya Federation",
+      "United Hindu Front"
+    ],
+    "motivo": "Dharna en apoyo al comisionado electoral Gyanesh Kumar",
+    "status": "en_curso",
+    "lat": 28.6328,
+    "lng": 77.1997,
+    "fuentes": [
+      "https://swadesi.com/photos/e7ece9d2-46a3-4caa-bd30-098f068dae34"
+    ],
+    "createdAt": "2026-10-25T10:41:40.000Z",
+    "updatedAt": "2026-10-25T10:44:59Z"
+  },
+  {
     "id": "mx-guadalajara-20261025",
     "seccion": "protestas_global",
     "pais": "México",
     "bandera": "🇲🇽",
     "hora": "11:00",
     "fecha": "2026-10-25",
-    "lugar": "Guadalajara, Jalisco",
+    "lugar": "Parque Morelos al Palacio Municipal, Guadalajara, Jalisco",
     "tipoAccion": "Marcha",
     "organizaciones": [
       "Movimientos ciudadanos"
     ],
-    "motivo": "Derecho al agua",
-    "status": "en_curso",
+    "motivo": "Mega Marcha por el derecho al agua",
+    "status": "programado",
     "lat": 20.6597,
     "lng": -103.3496,
     "fuentes": [
       "https://mx.usembassy.gov/demonstration-alert-demonstrations-in-guadalajara-area-on-october-23-and-25-2026/"
     ],
     "createdAt": "2026-10-25T05:39:27.000Z",
-    "updatedAt": "2026-10-25T05:42:20Z"
+    "updatedAt": "2026-10-25T10:44:59Z"
   }
 ]
