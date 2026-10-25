@@ -17,10 +17,12 @@
     "lat": -36.5417,
     "lng": -56.6833,
     "fuentes": [
-      "https://faronoticias.com.ar/nota/17374/a-25-anos-de-la-desaparicion-de-dario-jerez-convocan-a-un-acto-en-santa-teresita/"
+      "https://faronoticias.com.ar/nota/17374/a-25-anos-de-la-desaparicion-de-dario-jerez-convocan-a-un-acto-en-santa-teresita/",
+      "https://www.entrelineas.info/articulo/1066/45870/dario%C2%A0jerez-25-anos-despues-en-la-misma-esquina-de-santa-teresita-las-mismas-preguntas-de-un-pueblo-que-clama-por-justicia",
+      "https://www.agenciapacourondo.com.ar/violencia-institucional/desaparicion-de-dario-jerez-la-playa-de-la-doble-impunidad"
     ],
     "createdAt": "2026-10-25T10:43:12.000Z",
-    "updatedAt": "2026-10-25T10:44:59Z"
+    "updatedAt": "2026-10-25T14:50:15Z"
   },
   {
     "id": "al-tirana-20261025",
@@ -36,14 +38,16 @@
       "Movimiento Flamingo Revolution"
     ],
     "motivo": "Contra la corrupción y los recortes educativos; exigen la renuncia del primer ministro Edi Rama",
-    "status": "programado",
+    "status": "en_curso",
     "lat": 41.3275,
     "lng": 19.8187,
     "fuentes": [
-      "https://sot.com.al/studentet-vijojne-protestat-kunder-rames-tubimi-i-radhes-sot-ne-oren-14-00-i5190444"
+      "https://sot.com.al/studentet-vijojne-protestat-kunder-rames-tubimi-i-radhes-sot-ne-oren-14-00-i5190444",
+      "https://balkanweb.com/en/nuk-ndalen-protestat-kunder-rames-studentet-rikthehen-sot-ne-oren-1400-para-ministrise-se-arsimit/",
+      "https://www.hindustantimes.com/world-news/europe-protests-violent-clashes-tear-gas-fires-france-italy-albania-portugal-spain-serbia-reasons-videos-images-101792911470653.html"
     ],
     "createdAt": "2026-10-25T10:41:40.000Z",
-    "updatedAt": "2026-10-25T10:44:59Z"
+    "updatedAt": "2026-10-25T14:50:15Z"
   },
   {
     "id": "es-madrid-20261025",
@@ -62,10 +66,11 @@
     "lat": 40.4066,
     "lng": -3.6906,
     "fuentes": [
-      "https://digitaldemadrid.com/actualidad/transporte/vivas-protesta-mujeres-caballas-madrid"
+      "https://digitaldemadrid.com/actualidad/transporte/vivas-protesta-mujeres-caballas-madrid",
+      "https://es.euronews.com/2026/10/25/manifestacion-madrid-crisis-migratoria-ceuta-mujeres-caballas"
     ],
     "createdAt": "2026-10-25T10:41:40.000Z",
-    "updatedAt": "2026-10-25T10:44:59Z"
+    "updatedAt": "2026-10-25T14:50:15Z"
   },
   {
     "id": "co-bogota-20261025",
@@ -84,32 +89,11 @@
     "lat": 4.6156,
     "lng": -74.0702,
     "fuentes": [
-      "https://bogota.gov.co/mi-ciudad/gobierno/2026-10/conoce-marchas-y-manifestaciones-en-bogota-19-al-25-de-octubre-2026"
+      "https://bogota.gov.co/mi-ciudad/gobierno/2026-10/conoce-marchas-y-manifestaciones-en-bogota-19-al-25-de-octubre-2026",
+      "http://www.gobiernobogota.gov.co/noticias/manifestaciones-bogota-agenda-19-25"
     ],
     "createdAt": "2026-10-25T10:41:40.000Z",
-    "updatedAt": "2026-10-25T10:44:59Z"
-  },
-  {
-    "id": "in-imphal-20261025",
-    "seccion": "protestas_global",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "",
-    "fecha": "2026-10-25",
-    "lugar": "Khoyathong-Thangmeiband, Imphal West, Manipur",
-    "tipoAccion": "Marcha",
-    "organizaciones": [
-      "Organizaciones civiles y estudiantiles de Manipur"
-    ],
-    "motivo": "Protesta contra la Revisión Especial Intensiva (SIR) del censo electoral y por la derogación de la AFSPA",
-    "status": "en_curso",
-    "lat": 24.817,
-    "lng": 93.9368,
-    "fuentes": [
-      "https://swadesi.com/photos/27b25044-dc04-40fd-a6b4-054ea4b3a7ca"
-    ],
-    "createdAt": "2026-10-25T10:41:40.000Z",
-    "updatedAt": "2026-10-25T10:44:59Z"
+    "updatedAt": "2026-10-25T14:50:15Z"
   },
   {
     "id": "in-delhi-20261025",
@@ -124,15 +108,17 @@
       "Global Vaishya Federation",
       "United Hindu Front"
     ],
-    "motivo": "Dharna en apoyo al comisionado electoral Gyanesh Kumar",
+    "motivo": "Dharna y marcha en apoyo al comisionado electoral Gyanesh Kumar y en rechazo a la oposición",
     "status": "en_curso",
     "lat": 28.6328,
     "lng": 77.1997,
     "fuentes": [
-      "https://swadesi.com/photos/e7ece9d2-46a3-4caa-bd30-098f068dae34"
+      "https://swadesi.com/photos/e7ece9d2-46a3-4caa-bd30-098f068dae34",
+      "https://english.bharatexpress.com/india/jai-bhagwan-goyal-saints-lead-protest-march-from-delhis-birla-mandir-in-support-of-gyanesh-kumar-305305",
+      "https://www.prokerala.com/news/photos/dharna-demanding-bharat-ratna-for-gyanesh-kumar-3777172.html"
     ],
     "createdAt": "2026-10-25T10:41:40.000Z",
-    "updatedAt": "2026-10-25T10:44:59Z"
+    "updatedAt": "2026-10-25T14:50:15Z"
   },
   {
     "id": "mx-guadalajara-20261025",
@@ -144,16 +130,67 @@
     "lugar": "Parque Morelos al Palacio Municipal, Guadalajara, Jalisco",
     "tipoAccion": "Marcha",
     "organizaciones": [
+      "Movimiento Colonias Unidas por el Agua",
       "Movimientos ciudadanos"
     ],
-    "motivo": "Mega Marcha por el derecho al agua",
+    "motivo": "Mega Marcha por el derecho al agua y contra la crisis de abastecimiento y contaminación",
     "status": "programado",
     "lat": 20.6597,
     "lng": -103.3496,
     "fuentes": [
-      "https://mx.usembassy.gov/demonstration-alert-demonstrations-in-guadalajara-area-on-october-23-and-25-2026/"
+      "https://mx.usembassy.gov/demonstration-alert-demonstrations-in-guadalajara-area-on-october-23-and-25-2026/",
+      "https://www.jornada.com.mx/noticia/2026/10/16/estados/colectivos-convocan-a-segunda-megamarcha-por-el-agua-el-dominfo-en-guadalajara-inicia-tandeo",
+      "https://www.nmas.com.mx/jalisco/sociedad/con-bloqueos-protestan-por-falta-de-agua-en-guadalajara-y-zapopan-este-viernes/"
     ],
     "createdAt": "2026-10-25T05:39:27.000Z",
-    "updatedAt": "2026-10-25T10:44:59Z"
+    "updatedAt": "2026-10-25T14:50:15Z"
+  },
+  {
+    "id": "mx-cdmx-20261025",
+    "seccion": "protestas_global",
+    "pais": "México",
+    "bandera": "🇲🇽",
+    "hora": "10:00",
+    "fecha": "2026-10-25",
+    "lugar": "Museo Indígena/Antigua Aduana de Peralvillo, Av. Paseo de la Reforma 707, al Zócalo, Ciudad de México",
+    "tipoAccion": "Marcha",
+    "organizaciones": [
+      "Escuelita Tlaxiquera Pedagogía Ancestral, A.C.",
+      "Museo y Acervos Culturales del Instituto Nacional de los Pueblos Indígenas",
+      "Restaurante La Burra Blanca del 56"
+    ],
+    "motivo": "Marcha del Color del Maguey para exigir una ley nacional de protección integral al maguey y denunciar los daños de los parques fotovoltaicos en tierras ancestrales",
+    "status": "programado",
+    "lat": 19.4326,
+    "lng": -99.1332,
+    "fuentes": [
+      "https://www.infobae.com/mexico/2026/10/25/en-vivo-bloqueos-accidentes-y-manifestaciones-hoy-25-de-octubre/",
+      "https://www.nmas.com.mx/ciudad-de-mexico/movilidad/marchas/movilizaciones-hoy-cdmx-alternativas-domingo-25-de-octubre-de-2026-manifestaciones-calles-bloqueos/",
+      "https://tribuna.com.mx/mexico/2026/10/25/marchas-rodadas-y-bloqueos-en-cdmx-este-domingo-25-de-octubre-de-2026-zonas-afectadas_706372/"
+    ],
+    "createdAt": "2026-10-25T14:47:06.000Z",
+    "updatedAt": "2026-10-25T14:50:15Z"
+  },
+  {
+    "id": "in-malappuram-20261025",
+    "seccion": "protestas_global",
+    "pais": "India",
+    "bandera": "🇮🇳",
+    "hora": "",
+    "fecha": "2026-10-25",
+    "lugar": "Manjeri–Malappuram, distrito de Malappuram, Kerala",
+    "tipoAccion": "Marcha",
+    "organizaciones": [
+      "Banner Cultural Forum"
+    ],
+    "motivo": "Marcha de solidaridad con las protestas estudiantiles y juveniles que exigen la renuncia del comisionado electoral Gyanesh Kumar",
+    "status": "finalizado",
+    "lat": 11.051,
+    "lng": 76.0711,
+    "fuentes": [
+      "https://www.thehindu.com/news/national/kerala/magician-hamza-leads-artists-jantar-mantar-solidarity-march/article71623474.ece"
+    ],
+    "createdAt": "2026-10-25T14:47:06.000Z",
+    "updatedAt": "2026-10-25T14:50:15Z"
   }
 ]
