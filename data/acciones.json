@@ -23,7 +23,7 @@
       "https://www.degremiales.com/La-CTA-Autonoma-prepara-un-octubre-de-movilizaciones-paros-y-acciones-sindicales-5356"
     ],
     "createdAt": "2026-10-26T01:30:47.000Z",
-    "updatedAt": "2026-10-26T01:33:43Z"
+    "updatedAt": "2026-10-26T06:54:52Z"
   },
   {
     "id": "ar-bahia-blanca-bosque-alto-20261026",
@@ -45,7 +45,7 @@
       "https://ssip.org.ar/movilizacion-securion-bosque-alto-26-octubre/"
     ],
     "createdAt": "2026-10-26T01:30:47.000Z",
-    "updatedAt": "2026-10-26T01:33:43Z"
+    "updatedAt": "2026-10-26T06:54:52Z"
   },
   {
     "id": "ar-corrientes-nancy-godoy-20261026",
@@ -80,7 +80,7 @@
       "https://suteco.com.ar/sindicatos-docentes-y-organizaciones-comunitarias-marcharan-este-lunes-26-10-por-nancy-godoy/"
     ],
     "createdAt": "2026-10-26T01:30:47.000Z",
-    "updatedAt": "2026-10-26T01:33:43Z"
+    "updatedAt": "2026-10-26T06:54:52Z"
   },
   {
     "id": "ar-la-plata-opisu-20261026",
@@ -105,22 +105,43 @@
       "https://www.gba.gob.ar/opisu"
     ],
     "createdAt": "2026-10-26T01:30:47.000Z",
-    "updatedAt": "2026-10-26T01:33:43Z"
+    "updatedAt": "2026-10-26T06:54:52Z"
+  },
+  {
+    "id": "ar-rosario-pampa-energia-20261026",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-10-26",
+    "lugar": "Ministerio de Trabajo de Santa Fe, sede Rosario, Ovidio Lagos 599, Rosario, Santa Fe",
+    "tipoAccion": "Movilización",
+    "organizaciones": [
+      "Sindicato de Obreros y Empleados Petroquímicos Unidos (SOEPU)"
+    ],
+    "motivo": "Movilización para exigir la continuidad de la planta de caucho sintético de Pampa Energía en Puerto General San Martín y en defensa de más de 200 puestos de trabajo, tras el anuncio de cierre de la única planta de ese tipo en el país",
+    "status": "programado",
+    "lat": -32.9499,
+    "lng": -60.6437,
+    "fuentes": [
+      "https://www.degremiales.com/Trabajadores-de-Pampa-Energia-se-movilizan-para-impedir-el-cierre-de-la-unica-planta-de-caucho-sintetico-de-Argentina-5116",
+      "https://30noticias.com/2026/08/03/soepu-vuelve-a-movilizarse-tras-el-fin-de-la-conciliacion-por-el-cierre-de-pampa-energia",
+      "https://www.rosario3.com/informaciongeneral/pampa-energia-nueva-audiencia-con-participacion-de-la-provincia-a-horas-del-fin-de-la-conciliacion-20260810-0060.html"
+    ],
+    "createdAt": "2026-10-26T06:52:13.000Z",
+    "updatedAt": "2026-10-26T06:54:52Z"
   },
   {
     "id": "mx-nacional-20261026",
     "seccion": "protestas_global",
     "pais": "México",
     "bandera": "🇲🇽",
-    "hora": "06:00",
+    "hora": "08:00",
     "fecha": "2026-10-26",
     "lugar": "Carreteras federales y accesos urbanos de más de 20 estados (CDMX, Edomex, Hidalgo, Jalisco, entre otros)",
     "tipoAccion": "Paro",
     "organizaciones": [
-      "Cámara Nacional del Autotransporte de Carga (CANACAR)",
-      "HAMOTAC",
-      "FEMATRAC",
-      "INDECO"
+      "Cámara Nacional del Autotransporte de Carga (CANACAR)"
     ],
     "motivo": "Paro nacional indefinido de transportistas de carga contra robos, extorsiones y violencia en carreteras, y por la reducción de estímulos fiscales y el costo de los peajes",
     "status": "programado",
@@ -133,7 +154,7 @@
       "https://mexico.as.com/actualidad/a-que-hora-inicia-el-paro-de-transportistas-en-cdmx-y-edomex-este-lunes-26-de-octubre-lista-oficial-de-carreteras-bloqueadas-f202610-n/"
     ],
     "createdAt": "2026-10-26T01:28:22.000Z",
-    "updatedAt": "2026-10-26T01:33:43Z"
+    "updatedAt": "2026-10-26T06:54:52Z"
   },
   {
     "id": "ke-nairobi-20261026",
@@ -157,7 +178,7 @@
       "https://switchmedia.africa/politics/article/nairobi-protests-activists-plan-monday-march-to-state-house-over-fuel-hike"
     ],
     "createdAt": "2026-10-26T01:28:22.000Z",
-    "updatedAt": "2026-10-26T01:33:43Z"
+    "updatedAt": "2026-10-26T06:54:52Z"
   },
   {
     "id": "hn-sanpedrosula-20261026",
@@ -181,7 +202,7 @@
       "https://hondurasalinstante.com/2026/10/25/si-no-pagan-vale-vrga-el-censo-censistas-hambreados-sin-salarios/"
     ],
     "createdAt": "2026-10-26T01:28:22.000Z",
-    "updatedAt": "2026-10-26T01:33:43Z"
+    "updatedAt": "2026-10-26T06:54:52Z"
   },
   {
     "id": "gm-kanifing-20261026",
@@ -201,10 +222,11 @@
     "lng": -16.6782,
     "fuentes": [
       "https://alkambatimes.com/utg-students-union-calls-for-solidarity-and-protest-over-campus-services-crisis/",
-      "https://gambiannews.com/blog/utg-students-union-calls-for-solidarity-and-protest-over-campus-services-crisis"
+      "https://gambiannews.com/blog/utg-students-union-calls-for-solidarity-and-protest-over-campus-services-crisis",
+      "https://gambiaj.com/society/education/utg-students-reject-last-minute-govt-reassurances-press-ahead-with-protest/"
     ],
     "createdAt": "2026-10-26T01:28:22.000Z",
-    "updatedAt": "2026-10-26T01:33:43Z"
+    "updatedAt": "2026-10-26T06:54:52Z"
   },
   {
     "id": "ng-lagos-20261026",
@@ -224,10 +246,11 @@
     "lng": 3.362,
     "fuentes": [
       "https://thisnigeria.com/deaf-athletes-plan-another-protest-on-monday/",
-      "https://sportsdayinternational.com/deaf-athletes-plan-another-protest-on-monday-26-october/"
+      "https://sportsdayinternational.com/deaf-athletes-plan-another-protest-on-monday-26-october/",
+      "https://punchng.com/nsf-exclusion-deaf-athletes-plan-fresh-protest-on-october-26/"
     ],
     "createdAt": "2026-10-26T01:28:22.000Z",
-    "updatedAt": "2026-10-26T01:33:43Z"
+    "updatedAt": "2026-10-26T06:54:52Z"
   },
   {
     "id": "in-nacional-20261026",
@@ -242,14 +265,15 @@
       "Bharatiya Janata Party (BJP)"
     ],
     "motivo": "Protestas nacionales del BJP contra los comentarios del presidente del Congreso, Mallikarjun Kharge, sobre el padre de Narendra Modi",
-    "status": "programado",
+    "status": "en curso",
     "lat": 28.6139,
     "lng": 77.209,
     "fuentes": [
-      "https://www.thehindu.com/news/national/bjp-to-hold-nationwide-protest-on-october-26-against-kharges-baap-remark-for-modi/article71624386.ece"
+      "https://www.thehindu.com/news/national/bjp-to-hold-nationwide-protest-on-october-26-against-kharges-baap-remark-for-modi/article71624386.ece",
+      "https://protesttracker.online/today"
     ],
     "createdAt": "2026-10-26T01:28:22.000Z",
-    "updatedAt": "2026-10-26T01:33:43Z"
+    "updatedAt": "2026-10-26T06:54:52Z"
   },
   {
     "id": "es-bilbao-20261026",
@@ -262,6 +286,7 @@
     "tipoAccion": "Movilización",
     "organizaciones": [
       "Ikasle Sindikatua",
+      "ELA Sindikatua",
       "Colectivos antifascistas de Bilbao"
     ],
     "motivo": "Movilizaciones antifascistas y paro estudiantil contra el acto del agitador de extrema derecha Vito Quiles en Bilbao",
@@ -271,10 +296,11 @@
     "fuentes": [
       "https://bilbaohiria.com/bilbao/vito-quiles-deusto-movilizaciones-bilbao-26-octubre/",
       "https://www.sindicatodeestudiantes.net/index.php/noticias/movimiento-estudiantil/26-de-octubre-paro-estudiantil-en-bizkaia-contra-las-provocaciones-de-la-extrema-derecha-fuera-fascistas-de-euskal-herria",
-      "https://www.infobae.com/espana/agencias/2026/10/25/temas-del-dia-de-efe-espana-del-lunes-26-de-octubre-de-2026/"
+      "https://www.infobae.com/espana/agencias/2026/10/25/temas-del-dia-de-efe-espana-del-lunes-26-de-octubre-de-2026/",
+      "https://www.ela.eus/es/bilbo/noticias/organizaciones-sociales-y-sindicales-llaman-a-movilizarse-en-contra-del-fascismo"
     ],
     "createdAt": "2026-10-26T01:28:22.000Z",
-    "updatedAt": "2026-10-26T01:33:43Z"
+    "updatedAt": "2026-10-26T06:54:52Z"
   },
   {
     "id": "ca-calgary-20261026",
@@ -293,10 +319,11 @@
     "lat": 51.1315,
     "lng": -114.0106,
     "fuentes": [
-      "https://accomponent.ca/ucte-airport-privatization-campaign-yyc-yvr-mobilization-update/"
+      "https://accomponent.ca/ucte-airport-privatization-campaign-yyc-yvr-mobilization-update/",
+      "https://www.travelmarketreport.com/canada/air/articles/aviation-workers-mobilize-ottawas-airport-privatization-plans"
     ],
     "createdAt": "2026-10-26T01:28:22.000Z",
-    "updatedAt": "2026-10-26T01:33:43Z"
+    "updatedAt": "2026-10-26T06:54:52Z"
   },
   {
     "id": "us-sanfrancisco-20261026",
@@ -316,10 +343,11 @@
     "lat": 37.7811,
     "lng": -122.4216,
     "fuentes": [
-      "https://indivisiblesf.org/events/2026/10/26/no-monarch-mondays"
+      "https://indivisiblesf.org/events/2026/10/26/no-monarch-mondays",
+      "https://www.anarchistfederation.net/monday-10-26-no-monarch-monday-weekly-protest-at-tesla-in-san-francisco/"
     ],
     "createdAt": "2026-10-26T01:28:22.000Z",
-    "updatedAt": "2026-10-26T01:33:43Z"
+    "updatedAt": "2026-10-26T06:54:52Z"
   },
   {
     "id": "us-santacruz-20261026",
@@ -340,9 +368,217 @@
     "lng": -122.023,
     "fuentes": [
       "https://www.indivisiblesantacruzcounty.com/events",
-      "https://www.indybay.org/newsitems/2026/10/11/18889231.php"
+      "https://www.indybay.org/newsitems/2026/10/11/18889231.php",
+      "https://www.indivisiblesantacruzcounty.com/events/no-war-against-cuba"
     ],
     "createdAt": "2026-10-26T01:28:22.000Z",
-    "updatedAt": "2026-10-26T01:33:43Z"
+    "updatedAt": "2026-10-26T06:54:52Z"
+  },
+  {
+    "id": "gb-edinburgh-ucu-20261026",
+    "seccion": "protestas_global",
+    "pais": "Reino Unido",
+    "bandera": "🇬🇧",
+    "hora": "08:00",
+    "fecha": "2026-10-26",
+    "lugar": "Todos los campus de la Universidad de Edimburgo, Edimburgo, Escocia",
+    "tipoAccion": "Huelga",
+    "organizaciones": [
+      "University and College Union (UCU) - Universidad de Edimburgo"
+    ],
+    "motivo": "Huelga de cinco semanas contra recortes de 140 millones de libras y despidos compulsivos, en defensa de los puestos de trabajo y la educación pública",
+    "status": "programado",
+    "lat": 55.9445,
+    "lng": -3.1892,
+    "fuentes": [
+      "https://www.counterfire.org/event/edinburgh-ucu-university-of-edinburgh-strike/",
+      "https://www.ucuedinburgh.org.uk/pickets2026"
+    ],
+    "createdAt": "2026-10-26T06:49:20.000Z",
+    "updatedAt": "2026-10-26T06:54:52Z"
+  },
+  {
+    "id": "gb-nottingham-ucu-20261026",
+    "seccion": "protestas_global",
+    "pais": "Reino Unido",
+    "bandera": "🇬🇧",
+    "hora": "08:00",
+    "fecha": "2026-10-26",
+    "lugar": "Campus principal de la Universidad de Nottingham, Nottingham, Inglaterra",
+    "tipoAccion": "Huelga",
+    "organizaciones": [
+      "University and College Union (UCU) - Universidad de Nottingham"
+    ],
+    "motivo": "Huelga y piquetes contra despidos compulsivos y cierre de cursos, en defensa del empleo y la enseñanza",
+    "status": "programado",
+    "lat": 52.9383,
+    "lng": -1.1962,
+    "fuentes": [
+      "https://www.counterfire.org/event/nottingham-ucu-university-of-nottingham-strike-and-rally/",
+      "https://www.nottingham.ac.uk/Home/Alerts/Industrial-action/Industrial-action.aspx"
+    ],
+    "createdAt": "2026-10-26T06:49:20.000Z",
+    "updatedAt": "2026-10-26T06:54:52Z"
+  },
+  {
+    "id": "gb-havering-unite-20261026",
+    "seccion": "protestas_global",
+    "pais": "Reino Unido",
+    "bandera": "🇬🇧",
+    "hora": "08:00",
+    "fecha": "2026-10-26",
+    "lugar": "Gerpins Lane Re-Use and Recycling Centre, Upminster, Havering, Londres",
+    "tipoAccion": "Huelga",
+    "organizaciones": [
+      "Unite the Union",
+      "Trabajadores de FCC Waste Management"
+    ],
+    "motivo": "Huelga de más de 40 recolectores de basura por cargas laborales, condiciones de seguridad y salarios inferiores a los de boroughs vecinos",
+    "status": "programado",
+    "lat": 51.5486,
+    "lng": 0.2575,
+    "fuentes": [
+      "https://www.havering.gov.uk/news/article/1846/update-on-proposed-fcc-waste-management-strike-action-23-october-2026",
+      "https://www.standard.co.uk/news/london/bin-strike-havering-unite-union-dates-b1301142.html",
+      "https://www.mrw.co.uk/news/unite-members-to-launch-havering-waste-service-strikes-from-26-october-22-10-2026/"
+    ],
+    "createdAt": "2026-10-26T06:49:20.000Z",
+    "updatedAt": "2026-10-26T06:54:52Z"
+  },
+  {
+    "id": "ph-quezoncity-dhsud-20261026",
+    "seccion": "protestas_global",
+    "pais": "Filipinas",
+    "bandera": "🇵🇭",
+    "hora": "",
+    "fecha": "2026-10-26",
+    "lugar": "Sede del Department of Human Settlements and Urban Development (DHSUD), Quezon City, Metro Manila",
+    "tipoAccion": "Protesta",
+    "organizaciones": [
+      "Urban Poor Action Committee (UPAC)"
+    ],
+    "motivo": "Protesta de cientos de líderes y miembros de organizaciones urbanas pobres para exigir acción concreta del gobierno sobre tierras y vivienda",
+    "status": "en curso",
+    "lat": 14.6366,
+    "lng": 121.0437,
+    "fuentes": [
+      "https://tribune.net.ph/2026/10/26/rally-dhsud"
+    ],
+    "createdAt": "2026-10-26T06:49:20.000Z",
+    "updatedAt": "2026-10-26T06:54:52Z"
+  },
+  {
+    "id": "in-delhi-jamia-20261026",
+    "seccion": "protestas_global",
+    "pais": "India",
+    "bandera": "🇮🇳",
+    "hora": "",
+    "fecha": "2026-10-26",
+    "lugar": "Universidad Jamia Millia Islamia, Nueva Delhi",
+    "tipoAccion": "Protesta",
+    "organizaciones": [
+      "Jamia Millia Islamia Students' Union (JMISU)",
+      "Estudiantes y activistas de Jamia Millia Islamia"
+    ],
+    "motivo": "Protesta y huelga de hambre para exigir la restauración del sindicato estudiantil y un calendario electoral claro",
+    "status": "en curso",
+    "lat": 28.5617,
+    "lng": 77.2802,
+    "fuentes": [
+      "https://www.thehindu.com/news/cities/Delhi/jamia-university-orders-student-union-polls-within-15-days-of-constitution-approval-two-students-continue-hunger-strike/article71625645.ece",
+      "https://indianexpress.com/article/delhi/jamia-millia-islamia-student-protest-hunger-strike-union-elections-fir-police-deployment-10936812/"
+    ],
+    "createdAt": "2026-10-26T06:49:20.000Z",
+    "updatedAt": "2026-10-26T06:54:52Z"
+  },
+  {
+    "id": "us-spokane-20261026",
+    "seccion": "protestas_global",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "15:30",
+    "fecha": "2026-10-26",
+    "lugar": "Mediana de Division y Ruby, frente a Wendy's, Spokane, Washington",
+    "tipoAccion": "Concentración",
+    "organizaciones": [
+      "Spokane Indivisible"
+    ],
+    "motivo": "Protesta semanal para exigir al congresista Michael Baumgartner que se reúna con sus constituyentes",
+    "status": "programado",
+    "lat": 47.7128,
+    "lng": -117.4078,
+    "fuentes": [
+      "https://www.spokanedemocrats.org/events/mikey-mondays-message-for-michael-baumgartner-oct26"
+    ],
+    "createdAt": "2026-10-26T06:49:20.000Z",
+    "updatedAt": "2026-10-26T06:54:52Z"
+  },
+  {
+    "id": "au-adelaide-santos-20261026",
+    "seccion": "protestas_global",
+    "pais": "Australia",
+    "bandera": "🇦🇺",
+    "hora": "10:45",
+    "fecha": "2026-10-26",
+    "lugar": "Santos Centre, 60 Flinders Street, Adelaide, Australia Meridional",
+    "tipoAccion": "Concentración",
+    "organizaciones": [
+      "Extinction Rebellion South Australia"
+    ],
+    "motivo": "Acción semanal contra el patrocinio de Santos a la Universidad de Adelaida y su influencia en la educación, en defensa de la acción climática",
+    "status": "finalizado",
+    "lat": -34.9264,
+    "lng": 138.5995,
+    "fuentes": [
+      "https://www.greenleft.org.au/2026-10/event/santos-we-are-watching-you-lose-your-toxic-influence"
+    ],
+    "createdAt": "2026-10-26T06:49:20.000Z",
+    "updatedAt": "2026-10-26T06:54:52Z"
+  },
+  {
+    "id": "ca-vancouver-youth-climate-20261026",
+    "seccion": "protestas_global",
+    "pais": "Canadá",
+    "bandera": "🇨🇦",
+    "hora": "17:30",
+    "fecha": "2026-10-26",
+    "lugar": "Plaza Norte de la Vancouver Art Gallery (šxʷƛ̓ənəq Xwtl'e7énḵ Square), 750 Hornby Street, Vancouver",
+    "tipoAccion": "Concentración",
+    "organizaciones": [
+      "West Coast Environmental Law",
+      "Jóvenes demandantes de La Rose v. His Majesty the King"
+    ],
+    "motivo": "Concentración climática tras la audiencia del caso juvenil La Rose v. Canadá para exigir responsabilidad climática",
+    "status": "programado",
+    "lat": 49.2827,
+    "lng": -123.1207,
+    "fuentes": [
+      "https://www.eventbrite.ca/e/youth-v-canada-climate-rally-tickets-2003368488077"
+    ],
+    "createdAt": "2026-10-26T06:49:20.000Z",
+    "updatedAt": "2026-10-26T06:54:52Z"
+  },
+  {
+    "id": "ca-ottawa-first-ministers-20261026",
+    "seccion": "protestas_global",
+    "pais": "Canadá",
+    "bandera": "🇨🇦",
+    "hora": "07:00",
+    "fecha": "2026-10-26",
+    "lugar": "111 Sussex Drive, Ottawa, Ontario",
+    "tipoAccion": "Protesta",
+    "organizaciones": [
+      "Punch Up Collective",
+      "Movimientos de base de Primeras Naciones"
+    ],
+    "motivo": "Día nacional de acción contra la reunión de Primeros Ministros y en defensa de los derechos territoriales, la autodeterminación y los tratados de los pueblos indígenas",
+    "status": "programado",
+    "lat": 45.4399,
+    "lng": -75.6936,
+    "fuentes": [
+      "https://www.punchupcollective.org/reo-calendar/national-day-of-action-on-october-26th-to-protest-first-ministers-meeting-in-ottawa/"
+    ],
+    "createdAt": "2026-10-26T06:49:20.000Z",
+    "updatedAt": "2026-10-26T06:54:52Z"
   }
 ]
