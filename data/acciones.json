@@ -1,176 +1,348 @@
 [
   {
-    "id": "ar-santa-teresita-20261025",
+    "id": "ar-atucha-zarate-20261026",
     "seccion": "protestas_ar",
     "pais": "Argentina",
     "bandera": "🇦🇷",
-    "hora": "17:00",
-    "fecha": "2026-10-25",
-    "lugar": "Calle 29 y Diagonal Darío Jerez, Santa Teresita, Partido de La Costa",
-    "tipoAccion": "Marcha",
+    "hora": "",
+    "fecha": "2026-10-26",
+    "lugar": "Central Nuclear Atucha, localidad de Lima, Partido de Zárate, Buenos Aires",
+    "tipoAccion": "Movilización",
     "organizaciones": [
-      "Familiares de Darío Jerez",
-      "Vecinos y organizaciones de La Costa"
+      "Federación de Trabajadores de la Energía de la República Argentina (FeTERA)",
+      "CTA Autónoma"
     ],
-    "motivo": "A 25 años de la desaparición de Darío Jerez, marcha simbólica y acto para reclamar memoria, justicia y el esclarecimiento del caso",
+    "motivo": "Jornada de lucha contra el avance de la privatización parcial de Nucleoeléctrica Argentina (NASA) y en defensa de las centrales Atucha I y II, los puestos de trabajo y la soberanía energética",
     "status": "programado",
-    "lat": -36.5417,
-    "lng": -56.6833,
+    "lat": -33.9675,
+    "lng": -59.2059,
     "fuentes": [
-      "https://faronoticias.com.ar/nota/17374/a-25-anos-de-la-desaparicion-de-dario-jerez-convocan-a-un-acto-en-santa-teresita/",
-      "https://www.entrelineas.info/articulo/1066/45870/dario%C2%A0jerez-25-anos-despues-en-la-misma-esquina-de-santa-teresita-las-mismas-preguntas-de-un-pueblo-que-clama-por-justicia",
-      "https://www.agenciapacourondo.com.ar/violencia-institucional/desaparicion-de-dario-jerez-la-playa-de-la-doble-impunidad"
+      "https://ctaa.org.ar/fetera-convoca-a-una-jornada-de-lucha-en-zarate-en-defensa-de-atucha-y-del-sistema-nuclear-argentino/",
+      "https://deltacom.ar/fetera-convoca-a-una-jornada-de-lucha-en-defensa-de-atucha-y-del-sistema-nuclear-argentino/",
+      "https://www.futurosoberano.org/noticia.php?noticia=760",
+      "https://www.degremiales.com/La-CTA-Autonoma-prepara-un-octubre-de-movilizaciones-paros-y-acciones-sindicales-5356"
     ],
-    "createdAt": "2026-10-25T10:43:12.000Z",
-    "updatedAt": "2026-10-25T23:41:12Z"
+    "createdAt": "2026-10-26T01:30:47.000Z",
+    "updatedAt": "2026-10-26T01:33:43Z"
   },
   {
-    "id": "al-tirana-20261025",
-    "seccion": "protestas_global",
-    "pais": "Albania",
-    "bandera": "🇦🇱",
-    "hora": "14:00",
-    "fecha": "2026-10-25",
-    "lugar": "Ministerio de Educación, Tirana",
+    "id": "ar-bahia-blanca-bosque-alto-20261026",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-10-26",
+    "lugar": "Ingreso del barrio privado Bosque Alto, Bahía Blanca, Buenos Aires",
+    "tipoAccion": "Movilización",
+    "organizaciones": [
+      "Sindicato de Seguridad e Investigaciones Privadas (SSIP)"
+    ],
+    "motivo": "Movilización por la falta de respuestas de la empresa Securion y en defensa de los puestos de trabajo y derechos laborales de los trabajadores de seguridad privada",
+    "status": "programado",
+    "lat": -38.6589,
+    "lng": -62.273,
+    "fuentes": [
+      "https://ssip.org.ar/movilizacion-securion-bosque-alto-26-octubre/"
+    ],
+    "createdAt": "2026-10-26T01:30:47.000Z",
+    "updatedAt": "2026-10-26T01:33:43Z"
+  },
+  {
+    "id": "ar-corrientes-nancy-godoy-20261026",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-10-26",
+    "lugar": "Microcentro de la ciudad de Corrientes, Corrientes",
+    "tipoAccion": "Marcha",
+    "organizaciones": [
+      "SUTECO",
+      "CGT",
+      "CTA de los Trabajadores",
+      "CTERA",
+      "CEA",
+      "ACDP",
+      "AMET",
+      "CODIUNNE",
+      "CONADU",
+      "ATE",
+      "CCC",
+      "Somos Barrios de Pie",
+      "Frente Barrial",
+      "Movimiento Mayo"
+    ],
+    "motivo": "Marcha para exigir la aparición con vida de la docente rural Nancy Estela Godoy, el esclarecimiento de su desaparición y justicia",
+    "status": "programado",
+    "lat": -27.4692,
+    "lng": -58.8306,
+    "fuentes": [
+      "https://suteco.com.ar/sindicatos-docentes-y-organizaciones-comunitarias-marcharan-este-lunes-26-10-por-nancy-godoy/"
+    ],
+    "createdAt": "2026-10-26T01:30:47.000Z",
+    "updatedAt": "2026-10-26T01:33:43Z"
+  },
+  {
+    "id": "ar-la-plata-opisu-20261026",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-10-26",
+    "lugar": "Sede central del OPISU, calle 47 N° 529 entre 5 y 6, La Plata, Buenos Aires",
     "tipoAccion": "Protesta",
     "organizaciones": [
-      "Estudiantes y jóvenes",
-      "Movimiento Flamingo Revolution"
+      "Junta Interna de ATE en el OPISU"
     ],
-    "motivo": "Contra la corrupción y los recortes educativos; exigen la renuncia del primer ministro Edi Rama",
-    "status": "en_curso",
-    "lat": 41.3275,
-    "lng": 19.8187,
-    "fuentes": [
-      "https://sot.com.al/studentet-vijojne-protestat-kunder-rames-tubimi-i-radhes-sot-ne-oren-14-00-i5190444",
-      "https://balkanweb.com/en/nuk-ndalen-protestat-kunder-rames-studentet-rikthehen-sot-ne-oren-1400-para-ministrise-se-arsimit/",
-      "https://www.hindustantimes.com/world-news/europe-protests-violent-clashes-tear-gas-fires-france-italy-albania-portugal-spain-serbia-reasons-videos-images-101792911470653.html",
-      "https://www.reuters.com/world/europe/fresh-protests-tirana-despite-new-measures-curb-unrest-2026-10-25/"
-    ],
-    "createdAt": "2026-10-25T10:41:40.000Z",
-    "updatedAt": "2026-10-25T23:41:12Z"
-  },
-  {
-    "id": "es-madrid-20261025",
-    "seccion": "protestas_global",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "11:00",
-    "fecha": "2026-10-25",
-    "lugar": "Glorieta de Atocha a Plaza de las Cortes, Madrid",
-    "tipoAccion": "Marcha",
-    "organizaciones": [
-      "Mujeres Caballas"
-    ],
-    "motivo": "Reclaman refuerzo de la frontera de Ceuta, devoluciones de migrantes y un decreto ley para la ciudad autónoma",
-    "status": "en_curso",
-    "lat": 40.4066,
-    "lng": -3.6906,
-    "fuentes": [
-      "https://digitaldemadrid.com/actualidad/transporte/vivas-protesta-mujeres-caballas-madrid",
-      "https://es.euronews.com/2026/10/25/manifestacion-madrid-crisis-migratoria-ceuta-mujeres-caballas",
-      "https://www.hindustantimes.com/world-news/europe-protests-violent-clashes-tear-gas-fires-france-italy-albania-portugal-spain-serbia-reasons-videos-images-101792911470653.html"
-    ],
-    "createdAt": "2026-10-25T10:41:40.000Z",
-    "updatedAt": "2026-10-25T23:41:12Z"
-  },
-  {
-    "id": "co-bogota-20261025",
-    "seccion": "protestas_global",
-    "pais": "Colombia",
-    "bandera": "🇨🇴",
-    "hora": "12:00",
-    "fecha": "2026-10-25",
-    "lugar": "Museo Nacional a Iglesia G12, Bogotá",
-    "tipoAccion": "Marcha",
-    "organizaciones": [
-      "Colectivos artísticos y culturales"
-    ],
-    "motivo": "Marcha 'Del arte a la calle ni un paso atrás' en defensa del arte y la cultura",
+    "motivo": "Jornada de visibilización y asamblea pública contra los descuentos salariales y por la Bonificación Sectorial, concursos y pase a planta permanente",
     "status": "programado",
-    "lat": 4.6156,
-    "lng": -74.0702,
+    "lat": -34.9214,
+    "lng": -57.9545,
     "fuentes": [
-      "https://bogota.gov.co/mi-ciudad/gobierno/2026-10/conoce-marchas-y-manifestaciones-en-bogota-19-al-25-de-octubre-2026",
-      "http://www.gobiernobogota.gov.co/noticias/manifestaciones-bogota-agenda-19-25"
+      "https://laletrachica.com.ar/nota/26748/crece-el-conflicto-en-opisu-y-se-calientan-los-reclamos-sindicales/",
+      "https://pulsonoticias.com.ar/opisu-descuentos-selectivos/",
+      "https://www.latecla.info/170567-estallo-conflicto-en-el-opisu-trabajadores-profundizan-medidas-de-fuerza-ante-descuentos-salariales",
+      "https://www.gba.gob.ar/opisu"
     ],
-    "createdAt": "2026-10-25T10:41:40.000Z",
-    "updatedAt": "2026-10-25T23:41:12Z"
+    "createdAt": "2026-10-26T01:30:47.000Z",
+    "updatedAt": "2026-10-26T01:33:43Z"
   },
   {
-    "id": "in-delhi-20261025",
-    "seccion": "protestas_global",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "",
-    "fecha": "2026-10-25",
-    "lugar": "Birla Mandir, Nueva Delhi",
-    "tipoAccion": "Plantón",
-    "organizaciones": [
-      "Global Vaishya Federation",
-      "United Hindu Front"
-    ],
-    "motivo": "Dharna y marcha en apoyo al comisionado electoral Gyanesh Kumar y en rechazo a la oposición",
-    "status": "en_curso",
-    "lat": 28.6328,
-    "lng": 77.1997,
-    "fuentes": [
-      "https://swadesi.com/photos/e7ece9d2-46a3-4caa-bd30-098f068dae34",
-      "https://english.bharatexpress.com/india/jai-bhagwan-goyal-saints-lead-protest-march-from-delhis-birla-mandir-in-support-of-gyanesh-kumar-305305",
-      "https://www.prokerala.com/news/photos/dharna-demanding-bharat-ratna-for-gyanesh-kumar-3777172.html"
-    ],
-    "createdAt": "2026-10-25T10:41:40.000Z",
-    "updatedAt": "2026-10-25T23:41:12Z"
-  },
-  {
-    "id": "mx-guadalajara-20261025",
+    "id": "mx-nacional-20261026",
     "seccion": "protestas_global",
     "pais": "México",
     "bandera": "🇲🇽",
-    "hora": "11:00",
-    "fecha": "2026-10-25",
-    "lugar": "Parque Morelos al Palacio Municipal, Guadalajara, Jalisco",
-    "tipoAccion": "Marcha",
+    "hora": "06:00",
+    "fecha": "2026-10-26",
+    "lugar": "Carreteras federales y accesos urbanos de más de 20 estados (CDMX, Edomex, Hidalgo, Jalisco, entre otros)",
+    "tipoAccion": "Paro",
     "organizaciones": [
-      "Movimiento Colonias Unidas por el Agua",
-      "Movimientos ciudadanos"
+      "Cámara Nacional del Autotransporte de Carga (CANACAR)",
+      "HAMOTAC",
+      "FEMATRAC",
+      "INDECO"
     ],
-    "motivo": "Mega Marcha por el derecho al agua y contra la crisis de abastecimiento y contaminación",
-    "status": "programado",
-    "lat": 20.6597,
-    "lng": -103.3496,
-    "fuentes": [
-      "https://mx.usembassy.gov/demonstration-alert-demonstrations-in-guadalajara-area-on-october-23-and-25-2026/",
-      "https://www.jornada.com.mx/noticia/2026/10/16/estados/colectivos-convocan-a-segunda-megamarcha-por-el-agua-el-dominfo-en-guadalajara-inicia-tandeo",
-      "https://www.nmas.com.mx/jalisco/sociedad/con-bloqueos-protestan-por-falta-de-agua-en-guadalajara-y-zapopan-este-viernes/"
-    ],
-    "createdAt": "2026-10-25T05:39:27.000Z",
-    "updatedAt": "2026-10-25T23:41:12Z"
-  },
-  {
-    "id": "mx-cdmx-20261025",
-    "seccion": "protestas_global",
-    "pais": "México",
-    "bandera": "🇲🇽",
-    "hora": "10:00",
-    "fecha": "2026-10-25",
-    "lugar": "Museo Indígena/Antigua Aduana de Peralvillo, Av. Paseo de la Reforma 707, al Zócalo, Ciudad de México",
-    "tipoAccion": "Marcha",
-    "organizaciones": [
-      "Escuelita Tlaxiquera Pedagogía Ancestral, A.C.",
-      "Museo y Acervos Culturales del Instituto Nacional de los Pueblos Indígenas",
-      "Restaurante La Burra Blanca del 56"
-    ],
-    "motivo": "Marcha del Color del Maguey para exigir una ley nacional de protección integral al maguey y denunciar los daños de los parques fotovoltaicos en tierras ancestrales",
+    "motivo": "Paro nacional indefinido de transportistas de carga contra robos, extorsiones y violencia en carreteras, y por la reducción de estímulos fiscales y el costo de los peajes",
     "status": "programado",
     "lat": 19.4326,
     "lng": -99.1332,
     "fuentes": [
-      "https://www.infobae.com/mexico/2026/10/25/en-vivo-bloqueos-accidentes-y-manifestaciones-hoy-25-de-octubre/",
-      "https://www.nmas.com.mx/ciudad-de-mexico/movilidad/marchas/movilizaciones-hoy-cdmx-alternativas-domingo-25-de-octubre-de-2026-manifestaciones-calles-bloqueos/",
-      "https://tribuna.com.mx/mexico/2026/10/25/marchas-rodadas-y-bloqueos-en-cdmx-este-domingo-25-de-octubre-de-2026-zonas-afectadas_706372/"
+      "https://www.nmas.com.mx/movilidad/marchas/paro-nacional-de-transportistas-lunes-26-de-octubre-2026-lista-de-estados-afectados-huelga-protestas/",
+      "https://www.eleconomista.com.mx/empresas/autotransportistas-canacar-anuncian-paro-lunes-26-octubre-20261023-840224.html",
+      "https://politica.expansion.mx/estados/2026/10/23/transportistas-paro-nacional-carreteras-estados-26-octubre",
+      "https://mexico.as.com/actualidad/a-que-hora-inicia-el-paro-de-transportistas-en-cdmx-y-edomex-este-lunes-26-de-octubre-lista-oficial-de-carreteras-bloqueadas-f202610-n/"
     ],
-    "createdAt": "2026-10-25T14:47:06.000Z",
-    "updatedAt": "2026-10-25T23:41:12Z"
+    "createdAt": "2026-10-26T01:28:22.000Z",
+    "updatedAt": "2026-10-26T01:33:43Z"
+  },
+  {
+    "id": "ke-nairobi-20261026",
+    "seccion": "protestas_global",
+    "pais": "Kenia",
+    "bandera": "🇰🇪",
+    "hora": "",
+    "fecha": "2026-10-26",
+    "lugar": "Kimathi Street a State House, Nairobi",
+    "tipoAccion": "Marcha",
+    "organizaciones": [
+      "Coalition of Human Rights Defenders"
+    ],
+    "motivo": "Marcha contra el alza de los precios del combustible y su impacto en el costo de vida",
+    "status": "programado",
+    "lat": -1.2864,
+    "lng": 36.8172,
+    "fuentes": [
+      "https://citizen.digital/article/nairobi-protest-planned-for-monday-over-high-fuel-prices-and-soaring-cost-of-living-n392581",
+      "https://254news.co.ke/massive-fuel-protest-slated-for-monday-as-groups-plan-march-from-kimathi-street-to-state-house/",
+      "https://switchmedia.africa/politics/article/nairobi-protests-activists-plan-monday-march-to-state-house-over-fuel-hike"
+    ],
+    "createdAt": "2026-10-26T01:28:22.000Z",
+    "updatedAt": "2026-10-26T01:33:43Z"
+  },
+  {
+    "id": "hn-sanpedrosula-20261026",
+    "seccion": "protestas_global",
+    "pais": "Honduras",
+    "bandera": "🇭🇳",
+    "hora": "08:00",
+    "fecha": "2026-10-26",
+    "lugar": "Gobernación de San Pedro Sula, Cortés",
+    "tipoAccion": "Protesta",
+    "organizaciones": [
+      "Censistas del Censo de Población y Vivienda",
+      "Instituto Nacional de Estadística (INE)"
+    ],
+    "motivo": "Protesta de censistas por salarios pendientes tras completar sus labores en el Censo de Población y Vivienda",
+    "status": "programado",
+    "lat": 15.5042,
+    "lng": -88.025,
+    "fuentes": [
+      "https://noticias247.hn/pago-inmediato-o-no-hay-censo-censistas-convocan-a-protesta-en-san-pedro-sula-por-falta-de-salarios.html",
+      "https://hondurasalinstante.com/2026/10/25/si-no-pagan-vale-vrga-el-censo-censistas-hambreados-sin-salarios/"
+    ],
+    "createdAt": "2026-10-26T01:28:22.000Z",
+    "updatedAt": "2026-10-26T01:33:43Z"
+  },
+  {
+    "id": "gm-kanifing-20261026",
+    "seccion": "protestas_global",
+    "pais": "Gambia",
+    "bandera": "🇬🇲",
+    "hora": "09:00",
+    "fecha": "2026-10-26",
+    "lugar": "Peace Building, Kanifing Campus, University of The Gambia",
+    "tipoAccion": "Protesta",
+    "organizaciones": [
+      "University of The Gambia Students' Union (UTGSU)"
+    ],
+    "motivo": "Protesta estudiantil por deficiencias en transporte, alimentación, agua potable e internet en el campus de Faraba",
+    "status": "programado",
+    "lat": 13.4527,
+    "lng": -16.6782,
+    "fuentes": [
+      "https://alkambatimes.com/utg-students-union-calls-for-solidarity-and-protest-over-campus-services-crisis/",
+      "https://gambiannews.com/blog/utg-students-union-calls-for-solidarity-and-protest-over-campus-services-crisis"
+    ],
+    "createdAt": "2026-10-26T01:28:22.000Z",
+    "updatedAt": "2026-10-26T01:33:43Z"
+  },
+  {
+    "id": "ng-lagos-20261026",
+    "seccion": "protestas_global",
+    "pais": "Nigeria",
+    "bandera": "🇳🇬",
+    "hora": "",
+    "fecha": "2026-10-26",
+    "lugar": "National Stadium, Lagos",
+    "tipoAccion": "Protesta",
+    "organizaciones": [
+      "Nigeria Deaf Athletes"
+    ],
+    "motivo": "Nueva protesta de atletas sordos por su exclusión del Festival Nacional de Deportes y la falta de apoyo",
+    "status": "programado",
+    "lat": 6.4969,
+    "lng": 3.362,
+    "fuentes": [
+      "https://thisnigeria.com/deaf-athletes-plan-another-protest-on-monday/",
+      "https://sportsdayinternational.com/deaf-athletes-plan-another-protest-on-monday-26-october/"
+    ],
+    "createdAt": "2026-10-26T01:28:22.000Z",
+    "updatedAt": "2026-10-26T01:33:43Z"
+  },
+  {
+    "id": "in-nacional-20261026",
+    "seccion": "protestas_global",
+    "pais": "India",
+    "bandera": "🇮🇳",
+    "hora": "",
+    "fecha": "2026-10-26",
+    "lugar": "Sedes estatales del BJP en todo el país; marcha en Patna",
+    "tipoAccion": "Protesta",
+    "organizaciones": [
+      "Bharatiya Janata Party (BJP)"
+    ],
+    "motivo": "Protestas nacionales del BJP contra los comentarios del presidente del Congreso, Mallikarjun Kharge, sobre el padre de Narendra Modi",
+    "status": "programado",
+    "lat": 28.6139,
+    "lng": 77.209,
+    "fuentes": [
+      "https://www.thehindu.com/news/national/bjp-to-hold-nationwide-protest-on-october-26-against-kharges-baap-remark-for-modi/article71624386.ece"
+    ],
+    "createdAt": "2026-10-26T01:28:22.000Z",
+    "updatedAt": "2026-10-26T01:33:43Z"
+  },
+  {
+    "id": "es-bilbao-20261026",
+    "seccion": "protestas_global",
+    "pais": "España",
+    "bandera": "🇪🇸",
+    "hora": "12:00",
+    "fecha": "2026-10-26",
+    "lugar": "Plaza Elíptica y Universidad de Deusto, Bilbao",
+    "tipoAccion": "Movilización",
+    "organizaciones": [
+      "Ikasle Sindikatua",
+      "Colectivos antifascistas de Bilbao"
+    ],
+    "motivo": "Movilizaciones antifascistas y paro estudiantil contra el acto del agitador de extrema derecha Vito Quiles en Bilbao",
+    "status": "programado",
+    "lat": 43.263,
+    "lng": -2.935,
+    "fuentes": [
+      "https://bilbaohiria.com/bilbao/vito-quiles-deusto-movilizaciones-bilbao-26-octubre/",
+      "https://www.sindicatodeestudiantes.net/index.php/noticias/movimiento-estudiantil/26-de-octubre-paro-estudiantil-en-bizkaia-contra-las-provocaciones-de-la-extrema-derecha-fuera-fascistas-de-euskal-herria",
+      "https://www.infobae.com/espana/agencias/2026/10/25/temas-del-dia-de-efe-espana-del-lunes-26-de-octubre-de-2026/"
+    ],
+    "createdAt": "2026-10-26T01:28:22.000Z",
+    "updatedAt": "2026-10-26T01:33:43Z"
+  },
+  {
+    "id": "ca-calgary-20261026",
+    "seccion": "protestas_global",
+    "pais": "Canadá",
+    "bandera": "🇨🇦",
+    "hora": "12:00",
+    "fecha": "2026-10-26",
+    "lugar": "Calgary International Airport (YYC), Calgary",
+    "tipoAccion": "Concentración",
+    "organizaciones": [
+      "Union of Canadian Transportation Employees (UCTE)"
+    ],
+    "motivo": "Concentración sindical contra la privatización de los aeropuertos",
+    "status": "programado",
+    "lat": 51.1315,
+    "lng": -114.0106,
+    "fuentes": [
+      "https://accomponent.ca/ucte-airport-privatization-campaign-yyc-yvr-mobilization-update/"
+    ],
+    "createdAt": "2026-10-26T01:28:22.000Z",
+    "updatedAt": "2026-10-26T01:33:43Z"
+  },
+  {
+    "id": "us-sanfrancisco-20261026",
+    "seccion": "protestas_global",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "12:30",
+    "fecha": "2026-10-26",
+    "lugar": "Tesla Showroom, 999 Van Ness Avenue, San Francisco",
+    "tipoAccion": "Protesta",
+    "organizaciones": [
+      "Indivisible SF",
+      "Activistas locales"
+    ],
+    "motivo": "Protesta semanal contra Trump, ICE y la guerra",
+    "status": "programado",
+    "lat": 37.7811,
+    "lng": -122.4216,
+    "fuentes": [
+      "https://indivisiblesf.org/events/2026/10/26/no-monarch-mondays"
+    ],
+    "createdAt": "2026-10-26T01:28:22.000Z",
+    "updatedAt": "2026-10-26T01:33:43Z"
+  },
+  {
+    "id": "us-santacruz-20261026",
+    "seccion": "protestas_global",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "16:00",
+    "fecha": "2026-10-26",
+    "lugar": "Esquina de Ocean y Water Street, Santa Cruz",
+    "tipoAccion": "Concentración",
+    "organizaciones": [
+      "Bay Area Cuba Solidarity",
+      "Indivisible Santa Cruz County"
+    ],
+    "motivo": "Acto por el fin del bloqueo a Cuba en el marco de la Semana Global de Acción",
+    "status": "programado",
+    "lat": 36.967,
+    "lng": -122.023,
+    "fuentes": [
+      "https://www.indivisiblesantacruzcounty.com/events",
+      "https://www.indybay.org/newsitems/2026/10/11/18889231.php"
+    ],
+    "createdAt": "2026-10-26T01:28:22.000Z",
+    "updatedAt": "2026-10-26T01:33:43Z"
   }
 ]
