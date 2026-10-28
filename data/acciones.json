@@ -1,524 +1,76 @@
 [
   {
-    "id": "ar-caba-calzado-20261027",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "14:00",
-    "fecha": "2026-10-27",
-    "lugar": "Plaza de Mayo y Salón El Querandí, Perú 322, Ciudad Autónoma de Buenos Aires",
-    "tipoAccion": "Movilización",
-    "organizaciones": [
-      "Unión de Trabajadores de la Industria del Calzado de la República Argentina (UTICRA)",
-      "Cámara de la Industria del Calzado",
-      "Fabricantes autoconvocados",
-      "Zapateros Unidos"
-    ],
-    "motivo": "Zapatazo solidario con entrega de calzado en Plaza de Mayo y posterior conferencia de prensa y movilización para presentar un petitorio con medidas de emergencia para el sector; se anunciará una marcha nacional para noviembre",
-    "status": "programado",
-    "lat": -34.6083,
-    "lng": -58.3712,
-    "fuentes": [
-      "https://mundogremial.com/uticra-camara-calzado-zapatazo-solidario-plaza-de-mayo/",
-      "https://mundogremial.com/uticra-camara-calzado-conferencia-prensa-zapatazo/",
-      "https://www.elmovimiento.ar/articulo/calzado-100-fabricas-cerradas-uticra-marcha-27-octubre-plaza-de-mayo",
-      "https://canal10.com.ar/contenido/7546/la-industria-del-calzado-prepara-una-marcha-nacional",
-      "https://www.minutouno.com/economia/crisis-la-industria-del-calzado-empresarios-convocan-una-jornada-solidaria-plaza-mayo-n6338067",
-      "https://www.perfil.com/noticias/economia/fabricantes-calzado-regalan-1000-pares-zapatos-frente-casa-rosada-denunciar-cierre-fabricas-a40.phtml"
-    ],
-    "createdAt": "2026-10-27T03:44:01.000Z",
-    "updatedAt": "2026-10-28T00:00:39Z"
-  },
-  {
-    "id": "ar-caba-docentes-art-20261027",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
+    "id": "es-madrid-medicos-20261028",
+    "seccion": "protestas_global",
+    "pais": "España",
+    "bandera": "🇪🇸",
     "hora": "11:00",
-    "fecha": "2026-10-27",
-    "lugar": "Sede de la ART, intersección de Mitre y Carlos Pellegrini, Ciudad Autónoma de Buenos Aires",
-    "tipoAccion": "Concentración",
+    "fecha": "2026-10-28",
+    "lugar": "Desde la Consejería de Sanidad (C/ Aduana 29) hasta la Plaza de la Villa (Casa de la Villa), Madrid",
+    "tipoAccion": "Manifestación",
     "organizaciones": [
-      "SUTEBA Multicolor",
-      "Alternativa Docente",
-      "Coordinación Docente"
+      "AMYTS",
+      "AME",
+      "STOP PEONADAS",
+      "MUD",
+      "SIME-CSIT UP"
     ],
-    "motivo": "Concentración y movilización en reclamo de condiciones laborales y de seguridad en las escuelas, en el marco del paro docente de 48 horas",
+    "motivo": "Huelga autonómica de médicos y facultativos en defensa de mejoras laborales y retributivas, contra el bloqueo en la negociación con la Consejería de Sanidad",
     "status": "en curso",
-    "lat": -34.601,
-    "lng": -58.383,
+    "lat": 40.4168,
+    "lng": -3.7038,
     "fuentes": [
-      "https://www.elbonaerense.news/2026/10/26/paro-docente-en-pba-donde-habra-medidas-el-27-y-28",
-      "https://periodismodeizquierda.com/el-27-y-28-paremos-con-las-seccionales-combativas-de-suteba-y-la-multicolor/",
-      "https://www.infocielo.com/politica-y-economia/otra-semana-de-paro-docente-resentira-las-clases-en-la-provincia",
-      "https://www.anred.org/suteba-multicolor-vuelve-al-paro-con-protestas-y-movilizaciones-en-distintos-puntos-de-la-provincia/"
+      "http://apiscam.blogspot.com/2026/10/amyts-este-miercoles-28-de-octubre.html",
+      "https://www.ondacero.es/noticias/sociedad/medicos-madrid-cataluna-comunidad-valenciana-suman-huelga-que-piden-cuando-duran-paros_202610286ae19f4e02501232156a8240.html",
+      "https://madridinforma.es/la-huelga-de-medicos-arranca-este-miercoles-en-madrid-y-amenaza-con-alterar-citas-pruebas-y-operaciones"
     ],
-    "createdAt": "2026-10-27T03:44:01.000Z",
-    "updatedAt": "2026-10-28T00:00:39Z"
+    "createdAt": "2026-10-28T10:23:08.000Z",
+    "updatedAt": "2026-10-28T10:27:51Z"
   },
   {
-    "id": "ar-caba-docentes-nanci-godoy-20261027",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "13:30",
-    "fecha": "2026-10-27",
-    "lugar": "Casa de la Provincia de Corrientes, Maipú 271, Ciudad Autónoma de Buenos Aires",
-    "tipoAccion": "Concentración",
-    "organizaciones": [
-      "SUTEBA Multicolor",
-      "Ademys",
-      "Alternativa Docente",
-      "Coordinación Docente"
-    ],
-    "motivo": "Concentración para exigir la aparición con vida de la docente rural Nancy Estela Godoy, desaparecida en Corrientes, y en rechazo al ajuste educativo y la miseria salarial",
-    "status": "programado",
-    "lat": -34.608,
-    "lng": -58.3745,
-    "fuentes": [
-      "https://www.elbonaerense.news/2026/10/26/paro-docente-en-pba-donde-habra-medidas-el-27-y-28",
-      "https://periodismodeizquierda.com/el-27-y-28-paremos-con-las-seccionales-combativas-de-suteba-y-la-multicolor/",
-      "https://mundogremial.com/kicillof-arranca-la-semana-con-otro-paro-docente-de-48-horas-y-la-situacion-es-cada-vez-mas-tensakicillof-arranca-la-semana-con-otro-paro-docente-de-48-horas-y-la-situacion-es-cada-vez-mas-tensa/",
-      "https://www.anred.org/suteba-multicolor-vuelve-al-paro-con-protestas-y-movilizaciones-en-distintos-puntos-de-la-provincia/"
-    ],
-    "createdAt": "2026-10-27T03:44:01.000Z",
-    "updatedAt": "2026-10-28T00:00:39Z"
-  },
-  {
-    "id": "ar-buenos-aires-paro-docente-20261027",
+    "id": "ar-nacional-conadu-20261028",
     "seccion": "protestas_ar",
     "pais": "Argentina",
     "bandera": "🇦🇷",
     "hora": "",
-    "fecha": "2026-10-27",
-    "lugar": "La Matanza y Tigre (paro de 48 horas), Marcos Paz (paro), Bahía Blanca y General Pueyrredón (jornadas de protesta), Provincia de Buenos Aires",
+    "fecha": "2026-10-28",
+    "lugar": "Universidades nacionales y preuniversitarias en todo el país",
     "tipoAccion": "Paro",
     "organizaciones": [
-      "SUTEBA Multicolor",
-      "Alternativa Docente",
-      "Coordinación Docente"
+      "CONADU Histórica",
+      "Federación Nacional de Docentes, Investigadores y Creadores Universitarios"
     ],
-    "motivo": "Paro de 48 horas en La Matanza y Tigre, paro de 24 horas en Marcos Paz y jornadas de protesta en Bahía Blanca y General Pueyrredón contra el aumento del 6 %, en reclamo de un salario inicial de $1.700.000 y mejores condiciones laborales",
+    "motivo": "Paro nacional de una semana en reclamo de recomposición salarial, mayor presupuesto para las universidades, aplicación de la Ley de Financiamiento Universitario y respeto a fallos judiciales",
     "status": "en curso",
-    "lat": -34.6833,
-    "lng": -58.55,
+    "lat": -34.6037,
+    "lng": -58.3816,
     "fuentes": [
-      "https://www.elbonaerense.news/2026/10/26/paro-docente-en-pba-donde-habra-medidas-el-27-y-28",
-      "https://www.infocielo.com/politica-y-economia/otra-semana-de-paro-docente-resentira-las-clases-en-la-provincia",
-      "https://periodismodeizquierda.com/el-27-y-28-paremos-con-las-seccionales-combativas-de-suteba-y-la-multicolor/",
-      "https://mundogremial.com/kicillof-arranca-la-semana-con-otro-paro-docente-de-48-horas-y-la-situacion-es-cada-vez-mas-tensakicillof-arranca-la-semana-con-otro-paro-docente-de-48-horas-y-la-situacion-es-cada-vez-mas-tensa/",
-      "https://www.anred.org/suteba-multicolor-vuelve-al-paro-con-protestas-y-movilizaciones-en-distintos-puntos-de-la-provincia/"
+      "https://www.infobae.com/politica/2026/10/28/los-universitarios-comienzan-hoy-un-nuevo-paro-que-se-extendera-durante-una-semana/",
+      "https://dib.com.ar/sociedad/universidades-comienzan-dos-semanas-paros-y-marchas-mejores-salarios-n56802"
     ],
-    "createdAt": "2026-10-27T03:44:01.000Z",
-    "updatedAt": "2026-10-28T00:00:39Z"
+    "createdAt": "2026-10-28T10:24:53.000Z",
+    "updatedAt": "2026-10-28T10:27:51Z"
   },
   {
-    "id": "ar-moreno-ate-20261027",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "",
-    "fecha": "2026-10-27",
-    "lugar": "Municipalidad de Moreno y dependencias municipales, Moreno, Provincia de Buenos Aires",
-    "tipoAccion": "Paro",
-    "organizaciones": [
-      "Asociación de Trabajadores del Estado (ATE) Seccional Moreno"
-    ],
-    "motivo": "Paro total de actividades por 24 horas en rechazo a la oferta salarial del 0 % y en reclamo de recomposición salarial, pase a planta permanente y mejores condiciones laborales",
-    "status": "en curso",
-    "lat": -34.6417,
-    "lng": -58.7906,
-    "fuentes": [
-      "https://desalambrar.com.ar/ate-repite-la-formula-contra-mariel-paro-sin-movilizacion/"
-    ],
-    "createdAt": "2026-10-27T03:44:01.000Z",
-    "updatedAt": "2026-10-28T00:00:39Z"
-  },
-  {
-    "id": "ar-montecarlo-docentes-20261027",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "08:30",
-    "fecha": "2026-10-27",
-    "lugar": "Ruta Nacional 12, acceso sur de Montecarlo, Carpa de la Dignidad Docente, Misiones",
-    "tipoAccion": "Paro y movilización",
-    "organizaciones": [
-      "Movimiento Pedagógico de Liberación (MPL)"
-    ],
-    "motivo": "Paro de 24 horas sin asistencia a los lugares de trabajo y movilización de docentes, personal de servicio y cocineras en reclamo de salarios dignos; durante la mañana también se registró un corte de la ruta 12 en el kilómetro 1.519",
-    "status": "en curso",
-    "lat": -26.5667,
-    "lng": -54.7333,
-    "fuentes": [
-      "https://radioup.com.ar/docentes-de-misiones-anuncian-un-paro/",
-      "https://ladatamix.com/docentes-de-misiones-anuncian-un-paro-de-24-horas-para-el-martes-27-de-octubre/",
-      "https://www.elterritorio.com.ar/noticias/2026/10/27/923244-unas-70-personas-cortaron-la-ruta-12-en-montecarlo"
-    ],
-    "createdAt": "2026-10-27T03:44:01.000Z",
-    "updatedAt": "2026-10-28T00:00:39Z"
-  },
-  {
-    "id": "ar-catamarca-milei-20261027",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "18:00",
-    "fecha": "2026-10-27",
-    "lugar": "Hotel Casino, intersección de Ayacucho y Esquiú, San Fernando del Valle de Catamarca, Catamarca",
-    "tipoAccion": "Movilización",
-    "organizaciones": [
-      "Frente de Izquierda y de Trabajadores - Unidad (FIT-U)",
-      "Partido Obrero",
-      "Movimiento Socialista de los Trabajadores (MST)"
-    ],
-    "motivo": "Movilización contra la visita del presidente Javier Milei, en rechazo a los despidos, la represión, el recorte a las universidades públicas y el ajuste",
-    "status": "programado",
-    "lat": -28.4692,
-    "lng": -65.779,
-    "fuentes": [
-      "https://www.catamarcaya.com.ar/repudian-la-llegada-de-milei-a-catamarca-y-convocan-a-una-manifestacion-en-el/",
-      "https://eldiariodecatamarca.com/index.php/politica-y-economia/repudio-y-manifestacion-contra-la-llegada-de-milei-a-catamarca"
-    ],
-    "createdAt": "2026-10-27T03:44:01.000Z",
-    "updatedAt": "2026-10-28T00:00:39Z"
-  },
-  {
-    "id": "ar-gualeguaychu-agmer-20261027",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "09:00",
-    "fecha": "2026-10-27",
-    "lugar": "Plaza Urquiza, frente al Municipio, Gualeguaychú, Entre Ríos",
-    "tipoAccion": "Jornada de protesta",
-    "organizaciones": [
-      "AGMER Gualeguaychú"
-    ],
-    "motivo": "Jornada de lucha de la Escuela Itinerante Entrerriana con charlas, talleres y actividades culturales para visibilizar los salarios insuficientes y la pérdida del poder adquisitivo docente",
-    "status": "en curso",
-    "lat": -33.0094,
-    "lng": -58.5172,
-    "fuentes": [
-      "https://www.r2820.com/noticias/2026/10/09/118449-el-27-de-octubre-la-carpa-itinerante-de-agmer-llega-a-la-ciudad-por-el-reclamo-docente"
-    ],
-    "createdAt": "2026-10-27T03:44:01.000Z",
-    "updatedAt": "2026-10-28T00:00:39Z"
-  },
-  {
-    "id": "pt-lisboa-20261027",
-    "seccion": "protestas_global",
-    "pais": "Portugal",
-    "bandera": "🇵🇹",
-    "hora": "18:30",
-    "fecha": "2026-10-27",
-    "lugar": "Assembleia da República, Lisboa",
-    "tipoAccion": "Concentración",
-    "organizaciones": [
-      "Casa Para Viver",
-      "Acampada de Lisboa pela Habitação"
-    ],
-    "motivo": "Concentración contra los recortes en vivienda del Presupuesto del Estado para 2027 y para exigir el fin de la represión policial contra quienes luchan por el derecho a la vivienda",
-    "status": "programado",
-    "lat": 38.7139,
-    "lng": -9.1536,
-    "fuentes": [
-      "https://www.publico.pt/2026/10/25/politica/noticia/rossio-assembleia-tercafeira-ha-manifestacao-18h30-frente-parlamento-2192558",
-      "https://www.dnoticias.pt/2026/10/25/510340-casa-para-viver-condena-violencia-policial-e-convoca-novo-protesto",
-      "https://sicnoticias.pt/economia/habitacao/2026-10-18-video-movimento-casa-para-viver-marca-manifestacao-para-dia-27-de-outubro-ad59c0ce"
-    ],
-    "createdAt": "2026-10-27T03:39:59.000Z",
-    "updatedAt": "2026-10-28T00:00:39Z"
-  },
-  {
-    "id": "py-asuncion-20261027",
-    "seccion": "protestas_global",
-    "pais": "Paraguay",
-    "bandera": "🇵🇾",
-    "hora": "",
-    "fecha": "2026-10-27",
-    "lugar": "Sede central de la ANDE (calle España) y marcha hacia el Ministerio de Economía y Finanzas, Asunción",
-    "tipoAccion": "Marcha",
-    "organizaciones": [
-      "Sindicato de Trabajadores de la ANDE (SITRANDE)"
-    ],
-    "motivo": "Movilización de funcionarios de la ANDE contra el recorte presupuestario y por la reducción de la tarifa de Itaipú y el fortalecimiento de la empresa estatal",
-    "status": "programado",
-    "lat": -25.2867,
-    "lng": -57.647,
-    "fuentes": [
-      "https://www.lanacion.com.py/pais/2026/10/19/sitrande-anuncia-movilizaciones-por-tarifa-y-presupuesto/",
-      "https://www.abc.com.py/nacionales/2026/10/19/sitrande-anuncia-paro-nacional-en-rechazo-al-recorte-presupuestario-y-el-manejo-de-los-recursos-energeticos/",
-      "https://elnacional.com.py/politica/la-ande-esta-siendo-desvalijada-denuncia-sindicato-anuncia-protestas-proxima-semana-n113887"
-    ],
-    "createdAt": "2026-10-27T03:39:59.000Z",
-    "updatedAt": "2026-10-28T00:00:39Z"
-  },
-  {
-    "id": "nl-utrecht-20261027",
-    "seccion": "protestas_global",
-    "pais": "Países Bajos",
-    "bandera": "🇳🇱",
-    "hora": "08:30",
-    "fecha": "2026-10-27",
-    "lugar": "Neude, junto al carril bici, Utrecht",
-    "tipoAccion": "Concentración",
-    "organizaciones": [
-      "Silent Street Protest"
-    ],
-    "motivo": "Protesta silenciosa por Palestina contra el genocidio y la ocupación",
-    "status": "programado",
-    "lat": 52.0936,
-    "lng": 5.119,
-    "fuentes": [
-      "https://rightsforum.org/agenda/",
-      "https://www.silentstreetprotest.nl/"
-    ],
-    "createdAt": "2026-10-27T03:39:59.000Z",
-    "updatedAt": "2026-10-28T00:00:39Z"
-  },
-  {
-    "id": "it-turin-20261027",
-    "seccion": "protestas_global",
-    "pais": "Italia",
-    "bandera": "🇮🇹",
-    "hora": "18:00",
-    "fecha": "2026-10-27",
-    "lugar": "Teatro Carignano, Turín (presidio); movilizaciones en Roma, Milán, Nápoles y Génova",
-    "tipoAccion": "Huelga",
-    "organizaciones": [
-      "Slc Cgil",
-      "Fistel Cisl",
-      "Uilcom Uil"
-    ],
-    "motivo": "Jornada de huelga nacional del sector teatral por el renovación del contrato colectivo, aumento salarial y mayores protecciones para actores, técnicos, músicos y personal administrativo",
-    "status": "programado",
-    "lat": 45.0693,
-    "lng": 7.6856,
-    "fuentes": [
-      "https://www.torinoggi.it/2026/10/26/leggi-notizia/argomenti/eventi-11/articolo/teatro-lavoratori-in-sciopero-rischiano-di-saltare-tutte-le-repliche-e-le-prime-di-martedi-27-o.html",
-      "https://www.slc-cgil.it/notizie-produzione-culturale/5303-teatri-e-scritturati-sciopero-generale-il-27-ottobre.html"
-    ],
-    "createdAt": "2026-10-27T03:39:59.000Z",
-    "updatedAt": "2026-10-28T00:00:39Z"
-  },
-  {
-    "id": "it-roma-20261027",
-    "seccion": "protestas_global",
-    "pais": "Italia",
-    "bandera": "🇮🇹",
-    "hora": "",
-    "fecha": "2026-10-27",
-    "lugar": "Roma, frente al Ministerio de Infraestructuras y Transportes (MIT), Porta Pia",
-    "tipoAccion": "Protesta",
-    "organizaciones": [
-      "Movimento Popolare Nazionale",
-      "Autotrasportatori autoconvocati",
-      "Agricoltori autoconvocati"
-    ],
-    "motivo": "Manifestación contra el costo de vida y el precio de los carburantes, coincidiendo con la reunión entre el ministro Salvini y los transportistas; participan agricultores, camioneros y taxistas",
-    "status": "programado",
-    "lat": 41.909,
-    "lng": 12.4985,
-    "fuentes": [
-      "https://www.quotidiano.net/cronaca/agricoltori-a-roma-il-27-ottobre-manifestazione-t7ljm6b2",
-      "https://www.corrierenazionale.net/2026/10/26/tir-trattori-taxi-sciopero-roma-mit/",
-      "https://tg24.sky.it/cronaca/2026/10/23/sciopero-autotrasportatori-proteste-italia-diretta"
-    ],
-    "createdAt": "2026-10-27T03:39:59.000Z",
-    "updatedAt": "2026-10-28T00:00:39Z"
-  },
-  {
-    "id": "gb-nacional-20261027",
-    "seccion": "protestas_global",
-    "pais": "Reino Unido",
-    "bandera": "🇬🇧",
-    "hora": "08:00",
-    "fecha": "2026-10-27",
-    "lugar": "Campus universitarios de todo el Reino Unido; marchas fúnebres en Nottingham y Goldsmiths, Londres",
-    "tipoAccion": "Protesta",
-    "organizaciones": [
-      "UCU (ramas de Nottingham y Goldsmiths)",
-      "Education. It's Ours",
-      "Counterfire"
-    ],
-    "motivo": "Día de acción contra los recortes y despidos en la educación superior; exigen un paquete de rescate para universidades en riesgo, financiación pública y la abolición de tasas",
-    "status": "programado",
-    "lat": 51.5074,
-    "lng": -0.1278,
-    "fuentes": [
-      "https://www.counterfire.org/event/save-higher-education-rally-strike-protest/",
-      "https://www.timeshighereducation.com/news/ucu-branches-plan-coordinated-fightback-apocalyptic-job-cuts"
-    ],
-    "createdAt": "2026-10-27T03:39:59.000Z",
-    "updatedAt": "2026-10-28T00:00:39Z"
-  },
-  {
-    "id": "gb-londres-20261027",
-    "seccion": "protestas_global",
-    "pais": "Reino Unido",
-    "bandera": "🇬🇧",
-    "hora": "18:00",
-    "fecha": "2026-10-27",
-    "lugar": "Victoria Embankment, Londres",
-    "tipoAccion": "Marcha",
-    "organizaciones": [
-      "Counterfire",
-      "March Against Austerity"
-    ],
-    "motivo": "Marcha contra la austeridad y los recortes sociales",
-    "status": "programado",
-    "lat": 51.5033,
-    "lng": -0.1225,
-    "fuentes": [
-      "https://www.counterfire.org/event/london-march-against-austerity/"
-    ],
-    "createdAt": "2026-10-27T03:39:59.000Z",
-    "updatedAt": "2026-10-28T00:00:39Z"
-  },
-  {
-    "id": "gb-barnet-20261027",
-    "seccion": "protestas_global",
-    "pais": "Reino Unido",
-    "bandera": "🇬🇧",
-    "hora": "07:30",
-    "fecha": "2026-10-27",
-    "lugar": "Rosa Morrison Day Centre, 85 Gloucester Road, New Barnet EN5 1NA; Barnet Council Office, Bristol Avenue, NW9 4EW; Community Space Day Centre, 36 Knightswood Close, Edgware HA8 8FR",
-    "tipoAccion": "Huelga",
-    "organizaciones": [
-      "UNISON",
-      "The Barnet Group"
-    ],
-    "motivo": "Huelga de 24 horas de trabajadores de cuidados y vivienda contra la desigualdad salarial y la falta de condiciones laborales equivalentes a las del personal del ayuntamiento",
-    "status": "programado",
-    "lat": 51.6538,
-    "lng": -0.199,
-    "fuentes": [
-      "https://www.counterfire.org/event/barnet-unison-end-the-two-tier-workforce-strike-and-rally/"
-    ],
-    "createdAt": "2026-10-27T03:39:59.000Z",
-    "updatedAt": "2026-10-28T00:00:39Z"
-  },
-  {
-    "id": "mx-nacional-20261027",
-    "seccion": "protestas_global",
-    "pais": "México",
-    "bandera": "🇲🇽",
-    "hora": "",
-    "fecha": "2026-10-27",
-    "lugar": "Carreteras federales y accesos urbanos de al menos 19 estados; sin rutas ni horarios confirmados para el 27",
-    "tipoAccion": "Paro",
-    "organizaciones": [
-      "Cámara Nacional del Autotransporte de Carga (CANACAR)",
-      "Federación Mexicoamericana de Transportistas (FEMATRAC)",
-      "Honorable Alianza Mexicana de Organizaciones de Transportistas (HAMOTAC)",
-      "Organización Integradora de Derechos Convencionales (INDECO)"
-    ],
-    "motivo": "Paro nacional indefinido de transportistas de carga contra la inseguridad y las extorsiones en carreteras, los costos operativos y la falta de estímulos fiscales",
-    "status": "en curso",
-    "lat": 19.4326,
-    "lng": -99.1332,
-    "fuentes": [
-      "https://www.nmas.com.mx/movilidad/hay-bloqueos-manana-27-de-octubre-2026-cierres-transportistas-paro",
-      "https://www.tvazteca.com/aztecanoticias/paro-nacional-transportistas-cuando-inicia-afectaciones-viales-26-27-octubre-2026",
-      "https://www.elfinanciero.com.mx/empresas/2026/10/26/transportistas-convocan-a-paro-nacional-por-violencia-y-golpe-fiscal-a-empresas-anuncian-bloqueos/"
-    ],
-    "createdAt": "2026-10-27T03:39:59.000Z",
-    "updatedAt": "2026-10-28T00:00:39Z"
-  },
-  {
-    "id": "ve-nacional-20261027",
-    "seccion": "protestas_global",
-    "pais": "Venezuela",
-    "bandera": "🇻🇪",
-    "hora": "",
-    "fecha": "2026-10-27",
-    "lugar": "Caracas y varios estados del país",
-    "tipoAccion": "Protesta",
-    "organizaciones": [
-      "Comunes",
-      "Comité de Víctimas de Apagones",
-      "organizaciones sociales y movimientos sindicales"
-    ],
-    "motivo": "Jornada nacional de protesta contra los apagones y por soluciones inmediatas a la crisis eléctrica",
-    "status": "programado",
-    "lat": 10.4806,
-    "lng": -66.9036,
-    "fuentes": [
-      "https://electroenergygroup.com/convocan-protesta-nacional-apagones-27-octubre/",
-      "https://impactove.com/ong-y-activistas-anuncian-creacion-de-un-comite-de-defensa-de-victimas-de-los-apagones"
-    ],
-    "createdAt": "2026-10-27T03:39:59.000Z",
-    "updatedAt": "2026-10-28T00:00:39Z"
-  },
-  {
-    "id": "ar-nacional-ate-20261027",
+    "id": "ar-caba-docentes-congreso-20261028",
     "seccion": "protestas_ar",
     "pais": "Argentina",
     "bandera": "🇦🇷",
     "hora": "10:00",
-    "fecha": "2026-10-27",
-    "lugar": "Salta y Avenida de Mayo (concentración) y Congreso de la Nación, Ciudad Autónoma de Buenos Aires",
-    "tipoAccion": "Paro y movilización",
+    "fecha": "2026-10-28",
+    "lugar": "Frente al Congreso de la Nación, Ciudad Autónoma de Buenos Aires",
+    "tipoAccion": "Concentración",
     "organizaciones": [
-      "Asociación Trabajadores del Estado (ATE)",
-      "Frente de Sindicatos Unidos (FreSU)"
+      "Gremios docentes"
     ],
-    "motivo": "Paro nacional de 24 horas en la administración pública y movilización al Congreso contra la reforma laboral; se garantizan guardias mínimas en hospitales y servicios esenciales",
-    "status": "en curso",
-    "lat": -34.6088,
-    "lng": -58.3866,
+    "motivo": "Concentración contra el proyecto del Gobierno que pretende declarar la educación como servicio esencial para condicionar el derecho a huelga",
+    "status": "programado",
+    "lat": -34.6096,
+    "lng": -58.3925,
     "fuentes": [
-      "https://www.degremiales.com/ATE-inicio-el-paro-nacional-y-advirtio-que-la-Reforma-Laboral-pondra-en-riesgo-la-paz-social-4464"
+      "https://monitorgremial.com.ar/gremios-docentes-se-concentran-frente-al-congreso-contra-la-iniciativa-del-gobierno-de-declarar-la-educacion-como-servicio-esencial-para-condicionar-el-derecho-a-huelga/"
     ],
-    "createdAt": "2026-10-27T15:45:02.000Z",
-    "updatedAt": "2026-10-28T00:00:39Z"
-  },
-  {
-    "id": "ar-quilmes-fesimubo-20261027",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "",
-    "fecha": "2026-10-27",
-    "lugar": "Autopista Buenos Aires-La Plata, kilómetro 23,5, Quilmes (cerca de Ezpeleta), Provincia de Buenos Aires",
-    "tipoAccion": "Corte de ruta",
-    "organizaciones": [
-      "Federación de Sindicatos Municipales Bonaerenses (FESIMUBO)",
-      "Regional Conurbano Sur de FESIMUBO"
-    ],
-    "motivo": "Corte total en ambos sentidos en reclamo de mejoras salariales, fin de la precarización laboral, financiamiento de IOMA e IPS y convocatoria al Consejo del Empleo Municipal",
-    "status": "en curso",
-    "lat": -34.7206,
-    "lng": -58.2545,
-    "fuentes": [
-      "https://tn.com.ar/sociedad/2026/10/27/hay-corte-total-en-la-autopista-buenos-aires-la-plata-por-una-manifestacion-de-trabajadores-municipales/",
-      "https://www.infocielo.com/politica-y-economia/corte-total-en-la-autopista-buenos-aires-la-plata-por-un-reclamo-de-municipales",
-      "https://www.minutouno.com/sociedad/corte-total-la-autopista-buenos-aires-la-plata-una-protesta-trabajadores-municipales-n6338344"
-    ],
-    "createdAt": "2026-10-27T15:45:02.000Z",
-    "updatedAt": "2026-10-28T00:00:39Z"
-  },
-  {
-    "id": "ar-la-plata-corte-autopista-20261027",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "",
-    "fecha": "2026-10-27",
-    "lugar": "Subida de la Autopista Buenos Aires-La Plata, Diagonal 74, La Plata, Provincia de Buenos Aires",
-    "tipoAccion": "Corte de ruta",
-    "organizaciones": [
-      "Organizaciones sociales y sindicales"
-    ],
-    "motivo": "Corte en rechazo a las políticas de ajuste, el recorte a las jubilaciones y el desfinanciamiento de programas sociales; reclaman la restitución de haberes y fondos para salud y educación",
-    "status": "finalizado",
-    "lat": -34.9215,
-    "lng": -57.9545,
-    "fuentes": [
-      "https://www.degremiales.com/Protesta-en-La-Plata-corte-en-la-subida-de-la-Autopista-por-los-ajustes-del-Gobierno-y-el-recorte-a-las-jubilaciones-4010"
-    ],
-    "createdAt": "2026-10-27T15:45:02.000Z",
-    "updatedAt": "2026-10-28T00:00:39Z"
+    "createdAt": "2026-10-28T10:24:53.000Z",
+    "updatedAt": "2026-10-28T10:27:51Z"
   }
 ]
