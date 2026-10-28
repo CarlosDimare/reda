@@ -25,7 +25,7 @@
       "https://madridinforma.es/la-huelga-de-medicos-arranca-este-miercoles-en-madrid-y-amenaza-con-alterar-citas-pruebas-y-operaciones"
     ],
     "createdAt": "2026-10-28T10:23:08.000Z",
-    "updatedAt": "2026-10-28T10:27:51Z"
+    "updatedAt": "2026-10-28T16:49:14Z"
   },
   {
     "id": "ar-nacional-conadu-20261028",
@@ -46,10 +46,10 @@
     "lng": -58.3816,
     "fuentes": [
       "https://www.infobae.com/politica/2026/10/28/los-universitarios-comienzan-hoy-un-nuevo-paro-que-se-extendera-durante-una-semana/",
-      "https://dib.com.ar/sociedad/universidades-comienzan-dos-semanas-paros-y-marchas-mejores-salarios-n56802"
+      "https://www.a24.com/politica/paro-universitario-nacional-que-dias-no-habra-clases-y-cuando-se-extiende-la-medida-n1610926"
     ],
     "createdAt": "2026-10-28T10:24:53.000Z",
-    "updatedAt": "2026-10-28T10:27:51Z"
+    "updatedAt": "2026-10-28T16:49:14Z"
   },
   {
     "id": "ar-caba-docentes-congreso-20261028",
@@ -64,13 +64,36 @@
       "Gremios docentes"
     ],
     "motivo": "Concentración contra el proyecto del Gobierno que pretende declarar la educación como servicio esencial para condicionar el derecho a huelga",
-    "status": "programado",
+    "status": "en curso",
     "lat": -34.6096,
     "lng": -58.3925,
     "fuentes": [
       "https://monitorgremial.com.ar/gremios-docentes-se-concentran-frente-al-congreso-contra-la-iniciativa-del-gobierno-de-declarar-la-educacion-como-servicio-esencial-para-condicionar-el-derecho-a-huelga/"
     ],
     "createdAt": "2026-10-28T10:24:53.000Z",
-    "updatedAt": "2026-10-28T10:27:51Z"
+    "updatedAt": "2026-10-28T16:49:14Z"
+  },
+  {
+    "id": "ar-bonaerense-suteba-multicolor-20261028",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-10-28",
+    "lugar": "La Matanza, Tigre, General Pueyrredón, Marcos Paz y Bahía Blanca, Provincia de Buenos Aires",
+    "tipoAccion": "Paro",
+    "organizaciones": [
+      "SUTEBA Multicolor"
+    ],
+    "motivo": "Paro y protestas en rechazo al acuerdo salarial del 6% (dos tramos), reclamo de salario equivalente a la canasta familiar y mejoras laborales",
+    "status": "en curso",
+    "lat": -34.6037,
+    "lng": -58.3816,
+    "fuentes": [
+      "https://www.anred.org/suteba-multicolor-vuelve-al-paro-con-protestas-y-movilizaciones-en-distintos-puntos-de-la-provincia/",
+      "https://gremiar.com.ar/la-multicolor-de-suteba-para-48-horas-contra-el-6-que-kicillof-cerro-con-el-resto-de-los-gremios-docentes/"
+    ],
+    "createdAt": "2026-10-28T16:46:22.000Z",
+    "updatedAt": "2026-10-28T16:49:14Z"
   }
 ]
