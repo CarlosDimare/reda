@@ -22,7 +22,7 @@
       "https://www.abc.es/economia/maquinistas-van-hoy-huelga-protestan-condiciones-seguridad-20261029020342-nt.html"
     ],
     "createdAt": "2026-10-29T01:10:42.000Z",
-    "updatedAt": "2026-10-29T07:31:59Z"
+    "updatedAt": "2026-10-29T14:40:42Z"
   },
   {
     "id": "fr-paris-estudiantes-20261029",
@@ -45,7 +45,7 @@
       "https://www.infolibertaire.net/coordination-regionale-etudiante-didf-village-antirepression-et-manifestation-vers-la-prison-de-la-sante/"
     ],
     "createdAt": "2026-10-29T01:10:42.000Z",
-    "updatedAt": "2026-10-29T07:31:59Z"
+    "updatedAt": "2026-10-29T14:40:42Z"
   },
   {
     "id": "ve-caracas-gremios-20261029",
@@ -73,7 +73,7 @@
       "https://www.infobae.com/venezuela/2026/10/28/trabajadores-convocan-una-jornada-nacional-de-protesta-en-venezuela-para-exigir-mejoras-salariales/"
     ],
     "createdAt": "2026-10-29T01:10:42.000Z",
-    "updatedAt": "2026-10-29T07:31:59Z"
+    "updatedAt": "2026-10-29T14:40:42Z"
   },
   {
     "id": "pe-nacional-sutep-20261029",
@@ -98,7 +98,7 @@
       "https://www.educaauge.com/detalleblog/paro-nacional-del-sutep-es-hoy-jueves-29-minedu-no-ha-anunciado-suspension-nacional-de-clases"
     ],
     "createdAt": "2026-10-29T01:10:42.000Z",
-    "updatedAt": "2026-10-29T07:31:59Z"
+    "updatedAt": "2026-10-29T14:40:42Z"
   },
   {
     "id": "gb-cwmtaf-sanitarios-20261029",
@@ -122,7 +122,7 @@
       "https://www.bbc.com/news/articles/c8jn2g4xg72o"
     ],
     "createdAt": "2026-10-29T01:10:42.000Z",
-    "updatedAt": "2026-10-29T07:31:59Z"
+    "updatedAt": "2026-10-29T14:40:42Z"
   },
   {
     "id": "in-tiruppur-agricultores-20261029",
@@ -147,7 +147,7 @@
       "https://timesofindia.indiatimes.com/city/coimbatore/farmers-to-launch-indefinite-hunger-strike-on-oct-29-seeking-pap-water-for-1500-acres-in-tirupur-belt/articleshow/135015606.cms"
     ],
     "createdAt": "2026-10-29T01:10:42.000Z",
-    "updatedAt": "2026-10-29T07:31:59Z"
+    "updatedAt": "2026-10-29T14:40:42Z"
   },
   {
     "id": "it-emilia-romagna-trenitalia-20261029",
@@ -174,7 +174,7 @@
       "https://www.scioperotrasporti.it/2026/10/29/"
     ],
     "createdAt": "2026-10-29T07:27:33.000Z",
-    "updatedAt": "2026-10-29T07:31:59Z"
+    "updatedAt": "2026-10-29T14:40:42Z"
   },
   {
     "id": "mx-queretaro-uaq-estudiantes-20261029",
@@ -197,32 +197,129 @@
       "https://codigoqro.mx/nota/local/2026/10/28/convoca-facultad-de-filosofia-uaq-a-marcha-pacifica-este-29-de-octubre"
     ],
     "createdAt": "2026-10-29T07:27:33.000Z",
-    "updatedAt": "2026-10-29T07:31:59Z"
+    "updatedAt": "2026-10-29T14:40:42Z"
   },
   {
-    "id": "mx-cdmx-trabajadores-salud-20261029",
+    "id": "es-murcia-metal-20261029",
+    "seccion": "protestas_global",
+    "pais": "España",
+    "bandera": "🇪🇸",
+    "hora": "",
+    "fecha": "2026-10-29",
+    "lugar": "Región de Murcia, con especial incidencia en Cartagena (Valle de Escombreras y Navantia) y Murcia",
+    "tipoAccion": "Huelga indefinida",
+    "organizaciones": [
+      "UGT",
+      "CCOO",
+      "USO"
+    ],
+    "motivo": "Huelga indefinida de unos 35.000 trabajadores del metal desde el 27 de octubre ante el bloqueo del convenio colectivo caducado; reclaman subidas salariales y rechazan las cláusulas de compensación y absorción de complementos que, según los sindicatos, neutralizan los incrementos",
+    "status": "en curso",
+    "lat": 37.6056,
+    "lng": -0.9913,
+    "fuentes": [
+      "https://cadenaser.com/murcia/2026/10/27/comienza-la-huelga-indefinida-del-metal-en-la-region-de-murcia-tras-fracasar-la-mediacion-radio-murcia/",
+      "https://www.elsaltodiario.com/laboral/aumenta-tension-huelga-indefinida-del-metal-murcia-deteccion-dos-delegados-sindicales",
+      "https://laprotesta.es/2026/10/28/la-huelga-indefinida-del-metal-de-murcia-continua-tras-cuatro-detenciones-y-una-nueva-reunion-fallida-con-la-patronal/",
+      "https://www.rtve.es/noticias/20261027/huelga-indefinida-metal-region-murcia-arranca-choques-manifestantes-guardia-civil/17285190.shtml"
+    ],
+    "createdAt": "2026-10-29T14:35:10.000Z",
+    "updatedAt": "2026-10-29T14:40:42Z"
+  },
+  {
+    "id": "es-cataluna-medicos-20261029",
+    "seccion": "protestas_global",
+    "pais": "España",
+    "bandera": "🇪🇸",
+    "hora": "",
+    "fecha": "2026-10-29",
+    "lugar": "Centros de atención primaria y hospitales de la sanidad pública y concertada de Cataluña",
+    "tipoAccion": "Huelga indefinida",
+    "organizaciones": [
+      "Metges de Catalunya"
+    ],
+    "motivo": "Huelga indefinida de médicos y facultativos iniciada el 28 de octubre para exigir un convenio propio, frenar la sobrecarga asistencial, eliminar las guardias de 24 horas y negociar mejoras laborales con el Departament de Salut",
+    "status": "en curso",
+    "lat": 41.3874,
+    "lng": 2.1686,
+    "fuentes": [
+      "https://www.catalunyapress.es/articulo/sociedad/2026-10-29/6070531-medicos-mantienen-huelga-indefinida-confirman-unicas-vias-desconvocar-protestas",
+      "https://www.20minutos.es/cataluna/metges-catalunya-convoca-partir-este-miercoles-una-huelga-general-sanidad-publica_7054202_0.html",
+      "https://www.publico.es/politica/medicos-madrid-catalunya-pais-valencia-suman-huelga-sanidad-publica.html",
+      "https://www.larazon.es/cataluna/huelga-medicos-cataluna-enesimo-frente-abierto-gobierno-illa_202610286ae1b30e004b78127ab6b239.html"
+    ],
+    "createdAt": "2026-10-29T14:35:10.000Z",
+    "updatedAt": "2026-10-29T14:40:42Z"
+  },
+  {
+    "id": "mx-cdmx-asamblea-comun-20261029",
     "seccion": "protestas_global",
     "pais": "México",
     "bandera": "🇲🇽",
-    "hora": "07:00",
+    "hora": "11:00",
     "fecha": "2026-10-29",
-    "lugar": "Ciudad de México; concentraciones y marchas desde el Ángel de la Independencia por Paseo de la Reforma hacia el Zócalo",
-    "tipoAccion": "Concentración y marcha",
+    "lugar": "Glorieta de los Insurgentes (Insurgentes Sur y Chapultepec) a la Secretaría de Gobernación, Abraham González 48, colonia Juárez, Cuauhtémoc, CDMX",
+    "tipoAccion": "Marcha",
     "organizaciones": [
-      "SNTSS",
-      "IMSS-Bienestar",
-      "trabajadores de la salud"
+      "Asamblea por el Común y contra la Guerra"
     ],
-    "motivo": "Jornadas de protesta de trabajadores de la salud para exigir aumento salarial del 10%, basificación, más personal y mejores condiciones laborales y de abasto; incluye bloqueos y marchas en la capital",
-    "status": "en curso",
+    "motivo": "Marcha contra la represión y la guerra para rechazar el uso excesivo de la fuerza pública, las detenciones masivas, la criminalización de la protesta social y la militarización",
+    "status": "convocada",
+    "lat": 19.425,
+    "lng": -99.162,
+    "fuentes": [
+      "https://www.unotv.com/estados/ciudad-de-mexico/marcha-contra-la-represion-y-la-guerra-las-movilizaciones-de-este-29-de-octubre-en-la-cdmx/",
+      "https://www.excelsior.com.mx/ciudad-de-mexico/marchas-y-manifestaciones-hoy-29-octubre-cdmx-opciones-viales",
+      "https://elcongresista.mx/justicia/marchas-manifestaciones-cdmx-29-octubre"
+    ],
+    "createdAt": "2026-10-29T14:35:10.000Z",
+    "updatedAt": "2026-10-29T14:40:42Z"
+  },
+  {
+    "id": "mx-cdmx-unam-ciencias-20261029",
+    "seccion": "protestas_global",
+    "pais": "México",
+    "bandera": "🇲🇽",
+    "hora": "12:00",
+    "fecha": "2026-10-29",
+    "lugar": "Escultura Prometeo-Quetzalcóatl, Ciudad Universitaria, Coyoacán; recorrido a la Dirección General del Deporte Universitario y la Torre de Rectoría",
+    "tipoAccion": "Marcha",
+    "organizaciones": [
+      "Estudiantes de la Facultad de Ciencias de la UNAM"
+    ],
+    "motivo": "Exigen la destitución del director general del Deporte Universitario, una auditoría de su administración, mejores uniformes y equipo, apoyo económico para los equipos representativos y entrenadores mejor remunerados",
+    "status": "convocada",
+    "lat": 19.3222,
+    "lng": -99.1845,
+    "fuentes": [
+      "https://www.unotv.com/estados/ciudad-de-mexico/marcha-contra-la-represion-y-la-guerra-las-movilizaciones-de-este-29-de-octubre-en-la-cdmx/",
+      "https://www.excelsior.com.mx/ciudad-de-mexico/marchas-y-manifestaciones-hoy-29-octubre-cdmx-opciones-viales"
+    ],
+    "createdAt": "2026-10-29T14:35:10.000Z",
+    "updatedAt": "2026-10-29T14:40:42Z"
+  },
+  {
+    "id": "mx-cdmx-fnls-20261029",
+    "seccion": "protestas_global",
+    "pais": "México",
+    "bandera": "🇲🇽",
+    "hora": "10:00",
+    "fecha": "2026-10-29",
+    "lugar": "Suprema Corte de Justicia de la Nación, avenida José María Pino Suárez 2, Centro Histórico, Cuauhtémoc, CDMX",
+    "tipoAccion": "Concentración",
+    "organizaciones": [
+      "Frente Nacional de Lucha por el Socialismo (FNLS)"
+    ],
+    "motivo": "Protesta para exigir la libertad de un dirigente indígena náhuatl, campesino y defensor de derechos humanos condenado a 20 años de prisión, al considerar que el proceso se basó en pruebas fabricadas y testimonios irregulares",
+    "status": "convocada",
     "lat": 19.4326,
     "lng": -99.1332,
     "fuentes": [
-      "https://safeabroad.com/the-week-ahead/the-week-ahead-october-26-2026/",
-      "https://www.ambito.com/mexico/economia/estas-son-todas-las-marchas-confirmadas-cdmx-hoy-29-octubre-2026-cortes-bloqueos-y-alternativas-viales-alcaldias-n6339138"
+      "https://www.unotv.com/estados/ciudad-de-mexico/marcha-contra-la-represion-y-la-guerra-las-movilizaciones-de-este-29-de-octubre-en-la-cdmx/",
+      "https://www.excelsior.com.mx/ciudad-de-mexico/marchas-y-manifestaciones-hoy-29-octubre-cdmx-opciones-viales"
     ],
-    "createdAt": "2026-10-29T07:27:33.000Z",
-    "updatedAt": "2026-10-29T07:31:59Z"
+    "createdAt": "2026-10-29T14:35:10.000Z",
+    "updatedAt": "2026-10-29T14:40:42Z"
   },
   {
     "id": "ar-nacional-universidades-20261029",
@@ -232,26 +329,24 @@
     "hora": "",
     "fecha": "2026-10-29",
     "lugar": "Universidades nacionales y preuniversitarias de todo el país",
-    "tipoAccion": "Paro",
+    "tipoAccion": "Paro nacional docente universitario y preuniversitario",
     "organizaciones": [
       "CONADU Histórica",
-      "CONADU",
-      "FAGDUT",
-      "FATUN",
       "AGD UBA"
     ],
-    "motivo": "Paro nacional docente y no docente en reclamo de recomposición salarial, cumplimiento de la Ley de Financiamiento Universitario, pago de la deuda salarial y presupuesto para las universidades; la medida continúa hoy hasta el 3 de noviembre (CONADU Histórica) y la FAGDUT sostiene 96 horas",
+    "motivo": "Paro nacional de docentes universitarios y preuniversitarios iniciado el 28 de octubre y extendido hasta el 3 de noviembre en reclamo de recomposición salarial, cumplimiento de la Ley de Financiamiento Universitario, pago de la deuda salarial y presupuesto para las universidades; AGD UBA adhiere hasta el 3 de noviembre",
     "status": "en curso",
     "lat": -34.6037,
     "lng": -58.3816,
     "fuentes": [
       "https://www.pausa.com.ar/2026/10/universidades-en-lucha-arranca-una-semana-de-paro-docente/",
       "https://www.laarena.com.ar/el-pais/comenzo-paro-de-una-semana-en-las-universidades-nacionales-202610281420",
+      "https://www.infobae.com/politica/2026/10/28/los-universitarios-comienzan-hoy-un-nuevo-paro-que-se-extendera-durante-una-semana/",
       "https://www.lanacion.com.ar/sociedad/los-docentes-de-la-utn-lanzan-desde-este-miercoles-un-par-de-96-horas-por-el-desfinanciamiento-nid28102026",
       "https://www.airedesantafe.com.ar/santa-fe/las-3-noticias-empezar-el-dia-lo-que-necesitas-saber-este-miercoles-28-octubre-n674714"
     ],
     "createdAt": "2026-10-29T01:14:51.000Z",
-    "updatedAt": "2026-10-29T07:31:59Z"
+    "updatedAt": "2026-10-29T14:40:42Z"
   },
   {
     "id": "ar-nacional-ate-iosfa-20261029",
@@ -266,15 +361,52 @@
       "Asociación Trabajadores del Estado (ATE)"
     ],
     "motivo": "Paro de 24 horas en todas las sedes de IOSFA en rechazo al cierre de 31 farmacias y oficinas de la obra social, que pone en riesgo 2.400 puestos de trabajo; incluye abrazo simbólico y movilizaciones",
-    "status": "convocada",
+    "status": "en curso",
     "lat": -34.6037,
     "lng": -58.3816,
     "fuentes": [
       "https://www.lt10.com.ar/noticia/512052--ate-se-moviliza-en-rechazo-al-cierre-de-las-sedes-de-iosfa",
       "https://frenteacano.com.ar/ate-alerta-por-el-cierre-de-31-farmacias-del-ex-iosfa-entre-ellas-la-de-bahia-blanca/",
-      "https://realpolitik.com.ar/nota/74755/iosfa-gonzalo-secchi-estrena-cargo-ordenando-el-cierre-de-31-farmacias-propias"
+      "https://realpolitik.com.ar/nota/74755/iosfa-gonzalo-secchi-estrena-cargo-ordenando-el-cierre-de-31-farmacias-propias",
+      "https://www.radioeme.com/2026/10/incertidumbre-en-iosfa-trabajadores-de-santa-fe-alertan-por-el-cierre-de-farmacias-y-temen-perder-sus-empleos/",
+      "https://www.0264noticias.com.ar/noticias/2026/10/27/114900-denuncian-el-cierre-de-31-farmacias-de-iosfa-a-nivel-nacional-y-este-martes-militares-convocan-a-un-abrazo-simbolico-en-san-juan"
     ],
     "createdAt": "2026-10-29T01:14:51.000Z",
-    "updatedAt": "2026-10-29T07:31:59Z"
+    "updatedAt": "2026-10-29T14:40:42Z"
+  },
+  {
+    "id": "ar-nacional-ctera-nancy-godoy-20261029",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-10-29",
+    "lugar": "Todo el país, con movilizaciones y actos en escuelas, plazas y sedes sindicales; concentraciones locales como la de Balcarce a las 17:30 en plaza Libertad",
+    "tipoAccion": "Paro nacional de 24 horas y jornada de duelo",
+    "organizaciones": [
+      "CTERA",
+      "SUTEBA",
+      "SUTECO",
+      "CEA",
+      "UDA",
+      "AMET",
+      "UEPC",
+      "Amsafé",
+      "Sadop",
+      "ATECH",
+      "Utelpa"
+    ],
+    "motivo": "Paro nacional de 24 horas y jornada de duelo para exigir justicia y el esclarecimiento del femicidio de Nancy Estela Godoy, maestra rural de Corrientes hallada sin vida tras tres semanas desaparecida; también reclaman condiciones laborales y de seguridad dignas para los docentes rurales",
+    "status": "en curso",
+    "lat": -34.6037,
+    "lng": -58.3816,
+    "fuentes": [
+      "https://lajornadaweb.com.ar/paro-nacional-docente-por-el-crimen-de-nancy-godoy-uepc-adhiere-y-se-resienten-las-clases-en-cordoba/",
+      "https://www.radiogol.com.ar/destacadas/principal/ctera-decreto-un-paro-nacional-y-duelo-por-la-muerte-de-nancy-godoy-233467/",
+      "https://www.airedesantafe.com.ar/actualidad/ctera-convoco-un-paro-nacional-el-crimen-nanci-godoy-y-amsafe-y-sadop-adhieren-santa-fe-n674853",
+      "https://www.laarena.com.ar/la-pampa/alto-acatamiento-en-la-pampa-al-paro-docente-por-el-femicidio-de-nancy-godoy-2026102910280"
+    ],
+    "createdAt": "2026-10-29T14:38:00.000Z",
+    "updatedAt": "2026-10-29T14:40:42Z"
   }
 ]
