@@ -1,359 +1,185 @@
 [
   {
-    "id": "es-madrid-medicos-20261028",
+    "id": "es-renfe-maquinistas-20261029",
     "seccion": "protestas_global",
     "pais": "España",
     "bandera": "🇪🇸",
-    "hora": "10:00",
-    "fecha": "2026-10-28",
-    "lugar": "Desde la Consejería de Sanidad (C/ Aduana 29) hasta el Congreso de los Diputados, Madrid",
-    "tipoAccion": "Manifestación",
+    "hora": "00:01",
+    "fecha": "2026-10-29",
+    "lugar": "Toda la red ferroviaria del grupo Renfe, España",
+    "tipoAccion": "Huelga",
     "organizaciones": [
-      "AMYTS",
-      "AME",
-      "STOP PEONADAS",
-      "MUD",
-      "SIME-CSIT UP"
+      "Semaf"
     ],
-    "motivo": "Huelga autonómica de médicos y facultativos en defensa de mejoras laborales y retributivas, contra el bloqueo en la negociación con la Consejería de Sanidad; las jornadas del 29 y 30 fueron suspendidas tras el accidente ferroviario de Urda",
-    "status": "finalizada",
+    "motivo": "Huelga de 24 horas de maquinistas para exigir medidas de seguridad y prevención tras el accidente ferroviario de Urda; Renfe estableció servicios mínimos del 50-75% en Cercanías, 65% en Media Distancia y 73% en AVE y Larga Distancia",
+    "status": "en curso",
     "lat": 40.4168,
     "lng": -3.7038,
     "fuentes": [
-      "http://apiscam.blogspot.com/2026/10/amyts-este-miercoles-28-de-octubre.html",
-      "https://elpais.com/espana/madrid/2026-10-28/los-medicos-de-madrid-suspenden-la-huelga-por-el-accidente-ferroviario-en-toledo.html",
-      "https://www.20minutos.es/madrid/los-medicos-madrid-cancelan-sus-dos-primeras-jornadas-huelga-tras-accidente-tren-toledo_7054367_0.html",
-      "https://www.publico.es/sociedad/sanidad/manifestacion-medicos-madrid-28-octubre-horario-recorrido-claves-huelga-sanitaria.html"
+      "https://grupo.renfe.com/es/es/sala-de-prensa/noticias/2026/10/establecidos-servicios-minimos-huelga-semaf-29-octubre",
+      "https://www.rtve.es/noticias/20261029/jueves-complicado-tren-tras-accidente-urda-huelga-maquinistas-para-pedir-seguridad/17287723.shtml",
+      "https://www.eldiariodemadrid.es/articulo/movilidad/huelga-renfe-29-octubre-2026-servicios-minimos-cercanias-ave/20261026123242145298.html"
     ],
-    "createdAt": "2026-10-28T10:23:08.000Z",
-    "updatedAt": "2026-10-28T21:35:54Z"
+    "createdAt": "2026-10-29T01:10:42.000Z",
+    "updatedAt": "2026-10-29T01:17:37Z"
   },
   {
-    "id": "es-cataluna-medicos-20261028",
+    "id": "fr-paris-estudiantes-20261029",
     "seccion": "protestas_global",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "09:45",
-    "fecha": "2026-10-28",
-    "lugar": "Desde la Zona Universitària por la avenida Diagonal hasta la Conselleria de Salut, Barcelona",
-    "tipoAccion": "Manifestación y huelga indefinida",
+    "pais": "Francia",
+    "bandera": "🇫🇷",
+    "hora": "12:00",
+    "fecha": "2026-10-29",
+    "lugar": "Esplanade des Grands Moulins, París; marcha a las 15:00 hacia la prisión de La Santé",
+    "tipoAccion": "Concentración y manifestación",
     "organizaciones": [
-      "Metges de Catalunya (MC)",
-      "Unión Médica y Facultativa (UMYF)"
+      "Coordination étudiante",
+      "Solidaires"
     ],
-    "motivo": "Primer día de huelga indefinida para exigir un convenio médico propio, el fin de las guardias de 24 horas, mejores retribuciones y reducción de la sobrecarga asistencial",
-    "status": "en curso",
-    "lat": 41.3874,
-    "lng": 2.1128,
+    "motivo": "Village antirépression y manifestación contra la represión policial y en defensa del derecho a protestar, en el marco de la movilización estudiantil",
+    "status": "convocada",
+    "lat": 48.8289,
+    "lng": 2.3803,
     "fuentes": [
-      "https://www.rtve.es/catalunya/noticies/20261027/vaga-indefinida-metges-catalunya-28-octubre-afectacions/17285304.shtml",
-      "https://www.infobae.com/espana/agencias/2026/10/28/una-manifestacion-abre-en-cataluna-una-huelga-indefinida-de-medicos-seguida-por-el-45/",
-      "https://www.europapress.es/catalunya/noticia-medicos-guardan-minuto-silencio-accidente-toledo-manifestacion-barcelona-20261028111917.html"
+      "https://solidaires93.org/agenda-du-mouvement-social-automne-2026/",
+      "https://paris.evous.fr/citoyen/manifestations"
     ],
-    "createdAt": "2026-10-28T21:29:35.000Z",
-    "updatedAt": "2026-10-28T21:35:54Z"
+    "createdAt": "2026-10-29T01:10:42.000Z",
+    "updatedAt": "2026-10-29T01:17:37Z"
   },
   {
-    "id": "es-valencia-medicos-20261028",
+    "id": "ve-caracas-gremios-20261029",
     "seccion": "protestas_global",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "",
-    "fecha": "2026-10-28",
-    "lugar": "Centros sanitarios de la Comunitat Valenciana",
-    "tipoAccion": "Huelga indefinida",
-    "organizaciones": [
-      "Avanza Valencia",
-      "Unión Médica y Facultativa (UMYF)"
-    ],
-    "motivo": "Huelga indefinida de médicos y facultativos para exigir mejoras laborales y retributivas y frenar la reforma del Estatuto Marco",
-    "status": "en curso",
-    "lat": 39.4699,
-    "lng": -0.3763,
-    "fuentes": [
-      "https://www.lasexta.com/noticias/sociedad/medicos-madrid-cataluna-comunitat-valenciana-suman-huelga-este-miercoles_202610286ae1a841004b78127ab6a63c.html",
-      "https://www.publico.es/sociedad/sanidad/manifestacion-medicos-madrid-28-octubre-horario-recorrido-claves-huelga-sanitaria.html"
-    ],
-    "createdAt": "2026-10-28T21:29:35.000Z",
-    "updatedAt": "2026-10-28T21:35:54Z"
-  },
-  {
-    "id": "es-madrid-tractorada-20261028",
-    "seccion": "protestas_global",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "11:00",
-    "fecha": "2026-10-28",
-    "lugar": "Plaza de Colón y recorrido hasta el Ministerio de Agricultura, Pesca y Alimentación, Madrid",
-    "tipoAccion": "Tractorada",
-    "organizaciones": [
-      "ASAJA",
-      "COAG",
-      "Unión de Uniones"
-    ],
-    "motivo": "Tractorada para exigir un plan de choque frente a los costos de producción, gasóleo profesional, precios justos, una PAC con financiamiento suficiente y menos burocracia; fue suspendida tras el accidente ferroviario de Urda",
-    "status": "suspendida",
-    "lat": 40.4255,
-    "lng": -3.6906,
-    "fuentes": [
-      "https://www.rtve.es/noticias/20261028/tractorada-agricultores-madrid-28-octubre-directo-recorrido-cronica/17286553.shtml",
-      "https://www.elmundo.es/economia/2026/10/28/6ae194ca3e9f6f8c52ad67d6-directo.html",
-      "https://www.asaja.com/asaja-coag-y-union-de-uniones-convocan-una-gran-tractorada-en-madrid-el-28-de-octubre-por-un-campo-con-futuro/"
-    ],
-    "createdAt": "2026-10-28T21:29:35.000Z",
-    "updatedAt": "2026-10-28T21:35:54Z"
-  },
-  {
-    "id": "id-jakarta-estudiantes-20261028",
-    "seccion": "protestas_global",
-    "pais": "Indonesia",
-    "bandera": "🇮🇩",
-    "hora": "14:00",
-    "fecha": "2026-10-28",
-    "lugar": "Bundaran HI y Jalan Thamrin-Sudirman, Yakarta (con acciones en Bandung, Yogyakarta, Malang, Makassar y Solo)",
-    "tipoAccion": "Manifestación",
-    "organizaciones": [
-      "Komite Sadar",
-      "BEM Universidad de Indonesia",
-      "BEM Universitas Airlangga",
-      "BEM UPN Veteran Yogyakarta",
-      "sociedad civil"
-    ],
-    "motivo": "Protesta contra el aumento del costo de vida, los recortes de subsidios, la corrupción y la gestión gubernamental de los incendios forestales y la neblina tóxica; exigen declarar desastre nacional",
-    "status": "finalizada",
-    "lat": -6.1944,
-    "lng": 106.8229,
-    "fuentes": [
-      "https://www.afp.com/en/eat-rich-indonesians-protest-against-graft-wildfires",
-      "https://www.thejakartapost.com/indonesia/2026/10/28/students-protest-against-president-prabowo-policies-wildfires",
-      "https://www.channelnewsasia.com/asia/indonesia-jakarta-student-protest-prices-forest-fires-6499771",
-      "https://en.tempo.co/read/2122542/amnesty-urges-police-to-lift-bundaran-hi-protest-ban"
-    ],
-    "createdAt": "2026-10-28T21:29:35.000Z",
-    "updatedAt": "2026-10-28T21:35:54Z"
-  },
-  {
-    "id": "xk-pristina-feminicidio-20261028",
-    "seccion": "protestas_global",
-    "pais": "Kosovo",
-    "bandera": "🇽🇰",
-    "hora": "16:00",
-    "fecha": "2026-10-28",
-    "lugar": "Plaza Zahir Pajaziti y marcha hasta el Ministerio de Justicia y otros edificios gubernamentales, Pristina",
-    "tipoAccion": "Manifestación",
-    "organizaciones": [
-      "Colectivo de Pensamiento y Acción Feminista"
-    ],
-    "motivo": "Exigir responsabilidad institucional y renuncias tras el feminicidio de Arlinda Zekaj, octava víctima de violencia doméstica en el año, y medidas urgentes contra la violencia de género",
-    "status": "finalizada",
-    "lat": 42.6629,
-    "lng": 21.1655,
-    "fuentes": [
-      "https://apnews.com/article/kosovo-violence-women-killed-protest-0afa4e9562236068749348db324c8a56",
-      "https://balkaninsight.com/2026/10/28/kosovo-protesters-demand-ministerial-judicial-resignations-after-latest-femicide/bi/",
-      "https://www.nacionale.com/en/articles/national-protest-demonstration-pristina-arlinda-zekaj-murder"
-    ],
-    "createdAt": "2026-10-28T21:29:35.000Z",
-    "updatedAt": "2026-10-28T21:35:54Z"
-  },
-  {
-    "id": "in-mumbai-cec-20261028",
-    "seccion": "protestas_global",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "15:00",
-    "fecha": "2026-10-28",
-    "lugar": "Desde Metro Cinema Junction hasta la sede del BMC, Bombay (Mumbai)",
-    "tipoAccion": "Marcha",
-    "organizaciones": [
-      "Vanchit Bahujan Aghadi (VBA)",
-      "Prakash Ambedkar"
-    ],
-    "motivo": "Exigir la destitución del comisionado electoral jefe Gyanesh Kumar por presunto fraude electoral; la marcha no tenía permiso y fue convocada por Prakash Ambedkar",
-    "status": "finalizada",
-    "lat": 18.9388,
-    "lng": 72.8354,
-    "fuentes": [
-      "https://timesofindia.indiatimes.com/city/mumbai/sobo-traffic-hit-for-hours-as-2000-protesters-demand-cecs-ouster/articleshow/135273504.cms"
-    ],
-    "createdAt": "2026-10-28T21:29:35.000Z",
-    "updatedAt": "2026-10-28T21:35:54Z"
-  },
-  {
-    "id": "in-delhi-abogados-20261028",
-    "seccion": "protestas_global",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "",
-    "fecha": "2026-10-28",
-    "lugar": "Tribunales de distrito de Delhi",
-    "tipoAccion": "Huelga y abstención de trabajo",
-    "organizaciones": [
-      "Coordination Committee of All District Courts Bar Associations of Delhi"
-    ],
-    "motivo": "Huelga y abstención de trabajo en tribunales de distrito para exigir la suspensión de un comisionado de policía y un inspector acusados de intimidar a abogados; fue levantada tras las transferencias",
-    "status": "finalizada",
-    "lat": 28.6139,
-    "lng": 77.209,
-    "fuentes": [
-      "https://indianexpress.com/article/cities/delhi/delhi-lawyers-strike-called-off-police-officers-transferred-10941029/",
-      "https://www.hindustantimes.com/cities/delhi-news/delhi-district-courts-shut-as-lawyers-hold-indefinite-strike-101793125937195.html",
-      "https://www.lokmattimes.com/national/delhi-lawyers-indefinite-strike-ends-following-transfer-of-shahdara-acp-sho-a001-w03/"
-    ],
-    "createdAt": "2026-10-28T21:29:35.000Z",
-    "updatedAt": "2026-10-28T21:35:54Z"
-  },
-  {
-    "id": "mx-cdmx-jubilados-20261028",
-    "seccion": "protestas_global",
-    "pais": "México",
-    "bandera": "🇲🇽",
+    "pais": "Venezuela",
+    "bandera": "🇻🇪",
     "hora": "09:00",
-    "fecha": "2026-10-28",
-    "lugar": "Secretaría de Energía, Avenida Insurgentes Sur 20, Roma Norte, Ciudad de México",
-    "tipoAccion": "Concentración",
+    "fecha": "2026-10-29",
+    "lugar": "Facultad de Ciencias Políticas y Jurídicas de la UCV y centro de Caracas; actividades en universidades, colegios, hospitales y centros de salud de todo el país",
+    "tipoAccion": "Jornada nacional de protesta",
     "organizaciones": [
-      "Alianza Nacional de Jubilados",
-      "Asociaciones de Jubilados de Pemex"
+      "APUCV",
+      "Magisterio venezolano",
+      "gremios de salud",
+      "sector universitario"
     ],
-    "motivo": "Exigir respeto a los derechos adquiridos, eliminación de la retroactividad de la reforma al artículo 127 constitucional, aumento anual de pensiones y servicios médicos dignos",
-    "status": "finalizada",
-    "lat": 19.419,
-    "lng": -99.163,
+    "motivo": "Jornada nacional para exigir mejoras salariales y laborales, discusión de las tablas salariales, aguinaldos, eliminación del Sistema Patria y respuestas a los pliegos de los sectores educativo, universitario y de salud",
+    "status": "convocada",
+    "lat": 10.4806,
+    "lng": -66.9036,
     "fuentes": [
-      "https://www.nmas.com.mx/ciudad-de-mexico/movilidad/marchas/a-que-hora-inicia-bloqueo-jubilados-pemex-hoy-28-de-octubre-2026-cierre-zona-centro-cdmx/",
-      "https://www.capitalmexico.com.mx/cdmx/marchas-y-eventos-en-cdmx-hoy-28-de-octubre-horarios-movilizaciones-y-cierres-viales/",
-      "https://www.unotv.com/estados/ciudad-de-mexico/san-judas-actividades-protestas-cdmx-miercoles-28-de-octubre/"
+      "https://eldiario.com/2026/10/27/jornada-protesta-29-octubre",
+      "https://elpitazo.net/regiones/gran-caracas/jornada-nacional-de-protesta-gremios-convocan-a-una-movilizacion-este-jueves-29-de-octubre/",
+      "https://www.elnacional.com/2026/10/gremios-de-educacion-salud-y-universitarios-convocan-a-jornada-nacional-de-protesta-para-el-29-de-octubre-ante-la-falta-de-respuesta-salarial/"
     ],
-    "createdAt": "2026-10-28T21:29:35.000Z",
-    "updatedAt": "2026-10-28T21:35:54Z"
+    "createdAt": "2026-10-29T01:10:42.000Z",
+    "updatedAt": "2026-10-29T01:17:37Z"
   },
   {
-    "id": "mx-cdmx-comuneros-20261028",
+    "id": "pe-nacional-sutep-20261029",
     "seccion": "protestas_global",
-    "pais": "México",
-    "bandera": "🇲🇽",
-    "hora": "11:00",
-    "fecha": "2026-10-28",
-    "lugar": "Suprema Corte de Justicia de la Nación, Centro Histórico, Ciudad de México",
-    "tipoAccion": "Concentración",
-    "organizaciones": [
-      "Comuneras y comuneros de Eloxochitlán de Flores Magón, Oaxaca"
-    ],
-    "motivo": "Exigir la libertad de personas que consideran injustamente presas y la defensa de la autonomía y el territorio de los pueblos originarios",
-    "status": "finalizada",
-    "lat": 19.4326,
-    "lng": -99.1332,
-    "fuentes": [
-      "https://www.capitalmexico.com.mx/cdmx/marchas-y-eventos-en-cdmx-hoy-28-de-octubre-horarios-movilizaciones-y-cierres-viales/",
-      "https://www.unotv.com/estados/ciudad-de-mexico/san-judas-actividades-protestas-cdmx-miercoles-28-de-octubre/"
-    ],
-    "createdAt": "2026-10-28T21:29:35.000Z",
-    "updatedAt": "2026-10-28T21:35:54Z"
-  },
-  {
-    "id": "co-bogota-ciudad-bolivar-20261028",
-    "seccion": "protestas_global",
-    "pais": "Colombia",
-    "bandera": "🇨🇴",
-    "hora": "06:21",
-    "fecha": "2026-10-28",
-    "lugar": "Barrio Los Alpes, Brisas del Volador, Ciudad Bolívar, Bogotá",
-    "tipoAccion": "Bloqueo y plantón",
-    "organizaciones": [
-      "Comunidad del barrio Los Alpes, Brisas del Volador"
-    ],
-    "motivo": "Bloqueo y plantón para exigir atención a necesidades del barrio Los Alpes y de la comunidad de Ciudad Bolívar",
-    "status": "finalizada",
-    "lat": 4.564,
-    "lng": -74.146,
-    "fuentes": [
-      "https://www.semana.com/vehiculos/articulo/manifestacion-afecta-a-usuarios-de-transmilenio-en-el-sur-de-bogota-este-es-el-panorama-actual/202602/",
-      "https://bogota.gov.co/mi-ciudad/movilidad/2026-10/en-vivo-movilidad-bogota-y-transmilenio-hoy-miercoles-28-octubre-2026"
-    ],
-    "createdAt": "2026-10-28T21:29:35.000Z",
-    "updatedAt": "2026-10-28T21:35:54Z"
-  },
-  {
-    "id": "al-tirana-estudiantes-20261028",
-    "seccion": "protestas_global",
-    "pais": "Albania",
-    "bandera": "🇦🇱",
+    "pais": "Perú",
+    "bandera": "🇵🇪",
     "hora": "",
-    "fecha": "2026-10-28",
-    "lugar": "Ministerio de Educación y calles del centro de Tirana, zona de Zogu i Zi",
+    "fecha": "2026-10-29",
+    "lugar": "Todo el país, con concentraciones en Lima y las 24 regiones",
+    "tipoAccion": "Paro nacional de 24 horas",
+    "organizaciones": [
+      "SUTEP"
+    ],
+    "motivo": "Paro nacional de 24 horas para exigir el cumplimiento del convenio colectivo, la asignación del 6% del PBI para Educación, la reglamentación de la ley de pensiones del magisterio y el pago de la deuda social",
+    "status": "convocada",
+    "lat": -12.0464,
+    "lng": -77.0428,
+    "fuentes": [
+      "https://elbuho.pe/2026/10/sutep-ratifica-paro-nacional-del-29-de-octubre-y-advierte-posible-huelga-indefinida",
+      "https://www.apnoticias.pe/paro-nacional-del-sutep-este-29-de-octubre-se-suspenden-las-clases-escolares-en-peru-1521364",
+      "https://radiouno.pe/noticias/286913/sutep-anuncia-paro-nacional-de-24-horas-para-este-jueves-29-de-octubre/"
+    ],
+    "createdAt": "2026-10-29T01:10:42.000Z",
+    "updatedAt": "2026-10-29T01:17:37Z"
+  },
+  {
+    "id": "ke-nairobi-estudiantes-20261029",
+    "seccion": "protestas_global",
+    "pais": "Kenia",
+    "bandera": "🇰🇪",
+    "hora": "",
+    "fecha": "2026-10-29",
+    "lugar": "Universidad de Nairobi y Waiyaki Way, Nairobi",
     "tipoAccion": "Manifestación",
     "organizaciones": [
-      "Estudiantes universitarios"
+      "Estudiantes de la Universidad de Nairobi",
+      "UNSA"
     ],
-    "motivo": "Protesta contra el gobierno de Edi Rama; los estudiantes exigen su renuncia y cambios fundamentales en educación y gobernanza",
-    "status": "en curso",
-    "lat": 41.3275,
-    "lng": 19.8187,
+    "motivo": "Protestas diarias hasta el viernes 30 de octubre para exigir la reanudación de clases y el fin de la huelga de docentes universitarios iniciada el 2 de octubre por el incumplimiento del convenio colectivo 2025-2029",
+    "status": "convocada",
+    "lat": -1.2921,
+    "lng": 36.8219,
     "fuentes": [
-      "https://www.balkanweb.com/en/Students-protest-with-national-flags-and-near-the-black-bird/"
+      "https://educationnews.co.ke/news/uon-students-vow-daily-protests-until-friday-as-lecturers-strike-disrupts-learning",
+      "https://peopledaily.digital/news/university-of-nairobi-students-threaten-daily-protests-over-lecturers-strike",
+      "https://www.the-star.co.ke/news/2026-10-27-students-lecturers-strike-leaves-us-idle-frustrated"
     ],
-    "createdAt": "2026-10-28T21:29:35.000Z",
-    "updatedAt": "2026-10-28T21:35:54Z"
+    "createdAt": "2026-10-29T01:10:42.000Z",
+    "updatedAt": "2026-10-29T01:17:37Z"
   },
   {
-    "id": "it-milan-estudiantes-20261028",
+    "id": "gb-cwmtaf-sanitarios-20261029",
     "seccion": "protestas_global",
-    "pais": "Italia",
-    "bandera": "🇮🇹",
+    "pais": "Reino Unido",
+    "bandera": "🇬🇧",
     "hora": "",
-    "fecha": "2026-10-28",
-    "lugar": "Universidad Statale y calles del centro de Milán",
-    "tipoAccion": "Manifestación y ocupación",
+    "fecha": "2026-10-29",
+    "lugar": "Cwm Taf Morgannwg University Health Board, Gales",
+    "tipoAccion": "Huelga",
     "organizaciones": [
-      "Estudiantes universitarios",
-      "colectivos juveniles"
+      "Unite"
     ],
-    "motivo": "Protesta contra el costo de la vida, la falta de plazas y docentes, aulas superpobladas y recortes educativos; ocuparon el Aula Magna de la Universidad Statale",
+    "motivo": "Huelga continua de visitadores sanitarios desde febrero por el incumplimiento de la evaluación y clasificación de puestos; reclaman el pago en la banda salarial correcta tras perder hasta 9.000 libras anuales",
     "status": "en curso",
-    "lat": 45.4642,
-    "lng": 9.19,
+    "lat": 51.6167,
+    "lng": -3.45,
     "fuentes": [
-      "https://www.ansa.it/sito/notizie/cronaca/2026/10/28/studenti-occupano-l-aula-magna-della-statale-a-milano_7016cea8-9222-4531-bf94-051a34678ace.html",
-      "https://video.corriere.it/milano/chi-sono-e-cosa-chiedono-i-ragazzi-che-manifestano-senza-violenza-veniamo-dalla-luna-ridateci-il-futuro/428883fb-ede2-4b69-88c5-3bf9e2d0axlk",
-      "https://www.ilgiorno.it/milano/cronaca/protesta-studenti-sciopero-30-ottobre-clpjz9dg"
+      "https://www.strikecalendar.co.uk/union/unite/cwmtafhealthboardunite",
+      "https://www.bbc.com/news/articles/c8jn2g4xg72o",
+      "https://morningstaronline.co.uk/article/council-letter-raises-pressure-health-board-resolve-strike"
     ],
-    "createdAt": "2026-10-28T21:29:35.000Z",
-    "updatedAt": "2026-10-28T21:35:54Z"
+    "createdAt": "2026-10-29T01:10:42.000Z",
+    "updatedAt": "2026-10-29T01:17:37Z"
   },
   {
-    "id": "pt-lisboa-vivienda-20261028",
+    "id": "in-tiruppur-agricultores-20261029",
     "seccion": "protestas_global",
-    "pais": "Portugal",
-    "bandera": "🇵🇹",
+    "pais": "India",
+    "bandera": "🇮🇳",
     "hora": "",
-    "fecha": "2026-10-28",
-    "lugar": "Rossio, Lisboa",
-    "tipoAccion": "Acampada y concentración",
+    "fecha": "2026-10-29",
+    "lugar": "Kangayam-Vellakovil, Tiruppur, Tamil Nadu",
+    "tipoAccion": "Huelga de hambre indefinida",
     "organizaciones": [
-      "Acampada de Lisboa",
-      "Plataforma Casa Para Viver"
+      "PAP Vellakovil Branch Canal Water Conservation Association",
+      "agricultores de Kangayam-Vellakovil"
     ],
-    "motivo": "Acción por el derecho a la vivienda y contra los altos alquileres, la especulación inmobiliaria y la represión policial de las protestas; la Acampada de Lisboa regresó al Rossio",
-    "status": "en curso",
-    "lat": 38.7139,
-    "lng": -9.1394,
+    "motivo": "Huelga de hambre indefinida para exigir su parte del agua de riego del proyecto Parambikulam-Aliyar a través del canal Vellakovil y denunciar el robo de agua en la parte alta; la policía denegó el permiso",
+    "status": "convocada",
+    "lat": 11.0056,
+    "lng": 77.5606,
     "fuentes": [
-      "https://www.portugalresident.com/housing-protesters-return-to-rossio-didnt-erect-camp-last-night/",
-      "https://sol.iol.pt/sociedade/noticias/o-nosso-pais-nao-esta-a-venda-crise-na-habitacao-leva-milhares-as-ruas-de-lisboa-em-protesto-junto-ao-parlamento/20261028/6ae1c8560cf299bc29543aa0",
-      "https://www.rtp.pt/noticias/politica/protesto-pela-habitacao-deputados-ao-lado-de-manifestantes_v1774922"
+      "https://www.thehindu.com/news/cities/Coimbatore/police-deny-permission-for-hunger-protest-by-pap-main-canal-tail-end-farmers-in-tiruppur-on-oct-29/article71627705.ece",
+      "https://www.thehindu.com/news/cities/Coimbatore/tail-end-farmers-in-pap-main-canal-ayacut-plan-indefinite-hunger-strike-from-oct-29-flaying-water-shortage/article71612372.ece",
+      "https://timesofindia.indiatimes.com/city/coimbatore/farmers-to-launch-indefinite-hunger-strike-on-oct-29-seeking-pap-water-for-1500-acres-in-tirupur-belt/articleshowprint/135015606.cms"
     ],
-    "createdAt": "2026-10-28T21:29:35.000Z",
-    "updatedAt": "2026-10-28T21:35:54Z"
+    "createdAt": "2026-10-29T01:10:42.000Z",
+    "updatedAt": "2026-10-29T01:17:37Z"
   },
   {
-    "id": "ar-nacional-conadu-20261028",
+    "id": "ar-nacional-universidades-20261029",
     "seccion": "protestas_ar",
     "pais": "Argentina",
     "bandera": "🇦🇷",
     "hora": "",
-    "fecha": "2026-10-28",
-    "lugar": "Universidades nacionales y preuniversitarias en todo el país",
+    "fecha": "2026-10-29",
+    "lugar": "Universidades nacionales y preuniversitarias de todo el país",
     "tipoAccion": "Paro",
     "organizaciones": [
       "CONADU Histórica",
@@ -362,185 +188,41 @@
       "FATUN",
       "AGD UBA"
     ],
-    "motivo": "Paro nacional de docentes y no docentes en reclamo de recomposición salarial, mayor presupuesto para las universidades, aplicación de la Ley de Financiamiento Universitario y respeto a fallos judiciales; CONADU Histórica se extiende hasta el 3 de noviembre",
+    "motivo": "Paro nacional docente y no docente en reclamo de recomposición salarial, cumplimiento de la Ley de Financiamiento Universitario, pago de la deuda salarial y presupuesto para las universidades; la medida continúa hoy hasta el 3 de noviembre (CONADU Histórica) y la FAGDUT sostiene 96 horas",
     "status": "en curso",
     "lat": -34.6037,
     "lng": -58.3816,
     "fuentes": [
-      "https://www.infobae.com/politica/2026/10/28/los-universitarios-comienzan-hoy-un-nuevo-paro-que-se-extendera-durante-una-semana/",
-      "https://www.a24.com/politica/paro-universitario-nacional-que-dias-no-habra-clases-y-cuando-se-extiende-la-medida-n1610926",
       "https://www.pausa.com.ar/2026/10/universidades-en-lucha-arranca-una-semana-de-paro-docente/",
-      "https://www.analisisdigital.com.ar/nacionales/2026/10/28/paro-universitario-docentes-y-no-docentes-reclaman-este-miercoles-contra-el-ajuste-de-milei",
-      "https://argentina.indymedia.org/2026/10/27/nuevos-paros-de-docentes-universitarios-y-de-maestros-de-la-pba/"
+      "https://www.laarena.com.ar/el-pais/comenzo-paro-de-una-semana-en-las-universidades-nacionales-202610281420",
+      "https://www.lanacion.com.ar/sociedad/los-docentes-de-la-utn-lanzan-desde-este-miercoles-un-par-de-96-horas-por-el-desfinanciamiento-nid28102026",
+      "https://www.airedesantafe.com.ar/santa-fe/las-3-noticias-empezar-el-dia-lo-que-necesitas-saber-este-miercoles-28-octubre-n674714"
     ],
-    "createdAt": "2026-10-28T10:24:53.000Z",
-    "updatedAt": "2026-10-28T21:35:54Z"
+    "createdAt": "2026-10-29T01:14:51.000Z",
+    "updatedAt": "2026-10-29T01:17:37Z"
   },
   {
-    "id": "ar-caba-docentes-congreso-20261028",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "10:00",
-    "fecha": "2026-10-28",
-    "lugar": "Frente al Congreso de la Nación, Ciudad Autónoma de Buenos Aires",
-    "tipoAccion": "Concentración",
-    "organizaciones": [
-      "Gremios docentes"
-    ],
-    "motivo": "Concentración contra el proyecto del Gobierno que pretende declarar la educación como servicio esencial para condicionar el derecho a huelga",
-    "status": "en curso",
-    "lat": -34.6096,
-    "lng": -58.3925,
-    "fuentes": [
-      "https://monitorgremial.com.ar/gremios-docentes-se-concentran-frente-al-congreso-contra-la-iniciativa-del-gobierno-de-declarar-la-educacion-como-servicio-esencial-para-condicionar-el-derecho-a-huelga/"
-    ],
-    "createdAt": "2026-10-28T10:24:53.000Z",
-    "updatedAt": "2026-10-28T21:35:54Z"
-  },
-  {
-    "id": "ar-bonaerense-suteba-multicolor-20261028",
+    "id": "ar-nacional-ate-iosfa-20261029",
     "seccion": "protestas_ar",
     "pais": "Argentina",
     "bandera": "🇦🇷",
     "hora": "",
-    "fecha": "2026-10-28",
-    "lugar": "La Matanza, Tigre, General Pueyrredón, Marcos Paz y Bahía Blanca, Provincia de Buenos Aires",
-    "tipoAccion": "Paro",
+    "fecha": "2026-10-29",
+    "lugar": "Sedes de IOSFA en todo el país; concentración en la sede de calle San Jerónimo, Ciudad Autónoma de Buenos Aires",
+    "tipoAccion": "Paro nacional de 24 horas",
     "organizaciones": [
-      "SUTEBA Multicolor"
+      "Asociación Trabajadores del Estado (ATE)"
     ],
-    "motivo": "Paro y protestas en rechazo al acuerdo salarial del 6% (dos tramos), reclamo de salario equivalente a la canasta familiar y mejoras laborales",
-    "status": "en curso",
+    "motivo": "Paro de 24 horas en todas las sedes de IOSFA en rechazo al cierre de 31 farmacias y oficinas de la obra social, que pone en riesgo 2.400 puestos de trabajo; incluye abrazo simbólico y movilizaciones",
+    "status": "convocada",
     "lat": -34.6037,
     "lng": -58.3816,
     "fuentes": [
-      "https://www.anred.org/suteba-multicolor-vuelve-al-paro-con-protestas-y-movilizaciones-en-distintos-puntos-de-la-provincia/",
-      "https://gremiar.com.ar/la-multicolor-de-suteba-para-48-horas-contra-el-6-que-kicillof-cerro-con-el-resto-de-los-gremios-docentes/",
-      "https://argentina.indymedia.org/2026/10/27/nuevos-paros-de-docentes-universitarios-y-de-maestros-de-la-pba/"
+      "https://www.lt10.com.ar/noticia/512052--ate-se-moviliza-en-rechazo-al-cierre-de-las-sedes-de-iosfa",
+      "https://frenteacano.com.ar/ate-alerta-por-el-cierre-de-31-farmacias-del-ex-iosfa-entre-ellas-la-de-bahia-blanca/",
+      "https://realpolitik.com.ar/nota/74755/iosfa-gonzalo-secchi-estrena-cargo-ordenando-el-cierre-de-31-farmacias-propias"
     ],
-    "createdAt": "2026-10-28T16:46:22.000Z",
-    "updatedAt": "2026-10-28T21:35:54Z"
-  },
-  {
-    "id": "ar-laplata-utt-tractorazo-20261028",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "11:00",
-    "fecha": "2026-10-28",
-    "lugar": "Concentración en 12 y 51 y marcha hasta el Palacio Municipal, La Plata, Provincia de Buenos Aires",
-    "tipoAccion": "Tractorazo",
-    "organizaciones": [
-      "Unión de Trabajadores y Trabajadoras de la Tierra (UTT)"
-    ],
-    "motivo": "Reclamo por el deterioro de los caminos rurales, la falta de iluminación y los problemas de seguridad en el cordón hortícola platense; los productores exigieron respuestas al intendente Julio Alak",
-    "status": "finalizada",
-    "lat": -34.9214,
-    "lng": -57.9545,
-    "fuentes": [
-      "https://radiolaplata.com.ar/tractorazo-en-la-plata-productores-horticolas-marchan-a-la-municipalidad/",
-      "https://www.0221.com.ar/la-plata/productores-denuncian-que-la-municipalidad-la-plata-les-corto-el-paso-hacer-el-tractorazo-n136516",
-      "https://www.eldia.com/policiales/frenaron-el-tractorazo-en-la-plata-agentes-de-guardia-urbana-impidieron-el-avance-de-los-productores-policiales-la-ciudad_1793192460",
-      "https://www.infocielo.com/la-plata/tractorazo-horticola-en-la-plata-reclamo-por-caminos-rurales-y-seguridad"
-    ],
-    "createdAt": "2026-10-28T21:32:34.000Z",
-    "updatedAt": "2026-10-28T21:35:54Z"
-  },
-  {
-    "id": "ar-caba-jubilados-congreso-20261028",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "17:00",
-    "fecha": "2026-10-28",
-    "lugar": "Anexo del Congreso de la Nación, Hipólito Yrigoyen 1750, Ciudad Autónoma de Buenos Aires",
-    "tipoAccion": "Concentración y movilización",
-    "organizaciones": [
-      "Organizaciones de jubilados",
-      "Jubilados Insurgentes",
-      "ATE",
-      "CTA Autónoma",
-      "CTA de los Trabajadores",
-      "UTEP"
-    ],
-    "motivo": "Reclamo semanal por la recomposición de los haberes jubilatorios, el fin del congelamiento del bono previsional y mejoras en la cobertura de salud y medicamentos",
-    "status": "finalizada",
-    "lat": -34.6105,
-    "lng": -58.3923,
-    "fuentes": [
-      "https://www.anarchistcalendar.org/2026-10-28-miercoles-de-lxs-jubiladxs-15962"
-    ],
-    "createdAt": "2026-10-28T21:32:34.000Z",
-    "updatedAt": "2026-10-28T21:35:54Z"
-  },
-  {
-    "id": "ar-sanjuan-vialidad-20261028",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "",
-    "fecha": "2026-10-28",
-    "lugar": "Sede del 9.º Distrito de Vialidad Nacional, Rawson y Maipú, San Juan",
-    "tipoAccion": "Concentración y retención de tareas",
-    "organizaciones": [
-      "Sindicato de Trabajadores Viales y Afines de la República Argentina (STVyARA)"
-    ],
-    "motivo": "Reclamo salarial, por falta de insumos y en rechazo a nuevos retiros voluntarios en Vialidad Nacional; la protesta integra un plan de lucha nacional con retenciones de dos horas diarias",
-    "status": "en curso",
-    "lat": -31.5375,
-    "lng": -68.5364,
-    "fuentes": [
-      "https://cuyo.news/san-juan/vialidad-protesta-salarios-san-juan/",
-      "https://cuyo.news/san-juan/vialidad-retenciones-san-juan/",
-      "https://www.diariodecuyo.com.ar/san-juan/trabajadores-vialidad-nacional-san-juan-inician-medidas-fuerza-salarios-y-falta-insumos-n6586920",
-      "https://www.tiempodesanjuan.com/politica/protesta-en-vialidad-nacional-al-limite-en-san-juan-los-empleados-pagan-rto-y-reciclan-material-de-obras-paradas_1793026172"
-    ],
-    "createdAt": "2026-10-28T21:32:34.000Z",
-    "updatedAt": "2026-10-28T21:35:54Z"
-  },
-  {
-    "id": "ar-rosario-taxistas-20261028",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "11:00",
-    "fecha": "2026-10-28",
-    "lugar": "Concejo Municipal de Rosario, Córdoba y 1.º de Mayo, Rosario, Santa Fe",
-    "tipoAccion": "Concentración y caravana",
-    "organizaciones": [
-      "Taxistas y remiseros de Rosario"
-    ],
-    "motivo": "Reclamo contra la habilitación de aplicaciones de viajes como Uber y DiDi y por condiciones de competencia justa para el sector",
-    "status": "finalizada",
-    "lat": -32.947,
-    "lng": -60.6393,
-    "fuentes": [
-      "https://www.lacapital.com.ar/la-ciudad/los-taxistas-fueron-al-concejo-protestar-la-habilitacion-las-aplicaciones-n10289166.html"
-    ],
-    "createdAt": "2026-10-28T21:32:34.000Z",
-    "updatedAt": "2026-10-28T21:35:54Z"
-  },
-  {
-    "id": "ar-laplata-autopista-jubilaciones-20261028",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "",
-    "fecha": "2026-10-28",
-    "lugar": "Subida de la Autopista Buenos Aires-La Plata a la altura de Diagonal 74, La Plata, Provincia de Buenos Aires",
-    "tipoAccion": "Corte de tránsito",
-    "organizaciones": [
-      "Organizaciones sociales y sindicales"
-    ],
-    "motivo": "Protesta contra las políticas de ajuste, el recorte de jubilaciones, la pérdida del poder adquisitivo y el desfinanciamiento de programas sociales, salud y educación",
-    "status": "finalizada",
-    "lat": -34.9365,
-    "lng": -57.9405,
-    "fuentes": [
-      "https://www.degremiales.com/Protesta-en-La-Plata-corte-en-la-subida-de-la-Autopista-por-los-ajustes-del-Gobierno-y-el-recorte-a-las-jubilaciones-4010"
-    ],
-    "createdAt": "2026-10-28T21:32:34.000Z",
-    "updatedAt": "2026-10-28T21:35:54Z"
+    "createdAt": "2026-10-29T01:14:51.000Z",
+    "updatedAt": "2026-10-29T01:17:37Z"
   }
 ]
