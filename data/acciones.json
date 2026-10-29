@@ -11,17 +11,18 @@
     "organizaciones": [
       "Semaf"
     ],
-    "motivo": "Huelga de 24 horas de maquinistas para exigir medidas de seguridad y prevención tras el accidente ferroviario de Urda; Renfe estableció servicios mínimos del 50-75% en Cercanías, 65% en Media Distancia y 73% en AVE y Larga Distancia",
+    "motivo": "Huelga de 24 horas de maquinistas, con unos 6.000 trabajadores llamados, para exigir medidas de seguridad y prevención tras los accidentes ferroviarios de Adamuz y Urda; Renfe estableció servicios mínimos del 50-75% en Cercanías, 65% en Media Distancia y 73% en AVE y Larga Distancia",
     "status": "en curso",
     "lat": 40.4168,
     "lng": -3.7038,
     "fuentes": [
       "https://grupo.renfe.com/es/es/sala-de-prensa/noticias/2026/10/establecidos-servicios-minimos-huelga-semaf-29-octubre",
       "https://www.rtve.es/noticias/20261029/jueves-complicado-tren-tras-accidente-urda-huelga-maquinistas-para-pedir-seguridad/17287723.shtml",
-      "https://www.eldiariodemadrid.es/articulo/movilidad/huelga-renfe-29-octubre-2026-servicios-minimos-cercanias-ave/20261026123242145298.html"
+      "https://cadenaser.com/cmadrid/2026/10/29/huelga-de-cercanias-en-madrid-horarios-y-servicios-minimos-de-este-jueves-ser-madrid-oeste/",
+      "https://www.abc.es/economia/maquinistas-van-hoy-huelga-protestan-condiciones-seguridad-20261029020342-nt.html"
     ],
     "createdAt": "2026-10-29T01:10:42.000Z",
-    "updatedAt": "2026-10-29T01:17:37Z"
+    "updatedAt": "2026-10-29T07:31:59Z"
   },
   {
     "id": "fr-paris-estudiantes-20261029",
@@ -33,19 +34,18 @@
     "lugar": "Esplanade des Grands Moulins, París; marcha a las 15:00 hacia la prisión de La Santé",
     "tipoAccion": "Concentración y manifestación",
     "organizaciones": [
-      "Coordination étudiante",
-      "Solidaires"
+      "Coordination régionale étudiante (CRE) Île-de-France"
     ],
-    "motivo": "Village antirépression y manifestación contra la represión policial y en defensa del derecho a protestar, en el marco de la movilización estudiantil",
+    "motivo": "Village antirépression y manifestación contra la represión policial y judicial y en defensa del derecho a protestar, con amnistía para los detenidos del movimiento estudiantil y retirada de las causas",
     "status": "convocada",
     "lat": 48.8289,
     "lng": 2.3803,
     "fuentes": [
-      "https://solidaires93.org/agenda-du-mouvement-social-automne-2026/",
-      "https://paris.evous.fr/citoyen/manifestations"
+      "https://france3-regions.franceinfo.fr/paris-ile-de-france/paris/c-est-l-effet-d-une-strategie-policiere-des-manifestants-expriment-leur-peur-de-defiler-3440757.html",
+      "https://www.infolibertaire.net/coordination-regionale-etudiante-didf-village-antirepression-et-manifestation-vers-la-prison-de-la-sante/"
     ],
     "createdAt": "2026-10-29T01:10:42.000Z",
-    "updatedAt": "2026-10-29T01:17:37Z"
+    "updatedAt": "2026-10-29T07:31:59Z"
   },
   {
     "id": "ve-caracas-gremios-20261029",
@@ -62,17 +62,18 @@
       "gremios de salud",
       "sector universitario"
     ],
-    "motivo": "Jornada nacional para exigir mejoras salariales y laborales, discusión de las tablas salariales, aguinaldos, eliminación del Sistema Patria y respuestas a los pliegos de los sectores educativo, universitario y de salud",
+    "motivo": "Jornada nacional para exigir mejoras salariales y laborales, discusión de las tablas salariales, aguinaldos calculados sobre el ingreso integral, eliminación del Sistema Patria y respuestas a los pliegos de los sectores educativo, universitario y de salud",
     "status": "convocada",
     "lat": 10.4806,
     "lng": -66.9036,
     "fuentes": [
       "https://eldiario.com/2026/10/27/jornada-protesta-29-octubre",
       "https://elpitazo.net/regiones/gran-caracas/jornada-nacional-de-protesta-gremios-convocan-a-una-movilizacion-este-jueves-29-de-octubre/",
-      "https://www.elnacional.com/2026/10/gremios-de-educacion-salud-y-universitarios-convocan-a-jornada-nacional-de-protesta-para-el-29-de-octubre-ante-la-falta-de-respuesta-salarial/"
+      "https://www.elnacional.com/2026/10/gremios-de-educacion-salud-y-universitarios-convocan-a-jornada-nacional-de-protesta-para-el-29-de-octubre-ante-la-falta-de-respuesta-salarial/",
+      "https://www.infobae.com/venezuela/2026/10/28/trabajadores-convocan-una-jornada-nacional-de-protesta-en-venezuela-para-exigir-mejoras-salariales/"
     ],
     "createdAt": "2026-10-29T01:10:42.000Z",
-    "updatedAt": "2026-10-29T01:17:37Z"
+    "updatedAt": "2026-10-29T07:31:59Z"
   },
   {
     "id": "pe-nacional-sutep-20261029",
@@ -81,47 +82,23 @@
     "bandera": "🇵🇪",
     "hora": "",
     "fecha": "2026-10-29",
-    "lugar": "Todo el país, con concentraciones en Lima y las 24 regiones",
+    "lugar": "Todo el país, con concentraciones en Lima (jirón Camaná 550) y las 24 regiones",
     "tipoAccion": "Paro nacional de 24 horas",
     "organizaciones": [
       "SUTEP"
     ],
-    "motivo": "Paro nacional de 24 horas para exigir el cumplimiento del convenio colectivo, la asignación del 6% del PBI para Educación, la reglamentación de la ley de pensiones del magisterio y el pago de la deuda social",
+    "motivo": "Paro nacional de 24 horas para exigir el cumplimiento del convenio colectivo, la asignación del 6% del PBI para Educación, la reglamentación de la ley de pensiones del magisterio, el pago de la deuda social y medidas de seguridad ciudadana",
     "status": "convocada",
     "lat": -12.0464,
     "lng": -77.0428,
     "fuentes": [
-      "https://elbuho.pe/2026/10/sutep-ratifica-paro-nacional-del-29-de-octubre-y-advierte-posible-huelga-indefinida",
-      "https://www.apnoticias.pe/paro-nacional-del-sutep-este-29-de-octubre-se-suspenden-las-clases-escolares-en-peru-1521364",
-      "https://radiouno.pe/noticias/286913/sutep-anuncia-paro-nacional-de-24-horas-para-este-jueves-29-de-octubre/"
+      "https://www.sutep.com.pe/articulo-34",
+      "https://larepublica.pe/sociedad/2026/10/27/sutep-ratifica-paro-nacional-y-no-descarta-huelga-indefinida-habra-clases-este-29-de-octubre-712125",
+      "https://rpp.pe/politica/gobierno/minedu-rechaza-paro-del-29-de-octubre-anunciado-por-el-sutep-y-anuncia-descuentos-a-profesores-que-no-dicten-clases-noticia-1714928",
+      "https://www.educaauge.com/detalleblog/paro-nacional-del-sutep-es-hoy-jueves-29-minedu-no-ha-anunciado-suspension-nacional-de-clases"
     ],
     "createdAt": "2026-10-29T01:10:42.000Z",
-    "updatedAt": "2026-10-29T01:17:37Z"
-  },
-  {
-    "id": "ke-nairobi-estudiantes-20261029",
-    "seccion": "protestas_global",
-    "pais": "Kenia",
-    "bandera": "🇰🇪",
-    "hora": "",
-    "fecha": "2026-10-29",
-    "lugar": "Universidad de Nairobi y Waiyaki Way, Nairobi",
-    "tipoAccion": "Manifestación",
-    "organizaciones": [
-      "Estudiantes de la Universidad de Nairobi",
-      "UNSA"
-    ],
-    "motivo": "Protestas diarias hasta el viernes 30 de octubre para exigir la reanudación de clases y el fin de la huelga de docentes universitarios iniciada el 2 de octubre por el incumplimiento del convenio colectivo 2025-2029",
-    "status": "convocada",
-    "lat": -1.2921,
-    "lng": 36.8219,
-    "fuentes": [
-      "https://educationnews.co.ke/news/uon-students-vow-daily-protests-until-friday-as-lecturers-strike-disrupts-learning",
-      "https://peopledaily.digital/news/university-of-nairobi-students-threaten-daily-protests-over-lecturers-strike",
-      "https://www.the-star.co.ke/news/2026-10-27-students-lecturers-strike-leaves-us-idle-frustrated"
-    ],
-    "createdAt": "2026-10-29T01:10:42.000Z",
-    "updatedAt": "2026-10-29T01:17:37Z"
+    "updatedAt": "2026-10-29T07:31:59Z"
   },
   {
     "id": "gb-cwmtaf-sanitarios-20261029",
@@ -135,17 +112,17 @@
     "organizaciones": [
       "Unite"
     ],
-    "motivo": "Huelga continua de visitadores sanitarios desde febrero por el incumplimiento de la evaluación y clasificación de puestos; reclaman el pago en la banda salarial correcta tras perder hasta 9.000 libras anuales",
+    "motivo": "Huelga continua de visitadores sanitarios desde febrero por el incumplimiento de la evaluación y clasificación de puestos; reclaman el pago en la banda salarial correcta tras perder hasta 9.000 libras anuales, con paros programados del 26 al 30 de octubre",
     "status": "en curso",
     "lat": 51.6167,
     "lng": -3.45,
     "fuentes": [
       "https://www.strikecalendar.co.uk/union/unite/cwmtafhealthboardunite",
-      "https://www.bbc.com/news/articles/c8jn2g4xg72o",
-      "https://morningstaronline.co.uk/article/council-letter-raises-pressure-health-board-resolve-strike"
+      "https://www.walesonline.co.uk/news/wales-news/tens-thousands-appointments-missed-health-34400116",
+      "https://www.bbc.com/news/articles/c8jn2g4xg72o"
     ],
     "createdAt": "2026-10-29T01:10:42.000Z",
-    "updatedAt": "2026-10-29T01:17:37Z"
+    "updatedAt": "2026-10-29T07:31:59Z"
   },
   {
     "id": "in-tiruppur-agricultores-20261029",
@@ -160,17 +137,92 @@
       "PAP Vellakovil Branch Canal Water Conservation Association",
       "agricultores de Kangayam-Vellakovil"
     ],
-    "motivo": "Huelga de hambre indefinida para exigir su parte del agua de riego del proyecto Parambikulam-Aliyar a través del canal Vellakovil y denunciar el robo de agua en la parte alta; la policía denegó el permiso",
+    "motivo": "Huelga de hambre indefinida para exigir su parte del agua de riego del proyecto Parambikulam-Aliyar a través del canal Vellakovil y denunciar el robo de agua en la parte alta; la policía denegó el permiso y la asociación decidió continuar",
     "status": "convocada",
     "lat": 11.0056,
     "lng": 77.5606,
     "fuentes": [
       "https://www.thehindu.com/news/cities/Coimbatore/police-deny-permission-for-hunger-protest-by-pap-main-canal-tail-end-farmers-in-tiruppur-on-oct-29/article71627705.ece",
       "https://www.thehindu.com/news/cities/Coimbatore/tail-end-farmers-in-pap-main-canal-ayacut-plan-indefinite-hunger-strike-from-oct-29-flaying-water-shortage/article71612372.ece",
-      "https://timesofindia.indiatimes.com/city/coimbatore/farmers-to-launch-indefinite-hunger-strike-on-oct-29-seeking-pap-water-for-1500-acres-in-tirupur-belt/articleshowprint/135015606.cms"
+      "https://timesofindia.indiatimes.com/city/coimbatore/farmers-to-launch-indefinite-hunger-strike-on-oct-29-seeking-pap-water-for-1500-acres-in-tirupur-belt/articleshow/135015606.cms"
     ],
     "createdAt": "2026-10-29T01:10:42.000Z",
-    "updatedAt": "2026-10-29T01:17:37Z"
+    "updatedAt": "2026-10-29T07:31:59Z"
+  },
+  {
+    "id": "it-emilia-romagna-trenitalia-20261029",
+    "seccion": "protestas_global",
+    "pais": "Italia",
+    "bandera": "🇮🇹",
+    "hora": "",
+    "fecha": "2026-10-29",
+    "lugar": "Estaciones de Bolonia, Reggio Emilia (histórica y AV Mediopadana) y Rímini, Emilia-Romaña",
+    "tipoAccion": "Huelga",
+    "organizaciones": [
+      "FILT-CGIL",
+      "FIT-CISL",
+      "UILT-UIL",
+      "ORSA Ferrovie"
+    ],
+    "motivo": "Huelga de 24 horas del personal de Customer Operations de Trenitalia en Emilia-Romaña, de 21:00 del 28 de octubre a 21:00 del 29 de octubre, con reducción de servicios de atención al público en las estaciones afectadas",
+    "status": "en curso",
+    "lat": 44.4949,
+    "lng": 11.3426,
+    "fuentes": [
+      "https://scioperiitalia.it/sciopero/2026-10-29-treni-personale-soc-trenitalia-div-customer-8584",
+      "https://striketracker.app/strikes-in-italy/emilia-romagna-trenitalia-customer-operations-strike-29-oct-2026",
+      "https://www.scioperotrasporti.it/2026/10/29/"
+    ],
+    "createdAt": "2026-10-29T07:27:33.000Z",
+    "updatedAt": "2026-10-29T07:31:59Z"
+  },
+  {
+    "id": "mx-queretaro-uaq-estudiantes-20261029",
+    "seccion": "protestas_global",
+    "pais": "México",
+    "bandera": "🇲🇽",
+    "hora": "10:00",
+    "fecha": "2026-10-29",
+    "lugar": "Facultad de Filosofía, Campus Centro Histórico, Universidad Autónoma de Querétaro; marcha al Centro Universitario",
+    "tipoAccion": "Marcha",
+    "organizaciones": [
+      "Colectivos estudiantiles de la Facultad de Filosofía de la UAQ",
+      "Sociedad Estudiantil Autogestiva y Combativa"
+    ],
+    "motivo": "Marcha pacífica ante la reelección en la Rectoría y en el marco del paro estudiantil activo; exigen respuestas a problemáticas no atendidas por las autoridades universitarias",
+    "status": "convocada",
+    "lat": 20.5931,
+    "lng": -100.3899,
+    "fuentes": [
+      "https://codigoqro.mx/nota/local/2026/10/28/convoca-facultad-de-filosofia-uaq-a-marcha-pacifica-este-29-de-octubre"
+    ],
+    "createdAt": "2026-10-29T07:27:33.000Z",
+    "updatedAt": "2026-10-29T07:31:59Z"
+  },
+  {
+    "id": "mx-cdmx-trabajadores-salud-20261029",
+    "seccion": "protestas_global",
+    "pais": "México",
+    "bandera": "🇲🇽",
+    "hora": "07:00",
+    "fecha": "2026-10-29",
+    "lugar": "Ciudad de México; concentraciones y marchas desde el Ángel de la Independencia por Paseo de la Reforma hacia el Zócalo",
+    "tipoAccion": "Concentración y marcha",
+    "organizaciones": [
+      "SNTSS",
+      "IMSS-Bienestar",
+      "trabajadores de la salud"
+    ],
+    "motivo": "Jornadas de protesta de trabajadores de la salud para exigir aumento salarial del 10%, basificación, más personal y mejores condiciones laborales y de abasto; incluye bloqueos y marchas en la capital",
+    "status": "en curso",
+    "lat": 19.4326,
+    "lng": -99.1332,
+    "fuentes": [
+      "https://safeabroad.com/the-week-ahead/the-week-ahead-october-26-2026/",
+      "https://www.ambito.com/mexico/economia/estas-son-todas-las-marchas-confirmadas-cdmx-hoy-29-octubre-2026-cortes-bloqueos-y-alternativas-viales-alcaldias-n6339138"
+    ],
+    "createdAt": "2026-10-29T07:27:33.000Z",
+    "updatedAt": "2026-10-29T07:31:59Z"
   },
   {
     "id": "ar-nacional-universidades-20261029",
@@ -199,7 +251,7 @@
       "https://www.airedesantafe.com.ar/santa-fe/las-3-noticias-empezar-el-dia-lo-que-necesitas-saber-este-miercoles-28-octubre-n674714"
     ],
     "createdAt": "2026-10-29T01:14:51.000Z",
-    "updatedAt": "2026-10-29T01:17:37Z"
+    "updatedAt": "2026-10-29T07:31:59Z"
   },
   {
     "id": "ar-nacional-ate-iosfa-20261029",
@@ -223,6 +275,6 @@
       "https://realpolitik.com.ar/nota/74755/iosfa-gonzalo-secchi-estrena-cargo-ordenando-el-cierre-de-31-farmacias-propias"
     ],
     "createdAt": "2026-10-29T01:14:51.000Z",
-    "updatedAt": "2026-10-29T01:17:37Z"
+    "updatedAt": "2026-10-29T07:31:59Z"
   }
 ]
