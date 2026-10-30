@@ -29,7 +29,7 @@
       "https://www.portseurope.com/dockworker-unions-name-eight-italian-ports-for-30-october-strike/"
     ],
     "createdAt": "2026-10-30T00:04:41.000Z",
-    "updatedAt": "2026-10-30T06:19:43Z"
+    "updatedAt": "2026-10-30T13:23:06Z"
   },
   {
     "id": "it-livorno-puertos-20261030",
@@ -55,7 +55,7 @@
       "https://www.livornotoday.it/cronaca/porto-livorno-armi-blocco-nave-flotilla.html"
     ],
     "createdAt": "2026-10-30T06:10:55.000Z",
-    "updatedAt": "2026-10-30T06:19:43Z"
+    "updatedAt": "2026-10-30T13:23:06Z"
   },
   {
     "id": "fr-puertos-dockers-20261030",
@@ -83,7 +83,7 @@
       "https://www.bairdmaritime.com/shipping/ports/dockworker-unions-claim-22-nation-walkout-will-snarl-2b-in-trade-but-actual-impact-remains-to-be-seen"
     ],
     "createdAt": "2026-10-30T00:04:41.000Z",
-    "updatedAt": "2026-10-30T06:19:43Z"
+    "updatedAt": "2026-10-30T13:23:06Z"
   },
   {
     "id": "fr-caceroladas-gilets-jaunes-20261030",
@@ -108,7 +108,7 @@
       "https://mavigilance.fr/jour/2026-10-30"
     ],
     "createdAt": "2026-10-30T06:10:55.000Z",
-    "updatedAt": "2026-10-30T06:19:43Z"
+    "updatedAt": "2026-10-30T13:23:06Z"
   },
   {
     "id": "gr-puertos-ferrocarriles-20261030",
@@ -141,7 +141,7 @@
       "https://greekcitytimes.com/2026/10/30/ferry-strike/"
     ],
     "createdAt": "2026-10-30T00:04:41.000Z",
-    "updatedAt": "2026-10-30T06:19:43Z"
+    "updatedAt": "2026-10-30T13:23:06Z"
   },
   {
     "id": "es-puertos-estiba-20261030",
@@ -159,7 +159,7 @@
       "SEPRA"
     ],
     "motivo": "Paro de dos horas (13:00-15:00) convocado por Coordinadora contra la militarización de los puertos y la precarización de la estiba; en el País Vasco LAB llama a parar los puertos de Bilbao, Pasaia y Baiona. Exigen que no se manipulen armas sin evaluación de riesgos y que los puertos sigan siendo infraestructuras civiles.",
-    "status": "programado",
+    "status": "en_curso",
     "lat": 39.4699,
     "lng": -0.3763,
     "fuentes": [
@@ -170,7 +170,7 @@
       "https://www.bairdmaritime.com/shipping/ports/dockworker-unions-claim-22-nation-walkout-will-snarl-2b-in-trade-but-actual-impact-remains-to-be-seen"
     ],
     "createdAt": "2026-10-30T00:04:41.000Z",
-    "updatedAt": "2026-10-30T06:19:43Z"
+    "updatedAt": "2026-10-30T13:23:06Z"
   },
   {
     "id": "es-murcia-metal-20261030",
@@ -198,7 +198,7 @@
       "https://www.borm.es/services/anuncio/845912/pdf"
     ],
     "createdAt": "2026-10-30T00:04:41.000Z",
-    "updatedAt": "2026-10-30T06:19:43Z"
+    "updatedAt": "2026-10-30T13:23:06Z"
   },
   {
     "id": "es-cataluna-medicos-20261030",
@@ -223,7 +223,7 @@
       "https://www.diaripublic.cat/societat/els-metges-reprenen-torcebrac-amb-govern-amb-vaga-indefinida-plena-precampanya.html"
     ],
     "createdAt": "2026-10-30T00:04:41.000Z",
-    "updatedAt": "2026-10-30T06:19:43Z"
+    "updatedAt": "2026-10-30T13:23:06Z"
   },
   {
     "id": "de-hamburgo-puerto-20261030",
@@ -239,7 +239,7 @@
       "Die Linke Hamburg"
     ],
     "motivo": "Concentración en solidaridad con el día internacional de acción de los portuarios contra la guerra, el rearme y la militarización de los puertos; exigen salarios justos, empleo seguro, reducción de jornada y alto a la automatización.",
-    "status": "programado",
+    "status": "en_curso",
     "lat": 53.5413,
     "lng": 9.9845,
     "fuentes": [
@@ -248,30 +248,7 @@
       "https://www.unsere-zeit.de/internationaler-aktionstag-4819364/"
     ],
     "createdAt": "2026-10-30T00:04:41.000Z",
-    "updatedAt": "2026-10-30T06:19:43Z"
-  },
-  {
-    "id": "de-berlin-estudiantes-20261030",
-    "seccion": "protestas_global",
-    "pais": "Alemania",
-    "bandera": "🇩🇪",
-    "hora": "09:30",
-    "fecha": "2026-10-30",
-    "lugar": "TU Berlin, edificio de Matemáticas, Straße des 17. Juni 136, Berlín",
-    "tipoAccion": "Jornada de acción y concentración estudiantil",
-    "organizaciones": [
-      "Unistreik Berlin"
-    ],
-    "motivo": "Jornada de acción estudiantil 'Streiken wie in Frankreich' contra los recortes educativos y en solidaridad con las protestas francesas; se suma a las movilizaciones por financiación universitaria y contra la conscripción.",
-    "status": "programado",
-    "lat": 52.5125,
-    "lng": 13.3269,
-    "fuentes": [
-      "https://demo-ticker-berlin.org/?eventDisplay=list&post_type=tribe_events",
-      "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
-    ],
-    "createdAt": "2026-10-30T06:10:55.000Z",
-    "updatedAt": "2026-10-30T06:19:43Z"
+    "updatedAt": "2026-10-30T13:23:06Z"
   },
   {
     "id": "ma-puertos-odt-20261030",
@@ -296,7 +273,7 @@
       "https://www.portseurope.com/dockworker-unions-name-eight-italian-ports-for-30-october-strike/"
     ],
     "createdAt": "2026-10-30T00:04:41.000Z",
-    "updatedAt": "2026-10-30T06:19:43Z"
+    "updatedAt": "2026-10-30T13:23:06Z"
   },
   {
     "id": "tr-puertos-liman-is-20261030",
@@ -321,7 +298,7 @@
       "https://www.bairdmaritime.com/shipping/ports/dockworker-unions-claim-22-nation-walkout-will-snarl-2b-in-trade-but-actual-impact-remains-to-be-seen"
     ],
     "createdAt": "2026-10-30T00:04:41.000Z",
-    "updatedAt": "2026-10-30T06:19:43Z"
+    "updatedAt": "2026-10-30T13:23:06Z"
   },
   {
     "id": "in-puertos-wtwfi-20261030",
@@ -347,7 +324,7 @@
       "https://www.bairdmaritime.com/shipping/ports/dockworker-unions-claim-22-nation-walkout-will-snarl-2b-in-trade-but-actual-impact-remains-to-be-seen"
     ],
     "createdAt": "2026-10-30T00:04:41.000Z",
-    "updatedAt": "2026-10-30T06:19:43Z"
+    "updatedAt": "2026-10-30T13:23:06Z"
   },
   {
     "id": "in-kangpokpi-shutdown-20261030",
@@ -371,7 +348,7 @@
       "https://www.indiatodayne.in/manipur/story/manipur-kangpokpi-shutdown-cotu-kuki-youths-alleged-kidnapping-1469024-2026-10-29"
     ],
     "createdAt": "2026-10-30T06:10:55.000Z",
-    "updatedAt": "2026-10-30T06:19:43Z"
+    "updatedAt": "2026-10-30T13:23:06Z"
   },
   {
     "id": "mx-veracruz-estibadores-20261030",
@@ -397,7 +374,7 @@
       "https://www.porttechnology.org/news/people/port-workers-action-100/"
     ],
     "createdAt": "2026-10-30T00:04:41.000Z",
-    "updatedAt": "2026-10-30T06:19:43Z"
+    "updatedAt": "2026-10-30T13:23:06Z"
   },
   {
     "id": "mx-imss-megamarcha-20261030",
@@ -423,7 +400,7 @@
       "https://mexico.as.com/actualidad/a-que-hora-inicia-la-megamarcha-del-imss-este-30-de-octubre-rutas-calles-cerradas-y-alternativas-viales-f202610-n/"
     ],
     "createdAt": "2026-10-30T06:10:55.000Z",
-    "updatedAt": "2026-10-30T06:19:43Z"
+    "updatedAt": "2026-10-30T13:23:06Z"
   },
   {
     "id": "us-oakland-puertos-20261030",
@@ -452,7 +429,7 @@
       "https://protesttracker.online/p/oakland-port-protests-israel-oct-2026"
     ],
     "createdAt": "2026-10-30T00:04:41.000Z",
-    "updatedAt": "2026-10-30T06:19:43Z"
+    "updatedAt": "2026-10-30T13:23:06Z"
   },
   {
     "id": "ie-puertos-siptu-20261030",
@@ -477,7 +454,7 @@
       "https://www.worldports.org/dockworkers-strike-against-arms-shipments-at-more-than-100-ports-globally/"
     ],
     "createdAt": "2026-10-30T00:04:41.000Z",
-    "updatedAt": "2026-10-30T06:19:43Z"
+    "updatedAt": "2026-10-30T13:23:06Z"
   },
   {
     "id": "au-melbourne-puertos-20261030",
@@ -493,7 +470,7 @@
       "Free Palestine Melbourne"
     ],
     "motivo": "Acción del sindicato marítimo y acto de solidaridad con la jornada internacional de los portuarios contra la guerra y el genocidio, el transporte de armas y la militarización de los puertos.",
-    "status": "en_curso",
+    "status": "finalizado",
     "lat": -37.8136,
     "lng": 144.9631,
     "fuentes": [
@@ -503,7 +480,7 @@
       "https://www.findaprotest.info/this-weekend"
     ],
     "createdAt": "2026-10-30T00:04:41.000Z",
-    "updatedAt": "2026-10-30T06:19:43Z"
+    "updatedAt": "2026-10-30T13:23:06Z"
   },
   {
     "id": "au-sydney-preescolares-20261030",
@@ -525,7 +502,7 @@
       "https://www.ieu.asn.au/media-alert-community-preschools-protest-western-sydney/"
     ],
     "createdAt": "2026-10-30T00:04:41.000Z",
-    "updatedAt": "2026-10-30T06:19:43Z"
+    "updatedAt": "2026-10-30T13:23:06Z"
   },
   {
     "id": "jp-tokio-lunch-protest-20261030",
@@ -549,7 +526,7 @@
       "https://www.democalendar.jp/"
     ],
     "createdAt": "2026-10-30T00:04:41.000Z",
-    "updatedAt": "2026-10-30T06:19:43Z"
+    "updatedAt": "2026-10-30T13:23:06Z"
   },
   {
     "id": "gb-cwmtaf-sanitarios-20261030",
@@ -573,7 +550,7 @@
       "https://www.bbc.com/news/articles/c8jn2g4xg72o"
     ],
     "createdAt": "2026-10-30T00:04:41.000Z",
-    "updatedAt": "2026-10-30T06:19:43Z"
+    "updatedAt": "2026-10-30T13:23:06Z"
   },
   {
     "id": "gb-greater-manchester-sanitarios-20261030",
@@ -588,7 +565,7 @@
       "UNISON"
     ],
     "motivo": "Huelga de más de 350 trabajadores de quirófano, enfermería, apoyo clínico y limpieza por el pago de horas extraordinarias a través de NHS Professionals, que les hace perder hasta 80 libras por turno; reclaman las tarifas de overtime de sus contratos. Este viernes hay concentraciones conjuntas en Salford Royal y Royal Oldham.",
-    "status": "programado",
+    "status": "en_curso",
     "lat": 53.4831,
     "lng": -2.2931,
     "fuentes": [
@@ -597,7 +574,7 @@
       "https://www.counterfire.org/event/greater-manchester-unison-northern-care-alliance-strike/"
     ],
     "createdAt": "2026-10-30T06:10:55.000Z",
-    "updatedAt": "2026-10-30T06:19:43Z"
+    "updatedAt": "2026-10-30T13:23:06Z"
   },
   {
     "id": "lk-futa-universidades-20261030",
@@ -621,7 +598,7 @@
       "https://hirunews.lk/goldfmnews/497144/state-university-lecturers-launch-islandwide-one-day-strike"
     ],
     "createdAt": "2026-10-30T06:10:55.000Z",
-    "updatedAt": "2026-10-30T06:19:43Z"
+    "updatedAt": "2026-10-30T13:23:06Z"
   },
   {
     "id": "dk-copenhague-puertos-20261030",
@@ -648,7 +625,7 @@
       "https://socialister.dk/anti-krig-europaeiske-havnearbejdere-strejker-den-30-oktober/"
     ],
     "createdAt": "2026-10-30T06:10:55.000Z",
-    "updatedAt": "2026-10-30T06:19:43Z"
+    "updatedAt": "2026-10-30T13:23:06Z"
   },
   {
     "id": "se-estocolmo-metro-20261030",
@@ -672,7 +649,7 @@
       "https://www.socialisterna.org/30-oktober-alleuropeisk-hamnstrejk-mot-militarismen/"
     ],
     "createdAt": "2026-10-30T06:10:55.000Z",
-    "updatedAt": "2026-10-30T06:19:43Z"
+    "updatedAt": "2026-10-30T13:23:06Z"
   },
   {
     "id": "ar-nacional-universidades-20261030",
@@ -702,7 +679,7 @@
       "https://www.a24.com/politica/paro-universitario-nacional-que-dias-no-habra-clases-y-cuando-se-extiende-la-medida-n1610926"
     ],
     "createdAt": "2026-10-30T00:12:46.000Z",
-    "updatedAt": "2026-10-30T06:19:43Z"
+    "updatedAt": "2026-10-30T13:23:06Z"
   },
   {
     "id": "ar-pba-docentes-frendep-20261030",
@@ -718,7 +695,7 @@
       "Frente Nacional Democrático por la Educación Pública (Frendep)"
     ],
     "motivo": "Paro convocado en repudio al femicidio de la docente rural Nancy Godoy y por la falta de condiciones de seguridad y resguardo del personal docente en escuelas rurales y periféricas; exigen políticas públicas, protocolos de protección y que ir a la escuela no implique un riesgo. El Frente de Unidad Docente Bonaerense (SUTEBA, FEB, SADOP, AMET y UDOCBA) no adhirió a esta jornada.",
-    "status": "programado",
+    "status": "en_curso",
     "lat": -34.9215,
     "lng": -57.9545,
     "fuentes": [
@@ -728,7 +705,7 @@
       "https://www.cronista.com/informacion-gral/confirman-suspension-de-clases-manana-miercoles-en-buenos-aires-por-un-nuevo-paro-docente-los-profesores-y-colegios-que-pueden-adherir/"
     ],
     "createdAt": "2026-10-30T06:15:11.000Z",
-    "updatedAt": "2026-10-30T06:19:43Z"
+    "updatedAt": "2026-10-30T13:23:06Z"
   },
   {
     "id": "ar-cordoba-salud-mental-20261030",
@@ -758,7 +735,7 @@
       "https://cordobainforma.com.ar/cordoba-se-prepara-para-la-13a-marcha-por-el-derecho-a-la-salud-mental-la-salud-mental-esta-que-arde/"
     ],
     "createdAt": "2026-10-30T06:15:11.000Z",
-    "updatedAt": "2026-10-30T06:19:43Z"
+    "updatedAt": "2026-10-30T13:23:06Z"
   },
   {
     "id": "ar-escobar-linea60-monsa-20261030",
@@ -774,7 +751,7 @@
       "Choferes de la Línea 60"
     ],
     "motivo": "Paro y asamblea permanente ante el vencimiento del acuerdo paritario y la falta de información en la negociación entre la UTA y las cámaras empresarias; reclaman un básico de $3.500.000, un nuevo acuerdo de viáticos, equiparación salarial y jubilatoria para técnicos e inspectores, y que la empresa cubra los exámenes psicofísicos y el franco previo a la renovación del registro.",
-    "status": "programado",
+    "status": "en_curso",
     "lat": -34.385,
     "lng": -58.75,
     "fuentes": [
@@ -782,6 +759,103 @@
       "https://ar.headtopics.com/news/m-o-n-s-a-convoca-protesta-ante-falta-de-acuerdo-salarial-89354504"
     ],
     "createdAt": "2026-10-30T06:15:11.000Z",
-    "updatedAt": "2026-10-30T06:19:43Z"
+    "updatedAt": "2026-10-30T13:23:06Z"
+  },
+  {
+    "id": "cy-puertos-segdamelin-peo-20261030",
+    "seccion": "protestas_global",
+    "pais": "Chipre",
+    "bandera": "🇨🇾",
+    "hora": "",
+    "fecha": "2026-10-30",
+    "lugar": "Puertos de Chipre; paros parciales de hasta dos horas",
+    "tipoAccion": "Paro portuario parcial",
+    "organizaciones": [
+      "SEGDAMELIN-PEO"
+    ],
+    "motivo": "Paros de hasta dos horas en puertos chipriotas dentro de la jornada internacional de los trabajadores portuarios contra la guerra, la militarización de los puertos y el transporte de armas, en solidaridad con Palestina y por mejores condiciones laborales.",
+    "status": "en_curso",
+    "lat": 34.7071,
+    "lng": 33.0226,
+    "fuentes": [
+      "https://www.aljazeera.com/features/2026/10/30/what-can-a-global-strike-of-dockworkers-achieve-for-gaza",
+      "https://www.techtimes.com/articles/329745/20261030/no-law-can-stop-licensed-arms-shipments-global-dockworkers-strike-113-ports-friday.htm",
+      "https://www.wftucentral.org/usb-video-call-for-the-international-day-of-port-workers-struggle-on-october-30th-2026"
+    ],
+    "createdAt": "2026-10-30T13:17:35.000Z",
+    "updatedAt": "2026-10-30T13:23:06Z"
+  },
+  {
+    "id": "gb-londres-filton25-20261030",
+    "seccion": "protestas_global",
+    "pais": "Reino Unido",
+    "bandera": "🇬🇧",
+    "hora": "13:00",
+    "fecha": "2026-10-30",
+    "lugar": "Woolwich Crown Court, 2 Belmarsh Rd, Woolwich, Londres",
+    "tipoAccion": "Concentración de apoyo y protesta",
+    "organizaciones": [
+      "SOAS 2 Defence Campaign",
+      "Bristol Palestine Alliance",
+      "Filton 25 Defence Campaign"
+    ],
+    "motivo": "Concentración semanal ante el Tribunal de Woolwich en apoyo de los 25 de Filton, activistas pro-Palestina procesados por la acción contra la planta de Elbit Systems en Bristol; denuncian el uso de leyes antiterroristas para criminalizar la solidaridad con Palestina y el derecho a protestar.",
+    "status": "en_curso",
+    "lat": 51.4935,
+    "lng": 0.0965,
+    "fuentes": [
+      "https://www.findaprotest.info/event/london/evt-96036a6dfca776ac",
+      "https://filtonactionists.com/trade-union-leaders-address-woolwich-court-rally-in-support-of-the-filton-25"
+    ],
+    "createdAt": "2026-10-30T13:17:35.000Z",
+    "updatedAt": "2026-10-30T13:23:06Z"
+  },
+  {
+    "id": "ar-jujuy-peregrinos-ruta66-20261030",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "09:00",
+    "fecha": "2026-10-30",
+    "lugar": "Plaza Belgrano, San Salvador de Jujuy",
+    "tipoAccion": "Marcha y concentración",
+    "organizaciones": [
+      "Familiares de Juan Eduardo Villarroel",
+      "Rodrigo y Joaquín Villarroel",
+      "Vecinos y peregrinos"
+    ],
+    "motivo": "Marcha para pedir justicia por los peregrinos atropellados el 25 de octubre en la Ruta Nacional 66 cuando se dirigían al Santuario de Río Blanco; Juan Eduardo Villarroel permanece internado en estado crítico y su familia reclama información y acompañamiento de la Justicia.",
+    "status": "en_curso",
+    "lat": -24.1858,
+    "lng": -65.2995,
+    "fuentes": [
+      "https://www.todojujuy.com/jujuy/peregrinos-atropellados-ruta-66-este-viernes-realizaran-una-marcha-pedir-justicia-n298155"
+    ],
+    "createdAt": "2026-10-30T13:18:51.000Z",
+    "updatedAt": "2026-10-30T13:23:06Z"
+  },
+  {
+    "id": "ar-jujuy-cedems-marcha-antorchas-20261030",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "20:00",
+    "fecha": "2026-10-30",
+    "lugar": "San Salvador de Jujuy; marcha de antorchas por calles céntricas",
+    "tipoAccion": "Marcha de antorchas",
+    "organizaciones": [
+      "Centro de Docentes de Enseñanza Media y Superior (CEDEMS)"
+    ],
+    "motivo": "Marcha convocada por la reapertura de paritarias, contra los descuentos salariales y por el reconocimiento de la antigüedad docente de quienes iniciaron su carrera en el sector privado; también reclaman justicia por el femicidio de la maestra Nancy Godoy.",
+    "status": "programado",
+    "lat": -24.1858,
+    "lng": -65.2995,
+    "fuentes": [
+      "https://www.todojujuy.com/jujuy/el-cedems-realizara-una-nueva-marcha-antorchas-este-viernes-san-salvador-jujuy-n298005",
+      "https://www.todojujuy.com/jujuy/el-cedems-pidio-reapertura-paritarias-y-convoco-una-marcha-antorchas-n298093",
+      "https://eltribunodejujuy.com/informacion-general/2026-10-28-0-32-0-el-cedems-convoca-a-una-movilizacion-con-antorchas"
+    ],
+    "createdAt": "2026-10-30T13:18:51.000Z",
+    "updatedAt": "2026-10-30T13:23:06Z"
   }
 ]
