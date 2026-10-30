@@ -23,10 +23,11 @@ function useClock(): string {
   return time;
 }
 
-interface Fuente {
-  nombre: string;
+interface FuenteObj {
+  nombre?: string;
   url: string;
 }
+type Fuente = FuenteObj | string;
 
 interface Accion {
   id: number | string;
@@ -47,7 +48,7 @@ interface Accion {
   updatedAt: string;
 }
 
-type PortalTab = "internacionales" | "protestas_ar";
+type PortalTab = "internacionales" | "protestas_ar" | "archivo";
 
 const TIPO_ICONOS: Record<string, string> = {
   movilizacion: "✊",
@@ -87,14 +88,17 @@ const STATUS_LABEL: Record<string, string> = {
   programado: "PROGRAMADO",
 };
 
-function isInternacionalSeccion(s: string): boolean {
+const isInternacionalSeccion = (s?: string): boolean => {
+  if (!s) return false;
+  const val = String(s).toLowerCase().trim();
   return (
-    s === "internacionales" ||
-    s === "internacional" ||
-    s === "protestas_int" ||
-    s === "int"
+    val === "internacionales" ||
+    val === "internacional" ||
+    val === "protestas_int" ||
+    val === "int" ||
+    val.includes("internac")
   );
-}
+};
 
 function normalizeHora(h: string | undefined | null): string {
   if (!h) return "—";
@@ -115,7 +119,7 @@ const STYLES = `
   ::-webkit-scrollbar-thumb { background: #cc0000; border-radius: 3px; }
   @media (max-width: 720px) {
     .nav-clock { display: none !important; }
-    .col-tipo, .col-org { display: none !important; }
+        .col-tipo, .col-org { display: flex !important; }
     .col-status { width: 80px !important; font-size: 9px !important; }
     .col-lugar { min-width: 0 !important; flex: 1 !important; }
     .row-card { flex-wrap: wrap; }
@@ -135,14 +139,22 @@ export default function App() {
   const [portalDetailOpen, setPortalDetailOpen] = useState(false);
 
   const DATA_URL =
-    "https://cdn.jsdelivr.net/gh/CarlosDimare/reda@main/data/acciones.json";
+    import.meta.env.BASE_URL + "data/acciones.json";
 
   const fetchAcciones = useCallback(async () => {
     try {
       const r = await fetch(`${DATA_URL}?t=${Date.now()}`);
       if (r.ok) {
         const data = (await r.json()) as Accion[];
-        setAcciones(data);
+        setAcciones(Array.isArray(data) ? data : []);
+      } else {
+        try {
+          const r2 = await fetch(`${import.meta.env.BASE_URL}data/acciones.json`);
+          if (r2.ok) {
+            const data = (await r2.json()) as Accion[];
+            setAcciones(Array.isArray(data) ? data : []);
+          }
+        } catch {}
       }
     } catch {}
   }, []);
@@ -155,13 +167,20 @@ export default function App() {
 
   const filtered = useMemo(() => {
     const list = acciones
-      .filter((a) =>
-        portalTab === "internacionales"
-          ? isInternacionalSeccion(a.seccion)
-          : a.seccion === portalTab,
-      )
+      .filter((a) => {
+        if (portalTab === "archivo") return true;
+        if (portalTab === "internacionales") {
+          return isInternacionalSeccion(a.seccion);
+        }
+        return String(a.seccion).toLowerCase() === "protestas_ar" || String(a.seccion).toLowerCase() === "nacional";
+      })
       .map((a) => ({ ...a, hora: normalizeHora(a.hora) }));
     return list.sort((a, b) => {
+      if (portalTab === "archivo") {
+        const da = new Date(a.fecha || a.updatedAt || a.createdAt).getTime();
+        const db = new Date(b.fecha || b.updatedAt || b.createdAt).getTime();
+        if (db !== da) return db - da;
+      }
       if (a.hora === "—" && b.hora !== "—") return 1;
       if (b.hora === "—" && a.hora !== "—") return -1;
       return a.hora.localeCompare(b.hora);
@@ -176,9 +195,15 @@ export default function App() {
   const lastUpdate = useMemo(() => {
     if (acciones.length === 0) return "—";
     const ts = Math.max(
-      ...acciones.map((a) => new Date(a.updatedAt).getTime()),
+      ...acciones
+        .map((a) => {
+          const t = a.updatedAt || a.createdAt || "";
+          const d = new Date(t).getTime();
+          return Number.isFinite(d) ? d : 0;
+        })
+        .filter((v) => v > 0),
     );
-    if (!Number.isFinite(ts)) return "—";
+    if (!Number.isFinite(ts) || ts === 0) return "—";
     return new Date(ts).toLocaleString("es-AR", {
       timeZone: "America/Argentina/Buenos_Aires",
       day: "2-digit",
@@ -301,6 +326,7 @@ export default function App() {
             [
               { id: "internacionales", label: "🌍 INTERNACIONAL" },
               { id: "protestas_ar", label: "🇦🇷 NACIONAL" },
+              { id: "archivo", label: "📁 ARCHIVO" },
             ] as { id: PortalTab; label: string }[]
           ).map((tab) => (
             <button
@@ -366,12 +392,12 @@ export default function App() {
         >
           <span style={{ width: 64, flexShrink: 0 }}>HORA</span>
           <span style={{ minWidth: 140, flex: 2 }}>LUGAR</span>
-          <span
-            className="col-tipo"
-            style={{ width: 130, flexShrink: 0 }}
-          >
-            TIPO
-          </span>
+        <span
+          className="col-tipo"
+          style={{ width: 150, flexShrink: 0 }}
+        >
+          TIPO
+        </span>
           <span
             className="col-org"
             style={{ minWidth: 180, flex: 2 }}
@@ -461,35 +487,35 @@ export default function App() {
                   }}
                   title={`${a.bandera} ${a.lugar}`}
                 >
-                  <span className="flag">{a.bandera}</span>{" "}
+                  <span className="flag" style={{ fontSize: 16, marginRight: 4 }}>{a.bandera}</span>{" "}
                   <strong style={{ color: "#111" }}>{a.pais}</strong>{" — "}
                   {a.lugar}
                 </span>
-                <span
-                  className="col-tipo"
-                  style={{
-                    width: 130,
-                    flexShrink: 0,
-                    overflow: "hidden",
-                    textOverflow: "ellipsis",
-                    whiteSpace: "nowrap",
-                  }}
-                >
-                  <span
-                    style={{
-                      background: "#cc0000",
-                      color: "#fff",
-                      fontWeight: 700,
-                      padding: "3px 8px",
-                      fontSize: 11,
-                      letterSpacing: ".04em",
-                      textTransform: "uppercase",
-                      whiteSpace: "nowrap",
-                    }}
-                  >
-                    {tipoIcon} {tipoLabel}
-                  </span>
-                </span>
+        <span
+          className="col-tipo"
+          style={{
+            width: 150,
+            flexShrink: 0,
+            overflow: "visible",
+            whiteSpace: "nowrap",
+          }}
+        >
+          <span
+            style={{
+              background: "#cc0000",
+              color: "#fff",
+              fontWeight: 700,
+              padding: "3px 8px",
+              fontSize: 11,
+              letterSpacing: ".04em",
+              textTransform: "uppercase",
+              whiteSpace: "nowrap",
+              display: "inline-block",
+            }}
+          >
+            {tipoIcon} {tipoLabel}
+          </span>
+        </span>
                 <span
                   className="col-org"
                   style={{
@@ -601,7 +627,7 @@ export default function App() {
                   whiteSpace: "nowrap",
                 }}
               >
-                <span className="flag">{selectedAccion.bandera}</span>{" "}
+                <span className="flag" style={{ fontSize: 16 }}>{selectedAccion.bandera}</span>{" "}
                 {selectedAccion.pais} — {selectedAccion.lugar}
               </span>
               <button
@@ -697,22 +723,26 @@ export default function App() {
                   >
                     Fuentes
                   </div>
-                  {selectedAccion.fuentes.map((f, i) => (
-                    <div key={i} style={{ marginBottom: 6, wordBreak: "break-all" }}>
-                      <a
-                        href={f.url}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        style={{
-                          color: "#cc0000",
-                          fontSize: 13,
-                          textDecoration: "underline",
-                        }}
-                      >
-                        {f.nombre || f.url}
-                      </a>
-                    </div>
-                  ))}
+              {selectedAccion.fuentes.map((f, i) => {
+                const url = typeof f === "string" ? f : f.url;
+                const nombre = typeof f === "string" ? f : f.nombre || f.url;
+                return (
+                  <div key={i} style={{ marginBottom: 6, wordBreak: "break-all" }}>
+                    <a
+                      href={url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      style={{
+                        color: "#cc0000",
+                        fontSize: 13,
+                        textDecoration: "underline",
+                      }}
+                    >
+                      {nombre}
+                    </a>
+                  </div>
+                );
+              })}
                 </div>
               )}
 
