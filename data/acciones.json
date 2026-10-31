@@ -1,861 +1,265 @@
 [
   {
-    "id": "it-sciopero-generale-20261030",
-    "seccion": "protestas_global",
-    "pais": "Italia",
-    "bandera": "🇮🇹",
-    "hora": "10:30",
-    "fecha": "2026-10-30",
-    "lugar": "Más de 50 ciudades; concentración principal en Piazza dei Cinquecento (Roma Termini) y marcha hacia los Foros Imperiales; manifestaciones en Milán, Turín, Nápoles, Bolonia, Florencia, Palermo y otras",
-    "tipoAccion": "Huelga general y manifestaciones",
+    "id": "ar-villa31-orgullo-20261031",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "14:00",
+    "fecha": "2026-10-31",
+    "lugar": "Carlos Perette e Islas Galápagos, Barrio 31, Ciudad Autónoma de Buenos Aires",
+    "tipoAccion": "Marcha del Orgullo y movilización territorial",
     "organizaciones": [
-      "Unione Sindacale di Base (USB)",
-      "ADL Cobas",
-      "CLAP",
-      "SIAL Cobas",
-      "Cobas"
+      "Asamblea Trans Feminista de la Villa 31"
     ],
-    "motivo": "Huelga general de 24 horas de los sectores público y privado contra el costo de la vida, la economía de guerra y el rearme; exigen aumentos salariales, pensiones indexadas a la inflación, servicios públicos y rechazo a la militarización. El Ministerio de Transporte difirió los paros de tren, avión, transporte local, taxi y marítimo por la veda de Todos los Santos, pero USB rechaza la orden y mantiene la convocatoria; el paro sigue en escuelas, universidades, administración pública, sanidad e industria privada, con manifestaciones en unas 50 ciudades.",
-    "status": "en_curso",
-    "lat": 41.9028,
-    "lng": 12.4964,
-    "fuentes": [
-      "https://www.ansa.it/sito/notizie/cronaca/2026/10/29/chi-scende-in-piazza-e-dove-la-mappa-del-venerdi-nero_1b7b41a3-a291-47a9-9049-e83060ee87f8.html",
-      "https://www.ilfattoquotidiano.it/2026/10/27/mappa-sciopero-generale-usb-carovita-carburanti-riarmo-30-ottobre-notizie/8550541/",
-      "https://www.ilmattino.it/primopiano/cronaca/sciopero_30_ottobre_manifestazione_roma_milano_torino_bologna_dove_quando_mappa_cortei-9856894.html",
-      "https://it.usembassy.gov/demonstration-alert-u-s-embassy-rome-italy-october-29-30-2026/",
-      "https://striketracker.app/strikes-in-italy/italy-usb-general-strike-30-oct-2026",
-      "https://www.repubblica.it/en/news/2026/10/30/news/no_to_rearmament_and_the_cost_of_living_crisis_marches_in_fifty_cities_we_will_isolate_the_violent_ones-425685920/",
-      "https://www.portseurope.com/dockworker-unions-name-eight-italian-ports-for-30-october-strike/"
-    ],
-    "createdAt": "2026-10-30T00:04:41.000Z",
-    "updatedAt": "2026-10-30T13:23:06Z"
-  },
-  {
-    "id": "it-livorno-puertos-20261030",
-    "seccion": "protestas_global",
-    "pais": "Italia",
-    "bandera": "🇮🇹",
-    "hora": "09:00",
-    "fecha": "2026-10-30",
-    "lugar": "Puerto de Livorno: terminales TDT, varco Zara y Ponte Genova; manifestación desde Piazza Cavour",
-    "tipoAccion": "Huelga portuaria y manifestación",
-    "organizaciones": [
-      "USB Livorno Mare e Porti",
-      "Gruppo Autonomo Portuali (GAP)",
-      "Global Sumud Flotilla Italia"
-    ],
-    "motivo": "Paro en todos los terminales y empresas del puerto de Livorno contra el uso militar del puerto y el tráfico de armas; los trabajadores se concentran desde las 6:00 y marchan desde las 9:00 desde Piazza Cavour para exigir una moratoria total a la movilización de material militar, en el marco de la jornada internacional de los portuarios.",
-    "status": "en_curso",
-    "lat": 43.5485,
-    "lng": 10.3106,
-    "fuentes": [
-      "https://www.iltirreno.it/livorno/cronaca/2026/10/29/news/shipping-livorno-sciopero-dei-portuali-il-30-ottobre-1.100936026",
-      "https://www.usb.it/leggi-notizia/azione-in-corso-a-livorno-bloccata-una-nave-con-rifornimenti-diretta-a-singonella-attivisti-intervengono-sia-in-mare-che-ai-varchi-portuali-proclamato-sciopero-allinterno-del-terminal-1557.html",
-      "https://www.livornotoday.it/cronaca/porto-livorno-armi-blocco-nave-flotilla.html"
-    ],
-    "createdAt": "2026-10-30T06:10:55.000Z",
-    "updatedAt": "2026-10-30T13:23:06Z"
-  },
-  {
-    "id": "fr-puertos-dockers-20261030",
-    "seccion": "protestas_global",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "",
-    "fecha": "2026-10-30",
-    "lugar": "24 puertos franceses, entre ellos Marsella-Fos, Le Havre, Dunkerque, Rouen, París (Haropa), Nantes, Burdeos, La Rochelle, Calais, Cherburgo, Niza, Tolón y La Reunión",
-    "tipoAccion": "Huelga portuaria de 24 horas",
-    "organizaciones": [
-      "CGT Ports et Docks (FNPD)"
-    ],
-    "motivo": "Paro de 24 horas de estibadores y trabajadores portuarios contra la militarización de los puertos y el transporte de armas, y en defensa de salarios, empleo, pensiones y contra la automatización; la CGT estima que los puertos franceses estarán paralizados al 95%.",
-    "status": "en_curso",
-    "lat": 43.2965,
-    "lng": 5.3698,
-    "fuentes": [
-      "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/non-a-la-guerre-et-a-la-militarisation-des-ports-les-ports-paralysees-par-une-greve-de-24-heures-le-30-octobre-3439608.html",
-      "https://www.laprovence.com/article/societe/55221261299138/les-ports-francais-immobilises-le-30-octobre-par-une-greve-des-dockers",
-      "https://www.europe1.fr/societe/dockers-les-ports-francais-immobilises-le-30-octobre-par-une-greve-1183986",
-      "https://www.forwardernews.com/news/2026-10-26-french-ports-join-friday-strike",
-      "https://www.worldports.org/dockworkers-strike-against-arms-shipments-at-more-than-100-ports-globally/",
-      "https://mavigilance.fr/jour/2026-10-30",
-      "https://www.bairdmaritime.com/shipping/ports/dockworker-unions-claim-22-nation-walkout-will-snarl-2b-in-trade-but-actual-impact-remains-to-be-seen"
-    ],
-    "createdAt": "2026-10-30T00:04:41.000Z",
-    "updatedAt": "2026-10-30T13:23:06Z"
-  },
-  {
-    "id": "fr-caceroladas-gilets-jaunes-20261030",
-    "seccion": "protestas_global",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "19:00",
-    "fecha": "2026-10-30",
-    "lugar": "Toda Francia; convocatoria principal frente a la Asamblea Nacional en París (prohibida por la prefectura) y caceroladas ante ayuntamientos, permanencias y ventanas",
-    "tipoAccion": "Caceroladas y concentraciones",
-    "organizaciones": [
-      "Coordination des Gilets jaunes"
-    ],
-    "motivo": "Caceroladas contra la vida cara y las restricciones al derecho a manifestarse, como antesala del Acto III del 31 de octubre; en París la prefectura prohibió el acto frente a la Asamblea Nacional y la coordinación lo canceló, mientras se mantienen convocatorias en otras ciudades.",
+    "motivo": "Octava Marcha del Orgullo de la Villa 31 bajo la consigna 'Operativo Tormenta de Orgullo', en respuesta al operativo 'Tormenta Negra' del Gobierno porteño; denuncian hostigamiento policial y violencia institucional, y reclaman vivienda digna, trabajo y una urbanización con perspectiva de género y diversidad.",
     "status": "programado",
-    "lat": 48.8566,
-    "lng": 2.3522,
+    "lat": -34.5815,
+    "lng": -58.3838,
     "fuentes": [
-      "https://www.franceinfo.fr/societe/manifestations/manifestations-sit-in-casserolades-comment-s-organise-la-suite-de-la-mobilisation-sociale-pour-les-semaines-a-venir_8254003.html",
-      "https://www.lejdd.fr/Societe/gilets-jaunes-pourquoi-les-casseroles-vont-elles-resonner-ce-vendredi-187281",
-      "https://www.ouest-france.fr/societe/manifestation/colere-sociale-casserolade-acte-iii-greve-de-lintersyndicale-a-quoi-faut-il-sattendre-ces-prochaines-semaines-227d34ca-d11a-11f1-95ba-26d2045f6620",
-      "https://mavigilance.fr/jour/2026-10-30"
+      "https://www.anred.org/una-tormenta-de-orgullo-recorrera-la-villa-31/",
+      "https://agenciapresentes.org/2026/09/24/orgullo-2026-en-argentina-guia-federal-y-colaborativa-de-marchas-y-actividades/",
+      "https://argay.ar/agenda/villa-31-caba-8-marcha-del-orgullo-lgbtiq/"
     ],
-    "createdAt": "2026-10-30T06:10:55.000Z",
-    "updatedAt": "2026-10-30T13:23:06Z"
+    "createdAt": "2026-10-31T00:45:21.000Z",
+    "updatedAt": "2026-10-31T00:49:29Z"
   },
   {
-    "id": "gr-puertos-ferrocarriles-20261030",
-    "seccion": "protestas_global",
-    "pais": "Grecia",
-    "bandera": "🇬🇷",
-    "hora": "10:00",
-    "fecha": "2026-10-30",
-    "lugar": "Puertos de El Pireo, Rafina, Lavrio, Patras, Igoumenitsa, Eleusis y Rio-Antirrio; red ferroviaria nacional; concentración en la plaza del Teatro Municipal del Pireo",
-    "tipoAccion": "Huelga de 24 horas de marítimos y ferroviarios",
+    "id": "ar-la-matanza-orgullo-20261031",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "16:00",
+    "fecha": "2026-10-31",
+    "lugar": "Rotonda de San Justo y puerta del Shopping San Justo, Av. Brig. Gral. Juan Manuel de Rosas 3910, San Justo, La Matanza, provincia de Buenos Aires",
+    "tipoAccion": "Marcha del Orgullo",
     "organizaciones": [
-      "PEMEN",
-      "PENEN",
-      "STEFENSON",
-      "OMYLE",
-      "P.O.S.",
-      "P.E.P.E.",
-      "Centro Laboral del Pireo"
+      "Comisión Oficial Organizadora 'Orgullo Matanza' (Línea Histórica)"
     ],
-    "motivo": "Huelga de 24 horas de marineros y ferroviarios: los sindicatos marítimos exigen el reconocimiento de zonas de guerra, alzas del 12%, mejores dotaciones, jornada de 7 horas y 35 horas semanales, y médico a bordo; los ferroviarios reclaman seguridad, material rodante y personal. Los ferris quedan amarrados y los trenes suspendidos; el Centro Laboral del Pireo convoca una huelga de 24 horas en la ciudad.",
-    "status": "en_curso",
-    "lat": 37.942,
-    "lng": 23.646,
+    "motivo": "Décima Marcha del Orgullo LGBTIQ+ de La Matanza bajo la consigna 'Contra el fascismo, el odio y la persecución: más orgullo y revolución'; homenaje a Lohana Berkins y reclamos por el cupo laboral travesti-trans, la plena implementación de la Ley de Aborto Legal y justicia por crímenes de odio.",
+    "status": "programado",
+    "lat": -34.6815,
+    "lng": -58.561,
     "fuentes": [
-      "https://www.tovima.com/society/nationwide-strikes-to-disrupt-ferries-rail-on-fri/",
-      "https://www.cnn.gr/ellada/story/559301/demena-ola-ta-ploia-sta-megala-limania-tis-xoras-tin-paraskevi-30-oktovriou",
-      "https://www.euro2day.gr/en/article/2375375/port-workers-to-stage-stoppage-on-friday-30-octobe",
-      "https://www.hellenictrain.gr/en/press/the-primary-trade-union-panhellenic-union-of-traction-personnel-p-e-p-e-has-called-a-24-hour-strike-for-tomorrow-friday-30-october-2026/",
-      "https://en.ellada24.gr/strike-actions-at-ports-on-october-30-ships-will-remain-docked-at-seven-ports/",
-      "https://greekcitytimes.com/2026/10/30/ferry-strike/"
+      "https://el1.com.ar/sociedad/invitan-a-participar-de-la-decima-marcha-del-orgullo-en-la-matanza/",
+      "https://elmatanceronoticias.com/san-justo-sera-sede-de-la-10-marcha-del-orgullo-matancero-con-un-reclamo-por-el-cupo-laboral-trans/",
+      "https://foromatanzero.com.ar/la-decima-marcha-del-orgullo-en-la-matanza-incluira-un-homenaje-a-lohana-berkins/",
+      "https://argay.ar/agenda/la-matanza-10-marcha-del-orgullo-lgbtiq/"
     ],
-    "createdAt": "2026-10-30T00:04:41.000Z",
-    "updatedAt": "2026-10-30T13:23:06Z"
+    "createdAt": "2026-10-31T00:45:21.000Z",
+    "updatedAt": "2026-10-31T00:49:29Z"
   },
   {
-    "id": "es-puertos-estiba-20261030",
-    "seccion": "protestas_global",
-    "pais": "España",
-    "bandera": "🇪🇸",
+    "id": "ar-josecpaz-orgullo-20261031",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
     "hora": "13:00",
-    "fecha": "2026-10-30",
-    "lugar": "Puertos de Valencia, Algeciras, Barcelona, Bilbao, Pasaia, Cádiz, Málaga, Sevilla, Vigo, Gijón, Las Palmas y otros puertos españoles",
-    "tipoAccion": "Paro portuario",
+    "fecha": "2026-10-31",
+    "lugar": "Plaza Manuel Belgrano, Altube y Roque Sáenz Peña, José C. Paz, provincia de Buenos Aires",
+    "tipoAccion": "Marcha del Orgullo",
     "organizaciones": [
-      "Coordinadora",
-      "LAB",
-      "Trabajadores de los Puertos Andaluces (TPA)",
-      "SEPRA"
+      "Asamblea Antifascista Antirracista de José C. Paz",
+      "Archivo por la Memoria Trans"
     ],
-    "motivo": "Paro de dos horas (13:00-15:00) convocado por Coordinadora contra la militarización de los puertos y la precarización de la estiba; en el País Vasco LAB llama a parar los puertos de Bilbao, Pasaia y Baiona. Exigen que no se manipulen armas sin evaluación de riesgos y que los puertos sigan siendo infraestructuras civiles.",
-    "status": "en_curso",
-    "lat": 39.4699,
-    "lng": -0.3763,
-    "fuentes": [
-      "https://www.lamarea.com/2026/10/26/estiba-huelga-guerra/",
-      "https://audax.eus/resumendeprensa/wp-content/uploads/2026/10/Coordinadora-presenta-preaviso-de-huelga-en-la-estiba-para-el-30-de-octubre.comprimido.pdf",
-      "https://www.argia.eus/albistea/portuetako-langileek-gerraren-eta-militarizazioaren-aurkako-nazioarteko-greba-deitu-dute-urriaren-30ean",
-      "https://es.marketscreener.com/noticias/los-estibadores-de-m-s-de-100-puertos-ir-n-a-la-huelga-este-viernes-contra-el-env-o-de-armas-ce785fdada88f626",
-      "https://www.bairdmaritime.com/shipping/ports/dockworker-unions-claim-22-nation-walkout-will-snarl-2b-in-trade-but-actual-impact-remains-to-be-seen"
-    ],
-    "createdAt": "2026-10-30T00:04:41.000Z",
-    "updatedAt": "2026-10-30T13:23:06Z"
-  },
-  {
-    "id": "es-murcia-metal-20261030",
-    "seccion": "protestas_global",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "",
-    "fecha": "2026-10-30",
-    "lugar": "Región de Murcia; gran manifestación en Cartagena y piquetes en el Valle de Escombreras, Murcia, Lorca y Molina",
-    "tipoAccion": "Huelga indefinida y manifestación",
-    "organizaciones": [
-      "UGT",
-      "CCOO",
-      "USO"
-    ],
-    "motivo": "Huelga indefinida de unos 35.000 trabajadores del metal desde el 27 de octubre ante el bloqueo del convenio colectivo; reclaman mejoras salariales reales, reducción de jornada y avances en el plus industrial. Las protestas alcanzan su punto álgido con una gran manifestación en Cartagena mientras la negociación se retoma el 2 de noviembre.",
-    "status": "en_curso",
-    "lat": 37.6056,
-    "lng": -0.9913,
-    "fuentes": [
-      "https://www.laverdad.es/murcia/huelguistas-metal-region-elevan-protestas-espera-nueva-20261029213835-nt.html",
-      "https://www.laopiniondemurcia.es/comunidad/2026/10/28/huelga-indefinida-metal-sigue-mesa-135863099.html",
-      "https://cadenaser.com/murcia/2026/10/29/la-huelga-del-metal-mantiene-el-pulso-en-su-tercera-jornada-con-una-manana-sin-incidentes-en-escombreras-radio-cartagena/",
-      "https://www.rtve.es/noticias/20261027/huelga-indefinida-metal-region-murcia-arranca-choques-manifestantes-guardia-civil/17285190.shtml",
-      "https://www.borm.es/services/anuncio/845912/pdf"
-    ],
-    "createdAt": "2026-10-30T00:04:41.000Z",
-    "updatedAt": "2026-10-30T13:23:06Z"
-  },
-  {
-    "id": "es-cataluna-medicos-20261030",
-    "seccion": "protestas_global",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "",
-    "fecha": "2026-10-30",
-    "lugar": "Centros de atención primaria y hospitales de la sanidad pública y concertada de Cataluña",
-    "tipoAccion": "Huelga indefinida",
-    "organizaciones": [
-      "Metges de Catalunya"
-    ],
-    "motivo": "Huelga indefinida de médicos y facultativos iniciada el 28 de octubre para exigir un convenio propio, frenar la sobrecarga asistencial, eliminar las guardias de 24 horas obligatorias y mejorar las retribuciones; el sindicato sostiene la protesta hasta que se abra una negociación efectiva con el Departament de Salut.",
-    "status": "en_curso",
-    "lat": 41.3874,
-    "lng": 2.1686,
-    "fuentes": [
-      "https://www.rtve.es/catalunya/noticies/20261027/vaga-indefinida-metges-catalunya-28-octubre-afectacions/17285304.shtml",
-      "https://www.elperiodico.cat/sanitat/20261028/metges-cataluna-mc-inicia-vaga-medica-indefinida-135814203",
-      "https://www.rac1.cat/societat/20261028/381606/metges-catalans-comencen-vaga-indefinida-reclamar-millores-laborals.html",
-      "https://www.diaripublic.cat/societat/els-metges-reprenen-torcebrac-amb-govern-amb-vaga-indefinida-plena-precampanya.html"
-    ],
-    "createdAt": "2026-10-30T00:04:41.000Z",
-    "updatedAt": "2026-10-30T13:23:06Z"
-  },
-  {
-    "id": "de-hamburgo-puerto-20261030",
-    "seccion": "protestas_global",
-    "pais": "Alemania",
-    "bandera": "🇩🇪",
-    "hora": "12:30",
-    "fecha": "2026-10-30",
-    "lugar": "Dessauer Straße 5, frente al Lagerhaus G, puerto de Hamburgo",
-    "tipoAccion": "Concentración",
-    "organizaciones": [
-      "ver.di Fachgruppe Luftverkehr und Maritime Wirtschaft Hamburg",
-      "Die Linke Hamburg"
-    ],
-    "motivo": "Concentración en solidaridad con el día internacional de acción de los portuarios contra la guerra, el rearme y la militarización de los puertos; exigen salarios justos, empleo seguro, reducción de jornada y alto a la automatización.",
-    "status": "en_curso",
-    "lat": 53.5413,
-    "lng": 9.9845,
-    "fuentes": [
-      "https://www.die-linke-hamburg.de/aktuelles/termine/detail/news/kundgebung-gegen-soziale-angriffe-krieg-und-militarisierung-am-30102026/",
-      "https://gewerkschaftliche-linke-berlin.de/hafenarbeiter-gegen-krieg-und-genozid/",
-      "https://www.unsere-zeit.de/internationaler-aktionstag-4819364/"
-    ],
-    "createdAt": "2026-10-30T00:04:41.000Z",
-    "updatedAt": "2026-10-30T13:23:06Z"
-  },
-  {
-    "id": "ma-puertos-odt-20261030",
-    "seccion": "protestas_global",
-    "pais": "Marruecos",
-    "bandera": "🇲🇦",
-    "hora": "",
-    "fecha": "2026-10-30",
-    "lugar": "Puertos de Tánger y Casablanca",
-    "tipoAccion": "Paro portuario",
-    "organizaciones": [
-      "Organisation Démocratique du Travail (ODT)"
-    ],
-    "motivo": "Paros de hasta dos horas en los puertos de Tánger y Casablanca dentro de la jornada internacional contra el transporte de armas y la militarización portuaria, en solidaridad con Palestina y por mejores condiciones laborales.",
-    "status": "en_curso",
-    "lat": 35.7595,
-    "lng": -5.834,
-    "fuentes": [
-      "https://en.bladi.net/ports-including-tangier-casablanca-protest-arms,124642.html",
-      "https://www.usb.it/leggi-notizia/30-ottobre-2026-giornata-internazionale-di-mobilitazione-dei-portuali-e-dei-lavoratori-dei-porti-contro-la-guerra-e-la-militarizzazione-porti-per-la-pace-e-per-il-lavoro-dignitoso-1409.html",
-      "https://www.worldports.org/dockworkers-strike-against-arms-shipments-at-more-than-100-ports-globally/",
-      "https://www.portseurope.com/dockworker-unions-name-eight-italian-ports-for-30-october-strike/"
-    ],
-    "createdAt": "2026-10-30T00:04:41.000Z",
-    "updatedAt": "2026-10-30T13:23:06Z"
-  },
-  {
-    "id": "tr-puertos-liman-is-20261030",
-    "seccion": "protestas_global",
-    "pais": "Turquía",
-    "bandera": "🇹🇷",
-    "hora": "",
-    "fecha": "2026-10-30",
-    "lugar": "Puertos de Mersin (MIP), Gemlik (Gemport) y Haydarpaşa, Estambul",
-    "tipoAccion": "Huelga portuaria de 24 horas",
-    "organizaciones": [
-      "Liman-İş"
-    ],
-    "motivo": "Huelga de 24 horas en los puertos de Mersin, Gemlik y Haydarpaşa contra el transporte de armas y la militarización de los puertos, y por derechos laborales, salarios y empleo.",
-    "status": "en_curso",
-    "lat": 36.8,
-    "lng": 34.6333,
-    "fuentes": [
-      "https://www.usb.it/leggi-notizia/30-ottobre-2026-giornata-internazionale-di-mobilitazione-dei-portuali-e-dei-lavoratori-dei-porti-contro-la-guerra-e-la-militarizzazione-porti-per-la-pace-e-per-il-lavoro-dignitoso-1409.html",
-      "https://www.worldports.org/dockworkers-strike-against-arms-shipments-at-more-than-100-ports-globally/",
-      "https://www.devdiscourse.com/article/international/3999063-dockworkers-at-more-than-100-ports-to-strike-against-arms-shipments-on-friday",
-      "https://www.bairdmaritime.com/shipping/ports/dockworker-unions-claim-22-nation-walkout-will-snarl-2b-in-trade-but-actual-impact-remains-to-be-seen"
-    ],
-    "createdAt": "2026-10-30T00:04:41.000Z",
-    "updatedAt": "2026-10-30T13:23:06Z"
-  },
-  {
-    "id": "in-puertos-wtwfi-20261030",
-    "seccion": "protestas_global",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "",
-    "fecha": "2026-10-30",
-    "lugar": "15 puertos de India, entre ellos Chennai, Cochin, Gangavaram, JNPT/Nhava Sheva, Kakinada, Kolkata, Krishnapatnam, Mumbai, Paradip, Tuticorin y Visakhapatnam",
-    "tipoAccion": "Huelga portuaria de 24 horas",
-    "organizaciones": [
-      "Water Transport Workers Federation of India (WTWFI)",
-      "CITU"
-    ],
-    "motivo": "Huelga de 24 horas en 15 puertos indios contra el transporte de armas y la militarización de los puertos, en el marco de la campaña 'No Harbour for Genocide'; reclaman el fin del genocidio en Palestina y un embargo militar integral a Israel.",
-    "status": "en_curso",
-    "lat": 18.95,
-    "lng": 72.835,
-    "fuentes": [
-      "https://maktoobmedia.com/post?id=116773&slug=no-harbour-for-genocide-indian-dockworkers-to-join-global-anti-war-action-across-15-ports-on-october-30",
-      "https://www.devdiscourse.com/article/international/3999063-dockworkers-at-more-than-100-ports-to-strike-against-arms-shipments-on-friday",
-      "https://www.usb.it/leggi-notizia/30-ottobre-2026-giornata-internazionale-di-mobilitazione-dei-portuali-e-dei-lavoratori-dei-porti-contro-la-guerra-e-la-militarizzazione-porti-per-la-pace-e-per-il-lavoro-dignitoso-1409.html",
-      "https://www.bairdmaritime.com/shipping/ports/dockworker-unions-claim-22-nation-walkout-will-snarl-2b-in-trade-but-actual-impact-remains-to-be-seen"
-    ],
-    "createdAt": "2026-10-30T00:04:41.000Z",
-    "updatedAt": "2026-10-30T13:23:06Z"
-  },
-  {
-    "id": "in-kangpokpi-shutdown-20261030",
-    "seccion": "protestas_global",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "",
-    "fecha": "2026-10-30",
-    "lugar": "Distrito de Kangpokpi, Manipur",
-    "tipoAccion": "Paro total de 48 horas",
-    "organizaciones": [
-      "Committee on Tribal Unity (CoTU), Sadar Hills"
-    ],
-    "motivo": "Shutdown total de 48 horas iniciado el 29 de octubre y vigente hasta las 17:00 del 31 de octubre por la presunta desaparición de dos jóvenes kuki; exigen su liberación inmediata, segura e incondicional y denuncian un trato discriminatorio de las fuerzas de seguridad. Comercios, transporte, escuelas y oficinas permanecen cerrados; sanidad, medios y fuerzas de seguridad están exceptuados.",
-    "status": "en_curso",
-    "lat": 25.15,
-    "lng": 93.97,
-    "fuentes": [
-      "https://economictimes.indiatimes.com/news/politics-and-nation/kuki-body-calls-48-hour-strike-over-abductions-in-manipur/articleshow/135338951.cms",
-      "https://www.sentinelassam.com/north-east-india-news/assam-news/manipur-on-edge-48-hour-shutdown-paralyses-kangpokpi-over-alleged-abduction-of-two-kuki-youths",
-      "https://www.indiatodayne.in/manipur/story/manipur-kangpokpi-shutdown-cotu-kuki-youths-alleged-kidnapping-1469024-2026-10-29"
-    ],
-    "createdAt": "2026-10-30T06:10:55.000Z",
-    "updatedAt": "2026-10-30T13:23:06Z"
-  },
-  {
-    "id": "mx-veracruz-estibadores-20261030",
-    "seccion": "protestas_global",
-    "pais": "México",
-    "bandera": "🇲🇽",
-    "hora": "",
-    "fecha": "2026-10-30",
-    "lugar": "Puerto de Veracruz",
-    "tipoAccion": "Huelga portuaria",
-    "organizaciones": [
-      "Unión de Estibadores y Jornaleros del Puerto de Veracruz",
-      "Coordinadora Sindical Unitaria de México (CSUM)"
-    ],
-    "motivo": "Paro de estibadores y trabajadores portuarios de Veracruz en la jornada internacional contra la guerra, la militarización y el transporte de armas, en solidaridad con Palestina y por los derechos laborales del sector.",
-    "status": "en_curso",
-    "lat": 19.1738,
-    "lng": -96.1342,
-    "fuentes": [
-      "https://elmachete.mx/index.php/2026/10/29/contra-la-militarizacion-y-la-economia-de-guerra-los-trabajadores-portuarios-llaman-a-la-huelga/",
-      "https://www.worldports.org/dockworkers-strike-against-arms-shipments-at-more-than-100-ports-globally/",
-      "https://jacobin.com/2026/10/dockworkers-strike-palestine-solidarity-internationalism",
-      "https://www.porttechnology.org/news/people/port-workers-action-100/"
-    ],
-    "createdAt": "2026-10-30T00:04:41.000Z",
-    "updatedAt": "2026-10-30T13:23:06Z"
-  },
-  {
-    "id": "mx-imss-megamarcha-20261030",
-    "seccion": "protestas_global",
-    "pais": "México",
-    "bandera": "🇲🇽",
-    "hora": "10:00",
-    "fecha": "2026-10-30",
-    "lugar": "Ciudad de México: oficinas centrales del IMSS en Paseo de la Reforma 476 hacia Bucareli, y Centro Médico Nacional Siglo XXI hacia el Zócalo; movilizaciones en al menos 16 estados",
-    "tipoAccion": "Megamarcha nacional, bloqueos y concentraciones",
-    "organizaciones": [
-      "Trabajadores activos, jubilados y pensionados del IMSS",
-      "Movimiento de trabajadores disidentes del SNTSS"
-    ],
-    "motivo": "Megamarcha nacional en rechazo a la propuesta de aumento salarial del 8% y a la dirigencia del SNTSS; exigen un aumento del 10% directo al salario, 7% del PIB para salud, jubilación con pensión y la destitución de Rafael Olivos. Habrá dos contingentes en la capital y protestas frente a hospitales y unidades médicas en distintos estados.",
+    "motivo": "Segunda Marcha del Orgullo Antifascista, Antirracista y LGBTIQ+ de José C. Paz; reclaman el cumplimiento de la Ley de Cupo Laboral Trans y una ley integral que contemple dieta, salud, educación y trabajo. La movilización parte a las 17 hacia la estación de José C. Paz.",
     "status": "programado",
-    "lat": 19.4326,
-    "lng": -99.1332,
+    "lat": -34.5156,
+    "lng": -58.7683,
     "fuentes": [
-      "https://www.infobae.com/mexico/2026/10/29/megamarcha-del-imss-este-30-de-octubre-rutas-horarios-y-afectaciones-viales-en-la-cdmx/",
-      "https://www.unotv.com/nacional/megamarcha-nacional-trabajadores-imss-consulta-mapa-movilizaciones-cdmx-estados-30-octubre-2026/",
-      "https://www.publimetro.com.mx/noticias/2026/10/30/megamarcha-del-imss-este-30-de-octubre-en-cdmx-horarios-rutas-y-avenidas-bloqueadas/",
-      "https://mexico.as.com/actualidad/a-que-hora-inicia-la-megamarcha-del-imss-este-30-de-octubre-rutas-calles-cerradas-y-alternativas-viales-f202610-n/"
+      "https://fmtinkunaco.ar/?p=7686",
+      "https://baam.com.ar/sociedad/marcha-orgullo-2026-maria-becerra-artistas/",
+      "https://agenciapresentes.org/2026/09/24/orgullo-2026-en-argentina-guia-federal-y-colaborativa-de-marchas-y-actividades/"
     ],
-    "createdAt": "2026-10-30T06:10:55.000Z",
-    "updatedAt": "2026-10-30T13:23:06Z"
+    "createdAt": "2026-10-31T00:45:21.000Z",
+    "updatedAt": "2026-10-31T00:49:29Z"
   },
   {
-    "id": "us-oakland-puertos-20261030",
-    "seccion": "protestas_global",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
-    "hora": "12:00",
-    "fecha": "2026-10-30",
-    "lugar": "Oakland Shoreline Park, 32777 Middle Harbor Rd, Oakland, California; acciones portuarias también en San Francisco",
-    "tipoAccion": "Concentración y acción portuaria",
-    "organizaciones": [
-      "ILWU Local 10",
-      "ILWU Local 34",
-      "United Front Committee for a Labor Party (UFCLP)",
-      "National Action Coalition"
-    ],
-    "motivo": "Rally en solidaridad con la jornada mundial de los portuarios contra la guerra, el genocidio y la militarización; exigen alto al envío de armas a Israel, fin de las guerras y ocupaciones de EE.UU., derechos para los inmigrantes y empleos sindicalizados.",
-    "status": "programado",
-    "lat": 37.7955,
-    "lng": -122.279,
-    "fuentes": [
-      "https://www.indybay.org/newsitems/2026/10/25/18889670.php",
-      "https://www.anarchistcalendar.org/2026-10-30-rally-in-solidarity-with-global-port-actions-against-genocide-wars-and-attacks-on-workers-16375",
-      "https://eurof-wftu.eu/?p=5533",
-      "https://jacobin.com/2026/10/dockworkers-strike-palestine-solidarity-internationalism",
-      "https://protesttracker.online/p/oakland-port-protests-israel-oct-2026"
-    ],
-    "createdAt": "2026-10-30T00:04:41.000Z",
-    "updatedAt": "2026-10-30T13:23:06Z"
-  },
-  {
-    "id": "ie-puertos-siptu-20261030",
-    "seccion": "protestas_global",
-    "pais": "Irlanda",
-    "bandera": "🇮🇪",
-    "hora": "",
-    "fecha": "2026-10-30",
-    "lugar": "Puertos de Cork y Dublín",
-    "tipoAccion": "Paro portuario",
-    "organizaciones": [
-      "SIPTU"
-    ],
-    "motivo": "SIPTU se suma a la jornada internacional de los trabajadores portuarios contra la guerra y el transporte de armas, con paros en los puertos de Cork y Dublín y reclamos por empleo, salarios y condiciones laborales.",
-    "status": "en_curso",
-    "lat": 51.8985,
-    "lng": -8.4756,
-    "fuentes": [
-      "https://www.usb.it/leggi-notizia/30-ottobre-2026-giornata-internazionale-di-mobilitazione-dei-portuali-e-dei-lavoratori-dei-porti-contro-la-guerra-e-la-militarizzazione-porti-per-la-pace-e-per-il-lavoro-dignitoso-1409.html",
-      "https://www.devdiscourse.com/article/international/3999063-dockworkers-at-more-than-100-ports-to-strike-against-arms-shipments-on-friday",
-      "https://jacobin.com/2026/10/dockworkers-strike-palestine-solidarity-internationalism",
-      "https://www.worldports.org/dockworkers-strike-against-arms-shipments-at-more-than-100-ports-globally/"
-    ],
-    "createdAt": "2026-10-30T00:04:41.000Z",
-    "updatedAt": "2026-10-30T13:23:06Z"
-  },
-  {
-    "id": "au-melbourne-puertos-20261030",
-    "seccion": "protestas_global",
-    "pais": "Australia",
-    "bandera": "🇦🇺",
-    "hora": "17:00",
-    "fecha": "2026-10-30",
-    "lugar": "Puerto de Melbourne y acto de solidaridad en Naarm/Melbourne",
-    "tipoAccion": "Paro y concentración",
-    "organizaciones": [
-      "Maritime Union of Australia (MUA)",
-      "Free Palestine Melbourne"
-    ],
-    "motivo": "Acción del sindicato marítimo y acto de solidaridad con la jornada internacional de los portuarios contra la guerra y el genocidio, el transporte de armas y la militarización de los puertos.",
-    "status": "finalizado",
-    "lat": -37.8136,
-    "lng": 144.9631,
-    "fuentes": [
-      "https://www.usb.it/leggi-notizia/30-ottobre-2026-giornata-internazionale-di-mobilitazione-dei-portuali-e-dei-lavoratori-dei-porti-contro-la-guerra-e-la-militarizzazione-porti-per-la-pace-e-per-il-lavoro-dignitoso-1409.html",
-      "https://www.greenleft.org.au/events",
-      "https://jacobin.com/2026/10/dockworkers-strike-palestine-solidarity-internationalism",
-      "https://www.findaprotest.info/this-weekend"
-    ],
-    "createdAt": "2026-10-30T00:04:41.000Z",
-    "updatedAt": "2026-10-30T13:23:06Z"
-  },
-  {
-    "id": "au-sydney-preescolares-20261030",
-    "seccion": "protestas_global",
-    "pais": "Australia",
-    "bandera": "🇦🇺",
-    "hora": "09:00",
-    "fecha": "2026-10-30",
-    "lugar": "Afueras de la oficina de la vicepremier Prue Car, 154 Queen St, St Marys, Sídney",
-    "tipoAccion": "Concentración y protesta",
-    "organizaciones": [
-      "Independent Education Union of Australia NSW/ACT (IEU)"
-    ],
-    "motivo": "Protesta de docentes y educadores de preescolares comunitarios contra el nuevo modelo de financiación del gobierno de NSW, que según el sindicato provocará recortes de cientos de miles de dólares, pérdida de empleos y deterioro de la calidad y seguridad de los servicios.",
-    "status": "finalizado",
-    "lat": -33.7667,
-    "lng": 150.8,
-    "fuentes": [
-      "https://www.ieu.asn.au/media-alert-community-preschools-protest-western-sydney/"
-    ],
-    "createdAt": "2026-10-30T00:04:41.000Z",
-    "updatedAt": "2026-10-30T13:23:06Z"
-  },
-  {
-    "id": "jp-tokio-lunch-protest-20261030",
-    "seccion": "protestas_global",
-    "pais": "Japón",
-    "bandera": "🇯🇵",
-    "hora": "12:15",
-    "fecha": "2026-10-30",
-    "lugar": "Parque Hibiya, Chiyoda, Tokio",
-    "tipoAccion": "Concentración pacífica",
-    "organizaciones": [
-      "Demo Calendar Japan",
-      "convocantes ciudadanos"
-    ],
-    "motivo": "Protesta-picnic contra la reforma de la Constitución y en defensa de la Constitución pacifista y en contra de la guerra.",
-    "status": "finalizado",
-    "lat": 35.6738,
-    "lng": 139.7567,
-    "fuentes": [
-      "https://www.findaprotest.info/event/tokyo/537bbf56-cea3-4c8d-9c69-ae579c151b5c",
-      "https://www.democalendar.jp/"
-    ],
-    "createdAt": "2026-10-30T00:04:41.000Z",
-    "updatedAt": "2026-10-30T13:23:06Z"
-  },
-  {
-    "id": "gb-cwmtaf-sanitarios-20261030",
-    "seccion": "protestas_global",
-    "pais": "Reino Unido",
-    "bandera": "🇬🇧",
-    "hora": "",
-    "fecha": "2026-10-30",
-    "lugar": "Cwm Taf Morgannwg University Health Board, Gales",
-    "tipoAccion": "Huelga",
-    "organizaciones": [
-      "Unite"
-    ],
-    "motivo": "Huelga continua de visitadores sanitarios por el incumplimiento de la evaluación y clasificación de puestos; reclaman el pago en la banda salarial correcta tras perder hasta 9.000 libras anuales, con paros programados del 26 al 30 de octubre.",
-    "status": "en_curso",
-    "lat": 51.6167,
-    "lng": -3.45,
-    "fuentes": [
-      "https://www.strikecalendar.co.uk/union/unite/cwmtafhealthboardunite",
-      "https://www.walesonline.co.uk/news/wales-news/tens-thousands-appointments-missed-health-34400116",
-      "https://www.bbc.com/news/articles/c8jn2g4xg72o"
-    ],
-    "createdAt": "2026-10-30T00:04:41.000Z",
-    "updatedAt": "2026-10-30T13:23:06Z"
-  },
-  {
-    "id": "gb-greater-manchester-sanitarios-20261030",
-    "seccion": "protestas_global",
-    "pais": "Reino Unido",
-    "bandera": "🇬🇧",
-    "hora": "08:30",
-    "fecha": "2026-10-30",
-    "lugar": "Salford Royal Hospital, Royal Oldham Hospital, Rochdale Infirmary y Fairfield General Hospital (Bury), Greater Manchester",
-    "tipoAccion": "Huelga y piquetes",
-    "organizaciones": [
-      "UNISON"
-    ],
-    "motivo": "Huelga de más de 350 trabajadores de quirófano, enfermería, apoyo clínico y limpieza por el pago de horas extraordinarias a través de NHS Professionals, que les hace perder hasta 80 libras por turno; reclaman las tarifas de overtime de sus contratos. Este viernes hay concentraciones conjuntas en Salford Royal y Royal Oldham.",
-    "status": "en_curso",
-    "lat": 53.4831,
-    "lng": -2.2931,
-    "fuentes": [
-      "https://www.salfordnow.co.uk/2026/10/27/ready-to-brave-all-conditions-salford-royal-hospital-staff-join-strikes-in-overtime-pay-dispute/",
-      "https://www.theoldhamtimes.co.uk/news/26645353.unison-confirms-royal-oldham-hospital-strike-date-nca-row/",
-      "https://www.counterfire.org/event/greater-manchester-unison-northern-care-alliance-strike/"
-    ],
-    "createdAt": "2026-10-30T06:10:55.000Z",
-    "updatedAt": "2026-10-30T13:23:06Z"
-  },
-  {
-    "id": "lk-futa-universidades-20261030",
-    "seccion": "protestas_global",
-    "pais": "Sri Lanka",
-    "bandera": "🇱🇰",
-    "hora": "",
-    "fecha": "2026-10-30",
-    "lugar": "Todas las universidades estatales de Sri Lanka; marcha y concentración cerca de la Universidad de Artes Visuales y Escénicas y conferencia de prensa en Colombo",
-    "tipoAccion": "Huelga de un día y marcha",
-    "organizaciones": [
-      "Federation of University Teachers' Associations (FUTA)"
-    ],
-    "motivo": "Paro de un día en todo el sistema universitario estatal por la falta de docentes, la sobrecarga de trabajo y la insuficiencia de recursos e instalaciones; FUTA realiza una marcha y una conferencia de prensa para visibilizar la crisis de la educación superior pública.",
-    "status": "en_curso",
-    "lat": 6.9271,
-    "lng": 79.8612,
-    "fuentes": [
-      "https://www.themorning.lk/articles/kfABYwqfzLbCd9E6pGBP",
-      "https://www.newswire.lk/2026/10/29/university-lecturers-to-launch-islandwide-strike-tomorrow/",
-      "https://hirunews.lk/goldfmnews/497144/state-university-lecturers-launch-islandwide-one-day-strike"
-    ],
-    "createdAt": "2026-10-30T06:10:55.000Z",
-    "updatedAt": "2026-10-30T13:23:06Z"
-  },
-  {
-    "id": "dk-copenhague-puertos-20261030",
-    "seccion": "protestas_global",
-    "pais": "Dinamarca",
-    "bandera": "🇩🇰",
-    "hora": "16:00",
-    "fecha": "2026-10-30",
-    "lugar": "Containervej 9, Nordhavn, Copenhague; acciones portuarias también previstas en Aarhus, Esbjerg, Kalundborg, Grenaa y Køge",
-    "tipoAccion": "Concentración y acciones portuarias",
-    "organizaciones": [
-      "Havnearbejderne i Københavns Havn",
-      "Murer og Murerarbejdsmændenes faglige klub",
-      "El-Faglig Aktionsklub",
-      "3F"
-    ],
-    "motivo": "Concentración de trabajadores portuarios y sindicalistas daneses en solidaridad con la jornada internacional contra la militarización de los puertos y el transporte de armas; reclaman paz, mejores salarios, bienestar y condiciones laborales.",
-    "status": "programado",
-    "lat": 55.705,
-    "lng": 12.595,
-    "fuentes": [
-      "https://arbejderen.dk/fagligt/arbejdere-i-aktion-paa-100-havne-mod-vaabentransport-og-krig/",
-      "https://arbejderen.dk/kalender/koebenhavn-havnearbejdere-arbejder-ikke-for-krig/",
-      "https://socialister.dk/anti-krig-europaeiske-havnearbejdere-strejker-den-30-oktober/"
-    ],
-    "createdAt": "2026-10-30T06:10:55.000Z",
-    "updatedAt": "2026-10-30T13:23:06Z"
-  },
-  {
-    "id": "se-estocolmo-metro-20261030",
-    "seccion": "protestas_global",
-    "pais": "Suecia",
-    "bandera": "🇸🇪",
-    "hora": "16:00",
-    "fecha": "2026-10-30",
-    "lugar": "Norra Bantorget, junto al monumento a Branting, Estocolmo",
-    "tipoAccion": "Manifestación",
-    "organizaciones": [
-      "Seko Tunnelbanan, Klubb 111"
-    ],
-    "motivo": "Manifestación por salarios más altos y reducción de la jornada, y en solidaridad con la huelga internacional de portuarios; reclaman que los recursos públicos se destinen a educación y sanidad en lugar de al rearme y la industria de guerra.",
-    "status": "programado",
-    "lat": 59.332,
-    "lng": 18.056,
-    "fuentes": [
-      "https://www.gnistor.se/event/2026-10-30-for-hogre-loner-och-kartare-arbetstid/",
-      "https://riktpunkt.nu/2026/10/manifestation-for-hogre-loner-och-kortare-arbetstid-solidaritet-med-hamnarbetarna/",
-      "https://www.socialisterna.org/30-oktober-alleuropeisk-hamnstrejk-mot-militarismen/"
-    ],
-    "createdAt": "2026-10-30T06:10:55.000Z",
-    "updatedAt": "2026-10-30T13:23:06Z"
-  },
-  {
-    "id": "ar-nacional-universidades-20261030",
+    "id": "ar-santiago-orgullo-20261031",
     "seccion": "protestas_ar",
     "pais": "Argentina",
     "bandera": "🇦🇷",
     "hora": "",
-    "fecha": "2026-10-30",
-    "lugar": "Universidades nacionales y preuniversitarias de todo el país; en Rosario, la UNR suspende clases y COAD sostiene acciones de visibilización",
-    "tipoAccion": "Paro nacional docente universitario y preuniversitario",
+    "fecha": "2026-10-31",
+    "lugar": "Av. Roca y Patagonia, frente a la Cámara de Diputados, Santiago del Estero",
+    "tipoAccion": "Marcha del Orgullo",
+    "organizaciones": [
+      "Comisión Organizadora de la Marcha del Orgullo de Santiago del Estero (C.O.M.O.)"
+    ],
+    "motivo": "19ª Marcha del Orgullo LGBTIQ+ bajo la consigna 'Frente al odio y la violencia, más Orgullo y resistencia'; reclaman la plena implementación del Cupo Laboral Travesti Trans, una ley antidiscriminatoria real, acceso a la salud integral, infancias libres y vidas dignas sin violencias.",
+    "status": "programado",
+    "lat": -27.7951,
+    "lng": -64.2615,
+    "fuentes": [
+      "https://infodelestero.com/2026/09/21/santiago-del-estero-se-prepara-para-la-19-marcha-del-orgullo-lgbtiq",
+      "https://www.diariopanorama.com/noticia/567275/por-santiago-mas-libre-diverso-convocan-19-marcha-orgullo-lgbtiqa",
+      "https://www.radiolv11.com.ar/noticia/anunciaron-la-19-marcha-del-orgullo-lgbtiq-en-santiago-del-estero"
+    ],
+    "createdAt": "2026-10-31T00:45:21.000Z",
+    "updatedAt": "2026-10-31T00:49:29Z"
+  },
+  {
+    "id": "ar-iguazu-justicia-ocampo-20261031",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "14:00",
+    "fecha": "2026-10-31",
+    "lugar": "Cancha de fútbol del barrio San Lucas (canchita de Junco), Puerto Iguazú, Misiones; recorrido hasta la rotonda de acceso a la ciudad",
+    "tipoAccion": "Marcha y concentración",
+    "organizaciones": [
+      "Familiares y amigos de Fernando Ocampo"
+    ],
+    "motivo": "Marcha bajo la consigna 'Justicia por Fernando Ocampo. Su vida importa y su familia también', para exigir el esclarecimiento de su muerte en un siniestro vial ocurrido el 13 de octubre y que se evalúe la aplicación del Régimen Penal Juvenil al conductor adolescente involucrado.",
+    "status": "programado",
+    "lat": -25.5991,
+    "lng": -54.5736,
+    "fuentes": [
+      "https://www.elterritorio.com.ar/noticias/2026/10/29/923724-iguazu-marchara-para-pedir-justicia-por-fernando-ocampo-fallecido-en-un-siniestro-vial",
+      "https://lavozdecataratas.com/2026/10/29/marcha-por-fernando-ocampo-la-familia-reclama-justicia/"
+    ],
+    "createdAt": "2026-10-31T00:45:21.000Z",
+    "updatedAt": "2026-10-31T00:49:29Z"
+  },
+  {
+    "id": "ar-caba-zivals-20261031",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "17:00",
+    "fecha": "2026-10-31",
+    "lugar": "Librería Zivals, Av. Corrientes y Callao, Ciudad Autónoma de Buenos Aires",
+    "tipoAccion": "Abrazo simbólico y manifestación",
+    "organizaciones": [
+      "Zivals",
+      "Comunidad cultural y vecinos"
+    ],
+    "motivo": "Abrazo simbólico bajo la consigna '¡Zivals no se expropia, Zivals no se va!' en rechazo al proyecto de expropiación del inmueble impulsado para la futura Línea F del subte y en defensa de un espacio cultural de 55 años.",
+    "status": "programado",
+    "lat": -34.6035,
+    "lng": -58.391,
+    "fuentes": [
+      "https://www.eldestapeweb.com/cultura/zivals-convoca-abrazo-simbolico-defender-historica-esquina-corrientes-callao-2026102919468"
+    ],
+    "createdAt": "2026-10-31T00:45:21.000Z",
+    "updatedAt": "2026-10-31T00:49:29Z"
+  },
+  {
+    "id": "ar-nacional-universidades-20261031",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-10-31",
+    "lugar": "Universidades nacionales y escuelas preuniversitarias de todo el país",
+    "tipoAccion": "Paro nacional docente y no docente",
     "organizaciones": [
       "CONADU Histórica",
       "AGD UBA",
-      "COAD Rosario"
+      "ADUNS",
+      "FATUN"
     ],
-    "motivo": "Tercer día del paro nacional de docentes universitarios y preuniversitarios iniciado el 28 de octubre y extendido hasta el 3 de noviembre en reclamo de recomposición salarial, cumplimiento de la Ley de Financiamiento Universitario, pago de la deuda salarial y presupuesto para las universidades; la UNR confirma la suspensión de clases este viernes 30 de octubre",
+    "motivo": "Paro nacional de docentes universitarios y preuniversitarios que se extiende desde el 28 de octubre hasta el 3 de noviembre inclusive, en reclamo del cumplimiento de la Ley de Financiamiento Universitario, la recomposición salarial, el pago de la deuda salarial y un presupuesto suficiente para las universidades. El cronograma incluye la jornada del sábado 31 de octubre.",
     "status": "en_curso",
     "lat": -34.6037,
     "lng": -58.3816,
     "fuentes": [
-      "https://argentina.indymedia.org/2026/10/27/nuevos-paros-de-docentes-universitarios-y-de-maestros-de-la-pba",
-      "https://www.pausa.com.ar/2026/10/universidades-en-lucha-arranca-una-semana-de-paro-docente/",
-      "https://adiuc.org.ar/2026/10/26/con-paros-y-acciones-federales-continua-el-plan-de-lucha",
-      "https://www.pagina12.com.ar/2026/10/29/nuevo-paro-universitario-para-que-el-gobierno-cumpla-con-el-financiamiento/",
-      "https://www.conclusion.com.ar/gremiales/paro-radio-abierta-y-expo-incumplimiento-la-universidad-publica-profundiza-su-protesta-contra-milei/10/2026/",
       "https://aduns.org/2026/10/23/paro-nacional-de-la-docencia-en-todas-las-universidades-nacionales-escuelas-y-colegios-preuniversitarios-coincidiendo-el-28-10-y-3-11-con-los-nodocentes-de-atuns-fatun/",
-      "https://www.a24.com/politica/paro-universitario-nacional-que-dias-no-habra-clases-y-cuando-se-extiende-la-medida-n1610926"
+      "https://www.infobae.com/politica/2026/10/28/los-universitarios-comienzan-hoy-un-nuevo-paro-que-se-extendera-durante-una-semana/",
+      "https://www.elmovimiento.ar/articulo/conadu-historica-paro-nacional-28-octubre-3-noviembre-universidades"
     ],
-    "createdAt": "2026-10-30T00:12:46.000Z",
-    "updatedAt": "2026-10-30T13:23:06Z"
+    "createdAt": "2026-10-31T00:45:21.000Z",
+    "updatedAt": "2026-10-31T00:49:29Z"
   },
   {
-    "id": "ar-pba-docentes-frendep-20261030",
+    "id": "ar-pueblo-andino-inseguridad-20261031",
     "seccion": "protestas_ar",
     "pais": "Argentina",
     "bandera": "🇦🇷",
-    "hora": "",
-    "fecha": "2026-10-30",
-    "lugar": "Escuelas de la provincia de Buenos Aires y acciones en distintos distritos; paro nacional convocado por el Frendep con epicentro bonaerense",
-    "tipoAccion": "Paro nacional docente",
+    "hora": "19:00",
+    "fecha": "2026-10-31",
+    "lugar": "Bordabehere y Ruta 10, barrio El Bosque, Pueblo Andino, Santa Fe",
+    "tipoAccion": "Corte de calle y manifestación",
     "organizaciones": [
-      "Asociación de Maestros de la Provincia de Buenos Aires",
-      "Frente Nacional Democrático por la Educación Pública (Frendep)"
+      "Vecinos de barrio El Bosque de Pueblo Andino"
     ],
-    "motivo": "Paro convocado en repudio al femicidio de la docente rural Nancy Godoy y por la falta de condiciones de seguridad y resguardo del personal docente en escuelas rurales y periféricas; exigen políticas públicas, protocolos de protección y que ir a la escuela no implique un riesgo. El Frente de Unidad Docente Bonaerense (SUTEBA, FEB, SADOP, AMET y UDOCBA) no adhirió a esta jornada.",
-    "status": "en_curso",
-    "lat": -34.9215,
-    "lng": -57.9545,
+    "motivo": "Manifestación bajo el lema 'Andino nos necesita unidos' por la seguidilla de robos y la falta de presencia policial; exigen más patrullajes y respuestas concretas frente a la inseguridad.",
+    "status": "programado",
+    "lat": -32.6667,
+    "lng": -60.8667,
     "fuentes": [
-      "https://www.infozona.com.ar/paro-docente-este-viernes-30-de-octubre-los-gremios-convocaron-a-una-nueva-medida-de-fuerza/",
-      "https://www.eldia.com/la-ciudad/impulsan-un-nuevo-paro-docente-para-este-viernes-30-de-octubre-por-el-femicidio-de-nancy-godoy-la-ciudad_1793305791",
-      "https://mundogremial.com/un-sector-de-maestros-bonaerenses-extiende-hasta-el-viernes-el-paro-docente-por-nancy-godoy/",
-      "https://www.cronista.com/informacion-gral/confirman-suspension-de-clases-manana-miercoles-en-buenos-aires-por-un-nuevo-paro-docente-los-profesores-y-colegios-que-pueden-adherir/"
+      "https://infomasnoticias.com/index/2026/10/27/ola-de-robos-en-andino-vecinos-se-manifestaran-con-un-corte-para-visibilizar-la-problematica/",
+      "https://horizonte101.com/inseguridad-en-andino-muchos-robos-y-poca-presencia-policial-los-vecinos-movilizan-este-sabado-antes-de-que-la-situacion-pase-a-mayores-dicen/"
     ],
-    "createdAt": "2026-10-30T06:15:11.000Z",
-    "updatedAt": "2026-10-30T13:23:06Z"
+    "createdAt": "2026-10-31T00:45:21.000Z",
+    "updatedAt": "2026-10-31T00:49:29Z"
   },
   {
-    "id": "ar-cordoba-salud-mental-20261030",
+    "id": "ar-aimogasta-animales-20261031",
     "seccion": "protestas_ar",
     "pais": "Argentina",
     "bandera": "🇦🇷",
-    "hora": "18:00",
-    "fecha": "2026-10-30",
-    "lugar": "Colón y General Paz, Córdoba Capital; recorrido por Nueva Córdoba y el centro",
+    "hora": "10:00",
+    "fecha": "2026-10-31",
+    "lugar": "Plaza Principal de Aimogasta, La Rioja",
     "tipoAccion": "Marcha y concentración",
     "organizaciones": [
-      "Colectivo por el Derecho a la Salud Mental de Córdoba",
-      "ATE Córdoba",
-      "CTA Autónoma Córdoba",
-      "Facultad de Artes de la UNC"
+      "Organizaciones proteccionistas de Aimogasta",
+      "Vecinos"
     ],
-    "motivo": "13ª Marcha por el Derecho a la Salud Mental bajo la consigna 'La salud mental está que arde', en defensa de la Ley Nacional 26.657 y contra la reforma impulsada por el Gobierno; exigen el piso presupuestario del 10% para salud mental, mejores salarios y condiciones laborales, más dispositivos comunitarios y la creación del Órgano de Revisión Provincial.",
+    "motivo": "Marcha por justicia por 'Manincho' y en defensa de los derechos de los animales bajo las consignas 'Marchamos por justicia por Manincho' y 'Por todos los que no tienen voz'; exigen mayor protección legal y frenar el maltrato animal.",
     "status": "programado",
-    "lat": -31.418,
-    "lng": -64.1888,
+    "lat": -28.5583,
+    "lng": -66.8139,
     "fuentes": [
-      "https://hoydia.com.ar/salud/la-salud-mental-esta-que-arde-cordoba-marchara-este-viernes/",
-      "https://lmdiario.com.ar/contenido/532138/una-nueva-marcha-por-la-salud-mental-vuelve-a-las-calles-para-defender-el-derech",
-      "https://atecordoba.org/?p=55702",
-      "https://ctaacordoba.org/faltan-tres-dias-para-marchar/",
-      "https://artes.unc.edu.ar/2026/10/10-de-octubre-dia-mundial-de-la-salud-mental/",
-      "https://cordobainforma.com.ar/cordoba-se-prepara-para-la-13a-marcha-por-el-derecho-a-la-salud-mental-la-salud-mental-esta-que-arde/"
+      "https://mediosrioja.com.ar/convocan-a-una-marcha-en-reclamo-de-justicia-por-manincho-y-en-defensa-de-los-derechos-de-los-animales/"
     ],
-    "createdAt": "2026-10-30T06:15:11.000Z",
-    "updatedAt": "2026-10-30T13:23:06Z"
+    "createdAt": "2026-10-31T00:45:21.000Z",
+    "updatedAt": "2026-10-31T00:49:29Z"
   },
   {
-    "id": "ar-escobar-linea60-monsa-20261030",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "08:00",
-    "fecha": "2026-10-30",
-    "lugar": "Terminal de M.O.N.S.A. en Ingeniero Maschwitz, Escobar, provincia de Buenos Aires; afecta ramales de la Línea 60 entre la zona norte del GBA y la Ciudad de Buenos Aires",
-    "tipoAccion": "Asamblea, retención de tareas y paro de colectivos",
-    "organizaciones": [
-      "Cuerpo de delegados de M.O.N.S.A.",
-      "Choferes de la Línea 60"
-    ],
-    "motivo": "Paro y asamblea permanente ante el vencimiento del acuerdo paritario y la falta de información en la negociación entre la UTA y las cámaras empresarias; reclaman un básico de $3.500.000, un nuevo acuerdo de viáticos, equiparación salarial y jubilatoria para técnicos e inspectores, y que la empresa cubra los exámenes psicofísicos y el franco previo a la renovación del registro.",
-    "status": "en_curso",
-    "lat": -34.385,
-    "lng": -58.75,
-    "fuentes": [
-      "https://www.minutouno.com/sociedad/sorpresivo-paro-colectivos-la-linea-60-que-hora-comienza-la-retencion-tareas-n6339596",
-      "https://ar.headtopics.com/news/m-o-n-s-a-convoca-protesta-ante-falta-de-acuerdo-salarial-89354504"
-    ],
-    "createdAt": "2026-10-30T06:15:11.000Z",
-    "updatedAt": "2026-10-30T13:23:06Z"
-  },
-  {
-    "id": "cy-puertos-segdamelin-peo-20261030",
+    "id": "fr-gilets-jaunes-20261031",
     "seccion": "protestas_global",
-    "pais": "Chipre",
-    "bandera": "🇨🇾",
+    "pais": "Francia",
+    "bandera": "🇫🇷",
     "hora": "",
-    "fecha": "2026-10-30",
-    "lugar": "Puertos de Chipre; paros parciales de hasta dos horas",
-    "tipoAccion": "Paro portuario parcial",
+    "fecha": "2026-10-31",
+    "lugar": "París y diversas ciudades francesas",
+    "tipoAccion": "Manifestaciones y movilizaciones",
     "organizaciones": [
-      "SEGDAMELIN-PEO"
+      "Movimento de los Chalecos Amarillos"
     ],
-    "motivo": "Paros de hasta dos horas en puertos chipriotas dentro de la jornada internacional de los trabajadores portuarios contra la guerra, la militarización de los puertos y el transporte de armas, en solidaridad con Palestina y por mejores condiciones laborales.",
-    "status": "en_curso",
-    "lat": 34.7071,
-    "lng": 33.0226,
+    "motivo": "Nuevas movilizaciones de los Chalecos Amarillos contra el costo de vida, la deriva autoritaria y en defensa de las libertades públicas, convocadas para el 31 de octubre.",
+    "status": "programado",
+    "lat": 48.8566,
+    "lng": 2.3522,
     "fuentes": [
-      "https://www.aljazeera.com/features/2026/10/30/what-can-a-global-strike-of-dockworkers-achieve-for-gaza",
-      "https://www.techtimes.com/articles/329745/20261030/no-law-can-stop-licensed-arms-shipments-global-dockworkers-strike-113-ports-friday.htm",
-      "https://www.wftucentral.org/usb-video-call-for-the-international-day-of-port-workers-struggle-on-october-30th-2026"
+      "https://www.thelocal.fr/20261024/frances-yellow-vest-movement-calls-new-protests-for-october-31st",
+      "https://www.thelocal.fr/20261028/map-the-route-for-the-paris-protest-march-on-october-31st",
+      "https://www.aljazeera.com/news/2026/10/29/france-braces-for-very-high-risk-of-disorder-at-halloween-protests"
     ],
-    "createdAt": "2026-10-30T13:17:35.000Z",
-    "updatedAt": "2026-10-30T13:23:06Z"
+    "createdAt": "2026-10-31T00:44:01.000Z",
+    "updatedAt": "2026-10-31T00:49:29Z"
   },
   {
-    "id": "gb-londres-filton25-20261030",
+    "id": "gb-londres-palestine-action-20261031",
     "seccion": "protestas_global",
     "pais": "Reino Unido",
     "bandera": "🇬🇧",
-    "hora": "13:00",
-    "fecha": "2026-10-30",
-    "lugar": "Woolwich Crown Court, 2 Belmarsh Rd, Woolwich, Londres",
-    "tipoAccion": "Concentración de apoyo y protesta",
+    "hora": "12:30",
+    "fecha": "2026-10-31",
+    "lugar": "Embajada de EE.UU. en Londres",
+    "tipoAccion": "Manifestación",
     "organizaciones": [
-      "SOAS 2 Defence Campaign",
-      "Bristol Palestine Alliance",
-      "Filton 25 Defence Campaign"
+      "Partidarios de Palestine Action"
     ],
-    "motivo": "Concentración semanal ante el Tribunal de Woolwich en apoyo de los 25 de Filton, activistas pro-Palestina procesados por la acción contra la planta de Elbit Systems en Bristol; denuncian el uso de leyes antiterroristas para criminalizar la solidaridad con Palestina y el derecho a protestar.",
-    "status": "en_curso",
-    "lat": 51.4935,
-    "lng": 0.0965,
-    "fuentes": [
-      "https://www.findaprotest.info/event/london/evt-96036a6dfca776ac",
-      "https://filtonactionists.com/trade-union-leaders-address-woolwich-court-rally-in-support-of-the-filton-25"
-    ],
-    "createdAt": "2026-10-30T13:17:35.000Z",
-    "updatedAt": "2026-10-30T13:23:06Z"
-  },
-  {
-    "id": "ar-jujuy-peregrinos-ruta66-20261030",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "09:00",
-    "fecha": "2026-10-30",
-    "lugar": "Plaza Belgrano, San Salvador de Jujuy",
-    "tipoAccion": "Marcha y concentración",
-    "organizaciones": [
-      "Familiares de Juan Eduardo Villarroel",
-      "Rodrigo y Joaquín Villarroel",
-      "Vecinos y peregrinos"
-    ],
-    "motivo": "Marcha para pedir justicia por los peregrinos atropellados el 25 de octubre en la Ruta Nacional 66 cuando se dirigían al Santuario de Río Blanco; Juan Eduardo Villarroel permanece internado en estado crítico y su familia reclama información y acompañamiento de la Justicia.",
-    "status": "en_curso",
-    "lat": -24.1858,
-    "lng": -65.2995,
-    "fuentes": [
-      "https://www.todojujuy.com/jujuy/peregrinos-atropellados-ruta-66-este-viernes-realizaran-una-marcha-pedir-justicia-n298155"
-    ],
-    "createdAt": "2026-10-30T13:18:51.000Z",
-    "updatedAt": "2026-10-30T13:23:06Z"
-  },
-  {
-    "id": "ar-jujuy-cedems-marcha-antorchas-20261030",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "20:00",
-    "fecha": "2026-10-30",
-    "lugar": "San Salvador de Jujuy; marcha de antorchas por calles céntricas",
-    "tipoAccion": "Marcha de antorchas",
-    "organizaciones": [
-      "Centro de Docentes de Enseñanza Media y Superior (CEDEMS)"
-    ],
-    "motivo": "Marcha convocada por la reapertura de paritarias, contra los descuentos salariales y por el reconocimiento de la antigüedad docente de quienes iniciaron su carrera en el sector privado; también reclaman justicia por el femicidio de la maestra Nancy Godoy.",
+    "motivo": "Protesta en apoyo a Palestine Action frente a la Embajada de EE.UU. en Londres.",
     "status": "programado",
-    "lat": -24.1858,
-    "lng": -65.2995,
+    "lat": 51.4875,
+    "lng": -0.1244,
     "fuentes": [
-      "https://www.todojujuy.com/jujuy/el-cedems-realizara-una-nueva-marcha-antorchas-este-viernes-san-salvador-jujuy-n298005",
-      "https://www.todojujuy.com/jujuy/el-cedems-pidio-reapertura-paritarias-y-convoco-una-marcha-antorchas-n298093",
-      "https://eltribunodejujuy.com/informacion-general/2026-10-28-0-32-0-el-cedems-convoca-a-una-movilizacion-con-antorchas"
+      "https://uk.usembassy.gov/demonstration-alert-planned-demonstrations-in-london-october-31-2026/"
     ],
-    "createdAt": "2026-10-30T13:18:51.000Z",
-    "updatedAt": "2026-10-30T13:23:06Z"
+    "createdAt": "2026-10-31T00:44:01.000Z",
+    "updatedAt": "2026-10-31T00:49:29Z"
   }
 ]
