@@ -48,7 +48,7 @@ interface Accion {
   updatedAt: string;
 }
 
-type PortalTab = "nacional" | "internacionales" | "archivo";
+type PortalTab = "nacional" | "internacionales";
 
 const TIPO_ICONOS: Record<string, string> = {
   movilizacion: "✊",
@@ -137,6 +137,7 @@ export default function App() {
   const [acciones, setAcciones] = useState<Accion[]>([]);
   const [selectedAccion, setSelectedAccion] = useState<Accion | null>(null);
   const [portalDetailOpen, setPortalDetailOpen] = useState(false);
+  const [showHistorial, setShowHistorial] = useState(false);
 
   const DATA_URL =
     import.meta.env.BASE_URL + "data/acciones.json";
@@ -165,10 +166,28 @@ export default function App() {
     return () => clearInterval(id);
   }, [fetchAcciones]);
 
+  const todayISO = new Date().toISOString().slice(0, 10);
+
   const filtered = useMemo(() => {
+    if (showHistorial) {
+      const list = acciones
+        .filter((a) => {
+          const f = a.fecha || a.updatedAt || a.createdAt || "";
+          const d = f.slice(0, 10);
+          return d < todayISO;
+        })
+        .map((a) => ({ ...a, hora: normalizeHora(a.hora) }));
+      return list.sort((a, b) => {
+        const da = new Date(a.fecha || a.updatedAt || a.createdAt).getTime();
+        const db = new Date(b.fecha || b.updatedAt || b.createdAt).getTime();
+        if (db !== da) return db - da;
+        if (a.hora === "—" && b.hora !== "—") return 1;
+        if (b.hora === "—" && a.hora !== "—") return -1;
+        return a.hora.localeCompare(b.hora);
+      });
+    }
     const list = acciones
       .filter((a) => {
-        if (portalTab === "archivo") return true;
         if (portalTab === "internacionales") {
           return isInternacionalSeccion(a.seccion);
         }
@@ -179,19 +198,15 @@ export default function App() {
       })
       .map((a) => ({ ...a, hora: normalizeHora(a.hora) }));
     return list.sort((a, b) => {
-      if (portalTab === "archivo") {
-        const da = new Date(a.fecha || a.updatedAt || a.createdAt).getTime();
-        const db = new Date(b.fecha || b.updatedAt || b.createdAt).getTime();
-        if (db !== da) return db - da;
-      }
       if (a.hora === "—" && b.hora !== "—") return 1;
       if (b.hora === "—" && a.hora !== "—") return -1;
       return a.hora.localeCompare(b.hora);
     });
-  }, [acciones, portalTab]);
+  }, [acciones, portalTab, showHistorial, todayISO]);
 
-  const showHistorial = () => {
-    setPortalTab("archivo");
+  const toggleHistorial = () => {
+    setShowHistorial((prev) => !prev);
+    if (!showHistorial) setPortalTab("nacional");
   };
 
   const openPortalDetail = useCallback((a: Accion) => {
@@ -337,14 +352,19 @@ export default function App() {
           ).map((tab) => (
             <button
               key={tab.id}
-              onClick={() => setPortalTab(tab.id)}
+              onClick={() => {
+                setPortalTab(tab.id);
+                setShowHistorial(false);
+              }}
               style={{
                 flex: 1,
                 padding: "10px 8px",
                 border: "none",
                 cursor: "pointer",
-                background: portalTab === tab.id ? "#cc0000" : "transparent",
-                color: portalTab === tab.id ? "#fff" : "#999",
+                background:
+                  portalTab === tab.id && !showHistorial ? "#cc0000" : "transparent",
+                color:
+                  portalTab === tab.id && !showHistorial ? "#fff" : "#999",
                 fontSize: 11,
                 fontWeight: 700,
                 letterSpacing: ".12em",
@@ -355,16 +375,27 @@ export default function App() {
               {tab.label}
             </button>
           ))}
+        </div>
 
+        {/* Botón independiente de Historial */}
+        <div
+          style={{
+            padding: "8px 14px",
+            borderBottom: "1px solid #e5e5e5",
+            flexShrink: 0,
+            display: "flex",
+            justifyContent: "flex-end",
+          }}
+        >
           <button
-            onClick={showHistorial}
+            onClick={toggleHistorial}
             style={{
-              flex: 1,
-              padding: "10px 8px",
-              border: "none",
+              padding: "6px 16px",
+              border: "1px solid #cc0000",
+              borderRadius: 4,
               cursor: "pointer",
-              background: portalTab === "archivo" ? "#cc0000" : "transparent",
-              color: portalTab === "archivo" ? "#fff" : "#999",
+              background: showHistorial ? "#cc0000" : "transparent",
+              color: showHistorial ? "#fff" : "#cc0000",
               fontSize: 11,
               fontWeight: 700,
               letterSpacing: ".12em",
@@ -372,7 +403,7 @@ export default function App() {
               fontFamily: SERIF,
             }}
           >
-            📁 HISTORIAL
+            {showHistorial ? "◀ VOLVER" : "📁 HISTORIAL"}
           </button>
         </div>
 

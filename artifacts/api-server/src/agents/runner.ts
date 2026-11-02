@@ -260,6 +260,30 @@ export async function runAgent(
       logger.warn({ agent: agent.id }, "Agent timed out after 90s");
     }, 90_000);
 
+    // Timeout de seguridad global: el agente nunca debe bloquearse más de 2 minutos
+    const safetyTimer = setTimeout(() => {
+      clearTimeout(killTimer);
+      try { proc.kill("SIGKILL"); } catch {}
+      pushActivity({
+        agentId: agent.id,
+        agentLabel: agent.label,
+        time: new Date().toLocaleTimeString("es-AR"),
+        msg: "TimeOut de seguridad — agente bloqueado",
+        type: "error",
+      });
+      logger.warn({ agent: agent.id }, "Agent safety timeout after 2min");
+      resolve({ ok: false, count: 0, error: "safety timeout" });
+    }, 120_000);
+
+    let resolved = false;
+    const safeResolve = (result: { ok: boolean; count: number; error?: string }) => {
+      if (resolved) return;
+      resolved = true;
+      clearTimeout(killTimer);
+      clearTimeout(safetyTimer);
+      resolve(result);
+    };
+
     let botText = "";
     let stderrBuf = "";
 
@@ -315,6 +339,7 @@ export async function runAgent(
     });
 
     proc.on("close", async (code) => {
+      if (resolved) return;
       clearTimeout(killTimer);
 
       const t = new Date().toLocaleTimeString("es-AR");
@@ -391,7 +416,7 @@ export async function runAgent(
           { agent: agent.id, count: normalized.length },
           "Agent completed",
         );
-        resolve({ ok: true, count: normalized.length });
+        safeResolve({ ok: true, count: normalized.length });
       } catch (err) {
         const msg = err instanceof Error ? err.message : String(err);
         pushActivity({
@@ -402,16 +427,19 @@ export async function runAgent(
           type: "error",
         });
         logger.error({ agent: agent.id, error: msg }, "Agent DB error");
-        resolve({ ok: false, count: 0, error: msg });
+        safeResolve({ ok: false, count: 0, error: msg });
       }
     });
 
     proc.on("error", (err) => {
+      if (resolved) return;
       clearTimeout(killTimer);
+      clearTimeout(safetyTimer);
       logger.warn(
         { agent: agent.id, error: err.message },
-        "Agent spawn failed — close handler will use fallback",
+        "Agent spawn failed — using fallback",
       );
+      safeResolve({ ok: false, count: 0, error: err.message });
     });
   });
 }
