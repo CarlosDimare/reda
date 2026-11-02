@@ -133,7 +133,7 @@ const STYLES = `
 
 export default function App() {
   const clock = useClock();
-  const [portalTab, setPortalTab] = useState<PortalTab>("internacionales");
+  const [portalTab, setPortalTab] = useState<PortalTab>("protestas_ar");
   const [acciones, setAcciones] = useState<Accion[]>([]);
   const [selectedAccion, setSelectedAccion] = useState<Accion | null>(null);
   const [portalDetailOpen, setPortalDetailOpen] = useState(false);
@@ -328,8 +328,8 @@ export default function App() {
         >
           {(
             [
-              { id: "internacionales", label: "🌍 INTERNACIONAL" },
               { id: "protestas_ar", label: "🇦🇷 NACIONAL" },
+              { id: "internacionales", label: "🌍 INTERNACIONAL" },
               { id: "archivo", label: "📁 ARCHIVO" },
             ] as { id: PortalTab; label: string }[]
           ).map((tab) => (
