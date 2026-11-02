@@ -139,24 +139,28 @@ export default function App() {
   const [portalDetailOpen, setPortalDetailOpen] = useState(false);
 
   const DATA_URL =
-    import.meta.env.BASE_URL + "data/acciones.json";
+    `${import.meta.env.BASE_URL}data/acciones.json`;
 
   const fetchAcciones = useCallback(async () => {
-    try {
-      const r = await fetch(`${DATA_URL}?t=${Date.now()}`);
-      if (r.ok) {
-        const data = (await r.json()) as Accion[];
-        setAcciones(Array.isArray(data) ? data : []);
-      } else {
-        try {
-          const r2 = await fetch(`${import.meta.env.BASE_URL}data/acciones.json`);
-          if (r2.ok) {
-            const data = (await r2.json()) as Accion[];
-            setAcciones(Array.isArray(data) ? data : []);
+    const base = import.meta.env.BASE_URL || "/";
+    const urls = [
+      `${base}data/acciones.json?t=${Date.now()}`,
+      `data/acciones.json?t=${Date.now()}`,
+      `./data/acciones.json?t=${Date.now()}`,
+      `${DATA_URL}?t=${Date.now()}`,
+    ];
+    for (const url of urls) {
+      try {
+        const r = await fetch(url);
+        if (r.ok) {
+          const data = (await r.json()) as Accion[];
+          if (Array.isArray(data)) {
+            setAcciones(data);
+            return;
           }
-        } catch {}
-      }
-    } catch {}
+        }
+      } catch {}
+    }
   }, []);
 
   useEffect(() => {

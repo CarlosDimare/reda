@@ -9,12 +9,15 @@ echo " Fecha: $(date '+%Y-%m-%d %H:%M:%S')"
 echo "══════════════════════════════════════════"
 
 # Ensure data directory exists
-mkdir -p data
+mkdir -p data archive
 
 # If no data file exists, create empty one
 if [ ! -f data/acciones.json ]; then
   echo "[]" > data/acciones.json
 fi
+
+# Backup antes de todo
+cp data/acciones.json "archive/acciones-full-$(date +%Y%m%d-%H%M%S).json"
 
 echo ""
 echo "▶ Ejecutando agente INTERNACIONALES..."
