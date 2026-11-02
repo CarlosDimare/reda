@@ -48,7 +48,7 @@ interface Accion {
   updatedAt: string;
 }
 
-type PortalTab = "internacionales" | "protestas_ar" | "archivo";
+type PortalTab = "nacional" | "internacionales" | "archivo";
 
 const TIPO_ICONOS: Record<string, string> = {
   movilizacion: "✊",
@@ -133,7 +133,7 @@ const STYLES = `
 
 export default function App() {
   const clock = useClock();
-  const [portalTab, setPortalTab] = useState<PortalTab>("protestas_ar");
+  const [portalTab, setPortalTab] = useState<PortalTab>("nacional");
   const [acciones, setAcciones] = useState<Accion[]>([]);
   const [selectedAccion, setSelectedAccion] = useState<Accion | null>(null);
   const [portalDetailOpen, setPortalDetailOpen] = useState(false);
@@ -172,7 +172,10 @@ export default function App() {
         if (portalTab === "internacionales") {
           return isInternacionalSeccion(a.seccion);
         }
-        return String(a.seccion).toLowerCase() === "protestas_ar" || String(a.seccion).toLowerCase() === "nacional";
+        return (
+          String(a.seccion).toLowerCase() === "protestas_ar" ||
+          String(a.seccion).toLowerCase() === "nacional"
+        );
       })
       .map((a) => ({ ...a, hora: normalizeHora(a.hora) }));
     return list.sort((a, b) => {
@@ -186,6 +189,10 @@ export default function App() {
       return a.hora.localeCompare(b.hora);
     });
   }, [acciones, portalTab]);
+
+  const showHistorial = () => {
+    setPortalTab("archivo");
+  };
 
   const openPortalDetail = useCallback((a: Accion) => {
     setSelectedAccion(a);
@@ -324,9 +331,8 @@ export default function App() {
         >
           {(
             [
-              { id: "protestas_ar", label: "🇦🇷 NACIONAL" },
+              { id: "nacional", label: "🇦🇷 NACIONAL" },
               { id: "internacionales", label: "🌍 INTERNACIONAL" },
-              { id: "archivo", label: "📁 ARCHIVO" },
             ] as { id: PortalTab; label: string }[]
           ).map((tab) => (
             <button
@@ -349,6 +355,25 @@ export default function App() {
               {tab.label}
             </button>
           ))}
+
+          <button
+            onClick={showHistorial}
+            style={{
+              flex: 1,
+              padding: "10px 8px",
+              border: "none",
+              cursor: "pointer",
+              background: portalTab === "archivo" ? "#cc0000" : "transparent",
+              color: portalTab === "archivo" ? "#fff" : "#999",
+              fontSize: 11,
+              fontWeight: 700,
+              letterSpacing: ".12em",
+              textTransform: "uppercase",
+              fontFamily: SERIF,
+            }}
+          >
+            📁 HISTORIAL
+          </button>
         </div>
 
         {/* Legend */}
