@@ -429,54 +429,25 @@ export default function App() {
           </span>
         </div>
 
-        {/* Header row */}
+        {/* Cards container */}
         <div
-          className="table-header"
           style={{
-            display: "flex",
-            padding: "10px 14px",
-            borderBottom: "2px solid #cc0000",
-            flexShrink: 0,
-            fontSize: 10,
-            fontWeight: 700,
-            color: "#cc0000",
-            letterSpacing: ".1em",
-            textTransform: "uppercase",
-            background: "#fafafa",
-            fontFamily: SANS,
+            flex: 1,
+            overflowY: "auto",
+            display: "grid",
+            gridTemplateColumns: "repeat(auto-fill, minmax(320px, 1fr))",
+            gap: 12,
+            padding: 16,
           }}
         >
-          <span style={{ width: 64, flexShrink: 0 }}>HORA</span>
-          <span style={{ minWidth: 140, flex: 2 }}>LUGAR</span>
-        <span
-          className="col-tipo"
-          style={{ width: 150, flexShrink: 0 }}
-        >
-          TIPO
-        </span>
-          <span
-            className="col-org"
-            style={{ minWidth: 180, flex: 2 }}
-          >
-            ORGANIZACIONES
-          </span>
-          <span
-            className="col-status"
-            style={{ width: 90, flexShrink: 0, textAlign: "right" }}
-          >
-            STATUS
-          </span>
-        </div>
-
-        {/* Rows */}
-        <div style={{ flex: 1, overflowY: "auto" }}>
           {filtered.length === 0 && (
             <div
               style={{
+                gridColumn: "1 / -1",
                 textAlign: "center",
-                padding: 40,
+                padding: 60,
                 color: "#999",
-                fontSize: 10,
+                fontSize: 12,
                 letterSpacing: ".12em",
                 textTransform: "uppercase",
               }}
@@ -495,135 +466,114 @@ export default function App() {
               <div
                 key={String(a.id)}
                 onClick={() => openPortalDetail(a)}
-                className="row-card"
                 style={{
-                  display: "flex",
-                  padding: "10px 14px",
-                  borderBottom: "1px solid #eee",
-                  cursor: "pointer",
-                  fontSize: 13,
-                  color: "#222",
-                  alignItems: "center",
-                  gap: 8,
                   background: "#fff",
-                  transition: "background .1s",
+                  border: "1px solid #eee",
+                  borderLeft: `4px solid ${statusColor}`,
+                  borderRadius: 8,
+                  padding: 14,
+                  cursor: "pointer",
+                  transition: "all .2s",
+                  display: "flex",
+                  flexDirection: "column",
+                  gap: 10,
                 }}
-                onMouseEnter={(e) =>
-                  (e.currentTarget.style.background = "#fff5f5")
-                }
-                onMouseLeave={(e) =>
-                  (e.currentTarget.style.background = "#fff")
-                }
+                onMouseEnter={(e) => {
+                  e.currentTarget.style.transform = "translateY(-2px)";
+                  e.currentTarget.style.boxShadow = "0 4px 12px rgba(0,0,0,.08)";
+                  e.currentTarget.style.borderColor = "#ddd";
+                }}
+                onMouseLeave={(e) => {
+                  e.currentTarget.style.transform = "translateY(0)";
+                  e.currentTarget.style.boxShadow = "none";
+                  e.currentTarget.style.borderColor = "#eee";
+                }}
               >
-                <span
-                  className="col-hora"
+                <div
                   style={{
-                    width: 64,
-                    flexShrink: 0,
-                    color: statusColor,
-                    fontWeight: 700,
+                    display: "flex",
+                    alignItems: "center",
+                    gap: 8,
+                    flexWrap: "wrap",
+                  }}
+                >
+                  <span className="flag" style={{ fontSize: 18 }}>
+                    {a.bandera}
+                  </span>
+                  <span
+                    style={{
+                      fontWeight: 700,
+                      fontSize: 15,
+                      color: "#111",
+                      fontFamily: SANS,
+                    }}
+                  >
+                    {a.pais}
+                  </span>
+                  <span
+                    style={{
+                      marginLeft: "auto",
+                      fontSize: 11,
+                      fontWeight: 700,
+                      color: statusColor,
+                      fontFamily: SANS,
+                      textTransform: "uppercase",
+                      letterSpacing: ".05em",
+                    }}
+                  >
+                    {statusLabel}
+                  </span>
+                </div>
+                <div
+                  style={{
                     fontSize: 16,
-                    fontFamily: SANS,
-                    fontVariantNumeric: "tabular-nums",
-                  }}
-                >
-                  {a.hora}
-                </span>
-                <span
-                  className="col-lugar"
-                  style={{
-                    minWidth: 140,
-                    flex: 2,
-                    color: "#333",
-                    lineHeight: 1.4,
-                    fontFamily: SANS,
-                    fontSize: 14,
-                    overflow: "hidden",
-                    textOverflow: "ellipsis",
-                  }}
-                  title={`${a.bandera} ${a.lugar}`}
-                >
-                  <span className="flag" style={{ fontSize: 16, marginRight: 4 }}>{a.bandera}</span>{" "}
-                  <strong style={{ color: "#111" }}>{a.pais}</strong>{" — "}
-                  {a.lugar}
-                </span>
-        <span
-          className="col-tipo"
-          style={{
-            width: 150,
-            flexShrink: 0,
-            overflow: "visible",
-            whiteSpace: "nowrap",
-          }}
-        >
-          <span
-            style={{
-              background: "#cc0000",
-              color: "#fff",
-              fontWeight: 700,
-              padding: "3px 8px",
-              fontSize: 11,
-              letterSpacing: ".04em",
-              textTransform: "uppercase",
-              whiteSpace: "nowrap",
-              display: "inline-block",
-            }}
-          >
-            {tipoIcon} {tipoLabel}
-          </span>
-        </span>
-                <span
-                  className="col-org"
-                  style={{
-                    minWidth: 180,
-                    flex: 2,
-                    color: "#555",
-                    lineHeight: 1.4,
-                    fontSize: 13,
-                    fontFamily: SANS,
-                    overflow: "hidden",
-                    textOverflow: "ellipsis",
-                    display: "-webkit-box",
-                    WebkitLineClamp: 2,
-                    WebkitBoxOrient: "vertical",
-                  }}
-                  title={a.organizaciones.join(", ")}
-                >
-                  {a.organizaciones.join(", ") || "—"}
-                </span>
-                <span
-                  className="col-status"
-                  style={{
-                    width: 90,
-                    flexShrink: 0,
-                    textAlign: "right",
-                    color: statusColor,
                     fontWeight: 700,
-                    fontSize: 10,
-                    letterSpacing: ".08em",
+                    color: "#111",
+                    fontFamily: SANS,
+                    lineHeight: 1.3,
                   }}
                 >
-                  {statusLabel}
-                </span>
-                <span
-                  className="col-tipo-mobile"
-                  style={{ display: "none" }}
-                >
+                  {a.lugar}
+                </div>
+                <div style={{ display: "flex", gap: 8, flexWrap: "wrap" }}>
                   <span
                     style={{
                       background: "#cc0000",
                       color: "#fff",
                       fontWeight: 700,
-                      padding: "3px 8px",
+                      padding: "4px 10px",
                       fontSize: 11,
-                      letterSpacing: ".04em",
+                      borderRadius: 4,
                       textTransform: "uppercase",
-                      whiteSpace: "nowrap",
+                      letterSpacing: ".04em",
                     }}
                   >
                     {tipoIcon} {tipoLabel}
                   </span>
-                </span>
+                  <span
+                    style={{
+                      background: "#f3f3f3",
+                      color: "#666",
+                      fontSize: 11,
+                      padding: "4px 10px",
+                      borderRadius: 4,
+                      fontFamily: SANS,
+                    }}
+                  >
+                    {a.hora !== "—" ? a.hora : "Sin hora"}
+                  </span>
+                </div>
+                <div
+                  style={{
+                    fontSize: 13,
+                    color: "#555",
+                    lineHeight: 1.5,
+                    fontFamily: SANS,
+                    marginTop: 6,
+                  }}
+                >
+                  {a.organizaciones.join(", ") || "—"}
+                </div>
               </div>
             );
           })}
