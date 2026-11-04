@@ -468,8 +468,17 @@ export default function App() {
           </span>
         </div>
 
-        {/* Rows */}
-        <div style={{ flex: 1, overflowY: "auto" }}>
+        {/* Cards container - una columna, ordenadas por hora */}
+        <div
+          style={{
+            flex: 1,
+            overflowY: "auto",
+            display: "flex",
+            flexDirection: "column",
+            gap: 10,
+            padding: 14,
+          }}
+        >
           {filtered.length === 0 && (
             <div
               style={{
