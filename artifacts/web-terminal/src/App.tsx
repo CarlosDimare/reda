@@ -188,6 +188,11 @@ export default function App() {
     }
     const list = acciones
       .filter((a) => {
+        // Only show today's protests in main views
+        const f = a.fecha || a.updatedAt || a.createdAt || "";
+        const d = f.slice(0, 10);
+        if (d !== todayISO) return false;
+
         if (portalTab === "internacionales") {
           return isInternacionalSeccion(a.seccion);
         }
