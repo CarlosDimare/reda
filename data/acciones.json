@@ -1,75 +1,29 @@
 [
   {
-    "id": "de-2026-11-10-warnstreiks-ig-metall",
-    "seccion": "internacionales",
-    "pais": "Alemania",
-    "bandera": "🇩🇪",
-    "hora": "",
-    "fecha": "2026-11-10",
-    "lugar": "Empresas de la metalurgia y la electrotecnia de todo el país, con focos en Baden-Württemberg, Renania del Norte-Westfalia y el distrito Mitte de IG Metall (Hesse, Renania-Palatinado y Sarre), Alemania",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "IG Metall"
-    ],
-    "motivo": "Los warnstreiks (huelgas de advertencia) de IG Metall en la metalurgia y la electrotecnia siguen este martes 10 de noviembre, con focos en Baden-Württemberg, Renania del Norte-Westfalia y el distrito Mitte (Hesse, Renania-Palatinado y Sarre), después de que la tercera ronda de negociaciones conjunta de esos distritos con los patronales terminara el lunes en Düsseldorf sin acuerdo, con amenaza de escalar a huelgas de advertencia de 24 horas. Desde que terminó la Friedenspflicht el 1 de noviembre, más de 400.000 trabajadores de la industria metalúrgica y eléctrica han participado en unas 3.800 acciones: el lunes por la mañana pararon dos horas, desde las 8:30, los trabajadores de Mercedes-Benz y del proveedor automotriz Gestamp, y en la primera semana de la ola hubo unos 120.000 huelguistas en Baden-Württemberg y 75.000 en Baviera. IG Metall exige un 5% más de salario durante doce meses y garantías para los puestos y los sitios industriales; los empresarios ofrecen solo un 1,3% recién a partir de julio de 2028, tras veinte meses de espera.",
-    "status": "en_curso",
-    "lat": 51.1657,
-    "lng": 10.4515,
-    "fuentes": [
-      "https://www.maschinenmarkt.vogel.de/warnstreiks-mercedes-benz-gestamp-ig-metall-a-40048c18b91947ac5c0d1efda3adf211/",
-      "https://www.stuttgarter-zeitung.de/wirtschaft/tarifrunde-der-ig-metall-24-stunden-warnstreiks-statt-annaeherung-droht-die-eskalation-79682912.html",
-      "https://www.igmetall.de/tarif/tarifrunden/metall-und-elektro",
-      "https://www.zeit.de/arbeit/2026-11/warnstreiks-ig-metall-tarifrunde-metall-elektroindustrie"
-    ],
-    "createdAt": "2026-11-10T01:57:49.000Z",
-    "updatedAt": "2026-11-10T17:24:09Z"
-  },
-  {
     "id": "cl-2026-11-10-paro-nacional-camioneros",
     "seccion": "internacionales",
     "pais": "Chile",
     "bandera": "🇨🇱",
     "hora": "",
-    "fecha": "2026-11-10",
-    "lugar": "Ruta 5 y rutas del centro-sur de Chile, con bloqueos anunciados en Lautaro, Victoria, Mulchén, Los Ángeles, Cabrero, Talca, Curicó y San Fernando, Chile",
+    "fecha": "2026-11-11",
+    "lugar": "Ruta 5 y rutas del centro-sur de Chile, con bloqueos en marcha y nuevas adhesiones, entre ellas los buses interurbanos del Terminal Sur de San Bernardo, Chile",
     "tipoAccion": "paro",
     "organizaciones": [
       "Confederación Fuerza del Norte (CTFN)"
     ],
-    "motivo": "Paro nacional de camioneros convocado por la Confederación Fuerza del Norte (CTFN) desde las 00:00 de este martes 10 de noviembre, que se mantiene pese a los anuncios del gobierno, que ofreció el jueves limitar el alza del diésel a 40 pesos por litro. Los convocantes anunciaron bloqueos y protestas en la Ruta 5, en localidades como Lautaro, Victoria, Mulchén, Los Ángeles, Cabrero, Talca, Curicó y San Fernando. Sus demandas son congelar el alza del diésel, cambios al mecanismo Mepco de estabilización de precios, la eliminación del impuesto específico a los combustibles y la revisión de peajes y cobros TAG; la CNTC y la CNDC, principales organizaciones del sector, se desmarcaron de la medida de fuerza.",
+    "motivo": "El paro nacional de transportistas convocado por la Confederación Fuerza del Norte (CTFN) entra este miércoles 11 de noviembre en su segundo día, después de que la reunión del martes con el gobierno de José Antonio Kast fracasara sin acuerdos y en medio de un diálogo tenso. Al paro de camioneros se suman nuevos sectores: grúas, transportistas especializados, motociclistas y buses interurbanos —27 máquinas de 14 empresas del Terminal Sur de San Bernardo—, además de la campaña No+TAG, lo que amenaza con nuevos bloqueos en la Ruta 5 y las rutas del centro-sur (Lautaro, Victoria, Mulchén, Los Ángeles, Cabrero, Talca, Curicó y San Fernando). Mantienen las demandas de congelar el alza del diésel, cambiar el mecanismo Mepco de estabilización de precios, eliminar el impuesto específico a los combustibles y revisar peajes y cobros TAG; el gobierno amenazó con despejar las rutas y las principales organizaciones del sector (CNTC y CNDC) se desmarcaron de la medida de fuerza.",
     "status": "en_curso",
     "lat": -33.4489,
     "lng": -70.6693,
     "fuentes": [
-      "https://www.prensa-latina.cu/2026/11/09/pese-a-anuncios-del-gobierno-camioneros-chilenos-mantienen-protesta/"
+      "https://www.prensa-latina.cu/2026/11/09/pese-a-anuncios-del-gobierno-camioneros-chilenos-mantienen-protesta/",
+      "https://www.elclarin.cl/2026/11/11/fracasa-negociacion-con-el-gobierno-y-el-paro-de-transportistas-continua-anuncian-nuevas-adhesiones-y-posibles-bloqueos/",
+      "https://www.adnradio.cl/2026/11/10/camioneros-se-toman-las-carreteras-en-chile-y-comienzan-paro-nacional-por-alza-en-los-combustibles",
+      "https://www.elmostrador.cl/noticias/pais/2026/11/10/buses-se-suman-al-paro-de-camioneros-y-gobierno-amenaza-con-despejar-rutas-tras-tenso-dialogo",
+      "https://www.portalfruticola.com/noticias/2026/11/10/paro-bloque-chile"
     ],
     "createdAt": "2026-11-10T01:57:49.000Z",
-    "updatedAt": "2026-11-10T17:24:09Z"
-  },
-  {
-    "id": "es-2026-11-10-huelga-maquinistas-renfe",
-    "seccion": "internacionales",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "",
-    "fecha": "2026-11-10",
-    "lugar": "Toda la red de Renfe (Cercanías, Media y Larga Distancia y AVE), España",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "SEMAF (Sindicato Español de Maquinistas Ferroviarios)"
-    ],
-    "motivo": "Primer día de las jornadas de huelga de los maquinistas de Renfe convocadas por el SEMAF: paros de 24 horas desde las 00:01 de este martes 10 y del jueves 12 de noviembre, más una huelga sectorial del 17 con los trabajadores de Adif, tras agotarse el plazo para cerrar un pacto de seguridad ferroviaria después del accidente de Urda. El sindicato exige un compromiso firme en materia de seguridad de la circulación y acusa a la compañía y al gestor de infraestructuras de no responder a sus planteamientos tras el siniestro; hay servicios mínimos del 75% en Cercanías y del 72% en AVE y larga distancia. El paro provocó este martes la supresión de cerca del 90% de los trenes de Cercanías Madrid y afectaciones en Rodalies Barcelona, AVE y larga distancia.",
-    "status": "en_curso",
-    "lat": 40.4168,
-    "lng": -3.7038,
-    "fuentes": [
-      "https://www.20minutos.es/nacional/cuerpo-los-maquinistas-agotan-plazo-para-un-pacto-seguridad-ferroviaria-ante-las-huelgas-renfe-10-12-17-noviembre_7058713_0.amp.html",
-      "https://www.rtve.es/noticias/20261109/poker-huelgas-11n-maquinistas-personal-de-adif-industria-carnica/17306281.shtml",
-      "https://noticiasciudadanas.com/la-huelga-de-maquinistas-de-semaf/",
-      "https://ground.news/article/spain-train-walkout-sparks-chaos-ahead-of-general-strike"
-    ],
-    "createdAt": "2026-11-10T01:57:49.000Z",
-    "updatedAt": "2026-11-10T17:24:09Z"
+    "updatedAt": "2026-11-11T10:01:22Z"
   },
   {
     "id": "us-2026-11-10-huelga-trabajadores-academicos-harvard",
@@ -77,33 +31,34 @@
     "pais": "Estados Unidos",
     "bandera": "🇺🇸",
     "hora": "",
-    "fecha": "2026-11-10",
+    "fecha": "2026-11-11",
     "lugar": "Harvard University, campus de Cambridge, Longwood y Allston, Cambridge, Massachusetts, Estados Unidos",
     "tipoAccion": "huelga",
     "organizaciones": [
       "HGSU-UAW Local 5118 (Harvard Graduate Students Union)",
       "HAW-UAW (Harvard Academic Workers)"
     ],
-    "motivo": "Tercera semana de la huelga de los más de 4.000 estudiantes de posgrado de Harvard representados por el Harvard Graduate Students Union-UAW (Local 5118), iniciada el 27 de octubre y sin convenio desde junio de 2025, tras una primera huelga de 40 días en primavera que se levantó sin contrato. Exigen aumentos salariales con garantías, un arbitraje de terceros para los casos de discriminación y acoso y protecciones para los trabajadores no ciudadanos, en medio de los ataques del gobierno de Trump a la universidad; la institución solo ha vuelto a la mesa el 5 de noviembre y agendó nuevas sesiones para el 20 de noviembre y el 3 y el 17 de diciembre, lo que se interpreta como una estrategia de desgaste. Este 10 de noviembre se suma a la huelga el Harvard Academic Workers-UAW, de docentes e investigadores no titulares que votaron el 94% a favor del paro: con ambos sindicatos se calculan unos 6.500 huelguistas en los campus de Cambridge, Longwood y Allston. En el vecino MIT, el Graduate Student Union (UE Local 256) fijó su huelga para el 12 de noviembre.",
+    "motivo": "La huelga de los trabajadores académicos de Harvard entra este miércoles 11 de noviembre en su decimosexto día: los más de 4.000 estudiantes de posgrado del HGSU-UAW (Local 5118), en paro desde el 27 de octubre sin convenio desde junio de 2025, se sumaron este martes el Harvard Academic Workers-UAW, que agrupa a unos 2.600 docentes e investigadores no titulares —preceptores, lecturers, asistentes y postdocs— tras votar el 94% a favor del paro, con lo que se calculan unos 6.500 huelguistas en los campus de Cambridge, Longwood y Allston, donde este miércoles continúan los piquetes conjuntos. Exigen aumentos salariales con garantías, un arbitraje de terceros para los casos de discriminación y acoso y protecciones para los trabajadores no ciudadanos, y presentaron cargos por prácticas laborales desleales; la universidad, cuya dotación creció 11.000 millones de dólares en el ejercicio 2026, solo ofrece una subida del 3,5% más un bono del 1% y agendó nuevas sesiones de negociación. En el vecino MIT, el Graduate Student Union (UE Local 256) fijó su huelga para el 12 de noviembre.",
     "status": "en_curso",
     "lat": 42.377,
     "lng": -71.119,
     "fuentes": [
-      "https://www.wsws.org/en/articles/2026/11/09/cinb-n09.html",
-      "https://freebeacon.com/campus/harvard-strike-escalates-with-library-protest-as-socialists-foreigners-force-classes-to-halt/",
-      "https://www.latimes.com/entertainment-arts/tv/story/2026-11-09/stephen-colbert-yo-yo-ma-harvard-fire-alarm-graduate-student-union-strike"
+      "https://www.wsws.org/en/articles/2026/11/11/juco-n11.html",
+      "https://region9a.uaw.org/news/hawstrike",
+      "https://www.thecrimson.com/article/2026/11/10/harvard-academic-workers-strike",
+      "https://academicunionization.harvard.edu/news/2026/11/update-haw-uaw-negotiations-november-10-2026"
     ],
     "createdAt": "2026-11-10T01:57:49.000Z",
-    "updatedAt": "2026-11-10T17:24:09Z"
+    "updatedAt": "2026-11-11T10:01:22Z"
   },
   {
     "id": "fr-2026-11-10-greve-educacion-manifestacion-estudiantes-paris",
     "seccion": "internacionales",
     "pais": "Francia",
     "bandera": "🇫🇷",
-    "hora": "14:00",
-    "fecha": "2026-11-10",
-    "lugar": "Escuelas, collèges, liceos y universidades de toda Francia, con marcha estudiantil autorizada desde la place du Panthéon hacia el Barrio Latino en París (también actos en Dijón y Bourg-en-Bresse), Francia",
+    "hora": "",
+    "fecha": "2026-11-11",
+    "lugar": "Liceos y universidades de toda Francia, con bloqueos activos este miércoles en Estrasburgo, Toulouse y Ruán, Francia",
     "tipoAccion": "movilizacion",
     "organizaciones": [
       "FSU / Snes-FSU",
@@ -119,18 +74,18 @@
       "FAGE",
       "Union syndicale lycéenne (USL)"
     ],
-    "motivo": "Nueva jornada de grève y manifestaciones en la educación convocada para este martes 10 de noviembre por una intersindical de quince organizaciones, mediante un comunicado difundido el sábado 7, cinco días después de la movilización interprofesional del 5 de noviembre (el Snes-FSU cifró en un 52% los huelguistas de secundaria ese día) y como respuesta a la conferencia social de Matignon del lunes 9, que excluyó a los sindicatos de la función pública, citados aparte para el viernes 13. Con preavis de huelga que cubren las próximas semanas, el paro alcanza a escuelas maternales y elementales, collèges, liceos y universidades. En París la policía prohibió el recorrido anunciado desde la Bastille y autorizó una marcha que se concentra a las 12:30 en la place du Panthéon y avanza a las 14:00 por el Barrio Latino; en Dijón concentración ante el rectorado a las 14:00 y en Bourg-en-Bresse huelga y concentración a las 11:30 a convocatoria de la FSU de Ain. Reclamos: desbloqueo del punto de índice de la función pública y medidas categoriales sin contrapartidas, financiación de 150.000 plazas en la enseñanza superior, eliminación de los obstáculos de Parcoursup y Mon Master, 15.000 puestos titulares en la educación superior y la investigación, un cuerpo de funcionarios de categoría B para los AESH, grilla salarial nacional para los asistentes de educación, creación de puestos de docentes, CPE, psicólogos, enfermeros y asistentes sociales, plan de renovación de escuelas y universidades y anulación de las supresiones de empleos del presupuesto 2027.",
+    "motivo": "El movimiento de huelga y movilizaciones en la educación francesa continúa este miércoles 11 de noviembre, día siguiente a la jornada nacional del martes 10: el ministerio contabiliza menos de 50 liceos bloqueados en todo el país, con drones policiales desplegados casi a diario en Estrasburgo, donde los estudiantes mantienen los bloqueos; en Toulouse los liceos amanecen bloqueados y la prefectura dictó un decreto que prohíbe las concentraciones no declaradas durante la jornada del 11 de noviembre; y en la Universidad de Ruán los estudiantes votaron la continuación de los bloqueos, con los cursos suspendidos. La intersindical de quince organizaciones mantiene los preavis de huelga para las próximas semanas y ha convocado una nueva jornada nacional de huelga en la educación para el martes 17 de noviembre, después de la conferencia social de Matignon que excluyó a los sindicatos de la función pública, citados aparte para el viernes 13. Sus reclamos: desbloqueo del punto de índice y medidas categoriales sin contrapartidas, financiación de 150.000 plazas en la enseñanza superior, eliminación de los obstáculos de Parcoursup y Mon Master, 15.000 puestos titulares en la educación superior y la investigación, un cuerpo de funcionarios de categoría B para los AESH, grilla salarial nacional para los asistentes de educación y creación de puestos de docentes, CPE, psicólogos, enfermeros y asistentes sociales.",
     "status": "en_curso",
     "lat": 48.8462,
     "lng": 2.346,
     "fuentes": [
-      "https://www.actualitefrance.com/actualites/greve-10-novembre-education/",
-      "https://www.parisalacarte.com/paris-protests/",
-      "https://www.thelocal.fr/20261109/french-students-and-teachers-call-fresh-strikes-and-protests-on-november-10th",
-      "https://www.europaexpress.news/news/2026/11/french-students-and-teachers-call-fresh-nationwide-strikes-and-protests-for-tuesday-pofyu"
+      "https://www.manifsendirect.fr/",
+      "https://www.rue89strasbourg.com/mobilisation-lyceenne-drones-deployes-quasi-quotidiennement-strasbourg-401861",
+      "https://www.ladepeche.fr/2026/11/11/blocage-des-lycees-a-toulouse-les-lyceens-sont-sur-le-temps-mediatique-mais-les-sujets-abordes-sont-dordre-pedagogique-sur-le-temps-long-estime-le-13645842.php",
+      "http://www.paris-normandie.fr/id758598/article/2026-11-11/universite-de-rouen-les-etudiants-votent-la-poursuite-des-blocages-et-des-cours"
     ],
     "createdAt": "2026-11-10T01:57:49.000Z",
-    "updatedAt": "2026-11-10T17:24:09Z"
+    "updatedAt": "2026-11-11T10:01:22Z"
   },
   {
     "id": "nl-2026-11-10-protesta-silenciosa-palestina-utrecht",
@@ -138,13 +93,13 @@
     "pais": "Países Bajos",
     "bandera": "🇳🇱",
     "hora": "08:30",
-    "fecha": "2026-11-10",
+    "fecha": "2026-11-11",
     "lugar": "Neude, Utrecht, Países Bajos",
     "tipoAccion": "concentracion",
     "organizaciones": [
       "Silent Street Protest"
     ],
-    "motivo": "Protesta silenciosa (stilteprotest) contra el genocidio y la ocupación en Palestina, de 8:30 a 9:30 en la plaza Neude de Utrecht. La concentración, convocada por la iniciativa Silent Street Protest, se repite cada mañana en el mismo punto como acción diaria recurrente por el fin de la guerra y la ocupación.",
+    "motivo": "Protesta silenciosa (stilteprotest) contra el genocidio y la ocupación en Palestina, celebrada hoy miércoles 11 de noviembre de 8:30 a 9:30 en la plaza Neude de Utrecht. La concentración, convocada por la iniciativa Silent Street Protest, se repite cada mañana en el mismo punto como acción diaria recurrente por el fin de la guerra y la ocupación.",
     "status": "finalizado",
     "lat": 52.091,
     "lng": 5.121,
@@ -152,129 +107,7 @@
       "https://rightsforum.org/en/agenda/"
     ],
     "createdAt": "2026-11-10T01:57:49.000Z",
-    "updatedAt": "2026-11-10T17:24:09Z"
-  },
-  {
-    "id": "pe-2026-11-10-paro-transportistas-lima",
-    "seccion": "internacionales",
-    "pais": "Perú",
-    "bandera": "🇵🇪",
-    "hora": "07:00",
-    "fecha": "2026-11-10",
-    "lugar": "Plaza de Acho, Rímac, Lima, con marcha al Congreso de la República, Perú",
-    "tipoAccion": "paro",
-    "organizaciones": [
-      "Anitra (Asociación Nacional de Integración de Transportistas)"
-    ],
-    "motivo": "Paro de transportistas en Lima convocado para este martes 10 de noviembre por la Asociación Nacional de Integración de Transportistas (Anitra): más de 50 empresas suspenden sus servicios. La concentración comienza a las 7:00 cerca de la plaza de Acho, en el Rímac, desde donde los conductores marcharán al Congreso para hablar con los legisladores y reclamar respuestas ante la falta de seguridad. El presidente de Anitra, Martín Valeriano, denunció la «inacción del Gobierno en la protección no solo de los transportistas, sino del público en general» y advirtió que habrá nuevos paros si no se atienden las exigencias. El detonante fue el asesinato el domingo 8 de noviembre de Ismael Yanez, conductor de la línea A2, baleado por dos sujetos en motocicleta en Pamplona Alta durante su recorrido entre Chorrillos y San Juan de Miraflores; según el Observatorio contra la Criminalidad del Ministerio Público, entre enero y el 27 de octubre de 2026 se registraron 164 ataques a transportistas, con 93 muertos y 124 heridos. Algunas empresas como El Rápido, Vipusa, Los Loritos y las agrupadas en Transporte Unido anunciaron que no acatarán la medida.",
-    "status": "en_curso",
-    "lat": -12.029,
-    "lng": -77.028,
-    "fuentes": [
-      "https://wapa.pe/ocio/2026/11/09/paro-transporte-50-companias-suspenden-actividades-amenazas-860877",
-      "https://larepublica.pe/sociedad/2026/11/09/paro-de-transportistas-hoy-en-vivo-a-que-hora-inicia-donde-sera-la-concentracion-que-rutas-seran-afectadas-y-que-dicen-las-autoridades-801261",
-      "https://peru21.pe/lima/atencion-lima-mas-de-50-empresas-de-transporte-dejaran-de-circular-manana-10-de-noviembre/",
-      "https://elpopular.pe/actualidad/2026/11/10/ultimo-minuto-empresas-de-buses-no-acataran-el-paro-de-transportistas-este-10-de-noviembre-conoce-aqui-que-rutas-seguiran-operando-693270"
-    ],
-    "createdAt": "2026-11-10T01:57:49.000Z",
-    "updatedAt": "2026-11-10T17:24:09Z"
-  },
-  {
-    "id": "bo-2026-11-10-paro-maestros-reforma-educativa",
-    "seccion": "internacionales",
-    "pais": "Bolivia",
-    "bandera": "🇧🇴",
-    "hora": "",
-    "fecha": "2026-11-10",
-    "lugar": "La Paz, Santa Cruz, Cochabamba, Tarija, Chuquisaca y otras ciudades del país, con marchas y protestas ante las gobernaciones, Bolivia",
-    "tipoAccion": "paro",
-    "organizaciones": [
-      "Magisterio Urbano de Bolivia (31 federaciones)",
-      "Federación de Maestros Urbanos de La Paz"
-    ],
-    "motivo": "Segundo día del paro nacional movilizado de 48 horas de los maestros urbanos de Bolivia, convocado para el lunes 9 y el martes 10 de noviembre en rechazo al proyecto del gobierno de Rodrigo Paz que transfiere a las gobernaciones la administración y los recursos de los institutos técnicos y tecnológicos, medida que los docentes consideran una descentralización que abre la puerta a la privatización. Este martes hay manifestaciones en las calles de diversas ciudades y protestas ante las gobernaciones, además de vigilias permanentes y 42 piquetes de huelga de hambre en todo el país. Exigen más presupuesto y recursos para las escuelas, respeto al escalafón docente y mejores condiciones laborales; el ministro de Educación, Erick Sanjinés, advirtió con descuentos salariales y los sindicatos amenazaron con radicalizar las medidas si no hay diálogo.",
-    "status": "en_curso",
-    "lat": -16.4897,
-    "lng": -68.1193,
-    "fuentes": [
-      "https://www.prensa-latina.cu/2026/11/10/prosigue-en-bolivia-paro-de-maestros-contra-reforma-educacional/",
-      "https://prensamercosur.org/2026/11/09/bolivia-paro-de-maestros-en-bolivia-amenaza-con-dejar-sin-clases-a-estudiantes-este-9-y-10-de-noviembre",
-      "https://kaosenlared.net/bolivia-docentes-intensifican-protestas-contra-la-descentralizacion-educativa"
-    ],
-    "createdAt": "2026-11-10T17:14:06.000Z",
-    "updatedAt": "2026-11-10T17:24:09Z"
-  },
-  {
-    "id": "ve-2026-11-10-concentracion-trabajadores-pensionados",
-    "seccion": "internacionales",
-    "pais": "Venezuela",
-    "bandera": "🇻🇪",
-    "hora": "10:00",
-    "fecha": "2026-11-10",
-    "lugar": "Plaza Caracas y sede del Ministerio del Trabajo en El Silencio, Caracas, con adhesiones en todos los estados del país, Venezuela",
-    "tipoAccion": "concentracion",
-    "organizaciones": [
-      "Coalición Sindical"
-    ],
-    "motivo": "Concentración convocada por la Coalición Sindical para este martes 10 de noviembre a las 10:00 en la plaza Caracas, frente a la sede del Ministerio del Trabajo en El Silencio, Caracas, para exigir un aumento salarial, el pago de aguinaldos y compromisos laborales, pensiones con poder adquisitivo y la fijación de un cronograma electoral. La organización instó a trabajadores activos, jubilados y pensionados a sumarse a la protesta en todos los estados del país bajo la consigna «Seguir presión sobre Miraflores» y «Delcy debes pagar». Los sindicatos de salud y educación anunciaron además un paro nacional de actividades para el lunes 16 de noviembre.",
-    "status": "en_curso",
-    "lat": 10.5061,
-    "lng": -66.9146,
-    "fuentes": [
-      "https://www.elnacional.com/2026/11/trabajadores-jubilados-y-pensionados-se-movilizaran-este-martes-para-exigir-aumento-salarial-y-un-cronograma-electoral/"
-    ],
-    "createdAt": "2026-11-10T17:14:06.000Z",
-    "updatedAt": "2026-11-10T17:24:09Z"
-  },
-  {
-    "id": "mx-2026-11-10-protestas-cdmx",
-    "seccion": "internacionales",
-    "pais": "México",
-    "bandera": "🇲🇽",
-    "hora": "",
-    "fecha": "2026-11-10",
-    "lugar": "Ciudad de México: estaciones Chabacano y Ermita del Metro, Constitución de 1917 (Iztapalapa), Congreso de la Ciudad de México y Ágora de Tlatelolco, México",
-    "tipoAccion": "movilizacion",
-    "organizaciones": [
-      "Lucíernagas Buscadoras",
-      "Colegio de Bachilleres Plantel 6 \"Vicente Guerrero\"",
-      "Movimiento Sin Techo",
-      "Campamento Camarada Celestino",
-      "Alianza por un Futuro Mejor, Jubilados y Pensionados de la Ciudad de México"
-    ],
-    "motivo": "Jornada de protestas en la Ciudad de México este martes 10 de noviembre, según la Agenda de Movilizaciones de la Secretaría de Seguridad Ciudadana (SSC). El colectivo Lucíernagas Buscadoras se concentra a las 06:30 en la estación Chabacano y a las 07:00 en Ermita para exigir la primera jornada regional de búsqueda por patrones en la zona boscosa de Huitzilac, Morelos, y localizar personas desaparecidas. Estudiantes del Colegio de Bachilleres Plantel 6 se manifiestan a las 10:00 en la estación Constitución de 1917 contra la regulación del uso de celulares en las escuelas. El Movimiento Sin Techo y el Campamento Camarada Celestino se movilizan frente al Congreso capitalino para exigir incorporación a programas de vivienda, y la Alianza por un Futuro Mejor, Jubilados y Pensionados de la CDMX se reúne a las 11:00 en el Ágora de Tlatelolco para abordar la integración de prestaciones para jubilados. La SSC advirtió posibles afectaciones viales.",
-    "status": "en_curso",
-    "lat": 19.4326,
-    "lng": -99.1332,
-    "fuentes": [
-      "https://es.killbait.com/protestas-de-colectivos-de-desaparecidos-y-estudiantes-de-bachilleres-6-se-suman-a-movilizaciones-en-cdmx.html",
-      "https://unotv.com/"
-    ],
-    "createdAt": "2026-11-10T17:14:06.000Z",
-    "updatedAt": "2026-11-10T17:24:09Z"
-  },
-  {
-    "id": "es-2026-11-10-concentraciones-sanidad-pontevedra",
-    "seccion": "internacionales",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "11:00",
-    "fecha": "2026-11-10",
-    "lugar": "Hospital Provincial, Hospital do Salnés, Hospital Álvaro Cunqueiro, Hospital Montecelo y Meixoeiro, Pontevedra, Galicia, España",
-    "tipoAccion": "concentracion",
-    "organizaciones": [
-      "CSIF (Central Sindical Independiente y de Funcionarios)"
-    ],
-    "motivo": "Concentraciones convocadas por CSIF este martes 10 de noviembre ante los principales hospitales de la provincia de Pontevedra para reclamar a la Consellería de Sanidade una carrera profesional más justa y un complemento retributivo para el personal con turnos fijos de mañana o tarde del Servizo Galego de Saúde (SERGAS). El calendario previsto era a las 11:00 en el Hospital Provincial, a las 11:30 en el Hospital do Salnés y el Álvaro Cunqueiro, a las 12:00 en Montecelo y a las 12:30 en el Meixoeiro, en todos los casos en la entrada principal de los centros. CSIF denuncia que el modelo de carrera profesional aprobado hace ocho años generó desigualdades y pide revisar los criterios de acceso y progresión.",
-    "status": "finalizado",
-    "lat": 42.431,
-    "lng": -8.644,
-    "fuentes": [
-      "https://www.galiciapress.es/articulo/sanidad/2026-11-09/6084468-protestas-ante-hospitales-pontevedra-martes-carrera-profesional-justa",
-      "https://www.pontevedraviva.com/gl/xeral/concentracion-provincial-montecelo-complemento-salarial-quendas-fixas_522649_102.html"
-    ],
-    "createdAt": "2026-11-10T17:14:06.000Z",
-    "updatedAt": "2026-11-10T17:24:09Z"
+    "updatedAt": "2026-11-11T10:01:22Z"
   },
   {
     "id": "es-2026-11-10-huelga-industria-carnica",
@@ -282,7 +115,7 @@
     "pais": "España",
     "bandera": "🇪🇸",
     "hora": "",
-    "fecha": "2026-11-10",
+    "fecha": "2026-11-11",
     "lugar": "Plantas cárnicas de todo el país, con focos en Castilla-La Mancha, Cataluña, León y Cuenca (Incarlopsa, Campofrío, Grupo Vall Companys, Embutidos Rodríguez, Frivall, Le Porc Gourmet y Friselva, entre otras), España",
     "tipoAccion": "huelga",
     "organizaciones": [
@@ -290,7 +123,7 @@
       "UGT-FICA",
       "USO Industria"
     ],
-    "motivo": "Segunda de las cinco jornadas de huelga de la industria cárnica convocadas del 9 al 13 de noviembre por CCOO Industria y UGT-FICA, con unos 126.000 trabajadores llamados a parar por el bloqueo de la negociación del convenio colectivo estatal tras la reunión sin acuerdo del 6 de noviembre. La primera jornada tuvo un seguimiento superior al 90% en la mayoría de las fábricas de Castilla-La Mancha y fue masiva en León y Cataluña, con piquetes y concentraciones que impidieron el paso de camiones de cerdos en empresas como Incarlopsa, Frivall, Embutidos Rodríguez, Le Porc Gourmet y Friselva. Los sindicatos exigen una subida salarial mínima del 4% anual con cláusula de revisión ligada al IPC y efectos retroactivos, reducción de la jornada anual, regulación de ritmos y horarios, compensación del trabajo nocturno y permisos para atender a familiares.",
+    "motivo": "Tercera de las cinco jornadas de huelga de la industria cárnica convocadas del 9 al 13 de noviembre por CCOO Industria y UGT-FICA, con unos 126.000 trabajadores llamados a parar por el bloqueo de la negociación del convenio colectivo estatal tras la reunión sin acuerdo del 6 de noviembre. La jornada de hoy coincide con la huelga general del 11-N, a la que se suma el sector, después de una primera jornada con seguimiento superior al 90% en la mayoría de las fábricas de Castilla-La Mancha y masiva en León y Cataluña, con piquetes y concentraciones que impidieron el paso de camiones en empresas como Incarlopsa, Frivall, Embutidos Rodríguez, Le Porc Gourmet y Friselva. Los sindicatos exigen una subida salarial mínima del 4% anual con cláusula de revisión ligada al IPC y efectos retroactivos, reducción de la jornada anual, regulación de ritmos y horarios, compensación del trabajo nocturno y permisos para atender a familiares.",
     "status": "en_curso",
     "lat": 40.4168,
     "lng": -3.7038,
@@ -298,18 +131,19 @@
       "https://sindicalismo.org/2026/11/09/industria-carnica-huelga-convenio-asambleas-oviaragon-11n",
       "https://periodicoclm.publico.es/economia/huelga-carnicas-castilla-mancha-denuncia-cargas-cuenca/20261109221143032078.html",
       "https://www.eldiario.es/castilla-la-mancha/agroalimentaria/sector-carnico-huelga-seguimiento-masivo-10-000-trabajadores-castilla-mancha-sindicatos_1_13649917.html",
-      "https://www.eltriangle.eu/es/2026/11/09/empieza-la-huelga-de-cinco-dias-en-el-sector-carnico-para-desbloquear-las-negociaciones-del-convenio/"
+      "https://www.eltriangle.eu/es/2026/11/09/empieza-la-huelga-de-cinco-dias-en-el-sector-carnico-para-desbloquear-las-negociaciones-del-convenio/",
+      "https://www.catalannews.com/society-science/item/catalonia-faces-a-week-of-strikes-on-the-eve-of-the-election-campaign"
     ],
     "createdAt": "2026-11-10T17:14:06.000Z",
-    "updatedAt": "2026-11-10T17:24:09Z"
+    "updatedAt": "2026-11-11T10:01:22Z"
   },
   {
     "id": "es-2026-11-10-concentracion-vivienda-ourense",
     "seccion": "internacionales",
     "pais": "España",
     "bandera": "🇪🇸",
-    "hora": "20:00",
-    "fecha": "2026-11-10",
+    "hora": "18:00",
+    "fecha": "2026-11-11",
     "lugar": "Subdelegación del Gobierno en Ourense, Ourense, Galicia, España",
     "tipoAccion": "concentracion",
     "organizaciones": [
@@ -321,15 +155,15 @@
       "UGT",
       "CUT"
     ],
-    "motivo": "Primera de las dos jornadas de movilización convocadas por Alianza pola Vivenda en Ourense, para este martes 10 de noviembre a las 20:00 ante la Subdelegación del Gobierno y para el miércoles 11, contra la especulación inmobiliaria y el encarecimiento de la vivienda. Las organizaciones convocantes reclaman alquileres accesibles, mejores salarios y pensiones, recuperación del poder adquisitivo y refuerzo de los servicios públicos, y prevén la lectura de un manifiesto conjunto bajo la consigna de poner fin al negocio de la especulación con la vivienda. La protesta se enmarca en la víspera de la huelga general del 11-N.",
-    "status": "programado",
+    "motivo": "Segunda de las dos jornadas de movilización convocadas por Alianza pola Vivenda en Ourense contra la especulación inmobiliaria y el encarecimiento de la vivienda: tras las concentraciones sindicales de la mañana, este miércoles 11 de noviembre a las 18:00 está prevista una movilización unitaria ante la Subdelegación del Gobierno que coincide con la huelga general del 11-N. Las organizaciones convocantes reclaman alquileres accesibles, mejores salarios y pensiones, recuperación del poder adquisitivo y refuerzo de los servicios públicos, con lectura de un manifiesto conjunto bajo la consigna de poner fin al negocio de la especulación con la vivienda.",
+    "status": "en_curso",
     "lat": 42.3358,
     "lng": -7.8639,
     "fuentes": [
       "https://www.galiciaconfidencial.com/noticia/6086150-alianza-pola-vivenda-convoca-mobilizacions-martes-e-mercores-ourense-contra-especulacion-inmobiliaria"
     ],
     "createdAt": "2026-11-10T17:14:06.000Z",
-    "updatedAt": "2026-11-10T17:24:09Z"
+    "updatedAt": "2026-11-11T10:01:22Z"
   },
   {
     "id": "th-2026-11-10-campamento-precio-diesel",
@@ -337,50 +171,235 @@
     "pais": "Tailandia",
     "bandera": "🇹🇭",
     "hora": "",
-    "fecha": "2026-11-10",
-    "lugar": "Frente a la Casa de Gobierno (Government House), Bangkok, Tailandia",
+    "fecha": "2026-11-11",
+    "lugar": "Chamai Maruchet Bridge y calles aledañas a la Casa de Gobierno, Bangkok, Tailandia",
     "tipoAccion": "campamento",
     "organizaciones": [
       "Alianza Revolucionaria del Pueblo para la Protección de la Tierra (PRNF)"
     ],
-    "motivo": "Campamento de protesta instalado desde la noche del domingo 8 de noviembre frente a la Casa de Gobierno en Bangkok, liderado por el kamnan Mano Khrueakaew, que se mantiene este martes 10 de noviembre y que sus organizadores prevén prolongar al menos 30 días, hasta comienzos de diciembre. Los manifestantes, llegados en caravana desde Krabi y el sur del país, exigen una reducción inmediata de 10 baht por litro del precio del diésel, la revisión de la estructura de precios de los combustibles, medidas contra el narcotráfico, precios justos para los productos agrícolas y acción contra la corrupción. El primer ministro Anutin Charnvirakul prometió escuchar sus demandas, pero no ofreció un recorte inmediato del diésel.",
+    "motivo": "El campamento de protesta frente a la Casa de Gobierno en Bangkok, instalado desde la noche del domingo 8 de noviembre y liderado por el kamnan Mano Khrueakaew junto a la Alianza Revolucionaria del Pueblo para la Protección de la Tierra, se mantiene este miércoles 11 de noviembre: los manifestantes replegaron 50 metros hasta el puente Chamai Maruchet y la calle Phitsanulok tras negociar con la policía, que dictó una orden de prohibición de concentraciones en un radio de 50 metros hasta el 20 de noviembre. Mantienen la exigencia de una reducción inmediata de 10 baht por litro en el precio del diésel y la revisión de la estructura de precios de los combustibles —a lo que se suman demandas contra el narcotráfico, precios justos para los productos agrícolas y acción contra la corrupción— y prevén prolongar el plantón al menos 30 días, hasta el debate de censura contra el gobierno del primer ministro Anutin Charnvirakul, previsto para comienzos de diciembre, con actividades diarias programadas de 9:00 a 12:00 en la calle Ratchadamnoen, frente al Ministerio de Educación.",
     "status": "en_curso",
     "lat": 13.7598,
     "lng": 100.4926,
     "fuentes": [
       "https://www.thaiexaminer.com/thai-news-foreigners/2026/11/09/protest-begins-near-government-house-led-by-krabi-kamnan-looking-for-decisive-action-on-drugs-and-fuel/",
-      "https://thebostonreport.com/2026/11/09/thailand-fuel-price-protest-government-house-10-baht",
-      "https://thaigernews.com/kamnan-mano-convoy-reaches-government-house/",
-      "https://www.nationthailand.com/news/general/40073264"
+      "https://en.mgronline.com/politics/mobs-from-every-direction-converge-on-government-house-piling-problems-onto-anut",
+      "https://thainewsroom.com/2026/11/10/protesters-retreat-50-metres-while-sticking-to-their-demand",
+      "https://www.bangkokpost.com/thailand/politics/3351719/protesters-to-keep-rallying-for-30-days",
+      "https://en.thairath.co.th/news/politic/2971684"
     ],
     "createdAt": "2026-11-10T17:14:06.000Z",
-    "updatedAt": "2026-11-10T17:24:09Z"
+    "updatedAt": "2026-11-11T10:01:22Z"
   },
   {
-    "id": "ar-2026-11-10-concentracion-portuarios-ate-puerto-ushuaia",
+    "id": "es-2026-11-11-huelga-general-11n",
+    "seccion": "internacionales",
+    "pais": "España",
+    "bandera": "🇪🇸",
+    "hora": "",
+    "fecha": "2026-11-11",
+    "lugar": "Todo el país: piquetes y concentraciones en empresas y centros de trabajo durante toda la jornada, con marchas vespertinas en las principales ciudades (en Barcelona desde los Jardinets de Gràcia y en Madrid ante las Cortes), España",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "CCOO",
+      "UGT",
+      "CGT",
+      "CNT",
+      "Solidaridad Obrera",
+      "CO.BAS",
+      "Confederación Intersindical",
+      "Sindicato de Inquilinas",
+      "Unión de Actores",
+      "Plataforma Ens Costa la Vida (más de 3.600 entidades)"
+    ],
+    "motivo": "Huelga general de 24 horas (de 00:00 a 24:00) en todo el país, la primera convocada por los grandes sindicatos en catorce años, desde la reforma laboral de 2012, y apoyada por más de 3.600 entidades de la plataforma «Ens Costa la Vida». La llaman CCOO y UGT junto a CGT, CNT, Solidaridad Obrera, CO.BAS, la Confederación Intersindical, el Sindicato de Inquilinas y la Unión de Actores, y une salarios y vivienda: exigen salarios dignos y recuperación del poder adquisitivo, un SMI y pensiones de 1.600 euros, la jornada de 35 horas, el control de los alquileres y una solución a la emergencia habitacional, y servicios públicos de calidad, frente al traspaso de la renta del trabajo al capital inmobiliario. La jornada incluye piquetes informativos y concentraciones durante todo el día —los sindicatos anticipan alta participación en Seat, Iberia, Zara, Glovo o Mercadona— y marchas masivas al atardecer: en Barcelona la manifestación principal parte a las 17:30 de los Jardinets de Gràcia; en Sevilla la movilización educativa salió a las 12:00 desde las Columnas de Hércules y la marcha general parte a las 18:00 del Prado de San Sebastián. Los servicios mínimos incluyen el 20% de las gasolineras del país, el 75% de los trenes de Cercanías en hora punta (50% en el resto), el 73% en AVE y larga distancia, el 65% en media distancia y el 26% en mercancías, y en Cataluña el 25% del transporte público en horas punta y de la atención primaria; los maquinistas de Renfe, con huelga propia el 10 y el 12 de noviembre, pueden sumarse a la jornada.",
+    "status": "en_curso",
+    "lat": 40.4168,
+    "lng": -3.7038,
+    "fuentes": [
+      "https://www.elperiodico.com/es/economia/20261110/guia-huelga-general-11-noviembre-espana-motivos-136260347",
+      "https://www.eleconomista.es/actualidad/noticias/14026860/11/26/huelga-general-del-11-de-noviembre-2026-estos-son-los-servicios-minimos-manifestaciones-y-horarios-por-cada-comunidad-autonoma-para-el-11n.html",
+      "https://www.abc.es/espana/madrid/huelga-general-noviembre-madrid-horario-recorrido-cortes-20261111050000-nt.html",
+      "https://www.eleconomista.es/actualidad/noticias/14026799/11/26/servicios-minimos-de-renfe-y-cercanias-por-la-huelga-general-del-11-de-noviembre-2026-horarios-y-frecuencias.html",
+      "https://www.catalannews.com/society-science/item/catalonia-faces-a-week-of-strikes-on-the-eve-of-the-election-campaign",
+      "https://barna.news/unions-train-pickets-ahead-of-11-nov/",
+      "https://ftnnews.com/travel-news/road-travel/spain-general-strike-gas-stations/",
+      "https://www.tercerainformacion.es/articulo/actualidad/06/11/2026/ustea-sevilla-prepara-la-huelga-educativa-del-11-de-noviembre-junto-a-otras-organizaciones-sindicales",
+      "https://docm.jccm.es/docm/verArchivoHtml.do?ruta=2026/11/06/html/2026_8045.html&tipo=rutaDocm"
+    ],
+    "createdAt": "2026-11-11T09:42:39.000Z",
+    "updatedAt": "2026-11-11T10:01:22Z"
+  },
+  {
+    "id": "cl-2026-11-11-jornada-confech-presupuesto-educacion",
+    "seccion": "internacionales",
+    "pais": "Chile",
+    "bandera": "🇨🇱",
+    "hora": "",
+    "fecha": "2026-11-11",
+    "lugar": "Santiago (frente al Ministerio de Educación), Valparaíso (ante el Congreso Nacional) y secretarías regionales ministeriales de Educación en todo el país, Chile",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "Confech (Confederación de Estudiantes de Chile)",
+      "Renace (Red Nacional de Centros de Estudiantes de Secundaria)"
+    ],
+    "motivo": "Jornada nacional de protestas convocada para este miércoles 11 de noviembre por la Confech, junto a organizaciones de secundaria como Renace, en defensa del presupuesto de educación tras el rechazo de la partida de Educación en la discusión del Presupuesto 2027 en la Comisión Especial Mixta. En Santiago los estudiantes marchan frente al Ministerio de Educación, en Valparaíso lo hacen ante el Congreso Nacional y en las demás regiones ante las seremi de Educación. La vocera de la Confech, Laura Mlynarz (FEUCH), anunció un calendario de movilizaciones contra los recortes del gobierno de Kast que continúa el 18 de noviembre con la jornada nacional de la CUT y el 27 con las organizaciones poblacionales. La jornada coincide con el segundo día del paro de transportistas que vive el país.",
+    "status": "en_curso",
+    "lat": -33.4395,
+    "lng": -70.6548,
+    "fuentes": [
+      "https://www.elclarin.cl/2026/11/11/estudiantes-trabajadores-y-pobladores-anuncian-nuevas-movilizaciones-contra-los-recortes-del-gobierno-de-kast/"
+    ],
+    "createdAt": "2026-11-11T09:42:39.000Z",
+    "updatedAt": "2026-11-11T10:01:22Z"
+  },
+  {
+    "id": "it-2026-11-11-sciopero-nazionale-call-center-crm-bpo",
+    "seccion": "internacionales",
+    "pais": "Italia",
+    "bandera": "🇮🇹",
+    "hora": "",
+    "fecha": "2026-11-11",
+    "lugar": "Todo el país: paro nacional del sector durante toda la jornada, con presidia en Roma (MIMIT, via Molise 2) y Turín (Piazza Piemonte 1, frente a la Regione Piemonte) y movilizaciones en otras regiones, Italia",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "SLC CGIL",
+      "FISTEL CISL",
+      "UILFPC UIL",
+      "UGL Telecomunicazioni"
+    ],
+    "motivo": "Sciopero nacional de toda la jornada de los trabajadores de los call center CRM/BPO (relaciones con clientes externalizadas de telecos, bancos, aseguradoras, energéticas y administración pública), convocado por SLC CGIL, FISTEL CISL y UILFPC UIL, con la adhesión de UGL Telecomunicazioni. El sector emplea en Italia a unos 40.000 trabajadores directos en externalización y atraviesa una crisis con entre 10.000 y 15.000 puestos en riesgo entre despidos y amortizadores sociales, por la caída de los volúmenes, la inteligencia artificial y las deslocalizaciones; las mesas ministeriales sobre las empresas en crisis Konecta R y Callmat solo han producido medidas parche. Los sindicatos exigen una política industrial para el sector, estabilidad laboral y recalificación profesional. Hay presidia desde las 9:00 en Roma ante el MIMIT (vía Molise 2, con límite de la Questura de 250 participantes) y desde las 9:30 en Turín en Piazza Piemonte 1 ante la Regione Piemonte —el sector emplea a unos 3.000 trabajadores en el Piamonte—, además de movilizaciones en seis regiones (Turín, Cagliari, Palermo, Catanzaro, Bari y Matera); el gobierno convocó para el jueves 12 de noviembre una mesa nacional en el Mimit con los ministros Urso y Calderone.",
+    "status": "en_curso",
+    "lat": 41.9028,
+    "lng": 12.4964,
+    "fuentes": [
+      "https://www.uilfpc.it/news/comunicato-sciopero-crm-bpo-11nov26/",
+      "https://www.corrierecomunicazioni.it/telco/call-center-10mila-posti-a-rischio-sciopero-nazionale-contro-la-crisi-del-settore",
+      "https://rossetorri.it/mercoledi-11-novembre-sciopero-nazionale-call-center-manifestazione-anche-a-torino/",
+      "https://www.rds.it/scopri/magazine/attualita/sciopero-dei-call-center-l11-novembre-perche-fino-a-15-000-lavoratori-rischiano-il-posto",
+      "https://www.emiliaromagnanews24.it/hera-mercoledi-11-novembre-possibili-disagi-nei-servizi-di-call-center-causa-sciopero-di-settore-404744.html"
+    ],
+    "createdAt": "2026-11-11T09:42:39.000Z",
+    "updatedAt": "2026-11-11T10:01:22Z"
+  },
+  {
+    "id": "us-2026-11-11-rally-huelga-uaw-triumph-west-hartford",
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "11:00",
+    "fecha": "2026-11-11",
+    "lugar": "Triumph Engine Control Systems, 1 Charter Oak Blvd, West Hartford, Connecticut, Estados Unidos",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "UAW Local 405",
+      "UAW Región 9A"
+    ],
+    "motivo": "Rally de huelga en el Día de los Veteranos, convocado por la UAW Local 405 para las 11:00 (de 11:00 a 12:00) en la línea de piquetes de Triumph Engine Control Systems, la planta de West Hartford donde unos 175 trabajadores del sector aeroespacial mantienen desde las 5:00 del lunes 2 de noviembre una huelga por prácticas laborales desleales tras el vencimiento del convenio el 31 de octubre. Los trabajadores fabrican y reparan sistemas de combustible para helicópteros militares (Chinook, Apache y Black Hawk) y la huelga fue autorizada por 148 votos contra 1; exigen mejores salarios, seguridad en el empleo y atención sanitaria. El sindicato denuncia que Triumph pagó 31,7 millones de dólares a sus directivos en los últimos cinco años (61,6 millones en la última década) mientras rechaza una propuesta económica justa y ha llevado a la planta a unos 30 trabajadores temporarios de reemplazo.",
+    "status": "en_curso",
+    "lat": 41.762,
+    "lng": -72.742,
+    "fuentes": [
+      "https://region9a.uaw.org/events/Local405Rally111126",
+      "https://region9a.uaw.org/news/405strike",
+      "https://region9a.uaw.org/uaw-local-405/bargaining/strike-update"
+    ],
+    "createdAt": "2026-11-11T09:42:39.000Z",
+    "updatedAt": "2026-11-11T10:01:22Z"
+  },
+  {
+    "id": "in-2026-11-11-huelga-saneamiento-coimbatore",
+    "seccion": "internacionales",
+    "pais": "India",
+    "bandera": "🇮🇳",
+    "hora": "",
+    "fecha": "2026-11-11",
+    "lugar": "Coimbatore, Tamil Nadu, India",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "Trabajadores de saneamiento contratados de la Coimbatore City Municipal Corporation"
+    ],
+    "motivo": "Huelga indefinida de más de 4.000 trabajadores de saneamiento contratados por la Coimbatore City Municipal Corporation, iniciada el 9 de noviembre y en curso este miércoles 11, que exige la regularización de sus puestos, la aplicación de los salarios estatutarios, el pago de primas y bonos, prestaciones de seguridad social y mejores condiciones de seguridad en el trabajo. El paro ha interrumpido la recolección de residuos y los servicios de saneamiento en toda la ciudad y forma parte de la ola de huelgas y protestas de empleados que se intensifica en varias regiones de la India.",
+    "status": "en_curso",
+    "lat": 11.0168,
+    "lng": 76.9558,
+    "fuentes": [
+      "https://www.hrkatha.com/protests-and-strikes/employee-strikes-and-protests-intensify-across-regions/",
+      "https://www.hrday.net/topics/social-insurance"
+    ],
+    "createdAt": "2026-11-11T09:42:39.000Z",
+    "updatedAt": "2026-11-11T10:01:22Z"
+  },
+  {
+    "id": "in-2026-11-11-huelga-empleados-nhm-punjab",
+    "seccion": "internacionales",
+    "pais": "India",
+    "bandera": "🇮🇳",
+    "hora": "",
+    "fecha": "2026-11-11",
+    "lugar": "Instalaciones sanitarias públicas de todo el estado de Punjab, India",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "Empleados del National Health Mission (NHM) de Punjab"
+    ],
+    "motivo": "Huelga indefinida de los empleados del National Health Mission (NHM) de Punjab —médicos, enfermeras, oficiales de salud comunitaria y técnicos de laboratorio— que se mantiene este miércoles 11 de noviembre y afecta los servicios de salud de los hospitales y centros públicos de todo el estado. Los trabajadores exigen la regularización de sus contratos, la revisión de los salarios, una política de servicio permanente y el principio de igual salario por igual trabajo; el paro se inscribe en la ola de huelgas y protestas de empleados que se intensifica en varias regiones de la India.",
+    "status": "en_curso",
+    "lat": 31.1471,
+    "lng": 75.3412,
+    "fuentes": [
+      "https://www.hrkatha.com/protests-and-strikes/employee-strikes-and-protests-intensify-across-regions/"
+    ],
+    "createdAt": "2026-11-11T09:42:39.000Z",
+    "updatedAt": "2026-11-11T10:01:22Z"
+  },
+  {
+    "id": "fr-2026-11-11-greve-agentes-opera-niza",
+    "seccion": "internacionales",
+    "pais": "Francia",
+    "bandera": "🇫🇷",
+    "hora": "",
+    "fecha": "2026-11-11",
+    "lugar": "Opéra de Nice, Niza, Francia",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "Agentes de la Opéra de Nice"
+    ],
+    "motivo": "Huelga del personal de la Opéra de Nice convocada para el miércoles 11, el jueves 12 y el viernes 13 de noviembre, en protesta por la «gran precariedad» que atraviesan los trabajadores de la institución, que interpelan a Éric Ciotti para exigir mejores condiciones laborales y salariales. La acción figura entre las movilizaciones en curso registradas este miércoles en el mapa de acciones de manifsendirect.",
+    "status": "en_curso",
+    "lat": 43.7102,
+    "lng": 7.262,
+    "fuentes": [
+      "https://actu.fr/provence-alpes-cote-d-azur/nice_06088/une-grande-precarite-les-agents-de-l-opera-de-nice-se-mettent-en-greve-et-interpellent-eric-ciotti_65035824.html",
+      "https://www.manifsendirect.fr/"
+    ],
+    "createdAt": "2026-11-11T09:42:39.000Z",
+    "updatedAt": "2026-11-11T10:01:22Z"
+  },
+  {
+    "id": "ar-2026-11-11-ate-entre-rios-jornada-salud-parana",
     "seccion": "protestas_ar",
     "pais": "Argentina",
     "bandera": "🇦🇷",
-    "hora": "07:00",
-    "fecha": "2026-11-10",
-    "lugar": "Accesos al Puerto de Ushuaia, Ushuaia, Tierra del Fuego, Argentina",
-    "tipoAccion": "concentracion",
+    "hora": "08:30",
+    "fecha": "2026-11-11",
+    "lugar": "Ministerio de Salud de Entre Ríos, Paraná, Entre Ríos, Argentina (con movilizaciones en distintos puntos de la provincia, como la costa del Uruguay)",
+    "tipoAccion": "movilizacion",
     "organizaciones": [
-      "ATE (Asociación Trabajadores del Estado)",
-      "Trabajadores portuarios autoconvocados",
-      "Dirección Provincial de Puertos (DPP)",
-      "Gremios portuarios del sector"
+      "ATE Entre Ríos (Asociación Trabajadores del Estado)",
+      "Asociación de Enfermería",
+      "Facultad de Ciencias de la Vida y la Salud (UADER)"
     ],
-    "motivo": "Nueva jornada de protesta de ATE y de los trabajadores portuarios para este martes 10 de noviembre desde las 7 de la mañana en el ingreso a la terminal marítima del Puerto de Ushuaia, en el marco del conflicto por la intervención nacional dispuesta en enero; se prevé la participación de otros gremios del sector. Los trabajadores reclaman el fin de la intervención de la ANPyN y la restitución del puerto a la administración provincial, con cortes intermitentes al tránsito vehicular y acceso peatonal habilitado; denuncian 89 trabajadores desplazados de sus funciones y unas 140 familias afectadas.",
+    "motivo": "Jornada provincial de protesta de 24 horas de ATE Entre Ríos y la Asociación de Enfermería, con asambleas, retención de servicios y una concentración a las 8:30 frente al Ministerio de Salud en Paraná, garantizando las guardias mínimas. Los trabajadores exigen la convocatoria urgente a paritarias y una recomposición salarial tras rechazar la última oferta oficial por incluir sumas no remunerativas, además de pases a planta permanente, el pago de recategorizaciones y prolongaciones de jornada adeudadas, el cese de la sobrecarga laboral y mayor presupuesto sanitario. En los hospitales San Martín y San Roque de Paraná se suspenden las cirugías programadas, con los quirófanos habilitados para urgencias.",
     "status": "en_curso",
-    "lat": -54.8108,
-    "lng": -68.3159,
+    "lat": -31.7333,
+    "lng": -60.5238,
     "fuentes": [
-      "https://www.infofueguina.com/tu-ciudad/ushuaia/2026/11/9/ate-endurece-el-reclamo-contra-la-intervencion-y-convoco-a-una-nueva-protesta-en-el-puerto-de-ushuaia-83011.html",
-      "https://criticasur.com.ar/nota/57880/trabajadores_portuarios_profundizan_el_reclamo_con_dos_nuevas_jornadas_de_cortes_en_ushuaia",
-      "https://www.mitdf.com.ar/noticias/trabajadores-portuarios-profundizan-el-reclamo-con-dos-nuevas-jornadas-de-cortes-en-ushuaia"
+      "https://www.elonce.com/politica/ate-anuncio-una-jornada-de-protesta-en-salud-con-retencion-de-servicios-los-reclamos.htm",
+      "https://www.elonce.com/politica/ate-anuncio-una-movilizacion-por-salarios-y-condiciones-laborales-habra-medidas-de-fuerza-en-hospitales.htm",
+      "https://labajadadiario.com/politica/ate-y-enfermeria-convocan-a-una-jornada-de-lucha-el-11-de-noviembre",
+      "https://www.examedia.com.ar/portada/post/88213247"
     ],
-    "createdAt": "2026-11-10T02:04:42.000Z",
-    "updatedAt": "2026-11-10T17:24:09Z"
+    "createdAt": "2026-11-11T09:53:16.000Z",
+    "updatedAt": "2026-11-11T10:01:22Z"
   }
 ]
