@@ -18,10 +18,10 @@
     "lng": 12.3155,
     "fuentes": [
       "https://scioperi.mit.gov.it/mit2/public/scioperi",
-      "https://demopin.app/event/6299"
+      "https://en.lamilano.it/by-the-media/Strike-today--November-13th--with-public-transport-stopped-in-Milan-and-Venice."
     ],
     "createdAt": "2026-11-13T02:45:41.000Z",
-    "updatedAt": "2026-11-13T03:05:48Z"
+    "updatedAt": "2026-11-13T10:38:45Z"
   },
   {
     "id": "it-2026-11-13-sciopero-atm-milan",
@@ -33,18 +33,19 @@
     "lugar": "Milán y Lombardía, Italia",
     "tipoAccion": "huelga",
     "organizaciones": [
-      "AL-COBAS"
+      "AL-COBAS",
+      "Confial Trasporti"
     ],
-    "motivo": "El sindicato AL-COBAS convocó una huelga de 24 horas del personal de Gruppo ATM Socc. (transporte público de Milán y Lombardía) para este viernes 13 de noviembre, registrada en el calendario de huelgas del Ministerio de Infraestructuras y Transportes. El paro puede afectar a metro, tranvías y autobuses de la región.",
+    "motivo": "Los sindicatos AL-COBAS y Confial Trasporti convocaron una huelga de 24 horas del personal de Gruppo ATM (transporte público de Milán, Monza y Brianza) para este viernes 13 de noviembre, registrada en el calendario de huelgas del Ministerio de Infraestructuras y Transportes. El servicio de metro, tranvías y autobuses puede no estar garantizado de 8:45 a 15:00 y después de las 18:00 hasta el fin del servicio.",
     "status": "en_curso",
     "lat": 45.4642,
     "lng": 9.19,
     "fuentes": [
       "https://scioperi.mit.gov.it/mit2/public/scioperi",
-      "https://demopin.app/event/6300"
+      "https://en.lamilano.it/by-the-media/Strike-today--November-13th--with-public-transport-stopped-in-Milan-and-Venice."
     ],
     "createdAt": "2026-11-13T02:45:41.000Z",
-    "updatedAt": "2026-11-13T03:05:48Z"
+    "updatedAt": "2026-11-13T10:38:45Z"
   },
   {
     "id": "de-2026-11-13-warnstreik-albtal-verkehrsgesellschaft",
@@ -58,15 +59,17 @@
     "organizaciones": [
       "ver.di (Vereinte Dienstleistungsgewerkschaft)"
     ],
-    "motivo": "El sindicato ver.di convocó un nuevo paro de advertencia (Warnstreik) para este viernes 13 de noviembre en la Albtal-Verkehrsgesellschaft, que opera el tren ligero y autobuses en la región de Karlsruhe y Heilbronn, en el marco del segundo asalto de la negociación colectiva del convenio ETV. La medida afecta al transporte público de Baden-Wurtemberg y busca presionar a la patronal para mejorar salarios y condiciones.",
+    "motivo": "El sindicato ver.di convocó un nuevo paro de advertencia (Warnstreik) para este viernes 13 de noviembre en la Albtal-Verkehrsgesellschaft (AVG), que opera el tren ligero y autobuses en la región de Karlsruhe y Heilbronn, en el marco de la ronda nacional de negociación del convenio ferroviario ETV. La medida puede provocar cancelaciones en toda la red de la AVG; la próxima ronda negociadora está prevista para el 16 de noviembre.",
     "status": "en_curso",
     "lat": 49.0069,
     "lng": 8.4037,
     "fuentes": [
-      "https://demopin.app/event/13707"
+      "https://www.stimme.de/heilbronn/landkreis-heilbronn/warnstreik-verdi-avg-stadtbahn-ausfaelle-tarif-ver-handlung-art-5234848",
+      "https://bahnblogstelle.com/266262/verdi-ruft-avg-beschaeftigte-zum-ganztaegigen-warnstreik-auf/",
+      "https://www.ettenheim.de/nachrichten/warnstreik-bei-der-sweg-am-donnerstag-12-und-freitag-13-november-2026"
     ],
     "createdAt": "2026-11-13T02:45:41.000Z",
-    "updatedAt": "2026-11-13T03:05:48Z"
+    "updatedAt": "2026-11-13T10:38:45Z"
   },
   {
     "id": "de-2026-11-13-warnstreik-asklepios-hamburgo",
@@ -80,15 +83,15 @@
     "organizaciones": [
       "ver.di (Vereinte Dienstleistungsgewerkschaft)"
     ],
-    "motivo": "ver.di llamó a un paro de advertencia este viernes 13 de noviembre en Asklepios Service Dienstleistungen GmbH en Hamburgo. Los trabajadores del transporte de pacientes y de los servicios auxiliares reclaman un convenio colectivo de empresa y mejores condiciones laborales.",
+    "motivo": "ver.di llamó a un paro de advertencia de día completo este viernes 13 de noviembre en Asklepios Service Dienstleistungen GmbH en Hamburgo. Los trabajadores del transporte de pacientes reclaman un convenio colectivo de empresa (Haustarifvertrag) y mejores condiciones laborales; pueden producirse retrasos en los traslados y exámenes.",
     "status": "en_curso",
     "lat": 53.5511,
     "lng": 9.9937,
     "fuentes": [
-      "https://demopin.app/event/13711"
+      "https://www.verdi.de/hamburg/presse/pressemitteilungen/warnstreik-krankenhausdienstleister-beschaeftigte-asklepios-service-dienstleistungen-gmbh-kaempfen"
     ],
     "createdAt": "2026-11-13T02:45:41.000Z",
-    "updatedAt": "2026-11-13T03:05:48Z"
+    "updatedAt": "2026-11-13T10:38:45Z"
   },
   {
     "id": "de-2026-11-13-huelga-climatica-rostock",
@@ -108,56 +111,89 @@
     "lat": 54.0887,
     "lng": 12.14,
     "fuentes": [
-      "https://demopin.app/event/12758"
+      "https://rathaus.rostock.de/de/service/aemter/stadtamt/versammlungen/343356",
+      "https://fridaysforfuture.de/klimastreik"
     ],
     "createdAt": "2026-11-13T02:45:41.000Z",
-    "updatedAt": "2026-11-13T03:05:48Z"
+    "updatedAt": "2026-11-13T10:38:45Z"
   },
   {
-    "id": "ie-2026-11-13-huelga-climatica-dublin",
+    "id": "de-2026-11-13-klimastreik-nacional",
+    "seccion": "internacionales",
+    "pais": "Alemania",
+    "bandera": "🇩🇪",
+    "hora": "",
+    "fecha": "2026-11-13",
+    "lugar": "Más de 70 ciudades de Alemania (Berlín, Hamburgo, Múnich, Karlsruhe, Pforzheim, Leipzig, Colonia, Hannover, Dortmund, Halle, Würzburg, etc.)",
+    "tipoAccion": "manifestacion",
+    "organizaciones": [
+      "Fridays for Future Alemania",
+      "KlimaAllianz Deutschland",
+      "WWF Alemania",
+      "GLS Bank",
+      "Protect the Planet"
+    ],
+    "motivo": "Fridays for Future convocó una jornada nacional de huelga y manifestaciones climáticas para este viernes 13 de noviembre en más de 70 ciudades alemanas, coincidiendo con las negociaciones de la COP31 en Antalya. Bajo el lema '#PayYourClimateDebt!', el movimiento exige que Alemania cumpla sus compromisos financieros internacionales de clima y acelere el fin de los combustibles fósiles. En Berlín está prevista una concentración por la tarde frente a la Cancillería.",
+    "status": "programado",
+    "lat": 52.52,
+    "lng": 13.405,
+    "fuentes": [
+      "https://fridaysforfuture.de/klimastreik",
+      "https://www.wwf.de/klimastreik",
+      "https://www.rbb24.de/politik/beitrag/2026/11/weltklimakonferenz-fridays-for-future-demos-berlin-brandenburg.html",
+      "https://www.die-neue-welle.de/klimastreik-am-freitag-demos-in-karlsruhe-und-pforzheim-geplant-2000364/"
+    ],
+    "createdAt": "2026-11-13T10:29:42.000Z",
+    "updatedAt": "2026-11-13T10:38:45Z"
+  },
+  {
+    "id": "be-2026-11-13-manifestation-fonctionnaires-bruxelles",
+    "seccion": "internacionales",
+    "pais": "Bélgica",
+    "bandera": "🇧🇪",
+    "hora": "10:00",
+    "fecha": "2026-11-13",
+    "lugar": "Marcha desde Rogier por el centro de Bruselas, Bélgica",
+    "tipoAccion": "manifestacion",
+    "organizaciones": [
+      "ACOD-CGSP",
+      "ACV-CSC Openbare Diensten",
+      "VSOA"
+    ],
+    "motivo": "Los sindicatos de los servicios públicos locales y regionales de Bruselas (ACOD-CGSP, ACV-CSC Openbare Diensten y VSOA) convocaron una marcha este viernes 13 de noviembre con salida a las 10:00 en Rogier, contra los recortes presupuestarios que, denuncian, asfixian financieramente a los municipios y a los centros públicos de bienestar social (OCMW/CPAS). Reclaman financiación suficiente y advierten que los límites a las prestaciones de desempleo empujan a miles de personas hacia los servicios sociales.",
+    "status": "en_curso",
+    "lat": 50.855,
+    "lng": 4.359,
+    "fuentes": [
+      "https://www.brusselstimes.com/brussels/2401188/brussels-unions-to-protest-austerity-measures-on-friday-13-november",
+      "https://belgium-now.com/2026/11/10/brussels-unions-march-rogier-municipality-ocmw-cuts/"
+    ],
+    "createdAt": "2026-11-13T10:29:42.000Z",
+    "updatedAt": "2026-11-13T10:38:45Z"
+  },
+  {
+    "id": "ie-2026-11-13-protesta-combustibles-dublin",
     "seccion": "internacionales",
     "pais": "Irlanda",
     "bandera": "🇮🇪",
-    "hora": "13:00",
+    "hora": "12:00",
     "fecha": "2026-11-13",
-    "lugar": "Leinster House, Kildare Street, Dublín, Irlanda",
-    "tipoAccion": "huelga",
+    "lugar": "Leinster House, Kildare Street (marcha hacia Dublin Castle), Dublín, Irlanda",
+    "tipoAccion": "protesta",
     "organizaciones": [
-      "Fridays for Future Irlanda"
+      "People of Ireland Against Fuel Prices"
     ],
-    "motivo": "Fridays for Future Irlanda convocó una nueva huelga escolar y estudiantil por el clima para este viernes 13 de noviembre a las 13:00 frente al Leinster House, sede del Parlamento irlandés en Kildare Street, Dublín. La convocatoria forma parte de la serie de movilizaciones climáticas de los viernes y reclama al Gobierno irlandés medidas urgentes de reducción de emisiones y una transición energética justa.",
+    "motivo": "El grupo 'People of Ireland Against Fuel Prices' mantiene para este viernes 13 de noviembre una concentración estática en el centro de Dublín a partir de las 12:00, con concentración frente al Leinster House, en Kildare Street. La convocatoria exige medidas contra el alto precio de los combustibles y el coste de la vida. Los convoyes previstos en todo el país fueron cancelados por falta de apoyo y por la política de tolerancia cero de la Gardaí ante bloqueos de carreteras, en coincidencia con la cumbre de la UE en la capital.",
     "status": "programado",
     "lat": 53.3406,
     "lng": -6.2546,
     "fuentes": [
-      "https://demopin.app/event/12628"
+      "https://www.nova.ie/hauliers-to-protest-outside-dail-as-nationwide-fuel-convoys-are-cancelled",
+      "https://www.dublinlive.ie/news/dublin-news/everything-know-fridays-planned-fuel-34904267",
+      "https://safeabroad.com/advisories/protesters-will-march-through-central-dublin-ireland-on-november-13-at-1200-pm-expect-unrest-and-police-presence"
     ],
-    "createdAt": "2026-11-13T02:45:41.000Z",
-    "updatedAt": "2026-11-13T03:05:48Z"
-  },
-  {
-    "id": "fr-2026-11-13-manifestation-lyceenne-etudiante-paris",
-    "seccion": "internacionales",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "15:00",
-    "fecha": "2026-11-13",
-    "lugar": "Recorrido Panthéon - Place d'Italie, París, Francia",
-    "tipoAccion": "manifestacion",
-    "organizaciones": [
-      "FSU",
-      "Organizaciones de liceales y estudiantes"
-    ],
-    "motivo": "Una manifestación estudiantil y liceal recorrerá París este viernes 13 de noviembre desde el Panthéon hasta la Place d'Italie, con salida a las 15:00, por la ruta autorizada por la prefectura. La movilización se enmarca en la ola de bloqueos de liceos y facultades contra las reformas educativas y en apoyo a los estudiantes movilizados, tras varias jornadas de protestas y decenas de detenciones.",
-    "status": "programado",
-    "lat": 48.8462,
-    "lng": 2.3464,
-    "fuentes": [
-      "https://www.manifsendirect.fr/",
-      "https://www.franceinfo.fr/societe/education/"
-    ],
-    "createdAt": "2026-11-13T02:45:41.000Z",
-    "updatedAt": "2026-11-13T03:05:48Z"
+    "createdAt": "2026-11-13T10:29:42.000Z",
+    "updatedAt": "2026-11-13T10:38:45Z"
   },
   {
     "id": "fr-2026-11-13-manifestation-fermeture-ecoles-lannion",
@@ -172,86 +208,67 @@
       "Snudi-FO",
       "Colectivos de padres y docentes"
     ],
-    "motivo": "El sindicato Snudi-FO y colectivos de padres y docentes convocaron una manifestación este viernes 13 de noviembre, a partir de las 17:30, frente al ayuntamiento de Lannion contra el cierre definitivo de tres escuelas de la ciudad: Kroas Hent, Woas-Wen y Keriaden.",
+    "motivo": "El sindicato Snudi-FO y colectivos de padres y docentes convocaron una manifestación este viernes 13 de noviembre, a partir de las 17:30, frente al ayuntamiento de Lannion contra el cierre definitivo de tres escuelas de la ciudad: Kroas Hent, Woas-Wen y Keriaden. La protesta coincide con la reunión convocada por el municipio con las organizaciones sindicales sobre la 'experimentación sobre el mapa escolar'.",
     "status": "programado",
     "lat": 48.7321,
     "lng": -3.459,
     "fuentes": [
-      "https://www.manifsendirect.fr/",
-      "https://actu.fr/bretagne/lannion_22113/education-pourquoi-trois-ecoles-seraient-definitivement-supprimees-a-lannion_65049330.html"
+      "https://actu.fr/bretagne/lannion_22113/education-pourquoi-trois-ecoles-seraient-definitivement-supprimees-a-lannion_65049330.html",
+      "https://www.manifsendirect.fr/"
     ],
     "createdAt": "2026-11-13T02:45:41.000Z",
-    "updatedAt": "2026-11-13T03:05:48Z"
+    "updatedAt": "2026-11-13T10:38:45Z"
   },
   {
-    "id": "fr-2026-11-13-rassemblement-repression-mineurs-pau",
+    "id": "fr-2026-11-13-rassemblement-proviseurs-lycees",
     "seccion": "internacionales",
     "pais": "Francia",
     "bandera": "🇫🇷",
-    "hora": "12:00",
+    "hora": "15:00",
     "fecha": "2026-11-13",
-    "lugar": "Palais de justice de Pau, Pirineos Atlánticos, Francia",
+    "lugar": "Frente a los liceos de toda Francia, en particular los más afectados por las violencias (Libourne, Bègles, Lyon, Nancy, Toulouse, etc.)",
     "tipoAccion": "concentracion",
     "organizaciones": [
-      "CGT PJJ (Protection Judiciaire de la Jeunesse)"
+      "SNPDEN-Unsa",
+      "Snalc"
     ],
-    "motivo": "La CGT de la Protección Judicial de la Juventud (PJJ) convocó una concentración este viernes 13 de noviembre a las 12:00 frente al palacio de justicia de Pau para denunciar la represión judicial contra menores detenidos en el marco del movimiento liceal.",
+    "motivo": "El principal sindicato de directores de centros educativos, SNPDEN-Unsa, convocó a los proviseurs de toda Francia a concentrarse este viernes 13 de noviembre a las 15:00 frente a sus liceos, en particular los más castigados por las violencias del movimiento liceal, para denunciar que se han convertido en 'objetivos'. El Snalc respaldó la movilización al 100%. Según el Ministerio de Educación, 81 directores y adjuntos resultaron heridos desde el inicio de la crisis.",
     "status": "programado",
-    "lat": 43.2951,
-    "lng": -0.3708,
+    "lat": 48.8566,
+    "lng": 2.3522,
     "fuentes": [
-      "https://www.manifsendirect.fr/",
-      "https://www.sudouest.fr/"
+      "https://www.franceinfo.fr/societe/education/blocage-des-lycees/nous-sommes-devenus-des-cibles-le-principal-syndicat-des-proviseurs-appelle-au-rassemblement-vendredi-13-novembre_8275154.html",
+      "https://www.huffingtonpost.fr/france/article/un-proviseur-de-lycee-blesse-par-un-projectile-a-bordeaux-ce-syndicat-tire-la-sonnette-d-alarme_354785.html",
+      "http://www.leprogres.fr/education/2026/11/10/mobilisation-lyceenne-les-proviseurs-tirent-la-sonnette-d-alarme-face-a-une-montee-des-violences"
     ],
-    "createdAt": "2026-11-13T02:45:41.000Z",
-    "updatedAt": "2026-11-13T03:05:48Z"
-  },
-  {
-    "id": "fr-2026-11-13-blocage-fac-derecho-rennes",
-    "seccion": "internacionales",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "",
-    "fecha": "2026-11-13",
-    "lugar": "Facultad de Derecho de Rennes, Rennes, Ille-et-Vilaine, Bretaña, Francia",
-    "tipoAccion": "bloqueo",
-    "organizaciones": [
-      "Interasso Rennes",
-      "UNEF"
-    ],
-    "motivo": "La facultad de Derecho de Rennes continúa este viernes 13 de noviembre con los cursos en modalidad a distancia y el bloqueo del edificio iniciado el jueves 12, que se extenderá hasta el sábado, en el marco de la movilización estudiantil contra las reformas educativas.",
-    "status": "en_curso",
-    "lat": 48.1173,
-    "lng": -1.6778,
-    "fuentes": [
-      "https://www.manifsendirect.fr/",
-      "https://www.ouest-france.fr/bretagne/rennes-35000/"
-    ],
-    "createdAt": "2026-11-13T02:45:41.000Z",
-    "updatedAt": "2026-11-13T03:05:48Z"
+    "createdAt": "2026-11-13T10:29:42.000Z",
+    "updatedAt": "2026-11-13T10:38:45Z"
   },
   {
     "id": "us-2026-11-13-protesta-conferencia-israel-chula-vista",
     "seccion": "internacionales",
     "pais": "Estados Unidos",
     "bandera": "🇺🇸",
-    "hora": "",
+    "hora": "17:30",
     "fecha": "2026-11-13",
-    "lugar": "Gaylord Pacific Resort & Convention Center, Chula Vista, California, Estados Unidos",
+    "lugar": "H Street y Marina Parkway, junto al Gaylord Pacific Resort & Convention Center, Chula Vista, California, Estados Unidos",
     "tipoAccion": "protesta",
     "organizaciones": [
       "Jewish Voice for Peace San Diego",
+      "PYM San Diego",
       "Coaliciones locales"
     ],
-    "motivo": "Coaliciones locales, entre ellas Jewish Voice for Peace San Diego, convocaron protestas y una vigilia frente al Gaylord Pacific Resort & Convention Center de Chula Vista, donde se celebra la conferencia Global Conference for Israel. Para este viernes 13 de noviembre, coincidiendo con la llegada del Shabat, se prevé un servicio religioso y una protesta por la tarde frente al recinto, además de una manifestación para el sábado 14. Los organizadores denuncian la conferencia y exigen un alto el fuego y el fin del apoyo estadounidense a Israel.",
+    "motivo": "Coaliciones locales, entre ellas Jewish Voice for Peace San Diego, convocaron una vigilia y un servicio interreligioso anti-sionista ('Anti-Zionist Shabbat') para este viernes 13 de noviembre a las 17:30 en H Street y Marina Parkway, frente al Gaylord Pacific Resort & Convention Center de Chula Vista, donde se celebra la conferencia Global Conference for Israel del Jewish National Fund. Los organizadores rechazan la conferencia y denuncian la adquisición de tierras; está prevista además una manifestación para el sábado 14.",
     "status": "programado",
     "lat": 32.6401,
     "lng": -117.0842,
     "fuentes": [
-      "https://www.kpbs.org/news/politics/2026/11/12/global-conference-for-israel-at-chula-vistas-gaylord-pacific-prompts-protests"
+      "https://www.findaprotest.info/event/chula-vista/evt-blk-f6889b069a8e0132",
+      "https://www.kpbs.org/news/politics/2026/11/12/global-conference-for-israel-at-chula-vistas-gaylord-pacific-prompts-protests",
+      "https://wisevoter.com/world/us/ca/chula-vista/2026/11/13/jewish-national-fund-conference-chula-vista-protests"
     ],
     "createdAt": "2026-11-13T02:45:41.000Z",
-    "updatedAt": "2026-11-13T03:05:48Z"
+    "updatedAt": "2026-11-13T10:38:45Z"
   },
   {
     "id": "ar-2026-11-13-ate-anac-paro-a-la-japonesa",
@@ -267,7 +284,7 @@
       "ATE-ANAC (Administración Nacional de Aviación Civil)"
     ],
     "motivo": "Los trabajadores de la ANAC agrupados en ATE realizan este viernes 13 de noviembre un 'paro a la japonesa' desde las 06:00 en Ezeiza y Aeroparque, con controles exhaustivos de aeronaves, vehículos y personal de rampa, además de retención de tareas durante toda la jornada en las áreas administrativas del organismo en los 27 aeropuertos del país. Reclaman recomposición salarial, paritarias sectoriales y mayor financiamiento para la ANAC, y denuncian el congelamiento de parte de los haberes desde comienzos de 2026.",
-    "status": "programado",
+    "status": "en_curso",
     "lat": -34.8222,
     "lng": -58.5358,
     "fuentes": [
@@ -276,7 +293,7 @@
       "https://www.lagaceta.com.ar/nota/1162177/sociedad/ate-anuncio-medidas-fuerza-aeropuertos-pasara-este-viernes-ezeiza-aeroparque.html"
     ],
     "createdAt": "2026-11-13T03:00:11.000Z",
-    "updatedAt": "2026-11-13T03:05:48Z"
+    "updatedAt": "2026-11-13T10:38:45Z"
   },
   {
     "id": "ar-2026-11-13-encadenados-catedral-milton-tolomeo",
@@ -299,7 +316,7 @@
       "https://www.pagina12.com.ar/2026/11/13/se-encadenaron-en-la-catedral-en-reclamo-por-la-libertad-de-milton-tolomeo-y-eneas-gallo/"
     ],
     "createdAt": "2026-11-13T03:00:11.000Z",
-    "updatedAt": "2026-11-13T03:05:48Z"
+    "updatedAt": "2026-11-13T10:38:45Z"
   },
   {
     "id": "ar-2026-11-13-paro-universitario-nacional-conadu-historica",
@@ -329,7 +346,7 @@
       "https://www.rionegro.com.ar/gremios/semana-de-paro-universitario-por-la-ley-de-financiamiento-que-pasa-en-neuquen-y-rio-negro-del-12-al-18-de-noviembre-4793906/"
     ],
     "createdAt": "2026-11-13T03:00:11.000Z",
-    "updatedAt": "2026-11-13T03:05:48Z"
+    "updatedAt": "2026-11-13T10:38:45Z"
   },
   {
     "id": "ar-2026-11-13-ate-santa-cruz-paro-general-72-horas",
@@ -352,7 +369,7 @@
       "https://www.opisantacruz.com.ar/2026/11/11/ate-convoco-a-un-paro-de-72-horas-por-falta-de-oferta-salarial/"
     ],
     "createdAt": "2026-11-13T03:00:11.000Z",
-    "updatedAt": "2026-11-13T03:05:48Z"
+    "updatedAt": "2026-11-13T10:38:45Z"
   },
   {
     "id": "ar-2026-11-13-ate-chubut-paro-24-horas",
@@ -375,7 +392,7 @@
       "https://cholilaonline.ar/2026/11/conflicto-estatal-chubut-ate-paro-total-viernes-escuelas.html"
     ],
     "createdAt": "2026-11-13T03:00:11.000Z",
-    "updatedAt": "2026-11-13T03:05:48Z"
+    "updatedAt": "2026-11-13T10:38:45Z"
   },
   {
     "id": "ar-2026-11-13-brigadistas-chubut-paro-total",
@@ -398,7 +415,7 @@
       "https://www.anbariloche.com.ar/noticias/2026/11/12/122681-brigadistas-de-chubut-anunciaron-un-paro-total-desde-este-viernes-por-un-reclamo-salarial"
     ],
     "createdAt": "2026-11-13T03:00:11.000Z",
-    "updatedAt": "2026-11-13T03:05:48Z"
+    "updatedAt": "2026-11-13T10:38:45Z"
   },
   {
     "id": "ar-2026-11-13-sejun-neuquen-retiro-provincial",
@@ -420,6 +437,28 @@
       "https://neuquennews.com.ar/contenido/29696/conflicto-judicial-en-neuquen-sejun-definio-retiros-de-trabajo-para-jueves-y-vie"
     ],
     "createdAt": "2026-11-13T03:00:11.000Z",
-    "updatedAt": "2026-11-13T03:05:48Z"
+    "updatedAt": "2026-11-13T10:38:45Z"
+  },
+  {
+    "id": "ar-2026-11-13-marcha-orgullo-resistencia-chaco",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-11-13",
+    "lugar": "Resistencia, Chaco, Argentina",
+    "tipoAccion": "manifestacion",
+    "organizaciones": [
+      "Comisión Organizadora de la Marcha del Orgullo de Resistencia"
+    ],
+    "motivo": "Resistencia, Chaco, celebra este viernes 13 de noviembre su Marcha del Orgullo LGBTIQ+, en el marco del cronograma federal de marchas 2026. La movilización reclama el pleno ejercicio de los derechos de la diversidad sexual y de género, la implementación efectiva de la Ley de Educación Sexual Integral y de la Ley de Cupo Laboral Travesti-Trans, y denuncia los discursos de odio y la violencia contra la comunidad LGBTIQ+.",
+    "status": "programado",
+    "lat": -27.4514,
+    "lng": -58.9867,
+    "fuentes": [
+      "https://argay.ar/marchas2026"
+    ],
+    "createdAt": "2026-11-13T10:33:46.000Z",
+    "updatedAt": "2026-11-13T10:38:45Z"
   }
 ]
