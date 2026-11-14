@@ -1,773 +1,1187 @@
 [
   {
-    "id": "it-2026-11-13-sciopero-atvo-venecia",
+    "id": "tr-2026-11-14-people-climate-march-antalya",
     "seccion": "internacionales",
-    "pais": "Italia",
-    "bandera": "🇮🇹",
-    "hora": "",
-    "fecha": "2026-11-13",
-    "lugar": "Venecia y su provincia, Véneto, Italia",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "OSP SGB",
-      "FAST MOBILITA'"
-    ],
-    "motivo": "El transporte público local de la empresa Atvo en Venecia y su provincia permanece en huelga durante 24 horas este viernes 13 de noviembre, convocada por los sindicatos OSP SGB y FAST MOBILITA' según el calendario de huelgas del Ministerio de Infraestructuras y Transportes. El paro afecta a autobuses y conexiones locales del Véneto.",
-    "status": "finalizado",
-    "lat": 45.4408,
-    "lng": 12.3155,
-    "fuentes": [
-      "https://scioperi.mit.gov.it/mit2/public/scioperi",
-      "https://en.lamilano.it/by-the-media/Strike-today--November-13th--with-public-transport-stopped-in-Milan-and-Venice."
-    ],
-    "createdAt": "2026-11-13T02:45:41.000Z",
-    "updatedAt": "2026-11-13T23:34:59Z"
-  },
-  {
-    "id": "it-2026-11-13-sciopero-atm-milan",
-    "seccion": "internacionales",
-    "pais": "Italia",
-    "bandera": "🇮🇹",
-    "hora": "",
-    "fecha": "2026-11-13",
-    "lugar": "Milán y Lombardía, Italia",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "AL-COBAS",
-      "Confial Trasporti"
-    ],
-    "motivo": "Los sindicatos AL-COBAS y Confial Trasporti convocaron una huelga de 24 horas del personal de Gruppo ATM (transporte público de Milán, Monza y Brianza) para este viernes 13 de noviembre, registrada en el calendario de huelgas del Ministerio de Infraestructuras y Transportes. El servicio de metro, tranvías y autobuses puede no estar garantizado de 8:45 a 15:00 y después de las 18:00 hasta el fin del servicio.",
-    "status": "finalizado",
-    "lat": 45.4642,
-    "lng": 9.19,
-    "fuentes": [
-      "https://scioperi.mit.gov.it/mit2/public/scioperi",
-      "https://en.lamilano.it/by-the-media/Strike-today--November-13th--with-public-transport-stopped-in-Milan-and-Venice."
-    ],
-    "createdAt": "2026-11-13T02:45:41.000Z",
-    "updatedAt": "2026-11-13T23:34:59Z"
-  },
-  {
-    "id": "de-2026-11-13-warnstreik-albtal-verkehrsgesellschaft",
-    "seccion": "internacionales",
-    "pais": "Alemania",
-    "bandera": "🇩🇪",
-    "hora": "",
-    "fecha": "2026-11-13",
-    "lugar": "Karlsruhe y Heilbronn, Baden-Wurtemberg, Alemania",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "ver.di (Vereinte Dienstleistungsgewerkschaft)"
-    ],
-    "motivo": "El sindicato ver.di convocó un nuevo paro de advertencia (Warnstreik) para este viernes 13 de noviembre en la Albtal-Verkehrsgesellschaft (AVG), que opera el tren ligero y autobuses en la región de Karlsruhe y Heilbronn, en el marco de la ronda nacional de negociación del convenio ferroviario ETV. La medida puede provocar cancelaciones en toda la red de la AVG; la próxima ronda negociadora está prevista para el 16 de noviembre.",
-    "status": "finalizado",
-    "lat": 49.0069,
-    "lng": 8.4037,
-    "fuentes": [
-      "https://www.stimme.de/heilbronn/landkreis-heilbronn/warnstreik-verdi-avg-stadtbahn-ausfaelle-tarif-ver-handlung-art-5234848",
-      "https://bahnblogstelle.com/266262/verdi-ruft-avg-beschaeftigte-zum-ganztaegigen-warnstreik-auf/",
-      "https://www.ettenheim.de/nachrichten/warnstreik-bei-der-sweg-am-donnerstag-12-und-freitag-13-november-2026"
-    ],
-    "createdAt": "2026-11-13T02:45:41.000Z",
-    "updatedAt": "2026-11-13T23:34:59Z"
-  },
-  {
-    "id": "de-2026-11-13-warnstreik-asklepios-hamburgo",
-    "seccion": "internacionales",
-    "pais": "Alemania",
-    "bandera": "🇩🇪",
-    "hora": "",
-    "fecha": "2026-11-13",
-    "lugar": "Asklepios Service Dienstleistungen GmbH, Hamburgo, Alemania",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "ver.di (Vereinte Dienstleistungsgewerkschaft)"
-    ],
-    "motivo": "ver.di llamó a un paro de advertencia de día completo este viernes 13 de noviembre en Asklepios Service Dienstleistungen GmbH en Hamburgo. Los trabajadores del transporte de pacientes reclaman un convenio colectivo de empresa (Haustarifvertrag) y mejores condiciones laborales; pueden producirse retrasos en los traslados y exámenes.",
-    "status": "finalizado",
-    "lat": 53.5511,
-    "lng": 9.9937,
-    "fuentes": [
-      "https://www.verdi.de/hamburg/presse/pressemitteilungen/warnstreik-krankenhausdienstleister-beschaeftigte-asklepios-service-dienstleistungen-gmbh-kaempfen"
-    ],
-    "createdAt": "2026-11-13T02:45:41.000Z",
-    "updatedAt": "2026-11-13T23:34:59Z"
-  },
-  {
-    "id": "de-2026-11-13-huelga-climatica-rostock",
-    "seccion": "internacionales",
-    "pais": "Alemania",
-    "bandera": "🇩🇪",
-    "hora": "17:00",
-    "fecha": "2026-11-13",
-    "lugar": "Rosengarten (memorial del Holocausto) hacia August-Bebel-Straße, Rostock, Mecklemburgo-Pomerania Occidental, Alemania",
+    "pais": "Turquía",
+    "bandera": "🇹🇷",
+    "hora": "14:00",
+    "fecha": "2026-11-14",
+    "lugar": "Parque Aydın Kanza, Antalya, Turquía",
     "tipoAccion": "manifestacion",
     "organizaciones": [
-      "Fridays for Future Alemania",
-      "Fridays for Future Rostock"
+      "People's Climate Summit",
+      "350.org",
+      "Movimientos por la justicia climática"
     ],
-    "motivo": "En el marco de la jornada de huelga climática nacional convocada bajo el lema 'Klimaschutz heißt Antifaschismus' (la protección del clima significa antifascismo), Rostock acoge una manifestación este viernes 13 de noviembre de 17:00 a 19:00 horas con un recorrido desde el Rosengarten, junto al memorial del Holocausto, hasta August-Bebel-Straße. La convocatoria, registrada ante el ayuntamiento con unos 100 participantes anunciados, exige acelerar la protección climática y rechaza el avance de la ultraderecha.",
-    "status": "finalizado",
-    "lat": 54.0887,
-    "lng": 12.14,
+    "motivo": "En el marco del Día Global de Acción por la Justicia Climática y del inicio de la Cumbre de los Pueblos, miles de personas se concentran y marchan en Antalya durante la COP31 para exigir el fin de los combustibles fósiles, financiamiento climático público para el Sur Global y una transición justa. La marcha parte a las 14:00 del parque Aydın Kanza.",
+    "status": "programado",
+    "lat": 36.8969,
+    "lng": 30.7133,
     "fuentes": [
-      "https://rathaus.rostock.de/de/service/aemter/stadtamt/versammlungen/343356",
-      "https://fridaysforfuture.de/klimastreik"
+      "https://350.org/press-release/peoples-climate-march-to-bring-global-call-for-climate-justice-to-the-streets-of-antalya",
+      "https://bianet.org/haber/cop31-opens-in-antalya-today-325213"
     ],
-    "createdAt": "2026-11-13T02:45:41.000Z",
-    "updatedAt": "2026-11-13T23:34:59Z"
+    "createdAt": "2026-11-14T03:27:59.000Z",
+    "updatedAt": "2026-11-14T03:36:50Z"
   },
   {
-    "id": "de-2026-11-13-klimastreik-nacional",
+    "id": "fr-2026-11-14-acte-v-paris",
+    "seccion": "internacionales",
+    "pais": "Francia",
+    "bandera": "🇫🇷",
+    "hora": "14:00",
+    "fecha": "2026-11-14",
+    "lugar": "Place de la République hacia Place de la Nation vía Bastille, París, Francia",
+    "tipoAccion": "manifestacion",
+    "organizaciones": [
+      "Coordinación de los Chalecos Amarillos",
+      "Intersindical juvenil (Union étudiante, USL, Unef, Fage)",
+      "CGT Île-de-France",
+      "FSU",
+      "FO",
+      "Collectif Enfantiste",
+      "Colectivo SAVE"
+    ],
+    "motivo": "Quinta jornada consecutiva de protestas contra la vida cara convocada por la coordinación de los chalecos amarillos, la intersindical juvenil, la CGT Île-de-France, FSU y FO, con convergencia de las marchas por los derechos de la infancia y contra la violencia policial. El recorrido autorizado va de Place de la République a Place de la Nation vía Bastille; se esperan entre 30.000 y 60.000 personas y 70.000 policías y gendarmes desplegados en el país.",
+    "status": "programado",
+    "lat": 48.8675,
+    "lng": 2.3634,
+    "fuentes": [
+      "https://www.leparisien.fr/paris-75/manifestation-du-14-novembre-a-paris-30-000-a-60-000-personnes-attendues-pour-un-parcours-entre-republique-et-nation-13-11-2026-G6U6VAUGOVE7ZLU4WUO4JTO3OY.php",
+      "https://www.sortiraparis.com/en/news/in-paris/articles/358215-november-14-protest-in-paris-route-approved",
+      "https://en.lb.ua/news/2026/11/13/49750_france_braces_another_wave.html"
+    ],
+    "createdAt": "2026-11-14T03:27:59.000Z",
+    "updatedAt": "2026-11-14T03:36:50Z"
+  },
+  {
+    "id": "fr-2026-11-14-manifestations-ciudades",
+    "seccion": "internacionales",
+    "pais": "Francia",
+    "bandera": "🇫🇷",
+    "hora": "",
+    "fecha": "2026-11-14",
+    "lugar": "Toulouse, Bordeaux, Nantes, Strasbourg, Rennes y Montpellier, Francia",
+    "tipoAccion": "manifestacion",
+    "organizaciones": [
+      "Collectif Enfantiste",
+      "Mouvement du 26 septembre",
+      "Chalecos Amarillos",
+      "CGT"
+    ],
+    "motivo": "El Collectif Enfantiste y el Mouvement du 26 septembre convocaron manifestaciones descentralizadas por los derechos de la infancia, el clima y contra la vida cara en varias ciudades francesas: Toulouse (14:00, facultad del Mirail), Bordeaux (13:00, place Pey-Berland), Nantes (14:00, place de Bretagne), Strasbourg (14:00, place d'Austerlitz), Rennes (14:00, esplanade Charles-de-Gaulle) y Montpellier (14:00).",
+    "status": "programado",
+    "lat": 43.6047,
+    "lng": 1.4442,
+    "fuentes": [
+      "https://www.actu-alt-plus.com/idees-solutions/manifestation-14-novembre-2026-parcours-heure-villes/42130/",
+      "https://regions-snetap-fsu.fr/hdf/2026/11/13/samedi-14-novembre-2026-soutenons-et-participons-aux-marches-climatiques-en-hauts-de-france/"
+    ],
+    "createdAt": "2026-11-14T03:27:59.000Z",
+    "updatedAt": "2026-11-14T03:36:50Z"
+  },
+  {
+    "id": "fr-2026-11-14-ai-treaty-paris",
+    "seccion": "internacionales",
+    "pais": "Francia",
+    "bandera": "🇫🇷",
+    "hora": "11:00",
+    "fecha": "2026-11-14",
+    "lugar": "Place de la Concorde hacia el Trocadéro, París, Francia",
+    "tipoAccion": "manifestacion",
+    "organizaciones": [
+      "Pause IA",
+      "Stop The AI Race"
+    ],
+    "motivo": "Marcha por un Tratado Internacional de IA convocada por Pause IA y Stop The AI Race, de Place de la Concorde al Trocadéro, para exigir a Estados Unidos y China que negocien un tratado que frene la carrera armamentista de la inteligencia artificial antes de la cumbre del APEC del 18 de noviembre.",
+    "status": "programado",
+    "lat": 48.8656,
+    "lng": 2.3212,
+    "fuentes": [
+      "https://aitreatymarch.org/",
+      "https://www.sortiraparis.com/en/news/in-paris/articles/358040-november-14-demonstrations-in-paris-who-is-marching-where-and-when-le-point"
+    ],
+    "createdAt": "2026-11-14T03:27:59.000Z",
+    "updatedAt": "2026-11-14T03:36:50Z"
+  },
+  {
+    "id": "pt-2026-11-14-casa-para-viver-lisboa",
+    "seccion": "internacionales",
+    "pais": "Portugal",
+    "bandera": "🇵🇹",
+    "hora": "15:00",
+    "fecha": "2026-11-14",
+    "lugar": "Alameda Dom Afonso Henriques, Lisboa, Portugal",
+    "tipoAccion": "manifestacion",
+    "organizaciones": [
+      "Plataforma Casa para Viver",
+      "Movimento Porta a Porta",
+      "Acampada de Lisboa"
+    ],
+    "motivo": "Día Nacional de Lucha por la Vivienda convocado por la Plataforma Casa para Viver y el Movimento Porta a Porta, con manifestaciones en unas 30 ciudades portuguesas. En Lisboa la marcha parte a las 15:00 de la Alameda Dom Afonso Henriques contra la nueva ley de arrendamientos, los desalojos sin alternativa y la especulación inmobiliaria.",
+    "status": "programado",
+    "lat": 38.7369,
+    "lng": -9.1366,
+    "fuentes": [
+      "https://sicnoticias.pt/pais/2026-10-31-greves-e-manifestacoes-que-vao-marcar-o-mes-de-novembro-07644f44",
+      "https://www.rtp.pt/noticias/politica/manifestantes-vao-a-belem-crise-na-habitacao-marca-a-agenda-de-seguro_n1778847"
+    ],
+    "createdAt": "2026-11-14T03:27:59.000Z",
+    "updatedAt": "2026-11-14T03:36:50Z"
+  },
+  {
+    "id": "pt-2026-11-14-casa-para-viver-porto",
+    "seccion": "internacionales",
+    "pais": "Portugal",
+    "bandera": "🇵🇹",
+    "hora": "15:00",
+    "fecha": "2026-11-14",
+    "lugar": "Praça do Marquês do Pombal, Porto, Portugal",
+    "tipoAccion": "manifestacion",
+    "organizaciones": [
+      "Plataforma Casa para Viver (Porto)",
+      "Movimento Porta a Porta",
+      "Coletivos do distrito do Porto"
+    ],
+    "motivo": "La Plataforma Casa para Viver del distrito de Porto y el Movimento Porta a Porta convocan una manifestación a las 15:00 en la Praça do Marquês, dentro del Día Nacional de Lucha por la Vivienda, contra las rentas altas, los desalojos y la falta de vivienda pública.",
+    "status": "programado",
+    "lat": 41.1579,
+    "lng": -8.6291,
+    "fuentes": [
+      "https://eventos.coletivos.org/event/manifestacao-casa-para-viver-14112026",
+      "https://sicnoticias.pt/pais/2026-10-31-greves-e-manifestacoes-que-vao-marcar-o-mes-de-novembro-07644f44"
+    ],
+    "createdAt": "2026-11-14T03:27:59.000Z",
+    "updatedAt": "2026-11-14T03:36:50Z"
+  },
+  {
+    "id": "pt-2026-11-14-casa-para-viver-funchal",
+    "seccion": "internacionales",
+    "pais": "Portugal",
+    "bandera": "🇵🇹",
+    "hora": "11:00",
+    "fecha": "2026-11-14",
+    "lugar": "Rua Dr. Fernão de Ornelas, frente a la Feira dos Tecidos, Funchal, Madeira, Portugal",
+    "tipoAccion": "manifestacion",
+    "organizaciones": [
+      "Movimento Porta a Porta",
+      "Plataforma Casas para Viver",
+      "Movimento Democrático de Mulheres (MDM Madeira)",
+      "ARPIRAM"
+    ],
+    "motivo": "El Movimento Porta a Porta y la plataforma Casas para Viver convocan en Funchal una jornada de protesta por el derecho a la vivienda a las 11:00 en la Rua Dr. Fernão de Ornelas, frente a la Feira dos Tecidos, con una marcha posterior hasta la Assembleia Legislativa de Madeira. Se suman el Movimento Democrático de Mulheres y ARPIRAM.",
+    "status": "programado",
+    "lat": 32.647,
+    "lng": -16.9145,
+    "fuentes": [
+      "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30008079/movimento-democratico-de-mulheres-apela-a-participacao-na-manifestacao-de-14-de-novembro.html",
+      "https://www.dnoticias.pt/2026/10/27/510605-reformados-saem-em-defesa-do-direito-a-casa",
+      "https://www.jm-madeira.pt/not%C3%ADcias/regi-o/30008362/porta-a-porta-leva-luta-pela-habitacao-a-ribeira-brava-e-anuncia-acao-no-funchal.html"
+    ],
+    "createdAt": "2026-11-14T03:27:59.000Z",
+    "updatedAt": "2026-11-14T03:36:50Z"
+  },
+  {
+    "id": "gb-2026-11-14-north-london-unity-march",
+    "seccion": "internacionales",
+    "pais": "Reino Unido",
+    "bandera": "🇬🇧",
+    "hora": "12:00",
+    "fecha": "2026-11-14",
+    "lugar": "Mezquita de Wightman Road (389 Wightman Road, Haringey) hacia las mezquitas de Finsbury Park, Londres, Reino Unido",
+    "tipoAccion": "manifestacion",
+    "organizaciones": [
+      "Stand Up To Racism",
+      "SUTR Haringey e Islington",
+      "Sindicatos y organizaciones comunitarias"
+    ],
+    "motivo": "Stand Up To Racism y sus grupos de Haringey e Islington convocan una marcha por la unidad contra la extrema derecha, el racismo, la islamofobia y el antisemitismo. La concentración es a las 12:00 en la mezquita de Wightman Road y avanza hacia las mezquitas de Finsbury Park.",
+    "status": "programado",
+    "lat": 51.5866,
+    "lng": -0.1042,
+    "fuentes": [
+      "https://standuptoracism.org.uk/2026/11/12/anti-racists-outnumber-far-right-in-york-and-newcastle-as-london-prepares-for-unity-marches/",
+      "https://www.findaprotest.info/event/london/evt-blk-9f7dfac0fa4ebeac"
+    ],
+    "createdAt": "2026-11-14T03:27:59.000Z",
+    "updatedAt": "2026-11-14T03:36:50Z"
+  },
+  {
+    "id": "gb-2026-11-14-south-london-unity-march",
+    "seccion": "internacionales",
+    "pais": "Reino Unido",
+    "bandera": "🇬🇧",
+    "hora": "12:00",
+    "fecha": "2026-11-14",
+    "lugar": "Windrush Square, Brixton, Londres, Reino Unido",
+    "tipoAccion": "manifestacion",
+    "organizaciones": [
+      "Stand Up To Racism South London",
+      "Love Music Hate Racism"
+    ],
+    "motivo": "Stand Up To Racism de South London y Love Music Hate Racism convocan una marcha por la unidad contra la extrema derecha desde Windrush Square, Brixton, a las 12:00, con reclamos de justicia para la generación Windrush y el profesor Jason Arday.",
+    "status": "programado",
+    "lat": 51.4613,
+    "lng": -0.1142,
+    "fuentes": [
+      "https://standuptoracism.org.uk/2026/11/12/anti-racists-outnumber-far-right-in-york-and-newcastle-as-london-prepares-for-unity-marches/",
+      "https://www.findaprotest.info/event/london/evt-blk-371c8188e204234f"
+    ],
+    "createdAt": "2026-11-14T03:27:59.000Z",
+    "updatedAt": "2026-11-14T03:36:50Z"
+  },
+  {
+    "id": "gb-2026-11-14-west-london-unity-demo",
+    "seccion": "internacionales",
+    "pais": "Reino Unido",
+    "bandera": "🇬🇧",
+    "hora": "13:00",
+    "fecha": "2026-11-14",
+    "lugar": "Estación Hayes & Harlington, Hayes, oeste de Londres, Reino Unido",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "Stand Up To Racism"
+    ],
+    "motivo": "Stand Up To Racism convoca una concentración por la unidad contra el racismo y el fascismo en Hayes, oeste de Londres, a las 13:00 frente a la estación Hayes & Harlington.",
+    "status": "programado",
+    "lat": 51.5033,
+    "lng": -0.42,
+    "fuentes": [
+      "https://standuptoracism.org.uk/events",
+      "https://actionnetwork.org/event_campaigns/unity-against-the-far-right-find-a-demonstration-near-you"
+    ],
+    "createdAt": "2026-11-14T03:27:59.000Z",
+    "updatedAt": "2026-11-14T03:36:50Z"
+  },
+  {
+    "id": "de-2026-11-14-pruef-demo-berlin",
     "seccion": "internacionales",
     "pais": "Alemania",
     "bandera": "🇩🇪",
-    "hora": "",
-    "fecha": "2026-11-13",
-    "lugar": "Más de 70 ciudades de Alemania (Berlín, Hamburgo, Múnich, Karlsruhe, Pforzheim, Leipzig, Colonia, Hannover, Dortmund, Halle, Würzburg, etc.)",
+    "hora": "14:00",
+    "fecha": "2026-11-14",
+    "lugar": "Distrito de Mitte, Berlín, Alemania",
     "tipoAccion": "manifestacion",
     "organizaciones": [
-      "Fridays for Future Alemania",
-      "KlimaAllianz Deutschland",
-      "WWF Alemania",
-      "GLS Bank",
-      "Protect the Planet"
+      "Hand in Hand",
+      "!PRüF-Demos (Wir sind die Brandmauer)"
     ],
-    "motivo": "Fridays for Future convocó una jornada nacional de huelga y manifestaciones climáticas para este viernes 13 de noviembre en más de 70 ciudades alemanas, coincidiendo con las negociaciones de la COP31 en Antalya. Bajo el lema '#PayYourClimateDebt!', el movimiento exige que Alemania cumpla sus compromisos financieros internacionales de clima y acelere el fin de los combustibles fósiles. En Berlín está prevista una concentración por la tarde frente a la Cancillería.",
-    "status": "finalizado",
+    "motivo": "La alianza Hand in Hand / !PRüF-Demos (Wir sind die Brandmauer) convoca una manifestación en Mitte, Berlín, contra los partidos de extrema derecha y en defensa de la democracia y los derechos humanos.",
+    "status": "programado",
     "lat": 52.52,
     "lng": 13.405,
     "fuentes": [
-      "https://fridaysforfuture.de/klimastreik",
-      "https://www.wwf.de/klimastreik",
-      "https://www.rbb24.de/politik/beitrag/2026/11/weltklimakonferenz-fridays-for-future-demos-berlin-brandenburg.html",
-      "https://www.die-neue-welle.de/klimastreik-am-freitag-demos-in-karlsruhe-und-pforzheim-geplant-2000364/"
+      "https://www.findaprotest.info/germany/berlin"
     ],
-    "createdAt": "2026-11-13T10:29:42.000Z",
-    "updatedAt": "2026-11-13T23:34:59Z"
+    "createdAt": "2026-11-14T03:27:59.000Z",
+    "updatedAt": "2026-11-14T03:36:50Z"
   },
   {
-    "id": "be-2026-11-13-manifestation-fonctionnaires-bruxelles",
+    "id": "de-2026-11-14-community-resistance-day-berlin",
     "seccion": "internacionales",
-    "pais": "Bélgica",
-    "bandera": "🇧🇪",
-    "hora": "10:00",
-    "fecha": "2026-11-13",
-    "lugar": "Marcha desde Rogier por el centro de Bruselas, Bélgica",
-    "tipoAccion": "manifestacion",
-    "organizaciones": [
-      "ACOD-CGSP",
-      "ACV-CSC Openbare Diensten",
-      "VSOA"
-    ],
-    "motivo": "Los sindicatos de los servicios públicos locales y regionales de Bruselas (ACOD-CGSP, ACV-CSC Openbare Diensten y VSOA) convocaron una marcha este viernes 13 de noviembre con salida a las 10:00 en Rogier, contra los recortes presupuestarios que, denuncian, asfixian financieramente a los municipios y a los centros públicos de bienestar social (OCMW/CPAS). Reclaman financiación suficiente y advierten que los límites a las prestaciones de desempleo empujan a miles de personas hacia los servicios sociales.",
-    "status": "finalizado",
-    "lat": 50.855,
-    "lng": 4.359,
-    "fuentes": [
-      "https://www.brusselstimes.com/brussels/2401188/brussels-unions-to-protest-austerity-measures-on-friday-13-november",
-      "https://belgium-now.com/2026/11/10/brussels-unions-march-rogier-municipality-ocmw-cuts/"
-    ],
-    "createdAt": "2026-11-13T10:29:42.000Z",
-    "updatedAt": "2026-11-13T23:34:59Z"
-  },
-  {
-    "id": "ie-2026-11-13-protesta-combustibles-dublin",
-    "seccion": "internacionales",
-    "pais": "Irlanda",
-    "bandera": "🇮🇪",
-    "hora": "12:00",
-    "fecha": "2026-11-13",
-    "lugar": "Leinster House, Kildare Street (marcha hacia Dublin Castle), Dublín, Irlanda",
+    "pais": "Alemania",
+    "bandera": "🇩🇪",
+    "hora": "15:00",
+    "fecha": "2026-11-14",
+    "lugar": "Bezirk Friedrichshain-Kreuzberg, Berlín, Alemania",
     "tipoAccion": "protesta",
     "organizaciones": [
-      "People of Ireland Against Fuel Prices"
+      "Demo Ticker Berlin Kollektiv"
     ],
-    "motivo": "El grupo 'People of Ireland Against Fuel Prices' mantiene para este viernes 13 de noviembre una concentración estática en el centro de Dublín a partir de las 12:00, con concentración frente al Leinster House, en Kildare Street. La convocatoria exige medidas contra el alto precio de los combustibles y el coste de la vida. Los convoyes previstos en todo el país fueron cancelados por falta de apoyo y por la política de tolerancia cero de la Gardaí ante bloqueos de carreteras, en coincidencia con la cumbre de la UE en la capital.",
-    "status": "finalizado",
-    "lat": 53.3406,
-    "lng": -6.2546,
+    "motivo": "El Demo Ticker Berlin Kollektiv convoca una jornada de resistencia comunitaria en Friedrichshain-Kreuzberg con actividades y recaudación de fondos en solidaridad con Palestina, derechos de las personas refugiadas y contra la guerra y el racismo.",
+    "status": "programado",
+    "lat": 52.5075,
+    "lng": 13.4393,
     "fuentes": [
-      "https://www.nova.ie/hauliers-to-protest-outside-dail-as-nationwide-fuel-convoys-are-cancelled",
-      "https://www.dublinlive.ie/news/dublin-news/everything-know-fridays-planned-fuel-34904267",
-      "https://safeabroad.com/advisories/protesters-will-march-through-central-dublin-ireland-on-november-13-at-1200-pm-expect-unrest-and-police-presence"
+      "https://www.findaprotest.info/germany/berlin"
     ],
-    "createdAt": "2026-11-13T10:29:42.000Z",
-    "updatedAt": "2026-11-13T23:34:59Z"
+    "createdAt": "2026-11-14T03:27:59.000Z",
+    "updatedAt": "2026-11-14T03:36:50Z"
   },
   {
-    "id": "fr-2026-11-13-manifestation-fermeture-ecoles-lannion",
+    "id": "de-2026-11-14-ai-treaty-berlin",
     "seccion": "internacionales",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "17:30",
-    "fecha": "2026-11-13",
-    "lugar": "Frente al ayuntamiento (mairie) de Lannion, Côtes-d'Armor, Bretaña, Francia",
+    "pais": "Alemania",
+    "bandera": "🇩🇪",
+    "hora": "13:00",
+    "fecha": "2026-11-14",
+    "lugar": "Berlín, Alemania",
     "tipoAccion": "manifestacion",
     "organizaciones": [
-      "Snudi-FO",
-      "Colectivos de padres y docentes"
+      "Stop The AI Race"
     ],
-    "motivo": "El sindicato Snudi-FO y colectivos de padres y docentes convocaron una manifestación este viernes 13 de noviembre, a partir de las 17:30, frente al ayuntamiento de Lannion contra el cierre definitivo de tres escuelas de la ciudad: Kroas Hent, Woas-Wen y Keriaden. La protesta coincide con la reunión convocada por el municipio con las organizaciones sindicales sobre la 'experimentación sobre el mapa escolar'.",
-    "status": "finalizado",
-    "lat": 48.7321,
-    "lng": -3.459,
+    "motivo": "Stop The AI Race convoca en Berlín una marcha por un Tratado Internacional de IA para exigir a Estados Unidos y China que negocien un acuerdo vinculante que frene el desarrollo de sistemas de IA más potentes.",
+    "status": "programado",
+    "lat": 52.52,
+    "lng": 13.405,
     "fuentes": [
-      "https://actu.fr/bretagne/lannion_22113/education-pourquoi-trois-ecoles-seraient-definitivement-supprimees-a-lannion_65049330.html",
-      "https://www.manifsendirect.fr/"
+      "https://aitreatymarch.org/"
     ],
-    "createdAt": "2026-11-13T02:45:41.000Z",
-    "updatedAt": "2026-11-13T23:34:59Z"
+    "createdAt": "2026-11-14T03:27:59.000Z",
+    "updatedAt": "2026-11-14T03:36:50Z"
   },
   {
-    "id": "fr-2026-11-13-rassemblement-proviseurs-lycees",
+    "id": "it-2026-11-14-sciopero-amtab-bari",
     "seccion": "internacionales",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "15:00",
-    "fecha": "2026-11-13",
-    "lugar": "Frente a los liceos de toda Francia, en particular los más afectados por las violencias (Libourne, Bègles, Lyon, Nancy, Toulouse, etc.)",
+    "pais": "Italia",
+    "bandera": "🇮🇹",
+    "hora": "",
+    "fecha": "2026-11-14",
+    "lugar": "Bari, Apulia, Italia",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "FILT CGIL",
+      "FIT CISL",
+      "UILT UIL",
+      "Otras siglas sindicales"
+    ],
+    "motivo": "FILT CGIL, FIT CISL, UILT UIL y otras siglas convocan un paro de 24 horas del personal de Amtab, el transporte público local de Bari, tras el fracaso de las conciliaciones, por problemas de gestión y por garantías sobre el futuro del servicio.",
+    "status": "programado",
+    "lat": 41.1171,
+    "lng": 16.8719,
+    "fuentes": [
+      "https://www.cgil.it/strumenti/scioperi-e-vertenze/calendario-scioperi-9-15-novembre-2026-vertenze-mobilitazioni-e-iniziative-cgil-hff6vqr7"
+    ],
+    "createdAt": "2026-11-14T03:27:59.000Z",
+    "updatedAt": "2026-11-14T03:36:50Z"
+  },
+  {
+    "id": "it-2026-11-14-presidio-farmacias-bolonia",
+    "seccion": "internacionales",
+    "pais": "Italia",
+    "bandera": "🇮🇹",
+    "hora": "13:00",
+    "fecha": "2026-11-14",
+    "lugar": "Piazza del Nettuno, Bolonia, Italia",
     "tipoAccion": "concentracion",
     "organizaciones": [
-      "SNPDEN-Unsa",
-      "Snalc"
+      "Filcams Cgil Bologna"
     ],
-    "motivo": "El principal sindicato de directores de centros educativos, SNPDEN-Unsa, convocó a los proviseurs de toda Francia a concentrarse este viernes 13 de noviembre a las 15:00 frente a sus liceos, en particular los más castigados por las violencias del movimiento liceal, para denunciar que se han convertido en 'objetivos'. El Snalc respaldó la movilización al 100%. Según el Ministerio de Educación, 81 directores y adjuntos resultaron heridos desde el inicio de la crisis.",
-    "status": "finalizado",
-    "lat": 48.8566,
-    "lng": 2.3522,
+    "motivo": "Filcams Cgil Bologna convoca un presidio abierto a la ciudadanía en la Piazza del Nettuno, de 13:00 a 15:00, para exigir la renovación del convenio nacional de farmacias privadas, vencido en agosto de 2024.",
+    "status": "programado",
+    "lat": 44.4949,
+    "lng": 11.3426,
     "fuentes": [
-      "https://www.franceinfo.fr/societe/education/blocage-des-lycees/nous-sommes-devenus-des-cibles-le-principal-syndicat-des-proviseurs-appelle-au-rassemblement-vendredi-13-novembre_8275154.html",
-      "https://www.huffingtonpost.fr/france/article/un-proviseur-de-lycee-blesse-par-un-projectile-a-bordeaux-ce-syndicat-tire-la-sonnette-d-alarme_354785.html",
-      "http://www.leprogres.fr/education/2026/11/10/mobilisation-lyceenne-les-proviseurs-tirent-la-sonnette-d-alarme-face-a-une-montee-des-violences"
+      "https://www.cgil.it/strumenti/scioperi-e-vertenze/calendario-scioperi-9-15-novembre-2026-vertenze-mobilitazioni-e-iniziative-cgil-hff6vqr7"
     ],
-    "createdAt": "2026-11-13T10:29:42.000Z",
-    "updatedAt": "2026-11-13T23:34:59Z"
+    "createdAt": "2026-11-14T03:27:59.000Z",
+    "updatedAt": "2026-11-14T03:36:50Z"
   },
   {
-    "id": "us-2026-11-13-protesta-conferencia-israel-chula-vista",
+    "id": "ro-2026-11-14-miting-aur-bucarest",
+    "seccion": "internacionales",
+    "pais": "Rumania",
+    "bandera": "🇷🇴",
+    "hora": "14:00",
+    "fecha": "2026-11-14",
+    "lugar": "Parque Izvor, junto al Palacio del Parlamento, Bucarest, Rumania",
+    "tipoAccion": "manifestacion",
+    "organizaciones": [
+      "Alianța pentru Unirea Românilor (AUR)",
+      "George Simion"
+    ],
+    "motivo": "La Alianța pentru Unirea Românilor (AUR) y George Simion convocan una concentración en el parque Izvor, junto al Parlamento, para protestar por la detención preventiva de Călin Georgescu. La reunión está prevista a las 13:00 y el mitin a las 14:00; el Ayuntamiento de Bucarest rechazó la autorización y un tribunal confirmó la negativa en primera instancia.",
+    "status": "programado",
+    "lat": 44.4275,
+    "lng": 26.087,
+    "fuentes": [
+      "https://pollar.news/en/event/bucharest-georgescu-rally-permit-row",
+      "https://informat.ro/en/current-affairs/bucharest-city-hall-rejects-pipereas-protest-risk-of-violence-and-chaos-147483",
+      "https://ground.news/article/discussion-on-saturdays-protest-arrives-in-court-george-simions-announcement"
+    ],
+    "createdAt": "2026-11-14T03:27:59.000Z",
+    "updatedAt": "2026-11-14T03:36:50Z"
+  },
+  {
+    "id": "kr-2026-11-14-rally-ppp-busan",
+    "seccion": "internacionales",
+    "pais": "Corea del Sur",
+    "bandera": "🇰🇷",
+    "hora": "",
+    "fecha": "2026-11-14",
+    "lugar": "Plaza de la estación de Busan, Busan, Corea del Sur",
+    "tipoAccion": "manifestacion",
+    "organizaciones": [
+      "People Power Party (PPP)"
+    ],
+    "motivo": "El People Power Party (PPP) traslada a Busan su campaña de protestas contra la ley de fiscal especial sobre la 'manipulación de acusaciones', que considera dirigida a invalidar los cargos contra el presidente Lee Jae-myung. El mitin se celebra por la tarde en la plaza de la estación de Busan.",
+    "status": "programado",
+    "lat": 35.1151,
+    "lng": 129.0414,
+    "fuentes": [
+      "https://www.ajupress.com/view/20261113172070506"
+    ],
+    "createdAt": "2026-11-14T03:27:59.000Z",
+    "updatedAt": "2026-11-14T03:36:50Z"
+  },
+  {
+    "id": "ca-2026-11-14-palestine-rally-victoria",
+    "seccion": "internacionales",
+    "pais": "Canadá",
+    "bandera": "🇨🇦",
+    "hora": "13:00",
+    "fecha": "2026-11-14",
+    "lugar": "Victoria, Columbia Británica, Canadá",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "Victoria to Palestine"
+    ],
+    "motivo": "El colectivo Victoria to Palestine mantiene su concentración semanal de solidaridad con Palestina, a las 13:00, para exigir el fin de la ocupación y la opresión del pueblo palestino.",
+    "status": "programado",
+    "lat": 48.4284,
+    "lng": -123.3656,
+    "fuentes": [
+      "https://www.findaprotest.info/canada/british-columbia/victoria"
+    ],
+    "createdAt": "2026-11-14T03:27:59.000Z",
+    "updatedAt": "2026-11-14T03:36:50Z"
+  },
+  {
+    "id": "ca-2026-11-14-ai-treaty-montreal",
+    "seccion": "internacionales",
+    "pais": "Canadá",
+    "bandera": "🇨🇦",
+    "hora": "13:00",
+    "fecha": "2026-11-14",
+    "lugar": "Dorchester Square, 2903 Rue Peel, Montreal, Quebec, Canadá",
+    "tipoAccion": "manifestacion",
+    "organizaciones": [
+      "Stop The AI Race"
+    ],
+    "motivo": "Stop The AI Race convoca una marcha por un Tratado Internacional de IA en Dorchester Square, Montreal, de 13:00 a 15:00, para exigir a Estados Unidos y China que negocien un acuerdo que frene la carrera de la IA.",
+    "status": "programado",
+    "lat": 45.4995,
+    "lng": -73.5715,
+    "fuentes": [
+      "https://aitreatymarch.org/"
+    ],
+    "createdAt": "2026-11-14T03:27:59.000Z",
+    "updatedAt": "2026-11-14T03:36:50Z"
+  },
+  {
+    "id": "us-2026-11-14-ai-treaty-washington",
     "seccion": "internacionales",
     "pais": "Estados Unidos",
     "bandera": "🇺🇸",
-    "hora": "17:30",
-    "fecha": "2026-11-13",
-    "lugar": "H Street y Marina Parkway, junto al Gaylord Pacific Resort & Convention Center, Chula Vista, California, Estados Unidos",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Jewish Voice for Peace San Diego",
-      "PYM San Diego",
-      "Coaliciones locales"
-    ],
-    "motivo": "Coaliciones locales, entre ellas Jewish Voice for Peace San Diego, convocaron una vigilia y un servicio interreligioso anti-sionista ('Anti-Zionist Shabbat') para este viernes 13 de noviembre a las 17:30 en H Street y Marina Parkway, frente al Gaylord Pacific Resort & Convention Center de Chula Vista, donde se celebra la conferencia Global Conference for Israel del Jewish National Fund. Los organizadores rechazan la conferencia y denuncian la adquisición de tierras; está prevista además una manifestación para el sábado 14.",
-    "status": "programado",
-    "lat": 32.6401,
-    "lng": -117.0842,
-    "fuentes": [
-      "https://www.findaprotest.info/event/chula-vista/evt-blk-f6889b069a8e0132",
-      "https://www.kpbs.org/news/politics/2026/11/12/global-conference-for-israel-at-chula-vistas-gaylord-pacific-prompts-protests",
-      "https://wisevoter.com/world/us/ca/chula-vista/2026/11/13/jewish-national-fund-conference-chula-vista-protests"
-    ],
-    "createdAt": "2026-11-13T02:45:41.000Z",
-    "updatedAt": "2026-11-13T23:34:59Z"
-  },
-  {
-    "id": "mx-2026-11-13-marcha-repartidores-cdmx",
-    "seccion": "internacionales",
-    "pais": "México",
-    "bandera": "🇲🇽",
     "hora": "11:00",
-    "fecha": "2026-11-13",
-    "lugar": "Parque México, colonia Condesa, alcaldía Cuauhtémoc, Ciudad de México, México",
+    "fecha": "2026-11-14",
+    "lugar": "Capitolio, Pennsylvania Ave NW y 3rd St NW, Washington D. C., Estados Unidos",
     "tipoAccion": "manifestacion",
     "organizaciones": [
-      "Repartidores Unidos de México (RUM)",
-      "Ni Un Repartidor Menos",
-      "Ni Una Repartidora Menos"
+      "Stop The AI Race",
+      "DC AI Safety Collective"
     ],
-    "motivo": "Colectivos de repartidores por aplicación, encabezados por Repartidores Unidos de México (RUM) junto a Ni Un Repartidor Menos y Ni Una Repartidora Menos, convocaron una marcha y bloqueos intermitentes para este viernes 13 de noviembre en la Ciudad de México, con salida a las 11:00 desde el Parque México, en la colonia Condesa. Rechazan las nuevas disposiciones de la Secretaría de Movilidad (Semovi) que prevén placas mercantiles y licencias especiales para motociclistas de reparto, el cobro del 2% a las plataformas y nuevas restricciones a scooters y bicicletas eléctricas; se prevén afectaciones en Río Churubusco, Calzada de Tlalpan, Paseo de la Reforma, Bucareli e Insurgentes.",
-    "status": "finalizado",
-    "lat": 19.4116,
-    "lng": -99.1718,
+    "motivo": "Stop The AI Race y DC AI Safety Collective convocan una marcha por un Tratado Internacional de IA desde el Capitolio hasta la Casa Blanca, de 11:00 a 13:00, para exigir a Trump y Xi Jinping un acuerdo verificable que frene la carrera armamentista de la IA.",
+    "status": "programado",
+    "lat": 38.8899,
+    "lng": -77.0091,
     "fuentes": [
-      "https://grupoanimal.mx/estados/cdmx-protesta-repartidores-app-cierres",
-      "https://www.record.com.mx/historia/repartidores-anuncian-protesta-en-cdmx-este-viernes-13-de-noviembre-donde-y-a-que-hora-sera-2026111315310407616",
-      "https://www.jornada.com.mx/noticia/2026/11/10/capital/repartidores-anuncian-bloqueos-en-cdmx-que-calles-cerraran-este-viernes"
+      "https://aitreatymarch.org/",
+      "https://www.findaprotest.info/event/washington/90cb7648-6516-4559-9d7b-91e448e87433"
     ],
-    "createdAt": "2026-11-13T17:59:18.000Z",
-    "updatedAt": "2026-11-13T23:34:59Z"
+    "createdAt": "2026-11-14T03:27:59.000Z",
+    "updatedAt": "2026-11-14T03:36:50Z"
   },
   {
-    "id": "nl-2026-11-13-stilteprotest-palestina-utrecht",
+    "id": "us-2026-11-14-ai-treaty-new-york",
     "seccion": "internacionales",
-    "pais": "Países Bajos",
-    "bandera": "🇳🇱",
-    "hora": "08:30",
-    "fecha": "2026-11-13",
-    "lugar": "Neude, junto al carril bici, Utrecht, Países Bajos",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Silent Street Protest"
-    ],
-    "motivo": "El colectivo Silent Street Protest convocó para este viernes 13 de noviembre una protesta silenciosa de 08:30 a 09:30 en la plaza Neude de Utrecht, junto al carril bici, en solidaridad con Palestina y contra la ocupación y lo que los convocantes denominan el genocidio en Gaza.",
-    "status": "finalizado",
-    "lat": 52.0929,
-    "lng": 5.1194,
-    "fuentes": [
-      "https://rightsforum.org/agenda?maand=2026-11&van=2026-11-13"
-    ],
-    "createdAt": "2026-11-13T17:59:18.000Z",
-    "updatedAt": "2026-11-13T23:34:59Z"
-  },
-  {
-    "id": "nl-2026-11-13-stille-rode-lijn-zaltbommel",
-    "seccion": "internacionales",
-    "pais": "Países Bajos",
-    "bandera": "🇳🇱",
-    "hora": "19:00",
-    "fecha": "2026-11-13",
-    "lugar": "Waalkade, Zaltbommel, Países Bajos",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Stille Rode Lijn"
-    ],
-    "motivo": "La acción 'Stille Rode Lijn' (Línea Roja Silenciosa) se realiza este viernes 13 de noviembre de 19:00 a 19:30 en el Waalkade de Zaltbommel, una concentración silenciosa de solidaridad con Palestina convocada en el marco de las movilizaciones neerlandesas contra la ocupación y el genocidio en Gaza.",
-    "status": "finalizado",
-    "lat": 51.8117,
-    "lng": 5.2442,
-    "fuentes": [
-      "https://rightsforum.org/agenda?maand=2026-11&van=2026-11-13"
-    ],
-    "createdAt": "2026-11-13T17:59:18.000Z",
-    "updatedAt": "2026-11-13T23:34:59Z"
-  },
-  {
-    "id": "cf-2026-11-13-manifestacion-bangui",
-    "seccion": "internacionales",
-    "pais": "República Centroafricana",
-    "bandera": "🇨🇫",
-    "hora": "06:00",
-    "fecha": "2026-11-13",
-    "lugar": "Avenida de los Mártires, de Dove Circle a UN Circle, Bangui, República Centroafricana",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "12:00",
+    "fecha": "2026-11-14",
+    "lugar": "Oficina de OpenAI, 295 Lafayette St, Nueva York, Estados Unidos",
     "tipoAccion": "manifestacion",
     "organizaciones": [
-      "Sociedad civil y organizaciones convocantes (autorizada por el Gobierno)"
+      "Stop The AI Race"
     ],
-    "motivo": "El Gobierno de la República Centroafricana autorizó una manifestación para este viernes 13 de noviembre en Bangui, que parte a las 06:00 de Dove Circle y recorre la Avenida de los Mártires hasta UN Circle. Los convocantes expresan su rechazo a la escasez de combustible, al alza del costo de vida y a la detención de líderes de la sociedad civil, según la alerta de seguridad de la Embajada de Estados Unidos en Bangui.",
-    "status": "finalizado",
-    "lat": 4.3947,
-    "lng": 18.5582,
+    "motivo": "Stop The AI Race marcha desde la oficina de OpenAI en Nueva York hasta las misiones de China y Estados Unidos ante la ONU para exigir un Tratado Internacional de IA antes de la reunión Trump-Xi en la APEC.",
+    "status": "programado",
+    "lat": 40.724,
+    "lng": -73.996,
     "fuentes": [
-      "https://cf.usembassy.gov/demonstration-security-alert-for-friday-november-13"
+      "https://aitreatymarch.org/",
+      "https://www.findaprotest.info/event/new-york/3e1cadd1-d189-4e45-ab5a-8ddaee7a44b5"
     ],
-    "createdAt": "2026-11-13T17:59:18.000Z",
-    "updatedAt": "2026-11-13T23:34:59Z"
+    "createdAt": "2026-11-14T03:27:59.000Z",
+    "updatedAt": "2026-11-14T03:36:50Z"
   },
   {
-    "id": "th-2026-11-13-protesta-gobierno-bangkok",
+    "id": "us-2026-11-14-ai-treaty-san-francisco",
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "12:00",
+    "fecha": "2026-11-14",
+    "lugar": "OpenAI, 1455 3rd St, San Francisco, California, Estados Unidos",
+    "tipoAccion": "manifestacion",
+    "organizaciones": [
+      "Stop The AI Race"
+    ],
+    "motivo": "Stop The AI Race convoca una marcha por un Tratado Internacional de IA desde la sede de OpenAI en 1455 3rd St hasta el Veterans Building, donde se firmó la Carta de la ONU, de 12:00 a 15:00.",
+    "status": "programado",
+    "lat": 37.7699,
+    "lng": -122.389,
+    "fuentes": [
+      "https://aitreatymarch.org/",
+      "https://www.mobilize.us/stoptheairace/event/1059616"
+    ],
+    "createdAt": "2026-11-14T03:27:59.000Z",
+    "updatedAt": "2026-11-14T03:36:50Z"
+  },
+  {
+    "id": "us-2026-11-14-ai-treaty-boston",
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "12:00",
+    "fecha": "2026-11-14",
+    "lugar": "Massachusetts State House, 24 Beacon St, Boston, Massachusetts, Estados Unidos",
+    "tipoAccion": "manifestacion",
+    "organizaciones": [
+      "Stop The AI Race",
+      "College Democrats of Massachusetts",
+      "Massachusetts AI Action Network"
+    ],
+    "motivo": "Stop The AI Race, los College Democrats of Massachusetts y Massachusetts AI Action Network convocan una concentración frente al Massachusetts State House para exigir un Tratado Internacional de IA.",
+    "status": "programado",
+    "lat": 42.3588,
+    "lng": -71.0636,
+    "fuentes": [
+      "https://aitreatymarch.org/",
+      "https://www.findaprotest.info/event/boston/60e11b6b-835b-4237-abd6-47fbda816de1"
+    ],
+    "createdAt": "2026-11-14T03:27:59.000Z",
+    "updatedAt": "2026-11-14T03:36:50Z"
+  },
+  {
+    "id": "us-2026-11-14-trump-regime-takedown-sf",
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "15:00",
+    "fecha": "2026-11-14",
+    "lugar": "Tesla San Francisco - Van Ness, San Francisco, California, Estados Unidos",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Indivisible SF",
+      "50501 SF"
+    ],
+    "motivo": "Indivisible SF y 50501 SF convocan una acción directa contra el 'régimen Trump' frente a Tesla San Francisco en Van Ness, en defensa de la democracia y contra las políticas del gobierno federal.",
+    "status": "programado",
+    "lat": 37.785,
+    "lng": -122.421,
+    "fuentes": [
+      "https://www.anarchistcalendar.org/"
+    ],
+    "createdAt": "2026-11-14T03:27:59.000Z",
+    "updatedAt": "2026-11-14T03:36:50Z"
+  },
+  {
+    "id": "us-2026-11-14-fight-fascism-berkeley",
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "15:00",
+    "fecha": "2026-11-14",
+    "lugar": "Tesla Service Center, Berkeley, California, Estados Unidos",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Indivisible East Bay"
+    ],
+    "motivo": "Indivisible East Bay convoca una protesta 'Fight Fascism' frente al Tesla Service Center de Berkeley, en defensa de la democracia y contra el avance del autoritarismo.",
+    "status": "programado",
+    "lat": 37.8715,
+    "lng": -122.273,
+    "fuentes": [
+      "https://www.anarchistcalendar.org/"
+    ],
+    "createdAt": "2026-11-14T03:27:59.000Z",
+    "updatedAt": "2026-11-14T03:36:50Z"
+  },
+  {
+    "id": "au-2026-11-14-paddle-for-planet-newcastle",
+    "seccion": "internacionales",
+    "pais": "Australia",
+    "bandera": "🇦🇺",
+    "hora": "10:00",
+    "fecha": "2026-11-14",
+    "lugar": "Horseshoe Beach y puerto de Newcastle, Nueva Gales del Sur, Australia",
+    "tipoAccion": "protesta",
+    "organizaciones": [
+      "Rising Tide",
+      "Climate Defenders Australia",
+      "Socialist Alliance"
+    ],
+    "motivo": "Rising Tide realiza la flotilla 'Paddle for the Planet' en Horseshoe Beach y el puerto de Newcastle, el mayor puerto carbonero del mundo, en coincidencia con la COP31, para exigir el fin de la expansión del carbón y una transición justa para los trabajadores. La Corte Suprema de NSW autorizó la protesta tras rechazar el intento policial de prohibirla.",
+    "status": "finalizado",
+    "lat": -32.9283,
+    "lng": 151.7817,
+    "fuentes": [
+      "https://www.risingtide.org.au/rising_tide_celebrate_resounding_victory_in_nsw_supreme_court_as_police_fail_to_block_paddle_for_the_planet",
+      "https://newcastleweekly.com.au/rising-tide-paddle-to-go-ahead-after-supreme-court-refuses-police-ban",
+      "https://www.thedcn.com.au/news/protesters-free-to-paddle-court-rules"
+    ],
+    "createdAt": "2026-11-14T03:27:59.000Z",
+    "updatedAt": "2026-11-14T03:36:50Z"
+  },
+  {
+    "id": "th-2026-11-14-protesta-gobierno-bangkok",
     "seccion": "internacionales",
     "pais": "Tailandia",
     "bandera": "🇹🇭",
     "hora": "",
-    "fecha": "2026-11-13",
+    "fecha": "2026-11-14",
     "lugar": "Inmediaciones de Government House y el puente Chamai Maruchet, Bangkok, Tailandia",
     "tipoAccion": "protesta",
     "organizaciones": [
       "Frente de Protección de la Revolución Patriótica del Pueblo (NPPF)"
     ],
-    "motivo": "El movimiento callejero encabezado por Mano Khruakaew ('Kamnan Mano'), líder del Frente de Protección de la Revolución Patriótica del Pueblo (NPPF), mantiene este viernes 13 de noviembre su campamento de protesta frente a Government House, junto al puente Chamai Maruchet, en Bangkok. Los manifestantes exigen al gobierno una reducción inmediata de 10 baht por litro del precio del diésel y han anunciado que desde el lunes 16 de noviembre dividirán la protesta para marchar también al Ministerio de Energía.",
+    "motivo": "El campamento de protesta liderado por Mano Khruakaew ('Kamnan Mano') y el Frente de Protección de la Revolución Patriótica del Pueblo (NPPF) continúa frente a Government House, junto al puente Chamai Maruchet, exigiendo una rebaja inmediata de 10 baht por litro del diésel. Los organizadores prevén mantener la protesta durante 30 días y desde el 16 de noviembre dividirla para marchar también al Ministerio de Energía.",
     "status": "en_curso",
     "lat": 13.7595,
     "lng": 100.5122,
     "fuentes": [
-      "https://www.thaienquirer.com/76093/thai-enquirer-news-summary-november-13-2026/"
+      "https://www.thaienquirer.com/76093/thai-enquirer-news-summary-november-13-2026/",
+      "https://www.bangkokpost.com/thailand/general/3352515/fuel-protest-poses-security-headache-ahead-of-li-visit"
     ],
-    "createdAt": "2026-11-13T17:59:18.000Z",
-    "updatedAt": "2026-11-13T23:34:59Z"
+    "createdAt": "2026-11-14T03:27:59.000Z",
+    "updatedAt": "2026-11-14T03:36:50Z"
   },
   {
-    "id": "cl-2026-11-13-paro-camioneros-nacional",
-    "seccion": "internacionales",
-    "pais": "Chile",
-    "bandera": "🇨🇱",
-    "hora": "",
-    "fecha": "2026-11-13",
-    "lugar": "Ruta 5, Ruta 68 y principales carreteras de Chile (Región Metropolitana, Valparaíso, Antofagasta, La Araucanía y otras regiones)",
-    "tipoAccion": "paro",
-    "organizaciones": [
-      "Confederación de Transportistas Fuerza Norte (CTFN)",
-      "Confederación de Camioneros Centro-Sur",
-      "Movimiento No+TAG",
-      "Transportistas independientes"
-    ],
-    "motivo": "El paro nacional de camioneros por el alza de los combustibles continuó este viernes 13 de noviembre en distintos puntos de Chile, pese al acuerdo alcanzado el jueves entre el Gobierno y las principales confederaciones del transporte de carga. Transportistas independientes y el movimiento No+TAG mantuvieron bloqueos y protestas en la Ruta 5, la Ruta 68 y otras carreteras, exigiendo rebajas al diésel y a los peajes; el Gobierno advirtió que Carabineros intervendría para despejar las rutas.",
-    "status": "en_curso",
-    "lat": -33.4489,
-    "lng": -70.6693,
-    "fuentes": [
-      "https://www.pauta.cl/actualidad/2026/11/13/paro-de-camioneros-continua-pese-a-acuerdo-con-el-gobierno-quienes-mantienen-las-movilizaciones-y-donde-persisten-los-cortes.html",
-      "https://www.mundomaritimo.cl/noticias/camioneros-en-chile-acuerdan-fin-del-paro-con-el-gobierno-pero-persisten-movilizaciones-aisladas",
-      "https://www.pauta.cl/actualidad/2026/11/13/gobierno-advierte-intervencion-de-carabineros-ante-cortes-de-rutas-que-persisten-tras-acuerdo-con-camioneros.html"
-    ],
-    "createdAt": "2026-11-13T23:27:08.000Z",
-    "updatedAt": "2026-11-13T23:34:59Z"
-  },
-  {
-    "id": "co-2026-11-13-planton-santurban-bogota",
-    "seccion": "internacionales",
-    "pais": "Colombia",
-    "bandera": "🇨🇴",
-    "hora": "09:00",
-    "fecha": "2026-11-13",
-    "lugar": "Ministerio de Ambiente y Desarrollo Sostenible, localidad de Santa Fe, Bogotá, Colombia",
-    "tipoAccion": "concentracion",
-    "organizaciones": [
-      "Colectivos sociales y ambientales en defensa del páramo de Santurbán"
-    ],
-    "motivo": "Bajo el lema 'El llamado de Santurbán, una sola voz por el agua', colectivos sociales y ambientales convocaron un plantón este viernes 13 de noviembre a las 09:00 frente al Ministerio de Ambiente y Desarrollo Sostenible, en la localidad bogotana de Santa Fe, para exigir la protección del páramo de Santurbán y de los recursos hídricos.",
-    "status": "finalizado",
-    "lat": 4.6097,
-    "lng": -74.0817,
-    "fuentes": [
-      "https://bogota.gov.co/mi-ciudad/gobierno/2026-11/conoce-marchas-y-manifestaciones-en-bogota-10-al-15-de-noviembre-2026",
-      "https://www.alerta.com.co/actualidad-nacional/manifestaciones-en-bogota-del-10-al-15-de-noviembre-del-2026-agenda-eventos-254542"
-    ],
-    "createdAt": "2026-11-13T23:27:08.000Z",
-    "updatedAt": "2026-11-13T23:34:59Z"
-  },
-  {
-    "id": "ph-2026-11-13-trump-out-up-diliman-campout",
-    "seccion": "internacionales",
-    "pais": "Filipinas",
-    "bandera": "🇵🇭",
-    "hora": "",
-    "fecha": "2026-11-13",
-    "lugar": "Universidad de Filipinas, campus Diliman, Ciudad Quezón, Metro Manila, Filipinas",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "International League of Peoples' Struggle (ILPS Philippines)"
-    ],
-    "motivo": "La International League of Peoples' Struggle (ILPS Philippines) convocó para este viernes 13 de noviembre una acampada de protesta ('Trump Out! UP Diliman Campout') en el campus Diliman de la Universidad de Filipinas, en Ciudad Quezón, contra la política exterior de Estados Unidos y en defensa de la democracia, los derechos humanos y la causa palestina.",
-    "status": "en_curso",
-    "lat": 14.6538,
-    "lng": 121.0685,
-    "fuentes": [
-      "https://www.findaprotest.info/this-weekend"
-    ],
-    "createdAt": "2026-11-13T23:27:08.000Z",
-    "updatedAt": "2026-11-13T23:34:59Z"
-  },
-  {
-    "id": "mx-2026-11-13-marcha-estudiantil-cch-vallejo",
-    "seccion": "internacionales",
-    "pais": "México",
-    "bandera": "🇲🇽",
-    "hora": "12:00",
-    "fecha": "2026-11-13",
-    "lugar": "Escultura 'Los Bigotes', Circuito Escolar, Ciudad Universitaria, Coyoacán, Ciudad de México, México (hacia la Torre de Rectoría)",
+    "id": "ar-2026-11-14-orgullo-rio-gallegos",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "16:00",
+    "fecha": "2026-11-14",
+    "lugar": "Paseo Marcela Chocobar, Río Gallegos, Santa Cruz, Argentina",
     "tipoAccion": "manifestacion",
     "organizaciones": [
-      "Comunidad estudiantil del Colegio de Ciencias y Humanidades (CCH) Plantel Vallejo",
-      "Colectivo Casanova",
-      "Colectivo Regeneración Estudiantil",
-      "Alianza Estudiantil por la Transparencia Universitaria",
-      "El Capitán Ahuizote"
+      "Comisión Organizadora de la Marcha del Orgullo Santa Cruz",
+      "Mesa Provincial Permanente por los Derechos LGBTI",
+      "Dirección de Políticas de Género de la Municipalidad de Río Gallegos"
     ],
-    "motivo": "La comunidad estudiantil del CCH Plantel Vallejo convocó una marcha este viernes 13 de noviembre a las 12:00, desde la escultura 'Los Bigotes' en Ciudad Universitaria hasta la Torre de Rectoría, para exigir mayor seguridad y el fin de los grupos porriles tras los actos de violencia del 10 de noviembre; no se descartaron bloqueos en Insurgentes Sur.",
-    "status": "finalizado",
-    "lat": 19.3326,
-    "lng": -99.1845,
-    "fuentes": [
-      "https://newsreportmx.com/2026/11/13/manifestaciones-hoy-en-cdmx-13-de-noviembre-del-2026/"
-    ],
-    "createdAt": "2026-11-13T23:27:08.000Z",
-    "updatedAt": "2026-11-13T23:34:59Z"
-  },
-  {
-    "id": "gb-2026-11-13-piquete-embajada-israel-londres",
-    "seccion": "internacionales",
-    "pais": "Reino Unido",
-    "bandera": "🇬🇧",
-    "hora": "18:00",
-    "fecha": "2026-11-13",
-    "lugar": "Embajada de Israel, Kensington, Londres, Reino Unido",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "International Jewish Anti-Zionist Network (IJAN-UK)"
-    ],
-    "motivo": "La International Jewish Anti-Zionist Network (IJAN-UK) mantuvo su piquete semanal este viernes 13 de noviembre a las 18:00 frente a la Embajada de Israel en Londres, en solidaridad con Palestina y para exigir la expulsión de la embajadora israelí Tzipi Hotovely.",
-    "status": "finalizado",
-    "lat": 51.5015,
-    "lng": -0.1915,
-    "fuentes": [
-      "https://www.findaprotest.info/uk/london"
-    ],
-    "createdAt": "2026-11-13T23:27:08.000Z",
-    "updatedAt": "2026-11-13T23:34:59Z"
-  },
-  {
-    "id": "us-2026-11-13-rush-hour-resistance-phoenix",
-    "seccion": "internacionales",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
-    "hora": "17:00",
-    "fecha": "2026-11-13",
-    "lugar": "6142 N 35th Ave, Maryvale, Phoenix, Arizona, Estados Unidos",
-    "tipoAccion": "concentracion",
-    "organizaciones": [
-      "Rush-hour Resistance Rally"
-    ],
-    "motivo": "La coalición Rush-hour Resistance Rally convocó una concentración de hora pico este viernes 13 de noviembre de 17:00 a 18:00 en 35th Avenue y Bethany Home, en el barrio Maryvale de Phoenix, en defensa de la democracia y de los derechos laborales, migratorios y LGBTQ+, y contra la guerra.",
+    "motivo": "La 11° Marcha Provincial del Orgullo LGBTIQ+ se realiza este sábado 14 de noviembre en Río Gallegos, con concentración a las 16:00 en el Paseo Marcela Chocobar. La convocatoria reclama igualdad, libertad, visibilidad y derechos de la comunidad LGBTIQ+, en defensa de los derechos conquistados y contra los discursos de odio.",
     "status": "programado",
-    "lat": 33.5236,
-    "lng": -112.1345,
+    "lat": -51.6226,
+    "lng": -69.2181,
     "fuentes": [
-      "https://www.findaprotest.info/event/phoenix/b6ea12cf-12cc-4826-b568-fcc775af8976"
+      "https://www.eldiarionuevodia.com.ar/locales/rio-gallegos-convocan-a-la-11-marcha-provincial-del-orgullo/",
+      "https://agenciapresentes.org/2026/09/24/orgullo-2026-en-argentina-guia-federal-y-colaborativa-de-marchas-y-actividades/",
+      "https://argay.ar/marchas2026"
     ],
-    "createdAt": "2026-11-13T23:27:08.000Z",
-    "updatedAt": "2026-11-13T23:34:59Z"
+    "createdAt": "2026-11-14T03:31:48.000Z",
+    "updatedAt": "2026-11-14T03:36:50Z"
   },
   {
-    "id": "ar-2026-11-13-ate-anac-paro-a-la-japonesa",
+    "id": "ar-2026-11-14-orgullo-santiago-del-estero",
     "seccion": "protestas_ar",
     "pais": "Argentina",
     "bandera": "🇦🇷",
-    "hora": "06:00",
-    "fecha": "2026-11-13",
-    "lugar": "Aeropuerto Internacional de Ezeiza y Aeroparque Jorge Newbery, Buenos Aires, Argentina (retención de tareas en áreas administrativas de los 27 aeropuertos del país)",
-    "tipoAccion": "paro",
+    "hora": "18:00",
+    "fecha": "2026-11-14",
+    "lugar": "Av. Roca y Patagonia, frente a la Legislatura provincial, Santiago del Estero, Argentina",
+    "tipoAccion": "manifestacion",
     "organizaciones": [
-      "Asociación Trabajadores del Estado (ATE)",
-      "ATE-ANAC (Administración Nacional de Aviación Civil)"
+      "Comisión Organizadora de la Marcha del Orgullo LGBTIQ+ de Santiago del Estero",
+      "Colectivos de la diversidad y organizaciones sociales"
     ],
-    "motivo": "Los trabajadores de la ANAC agrupados en ATE realizan este viernes 13 de noviembre un 'paro a la japonesa' desde las 06:00 en Ezeiza y Aeroparque, con controles exhaustivos de aeronaves, vehículos y personal de rampa, además de retención de tareas durante toda la jornada en las áreas administrativas del organismo en los 27 aeropuertos del país. Reclaman recomposición salarial, paritarias sectoriales y mayor financiamiento para la ANAC, y denuncian el congelamiento de parte de los haberes desde comienzos de 2026. La medida concluyó durante la tarde de este viernes.",
-    "status": "finalizado",
-    "lat": -34.8222,
-    "lng": -58.5358,
+    "motivo": "La 19ª Marcha del Orgullo LGBTIQ+ de Santiago del Estero se realiza este sábado 14 de noviembre. La concentración es a las 18:00 en la intersección de avenida Roca y Patagonia, frente a la Legislatura provincial, y la columna marcha por avenidas céntricas hasta la Casa de la Historia y la Cultura del Bicentenario, donde habrá acto cultural y musical. Reclama inclusión plena, respeto y normativas por la igualdad real de derechos, y repudia los discursos de odio y la violencia.",
+    "status": "programado",
+    "lat": -27.7951,
+    "lng": -64.2615,
     "fuentes": [
-      "https://ate.org.ar/261111-anac-paro/",
-      "https://ate.org.ar/261113-paro-anac/",
-      "https://www.infobae.com/sociedad/2026/11/13/anunciaron-un-paro-a-la-japonesa-en-aeroparque-y-ezeiza-por-reclamos-salariales-como-sera-la-medida/",
-      "https://www.lagaceta.com.ar/nota/1162177/sociedad/ate-anuncio-medidas-fuerza-aeropuertos-pasara-este-viernes-ezeiza-aeroparque.html"
+      "https://noticiasd.com/argentina/santiago-del-estero/santiago-del-estero/santiago-del-estero-se-prepara-para-la-19-edicion-de-la-marcha-del-orgullo-lgbtiq-conoce-el-horario-y-recorrido-201344010",
+      "https://www.radiolv11.com.ar/noticia/santiago-del-estero-se-prepara-para-la-19-marcha-del-orgullo-lgbtiq-con-una-fuerte-impronta-federal",
+      "https://argay.ar/marchas2026"
     ],
-    "createdAt": "2026-11-13T03:00:11.000Z",
-    "updatedAt": "2026-11-13T23:34:59Z"
+    "createdAt": "2026-11-14T03:31:48.000Z",
+    "updatedAt": "2026-11-14T03:36:50Z"
   },
   {
-    "id": "ar-2026-11-13-paro-universitario-nacional-conadu-historica",
+    "id": "ar-2026-11-14-orgullo-almirante-brown",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "16:00",
+    "fecha": "2026-11-14",
+    "lugar": "Plaza Almirante Brown, Almirante Brown, Buenos Aires, Argentina",
+    "tipoAccion": "manifestacion",
+    "organizaciones": [
+      "Comisión Organizadora de la 9na Marcha del Orgullo Brown"
+    ],
+    "motivo": "La 9na Marcha del Orgullo de Almirante Brown se realiza este sábado 14 de noviembre, con punto de encuentro a las 16:00 en la Plaza Almirante Brown, en el marco del cronograma federal de marchas del Orgullo 2026.",
+    "status": "programado",
+    "lat": -34.7969,
+    "lng": -58.3911,
+    "fuentes": [
+      "https://agenciapresentes.org/2026/09/24/orgullo-2026-en-argentina-guia-federal-y-colaborativa-de-marchas-y-actividades/",
+      "https://argay.ar/marchas2026",
+      "https://perfil.com/sociedad/nueva-marcha-del-orgullo-en-las-calles-de-todo-el-pais-ajIp55e2aYZg"
+    ],
+    "createdAt": "2026-11-14T03:31:48.000Z",
+    "updatedAt": "2026-11-14T03:36:50Z"
+  },
+  {
+    "id": "ar-2026-11-14-orgullo-ushuaia",
     "seccion": "protestas_ar",
     "pais": "Argentina",
     "bandera": "🇦🇷",
     "hora": "",
-    "fecha": "2026-11-13",
+    "fecha": "2026-11-14",
+    "lugar": "Ushuaia, Tierra del Fuego, Argentina",
+    "tipoAccion": "manifestacion",
+    "organizaciones": [
+      "Orgullo Tierra del Fuego"
+    ],
+    "motivo": "Ushuaia realiza este sábado 14 de noviembre su Marcha del Orgullo LGBTIQ+, convocada por Orgullo Tierra del Fuego, en el marco del cronograma federal de marchas del Orgullo 2026.",
+    "status": "programado",
+    "lat": -54.8019,
+    "lng": -68.303,
+    "fuentes": [
+      "https://agenciapresentes.org/2026/09/24/orgullo-2026-en-argentina-guia-federal-y-colaborativa-de-marchas-y-actividades/",
+      "https://argay.ar/marchas2026",
+      "https://perfil.com/sociedad/nueva-marcha-del-orgullo-en-las-calles-de-todo-el-pais-ajIp55e2aYZg"
+    ],
+    "createdAt": "2026-11-14T03:31:48.000Z",
+    "updatedAt": "2026-11-14T03:36:50Z"
+  },
+  {
+    "id": "ar-2026-11-14-orgullo-neuquen",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-11-14",
+    "lugar": "Ciudad de Neuquén, Neuquén, Argentina",
+    "tipoAccion": "manifestacion",
+    "organizaciones": [
+      "Comisión Organizadora Marcha del Orgullo LGBTIQNB+ Alto Valle"
+    ],
+    "motivo": "La Marcha del Orgullo LGBTIQNB+ del Alto Valle (Neuquén y Río Negro) se realiza este sábado 14 de noviembre en la ciudad de Neuquén, en el marco del cronograma federal de marchas del Orgullo 2026.",
+    "status": "programado",
+    "lat": -38.9516,
+    "lng": -68.0591,
+    "fuentes": [
+      "https://agenciapresentes.org/2026/09/24/orgullo-2026-en-argentina-guia-federal-y-colaborativa-de-marchas-y-actividades/",
+      "https://argay.ar/marchas2026"
+    ],
+    "createdAt": "2026-11-14T03:31:48.000Z",
+    "updatedAt": "2026-11-14T03:36:50Z"
+  },
+  {
+    "id": "ar-2026-11-14-orgullo-parana",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-11-14",
+    "lugar": "Paraná, Entre Ríos, Argentina",
+    "tipoAccion": "manifestacion",
+    "organizaciones": [
+      "Orgullo Disidente"
+    ],
+    "motivo": "Paraná realiza este sábado 14 de noviembre la Marcha Disidente del Orgullo, convocada por Orgullo Disidente, en el marco del cronograma federal de marchas del Orgullo 2026.",
+    "status": "programado",
+    "lat": -31.7333,
+    "lng": -60.5333,
+    "fuentes": [
+      "https://agenciapresentes.org/2026/09/24/orgullo-2026-en-argentina-guia-federal-y-colaborativa-de-marchas-y-actividades/",
+      "https://argay.ar/marchas2026"
+    ],
+    "createdAt": "2026-11-14T03:31:48.000Z",
+    "updatedAt": "2026-11-14T03:36:50Z"
+  },
+  {
+    "id": "ar-2026-11-14-orgullo-concordia",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-11-14",
+    "lugar": "Concordia, Entre Ríos, Argentina",
+    "tipoAccion": "manifestacion",
+    "organizaciones": [
+      "Marcha del Orgullo Entre Ríos"
+    ],
+    "motivo": "La 3ª Marcha del Orgullo Provincial de Entre Ríos se realiza este sábado 14 de noviembre en Concordia, convocada por la Marcha del Orgullo Entre Ríos, en el marco del cronograma federal de marchas del Orgullo 2026.",
+    "status": "programado",
+    "lat": -31.3922,
+    "lng": -58.0209,
+    "fuentes": [
+      "https://agenciapresentes.org/2026/09/24/orgullo-2026-en-argentina-guia-federal-y-colaborativa-de-marchas-y-actividades/",
+      "https://argay.ar/marchas2026"
+    ],
+    "createdAt": "2026-11-14T03:31:48.000Z",
+    "updatedAt": "2026-11-14T03:36:50Z"
+  },
+  {
+    "id": "ar-2026-11-14-orgullo-corrientes",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-11-14",
+    "lugar": "Ciudad de Corrientes, Corrientes, Argentina",
+    "tipoAccion": "manifestacion",
+    "organizaciones": [
+      "Comisión Organizadora de la Marcha del Orgullo de Corrientes"
+    ],
+    "motivo": "La 15ª Marcha del Orgullo LGBTIQ+ de la ciudad de Corrientes se realiza este sábado 14 de noviembre, en el marco del cronograma federal de marchas del Orgullo 2026.",
+    "status": "programado",
+    "lat": -27.4692,
+    "lng": -58.8306,
+    "fuentes": [
+      "https://argay.ar/marchas2026"
+    ],
+    "createdAt": "2026-11-14T03:31:48.000Z",
+    "updatedAt": "2026-11-14T03:36:50Z"
+  },
+  {
+    "id": "ar-2026-11-14-orgullo-posadas",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-11-14",
+    "lugar": "Posadas, Misiones, Argentina",
+    "tipoAccion": "manifestacion",
+    "organizaciones": [
+      "Orgullo Posadas"
+    ],
+    "motivo": "Posadas cierra este sábado 14 de noviembre su cronograma de actividades por el Orgullo con la Marcha del Orgullo LGBTIQ+, tras las jornadas del 12 y 13 de noviembre, en el marco del cronograma federal de marchas del Orgullo 2026.",
+    "status": "programado",
+    "lat": -27.3671,
+    "lng": -55.8961,
+    "fuentes": [
+      "https://agenciapresentes.org/2026/09/24/orgullo-2026-en-argentina-guia-federal-y-colaborativa-de-marchas-y-actividades/",
+      "https://argay.ar/marchas2026"
+    ],
+    "createdAt": "2026-11-14T03:31:48.000Z",
+    "updatedAt": "2026-11-14T03:36:50Z"
+  },
+  {
+    "id": "ar-2026-11-14-orgullo-san-francisco",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-11-14",
+    "lugar": "San Francisco, Córdoba, Argentina",
+    "tipoAccion": "manifestacion",
+    "organizaciones": [
+      "Comisión Organizadora de la Marcha del Orgullo de San Francisco"
+    ],
+    "motivo": "La 10ª Marcha del Orgullo de San Francisco (Córdoba) se realiza este sábado 14 de noviembre, en el marco del cronograma federal de marchas del Orgullo 2026.",
+    "status": "programado",
+    "lat": -31.4278,
+    "lng": -62.0822,
+    "fuentes": [
+      "https://agenciapresentes.org/2026/09/24/orgullo-2026-en-argentina-guia-federal-y-colaborativa-de-marchas-y-actividades/",
+      "https://argay.ar/marchas2026"
+    ],
+    "createdAt": "2026-11-14T03:31:48.000Z",
+    "updatedAt": "2026-11-14T03:36:50Z"
+  },
+  {
+    "id": "ar-2026-11-14-orgullo-sierras-chicas",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-11-14",
+    "lugar": "Unquillo, Sierras Chicas, Córdoba, Argentina",
+    "tipoAccion": "manifestacion",
+    "organizaciones": [
+      "Comisión Organizadora Marcha del Orgullo de las Sierras Chicas"
+    ],
+    "motivo": "La Marcha del Orgullo de las Sierras Chicas se realiza este sábado 14 de noviembre en Unquillo (Córdoba), en el marco del cronograma federal de marchas del Orgullo 2026.",
+    "status": "programado",
+    "lat": -31.3167,
+    "lng": -64.3167,
+    "fuentes": [
+      "https://agenciapresentes.org/2026/09/24/orgullo-2026-en-argentina-guia-federal-y-colaborativa-de-marchas-y-actividades/",
+      "https://argay.ar/marchas2026"
+    ],
+    "createdAt": "2026-11-14T03:31:48.000Z",
+    "updatedAt": "2026-11-14T03:36:50Z"
+  },
+  {
+    "id": "ar-2026-11-14-orgullo-villa-maria",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-11-14",
+    "lugar": "Villa María / Villa Nueva, Córdoba, Argentina",
+    "tipoAccion": "manifestacion",
+    "organizaciones": [
+      "Comisión Organizadora de la Marcha del Orgullo de Villa María"
+    ],
+    "motivo": "La Marcha del Orgullo LGBTIQ+ de Villa María / Villa Nueva se realiza este sábado 14 de noviembre (Córdoba), en el marco del cronograma federal de marchas del Orgullo 2026.",
+    "status": "programado",
+    "lat": -32.4075,
+    "lng": -63.2401,
+    "fuentes": [
+      "https://argay.ar/marchas2026"
+    ],
+    "createdAt": "2026-11-14T03:31:48.000Z",
+    "updatedAt": "2026-11-14T03:36:50Z"
+  },
+  {
+    "id": "ar-2026-11-14-orgullo-san-luis",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-11-14",
+    "lugar": "Ciudad de San Luis, San Luis, Argentina",
+    "tipoAccion": "manifestacion",
+    "organizaciones": [
+      "Comisión Organizadora de la Marcha del Orgullo de San Luis"
+    ],
+    "motivo": "La Marcha del Orgullo LGBTIQ+ de la ciudad de San Luis se realiza este sábado 14 de noviembre, en el marco del cronograma federal de marchas del Orgullo 2026.",
+    "status": "programado",
+    "lat": -33.295,
+    "lng": -66.3356,
+    "fuentes": [
+      "https://argay.ar/marchas2026"
+    ],
+    "createdAt": "2026-11-14T03:31:48.000Z",
+    "updatedAt": "2026-11-14T03:36:50Z"
+  },
+  {
+    "id": "ar-2026-11-14-orgullo-avellaneda",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-11-14",
+    "lugar": "Avellaneda, Buenos Aires, Argentina",
+    "tipoAccion": "manifestacion",
+    "organizaciones": [
+      "Comisión Organizadora de la Marcha del Orgullo de Avellaneda"
+    ],
+    "motivo": "La Marcha del Orgullo LGBTIQ+ de Avellaneda se realiza este sábado 14 de noviembre, en el marco del cronograma federal de marchas del Orgullo 2026.",
+    "status": "programado",
+    "lat": -34.6625,
+    "lng": -58.3654,
+    "fuentes": [
+      "https://agenciapresentes.org/2026/09/24/orgullo-2026-en-argentina-guia-federal-y-colaborativa-de-marchas-y-actividades/",
+      "https://argay.ar/marchas2026",
+      "https://perfil.com/sociedad/nueva-marcha-del-orgullo-en-las-calles-de-todo-el-pais-ajIp55e2aYZg"
+    ],
+    "createdAt": "2026-11-14T03:31:48.000Z",
+    "updatedAt": "2026-11-14T03:36:50Z"
+  },
+  {
+    "id": "ar-2026-11-14-orgullo-esteban-echeverria",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-11-14",
+    "lugar": "Esteban Echeverría (Monte Grande), Buenos Aires, Argentina",
+    "tipoAccion": "manifestacion",
+    "organizaciones": [
+      "Comisión Organizadora de la Marcha del Orgullo de Esteban Echeverría"
+    ],
+    "motivo": "La Marcha del Orgullo LGBTIQ+ de Esteban Echeverría se realiza este sábado 14 de noviembre, en el marco del cronograma federal de marchas del Orgullo 2026.",
+    "status": "programado",
+    "lat": -34.8167,
+    "lng": -58.4667,
+    "fuentes": [
+      "https://agenciapresentes.org/2026/09/24/orgullo-2026-en-argentina-guia-federal-y-colaborativa-de-marchas-y-actividades/",
+      "https://argay.ar/marchas2026",
+      "https://perfil.com/sociedad/nueva-marcha-del-orgullo-en-las-calles-de-todo-el-pais-ajIp55e2aYZg"
+    ],
+    "createdAt": "2026-11-14T03:31:48.000Z",
+    "updatedAt": "2026-11-14T03:36:50Z"
+  },
+  {
+    "id": "ar-2026-11-14-orgullo-ituzaingo",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-11-14",
+    "lugar": "Ituzaingó, Buenos Aires, Argentina",
+    "tipoAccion": "manifestacion",
+    "organizaciones": [
+      "Comisión Organizadora de la Marcha del Orgullo de Ituzaingó"
+    ],
+    "motivo": "La Marcha del Orgullo LGBTIQ+ de Ituzaingó se realiza este sábado 14 de noviembre, en el marco del cronograma federal de marchas del Orgullo 2026.",
+    "status": "programado",
+    "lat": -34.6583,
+    "lng": -58.6667,
+    "fuentes": [
+      "https://argay.ar/marchas2026"
+    ],
+    "createdAt": "2026-11-14T03:31:48.000Z",
+    "updatedAt": "2026-11-14T03:36:50Z"
+  },
+  {
+    "id": "ar-2026-11-14-orgullo-tigre",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-11-14",
+    "lugar": "Tigre, Buenos Aires, Argentina",
+    "tipoAccion": "manifestacion",
+    "organizaciones": [
+      "Comisión Organizadora de la Marcha del Orgullo de Tigre"
+    ],
+    "motivo": "La Marcha del Orgullo LGBTIQ+ de Tigre se realiza este sábado 14 de noviembre, en el marco del cronograma federal de marchas del Orgullo 2026.",
+    "status": "programado",
+    "lat": -34.4261,
+    "lng": -58.5797,
+    "fuentes": [
+      "https://argay.ar/marchas2026"
+    ],
+    "createdAt": "2026-11-14T03:31:48.000Z",
+    "updatedAt": "2026-11-14T03:36:50Z"
+  },
+  {
+    "id": "ar-2026-11-14-orgullo-junin",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-11-14",
+    "lugar": "Junín, Buenos Aires, Argentina",
+    "tipoAccion": "manifestacion",
+    "organizaciones": [
+      "Comisión Organizadora de la 7° Marcha del Orgullo de Junín"
+    ],
+    "motivo": "La 7° Marcha del Orgullo LGBTIQ+ de Junín se realiza este sábado 14 de noviembre, en el marco del cronograma federal de marchas del Orgullo 2026.",
+    "status": "programado",
+    "lat": -34.585,
+    "lng": -60.9439,
+    "fuentes": [
+      "https://argay.ar/marchas2026"
+    ],
+    "createdAt": "2026-11-14T03:31:48.000Z",
+    "updatedAt": "2026-11-14T03:36:50Z"
+  },
+  {
+    "id": "ar-2026-11-14-orgullo-la-madrid",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-11-14",
+    "lugar": "General La Madrid, Buenos Aires, Argentina",
+    "tipoAccion": "manifestacion",
+    "organizaciones": [
+      "Comisión Organizadora de la Marcha del Orgullo de La Madrid"
+    ],
+    "motivo": "La Marcha del Orgullo LGBTIQ+ de General La Madrid se realiza este sábado 14 de noviembre, en el marco del cronograma federal de marchas del Orgullo 2026.",
+    "status": "programado",
+    "lat": -37.25,
+    "lng": -61.2333,
+    "fuentes": [
+      "https://argay.ar/marchas2026"
+    ],
+    "createdAt": "2026-11-14T03:31:48.000Z",
+    "updatedAt": "2026-11-14T03:36:50Z"
+  },
+  {
+    "id": "ar-2026-11-14-orgullo-santa-teresita",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-11-14",
+    "lugar": "Santa Teresita, Partido de la Costa, Buenos Aires, Argentina",
+    "tipoAccion": "manifestacion",
+    "organizaciones": [
+      "Orgullo Partido de la Costa"
+    ],
+    "motivo": "La Marcha del Orgullo LGBTIQ+ de Santa Teresita (Partido de la Costa) se realiza este sábado 14 de noviembre, en el marco del cronograma federal de marchas del Orgullo 2026.",
+    "status": "programado",
+    "lat": -36.55,
+    "lng": -56.6833,
+    "fuentes": [
+      "https://agenciapresentes.org/2026/09/24/orgullo-2026-en-argentina-guia-federal-y-colaborativa-de-marchas-y-actividades/",
+      "https://argay.ar/marchas2026"
+    ],
+    "createdAt": "2026-11-14T03:31:48.000Z",
+    "updatedAt": "2026-11-14T03:36:50Z"
+  },
+  {
+    "id": "ar-2026-11-14-orgullo-salto",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-11-14",
+    "lugar": "Salto, Buenos Aires, Argentina",
+    "tipoAccion": "manifestacion",
+    "organizaciones": [
+      "Comisión Organizadora del Festival del Orgullo de Salto"
+    ],
+    "motivo": "El Festival del Orgullo LGBTIQ+ de Salto se realiza este sábado 14 de noviembre, en el marco del cronograma federal de marchas del Orgullo 2026.",
+    "status": "programado",
+    "lat": -34.2944,
+    "lng": -60.2511,
+    "fuentes": [
+      "https://argay.ar/marchas2026"
+    ],
+    "createdAt": "2026-11-14T03:31:48.000Z",
+    "updatedAt": "2026-11-14T03:36:50Z"
+  },
+  {
+    "id": "ar-2026-11-14-paro-universitario-conadu-historica",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-11-14",
     "lugar": "Universidades públicas nacionales de todo el país, Argentina",
     "tipoAccion": "paro",
     "organizaciones": [
       "CONADU Histórica",
+      "AGD-UBA",
       "ADUNC",
-      "ADIUNJU",
-      "Adicus",
-      "ADUL",
-      "ADULP",
-      "ATULP"
+      "Asociaciones de base de todo el país"
     ],
-    "motivo": "Continúa este viernes 13 de noviembre el paro nacional de una semana convocado por CONADU Histórica, que se extiende desde el jueves 12 hasta el miércoles 18 inclusive, con adhesión de asociaciones docentes de universidades públicas de todo el país. Los gremios reclaman el cumplimiento efectivo de la Ley de Financiamiento Universitario, el pago de la deuda salarial, una recomposición de los ingresos y una asignación presupuestaria adecuada para 2027.",
+    "motivo": "Continúa este sábado 14 de noviembre la semana de paro nacional docente universitario convocada por CONADU Histórica y AGD-UBA, que se extiende desde el jueves 12 hasta el miércoles 18 de noviembre inclusive. Los gremios reclaman el cumplimiento efectivo de la Ley de Financiamiento Universitario, el pago de la deuda salarial, una recomposición de los ingresos y un presupuesto 2027 que garantice el funcionamiento de las universidades.",
     "status": "en_curso",
     "lat": -34.6037,
     "lng": -58.3816,
     "fuentes": [
-      "https://www.cronista.com/informacion-gral/suspenden-las-clases-el-jueves-12-y-viernes-13-los-alumnos-tendran-un-nuevo-fin-de-semana-largo-de-4-dias-por-un-paro-docente/",
-      "https://redaccionchubut.com/2026/11/10/conadu-historica-paro-docente-universidades-publicas-noviembre/",
-      "https://www.rionegro.com.ar/gremios/semana-de-paro-universitario-por-la-ley-de-financiamiento-que-pasa-en-neuquen-y-rio-negro-del-12-al-18-de-noviembre-4793906/",
-      "https://desdematanza.com.ar/sociedad/paro-universitario-financiamiento-publicas/",
-      "https://portal.ejes.com/noticias/politica/paro-defensa-universidad-19891",
-      "https://monitorgremial.com.ar/conadu-historica-inicio-una-semana-de-paro-en-reclamo-por-los-salarios-y-la-universidad-publica/"
+      "https://www.pagina12.com.ar/2026/11/12/nueva-semana-de-paro-en-las-universidades/",
+      "https://www.examedia.com.ar/portada/analisis/691-los-docentes-universitarios-siguen-de-paro-hasta-el-miercoles-18",
+      "https://neuquennews.com.ar/contenido/29656/conadu-historica-y-adunc-anunciaron-un-paro-nacional-universitario"
     ],
-    "createdAt": "2026-11-13T03:00:11.000Z",
-    "updatedAt": "2026-11-13T23:34:59Z"
+    "createdAt": "2026-11-14T03:31:48.000Z",
+    "updatedAt": "2026-11-14T03:36:50Z"
   },
   {
-    "id": "ar-2026-11-13-ate-santa-cruz-paro-general-72-horas",
+    "id": "ar-2026-11-14-acampe-papelera-del-sur-tornquist",
     "seccion": "protestas_ar",
     "pais": "Argentina",
     "bandera": "🇦🇷",
     "hora": "",
-    "fecha": "2026-11-13",
-    "lugar": "Toda la provincia de Santa Cruz, con paro general en la administración pública central y salud, Argentina",
-    "tipoAccion": "paro",
-    "organizaciones": [
-      "ATE Santa Cruz (Asociación Trabajadores del Estado)"
-    ],
-    "motivo": "Se cumple este viernes 13 de noviembre la tercera y última jornada del paro general de 72 horas de ATE Santa Cruz, que abarca el miércoles 11, jueves 12 y viernes 13. La medida fue resuelta luego de que la paritaria central con el Gobierno provincial concluyera sin una propuesta de recomposición salarial, y alcanza a la administración pública provincial, municipios, comisiones de fomento, entes autárquicos, organismos descentralizados y el sector de salud.",
-    "status": "en_curso",
-    "lat": -51.6226,
-    "lng": -69.2181,
-    "fuentes": [
-      "https://laopinionaustral.com.ar/politica-y-economia/ate-anuncio-un-paro-general-de-72-horas-tras-la-reunion-de-la-paritaria-central-730558.html",
-      "https://www.opisantacruz.com.ar/2026/11/11/ate-convoco-a-un-paro-de-72-horas-por-falta-de-oferta-salarial/"
-    ],
-    "createdAt": "2026-11-13T03:00:11.000Z",
-    "updatedAt": "2026-11-13T23:34:59Z"
-  },
-  {
-    "id": "ar-2026-11-13-ate-chubut-paro-24-horas",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "00:00",
-    "fecha": "2026-11-13",
-    "lugar": "Establecimientos educativos, delegaciones regionales educativas y sede central del Ministerio de Educación de Chubut, Argentina",
-    "tipoAccion": "paro",
-    "organizaciones": [
-      "ATE Seccional Chubut (Asociación Trabajadores del Estado)"
-    ],
-    "motivo": "ATE Seccional Chubut realiza este viernes 13 de noviembre un paro total de actividades por 24 horas desde las 00:00, que alcanza al personal de establecimientos educativos, las delegaciones regionales del área y la sede central del Ministerio de Educación. El gremio reclama respuestas oficiales a planteos presentados ante funcionarios ministeriales, rechaza los descuentos salariales aplicados a trabajadores estatales y denuncia el grave estado edilicio de numerosas escuelas.",
-    "status": "en_curso",
-    "lat": -43.3002,
-    "lng": -65.1023,
-    "fuentes": [
-      "https://heraldochubut.com.ar/provinciales/ate-chubut-hara-un-paro-de-24-horas-el-13-de-noviembre",
-      "https://cholilaonline.ar/2026/11/conflicto-estatal-chubut-ate-paro-total-viernes-escuelas.html"
-    ],
-    "createdAt": "2026-11-13T03:00:11.000Z",
-    "updatedAt": "2026-11-13T23:34:59Z"
-  },
-  {
-    "id": "ar-2026-11-13-brigadistas-chubut-paro-total",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "00:00",
-    "fecha": "2026-11-13",
-    "lugar": "Servicio Provincial de Manejo del Fuego de Chubut, Comarca Andina, con movilización, Argentina",
-    "tipoAccion": "paro",
-    "organizaciones": [
-      "ATE Comarca Andina",
-      "Trabajadores del Servicio Provincial de Manejo del Fuego (SPMF) de Chubut"
-    ],
-    "motivo": "Los trabajadores del Servicio Provincial de Manejo del Fuego de Chubut iniciaron este viernes 13 de noviembre a las 00:00 un paro total de actividades con movilización, en reclamo por el incumplimiento de un acuerdo salarial firmado en octubre con el Gobierno provincial. La medida fue anunciada por ATE Comarca Andina y se mantendrá hasta que se efectivice el pago de los compromisos asumidos, en la antesala de la temporada de mayor riesgo de incendios forestales.",
-    "status": "en_curso",
-    "lat": -42.9146,
-    "lng": -71.3186,
-    "fuentes": [
-      "https://www.anbariloche.com.ar/noticias/2026/11/12/122681-brigadistas-de-chubut-anunciaron-un-paro-total-desde-este-viernes-por-un-reclamo-salarial"
-    ],
-    "createdAt": "2026-11-13T03:00:11.000Z",
-    "updatedAt": "2026-11-13T23:34:59Z"
-  },
-  {
-    "id": "ar-2026-11-13-sejun-neuquen-retiro-provincial",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "09:30",
-    "fecha": "2026-11-13",
-    "lugar": "Ciudad Judicial de Neuquén y dependencias judiciales de toda la provincia, Neuquén, Argentina",
-    "tipoAccion": "protesta",
-    "organizaciones": [
-      "Sindicato de Empleados Judiciales de Neuquén (SEJuN)"
-    ],
-    "motivo": "El Sindicato de Empleados Judiciales de Neuquén (SEJuN) realiza este viernes 13 de noviembre un retiro provincial de los lugares de trabajo a partir de las 09:30, en el marco del conflicto salarial con el Tribunal Superior de Justicia. La modalidad de las acciones quedará supeditada al resultado de la reunión paritaria y a la respuesta del máximo tribunal; el gremio advirtió que endurecerá las protestas si no recibe una propuesta salarial que colme sus expectativas.",
-    "status": "finalizado",
-    "lat": -38.9516,
-    "lng": -68.0591,
-    "fuentes": [
-      "https://neuquennews.com.ar/contenido/29696/conflicto-judicial-en-neuquen-sejun-definio-retiros-de-trabajo-para-jueves-y-vie"
-    ],
-    "createdAt": "2026-11-13T03:00:11.000Z",
-    "updatedAt": "2026-11-13T23:34:59Z"
-  },
-  {
-    "id": "ar-2026-11-13-marcha-orgullo-resistencia-chaco",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "",
-    "fecha": "2026-11-13",
-    "lugar": "Resistencia, Chaco, Argentina",
-    "tipoAccion": "manifestacion",
-    "organizaciones": [
-      "Multisectorial Disidente Chaco"
-    ],
-    "motivo": "Resistencia, Chaco, celebra este viernes 13 de noviembre la XVI Marcha del Orgullo LGBTIQNB+, convocada por la Multisectorial Disidente Chaco, en el marco del cronograma federal de marchas 2026. La movilización reclama el pleno ejercicio de los derechos de la diversidad sexual y de género, la implementación efectiva de la Ley de Educación Sexual Integral y de la Ley de Cupo Laboral Travesti-Trans, y denuncia los discursos de odio y la violencia contra la comunidad LGBTIQ+.",
-    "status": "en_curso",
-    "lat": -27.4514,
-    "lng": -58.9867,
-    "fuentes": [
-      "https://argay.ar/marchas2026",
-      "https://argay.ar/agenda/resitencia-chaco-marcha-del-orgullo-lgbtiq-2026/"
-    ],
-    "createdAt": "2026-11-13T10:33:46.000Z",
-    "updatedAt": "2026-11-13T23:34:59Z"
-  },
-  {
-    "id": "ar-2026-11-13-corte-autopista-la-plata-diagonal-74",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "",
-    "fecha": "2026-11-13",
-    "lugar": "Subida de la Autopista Buenos Aires–La Plata, a la altura de Diagonal 74, La Plata, Buenos Aires, Argentina",
-    "tipoAccion": "corte",
-    "organizaciones": [
-      "Organizaciones sociales y sindicales"
-    ],
-    "motivo": "Organizaciones sociales y sindicales realizaron este viernes 13 de noviembre por la mañana un corte en la subida de la Autopista Buenos Aires–La Plata, a la altura de Diagonal 74, en La Plata, en rechazo a las políticas de ajuste del Gobierno nacional y al recorte de jubilaciones, salud y educación. La protesta generó demoras en el tránsito de acceso a la capital bonaerense y no se registraron incidentes.",
-    "status": "finalizado",
-    "lat": -34.9255,
-    "lng": -57.9805,
-    "fuentes": [
-      "https://www.degremiales.com/Protesta-en-La-Plata-corte-en-la-subida-de-la-Autopista-por-los-ajustes-del-Gobierno-y-el-recorte-a-las-jubilaciones-4010"
-    ],
-    "createdAt": "2026-11-13T23:29:09.000Z",
-    "updatedAt": "2026-11-13T23:34:59Z"
-  },
-  {
-    "id": "ar-2026-11-13-acampe-papelera-del-sur-tornquist",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "04:00",
-    "fecha": "2026-11-13",
-    "lugar": "Frente a la planta de Papelera del Sur (Interpack), Tornquist, Buenos Aires, Argentina",
+    "fecha": "2026-11-14",
+    "lugar": "Frente a la planta de Papelera del Sur (Grupo HZ), Ruta Provincial 76, Tornquist, Buenos Aires, Argentina",
     "tipoAccion": "acampe",
     "organizaciones": [
-      "Sindicato de Trabajadores y Empleados Papeleros",
-      "Trabajadores de Papelera del Sur",
-      "Federación del Papel"
+      "Sindicato de Trabajadores y Empleados Papeleros de Tornquist",
+      "Comisión interna de Papelera del Sur",
+      "Trabajadores despedidos"
     ],
-    "motivo": "Los trabajadores de Papelera del Sur mantienen este viernes 13 de noviembre un acampe frente a la planta de Tornquist y se presentaron a las 04:00 para retomar tareas tras la conciliación obligatoria dictada por el Ministerio de Trabajo bonaerense. La empresa no abrió las puertas y ratificó el cierre que dejó a unos 160 trabajadores sin empleo; el gremio denuncia el incumplimiento de la medida y exige la reapertura de la fábrica.",
+    "motivo": "Los 160 trabajadores despedidos de Papelera del Sur mantienen un acampe por tiempo indeterminado frente a la planta de Tornquist, organizados en turnos de seis horas, tras el cierre de la fábrica. Reclaman la reapertura, el pago de las indemnizaciones y una instancia de negociación directa con el directorio de la compañía.",
     "status": "en_curso",
     "lat": -38.5333,
     "lng": -62.2167,
     "fuentes": [
-      "https://dib.com.ar/sociedad/tornquist-papelera-del-sur-no-abrio-sus-puertas-pese-la-conciliacion-obligatoria-n57289",
-      "https://www.pagina12.com.ar/2026/11/13/los-trabajadores-de-papelera-del-sur-sostienen-la-pelea-ante-la-frialdad-de-la-empresa/",
-      "https://dib.com.ar/sociedad/tornquist-trabajadores-despedidos-hacen-un-acampe-la-espera-la-conciliacion-obligatoria-n57204"
+      "https://www.infogremiales.com.ar/tras-el-intempestivo-cierre-de-papelera-del-sur-se-dejarian-de-mover-700-millones-al-mes-en-la-ciudad-y-tornquist-teme-volverse-un-pueblo-fantasma/",
+      "https://www.iprofesional.com/economia/468747-papelera-sur-cerro-pueblo-bonaerense-vilo",
+      "https://prensamercosur.org/2026/11/09/trabajadores-de-la-papelera-del-sur-acampan-frente-a-la-fabrica-contra-los-160-despidos/"
     ],
-    "createdAt": "2026-11-13T23:29:09.000Z",
-    "updatedAt": "2026-11-13T23:34:59Z"
-  },
-  {
-    "id": "ar-2026-11-13-protesta-ruta-168-alto-verde",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "",
-    "fecha": "2026-11-13",
-    "lugar": "Ruta Nacional 168, a la altura de la Fuente de la Cordialidad y el puente Oroño, ingreso a Santa Fe, Argentina",
-    "tipoAccion": "corte",
-    "organizaciones": [
-      "Pescadores y vecinos autoconvocados de Alto Verde, Vuelta del Paraguayo, Curva del Surubí y La Boca"
-    ],
-    "motivo": "Pescadores y vecinos de Alto Verde, la Vuelta del Paraguayo, la Curva del Surubí y La Boca se manifestaron este viernes 13 de noviembre por la mañana en la Ruta Nacional 168, a la altura de la Fuente de la Cordialidad y el puente Oroño, para reclamar mejores condiciones de alojamiento y asistencia para las familias evacuadas por la crecida del río Paraná. Intentaron cortar la calzada y la Policía usó gas pimienta y balas de goma; hubo un detenido y al menos un herido, mientras el tránsito se mantenía con reducción de calzada y demoras.",
-    "status": "finalizado",
-    "lat": -31.621,
-    "lng": -60.69,
-    "fuentes": [
-      "https://www.ellitoral.com/sucesos/video-viral-protesta-ruta-nacional-168-pescadores-vecinos-alto-verde-puente-orono-santafe-ciudad-crecida-rio-parana_0_POi7N7cWkP.html",
-      "https://www.lt10.com.ar/noticia/513769--la-policia-se-enfrento-con-manifestantes-que-querian-cortar-la-ruta-168-un-aprehendido"
-    ],
-    "createdAt": "2026-11-13T23:29:09.000Z",
-    "updatedAt": "2026-11-13T23:34:59Z"
+    "createdAt": "2026-11-14T03:31:48.000Z",
+    "updatedAt": "2026-11-14T03:36:50Z"
   }
 ]
