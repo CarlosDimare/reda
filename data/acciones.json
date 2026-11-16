@@ -24,7 +24,7 @@
       "https://villamariaya.com/sociedad/docentes-de-la-utn-realizaran-dos-jornadas-de-paro-en-reclamo-por-el-financiamiento-universitario_1794507339"
     ],
     "createdAt": "2026-11-15T01:14:27.000Z",
-    "updatedAt": "2026-11-16T00:27:03Z"
+    "updatedAt": "2026-11-16T00:48:53Z"
   },
   {
     "id": "ar-2026-11-15-paro-municipales-28-de-noviembre",
@@ -46,7 +46,7 @@
       "https://www.eldiarionuevodia.com.ar/locales/crisis-en-municipios-paros-y-cortes-de-ruta-profundizan-la-crisis-salarial-en-la-cuenca/"
     ],
     "createdAt": "2026-11-15T01:14:27.000Z",
-    "updatedAt": "2026-11-16T00:27:03Z"
+    "updatedAt": "2026-11-16T00:48:53Z"
   },
   {
     "id": "ar-2026-11-15-corte-ruta-rio-turbio",
@@ -68,7 +68,7 @@
       "https://www.eldiarionuevodia.com.ar/locales/crisis-en-municipios-paros-y-cortes-de-ruta-profundizan-la-crisis-salarial-en-la-cuenca/"
     ],
     "createdAt": "2026-11-15T01:14:27.000Z",
-    "updatedAt": "2026-11-16T00:27:03Z"
+    "updatedAt": "2026-11-16T00:48:53Z"
   },
   {
     "id": "ar-2026-11-16-retencion-tareas-sei-anac",
@@ -91,6 +91,164 @@
       "https://www.ambito.com/informacion-general/aeropuertos-ezeiza-y-aeroparque-protesta-que-es-el-paro-la-japonesa-y-como-afecta-los-vuelos-n6344776"
     ],
     "createdAt": "2026-11-16T00:23:38.000Z",
-    "updatedAt": "2026-11-16T00:27:03Z"
+    "updatedAt": "2026-11-16T00:48:53Z"
+  },
+  {
+    "id": "int-2026-11-16-protesta-washington-dc-etiopia",
+    "seccion": "protestas_int",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "09:00",
+    "fecha": "2026-11-16",
+    "lugar": "Washington D.C., Estados Unidos (marcha hacia el Departamento de Estado)",
+    "tipoAccion": "marcha",
+    "organizaciones": [
+      "Comunidades de Afar, Amhara, Benishangul-Gumuz, Oromo, Tigray y somalíes de Etiopía",
+      "Comunidades eritreas, sudanesas y somalíes en la diáspora"
+    ],
+    "motivo": "Marcha y protesta contra las políticas del gobierno etíope, el conflicto en el Cuerno de África y la influencia militar de Emiratos Árabes Unidos en la región, con recorrido hacia el Departamento de Estado de EE.UU.",
+    "status": "programada",
+    "lat": 38.8951,
+    "lng": -77.0364,
+    "fuentes": [
+      "https://borkena.com/washington-d-c-massive-anti-ethiopian-government-protest-rally/"
+    ],
+    "createdAt": "2026-11-16T00:43:46.000Z",
+    "updatedAt": "2026-11-16T00:48:53Z"
+  },
+  {
+    "id": "int-2026-11-16-huelga-docentes-lituania",
+    "seccion": "protestas_int",
+    "pais": "Lituania",
+    "bandera": "🇱🇹",
+    "hora": "",
+    "fecha": "2026-11-16",
+    "lugar": "Todo el país, Lituania",
+    "tipoAccion": "paro",
+    "organizaciones": [
+      "Lietuvos švietimo darbuotojų profesinė sąjunga (LŠDPS)"
+    ],
+    "motivo": "Huelga nacional de docentes a partir del 16 de noviembre para exigir un aumento del 10% en el coeficiente salarial oficial y mejores condiciones económicas para el sector educativo.",
+    "status": "en_curso",
+    "lat": 54.6872,
+    "lng": 25.2797,
+    "fuentes": [
+      "https://protesttracker.online/p/vilnius-teachers-union-strike-nov-2026"
+    ],
+    "createdAt": "2026-11-16T00:43:46.000Z",
+    "updatedAt": "2026-11-16T00:48:53Z"
+  },
+  {
+    "id": "int-2026-11-16-huelga-medicos-espana",
+    "seccion": "protestas_int",
+    "pais": "España",
+    "bandera": "🇪🇸",
+    "hora": "",
+    "fecha": "2026-11-16",
+    "lugar": "Todo el país, España",
+    "tipoAccion": "paro",
+    "organizaciones": [
+      "Sindicato Médicos Unidos (SMU)",
+      "Asociación MIR España"
+    ],
+    "motivo": "Inicio de una huelga nacional de médicos convocada desde el 16 de noviembre para reclamar un Estatuto Médico propio, financiación extraordinaria, mejores condiciones laborales y recuperación del poder adquisitivo.",
+    "status": "en_curso",
+    "lat": 40.4168,
+    "lng": -3.7038,
+    "fuentes": [
+      "https://protesttracker.online/p/madrid-doctors-strike-spain-nov-2026"
+    ],
+    "createdAt": "2026-11-16T00:43:46.000Z",
+    "updatedAt": "2026-11-16T00:48:53Z"
+  },
+  {
+    "id": "int-2026-11-16-huelga-metro-sul-do-tejo-portugal",
+    "seccion": "protestas_int",
+    "pais": "Portugal",
+    "bandera": "🇵🇹",
+    "hora": "",
+    "fecha": "2026-11-16",
+    "lugar": "Almada y Seixal, Área Metropolitana de Lisboa, Portugal",
+    "tipoAccion": "paro",
+    "organizaciones": [
+      "SMAQ"
+    ],
+    "motivo": "Inicio de una huelga de trabajadores del Metro Sul do Tejo desde el 16 de noviembre por el estancamiento de la negociación del acuerdo de empresa, mejoras salariales y mejores condiciones laborales.",
+    "status": "en_curso",
+    "lat": 38.6765,
+    "lng": -9.1651,
+    "fuentes": [
+      "https://protesttracker.online/p/almada-metro-sul-tejo-strike-nov-2026"
+    ],
+    "createdAt": "2026-11-16T00:43:46.000Z",
+    "updatedAt": "2026-11-16T00:48:53Z"
+  },
+  {
+    "id": "ar-2026-11-16-paro-nodocentes-fatun",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-11-16",
+    "lugar": "Universidades nacionales de todo el país, Argentina",
+    "tipoAccion": "paro",
+    "organizaciones": [
+      "FATUN",
+      "Asociaciones nodocentes de base"
+    ],
+    "motivo": "Jornada de paro nacional de 24 horas del personal no docente universitario en reclamo por la aplicación de la Ley de Financiamiento Universitario, recomposición salarial y mayores recursos para el sistema universitario.",
+    "status": "en_curso",
+    "lat": -34.6037,
+    "lng": -58.3816,
+    "fuentes": [
+      "https://www.opinandosannicolas.ar/2026/11/paro-nodocentes-universitarios-noviembre-2026",
+      "https://agencia.farco.org.ar/2026/11/04/no-docentes-de-las-universidades-realizaron-un-paro-nacional-para-que-se-cumpla-la-ley-de-financiamiento"
+    ],
+    "createdAt": "2026-11-16T00:45:26.000Z",
+    "updatedAt": "2026-11-16T00:48:53Z"
+  },
+  {
+    "id": "ar-2026-11-16-paro-iosfa-ate",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "10:00",
+    "fecha": "2026-11-16",
+    "lugar": "Delegación IOSFA, 25 de Mayo 3262, Mar del Plata, Argentina",
+    "tipoAccion": "paro",
+    "organizaciones": [
+      "ATE"
+    ],
+    "motivo": "Paro nacional y concentración en la delegación de IOSFA en Mar del Plata en rechazo a despidos y en defensa de puestos de trabajo en la obra social.",
+    "status": "en_curso",
+    "lat": -38.0055,
+    "lng": -57.5426,
+    "fuentes": [
+      "https://mi8.com.ar/despidos-en-iosfa-habra-paro-nacional-el-lunes-y-una-concentracion-en-mar-del-plata"
+    ],
+    "createdAt": "2026-11-16T00:45:26.000Z",
+    "updatedAt": "2026-11-16T00:48:53Z"
+  },
+  {
+    "id": "ar-2026-11-16-movilizacion-uthgra",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "16:00",
+    "fecha": "2026-11-16",
+    "lugar": "Av. de Mayo 930, Ciudad de Buenos Aires, Argentina (movilización hacia la Secretaría de Trabajo)",
+    "tipoAccion": "marcha",
+    "organizaciones": [
+      "UTHGRA"
+    ],
+    "motivo": "Movilización para exigir la homologación de acuerdos paritarios pendientes, salarios dignos y el cumplimiento de la orden judicial sobre la certificación provisoria de autoridades sindicales.",
+    "status": "programada",
+    "lat": -34.6089,
+    "lng": -58.3803,
+    "fuentes": [
+      "https://datapolitica.news/2026/10/31/uthgra-convoca-a-una-movilizacion-para-exigir-la-homologacion-de-las-paritarias-huk6y2bsgqkc9e3oevtt5qm9"
+    ],
+    "createdAt": "2026-11-16T00:45:26.000Z",
+    "updatedAt": "2026-11-16T00:48:53Z"
   }
 ]
