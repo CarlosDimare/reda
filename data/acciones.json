@@ -1,701 +1,515 @@
 [
   {
-    "id": "al-2026-10-06-protesta-dia-129-tirana",
+    "id": "ar-2026-11-16-movilizacion-nacional-uthgra-homologacion-paritarias-caba",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "16:00",
+    "fecha": "2026-11-16",
+    "lugar": "Concentración en Avenida de Mayo 930, CABA, Argentina, con marcha hacia la Secretaría de Trabajo de la Nación",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "UTHGRA (Unión de Trabajadores del Turismo, Hoteleros y Gastronómicos de la República Argentina)"
+    ],
+    "motivo": "Movilización nacional de UTHGRA convocada para este lunes 16 de noviembre a las 16:00, con concentración en Avenida de Mayo 930 y marcha hacia la Secretaría de Trabajo de la Nación. Bajo la consigna \"El salario no puede esperar\", el gremio de Luis Barrionuevo exige la homologación inmediata de los acuerdos salariales negociados con las cámaras empresarias, que llevan cerca de ocho meses frenados, paritarias libres y la certificación de las autoridades sindicales. La convocatoria incluye delegaciones de seccionales de todo el país, con más de 20 micros desde Mar del Plata. El sector advierte que la demora afecta a unas 200.000 familias vinculadas con la hotelería y la gastronomía y que las escalas pactadas no pueden aplicarse hasta que la cartera laboral les otorgue validez formal.",
+    "status": "programado",
+    "lat": -34.6088,
+    "lng": -58.3794,
+    "fuentes": [
+      "https://www.infogremiales.com.ar/gastronomicos-marchan-a-la-secretaria-de-trabajo-de-nacion-el-salario-no-puede-esperar/",
+      "https://argentina.ladevi.info/actualidad/uthgra-se-moviliza-contra-el-gobierno-salarios-y-crece-la-tension-hoteles-y-restaurantes-n108862",
+      "https://puntonoticias.com/uthgra-convoca-a-una-gran-movilizacion-contra-el-gobierno-por-la-falta-de-homologacion-de-las-paritarias"
+    ],
+    "createdAt": "2026-11-16T07:42:40.000Z",
+    "updatedAt": "2026-11-16T07:47:58Z"
+  },
+  {
+    "id": "ar-2026-11-16-movilizacion-uthgra-bariloche-paritarias",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "17:30",
+    "fecha": "2026-11-16",
+    "lugar": "Concentración en Moreno y Onelli, Bariloche, Río Negro, Argentina, con marcha hacia la sede local del Ministerio de Trabajo y el Centro Cívico",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "UTHGRA Seccional Bariloche"
+    ],
+    "motivo": "Movilización de la seccional Bariloche de UTHGRA en el marco de la jornada nacional convocada para este lunes 16 de noviembre. La concentración está prevista para las 17:30 en la intersección de Moreno y Onelli; desde allí los trabajadores marcharán hacia la sede local del Ministerio de Trabajo de la Nación y luego continuarán hasta el Centro Cívico. Reclaman la homologación de los acuerdos salariales alcanzados entre marzo y octubre con las cámaras empresarias de la hotelería y la gastronomía, y advierten que la demora condiciona el inicio de la próxima instancia paritaria de la temporada de verano 2026-2027.",
+    "status": "programado",
+    "lat": -41.1335,
+    "lng": -71.3103,
+    "fuentes": [
+      "https://www.barilocheopina.com/noticias/2026/11/13/97259-uthgra-marchara-para-reclamar-la-homologacion-de-los-acuerdos-salariales"
+    ],
+    "createdAt": "2026-11-16T07:42:40.000Z",
+    "updatedAt": "2026-11-16T07:47:58Z"
+  },
+  {
+    "id": "ar-2026-11-16-paro-nacional-iosfa-concentracion-mar-del-plata",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "10:00",
+    "fecha": "2026-11-16",
+    "lugar": "Delegación de IOSFA, 25 de Mayo 3262, Mar del Plata, Provincia de Buenos Aires, Argentina",
+    "tipoAccion": "paro",
+    "organizaciones": [
+      "ATE (Asociación Trabajadores del Estado)",
+      "ATE Mar del Plata"
+    ],
+    "motivo": "Paro nacional en el Instituto de Obra Social de las Fuerzas Armadas y de Seguridad (IOSFA) convocado por ATE para este lunes 16 de noviembre, con una concentración a las 10:00 en la delegación de 25 de Mayo 3262 de Mar del Plata. La protesta se enmarca en el conflicto por la reorganización y liquidación de IOSFA y la transición hacia la Obra Social de las Fuerzas Armadas (OSFA). Los trabajadores reclaman definiciones sobre la continuidad de 177 puestos de trabajo vinculados con los hoteles Antártida Argentina y Tierra del Fuego y la farmacia, que involucran a cerca de 180 familias. La convocatoria se suma a las movilizaciones previas realizadas en Luro y la costa bonaerense.",
+    "status": "programado",
+    "lat": -38.0055,
+    "lng": -57.5426,
+    "fuentes": [
+      "https://mi8.com.ar/despidos-en-iosfa-habra-paro-nacional-el-lunes-y-una-concentracion-en-mar-del-plata"
+    ],
+    "createdAt": "2026-11-16T07:42:40.000Z",
+    "updatedAt": "2026-11-16T07:47:58Z"
+  },
+  {
+    "id": "ar-2026-11-16-paro-nacional-nodocentes-fatun",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-11-16",
+    "lugar": "Universidades nacionales de todo el país, Argentina",
+    "tipoAccion": "paro",
+    "organizaciones": [
+      "FATUN (Federación Argentina del Trabajador de las Universidades Nacionales)",
+      "APUNER",
+      "APUR",
+      "ATULP",
+      "APUNJu"
+    ],
+    "motivo": "Paro nacional de 24 horas sin asistencia a los lugares de trabajo del personal no docente de las universidades nacionales, convocado por FATUN para este lunes 16 de noviembre. Es la cuarta y última jornada del cronograma de paros de 24 horas definido por el Consejo Directivo de la federación, que incluyó el 28 de octubre y el 3 y 12 de noviembre. La medida alcanza a las universidades públicas de todo el país y se replica en las adhesiones locales de APUNER, APUR, ATULP y APUNJu, entre otras. Los trabajadores reclaman recomposición salarial, el pago de la deuda salarial y la aplicación plena de la Ley de Financiamiento Universitario 27.795, en el marco de la discusión del Presupuesto 2027.",
+    "status": "programado",
+    "lat": -34.6037,
+    "lng": -58.3816,
+    "fuentes": [
+      "https://noticiasargentinas.com/politica/el-personal-universitario-nodocente-comenzara-un-paro-por-24-horas_a6ae8b35afd3588a0f5c88875",
+      "https://www.cronista.com/informacion-gral/fatun-confirmo-un-nuevo-paro-de-trabajadores-nodocentes-y-anuncio-tres-fechas-para-noviembre",
+      "https://www.infobae.com/politica/2026/10/28/los-universitarios-comienzan-hoy-un-nuevo-paro-que-se-extendera-durante-una-semana",
+      "https://www.infozona.com.ar/paro-universitario-lunes-16-noviembre-2026-provincia-clases"
+    ],
+    "createdAt": "2026-11-16T07:42:40.000Z",
+    "updatedAt": "2026-11-16T07:47:58Z"
+  },
+  {
+    "id": "ar-2026-11-16-paro-docente-universitario-nacional",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-11-16",
+    "lugar": "Universidades nacionales y preuniversitarias de todo el país, Argentina (incluye UNLP, UBA, UTN y casas de estudio de las provincias)",
+    "tipoAccion": "paro",
+    "organizaciones": [
+      "CONADU",
+      "CONADU Histórica",
+      "FAGDUT",
+      "AGD-UBA",
+      "ADULP",
+      "COAD"
+    ],
+    "motivo": "Jornada de paro docente universitario nacional en varias federaciones y asociaciones de base. CONADU realiza un paro este lunes 16 de noviembre e inicia una semana nacional de protesta; CONADU Histórica y AGD-UBA sostienen el paro de una semana que comenzó el jueves 12 y se extiende hasta el miércoles 18; FAGDUT convocó a una jornada sin asistencia a los lugares de trabajo en las 30 facultades regionales de la UTN, el Instituto Nacional Superior del Profesorado Técnico y el Centro de Estudios Bariloche. En la UNLP adhieren ADULP y ATULP, mientras que COAD ratificó un paro del 16 al 21 de noviembre en Rosario. Los reclamos centrales son la recomposición salarial, el pago de la deuda salarial, la aplicación efectiva de la Ley de Financiamiento Universitario 27.795 y un Presupuesto 2027 que cubra las necesidades del sistema universitario.",
+    "status": "programado",
+    "lat": -34.6037,
+    "lng": -58.3816,
+    "fuentes": [
+      "https://www.infozona.com.ar/paro-universitario-lunes-16-noviembre-2026-provincia-clases",
+      "https://www.0221.com.ar/universidad/la-unlp-arranca-otra-semana-complicada-las-protestas-docentes-y-nodocentes-contra-el-ajuste-nacional-n137427",
+      "https://www.examedia.com.ar/portada/analisis/691-los-docentes-universitarios-siguen-de-paro-hasta-el-miercoles-18",
+      "https://tendenciadenoticias.com.ar/politica/los-docentes-de-la-utn-anunciaron-dos-dias-de-paro-para-exigir-el-cumplimiento-de-la-ley-de-financiamiento-universitario"
+    ],
+    "createdAt": "2026-11-16T07:42:40.000Z",
+    "updatedAt": "2026-11-16T07:47:58Z"
+  },
+  {
+    "id": "ar-2026-11-16-paro-docente-adiuc-universidad-nacional-cordoba",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-11-16",
+    "lugar": "Universidad Nacional de Córdoba, Córdoba, Argentina",
+    "tipoAccion": "paro",
+    "organizaciones": [
+      "ADIUC (Asociación de Docentes e Investigadores de la Universidad Nacional de Córdoba)"
+    ],
+    "motivo": "Paro docente y de investigadores de la Universidad Nacional de Córdoba, nucleados en ADIUC, desde este lunes 16 y hasta el sábado 21 de noviembre. La medida se enmarca en la semana nacional de protesta convocada por CONADU y reclama que el Presupuesto Nacional 2027 incorpore la Ley de Financiamiento Universitario, la recomposición salarial y la convocatoria a paritarias. Desde el gremio advirtieron que vuelven al paro para exigir lo que les deben y enfrentar las políticas de ajuste que, sostienen, están desmantelando las universidades y el sistema científico.",
+    "status": "programado",
+    "lat": -31.4201,
+    "lng": -64.1888,
+    "fuentes": [
+      "https://prensamercosur.org/2026/11/12/paro-docente-universitario-del-16-al-21-de-noviembre/",
+      "https://adiuc.org.ar/2026/10/26/con-paros-y-acciones-federales-continua-el-plan-de-lucha/"
+    ],
+    "createdAt": "2026-11-16T07:42:40.000Z",
+    "updatedAt": "2026-11-16T07:47:58Z"
+  },
+  {
+    "id": "ar-2026-11-16-paro-docente-sutef-tierra-del-fuego",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "12:00",
+    "fecha": "2026-11-16",
+    "lugar": "Instituciones educativas de Tierra del Fuego (Ushuaia, Río Grande y Tolhuin), Argentina, con movilización callejera",
+    "tipoAccion": "paro",
+    "organizaciones": [
+      "SUTEF (Sindicato Unificado de Trabajadoras y Trabajadores de la Educación Fueguina)"
+    ],
+    "motivo": "Paro provincial docente de 36 horas que comienza este lunes 16 de noviembre a las 12:00 y se extiende durante toda la jornada del martes 17. La medida fue resuelta por el Congreso Provincial de SUTEF con la participación de más de 150 delegados y delegadas, e incluye asambleas informativas y de debate en todas las instituciones educativas de la provincia y una movilización callejera dirigida a los legisladores provinciales. El reclamo central es la aprobación de la Ley de Financiamiento Educativo, cuyo tratamiento en la Legislatura quedó en cuarto intermedio hasta el 17 de noviembre. El paro cubre justamente el día en que se retoma la sesión legislativa.",
+    "status": "programado",
+    "lat": -54.8019,
+    "lng": -68.303,
+    "fuentes": [
+      "https://sutef.org/sutef-ratifico-el-estado-de-alerta-y-movilizacion-y-resolvio-un-paro-de-36-horas",
+      "https://datapolitica.news/2026/11/12/sutef-para-36-horas-para-exigir-que-la-legislatura-apruebe-la-ley-de-financiamiento-educativo-b2t7zpiqyjzsl4olgjgz38ns",
+      "https://www.mitdf.com.ar/noticias/el-sutef-convoco-un-paro-provincial-de-36-horas"
+    ],
+    "createdAt": "2026-11-16T07:42:40.000Z",
+    "updatedAt": "2026-11-16T07:47:58Z"
+  },
+  {
+    "id": "ar-2026-11-16-retencion-tareas-anac-servicios-incendios-aeropuertos",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-11-16",
+    "lugar": "Aeropuertos de todo el país (27 terminales del sistema ANAC), con foco en los servicios de extinción de incendios, Argentina",
+    "tipoAccion": "paro",
+    "organizaciones": [
+      "ATE (Asociación Trabajadores del Estado)",
+      "ATE-ANAC"
+    ],
+    "motivo": "Retención de tareas en los servicios de extinción de incendios de todos los aeropuertos del país, desde este lunes 16 hasta el viernes 20 de noviembre, convocada por ATE-ANAC. La medida forma parte del plan de lucha escalonado que el gremio inició el viernes 13 con un \"paro a la japonesa\" en Ezeiza y Aeroparque y una retención de tareas del personal administrativo. Los trabajadores denuncian el congelamiento de parte de los salarios desde comienzos de 2026, la falta de paritarias sectoriales y el desfinanciamiento de las áreas operativas de la Administración Nacional de Aviación Civil. La retención en los servicios de extinción de incendios es especialmente sensible porque esa área define la categoría de protección de cada aeropuerto y condiciona las operaciones.",
+    "status": "en_curso",
+    "lat": -34.8222,
+    "lng": -58.5358,
+    "fuentes": [
+      "https://www.ambito.com/informacion-general/aeropuertos-ezeiza-y-aeroparque-protesta-que-es-el-paro-la-japonesa-y-como-afecta-los-vuelos-n6344776",
+      "https://deeparrival.com/news/argentina-anac-fire-services-protest-november-13-20-2026",
+      "https://www.momarandu.com/notix/noticia/69867_paro-a-la-japonesa-en-argentina.htm",
+      "https://noticiasargentinas.com/politica/ate-anac-realizara-un--paro-a-la-japonesa--en-ezeiza-y-aeroparque_a6af6452e9872162574439c6b"
+    ],
+    "createdAt": "2026-11-16T07:42:40.000Z",
+    "updatedAt": "2026-11-16T07:47:58Z"
+  },
+  {
+    "id": "ph-2026-11-16-protesta-pax-silica-trump-manila",
+    "seccion": "internacionales",
+    "pais": "Filipinas",
+    "bandera": "🇵🇭",
+    "hora": "08:00",
+    "fecha": "2026-11-16",
+    "lugar": "Liwasang Bonifacio, Manila, Filipinas (marcha prevista hacia la embajada de Estados Unidos en Roxas Boulevard)",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "Bagong Alyansang Makabayan (Bayan)",
+      "Anakbayan",
+      "Kilusang Magbubukid ng Pilipinas (KMP)",
+      "Anakpawis",
+      "Kabataan Partylist",
+      "All Workers Unity (AWU)",
+      "Grupos indígenas ayta, igorot, mangyan y molbog"
+    ],
+    "motivo": "Protesta de miles de personas en Liwasang Bonifacio contra la iniciativa Pax Silica liderada por Estados Unidos y la visita del presidente Donald Trump, en el marco de la 49ª Cumbre de la ASEAN. El campamento comenzó el domingo 15 y los manifestantes retomaron las acciones el lunes 16 con un programa desde las 8:00 y una marcha prevista hacia la embajada de Estados Unidos al mediodía. Reclaman la liberación de los detenidos del día anterior, la defensa de la soberanía y de las tierras ancestrales frente a los proyectos de minería y semiconductores, y el fin de la expansión militar estadounidense amparada en el EDCA. Participan agricultores, pescadores, trabajadores, estudiantes y unos 200 indígenas ayta, junto con organizaciones progresistas que denuncian que la administración de Ferdinand Marcos Jr. prioriza los intereses económicos y militares de Washington sobre los medios de vida filipinos.",
+    "status": "en_curso",
+    "lat": 14.5942,
+    "lng": 120.979,
+    "fuentes": [
+      "https://www.ibtimes.co.uk/manila-protests-pax-silica-us-military-expansion-1832434",
+      "https://tribune.net.ph/2026/11/16/ip-groups-protest-pax-silica-initiative-trump-visit-during-asean-summit",
+      "https://www.dzrh.com.ph/post/about-300-protesters-camp-overnight-at-liwasang-bonifacio-plan-more-demonstrations-ahead-of-asean-summit",
+      "https://www.gmanetwork.com/news/topstories/metro/1009639/groups-slam-arrests-dispersal-of-asean-summit-protesters/story/",
+      "https://www.philstar.com/pilipino-star-ngayon/bansa/2026/11/16/2570494/panoorin-mga-larawan-ni-trump-tinusok-sa-protesta-kontra-pax-silica"
+    ],
+    "createdAt": "2026-11-16T07:38:05.000Z",
+    "updatedAt": "2026-11-16T07:47:58Z"
+  },
+  {
+    "id": "pt-2026-11-16-huelga-metro-sul-do-tejo-almada",
+    "seccion": "internacionales",
+    "pais": "Portugal",
+    "bandera": "🇵🇹",
+    "hora": "04:00",
+    "fecha": "2026-11-16",
+    "lugar": "Red del Metro Sul do Tejo (MTS) en Almada y Seixal, distrito de Setúbal, Portugal",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "SMAQ (Sindicato Nacional dos Maquinistas dos Caminhos de Ferro Portugueses)"
+    ],
+    "motivo": "Inicio de una huelga total de tres días, del 16 al 18 de noviembre, convocada por el SMAQ para los trabajadores de Metro Transportes do Sul (MTS), que explota el Metro Sul do Tejo. Es la segunda huelga en menos de un mes, tras los paros del 20 al 27 de octubre. Los trabajadores reclaman la conclusión de un Acuerdo de Empresa, la reanudación efectiva de las negociaciones, el rechazo a la imposición unilateral de condiciones de trabajo, una actualización salarial intermedia y una justa valoración profesional. Los servicios mínimos solo garantizan la Línea 3 (Cacilhas-Universidad) de 7:00 a 9:00 y de 17:00 a 19:00; después, del 19 al 23 de noviembre, la huelga continuará de forma parcial en las dos últimas horas de cada turno.",
+    "status": "en_curso",
+    "lat": 38.679,
+    "lng": -9.1569,
+    "fuentes": [
+      "https://almadaonline.pt/comeca-esta-segunda-feira-greve-de-oito-dias-no-metro-sul-do-tejo/",
+      "https://jornaleconomico.sapo.pt/noticias/trabalhadores-da-metro-transportes-do-sul-em-greve-amanha/",
+      "https://executivedigest.sapo.pt/metro-sul-do-tejo-em-greve-total-a-partir-de-hoje-tres-dias-de-perturbacoes-em-almada-e-no-seixal/"
+    ],
+    "createdAt": "2026-11-16T07:38:05.000Z",
+    "updatedAt": "2026-11-16T07:47:58Z"
+  },
+  {
+    "id": "it-2026-11-16-huelga-anm-transportes-napoles",
+    "seccion": "internacionales",
+    "pais": "Italia",
+    "bandera": "🇮🇹",
+    "hora": "11:00",
+    "fecha": "2026-11-16",
+    "lugar": "Metro Línea 1 y Línea 6, autobuses y funiculares de ANM, Nápoles, Italia",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "FILT-CGIL",
+      "FIT-CISL",
+      "UILT-UIL",
+      "UGL-FNA",
+      "FAISA-CISAL",
+      "USB Lavoro Privato",
+      "ORSA TPL",
+      "FAISA-Confail"
+    ],
+    "motivo": "Paro de cuatro horas del personal de ANM, de 11:00 a 15:00, que afecta a las líneas 1 y 6 del metro, los autobuses, los tranvías y los funiculares de Nápoles. Los sindicatos reclaman la revisión del premio de producción 2026/2027 en sus modalidades, criterios y cuantificación económica, mejoras económicas y paramétricas para todo el personal —en especial para los agentes de estación—, transparencia en los criterios de asignación y pago de los bonus MBO, y mejoras en seguridad, eficiencia y calidad del transporte público. Los servicios mínimos permiten las últimas salidas antes de las 11:00 y la reanudación escalonada desde las 15:05; los autobuses paran de 11:00 a 15:00 y retoman a las 15:30.",
+    "status": "programado",
+    "lat": 40.8518,
+    "lng": 14.2681,
+    "fuentes": [
+      "https://napoli.repubblica.it/cronaca/2026/11/15/news/napoli_sciopero_dei_trasporti_disagi_e_corse_saltate_per_metropolitana_bus_e_funicolari-425725986/",
+      "https://www.fanpage.it/napoli/sciopero-dei-trasporti-oggi-a-napoli-fermi-metro-bus-e-funicolari-le-fasce-di-garanzia/",
+      "https://www.napolike.com/sciopero-anm-16-novembre-2026-metro-bus-funicolari"
+    ],
+    "createdAt": "2026-11-16T07:38:05.000Z",
+    "updatedAt": "2026-11-16T07:47:58Z"
+  },
+  {
+    "id": "es-2026-11-16-huelga-medica-nacional-smu",
+    "seccion": "internacionales",
+    "pais": "España",
+    "bandera": "🇪🇸",
+    "hora": "",
+    "fecha": "2026-11-16",
+    "lugar": "Servicios de salud de toda España (el ámbito autonómico no se aplica en Galicia y Navarra), con concentración a las 7:45 frente al Hospital Donostia, San Sebastián",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "SMU (Sindicato Médicos Unidos)",
+      "Avanza Médica Región de Murcia",
+      "Asociación MIR España"
+    ],
+    "motivo": "Primera de las doce jornadas de huelga nacional y autonómica convocadas por el Sindicato Médicos Unidos (SMU) entre el 16 y el 27 de noviembre para exigir la aprobación de un Estatuto del Médico, una financiación extraordinaria y finalista del Gobierno central y medidas inmediatas de las comunidades autónomas. El sindicato reclama un marco común de condiciones profesionales en todo el país, la jornada de 35 horas donde no esté implantada, plantillas suficientes para evitar la sobrecarga asistencial y la recuperación del poder adquisitivo perdido. En San Sebastián hay concentración a las 7:45 frente al Hospital Donostia y una marcha hasta Onkologikoa; el 19 de noviembre está prevista una manifestación a las 18:00 desde el Boulevard. La convocatoria no es secundada por CESM ni por los sindicatos mayoritarios, que aplazaron sus paros por la convocatoria electoral.",
+    "status": "en_curso",
+    "lat": 40.4168,
+    "lng": -3.7038,
+    "fuentes": [
+      "https://mudmedicos.es/huelga-sindicato-medicos-unidos/",
+      "https://orain.eus/es/actualidad/economia/2026/11/15/el-nuevo-sindicato-smu-convoca-doce-dias-huelga-medica-partir-del-lunes/",
+      "https://www.diariovasco.com/sociedad/salud/huelga-nuevo-sindicato-medicos-20261115000936-nt.html",
+      "https://www.laopiniondemurcia.es/comunidad/2026/11/16/llaman-medicos-region-sumarse-lunes-136473275.html"
+    ],
+    "createdAt": "2026-11-16T07:38:05.000Z",
+    "updatedAt": "2026-11-16T07:47:58Z"
+  },
+  {
+    "id": "lt-2026-11-16-huelga-nacional-docentes-lsdps",
+    "seccion": "internacionales",
+    "pais": "Lituania",
+    "bandera": "🇱🇹",
+    "hora": "08:00",
+    "fecha": "2026-11-16",
+    "lugar": "Escuelas y jardines de infancia de toda Lituania, con epicentro en Vilnius",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "LŠDPS (Lietuvos švietimo darbuotojų profesinė sąjunga / Sindicato de Trabajadores de la Educación de Lituania)"
+    ],
+    "motivo": "Inicio de una huelga nacional indefinida de docentes y educadores de jardines de infancia, convocada por LŠDPS tras fracasar las negociaciones con el Gobierno sobre el aumento salarial de 2027. La huelga comenzó a las 8:00 y, según el sindicato, se sumaron unos 4.000 pedagogos de 220 centros, con la expectativa de alcanzar los 10.000 afiliados. Exigen un aumento del 10% del coeficiente salarial base frente al 7,56% propuesto por el Ejecutivo y medidas para que el salario medio docente alcance el 130% del salario medio nacional. La ministra de Educación, Raminta Popovienė, pidió no recurrir al paro, y el primer ministro Mindaugas Sinkevičius llamó a la moderación; el sindicato prevé mantener la medida hasta la aprobación del presupuesto en el Seimas.",
+    "status": "en_curso",
+    "lat": 54.6872,
+    "lng": 25.2797,
+    "fuentes": [
+      "https://www.lrt.lt/en/news-in-english/19/3116068/lithuanian-teachers-launch-nationwide-strike-over-pay-dispute",
+      "https://bns.lt/naujiena/neterminuota-streika-pradejo-apie-4-tukst-pedagogu-reikalauja-didesniu-atlyginimu-papildytas-nuotraukos-icnzmc07",
+      "https://smsm.lrv.lt/lt/naujienos-1/pranesimai-ziniasklaidai-1/kaip-organizuojamas-ugdymo-procesas-vykstant-mokytoju-streikui-0PJ7/"
+    ],
+    "createdAt": "2026-11-16T07:38:05.000Z",
+    "updatedAt": "2026-11-16T07:47:58Z"
+  },
+  {
+    "id": "us-2026-11-16-huelga-tribunales-san-mateo-seiu521",
+    "seccion": "internacionales",
+    "pais": "Estados Unidos",
+    "bandera": "🇺🇸",
+    "hora": "",
+    "fecha": "2026-11-16",
+    "lugar": "Tribunales del Condado de San Mateo (Redwood City, South San Francisco y San Mateo), California, Estados Unidos",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "SEIU Local 521"
+    ],
+    "motivo": "Huelga por prácticas laborales desleales de los trabajadores del Tribunal Superior del Condado de San Mateo, anunciada para el lunes 16 de noviembre tras meses de negociación con la dirección del tribunal. El 99% de los afiliados autorizó el paro, que afecta a taquígrafos judiciales, secretarios, paralegales, contadores y asistentes judiciales. Denuncian malas prácticas laborales y negociación de mala fe, asignación de tareas fuera de su clasificación sin formación, vacantes que llegaron al 17% y una caída del 12,3% en la tasa de resolución de casos entre los ejercicios 2022-23 y 2024-25; piden mejoras salariales, más personal y respeto a las categorías. El tribunal mantendrá abiertas todas sus sedes con servicios esenciales y advirtió posibles demoras y reprogramaciones de asuntos no urgentes.",
+    "status": "programado",
+    "lat": 37.4863,
+    "lng": -122.2323,
+    "fuentes": [
+      "https://www.seiu521.org/press-release/san-mateo-county-superior-court-workers-announce-unfair-labor-practice-strike-beginning-monday-november-16",
+      "https://sanmateo.courts.ca.gov/news/san-mateo-superior-court-will-stay-open-during-anticipated-seiu-strike",
+      "https://localnewsmatters.org/2026/11/14/san-mateo-county-court-workers-prepare-for-strike-monday-as-contract-negotiations-stall/"
+    ],
+    "createdAt": "2026-11-16T07:38:05.000Z",
+    "updatedAt": "2026-11-16T07:47:58Z"
+  },
+  {
+    "id": "za-2026-11-16-protesta-march-and-march-durban",
+    "seccion": "internacionales",
+    "pais": "Sudáfrica",
+    "bandera": "🇿🇦",
+    "hora": "",
+    "fecha": "2026-11-16",
+    "lugar": "Oficinas del Departamento de Asuntos Internos en Che Guevara Road (antes Moore Road), Umbilo, Durban, KwaZulu-Natal, Sudáfrica",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "March and March"
+    ],
+    "motivo": "Reanudación de las protestas y el plantón del movimiento March and March frente a las oficinas de Asuntos Internos de Durban después de que expirara el 6 de noviembre la orden judicial que suspendió las manifestaciones durante el periodo electoral. El grupo, fundado en marzo de 2024 y liderado por Jacinta Ngobese-Zuma, exige la deportación de inmigrantes indocumentados, controles fronterizos más estrictos, prioridad laboral para los sudafricanos y una mayor regulación de las plataformas de reparto; la policía mantiene un despliegue reforzado y el movimiento denuncia uso excesivo de la fuerza. La Justicia impuso restricciones de rutas, horarios y prohibición de armas, y el caso volverá a los tribunales el 18 de enero de 2027. Organizaciones de derechos humanos y partidos políticos califican al movimiento de xenófobo.",
+    "status": "en_curso",
+    "lat": -29.8833,
+    "lng": 30.9833,
+    "fuentes": [
+      "https://iol.co.za/ios/news/2026-11-16-march-and-march-protests-resume-in-durban-after-court-suspension-expires/"
+    ],
+    "createdAt": "2026-11-16T07:38:05.000Z",
+    "updatedAt": "2026-11-16T07:47:58Z"
+  },
+  {
+    "id": "bd-2026-11-16-protesta-salario-confeccion-daca",
+    "seccion": "internacionales",
+    "pais": "Bangladés",
+    "bandera": "🇧🇩",
+    "hora": "",
+    "fecha": "2026-11-16",
+    "lugar": "Oficina del Consejo de Salario Mínimo en Segunbagicha, Daca, Bangladés; zonas industriales de Savar, Ashulia y Gazipur",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "Coordinadora de Sindicatos de Trabajadores de Prendas y Suéteres de Bangladés",
+      "Federación Nacional de Trabajadores de Prendas (NGWF)",
+      "Representantes de los trabajadores ante el Consejo de Salario Mínimo"
+    ],
+    "motivo": "Continúan las protestas de los trabajadores de la confección por un salario mínimo digno. El lunes 16 de noviembre, mientras el Consejo de Salario Mínimo postergaba su tercera reunión —en la que los empleadores debían presentar su propuesta—, organizaciones laborales realizaron una cadena humana frente a la oficina del consejo en Segunbagicha, Daca. Los trabajadores piden elevar el salario mínimo de 12.500 a 32.000 takas (frente a los 30.000 de la demanda inicial), tras casi tres semanas de paros y cierres de fábricas en Savar, Ashulia y Gazipur; los empresarios han aplicado la cláusula de «no trabajo, no pago» y han propuesto 15.000 takas. El Gobierno formó el consejo el 1 de noviembre y la nueva escala regiría desde el 1 de diciembre.",
+    "status": "en_curso",
+    "lat": 23.739,
+    "lng": 90.414,
+    "fuentes": [
+      "https://en.prothomalo.com/bangladesh/2pkvzryts5",
+      "https://www.tbsnews.net/economy/rmg/owners-submit-minimum-wage-proposal-boards-third-meeting-today-amid-ongoing-unrest",
+      "https://www.thedailystar.net/news/bangladesh/news/nine-more-rmg-units-adopt-no-work-no-pay-4324991"
+    ],
+    "createdAt": "2026-11-16T07:38:05.000Z",
+    "updatedAt": "2026-11-16T07:47:58Z"
+  },
+  {
+    "id": "al-2026-11-16-protesta-diaria-estudiantes-tirana",
     "seccion": "internacionales",
     "pais": "Albania",
     "bandera": "🇦🇱",
     "hora": "",
     "fecha": "2026-11-16",
-    "lugar": "Plaza Skanderbeg y oficina del Primer Ministro, Tirana, Albania",
+    "lugar": "Bulevar Dëshmorët e Kombit, frente a la oficina del Primer Ministro, Tirana, Albania",
     "tipoAccion": "movilizacion",
     "organizaciones": [
-      "Movimiento ciudadano de protesta",
-      "Colectivos cívicos y estudiantes"
+      "Estudiantes y ciudadanos",
+      "Profesores",
+      "Colectivos de la diáspora"
     ],
-    "motivo": "131º día consecutivo de la protesta ciudadana contra el gobierno y el primer ministro Edi Rama, tras más de cuatro meses de movilizaciones diarias contra el partido Socialista en el poder. Como en jornadas anteriores, los manifestantes se concentran en la plaza Skanderbeg y marchan hacia la oficina del Primer Ministro, en el bulevar Dëshmorët e Kombit, exigiendo la dimisión incondicional de Rama, la creación de un gobierno técnico de transición, cambios en el sistema político y electoral y la anulación de la ley de zonas protegidas. El martes 6 de octubre se cumplió el 129º día: tras los discursos frente a la Kryeministria la columna recorrió la Tirana Nueva y la plaza Wilson hasta volver al punto de partida, con consignas como «Edi Rama, dimite», «Acabó para vos», «Rama a la cárcel, Berisha a la cárcel» y «Cambio de sistema»; la asamblea de la oposición fijó además una movilización mayor para el martes 13 de octubre.",
+    "motivo": "Las protestas consecutivas en Tirana contra el Gobierno de Edi Rama continúan el lunes 16 de noviembre, jornada 170 del movimiento. Los estudiantes y ciudadanos mantienen las concentraciones diarias frente a la oficina del Primer Ministro y las marchas de los miércoles y sábados; el 14 de noviembre la manifestación partió del Ministerio de Educación y recorrió Zogu i Zi, 21 Dhjetori y Vasil Shanto hasta el bulevar Dëshmorët e Kombit, con quema de contenedores y bloqueos de tráfico. Exigen la dimisión de Rama, un gobierno técnico de transición, reformas constitucionales y electorales, límites de mandato y la revisión de las leyes de zonas protegidas e inversiones estratégicas, y rechazan cualquier diálogo con el primer ministro. La policía desplegó unos 700 agentes y el movimiento anunció dos protestas nacionales por semana.",
     "status": "en_curso",
-    "lat": 41.3329,
-    "lng": 19.8183,
+    "lat": 41.322,
+    "lng": 19.82,
     "fuentes": [
-      "https://droni.al/2026/10/06/dita-129-protestuesit-para-kryeministrise-kjo-qeveri-eshte-antikombetare/",
-      "https://pamfleti.net/aktualitet/rama-dorehiqu-mbyllet-protesta-e-129-te-qytetaret-neser-serish-ne-shesh-i356016",
-      "https://dosja.al/live-updates/dita-e-129-te-e-protestes-qytetaret-zbresin-serish-sot-ne-shesh-ker-i517993"
+      "https://plurismo.org/article/student-led-protests-and-clashes-rock-albania-s-capital-amid-deepening-political-frustrations",
+      "https://www.balkanweb.com/en/On-the-169th-day-of-the-protest--citizens-gather-again-in-front-of-the-prime-minister%27s-office--demanding-Rama%27s-resignation./",
+      "https://en.ata.gov.al/2026/11/14/clashes-traffic-disruption-reported-during-student-led-protest-in-tirana/"
     ],
-    "createdAt": "2026-10-06T07:09:50.000Z",
-    "updatedAt": "2026-10-08T17:13:52Z"
+    "createdAt": "2026-11-16T07:38:05.000Z",
+    "updatedAt": "2026-11-16T07:47:58Z"
   },
   {
-    "id": "br-2026-10-08-movilizacion-estudiantil-universidades",
-    "seccion": "internacionales",
-    "pais": "Brasil",
-    "bandera": "🇧🇷",
-    "hora": "",
-    "fecha": "2026-11-16",
-    "lugar": "Universidades e instituciones federales de Brasil: UnB y UDF (Brasilia), USP y UFABC (São Paulo), UFMG (Belo Horizonte), UFJF (Juiz de Fora), UFPE y UFRPE (Recife), UFMA (São Luís), UFPI (Teresina), UFSM (Santa María), UNISINOS (Porto Alegre), con acto a las 18:00 en la Praça Santos Andrade de Curitiba",
-    "tipoAccion": "movilizacion",
-    "organizaciones": [
-      "UNE (Unión Nacional de Estudiantes)",
-      "UBES (Unión Brasileña de Estudiantes Secundistas)",
-      "UPE (Unión Paranaense de Estudiantes)",
-      "UPES",
-      "DCE UFPR",
-      "DCE UTFPR",
-      "Estudantes NINJA"
-    ],
-    "motivo": "Nueva jornada de la movilización estudiantil que desde el 5 de octubre, tras el primer turno de las elecciones presidenciales, convoca asambleas, plenarias y actos en más de 40 centros de 14 estados y el Distrito Federal hasta el 13 de octubre, en defensa de la democracia, la educación pública y la reelección de Lula y contra el candidato de extrema derecha Flávio Bolsonaro. El miércoles 7 miles de estudiantes marcharon en Río de Janeiro desde la Candelária hasta la Cinelândia y hubo actos en Niterói y Recife. Para este jueves 8 la agenda recoge movilizaciones en UnB, UDF, UFMA, UFPI, UFMG, UFJF, USP, UFABC, UNISINOS y UFSM, además del acto «Nem o pai, nem o filho: em defesa do Brasil e contra o avanço da extrema-direita» que arranca a las 18:00 en la Praça Santos Andrade de Curitiba, frente al edificio histórico de la UFPR, organizado por los DCE de UFPR y UTFPR, la UPE, la UPES, la UNE y la UBES, tras la suspensión de los perfiles de los DCE en Instagram. El movimiento reivindica además ampliar la educación pública, mantener el Pé-de-Meia y financiar universidades y escuelas públicas.",
-    "status": "programado",
-    "lat": -25.4284,
-    "lng": -49.2733,
-    "fuentes": [
-      "https://tmc.com.br/politica/novo-ele-nao-manifestacao-estudantil-anti-flavio-ganha-forca-as-vesperas-do-2o-turno/",
-      "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/07/nossos-direitos-nao-sao-negociaveis-estudantes-vao-as-ruas-protestar-contra-o-fascismo-e-em-favor-do-presidente-lula.ghtml",
-      "https://www.brasildefato.com.br/2026/10/07/estudantes-de-curitiba-vao-as-ruas-contra-extrema-direita-nesta-quinta-feira-8/",
-      "https://www.cnnbrasil.com.br/eleicoes/estudantes-realizam-manifestacao-pro-lula-no-rio-de-janeiro/"
-    ],
-    "createdAt": "2026-10-08T02:29:13.000Z",
-    "updatedAt": "2026-10-08T17:13:52Z"
-  },
-  {
-    "id": "ec-2026-10-08-movilizacion-nacional-resistencia-fut-une",
-    "seccion": "internacionales",
-    "pais": "Ecuador",
-    "bandera": "🇪🇨",
-    "hora": "16:00",
-    "fecha": "2026-11-16",
-    "lugar": "Caja del Seguro (IESS), avenida 10 de Agosto, Quito, Ecuador, con concentraciones simultáneas en 19 provincias",
-    "tipoAccion": "movilizacion",
-    "organizaciones": [
-      "FUT (Frente Unitario de Trabajadores)",
-      "UNE (Unión Nacional de Educadores)",
-      "Frente Popular",
-      "Fenocin",
-      "Ecuarunari",
-      "Cedocut",
-      "FETMYP",
-      "ISP (Internacional de Servicios Públicos)"
-    ],
-    "motivo": "Jornada nacional de resistencia y movilización convocada por organizaciones sociales, sindicales, populares e indígenas para este jueves 8 de octubre, en la antesala del feriado del 9 de Octubre por la Independencia de Guayaquil, tras la asamblea nacional unitaria del 26 de septiembre. Los puntos de concentración son provinciales y escalonados: Santo Domingo 14:00 en la Gobernación; Carchi y Manabí 15:00; Cotopaxi y Morona 15:30; El Oro, Guayas (Parque Centenario de Guayaquil), Imbabura, Pastaza y Pichincha 16:00 —en la capital, a las 16:00 en los exteriores de la Caja del Seguro de la avenida 10 de Agosto—; Cañar, Chimborazo, Esmeraldas, Los Ríos, Santa Elena y Sucumbíos 16:30; y Azuay (Parque Calderón de Cuenca) y Loja 17:00. La plataforma unitaria —FUT, UNE, Frente Popular, Fenocin, Ecuarunari, entre otros— exige frenar la concesión del campo Sacha, declarar la emergencia de salud y educación, detener la venta de activos del IESS, revertir las fusiones ministeriales, cese de la criminalización de líderes sociales, respeto a los derechos humanos y al derecho a la protesta, y rechaza la deuda con el FMI; en el plano político llama a «derrotar en las calles y en las urnas» al gobierno de Daniel Noboa y a no consignarle voto el 29 de noviembre. Los organizadores advirtieron que si se decreta puente o extensión del feriado del 9 de octubre evaluarían cambiar la fecha.",
-    "status": "programado",
-    "lat": -0.2145,
-    "lng": -78.4917,
-    "fuentes": [
-      "https://www.expreso.ec/ecuador/organizaciones-sociales-movilizan-8-octubre-ecuador-puntos-concentracion-298524.html",
-      "https://www.vistazo.com/actualidad/2026-10-07-organizaciones-sociales-convocan-movilizacion-octubre-gobierno-noboa-PE11265813",
-      "https://www.primicias.ec/politica/paro-frente-unitario-trabajadores-une-fut-organizaciones-sociales-movilizaciones-octubre-133512/",
-      "https://www.eldiario.ec/ecuador/fut-une-y-organizaciones-sociales-convocan-a-movilizacion-nacional-para-el-8-de-octubre-26092026/",
-      "https://www.infobae.com/america/agencias/2026/10/08/jueves-8-de-octubre-de-2026-0700-gmt"
-    ],
-    "createdAt": "2026-10-08T02:29:13.000Z",
-    "updatedAt": "2026-10-08T17:13:52Z"
-  },
-  {
-    "id": "es-2026-10-06-acampada-sindicato-inquilinas-madrid",
-    "seccion": "internacionales",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "",
-    "fecha": "2026-11-16",
-    "lugar": "Puerta del Sol, Madrid, España",
-    "tipoAccion": "otra",
-    "organizaciones": [
-      "Sindicato de Inquilinas",
-      "CCOO",
-      "UGT",
-      "CGT"
-    ],
-    "motivo": "Duodécima jornada de la acampada por la vivienda en la Puerta del Sol, iniciada la noche del 26 al 27 de septiembre tras el desahucio de Maricarmen Abascal. El miércoles 7 de octubre el Tribunal Superior de Justicia de Madrid (TSJM) rechazó por segunda vez el desalojo: la Sección Sexta de la Sala de lo Contencioso-Administrativo desestimó la medida cautelar solicitada por la Comunidad de Madrid porque no consta la «inactividad administrativa» de la Delegación del Gobierno —la LJCA exige tres meses desde el requerimiento— y no entró en el fondo del asunto, mientras la Abogacía del Estado, en sus alegaciones, sostenía que evacuar la plaza podría ser «más perjudicial» que permitir el asentamiento; la Comunidad estudia interponer recurso de reposición en cinco días y sigue exigiendo al delegado Francisco Martín que disuelva la acampada. El acto, que supera las 2.000 personas y 30 colectivos con el Sindicato de Inquilinas en una estructura horizontal de comisiones (urbanismo, legal, mediación, comunicación), mantiene sus reclamos de vivienda pública y freno a los desahucios y apoya la huelga general de 24 horas de CCOO, UGT, CGT y otras centrales por vivienda y salarios del 11 de noviembre; el movimiento se replica en acampadas en Valencia, Barcelona, Zaragoza, Sevilla y otras ciudades. Actualización del jueves 8: Maricarmen Abascal falleció el miércoles 7 de octubre en el Hospital Gregorio Marañón tras quince días ingresada; esa noche centenares de acampados marcharon en silencio desde la Puerta del Sol hasta el Congreso de los Diputados, custodiados por la Policía Nacional, y la acampada se mantiene este jueves 8 con velatorios, minutos de silencio y nuevas concentraciones por la vivienda (también en otras ciudades, como la asamblea de Lanzarote), mientras CCOO, UGT y el Sindicato de Inquilinas ratifican la huelga general del 11 de noviembre.",
-    "status": "en_curso",
-    "lat": 40.4168,
-    "lng": -3.7038,
-    "fuentes": [
-      "https://elpais.com/espana/madrid/2026-10-07/la-justicia-rechaza-de-nuevo-el-desalojo-de-la-puerta-del-sol-despues-de-recibir-las-alegaciones-de-la-delegacion-del-gobierno.html",
-      "https://www.rtve.es/noticias/20261007/acampada-sol-tsjm-delegacion/17256451.shtml",
-      "https://www.elmundo.es/madrid/2026/10/08/6ac67e09e85ece3b6a8b45a7.html",
-      "https://www.elindependiente.com/espana/2026/10/07/la-justicia-rechaza-desalojar-la-acampada-de-sol-al-no-apreciar-aun-inactividad-de-la-delegacion-del-gobierno/",
-      "https://www.elperiodico.com/es/economia/20261007/huelga-general-vivienda-sera-miercoles-135063904",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/8/death-of-87-year-old-sparks-furious-spain-housing-protests",
-      "https://www.euronews.com/video/2026/10/08/adios-maricarmen-hundreds-protest-in-madrid-after-pensioners-death"
-    ],
-    "createdAt": "2026-10-06T07:09:50.000Z",
-    "updatedAt": "2026-10-08T17:13:52Z"
-  },
-  {
-    "id": "es-2026-10-06-acampada-vivienda-obradoiro-santiago",
-    "seccion": "internacionales",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "",
-    "fecha": "2026-11-16",
-    "lugar": "Plaza del Obradoiro, Santiago de Compostela, Galicia, España",
-    "tipoAccion": "otra",
-    "organizaciones": [
-      "Acampada por la vivienda digna de Santiago de Compostela"
-    ],
-    "motivo": "La acampada en defensa de la vivienda digna de la plaza del Obradoiro de Santiago de Compostela continúa este jueves 8 de octubre de forma indefinida, pese a la alerta naranja de lluvias del martes, cuando los acampados usaron carpas y palets para refugiarse. Su portavoz, Miguel García, afirmó que permanecerán hasta que haya «cambios reales» y pidió que la futura huelga general del 11 de noviembre convocada por CCOO y UGT no sea un «parche». La movilización se suma a las acampadas de Madrid, Valencia y otras ciudades tras el rechazo de los decretos de vivienda y el adelanto electoral al 29 de noviembre.",
-    "status": "en_curso",
-    "lat": 42.8806,
-    "lng": -8.5449,
-    "fuentes": [
-      "https://www.elespanol.com/quincemil/economia/inmobiliario/20261006/acampada-santiago-vivienda-mantiene-seguiremos-cambios-reales/1003744410443_0.html",
-      "https://www.elperiodico.com/es/economia/20261007/huelga-general-vivienda-sera-miercoles-135063904"
-    ],
-    "createdAt": "2026-10-06T19:40:39.000Z",
-    "updatedAt": "2026-10-08T17:13:52Z"
-  },
-  {
-    "id": "es-2026-10-06-acampada-vivienda-plaza-ayuntamiento-valencia",
-    "seccion": "internacionales",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "",
-    "fecha": "2026-11-16",
-    "lugar": "Plaza del Ayuntamiento (Plaça de l'Ajuntament), Valencia, España",
-    "tipoAccion": "otra",
-    "organizaciones": [
-      "Acampada autónoma y autogestionada por la vivienda de Valencia",
-      "Colectivos por el derecho a la vivienda"
-    ],
-    "motivo": "Sexta jornada de la acampada por la vivienda en la plaza del Ayuntamiento de Valencia, iniciada el sábado 4 de octubre: a mitad de semana eran más de 500 las tiendas de campaña y más de 800 los acampados, con una rotación estimada en cerca de 3.000 personas desde el primer día. La acampada, declarada indefinida, autónoma y autogestionada, mantiene sus reclamos de expropiar pisos a fondos buitres y grandes tenedores y frenar los desahucios, y valora organizar una contramanifestación el 9 de Octubre, fiesta de la Comunidad Valenciana. El Ayuntamiento envió a la delegada del Gobierno, Pilar Bernabé, un requerimiento previo a acciones legales si no garantiza el «normal» desarrollo de los actos del 9 d'Octubre por la «falta de actuación» de la Policía Nacional en la plaza (documenta unas 314 personas a la 1:45 del 5 de octubre), mientras la alcaldesa María José Catalá afirmó que celebrará la fiesta «con la realidad que hay».",
-    "status": "en_curso",
-    "lat": 39.4699,
-    "lng": -0.3763,
-    "fuentes": [
-      "https://www.europapress.es/comunitat-valenciana/noticia-ayuntamiento-valencia-ira-juez-si-delegacion-no-garantiza-normal-desarrollo-doctubre-acampada-20261006192654.html",
-      "https://www.lasprovincias.es/valencia-ciudad/acampada-plaza-ayuntamientovalencia-9-octubre-20261006134642-nt.html",
-      "https://www.levante-emv.com/comunitat-valenciana/2026/10/06/sigue-ultima-hora-acampada-indefinida-134979014.html"
-    ],
-    "createdAt": "2026-10-06T19:40:39.000Z",
-    "updatedAt": "2026-10-08T17:13:52Z"
-  },
-  {
-    "id": "es-2026-10-08-concentracion-salinetas-disa-telde",
-    "seccion": "internacionales",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "11:00",
-    "fecha": "2026-11-16",
-    "lugar": "Instalaciones de DISA, polígono industrial de Salinetas, Telde, Gran Canaria, España",
-    "tipoAccion": "concentracion",
-    "organizaciones": [
-      "CCOO",
-      "UGT",
-      "CNT",
-      "CoBas (Comisiones de Base)",
-      "CUO (Comités para la Unidad Obrera)",
-      "HOAC",
-      "MTC (Movimiento de Trabajadoras y Trabajadores de Canarias)",
-      "SGU",
-      "Plataforma en Defensa de las Pensiones Públicas de Gran Canaria"
-    ],
-    "motivo": "Concentración sindical a las 11:00 ante las instalaciones de DISA en Salinetas (Telde, Gran Canaria) para exigir respuestas dos meses después de la muerte del trabajador Nico Rodríguez, de 35 años, el 5 de agosto en la explosión de un tanque durante tareas de mantenimiento de altura realizadas por operarios de Nervión Industries, con otros tres heridos. Decenas de representantes de organizaciones obreras y sindicales leerán un escrito colectivo en el que reclaman el esclarecimiento de las causas del accidente, el depósito de responsabilidades —también contra DISA y Nervión Industries—, saber si los trabajadores contaban con todos los elementos de seguridad, por qué no se suspendieron las tareas pese a la alerta por altas temperaturas y la revisión completa de los protocolos de prevención, con el lema «Ni una muerte más». Es la continuación de la movilización iniciada el 20 de agosto, a la que se sumaron entonces nueve organizaciones.",
-    "status": "programado",
-    "lat": 27.99,
-    "lng": -15.41,
-    "fuentes": [
-      "https://www.lacasademitia.es/articulo/convocatorias-y-comunicados/canarias-gran-canaria-concentracion-protesta-muerte-trabajador-ausencia-informacion-disa-salinetas-8-octubre/20261007082716197702.html",
-      "https://www.canarias7.es/canarias/gran-canaria/telde/estadistica-humano-sindicatos-exigen-esclarecer-accidente-mortal-20260820122850-nt.html",
-      "https://noticiasobreras.es/2026/08/sindicatos-y-movimientos-exigen-esclarecer-la-muerte-de-un-trabajador-en-la-explosion-de-salinetas/"
-    ],
-    "createdAt": "2026-10-08T02:29:13.000Z",
-    "updatedAt": "2026-10-08T17:13:52Z"
-  },
-  {
-    "id": "es-2026-10-08-concentraciones-gernika-palestina-ayuntamientos",
-    "seccion": "internacionales",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "19:00",
-    "fecha": "2026-11-16",
-    "lugar": "Frente a más de un centenar de ayuntamientos de Euskal Herria (Bilbao, Orio, Mallabia, Ermua, Eibar, Soraluze, Elgoibar, Deba, Mutriku...), España",
-    "tipoAccion": "concentracion",
-    "organizaciones": [
-      "Gernika-Palestina",
-      "EH Bildu",
-      "PSE-EE",
-      "Ezker Anitza-IU",
-      "Sumar Mugimendua",
-      "Elkarrekin Podemos",
-      "Geroa Bai",
-      "CCOO",
-      "UGT",
-      "LAB",
-      "Steilas",
-      "Hiru",
-      "Etxalde",
-      "CGT",
-      "Amnistía Internacional",
-      "Gure Esku",
-      "Palestina Gara",
-      "Ernai"
-    ],
-    "motivo": "Concentraciones simultáneas convocadas por la iniciativa ciudadana Gernika-Palestina para este jueves 8 de octubre a las 19:00 ante los ayuntamientos de Euskal Herria —al menos un centenar, según los organizadores, quienes anunciaron la convocatoria en un encuentro en el ayuntamiento de Bilbao el martes 6— bajo el lema «Gernikaren herritik, genozidiorik ez! Gerrarik ez!» (Desde Gernika: ¡no al genocidio, no a la guerra!). En cada punto se leerá un testimonio recibido desde Palestina para recordar tres años de guerra, y el objetivo es aislar al Estado de Israel y mostrar la solidaridad de la sociedad vasca con el pueblo palestino. La convocatoria cuenta con el apoyo formal de EH Bildu, PSE-EE, Ezker Anitza-IU, Sumar Mugimendua, Elkarrekin Podemos y Geroa Bai; de los sindicatos CCOO de Euskadi y Navarra, UGT, LAB, Steilas, Hiru, Etxalde y CGT; y de Amnistía Internacional, Udalbiltza, AEK, Gerrarik Ez!, Ongi Etorri Errefuxiatuek, Medicus Mundi Gipuzkoa, Sare Herritarra, Gure Esku, Palestina Gara, Mundubat y Ernai, entre otras entidades.",
-    "status": "programado",
-    "lat": 43.263,
-    "lng": -2.935,
-    "fuentes": [
-      "https://www.gernikapalestina.eus/ekimena/urriak-8-elkarretaratzeak-herrietan/",
-      "https://www.berria.eus/euskal-herria/gernika-palestinak-ehundik-gora-elkarretaratze-antolatu-ditu-ostegunerako-genozidioari-eta-gerrari-ez-esateko_2164616_102.html",
-      "https://www.naiz.eus/es/info/noticia/20261006/gernika-palestina-se-concentrara-este-jueves-frente-a-ayuntamientos-para-denunciar-el-genocidio",
-      "https://www.radionervion.com/2026/10/06/gernika-palestina-convoca-movilizaciones-en-euskal-herria-para-mostrar-su-apoyo-al-pueblo-palestino/"
-    ],
-    "createdAt": "2026-10-08T02:29:13.000Z",
-    "updatedAt": "2026-10-08T17:13:52Z"
-  },
-  {
-    "id": "es-2026-10-08-huelga-ayuntamientos-capv-ela-lab",
-    "seccion": "internacionales",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "",
-    "fecha": "2026-11-16",
-    "lugar": "Ayuntamientos y demás entes del sector público local de Álava, Bizkaia y Gipuzkoa (País Vasco), España",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "ELA",
-      "LAB"
-    ],
-    "motivo": "Huelga de 24 horas (de 00:00 a 24:00) en todos los ayuntamientos y entes del sector público local del País Vasco convocada por ELA y LAB para este jueves 8 de octubre, cuarta medida de fuerza del sector en el año tras los paros de dos horas de abril y las dos jornadas completas de mayo y junio. El orden de 5 de octubre del vicepresidente segundo del Gobierno vasco y consejero de Economía, Trabajo y Empleo fija servicios esenciales para la jornada completa, con el inicio en el primer turno aunque sea anterior al día 8. Más de 125 comités de ayuntamientos se adhieren, incluidas las tres capitales —Vitoria-Gasteiz, Bilbao y San Sebastián— y municipios como Getxo, Barakaldo, Portugalete, Basauri, Durango, Llodio, Eibar, Zarautz, Azpeitia, Tolosa y Errenteria; se prevén cierres o alteraciones de polideportivos, bibliotecas, oficinas de atención ciudadana y otras infraestructuras municipales. Los sindicatos denuncian que los partidos de EUDEL clausuraron la mesa negociadora Udalhitz el 25 de septiembre sin aceptar sus contrapropuestas y reclaman convenios colectivos integrales con mejoras salariales, subrogación de personal, euskera y planes de jubilación.",
-    "status": "en_curso",
-    "lat": 42.8467,
-    "lng": -2.6716,
-    "fuentes": [
-      "https://www.euskadi.eus/contenidos/informacion/ordenes_servicios_minimos/es_servmin/26.10.05-Orden-de-SSMM-Ayuntamientos-CAPV.pdf",
-      "https://www.lab.eus/es/lab-y-ela-convocamos-huelga-en-los-ayuntamientos-de-la-cav-el-proximo-8-de-octubre/",
-      "https://www.ela.eus/es/gizalan/udal-foru/noticias/mas-de-125-comites-de-ayuntamientos-se-suman-a-la-huelga-del-8-de-octubre",
-      "https://www.diariovasco.com/gipuzkoa/trabajadores-municipales-huelga-euskadi-8-octubre-20261007162914-nt.html"
-    ],
-    "createdAt": "2026-10-08T02:29:13.000Z",
-    "updatedAt": "2026-10-08T17:13:52Z"
-  },
-  {
-    "id": "es-2026-10-08-huelga-parcial-autobuses-tmb-barcelona",
-    "seccion": "internacionales",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "09:00",
-    "fecha": "2026-11-16",
-    "lugar": "Red de autobuses de TMB (Transports Metropolitans de Barcelona, SA), Barcelona, España",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "Comité de Empresa de Transports de Barcelona, SA",
-      "UGT",
-      "CCOO"
-    ],
-    "motivo": "Primera de las siete jornadas de huelga parcial de octubre en los autobuses de TMB convocada por el Comité de Empresa de Transports de Barcelona, SA, en el conflicto por el convenio colectivo: los paros de este jueves 8 se producen en tres franjas —de 9:00 a 11:00, de 19:00 a 21:00 y de 23:00 a 1:00— y se repetirán los días 14, 15, 20, 22, 27 y 29 si no hay avances. El Departament d'Empresa i Treball de la Generalitat ha fijado servicios mínimos del 40% en tramos de hora punta y del 20% en hora valle, más un bus de barri garantizado por línea. El comité rechazó el preacuerdo que la dirección aceptó «en su totalidad» porque solo servía para desconvocar las paradas y no cerraba el convenio: los puntos centrales son la reducción de la jornada semanal a 35 horas, el respeto a los descansos de dos días consecutivos y los calendarios laborales.",
-    "status": "en_curso",
-    "lat": 41.3851,
-    "lng": 2.1734,
-    "fuentes": [
-      "https://ajuntament.barcelona.cat/premsa/2026/10/07/alteracions-en-el-servei-dautobusos-de-tmb-amb-motiu-de-la-convocatoria-daturades-dema-dijous-8-doctubre/",
-      "https://www.elperiodico.com/es/barcelona/20261006/huelga-autobuses-barcelona-tmb-octubre-2026-135047791",
-      "https://www.elnacional.cat/es/barcelona/conductores-autobuses-barcelona-haran-siete-dias-mas-huelga-este-octubre_1700929_102.html",
-      "https://barnadiario.com/huelga-autobuses-tmb-servicios-minimos-jueves-8-octubre/69943/"
-    ],
-    "createdAt": "2026-10-08T02:29:13.000Z",
-    "updatedAt": "2026-10-08T17:13:52Z"
-  },
-  {
-    "id": "fr-2026-10-06-movilizacion-nacional-estudiantes-sindicatos-paris",
+    "id": "fr-2026-11-16-protestas-estudiantiles-costo-vida-paris",
     "seccion": "internacionales",
     "pais": "Francia",
     "bandera": "🇫🇷",
-    "hora": "15:00",
+    "hora": "",
     "fecha": "2026-11-16",
-    "lugar": "Liceos y universidades de toda Francia, con concentraciones en París y otras ciudades, Francia",
+    "lugar": "Liceos y universidades de París y otras ciudades de Francia",
     "tipoAccion": "movilizacion",
     "organizaciones": [
-      "USL (Union Syndicale Libre)",
+      "Union Syndicale Lycéenne",
       "Union étudiante",
-      "Confédération Paysanne",
+      "Intersindical juvenil",
       "CGT",
       "FSU",
-      "FO",
-      "CFDT",
       "Solidaires",
       "FAGE",
-      "La France Insoumise"
+      "Chalecos Amarillos"
     ],
-    "motivo": "Cuarto día («acte IV») del movimiento de liceos y estudiantes en Francia, el primero con apoyo sindical masivo: la Union Syndicale Lycéenne y la Union étudiante convocan bloqueos de liceos y universidades por la mañana, concentraciones ante las prefecturas de Île-de-France entre las 12:00 y las 14:00 y una manifestación a las 15:00 en la place de la Bastille de París, tras el acto III del martes 6 que reunió 266.000 manifestantes según el Ministerio del Interior y 450.000 según los organizadores (100.000 en la capital), con 488 detenciones, gases lacrimógenos y agua a presión. El miércoles 7 abrió el 86% de los centros pero 528 liceos suspendieron total o parcialmente las clases y Sciences Po París siguió bloqueada. Cinco centrales de la educación —SNES-FSU, CGT, FO, Sud y Unsa— convocaron huelga y manifestación en apoyo (declaración de la secretaria general del SNES-FSU, Sophie Vénétitay), la FSU Territoriale presentó un paro nacional de 00:00 a 24:00 que cubre ATSEM, personal de periscolar y de restauración, la Fédération CGT des Services publics llamó a huelga de las guarderías municipales con una manifestación a las 10:00 en la place des Droits-de-l'Enfant (14º distrito de París), las prefecturas de Seine-Saint-Denis citan a un acto a las 16:00 en Bobigny y la CGT convocó además 24 horas de huelga en TotalEnergies. Reclamos: anulación de las supresiciones de empleos en el presupuesto 2027 y recontratación de contractuales, 250.000 plazas universitarias adicionales, eliminación de la selección con Parcoursup, reemplazo de los profesores ausentes, clases menos cargadas y edificios en condiciones. El primer ministro Sébastien Lecornu anunció horarios «banalisados» hasta el viernes con un «Temps Lycéens» de diálogo en cada establecimiento y una consulta nacional que cierra el 23 de octubre, mientras el ministro del Interior Laurent Nuñez suspendió el uso de granadas ensordecedoras tras la pérdida de una mano de un estudiante de 15 años en Lens; el gobierno balancea 24 institutos incendiados o saqueados y 30.000 alumnos sin clases presenciales. Actualización del jueves 8: jornada confirmada como «acte IV» con bloqueos de liceos y universidades por la mañana, concentraciones ante las prefecturas y manifestación a las 15:00 en la place de la Bastille; tres estaciones de metro de París permanecen cerradas y la CGT mantiene la huelga de 24 horas en TotalEnergies.",
-    "status": "en_curso",
-    "lat": 48.8675,
-    "lng": 2.3694,
-    "fuentes": [
-      "https://www.humanite.fr/societe/manifestation-lyceens/mouvement-lyceen-des-syndicats-denseignants-en-renfort-de-la-mobilisation-jeudi-8-octobre",
-      "https://www.sortiraparis.com/actualites/a-paris/articles/353488-greve-et-manifs-du-8-octobre-2026-a-paris-creches-cantines-carburant-lycees-le-point",
-      "https://www.20minutes.fr/societe/4252359-20261008-colere-lyceens-lecornu-va-savoir-acte-iv-si-allocution-apaise-mouvement",
-      "https://www.europapress.es/internacional/noticia-sindicatos-educativos-francia-echan-jueves-otro-pulso-gobierno-nuevas-huelgas-protestas-20261007161345.html",
-      "https://www.franceactus.info/actualites/blocus-lycees-acte-iv-8-octobre/",
-      "https://www.manifs.fr/2026-10-08-manifestation-lyceen-nes-1488",
-      "https://www.theguardian.com/world/2026/oct/08/thursday-briefing-why-young-people-are-taking-to-the-streets-across-france",
-      "https://www.thelocal.fr/20261007/what-to-expect-from-french-student-protests-and-strikes-on-thursday"
-    ],
-    "createdAt": "2026-10-06T07:09:50.000Z",
-    "updatedAt": "2026-10-08T17:13:52Z"
-  },
-  {
-    "id": "fr-2026-10-08-huelga-totalenergies-cgt-24h",
-    "seccion": "internacionales",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "",
-    "fecha": "2026-11-16",
-    "lugar": "Refinerías y estaciones de servicio de TotalEnergies en Francia",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "CGT"
-    ],
-    "motivo": "Huelga de 24 horas convocada por la CGT en las refinerías y estaciones de servicio de TotalEnergies para este jueves 8 de octubre, en el mismo día que las movilizaciones de liceos. El coordinador de la CGT de la empresa, Éric Sellini, advirtió de que las expediciones de carburante podrían bloquearse o ralentizarse según los sitios, y el sindicato defiende empleo y salarios después de que el grupo anunciara una subida del dividendo para sus accionistas. La convocatoria se inscribe en la dinámica de presión de la central sindical previa a la jornada interprofesional nacional del 5 de noviembre, a la que CGT, FO, Unsa, CFDT y FSU han llamado junto con las manifestaciones de los días 17 de octubre.",
+    "motivo": "Continúan las protestas estudiantiles y contra el costo de vida en Francia. El lunes 16 de noviembre, mientras el Gobierno recibía a empleadores, sindicatos y organizaciones estudiantiles, seguían los bloqueos de liceos y universidades y la policía de París prohibió hasta el 20 de noviembre las concentraciones no autorizadas a menos de 100 metros de diez liceos y cinco universidades. Desde septiembre, el movimiento por las malas condiciones de los centros, la falta de profesores y el costo de la vida se amplió a los «chalecos amarillos», estudiantes, sindicatos y grupos climáticos y de derechos de la infancia; el sábado 14 hubo unas 106.000 personas en las calles según el Ministerio del Interior, con 404 detenciones, y para el martes 17 se convocó una huelga nacional. Los manifestantes también rechazan el proyecto que presume la legítima defensa policial.",
     "status": "en_curso",
     "lat": 48.8566,
     "lng": 2.3522,
     "fuentes": [
-      "https://www.sortiraparis.com/actualites/a-paris/articles/353488-greve-et-manifs-du-8-octobre-2026-a-paris-creches-cantines-carburant-lycees-le-point",
-      "https://www.humanite.fr/societe/manifestation-lyceens/mouvement-lyceen-des-syndicats-denseignants-en-renfort-de-la-mobilisation-jeudi-8-octubre"
+      "https://www.ilkha.com/english/latest/french-students-continue-protests-despite-government-measures-568587",
+      "https://nglobenews.com/es/article/paris-police-ban-protests-schools-universities-2026-11-16/",
+      "https://www.wsws.org/en/articles/2026/11/16/wowk-n16.html",
+      "https://belgium-now.com/2026/11/16/france-protests-fifth-weekend-arrests-lyon-journalists/"
     ],
-    "createdAt": "2026-10-08T02:29:13.000Z",
-    "updatedAt": "2026-10-08T17:13:52Z"
+    "createdAt": "2026-11-16T07:38:05.000Z",
+    "updatedAt": "2026-11-16T07:47:58Z"
   },
   {
-    "id": "gh-2026-10-06-huelga-nacional-docentes-preprimarios",
+    "id": "de-2026-11-16-sentada-presos-politicos-azerbaijan-berlin",
     "seccion": "internacionales",
-    "pais": "Ghana",
-    "bandera": "🇬🇭",
-    "hora": "",
+    "pais": "Alemania",
+    "bandera": "🇩🇪",
+    "hora": "13:00",
     "fecha": "2026-11-16",
-    "lugar": "Escuelas públicas preprimarias y primarias de todo Ghana, con negociaciones en la Fair Wages and Salaries Commission (FWSC) en Accra, Ghana",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "GNAT (Ghana National Association of Teachers)",
-      "NAGRAT (National Association of Graduate Teachers)",
-      "PRETAG (Pre-Tertiary Education Teachers Association of Ghana)"
-    ],
-    "motivo": "Noveno día de la huelga nacional indefinida de docentes de preprimaria y primaria de Ghana, declarada el 25 de septiembre por GNAT, NAGRAT y PRETAG por atrasos en las promociones de unos 80.000 docentes, el pago de la asignación del 20% de zonas deprimidas y el acuerdo colectivo vencido desde junio. Tras la ronda del martes 6 de octubre en la sede de la Fair Wages and Salaries Commission (FWSC) de Accra —que terminó «inconclusa» y trasladó otra reunión a una fecha posterior, sin que la medida de fuerza se suspendiera—, el presidente de NAGRAT, Jacob Anaba, detalló que la oferta del gobierno quedó «muy por debajo» de lo esperado y advirtió de que no volverán a las aulas sin pruebas bancarias verificables del pago: los sindicatos de Ashanti exigieron «alertas del banco» antes de cualquier levantamiento. El cierre de las escuelas públicas afecta también al programa de alimentación escolar, y el gobierno ha pedido a los gremios que suspendan la huelga para negociar.",
-    "status": "en_curso",
-    "lat": 5.6037,
-    "lng": -0.187,
-    "fuentes": [
-      "https://www.graphic.com.gh/news/general-news/ghana-news-fair-wages-teacher-unions-meeting-inconclusive-further-consultations-underway.html",
-      "https://gna.org.gh/2026/10/teachers-strike-meeting-between-fair-wages-unions-ends-inconclusively/",
-      "https://www.citinewsroom.com/2026/10/nagrat-fwsc-offer-fell-far-below-teachers-expectations/",
-      "https://gna.org.gh/2026/10/ashanti-teacher-unions-demand-payment-evidence-before-ending-strike/",
-      "https://www.mynewsgh.com/nagrat-lists-three-major-triggers-of-the-current-strike/"
-    ],
-    "createdAt": "2026-10-06T19:40:39.000Z",
-    "updatedAt": "2026-10-08T17:13:52Z"
-  },
-  {
-    "id": "in-2026-10-08-black-day-congreso-nacional",
-    "seccion": "internacionales",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "",
-    "fecha": "2026-11-16",
-    "lugar": "Comités estatales, distritales y de bloque/mandal del Congreso Nacional en toda la India, con epicentro en Nueva Delhi",
-    "tipoAccion": "movilizacion",
-    "organizaciones": [
-      "Congreso Nacional India (INC)",
-      "Bloque INDIA"
-    ],
-    "motivo": "El Congreso Nacional India ha declarado este jueves 8 de octubre el «Black Day» para la democracia india, con protestas masivas a nivel estatal, distrital y de bloque/mandal convocadas por circular de su secretario general de organización, K.C. Venugopal, a todos los presidentes de comités estatales (PCC), distritales (DCC) y locales (BCC). La medida responde a la detención el miércoles 7 de octubre por la policía de Delhi de Rahul Gandhi, Priyanka Gandhi Vadra y otros líderes del bloque INDIA durante su protesta frente a la Comisión Electoral contra el jefe de la misma, Gyanesh Kumar, a quien exigen la renuncia por la revisión intensiva de los padrones electorales (SIR): los manifestantes aseguran haber sido «golpeados a palos» y el líder de la oposición resultó herido, mientras la policía registró un FIR contra Rahul y Priyanka por entrar sin permiso en el edificio Akashvani. Es la escalada de un conflicto que desde el 6 de octubre mantiene a la oposición en la calle con la consigna «Vote Chori».",
-    "status": "en_curso",
-    "lat": 28.6139,
-    "lng": 77.209,
-    "fuentes": [
-      "https://economictimes.indiatimes.com/news/politics-and-nation/sir-controversy-congress-declares-black-day-on-october-8-major-protest-likely/articleshow/134770209.cms",
-      "https://www.thehindu.com/news/national/congress-to-observe-black-day-over-manhandling-of-top-opposition-leaders-by-delhi-police/article71557203.ece",
-      "https://www.outlookindia.com/national/opposition-protest-vote-chori-congress-rahul-gandhi-live-updates-cec-gyanesh-kumar-news"
-    ],
-    "createdAt": "2026-10-08T02:29:13.000Z",
-    "updatedAt": "2026-10-08T17:13:52Z"
-  },
-  {
-    "id": "in-2026-10-08-cjp-chappal-protest-freedom-park-bengaluru",
-    "seccion": "internacionales",
-    "pais": "India",
-    "bandera": "🇮🇳",
-    "hora": "10:30",
-    "fecha": "2026-11-16",
-    "lugar": "Freedom Park, Bengaluru, Karnataka, India",
+    "lugar": "Werderscher Markt, 10117 Berlín, Alemania",
     "tipoAccion": "concentracion",
     "organizaciones": [
-      "Cockroach Janta Party (CJP)",
-      "Organizaciones de la sociedad civil de Karnataka",
-      "Colegios de abogados y colectivos juveniles"
+      "Colectivos de la diáspora azerbaiyana y organizaciones de derechos humanos"
     ],
-    "motivo": "La Cockroach Janta Party (CJP) y grupos de la sociedad civil convocan para este jueves 8 de octubre en Bengaluru un «Tribunal Popular» sobre la Revisión Especial Intensiva (SIR) de los padrones electorales a partir de las 10:30 en el Freedom Park, seguido de la «protesta de las chappals» (chanclas) en solidaridad con las mujeres que, según los organizadores, fueron borradas del padrón. Participarán el fundador de CJP, Abhijeet Dipke, sus portavoces Ashutosh Ranka y Saurav Das, el actor Prakash Raj y el youtuber Dhruv Rathee; se presentarán víctimas de la SIR de toda Karnataka. Reclaman la dimisión del jefe de la Comisión Electoral, Gyanesh Kumar, la paralización del ejercicio de revisión, la restauración de la lista de votantes de enero de 2025 y una investigación independiente. El acto anticipa la movilización conjunta de CJP, AISA, AISF, SFI y el brazo estudiantil de AAP el 10 de octubre en Jantar Mantar (Delhi).",
-    "status": "en_curso",
-    "lat": 12.9777,
-    "lng": 77.5773,
+    "motivo": "Acción de sentada y protesta permanente del 16 al 26 de noviembre en Werderscher Markt de Berlín para exigir la libertad de los presos políticos de Azerbaiyán. La convocatoria, registrada ante la policía de Berlín, comienza a las 13:00 y se prolonga hasta las 23:59 de cada jornada.",
+    "status": "programado",
+    "lat": 52.5163,
+    "lng": 13.395,
     "fuentes": [
-      "https://timesofindia.indiatimes.com/city/bengaluru/cjp-chappal-protest-live-updates-bengaluru-abhijeet-dipke-ashutosh-ranka-prakash-raj-gyanesh-kumar-sir-freedom-park/liveblog/134777590.cms",
-      "https://timesofindia.indiatimes.com/city/bengaluru/cjp-announces-chappal-protest-in-bengaluru-actor-prakash-raj-to-join-stir/articleshow/134755916.cms",
-      "https://economictimes.indiatimes.com/news/new-updates/cjp-chappal-protest-in-bengaluru-on-october-8-after-delhi-and-mumbai-cockroach-janta-party-turns-to-it-city-timing-venue-and-all-you-need-to-know/articleshow/134760436.cms"
+      "https://demo-radar.de/demo/freiheit-fuer-die-politischen-gefangenen-in-aserba-2026-11-16"
     ],
-    "createdAt": "2026-10-08T02:29:13.000Z",
-    "updatedAt": "2026-10-08T17:13:52Z"
+    "createdAt": "2026-11-16T07:38:05.000Z",
+    "updatedAt": "2026-11-16T07:47:58Z"
   },
   {
-    "id": "it-2026-10-07-ocupaciones-estudiantiles-roma",
+    "id": "de-2026-11-16-vigilia-derechos-humanos-iran-berlin",
     "seccion": "internacionales",
-    "pais": "Italia",
-    "bandera": "🇮🇹",
+    "pais": "Alemania",
+    "bandera": "🇩🇪",
     "hora": "",
     "fecha": "2026-11-16",
-    "lugar": "Istituto tecnico Di Vittorio-Lattanzio (via Teano 223, Tor Pignattara), liceo científico Tullio Levi-Civita (via Torre Annunziata 15, Tor Sapienza) y liceo francés Chateaubriand, Roma, Italia",
-    "tipoAccion": "otra",
-    "organizaciones": [
-      "OSA (Opposizione Studentesca d'Alternativa) de Roma",
-      "Estudiantes de secundaria de Roma y Torino"
-    ],
-    "motivo": "Cuarta jornada de la ola de ocupaciones estudiantiles en Italia inspiradas en las protestas francesas: siguen ocupados el liceo científico Cavour (Roma, desde el martes 6, el primero de la capital), el instituto técnico Di Vittorio-Lattanzio (via Teano 223, Tor Pignattara) y el liceo Tullio Levi-Civita (via Torre Annunziata 15, Tor Sapienza), ocupados la mañana del miércoles 7 con striscioni con el lema «Fare come in Francia. Occupiamole tutte. Blocchiamo todo» y banderas palestinas, con fumogenos en el Levi-Civita; unas 150 personas del liceo francés Chateaubriand se sumaron con piquete frente a las puertas y hubo asambleas y piquetes también en Avogadro y Newton. Las reivindicaciones apuntan a las condiciones de los edificios escolares —el quinto piso del Levi-Civita sigue inhabilitado—, el modelo de «scuola caserma», el decreto escolar y el tope del 30% de alumnado extranjero por aula, además de recortes y precariedad; el colectivo OSA, que coordina la protesta, anunció que la movilización continuará en los próximos días, con foco también en Turín, de donde partió la ola.",
-    "status": "en_curso",
-    "lat": 41.8785,
-    "lng": 12.5306,
-    "fuentes": [
-      "https://www.radioroma.it/articolo/scuole-occupate-a-roma-proteste-al-cavour-al-levi-civita-e-al-lattanzio",
-      "https://roma.repubblica.it/cronaca/2026/10/07/news/liceo_cavour_occupazione_corteo-425630918/",
-      "https://www.lacapitale.it/articolo/la-protesta-studentesca-si-allarga-dopo-il-cavour-occupati-anche-lattanzio-e-levi-civita",
-      "https://www.ansa.it/canale_legalita_scuola/notizie/2026/10/06/a-roma-studenti-occupano-il-liceo-cavour_818f184d-5480-4418-8977-b6fe5f89875b.html",
-      "https://www.ilmessaggero.it/roma/centro_storico/scuole_occupate_roma_oggi_quali_sono_lattanzio_tullio-9809409.html"
-    ],
-    "createdAt": "2026-10-07T17:53:49.000Z",
-    "updatedAt": "2026-10-08T17:13:52Z"
-  },
-  {
-    "id": "it-2026-10-08-manifestazione-campi-flegrei-roma",
-    "seccion": "internacionales",
-    "pais": "Italia",
-    "bandera": "🇮🇹",
-    "hora": "10:00",
-    "fecha": "2026-11-16",
-    "lugar": "Concentración en el Colosseo y marcha a pie hasta Palazzo Chigi, Roma, Italia (autobuses desde Pozzuoli y Bacoli)",
-    "tipoAccion": "movilizacion",
-    "organizaciones": [
-      "Campi Flegrei uniti nella lotta (comités territoriales)",
-      "Ayuntamientos de Pozzuoli, Bacoli, Quarto y Monte di Procida",
-      "Sindicatos y asociaciones del área flegrea"
-    ],
-    "motivo": "Manifestación de los sfollati y comités de los Campi Flegrei en Roma este jueves 8 de octubre, con doce autobuses (unos 560 reservas) que parten hacia las 7:00 —diez de Pozzuoli y dos de Bacoli— y concentración a las 10:00 en el Colosseo para desplazarse a pie por los Foros Imperiales, Piazza Venezia y el Corso hasta Palazzo Chigi, concluyendo a la espalda de Montecitorio. A la marcha se suman los alcaldes Luigi Manzoni (Pozzuoli), Josi Gerardo Della Ragione (Bacoli), Antonio Sabino (Quarto) y Salvatore Scotto di Santolo (Monte di Procida); en Pozzuoli, parte de los comerciantes del centro bajarán las persianas todo el día en señal de solidaridad. Convocada como «pacífica y propositiva» por «Campi Flegrei uniti nella lotta», exige un decreto realmente eficaz tras el sismo del 31 de julio: alojamiento digno para las más de 2.384 familias evacuadas (5.603 personas), financiación de las obras de seguridad de edificios públicos y privados, ayudos a comercios y trabajadores, moratoria de hipotecas de viviendas inhabitables, reapertura de plazos de los fondos de vulnerabilidad y estabilización del personal municipal interino. El ministro del Interior Matteo Piantedosi anunció que el nuevo decreto decennal podría ir al Consejo de Ministros el martes 13, después de la protesta.",
-    "status": "en_curso",
-    "lat": 41.8902,
-    "lng": 12.4922,
-    "fuentes": [
-      "https://napoli.repubblica.it/cronaca/2026/10/07/news/campi_flegrei_dodici_bus_verso_roma_i_sindaci_in_piazza_decreto_sia_efficace-425631961/",
-      "https://www.montediprocida.com/wp/2026/10/campi-flegrei-sfollati-a-roma-l8-ottobre-il-ministro-piantedosi-annuncia-un-nuovo-decreto/",
-      "https://www.canaleotto.it/campi-flegrei-domani-12-bus-da-pozzuoli-e-bacoli-a-roma/",
-      "https://www.ottopagine.it/na/politica/439751/decreto-campi-flegrei-fondi-per-chi-lascia-l-area-e-protesta-a-roma.shtml"
-    ],
-    "createdAt": "2026-10-08T02:29:13.000Z",
-    "updatedAt": "2026-10-08T17:13:52Z"
-  },
-  {
-    "id": "it-2026-10-08-sciopero-fs-security-sicilia",
-    "seccion": "internacionales",
-    "pais": "Italia",
-    "bandera": "🇮🇹",
-    "hora": "06:00",
-    "fecha": "2026-11-16",
-    "lugar": "Estaciones y servicios ferroviarios de Sicilia, Italia",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "Fast Confsal",
-      "ORSA Trasporti"
-    ],
-    "motivo": "Huelga de 24 horas, de las 6:00 a las 22:00 de este jueves 8 de octubre, de los trabajadores de Fs Security en Sicilia, convocada por Fast Confsal y ORSA Trasporti. Según el calendario de huelgas de octubre difundido por Sky TG24, la medida no conlleva automáticamente el bloqueo de la circulación ferroviaria regional por tratarse de una categoría laboral específica de seguridad, pero puede afectar a los servicios prestados por la compañía en las estaciones sicilianas.",
-    "status": "en_curso",
-    "lat": 37.5079,
-    "lng": 14.01,
-    "fuentes": [
-      "https://tg24.sky.it/cronaca/2026/10/01/scioperi-ottobre-2026",
-      "https://www.quotidiano.net/economia/scioperi-ottobre-2026-calendari-quando-5dc1862b"
-    ],
-    "createdAt": "2026-10-08T02:29:13.000Z",
-    "updatedAt": "2026-10-08T17:13:52Z"
-  },
-  {
-    "id": "pk-2026-10-06-marcha-pti-kohat-peshawar",
-    "seccion": "internacionales",
-    "pais": "Paquistán",
-    "bandera": "🇵🇰",
-    "hora": "14:00",
-    "fecha": "2026-11-16",
-    "lugar": "Mattani hacia el distrito de Khyber, en las afueras de Peshawar, Khyber Pakhtunkhwa, Paquistán",
-    "tipoAccion": "movilizacion",
-    "organizaciones": [
-      "Pakistan Tehreek-e-Insaf (PTI)",
-      "Gobierno de Khyber Pakhtunkhwa"
-    ],
-    "motivo": "Quinto día de la marcha del PTI hacia Islamabad por la liberación de Imran Khan: la columna sale este jueves 8 de octubre a las 14:00 del peaje de Hayatabad, en Peshawar, y avanza por Charsadda hasta Khairabad (distrito de Nowshera), donde el ministro principal de Jéber Paktunjí, Sohail Afridi, anunciará la siguiente fase de la movilización, después de que el miércoles 7 la caravana partiera de Mattani hacia el distrito de Khyber —donde pernoctó— con el cambio de ruta anunciado el martes (primero Khyber y luego Peshawar) en lugar del tramo directo Kohat-Peshawar previsto. Nuevas fuentes apuntan a que la marcha llegaría a Swabi el 10 de octubre y a Malakand el 11. El primer ministro Shehbaz Sharif pidió a los manifestantes deponer la marcha y volver a la negociación, mientras el gobernador Faisal Karim Kundi advirtió que no se les dejará pasar de Attock, en Punjab; siguen vigentes la Sección 144 y los bloqueos de vehículos en las rutas de Khyber Pakhtunkhwa.",
-    "status": "en_curso",
-    "lat": 34.0151,
-    "lng": 71.5249,
-    "fuentes": [
-      "https://www.dawn.com/news/2034862",
-      "https://tribune.com.pk/story/2633491/pti-long-march-enters-fourth-day-heads-to-khyber-as-party-rallies-behind-afridi",
-      "https://tribune.com.pk/story/2633379/pti-marchers-change-route-head-to-khyber-first-1"
-    ],
-    "createdAt": "2026-10-06T07:09:50.000Z",
-    "updatedAt": "2026-10-08T17:13:52Z"
-  },
-  {
-    "id": "us-2026-10-06-huelga-duquesne-light-ibew-29-pittsburgh",
-    "seccion": "internacionales",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
-    "hora": "",
-    "fecha": "2026-11-16",
-    "lugar": "Líneas de piquete en Preble, Woods Run, Penn Hills, McKeesport y Ambridge, área metropolitana de Pittsburgh, Pensilvania, Estados Unidos",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "IBEW Local 29 (International Brotherhood of Electrical Workers)"
-    ],
-    "motivo": "Octavo día de la huelga de unos 1.000 trabajadores de Duquesne Light —linieros, aprendices y operadores— representados por el IBEW Local 29, la primera huelga de la compañía en medio siglo, declarada a la medianoche del 30 de septiembre/1 de octubre tras vencer el convenio colectivo. El miércoles 7 los piquetes cumplieron siete días con un mitin frente a la sede de New Beaver Avenue, en el barrio de Marshall-Shadeland de Pittsburgh, y los piquetes se mantienen activos 24 horas en nueve puntos (Preble, Woods Run, Penn Hills, McKeesport, Ambridge, Edison, Old McKeesport, Raccoon y Seymour). En la carta del 6 de octubre del responsable sindical, Josh Ewing, avanzaron acuerdos conceptuales sobre subcontratación y uso de la tecnología, pero siguen sin resolverse el derecho a organizarse, las jubilaciones y la sanidad de jubilados, los incrementos salariales, la sanidad y, sobre todo, las cuestiones de seguridad que plantean los trabajadores; la empresa cubre los turnos con cuadrillas no sindicalizadas y mantiene su oferta de contrato «justa y asequible». Hay optimismo prudente en la prensa local sobre un posible fin de la huelga.",
-    "status": "en_curso",
-    "lat": 40.4406,
-    "lng": -79.9959,
-    "fuentes": [
-      "https://www.wpxi.com/news/local/duquesne-light-workers-rally-pittsburgh-ibew-strike-reaches-7th-day/FSTRDH6PFFB4RBY35KDWCSZ5ZM/",
-      "https://www.post-gazette.com/business/powersource/2026/10/07/dlc-strike-duquesne-light-ibew-local-29-negotiations/stories/202610070058",
-      "https://www.wtae.com/article/pittsburgh-electrical-workers-rally-as-duquesne-light-strike-continues/74066158",
-      "https://www.ibew29.org/political-action/strike-map",
-      "https://www.audacy.com/kdkaradio/news/local/duquesne-light-strike-2678020484"
-    ],
-    "createdAt": "2026-10-06T23:32:46.000Z",
-    "updatedAt": "2026-10-08T17:13:52Z"
-  },
-  {
-    "id": "us-2026-10-08-womens-march-stop-sexual-violence-nyc",
-    "seccion": "internacionales",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
-    "hora": "",
-    "fecha": "2026-11-16",
-    "lugar": "Foley Square, Manhattan, Nueva York, Estados Unidos",
+    "lugar": "Platz der Republik 1, 10557 Berlín, Alemania",
     "tipoAccion": "concentracion",
     "organizaciones": [
-      "Women's March"
+      "Colectivos en defensa de los derechos humanos en Irán"
     ],
-    "motivo": "Jornada nacional «#StopSexualViolence» convocada por Women's March para este jueves 8 de octubre, con una manifestación en el Foley Square de Nueva York en apoyo de la mujer que demandó a la universidad Cornell por una violación en la fraternidad Chi Phi y contra lo que los organizadores llaman «cultura de la violación» en los campus de Estados Unidos. La movilización se enmarca en la ola de protestas que desde el 5 de octubre sacude Cornell (rally con cientos de estudiantes, sentada de siete horas el 7 de octubre en un comedor bajo el lema «Justice for Jane Doe» y boicot económico estudiantil el «Zero Day») y exige a las universidades actuaciones contundentes contra la violencia sexual, transparencia en las investigaciones y responsabilidades en el manejo de las denuncias.",
-    "status": "programado",
-    "lat": 40.7146,
-    "lng": -74.003,
-    "fuentes": [
-      "https://www.infobae.com/america/agencias/2026/10/08/jueves-8-de-octubre-de-2026-0700-gmt",
-      "https://www.womensmarch.com/",
-      "https://apnews.com/article/cornell-university-rape-investigation-sitin-protest-e5d3182af81fff6efc86d700516e171a"
-    ],
-    "createdAt": "2026-10-08T09:23:27.000Z",
-    "updatedAt": "2026-10-08T17:13:52Z"
-  },
-  {
-    "id": "ar-2026-10-08-marcha-cgt-defensa-industria-nacional-caba",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "15:30",
-    "fecha": "2026-11-16",
-    "lugar": "Concentración en Diagonal Sur y Perú, frente al ex Ministerio de Industria, centro porteño, hacia la Secretaría de Producción, avenida Roca 651, cerca de Plaza de Mayo, CABA, Argentina",
-    "tipoAccion": "movilizacion",
-    "organizaciones": [
-      "CGT (Confederación General del Trabajo)"
-    ],
-    "motivo": "Movilización callejera de la CGT convocada para este jueves 8 de octubre a las 15:30 en defensa de la industria nacional, el empleo y los salarios, con concentración sobre la Diagonal Sur y llegada hasta la avenida Julio Roca 651, donde funciona la Secretaría de Industria, en las cercanías de Plaza de Mayo, bajo la consigna \"Las Malvinas son argentinas, la industria nacional también\". Los tres cotitulares (Jorge Sola, Cristian Jerónimo y Octavio Argüello) se reunirán a las 14 en el SMATA, avenida Belgrano 665, y marcharán juntos hasta el lugar de la convocatoria, donde hablarán desde un escenario montado sobre un camión y se leerá un documento que alerta sobre \"un deterioro general de la calidad de vida de la población que pone en riesgo la paz y la convivencia\". La decisión se tomó en la reunión de la mesa chica ampliada en la sede de la UOCRA: la central optó por la calle y postergó un quinto paro general contra el gobierno de Javier Milei, que ratificó pero sin fecha fija antes de fin de año. Se suman a la movilización sectores sindicales y sociales, con participación confirmada de Pablo Moyano y de la UTEP, que concentró a las 13:30 en Belgrano y Bernardo de Irigoyen para marchar junto a la CGT. La CGT acompañará además la quinta Marcha Federal Universitaria del 15 de octubre frente al Congreso. Se esperan concentraciones, cortes y afectaciones de tránsito en el microcentro porteño durante la tarde.",
-    "status": "programado",
-    "lat": -34.6092,
-    "lng": -58.3768,
-    "fuentes": [
-      "https://www.infobae.com/politica/2026/09/29/la-cgt-descarto-un-paro-general-pero-hara-una-movilizacion-el-8-de-octubre-en-defensa-de-la-industria",
-      "https://www.cadenanueve.com/2026/10/05/la-cgt-marchara-el-8-de-octubre-por-la-industria-nacional-y-postergo-el-paro-general/",
-      "https://www.politicargentina.com/notas/202609/76563-la-cgt-descarto-un-paro-general-para-las-proximas-semanas-pero-marchara-el-8-de-octubre.html",
-      "https://www.noticiasnqn.com.ar/noticias/2026/09/30/354786-la-cgt-convoco-a-una-marcha-por-la-industria-y-mantiene-sin-fecha-un-paro-general",
-      "https://elcanciller.com/politica/por-ahora-sin-paro--la-cgt-retoma-el-plan-de-lucha-con-dos-marchas-el-8-y-el-15-de-octubre-proximos_a6abc5979d7eb7f982a011a98",
-      "https://tn.com.ar/politica/2026/09/29/la-cgt-postergo-la-definicion-de-un-nuevo-paro-general-y-convoco-a-dos-movilizaciones-en-octubre/",
-      "https://www.infobae.com/politica/2026/10/08/la-cgt-hace-una-fuerte-apuesta-a-la-movilizacion-de-hoy-en-defensa-de-la-industria-que-denuncia-el-duro-documento-que-se-leera/",
-      "https://tn.com.ar/politica/2026/10/08/la-cgt-vuelve-a-movilizarse-por-el-microcentro-porteno-en-rechazo-a-las-medidas-economicas-del-gobierno/",
-      "https://www.perfil.com/noticias/sociedad/la-cgt-vuelve-a-marchar-por-el-microcentro-porteno-en-defensa-de-la-industria-nacional.phtml",
-      "https://radiomitre.cienradios.com/sociedad/nueva-marcha-de-la-cgt-cuando-y-donde-sera-la-movilizacion-contra-las-medidas-economicas-del-gobierno/"
-    ],
-    "createdAt": "2026-10-08T02:49:23.000Z",
-    "updatedAt": "2026-10-08T17:13:52Z"
-  },
-  {
-    "id": "ar-2026-10-08-paro-uba-facultad-ciencias-sociales",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "",
-    "fecha": "2026-11-16",
-    "lugar": "Facultad de Ciencias Sociales (UBA), Puán 480, Villa Crespo, CABA, Argentina",
-    "tipoAccion": "paro",
-    "organizaciones": [
-      "ADUBA",
-      "APUBA",
-      "FEDUBA",
-      "UTE"
-    ],
-    "motivo": "Cese de actividades del jueves 8 de octubre en la Facultad de Ciencias Sociales de la UBA, dentro del cronograma de 23 jornadas de paro rotativo convocadas por ADUBA y APUBA que va del 21 de septiembre al 22 de octubre, con medidas rotativas por facultades, institutos, preuniversitarios y el Hospital de Clínicas (esta semana: CNBA lunes 5, DOSUBA martes 6, Psicología miércoles 7, Ciencias Sociales jueves 8 y Escuela Carlos Pellegrini viernes 9). Reclamo central: aplicación plena de la Ley de Financiamiento Universitario (27.795), recomposición salarial del 33,4% y reapertura de las paritarias, en el marco del fallo del juez Martín Cormick que ordenó ejecutar la ley y la apelación que prepara el Gobierno. La medida es la antesala de la quinta Marcha Federal Universitaria del 15 de octubre frente al Palacio de Tribunales.",
+    "motivo": "Sentada y vigilia diaria por los derechos humanos en Irán y por una reevaluación de las relaciones diplomáticas, que se celebra todos los días del 2 de octubre al 30 de diciembre de 2026 frente al edificio del Bundestag en la Platz der Republik de Berlín. La acción, registrada ante la policía berlinesa, se desarrolla durante todo el día.",
     "status": "en_curso",
-    "lat": -34.6257,
-    "lng": -58.4405,
+    "lat": 52.5186,
+    "lng": 13.3762,
     "fuentes": [
-      "https://aduba.org.ar/23-dias-de-paro-y-nueva-marcha-federal-universitaria",
-      "https://www.cronista.com/informacion-gral/hay-paro-confirmado-en-la-uba-cuando-se-suspenden-las-clases-en-medicina-exactas-derecho-fadu-y-fsoc",
-      "https://www.infobae.com/politica/2026/09/17/los-docentes-de-la-uba-confirmaron-una-nueva-marcha-federal-universitaria-tras-el-fracaso-de-las-paritarias",
-      "https://andigital.com.ar/nota/143645/sin-acuerdo-la-uba-activa-un-paro-de-23-dias-y-la-quinta-marcha-federal-ira-a-tribunales"
+      "https://demo-radar.de/demo/sitzstreik-und-mahnwache-fuer-menschenrechte-im-ir-2026-11-16"
     ],
-    "createdAt": "2026-10-08T02:49:23.000Z",
-    "updatedAt": "2026-10-08T17:13:52Z"
-  },
-  {
-    "id": "ar-2026-10-08-marcha-utep-economia-popular-cgt-caba",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "13:30",
-    "fecha": "2026-11-16",
-    "lugar": "Concentración en avenida Belgrano y Bernardo de Irigoyen, Monserrat, CABA, Argentina, con marcha hacia la concentración de la CGT en la Diagonal Sur y Perú",
-    "tipoAccion": "movilizacion",
-    "organizaciones": [
-      "UTEP (Unión de Trabajadores y Trabajadoras de la Economía Popular)"
-    ],
-    "motivo": "Concentración de la UTEP este jueves 8 de octubre a las 13:30 en avenida Belgrano y Bernardo de Irigoyen para marchar junto a la movilización de la CGT hacia el ex Ministerio de Industria (Secretaría de Industria, avenida Julio Roca 651), en defensa del trabajo con derechos y la producción popular. La organización confirmó su participación en la protesta de la central obrera contra la caída de la producción, la pérdida de empleos y las políticas económicas del gobierno de Javier Milei, en un día en el que las columnas de la economía popular se suman a la convocatoria del microcentro porteño.",
-    "status": "en_curso",
-    "lat": -34.6126,
-    "lng": -58.3803,
-    "fuentes": [
-      "https://radiomitre.cienradios.com/sociedad/nueva-marcha-de-la-cgt-cuando-y-donde-sera-la-movilizacion-contra-las-medidas-economicas-del-gobierno/",
-      "https://tn.com.ar/politica/2026/10/08/la-cgt-vuelve-a-movilizarse-por-el-microcentro-porteno-en-rechazo-a-las-medidas-economicas-del-gobierno/",
-      "https://la100.cienradios.com/politica/la-cgt-vuelve-a-movilizarse-frente-a-la-secretaria-de-industria-para-reclamar-por-las-medidas-economicas-del-gobierno/",
-      "https://novacomunicaciones.com.ar/la-cgt-marcha-hoy-a-la-secretaria-de-industria-en-rechazo-a-las-medidas-economicas-del-gobierno/"
-    ],
-    "createdAt": "2026-10-08T16:51:59.000Z",
-    "updatedAt": "2026-10-08T17:13:52Z"
-  },
-  {
-    "id": "ar-2026-10-08-paro-nodocentes-fatun-unlz-ungs-ats",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "",
-    "fecha": "2026-11-16",
-    "lugar": "Universidades Nacionales en conflicto: Universidad Nacional de Lomas de Zamora (UNLZ), Lomas de Zamora, Provincia de Buenos Aires, Argentina; sedes de la UNComechingones, la Universidad Nacional de General Sarmiento (General Sarmiento) y las instituciones de ATUNNOBA (noroeste bonaerense)",
-    "tipoAccion": "paro",
-    "organizaciones": [
-      "FATUN (Federación Argentina del Trabajador de las Universidades Nacionales)",
-      "Sindicato del Personal No Docente de la UNLZ",
-      "ATUNNOBA"
-    ],
-    "motivo": "Paro nacional de 24 horas sin concurrencia a los lugares de trabajo de las y los trabajadores NoDocentes de universidades nacionales este jueves 8 de octubre, dentro del esquema rotativo de la FATUN: el turno de hoy corresponde a ATUNNOBA (noroeste de la Provincia de Buenos Aires), junto con las casas de estudio de Comechingones, Lomas de Zamora (UNLZ) y General Sarmiento (UNGS). Reclamo central: salarios dignos, recomposición de ingresos deteriorados por 17 meses consecutivos y aplicación plena de la Ley de Financiamiento Universitario 27.795, pese al fallo que declaró inconstitucional el decreto que anulaba la norma y a la apelación que prepara el Gobierno. La medida sigue el plan de acción de 23 días iniciado el 22 de septiembre y encabeza la escalada hacia la 5º Marcha Federal Universitaria del 15 de octubre.",
-    "status": "en_curso",
-    "lat": -34.775,
-    "lng": -58.4555,
-    "fuentes": [
-      "https://www.junindigital.com/ciudad/2026-10-7-23-23-0-este-jueves-es-el-turno-de-paro-en-la-unnoba-el-plan-de-lucha-no-docente-avanza-rumbo-a-la-quinta-marcha-federal-universitaria",
-      "https://www.juninnews.com/este-jueves-es-el-turno-de-paro-en-la-unnoba-el-plan-de-lucha-nodocente-avanza-rumbo-a-la-quinta-marcha-federal-universitaria/",
-      "https://politicadelsur.com/nota/97569/pese-al-fallo-a-favor-nodocentes-paran-y-ratifican-la-quinta-marcha-federal-universitaria/",
-      "https://www.inforegion.com.ar/2026/10/07/el-jueves-habra-un-paro-en-la-universidad-nacional-de-lomas-de-zamora/"
-    ],
-    "createdAt": "2026-10-08T16:51:59.000Z",
-    "updatedAt": "2026-10-08T17:13:52Z"
+    "createdAt": "2026-11-16T07:38:05.000Z",
+    "updatedAt": "2026-11-16T07:47:58Z"
   }
 ]
