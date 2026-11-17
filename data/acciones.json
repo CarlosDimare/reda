@@ -1,307 +1,426 @@
 [
   {
-    "id": "ar-2026-11-16-movilizacion-nacional-uthgra-homologacion-paritarias-caba",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "16:00",
-    "fecha": "2026-11-16",
-    "lugar": "Concentración en Avenida de Mayo 930, CABA, Argentina, con marcha hacia la Secretaría de Trabajo de la Nación",
-    "tipoAccion": "movilizacion",
-    "organizaciones": [
-      "UTHGRA (Unión de Trabajadores del Turismo, Hoteleros y Gastronómicos de la República Argentina)"
-    ],
-    "motivo": "Movilización nacional de UTHGRA convocada para este lunes 16 de noviembre a las 16:00, con concentración en Avenida de Mayo 930 y marcha hacia la Secretaría de Trabajo de la Nación. Bajo la consigna \"El salario no puede esperar\", el gremio de Luis Barrionuevo exige la homologación inmediata de los acuerdos salariales negociados con las cámaras empresarias, que llevan cerca de ocho meses frenados, paritarias libres y la certificación de las autoridades sindicales. La convocatoria incluye delegaciones de seccionales de todo el país, con más de 20 micros desde Mar del Plata. El sector advierte que la demora afecta a unas 200.000 familias vinculadas con la hotelería y la gastronomía y que las escalas pactadas no pueden aplicarse hasta que la cartera laboral les otorgue validez formal.",
-    "status": "programado",
-    "lat": -34.6088,
-    "lng": -58.3794,
-    "fuentes": [
-      "https://www.infogremiales.com.ar/gastronomicos-marchan-a-la-secretaria-de-trabajo-de-nacion-el-salario-no-puede-esperar/",
-      "https://argentina.ladevi.info/actualidad/uthgra-se-moviliza-contra-el-gobierno-salarios-y-crece-la-tension-hoteles-y-restaurantes-n108862",
-      "https://puntonoticias.com/uthgra-convoca-a-una-gran-movilizacion-contra-el-gobierno-por-la-falta-de-homologacion-de-las-paritarias"
-    ],
-    "createdAt": "2026-11-16T07:42:40.000Z",
-    "updatedAt": "2026-11-16T07:47:58Z"
-  },
-  {
-    "id": "ar-2026-11-16-movilizacion-uthgra-bariloche-paritarias",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "17:30",
-    "fecha": "2026-11-16",
-    "lugar": "Concentración en Moreno y Onelli, Bariloche, Río Negro, Argentina, con marcha hacia la sede local del Ministerio de Trabajo y el Centro Cívico",
-    "tipoAccion": "movilizacion",
-    "organizaciones": [
-      "UTHGRA Seccional Bariloche"
-    ],
-    "motivo": "Movilización de la seccional Bariloche de UTHGRA en el marco de la jornada nacional convocada para este lunes 16 de noviembre. La concentración está prevista para las 17:30 en la intersección de Moreno y Onelli; desde allí los trabajadores marcharán hacia la sede local del Ministerio de Trabajo de la Nación y luego continuarán hasta el Centro Cívico. Reclaman la homologación de los acuerdos salariales alcanzados entre marzo y octubre con las cámaras empresarias de la hotelería y la gastronomía, y advierten que la demora condiciona el inicio de la próxima instancia paritaria de la temporada de verano 2026-2027.",
-    "status": "programado",
-    "lat": -41.1335,
-    "lng": -71.3103,
-    "fuentes": [
-      "https://www.barilocheopina.com/noticias/2026/11/13/97259-uthgra-marchara-para-reclamar-la-homologacion-de-los-acuerdos-salariales"
-    ],
-    "createdAt": "2026-11-16T07:42:40.000Z",
-    "updatedAt": "2026-11-16T07:47:58Z"
-  },
-  {
-    "id": "ar-2026-11-16-paro-nacional-iosfa-concentracion-mar-del-plata",
+    "id": "ar-2026-11-17-paro-parcial-movilizacion-ajufsa-formosa",
     "seccion": "protestas_ar",
     "pais": "Argentina",
     "bandera": "🇦🇷",
     "hora": "10:00",
-    "fecha": "2026-11-16",
-    "lugar": "Delegación de IOSFA, 25 de Mayo 3262, Mar del Plata, Provincia de Buenos Aires, Argentina",
+    "fecha": "2026-11-17",
+    "lugar": "Edificio de Tribunales, España y San Martín, Formosa capital, Provincia de Formosa, Argentina",
     "tipoAccion": "paro",
     "organizaciones": [
-      "ATE (Asociación Trabajadores del Estado)",
-      "ATE Mar del Plata"
+      "AJUFSA (Asociación Judicial de Formosa)"
     ],
-    "motivo": "Paro nacional en el Instituto de Obra Social de las Fuerzas Armadas y de Seguridad (IOSFA) convocado por ATE para este lunes 16 de noviembre, con una concentración a las 10:00 en la delegación de 25 de Mayo 3262 de Mar del Plata. La protesta se enmarca en el conflicto por la reorganización y liquidación de IOSFA y la transición hacia la Obra Social de las Fuerzas Armadas (OSFA). Los trabajadores reclaman definiciones sobre la continuidad de 177 puestos de trabajo vinculados con los hoteles Antártida Argentina y Tierra del Fuego y la farmacia, que involucran a cerca de 180 familias. La convocatoria se suma a las movilizaciones previas realizadas en Luro y la costa bonaerense.",
+    "motivo": "Paro parcial de actividades por turnos con marcado de tarjeta y guardias mínimas, con movilización en el centro capitalino, bajo la consigna \"por salarios dignos y en defensa de nuestro sistema salarial\". La concentración en Formosa capital está prevista a las 10:00 frente al Edificio de Tribunales, en España y San Martín; en las delegaciones del interior el paro comienza a las 9:00. El gremio reclama una recomposición salarial, el pago de una diferencia del Complemento Asistencial de agosto y septiembre y rechaza el incremento de magistrados y funcionarios que no impacta en los escalafones de empleados.",
     "status": "programado",
-    "lat": -38.0055,
-    "lng": -57.5426,
+    "lat": -26.1775,
+    "lng": -58.1781,
     "fuentes": [
-      "https://mi8.com.ar/despidos-en-iosfa-habra-paro-nacional-el-lunes-y-una-concentracion-en-mar-del-plata"
+      "https://www.examedia.com.ar/portada/post/88218372",
+      "https://www.xn--lamaanaonline-lkb.com.ar/noticia/108606/la-ajufsa-realizar-este-viernes-un-paro-de-24-horas-y-el-martes-17-concretar-un-cese-de-actividades-parcial/"
     ],
-    "createdAt": "2026-11-16T07:42:40.000Z",
-    "updatedAt": "2026-11-16T07:47:58Z"
+    "createdAt": "2026-11-17T01:39:44.000Z",
+    "updatedAt": "2026-11-17T01:45:46Z"
   },
   {
-    "id": "ar-2026-11-16-paro-nacional-nodocentes-fatun",
+    "id": "ar-2026-11-17-paro-36-horas-sutef-movilizacion-legislatura",
     "seccion": "protestas_ar",
     "pais": "Argentina",
     "bandera": "🇦🇷",
-    "hora": "",
-    "fecha": "2026-11-16",
-    "lugar": "Universidades nacionales de todo el país, Argentina",
-    "tipoAccion": "paro",
-    "organizaciones": [
-      "FATUN (Federación Argentina del Trabajador de las Universidades Nacionales)",
-      "APUNER",
-      "APUR",
-      "ATULP",
-      "APUNJu"
-    ],
-    "motivo": "Paro nacional de 24 horas sin asistencia a los lugares de trabajo del personal no docente de las universidades nacionales, convocado por FATUN para este lunes 16 de noviembre. Es la cuarta y última jornada del cronograma de paros de 24 horas definido por el Consejo Directivo de la federación, que incluyó el 28 de octubre y el 3 y 12 de noviembre. La medida alcanza a las universidades públicas de todo el país y se replica en las adhesiones locales de APUNER, APUR, ATULP y APUNJu, entre otras. Los trabajadores reclaman recomposición salarial, el pago de la deuda salarial y la aplicación plena de la Ley de Financiamiento Universitario 27.795, en el marco de la discusión del Presupuesto 2027.",
-    "status": "programado",
-    "lat": -34.6037,
-    "lng": -58.3816,
-    "fuentes": [
-      "https://noticiasargentinas.com/politica/el-personal-universitario-nodocente-comenzara-un-paro-por-24-horas_a6ae8b35afd3588a0f5c88875",
-      "https://www.cronista.com/informacion-gral/fatun-confirmo-un-nuevo-paro-de-trabajadores-nodocentes-y-anuncio-tres-fechas-para-noviembre",
-      "https://www.infobae.com/politica/2026/10/28/los-universitarios-comienzan-hoy-un-nuevo-paro-que-se-extendera-durante-una-semana",
-      "https://www.infozona.com.ar/paro-universitario-lunes-16-noviembre-2026-provincia-clases"
-    ],
-    "createdAt": "2026-11-16T07:42:40.000Z",
-    "updatedAt": "2026-11-16T07:47:58Z"
-  },
-  {
-    "id": "ar-2026-11-16-paro-docente-universitario-nacional",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "",
-    "fecha": "2026-11-16",
-    "lugar": "Universidades nacionales y preuniversitarias de todo el país, Argentina (incluye UNLP, UBA, UTN y casas de estudio de las provincias)",
-    "tipoAccion": "paro",
-    "organizaciones": [
-      "CONADU",
-      "CONADU Histórica",
-      "FAGDUT",
-      "AGD-UBA",
-      "ADULP",
-      "COAD"
-    ],
-    "motivo": "Jornada de paro docente universitario nacional en varias federaciones y asociaciones de base. CONADU realiza un paro este lunes 16 de noviembre e inicia una semana nacional de protesta; CONADU Histórica y AGD-UBA sostienen el paro de una semana que comenzó el jueves 12 y se extiende hasta el miércoles 18; FAGDUT convocó a una jornada sin asistencia a los lugares de trabajo en las 30 facultades regionales de la UTN, el Instituto Nacional Superior del Profesorado Técnico y el Centro de Estudios Bariloche. En la UNLP adhieren ADULP y ATULP, mientras que COAD ratificó un paro del 16 al 21 de noviembre en Rosario. Los reclamos centrales son la recomposición salarial, el pago de la deuda salarial, la aplicación efectiva de la Ley de Financiamiento Universitario 27.795 y un Presupuesto 2027 que cubra las necesidades del sistema universitario.",
-    "status": "programado",
-    "lat": -34.6037,
-    "lng": -58.3816,
-    "fuentes": [
-      "https://www.infozona.com.ar/paro-universitario-lunes-16-noviembre-2026-provincia-clases",
-      "https://www.0221.com.ar/universidad/la-unlp-arranca-otra-semana-complicada-las-protestas-docentes-y-nodocentes-contra-el-ajuste-nacional-n137427",
-      "https://www.examedia.com.ar/portada/analisis/691-los-docentes-universitarios-siguen-de-paro-hasta-el-miercoles-18",
-      "https://tendenciadenoticias.com.ar/politica/los-docentes-de-la-utn-anunciaron-dos-dias-de-paro-para-exigir-el-cumplimiento-de-la-ley-de-financiamiento-universitario"
-    ],
-    "createdAt": "2026-11-16T07:42:40.000Z",
-    "updatedAt": "2026-11-16T07:47:58Z"
-  },
-  {
-    "id": "ar-2026-11-16-paro-docente-adiuc-universidad-nacional-cordoba",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "",
-    "fecha": "2026-11-16",
-    "lugar": "Universidad Nacional de Córdoba, Córdoba, Argentina",
-    "tipoAccion": "paro",
-    "organizaciones": [
-      "ADIUC (Asociación de Docentes e Investigadores de la Universidad Nacional de Córdoba)"
-    ],
-    "motivo": "Paro docente y de investigadores de la Universidad Nacional de Córdoba, nucleados en ADIUC, desde este lunes 16 y hasta el sábado 21 de noviembre. La medida se enmarca en la semana nacional de protesta convocada por CONADU y reclama que el Presupuesto Nacional 2027 incorpore la Ley de Financiamiento Universitario, la recomposición salarial y la convocatoria a paritarias. Desde el gremio advirtieron que vuelven al paro para exigir lo que les deben y enfrentar las políticas de ajuste que, sostienen, están desmantelando las universidades y el sistema científico.",
-    "status": "programado",
-    "lat": -31.4201,
-    "lng": -64.1888,
-    "fuentes": [
-      "https://prensamercosur.org/2026/11/12/paro-docente-universitario-del-16-al-21-de-noviembre/",
-      "https://adiuc.org.ar/2026/10/26/con-paros-y-acciones-federales-continua-el-plan-de-lucha/"
-    ],
-    "createdAt": "2026-11-16T07:42:40.000Z",
-    "updatedAt": "2026-11-16T07:47:58Z"
-  },
-  {
-    "id": "ar-2026-11-16-paro-docente-sutef-tierra-del-fuego",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "12:00",
-    "fecha": "2026-11-16",
-    "lugar": "Instituciones educativas de Tierra del Fuego (Ushuaia, Río Grande y Tolhuin), Argentina, con movilización callejera",
+    "hora": "09:00",
+    "fecha": "2026-11-17",
+    "lugar": "Legislatura de Tierra del Fuego en Ushuaia, con caravanas desde Río Grande y Tolhuin, Argentina",
     "tipoAccion": "paro",
     "organizaciones": [
       "SUTEF (Sindicato Unificado de Trabajadoras y Trabajadores de la Educación Fueguina)"
     ],
-    "motivo": "Paro provincial docente de 36 horas que comienza este lunes 16 de noviembre a las 12:00 y se extiende durante toda la jornada del martes 17. La medida fue resuelta por el Congreso Provincial de SUTEF con la participación de más de 150 delegados y delegadas, e incluye asambleas informativas y de debate en todas las instituciones educativas de la provincia y una movilización callejera dirigida a los legisladores provinciales. El reclamo central es la aprobación de la Ley de Financiamiento Educativo, cuyo tratamiento en la Legislatura quedó en cuarto intermedio hasta el 17 de noviembre. El paro cubre justamente el día en que se retoma la sesión legislativa.",
-    "status": "programado",
+    "motivo": "Segunda y última jornada del paro provincial de 36 horas iniciado el lunes 16 al mediodía, que se extiende durante todo el martes 17 en todas las instituciones educativas de Tierra del Fuego. Desde las 09:00 se realiza una concentración frente a la Legislatura para acompañar la sesión en la que se retoma el tratamiento de la Ley de Financiamiento Educativo, con caravanas desde Río Grande y Tolhuin y olla popular. El gremio exige la sanción inmediata de la ley y rechaza el ajuste en la educación pública.",
+    "status": "en_curso",
     "lat": -54.8019,
     "lng": -68.303,
     "fuentes": [
-      "https://sutef.org/sutef-ratifico-el-estado-de-alerta-y-movilizacion-y-resolvio-un-paro-de-36-horas",
-      "https://datapolitica.news/2026/11/12/sutef-para-36-horas-para-exigir-que-la-legislatura-apruebe-la-ley-de-financiamiento-educativo-b2t7zpiqyjzsl4olgjgz38ns",
-      "https://www.mitdf.com.ar/noticias/el-sutef-convoco-un-paro-provincial-de-36-horas"
+      "https://sutef.org/ley-de-financiamiento-educativo-paro-de-36-hs-vigilia-y-caravana-provincial/",
+      "https://gremialesdelsur.com.ar/nota/31430-Paro-de-36-horas--vigilia-y-caravana-provincial",
+      "https://www.surenio.com.ar/el-sutef-hara-paro-de-36-horas-vigilia-y-caravana/",
+      "https://www.cronista.com/informacion-gral/oficial-no-hay-clases-el-lunes-16-y-martes-17-de-noviembre-los-alumnos-no-tendran-que-ir-al-colegio-durante-dos-dias-por-un-paro-docente-en-la-provincia-de-tierra-del-fuego/"
     ],
-    "createdAt": "2026-11-16T07:42:40.000Z",
-    "updatedAt": "2026-11-16T07:47:58Z"
+    "createdAt": "2026-11-17T01:39:44.000Z",
+    "updatedAt": "2026-11-17T01:45:46Z"
   },
   {
-    "id": "ar-2026-11-16-retencion-tareas-anac-servicios-incendios-aeropuertos",
+    "id": "ar-2026-11-17-paro-docente-adum-universidad-nacional-mar-del-plata",
     "seccion": "protestas_ar",
     "pais": "Argentina",
     "bandera": "🇦🇷",
     "hora": "",
-    "fecha": "2026-11-16",
-    "lugar": "Aeropuertos de todo el país (27 terminales del sistema ANAC), con foco en los servicios de extinción de incendios, Argentina",
+    "fecha": "2026-11-17",
+    "lugar": "Universidad Nacional de Mar del Plata, Mar del Plata, Provincia de Buenos Aires, Argentina",
+    "tipoAccion": "paro",
+    "organizaciones": [
+      "ADUM (Agremiación Docente Universitaria Marplatense)"
+    ],
+    "motivo": "Paro de actividades de los docentes universitarios de la UNMdP este martes 17 de noviembre, primera de las dos jornadas de fuerza convocadas para la semana; la segunda será el jueves 19. El gremio exige un Presupuesto 2027 que respete la Ley de Financiamiento Universitario y garantice el funcionamiento de las universidades públicas. El miércoles 18 se realizará además una acción callejera para visibilizar los reclamos.",
+    "status": "programado",
+    "lat": -38.0055,
+    "lng": -57.5426,
+    "fuentes": [
+      "https://www.infobrisas.com/noticias/2026/11/15/114837-docentes-universitarios-van-al-paro-el-martes-y-jueves"
+    ],
+    "createdAt": "2026-11-17T01:39:44.000Z",
+    "updatedAt": "2026-11-17T01:45:46Z"
+  },
+  {
+    "id": "ar-2026-11-17-paro-docentes-nodocentes-unrc-rio-cuarto",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-11-17",
+    "lugar": "Universidad Nacional de Río Cuarto, Río Cuarto, Córdoba, Argentina",
+    "tipoAccion": "paro",
+    "organizaciones": [
+      "AGD (Asociación Gremial Docente)",
+      "ATURC (Asociación de Trabajadores de la Universidad Nacional de Río Cuarto)"
+    ],
+    "motivo": "Segunda jornada del paro total de actividades sin asistencia a los lugares de trabajo de docentes y nodocentes de la UNRC, convocado para el lunes 16 y el martes 17 de noviembre. La medida se enmarca en la Semana de Protesta por la Universidad y la Soberanía y reclama recomposición salarial, rechazo al ajuste presupuestario y cumplimiento de la Ley de Financiamiento Universitario. ATURC prevé además un nuevo paro para el viernes 27.",
+    "status": "en_curso",
+    "lat": -33.1232,
+    "lng": -64.3499,
+    "fuentes": [
+      "https://altoqueradio.ar/la-unrc-tendra-dos-jornadas-de-paro-este-lunes-y-martes/",
+      "https://cbahoy.com.ar/este-lunes-inicia-el-paro-docente-por-48-horas-en-la-unrc/",
+      "https://imperio987.com.ar/2026/11/16/la-unrc-tendra-dos-jornadas-de-paro-docentes-y-no-docentes-no-asistiran-los-dias-16-y-17-de-noviembre/"
+    ],
+    "createdAt": "2026-11-17T01:39:44.000Z",
+    "updatedAt": "2026-11-17T01:45:46Z"
+  },
+  {
+    "id": "ar-2026-11-17-paro-docente-universitario-nacional-conadu",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-11-17",
+    "lugar": "Universidades nacionales y preuniversitarias de todo el país, Argentina",
+    "tipoAccion": "paro",
+    "organizaciones": [
+      "CONADU",
+      "CONADU Histórica",
+      "AGD-UBA",
+      "AGD"
+    ],
+    "motivo": "Paro de docentes universitarios en el marco de la Semana de Protesta por la Universidad y la Soberanía convocada por CONADU, con jornadas de fuerza el lunes 16 y el martes 17 de noviembre. Las asociaciones de base, entre ellas AGD-UBA y AGD, adhieren al cese de actividades. Los reclamos son la recomposición salarial, el pago de la deuda salarial, la inclusión de la Ley de Financiamiento Universitario en el Presupuesto 2027 y la convocatoria a paritarias. También se prevé paro el día en que el Presupuesto 2027 se trate en la Cámara de Diputados.",
+    "status": "programado",
+    "lat": -34.6037,
+    "lng": -58.3816,
+    "fuentes": [
+      "https://www.puntal.com.ar/docentes/docentes-universitarios-volveran-al-paro-el-16-y-17-este-mes-n267760",
+      "https://www.otropunto.com.ar/rio-cuarto/unrc-paro-docentes-agd-16-17-noviembre/1534/"
+    ],
+    "createdAt": "2026-11-17T01:39:44.000Z",
+    "updatedAt": "2026-11-17T01:45:46Z"
+  },
+  {
+    "id": "ar-2026-11-17-retencion-tareas-bomberos-anac-aeropuertos",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-11-17",
+    "lugar": "Servicios de Salvamento y Extinción de Incendios (SSEI) de los 27 aeropuertos del país, Argentina",
     "tipoAccion": "paro",
     "organizaciones": [
       "ATE (Asociación Trabajadores del Estado)",
       "ATE-ANAC"
     ],
-    "motivo": "Retención de tareas en los servicios de extinción de incendios de todos los aeropuertos del país, desde este lunes 16 hasta el viernes 20 de noviembre, convocada por ATE-ANAC. La medida forma parte del plan de lucha escalonado que el gremio inició el viernes 13 con un \"paro a la japonesa\" en Ezeiza y Aeroparque y una retención de tareas del personal administrativo. Los trabajadores denuncian el congelamiento de parte de los salarios desde comienzos de 2026, la falta de paritarias sectoriales y el desfinanciamiento de las áreas operativas de la Administración Nacional de Aviación Civil. La retención en los servicios de extinción de incendios es especialmente sensible porque esa área define la categoría de protección de cada aeropuerto y condiciona las operaciones.",
+    "motivo": "Retención de tareas en los servicios de salvamento y extinción de incendios de todos los aeropuertos del país, del lunes 16 al viernes 20 de noviembre, en el marco del plan de lucha de ATE-ANAC. Para el martes 17 la medida continúa sin horarios ni guardias mínimas detalladas por el gremio. Los trabajadores reclaman la apertura de la paritaria sectorial, la actualización de salarios congelados y mayores recursos para las áreas operativas de la Administración Nacional de Aviación Civil.",
     "status": "en_curso",
     "lat": -34.8222,
     "lng": -58.5358,
     "fuentes": [
-      "https://www.ambito.com/informacion-general/aeropuertos-ezeiza-y-aeroparque-protesta-que-es-el-paro-la-japonesa-y-como-afecta-los-vuelos-n6344776",
-      "https://deeparrival.com/news/argentina-anac-fire-services-protest-november-13-20-2026",
-      "https://www.momarandu.com/notix/noticia/69867_paro-a-la-japonesa-en-argentina.htm",
-      "https://noticiasargentinas.com/politica/ate-anac-realizara-un--paro-a-la-japonesa--en-ezeiza-y-aeroparque_a6af6452e9872162574439c6b"
+      "https://www.newsdigitales.com/nota/350008/paro-de-bomberos-en-aeropuertos-del-16-al-20-de-noviembre-que-pasa-con-los-vuelos/",
+      "https://gremiar.com.ar/ate-anac-extiende-la-protesta-a-todos-los-aeropuertos-hasta-el-viernes-20-por-salarios-y-recursos/",
+      "https://www.lagaceta.com.ar/nota/1162796/sociedad/ateanac-inicia-semana-protestas-aeropuertos-todo-pais-podria-haber-demoras-complicaciones-vuelos.html",
+      "https://www.matutino.net/noticia/73557/ate-anuncio-retencion-tareas-27-aeropuertos-viernes-6-noviembre"
     ],
-    "createdAt": "2026-11-16T07:42:40.000Z",
-    "updatedAt": "2026-11-16T07:47:58Z"
+    "createdAt": "2026-11-17T01:39:44.000Z",
+    "updatedAt": "2026-11-17T01:45:46Z"
   },
   {
-    "id": "ph-2026-11-16-protesta-pax-silica-trump-manila",
+    "id": "ar-2026-11-17-marcha-justicia-victimas-poder-judicial-san-luis",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "09:00",
+    "fecha": "2026-11-17",
+    "lugar": "Poder Judicial de San Luis, San Luis, Argentina",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "Familiares de víctimas",
+      "Organizaciones sociales de San Luis"
+    ],
+    "motivo": "Movilización pacífica convocada para este martes 17 de noviembre a las 09:00 frente al Poder Judicial de San Luis para exigir respuestas y celeridad en casos de asesinatos, abusos, desapariciones e injusticias sin resolver en la provincia. Bajo el lema \"Estamos haciendo justicia por las personas asesinadas, abusadas y desaparecidas de San Luis\", los organizadores piden que las causas de las víctimas y sus familias dejen de ser ignoradas.",
+    "status": "programado",
+    "lat": -33.295,
+    "lng": -66.3356,
+    "fuentes": [
+      "https://www.radiopopularsanluis.com.ar/policiales/convocan-a-una-marcha-en-el-poder-judicial-de-san-luis-para-exigir-justicia-por-victimas-de-crimenes-abusos-y-desapariciones.htm"
+    ],
+    "createdAt": "2026-11-17T01:39:44.000Z",
+    "updatedAt": "2026-11-17T01:45:46Z"
+  },
+  {
+    "id": "fr-2026-11-17-huelga-general-manifestaciones-nacionales",
+    "seccion": "internacionales",
+    "pais": "Francia",
+    "bandera": "🇫🇷",
+    "hora": "14:00",
+    "fecha": "2026-11-17",
+    "lugar": "Marcha intersindical de Place de la Nation a Place d'Italie, París, y más de 150 manifestaciones en toda Francia",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "CGT",
+      "CFDT",
+      "FO",
+      "FSU",
+      "Solidaires",
+      "UNSA",
+      "CFE-CGC",
+      "FAFP",
+      "Union étudiante",
+      "Unef",
+      "FAGE",
+      "Union syndicale lycéenne"
+    ],
+    "motivo": "Jornada nacional de huelga y manifestaciones convocada por la intersindical de la función pública y ampliada al sector privado y a la educación, con más de 150 marchas en toda Francia. En París, la marcha partirá a las 14:00 de Place de la Nation hacia Place d'Italie, con entre 40.000 y 80.000 participantes según estimaciones policiales. Los sindicatos reclaman aumentos salariales e indexación a la inflación, mejoras para los funcionarios y respuesta a las demandas estudiantiles y de los chalecos amarillos; también se prevén paros ferroviarios y cierres de estaciones de metro.",
+    "status": "programado",
+    "lat": 48.8566,
+    "lng": 2.3522,
+    "fuentes": [
+      "https://www.franceinfo.fr/societe/manifestations/greves-dans-la-fonction-publique-mouvement-lyceen-manifestations-a-quoi-s-attendre-pour-la-mobilisation-du-17-novembre_8284415.html",
+      "https://www.sortiraparis.com/es/noticias/en-paris/articles/358270-manifestacion-del-17-de-noviembre-en-paris-el-recorrido-aprobado-este-martes",
+      "https://www.laprovence.com/article/societe/9665069062957914/greve-du-17-novembre-a-quoi-sattendre-pour-cette-nouvelle-journee-de-mobilisation",
+      "https://www.sudouest.fr/societe/greve-du-17-novembre-de-nouveaux-rassemblements-partout-en-france-ce-mardi-voici-les-points-de-rendez-vous-dans-le-sud-ouest-31550193.php",
+      "https://www.connexionfrance.com/news/unions-call-for-a-second-round-of-interprofessional-strike-action-on-november-17-what-is-expected/828372"
+    ],
+    "createdAt": "2026-11-17T01:33:48.000Z",
+    "updatedAt": "2026-11-17T01:45:46Z"
+  },
+  {
+    "id": "gr-2026-11-17-marcha-aniversario-politecnico-atenas",
+    "seccion": "internacionales",
+    "pais": "Grecia",
+    "bandera": "🇬🇷",
+    "hora": "14:30",
+    "fecha": "2026-11-17",
+    "lugar": "Politécnico de Atenas (Patission 42) y marcha hasta la Embajada de Estados Unidos en Vasilissis Sofias, Atenas; también concentraciones en Salónica",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "Estudiantes y colectivos universitarios",
+      "Sindicatos",
+      "Partidos políticos, entre ellos SYRIZA",
+      "Ciudadanos"
+    ],
+    "motivo": "Marcha anual por el 53º aniversario del levantamiento estudiantil del Politécnico de Atenas contra la dictadura militar de 1973. La concentración principal parte a las 14:30 del Politécnico y recorre Panepistimiou, Syntagma y Vasilissis Sofias hasta la Embajada de Estados Unidos; en Salónica se movilizan desde la Escuela Politécnica de la Universidad Aristóteles. Se esperan decenas de miles de participantes y un fuerte despliegue policial, con cierres de calles y estaciones de metro desde el mediodía.",
+    "status": "programado",
+    "lat": 37.9838,
+    "lng": 23.7275,
+    "fuentes": [
+      "https://gr.usembassy.gov/demonstration-alert-u-s-mission-greece-november-13-2026/",
+      "https://greekcitytimes.com/2026/11/16/polytechnic-anniversary/",
+      "https://www.tovima.com/society/athens-polytechnic-commemorations-begin-amid-traffic-restrictions/",
+      "https://www.angelsathens.gr/en/blog/events/polytechnic-17-november-athens-guide/",
+      "https://kalymnostimes.com/democracy-lives-when-people-demand-their-rights-syriza-calls-for-polytechnic-anniversary-marches/"
+    ],
+    "createdAt": "2026-11-17T01:33:48.000Z",
+    "updatedAt": "2026-11-17T01:45:46Z"
+  },
+  {
+    "id": "ph-2026-11-17-marcha-pax-silica-trump-manila",
     "seccion": "internacionales",
     "pais": "Filipinas",
     "bandera": "🇵🇭",
-    "hora": "08:00",
-    "fecha": "2026-11-16",
-    "lugar": "Liwasang Bonifacio, Manila, Filipinas (marcha prevista hacia la embajada de Estados Unidos en Roxas Boulevard)",
+    "hora": "",
+    "fecha": "2026-11-17",
+    "lugar": "Liwasang Bonifacio, Manila, con marcha prevista hacia el Philippine International Convention Center (PICC), Pasay, Filipinas",
     "tipoAccion": "movilizacion",
     "organizaciones": [
       "Bagong Alyansang Makabayan (Bayan)",
       "Anakbayan",
-      "Kilusang Magbubukid ng Pilipinas (KMP)",
-      "Anakpawis",
-      "Kabataan Partylist",
-      "All Workers Unity (AWU)",
-      "Grupos indígenas ayta, igorot, mangyan y molbog"
+      "Kilusang Mayo Uno (KMU)",
+      "Gabriela",
+      "Comunidades aeta y pueblos indígenas",
+      "Grupos estudiantiles"
     ],
-    "motivo": "Protesta de miles de personas en Liwasang Bonifacio contra la iniciativa Pax Silica liderada por Estados Unidos y la visita del presidente Donald Trump, en el marco de la 49ª Cumbre de la ASEAN. El campamento comenzó el domingo 15 y los manifestantes retomaron las acciones el lunes 16 con un programa desde las 8:00 y una marcha prevista hacia la embajada de Estados Unidos al mediodía. Reclaman la liberación de los detenidos del día anterior, la defensa de la soberanía y de las tierras ancestrales frente a los proyectos de minería y semiconductores, y el fin de la expansión militar estadounidense amparada en el EDCA. Participan agricultores, pescadores, trabajadores, estudiantes y unos 200 indígenas ayta, junto con organizaciones progresistas que denuncian que la administración de Ferdinand Marcos Jr. prioriza los intereses económicos y militares de Washington sobre los medios de vida filipinos.",
-    "status": "en_curso",
+    "motivo": "Tercer día de protestas contra la iniciativa Pax Silica y la llegada del presidente estadounidense Donald Trump a la cumbre de la ASEAN. Bagong Alyansang Makabayan convocó para este martes 17 de noviembre una concentración en Liwasang Bonifacio y una marcha hacia el PICC, sede de la cumbre, tras los enfrentamientos y las más de 300 detenciones del domingo. Los manifestantes exigen la liberación de los detenidos, la defensa de las tierras ancestrales y el fin de la expansión militar y económica estadounidense.",
+    "status": "programado",
     "lat": 14.5942,
     "lng": 120.979,
     "fuentes": [
-      "https://www.ibtimes.co.uk/manila-protests-pax-silica-us-military-expansion-1832434",
-      "https://tribune.net.ph/2026/11/16/ip-groups-protest-pax-silica-initiative-trump-visit-during-asean-summit",
-      "https://www.dzrh.com.ph/post/about-300-protesters-camp-overnight-at-liwasang-bonifacio-plan-more-demonstrations-ahead-of-asean-summit",
-      "https://www.gmanetwork.com/news/topstories/metro/1009639/groups-slam-arrests-dispersal-of-asean-summit-protesters/story/",
-      "https://www.philstar.com/pilipino-star-ngayon/bansa/2026/11/16/2570494/panoorin-mga-larawan-ni-trump-tinusok-sa-protesta-kontra-pax-silica"
+      "https://www.newsweek.com/why-donald-trumps-ai-pax-silica-project-prompted-protests-in-philippines-12722500",
+      "https://newsinfo.inquirer.net/2342166/look-protests-at-liwasang-bonifacio-continue",
+      "https://www.philstar.com/nation/2026/11/17/2570554/lawmakers-groups-slam-arrest-asean-protesters",
+      "https://www.rappler.com/philippines/pax-silica-protest-arrest-asean-opening-manila/",
+      "https://www.democracynow.org/2026/11/16/headlines/protesters_mobilize_in_manila_ahead_of_trumps_visit_to_asean_summit"
     ],
-    "createdAt": "2026-11-16T07:38:05.000Z",
-    "updatedAt": "2026-11-16T07:47:58Z"
+    "createdAt": "2026-11-17T01:33:48.000Z",
+    "updatedAt": "2026-11-17T01:45:46Z"
   },
   {
-    "id": "pt-2026-11-16-huelga-metro-sul-do-tejo-almada",
+    "id": "ma-2026-11-17-protestas-dia-mundial-perros-marruecos",
+    "seccion": "internacionales",
+    "pais": "Marruecos",
+    "bandera": "🇲🇦",
+    "hora": "12:00",
+    "fecha": "2026-11-17",
+    "lugar": "Casablanca (Place Mohammed V), Safi (Place de l'Indépendance), Marrakech y otras ciudades de Marruecos; manifestaciones coordinadas ante embajadas marroquíes en Roma, Berlín, París, Lisboa y Washington D.C.",
+    "tipoAccion": "concentracion",
+    "organizaciones": [
+      "International Animal Welfare Protection Coalition (IAWPC)",
+      "PETA",
+      "SPCA International",
+      "LNDC Animal Protection",
+      "ENPA",
+      "LAV",
+      "LEIDAA",
+      "OIPA",
+      "Save the Dogs",
+      "ANIMAL",
+      "Asociación IRHAM"
+    ],
+    "motivo": "Día Mundial de Acción contra la matanza de perros en Marruecos, coordinado por la IAWPC en vísperas del Mundial de fútbol 2030. Las protestas exigen el fin inmediato de las matanzas, envenenamientos y capturas violentas de perros callejeros y la puesta en marcha de programas nacionales de captura, esterilización, vacunación y retorno. En Marruecos se convocaron concentraciones de 12:00 a 13:00 en Casablanca, Safi y Marrakech, mientras activistas se manifiestan ante representaciones diplomáticas marroquíes en varios países.",
+    "status": "programado",
+    "lat": 33.5731,
+    "lng": -7.5898,
+    "fuentes": [
+      "https://paroledanimaux.fr/mobilisation-internationale-contre-les-massacres-des-chiens-et-des-chats-au-maroc/",
+      "https://www.corriere.it/animali/cani/26_novembre_13/cani-di-strada-sterminati-in-marocco-in-vista-dei-mondiali-di-calcio-la-denuncia-degli-animalisti-martedi-proteste-in-tutto-il-cb10f8f7-7cb6-4ff9-b5d8-42088a7e2xlk.shtml",
+      "https://www.meteoweb.eu/2026/11/mondiali-2030-proteste-in-tutto-il-mondo-contro-la-strage-di-cani-in-marocco-manifestazione-anche-in-italia/1002003936/",
+      "https://pit.nit.pt/animais/animal-protesta-contra-a-matanca-de-caes-em-marrocos",
+      "https://www.eventbrite.com/e/vigil-for-moroccos-dogs-in-washington-dc-tickets-2003982854664",
+      "https://safeabroad.com/the-week-ahead/the-week-ahead-november-16-2026/"
+    ],
+    "createdAt": "2026-11-17T01:33:48.000Z",
+    "updatedAt": "2026-11-17T01:45:46Z"
+  },
+  {
+    "id": "de-2026-11-17-huelga-bancos-privados-verdi",
+    "seccion": "internacionales",
+    "pais": "Alemania",
+    "bandera": "🇩🇪",
+    "hora": "09:00",
+    "fecha": "2026-11-17",
+    "lugar": "Commerzbank Dittrichring 7, Leipzig, con marcha al sindicato (Karl-Liebknecht-Straße 30); concentraciones paralelas en Magdeburg, Erfurt y Dresden",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "ver.di (Vereinte Dienstleistungsgewerkschaft)"
+    ],
+    "motivo": "Huelga de advertencia de tres días en los bancos privados de Sajonia, Sajonia-Anhalt y Turingia, iniciada el 16 de noviembre y convocada por ver.di. Para el martes 17 se prevén concentraciones centrales desde las 09:00 en Leipzig, Magdeburg, Erfurt y Dresden. Los trabajadores exigen un aumento del 6% de los salarios, 300 euros más para jóvenes y aprendices, y un convenio de 12 meses; rechazan la oferta patronal que no contempla aumentos hasta julio de 2027.",
+    "status": "en_curso",
+    "lat": 51.3397,
+    "lng": 12.3731,
+    "fuentes": [
+      "https://www.verdi.de/sat/presse/pressemitteilungen/drei-tage-streiks-privaten-banken-beschaeftigte-sachsen-sachsen-anhalt-und-thueringen-legen-arbeit",
+      "https://www.l-iz.de/melder/wortmelder/2026/11/drei-tage-streiks-bei-privaten-banken-beschaeftigte-in-sachsen-sachsen-anhalt-und-thueringen-legen-arbeit-ab-montag-nieder-676090",
+      "https://www.hallelife.de/nachrichten/arbeitswelt/dreitaegiger-streik-bei-privaten-banken/",
+      "https://www.presseportal.de/pm/32403/6389087",
+      "https://demopin.app/this-week"
+    ],
+    "createdAt": "2026-11-17T01:33:48.000Z",
+    "updatedAt": "2026-11-17T01:45:46Z"
+  },
+  {
+    "id": "pe-2026-11-17-paro-nacional-transportistas-carga",
+    "seccion": "internacionales",
+    "pais": "Perú",
+    "bandera": "🇵🇪",
+    "hora": "",
+    "fecha": "2026-11-17",
+    "lugar": "Carreteras y principales vías de Perú, con bloqueos y concentraciones en Casma, Chimbote, Huancavelica, Ayacucho, Cusco, Puno, Ica y Lima",
+    "tipoAccion": "paro",
+    "organizaciones": [
+      "Coordinadora Gremial de Transportistas de Carga del Perú (CGTCP)",
+      "Gremios de transportistas de Casma, Chimbote, Chiclayo, Piura y Sullana"
+    ],
+    "motivo": "Segundo día del paro nacional de 72 horas de los transportistas de carga pesada, convocado para el 16, 17 y 18 de noviembre. El gremio reclama medidas frente al alza del diésel, que pasó de unos 13 soles por galón en febrero a entre 26 y 30 soles, y denuncia que el subsidio anunciado por el Gobierno carece de partida presupuestal. También exige tarifas referenciales, control de pesos y medidas, la implementación del Observatorio del Transporte Terrestre y acciones contra la informalidad. Se prevén marchas, apagado de motores y bloqueos en varias regiones.",
+    "status": "en_curso",
+    "lat": -12.0464,
+    "lng": -77.0428,
+    "fuentes": [
+      "https://ahora.com.pe/nacional/transportistas-ratifican-paro-nacional-de-72-horas-desde-manana-por-alza-del",
+      "https://gestion.pe/peru/politica/transportistas-de-carga-pesada-anuncian-paro-de-72-horas-por-alza-del-precio-del-diesel-noticia/",
+      "https://diariouno.pe/2026/11/10/transportistas-ratifican-paro-nacional-de-72-horas-pese-a-dialogo-con-el-gobierno/",
+      "https://diariocorreo.pe/edicion/huancavelica/huancavelica-transportistas-de-carga-pesada-se-suman-a-paro-nacional-por-alza-del-combustible-noticia/",
+      "https://ancashnoticias.com/2026/11/16/ancash-paro-de-carga-pesada-pone-en-alerta-el-transito-en-la-panamericana-norte/"
+    ],
+    "createdAt": "2026-11-17T01:33:48.000Z",
+    "updatedAt": "2026-11-17T01:45:46Z"
+  },
+  {
+    "id": "pt-2026-11-17-huelga-metro-sul-do-tejo-almada",
     "seccion": "internacionales",
     "pais": "Portugal",
     "bandera": "🇵🇹",
     "hora": "04:00",
-    "fecha": "2026-11-16",
+    "fecha": "2026-11-17",
     "lugar": "Red del Metro Sul do Tejo (MTS) en Almada y Seixal, distrito de Setúbal, Portugal",
     "tipoAccion": "huelga",
     "organizaciones": [
       "SMAQ (Sindicato Nacional dos Maquinistas dos Caminhos de Ferro Portugueses)"
     ],
-    "motivo": "Inicio de una huelga total de tres días, del 16 al 18 de noviembre, convocada por el SMAQ para los trabajadores de Metro Transportes do Sul (MTS), que explota el Metro Sul do Tejo. Es la segunda huelga en menos de un mes, tras los paros del 20 al 27 de octubre. Los trabajadores reclaman la conclusión de un Acuerdo de Empresa, la reanudación efectiva de las negociaciones, el rechazo a la imposición unilateral de condiciones de trabajo, una actualización salarial intermedia y una justa valoración profesional. Los servicios mínimos solo garantizan la Línea 3 (Cacilhas-Universidad) de 7:00 a 9:00 y de 17:00 a 19:00; después, del 19 al 23 de noviembre, la huelga continuará de forma parcial en las dos últimas horas de cada turno.",
+    "motivo": "Segundo día de la huelga total de tres días convocada por SMAQ en Metro Transportes do Sul (MTS), que se extiende desde las 04:00 del 16 hasta las 04:00 del 19 de noviembre. Los maquinistas reclaman la conclusión de un Acuerdo de Empresa, la reanudación efectiva de las negociaciones, el rechazo a la imposición unilateral de condiciones laborales, una actualización salarial intermedia y una justa valorización profesional. Los servicios mínimos solo garantizan la Línea 3 (Cacilhas-Universidad) de 07:00 a 09:00 y de 17:00 a 19:00; el resto de la red permanece sin circulación.",
     "status": "en_curso",
     "lat": 38.679,
     "lng": -9.1569,
     "fuentes": [
       "https://almadaonline.pt/comeca-esta-segunda-feira-greve-de-oito-dias-no-metro-sul-do-tejo/",
-      "https://jornaleconomico.sapo.pt/noticias/trabalhadores-da-metro-transportes-do-sul-em-greve-amanha/",
-      "https://executivedigest.sapo.pt/metro-sul-do-tejo-em-greve-total-a-partir-de-hoje-tres-dias-de-perturbacoes-em-almada-e-no-seixal/"
+      "https://www.lusa.pt/economia/article/2026-11-16/48138602/greve-de-tr%C3%AAs-dias-na-metro-transportes-do-sul-arranca-com-ades%C3%A3o-massiva-sindicato",
+      "https://sapo.pt/artigo/trabalhadores-da-metro-transportes-do-sul-iniciam-hoje-greve-total-de-tres-dias-6afab3f6dc9ea92269bc62b4",
+      "https://portugalunboxed.com/2026/11/16/metro-sul-do-tejo-strike/",
+      "https://diariodistrito.sapo.pt/greve-no-metro-sul-do-tejo-afeta-almada-e-seixal/"
     ],
-    "createdAt": "2026-11-16T07:38:05.000Z",
-    "updatedAt": "2026-11-16T07:47:58Z"
+    "createdAt": "2026-11-17T01:33:48.000Z",
+    "updatedAt": "2026-11-17T01:45:46Z"
   },
   {
-    "id": "it-2026-11-16-huelga-anm-transportes-napoles",
+    "id": "lt-2026-11-17-huelga-nacional-docentes-lsdps",
     "seccion": "internacionales",
-    "pais": "Italia",
-    "bandera": "🇮🇹",
-    "hora": "11:00",
-    "fecha": "2026-11-16",
-    "lugar": "Metro Línea 1 y Línea 6, autobuses y funiculares de ANM, Nápoles, Italia",
+    "pais": "Lituania",
+    "bandera": "🇱🇹",
+    "hora": "08:00",
+    "fecha": "2026-11-17",
+    "lugar": "Escuelas y jardines de infancia de toda Lituania, con epicentro en Vilnius",
     "tipoAccion": "huelga",
     "organizaciones": [
-      "FILT-CGIL",
-      "FIT-CISL",
-      "UILT-UIL",
-      "UGL-FNA",
-      "FAISA-CISAL",
-      "USB Lavoro Privato",
-      "ORSA TPL",
-      "FAISA-Confail"
+      "LŠDPS (Lietuvos švietimo darbuotojų profesinė sąjunga / Sindicato de Trabajadores de la Educación de Lituania)"
     ],
-    "motivo": "Paro de cuatro horas del personal de ANM, de 11:00 a 15:00, que afecta a las líneas 1 y 6 del metro, los autobuses, los tranvías y los funiculares de Nápoles. Los sindicatos reclaman la revisión del premio de producción 2026/2027 en sus modalidades, criterios y cuantificación económica, mejoras económicas y paramétricas para todo el personal —en especial para los agentes de estación—, transparencia en los criterios de asignación y pago de los bonus MBO, y mejoras en seguridad, eficiencia y calidad del transporte público. Los servicios mínimos permiten las últimas salidas antes de las 11:00 y la reanudación escalonada desde las 15:05; los autobuses paran de 11:00 a 15:00 y retoman a las 15:30.",
-    "status": "programado",
-    "lat": 40.8518,
-    "lng": 14.2681,
+    "motivo": "Continúa la huelga nacional indefinida de docentes y educadores de jardines de infancia convocada por LŠDPS, iniciada el 16 de noviembre tras fracasar las negociaciones con el Gobierno sobre el aumento salarial de 2027. El sindicato exige un aumento del 10% del coeficiente salarial base frente al 7,56% propuesto por el Ejecutivo y que el salario medio docente alcance el 130% del salario medio nacional. Unos 4.000 pedagogos de 220 centros se sumaron al inicio del paro, con la expectativa de alcanzar los 10.000 afiliados, y la medida se mantendría hasta la aprobación del presupuesto en el Seimas.",
+    "status": "en_curso",
+    "lat": 54.6872,
+    "lng": 25.2797,
     "fuentes": [
-      "https://napoli.repubblica.it/cronaca/2026/11/15/news/napoli_sciopero_dei_trasporti_disagi_e_corse_saltate_per_metropolitana_bus_e_funicolari-425725986/",
-      "https://www.fanpage.it/napoli/sciopero-dei-trasporti-oggi-a-napoli-fermi-metro-bus-e-funicolari-le-fasce-di-garanzia/",
-      "https://www.napolike.com/sciopero-anm-16-novembre-2026-metro-bus-funicolari"
+      "https://www.lrt.lt/en/news-in-english/19/3116068/lithuanian-teachers-launch-nationwide-strike-over-pay-dispute",
+      "https://bns.lt/naujiena/neterminuota-streika-pradejo-apie-4-tukst-pedagogu-reikalauja-didesniu-atlyginimu-papildytas-nuotraukos-icnzmc07",
+      "https://smsm.lrv.lt/lt/naujienos-1/pranesimai-ziniasklaidai-1/kaip-organizuojamas-ugdymo-procesas-vykstant-mokytoju-streikui-0PJ7/"
     ],
-    "createdAt": "2026-11-16T07:38:05.000Z",
-    "updatedAt": "2026-11-16T07:47:58Z"
+    "createdAt": "2026-11-17T01:33:48.000Z",
+    "updatedAt": "2026-11-17T01:45:46Z"
   },
   {
-    "id": "es-2026-11-16-huelga-medica-nacional-smu",
+    "id": "es-2026-11-17-huelga-medica-nacional-smu",
     "seccion": "internacionales",
     "pais": "España",
     "bandera": "🇪🇸",
     "hora": "",
-    "fecha": "2026-11-16",
-    "lugar": "Servicios de salud de toda España (el ámbito autonómico no se aplica en Galicia y Navarra), con concentración a las 7:45 frente al Hospital Donostia, San Sebastián",
+    "fecha": "2026-11-17",
+    "lugar": "Servicios de salud de toda España (el ámbito autonómico no se aplica en Galicia y Navarra), con concentraciones y actos en varias comunidades",
     "tipoAccion": "huelga",
     "organizaciones": [
       "SMU (Sindicato Médicos Unidos)",
       "Avanza Médica Región de Murcia",
       "Asociación MIR España"
     ],
-    "motivo": "Primera de las doce jornadas de huelga nacional y autonómica convocadas por el Sindicato Médicos Unidos (SMU) entre el 16 y el 27 de noviembre para exigir la aprobación de un Estatuto del Médico, una financiación extraordinaria y finalista del Gobierno central y medidas inmediatas de las comunidades autónomas. El sindicato reclama un marco común de condiciones profesionales en todo el país, la jornada de 35 horas donde no esté implantada, plantillas suficientes para evitar la sobrecarga asistencial y la recuperación del poder adquisitivo perdido. En San Sebastián hay concentración a las 7:45 frente al Hospital Donostia y una marcha hasta Onkologikoa; el 19 de noviembre está prevista una manifestación a las 18:00 desde el Boulevard. La convocatoria no es secundada por CESM ni por los sindicatos mayoritarios, que aplazaron sus paros por la convocatoria electoral.",
+    "motivo": "Segunda jornada de las doce fechas de huelga nacional y autonómica convocadas por el Sindicato Médicos Unidos (SMU) entre el 16 y el 27 de noviembre. Los médicos exigen la aprobación de un Estatuto del Médico, financiación extraordinaria y finalista del Gobierno central, un marco común de condiciones profesionales, la jornada de 35 horas donde no esté implantada, plantillas suficientes y la recuperación del poder adquisitivo perdido. La convocatoria no es secundada por CESM ni por los sindicatos mayoritarios.",
     "status": "en_curso",
     "lat": 40.4168,
     "lng": -3.7038,
@@ -311,112 +430,16 @@
       "https://www.diariovasco.com/sociedad/salud/huelga-nuevo-sindicato-medicos-20261115000936-nt.html",
       "https://www.laopiniondemurcia.es/comunidad/2026/11/16/llaman-medicos-region-sumarse-lunes-136473275.html"
     ],
-    "createdAt": "2026-11-16T07:38:05.000Z",
-    "updatedAt": "2026-11-16T07:47:58Z"
+    "createdAt": "2026-11-17T01:33:48.000Z",
+    "updatedAt": "2026-11-17T01:45:46Z"
   },
   {
-    "id": "lt-2026-11-16-huelga-nacional-docentes-lsdps",
-    "seccion": "internacionales",
-    "pais": "Lituania",
-    "bandera": "🇱🇹",
-    "hora": "08:00",
-    "fecha": "2026-11-16",
-    "lugar": "Escuelas y jardines de infancia de toda Lituania, con epicentro en Vilnius",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "LŠDPS (Lietuvos švietimo darbuotojų profesinė sąjunga / Sindicato de Trabajadores de la Educación de Lituania)"
-    ],
-    "motivo": "Inicio de una huelga nacional indefinida de docentes y educadores de jardines de infancia, convocada por LŠDPS tras fracasar las negociaciones con el Gobierno sobre el aumento salarial de 2027. La huelga comenzó a las 8:00 y, según el sindicato, se sumaron unos 4.000 pedagogos de 220 centros, con la expectativa de alcanzar los 10.000 afiliados. Exigen un aumento del 10% del coeficiente salarial base frente al 7,56% propuesto por el Ejecutivo y medidas para que el salario medio docente alcance el 130% del salario medio nacional. La ministra de Educación, Raminta Popovienė, pidió no recurrir al paro, y el primer ministro Mindaugas Sinkevičius llamó a la moderación; el sindicato prevé mantener la medida hasta la aprobación del presupuesto en el Seimas.",
-    "status": "en_curso",
-    "lat": 54.6872,
-    "lng": 25.2797,
-    "fuentes": [
-      "https://www.lrt.lt/en/news-in-english/19/3116068/lithuanian-teachers-launch-nationwide-strike-over-pay-dispute",
-      "https://bns.lt/naujiena/neterminuota-streika-pradejo-apie-4-tukst-pedagogu-reikalauja-didesniu-atlyginimu-papildytas-nuotraukos-icnzmc07",
-      "https://smsm.lrv.lt/lt/naujienos-1/pranesimai-ziniasklaidai-1/kaip-organizuojamas-ugdymo-procesas-vykstant-mokytoju-streikui-0PJ7/"
-    ],
-    "createdAt": "2026-11-16T07:38:05.000Z",
-    "updatedAt": "2026-11-16T07:47:58Z"
-  },
-  {
-    "id": "us-2026-11-16-huelga-tribunales-san-mateo-seiu521",
-    "seccion": "internacionales",
-    "pais": "Estados Unidos",
-    "bandera": "🇺🇸",
-    "hora": "",
-    "fecha": "2026-11-16",
-    "lugar": "Tribunales del Condado de San Mateo (Redwood City, South San Francisco y San Mateo), California, Estados Unidos",
-    "tipoAccion": "huelga",
-    "organizaciones": [
-      "SEIU Local 521"
-    ],
-    "motivo": "Huelga por prácticas laborales desleales de los trabajadores del Tribunal Superior del Condado de San Mateo, anunciada para el lunes 16 de noviembre tras meses de negociación con la dirección del tribunal. El 99% de los afiliados autorizó el paro, que afecta a taquígrafos judiciales, secretarios, paralegales, contadores y asistentes judiciales. Denuncian malas prácticas laborales y negociación de mala fe, asignación de tareas fuera de su clasificación sin formación, vacantes que llegaron al 17% y una caída del 12,3% en la tasa de resolución de casos entre los ejercicios 2022-23 y 2024-25; piden mejoras salariales, más personal y respeto a las categorías. El tribunal mantendrá abiertas todas sus sedes con servicios esenciales y advirtió posibles demoras y reprogramaciones de asuntos no urgentes.",
-    "status": "programado",
-    "lat": 37.4863,
-    "lng": -122.2323,
-    "fuentes": [
-      "https://www.seiu521.org/press-release/san-mateo-county-superior-court-workers-announce-unfair-labor-practice-strike-beginning-monday-november-16",
-      "https://sanmateo.courts.ca.gov/news/san-mateo-superior-court-will-stay-open-during-anticipated-seiu-strike",
-      "https://localnewsmatters.org/2026/11/14/san-mateo-county-court-workers-prepare-for-strike-monday-as-contract-negotiations-stall/"
-    ],
-    "createdAt": "2026-11-16T07:38:05.000Z",
-    "updatedAt": "2026-11-16T07:47:58Z"
-  },
-  {
-    "id": "za-2026-11-16-protesta-march-and-march-durban",
-    "seccion": "internacionales",
-    "pais": "Sudáfrica",
-    "bandera": "🇿🇦",
-    "hora": "",
-    "fecha": "2026-11-16",
-    "lugar": "Oficinas del Departamento de Asuntos Internos en Che Guevara Road (antes Moore Road), Umbilo, Durban, KwaZulu-Natal, Sudáfrica",
-    "tipoAccion": "concentracion",
-    "organizaciones": [
-      "March and March"
-    ],
-    "motivo": "Reanudación de las protestas y el plantón del movimiento March and March frente a las oficinas de Asuntos Internos de Durban después de que expirara el 6 de noviembre la orden judicial que suspendió las manifestaciones durante el periodo electoral. El grupo, fundado en marzo de 2024 y liderado por Jacinta Ngobese-Zuma, exige la deportación de inmigrantes indocumentados, controles fronterizos más estrictos, prioridad laboral para los sudafricanos y una mayor regulación de las plataformas de reparto; la policía mantiene un despliegue reforzado y el movimiento denuncia uso excesivo de la fuerza. La Justicia impuso restricciones de rutas, horarios y prohibición de armas, y el caso volverá a los tribunales el 18 de enero de 2027. Organizaciones de derechos humanos y partidos políticos califican al movimiento de xenófobo.",
-    "status": "en_curso",
-    "lat": -29.8833,
-    "lng": 30.9833,
-    "fuentes": [
-      "https://iol.co.za/ios/news/2026-11-16-march-and-march-protests-resume-in-durban-after-court-suspension-expires/"
-    ],
-    "createdAt": "2026-11-16T07:38:05.000Z",
-    "updatedAt": "2026-11-16T07:47:58Z"
-  },
-  {
-    "id": "bd-2026-11-16-protesta-salario-confeccion-daca",
-    "seccion": "internacionales",
-    "pais": "Bangladés",
-    "bandera": "🇧🇩",
-    "hora": "",
-    "fecha": "2026-11-16",
-    "lugar": "Oficina del Consejo de Salario Mínimo en Segunbagicha, Daca, Bangladés; zonas industriales de Savar, Ashulia y Gazipur",
-    "tipoAccion": "movilizacion",
-    "organizaciones": [
-      "Coordinadora de Sindicatos de Trabajadores de Prendas y Suéteres de Bangladés",
-      "Federación Nacional de Trabajadores de Prendas (NGWF)",
-      "Representantes de los trabajadores ante el Consejo de Salario Mínimo"
-    ],
-    "motivo": "Continúan las protestas de los trabajadores de la confección por un salario mínimo digno. El lunes 16 de noviembre, mientras el Consejo de Salario Mínimo postergaba su tercera reunión —en la que los empleadores debían presentar su propuesta—, organizaciones laborales realizaron una cadena humana frente a la oficina del consejo en Segunbagicha, Daca. Los trabajadores piden elevar el salario mínimo de 12.500 a 32.000 takas (frente a los 30.000 de la demanda inicial), tras casi tres semanas de paros y cierres de fábricas en Savar, Ashulia y Gazipur; los empresarios han aplicado la cláusula de «no trabajo, no pago» y han propuesto 15.000 takas. El Gobierno formó el consejo el 1 de noviembre y la nueva escala regiría desde el 1 de diciembre.",
-    "status": "en_curso",
-    "lat": 23.739,
-    "lng": 90.414,
-    "fuentes": [
-      "https://en.prothomalo.com/bangladesh/2pkvzryts5",
-      "https://www.tbsnews.net/economy/rmg/owners-submit-minimum-wage-proposal-boards-third-meeting-today-amid-ongoing-unrest",
-      "https://www.thedailystar.net/news/bangladesh/news/nine-more-rmg-units-adopt-no-work-no-pay-4324991"
-    ],
-    "createdAt": "2026-11-16T07:38:05.000Z",
-    "updatedAt": "2026-11-16T07:47:58Z"
-  },
-  {
-    "id": "al-2026-11-16-protesta-diaria-estudiantes-tirana",
+    "id": "al-2026-11-17-protesta-diaria-estudiantes-tirana",
     "seccion": "internacionales",
     "pais": "Albania",
     "bandera": "🇦🇱",
     "hora": "",
-    "fecha": "2026-11-16",
+    "fecha": "2026-11-17",
     "lugar": "Bulevar Dëshmorët e Kombit, frente a la oficina del Primer Ministro, Tirana, Albania",
     "tipoAccion": "movilizacion",
     "organizaciones": [
@@ -424,92 +447,91 @@
       "Profesores",
       "Colectivos de la diáspora"
     ],
-    "motivo": "Las protestas consecutivas en Tirana contra el Gobierno de Edi Rama continúan el lunes 16 de noviembre, jornada 170 del movimiento. Los estudiantes y ciudadanos mantienen las concentraciones diarias frente a la oficina del Primer Ministro y las marchas de los miércoles y sábados; el 14 de noviembre la manifestación partió del Ministerio de Educación y recorrió Zogu i Zi, 21 Dhjetori y Vasil Shanto hasta el bulevar Dëshmorët e Kombit, con quema de contenedores y bloqueos de tráfico. Exigen la dimisión de Rama, un gobierno técnico de transición, reformas constitucionales y electorales, límites de mandato y la revisión de las leyes de zonas protegidas e inversiones estratégicas, y rechazan cualquier diálogo con el primer ministro. La policía desplegó unos 700 agentes y el movimiento anunció dos protestas nacionales por semana.",
+    "motivo": "Continúan las protestas diarias en Tirana contra el Gobierno de Edi Rama, que el 17 de noviembre alcanzan el día 171 del movimiento. Los estudiantes y ciudadanos mantienen las concentraciones frente a la oficina del Primer Ministro y las marchas de los miércoles y sábados, y exigen la dimisión de Rama, un gobierno técnico de transición, reformas constitucionales y electorales, límites de mandato y la revisión de las leyes de zonas protegidas e inversiones estratégicas. Rechazan cualquier diálogo con el primer ministro y denuncian la represión policial y los procesos judiciales contra manifestantes.",
     "status": "en_curso",
     "lat": 41.322,
     "lng": 19.82,
     "fuentes": [
-      "https://plurismo.org/article/student-led-protests-and-clashes-rock-albania-s-capital-amid-deepening-political-frustrations",
-      "https://www.balkanweb.com/en/On-the-169th-day-of-the-protest--citizens-gather-again-in-front-of-the-prime-minister%27s-office--demanding-Rama%27s-resignation./",
-      "https://en.ata.gov.al/2026/11/14/clashes-traffic-disruption-reported-during-student-led-protest-in-tirana/"
+      "https://en.ata.gov.al/2026/11/13/citizens-continue-protests-outside-prime-ministers-office/",
+      "https://vna.al/nuk-ndalemi-perplasje-shoqerime-dhe-thirrje-kunder-qeverise-e-rames-gjithcka-qe-ndodhi-ne-diten-e-170-te-protestes-i32022",
+      "https://albeu.com/english/day-169-of-the-protests-citizens-continue-demonstrations-outside-the-prime-ministers-office/1101720/",
+      "https://www.balkanweb.com/en/On-the-169th-day-of-the-protest--citizens-gather-again-in-front-of-the-prime-minister%27s-office--demanding-Rama%27s-resignation./"
     ],
-    "createdAt": "2026-11-16T07:38:05.000Z",
-    "updatedAt": "2026-11-16T07:47:58Z"
+    "createdAt": "2026-11-17T01:33:48.000Z",
+    "updatedAt": "2026-11-17T01:45:46Z"
   },
   {
-    "id": "fr-2026-11-16-protestas-estudiantiles-costo-vida-paris",
+    "id": "de-2026-11-17-vigilia-derechos-humanos-iran-berlin",
     "seccion": "internacionales",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
+    "pais": "Alemania",
+    "bandera": "🇩🇪",
     "hora": "",
-    "fecha": "2026-11-16",
-    "lugar": "Liceos y universidades de París y otras ciudades de Francia",
-    "tipoAccion": "movilizacion",
+    "fecha": "2026-11-17",
+    "lugar": "Platz der Republik 1, 10557 Berlín, Alemania (frente al Bundestag)",
+    "tipoAccion": "concentracion",
     "organizaciones": [
-      "Union Syndicale Lycéenne",
-      "Union étudiante",
-      "Intersindical juvenil",
-      "CGT",
-      "FSU",
-      "Solidaires",
-      "FAGE",
-      "Chalecos Amarillos"
+      "Colectivos en defensa de los derechos humanos en Irán"
     ],
-    "motivo": "Continúan las protestas estudiantiles y contra el costo de vida en Francia. El lunes 16 de noviembre, mientras el Gobierno recibía a empleadores, sindicatos y organizaciones estudiantiles, seguían los bloqueos de liceos y universidades y la policía de París prohibió hasta el 20 de noviembre las concentraciones no autorizadas a menos de 100 metros de diez liceos y cinco universidades. Desde septiembre, el movimiento por las malas condiciones de los centros, la falta de profesores y el costo de la vida se amplió a los «chalecos amarillos», estudiantes, sindicatos y grupos climáticos y de derechos de la infancia; el sábado 14 hubo unas 106.000 personas en las calles según el Ministerio del Interior, con 404 detenciones, y para el martes 17 se convocó una huelga nacional. Los manifestantes también rechazan el proyecto que presume la legítima defensa policial.",
+    "motivo": "Sentada y vigilia diaria por los derechos humanos en Irán y por una reevaluación de las relaciones diplomáticas, que se celebra todos los días del 2 de octubre al 30 de diciembre de 2026 frente al edificio del Bundestag en la Platz der Republik de Berlín. La acción, registrada ante la policía berlinesa, se desarrolla durante todo el día y se mantiene activa el 17 de noviembre.",
     "status": "en_curso",
-    "lat": 48.8566,
-    "lng": 2.3522,
+    "lat": 52.5186,
+    "lng": 13.3762,
     "fuentes": [
-      "https://www.ilkha.com/english/latest/french-students-continue-protests-despite-government-measures-568587",
-      "https://nglobenews.com/es/article/paris-police-ban-protests-schools-universities-2026-11-16/",
-      "https://www.wsws.org/en/articles/2026/11/16/wowk-n16.html",
-      "https://belgium-now.com/2026/11/16/france-protests-fifth-weekend-arrests-lyon-journalists/"
+      "https://demo-radar.de/demo/sitzstreik-und-mahnwache-fuer-menschenrechte-im-ir-2026-11-17"
     ],
-    "createdAt": "2026-11-16T07:38:05.000Z",
-    "updatedAt": "2026-11-16T07:47:58Z"
+    "createdAt": "2026-11-17T01:33:48.000Z",
+    "updatedAt": "2026-11-17T01:45:46Z"
   },
   {
-    "id": "de-2026-11-16-sentada-presos-politicos-azerbaijan-berlin",
+    "id": "de-2026-11-17-sentada-presos-politicos-azerbaijan-berlin",
     "seccion": "internacionales",
     "pais": "Alemania",
     "bandera": "🇩🇪",
     "hora": "13:00",
-    "fecha": "2026-11-16",
+    "fecha": "2026-11-17",
     "lugar": "Werderscher Markt, 10117 Berlín, Alemania",
     "tipoAccion": "concentracion",
     "organizaciones": [
       "Colectivos de la diáspora azerbaiyana y organizaciones de derechos humanos"
     ],
-    "motivo": "Acción de sentada y protesta permanente del 16 al 26 de noviembre en Werderscher Markt de Berlín para exigir la libertad de los presos políticos de Azerbaiyán. La convocatoria, registrada ante la policía de Berlín, comienza a las 13:00 y se prolonga hasta las 23:59 de cada jornada.",
-    "status": "programado",
+    "motivo": "Acción de sentada y protesta permanente del 16 al 26 de noviembre en Werderscher Markt de Berlín para exigir la libertad de los presos políticos de Azerbaiyán. La convocatoria, registrada ante la policía de Berlín, comienza a las 13:00 y se prolonga hasta las 23:59 de cada jornada; el 17 de noviembre se mantiene activa.",
+    "status": "en_curso",
     "lat": 52.5163,
     "lng": 13.395,
     "fuentes": [
       "https://demo-radar.de/demo/freiheit-fuer-die-politischen-gefangenen-in-aserba-2026-11-16"
     ],
-    "createdAt": "2026-11-16T07:38:05.000Z",
-    "updatedAt": "2026-11-16T07:47:58Z"
+    "createdAt": "2026-11-17T01:33:48.000Z",
+    "updatedAt": "2026-11-17T01:45:46Z"
   },
   {
-    "id": "de-2026-11-16-vigilia-derechos-humanos-iran-berlin",
+    "id": "it-2026-11-17-protesta-embajada-marruecos-roma",
     "seccion": "internacionales",
-    "pais": "Alemania",
-    "bandera": "🇩🇪",
-    "hora": "",
-    "fecha": "2026-11-16",
-    "lugar": "Platz der Republik 1, 10557 Berlín, Alemania",
+    "pais": "Italia",
+    "bandera": "🇮🇹",
+    "hora": "12:00",
+    "fecha": "2026-11-17",
+    "lugar": "Giardini di Piazza Trasimeno, junto a la Embajada de Marruecos, Roma, Italia",
     "tipoAccion": "concentracion",
     "organizaciones": [
-      "Colectivos en defensa de los derechos humanos en Irán"
+      "LNDC Animal Protection",
+      "Cave Canem",
+      "ENPA",
+      "LAV",
+      "LEIDAA",
+      "OIPA",
+      "Save the Dogs"
     ],
-    "motivo": "Sentada y vigilia diaria por los derechos humanos en Irán y por una reevaluación de las relaciones diplomáticas, que se celebra todos los días del 2 de octubre al 30 de diciembre de 2026 frente al edificio del Bundestag en la Platz der Republik de Berlín. La acción, registrada ante la policía berlinesa, se desarrolla durante todo el día.",
-    "status": "en_curso",
-    "lat": 52.5186,
-    "lng": 13.3762,
+    "motivo": "Concentración pacífica en Roma dentro del Día Mundial de Acción contra la matanza de perros en Marruecos, coordinado por la IAWPC. Las organizaciones animalistas italianas se reunirán a las 12:00 en los jardines de Piazza Trasimeno, junto a la Embajada de Marruecos, para exigir el fin inmediato de las matanzas, envenenamientos y capturas violentas de perros callejeros y pedir a la FIFA que intervenga ante la celebración del Mundial 2030.",
+    "status": "programado",
+    "lat": 41.9028,
+    "lng": 12.4964,
     "fuentes": [
-      "https://demo-radar.de/demo/sitzstreik-und-mahnwache-fuer-menschenrechte-im-ir-2026-11-16"
+      "https://www.corriere.it/animali/cani/26_novembre_13/cani-di-strada-sterminati-in-marocco-in-vista-dei-mondiali-di-calcio-la-denuncia-degli-animalisti-martedi-proteste-in-tutto-il-cb10f8f7-7cb6-4ff9-b5d8-42088a7e2xlk.shtml",
+      "https://www.meteoweb.eu/2026/11/mondiali-2030-proteste-in-tutto-il-mondo-contro-la-strage-di-cani-in-marocco-manifestazione-anche-in-italia/1002003936/",
+      "https://www.fanpage.it/kodami/mondiali-di-calcio-2030-proteste-in-tutto-il-mondo-contro-le-uccisioni-dei-cani-in-marocco-la-fifa-intervenga/"
     ],
-    "createdAt": "2026-11-16T07:38:05.000Z",
-    "updatedAt": "2026-11-16T07:47:58Z"
+    "createdAt": "2026-11-17T01:33:48.000Z",
+    "updatedAt": "2026-11-17T01:45:46Z"
   }
 ]
