@@ -1,393 +1,317 @@
 [
   {
-    "id": "ar-2026-11-26-movilizacion-fresu-congreso-reforma-laboral",
+    "id": "ar-2026-11-27-paro-residentes-concurrentes-caba-recomposicion-salarial",
     "seccion": "protestas_ar",
     "pais": "Argentina",
     "bandera": "🇦🇷",
-    "hora": "10:00",
-    "fecha": "2026-11-26",
-    "lugar": "Intersección de Salta y Avenida de Mayo, Ciudad Autónoma de Buenos Aires, hasta el Congreso de la Nación y la Plaza de los Dos Congresos, Argentina",
+    "hora": "",
+    "fecha": "2026-11-27",
+    "lugar": "Hospitales públicos y centros de salud de la Ciudad Autónoma de Buenos Aires, Argentina",
+    "tipoAccion": "paro",
+    "organizaciones": [
+      "Asamblea de Residentes y Concurrentes de CABA"
+    ],
+    "motivo": "Segundo día del paro de 48 horas sin guardias votado por la Asamblea de Residentes y Concurrentes de CABA para el jueves 26 y el viernes 27 de noviembre de 2026. Los residentes y concurrentes reclaman la recomposición salarial frente al 5% acordado en paritarias, mejores condiciones laborales y el rechazo al ajuste impulsado por el gobierno de Jorge Macri y Fernán Quirós, después de que la cartera sanitaria desconociera a la asamblea y amenazara con consecuencias legales.",
+    "status": "en curso",
+    "lat": -34.6037,
+    "lng": -58.3816,
+    "fuentes": [
+      "https://prensaobrera.com/sindicales/como-sigue-el-plan-de-lucha-de-la-asamblea-de-residentes-y-concurrentes-de-caba",
+      "https://www.ambito.com/informacion-general/paro-residentes-hospitales-publicos-reclaman-aumentos-salariales-y-marcharan-al-ministerio-salud-n6346611"
+    ],
+    "createdAt": "2026-11-27T04:49:19.000Z",
+    "updatedAt": "2026-11-27T04:59:49Z"
+  },
+  {
+    "id": "ar-2026-11-27-ate-iosfa-marcha-desregulacion-contratos",
+    "seccion": "protestas_ar",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "hora": "",
+    "fecha": "2026-11-27",
+    "lugar": "Ministerio de Desregulación y Transformación del Estado, Ciudad Autónoma de Buenos Aires, Argentina",
     "tipoAccion": "movilizacion",
     "organizaciones": [
-      "Frente de Sindicatos Unidos (FreSU)",
-      "Unión Obrera Metalúrgica (UOM)",
       "Asociación Trabajadores del Estado (ATE)",
-      "Federación de Trabajadores del Complejo Industrial Oleaginoso, Desmotadores de Algodón y Afines de la República Argentina (FTCIODyARA)",
-      "Luz y Fuerza",
-      "Asociación de Pilotos de Líneas Aéreas (APLA)",
-      "Confederación de Trabajadores de la Educación (CTERA)",
-      "Central de Trabajadores de la Argentina (CTA)",
-      "Central de Trabajadores de la Argentina Autónoma (CTA Autónoma)"
+      "Junta Interna de ATE en el IOSFA",
+      "trabajadores de IOSFA/OSFA de todo el país"
     ],
-    "motivo": "Movilización sindical desarrollada el jueves 26 de noviembre de 2026 contra el proyecto de reforma laboral debatido en el Senado. Las columnas se concentraron a las 10:00 en Salta y Avenida de Mayo y avanzaron hacia el Congreso y la Plaza de los Dos Congresos bajo la consigna “En pie de guerra”, con rechazo total al texto oficial. Los gremios denunciaron gases lacrimógenos, camiones hidrantes y balas de goma durante el operativo de seguridad y advirtieron que la aprobación de la ley profundizará el conflicto social.",
-    "status": "realizado",
-    "lat": -34.6087,
-    "lng": -58.387,
+    "motivo": "Paro y movilización nacional convocados por ATE para el viernes 27 de noviembre de 2026 ante el Ministerio de Desregulación, último día hábil antes del vencimiento de los contratos de los trabajadores de IOSFA/OSFA. Bajo las consignas “Ningún despido” y “Todos los puestos de trabajo se defienden”, el gremio denuncia el vaciamiento de la obra social por el DNU 1286/26, reclama continuidad laboral para unos 1.500 trabajadores y se opone al cierre de farmacias, delegaciones y centros médicos.",
+    "status": "convocada",
+    "lat": -34.6037,
+    "lng": -58.3816,
     "fuentes": [
-      "https://monitorgremial.com.ar/en-pie-de-guerra-el-frente-de-sindicatos-unidos-marcho-al-congreso-contra-la-reforma-laboral/",
-      "https://www.degremiales.com/ATE-inicio-el-paro-nacional-y-advirtio-que-la-Reforma-Laboral-pondra-en-riesgo-la-paz-social-4464"
+      "https://ate.org.ar/261120-osfa-marcha",
+      "https://www.delabahia.com.ar/ate-trabajadores-de-iosfa-convocan-a-un-paro-y-movilizacion-para-este-viernes",
+      "https://www.elmovimiento.ar/articulo/cierre-de-la-iosfa-ate-escala-plan-de-lucha-marcha-nacional-viernes-27"
     ],
-    "createdAt": "2026-11-26T13:37:31.000Z",
-    "updatedAt": "2026-11-26T22:55:57Z"
+    "createdAt": "2026-11-27T04:49:19.000Z",
+    "updatedAt": "2026-11-27T04:59:49Z"
   },
   {
-    "id": "ar-2026-11-26-paro-nacional-ate-administracion-publica",
+    "id": "ar-2026-11-27-adosac-paro-24h-santa-cruz-salarios",
     "seccion": "protestas_ar",
     "pais": "Argentina",
     "bandera": "🇦🇷",
     "hora": "",
-    "fecha": "2026-11-26",
-    "lugar": "Todo el país, Argentina",
+    "fecha": "2026-11-27",
+    "lugar": "Escuelas de toda la provincia de Santa Cruz, Argentina",
     "tipoAccion": "paro",
     "organizaciones": [
-      "Asociación Trabajadores del Estado (ATE)"
+      "Asociación Docentes de Santa Cruz (ADOSAC)"
     ],
-    "motivo": "Paro nacional de la administración pública iniciado desde la medianoche del jueves 26 de noviembre de 2026 en el marco del plan de lucha del Frente de Sindicatos Unidos contra la reforma laboral. La huelga mantiene guardias mínimas en hospitales, migraciones, recolección de residuos, controles sanitarios y organismos públicos, y se replica en las principales ciudades del país.",
-    "status": "realizado",
-    "lat": -34.6037,
-    "lng": -58.3816,
+    "motivo": "Paro docente de 24 horas en toda la provincia de Santa Cruz confirmado para el viernes 27 de noviembre de 2026 después de que la audiencia de conciliación obligatoria del jueves 26 en Río Gallegos finalizara sin ninguna propuesta salarial del Gobierno provincial. ADOSAC reclama la recuperación de la cláusula gatillo y una recomposición que saque a los docentes de la línea de pobreza, y advirtió que la falta de respuestas puede comprometer el inicio del ciclo lectivo 2027.",
+    "status": "convocada",
+    "lat": -51.6227,
+    "lng": -69.2168,
     "fuentes": [
-      "https://www.degremiales.com/ATE-inicio-el-paro-nacional-y-advirtio-que-la-Reforma-Laboral-pondra-en-riesgo-la-paz-social-4464",
-      "https://monitorgremial.com.ar/en-pie-de-guerra-el-frente-de-sindicatos-unidos-marcho-al-congreso-contra-la-reforma-laboral/"
+      "https://www.elpatagonico.com/gremio-docente-confirma-nuevo-paro-este-viernes-n6349723",
+      "https://www.eldiarionuevodia.com.ar/locales/que-sucedio-en-conciliacion-entre-adosac-y-cpe-y-que-dijo-el-gobierno-ante-aumento-de-sueldo/"
     ],
-    "createdAt": "2026-11-26T13:37:31.000Z",
-    "updatedAt": "2026-11-26T22:55:57Z"
+    "createdAt": "2026-11-27T04:49:19.000Z",
+    "updatedAt": "2026-11-27T04:59:49Z"
   },
   {
-    "id": "ar-2026-11-26-paro-nacional-aceiteros-reforma-laboral",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
+    "id": "de-2026-11-27-huelga-amazon-black-friday-verdi-11-centros",
+    "seccion": "internacionales",
+    "pais": "Alemania",
+    "bandera": "🇩🇪",
     "hora": "",
-    "fecha": "2026-11-26",
-    "lugar": "Todo el país, Argentina",
-    "tipoAccion": "paro",
-    "organizaciones": [
-      "Federación de Trabajadores del Complejo Industrial Oleaginoso, Desmotadores de Algodón y Afines de la República Argentina (FTCIODyARA)"
-    ],
-    "motivo": "Huelga nacional del complejo oleaginoso iniciada desde la medianoche del jueves 26 de noviembre de 2026 en el marco del FreSU, en rechazo al proyecto de reforma laboral debatido en el Congreso. El secretario general Daniel Yofra informó un acatamiento del 100% y advirtió que, si la ley se aprueba, habrá más conflictos.",
-    "status": "realizado",
-    "lat": -34.6037,
-    "lng": -58.3816,
-    "fuentes": [
-      "https://www.degremiales.com/Aceiteros-paran-contra-la-Reforma-Laboral-y-desafian-a-la-CIARA-Podrian-generar-mas-empleo-si-reducen-la-jornada-4465",
-      "https://monitorgremial.com.ar/en-pie-de-guerra-el-frente-de-sindicatos-unidos-marcho-al-congreso-contra-la-reforma-laboral/"
-    ],
-    "createdAt": "2026-11-26T13:37:31.000Z",
-    "updatedAt": "2026-11-26T22:55:57Z"
-  },
-  {
-    "id": "ar-2026-11-26-paro-universitario-nacional-presupuesto-2027",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "11:00",
-    "fecha": "2026-11-26",
-    "lugar": "Universidades nacionales de todo el país, Argentina",
-    "tipoAccion": "paro",
-    "organizaciones": [
-      "Federación Nacional de Docentes Universitarios (CONADU)",
-      "Asociación Gremial Docente de la Universidad de Buenos Aires (AGD-UBA)",
-      "Federación Argentina del Trabajador de las Universidades Nacionales (FATUN)",
-      "Federación de Docentes de las Universidades (FEDUN)",
-      "Frente Sindical de las Universidades Nacionales (FSUN)"
-    ],
-    "motivo": "Segundo día del paro universitario de 48 horas convocado por CONADU para el miércoles 25 y el jueves 26 de noviembre de 2026. El jueves el cese de actividades docentes comenzó a las 11:00 en facultades, colegios preuniversitarios e institutos, en rechazo al Presupuesto 2027 y en reclamo del cumplimiento de la Ley de Financiamiento Universitario.",
-    "status": "realizado",
-    "lat": -34.6037,
-    "lng": -58.3816,
-    "fuentes": [
-      "https://www.dataclave.com.ar/poder/los-universitarios-vuelven-a-la-calle--paro-docente-y-movilizacion-contra-el-presupuesto-2027_a6b06f3096c33d7491d0e7a0d",
-      "https://www.datadiario.com/sociedad/doble-jornada-de-protesta-universitarios-anunciaron-otro-paro-nacional-para-este-jueves-26-de-noviembre-202611242080",
-      "https://fi.uba.ar/noticias/26-11-cese-de-actividades-y-jornada-de-movilizacion"
-    ],
-    "createdAt": "2026-11-26T13:37:31.000Z",
-    "updatedAt": "2026-11-26T22:55:57Z"
-  },
-  {
-    "id": "ar-2026-11-26-movilizacion-universitaria-congreso-presupuesto-2027",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "13:00",
-    "fecha": "2026-11-26",
-    "lugar": "Congreso de la Nación y Plaza de los Dos Congresos, Ciudad Autónoma de Buenos Aires, Argentina",
-    "tipoAccion": "movilizacion",
-    "organizaciones": [
-      "Federación Nacional de Docentes Universitarios (CONADU)",
-      "Asociación Gremial Docente de la Universidad de Buenos Aires (AGD-UBA)",
-      "Federación Universitaria Argentina (FUA)",
-      "estudiantes, docentes y nodocentes de universidades nacionales"
-    ],
-    "motivo": "Movilización universitaria convocada para el jueves 26 de noviembre de 2026 con concentración desde las 13:00 frente al Congreso, en coincidencia con el debate del Presupuesto 2027. Los gremios rechazan los $7,7 billones previstos para el sistema universitario, frente a los $11 billones estimados por el CIN, y exigen el cumplimiento de la Ley de Financiamiento Universitario.",
-    "status": "realizado",
-    "lat": -34.6087,
-    "lng": -58.387,
-    "fuentes": [
-      "https://www.dataclave.com.ar/poder/los-universitarios-vuelven-a-la-calle--paro-docente-y-movilizacion-contra-el-presupuesto-2027_a6b06f3096c33d7491d0e7a0d",
-      "https://www.datadiario.com/sociedad/doble-jornada-de-protesta-universitarios-anunciaron-otro-paro-nacional-para-este-jueves-26-de-noviembre-202611242080",
-      "https://www.perfil.com/sociedad/la-uba-se-moviliza-contra-el-presupuesto-2027-paro-docente-y-marcha-al-congreso-aKmwN4U1Jyhn"
-    ],
-    "createdAt": "2026-11-26T13:37:31.000Z",
-    "updatedAt": "2026-11-26T22:55:57Z"
-  },
-  {
-    "id": "ar-2026-11-26-cgt-movilizacion-obras-sociales-superintendencia",
-    "seccion": "protestas_ar",
-    "pais": "Argentina",
-    "bandera": "🇦🇷",
-    "hora": "15:00",
-    "fecha": "2026-11-26",
-    "lugar": "Diagonal Norte y Bartolomé Mitre, frente a la Superintendencia de Servicios de Salud, Bartolomé Mitre al 400, Microcentro, Ciudad Autónoma de Buenos Aires, Argentina",
-    "tipoAccion": "movilizacion",
-    "organizaciones": [
-      "Confederación General del Trabajo (CGT)",
-      "Confederación Argentina de Trabajadores del Transporte (CATT)",
-      "Sindicato de Camioneros",
-      "triunvirato de conducción de la CGT (Octavio Argüello, Juan Sola y Cristian Jerónimo)"
-    ],
-    "motivo": "Concentración y acto público realizados el jueves 26 de noviembre de 2026 desde las 15:00 frente a la Superintendencia de Servicios de Salud, en reclamo de fondos para las obras sociales sindicales y contra el desfinanciamiento de la cobertura médica. La CGT presentó un petitorio formal y no convocó a un paro general.",
-    "status": "realizado",
-    "lat": -34.6076,
-    "lng": -58.3705,
-    "fuentes": [
-      "https://www.eldestapeweb.com/politica/cgt-marcha-gobierno-javier-milei-critica-situacion-obras-sociales-2026112692036",
-      "https://www.tiempoar.com.ar/ta_article/cgt-obras-sociales-sindicales/",
-      "https://www.diariojornada.com.ar/427735/politica/la_cgt_se_movilizara_este_jueves_por_las_obras_sociales"
-    ],
-    "createdAt": "2026-11-26T13:37:31.000Z",
-    "updatedAt": "2026-11-26T22:55:57Z"
-  },
-  {
-    "id": "iq-2026-11-26-manifestacion-erbil-ciudadela-shar-park",
-    "seccion": "internacionales",
-    "pais": "Irak",
-    "bandera": "🇮🇶",
-    "hora": "10:30",
-    "fecha": "2026-11-26",
-    "lugar": "Parque Shar, junto a la ciudadela de Erbil, Región del Kurdistán, Irak",
-    "tipoAccion": "movilizacion",
-    "organizaciones": [
-      "Gobernación de Erbil",
-      "partidos kurdos y organizaciones de la sociedad civil del Kurdistán"
-    ],
-    "motivo": "Manifestación masiva convocada por la gobernación de Erbil para el jueves 26 de noviembre de 2026 a las 10:30 en Shar Park, junto a la ciudadela, en apoyo a la Región del Kurdistán y en rechazo a la decisión del primer ministro iraquí Ali al-Zaidi de federalizar los pasos fronterizos y los permisos de exportación de petróleo, respaldada por la Corte Suprema Federal. AP confirmó que miles de manifestantes se congregaron con banderas kurdas frente a la ciudadela.",
-    "status": "realizado",
-    "lat": 36.1912,
-    "lng": 44.0093,
-    "fuentes": [
-      "https://accessnorthga.com/ap_article/thousands-protest-in-irbil-as-baghdad-moves-to-seize-kurdish-oil-and-border-control",
-      "https://en.964media.com/56415"
-    ],
-    "createdAt": "2026-11-26T13:33:13.000Z",
-    "updatedAt": "2026-11-26T22:55:57Z"
-  },
-  {
-    "id": "fr-2026-11-26-marcha-estudiantes-docentes-bastilla-panteon",
-    "seccion": "internacionales",
-    "pais": "Francia",
-    "bandera": "🇫🇷",
-    "hora": "14:00",
-    "fecha": "2026-11-26",
-    "lugar": "Place de la Bastille, París, Francia, hasta el Panthéon",
-    "tipoAccion": "movilizacion",
-    "organizaciones": [
-      "Interfac Île-de-France",
-      "FSU",
-      "Unsa",
-      "CGT",
-      "SUD",
-      "FO",
-      "Unef",
-      "Union étudiante",
-      "FSE",
-      "Fage",
-      "Solidaires étudiants",
-      "SUD éducation Paris",
-      "Coordination nationale lycéenne"
-    ],
-    "motivo": "Manifestación nacional de estudiantes, docentes y personal universitario convocada para el jueves 26 de noviembre de 2026, con salida a las 14:00 desde Place de la Bastille y recorrido por Rue de Lyon, Avenue Ledru-Rollin, Pont d’Austerlitz, Quai Saint-Bernard y Boulevard Saint-Michel hasta el Panthéon. Los convocantes denuncian la insuficiencia de las respuestas del gobierno, piden derogar Parcoursup y Mon Master, 150.000 plazas universitarias, un plan plurianual de contratación y más financiamiento para universidades, laboratorios y salarios; la Prefectura de Policía aprobó el recorrido.",
-    "status": "realizado",
-    "lat": 48.8532,
-    "lng": 2.3691,
-    "fuentes": [
-      "https://www.sortiraparis.com/en/news/in-paris/articles/358466-student-and-teacher-protest-in-paris-on-november-26-what-to-expect"
-    ],
-    "createdAt": "2026-11-26T13:33:13.000Z",
-    "updatedAt": "2026-11-26T22:55:57Z"
-  },
-  {
-    "id": "es-2026-11-26-huelga-educacion-cataluna-marcha-tetuan-parlament",
-    "seccion": "internacionales",
-    "pais": "España",
-    "bandera": "🇪🇸",
-    "hora": "12:30",
-    "fecha": "2026-11-26",
-    "lugar": "Plaça de Tetuan, Barcelona, Cataluña, España, hasta el Parlament de Catalunya",
+    "fecha": "2026-11-27",
+    "lugar": "11 centros logísticos de Amazon en Alemania: Leipzig, Bad Hersfeld, Dortmund, Werne, Rheinberg, Mönchengladbach, Frankenthal, Gera, Graben, Koblenz y Achim, Alemania",
     "tipoAccion": "huelga",
     "organizaciones": [
-      "Ustec·STEs",
-      "CGT Ensenyament",
-      "Intersindical",
-      "COS",
-      "CNT",
-      "Asamblea Educativa de Cataluña (AEC)",
-      "Sindicat d'Estudiants"
+      "Ver.di (Vereinte Dienstleistungsgewerkschaft)",
+      "UNI Global Union",
+      "Progressive International"
     ],
-    "motivo": "Huelga del profesorado y estudiantes de la escuela pública catalana desarrollada el jueves 26 de noviembre de 2026, con columnas desde Plaça Espanya y El Clot a las 10:30 y manifestación central a las 12:30 desde Plaça de Tetuan hasta el Parlament. Los sindicatos reclaman reabrir negociaciones, 18.000 plazas estructurales docentes y de atención educativa, reducción de ratios, cláusula salarial ligada al IPC, inversión educativa del 6% del PIB y más recursos para la escuela inclusiva; Ustec recurrió los servicios mínimos ante el TSJC.",
-    "status": "realizado",
-    "lat": 41.4036,
-    "lng": 2.1848,
+    "motivo": "Huelga de empleados de Amazon convocada por ver.di desde la madrugada del viernes 27 de noviembre de 2026 en 11 centros alemanes, la mayor convocatoria simultánea de la historia del país, en el marco del Make Amazon Pay Day de UNI Global Union y Progressive International. Exigen el reconocimiento de los convenios colectivos del comercio minorista y un acuerdo de trabajo bueno y saludable, salarios dignos y el fin de la vigilancia digital y las prácticas antisindicales.",
+    "status": "en curso",
+    "lat": 51.3397,
+    "lng": 12.3731,
     "fuentes": [
-      "https://www.infobae.com/espana/agencias/2026/11/26/nueva-jornada-de-huelga-en-la-escuela-publica-catalana-para-calibrar-el-pulso-al-govern",
-      "https://www.lavanguardia.com/vida/20261126/11693449/colectivo-docentes-llega-desinflado-hoy-segunda-huelga-curso-escolar.html?mrfcid=202611266afd9340b8fb7015570aeef7",
-      "https://www.elperiodico.com/es/sociedad/20261125/huelga-profesores-hoy-26-noviembre-cataluna-ultima-hora-directo-136610682"
+      "https://www.verdi.de/presse/pressemitteilungen/amazon-beschaeftigte-streiken-am-black-friday-elf-standorten-fuer-rechtsverbindliche-tarifvertraege",
+      "https://uniglobalunion.org/news/map26"
     ],
-    "createdAt": "2026-11-26T13:33:13.000Z",
-    "updatedAt": "2026-11-26T22:55:57Z"
+    "createdAt": "2026-11-27T04:45:25.000Z",
+    "updatedAt": "2026-11-27T04:59:49Z"
   },
   {
-    "id": "es-2026-11-26-manifestacion-bombers-generalitat-barcelona-interior",
+    "id": "kr-2026-11-27-huelga-general-educacion-no-regular-seul-asamblea",
+    "seccion": "internacionales",
+    "pais": "Corea del Sur",
+    "bandera": "🇰🇷",
+    "hora": "13:30",
+    "fecha": "2026-11-27",
+    "lugar": "Asamblea Nacional, Yeouido, Seúl, Corea del Sur, con marcha hasta la estación de Yeouido",
+    "tipoAccion": "huelga",
+    "organizaciones": [
+      "Consejo Nacional de Solidaridad de Trabajadores No Regulares de las Escuelas",
+      "Sindicato Nacional de Trabajadores Escolares No Regulares",
+      "División Nacional de Personal de Apoyo Educativo del Sindicato de Trabajadores Públicos y del Transporte de Corea",
+      "Sindicato de Mujeres Trabajadoras de Corea"
+    ],
+    "motivo": "Huelga general de 24 horas de unos 94.000 trabajadores no regulares de escuelas (comedor, cuidado, educación especial e infantil) el viernes 27 de noviembre de 2026, con mitin a las 13:30 frente a la Asamblea Nacional y marcha desde las 14:45 hasta la estación de Yeouido. Reclaman aumentos salariales, financiación educativa, presupuesto para más personal de comedores, fin de la discriminación y el pago de salarios durante las vacaciones escolares.",
+    "status": "en curso",
+    "lat": 37.5249,
+    "lng": 126.9216,
+    "fuentes": [
+      "https://en.fnnews.com/news/202611261005097027",
+      "https://news.sbs.co.kr/english/article.do?news_id=N1008837969",
+      "https://en.sedaily.com/society/2026/11/26/school-support-staff-to-strike-on-the-27th-over-pay-system"
+    ],
+    "createdAt": "2026-11-27T04:45:25.000Z",
+    "updatedAt": "2026-11-27T04:59:49Z"
+  },
+  {
+    "id": "cl-2026-11-27-copamiento-minvu-pobladores-santiago",
+    "seccion": "internacionales",
+    "pais": "Chile",
+    "bandera": "🇨🇱",
+    "hora": "11:00",
+    "fecha": "2026-11-27",
+    "lugar": "Ministerio de Vivienda y Urbanismo (MINVU), Alameda entre Serrano y Arturo Prat, Santiago, Chile",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "Movimiento Nacional de Pobladoras y Pobladores",
+      "Frente Común",
+      "Central Unitaria de Trabajadores y Trabajadoras (CUT)",
+      "Confederación de Estudiantes de Chile (Confech)",
+      "Red Nacional de Centros de Estudiantes (Renace)"
+    ],
+    "motivo": "Concentración nacional y “copamiento” del Ministerio de Vivienda convocada para el viernes 27 de noviembre de 2026 a las 11:00 por el Movimiento Nacional de Pobladoras y Pobladores. Exigen la reposición de los subsidios DS49, defender el Plan de Emergencia Habitacional, rechazar las modificaciones de la OGUC, frenar los desalojos sin solución habitacional y la renuncia del ministro Iván Poduje.",
+    "status": "convocada",
+    "lat": -33.4489,
+    "lng": -70.6693,
+    "fuentes": [
+      "https://www.chilevision.cl/noticias/nacional/calendario-de-movilizaciones-convocan-a-marchas-y-cacerolazos-ante-alza-en-el-costo-de-la-vida-y-recortes-del-gobierno",
+      "https://radionuevomundo.cl/2026/11/movimiento-nacional-de-pobladoras-y-pobladores-convoca-a-movilizacion-contra-recortes-en-vivienda-y-exige-renuncia-del-ministro-poduje/"
+    ],
+    "createdAt": "2026-11-27T04:45:25.000Z",
+    "updatedAt": "2026-11-27T04:59:49Z"
+  },
+  {
+    "id": "es-2026-11-27-marcha-docentes-madrid-atocha-puerta-del-sol",
     "seccion": "internacionales",
     "pais": "España",
     "bandera": "🇪🇸",
-    "hora": "",
-    "fecha": "2026-11-26",
-    "lugar": "Plaça Reina Maria Cristina, Barcelona, Cataluña, España, hasta la sede del Departament d'Interior i Seguretat Pública",
+    "hora": "17:00",
+    "fecha": "2026-11-27",
+    "lugar": "Estación de Atocha, Madrid, España, hasta la Puerta del Sol",
     "tipoAccion": "movilizacion",
     "organizaciones": [
-      "Bombers de la Generalitat de Catalunya"
+      "sindicatos de la enseñanza pública de la Comunidad de Madrid"
     ],
-    "motivo": "Manifestación de efectivos de los Bombers de la Generalitat desarrollada el jueves 26 de noviembre de 2026 desde la Plaça Reina Maria Cristina hacia la sede del Departament d'Interior i Seguretat Pública, con afectaciones al tráfico en la Diagonal y la Gran Via. Reclaman ampliación de plantilla, mejoras salariales y reconocimiento, equiparación con los Bombers de Barcelona, formación especializada y más recursos materiales y técnicos.",
-    "status": "realizado",
-    "lat": 41.3744,
-    "lng": 2.1495,
+    "motivo": "Manifestación de docentes de la enseñanza pública madrileña convocada para el viernes 27 de noviembre de 2026 a las 17:00 desde Atocha hasta la Puerta del Sol, en el marco de la huelga educativa indefinida iniciada el 14 de octubre. Reclaman negociación con la Consejería de Educación, reducción de ratios y horas lectivas, mejoras salariales, más recursos y menos carga burocrática.",
+    "status": "convocada",
+    "lat": 40.4065,
+    "lng": -3.6894,
     "fuentes": [
-      "https://www.catalunyapress.es/articulo/sociedad/2026-11-26/6109886-bombers-generalitat-manifiestan-barcelona-mejoras-laborales-seguridad-cuerpo"
+      "https://elfolio.es/huelga-educativa-madrid-24-noviembre-marcha-lenta-m30/"
     ],
-    "createdAt": "2026-11-26T13:33:13.000Z",
-    "updatedAt": "2026-11-26T22:55:57Z"
+    "createdAt": "2026-11-27T04:45:25.000Z",
+    "updatedAt": "2026-11-27T04:59:49Z"
   },
   {
-    "id": "gb-2026-11-26-huelga-rmt-london-underground",
+    "id": "gb-2026-11-27-huelga-rmt-underground-piquetes-londres",
     "seccion": "internacionales",
     "pais": "Reino Unido",
     "bandera": "🇬🇧",
-    "hora": "12:00",
-    "fecha": "2026-11-26",
-    "lugar": "Red de London Underground, Londres, Reino Unido",
+    "hora": "04:45",
+    "fecha": "2026-11-27",
+    "lugar": "Red de London Underground y piquetes sindicales en Londres, Reino Unido",
     "tipoAccion": "huelga",
     "organizaciones": [
       "National Union of Rail, Maritime and Transport Workers (RMT)"
     ],
-    "motivo": "Huelga de conductores del metro de Londres convocada por RMT desde las 12:00 del jueves 26 de noviembre de 2026 hasta las 11:59 del viernes 27, en el marco de la disputa sobre las propuestas revisadas de semana laboral voluntaria de cuatro días para conductores. TfL advirtió que habrá perturbaciones en todas las líneas del metro, con servicios reducidos desde las 10:00 y sin servicio en Circle Line durante todo el día.",
+    "motivo": "Segundo día de la huelga de conductores del metro de Londres convocada por RMT entre el 26 de noviembre a las 12:00 y el 27 de noviembre a las 11:59, en disputa sobre la propuesta de semana laboral voluntaria de cuatro días. Counterfire convocó un piquete a las 04:45 del viernes 27 y TfL advirtió perturbaciones en todas las líneas.",
     "status": "en curso",
     "lat": 51.5074,
     "lng": -0.1278,
     "fuentes": [
-      "https://tfl.gov.uk/info-for/media/press-releases/2026/november/tfl-advises-customers-to-plan-ahead-of-strike-action-on-the-london-underground-network",
-      "https://tfl.gov.uk/status-updates/strikes"
+      "https://www.counterfire.org/events",
+      "https://tfl.gov.uk/info-for/media/press-releases/2026/november/tfl-advises-customers-to-plan-ahead-of-strike-action-on-the-london-underground-network"
     ],
-    "createdAt": "2026-11-26T13:33:13.000Z",
-    "updatedAt": "2026-11-26T22:55:57Z"
+    "createdAt": "2026-11-27T04:45:25.000Z",
+    "updatedAt": "2026-11-27T04:59:49Z"
   },
   {
-    "id": "cl-2026-11-26-jornada-protesta-sector-publico-santiago-cut-hacienda",
+    "id": "pt-2026-11-27-huelga-maquinistas-cp-red-nacional",
     "seccion": "internacionales",
-    "pais": "Chile",
-    "bandera": "🇨🇱",
-    "hora": "11:30",
-    "fecha": "2026-11-26",
-    "lugar": "Sede Nacional de la CUT, Avenida Libertador Bernardo O'Higgins 1346, Santiago, Chile, hasta el Ministerio de Hacienda",
-    "tipoAccion": "movilizacion",
+    "pais": "Portugal",
+    "bandera": "🇵🇹",
+    "hora": "",
+    "fecha": "2026-11-27",
+    "lugar": "Red nacional de CP (Alfa Pendular, Intercidades, InterRegional, trenes regionales e internacionales y líneas suburbanas de Lisboa, Oporto y Coimbra), Portugal",
+    "tipoAccion": "huelga",
     "organizaciones": [
-      "Asociación Nacional de Funcionarios Municipales de Chile (ASEMUCH)",
-      "Mesa del Sector Público (MSP)",
-      "Central Unitaria de Trabajadores (CUT)"
+      "Sindicato de Maquinistas SMAQ"
     ],
-    "motivo": "Gran Jornada de Protesta Nacional del sector público convocada para el jueves 26 de noviembre de 2026, con marchas, banderazos, batucadas y puntos de prensa en municipios de todo Chile. En Santiago, la concentración está fijada a las 11:30 en la sede nacional de la CUT para marchar al Ministerio de Hacienda. Los gremios denuncian la dilatación de la negociación, la ausencia de ministros en las reuniones y la falta de respuestas a sus agendas laboral y económica, y reclaman un reajuste del 6,3%.",
-    "status": "realizado",
-    "lat": -33.447,
-    "lng": -70.667,
+    "motivo": "Último día de la huelga de maquinistas de CP convocada por SMAQ entre el 23 y el 27 de noviembre de 2026, con perturbaciones en Alfa Pendular, Intercidades, regionales, internacionales y urbanos de Lisboa, Oporto y Coimbra. Los trabajadores reclaman recuperar el poder adquisitivo y mejorar sus condiciones laborales.",
+    "status": "en curso",
+    "lat": 38.7223,
+    "lng": -9.1393,
     "fuentes": [
-      "https://asemuch.cl/destacamos/asemuch-convoca-a-gran-jornada-de-protesta-nacional",
-      "https://asemuch.cl/wp-content/uploads/2026/11/Comunicado-Publico-ASEMUCH-N%C2%B032-de-24-11-2026-Jornada-de-Movilizacion-Nacional.pdf",
-      "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/24/gremio-de-funcionarios-municipales-anuncian-adhesion-a-protesta-nacional-convocada-para-este-jueves.shtml"
+      "https://2portugal.app/en/news/18-11-2026-8",
+      "https://cp.pt/pt/"
     ],
-    "createdAt": "2026-11-26T13:33:13.000Z",
-    "updatedAt": "2026-11-26T22:55:57Z"
+    "createdAt": "2026-11-27T04:45:25.000Z",
+    "updatedAt": "2026-11-27T04:59:49Z"
   },
   {
-    "id": "gb-2026-11-26-protesta-umer-khalid-ministerio-justicia-londres",
+    "id": "fr-2026-11-27-manifestacion-saint-denis-solidaridad-lyceenses-palestina",
     "seccion": "internacionales",
-    "pais": "Reino Unido",
-    "bandera": "🇬🇧",
-    "hora": "11:30",
-    "fecha": "2026-11-26",
-    "lugar": "Ministry of Justice, 102 Petty France, Londres, Reino Unido",
-    "tipoAccion": "movilizacion",
-    "organizaciones": [
-      "Palestine Pulse",
-      "Free Umer Khalid"
-    ],
-    "motivo": "Protesta de emergencia convocada el jueves 26 de noviembre de 2026 a las 11:30 frente al Ministerio de Justicia en Londres para exigir la libertad de Umer Khalid y denunciar su situación judicial en el marco de la solidaridad con Palestina.",
-    "status": "realizado",
-    "lat": 51.4975,
-    "lng": -0.1395,
-    "fuentes": [
-      "https://www.findaprotest.info/event/london/evt-blk-65c31ac0b21192b6",
-      "https://www.findaprotest.info/uk/london"
-    ],
-    "createdAt": "2026-11-26T22:47:16.000Z",
-    "updatedAt": "2026-11-26T22:55:57Z"
-  },
-  {
-    "id": "gb-2026-11-26-protesta-palantir-nhs-departamento-salud-londres",
-    "seccion": "internacionales",
-    "pais": "Reino Unido",
-    "bandera": "🇬🇧",
+    "pais": "Francia",
+    "bandera": "🇫🇷",
     "hora": "18:00",
-    "fecha": "2026-11-26",
-    "lugar": "Department of Health and Social Care, 39 Victoria Street, Londres, Reino Unido",
+    "fecha": "2026-11-27",
+    "lugar": "Plaza de la alcaldía, Saint-Denis, Seine-Saint-Denis, Francia",
     "tipoAccion": "movilizacion",
     "organizaciones": [
-      "Palestine Solidarity Campaign",
-      "trabajadores de la salud"
+      "SUD éducation 93",
+      "Union syndicale Solidaires Seine-Saint-Denis",
+      "Collectif national pour une paix juste et durable entre Palestiniens et Israéliens"
     ],
-    "motivo": "Protesta convocada el jueves 26 de noviembre de 2026 a las 18:00 frente al Departamento de Salud en Londres, en el marco de un día de acción laboral, para exigir que el gobierno termine los contratos con Palantir y lo retire del NHS por su complicidad en la situación en Palestina.",
-    "status": "realizado",
-    "lat": 51.4979,
-    "lng": -0.1347,
+    "motivo": "Manifestación convocada el viernes 27 de noviembre de 2026 a las 18:00 desde la plaza de la alcaldía de Saint-Denis en apoyo a las reivindicaciones lycéennes y contra la represión, en el marco de la jornada nacional de movilización por la paz en Palestina convocada por el Collectif national pour une paix juste et durable entre Palestiniens et Israéliens.",
+    "status": "convocada",
+    "lat": 48.9362,
+    "lng": 2.3575,
     "fuentes": [
-      "https://palestinecampaign.org/events/palantir-out-of-the-nhs-now-protest-for-palestine/",
-      "https://www.findaprotest.info/uk/london"
+      "https://mavigilance.fr/agenda/",
+      "https://solidaires93.org/agenda-du-mouvement-social-automne-2026/"
     ],
-    "createdAt": "2026-11-26T22:47:16.000Z",
-    "updatedAt": "2026-11-26T22:55:57Z"
+    "createdAt": "2026-11-27T04:45:25.000Z",
+    "updatedAt": "2026-11-27T04:59:49Z"
   },
   {
-    "id": "mx-2026-11-26-marcha-ayotzinapa-angel-independencia-cdmx",
+    "id": "fr-2026-11-27-rassemblement-palestina-jean-jaures-toulouse",
     "seccion": "internacionales",
-    "pais": "México",
-    "bandera": "🇲🇽",
-    "hora": "16:00",
-    "fecha": "2026-11-26",
-    "lugar": "Ángel de la Independencia, Ciudad de México, México, hasta el Hemiciclo a Juárez",
+    "pais": "Francia",
+    "bandera": "🇫🇷",
+    "hora": "18:00",
+    "fecha": "2026-11-27",
+    "lugar": "Place Jean-Jaurès, Toulouse, Francia",
     "tipoAccion": "movilizacion",
     "organizaciones": [
-      "Madres y padres de los 43 normalistas de Ayotzinapa",
-      "Estudiantes de la Escuela Normal Rural Raúl Isidro Burgos de Ayotzinapa",
-      "Sindicato Mexicano de Electricistas"
+      "CGT Haute-Garonne",
+      "Démosphère"
     ],
-    "motivo": "146 Acción Global por Ayotzinapa y México realizada el jueves 26 de noviembre de 2026, con concentración a las 16:00 en el Ángel de la Independencia y marcha al Hemiciclo a Juárez, para exigir verdad, justicia y castigo a los responsables de la desaparición de los 43 estudiantes normalistas.",
-    "status": "realizado",
-    "lat": 19.427,
-    "lng": -99.1677,
+    "motivo": "Rassemblement por la Palestina convocado el viernes 27 de noviembre de 2026 a las 18:00 en la place Jean-Jaurès de Toulouse, en el inicio de las jornadas de movilización de los días 27, 28 y 29 de noviembre convocadas en toda Francia por el Collectif national pour une paix juste et durable entre Palestiniens et Israéliens.",
+    "status": "convocada",
+    "lat": 43.6047,
+    "lng": 1.4619,
     "fuentes": [
-      "https://24-horas.mx/cdmx/marcha-accion-global-ayotzinapa-protestas-cdmx-hoy-26-noviembre-2026/",
-      "https://www.nmas.com.mx/ciudad-de-mexico/movilidad/marchas/ruta-marcha-ayotzinapa-hoy-jueves-26-de-noviembre-2026-cdmx-zona-calles-cerradas"
+      "https://radarmanif.fr/",
+      "https://www.actu-alt-plus.com/idees-solutions/manifestation-toulouse-28-novembre-2026-heure-lieu/44817/"
     ],
-    "createdAt": "2026-11-26T22:47:16.000Z",
-    "updatedAt": "2026-11-26T22:55:57Z"
+    "createdAt": "2026-11-27T04:45:25.000Z",
+    "updatedAt": "2026-11-27T04:59:49Z"
+  },
+  {
+    "id": "au-2026-11-27-protesta-adelaide-universidad-aicc",
+    "seccion": "internacionales",
+    "pais": "Australia",
+    "bandera": "🇦🇺",
+    "hora": "11:15",
+    "fecha": "2026-11-27",
+    "lugar": "InterContinental Adelaide, North Terrace, Adelaida, Australia del Sur",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "Readers and Writers Against the Genocide AU"
+    ],
+    "motivo": "Protesta frente al almuerzo de la Australia-Israel Chamber of Commerce en el InterContinental de Adelaida, convocada para el viernes 27 de noviembre de 2026 a las 11:15, para denunciar la implicación de la Universidad de Adelaida en el evento y exigir el fin de los vínculos de la institución con Israel.",
+    "status": "convocada",
+    "lat": -34.9207,
+    "lng": 138.5997,
+    "fuentes": [
+      "https://www.greenleft.org.au/events",
+      "https://www.findaprotest.info/australia/south-australia/adelaide"
+    ],
+    "createdAt": "2026-11-27T04:45:25.000Z",
+    "updatedAt": "2026-11-27T04:59:49Z"
+  },
+  {
+    "id": "in-2026-11-27-proyeccion-make-amazon-pay-hyderabad",
+    "seccion": "internacionales",
+    "pais": "India",
+    "bandera": "🇮🇳",
+    "hora": "",
+    "fecha": "2026-11-27",
+    "lugar": "Hyderabad, Telangana, India",
+    "tipoAccion": "movilizacion",
+    "organizaciones": [
+      "UNI Global Union",
+      "Progressive International",
+      "trabajadores de Amazon"
+    ],
+    "motivo": "Proyección de vídeo “Make Amazon Fair” en Hyderabad el Black Friday, 27 de noviembre de 2026, como parte del Make Amazon Pay Day global de UNI Global Union y Progressive International. Trabajadores de Estados Unidos, India y el Reino Unido piden a los consumidores que exijan dignidad y respeto en el trabajo, salarios justos, seguridad, derechos sindicales y tributación justa de Amazon.",
+    "status": "convocada",
+    "lat": 17.385,
+    "lng": 78.4867,
+    "fuentes": [
+      "https://uniglobalunion.org/news/map26"
+    ],
+    "createdAt": "2026-11-27T04:45:25.000Z",
+    "updatedAt": "2026-11-27T04:59:49Z"
   }
 ]
